@@ -1,0 +1,296 @@
+0     exclude   10
+0     tempo     88 pm
+0     velocity  64
+0     relative
+0     frequency 256
+0     division  100
+0     equal     12
+
+0     track 1
+0     program 56
+
+0     note 7 100
+0     note 7 150
+0     note 4 50
+0     note 4 100
+0     note 7 100
+0     note 7 150
+0     note 2 50
+0     note 2 100
+0     note 4 100
+0     note 5 100
+0     note 7 100
+0     note 9 100
+0     note 11 100
+0     note 7 300
+
+
+0     note 7 100
+0     note 7 150
+0     note 4 50
+0     note 4 100
+0     note 7 100
+0     note 7 150
+0     note 2 50
+0     note 2 100
+0     note 14 100
+0     note 13 100
+0     note 14 100
+0     note 16 100
+0     note 12 100
+0     note 17 300
+
+0     note 7 100
+0     note 16 150
+0     note 16 50
+0     note 14 100
+0     note 12 100
+0     note 12 150
+0     note 11 50
+0     note 11 100
+0     note 12 100
+0     note 14 100
+0     note 11 100
+0     note 9 100
+0     note 7 100
+0     note 12 300
+
+0     note 12 100
+0     note 12 150
+0     note 9 50
+0     note 9 100
+0     note 12 100
+0     note 12 150
+0     note 7 50
+0     note 7 100
+0     note 7 100
+0     note 9 100
+0     note 12 100
+0     note 7 100
+0     note 14 100
+0     note 12 300
+
+
+
+
+
+
+
+0     track 2
+0     program 60
+
+0     note 4 100
+0     note 4 150
+0     note 0 50
+0     note 0 100
+0     note 4 100
+0     note 2 150
+0     note -1 50
+0     note -1 100
+0     note -1 100
+0     note 2 100
+0     note 2 100
+0     note 5 100
+0     note 5 100
+0     note 4 200
+0     note 5 100
+
+0     note 2 100
+0     note 4 150
+0     note 0 50
+0     note 0 100
+0     note 4 100
+0     note 2 150
+0     note 2 50
+0     note 2 100
+0     note 7 100
+0     note 7 100
+0     note 7 100
+0     note 6 100
+0     note 6 100
+0     note 7 100
+0     note 6 100
+0     note 5 100
+
+0     note 7 100
+0     note 7 150
+0     note 7 50
+0     note 7 100
+0     note 4 100
+0     note 5 150
+0     note 7 50
+0     note 7 100
+0     note 7 100
+0     note 7 100
+0     note 7 100
+0     note 5 100
+0     note 5 100
+0     note 4 200
+0     note 5 100
+
+0     note 7 100
+0     note 5 150
+0     note 5 50
+0     note 5 100
+0     note 5 100
+0     note 4 150
+0     note 4 50
+0     note 4 100
+0     note 7 100
+0     note 9 100
+0     note 12 100
+0     note 7 100
+0     note 5 100
+0     note 4 300
+
+
+
+
+
+
+0     track 3
+0     program 60
+
+0     note 0 100
+0     note 0 150
+0     note -5 50
+0     note -5 100
+0     note 0 100
+0     note -1 150
+0     note -5 50
+0     note -5 100
+0     note -5 100
+0     note -1 100
+0     note -1 100
+0     note 2 100
+0     note 2 100
+0     note 0 100
+0     note -1 100
+0     note -1 100
+
+0     note -1 100
+0     note 0 150
+0     note -5 50
+0     note -5 100
+0     note -3 100
+0     note -1 150
+0     note -1 50
+0     note -1 100
+0     note -1 100
+0     note -2 100
+0     note -1 100
+0     note 0 100
+0     note 0 100
+0     note -1 100
+0     note 0 100
+0     note 2 100
+
+0     note -5 100
+0     note -5 150
+0     note -8 50
+0     note -8 100
+0     note 0 100
+0     note 2 150
+0     note 2 50
+0     note 2 100
+0     note 0 100
+0     note -1 100
+0     note -1 100
+0     note 0 100
+0     note 2 100
+0     note 0 100
+0     note -5 100
+0     note -3 100
+
+0     note -2 100
+0     note -3 150
+0     note -3 50
+0     note -3 100
+0     note -3 100
+0     note -5 150
+0     note 0 50
+0     note 0 100
+0     note -5 100
+0     note -3 100
+0     note 0 100
+0     note -5 100
+0     note -1 100
+0     note 0 300
+
+
+0     track 4
+0     program 60
+
+0     note -12 100
+0     note -12 150
+0     note -12 50
+0     note -12 100
+0     note -17 100
+0     note -10 150
+0     note -10 50
+0     note -10 100
+0     note -17 100
+0     note -10 100
+0     note -10 100
+0     note -17 100
+0     note -17 100
+0     note -12 100
+0     note -11 100
+0     note -10 100
+
+0     note -17 100
+0     note -12 150
+0     note -12 50
+0     note -12 100
+0     note -15 100
+0     note -10 150
+0     note -10 50
+0     note -10 100
+0     note -10 100
+0     note -10 100
+0     note -10 100
+0     note -10 100
+0     note -10 100
+0     note -5 100
+0     note -3 100
+0     note -1 100
+
+0     note -5 100
+0     note -5 150
+0     note -8 50
+0     note -8 100
+0     note -5 100
+0     note -5 150
+0     note -10 50
+0     note -10 100
+0     note -8 100
+0     note -7 100
+0     note -5 100
+0     note -3 100
+0     note -1 100
+0     note 0 100
+0     note -12 200
+
+0     note -12 100
+0     note -7 150
+0     note -7 50
+0     note -7 100
+0     note -10 100
+0     note -5 150
+0     note -5 50
+0     note -5 100
+0     note -5 100
+0     note -3 100
+0     note 0 100
+0     note -5 100
+0     note -17 100
+0     note -12 300
+
+
+
+
+
+
+
+
+

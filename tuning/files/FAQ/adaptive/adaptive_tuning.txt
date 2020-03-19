@@ -1,0 +1,102 @@
+
+Rev 2 of FAQ: what is adaptive tuning?
+
+
+
+As always, comments and/or replacement entries are welcome.
+
+=====================================================================
+
+Adaptive tuning (also called dynamic tuning) is the process of modifying
+the tuning of pitches as a piece is played, to best suit the intervals 
+and chords at each moment.  Usually the goal it to achieve, or at least
+approach, some form of Just Intonation (JI).
+
+There are many choices to be made when approaching adaptive tuning:
+
+   . Fixed Adaptive Tuning (FAT) vs. Variable Adaptive Tuning (VAT).
+     See below for an explanation of this distinction.
+
+   . Method of making tuning choices: performer vs. computer program.
+
+   . Real-time adaptive tuning vs. "leisure" tuning, with the latter 
+     able to make choices based on an entire work, and the former able
+     to see only the past and present.
+
+   . The particular tuning targeted: 5-limit JI, 7-limit JI, etc.
+
+   . Whether exact JI intervals are mandated, or whether, for the sake
+     of reducing the retuning of notes continuously sounding, intervals
+     may deviate somewhat from exact JI.
+
+   . Whether "drift", the tendency of the overall absolute tuning to 
+     change progressively over time, is to be allowed, or is to be 
+     forbidden.  
+
+FAT achieves adaptive tuning by making dynamic use of a fixed set of
+available pitches, almost always on a keyboard instrument.  The number 
+of possible pitches is usually determined by the number of physical keys
+available to the player.  This has the advantage of giving the artist 
+complete control over the adaptive tuning used, at the expense of 
+limiting to some extent the range of what can be done.
+
+A method for FAT was first described by Nicola Vicentino in 1555 and 
+implemented on his special harpsichord and organ.  One keyboard manual 
+consists of 19 consecutive fifths tuned to 1/4 comma meantone; the other
+corrects for flat meantone fifths (and minor thirds) by being tuned 1/4 
+syntonic comma (5.38 cents) higher.  For more information, see [Margo's 
+entry].
+
+VAT means that there is a continuous gradation of possible tunings for
+a given pitch.  VAT can be produced by some acoustic instruments, by the
+human voice, and by many electronic instruments.  Barbershop singing 
+makes heavy use of VAT, and to some extent, so do jazz and blues singing
+and playing.  More recently, there have been experiments with retuning 
+programs that apply VAT to real-time playing and/or to MIDI files.
+
+The challenges of adaptive tuning are easily illustrated: consider the
+sequence C->A->D->G->C, either with bare notes or with the chords Cmaj,
+Amin, Dmin, Gmaj, Cmaj.  The ideal tunings for the four sequential
+intervals are 5:6, 4:3, 4:3, 4:3, but the product of these, corrected
+for octave, is 80:81, the famous (or infamous) syntonic comma.  One way
+to deal with this challenge is to let the absolute tuning "drift" over
+time, in this case downward by about 1/5 semitone each time the sequence
+is played.  Over the course of a reasonably long piece, drift of this
+sort can easily amount to a large fraction of an octave, if not more.
+There is a school which accepts such drift in order never to compromise 
+simultaneous intervals or retune sounding notes.  If drift is considered
+unacceptable, however, then difficult choices have to be made, at least 
+in modifying the tuning of notes which are continuously sounding, and 
+(optionally) in compromising to some extent the tuning of intervals.
+
+Real-time adaptive tuning by program is superior to leisure tuning in
+that one need not wait for the results: as a piece is played, it is 
+tuned.  However, since chord transitions often involve a several
+milliseconds of overlap, not to mention slight arpeggiation of the new
+chord, a real-time program can easily become confused and make bad 
+choices that have to be corrected with painful motion of notes already 
+sounding.  This difficulty is particularly intense when tuning targets
+7 or higher limits, in which tuning deviations are much greater than in 
+5-limit music.
+
+At least one commercial program is available for real-time VAT (see link
+below), and at least one list member has dabbled in leisure VAT of MIDI 
+files.  The field of adaptive tuning is still in its infancy, however, 
+and many refinements have yet to be made.  Also, there is a great deal 
+of controversy regarding what target adaptive tunings (if any) are 
+suitable, or appropriate, for works of past masters.
+
+For further information:
+
+   Commercial real-time adaptive tuning:
+
+      http://www.justonic.com/
+
+   Experimental leisure adaptive tuning:
+
+      http://www.adaptune.com
+
+   A real-time, computer controlled FAT piano:
+
+      http://tigger.cc.wmich.edu/~code/groven/
+

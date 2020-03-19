@@ -1,0 +1,10 @@
+File information for Cantus Firmus in Alto
+File:	Cantus Firmus in Alto.nwc
+Saved:	12 June 2006.  
+Note:	Example of how to harmonise the tune CCEGEDC
+	for Stephen Szpak on the MMM list.
+	JI: 1/1, 9/8, 5/4, 4/3, 45/32, 3/2, 5/3, 7/4, 15/8, 2/1, or
+	0, 204, 386, 498, 590, 702, 884, 969, 1088, 1200 c,
+	for notes C D E F F# G A Bb B C.  Pitch bend values are:
+	0, 328, -1147, -164, -819, 164, -1310, -901, -983, 0.
+	(NoteWorthy Composer retunes by 1/8192 semitone.)

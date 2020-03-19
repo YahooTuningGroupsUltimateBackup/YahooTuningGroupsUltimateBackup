@@ -1,0 +1,27 @@
+C:\JC\95\BGE.EXE -i SYM2.mid -o SYM2cr7.mid -g equal.tun just7.tun -c x x x x x x x x x x x x x x
+Didn't have to drop any notes; used 14 channels.
+12-tET                spring pain:     4808000.641
+Werckmeister III      spring pain:     3894990.784
+Kirnberger III        spring pain:     3894984.003
+Thomas Young          spring pain:     3912755.844
+31 from Abb to C  :   spring pain:    20919640.494
+31 from Ebb to G  :   spring pain:    20845189.914
+31 from Bbb to D  :   spring pain:    17786626.014
+31 from Fb  to A  :   spring pain:    10858392.789
+31 from Cb  to E  :   spring pain:     6968948.335
+31 from Gb  to B  :   spring pain:     5082576.846
+31 from Db  to F# :   spring pain:     4295797.504
+31 from Ab  to C# :   spring pain:     4943318.029
+31 from Eb  to G# :   spring pain:     5774025.058
+31 from Bb  to D# :   spring pain:     7579792.465
+31 from F   to A# :   spring pain:    11549648.188
+31 from C   to E# :   spring pain:    16806886.589
+31 from G   to B# :   spring pain:    20919640.494
+31 from D   to F##:   spring pain:    20845189.914
+31 from A   to C##:   spring pain:    17786626.014
+COFT Total            spring pain:     3465914.669
+After relaxing, Total spring pain:      589119.813
+   Final vertical     spring pain:      154146.983 (strength       51983.802)
+   Final horizontal   spring pain:      134967.495 (strength      266849.905)
+   Final grounding    spring pain:      300005.335 (strength       20122.993)
+Bend range applied: -24.2089 to  18.3678

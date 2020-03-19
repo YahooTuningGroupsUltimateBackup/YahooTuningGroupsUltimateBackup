@@ -1,0 +1,589 @@
+Index: src/GUI/GUI.cc
+===================================================================
+--- src/GUI/GUI.cc	(revision 427)
++++ src/GUI/GUI.cc	(working copy)
+@@ -240,6 +240,10 @@
+ //	list_file.push_back (MenuElem("_Save Bank","<control>S", mem_fun(*this, &GUI::bank_save)));
+ 	list_file.push_back (MenuElem("_Save Bank As...",Gtk::AccelKey("<control>S"), mem_fun(*this, &GUI::bank_save_as)));
+ 	list_file.push_back (SeparatorElem());
++	list_file.push_back (MenuElem("Open Alternate Tuning File", mem_fun(*this, &GUI::scale_open)));
++	list_file.push_back (MenuElem("Open Alternate Keyboard Map", mem_fun(*this, &GUI::key_map_open)));
++	list_file.push_back (MenuElem("Reset All Tuning Settings to Default", mem_fun(*this, &GUI::tuning_reset)));
++	list_file.push_back (SeparatorElem());
+ 	list_file.push_back (MenuElem("_Quit",Gtk::AccelKey("<control>Q"), bind(mem_fun(this, &GUI::event_handler),(int)evQuit)));
+ 	
+ 	
+@@ -870,6 +874,67 @@
+ 	}
+ }
+ 
++void
++GUI::scale_open		( )
++{
++	FileChooserDialog dlg (*this, "Open Scala (.scl) alternate tuning file...", FILE_CHOOSER_ACTION_OPEN);
++	dlg.add_button(Stock::CANCEL, RESPONSE_CANCEL);	dlg.add_button("Select", RESPONSE_OK);
++
++	FileFilter filter;
++	filter.set_name("Scala scale files");
++	filter.add_pattern("*.[Ss][Cc][Ll]");
++	dlg.add_filter(filter);
++
++	if (dlg.run() == RESPONSE_OK)
++	{
++		dlg.hide();
++		int error = vau->loadScale(dlg.get_filename());
++		if (error)
++		{
++			MessageDialog msg(*this, "Failed to load new tuning.");
++			msg.set_secondary_text("Reading the tuning file failed for some reason. \
++Make sure your file has the correct format and try again.");
++			msg.run();
++		}
++	}
++}
++
++void
++GUI::key_map_open	( )
++{
++	FileChooserDialog dlg (*this, "Open alternate keybord map (Scala .kbm format)...", FILE_CHOOSER_ACTION_OPEN);
++	dlg.add_button(Stock::CANCEL, RESPONSE_CANCEL);	dlg.add_button("Select", RESPONSE_OK);
++
++	FileFilter filter;
++	filter.set_name("Scala keyboard map files");
++	filter.add_pattern("*.[Kk][Bb][Mm]");
++	dlg.add_filter(filter);
++
++	if (dlg.run() == RESPONSE_OK)
++	{
++		dlg.hide();
++		int error = vau->loadKeyMap(dlg.get_filename());
++		if (error)
++		{
++			MessageDialog msg(*this, "Failed to load new keyboard map.");
++			msg.set_secondary_text("Reading the keyboard map file failed for some reason. \
++Make sure your file has the correct format and try again.");
++			msg.run();
++		}
++	}
++}
++
++void
++GUI::tuning_reset	( )
++{
++	MessageDialog dlg (*this, "Discard the current scale and keyboard map?");
++
++	if (dlg.run() == RESPONSE_OK)
++	{
++		vau->defaultTuning();
++	}
++}
++
+ static gchar *which(gchar *command)
+ {
+ 	gint exit_status = -1;
+Index: src/GUI/GUI.h
+===================================================================
+--- src/GUI/GUI.h	(revision 427)
++++ src/GUI/GUI.h	(working copy)
+@@ -81,6 +81,10 @@
+ 	void		bank_open		( );
+ 	void		bank_save_as		( );
+ 
++	void		scale_open		( );
++	void		key_map_open		( );
++	void		tuning_reset		( );
++
+ 	int		command_exists		(const char *command);
+ 	void		command_run		(const char *command);
+ 	
+Index: src/TuningMap.cc
+===================================================================
+--- src/TuningMap.cc	(revision 0)
++++ src/TuningMap.cc	(revision 0)
+@@ -0,0 +1,282 @@
++/* amSynth
++ * (c) 2001-2005 Nick Dowell
++ */
++
++#include <cassert>
++#include <cmath>
++#include <fstream>
++#include <iostream>
++#include <sstream>
++
++#include "TuningMap.h"
++
++using namespace std;
++
++TuningMap::TuningMap		()
++{
++	defaultScale();
++	defaultKeyMap();
++}
++
++void
++TuningMap::defaultScale		()
++{
++	scaleDesc = "12-per-octave equal temperament (default)";
++	scale.clear();
++	for (int i = 1; i <= 12; ++i)
++		scale.push_back(pow(2., i/12.));
++	updateBasePitch();
++}
++
++void
++TuningMap::defaultKeyMap	()
++{
++	zeroNote = 0;
++	refNote = 69;
++	refPitch = 440.;
++	mapRepeatInc = 1;
++	mapping.clear();
++	mapping.push_back(0);
++	updateBasePitch();
++}
++
++void
++TuningMap::updateBasePitch	()
++{
++	if (mapping.empty())
++		return; // must be just initializing
++	basePitch = 1.;
++	basePitch = refPitch / noteToPitch(refNote);
++	// Clever, huh?
++}
++
++double
++TuningMap::noteToPitch		(int note) const
++{
++	assert(note >= 0 && note < 128);
++	assert(!mapping.empty());
++
++	int mapSize = mapping.size();
++
++	int nRepeats = (note - zeroNote) / mapSize;
++	int mapIndex = (note - zeroNote) % mapSize;
++	if (mapIndex < 0)
++	{
++		nRepeats -= 1;
++		mapIndex += mapSize;
++	}
++
++	if (mapping[mapIndex] < 0)
++		return -1.; // unmapped note
++
++	int scaleDegree = nRepeats * mapRepeatInc + mapping[mapIndex];
++
++	int scaleSize = scale.size();
++
++	int nOctaves = scaleDegree / scaleSize;
++	int scaleIndex = scaleDegree % scaleSize;
++	if (scaleIndex < 0)
++	{
++		nOctaves -= 1;
++		scaleIndex += scaleSize;
++	}
++
++	if (scaleIndex == 0)
++		return basePitch * pow(scale[scaleSize - 1], nOctaves);
++	else
++		return basePitch * pow(scale[scaleSize - 1], nOctaves) * scale[scaleIndex - 1];
++}
++
++// Convert a single line of a Scala scale file to a frequency relative to 1/1.
++double
++parseScalaLine(const string & line)
++{
++	istringstream iss(line);
++	if (line.find('.') == string::npos)
++	{ // treat as ratio
++		long n, d;
++		char slash;
++		iss >> n >> slash >> d;
++		if (iss.fail() || slash != '/' || n <= 0 || d <= 0)
++		{
++			return -1;
++		}
++		return (double) n / d;
++	}
++	else
++	{ // treat as cents
++		double cents;
++		iss >> cents;
++		if (iss.fail())
++		{
++			return -1;
++		}
++		return pow(2., cents/1200.);
++	}
++}
++
++int
++TuningMap::loadScale		(const string & filename)
++{
++	ifstream file(filename.c_str());
++	string line;
++
++	string newScaleDesc;
++	bool gotDesc = false;
++	int scaleSize = -1;
++	vector<double> newScale;
++
++	while (!file.eof())
++	{
++		getline(file, line);
++		unsigned i = 0;
++		while (i < line.size() && isspace(line[i])) ++i;
++		if (i == line.size()) continue;	// skip all-whitespace lines
++		if (line[i] == '!') continue;	// skip comment lines
++		if (!gotDesc)
++		{
++			newScaleDesc = line;
++			gotDesc = true;
++		}
++		else if (scaleSize < 0)
++		{
++			istringstream iss(line);
++			iss >> scaleSize;
++			if (scaleSize < 0)
++			{
++				return -1;
++			}
++		}
++		else
++			newScale.push_back(parseScalaLine(line));
++	}
++
++	if (!gotDesc || (int) newScale.size() != scaleSize)
++		return -1;
++
++	scaleDesc = newScaleDesc;
++	scale = newScale;
++	updateBasePitch();
++	return 0;
++}
++
++int
++TuningMap::loadKeyMap		(const string & filename)
++{
++	ifstream file(filename.c_str());
++	string line;
++
++	int mapSize = -1;
++	int firstNote = -1;
++	int lastNote = -1;
++	int newZeroNote = -1;
++	int newRefNote = -1;
++	double newRefPitch = -1.;
++	int newMapRepeatInc = -1;
++	vector<int> newMapping;
++
++	while (!file.eof())
++	{
++		getline(file, line);
++		unsigned i = 0;
++		while (i < line.size() && isspace(line[i])) ++i;
++		if (i == line.size()) continue;	// skip all-whitespace lines
++		if (line[i] == '!') continue;	// skip comment lines
++		istringstream iss(line);
++		if (mapSize < 0)
++		{
++			iss >> mapSize;
++			if (iss.fail() || mapSize < 0)
++				return -1;
++		}
++		else if (firstNote < 0)
++		{
++			iss >> firstNote;
++			if (iss.fail() || firstNote < 0 || firstNote >= 128)
++				return -1;
++		}
++		else if (lastNote < 0)
++		{
++			iss >> lastNote;
++			if (iss.fail() || lastNote < 0 || lastNote >= 128)
++				return -1;
++		}
++		else if (newZeroNote < 0)
++		{
++			iss >> newZeroNote;
++			if (iss.fail() || newZeroNote < 0 || newZeroNote >= 128)
++				return -1;
++		}
++		else if (newRefNote < 0)
++		{
++			iss >> newRefNote;
++			if (iss.fail() || newRefNote < 0 || newRefNote >= 128)
++				return -1;
++		}
++		else if (newRefPitch <= 0)
++		{
++			iss >> newRefPitch;
++			if (iss.fail() || newRefPitch <= 0)
++				return -1;
++		}
++		else if (newMapRepeatInc < 0)
++		{
++			iss >> newMapRepeatInc;
++			if (iss.fail() || newMapRepeatInc < 0)
++				return -1;
++		}
++		else if (tolower(line[i]) == 'x')
++			newMapping.push_back(-1); // unmapped key
++		else
++		{
++			int mapEntry;
++			iss >> mapEntry;
++			if (iss.fail() || mapEntry < 0)
++				return -1;
++			newMapping.push_back(mapEntry);
++		}
++	}
++
++	if (newMapRepeatInc < 0) return -1; // didn't get far enough
++
++	if (mapSize == 0)
++	{ // special case for "automatic" linear mapping
++		if (!newMapping.empty())
++			return -1;
++		zeroNote = newZeroNote;
++		refNote = newRefNote;
++		refPitch = newRefPitch;
++		mapRepeatInc = 1;
++		mapping.clear();
++		mapping.push_back(0);
++		updateBasePitch();
++		return 0;
++	}
++
++// some of the kbm files included with Scala have extra x's at the end for no good reason
++//	if ((int) newMapping.size() > mapSize)
++//		return -1;
++
++	newMapping.resize(mapSize, -1);
++
++	// Check to make sure reference pitch is actually mapped
++	int refIndex = (newRefNote - newZeroNote) % mapSize;
++	if (refIndex < 0)
++		refIndex += mapSize;
++	if (newMapping[refIndex] < 0)
++		return -1;
++
++	zeroNote = newZeroNote;
++	refNote = newRefNote;
++	refPitch = newRefPitch;
++
++	if (newMapRepeatInc == 0)
++		mapRepeatInc = mapSize;
++	else
++		mapRepeatInc = newMapRepeatInc;
++
++	mapping = newMapping;
++	updateBasePitch();
++	return 0;
++}
++
+Index: src/VoiceAllocationUnit.cc
+===================================================================
+--- src/VoiceAllocationUnit.cc	(revision 427)
++++ src/VoiceAllocationUnit.cc	(working copy)
+@@ -37,9 +37,10 @@
+ 		keyPressed[i] = 0;
+ 		active[i] = false;
+ 		_voices.push_back (new VoiceBoard (&s_procMem));
+-		_voices.back()->setFrequency ((440.0f/32.0f) * pow (2.0f, (float)((i-9.0)/12.0)));
+ 	}
+ 
++	updateTuning();
++
+ 	SetSampleRate (44100);
+ }
+ 
+@@ -67,7 +68,7 @@
+   
+ 	keyPressed[note] = 1;
+ 	
+-	if ((!mMaxVoices || (mActiveVoices < mMaxVoices)) && !active[note])
++	if ((!mMaxVoices || (mActiveVoices < mMaxVoices)) && !active[note] && !mute[note])
+ 	{
+ 		_voices[note]->reset();
+ 		active[note]=1;
+@@ -150,7 +151,9 @@
+ 	while (0 < framesLeft)
+ 	{
+ 		int fr = (framesLeft < kMaxGrainSize) ? framesLeft : kMaxGrainSize;
+-		for (unsigned i=0; i<_voices.size(); i++) if (active[i]) _voices[i]->ProcessSamplesMix (vb+j, fr, mMasterVol);
++		for (unsigned i=0; i<_voices.size(); i++)
++			if (active[i] && !mute[i])
++				_voices[i]->ProcessSamplesMix (vb+j, fr, mMasterVol);
+ 		j += fr; framesLeft -= fr;
+ 	}
+ 
+@@ -176,3 +179,54 @@
+ 	default: for (unsigned i=0; i<_voices.size(); i++) _voices[i]->UpdateParameter (param, value); break;
+ 	}
+ }
++
++int
++VoiceAllocationUnit::loadScale		(const string & sclFileName)
++{
++	int error = tuningMap.loadScale(sclFileName);
++	if (error)
++		return error;
++	else
++	{
++		updateTuning();
++		return 0;
++	}
++}
++
++int
++VoiceAllocationUnit::loadKeyMap		(const string & kbmFileName)
++{
++	int error = tuningMap.loadKeyMap(kbmFileName);
++	if (error)
++		return error;
++	else
++	{
++		updateTuning();
++		return 0;
++	}
++}
++
++void
++VoiceAllocationUnit::defaultTuning	()
++{
++	tuningMap.defaultScale();
++	tuningMap.defaultKeyMap();
++	updateTuning();
++}
++
++void
++VoiceAllocationUnit::updateTuning	()
++{
++	for (int i = 0; i < 128; i++)
++	{
++		double pitch = tuningMap.noteToPitch(i);
++		if (pitch < 0)
++			mute[i] = true; // unmapped key
++		else
++		{
++			_voices[i]->setFrequency(pitch);
++			mute[i] = false;
++		}
++	}
++}
++
+Index: src/VoiceAllocationUnit.h
+===================================================================
+--- src/VoiceAllocationUnit.h	(revision 427)
++++ src/VoiceAllocationUnit.h	(working copy)
+@@ -9,6 +9,7 @@
+ 
+ #include "UpdateListener.h"
+ #include "MidiController.h"
++#include "TuningMap.h"
+ 
+ class VoiceBoard;
+ class SoftLimiter;
+@@ -39,6 +40,10 @@
+ 	// processing with stride (interleaved) is not functional yet!!!
+ 	void	Process			(float *l, float *r, unsigned nframes, int stride=1);
+ 
++	int	loadScale		(const string & sclFileName);
++	int	loadKeyMap		(const string & kbmFileName);
++	void	defaultTuning		();
++
+ private:
+ 	void	purgeVoices		();
+ 
+@@ -47,6 +52,7 @@
+ 
+ 	char	keyPressed[128], sustain;
+ 	bool	active[128];
++	bool	mute[128];
+ 	std::vector<VoiceBoard*>	_voices;
+ 	
+ 	SoftLimiter	*limiter;
+@@ -57,6 +63,9 @@
+ 
+ 	float	mMasterVol;
+ 	float	mPitchBendRangeSemitones;
++
++	TuningMap	tuningMap;
++	void		updateTuning	();
+ };
+ 
+ #endif
+Index: src/TuningMap.h
+===================================================================
+--- src/TuningMap.h	(revision 0)
++++ src/TuningMap.h	(revision 0)
+@@ -0,0 +1,54 @@
++/* amSynth
++ * (c) 2001-2005 Nick Dowell
++ */
++
++#ifndef _TUNINGMAP_H
++#define _TUNINGMAP_H
++
++#include <string>
++#include <vector>
++
++class TuningMap
++{
++/*
++ * A TuningMap consists of two parts.
++ * The "key map" maps from MIDI note numbers to logical note numbers for the scale.
++ * (This is often the identity mapping, but if your scale has, for example,
++ * 11 notes in it, you'll want to skip one per octave so the scale lines up
++ * with the pattern of keys on a standard keyboard.)
++ * The "scale" maps from those logical note numbers to actual pitches.
++ * In terms of member variables, "scale" and "scaleDesc" belong to the scale,
++ * and everything else belongs to the mapping.
++ * For more information, refer to http://www.huygens-fokker.org/scala/
++ */
++public:
++		TuningMap		();
++		// Default is 12-equal, standard mapping
++
++	int	loadScale		(const std::string & filename);
++	int	loadKeyMap		(const std::string & filename);
++	// Both return 0 on success
++
++	void	defaultScale		();
++	void	defaultKeyMap		();
++
++	double	noteToPitch		(int note) const;
++private:
++	std::string		scaleDesc;
++
++	std::vector<double>	scale;
++	// note that logical indices to this begin with 1
++
++	int			zeroNote;
++	int			refNote;
++	double			refPitch;
++	int			mapRepeatInc;
++
++	std::vector<int>	mapping; // -1 for unmapped
++
++	double			basePitch;
++	void			updateBasePitch		();
++};
++
++#endif
++
+Index: src/Makefile.am
+===================================================================
+--- src/Makefile.am	(revision 427)
++++ src/Makefile.am	(working copy)
+@@ -16,7 +16,7 @@
+ 	PresetController.cc PresetController.h \
+ 	VoiceAllocationUnit.cc VoiceAllocationUnit.h \
+ 	Config.cc Config.h UpdateListener.h Thread.h controls.h controls.c \
+-	binreloc.h binreloc.c
++	binreloc.h binreloc.c TuningMap.h TuningMap.cc
+ 
+ amSynth_LDADD = \
+ 	drivers/libdrivers.a \

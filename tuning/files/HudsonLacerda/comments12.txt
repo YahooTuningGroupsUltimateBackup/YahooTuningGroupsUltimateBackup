@@ -1,0 +1,73 @@
+More study is needed to assess reliablity of the tests (which I find
+should be improved, considering different spectra, dissonance models,
+real aural experiments, etc.), but here are a few conclusions from the
+data, assuming they are valuable:
+
+Examples are in my files directory:
+http://launch.groups.yahoo.com/group/tuning/files/HudsonLacerda/
+
+
+-- "Absolute" dissonance/consonance by itself is not how "people"
+(actually the computer model) IDENTIFY chords in tempered scales,
+since the range of dissonance varies a lot according the the specific
+pitch dispositions. The pitch-class structure is relevant for chord
+type identification.
+
+The model could find perfect some perfect-triad dispositions that are
+more dissonant than some dispositions of {C,D,Eb} (ID=2), and some
+dispositions of {C,D,F} (ID=9) (a pentatonic subset) that are more
+dissonant than some dispositions of {C,C#,D} (ID=1). See c3mod12.png
+and c3mod12diss.txt.
+
+
+-- Traditional "consonant" chords, like perfect triads, have a narrow
+range of dissonance, usually reach the minima for all classes (with
+equal number of elements). They have limited ability to sound
+dissonant. See c3mod12.png ID=11, ID=9, ID=12.
+
+
+-- Some symmetrical vagrant chords get relatively small dissonance
+values in tempered scales: aug5 triad (ID=12 in c3mod12.png) or dim7
+chord (ID=29 in c4mod12.png).
+
+I think that is because tempering increases the dissonance of
+otherwise (pure, JI) consonant chords; also, those symmetrical chords
+are built on consonant intervals (M3, m3). (Functional dissonance is
+another matter, of course.)
+
+
+-- Inversion-related set classes showed minima, maxima and mean values
+very close, which supports the view that they are similar
+(c3mod12.png).
+
+Nonetheless, one cannot ignore the presence of other sets with similar
+statistics. See ID=13 (0148) and ID=15 (0157) in c4mod12.png.
+
+
+-- Statistics for Z-related sets (which are different but have equal
+interval vectors) were not too much different (in 12-EDO): see ID=9
+and ID=11 in c4mod12.png and results12.txt.
+
+However, there may be other sets with similar data. See ID=9 and ID=14
+in c4mod12.png. Also check Z-related pentachords in results12.txt.
+
+
+-- For chords with 5 tones (always assuming tempered scale), the
+amount of dissonance is very dependent on the specific pitch
+disposition (and register).
+
+The model could find a pentatonic chord which is more dissonant than a
+cluster-based one (see c5mod12diss.txt):
+
+C D E G A         (diss = 5.6814, the highest value for this set)
+C Bb A C# B       (diss = 2.4888, the lowest value for this set)
+
+N.B.: C = 261.63Hz, an octave below middle C.
+
+I could limit the pitch range in further tests, to avoid comparing
+3-octave-range chords with chords that fit inside one octave. Anyway,
+I find the result above itself interesting as it dramatizes the
+opposition of chord identification and chord dissonance; that could be
+explored in musical applications.
+
+Hudson Lacerda

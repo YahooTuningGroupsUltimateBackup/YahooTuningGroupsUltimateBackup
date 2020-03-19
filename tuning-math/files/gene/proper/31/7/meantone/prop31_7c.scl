@@ -1,0 +1,13 @@
+! prop31_7c.scl
+Harmonic minor scale; inverse harmonic major
+7
+!
+193.548387
+309.677419
+503.225806
+696.774194
+812.903226
+1083.870968
+1200.000000
+! [0,2,-3,-1,1,-4,5]
+! C D Eb F G Ab B

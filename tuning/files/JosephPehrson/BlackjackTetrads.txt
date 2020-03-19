@@ -1,0 +1,274 @@
+This is Paul Erlich's Blackjack tetrad list converted to the standard CGDA-centered notation and arranged so the middle-C pitch (261.6 Hz) is mapped to the middle C key.
+
+Legend for 72-tET notation:
+
+A,B,C,D,E,F,G,b,# as in 12-tET
+] = 1/4 tone up
+> = 1/6 tone up
+^ = 1/12 tone up
+v = 1/12 tone down
+< = 1/6 tone down
+[ = 1/4 tone down
+
+Blackjack scale in 72-tET notation and keyboard notation
+
+72-tET notation       keyboard notation
+                     lower middle upper
+
+Bb^                          G#3   F5
+B[                    C2     A3    F#5
+Bv                    C#2    A#3   G5
+C<                    D2     B3    G#5
+C                     D#2    C4    A5
+C#v                   E2     C#4   A#5    
+Db^                   F2     D4    B5
+D                     F#2    D#4   C6
+D>                    G2     E4    C#6
+Eb^                   G#2    F4    D6
+E[                    A2     F#4   D#6
+E>                    A#2    G4    E6
+F<                    B2     G#4   F6
+F]                    C3     A4    F#6
+F#v                   C#3    A#4   G6
+G<                    D3     B4    G#6
+G                     D#3    C5    A6
+G#v                   E3     C#5   A#6
+Ab^                   F3     D5    B6
+A                     F#3    D#5   C7
+A>                    G3     E5
+
+
+Keyboard Pattern: P5-P4-P4 (inversions include P4-P4-M3, P4-M3-P5, M3-P5-P4)
+
+keyboard notation       72-tET notation      quality
+E3  B3  E4  A4          G#v C<  D>  F]       dissonant
+F3  C4  F4  A#4         Ab^ C   Eb^ F#v      4:5:6:7
+F#3 C#4 F#4 B4          A   C#v E[  G<       dissonant
+G3  D4  G4  C5          A>  Db^ E>  G        4:5:6:7
+G#3 D#4 G#4 C#5         Bb^ D   F<  G#v      dissonant
+A3  E4  A4  D5          B[  D>  F]  Ab^      4:5:6:7
+A#3 F4  A#4 D#5         Bv  Eb^ F#v A        1/(9:7:6:5)
+B3  F#4 B4  E5          C<  E[  G<  A>       4:5:6:7
+C4  G4  C5  F5          C   E>  G   Bb^      1/(9:7:6:5)
+C#4 G#4 C#5 F#5         C#v F<  G#v B[       4:5:6:7
+D4  A4  D5  G5          Db^ F]  Ab^ Bv       dissonant
+D#4 A#4 D#5 G#5         D   F#v A   C<       4:5:6:7
+E4  B4  E5  A5          D>  G<  A>  C        dissonant
+F4  C5  F5  A#5         Eb^ G   Bb^ C#v      4:5:6:7
+F#4 C#5 F#5 B5          E[  G#v B[  Db^      dissonant
+G4  D5  G5  C6          E>  Ab^ Bv  D        dissonant
+G#4 D#5 G#5 C#6         F<  A   C<  D>       dissonant
+A4  E5  A5  D6          F]  A>  C   Eb^      dissonant
+A#4 F5  A#5 D#6         F#v Bb^ C#v E[       dissonant
+B4  F#5 B5  E6          G<  B[  Db^ E>       dissonant
+C5  G5  C6  F6          G   Bv  D   F<       4:5:6:7
+
+
+Keyboard Pattern: P4-P5-P4 (inversions include P5-P4-M3, P4-M3-P4, M3-P5-P4)
+
+keyboard notation       72-tET notation      quality
+E3  A3  E4  A4          G#v B[  D>  F]       dissonant
+F3  A#3 F4  A#4         Ab^ Bv  Eb^ F#v      2:7/3:3:7/2
+F#3 B3  F#4 B4          A   C<  E[  G<       dissonant
+G3  C3  G4  C5          A>  C   E>  G        2:7/3:3:7/2
+G#3 C#4 G#4 C#5         Bb^ C#v F<  G#v      dissonant
+A3  D4  A4  D5          B[  Db^ F]  Ab^      2:7/3:3:7/2
+A#3 D#4 A#4 D#5         Bv  D   F#v A        1/3:2/5:1/2:3/5
+B3  E4  B4  E5          C<  D>  G<  A>       2:7/3:3:7/2
+C4  F4  C5  F5          C   Eb^ G   Bb^      1/3:2/5:1/2:3/5
+C#4 F#4 C#5 F#5         C#v E[  G#v B[       2:7/3:3:7/2
+D4  G4  D5  G5          Db^ E>  Ab^ Bv       dissonant
+D#4 F#4 D#5 G#5         D   F<  A   C<       2:7/3:3:7/2
+E4  A4  E5  A5          D>  F]  A>  C        dissonant
+F4  A#4 F5  A#5         Eb^ F#v Bb^ C#v      2:7/3:3:7/2
+F#4 B4  F#5 B5          E[  G<  B[  Db^      dissonant
+G4  C5  G5  C6          E>  G   Bv  D        dissonant
+G#4 C#5 G#5 C#6         F<  G#v C<  D>       dissonant
+A4  D5  A5  D6          F]  Ab^ C   Eb^      dissonant
+A#4 D#5 A#5 D#6         F#v A   C#v E[       dissonant
+B4  E5  B5  E6          G<  A>  Db^ E>       dissonant
+C5  F5  C6  F6          G   Bb^ D   F<       dissonant
+
+
+Keyboard Pattern: P4-P4-P5 (inversions include P4-P5-M3, P5-M3-P4, M3-P4-P4)
+
+keyboard notation       72-tET notation      quality
+E3  A3  D4  A4          G#v B[  Db^ F]       dissonant
+F3  A#3 D#4 A#4         Ab^ Bv  D   F#v      1/(7:6:5:4)
+F#3 B3  E4  B4          A   C<  D>  G<       dissonant
+G3  C4  F4  C5          A>  C   Eb^ G        1/(7:6:5:4)
+G#3 C#4 F#4 C#5         Bb^ C#v E[  G#v      dissonant
+A3  D4  G4  D5          B[  Db^ E>  Ab^      1/(7:6:5:4)
+A#3 D#4 G#4 D#5         Bv  D   F<  A        5:6:7:9
+B3  E4  A4  E5          C<  D>  F]  A>       1/(7:6:5:4)
+C4  F4  A#4 F5          C   Eb^ F#v Bb^      5:6:7:9
+C#4 F#4 B4  F#5         C#v E[  G<  B[       1/(7:6:5:4)
+D4  G4  C5  G5          Db^ E>  G   Bv       dissonant
+D#4 G#4 C#5 G#5         D   F<  G#v C<       1/(7:6:5:4)
+E4  A4  D5  A5          D>  F]  Ab^ C        dissonant
+F4  A#4 D#5 A#5         Eb^ F#v A   C#v      1/(7:6:5:4)
+F#4 B4  E5  B5          E[  G<  A>  Db^      dissonant
+G4  C5  F5  C6          E>  G   Bb^ D        1/(7:6:5:4)
+G#4 C#5 F#5 C#6         F<  G#v B[  D>       dissonant
+A4  D5  G5  D6          F]  Ab^ Bv  Eb^      dissonant
+A#4 D#5 G#5 D#6         F#v A   C<  E[       dissonant
+B4  E5  A5  E6          G<  A>  C   E>       dissonant
+C5  F5  A#5 F6          G   Bb^ C#v F<       dissonant
+
+
+Keyboard Pattern: P5-m3-P5 (inversions include m3-P5-M3, P5-M3-P5, M3-P5-m3)
+
+keyboard notation       72-tET notation      quality
+E3  B3  D4  A4          G#v C<  Db^ F]       dissonant
+F3  C4  D#4 A#4         Ab^ Db^ D   F#v      magic
+F#3 C#4 E4  B4          A   C#v D>  G<       dissonant
+G3  D4  F4  C5          A>  Db^ Eb^ G        magic
+G#3 D#4 F#4 C#5         Bb^ D   E[  G#v      dissonant
+A3  E4  G4  D5          B[  D>  E>  Ab^      magic
+A#3 F4  G#4 D#5         Bv  Eb^ F<  A        dissonant
+B3  F#4 A4  E5          C<  E[  F]  A>       magic
+C4  G4  A#4 F5          C   E>  F#v Bb^      dissonant
+C#4 G#4 B4  F#5         C#v F<  G<  B[       magic
+D4  A4  C5  G5          Db^ F]  G   Bv       dissonant
+D#4 A#4 C#5 G#5         D   F#v G#v C<       magic
+E4  B4  D5  A5          D>  G<  Ab^ C        dissonant
+F4  C5  D#5 A#5         Eb^ G   A   C#v      magic
+F#4 C#5 E5  B5          E[  G#v A>  Db^      dissonant
+G4  D5  F5  C6          E>  Ab^ Bb^ D        magic
+G#4 D#5 F#5 C#6         F<  A   B[  D>       dissonant
+A4  E5  G5  D6          F]  A>  Bv  Eb^      dissonant
+A#4 F5  G#5 D#6         F#v Bb^ C<  E[       dissonant
+B4  F#5 A5  E6          G<  B[  C   E>       dissonant
+C5  G5  A#5 F6          G   Bv  C#v F<       magic
+
+
+Keyboard Pattern: m3-M6-P4 (inversions include M6-P4-M3, P4-M3-m3, M3-m3-M6)
+
+keyboard notation       72-tET notation      quality
+E3  G3  E4  A4          G#v A>  D>  F]       dissonant
+F3  G#3 F4  A#4         Ab^ Bb^ Eb^ F#v      4:9/2:6:7
+F#3 A3  F#4 B4          A   B[  E[  G<       dissonant
+G3  A#3 G4  C5          A>  Bv  E>  G        dissonant
+G#3 B3  G#4 C#5         Bb^ C<  F<  G#v      dissonant
+A3  C4  A4  D5          B[  C   F]  Ab^      dissonant
+A#3 C#4 A#4 D#5         Bv  C#v F#v A        1/(9:8:6:5)
+B3  D4  B4  E5          C<  Db^ G<  A>       dissonant
+C4  D#4 C5  F5          C   D   G   Bb^      1/(9:8:6:5)
+C#4 E4  C#5 F#5         C#v D>  G#v B[       dissonant
+D4  F4  D5  G5          Db^ Eb^ Ab^ Bv       4:9/2:6:7
+D#4 F#4 D#5 G#5         D   E[  A   C<       dissonant
+E4  G4  E5  A5          D>  E>  A>  C        4:9/2:6:7
+F4  G#4 F5  A#5         Eb^ F<  Bb^ C#v      dissonant
+F#4 A4  F#5 B5          E[  F]  B[  Db^      4:9/2:6:7
+G4  A#4 G5  C6          E>  F#v Bv  D        dissonant
+G#4 B4  G#5 C#6         F<  G<  C<  D>       4:9/2:6:7
+A4  C5  A5  D6          F]  G   C   Eb^      dissonant
+A#4 C#5 A#5 D#6         F#v G#v C#v E[       4:9/2:6:7
+B4  D5  B5  E6          G<  Ab^ Db^ E>       dissonant
+C5  D#5 C6  F6          G   A   D   F<       4:9/2:6:7
+
+
+Keyboard Pattern: P4-M6-m3 (inversions include M6-m3-M3, m3-M3-P4, M3-P4-M6)
+
+keyboard notation       72-tET notation      quality
+E3  A3  F#4 A4          G#v B[  E[  F]       1/7:1/6:2/9:1/4
+F3  A#3 G4  A#4         Ab^ Bv  E>  F#v      dissonant
+F#3 B3  G#4 B4          A   C<  F<  G<       1/7:1/6:2/9:1/4
+G3  C3  A4  C5          A>  C   F]  G        dissonant
+G#3 C#4 A#4 C#5         Bb^ C#v F#v G#v      1/7:1/6:2/9:1/4
+A3  D4  B4  D5          B[  Db^ G<  Ab^      dissonant
+A#3 D#4 C5  D#5         Bv  D   G   A        5:6:8:9
+B3  E4  C#5 E5          C<  D>  G#v A>       dissonant
+C4  F4  D5  F5          C   Eb^ Ab^ Bb^      5:6:8:9
+C#4 F#4 D#5 F#5         C#v E[  A   B[       dissonant
+D4  G4  E5  G5          Db^ E>  A>  Bv       dissonant
+D#4 F#4 F5  G#5         D   F<  Bb^ C<       dissonant
+E4  A4  F#5 A5          D>  F]  B[  C        dissonant
+F4  A#4 G5  A#5         Eb^ F#v Bv  C#v      1/7:1/6:2/9:1/4
+F#4 B4  G#5 B5          E[  G<  C<  Db^      dissonant
+G4  C5  A5  C6          E>  G   C   D        1/7:1/6:2/9:1/4
+G#4 C#5 A#5 C#6         F<  G#v C#v D>       dissonant
+A4  D5  B5  D6          F]  Ab^ Db^ Eb^      1/7:1/6:2/9:1/4
+A#4 D#5 C6  D#6         F#v A   D   E[       dissonant
+B4  E5  C#6 E6          G<  A>  D>  E>       1/7:1/6:2/9:1/4
+C5  F5  D6  F6          G   Bb^ Eb^ F<       dissonant
+
+
+Keyboard Pattern: P5-P5-m3 (inversions include P5-m3-M3, m3-M3-P5, M3-P5-P5)
+
+keyboard notation       72-tET notation      quality
+E3  B3  F#4 A4          G#v C<  E[  F]       augmagic-O
+F3  C4  G4  A#4         Ab^ Db^ E>  F#v      dissonant
+F#3 C#4 G#4 B4          A   C#v F<  G<       augmagic-O
+G3  D4  A4  C5          A>  Db^ F]  G        dissonant
+G#3 D#4 A#4 C#5         Bb^ D   F#v G#v      augmagic-O
+A3  E4  B4  D5          B[  D>  G<  Ab^      dissonant
+A#3 F4  C5  D#5         Bv  Eb^ G   A        dissonant
+B3  F#4 C#5 E5          C<  E[  G#v A>       dissonant
+C4  G4  D5  F5          C   E>  Ab^ Bb^      dissonant
+C#4 G#4 D#5 F#5         C#v F<  A   B[       dissonant
+D4  A4  E5  G5          Db^ F]  A>  Bv       dissonant
+D#4 A#4 F5  G#5         D   F#v Bb^ C<       dissonant
+E4  B4  F#5 A5          D>  G<  B[  C        dissonant
+F4  C5  G5  A#5         Eb^ G   Bv  C#v      augmagic-O
+F#4 C#5 G#5 B5          E[  G#v C<  Db^      dissonant
+G4  D5  A5  C6          E>  Ab^ C   D        augmagic-O
+G#4 D#5 A#5 C#6         F<  A   C#v D>       dissonant
+A4  E5  B5  D6          F]  A>  Db^ Eb^      augmagic-O
+A#4 F5  C6  D#6         F#v Bb^ D   E[       dissonant
+B4  F#5 C#6 E6          G<  B[  D>  E>       augmagic-O
+C5  G5  D6  F6          G   Bv  Eb^ F<       dissonant
+
+
+Keyboard Pattern: m3-P5-P5 (inversions include P5-P5-M3, P5-M3-m3, M3-m3-P5)
+
+keyboard notation       72-tET notation      quality
+E3  G3  D4  A4          G#v A>  Db^ F]       dissonant
+F3  G#3 D#4 A#4         Ab^ Bb^ D   F#v      augmagic-U
+F#3 A3  E4  B4          A   B[  D>  G<       dissonant
+G3  A#3 F4  C5          A>  Bv  Eb^ G        dissonant
+G#3 B3  F#4 C#5         Bb^ C<  E[  G#v      dissonant
+A3  C4  G4  D5          B[  C   E>  Ab^      dissonant
+A#3 C#4 G#4 D#5         Bv  C#v F<  A        dissonant
+B3  D4  A4  E5          C<  Db^ F]  A>       dissonant
+C4  D#4 A#4 F5          C   D   F#v Bb^      dissonant
+C#4 E4  B4  F#5         C#v D>  G<  B[       dissonant
+D4  F4  C5  G5          Db^ Eb^ G   Bv       augmagic-U
+D#4 F#4 C#5 G#5         D   E[  G#v C<       dissonant
+E4  G4  D5  A5          D>  E>  Ab^ C        augmagic-U
+F4  G#4 D#5 A#5         Eb^ F<  A   C#v      dissonant
+F#4 A4  E5  B5          E[  F]  A>  Db^      augmagic-U
+G4  A#4 F5  C6          E>  F#v Bb^ D        dissonant
+G#4 B4  F#5 C#6         F<  G<  B[  D>       augmagic-U
+A4  C5  G5  D6          F]  G   Bv  Eb^      dissonant
+A#4 C#5 G#5 D#6         F#v G#v C<  E[       augmagic-U
+B4  D5  A5  E6          G<  Ab^ C   E>       dissonant
+C5  D#5 A#5 F6          G   A   C#v F<       augmagic-U
+
+
+Keyboard Pattern: m3-TT-m3 (inversions include TT-m3-M6, m3-M6-m3, M6-m3-TT)
+
+keyboard notation       72-tET notation      quality     
+F#3 A3  D#4 F#4         A   B[  D   E[       11-limit ASS
+G3  A#3 E4  G4          A>  Bv  D>  E>       1/(12:11:9:8)
+G#3 B3  F4  G#4         Bb^ C<  Eb^ F<       11-limit ASS
+A3  C4  F#4 A4          B[  C   E[  F]       1/(12:11:9:8)
+A#3 C#4 G4  A#4         Bv  C#v E>  F#v      8:9:11:12
+B3  D4  G#4 B4          C<  Db^ F<  G<       1/(12:11:9:8)
+C4  D#4 A5  C5          C   D   F]  G        8:9:11:12
+C#4 E4  A#5 C#5         C#v D>  F#v G#v      1/(12:11:9:8)
+D4  F4  B5  D5          Db^ Eb^ G<  Ab^      8:9:11:12
+D#4 F#4 C5  D#5         D   E[  G   A        1/(12:11:9:8)
+E4  G4  C#5 E5          D>  E>  G#v A>       8:9:11:12
+F4  G#4 D5  F5          Eb^ F<  Ab^ Bb^      1/(12:11:9:8)
+F#4 A4  D#5 F#5         E[  F]  A   B[       8:9:11:12
+G4  A#4 E5  G5          E>  F#v A>  Bv       11-limit ASS
+G#4 B4  F5  G#5         F<  G<  Bb^ C<       8:9:11:12
+A4  C5  F#5 A5          F]  G   B[  C        11-limit ASS
+A#4 C#5 G5  A#5         F#v G#v Bv  C#v      Pyth.tetratonic
+B4  D5  G#5 B5          G<  Ab^ C<  Db^      11-limit ASS
+C5  D#5 A5  C6          G   A   C   D        Pyth.tetratonic
+C#5 E5  A#5 C#6         G#v A>  C#v D>       11-limit ASS
+D5  F5  B5  D6          Ab^ Bb^ Db^ Eb^      Pyth.tetratonic
+
+

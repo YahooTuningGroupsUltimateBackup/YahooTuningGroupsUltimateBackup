@@ -1,0 +1,26 @@
+Quick review of how you add an entry:
+
+Upload file to Files area.
+
+Check file name has no spaces in it.
+
+Add entry to database.
+
+For first field of the entry, give the folder name
+_As shown in the tree itself_
+
+Second entry is the short descr, third is the url to
+the file you have just uploaded, then it's your name, 
+and answer Yes, okay to convert to ascii (for a text file)
+
+.........................................
+
+If you need a new second or higher level folder to put
+it in, add a new  field to the database
+
+parent folder | child folder
+
+and leave the url blank for that one.
+
+Then add your entry as before, using the new child folder as
+the first field.

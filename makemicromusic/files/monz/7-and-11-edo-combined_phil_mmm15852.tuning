@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Tuning Version="1">
+  <DocInfo>
+    <Title>7-edo on vertical, 11-edo on horizontal ... best notation: Logarithmic 77-edo</Title>
+    <CreateDateTime>2/2/2007 7:17:29 PM</CreateDateTime>
+    <CreateUser>Unregistered User</CreateUser>
+    <CreateOrg />
+    <ModifyDateTime>2/2/2007 7:22:25 PM</ModifyDateTime>
+    <ModifyUser>Unregistered User</ModifyUser>
+    <ModifyOrg />
+  </DocInfo>
+  <BaseCents>0</BaseCents>
+  <HasIdentity>True</HasIdentity>
+  <Frame Count="3">
+    <FrameItem Type="Generator">
+      <Generator Kind="Fixed">
+        <Base>2</Base>
+        <Comment>Untempered equivalence interval generator</Comment>
+        <Cents>1200</Cents>
+      </Generator>
+    </FrameItem>
+    <FrameItem Type="Generator">
+      <Generator Kind="Fixed">
+        <Base Text="true">11-edo</Base>
+        <Comment />
+        <Cents>109.091</Cents>
+      </Generator>
+    </FrameItem>
+    <FrameItem Type="Generator">
+      <Generator Kind="Fixed">
+        <Base Text="true">7-edo</Base>
+        <Comment />
+        <Cents>171.429</Cents>
+      </Generator>
+    </FrameItem>
+  </Frame>
+  <Pitches Count="17">
+    <Pitch>(0, 0, 3)~&lt;nc&gt;</Pitch>
+    <Pitch>(0, 0, 2)~&lt;nc&gt;</Pitch>
+    <Pitch>(0, 0, 1)~&lt;nc&gt;</Pitch>
+    <Pitch>(0, 0, 0)~&lt;nc&gt;</Pitch>
+    <Pitch>(1, 0, -1)~&lt;nc&gt;</Pitch>
+    <Pitch>(1, 0, -2)~&lt;nc&gt;</Pitch>
+    <Pitch>(1, 0, -3)~&lt;nc&gt;</Pitch>
+    <Pitch>(1, -1, 0)~&lt;nc&gt;</Pitch>
+    <Pitch>(1, -2, 0)~&lt;nc&gt;</Pitch>
+    <Pitch>(1, -3, 0)~&lt;nc&gt;</Pitch>
+    <Pitch>(1, -4, 0)~&lt;nc&gt;</Pitch>
+    <Pitch>(1, -5, 0)~&lt;nc&gt;</Pitch>
+    <Pitch>(0, 5, 0)~&lt;nc&gt;</Pitch>
+    <Pitch>(0, 4, 0)~&lt;nc&gt;</Pitch>
+    <Pitch>(0, 3, 0)~&lt;nc&gt;</Pitch>
+    <Pitch>(0, 2, 0)~&lt;nc&gt;</Pitch>
+    <Pitch>(0, 1, 0)~&lt;nc&gt;</Pitch>
+  </Pitches>
+</Tuning>
+<!-- neodl5.grp.bf1.yahoo.com Sun Sep 30 05:20:51 UTC 2018 -->

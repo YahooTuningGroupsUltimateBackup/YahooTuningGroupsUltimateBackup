@@ -1,0 +1,167 @@
+N.b. DRAFT - the urls are all to an example tree to show how it will
+work, _not_ the final site.
+
+.................Adding entries............................
+How to add a text or plain html entry 
+1. Make a new file in the Tuning group files area, e.g. in the new faq folder. You can either edit it on-line, or click to browse to upload it from your p.c. 
+
+2. Check to see if your file name has any spaces in it, such as after the tET in "19-tET notation"
+If so, replace by underlines
+"19-tET_notation"
+
+Note down the complete url, e.g. 
+http://groups.yahoo.com/group/tuning/files/faq/notations/19-tET_notation
+
+Alternatively, if you have a web site of your own, upload the file there, and note down the url.
+
+3. Add your new file to the url tree
+
+See
+http://groups.yahoo.com/group/tuning/database
+and look for the FAQ_tree database
+
+Decide on a folder for it in the tree, E.g. "19-tet notations" could be in a "notations" folder.
+
+Fill in the fields:
+
+Folder, Short Descr, url, Author, Is it suitable for conversion to Ascii, anything else
+
+Notations, 19-tET notation, http://groups.yahoo.com/group/tuning/files/faq/notations/19-tET_notation , Joseph Pehrson, Yes,
+
+You can put anything you like in the last field, or leave it blank.
+
+4. Now look at the FAQ tree itself:
+
+http://homepage.ntlworld.com/robertwalker/tree/tree.htm
+
+If your folder is already in the FAQ_tree you are now finished.
+
+You are also finished if you want it at the top level of the tree.
+
+If it is new, and you want it to be a sub folder of one that is already in the tree, you need to add the new folder.
+
+E.g. suppose you wanted to do an entry on unison vectors, and decided there is nowhere suitable on the tree yet, and the best place would be:
+
+Lattices | Fokker periodicity block | unison vectors
+
+You'd add these entries to the database
+http://groups.yahoo.com/group/tuning/database
+
+Folder, Short Descr
+
+Lattices | Fokker periodicity block
+
+Result: makes Fokker periodicity block as a subfolder of Lattices (and also makes the Lattices folder if not yet present)
+
+Leave all the other fields blank, to show that it is a folder.
+
+Then
+Folder, Short Descr
+Fokker periodicity block | unison vectors
+
+makes unison vectors as a subset of Fokker Periodicity block
+
+However, one needs to check and see, maybe one of these folder names is used already.
+
+First check in the alphabetical list in the tree:
+http://homepage.ntlworld.com/robertwalker/tree/tree.htm
+
+Look under
+
+Tree info | Folders.
+
+Is it is listed there already?
+
+If so, you may have to give it a more specific name,
+e.g.
+unison vectors (FP block)
+
+or if you can't thing of anything else, it is okay to use
+
+unison vectors (1)
+The FAQ keeper will be able to rename these folders, and re-arrange them, later on.
+(indeed, anyone can).
+top
+
+Using Import Records
+
+This is especially useful if you want to add several new entries at once. It is also faster even for a single entry. 
+
+Make sure you have a ; at the end of each field, and no other semicolons. Then put on a single line:
+
+Cents to from ratios; Cents to ratios and back again; homepage.ntlworld.com/robertwalker/tree/cents_to_from_ratios.htm; Robert Walker 
+
+To add several entries at once, repeat this for as many entries as you want to add.
+ 
+Choose a ; as the delimiter for the Import Records.
+
+Then import them using Import Records for the FAQ_tree database
+http://groups.yahoo.com/group/tuning/database
+
+Referencing other entries in the tree
+You can only reference entries in the "on site" tree.
+http://homepage.ntlworld.com/robertwalker/site_ex/tree.htm
+
+Navigate to the one you want to refer to, choose "hide tree", and take a note of the url.
+
+Entries on the "working draft" tree will appear on the "on site" tree whenever the keeper of the FAQ does a refresh of the web site (which doesn't necessarily need to be done each time the "Working draft" tree is refreshed).
+top
+
+How this will work in detail
+
+For this to work, one needs a way to keep entries in the same location on the site whatever the structure of the tree, or whatever other navigation system is used, since that may be changed. 
+
+I suggest that we use the author field for the first part of the relative url from the root of the site. 
+
+So if, by way of example, the FAQ site was called 
+http://faq.com 
+
+file: cents_to_from_ratios.htm author: Robert Walker 
+can be saved to the site as:
+
+http://faq.com/robertwalker/cents_to_from_ratios.htm
+
+I.e. use the author field for the /robertwalker/ part of the url. 
+
+Makes it by removing any spaces, and converting all to lowercase, because many servers that host web pages are case sensitive, so that reduces likelyhood of confusions. 
+
+For the file name, uses the last part of the original url, after the final '/'.  
+
+With this convention, any references you make to other entries in the tree will remain stable, and won't go out of date. 
+
+Only thing that could happen is if the web site itself, http://faq.com is changed, then one will need to update this part of all the urls in the site, either just a search and replace, or my program could do it while refreshing the site.
+
+The url field for Entries with sound, graphics etc
+
+This will work fine in many cases. If the document includes images and sound files, then my program will (when written) be able to ftp those into your folder in the web site.
+
+I suggest, that you use relative urls, and only refer to files in the same directory as your web page entry, or in one of its subdirectories. 
+I.e., no use of ../ or of absolute urls for graphics or music. Only use absolute urls for external links. 
+
+Then my program can ignore all the absolute urls, and follow up all the relative urls in your html page, and download all the files referred to by the relative urls. That will make it easy to know what is wanted. 
+
+It will then ftp all the entries for the faq site from the original urls and the keeper of the faq can just run it and let it get on with it. 
+
+However, if you have several FAQ entries, all with graphics / sound, you may well want to put each one in a separate subfolder, to avoid confusions about which image / sound belongs to which page.
+
+If you do this, the program will need to have some way to tell where the subfolder begins.
+
+To do this, add the folder to the Author field of the database.
+E.g. 
+
+Author: Robert Walker / test2
+
+url:
+http://www.website.com/test/page_with_graphics_and_sound.htm
+
+will put the file
+page_with_graphics_and_sound.htm
+
+into the folder
+http://tuning_faq.com/robertwalker/test2/page_with_graphics_and_sound.htm
+
+and all the images etc referred to by relative urls from
+http://www.website.com/test/
+
+will be ftpd to
+http://tuning_faq.com/robertwalker/test2/  

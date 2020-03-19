@@ -1,0 +1,294 @@
+<script>
+
+var chord = new Array();
+  var min = new Array(); //4
+  var one = new Array(); //3
+  var minerror = new Array();
+  var index = new Array();
+  var limit;
+
+
+//---------------
+  var ifcheck = false;
+  var ifloop = 0;
+  var copyloop = 0;
+
+
+
+
+function getjichord()
+{
+  placement = "0" //prepare to calculate new chord  
+
+//   chord = new Array(7); //[1.0, 1.3333, 1.6666666, 1.6666666]
+
+  
+  if ((document.getElementById('note7').value == 'NA') || (document.getElementById('note7').value == ''))
+  {
+     chord = new Array(6);
+  }
+if ((document.getElementById('note6').value == 'NA') || (document.getElementById('note6').value == ''))
+  {
+     chord = new Array(5);
+  }
+ if ((document.getElementById('note5').value == 'NA') || (document.getElementById('note5').value == ''))
+  {
+     chord = new Array(4);
+  }
+ if ((document.getElementById('note4').value == 'NA') || (document.getElementById('note4').value == ''))
+  {
+     chord = new Array(3);
+  }
+  
+
+
+
+
+
+chordsized = false;
+
+
+
+  var chord0 = document.getElementById('note1').value * 1.0; 
+  chord[0] = 1.0;
+
+    for (ifloop = 0; ifloop < chord.length; ifloop++)
+   {
+    chord[ifloop] = (document.getElementById('note' + (ifloop + 1).toString()).value * 1.0)  / chord0;    
+   }
+  //copy chord info to chord[] array starting from index 0 and html id 0 + 1 = 1
+
+
+  limit = document.getElementById('limit').value;
+
+  ifcheck = true;
+  for (ifloop = 1; ifloop < chord.length; ifloop++)
+  {
+    if (isNaN(chord[ifloop])) {
+         ifcheck = false;
+        }
+  }
+
+
+  if (isNaN(limit) || isNaN(chord0)) { ifcheck = false;}
+
+  if (ifcheck == false) //if ((isNaN(chord[1])) || (isNaN(chord[2])) || (isNaN(chord[3])) )                        //||
+  { 
+    alert("You must enter numeric values for all four notes in the chord. If you want a three note chord use one of the note values twice.");
+    return "";
+  }
+     else  //input is good so do processing
+  {
+
+  processjichord(limit);
+  }
+
+} //end getjichord
+
+
+
+
+//---------------------------------------------
+function checkprime(prime,min)
+{
+               ifcheck = true;
+                    for (ifloop=0;ifloop < chord.length; ifloop++)
+                    {
+                       if ((min[ifloop] % prime)  != 0) { ifcheck = false;}
+                    }
+               if (ifcheck)
+               {
+                    for (ifloop=0;ifloop < chord.length; ifloop++)
+                    {
+                       min[ifloop] = min[ifloop] / prime;
+                    }
+                    canreduce = true;
+                
+               }
+}
+
+function recursiveloop(copyloop,wxyz)
+{
+
+  //alert("chord is " + chord[0] + "," + chord[1] + "," + chord[2] + "," + chord[3] + ".");
+  //alert("wxyz is " + wxyz[1] + "," + wxyz[2] + "," + wxyz[3] + "," + wxyz[4] + ".");
+  ///alert("minerror is " + minerror[0] + "," + minerror[1] + "," + minerror[2] + "," + minerror[3] + ".");
+
+
+
+
+         for (copyloop=0;copyloop < chord.length - 1; copyloop++)
+                {                           
+                    one[copyloop] = Math.abs(((parseInt(wxyz[copyloop + 2])*1.0)/(parseInt(wxyz[1])*1.0)) - ((chord[copyloop + 1]*1.0)/(chord[0]*1.0)));
+                }
+
+
+                    ifcheck = true;
+                    for (ifloop=0;ifloop < chord.length - 1; ifloop++)
+                    {
+                          if (one[ifloop] > minerror[ifloop]) {ifcheck = false};
+                    }
+            
+            
+
+  
+
+           if (ifcheck)         
+           {
+                
+                for (copyloop=0;copyloop < chord.length; copyloop++) //was 3
+                {               
+                  min[copyloop] = parseInt(wxyz[copyloop + 1]);              
+                  //alert("new min is " + min[copyloop]);
+
+                  minerror[copyloop] = one[copyloop];
+                }
+           }
+}
+
+var totalrun = 4;
+var totalran = 0;
+var level = 4;
+var placement = "0";
+var checker = 0;
+
+
+
+function loopme(base,level,placement,copyloop)
+{
+  var en2;
+  var place = placement;
+  var lvl = level - 1;
+  var wxyz = new Array();
+  
+  if (level == 0) 
+      {              
+
+        wxyz = placement.split(',');
+        //checker++;
+        recursiveloop(copyloop,wxyz) //temp    //alert("placement is " + place); //diagnostic shows indexes
+     }
+
+   for (en2=base;en2 <= limit; en2++) //was en2 = base
+   {
+            totalran++;            
+            if ((level > 0)) // && (checker < 2)
+            {
+            loopme(en2,lvl,place + "," + en2.toString());
+            }
+
+   }  
+}
+
+
+
+function processjichord(limit)
+{
+
+
+  
+  min = new Array(chord.length); //4
+  one = new Array(chord.length); //3
+  minerror = new Array(chord.length);
+  index = new Array(chord.length);
+  var canreduce;
+  
+
+
+for (copyloop=0;copyloop < chord.length; copyloop++) //was 3
+{                
+ minerror[copyloop] = 10000000.0;
+}
+
+   var chordsize = chord.length; 
+/////NEW RECURSIVE LOOP CODE///
+   loopme(0,chordsize,placement,copyloop); //uses "limit" to define what limit it scans for chords up to and chordsize is size of chord to be scanned
+//////////////////////////
+
+   canreduce = true
+   while (canreduce)
+   {
+
+      canreduce = false;
+
+      checkprime(2,min); 
+      checkprime(3,min);                                
+      checkprime(5,min);
+      checkprime(7,min);                                
+      checkprime(11,min);
+      checkprime(13,min);
+  }
+
+  document.getElementById('result').innerHTML = 'The nearest JI chord is ' 
+for (copyloop=0;copyloop < chord.length; copyloop++) //was 3
+{
+  document.getElementById('result').innerHTML += min[copyloop] + " "
+}   
+
+
+  //(min[0] + " " + min[1] + " " + min[2] + " " + min[3]);
+}
+
+
+
+
+
+
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<body>
+<center>Program to round frequency values to nearest JI chord structure</center>
+<br/>
+<br/>
+Note value of NA means note is not used and 5+ note chords may raise a 'script taking too long' message.
+<br/>
+<br/>
+  <table>
+
+<tr><td>Enter the maximum number you will allow to occur in your chord in JI notation </td><td><input
+id="limit" value="20"/></td></tr>
+
+ 
+<tr><td>Enter frequency of first note in
+chord</td><td><input
+id="note1" value="1"/></td></tr>
+  <tr><td>Enter
+frequency of second note in chord</td><td><input
+id="note2" value="1.25"/></td></tr>
+  <tr><td>Enter
+frequency of third note in chord</td><td><input
+id="note3" value="1.5"/></td></tr>
+  <tr><td>Enter
+frequency of fourth note in chord</td><td><input
+id="note4" value="NA"/></td></tr>
+  <tr><td>Enter frequency of fifth note in chord</td><td><input
+id="note5" value="NA"/></td></tr>
+  <tr><td>Enter frequency of sixth note in chord</td><td><input
+id="note6" value="NA"/></td></tr>
+  <tr><td>Enter frequency of seven note in chord</td><td><input
+id="note7" value="NA"/></td></tr>
+
+  </table>
+
+  <input type="button" value="calculate JI chord" onclick="javascript:getjichord();">
+
+ 
+<br/><br/>
+  <span id="result"></span>
+
+</body>
+
+</html>
+<!-- neodl6.grp.bf1.yahoo.com Sun Sep 30 04:56:19 UTC 2018 -->

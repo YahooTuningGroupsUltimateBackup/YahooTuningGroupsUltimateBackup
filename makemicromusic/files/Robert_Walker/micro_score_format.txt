@@ -1,0 +1,156 @@
+Interchangeable microtonal text format (IMT) - proposal.
+
+Here is a first idea for a text file format to be easily read by
+microtonal programs and saved, and to specify microtonal pitches
+and timings:
+
+Requirements - must be easy to read and to save. Must be easily
+convertible into Midi and also into C-sound. Must be possible to
+save it directly from a performance in real time, so that one
+records note ons and note offs as separate events.
+
+Must also be able to quickly convert into it from a format that 
+specifies each note by the start time and duration only, with no note offs.
+
+Must be able to specify pitches by scale degrees only, or by cents,
+ratios, or herz values.
+
+Default scale I suppose 12-et and default 1o1 middle c, but then
+you can specify those.
+
+A pentatonic j.i. tune  might begin:
+
+scale 1/1 9/8 5/4 3/2 16/5 16/9 2/1
+1o1 440.0
+
+time 0.0
+notes 1:0=1.0 1:2=1.0 2:3=1.0
+time 1.0
+
+here in 1:0=1.0
+
+1: means play the note in part 1 where by default one need make
+   no distinction between parts and instruments - instrument n 
+   plays in part n
+0 means play scale degree 0. Here you can also use
+  decimal point for cents, ratio with '/' for ratio, or herz
+  using z as prefix, e.g. z440 to play  440 herz.
+=1.0 = note lasts for 1.0 seconds
+
+time 1.0 sets the current time for what follows.
+
+For real time recording the same thing is done as:
+
+time 0.0
+notes_on 1:0 1:2 2:3
+time 1.0
+notes_off 1:0 1:2 2:3
+
+Here something that raises a question - how do you recognise a note
+off? Maybe that it is the same pitch to within a given tolerance
+and the same instrument number as the note on.
+
+Conversion between the two formats is still tricky - but
+maybe one could do a utility to do it. It just needs to read
+the notes_on, notes_off, time, and notes lines and can
+leave everything else unchanges.
+
+Also would have an optional
+
+arpeggio 0 2 4 7 9 12
+so that from then on the degrees refer to notes
+in the arpeggio rather than the scale, then
+arpeggio(0) resets it to follow the scale again.
+
+I think that covers all the essentials of playing notes
+- one then needs to think about effects and pitch glides
+and so on, and how to do those.
+
+Maybe
+
+glide 0 12 0.5 100 = glide from scale degree 0 to 12 in 0.5 seconds
+with a suggested resolution of 100 pitch increments.
+
+Each instruction has to start a new line, and a program that reads it
+ignores the rest of the line if it doesn't recognise the instruction that
+starts it.
+
+Any tokens after the first one that begin with anything except for 0, 1, .. 9
+are treated as comments, so you can write.
+
+glide from 0 to 12 time 0.5 steps 100
+
+The program reading it will just read the word glide at the beginning to know 
+what it is then only the numbers after that 
+
+String comparison takes
+time while just testing to see if a token begins with 0 to 9 is very fast
+indeed, in c it can be done in a single switch statement which is
+very fast indeed.
+
+switch(c)
+{
+ case '0':
+ case '1':
+...
+ case '9':
+  // read the next expected value
+  break;
+ default:
+  // ignore it
+}
+
+Also as in Scala, all lines begining with an '!' as comments.
+
+
+If you use decimal point instead of a scale degree,
+reads it as cents inteval from the 1o1
+(ignore the current scale) If it has a '/', the value is a ratio.
+To play a particular herz value prefix it with z.
+
+so:
+
+notes 1:7/6=1.0 1:702.0=1.0 1:z660=1.0
+are examples of these other three file formats -
+ratio, cents, herz.
+
+If the number has a '/' in it, it is read as a ratio 
+so you can specify decimal point numbers by appending
+/1. E.g. 1.5/1 is the same as 3/2, and _not_ 1.5 cents.
+
+
+Have parts too:
+
+By default instrument n plays in part n.
+
+To change that:
+
+Parts 1:3 2:3 3:6
+
+Part 1 plays instrument 3, so does part 2. Part 3 plays instrument 6
+
+Then after that when you have
+
+notes 1:0=1.0 
+
+it now means part 1 plays degree 0 for 1 second, so i.e. instrument 3 as that
+is now the instrument for part 1, using whatever
+effects have been assigned to part 1.
+
+This will make conversion from midi easier and also generally a useful
+feature to have.
+
+Controllers etc: can do
+
+midi_controller 10 (pan) part 1 value 64
+
+to set pan for part 1 to 64
+
+that kind of thing.
+
+Just an idea.
+
+
+
+
+

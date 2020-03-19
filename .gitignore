@@ -1,0 +1,10 @@
+/.idea
+/.DS_STORE
+/.module-cache
+*.log*
+/dist/*
+!/dist/.gitkeep
+bash.exe.stackdump
+/.npmignore
+report*.json
+/.gitattributes

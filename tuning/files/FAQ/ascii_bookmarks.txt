@@ -1,0 +1,195 @@
+Short expo:
+
+$.$.$
+as the first line of text.
+
+$.$.trines
+as the section header
+
+See $$.trines$
+to refer to it
+
+See $$MargoSchulter$Neo Gothic (gentle intro)$$
+
+to refer to another faq, where the title
+
+$Neo Gothic (gentle intro)$
+is the short one you see in the tree
+
+To refer to a section within another faq:
+
+See $$MargoSchulter$Neo Gothic (gentle intro)$.trines$
+
+to refer to a section in another faq.
+
+In html
+$.$.$
+as the first line of text.
+
+Use the html header 1, 2, 3
+type headings for the sections.
+
+Use same method as before to refer to another faq.
+
+Use
+$.unison vectors
+to make a bookmark in your faq that anyone else
+can link to.
+
+Details:
+
+.................In plain text files................
+
+If you want your entry to be automatically numbered in the ASCII FAQ
+place
+$.$.$
+as the first line of text.
+
+Then whenever you want a new section header, add a new line immediately
+before the title of the section, as
+$.$.$...name
+with the number of $.s giving the number of levels in the numbering system.
+
+e.g.
+
+$.main 
+A gentle introduction to neo-Gothic progressions (1)
+.....
+$.$.trines
+Trines, quads, and intonational flavors
+....
+$.$.$.most proximal
+Part 1 of 2: Most proximal quads
+
+
+Now if you want to refer to one of the sections, do it as
+
+See $$.trines$
+
+I.e.
+$$.bookmark name$
+
+Be sure to include the . in $$.trines, as that makes it clear
+you are referring to another section in the same faq, rather
+than another faq.
+
+Also be sure to double the initial $$ to show that it is a link.
+Notice the final $ as well.
+
+To refer to an entry in another faq, do it as
+
+See $$Joseph Pehrson$19-tET notations$$
+
+i.e. 
+
+$$author$title$$
+
+Notice the final $$
+
+The up to date FAQ will have the author listed for each entry, at the head
+of the page, so that you can do this.
+(any objections to that?)
+
+The title is the title as shown in the tree.
+
+To refer to a section within another ascii faq, use
+
+See $$MargoSchulter$Neo Gothic (gentle intro)$.trines$
+
+I.e.
+$$author$tree title$bookmark$
+
+You can read the bookmark by looking it up in the draft tree.
+
+If you do need to use a line beginning
+$.$.$...
+(perhaps in an ascii diagram)
+switch it off with
+
+$$off
+
+then back on again with
+$$on
+
+This can be done at any point, and the lines
+$$on
+$$off
+will be removed completely from the final version, so there will be
+no extra blank lines.
+
+Similarly
+$.trines
+will be removed, leaving extra lines, when the next line is
+made into a section heading as, say
+
+In the html version of your document, your section headers will be made
+into the various header levels for html, and your references will
+be made into links to the section headers.
+
+So in the final FAQ, 
+
+$.$.trines
+Trines, quads, and intonational flavors
+becomes
+.....1.1 Trines, quads, and intonational flavors
+
+.....................in html..........................
+
+If you want your entry to be automatically numbered in the ASCII FAQ
+place
+$.$.$
+as the first line of text.
+
+This means, first line of visible text in the document.
+
+Now, make sure you use the Header 1, Header 2, Header 3,... styles
+for section headings.
+
+Now the program can treat any header 1 text as a section header 
+for the top level in the numbering system for your file.
+
+Header 2 text will be for the next level,
+and so on.
+
+Since header 1 is rather large, you can start with header 2 if you
+prefer, or header 3 or smaller.
+
+You can still use the ascii method too.
+
+E.g. to refer to another entry in the faq, either use the url, or probably
+_better_, refer to it as
+
+See $$MargoSchulter$Neo Gothic (gentle intro)$.trines
+
+In your html you can also use bookmarks in the usual way.
+
+In the ascii conversion, a link to a bookmarks will be
+converted to reference to the ascii header for whatever section it is in.
+
+If you want one of your bookmarks to be referrable from
+any other faq, then make a new line of text immediately before it.
+
+E.g.
+$.unison vectors
+
+Then anyone else who wants to refer to that section can refer to it
+using
+
+See $$your name$your faq$.unison vectors$
+
+as before.
+
+You can also use it yourself within your own faq, using See $$.unison vectors$$
+
+As before, the $$. at the beginning indicates that it is a reference to
+a section in the same faq, rather than one in another faq.
+
+The bookmarks will work in the "on site" faq whenever it is next 
+refreshed.
+
+To see them, in order to link to them, you look at the "working draft" faq.
+
+Robert
+
+
+

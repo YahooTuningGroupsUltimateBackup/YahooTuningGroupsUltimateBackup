@@ -1,0 +1,192 @@
+------------------------------------------------------------------------
+Xenharmonic Moving Windows                              26 August, 2001
+  MIDI engine spec
+
+
+Introduction:
+
+ This document describes a procedure for applying tunings with more than
+twelve pitches per octave to MIDI instruments.  In particular, it aims
+to present these tunings twelve pitches at a time, in order to
+facilitate their use by composers and instrumentalists having access to
+and experience with the tools of traditional 12-note music... such as
+notation and ear training, keyboards and fingering, staff paper and
+sight-reading, and so on.
+
+ The procedure defines two different types of MIDI channels -- "control"
+channels and "window" channels.  Window channels make up the musician's
+12-note view of the larger virtual tuning, while control channels allow
+him to move this window around in the virtual tuning.  The procedure is
+described in the context of a software implementation for Microsoft
+Windows.
+
+ The software uses both Pitch bend and MTS Sysex for tuning MIDI
+instruments.  Pitch bend is supported by nearly all MIDI instruments,
+but requires twelve window channels on a single instrument for mono-
+timbral performance.^1  MTS Sysex is supported by a smaller variety of
+MIDI instruments, but requires only a single window channel for mono-
+timbral performance.  In either case, multitimbral performance may be
+achieved by using more than one MIDI instrument.^2
+
+ This document distinguishes between pitches and intervals.  Pitches are
+written as octave-equivalent ratios with a slash, relative to a given
+reference frequency.  Intervals are written as octave-equivalent ratios
+with a colon, measured from a given reference pitch.  So "5/4" refers to
+a particular frequency, while "5:4" refers to a distance from a given
+pitch... "25/16 is found a 5:4 above 5/4".
+
+
+Output:
+
+ (1) MIDI stream.
+	The software should present itself to Windows as a MIDI device,
+	taking MIDI-in from other Windows MIDI devices and sending
+	Windows-friendly MIDI-out in real time.  The total turn-around
+	time ("latency") should be less than 10 ms.
+
+ (2) Save-to-file. (.mid)
+	The software has a MIDI stream buffer, which may be dumped to a
+	General MIDI file using standard MFC "save-as" dialogs.
+
+ (3) Save-to-file. (.txt)
+	The software generates a standard text file from the MIDI
+	buffer, showing the final tuning of each event on the window
+	channel(s) as cents deviation from 12-tET, on a tick-by-tick
+	basis.
+
+ (4) Save-to-file. (.scl)
+	The window intervals may saved as a Scala file.
+
+
+Input:
+
+ (1) Tuning reference. (1-128)
+	The given MIDI note and its default pitch are taken as a
+	reference point.
+
+ (2) Window intervals. (.scl)
+	A size-ordered list of twelve octave-equivalent intervals, given
+	in cents 1 -> 1199 and/or proper fractions 99:98 -> 99:50.
+	These intervals and their octave equivalents are applied to the
+	reference pitch in (1) and mapped to consecutive MIDI notes to
+	create the initial scale for the window channel(s).  The window
+	intervals may be populated from standard Scala files (.scl) when
+	they define exactly 12 notes (else they should return an error).
+
+ (3) Retune type. (Pitch bend/MTS)
+	For each Windows MIDI instrument, the user selects either Pitch
+	bend or MTS.
+
+ (4) MIDI channel setup.
+	The software displays two empty sequencer-style track sheets,
+	one for window channels and one for control channels.  The user
+	populates these with MIDI channels from the devices defined in
+	(3).  A given MIDI channel can only appear in one sheet.  For
+	pitch-bend devices, twelve channels at a time are acquired by
+	the window channel sheet, where a bracket displays them as a
+	group and gangs their settings together.
+
+ (5) MIDI channel settings.
+	The window-channels sheet contains the following settings:
+	mute, volume, pan, patch.  They function as they would in a
+	standard MIDI sequencer, and default to: off, 63, 63, and
+	patch 001, respectively.
+
+	The control-channels sheet contains the following settings:
+	mute, "window channel #", and "control type", which default to:
+	on, "none", and "none", respectively.
+
+	When mute for a control channel is switched off, events sent on
+	the channel are copied into the channel specified in its "window
+	channel #" field, immediately after having the control effect
+	specified in its "control type" field.  A "window channel #"
+	must be specified to enable the mute field.
+
+	The "control type" field has the following possible values:
+	"none", "diamond", "diamondrel", "cross", and "crossfree".
+
+	If "none", events on the control channel do nothing to the
+	window pitches.
+
+	If "diamond", the choice of a note from the control channel is
+	the choice of a position in the original list of window
+	intervals.  The list is rotated to this position and applied to
+	the reference pitch in (1) to generate new window pitches.^3
+
+	If "diamondrel", the choice of a note from the control channel
+	is the choice of a position in the current list of window
+	intervals.  The list is rotated to this position and applied to
+	the reference pitch in (1) to generate new window pitches.^4
+
+	If "cross", the choice of a note from the control set is the
+	choice of a pitch -- the pitch found on that note in the initial
+	window mapping created in (2).  This pitch is placed into (1),
+	and the window pitches are rebuilt accordingly.^5
+
+	If "crossfree", things happen as in "cross", except the new
+	reference pitch for (1) is taken from the current -- as opposed
+	to the initial -- window mapping.^6
+
+ (6) Retune sounding notes? (Yes/No)
+	When =Yes, tuning changes are applied to notes only at note-on.
+	Implementation must support the issue of multiple tuning changes
+	while a note is sounding, and apply only the last (most recent)
+	tuning when the note finally gets a new note-on.^7
+
+
+Final Thoughts:
+
+ It is natural to imagine using this software with an organ, where the
+pedal is assigned to a control channel... with score entry software,
+where a particular staff may be assigned to a control channel...  We
+suggest supporting a maximum of two simultaneous control channels; up to
+one each from the "cros_" and "diam_" types.
+
+ The author would like to recognize Denny Genovese's contribution to the
+ideas presented here, and note that a similar strategy has been used by
+Wendy Carlos and was implemented on Kurzweil K2000 series MIDI equipment
+at her request.
+
+ This document was inspired by a discussion with Robert Walker on the
+crazy_music mailing list (http://groups.yahoo.com/), and a version of
+the procedure described here is implemented in his Fractal Tune Smithy
+software (http://go.to/tunesmithy/).
+
+
+Footnotes:
+
+ ^1  Sequential window events are sent to the "least busy" of these
+channels.
+
+ ^2  Or by using a single multitimbral instrument with MTS, or pitch
+bend when at least 24 channels are available.
+
+ ^3  The total tuning available to the musician with a single "diamond"
+control channel is the Partchian tonality diamond of the original window
+intervals.  The reference note in (1) will always be the diamond's 1/1.
+
+ ^4  This variant gives access to the same total tuning as "diamond",
+but offers a different way to think about the roots -- they are given
+relative to the window set currently in use, rather than to the original
+window set.
+
+ ^5  This option confines the total tuning to the Cartesian cross
+product of the window intervals, with a maximum of 78 pitches (because
+the Cartesian cross product has a plane of mirror symmetry, the maximum
+number of pitches needed to play in every key of a scale with n notes is
+not n^2 but n(n+1)/2 -- the classic formula for the sum of natural
+numbers up to n).
+
+ ^6  The result is similar to that of "cross", except the total tuning
+is unbounded, and the pitch at the chosen note will never change as a
+result of the choice.
+
+ ^7  When the window intervals are in just intonation, =No facilitates
+"crunchy" (Keenan Pepper's term) suspended chords.
+
+
+-=Carl Lumma
+Berkeley, California
+
+
+------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+! mir31_7c.scl
+Nudia; neutral diatonic
+7
+!
+193.548387
+348.387097
+464.516129
+696.774194
+812.903226
+1045.161290
+1200.000000
+! [0,12,3,4,6,7,9]
+! Neutral triads; 1-11/9-10/7-7/4 chord over second degree
+! 72-et strictly proper: [12,21,28,42,49,63,72]

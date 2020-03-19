@@ -1,0 +1,13 @@
+! prop31_7g.scl
+Enharmonic major; inverse enharmonic minor
+7
+!
+193.548387
+387.096774
+503.225806
+696.774194
+929.032258
+1083.870968
+1200.000000
+! [0, 2, -1, 1, -9, 5]
+! C D E F G Bbb B

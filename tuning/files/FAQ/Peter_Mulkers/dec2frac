@@ -1,0 +1,173 @@
+How to convert a decimal number into a fraction ?
+=================================================
+
+example : 
+
+given decimal number:      1.13207... 
+
+r  =                      1.13207... 
+ 0
+r  =  1/(O.13207...) =    7.57142...
+ 1 
+r  =  1/(0.57142...) =    1.75
+ 2
+r  =  1/(0.75)       =    1.33333...
+ 3
+r  =  1/(0.33333...) =    3 
+ 4
+
+p = r  * r  * r  * r  * r   = 60
+     0    1    2    3    4
+
+q = r  * r  * r  * r  = 53
+     1    2    3    4
+
+fraction:           p/q = 60/53
+
+---------------------------------------------------------
+
+Why does this work ?
+--------------------
+
+The product of all the remainders in a finite 
+continued-fraction equals the most simple numerator.
+
+p/q = [a ;a ,a ,a ,...a ]
+        0  1  2  3     n
+    = [a ;a ,a ,a ,...r ]
+        0  1  2  3     n
+       ...
+    = [a ;a ,a ,r ]
+        0  1  2  3
+    = [a ;a ,r ]
+        0  1  2
+    = [a ;r ]
+        0  1
+    = r
+       0
+
+
+  p = r *r *r *r *...*r 
+       0  1  2  3      n
+
+---------------------------------------------------------
+
+Theorems:
+---------
+
+finite continued fraction :
+[a ;a ,a ,a ,...,a     ,a ,a     ,...,a     ,a ]
+  0  1  2  3      (k-1)  k  (k+1)      (n-1)  n
+
+A finite continued fraction is rational,
+so it can be represented as a normal fraction.
+[a ;a ,a ,a ,...,a     ,a ,a     ,...,a     ,a ] = p/q
+  0  1  2  3      (k-1)  k  (k+1)      (n-1)  n
+
+remainder :
+r  = [a ,a     ,...,a     ,a ]
+ k     k  (k+1)      (n-1)  n
+r  = a  + 1/r                            (1)
+ k    k      (k+1)
+
+each remainder of a continued fraction can
+be seen as another continued fraction.
+When the continued fraction is finite, so are
+the remainders, and so they can be represented
+by normal fractions.
+r  = p /q                                (2)
+ k    k  k
+
+The last remainder of a finite continued fraction is
+a whole number so its denominator equals 1.
+r  = p /q  = p /1
+ n    n  n    n
+q  = 1                                   (3)
+ n
+
+The relation between numerators and denominators
+of succesive remainders :
+r  = a  + 1/r                            (1)
+ k    k      (k+1)
+p /q  = a  + 1/(p     /q     )           (2)in((1)
+ k  k    k       (k+1)  (k+1)
+p /q  = a  + q     /p
+ k  k    k    (k+1)  (k+1)
+p /q  = (a *p      + q     ) / p
+ k  k     k  (k+1)    (k+1)     (k+1)
+
+and so
+p  = a *p      + q
+ k    k  (k+1)    (k+1)
+and
+q  = p        or   p  = q                (4)
+ k    (k+1)         k    (k-1)
+
+---------------------------------------------------------
+
+Proof with nth order continued fraction:
+---------------------------------------
+
+What we want to proof:          
+r *r *r *...*r     *r   =?  P 
+ 0  1  2      (n-1)  n       0
+
+implement:(2)
+(p /q )*(p /q )*(p /q )*...*(p     /q     )*(p /q ) =? p
+  0  0    1  1    2  2        (n-1)  (n-1)    n  n      0
+implement:(3)
+(p /q )*(p /q )*(p /q )*...*(p     /q     )*(p /1 ) =? p
+  0  0    1  1    2  2        (n-1)  (n-1)    n  n      0
+(p /q )*(p /q )*(p /q )*...*(p     /q     )*p =? p
+  0  0    1  1    2  2        (n-1)  (n-1)   n    0
+implement:(4)
+(p /q )*(p /q )*(p /q )*...*(p     /q     )*q      =? p
+  0  0    1  1    2  2        (n-1)  (n-1)   (n-1)     0
+(p /q )*(p /q )*(p /q )*...*p      =? p
+  0  0    1  1    2  2       (n-1)     0
+implement:(4)
+(p /q )*(p /q )*(p /q )*...*q      =? p
+  0  0    1  1    2  2       (n-2)     0
+...
+(p /q )*(p /q )*(p /q )*q  =? p
+  0  0    1  1    2  2   2     0
+(p /q )*(p /q )*p  =? p
+  0  0    1  1   2     0
+implement:(4)
+(p /q )*(p /q )*q  =? p
+  0  0    1  1   1     0
+(p /q )*p  =? p
+  0  0   1     0
+implement:(4)
+(p /q )*q  =? p
+  0  0   0     0
+p  = p 
+ 0    0
+---------------------------------------------------------
+
+Proof with 3th order (n=3) continued fraction:
+---------------------------------------------
+
+r *r *r *r  =? P 
+ 0  1  2  3     0
+(p /q )*(p /q )*(p /q )*(p /q ) =? p 
+  0  0    1  1    2  2    3  3      0
+(p /q )*(p /q )*(p /q )*(p /1) =? p 
+  0  0    1  1    2  2    3        0
+(p /q )*(p /q )*(p /q )*(q /1) =? p 
+  0  0    1  1    2  2    2        0
+(p /q )*(p /q )*p  =? p 
+  0  0    1  1   2     0
+(p /q )*(p /q )*q  =? p 
+  0  0    1  1   1     0
+(p /q )*p  =? p 
+  0  0   1     0
+(p /q )*q  =? p 
+  0  0   0     0
+p  = p
+ 0    0
+---------------------------------------------------------
+Peter Mulkers
+Belgium
+P.Mulkers@gmx.net
+---------------------------------------------------------

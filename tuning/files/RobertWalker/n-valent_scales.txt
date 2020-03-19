@@ -1,0 +1,403 @@
+ v___2_n__3_class_1_class_2_ chimes.scl | Heavenly Chimes
+ v___2_n__4_class_1_class_3_ efg555.scl | Genus quartum [555]
+ v___2_n__4_class_1_class_3_ efg777.scl | Genus decimum [777]
+ v___2_n__5_class_1_class_4_ 05-19.scl | 5 out of 19-tET
+ v___2_n__5_class_1_class_4_ hexany18.scl | 1.7.49.343 Hexany, a degenerate pentatonic form
+ v___2_n__5_class_1_class_4_ quasi_5.scl | Quasi-Equal 5-Tone in 24-tET, 5 5 4 5 5 steps
+ v___2_n__5_class_1_class_4_ slendro_pa.scl | "Blown fifth" primitive slendro, von Hornbostel
+ v___2_n__5_class_1_class_4_ slendro_pc.scl | "Blown fifth" modern slendro, von Hornbostel
+ v___2_n__5_class_2_class_3_ 05-24.scl | 5 out of 24-tET, symmetrical
+ v___2_n__5_class_2_class_3_ chin_5.scl | Chinese pentatonic from Zhou period
+ v___2_n__5_class_2_class_3_ hexany16.scl | 1.3.9.27 Hexany, a degenerate pentatonic form
+ v___2_n__5_class_2_class_3_ hexany22.scl | 1.11.121.1331 Hexany, a degenerate pentatonic form
+ v___2_n__5_class_2_class_3_ slendro_pb.scl | "Blown fifth" medium slendro, von Hornbostel
+ v___2_n__5_class_2_class_3_ slendro_wolf.scl | Daniel Wolf's slendro. Tuning List 30 5 1997
+ v___2_n__5_class_2_class_3_ slendro13.scl | 13-tET quasi slendro, Blackwood
+ v___2_n__5_class_2_class_3_ sur_y.scl | Surupan tone-gender Y (= mode on pamiring)
+ v___2_n__6_class_1_class_5_ efg77777.scl | Genus [77777]
+ v___2_n__6_class_1_class_5_ yasser_6.scl | Yasser Hexad, 6 of 19 as whole tone scale
+ v___2_n__7_class_1_class_6_ diat_eq.scl | Equal Diatonic, Islamic form, similar to 11/10 x 11/10 x 400/363
+ v___2_n__7_class_2_class_5_ breed4-3.scl | Graham Breed's neutral third chain subset of 7+3 scale in 24-tET
+ v___2_n__7_class_2_class_5_ cet88bis.scl | Bistep approximation of 2212121 mode in 7/4 to 11/9 9/7 10/7 3/2
+ v___2_n__7_class_2_class_5_ moha_baya.scl | Mohajira + Bayati (Dudon) 3 + 4 + 3 Mohajira and 3 + 3 + 4 Bayati tetrachords
+ v___2_n__7_class_2_class_5_ mohajira.scl | Mohajira (Dudon) Two 3 + 4 + 3 Mohajira tetrachords, neutral diatonic
+ v___2_n__7_class_2_class_5_ rast_moha.scl | Rast + Mohajira (Dudon) 4 + 3 + 3 Rast and 3 + 4 + 3 Mohajira tetrachords
+ v___2_n__7_class_2_class_5_ silver_7.scl | Seven-tone MOS from 1+sqr(2), 1525.864 cents
+ v___2_n__7_class_3_class_4_ 07-19.scl | 7 out of 19-tET, major
+ v___2_n__7_class_3_class_4_ aeolic.scl | Ancient Greek Aeolic, also tritriadic scale of the 54:64:81 triad
+ v___2_n__7_class_3_class_4_ arist_diat.scl | Phrygian octave species on E, 12 + 6 + 12 parts
+ v___2_n__7_class_3_class_4_ arist_diatinv.scl | Lydian octave species on E, Major Mode, 12 + 12 + 6 parts
+ v___2_n__7_class_3_class_4_ arist_syndiat.scl | Aristoxenos's Diatonon Syntonon, Dorian Mode
+ v___2_n__7_class_3_class_4_ chin_7.scl | Chinese heptatonic scale and tritriadic of 64:81:96 triad
+ v___2_n__7_class_3_class_4_ diat_gold.scl | Diatonic scale with ratio between whole and half tone the Golden Section
+ v___2_n__7_class_3_class_4_ eratos_diat.scl | Dorian mode of Eratosthenes's Diatonic, Pythagorean
+ v___2_n__7_class_3_class_4_ iran_diat.scl | Iranian Diatonic from Dariush Anooshfar, Safi-a-ddin Armavi's scale from 125 ET
+ v___2_n__7_class_3_class_4_ ives.scl | Charles Ives' stretched major scale, "Scrapbook" pp. 108-110
+ v___2_n__7_class_3_class_4_ ives2a.scl | Speculation by Joe Monzo for Ives' other stretched scale
+ v___2_n__7_class_3_class_4_ ives2b.scl | Alt. speculation by Joe Monzo for Ives' other stretched scale
+ v___2_n__7_class_3_class_4_ lucy_7.scl | Diatonic Lucy's scale
+ v___2_n__7_class_3_class_4_ mean14_7.scl | Least squares appr. of 5L+2S to Ptolemy's Intense Diatonic scale
+ v___2_n__7_class_3_class_4_ pelog_pa2.scl | New mixed gender Pelog
+ v___2_n__7_class_3_class_4_ pelog_pa.scl | "Blown fifth" pelog, von Hornbostel, type a.
+ v___2_n__7_class_3_class_4_ pelog9.scl | 9-tET Pelog
+ v___2_n__7_class_3_class_4_ syntonolydian.scl | Greek Syntonolydian, also genus duplicatum medium, or ditonum (Al-Farabi)
+ v___2_n__8_class_3_class_5_ 08-11.scl | 8 out of 11-tET
+ v___2_n__8_class_3_class_5_ 08-13.scl | 8 out of 13-tET
+ v___2_n__8_class_3_class_5_ 08-19.scl | 8 out of 19-tET
+ v___2_n__8_class_3_class_5_ rapoport_8.scl | Paul Rapoport, cycle of 14/9 close to 8 out of 11-tET, XH 13, 1991
+ v___2_n__9_class_1_class_8_ 09-19.scl | 9 out of 19-tET
+ v___2_n__9_class_1_class_8_ quasi_9.scl | Quasi-Equal Enneatonic, Each "tetrachord" has 125 + 125 + 125 + 125 cents
+ v___2_n__9_class_2_class_7_ 09-23.scl | 9 out of 23-tET, Dan Stearns
+ v___2_n__9_class_2_class_7_ bohlen_harm.scl | Bohlen's harmonic scale, inverse of lambda
+ v___2_n__9_class_2_class_7_ bohlen_lambda.scl | Bohlen's lambda scale, a mode of the Bohlen-Pierce scale
+ v___2_n__9_class_2_class_7_ bohlen-p_9.scl | Bohlen-Pierce subscale by J.R. Pierce with 3:5:7 triads
+ v___2_n__9_class_2_class_7_ bohlen_delta.scl | Bohlen's delta scale, a mode B-P, see Acustica 39: 76-86 (1978)
+ v___2_n__9_class_2_class_7_ pelog_str.scl | JI Pelog with stretched 2/1 and extra tones between 2-3, 6-7. Wolf, XH 11, '87
+ v___2_n__9_class_2_class_7_ silver_9.scl | Nine-tone MOS from 280.61 cents
+ v___2_n__9_class_2_class_7_ sur_9.scl | Theoretical nine-tone surupan gamut
+ v___2_n_10_class_1_class_9_ 10-19.scl | 10 out of 19-tET. For 9 out of 19 discard degree 3
+ v___2_n_10_class_1_class_9_ 10-29.scl | 10 out of 29-tET, chain of 124.138 cents intervals, Keenan
+ v___2_n_10_class_1_class_9_ lumma_10.scl | Carl Lumma's 10-tone 125 cent Pyth. scale, TL 29-12-1999
+ v___2_n_10_class_3_class_7_ 10-13.scl | Carl Lumma, 10 out of 13-tET MOS, TL 21-12-1999
+ v___2_n_10_class_3_class_7_ golden_10.scl | Golden version of Rapoport's Major 10 out of 13
+ v___2_n_10_class_3_class_7_ phi_10.scl | Pythagorean scale with Phi as fifth
+ v___2_n_11_class_1_class10_ 11-23.scl | 11 out of 23-tET, Dan Stearns
+ v___2_n_11_class_2_class_9_ vries6-31.scl | Leo de Vries 6/31 TTT used in "For 31-tone organ" (1995)
+ v___2_n_11_class_3_class_8_ keenan3eb.scl | Chain of 11 equal beating minor thirds, 6/5=3/2 same
+ v___2_n_11_class_3_class_8_ keenan3eb2.scl | Chain of 11 equal beating minor thirds, 6/5=3/2 opposite
+ v___2_n_11_class_3_class_8_ keenan3.scl | Chain of 1/6 kleisma tempered 6/5s, 10 tetrads, Dave Keenan, 30-Jun-99, TD235
+ v___2_n_11_class_3_class_8_ keenan3j.scl | Chain of 11 nearly just 19-tET minor thirds, Dave Keenan, 1-Jul-99
+ v___2_n_11_class_3_class_8_ mos11-34.scl | Wilson 11 of 34-tET, G=9, Chain of minor & major thirds with Kleismatic fusion
+ v___2_n_11_class_3_class_8_ silver_11.scl | Eleven-tone MOS from 1+sqr(2), 1525.864 cents
+ v___2_n_11_class_3_class_8_ silver_11a.scl | Eleven-tone MOS from 317.17 cents
+ v___2_n_11_class_4_class_7_ 11-19.scl | 11 out of 19-tET
+ v___2_n_12_class_1_class11_ cet99.scl | Scale with 18/17 steps
+ v___2_n_12_class_5_class_7_ 12-19.scl | 12 out of 19-tET scale from Mandelbaum's dissertation
+ v___2_n_12_class_5_class_7_ 12-22a.scl | 12 out of 22-tET, Pythagorean. Paul Erlich, TL 4-4-2000
+ v___2_n_12_class_5_class_7_ 12-31.scl | 12 out of 31-tET, meantone Eb-G#
+ v___2_n_12_class_5_class_7_ 12-43.scl | 12 out of 43-tET (1/5-comma meantone)
+ v___2_n_12_class_5_class_7_ 12-50.scl | 12 out of 50-tET, meantone Eb-G#
+ v___2_n_12_class_5_class_7_ 12-91.scl | 12 out of 91-tET (1/7-comma meantone)
+ v___2_n_12_class_5_class_7_ breed.scl | Graham Breed's fourth based 12-tone keyboard scale. Tuning List 23-10-97
+ v___2_n_12_class_5_class_7_ chin_lu2.scl | Chinese Lu" (Lushi chunqiu, by Lu Buwei). Mingyue: Music of the billion, p.67
+ v___2_n_12_class_5_class_7_ chin_lu4.scl | Chinese Lu" "749-Temperament"
+ v___2_n_12_class_5_class_7_ hahn_g.scl | fourth of sqrt(2)-1 octave "recursive" meantone, Paul Hahn
+ v___2_n_12_class_5_class_7_ harrison.scl | John Harrison's temperament (1775), almost 3/10-comma
+ v___2_n_12_class_5_class_7_ hawkes2.scl | Meantone with fifth tempered 1/6 of 53-tET step by William Hawkes (1808)
+ v___2_n_12_class_5_class_7_ ling-lun.scl | Scale of Ling Lun from C
+ v___2_n_12_class_5_class_7_ marsh.scl | John Marsh's meantone temperament (1809)
+ v___2_n_12_class_5_class_7_ mean10.scl | 3/10-comma meantone scale
+ v___2_n_12_class_5_class_7_ mean11.scl | 3/11-comma meantone scale
+ v___2_n_12_class_5_class_7_ mean13.scl | 3/13-comma meantone scale
+ v___2_n_12_class_5_class_7_ mean14.scl | 3/14-comma meantone scale (Giordano Riccati, 1762)
+ v___2_n_12_class_5_class_7_ mean14a.scl | fifth of sqrt(5/2)-1 octave "recursive" meantone, Paul Hahn
+ v___2_n_12_class_5_class_7_ mean16.scl | 3/16-comma meantone scale
+ v___2_n_12_class_5_class_7_ mean17.scl | 4/17-comma meantone scale, least squares error of 5/4 and 3/2
+ v___2_n_12_class_5_class_7_ mean18.scl | 5/18-comma meantone scale (Smith). Low beating minor triad
+ v___2_n_12_class_5_class_7_ mean25.scl | 7/25-comma meantone scale, least square weights 3/2:0 5/4:1 6/5:1
+ v___2_n_12_class_5_class_7_ mean26.scl | 7/26-comma meantone scale (Woolhouse 1835). Almost equal to meaneb742.scl
+ v___2_n_12_class_5_class_7_ mean27.scl | 7/27-comma meantone scale, least square weights 3/2:2 5/4:1 6/5:1
+ v___2_n_12_class_5_class_7_ mean29.scl | 7/29-comma meantone scale, least square weights 3/2:4 5/4:1 6/5:1
+ v___2_n_12_class_5_class_7_ mean2sev.scl | 2/7-comma meantone scale. Zarlino's temperament (1558). See also meaneb371
+ v___2_n_12_class_5_class_7_ mean9.scl | 2/9-comma meantone scale, Lemme Rossi, Sistema musico (1666)
+ v___2_n_12_class_5_class_7_ mean94.scl | 4/9-comma meantone scale
+ v___2_n_12_class_5_class_7_ meaneb472.scl | Beating of 5/4 = twice 3/2 same. Almost 5/14-comma
+ v___2_n_12_class_5_class_7_ meaneb472a.scl | Beating of 5/4 = twice 3/2 opposite. Almost 3/17-comma
+ v___2_n_12_class_5_class_7_ meaneb591.scl | Equal beating 4/3 = 5/3 same.
+ v___2_n_12_class_5_class_7_ meaneb732.scl | Beating of 3/2 = twice 6/5 same. Almost 4/13-comma
+ v___2_n_12_class_5_class_7_ meaneb732a.scl | Beating of 3/2 = twice 6/5 opposite. Almost 1/3 Pyth. comma
+ v___2_n_12_class_5_class_7_ meaneb742.scl | Beating of 3/2 = twice 5/4 same.
+ v___2_n_12_class_5_class_7_ meaneb742a.scl | Beating of 3/2 = twice 5/4 opposite. Almost 3/13-comma, 3/14 Pyth. comma
+ v___2_n_12_class_5_class_7_ meaneb781.scl | Equal beating 3/2 = 8/5 same.
+ v___2_n_12_class_5_class_7_ meaneb891.scl | Equal beating 8/5 = 5/3 same. Almost 5/18-comma
+ v___2_n_12_class_5_class_7_ meaneb1071.scl | Equal beating 7/4 = 3/2 same.
+ v___2_n_12_class_5_class_7_ meaneb1071a.scl | Equal beating 7/4 = 3/2 opposite.
+ v___2_n_12_class_5_class_7_ meaneb341.scl | Equal beating 6/5 = 5/4 same. Almost 4/15 Pyth. comma
+ v___2_n_12_class_5_class_7_ meaneb371.scl | Equal beating 6/5 = 3/2 same. Practically 2/7-comma (Zarlino)
+ v___2_n_12_class_5_class_7_ meaneb371a.scl | Equal beating 6/5 = 3/2 opposite. Almost 2/5-comma
+ v___2_n_12_class_5_class_7_ meaneb381.scl | Equal beating 6/5 = 8/5 same. Almost 1/7-comma
+ v___2_n_12_class_5_class_7_ meaneb451.scl | Equal beating 5/4 = 4/3 same, 5/24 comma meantone
+ v___2_n_12_class_5_class_7_ meaneb471.scl | Equal beating 5/4 = 3/2 same. Almost 5/17-comma
+ v___2_n_12_class_5_class_7_ meaneb471a.scl | Equal beating 5/4 = 3/2 opposite. Almost 1/5 Pyth. Gottfried Keller (1707)
+ v___2_n_12_class_5_class_7_ meaneight.scl | 1/8 Pyth. comma meantone scale
+ v___2_n_12_class_5_class_7_ meanfifth.scl | 1/5-comma meantone scale (Verheijen)
+ v___2_n_12_class_5_class_7_ meanfifth2.scl | 1/5-comma meantone by John Holden (1770)
+ v___2_n_12_class_5_class_7_ meanharris.scl | 1/10-Harrison's comma mean-tone scale
+ v___2_n_12_class_5_class_7_ meanhar2.scl | 1/9-Harrison's comma mean-tone scale
+ v___2_n_12_class_5_class_7_ meanhar3.scl | 1/11-Harrison's comma mean-tone scale
+ v___2_n_12_class_5_class_7_ meankleis.scl | Mean-tone scale where the kleisma is made away
+ v___2_n_12_class_5_class_7_ meanmalc.scl | Meantone approximation to Malcolm's Monochord, 3/16 Pyth. comma
+ v___2_n_12_class_5_class_7_ meanpi.scl | Pi-based meantone with Harrison's major third by Erv Wilson
+ v___2_n_12_class_5_class_7_ meanpi2.scl | Pi-based meantone by Erv Wilson analogous to 22-tET
+ v___2_n_12_class_5_class_7_ meanpkleis.scl | Positive mean-tone scale where the kleisma is made away
+ v___2_n_12_class_5_class_7_ meanquar.scl | 1/4-comma meantone scale. Pietro Aaron's temp. (1523). 6/5 beats twice 3/2
+ v___2_n_12_class_5_class_7_ meansabat.scl | 1/9-schisma mean-tone scale Sa'bat-Garibaldi's
+ v___2_n_12_class_5_class_7_ meanschis.scl | 1/8-schisma mean-tone scale Helmholtz
+ v___2_n_12_class_5_class_7_ meanschis7.scl | 1/7-schisma mean-tone scale
+ v___2_n_12_class_5_class_7_ meansept.scl | Mean-tone scale with septimal diminished fifth
+ v___2_n_12_class_5_class_7_ meansev.scl | 1/7-comma meantone scale
+ v___2_n_12_class_5_class_7_ meansixth.scl | 1/6-comma meantone scale (tritonic temperament of Salinas)
+ v___2_n_12_class_5_class_7_ meansixthso.scl | 1/6-comma meantone scale with 1/6-comma stretched oct, Dave Keenan TL 13-12-99
+ v___2_n_12_class_5_class_7_ meanten.scl | 1/10-comma meantone scale
+ v___2_n_12_class_5_class_7_ meanthird.scl | 1/3-comma meantone scale (Salinas)
+ v___2_n_12_class_5_class_7_ metamean.scl | Erv Wilson's Meta-Meantone tuning
+ v___2_n_12_class_5_class_7_ mos12-17.scl | MOS 12 of 17, generator 7
+ v___2_n_12_class_5_class_7_ mos12-22.scl | MOS 12 of 22, contains nearly just, recognizable diatonic, and pentatonic scales
+ v___2_n_12_class_5_class_7_ pepper2.scl | Keenan Pepper's "Noble Fifth" with chromatic/diatonic semitone = Phi (12)
+ v___2_n_12_class_5_class_7_ preston2.scl | Preston's theoretically correct well temperament
+ v___2_n_12_class_5_class_7_ pyth_12.scl | 12-tone Pythagorean scale
+ v___2_n_12_class_5_class_7_ sauveur2.scl | Sauveur's Syste^me Chromatique des Musiciens (Memoires 1701), 12 out of 55.
+ v___2_n_12_class_5_class_7_ sherwood.scl | Sherwood's improved meantone temperament
+ v___2_n_12_class_5_class_7_ silbermann.scl | Gottfried Silbermann's temperament
+ v___2_n_12_class_5_class_7_ smith.scl | Robert Smith's Equal Harmony temperament (1749)
+ v___2_n_12_class_5_class_7_ smith_mq.scl | Robert Smith approximation of quarter comma meantone fifth
+ v___2_n_12_class_5_class_7_ yasser_diat.scl | Yasser's Supra-Diatonic, the flat notes are V,W,X,Y,and Z
+ v___2_n_12_class_5_class_7_ zwolle.scl | Henri Arnaut De Zwolle. Pythagorean on G flat.
+ v___2_n_13_class_2_class11_ 13-19.scl | 13 out of 19-tET
+ v___2_n_13_class_3_class10_ bohlen_mean.scl | 1/3 minor BP diesis (245/243) tempered 7/3 meantone scale
+ v___2_n_13_class_3_class10_ bohlen_pyth.scl | Cycle of 13 7/3 BP tenths
+ v___2_n_13_class_3_class10_ mos13-22.scl | MOS 13 of 22, contains 5 and 9 tone MOS as well. G=5 or 17
+ v___2_n_13_class_4_class_9_ phi_13.scl | Pythagorean scale with Phi as fifth
+ v___2_n_13_class_5_class_8_ phi1_13.scl | Pythagorean scale with (Phi + 1) / 2 as fifth
+ v___2_n_14_class_3_class11_ 14-19.scl | 14 out of 19-tET
+ v___2_n_15_class_2_class13_ mos15-22.scl | MOS 15 in 22, contains 7 and 8 tone MOS as well. G= 3 or 19
+ v___2_n_16_class_5_class11_ temp16d3.scl | Cycle of 16 thirds tempered by 1/3 small diesis
+ v___2_n_16_class_5_class11_ temp16d4.scl | Cycle of 16 thirds tempered by 1/4 small diesis
+ v___2_n_16_class_7_class_9_ temp16l4.scl | Cycle of 16 fifths tempered by 1/4 major limma
+ v___2_n_17_class_7_class10_ 17-53.scl | 17 out of 53-tET, Arabic Pythagorean scale
+ v___2_n_17_class_7_class10_ arabic.scl | Arabic 17-tone Pythagorean mode, Safi al-Din
+ v___2_n_17_class_7_class10_ pyth_17.scl | 17-tone Pythagorean scale
+ v___2_n_17_class_7_class10_ temp17c10.scl | Cycle of 17 fifths tempered by 1/10 of "17-tET comma"
+ v___2_n_17_class_7_class10_ temp17c11.scl | Cycle of 17 fifths tempered by 1/11 of "17-tET comma"
+ v___2_n_17_class_7_class10_ temp17c12.scl | Cycle of 17 fifths tempered by 1/12 of "17-tET comma"
+ v___2_n_17_class_7_class10_ temp17c13.scl | Cycle of 17 fifths tempered by 1/13 of "17-tET comma"
+ v___2_n_17_class_7_class10_ temp17c14.scl | Cycle of 17 fifths tempered by 1/14 of "17-tET comma"
+ v___2_n_17_class_7_class10_ temp17c15.scl | Cycle of 17 fifths tempered by 1/15 of "17-tET comma"
+ v___2_n_17_class_7_class10_ temp17s.scl | Cycle of 17 fifths tempered by 2 schismas. Schulter, Tuning List 10-9-98
+ v___2_n_17_class_8_class_9_ vries35-72.scl | Leo de Vries 35/72 Through-Transposing-Tonality 17 tone scale
+ v___2_n_19_class_5_class14_ 19-53.scl | 19 out of 53-tET by Larry H. Hanson, 1978
+ v___2_n_19_class_5_class14_ temp19k10.scl | Chain of 19 minor thirds tempered by 1/10 kleisma
+ v___2_n_19_class_5_class14_ temp19k3.scl | Chain of 19 minor thirds tempered by 1/3 kleisma
+ v___2_n_19_class_5_class14_ temp19k4.scl | Chain of 19 minor thirds tempered by 1/4 kleisma
+ v___2_n_19_class_5_class14_ temp19k5.scl | Chain of 19 minor thirds tempered by 1/5 kleisma
+ v___2_n_19_class_5_class14_ temp19k6.scl | Chain of 19 minor thirds tempered by 1/6 kleisma
+ v___2_n_19_class_5_class14_ temp19k7.scl | Chain of 19 minor thirds tempered by 1/7 kleisma
+ v___2_n_19_class_5_class14_ temp19k8.scl | Chain of 19 minor thirds tempered by 1/8 kleisma
+ v___2_n_19_class_5_class14_ temp19k9.scl | Chain of 19 minor thirds tempered by 1/9 kleisma
+ v___2_n_19_class_6_class13_ temp19lst.scl | Cycle of 19 least squares thirds 5/4^5 = 3/2
+ v___2_n_19_class_6_class13_ temp19lst2.scl | Cycle of 19 least squares thirds 5/4, 3/2 (5), 6/5 (4)
+ v___2_n_19_class_6_class13_ temp19d5.scl | Cycle of 19 thirds tempered by 1/5 small diesis. Third = 3\5
+ v___2_n_19_class_8_class11_ 19-31.scl | 19 out of 31-tET, meantone Gb-B#
+ v___2_n_19_class_8_class11_ 19-50.scl | 19 out of 50-tET, meantone Gb-B#
+ v___2_n_19_class_8_class11_ kornerup.scl | Kornerup's temperament with fifth of (15 - sqrt 5) / 22 octaves
+ v___2_n_19_class_8_class11_ lucy_19.scl | Lucy's 19-tone scale
+ v___2_n_19_class_8_class11_ mean14_19.scl | 19 of 3/14-comma meantone scale
+ v___2_n_19_class_8_class11_ mean17_19.scl | 4/17-comma meantone scale, least squares error of 5/4 and 3/2
+ v___2_n_19_class_8_class11_ mean2sev_19.scl | 19 of 2/7-comma meantone scale
+ v___2_n_19_class_8_class11_ mean9_19.scl | 19 of 2/9-comma meantone scale
+ v___2_n_19_class_8_class11_ meaneb472_19.scl | Beating of 5/4 = twice 3/2 same, 19 tones
+ v___2_n_19_class_8_class11_ meaneb732_19.scl | Beating of 3/2 = twice 6/5 same, 19 tones
+ v___2_n_19_class_8_class11_ meanfifth_19.scl | 19 of 1/5-comma mean-tone scale
+ v___2_n_19_class_8_class11_ meanlst357_19.scl | 19 of mean-tone scale, least square error in 3/2, 5/4 and 7/4
+ v___2_n_19_class_8_class11_ meanquar_19.scl | 19 of 1/4-comma mean-tone scale
+ v___2_n_19_class_8_class11_ meansept2.scl | Mean-tone scale with septimal neutral second
+ v___2_n_19_class_8_class11_ meansev_19.scl | 19 of 1/7-comma meantone scale
+ v___2_n_19_class_8_class11_ meansixth_19.scl | 19 of 1/6-comma meantone scale
+ v___2_n_19_class_8_class11_ meanthird_19.scl | Complete 1/3-comma meantone scale
+ v___2_n_19_class_9_class10_ 19-36.scl | 19 out of 36-tET, Tomasz Liese, Tuning List, 1997
+ v___2_n_22_class_7_class15_ 22-41.scl | 22 out of 41 by Stephen Soderberg, TL 17-11-98
+ v___2_n_23_class10_class13_ bamboo.scl | Pythagorean scale with fifth average from Chinese bamboo tubes
+ v___2_n_26_class_5_class21_ pyth_sev.scl | 26-tone Pythagorean scale based on 7/4
+ v___2_n_26_class11_class15_ temp26eb3.scl | Cycle of 26 fifths, 5/4 beats three times 3/2
+ v___2_n_27_class11_class16_ temp27eb2.scl | Cycle of 27 fourths, 5/4 beats twice 4/3
+ v___2_n_27_class11_class16_ temp27c8.scl | Cycle of 27 fifths tempered by 1/8 of difference between augm. 2nd and 5/4
+ v___2_n_29_class12_class17_ meansept5.scl | Mean-tone scale with septimal diminished fifth
+ v___2_n_29_class12_class17_ temp29c14.scl | Cycle of 29 fifths 1/14 comma positive
+ v___2_n_31_class_2_class29_ temp31ms.scl | Cycle of 31 5th root of 5/4 chromatic semitones
+ v___2_n_31_class_5_class26_ temp31mt.scl | Cycle of 31 square root of 5/4 meantones
+ v___2_n_31_class_6_class25_ temp31ebs2.scl | Cycle of 31 sevenths, 3/2 beats twice 7/4. Almost 31-tET
+ v___2_n_31_class_6_class25_ temp31ebs1.scl | Cycle of 31 sevenths, 3/2 beats equal 7/4. 17/9 schisma fifth
+ v___2_n_31_class_6_class25_ temp31g3.scl | Cycle of 31 sevenths tempered by 1/3 gamelan residue
+ v___2_n_31_class_6_class25_ temp31g4.scl | Cycle of 31 sevenths tempered by 1/4 gamelan residue
+ v___2_n_31_class_6_class25_ temp31g5.scl | Cycle of 31 sevenths tempered by 1/5 gamelan residue
+ v___2_n_31_class_6_class25_ temp31g6.scl | Cycle of 31 sevenths tempered by 1/6 gamelan residue
+ v___2_n_31_class_6_class25_ temp31g7.scl | Cycle of 31 sevenths tempered by 1/7 gamelan residue
+ v___2_n_31_class10_class21_ pyth_third.scl | Cycle of 5/4 thirds
+ v___2_n_31_class10_class21_ temp31w10.scl | Cycle of 31 thirds tempered by 1/10 Wuerschmidt comma
+ v___2_n_31_class10_class21_ temp31w11.scl | Cycle of 31 thirds tempered by 1/11 Wuerschmidt comma
+ v___2_n_31_class10_class21_ temp31w12.scl | Cycle of 31 thirds tempered by 1/12 Wuerschmidt comma
+ v___2_n_31_class10_class21_ temp31w13.scl | Cycle of 31 thirds tempered by 1/13 Wuerschmidt comma
+ v___2_n_31_class10_class21_ temp31w14.scl | Cycle of 31 thirds tempered by 1/14 Wuerschmidt comma
+ v___2_n_31_class10_class21_ temp31w15.scl | Cycle of 31 thirds tempered by 1/15 Wuerschmidt comma, almost 31-tET
+ v___2_n_31_class10_class21_ temp31eb1.scl | Cycle of 31 thirds, 3/2 beats equal 5/4. Third 1/18 synt. comma higher
+ v___2_n_31_class10_class21_ temp31eb1a.scl | Cycle of 31 thirds, 5/4 beats equal 7/4
+ v___2_n_31_class10_class21_ temp31eb2.scl | Cycle of 31 thirds, 3/2 beats twice 5/4
+ v___2_n_31_class10_class21_ temp31eb2a.scl | Cycle of 31 thirds, 5/4 beats twice 3/2
+ v___2_n_31_class10_class21_ temp31eb2b.scl | Cycle of 31 thirds, 5/4 beats twice 7/4 (7/4 beats twice 5/4 gives 31-tET)
+ v___2_n_31_class10_class21_ temp31w8.scl | Cycle of 31 thirds tempered by 1/8 Wuerschmidt comma
+ v___2_n_31_class10_class21_ temp31w9.scl | Cycle of 31 thirds tempered by 1/9 Wuerschmidt comma
+ v___2_n_31_class13_class18_ mean2sev_31.scl | 31 of 2/7-comma meantone scale
+ v___2_n_31_class13_class18_ mean9_31.scl | 31 of 2/9-comma meantone scale
+ v___2_n_31_class13_class18_ meanquar_31.scl | 31 of 1/4-comma mean-tone scale
+ v___2_n_31_class13_class18_ temp31h10.scl | Cycle of 31 fifths tempered by 1/10 Harrison's comma
+ v___2_n_31_class13_class18_ temp31h11.scl | Cycle of 31 fifths tempered by 1/11 Harrison's comma
+ v___2_n_31_class13_class18_ temp31h12.scl | Cycle of 31 fifths tempered by 1/12 Harrison's comma
+ v___2_n_31_class13_class18_ temp31c51.scl | Cycle of 31 51/220-comma tempered fifths (twice diff. of 31-tET and 1/4-comma)
+ v___2_n_31_class13_class18_ temp31h8.scl | Cycle of 31 fifths tempered by 1/8 Harrison's comma
+ v___2_n_31_class13_class18_ temp31h9.scl | Cycle of 31 fifths tempered by 1/9 Harrison's comma
+ v___2_n_33_class14_class19_ temp33a12.scl | Cycle of 33 fifths tempered by 1/12 "11 fifths" comma
+ v___2_n_34_class11_class23_ temp34eb2a.scl | Cycle of 34 thirds, 5/4 beats twice 3/2
+ v___2_n_34_class11_class23_ temp34w10.scl | Cycle of 34 thirds tempered by 1/10 Wuerschmidt comma
+ v___2_n_34_class11_class23_ temp34w5.scl | Cycle of 34 thirds tempered by 1/5 Wuerschmidt comma
+ v___2_n_34_class11_class23_ temp34w6.scl | Cycle of 34 thirds tempered by 1/6 Wuerschmidt comma
+ v___2_n_34_class11_class23_ temp34w7.scl | Cycle of 34 thirds tempered by 1/7 Wuerschmidt comma
+ v___2_n_34_class11_class23_ temp34w8.scl | Cycle of 34 thirds tempered by 1/8 Wuerschmidt comma
+ v___2_n_34_class11_class23_ temp34w9.scl | Cycle of 34 thirds tempered by 1/9 Wuerschmidt comma
+ v___2_n_41_class17_class24_ meanhsev.scl | Mean-tone scale with harmonic seventh
+ v___2_n_41_class17_class24_ meansept3.scl | Mean-tone scale with septimal minor third
+ v___2_n_41_class17_class24_ meansept4.scl | Mean-tone scale with septimal narrow fourth
+ v___2_n_41_class17_class24_ meansept6.scl | Mean-tone scale with septimal neutral second
+ v___2_n_43_class18_class25_ meanfifth_43.scl | Complete 1/5-comma mean-tone scale
+ v___2_n_53_class22_class31_ meansabat_53.scl | 53-tone 1/9-schisma mean-tone scale
+ v___2m_n_10_class_3_class_7_ breed7-3.scl | Graham Breed's 7 + 3 scale in 24-tET
+ v___3_n__5_alt_class_1_abab_class_2_aaba_class_3_aaba_alt_class_4_abab_ harrison_5_3.scl | From Lou Harrison, a pelog style pentatonic
+ v___3_n__5_alt_class_1_abab_class_2_aaba_class_3_aaba_alt_class_4_abab_ hirajoshi2.scl | Another Japanese pentatonic koto scale
+ v___3_n__5_alt_class_1_abab_class_2_aaba_class_3_aaba_alt_class_4_abab_ ho_mai_nhi.scl | Ho Mai Nhi (Nam Hue) dan tranh scale, Vietnam
+ v___3_n__5_alt_class_1_abab_class_2_aaba_class_3_aaba_alt_class_4_abab_ olympos.scl | Scale of ancient Greek flutist Olympos, 6th century BC as reported by Partch
+ v___3_n__5_alt_class_1_abab_class_2_aaba_class_3_aaba_alt_class_4_abab_ prime_5.scl | What Lou Harrison calls "the Prime Pentatonic", a widely used scale
+ v___3_n__5_alt_class_1_abab_class_2_aaba_class_3_aaba_alt_class_4_abab_ spon_terp.scl | Subharm. 6-tone series, guess at Greek poet Terpander's, 6th c. BC & Spondeion, Winnington-Ingram (1928)
+ v___3_n__5_alt_class_1_abab_class_2_aaba_class_3_aaba_alt_class_4_abab_ sur_madenda.scl | Surupan madenda
+ v___3_n__5_alt_class_1_abab_class_2_aaba_class_3_aaba_alt_class_4_abab_ tranh.scl | Bac Dan Tranh scale, Vietnam
+ v___3_n__5_alt_class_1_abab_class_2_babb_class_3_babb_alt_class_4_abab_ adjeng.scl | Soeroepan adjeng
+ v___3_n__5_alt_class_1_abab_class_2_babb_class_3_babb_alt_class_4_abab_ neutr_pent1.scl | Quasi-Neutral Pentatonic 1, 15/13 x 52/45 in each trichord, after Dudon
+ v___3_n__5_alt_class_1_abab_class_2_babb_class_3_babb_alt_class_4_abab_ slendro_7_4.scl | Septimal Slendro 4, from Lou Harrison, Jacques Dudon, called "NAT"
+ v___3_n__5_alt_class_1_abab_class_2_babb_class_3_babb_alt_class_4_abab_ slendro5_1.scl | A slendro type pentatonic which is based on intervals of 7; from Lou Harrison
+ v___3_n__5_alt_class_1_abab_class_2_babb_class_3_babb_alt_class_4_abab_ slendro5_2.scl | A slendro type pentatonic which is based on intervals of 7, no. 2
+ v___3_n__5_alt_class_1_abab_class_2_babb_class_3_babb_alt_class_4_abab_ sur_ajeng.scl | Surupan ajeng
+ v___3_n__5_alt_class_1_baba_class_2_abaa_class_3_abaa_alt_class_4_baba_ harrison_5.scl | From Lou Harrison, a pelog style pentatonic
+ v___3_n__5_alt_class_1_baba_class_2_abaa_class_3_abaa_alt_class_4_baba_ sur_degung.scl | Surupan degung
+ v___3_n__5_alt_class_1_baba_class_2_bbab_class_3_bbab_alt_class_4_baba_ diaphonic_5.scl | D5-tone Diaphonic Cycle
+ v___3_n__5_alt_class_1_baba_class_2_bbab_class_3_bbab_alt_class_4_baba_ dimtetb.scl | A pentatonic form on the 9/7
+ v___3_n__5_alt_class_1_baba_class_2_bbab_class_3_bbab_alt_class_4_baba_ neutr_pent2.scl | Quasi-Neutral Pentatonic 2, 15/13 x 52/45 in each trichord, after Dudon
+ v___3_n__5_alt_class_1_baba_class_2_bbab_class_3_bbab_alt_class_4_baba_ slendro_7_3.scl | Septimal Slendro 3, Harrison, Dudon, called "MILLS" after Mills Gamelan
+ v___3_n__5_alt_class_1_baba_class_2_bbab_class_3_bbab_alt_class_4_baba_ slendro_m.scl | Dudon's Slendro M from "Seven-Limit Slendro Mutations", 1/1 8:2 Jan 1994
+ v___3_n__5_alt_class_1_baba_class_2_bbab_class_3_bbab_alt_class_4_baba_ sur_x.scl | Surupan tone-gender X (= unmodified nyorog)
+ v___3_n__5_class_1_abba_class_2_abba_class_3_baab_class_4_baab_ hexany25.scl | 1.7.11.77 Hexany, a degenerate pentatonic form
+ v___3_n__5_class_1_abba_class_2_baab_class_3_abba_class_4_baab_ harrison_min.scl | From Lou Harrison, a symmetrical pentatonic with minor thirds
+ v___3_n__5_class_1_abba_class_2_baab_class_3_abba_class_4_baab_ hexany15.scl | 1.3.5.15  2)4 hexany (1.15 tonic) degenerate, symmetrical pentatonic
+ v___3_n__5_class_1_abba_class_2_baab_class_3_abba_class_4_baab_ hexany17.scl | 1.5.25.125 Hexany, a degenerate pentatonic form
+ v___3_n__5_class_1_abba_class_2_baab_class_3_abba_class_4_baab_ hexany23.scl | 1.3.11.33 Hexany, degenerate pentatonic form
+ v___3_n__5_class_1_abba_class_2_baab_class_3_abba_class_4_baab_ hexany26.scl | 1.9.11.99 Hexany, a degenerate pentatonic form
+ v___3_n__5_class_1_abba_class_2_baab_class_3_abba_class_4_baab_ slendro_7_2.scl | Septimal Slendro 2, From Lou Harrison, Jacques Dudon's APTOS
+ v___3_n__5_class_1_abba_class_2_baab_class_3_abba_class_4_baab_ slendro_a1.scl | Dudon's Slendro A1, "Seven-Limit Slendro Mutations", 1/1 8:2'94 hexany 1.3.7.21
+ v___3_n__5_class_1_abba_class_2_baab_class_3_abba_class_4_baab_ slendro_a2.scl | Dudon's Slendro A2 from "Seven-Limit Slendro Mutations", 1/1 8:2 Jan 1994
+ v___3_n__5_class_1_abba_class_2_baab_class_3_abba_class_4_baab_ temes-ur.scl | Temes' Ur 5-tone phi scale
+ v___3_n__5_class_1_baab_class_2_baab_class_3_abba_class_4_abba_ hexany19.scl | 1.5.7.35 Hexany, a degenerate pentatonic form
+ v___3_n__5_class_1_baab_class_2_baab_class_3_abba_class_4_abba_ hexany24.scl | 1.5.11.55 Hexany, a degenerate pentatonic form
+ v___3_n__5_class_1_baab_class_2_baab_class_3_abba_class_4_abba_ slendro_alv.scl | Bill Alves, slendro for Gender Barung, 1/1 vol.9 no.4, 1997. 1/1=282.86
+ v___3_n__5_class_1_babb_alt_class_2_abab_alt_class_3_abab_class_4_babb_ slendro_s1.scl | Dudon's Slendro S1 from "Seven-Limit Slendro Mutations", 1/1 8:2 Jan 1994
+ v___3_n__5_class_1_babb_alt_class_2_abab_alt_class_3_abab_class_4_babb_ slendro_s2.scl | Dudon's Slendro S2
+ v___3_n__5_class_1_bbab_alt_class_2_baba_alt_class_3_baba_class_4_bbab_ pygmie.scl | Pygmie scale
+ v___3_n__5_class_1_bbab_alt_class_2_baba_alt_class_3_baba_class_4_bbab_ slendro_7_1.scl | Septimal Slendro 1, From HMSL Manual, also Lou Harrison, Jacques Dudon
+ v___3_n__5_class_1_bbab_alt_class_2_baba_alt_class_3_baba_class_4_bbab_ slendro_7_5.scl | Septimal Slendro 5, from Jacques Dudon
+ v___3_n__7_alt_class_2_ababab_class_3_aaabaa_class_4_aaabaa_alt_class_5_ababab_ al-farabi_g3.scl | Al-Farabi's Greek genus conjunctum primum
+ v___3_n__7_alt_class_2_ababab_class_3_aaabaa_class_4_aaabaa_alt_class_5_ababab_ diat_enh4.scl | Diat. + Enharm. Diesis, Dorian Mode, 15 + 12 + 3 parts
+ v___3_n__7_alt_class_2_ababab_class_3_aaabaa_class_4_aaabaa_alt_class_5_ababab_ tritriad69.scl | Tritriadic scale of the 6:7:9 triad
+ v___3_n__7_alt_class_2_ababab_class_3_aaabaa_class_4_aaabaa_alt_class_5_ababab_ tritriad26.scl | Tritriadic scale of the 26:30:39 triad
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ finnamore_jc.scl | Chalmers' modification of Finnamore. Tuning List 9-5-97 19/18 x 9/8 x 64/57
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ indian-magrama.scl | Indian mode Ma-grama (Sa Ri Ga Ma Pa Dha Ni Sa)
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ prooijen1.scl | Kees van Prooijen, major mode of Bohlen-Pierce
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ ptolemy_idiat.scl | Dorian mode of Ptolemy's Intense Diatonic (Diatonon Syntonon)
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ ptolemy.scl | Intense Diatonic Syntonon, also Zarlino's scale
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ savas_bardiat.scl | Savas's Byzantine Liturgical mode, 8 + 12 + 10 parts
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ sur_7.scl | 7-tone surupan
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ tritriad9.scl | Tritriadic scale of the 9:11:13 triad
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ tritriad22.scl | Tritriadic scale of the 22:27:33 triad
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ tritriad32.scl | Tritriadic scale of the 26:32:39 triad
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ yves.scl | St Yves's scale II from Jocelyn Godwin, "Music and the Occult", 1995.
+ v___3_n__7_alt_class_2_ababab_class_3_bbabbb_class_4_bbabbb_alt_class_5_ababab_ zarlino.scl | Ptolemy's Intense Diatonic Systonon, also Zarlino's scale
+ v___3_n__7_alt_class_2_bababa_class_3_aabaaa_class_4_aabaaa_alt_class_5_bababa_ barbour_chrom3.scl | Barbour's #3 Chromatic
+ v___3_n__7_alt_class_2_bababa_class_3_aabaaa_class_4_aabaaa_alt_class_5_bababa_ diat_enh2.scl | Diat. + Enharm. Diesis, Dorian Mode 3 + 12 + 15 parts
+ v___3_n__7_alt_class_2_bababa_class_3_aabaaa_class_4_aabaaa_alt_class_5_bababa_ pelog_pb2.scl | "Primitive" Pelog, Kunst: Music in Java, p. 28
+ v___3_n__7_alt_class_2_bababa_class_3_aabaaa_class_4_aabaaa_alt_class_5_bababa_ pelog_pb.scl | "Primitive" Pelog, step of blown semi-fourths, von Hornbostel, type b.
+ v___3_n__7_alt_class_2_bababa_class_3_aabaaa_class_4_aabaaa_alt_class_5_bababa_ ptolemy_diat2.scl | Dorian mode of a permutation of Ptolemy's Tonic Diatonic
+ v___3_n__7_alt_class_2_bababa_class_3_aabaaa_class_4_aabaaa_alt_class_5_bababa_ tritriad13.scl | Tritriadic scale of the 10:13:15 triad
+ v___3_n__7_alt_class_2_bababa_class_3_aabaaa_class_4_aabaaa_alt_class_5_bababa_ tritriad14.scl | Tritriadic scale of the 14:18:21 triad
+ v___3_n__7_alt_class_2_bababa_class_3_bbbabb_class_4_bbbabb_alt_class_5_bababa_ prooijen2.scl | Kees van Prooijen, minor mode of Bohlen-Pierce
+ v___3_n__7_alt_class_2_bababa_class_3_bbbabb_class_4_bbbabb_alt_class_5_bababa_ redfield.scl | Redfield New Diatonic
+ v___3_n__7_alt_class_2_bababa_class_3_bbbabb_class_4_bbbabb_alt_class_5_bababa_ tiby4.scl | Tiby's fourth Byzantine Liturgical genus, 9 + 12 + 7 parts
+ v___3_n__7_alt_class_2_bababa_class_3_bbbabb_class_4_bbbabb_alt_class_5_bababa_ tritriad18.scl | Tritriadic scale of the 18:22:27 triad
+ v___3_n__7_alt_class_2_bababa_class_3_bbbabb_class_4_bbbabb_alt_class_5_bababa_ tritriad.scl | Tritriadic scale of the 10:12:15 triad, natural minor mode
+ v___3_n__7_class_1_aabaaa_alt_class_3_bababa_alt_class_4_bababa_class_6_aabaaa_ tritriad5.scl | Tritriadic scale of the 5:7:9 triad,  perhaps Mathews's 5.7.9a.
+ v___3_n__7_class_1_abaaba_class_2_abaaba_class_3_babbab_class_4_abaaba_class_5_babbab_class_6_babbab_ al-farabi_diat2.scl | Old Phrygian, permuted form of Al-Farabi's reduplicated 10/9 diatonic genus
+ v___3_n__7_class_1_abaaba_class_2_abaaba_class_3_babbab_class_4_abaaba_class_5_babbab_class_6_babbab_ arist_chrom.scl | Dorian, Neo-Chromatic,6+18+6 parts = Athanasopoulos' Byzant.liturg. 2nd chromatic
+ v___3_n__7_class_1_abaaba_class_2_abaaba_class_3_babbab_class_4_abaaba_class_5_babbab_class_6_babbab_ arist_penh2.scl | Permuted Aristoxenos's Enharmonion, 3 + 24 + 3 parts
+ v___3_n__7_class_1_abaaba_class_2_abaaba_class_3_babbab_class_4_abaaba_class_5_babbab_class_6_babbab_ diat_soft3.scl | New Soft Diatonic genus with equally divided Pyknon; Dorian Mode; 1:1 pyknon
+ v___3_n__7_class_1_abaaba_class_2_abaaba_class_3_babbab_class_4_abaaba_class_5_babbab_class_6_babbab_ exp2.scl | Two times expanded major triad
+ v___3_n__7_class_1_abaaba_class_2_abaaba_class_3_babbab_class_4_abaaba_class_5_babbab_class_6_babbab_ helmholtz.scl | Helmholtz's Chromatic scale and Gipsy major from Slovakia
+ v___3_n__7_class_1_abaaba_class_2_abaaba_class_3_babbab_class_4_abaaba_class_5_babbab_class_6_babbab_ kring3.scl | Double-tie circular mirroring of 3:5:7
+ v___3_n__7_class_1_abaaba_class_2_abaaba_class_3_babbab_class_4_abaaba_class_5_babbab_class_6_babbab_ ptolemy_diat.scl | Ptolemy's Diatonon Ditoniaion & Archytas' Diatonic, also Lyra tuning
+ v___3_n__7_class_1_abaaba_class_2_abaaba_class_3_babbab_class_4_abaaba_class_5_babbab_class_6_babbab_ savas_chrom.scl | Savas's Chromatic, Byzantine Liturgical mode, 8 + 14 + 8 parts
+ v___3_n__7_class_1_abaaba_class_2_abaaba_class_3_babbab_class_4_abaaba_class_5_babbab_class_6_babbab_ slovak_min.scl | Gipsy minor scale from Slovakia
+ v___3_n__7_class_1_abaaba_class_2_abaaba_class_3_babbab_class_4_abaaba_class_5_babbab_class_6_babbab_ xenakis_schrom.scl | Xenakis's Byzantine Liturgical mode, 7 + 16 + 7 parts
+ v___3_n__7_class_1_babbab_class_2_babbab_class_3_abaaba_class_4_babbab_class_5_abaaba_class_6_abaaba_ arist_diatdor.scl | PsAristo Redup. Diatonic, 14 + 2 + 14 parts
+ v___3_n__7_class_1_babbab_class_2_babbab_class_3_abaaba_class_4_babbab_class_5_abaaba_class_6_abaaba_ diat_eq2.scl | Equal Diatonic, 11/10 x 400/363 x 11/10
+ v___3_n__7_class_1_babbab_class_2_babbab_class_3_abaaba_class_4_babbab_class_5_abaaba_class_6_abaaba_ kring2.scl | Double-tie circular mirroring of 6:7:8
+ v___3_n__9_alt_class_1_abababab_class_2_bbbabbbb_class_7_bbbabbbb_alt_class_8_abababab_ pipedum7_9a.scl | 4375/4374, 2401/2400 and 21/20 are homophonic intervals
+ v___3_n_11_alt_class_3_bababababa_class_5_aaaabaaaaa_class_6_aaaabaaaaa_alt_class_8_bababababa_ 11-31.scl | Jon Wild, 11 out of 31-tET, chain of "7/6"s. TL 9-9-99
+ v___3_n_17_alt_class_5_babababababababa_class_7_aaaaaaabaaaaaaaa_class_10_aaaaaaabaaaaaaaa_alt_class_12_babababababababa_ wilson_17.scl | Wilson's 17-tone 5-limit scale
+ v___3d_n__7_class_1_baaaab_class_6_abbbba_ et7a.scl | 7-tone equal temperament with pure fourth and fifth
+ v___3md_n_12_class_5_aaaaaaaaaba_class_7_aaaaaaaaaba_ arabic1.scl | From Fortuna. Try C or G major
+ v___4_n__5_class_1_abac_class_2_babc_class_3_abac_class_4_babc_ islamic.scl | Islamic Genus (DF#7), from Rouanet
+ v___4_n__5_class_1_acbc_class_2_cabc_class_3_acbc_class_4_cabc_ slendroc3.scl | Gamelan slendro of R.M. Jayadipura, Jogja. 1/1=231 Hz
+ v___4_n__5_class_1_babc_class_2_babc_class_3_abac_class_4_abac_ tranh2.scl | Dan Ca Dan Tranh Scale
+ v___4_n__5_class_1_baca_class_2_bcac_class_3_bcac_class_4_bacb_ harrison_mix4.scl | A "mixed type" pentatonic, Lou Harrison
+ v___4_n__5_class_1_cbab_class_2_cbab_class_3_caba_class_4_caba_ div_fifth3.scl | Divided Fifth #3, From Schlesinger, see Chapter 8, p. 160
+ v___4_n__5_class_1_cbca_class_2_bcba_class_3_acba_class_4_cbac_ harrison_5_1.scl | From Lou Harrison, a pelog style pentatonic
+ v___4_n__5_class_1_cbca_class_2_cbac_class_3_cbca_class_4_cbac_ slendroc2.scl | Kyahi Pengawe sari (Paku Alaman, Jogja). 1/1=295 Hz.
+ v___4_n__5_class_1_cbca_class_2_cbca_class_3_cbac_class_4_cbac_ mystic-r.scl | Skriabin's mystic chord, op. 60 rationalised
+ v___4_n__7_class_1_abccba_class_2_cbaabc_class_3_baccab_class_4_bcaacb_class_5_abccba_class_6_cbaabc_ kring1.scl | Double-tie circular mirroring of 4:5:6 and Partch's 5-limit tonality Diamond
+ v___4_n__7_class_1_abccba_class_2_cbaabc_class_3_baccab_class_4_bcaacb_class_5_abccba_class_6_cbaabc_ ps-hypod2.scl | Complex 8 of p. 115 based on Archytas's Enharmonic
+ v___4_n__7_class_1_abccba_class_2_cbaabc_class_3_baccab_class_4_bcaacb_class_5_abccba_class_6_cbaabc_ ps-mixol.scl | Complex 3 of p. 115 based on Archytas's Enharmonic
+ v___4_n__7_class_1_acbbca_class_2_abccba_class_3_bcaacb_class_4_baccab_class_5_cbaabc_class_6_cabbac_ fj-7tet.scl | Franck Jedrzejewski continued fractions approx. of 7-tet
+ v___4_n__7_class_1_baccab_class_2_acbbca_class_3_cbaabc_class_4_abccba_class_5_cabbac_class_6_bcaacb_ sintemp_7.scl | Sine modulated fifths, A=8.12 cents, one cycle, f0=90 degrees
+ v___4_n__7_class_1_baccab_class_2_cbaabc_class_3_acbbca_class_4_cabbac_class_5_abccba_class_6_bcaacb_ cross_7.scl | 3-5-7 cross reduced by 2/1, quasi diatonic, similar to Zalzal's, Flynn Cohen
+ v___4_n__7_class_1_baccab_class_2_cbaabc_class_3_acbbca_class_4_cabbac_class_5_abccba_class_6_bcaacb_ kring6.scl | Double-tie circular mirroring of 6:7:9
+ v___4_n__7_class_1_bcaacb_class_2_bcaacb_class_3_baccab_class_4_bcaacb_class_5_baccab_class_6_baccab_ kring3bp.scl | Double-tie BP circular mirroring of 3:5:7
+ v___4_n__7_class_1_bcaacb_class_2_bcaacb_class_3_baccab_class_4_bcaacb_class_5_baccab_class_6_baccab_ kring4.scl | Double-tie circular mirroring of 4:5:7
+ v___4_n__7_class_1_bcbacb_class_2_bcbacb_class_3_bacbab_class_4_bacaba_class_5_cbcacb_class_6_cbcacb_ tritriad10.scl | Tritriadic scale of the 10:14:15 triad
+ v___4_n__7_class_1_cabbac_class_2_cabbac_class_3_acbbca_class_4_cabbac_class_5_acbbca_class_6_acbbca_ kring5.scl | Double-tie circular mirroring of 5:7:9
+ v___4_n__7_class_1_cbaabc_class_2_bcaacb_class_3_acbbca_class_4_cabbac_class_5_baccab_class_6_abccba_ cross_7a.scl | 2-5-7 cross reduced by 3/1
+ v___4_n__7_class_1_cbaabc_class_2_cabbac_class_3_bcaacb_class_4_baccab_class_5_acbbca_class_6_abccba_ ji_7.scl | 7-limit rational interpretation of 7-tET. OdC
+ v___4_n__7_class_1_cbaabc_class_2_cabbac_class_3_bcaacb_class_4_baccab_class_5_acbbca_class_6_abccba_ scotbag2.scl | Scottish bagpipe tuning 2
+ v___4_n__7_class_1_cbaabc_class_2_cbaabc_class_3_cabbac_class_4_acbbca_class_5_abccba_class_6_abccba_ ps-dorian.scl | Complex 4 of p. 115 based on Archytas's Enharmonic
+ v___4_n__7_class_1_cbaabc_class_2_cbaabc_class_3_cabbac_class_4_acbbca_class_5_abccba_class_6_abccba_ ps-hypod.scl | Complex 7 of p. 115 based on Archytas's Enharmonic
+ v___4_n__7_class_1_cbcabc_class_2_acabca_class_3_cbacbc_class_4_cbabcb_class_5_acabac_class_6_bcbabc_ tritriad7.scl | Tritriadic scale of the 7:9:11 triad
+ v___4_n__8_class_1_abcacba_class_3_caabaac_class_5_aacbcaa_class_7_cbacabc_ octony_trans4.scl | Complex 11 of p. 115, an Octony based on Archytas's Enharmonic, 8 tones
+ v___4_n__8_class_1_accbcca_class_3_bacbcab_class_5_bcabacb_class_7_ccabacc_ efg3777.scl | Genus [3777]
+ v___4_n__8_class_1_bbcacbb_class_3_bacbcab_class_5_bcabacb_class_7_bccaccb_ octony_trans2.scl | Complex 6 of p. 115 based on Archytas's Enharmonic, an Octony
+ v___4_n__8_class_1_bcabacb_class_3_caabaac_class_5_aacbcaa_class_7_bacbcab_ cluster8d.scl | Eight-Tone Triadic Cluster 3:5:4
+ v___4_n__8_class_1_cbacabc_class_3_baacaab_class_5_bbacabb_class_7_abcacba_ cluster8a.scl | Eight-Tone Triadic Cluster 4:5:6
+ v___4_n__8_class_1_cbacabc_class_3_baacaab_class_5_bbacabb_class_7_abcacba_ efg3335.scl | Genus diatonicum veterum correctum [3335]
+ v___4_n__8_class_1_cbacabc_class_3_baacaab_class_5_bbacabb_class_7_abcacba_ euler_diat.scl | Euler's genus diatonicum veterum correctum
+ v___4d_n__7_class_1_aaabac_class_2_abbabc_class_3_bbbbac_class_4_baaaac_class_5_abaabc_class_6_babbbc_ ptolemy_iastaiol.scl | Ptolemy's kithara tuning, mixture of Tonic Diatonic and Ditone Diatonic
+ v___4d_n__7_class_1_abcabc_class_2_cabbbc_class_3_babbcb_class_4_aabaca_class_5_babccc_class_6_abcabc_ arist_softdiat4.scl | Dorian Mode, 9 + 6 + 15 parts
+ v___4d_n__7_class_1_acbacb_class_2_bacccb_class_3_bcbabb_class_4_acaaba_class_5_cacbbb_class_6_bacbac_ athan_chrom.scl | Athanasopoulos's Byzantine Liturgical mode Chromatic
+ v___4d_n__7_class_1_bcabca_class_2_bcccab_class_3_bbabcb_class_4_abaaca_class_5_bbbcac_class_6_cabcab_ arist_softdiat2.scl | Dorian Mode, 6 + 15 + 9 parts
+ v___4d_n__7_class_1_cbacba_class_2_cbbbac_class_3_bcbbab_class_4_acabaa_class_5_cccbab_class_6_cbacba_ arist_softdiat5.scl | Dorian Mode, 15 + 6 + 9 parts
+ v___4d_n__7_class_1_cbacba_class_2_cbbbac_class_3_bcbbab_class_4_acabaa_class_5_cccbab_class_6_cbacba_ vertex_diat9.scl | A vertex tetrachord from Chapter 5, 212.5 + 137.5 + 150 cents
+ v___4d_n__7_class_1_ccbcac_class_2_cbacba_class_3_cbcaaa_class_4_cbaaac_class_5_cbacba_class_6_ccbcac_ mokhalif.scl | Iranian mode Mokhalif from C
+ v___5d_n__7_class_1_abcbdb_class_2_cdabcd_class_3_ddacbc_class_4_daccbd_class_5_acdbcd_class_6_babcdb_ tritriad68.scl | Tritriadic scale of the 6:7:8 triad
+ v___5d_n__7_class_1_acbabd_class_2_cabbad_class_3_bcccda_class_4_aaabdc_class_5_cbbcad_class_6_bcbacd_ harrison_mid.scl | Lou Harrison mid mode
+ v___5d_n__7_class_1_acbcdc_class_2_cdabcd_class_3_ddbcac_class_4_ccbdad_class_5_acdbcd_class_6_abacda_ tritriad11.scl | Tritriadic scale of the 11:13:15 triad
+ v___5d_n__7_class_1_bdbcba_class_2_dcbadc_class_3_cbcadd_class_4_dbccad_class_5_dcbdca_class_6_bdcbab_ tritriad68i.scl | Tritriadic scale of the subharmonic 6:7:8 triad
+ v___5d_n__7_class_1_dcdadb_class_2_dbcadb_class_3_cbddac_class_4_dbdacc_class_5_adcadb_class_6_dcadbd_ tritriad3c.scl | From 1/1 7/6 7/5, a variant of the 3.5.7 triad
+ v___5d_n_13_class_1_cdcabaabacdc_class_2_acdcbaabcdca_class_3_cabadaadabac_class_4_cadbaaaabdac_class_6_dabcaddacbad_class_7_adcbdaadbcda_class_9_bdacddddcadb_class_10_bdcdaddadcdb_class_11_dbabcddcbabd_class_12_babdcddcdbab_ monzo-sym-5.scl | Monzo symmetrical system: 5-limit
+ v___6d_n_16_class_1_acdacbedebcadca_class_3_ebdbadbcbdabdbe_class_5_cbadbbbebbbdabc_class_7_acbadaedeadabca_class_9_ecdebeabaebedce_class_11_cccadcbebcdaccc_class_13_aebaeadcdaeabea_class_15_ecbecdabadcebce_ efg35557.scl | Genus [35557]
+ v___8_n_15_class_1_afcdgebbegdcfa_class_2_ebfgcdaadcgfbe_class_4_dgcaefbbfeacgd_class_7_fbdceaggaecdbf_class_8_bfdecgaagcedfb_class_11_daegcbffbcgead_class_13_cfbaedggdeabfc_class_14_gbedacffcadebg_ triang11.scl | 11-limit triangular diamond lattice with 64/63 intervals removed
+ v__10_n_19_class_1_adeghbcifficbhgeda_class_2_edihcfagbbgafchide_class_3_bdhegfciaaicfgehdb_class_4_egdhbaicffciabhdge_class_5_bahigdceffecdgihab_class_6_igfahdcbeebcdhafgi_class_7_chegfidabbadifgehc_class_8_bciadhfeggefhdaicb_class_9_cbhfgeidaadiegfhbc_class_10_ghbdceafiifaecdbhg_class_11_hgaifbdeccedbfiagh_class_12_gbecdafihhifadcebg_class_13_acdibfgheehgfbidca_class_14_hibacfgeddegfcabih_class_15_ecfbhiagddgaihbfce_class_16_hfbecdgaiiagdcebfh_class_17_efabgdichhcidgbafe_class_18_ifecbhgaddaghbcefi_ fokker-lt.scl | Tempered version of Fokker-L per.bl. with more triads
+ v__10_n_19_class_1_cehagfbiddibfgahec_class_2_eidafhcbggbchfadie_class_3_bdfhigecaacegihfdb_class_4_aibhcgdfeefdgchbia_class_5_cfigdabehhebadgifc_class_6_dhgcaeifbbfieacghd_class_7_bgedhaicffciahdegb_class_8_abcdefghiihgfedcba_class_9_fgaehbdiccidbheagf_class_10_dciebhfaggafhbeicd_class_11_ihgfedcbaabcdefghi_class_12_hcefbiagddgaibfech_class_13_fbcgieadhhdaeigcbf_class_14_gdacfihebbehifcadg_class_15_iahbgcfdeedfcgbhai_class_16_hfdbacegiigecabdfh_class_17_eafidbghcchgbdifae_class_18_gebicdhaffahdcibeg_ sintemp_19.scl | Sine modulated thirds, A=7.366 cents, one cycle over fifths, f0=90 degrees
+ v__10_n_19_class_1_dciebhfaggafhbeicd_class_2_cehagfbiddibfgahec_class_3_ihgfedcbaabcdefghi_class_4_eidafhcbggbchfadie_class_5_hcefbiagddgaibfech_class_6_bdfhigecaacegihfdb_class_7_fbcgieadhhdaeigcbf_class_8_aibhcgdfeefdgchbia_class_9_gdacfihebbehifcadg_class_10_cfigdabehhebadgifc_class_11_iahbgcfdeedfcgbhai_class_12_dhgcaeifbbfieacghd_class_13_hfdbacegiigecabdfh_class_14_bgedhaicffciahdegb_class_15_eafidbghcchgbdifae_class_16_abcdefghiihgfedcba_class_17_gebicdhaffahdcibeg_class_18_fgaehbdiccidbheagf_ sinemod12.scl | Sine modulated F=12, A=-.08203754
+ v__10_n_19_class_1_dhgcaeifbbfieacghd_class_2_hcefbiagddgaibfech_class_3_gebicdhaffahdcibeg_class_4_cfigdabehhebadgifc_class_5_ihgfedcbaabcdefghi_class_6_eafidbghcchgbdifae_class_7_aibhcgdfeefdgchbia_class_8_dciebhfaggafhbeicd_class_9_hfdbacegiigecabdfh_class_10_bdfhigecaacegihfdb_class_11_fgaehbdiccidbheagf_class_12_iahbgcfdeedfcgbhai_class_13_eidafhcbggbchfadie_class_14_abcdefghiihgfedcba_class_15_gdacfihebbehifcadg_class_16_cehagfbiddibfgahec_class_17_bgedhaicffciahdegb_class_18_fbcgieadhhdaeigcbf_ sinemod8.scl | Sine modulated F=8, A=.11364155. Deviation minimal3/2, 4/3, 5/4, 6/5, 5/3, 8/5
+ v__11_n_19_class_1_jehbcgdaifiadgcbhe_class_2_jefaidgbhchbgdiafe_class_3_jbdfhgecaiaceghfdb_class_4_jaibhcgdfefdgchbia_class_5_jgdcfiahebehaifcdg_class_6_jdgciaefbhbfeaicgd_class_7_jgcebhiafdfaihbecg_class_8_jihgfedcbabcdefghi_class_9_jfaiebhdcgcdhbeiaf_class_10_jdiaehbfgcgfbheaid_class_11_jabcdefghihgfedcba_class_12_jcgehbaidfdiabhegc_class_13_jfcgaiedhbhdeiagcf_class_14_jcfgdaibehebiadgfc_class_15_jiahbgcfdedfcgbhai_class_16_jhfdbcegiaigecbdfh_class_17_jediafchbgbhcfaide_class_18_jebhgcfiadaifcghbe_ rvf1.scl | RVF-1: D-A 695 cents, the increment is 0.25 cents, interval range 49.5 to 75.5
+ v__11_n_19_class_1_jehbcgdaifiadgcbhe_class_2_jefaidgbhchbgdiafe_class_3_jbdfhgecaiaceghfdb_class_4_jaibhcgdfefdgchbia_class_5_jgdcfiahebehaifcdg_class_6_jdgciaefbhbfeaicgd_class_7_jgcebhiafdfaihbecg_class_8_jihgfedcbabcdefghi_class_9_jfaiebhdcgcdhbeiaf_class_10_jdiaehbfgcgfbheaid_class_11_jabcdefghihgfedcba_class_12_jcgehbaidfdiabhegc_class_13_jfcgaiedhbhdeiagcf_class_14_jcfgdaibehebiadgfc_class_15_jiahbgcfdedfcgbhai_class_16_jhfdbcegiaigecbdfh_class_17_jediafchbgbhcfaide_class_18_jebhgcfiadaifcghbe_ rvf3.scl | RVF-3: 694.737, 0.082, 25-97, the fifth E#-B# is 3/2.

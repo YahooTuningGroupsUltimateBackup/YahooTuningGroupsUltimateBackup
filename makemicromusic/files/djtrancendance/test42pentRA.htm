@@ -1,0 +1,501 @@
+<script>
+var mos1 = 1.0958; //1.096;
+var mos2 = 1.1154; //1.115;
+var maxerror = 0.0;
+
+//var mos1 = 1.0958; //1.096;
+//var mos2 = 1.1154; //1.115;
+//GIVES 1.004513 max error
+
+//1.002247 = sqrt(1.0045)
+/*
+var a1 = mos1; //NEW 5th 1.09845 / 1.002247 = 1.09721
+var a2 = a1 * mos2; //1.22288;
+var a3 = a2 * mos1; //1.33915;  //.33915     //was 1.33648 now multiplied time 1.002 = 1.33915
+var a4 = a3 * mos2; //1.46766;      //was 1.4706 now divided by 1.002 = 1.46766
+var a5 = a4 * mos1; //1.637; //NEW 5th 1.6389 * 1.001123 = 1.6407
+var a6 = a5 * mos2; //1.82742; 
+var a7 = a6 * mos1; //2;
+
+var a1 = 1.114; //1.112;    //1.113;   //1.114; //BEST OLD 1.114
+var a2 = 1.25;    //1.1072
+var a3 = 1.384; //!!!!1.384!!!!!; //1.382;   //1.382 1.384;   //1.122 (1.12)
+var a4 = 1.492; //1.492;   //1.072 (1.07)
+var a5 = 1.672; //1.668; //1.67;    //1.119)
+var a6 = 1.833333; //1.831; //1.83 1.83333//1.097 (1.1)
+var a7 = 2;       //1.090909
+*/
+            ////////////////////////////////////////////////   TRYYYYYYYY   !!!!!!!!!!!!1.045625!!!!!!!!!!!!!
+var a1 = 1.146; //1.163; //1.12; //1.115; //1.112;    //1.113;   //1.114; //BEST OLD 1.114
+
+          /////////////////////////////////////////////////////TRY           !!!!!!!!!1.1451 7th of 1.833333333333 GOOD!!!!!!!!!!!!!
+          //////////////////////////////////////////////////   TRY           !!!!!!!!!!1.206 PRETTY GOOD!!!!!!!!!!!!!!!!!!!!
+var a2 = 1.2793; //1.279; //1.249; //1.245; //1.339; //1.28571.327//1.24925; //1.24925; //1.25;    //1.1072 XXXXXXXXXXXXXXXXX
+///1.367 forms 1.46305 with 2/1///
+var a3 = 1.427;  //was 1.338 //1.367-1.369!!!;   //1.382 1.384;   //1.122 (1.12)
+var a4 = 1.563; //1.5; //1.4936; /////1.492; //!!!!!!!!!1.492;   //1.072 (1.07) XXXXXXXXXX  TRYYYYYYYYYYY !!!!!!!!!!!!1.5606 OR 1.5684!!!!!!!!!!!!!!!!!!
+         //////////////////////////////////////////////////   TRY            !!!!!!!!!!!!1.6 NOT GREAT!!!!!!!!!!!!!!!!!!!
+var a5 = 1.712;  //1.714 //1.673; //1.67;    //1.119)YYYYYYYYYYYYYYYY
+var a6 = 1.826; //1.826; //808; //????????1.7937; //794  //WAS !!!1.792!!!!!!
+var a7 = 2;       //1.090909*/
+
+
+/*BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+var a1 = 1.12; //1.12; //1.115; //1.112;    //1.113;   //1.114; //BEST OLD 1.114
+
+          /////////////////////////////////////////////////////TRY           !!!!!!!!!1.1451 7th of 1.833333333333 GOOD!!!!!!!!!!!!!
+          //////////////////////////////////////////////////   TRY           !!!!!!!!!!1.206 PRETTY GOOD!!!!!!!!!!!!!!!!!!!!
+var a2 = 1.24925; //1.24925; //1.25;    //1.1072 XXXXXXXXXXXXXXXXX
+///1.367 forms 1.46305 with 2/1///
+var a3 = 1.367; //1.367-1.369!!!;   //1.382 1.384;   //1.122 (1.12)
+var a4 = 1.4935; /////1.492; //!!!!!!!!!1.492;   //1.072 (1.07) XXXXXXXXXX  TRYYYYYYYYYYY !!!!!!!!!!!!1.5606 OR 1.5684!!!!!!!!!!!!!!!!!!
+         //////////////////////////////////////////////////   TRY            !!!!!!!!!!!!1.6 NOT GREAT!!!!!!!!!!!!!!!!!!!
+var a5 = 1.673; //1.673; //1.67;    //1.119)YYYYYYYYYYYYYYYY
+var a6 = 1.808; //1.825-1.832; //1.83 1.83333//1.097 (1.1)
+var a7 = 2;       //1.090909
+BBBBBBBBBBBBBBBBBBBBBBB*/
+
+
+
+/*
+1.1111111111 OR 1.12
+1.1 OR 1.11111111
+1.12
+1.07
+1.12
+1.1
+1.090909
+
+1.117
+1.11111           //1.24111
+1.117              //1.386
+1.083333333       //1.5018
+1.117             //1.677
+1.11              //
+1.083333333
+*/
+
+var a11 = a1 * 2.0;                   
+var a12 = a2 * 2.0;
+var a13 = a3 * 2.0;
+var a14 = a4 * 2.0;
+var a15 = a5 * 2.0;
+var a16 = a6 * 2.0; 
+var a17 = a7 * 2.0;
+
+var target;
+var error1;
+var error2;
+var error3;
+var error4;
+var error5;
+var error6;
+var error7;
+var error8;
+var error9;
+var error10;
+var error11;
+var error12;
+var error13;
+var error14;
+var error15;
+var error16;
+var error17;
+var error18;
+var error19;
+var error20;
+var error21;
+
+
+
+var overtarget;
+
+function fixerror(ac,p1,p2,p3)
+{
+error1 = (ac/p1)
+error2 = (ac/p2)
+error3 = (ac/p3)
+error4 = (ac/1.6)
+error5 = (ac/1.77777777)
+error6 = (ac/1.444444)
+error7 = (ac/1.875)
+error8 = (ac/1.2857)
+error9 = (ac/1.571)
+error10 = (ac/1.1666666)
+error11 = (ac/1.714)
+error12 = (ac/1.4) //1.4
+error13 = (ac/1.42857)
+error14 = (ac/1.5)
+error15 = (ac/1.75)
+error16 = (ac/1.9)
+error17 = (ac/1.3333333333)
+error18 = (ac/1.46666666666)
+error19 = (ac/1.363636363)
+error20 = (ac/1.142857)
+error21 = (ac/1.375)
+
+
+if (error1 < 1.0) 
+  {
+    error1 = 1.0 / error1;
+  }
+if (error2 < 1.0) 
+  {
+    error2 = 1.0 / error2;
+  }
+if (error3 < 1.0) 
+  {
+    error3 = 1.0 / error3;
+  }
+if (error4 < 1.0) 
+  {
+    error4 = 1.0 / error4;
+  }
+if (error5 < 1.0) 
+  {
+    error5 = 1.0 / error5;
+  }
+if (error6 < 1.0) 
+  {
+    error6 = 1.0 / error6;
+  }
+if (error7 < 1.0) 
+  {
+    error7 = 1.0 / error7;
+  }
+if (error8 < 1.0) 
+  {
+    error8 = 1.0 / error8;
+  }
+if (error9 < 1.0) 
+  {
+    error9 = 1.0 / error9;
+  }
+if (error10 < 1.0) 
+  {
+    error10 = 1.0 / error10;
+  }
+if (error11 < 1.0) 
+  {
+    error11 = 1.0 / error11;
+  }
+if (error12 < 1.0) 
+  {
+    error12 = 1.0 / error12;
+  }
+if (error13 < 1.0) 
+  {
+    error13 = 1.0 / error13;
+  }
+if (error14 < 1.0) 
+  {
+    error14 = 1.0 / error14;
+  }
+if (error15 < 1.0) 
+  {
+    error15 = 1.0 / error15;
+  }
+if (error16 < 1.0) 
+  {
+    error16 = 1.0 / error16;
+  }
+if (error17 < 1.0) 
+  {
+    error17 = 1.0 / error17;
+  }
+if (error18 < 1.0) 
+  {
+    error18 = 1.0 / error18;
+  }
+if (error19 < 1.0) 
+  {
+    error19 = 1.0 / error19;
+  }
+if (error20 < 1.0) 
+  {
+    error20 = 1.0 / error20;
+  }
+if (error21 < 1.0) 
+  {
+    error21 = 1.0 / error21;
+  }
+
+
+
+
+  if (error2 < error1) 
+  {
+    error1 = error2;
+  }
+  if (error3 < error1) 
+  {
+    error1 = error3;
+  }
+  if (error4 < error1) 
+  {
+    error1 = error4;
+  }
+  if (error5 < error1) 
+  {
+    error1 = error5;
+  }
+  if (error6 < error1) 
+  {
+    error1 = error6;
+  }
+  if (error7 < error1) 
+  {
+    error1 = error7;
+  }
+  if (error8 < error1) 
+  {
+    error1 = error8;
+  }
+  if (error9 < error1) 
+  {
+    error1 = error9;
+  }
+  if (error10 < error1) 
+  {
+    error1 = error10;
+  }
+  if (error11 < error1) 
+  {
+    error1 = error11;
+  }
+  if (error12 < error1) 
+  {
+    error1 = error12;
+  }
+  if (error13 < error1) 
+  {
+    error1 = error13;
+  }
+  if (error14 < error1) 
+  {
+    error1 = error14;
+  }
+  if (error15 < error1) 
+  {
+    error1 = error15;
+  }
+  if (error16 < error1) 
+  {
+    error1 = error16;
+  }
+  if (error17 < error1) 
+  {
+    error1 = error17;
+  }
+  if (error18 < error1) 
+  {
+    error1 = error18;
+  }
+  if (error19 < error1) 
+  {
+    error1 = error19;
+  }
+  if (error20 < error1) 
+  {
+    error1 = error20;
+  }
+  if (error21 < error1) 
+  {
+    error1 = error21;
+  }
+
+
+
+
+
+  if (error1 > maxerror)
+  {
+    maxerror = error1;
+  }
+
+}
+
+
+target = 1.0;
+document.write("<br/>start is " + (target))
+
+document.write("<br/>#0 2nd is " + (a1 / target))
+
+overtarget = (a2/target)
+fixerror(overtarget,1.2,1.222222222,1.25)
+document.write("<br/>3rd is " + overtarget + " error is " + error1)
+
+overtarget = (a3/target)
+fixerror(overtarget,1.25,1.33333,1.3636363)
+document.write("<br/>4th is " + overtarget + " error is " + error1)
+
+overtarget = a4 / target;
+fixerror(overtarget,1.46666,1.5,1)
+document.write("<br/>5th is " + (overtarget) + " error is " + error1)
+
+overtarget = a5 / target;
+fixerror(overtarget,1.636363,1.6666666,1.6)
+document.write("<br/>6th is " + (overtarget) + " error is " + error1)
+
+overtarget = a6 / target;
+fixerror(overtarget,1.8,1.8333333,1)
+document.write("<br/>7th is " + (overtarget) + " error is " + error1)
+
+
+///////////////
+target = a1;
+document.write("<br/>start is " + (target))
+
+document.write("<br/>#0 2nd is " + (a2 / target))
+
+overtarget = (a3/target)
+fixerror(overtarget,1.2,1.222222222,1.25)
+document.write("<br/>3rd is " + overtarget + " error is " + error1)
+
+overtarget = (a4/target)
+fixerror(overtarget,1.25,1.33333,1.3636363)
+document.write("<br/>4th is " + overtarget + " error is " + error1)
+
+overtarget = a5 / target;
+fixerror(overtarget,1.46666,1.5,1)
+document.write("<br/>5th is " + (overtarget) + " error is " + error1)
+
+overtarget = a6 / target;
+fixerror(overtarget,1.636363,1.6666666,1.6)
+document.write("<br/>6th is " + (overtarget) + " error is " + error1)
+
+overtarget = a7 / target;
+fixerror(overtarget,1.8,1.8333333,1)
+document.write("<br/>7th is " + (overtarget) + " error is " + error1)
+
+////////////////////////////////////////////
+target = a2;
+document.write("<br/>start is " + (target))
+
+document.write("<br/>#1 2nd is " + (a3 / target))
+overtarget = (a4/target)
+fixerror(overtarget,1.2,1.222222222,1.25)
+document.write("<br/>3rd is " + overtarget + " error is " + error1)
+
+overtarget = (a5/target)
+fixerror(overtarget,1.25,1.33333,1.36363)
+document.write("<br/>4th is " + overtarget + " error is " + error1)
+
+overtarget = a6 / target;
+fixerror(overtarget,1.46666,1.5,1)
+document.write("<br/>5th is " + (overtarget) + " error is " + error1)
+
+overtarget = a7 / target;
+fixerror(overtarget,1.636363,1.6666666,1.6)
+document.write("<br/>6th is " + (overtarget) + " error is " + error1)
+
+overtarget = a11 / target;
+fixerror(overtarget,1.8,1.8333333,1)
+document.write("<br/>7th is " + (overtarget) + " error is " + error1)
+/////////////////////////////////////////
+target = a3;
+document.write("<br/>start is " + (target))
+
+document.write("<br/>#2 2nd is " + (a4 / target))
+
+
+overtarget = (a5/target)
+fixerror(overtarget,1.2,1.222222222,1.25)
+document.write("<br/>3rd is " + overtarget + " error is " + error1)
+
+overtarget = (a6/target)
+fixerror(overtarget,1.25,1.33333,1.3636363)
+document.write("<br/>4th is " + overtarget + " error is " + error1)
+
+overtarget = a7 / target;
+fixerror(overtarget,1.46666,1.5,1)
+document.write("<br/>5th is " + (overtarget) + " error is " + error1)
+
+overtarget = a11 / target;
+fixerror(overtarget,1.636363,1.6666666,1.6)
+document.write("<br/>6th is " + (overtarget) + " error is " + error1)
+
+overtarget = a12 / target;
+fixerror(overtarget,1.8,1.8333333,1)
+document.write("<br/>7th is " + (overtarget) + " error is " + error1)
+
+/////////////////////////////////////////////////////////
+target = a4;
+document.write("<br/>start is " + (target))
+
+document.write("<br/>#3 2nd is " + (a5 / target))
+
+overtarget = (a6/target)
+fixerror(overtarget,1.2,1.222222222,1.25)
+document.write("<br/>3rd is " + overtarget + " error is " + error1)
+
+overtarget = (a7/target)
+fixerror(overtarget,1.25,1.33333,1.3636363)
+document.write("<br/>4th is " + overtarget + " error is " + error1)
+
+overtarget = a11 / target;
+fixerror(overtarget,1.46666,1.5,1)
+document.write("<br/>5th is " + (overtarget) + " error is " + error1)
+
+overtarget = a12 / target;
+fixerror(overtarget,1.636363,1.6666666,1.6)
+document.write("<br/>6th is " + (overtarget) + " error is " + error1)
+
+overtarget = a13 / target;
+fixerror(overtarget,1.8,1.8333333,1)
+document.write("<br/>7th is " + (overtarget) + " error is " + error1)
+
+///////////////////////////////////////////////////////
+target = a5;
+document.write("<br/>start is " + (target))
+
+document.write("<br/>#4 2nd is " + (a6 / target))
+
+overtarget = (a7/target)
+fixerror(overtarget,1.2,1.222222222,1.25)
+document.write("<br/>3rd is " + overtarget + " error is " + error1)
+
+overtarget = (a11/target)
+fixerror(overtarget,1.25,1.33333,1.3636363)
+document.write("<br/>4th is " + overtarget + " error is " + error1)
+
+overtarget = a12 / target;
+fixerror(overtarget,1.46666,1.5,1)
+document.write("<br/>5th is " + (overtarget) + " error is " + error1)
+
+overtarget = a13 / target;
+fixerror(overtarget,1.636363,1.6666666,1)
+document.write("<br/>6th is " + (overtarget) + " error is " + error1)
+
+overtarget = a14 / target;
+fixerror(overtarget,1.8,1.8333333,1.6)
+document.write("<br/>7th is " + (overtarget) + " error is " + error1)
+///////////////////////////////////////////////
+target = a6;
+document.write("<br/>start is " + (target))
+
+document.write("<br/>#5 2nd is " + (a7 / target))
+
+overtarget = (a11/target)
+fixerror(overtarget,1.2,1.222222222,1.25)
+document.write("<br/>3rd is " + overtarget + " error is " + error1)
+
+overtarget = (a12/target)
+fixerror(overtarget,1.25,1.33333,1.363636363)
+document.write("<br/>4th is " + overtarget + " error is " + error1)
+
+overtarget = a13 / target;
+fixerror(overtarget,1.46666,1.5,1)
+document.write("<br/>5th is " + (overtarget) + " error is " + error1)
+
+overtarget = a14 / target;
+fixerror(overtarget,1.636363,1.6666666,1.6)
+document.write("<br/>6th is " + (overtarget) + " error is " + error1)
+
+overtarget = a15 / target;
+fixerror(overtarget,1.8,1.8333333,1)
+document.write("<br/>7th is " + (overtarget) + " error is " + error1)
+
+document.write("<hr/> <br/> MAX ERROR is " + maxerror)
+</script>
+<!-- neodl5.grp.bf1.yahoo.com Sun Sep 30 05:18:15 UTC 2018 -->

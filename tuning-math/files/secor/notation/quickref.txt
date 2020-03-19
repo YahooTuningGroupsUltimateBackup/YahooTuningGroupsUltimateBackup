@@ -1,0 +1,504 @@
+QUICK REFERENCE TO SAGITTAL SYMBOLS SIMULATED BY ASCII CHARACTERS
+=================================================================
+
+
+THE 18 MOST COMMON SINGLE-SHAFT SYMBOLS AND THEIR COMMA ROLES
+-------------------------------------------------------------
+
+The principal comma role for each symbol is listed first.  Roles
+listed below those are secondary.  Schismas that vanish in the
+rational sagittal notation may be found by determining the difference
+between primary and secondary comma roles for the various symbols.
+
+ )|    19 comma             512:513     ~3.378c  LEFT CONCAVE FLAG
+
+  |(   5:7 comma           5103:5120    ~5.758c  RIGHT CONCAVE FLAG
+       11:13 comma          351:352     ~4.925c
+       17'-17 comma*        288:289     ~6.001c
+
+ ~|    17 comma            2176:2187,   ~8.730c  LEFT WAVY FLAG
+
+ ~|(   17' comma           4096:4131   ~14.730c
+       (5:7)+17 comma*      119:120    ~14.487c
+
+  |~   23 comma             729:736    ~16.544c  RIGHT WAVY FLAG
+       19'-19 comma*        722:729    ~16.704c
+
+ )|~   19' comma          19456:19683  ~20.082c
+       19+23 comma*         432:437    ~19.922c
+
+ /|    5 comma               80:81     ~21.506c  LEFT STRAIGHT FLAG
+
+  |)   7 comma               63:64     ~27.264c  RIGHT CONVEX FLAG
+       13-5 comma*           64:65     ~26.841c
+
+  |\   11-5 comma            54:55     ~31.767c  RIGHT STRAIGHT FLAG
+
+ (|    7:11 comma         45056:45927  ~33.148c  LEFT CONVEX FLAG
+       13:17 comma           51:52     ~33.617c
+       29 comma             256:261    ~33.487c
+       13'-(11-5) comma*    715:729    ~33.571c
+
+ ~|)   5:17 comma        327680:334611 ~36.237c
+       7+17 comma*          238:243    ~35.994c
+
+ (|(   5:11 comma            44:45     ~38.906c
+       7:13 comma          1664:1701   ~38.073c
+       11:17 comma         1377:1408   ~38.543c
+
+//|    5^2  diesis         6400:6561   ~43.013c
+       5:13 diesis           39:40     ~43.831c
+
+ /|)   13 diesis           1024:1053   ~48.348c
+       5+7 diesis*           35:36     ~48.770c
+
+ (|~   11:19 diesis         171:176    ~49.895c
+       (7:11)+23 diesis*   1408:1449   ~49.692c
+       (7:11)+(19'-19) diesis*  32530432:33480783  ~49.852c
+
+ /|\   11 diesis             32:33     ~53.273c
+
+ (|)   11' diesis           704:729    ~60.412c
+
+ (|\   13' diesis            26:27     ~65.337c
+       (7:11)+(11-5) diesis*  8192:8505  ~64.915c
+
+*Indicates secondary roles involving combinations of commas
+ that are not used to notate 17-limit consonances
+
+
+ADDITIONAL SYMBOLS USING THE NEW 5' COMMA "ACCENT" MARKS
+--------------------------------------------------------
+
+The 5' comma has traditionally been known as the "schisma", but in
+the development of the sagittal notation we have used that term to
+indicate the difference between two intervals that are represented
+by the same symbol, i.e., one that vanishes in this notation.
+
+ .!    -5' comma          32805:32768  ~-1.954c  GRAVE ACCENT
+
+ '|    +5' comma          32768:32805  ~+1.954c  ACUTE ACCENT
+
+A period is used in ASCII for a grave accent (downward alteration),
+and an apostrophe is used for an acute accent (upward alteration),
+inasmuch as a period is less likely to be confused with an
+apostrophe than is ` (a grave accent mark) and also since the grave
+accent mark on the actual staff notation has a lower placement than
+the acute accent mark.  These 5' comma marks may be added to
+combinations of sagittal flags to represent intervals such as:
+
+./|    diaschisma          2025:2048   ~19.553c
+
+'/|    pythagorean comma 524288:531441 ~23.460c
+
+.//|   125-diesis           125:128    ~41.059c
+
+.(|\   7' diesis             27:28     ~62.961c
+
+
+TO INDICATE OVERALL DIRECTION OF PITCH ALTERATION
+-------------------------------------------------
+
+Except for the -5' comma symbol, the above symbols all alter pitch
+upward.
+
+To change any sagittal symbol so that it alters pitch by the same
+amount, but in the opposite direction:
+
+Replace    |    with    !
+           !    with    |
+           X    with    Y
+           Y    with    X
+           /    with    \
+           \    with    /
+           .    with    '
+           '    with    .
+And keep all other flags the same.
+
+Examples:         UP    DOWN
+  5 comma         /|     \!
+  7 comma          |)     !)
+  17' comma       ~|(    ~!(
+  11 diesis       /|\    \!/
+  diaschisma     ./|    '\!
+  pyth. comma    '/|    .\!
+  7' diesis      .(|\   '(!/
+
+These directions apply for both single and multiple-shaft symbols.
+(The latter, which have not been explained above, include use of
+the X and Y characters in their ASCII simulations.)
+
+
+LATERAL ORDERING OF SYMBOLS
+---------------------------
+
+On the staff a sharp or flat is placed to the left of a notehead,
+whereas this is represented in text by a letter name (or nominal)
+followed be a sharp or flat symbol, e.g., F# or Bb.
+
+The situation becomes more complicated when sagittal symbols are
+added, so the following principles have been established to pertain
+to all formats and/or versions of the notation:
+
+1) A letter/notehead and sharp/flat symbol should always be kept
+   together;
+2) An 5' accent mark and sagittal symbol should also be kept
+   together, with the accent mark always placed immediately to
+   the left of the sagittal symbol.
+
+For staff notation, the components that indicate a pitch proceed
+from smallest to greatest from left to right:
+
+   5' accent, sagittal symbol, sharp/flat, note symbol
+
+When it is used abstractly (i.e., not in combination with any
+particular letter nominal), the ASCII simulation of a sagittal
+symbol should maintain the components in the same order as they
+occur on the staff:
+
+   5' accent, sagittal symbol, sharp/flat
+
+If an ASCII simulation is used in combination with a letter nominal,
+then the following order should be used:
+
+   letter, sharp/flat, 5' accent, sagittal symbol
+
+For ASCII shorthand (described below), then the following order
+should be used, either with or without a letter nominal:
+
+   letter, sharp/flat, 5' accent, shorthand character
+
+For example, F-sharp lowered by a diaschisma would be:
+
+   Double-symbol Staff:  '\!# F-note
+   Single-symbol Staff:  '||\ F-note
+   Double-symbol ASCII:  F#'\!
+   Single-symbol ASCII:  F'||\
+   Shorthand ASCII:      F#'\
+
+
+ASCII SHORTHAND FOR SINGLE-SHAFT SYMBOLS
+----------------------------------------
+
+Following is a list of the most useful single-shaft sagittal symbols
+and their single-character (shorthand) abbreviations.  With these it
+is possible to notate dozens of ETs or a 15-limit tonality diamond.
+This shorthand applies only to the double-symbol version of the
+sagittal notation; for alterations larger than a 13' diesis, these
+characters must be used in combination with conventional sharp/flat
+(i.e., #, b, x, and bb) characters.  These single characters may also
+be used in combination a 5'-comma accent mark (as shown in the
+diaschisma example above).  (It may also be convenient to use some of
+these characters in other combinations.)
+
+ '|     '       5'-comma up 32768:32805
+ .!     .       5'-comma down
+  |(    "       5:7-comma up  5103:5120
+  !(    ;       5:7-comma down
+ ~|     ~       17-comma up  2176:2187
+ ~!     s       17-comma down
+ ~|(    y       17'-comma up  4096:4131
+ ~!(    h       17'-comma down
+ /|     /       5-comma up 80:81
+ \!     \       5-comma down
+  |)    f       7-comma up 63:64
+  !)    t       7-comma down
+  |\    &       55-comma up 54:55
+  !/    %       55-comma down
+ (|     ?       7:11-comma up 45056:45927
+ (!     j       7:11-comma down
+ (|(    q       5:11-comma up  44:45
+ (!(    d       5:11-comma down
+//|     //      25-diesis up  6400:6561
+\\!     \\      25-diesis down
+ /|)    n       13-diesis up 1024:1053
+ \!)    u       13-diesis down
+ /|\    ^       11-diesis up 32:33
+ \!/    v       11-diesis down
+  |))   ff      49'-diesis up 3969:4096   might be (/|
+  !))   tt      49'-diesis down           might be (\!
+ (|)    @       11'-diesis up 704:729
+ (!)    o       11'-diesis down
+ (|\    m       13'-diesis up 26:27
+ (!/    w       13'-diesis down
+ /||\   #       apotome up (sharp) 2048:2187
+ \!!/   b       apotome down (flat)
+ /X\    x       double apotome up (double-sharp)
+ \Y/    bb      double apotome down (double-flat)
+
+
+ET SYMBOL SEQUENCES USING ASCII SHORTHAND
+-----------------------------------------
+
+Group 1 requires only:  / \ f t & % n u ^ v @ o m w
+in combination with conventional sharp or flat
+
+12, 19, 26:  #
+    with 2, 3, 4, and 6 notated as subsets of 12
+    with 13 notated as a subset of 26
+17, 24, 31, 38:  ^  #
+    with 8 notated as a subset of 24
+45:  n  #
+    or 45 (preferably) notated as a subset of 135
+22, 29:  /  #\  #
+    with 11 notated as a subset of 22
+36:  f  #t  #
+    with 18 notated as a subset of 36
+43, 50, 57, 64:  n  m  #
+    with 25 notated as a subset of 50
+    or 57 (preferably) notated as a subset of 171
+    or 64 (preferably) notated as a subset of 128
+27:  /  n  #\  #
+    with 9 notated as a subset of 27
+34, 41:  /  ^  #\  #
+48:  f  ^  #t  #
+    with 16 notated as a subset of 48
+62:  n  ^  m  #
+39, 46, 53:  /  ^  @  #\  #
+    with 23 notated as a subset of 46
+60:  /  n  m  #\  #
+    with 20 and 30 notated as subsets of 60
+51:  f  /  n  #\  #t  #
+58:  /  &  ^  #%  #\  #
+65, 72, 79:  /  f  ^  #t  #\  #
+49:  &  /  ^  @  #\  #%  #
+    or 49 (preferably) notated as a subset of 147
+56, 63:  f  /  ^  @  #\  #t  #
+    with 28 notated as a subset of 56
+70:  /  &  ^  @  #%  #\  #
+    with 35 notated as a subset of 70
+77:  /  f  ^  @  #t  #\  #
+84:  /  f  n  m  #t  #\  #
+    with 42 notated as a subset of 84
+68, 75:  &  /  ^  n  @  #\  #%  #
+96:  /  f  n  ^  m  #t  #\  #
+
+Group 2 includes more complicated symbols:
+
+87:  ~  /  q  ^  @  #d  #\  #s  #
+94:  y  /  q  ^  @  #d  #\  #h  #
+    with 47 notated as a subset of 94
+108:  /  //  f  n  m  #t  #\\  #\  #
+120:  /  ?  f  n  ^  m  #t  #j  #\  #
+111, 118:  ~  /  &  //  ^  @  #\\  #%  #\  #s  #
+    with 59 notated as a subset of 118
+125:  y  /  f  //  ^  @  #\\  #t  #\  #h  #
+132:  y  /  f  &  @  ^  #%  #t  #\  #h  #
+    with 66 notated as a subset of 132
+130:  "  /  f  &  n  ^  m  #%  #t  #\  #;  #
+142:  "  /  f  &  n  ^  @  m  #%  #t  #\  #;  #
+    with 71 notated as a subset of 142
+159:  "  y  /  f  q  //  ^  @  #\\  #d  #t  #\  #h  #;  #
+171:  "  y  /  f  &  //  n  ^  m  #\\  #%  #t  #\  #h  #;  #
+176, 183:  “  y  /  f  &  q  n  ^  @  m  #d  #%  #t  #\  #h  #;  #
+    with 61 notated as a subset of 183
+217:  "  ~  y  /  f  &  q  //  n  ^  @  m
+      #\\  #d  #%  #t  #\  #h  #s  #;  #
+
+Following are alternate notations for some multiples of 5 and 7:
+
+7:  using naturals F C G D A E B
+    or 7 preferably as subset of 56
+5:  using naturals C G D A E
+    or 5 preferably as subset of 50
+14:  f    with naturals F C G D A E B
+    or 14 preferably as subset of 56
+10:  ^      with naturals C G D A E
+    or 10 preferably as subset of 50
+21:  f  &    with naturals F C G D A E B
+    or 21 preferably as subset of 63
+15:  /  #\    with naturals C G D A E
+    or 15 preferably as subset of 60
+
+
+JUST INTONATION USING ASCII SHORTHAND
+-------------------------------------
+
+Following are 15-limit consonances in ASCII shorthand:
+
+ 1/1  = C                 2/1  = C
+ 3/2  = G                 4/3  = F
+ 5/3  = A\                6/5  = Eb/
+ 5/4  = E\                8/5  = Ab/
+ 7/4  = Bbt               8/7  = Df
+ 7/5  = Gb;              10/7  = F#"
+ 7/6  = Ebt              12/7  = Af
+ 9/5  = Bb/              10/9  = D\
+ 9/7  = Ef               14/9  = Abt
+ 9/8  = D                16/9  = Bb
+11/6  = Bo               12/11 = Dv
+11/7  = G#j              14/11 = Fb?
+11/8  = F^               16/11 = Gv
+11/9  = Eo               18/11 = Av
+11/10 = Dd               20/11 = Bbq
+13/7  = Bd               14/13 = Dbq
+13/8  = Aw               16/13 = Eu
+13/9  = Gw               18/13 = Fm
+13/10 = F\\              20/13 = G//
+13/11 = Eb;              22/13 = A"
+13/12 = Dw               24/13 = Bu
+15/8  = B\               16/15 = Db/
+15/11 = Fq               22/15 = Gd
+15/13 = D//              26/15 = Bb\\
+15/14 = C#"              28/15 = Cb;
+
+
+SINGLE-SYMBOL APOTOME COMPLEMENTS
+---------------------------------
+
+The single-symbol version of the sagittal notation employs double-
+shaft symbols that are apotome-complements of single-shaft symbols.
+
+The most obvious symbol derivation is for the 5-comma complement.
+Since an aptome (or sharp) symbol in single-symbol notation is a
+double-shaft symbol with straight left and right flags, its apotome
+complement will be the apotome symbol minus the 5-comma flag --
+The apotome symbol minus a 5 comma (i.e., a straight left flag)
+gives its apotome complement:
+
+   /||\  -   /|   =   ||\
+
+The apotome complements of most of the other symbols were derived
+by a rather complicated process involving nearest approximations.
+These are listed for the 18 most common single-shaft sagittal
+symbols in the following table.
+
+Comma  Symbol   Complement   Double-symbol Equivalent
+-----  ------   ----------   ------------------------
+
+19      )|         (||~          )!#
+5:7      |(        /||)          !(#
+17      ~|        //||           ~!#
+17'     ~|(        (||(         ~!(#
+23       |~        ~||)          !~#
+19'     )|~        (||          )!~#
+5       /|          ||\          \!#
+7        |)         ||)          !)#
+11-5     |\        /||           !/#
+7:11    (|         )||~          !~#
+5:17    ~|)         ||~         ~!)#
+5:11    (|(        ~||(         (!(#
+5^2    //|         ~||          \\!#
+13      /|)        (|\
+11:19   (|~        )||          (!~#
+11      /|\        (|)
+11'     (|)        /|\
+13'     (|\        /|)
+
+
+ET SYMBOL SEQUENCES IN THE SINGLE-SYMBOL VERSION
+------------------------------------------------
+
+Group 1 requires only 7 symbols:   /|   |)  |\  /|)  /|\  (|)  (|\
+and four apotome-complements:     /||  ||)  ||\  /||\
+
+12, 19, 26:  /||\
+    with 2, 3, 4, and 6 notated as subsets of 12
+    with 13 notated as a subset of 26
+17, 24, 31, 38:  /|\  /||\
+    with 8 notated as a subset of 24
+45:  /|)  /||\
+    or 45 (preferably) notated as a subset of 135
+22, 29:  /|  ||\  /||\
+    with 11 notated as a subset of 22
+36:  |)  ||)  /||\
+    with 18 notated as a subset of 36
+43, 50, 57, 64:  /|)  (|\  /||\
+    with 25 notated as a subset of 50
+    or 57 (preferably) notated as a subset of 171
+    or 64 (preferably) notated as a subset of 128
+27:  /|  /|)  ||\  /||\
+    with 9 notated as a subset of 27
+34, 41:  /|  /|\  ||\  /||\
+48:  |)  /|\  ||)  /||\
+    with 16 notated as a subset of 48
+62:  /|)  /|\  (|\  /||\
+39, 46, 53:  /|  /|\  (|)  ||\  /||\
+    with 23 notated as a subset of 46
+60:  /|  /|)  (|\  ||\  /||\
+    with 20 and 30 notated as subsets of 60
+51:  |)  /|  /|)  ||\  ||)  /||\
+58:  /|  |\  /|\  /||  ||\  /||\
+65, 72, 79:  /|  |)  /|\  ||)  ||\  /||\
+49:  |\  /|  /|\  (|)  ||\  /||  /||\
+    or 49 (preferably) notated as a subset of 147
+56, 63:  |)  /|  /|\  (|)  ||\  ||)  /||\
+    with 28 notated as a subset of 56
+70:  /|  |\  /|\  (|)  /||  ||\  /||\
+    with 35 notated as a subset of 70
+77:  /|  |)  /|\  (|)  ||)  ||\  /||\
+84:  /|  |)  /|)  (|\  ||)  ||\  /||\
+    with 42 notated as a subset of 84
+68, 75:  |\  /|  /|\  /|)  (|)  ||\  /||  /||\
+96:  /|  |)  /|)  /|\  (|\  ||)  ||\  /||\
+
+Group 2 includes more complicated symbols:
+
+87:  ~|  /|  (|(  /|\  (|)  ~||(  ||\  //||  /||\
+94:  ~|(  /|  (|(  /|\  (|)  ~||(  ||\  (||(  /||\
+    with 47 notated as a subset of 94
+108:  /|  //|  |)  /|)  (|\  ||)  ~||  ||\  /||\
+120:  /|  (|  |)  /|)  /|\  (|\  ||)  )||~  ||\  /||\
+111, 118:  ~|  /|  |\  //|  /|\  (|)  ~||  /||  ||\  //||  /||\
+    with 59 notated as a subset of 118
+125:  ~|(  /|  |)  //|  /|\  (|)  ~||  ||)  ||\  (||(  /||\
+132:  ~|(  /|  |)  |\  (|)  /|\  /||  ||)  ||\  (||(  /||\
+    with 66 notated as a subset of 132
+130:  |(  /|  |)  |\  /|)  /|\  (|\  /||  ||)  ||\  /||)  /||\
+142:  |(  /|  |)  |\  /|)  /|\  (|)  (|\  /||  ||)  ||\  /||)  /||\
+    with 71 notated as a subset of 142
+159:  |(  ~|(  /|  |)  (|(  //|  /|\  (|)
+    ~||  ~||(  ||)  ||\  (||(  /||)  /||\
+171:  |(  ~|(  /|  |)  |\  //|  /|)  /|\  (|\
+      ~||  /||  ||)  ||\  (||(  /||)  /||\
+176, 183:  |(  ~|(  /|  |)  |\  (|(  /|)  /|\  (|)  (|\
+      ~||(  /||  ||)  ||\  (||(  /||)  /||\
+    with 61 notated as a subset of 183
+217:  |(  ~|  ~|(  /|  |)  |\  (|(  //|  /|)  /|\  (|)  (|\
+      ~||  ~||(  /||  ||)  ||\  (||(  //||  /||)  /||\
+
+Following are alternate notations for some multiples of 5 and 7:
+
+7:  using naturals F C G D A E B
+    or 7 preferably as subset of 56
+5:  using naturals C G D A E
+    or 5 preferably as subset of 50
+14:  |)    with naturals F C G D A E B
+    or 14 preferably as subset of 56
+10:  /|\  /||\    with naturals C G D A E
+    or 10 preferably as subset of 50
+21:  |)  |\    with naturals F C G D A E B
+    or 21 preferably as subset of 63
+15:  /|  ||\  /||\    with naturals C G D A E
+    or 15 preferably as subset of 60
+
+JUST INTONATION USING ASCII SIMULATION OF SINGLE-SYMBOL VERSION
+---------------------------------------------------------------
+
+Following are 15-limit consonances in single-symbol notation:
+
+ 1/1  = C                 2/1  = C
+ 3/2  = G                 4/3  = F
+ 5/3  = A\!               6/5  = Eb/| or E!!/
+ 5/4  = E\!               8/5  = Ab/| or A!!/
+ 7/4  = Bb!) or B!!!)     8/7  = D|)
+ 7/5  = Gb!( or G!!!(    10/7  = F#|( or F|||(
+ 7/6  = Eb!) or E!!!)    12/7  = A|)
+ 9/5  = Bb/| or B!!/     10/9  = D\!
+ 9/7  = E|)              14/9  = Ab!) or A!!!)
+ 9/8  = D                16/9  = Bb or B\!!/
+11/6  = B(!)             12/11 = D\!/
+11/7  = G#(! or G)||~    14/11 = Fb(| or F)!!~
+11/8  = F/|\             16/11 = G\!/
+11/9  = E(!)             18/11 = A\!/
+11/10 = D(!(             20/11 = Bb(|( or B~!!(
+13/7  = B(!(             14/13 = Db(|( or D~!!(
+13/8  = A(!/             16/13 = E\!)
+13/9  = G(!/             18/13 = F(|\
+13/10 = F\\!             20/13 = G//|
+13/11 = Eb!( or E!!!(    22/13 = A|(
+13/12 = D(!/             24/13 = B\!)
+15/8  = B\!              16/15 = Db/| or D!!/
+15/11 = F(|(             22/15 = G(!(
+15/13 = D//|             26/15 = Bb\\! or B\\!!!
+15/14 = C#|( or C|||(    28/15 = Cb!( or C!!!(

@@ -1,0 +1,103 @@
+Midi clips posted to pmg
+
+........................
+
+.gif =  scores. Lyric shows the scale that the notes
+are to be retuned to. Scale may or may not span an octave for notated
+octave of the score, e.g. a pentatonic scale played from consecutive
+white keys spans an octave for every 5 "white keys" on the score.
+
+.nwc = NoteWorthy Composer files, to be played through midi relaying
+software retuned according to the scale shown in the lyric line.
+(I use Fractal Tune Smithy; any midi retuning program can be used).
+
+.ts = Fractal Tune Smithy format, for fractal tunes. May need
+most recent beta or beta preview, e.g. to play the custom voices
+such as marimba harpsichord.
+
+See end of this file for FTS download urls.
+
+........................
+I've been imagining what it would be like to walk round a street
+corner and run into a 17-tet hurdy gurdy player.
+
+http://members.nbci.com/tune_smithy/tunes/17-tet_hurdy_gurdy_player.mid
+http://members.nbci.com/tune_smithy/tunes/17_tet_hurdy_gurdy_player.gif
+http://members.nbci.com/tune_smithy/tunes/17_tet_hurdy_gurdy_player.nwc
+
+17-tet major pentatonic
+
+........................
+Here's a little tune I wrote at the end of a rather nice day.
+
+http://members.nbci.com/tune_smithy/tunes/days_end_song.mid
+http://members.nbci.com/tune_smithy/tunes/days_end_song.gif
+http://members.nbci.com/tune_smithy/tunes/days_end_song.nwc
+
+It's in the Dominant Pentatonic, Shang: China 
+1/1 9/8 5/4 3/2 9/5 2/1 | Dominant Pentatonic, Shang: China 
+At the moment I'm exploring the idea of letting the consonances of
+a j.i. scale guide ones composition.
+
+........................
+
+Here is my fractal tune I'm playing with today. The scale is
+Dominant Pentatonic, Shang: China
+1 9/8 5/4 3/2 9/5 2
+
+http://members.nbci.com/tune_smithy/ts/an_open_door_with_ContraBass_dulcimer.mid
+(108 Kb)
+http://members.nbci.com/tune_smithy/ts/an_open_door_with_ContraBass_dulcimer.ts
+
+Uses Contrabass at ultra high pitch for the dulcimer partials.
+
+I'm exploring the idea of using a somewhat inharmonic timbre to make a simple
+(though rather interesting!) j.i. scale sound rather exotic.
+
+Here it is with a normal low pitched ContraBass instead:
+http://members.nbci.com/tune_smithy/ts/an_open_door.mid
+(44 Kb)
+http://members.nbci.com/tune_smithy/ts/an_open_door.ts
+
+........................
+
+http://members.nbci.com/tune_smithy/ts/paleolithic_field_recording.mid
+(397K)
+http://members.nbci.com/tune_smithy/ts/paleolithic_field_recording.ts
+
+Marimba harpsichord (marimba, playing harpsichord partials)
+plays
+1/1 6/5 9/5 7/4 11/7
+
+glockenspiel plays
+1/1 11/8 7/4 11/7
+
+transposed up by 144/49 from the marimba, and transposed
+to one of the marimba scale's degrees (whichever was
+played most recently)
+
+oboe+flute in parallel 11/7s play:
+1/1 6/5 11/8 7/4 9/5 11/7
+transposed down 7/11 from the glockenspiel and
+transposed to one of the glockenspiel degrees.
+
+........................
+
+FTS download urls:
+
+Beta: (May have bugs; help is not up to date with the program)
+
+http://members.nbci.com/_XMCM/tune_smithy/fts_beta/fts_beta_download.htm#download
+
+Beta preview (may easily have bugs, and could include newly introduced bugs
+for things that work okay in the beta. Also has unfinished sections -
+buttons with a label next to them to say that they have no effect,
+that kind of thing)
+
+http://members.nbci.com/_XMCM/tune_smithy/ts/fts_beta_preview.exe
+
+This is just the .exe file.
+
+Download it and save into your Fractal Tune Smithy folder, and run from
+there; can use at same time as the regular beta.
+

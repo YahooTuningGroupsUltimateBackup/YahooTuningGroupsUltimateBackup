@@ -1,0 +1,48 @@
+n-valent_scales.txt 
+
+lists all the n-valent scales in the SCALA archive (n>=2)
+where n-valent = all interval classes have exactly n sizes of intervals.
+
+Typical entry:
+ v___3md_n_12_class_5_aaaaaaaaaba_class_7_aaaaaaaaaba_ arabic1.scl | From Fortuna. Try C or G major
+
+v___3 = valency 3
+n_12 = number of notes in the scale.
+
+arabic1.scl is the name of the SCALA scale. (the definitions are left out to make the file much smaller,
+and because it is then easier to read).
+
+m = includes the midpoint 2^(1/2) as one of the interval sizes in one of the classes.
+
+d = has a duplicated interval size in at least one class.
+I.e.an interval size that can be made from the steps in more than one way.
+Ex, LMMMS = MMMMM for this scale. (L, M, S = large, middle and small step sizes).
+
+The class_5_aaaaaaaaaba shows a pattern of generators that can be used to make this scale, where 
+the generators a and b are both intervals of interval class 5 (i.e. made up of 5 steps of the scale).
+
+By repeatedly adding the intervals in the pattern showing, and reducing into the octave (or more
+generally, the formal octave), you can generate the scale.
+
+Some n-valent scales need n generators to generate them for every class.
+No generator info is shown for these.
+
+
+n-valent_scales_with_details.txt
+
+This shows more details for each entry
+v___3md_n_12_class_5_z_550_a_500_[10]_b_450_aaaaaaaaaba_class_7_z_750_a_700_[10]_b_650_aaaaaaaaaba_Dupl._10__0__1__1__1__1__2__1__1__1__1__0_   99 arabic1.scl | From Fortuna. Try C or G major
+
+class_5_z_550_a_500_[10]_b_450_aaaaaaaaaba
+- all numbers are in cents unless shown in ratio notation as 3/1 etc.
+a, b, ... are the generators in decreasing order of size.
+Herem, 500 and 450 are the sizes of the generators in cents.
+
+Numbers in square brackets show how many times the generator is used - if none shown,it is used once.
+So here, a is used 10 times, and b, once. 
+
+z is the interval that closes the cycle to get back to the note you started from.
+
+Dupl._10__0__1__1__1__1__2__1__1__1__1__0_ 
+lists the number of duplicated interval sizes for each class. The first 0 is for
+the steps themselves, and the last 0 is for their complements.

@@ -1,0 +1,875 @@
+{***********************************************
+Microtuning
+Author : Native Instruments
+Written by: Josef Natterer (natterer-script@web.de), Nicki Marinic
+Created: Sep 22, 2004
+Modified: Mar 20, 2005
+Version: 1.0.0
+
+Torsten added support for retuning of pitch classes via  
+CC 100-111 messages (see below).
+*************************************************}
+
+
+on init
+	
+	declare $act_note
+	declare $old_note
+	declare $old_note2
+	declare $diff
+	declare $intens := 100
+	declare %tune[12]
+	declare %myTune_1[12]
+	declare %myTune_2[12]
+	declare %myTune_3[12]
+	declare %myTune_4[12]
+	declare %myTune_5[12]
+	declare $count := 0
+	declare $last_tuning	
+	declare $last_tonart
+
+	{--------UI Elements--------}
+
+	declare ui_value_edit $I(-50000,50000,1000) 
+	declare ui_value_edit $II(-50000,50000,1000)
+	declare ui_value_edit $III(-50000,50000,1000)
+	declare ui_value_edit $IV(-50000,50000,1000)
+	declare ui_value_edit $V(-50000,50000,1000)
+	declare ui_value_edit $VI(-50000,50000,1000)
+	declare ui_value_edit $VII(-50000,50000,1000)
+	declare ui_value_edit $VIII(-50000,50000,1000)
+	declare ui_value_edit $IX(-50000,50000,1000)
+	declare ui_value_edit $X(-50000,50000,1000)
+	declare ui_value_edit $XI(-50000,50000,1000)
+	declare ui_value_edit $XII(-50000,50000,1000)
+	
+	declare ui_menu $tuning
+	declare ui_menu $tonart
+	declare ui_menu $save_tuning
+	
+	declare ui_table %tune_ui[12](3,4,-50000)
+	
+
+	declare ui_label $label (3, 1)
+	set_text ($label, "Do           Re           Mi     Fa          So            La         
+ Si")
+	
+
+	declare ui_label $interval_label (2,1)
+	declare ui_label $interval2_label (2,1)
+	set_text ($interval_label, "Interval:")
+	set_text ($interval2_label, "")
+	
+	{--------Menu Entries--------}
+
+	add_menu_item ($tuning, "Select Tuning", 99)
+	add_menu_item ($tuning, "--------------",99)
+	add_menu_item ($tuning,"Pure",5)
+	add_menu_item ($tuning,"Overtone 16-32",9)
+	add_menu_item ($tuning, "--------------",99)
+	{add_menu_item ($tuning,"Pythagorean",6)}
+	add_menu_item ($tuning,"Pythag. (Mid)",7)
+	add_menu_item ($tuning,"Pythag. (Up)",8)
+	add_menu_item ($tuning, "--------------",99)
+	add_menu_item ($tuning,"Mean Tone 1/4",1)
+	add_menu_item ($tuning,"Silbermann",10)
+	add_menu_item ($tuning, "--------------",99)
+	add_menu_item ($tuning,"Werckmeister III",3)
+	add_menu_item ($tuning,"Kirnberger III",2)
+	add_menu_item ($tuning,"Neidhardt I",11)
+	add_menu_item ($tuning,"Valotti",4)
+	add_menu_item ($tuning,"Young",12)
+	add_menu_item ($tuning, "--------------",99)
+	add_menu_item ($tuning,"Equal Temp.",0)
+	add_menu_item ($tuning, "--------------",99)
+	add_menu_item ($tuning,"User 1",101)
+	add_menu_item ($tuning,"User 2",102)
+	add_menu_item ($tuning,"User 3",103)
+	add_menu_item ($tuning,"User 4",104)
+	add_menu_item ($tuning,"User 5",105)
+	add_menu_item ($tuning, "--------------",99)
+	add_menu_item ($tuning,"<edit>",98)
+
+	
+	add_menu_item ($tonart, "Select Key", 99)
+	add_menu_item ($tonart, "--------------",99)
+	add_menu_item ($tonart,"C",0)
+	add_menu_item ($tonart,"C#",11)
+	add_menu_item ($tonart,"D",10)
+	add_menu_item ($tonart,"Eb",9)
+	add_menu_item ($tonart,"E",8)
+	add_menu_item ($tonart,"F",7)
+	add_menu_item ($tonart,"F#",6)
+	add_menu_item ($tonart,"G",5)
+	add_menu_item ($tonart,"Ab",4)
+	add_menu_item ($tonart,"A",3)
+	add_menu_item ($tonart,"Bb",2)
+	add_menu_item ($tonart,"B",1)
+	
+	add_menu_item ($save_tuning,"Save Tuning",98)
+	add_menu_item ($save_tuning, "--------------",99)
+	add_menu_item ($save_tuning,"User 1",1)
+	add_menu_item ($save_tuning,"User 2",2)
+	add_menu_item ($save_tuning,"User 3",3)
+	add_menu_item ($save_tuning,"User 4",4)
+	add_menu_item ($save_tuning,"User 5",5)
+	
+	{-----Initialization-----}
+
+	%tune[0] := 0
+	%tune[1] := -29328
+	%tune[2] := 3910
+	%tune[3] := 15641
+	%tune[4] := -13686
+	%tune[5] := -1955
+	%tune[6] := -31283
+	%tune[7] := 1955
+	%tune[8] := 13686
+	%tune[9] := -15641
+	%tune[10] := 17596
+	%tune[11] := -11731
+	
+	$I := 0
+	$II := -29328
+	$III := 3910
+	$IV := 15641
+	$V := -13686
+	$VI := -1955
+	$VII := -31283
+	$VIII:= 1955
+	$IX := 13686
+	$X := -15641
+	$XI := 17596
+	$XII := -11731
+
+	
+	%tune_ui[0] := %tune[0]
+	%tune_ui[1] := %tune[1]
+	%tune_ui[2] := %tune[2]
+	%tune_ui[3] := %tune[3]
+	%tune_ui[4] := %tune[4]
+	%tune_ui[5] := %tune[5]
+	%tune_ui[6] := %tune[6]
+	%tune_ui[7] := %tune[7]
+	%tune_ui[8] := %tune[8]
+	%tune_ui[9] := %tune[9]
+	%tune_ui[10] := %tune[10]
+	%tune_ui[11] := %tune[11]
+	
+	$tuning := 5
+	$last_tuning := 5
+	$tonart := 0
+	$last_tonart := 0
+	$save_tuning := 0
+	
+	{---------Layout---------}
+	
+	move_control ($label, 1,1)
+	move_control (%tune_ui, 1,2)
+	move_control ($I, 5,1)
+	move_control ($II, 5,2)
+	move_control ($III, 5,3)
+	move_control ($IV, 5,4)
+	move_control ($V, 5,5)
+	move_control ($VI, 5,6)
+	move_control ($VII, 6,1)
+	move_control ($VIII, 6,2)
+	move_control ($IX, 6,3)
+	move_control ($X, 6,4)
+	move_control ($XI, 6,5)
+	move_control ($XII, 6,6)
+	move_control($tonart,4,2)
+	move_control($tuning,4,3)
+	move_control ($save_tuning, 4,5)
+	move_control ($interval_label, 1,6)
+	move_control ($interval2_label, 3,6)
+	
+	{----- Recall -----}
+	
+	make_persistent (%mytune_1)
+	make_persistent (%mytune_2)
+	make_persistent (%mytune_3)
+	make_persistent (%mytune_4)
+	make_persistent (%mytune_5)
+	make_persistent ($last_tuning)
+	make_persistent ($last_tonart)
+	make_persistent ($tonart)
+	make_persistent ($tuning)
+	make_persistent (%tune_ui)
+	make_persistent ($I)
+	make_persistent ($II)
+	make_persistent ($III)
+	make_persistent ($IV)
+	make_persistent ($V)
+	make_persistent ($VI)
+	make_persistent ($VII)
+	make_persistent ($VIII)
+	make_persistent ($XI)
+	make_persistent ($X)
+	make_persistent ($XI)
+	make_persistent ($XII)
+	
+	
+	message (" ")
+	
+
+end on
+
+
+
+on ui_control($tuning)
+	select ($tuning)
+	
+		case 0 {EQUAL TEMP}
+		
+			%tune[0] := 0
+			%tune[1] := 0
+			%tune[2] := 0
+			%tune[3] := 0
+			%tune[4] := 0
+			%tune[5] := 0
+			%tune[6] := 0
+			%tune[7] := 0
+			%tune[8] := 0
+			%tune[9] := 0
+			%tune[10] := 0
+			%tune[11] := 0
+
+
+		case 1{MEAN TONE 1/4 comma}
+		
+			%tune[0]:= 0
+			%tune[1] := -23950
+			%tune[2] := -6843
+			%tune[3] := 10265
+			%tune[4] := -13686
+			%tune[5] := 3422
+			%tune[6] := -20529
+			%tune[7] := -3422
+			%tune[8] := -27372
+			%tune[9] := -10265
+			%tune[10] := 6843
+			%tune[11] := -17108
+
+		case 2 {KIRNBERGER III}
+
+			%tune[0] := 0
+			%tune[1] := -9775
+			%tune[2] := -6843
+			%tune[3] := -5865
+			%tune[4] := -13686
+			%tune[5] := -1955
+			%tune[6] := -11730
+			%tune[7] := -3421
+			%tune[8] := -7820
+			%tune[9] := -10264
+			%tune[10] := -3910
+			%tune[11] := -11731
+	
+	
+		case 3 {WERCKMEISTER III}
+
+			%tune[0] := 0
+			%tune[1] := -9775
+			%tune[2] := -7820
+			%tune[3] := -5865
+			%tune[4] := -9775
+			%tune[5] := -1955
+			%tune[6] := -11730
+			%tune[7] := -3910
+			%tune[8] := -7820
+			%tune[9] := -11730
+			%tune[10] := -3910
+			%tune[11] := -7820
+
+
+
+		case 4 {Valotti}
+			%tune[0] := 0
+			%tune[1] := -5865
+			%tune[2] := -3910
+			%tune[3] := -1955
+			%tune[4] := -7820
+			%tune[5] := 1955
+			%tune[6] := -7820
+			%tune[7] := -1955
+			%tune[8] := -3910
+			%tune[9] := -5865
+			%tune[10] := 0
+			%tune[11] := -9775
+
+		case 5 {PURE}
+			%tune[0] := 0
+			%tune[1] := -29328 {25/24}
+			%tune[2] := 3910 {9/8}
+			%tune[3] := 15641 {6/5}
+			%tune[4] := -13686 {5/4}
+			%tune[5] := -1955 {4/3}
+			%tune[6] := -31283 {25/18}
+			%tune[7] := 1955 {3/2}
+			%tune[8] := 13686 {8/5}
+			%tune[9] := -15641 {5/3}
+			%tune[10] := 17596 {9/5}
+			%tune[11] := -11731 {15/8}
+
+		case 6 {PYTHAGOREAN}
+			%tune[0]:= 0
+			%tune[1] := 13685
+			%tune[2] := 3910
+			%tune[3] := -5865
+			%tune[4] := 7820
+			%tune[5] := -1955
+			%tune[6] := 11730
+			%tune[7] := 1955
+			%tune[8] := 15640
+			%tune[9] := 5865
+			%tune[10] := -3910
+			%tune[11] := 9775
+		
+		case 7 {Pythagorean Middle}
+			%tune[0]:= 0
+			%tune[1] := -9775
+			%tune[2] := 3910
+			%tune[3] := -5865
+			%tune[4] := 7820
+			%tune[5] := -1955
+			%tune[6] := 0
+			%tune[7] := 1955
+			%tune[8] := -7820
+			%tune[9] := 5865
+			%tune[10] := -3910
+			%tune[11] := 9775
+			
+		case 8 {Pythagorean Up}
+			%tune[0]:= 0
+			%tune[1] := 13685
+			%tune[2] := 3910
+			%tune[3] := 17595
+			%tune[4] := 7820
+			%tune[5] := 21505
+			%tune[6] := 11730
+			%tune[7] := 1955
+			%tune[8] := 15640
+			%tune[9] := 5865
+			%tune[10] := 19550
+			%tune[11] := 9775
+			
+			
+		case 9 {Overtone 16-32}
+			%tune[0]:= 0
+			%tune[1] := 4955
+			%tune[2] := 3910
+			%tune[3] := -2487
+			%tune[4] := -13686
+			%tune[5] := -29219
+			%tune[6] := -48682
+			%tune[7] := 1955
+			%tune[8] := 40528
+			%tune[9] := 5865
+			%tune[10] := -31174
+			%tune[11] := -11731
+			
+		case 10 {Silbermann}
+			%tune[0]:= 0
+			%tune[1] := -13685
+			%tune[2] := -3910
+			%tune[3] := 5865
+			%tune[4] := -7820
+			%tune[5] := 1955
+			%tune[6] := -11730
+			%tune[7] := -1955
+			%tune[8] := -15640
+			%tune[9] := -5865
+			%tune[10] := 3910
+			%tune[11] := -9745
+			
+		case 11 {Neidhardt I}
+			%tune[0]:= 0
+			%tune[1] := -5868
+			%tune[2] := -3910
+			%tune[3] := -3910
+			%tune[4] := -7820
+			%tune[5] := -1955
+			%tune[6] := -7820
+			%tune[7] := -1955
+			%tune[8] := -3910
+			%tune[9] := -5865
+			%tune[10] := -3910
+			%tune[11] := -7820
+			
+		case 12 {Young 1/6 pC}
+			%tune[0]:= 0
+			%tune[1] := -9775
+			%tune[2] := -3910
+			%tune[3] := -5865
+			%tune[4] := -7820
+			%tune[5] := -1955
+			%tune[6] := -11730
+			%tune[7] := -1955
+			%tune[8] := -7820
+			%tune[9] := -5865
+			%tune[10] := -3910
+			%tune[11] := -9775
+		
+
+		case 101
+			%tune[0] := %myTune_1[0]
+			%tune[1] := %myTune_1[1]
+			%tune[2] := %myTune_1[2]
+			%tune[3] := %myTune_1[3]
+			%tune[4] := %myTune_1[4]
+			%tune[5] := %myTune_1[5]
+			%tune[6] := %myTune_1[6]
+			%tune[7] := %myTune_1[7]
+			%tune[8] := %myTune_1[8]
+			%tune[9] := %myTune_1[9]
+			%tune[10] := %myTune_1[10]
+			%tune[11] := %myTune_1[11]
+
+		case 102
+			%tune[0] := %myTune_2[0]
+			%tune[1] := %myTune_2[1]
+			%tune[2] := %myTune_2[2]
+			%tune[3] := %myTune_2[3]
+			%tune[4] := %myTune_2[4]
+			%tune[5] := %myTune_2[5]
+			%tune[6] := %myTune_2[6]
+			%tune[7] := %myTune_2[7]
+			%tune[8] := %myTune_2[8]
+			%tune[9] := %myTune_2[9]
+			%tune[10] := %myTune_2[10]
+			%tune[11] := %myTune_2[11]
+	
+		case 103
+			%tune[0] := %myTune_3[0]
+			%tune[1] := %myTune_3[1]
+			%tune[2] := %myTune_3[2]
+			%tune[3] := %myTune_3[3]
+			%tune[4] := %myTune_3[4]
+			%tune[5] := %myTune_3[5]
+			%tune[6] := %myTune_3[6]
+			%tune[7] := %myTune_3[7]
+			%tune[8] := %myTune_3[8]
+			%tune[9] := %myTune_3[9]
+			%tune[10] := %myTune_3[10]
+			%tune[11] := %myTune_3[11]
+
+		case 104
+			%tune[0] := %myTune_4[0]
+			%tune[1] := %myTune_4[1]
+			%tune[2] := %myTune_4[2]
+			%tune[3] := %myTune_4[3]
+			%tune[4] := %myTune_4[4]
+			%tune[5] := %myTune_4[5]
+			%tune[6] := %myTune_4[6]
+			%tune[7] := %myTune_4[7]
+			%tune[8] := %myTune_4[8]
+			%tune[9] := %myTune_4[9]
+			%tune[10] := %myTune_4[10]
+			%tune[11] := %myTune_4[11]
+		case 105
+			%tune[0] := %myTune_5[0]
+			%tune[1] := %myTune_5[1]
+			%tune[2] := %myTune_5[2]
+			%tune[3] := %myTune_5[3]
+			%tune[4] := %myTune_5[4]
+			%tune[5] := %myTune_5[5]
+			%tune[6] := %myTune_5[6]
+			%tune[7] := %myTune_5[7]
+			%tune[8] := %myTune_5[8]
+			%tune[9] := %myTune_5[9]
+			%tune[10] := %myTune_5[10]
+			%tune[11] := %myTune_5[11]
+	end select
+
+	%tune_ui[0] := %tune[0]
+	%tune_ui[1] := %tune[1]
+	%tune_ui[2] := %tune[2]
+	%tune_ui[3] := %tune[3]
+	%tune_ui[4] := %tune[4]
+	%tune_ui[5] := %tune[5]
+	%tune_ui[6] := %tune[6]
+	%tune_ui[7] := %tune[7]
+	%tune_ui[8] := %tune[8]
+	%tune_ui[9] := %tune[9]
+	%tune_ui[10] := %tune[10]
+	%tune_ui[11] := %tune[11]
+
+	$I := %tune[0]
+	$II := %tune[1]
+	$III := %tune[2]
+	$IV := %tune[3]
+	$V := %tune[4]
+	$VI := %tune[5]
+	$VII := %tune[6]
+	$VIII := %tune[7]
+	$IX := %tune[8]
+	$X := %tune[9]
+	$XI := %tune[10]
+	$XII := %tune[11]
+	
+	if ($tuning = 99 or $tuning = 98)
+		$tuning := $last_tuning
+	else
+		$last_tuning := $tuning
+	end if
+		
+end on
+
+on ui_control(%tune_ui)
+	$I := %tune_ui[0]
+	$II := %tune_ui[1]
+	$III := %tune_ui[2]
+	$IV := %tune_ui[3]
+	$V := %tune_ui[4]
+	$VI := %tune_ui[5]
+	$VII := %tune_ui[6]
+	$VIII := %tune_ui[7]
+	$IX := %tune_ui[8]
+	$X := %tune_ui[9]
+	$XI := %tune_ui[10]
+	$XII := %tune_ui[11]
+
+	%tune[0] := %tune_ui[0]
+	%tune[1] := %tune_ui[1]
+	%tune[2] := %tune_ui[2]
+	%tune[3] := %tune_ui[3]
+	%tune[4] := %tune_ui[4]
+	%tune[5] := %tune_ui[5]
+	%tune[6] := %tune_ui[6]
+	%tune[7] := %tune_ui[7]
+	%tune[8] := %tune_ui[8]
+	%tune[9] := %tune_ui[9]
+	%tune[10] := %tune_ui[10]
+	%tune[11] := %tune_ui[11]
+	
+	$tuning := 98
+	$last_tuning := 98
+
+end on
+
+on ui_control($I)
+	%tune[0] := $I
+	%tune_ui[0] := $I
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control($II)
+	%tune[1] := $II
+	%tune_ui[1] := $II
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control($III)
+	%tune[2] := $III
+	%tune_ui[2] := $III
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control($IV)
+	%tune[3] := $IV
+	%tune_ui[3] := $IV
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control($V)
+	%tune[4] := $V
+	%tune_ui[4] := $V
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control($VI)
+	%tune[5] := $VI
+	%tune_ui[5] := $VI
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control($VII)
+	%tune[6] := $VII
+	%tune_ui[6] := $VII
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control($VIII)
+	%tune[7] := $VIII
+	%tune_ui[7] := $VIII
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control($IX)
+	%tune[8] := $IX
+	%tune_ui[8] := $IX
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control($X)
+	%tune[9] := $X
+	%tune_ui[9] := $X
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control($XI)
+	%tune[10] := $XI
+	%tune_ui[10] := $XI
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control($XII)
+	%tune[11] := $XII
+	%tune_ui[11] := $XII
+	$tuning := 98
+	$last_tuning := 98
+end on
+
+on ui_control ($tonart)
+	if ($tonart  # 99)
+		$last_tonart := $tonart
+	else
+		$tonart := $last_tonart
+	end if
+end on
+
+on ui_control ($save_tuning)
+	$count := 0
+	select ($save_tuning)
+		case 1
+			while ($count < 12)
+				%mytune_1[$count] := %tune[$count]
+				inc ($count)
+			end while
+			$tuning := 101
+		case 2
+			while ($count < 12)
+				%mytune_2[$count] := %tune[$count]
+				inc ($count)
+			end while
+			$tuning := 102
+		case 3
+			while ($count < 12)
+				%mytune_3[$count] := %tune[$count]
+				inc ($count)
+			end while
+			$tuning := 103
+		case 4
+			while ($count < 12)
+				%mytune_4[$count] := %tune[$count]
+				inc ($count)
+			end while
+			$tuning := 104
+		case 5
+			while ($count < 12)
+				%mytune_5[$count] := %tune[$count]
+				inc ($count)
+			end while
+			$tuning := 105
+	end select
+	
+	$save_tuning := 98
+end on
+
+on note
+	if ($old_note # $act_note)
+		$old_note := $act_note
+	end if
+	
+	$act_note := $EVENT_NOTE + $tonart
+	$act_note := $act_note mod 12
+	set_event_mark($EVENT_ID,sh_left(2,$act_note))
+	
+	if (%KEY_DOWN[$old_note2] = 1 and ($old_note # $act_note))
+			$diff := %tune[$old_note] + %tune[$act_note]
+{			$diff := ((($act_note -$old_note + 12) mod 12) *100000)  + 
+%tune[$old_note] + %tune[$act_note]}
+		if ($old_note2 < $EVENT_NOTE)
+			$diff := %tune[$act_note] - %tune[$old_note]
+			set_text($interval_label,"Interval: "&$old_note+1&" to "&$act_note+1&": 
+"&$diff&" mcent" )
+		else
+			$diff := %tune[$old_note] - %tune[$act_note]
+			set_text($interval_label,"Interval: "&$act_note+1&" to "&$old_note+1&": 
+"&$diff&" mcent" )
+		end if
+		set_text($interval2_label,"")
+		select ($diff)
+			case -29328
+				set_text($interval2_label,"25/24 (minor chroma)")
+			case 3910
+				set_text($interval2_label,"9/8 (major whole tone)")
+			case 15641
+				set_text($interval2_label,"6/5 (minor third)")
+			case -13686
+				set_text($interval2_label,"5/4 (major third)")
+			case -1955
+				set_text($interval2_label,"4/3 (perfect fourth)")
+			case -31283
+				set_text($interval2_label,"25/18 (classic aug fourth)")
+			case 1955
+				set_text($interval2_label,"3/2 (perfect fifth)")
+			case 13686
+				set_text($interval2_label,"8/5 (minor sixth)")
+			case -15641
+				set_text($interval2_label,"5/3 (major sixth)")
+			case 17596
+				set_text($interval2_label,"9/5 (just minor seventh)")
+			case -11731
+				set_text($interval2_label,"15/8 (classic major seventh)")
+			case 7820
+				set_text($interval2_label,"81/64 (Pyth maj third)")
+			case -5865
+				set_text($interval2_label,"32/27 (Pyth min third)")
+			case -3910
+				set_text($interval2_label,"lowered by 1/6 pytha. comma")
+		end select
+		else 
+		$diff := 0
+		set_text($interval2_label,"")
+		set_text($interval_label,"Interval: " )
+	end if
+	$old_note2 := $EVENT_NOTE
+		select ($act_note)
+			case 0
+				change_tune(by_marks($MARK_1),(%tune[0] * $intens)/100,0)
+			case 1
+				change_tune(by_marks($MARK_2),(%tune[1] * $intens)/100,0)
+			case 2
+				change_tune(by_marks($MARK_3),(%tune[2] * $intens)/100,0)
+			case 3
+				change_tune(by_marks($MARK_4),(%tune[3] * $intens)/100,0)
+			case 4
+				change_tune(by_marks($MARK_5),(%tune[4] * $intens)/100,0)
+			case 5
+				change_tune(by_marks($MARK_6),(%tune[5] * $intens)/100,0)
+			case 6
+				change_tune(by_marks($MARK_7),(%tune[6] * $intens)/100,0)
+			case 7
+				change_tune(by_marks($MARK_8),(%tune[7] * $intens)/100,0)
+			case 8
+				change_tune(by_marks($MARK_9),(%tune[8] * $intens)/100,0)
+			case 9
+				change_tune(by_marks($MARK_10),(%tune[9] * $intens)/100,0)
+			case 10
+				change_tune(by_marks($MARK_11),(%tune[10] * $intens)/100,0)
+			case 11
+				change_tune(by_marks($MARK_12),(%tune[11] * $intens)/100,0)
+		end select 
+end on
+on release
+	set_text ($interval_label, "Interval:")
+	set_text ($interval2_label, " ")
+end on
+
+
+
+{**************************************
+Torsten Anders slighly extended the script with the following. 
+Here, the tuning of each pitch class can also be changed by CC. 
+The CC 100-111 (for pitch classes c-b) are used for this purpose, because usually they are 
+undefined.
+
+The tuning in this script uses the interval [-50000 millicent, 50000 millicent]. The 
+CC range 0-100 is understood as 0-100 cent values beyond (101-127) are ignored. The necessary 
+transformation is performed with the simple formula 
+ 
+	CC * 1000 - 50000
+
+***************************************}
+
+on controller	
+
+	if (%CC_TOUCHED[100]=1 and %CC[100] < 101)
+	  %tune[0] := %CC[100] * 1000 - 50000	  
+	  %tune_ui[0] := %tune[0]
+	  $I := %tune[0]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+	if (%CC_TOUCHED[101]=1 and %CC[101] < 101)
+	  %tune[1] := %CC[101] * 1000 - 50000
+	  %tune_ui[1] := %tune[1]
+	  $II := %tune[1]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+	if (%CC_TOUCHED[102]=1 and %CC[102] < 101)
+	  %tune[2] := %CC[102] * 1000 - 50000
+	  %tune_ui[2] := %tune[2]
+	  $III := %tune[2]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+	if (%CC_TOUCHED[103]=1 and %CC[103] < 101)
+	  %tune[3] := %CC[103] * 1000 - 50000
+	  %tune_ui[3] := %tune[3]
+	  $IV := %tune[3]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+	if (%CC_TOUCHED[104]=1 and %CC[104] < 101)
+	  %tune[4] := %CC[104] * 1000 - 50000
+	  %tune_ui[4] := %tune[4]
+	  $V := %tune[4]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+	if (%CC_TOUCHED[105]=1 and %CC[105] < 101)
+	  %tune[5] := %CC[105] * 1000 - 50000
+	  %tune_ui[5] := %tune[5]
+	  $VI := %tune[5]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+	if (%CC_TOUCHED[106]=1 and %CC[106] < 101)
+	  %tune[6] := %CC[106] * 1000 - 50000
+	  %tune_ui[6] := %tune[6]
+	  $VII := %tune[6]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+	if (%CC_TOUCHED[107]=1 and %CC[107] < 101)
+	  %tune[7] := %CC[107] * 1000 - 50000
+	  %tune_ui[7] := %tune[7]
+	  $VIII := %tune[7]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+	if (%CC_TOUCHED[108]=1 and %CC[108] < 101)
+	  %tune[8] := %CC[108] * 1000 - 50000
+	  %tune_ui[8] := %tune[8]
+	  $IX := %tune[8]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+	if (%CC_TOUCHED[109]=1 and %CC[109] < 101)
+	  %tune[9] := %CC[109] * 1000 - 50000
+	  %tune_ui[9] := %tune[9]
+	  $X := %tune[9]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+	if (%CC_TOUCHED[110]=1 and %CC[110] < 101)
+	  %tune[10] := %CC[110] * 1000 - 50000
+	  %tune_ui[10] := %tune[10]
+	  $XI := %tune[10]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+	if (%CC_TOUCHED[111]=1 and %CC[111] < 101)
+	  %tune[11] := %CC[111] * 1000 - 50000
+	  %tune_ui[11] := %tune[11]
+	  $XII := %tune[11]
+	  $tuning := 98
+	  $last_tuning := 98
+	end if
+
+end on

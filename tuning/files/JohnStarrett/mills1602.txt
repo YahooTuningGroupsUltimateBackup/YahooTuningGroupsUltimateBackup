@@ -1,0 +1,793 @@
+Subject: TUNING digest 1606 (fwd)
+Date: Thu, 30 Aug 2001 15:05:55 -0600 (MDT)
+From: John Starrett <jstarret@math.cudenver.edu>
+To: <jstarret@carbon.cudenver.edu>
+
+--
+John Starrett
+"We have nothing to fear but the scary stuff."
+http://www-math.cudenver.edu/~jstarret/microtone.html
+
+---------- Forwarded message ----------
+Date: Thu, 17 Dec 1998 23:57:50 -0700 (MST)
+From: tuning@eartha.mills.edu
+To: jstarret@math.cudenver.edu
+Subject: TUNING digest 1606
+
+                            TUNING Digest 1606
+
+Topics covered in this issue include:
+
+  1) Hypertones, counterset & other weird microanimals
+        by Stephen Soderberg <ssod@loc.gov>
+  2) RE: Hypertones, counterset & other weird microanimals (fwd)
+        by "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+  3) RE: Hypertones, counterset & other weird microanimals (fwd)
+        by "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+  4) (no subject)
+        by HPBohlen@aol.com
+  5) Haven't received the tuning list lately?
+        by Mark Nowitzky <nowitzky@alum.mit.edu>
+  6) Re: Left brain vs. right brain
+        by Gary Morrison <mr88cet@texas.net>
+  7) Re: Promenade
+        by Mark Nowitzky <nowitzky@alum.mit.edu>
+  8) ICMC Tape Deadline
+        by Lydia Ayers <layers@cs.ust.hk>
+  9) What happened to Tuning Digest???
+        by David Beardsley <xouoxno@virtulink.com>
+ 10) TUNING digest 1571
+        by Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+ 11) Tuning List Down
+        by "David Madole" <madole@ella.mills.edu>
+ 12) Re: amazon carrying independent CDs
+        by "John Loffink" <jloffink@pdq.net>
+ 13) Re: Partch
+        by Johnny Reinhard <reinhard@IDT.NET>
+ 14) steel bar tunings
+        by Rick Sanford <76122.2237@compuserve.com>
+
+----------------------------------------------------------------------
+
+Topic No. 1
+
+Date: Thu, 10 Dec 1998 15:54:37 -0500 (EST)
+From: Stephen Soderberg <ssod@loc.gov>
+To: tuning@eartha.mills.edu
+Subject: Hypertones, counterset & other weird microanimals
+Message-ID: <Pine.A41.4.05.9812071207230.65974-100000@rs8.loc.gov>
+
+Been away for awhile, so I'll first print all of Paul Erlich's post that
+I'm replying to.  This is a long post, folks, but I promise you a very
+strange twist if you stick it out...
+
+[Soderberg:]
+> >So to
+> >malign 12tET (so I assume) is to malign its effects on the ear, not its
+> >12-space compositional-theoretic properties, which are quite potent
+> >regardless of how you tune it.  Likewise, arguments about how the
+> diatonic
+> >scale should *really* be tuned (for psycho-acoustic or historical or
+> any
+> >other reason) are mostly irrelevant to its basic 7-space
+> >(compositional-theoretic) properties which carry over to *any* tuning
+> that
+> >closes (or pretends to close) at the octave.  In the end, things like
+> >n-tone theory or ME theory or hyperdiatonic theory are abstract and
+> have
+> >nothing to do with tuning.
+
+[Erlich:]
+> And almost nothing to do with music. Stephen, I couldn't disagree with
+> this position more, but I have only the highest respect for your
+> intellectual rigor, and I appreciate the respect you've shown to mine.
+> As a starting point for some discussion, perhaps you could tell us how
+> far you'd go in defending the phrase "regardless of how you tune it" in
+> the first sentence above. I infer that some would require a Rothenberg
+> proper 12-tone scale; how about you, Stephen?
+
+        After re-reading my post after Paul's comment, I can answer his
+question "how far you'd go in defending the phrase 'regardless of how you
+tune it'" quite easily: not far at all.  I have to admit that it came off
+sounding like I don't believe that tuning "matters" at all, and this is
+certainly not true.  My position would have been better served if I would
+have approached it from this angle: once you choose a tuning -- ANY tuning
+-- what then?  You're in a new universe -- are the "rules" the same here
+or are they different?  What does "counterpoint" mean here?  How do you
+want to define a "chord" and what does this definition imply about
+voice-leading?  What's "consonant"? "dissonant"? "tonal"? "atonal"?  Does
+this universe offer more "degrees of compositional freedom" or less?  Are
+there formations, structures, transformations here that can't be found
+elsewhere, and, if so, how can you take advantage of them?  Etc. etc.  In
+7-scale diatonic (the language of the "Western canon"), these are all
+non-questions unless you want to sound like Bach or Bacharach, and I sense
+(with the possible exception of those legitimately interested in
+historical tunings) most on the list are headed in clearly different
+directions.
+
+        What I'm trying to get across (and this is a follow up to my "why
+triads?" question) might best be seen through an example.  So let me use
+Paul's 10-scale (specifically, the non-ME "standard pentachordal major,"
+SPM).  The reason for this choice as an example is that Paul has offered
+one of the best attempts I've seen to confront _publicly_ many of the
+above questions in a decatonic environment.  And as Paul and a few others
+seem to have concluded, triads are not _necessarily_ the best or most
+logical choice for basic sonorities in synthetic mega-scales for a number
+of good reasons.
+
+        While I will be pointing out what might be termed some
+"difficulties" with Paul's SPM, the analysis to follow is NOT meant to
+"dis" this scale which has many interesting properties pointed out in
+Paul's article.  Looking on scale theory as a kind of "abstract geometry"
+compels me to hold that, first, no scale (like no geometry) is "wrong,"
+though it might be (compositionally) misused or misapplied, and second,
+scales (like geometries) can be related to one another via their invariant
+properties. This is not to say that the non-invariants of a given
+scale/tuning are unimportant (which is what my previous post may have
+implied); to the contrary, non-invariants give a specific scale its
+characteristic "flavor."  Thus, among 7-scales, the usual vanilla diatonic
+major and the paprika Hungarian minor share some important invariant
+properties, but no one is likely to confuse their non-invariant
+properties.
+
+        The SPM is based on the interval string <2232223222>.  While it is
+not maximally even, it is nevertheless symmetric, an important defining
+quality in chord formation.  So the SPM is: (0,2,4,7,9,11,13,16,18,20). To
+define/generate tetrachords, Paul uses the string <3322> -- again,
+symmetric but not ME -- which is to say that we are to form a chord by
+taking (generic) notes 1,4,7,9.  The result is the following set of 10
+basic tetrachords (to the left of the vertical line):
+
+        scale
+        step    tetra      string quality       tetra    name
+
+        I     0  7 13 18   <7654> Maj       |  0 3 6 8   0x
+        II    2  9 16 20   <7744> Aug       |  1 4 7 9   1x
+        III   4 11 18  0   <7744> Aug       |  2 5 8 0   2x
+        IV    7 13 20  2   <6745> Min       |  3 6 9 1   3x
+        V     9 16  0  4   <7645> Ma-mi     |  4 7 0 2   4x
+        VI   11 18  2  7   <7654> Maj       |  5 8 1 3   5x
+        VII  13 20  4  9   <7654> Maj       |  6 9 2 4   6x
+        VIII 16  0  7 11   <6745> Min       |  7 0 3 5   7x
+        IX   18  2  9 13   <6745> Min       |  8 1 4 6   8x
+        X    20  4 11 16   <6754> Mi-ma     |  9 2 5 7   9x
+
+        Now let's "reduce" the SPM to a chromatic 10-scale (call it 10X
+for reference) whose string is <1111111111> (this is pretty much the same
+as naming the diatonic scale steps):
+
+        0  2  4  7  9 11 13 16 18 20
+        |  |  |  |  |  |  |  |  |  |
+        V  V  V  V  V  V  V  V  V  V
+        0  1  2  3  4  5  6  7  8  9
+
+        Using the same chord-defining string as before, <3322>, we can
+generate 10 chords in 10X, each of which corresponds 1-to-1 to a chord in
+SPM (see above to the right of the vertical line -- each 10X chord is
+"named" for reference.)  Since each 10X chord is based on the same string,
+<3322>, there is no way (other than relative scale position) to
+distinguish and group them as there is with the chords in SPM.  Thus there
+is no invariance between these two "systems" WITH RESPECT TO chord
+"quality" -- and thus, since SPM and 10X are two ways to partition the
+octave (two distinct tunings), tuning matters for specific chord quality
+(but matters less, as we shall see, for _patterns_ of chord qualities).
+
+        Now, Paul gives some very logical functional names to SPM chords
+based on the identification of Q (3:2) with 13 chromatic steps.  We will
+isolate here what he identifies as the tonic (I), the subdominant (V), and
+the dominant (VII).  It's at this point that we can begin to see some very
+important differences between 10-scales and 7-scales.  First, unlike
+7-scales with <223> chords, 10-scales with <3322> chords only have one
+triple of chords that covers the scale.  In the SPM scale, a triple of
+_consecutive_ tetras will form a cover, but note that, although we might
+expect it of a quasi-diatonic system, the union of the tonic, dominant,
+and subdominant that Paul identifies is _not_ a cover of the scale.  In
+fact, consecutive triples are the only sets which can form a cover for
+SPM, and furthermore, due to "scale covariance" (described in my MTO
+article), this characteristic is shared by _any_ 10-scale system based on
+<3322> chords.  This can be checked with the simple 10X system given
+above, or by listing a random 10-string such as <1714539926> and listing
+its <3322> chords.  So the T-D-SD relationship doesn't provide "key
+coherence" as we might expect.
+
+        A second characteristic of all 10-scale/<3322> systems is that,
+unlike 7-scale/<223>&<2221> systems and others, they aren't saturated with
+what Eytan Agmon calls "efficient linear transformations."  In the usual
+diatonic, for example, any triad can be linked to any other triad by
+either a unison or a scale-step move.  In SPM/<3322> there are two
+fundamental progressions that don't connect smoothly: those whose roots
+are 4 and 6 scale steps apart, respectively, e.g.:
+
+         I           V     I         VII
+
+        18--------->16    18-------->20
+        13-->(11)--> 9    13-------->13
+         7---------> 4     7--------> 9
+         0---------> 0     0-->(2)--> 4
+
+whereas, for example, I-VI describes a typical ELT (smooth voice-leading):
+
+         I     VI
+
+        18---->18
+        13---->11
+         7----> 7
+         0----> 2
+
+Once again, this is true of all 10-scale/<3322> systems due to scale
+covariance.
+
+        Another interesting property that scale covariance carries through
+all 10-scale/<3322> systems is the common-tone pattern.  Starting with any
+chord in the list above, chord pairs n scale steps apart will have x tones
+in common:
+
+        n:   0 1 2 3 4 5 6 7 8 9
+        x:   4 0 2 2 1 2 1 2 2 0
+
+        Finally, the pattern of chord qualities is invariant for 10-scale
+systems based on a scale string <xxyxxxyxxx> (where x ne y are any
+integers) and generic string <3322> as above.  To illustrate, let Maj = a,
+Min= a', Ma-mi = b, Mi-ma = b', and Aug = c; then the quality pattern will
+always be some rotation of: a c c a' b a a a' a' b' (a skew-symmetric
+pattern generated by the interaction of the scale and generic strings).
+
+        The bottom line is, while scale tuning "matters" in many ways (not
+the least of which is vertical & horizontal quality/modality, imparting a
+defining "flavor" to a system), once you have chosen a scale, the real
+work is just beginning since most scales offer multiple "geometric"
+possibilities.  Let's now see what happens if we use a triad as a basic
+chord in SPM.
+
+        If we keep the demand for a 3:2 basis for a majority of chords (a
+possibly psychologically reasonable but not logically necessary
+condition), one plausible triad list uses the ME generic string <334>
+which in effect simply deletes the top note of Paul's tetras yielding
+triads:
+
+        I     0  7 13   Maj
+        II    2  9 16   Aug
+        III   4 11 18   Aug
+        IV    7 13 20   Min
+        V     9 16  0   Maj
+        VI   11 18  2   Maj
+        VII  13 20  4   Maj
+        VIII 16  0  7   Min
+        IX   18  2  9   Min
+        X    20  4 11   Min
+
+This reduces the 5 tetrachord qualities to 3 trichord qualities: <769>
+(Maj), <679> (Min), and <778> (Aug).
+
+        First, this tells us something interesting about minimal covers
+because it focuses attention on triads of identical quality.  We noted
+above that the only cover (with the usual criterion for a triple of
+chords) for tetras here was three consecutive tetras and therefore the
+"tonic" could not participate with the "dominant" and "subdominant" to
+form a cover. But the above list suggests that the cover principle works
+differently in this scale's universe.  Three consecutive triads won't
+cover the scale, but four consecutive triads will.  AND, by altering the
+cover principle in this way, we find other, more interesting covers which
+tend to alter the way we might envision the T-D relationship.  If we
+collect all the Maj chords (I,V,VI,VII), say, we disclose a second minimal
+cover which can be expanded to any four chords in that (root)
+relationship.  Furthermore, while ELT (smooth voice leading) is fairly
+depleted in this (triadic) interpretation, it is in full force for
+quadruples of chords in a cover: the progression I-V-VI-VII-I is
+ELT-saturated.  All of this suggests the interesting possibility that, in
+this universe, there are _three_ "dominant" functions -- "dominant" (VII),
+"subdominant" (V), and an auxiliary(?) "spanning dominant" (VI) since
+I-VII and I-V are naturals for voice-leading, but you can't easily lead V
+to VII without VI.
+
+        This then brings us back to the status of Paul's original tetra
+selection.  There are several ways to include triads here.  The obvious
+way is to declare the triad to be the scale's basic sonority.  This would
+then turn Paul's tetra into a "seventh" chord, and, while things would
+look somewhat strange, the building blocks would pretty much resemble our
+inhereted notions of chords.
+
+        A second interpretation holds, I think, much more promise -- and
+beside, it's more radical.  Here's where I jump off the high-dive and hope
+there's water in the pool when I reach bottom.  First, a preliminary
+exercise.  Take any typical 4-part harmonization of a hymn.  Play the
+soprano & alto lines up an octave and the tenor & bass parts down an
+octave.  Concentrate on hearing it, not as 4 lines and not as a succession
+of chords, but as 2 lines, each of which consists of 2 lines.
+
+        One of the questions I asked near the beginning concerned
+"counterpoint" in megascale systems.  Let's assume that the tetra
+described above is the basic harmonic sonority in our system analogous to
+the triad in common practice theory (CPT).  In CPT there's a hierarchy,
+
+        pitch (unad)
+        interval (doad)
+        triad
+        (7th chord)
+
+along with well-defined notions of consonance and dissonance, which taken
+together help shape the "rules" of CPT counterpoint.  Replacing the CPT
+triad with the SPM tetrachord, we now posit the following hierarchy:
+
+        pitch (unad)
+        interval (doad)
+        hyperinterval (triad)
+        tetrachord
+        ("7th chord")
+
+        Ignoring the 7-th chord to keep the illustration simple, focus on
+the new structure, the triadic "hyperinterval" (HI).  Define a consonant
+HI as the intervallic complex formed by any three pitches in a (consonant)
+tetrachord (just as, ahistorically, we can define a consonant interval
+backward as formed by any two pitches in a consonant triad).  Call this
+set of 3 pitches a "hypertone" (HT).  We now have the basis for a
+generalization of traditional counterpoint which might be called
+"counterset."  Hypothetically, traditional counterpoint (in any historical
+version) should turn out to be a category of counterset.
+
+        What are the "rules" of counterset?  I haven't the foggiest idea.
+The reason is that their definition, in my opinion, must hinge on
+compositional praxis (if anyone decides to play with this idea -- and I
+won't hold my breath). But a random "2-part" exercise (with no
+"dissonance" allowed) might look like:
+
+Counterset:   { 7 13 18}  { 9 16  4}  {11  2  7}  {13 20  4}  { 0  7 13}
+
+CF:-)         { 0  7 18}  { 9 16  0}  {11 18  2}  {20  4  9}  { 0  7 18}
+
+                  (I)         (V)        (VI)        (VII)        (I)
+
+Set notation for HTs is retained to emphasize that the elements of any HT
+can appear compositionally in any order.  Cantus firmus and Counterset
+lines can be distinguished by tessitura, instrumentation, rhythm,
+repetition, leaps, etc.  Any HT can appear as a simultaneity or an
+arpeggiation.  At times the "lines" may not be aurally distinguishable at
+all.  Dissonance at the HI level can be introduced by passing or other
+non-chord HTs -- e.g., in VI above replace {11 2 7} with a HT belonging to
+another chord, such as {20 4 11} from chord X (the totality, {2 4 11 18
+20}, is not a consonant "chord" since it contains a foreign HT).
+
+        In the preparatory exercise above, the 4-part chorale setting was
+re-interpreted (in our new language) as a 2-part hypertonal setting.  If
+the original tessitura is now reinstated, the hypertonal interpretation of
+the setting, while not "incorrect," appears absurd -- it collapses into a
+mere paper theory. In other words, there is generally not much use for
+hypertonal theory in traditional musics, EVEN THOUGH they may be
+considered as "first-order" hypertonal... you just can't hear it, nor
+should you be able to, nor should you want to (IMHO). But when we get into
+megascales, CPT can't handle the increase in volume -- of the individual
+notes and of the new relationships that begin to appear (I know I'm into
+opinion-mongering here).  So the next thing to appear is (as above) a
+second-order hypertonal set of structures.  I've seen it occur time and
+again, not just with Paul's scales.  And each time, these second-order
+(and higher) structures bring with them a semblance of a very new (and
+strange) type of order.
+
+        (Two other lower-order hypertonal systems can also be posited --
+chord clusters and tone rows, but I won't muddy the waters with those
+right now (especially the latter which would lead to a deconstruction
+that denies the existence of "atonality"))
+
+        Returning to the original point, then, does tuning matter?  Yes,
+but as I've been trying to demonstrate, megascales tend to gravitate into
+"bundles" of megascales which are defined by the invariants shared by the
+bundle.  And one of the most universal invariants appears to me to be
+hypertonal ordering... the "laws" of counterpoint don't really change in
+other universes, they just get really weird.  And this leads to the final
+question which, for now, has to remain open: Can we hear it?  (Any
+composers out there like to take on the challenge?)
+
+Steve Soderberg
+
+------------------------------
+
+Topic No. 2
+
+Date: Fri, 11 Dec 1998 15:37:02 -0500
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+To: 'Stephen Soderberg' <ssod@loc.gov>
+Cc: "'tuning@eartha.mills.edu'" <tuning@eartha.mills.edu>
+Subject: RE: Hypertones, counterset & other weird microanimals (fwd)
+Message-ID: <85B74BA01678D211ACDE00805FBE3C050B6572@MARS>
+
+Stephen brings up two important properties of the diatonic scale that
+are not shared by my scale (a set of 10 in 22-tET). One is motivated
+(perhaps) my a property I demand in my paper, that the scale be
+completely covererable by three consonant chords. Stephen aptly points
+out that in the diatonic case, this is often done using the I, IV, and V
+chords. Another important example is I, II, and V; also I, IV, and VII
+is often found in dorian or mixolydian rock music. All of these are
+examples of three consecutive chords in a chain of fifths. Many rock
+tunes, however, are based on three consecutive chords in the scale, such
+as VI, VII, I in minor. So I don't view it as a great disadvantage that
+my scale isn't covered by the tonic, subdominant, and dominant chords.
+In fact, I recently stated on the List (with regard to my contest to
+find another diatonic-like scale) that the property of coverability by
+three consonant chords was not very important to me. In fact, I only
+included it in my paper as a way of ruling out overly "complicated"
+scales, such as 14 out of 26-tET, which I would otherwise have to
+consider. I am now very happy to consider it, even though the (lack of)
+clarity with which 4 or 5 chords might project a set of 14 notes clearly
+presents a formidable compositional challenge.
+
+Another property is that in the diatonic scale, any two triads can be
+linked using only common tones and single-step-motion voice leading
+(this was pointed out by Agmon). This is not true for the tetrads in the
+decatonic scale. However, common practice music does not always progress
+in this simple way -- passing tones and leaps are quite common, and
+without them, one would have very little freedom in realizing a chord
+progression or harmonizing a melody. So again, my scale posesses no
+great disadvantage -- certain chord progressions will necessitate
+passing tones or leaps. Decatonic melody will therefore be more active
+than diatonic melody, in line with the greater number of tones that need
+to be kept fresh in the mind of the listener.
+
+As for "hypertones", I'm sure some very interesting music could be made
+using this principle, particularly if each hypertone is associated with
+a particluar timbre. But I would still want to make sure that the
+ordinary "tones" making up the hypertones were forming good melodies, or
+at least not forming awkward ones, since we are in some sense wired up
+for speech recognition, and the human voice can only produce tones (i.e.
+a fundamental and its harmonics, plus noise), not hypertones.
+
+------------------------------
+
+Topic No. 3
+
+Date: Fri, 11 Dec 1998 15:52:04 -0500
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+To: 'Stephen Soderberg' <ssod@loc.gov>
+Cc: "'tuning@eartha.mills.edu'" <tuning@eartha.mills.edu>
+Subject: RE: Hypertones, counterset & other weird microanimals (fwd)
+Message-ID: <85B74BA01678D211ACDE00805FBE3C050B6573@MARS>
+
+I forgot to point out that Medieval Western practice ("Gothic?") also
+fails the three-chord-covering property. The consonant chords were
+3-limit dyads, but three of those would cover at most 6 notes, while the
+diatonic scale has 7. The diatonic scale with 3-limit harmony is another
+system which I wanted to leave out of my paper for brevity, but clearly
+cannot be dismissed altogether, as it was a language in which great
+musical works were produced for a few centuries.
+
+------------------------------
+
+Topic No. 4
+
+Date: Sun, 13 Dec 1998 15:08:25 EST
+From: HPBohlen@aol.com
+To: tuning@eartha.mills.edu
+Cc: Heinz.Bohlen@mptp.cpii.com
+Subject: (no subject)
+Message-ID: <30d582e.36741eb9@aol.com>
+
+Ever heard of a scale that divides the double octave into 47 steps? It is non-
+octave, naturally, and its equal-tempered version accomodates 7- and 13-limit
+intervals exceptionally well. I came across it when playing a little with
+"Pythagorean" scale approaches. For those interested I put it up on the Net:
+http://members.aol.com/bpsite/pythagorean.html
+
+Heinz Bohlen
+
+------------------------------
+
+Topic No. 5
+
+Date: Sun, 13 Dec 1998 13:03:53 -0800 (PST)
+From: Mark Nowitzky <nowitzky@alum.mit.edu>
+To: alves@orion.ac.hmc.edu (Bill Alves)
+Cc: tuning@eartha.mills.edu
+Subject: Haven't received the tuning list lately?
+Message-ID: <2.2.16.19981213130023.28d7cb9e@pacificnet.net>
+
+Hi Bill,
+
+At 11:23 AM 12/13/98 -0800, you wrote:
+>... I was wondering if you've been receiving
+>the tuning list. It seems to have disappeared for the last few days...
+
+I was wondering the same thing.  The last one I received was "TUNING digest
+1604", on Sun, 6 Dec 1998.
+
+To rule out the possibility that no one's submitted anything in a week, I'm
+sending a copy of this to the tuning list.  (Hi everybody!)  Maybe
+everyone's just real busy with Xmas shopping, or school finals, or
+who-knows-what.
+
+By the way, happy holidays, etc.
+
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu    AIM:  Nowitzky      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+
+
+------------------------------
+
+Topic No. 6
+
+Date: Mon, 14 Dec 1998 21:05:59 -0500
+From: Gary Morrison <mr88cet@texas.net>
+To: Tuning List <tuning@eartha.mills.edu>, Lisa Pignotti <pine@texas.net>
+Subject: Re: Left brain vs. right brain
+Message-ID: <3675C400.57DD0CA5@texas.net>
+
+   In pursuing a conversation about what - emotion, right- or left-brain thinking
+- is important in composition and performance, here is one of my replies.  Perhaps
+you might find this interesting.
+.
+.
+.
+Gary Morrison wrote:
+
+> > I agree that it helps to know composition principles, but that can't be all
+> > that you know.
+>
+>    Definitely.  All three - emotion, spontaneity, and cleverness - are critical
+> to making the experience powerful.
+
+.
+.
+
+> > I think if you get in touch with your feelings and with interacting with
+> > other people's feelings, you may find that you will be more inspired than by
+> > trying to follow rules of composition.
+>
+>    In pointing out the importance of cleverness and design, I was by no means
+> trying to diminish the importance of the other two, meaning emotion and
+> spontaneity.  I was only making a case for design being important as well.
+>
+>    Music that is entirely emotional is nothing more than, literally, a scream
+> or a cry.  (Many people don't consider sounds to be musical without structure,
+> at least at the level of notes and phrases.  I probably wouldn't go quite that
+> far.)
+>
+>    Music that is solely spontaneous rambles aimlessly.  It can have lots of
+> energy but no direction or motivation.  To quote Scotty, "we're goin' nowhair
+> mighty fast, Captin!"
+>
+>    Music that is strictly devised by theory and rules is tediously
+> predictable, and, in a word, boring.
+>
+>    Really good music on the other hand, has emotionally gripping melody and
+> performance, formed together in a brilliantly-meaningful developmental
+> framework, with insightfully-chosen points of surprise.  All three of those
+> aspects are important.
+>
+>    Or relatedly, creativity is not merely the spark of inspiration, but also
+> everything else it takes to create!
+
+------------------------------
+
+Topic No. 7
+
+Date: Tue, 15 Dec 1998 02:11:32 -0800 (PST)
+From: Mark Nowitzky <nowitzky@alum.mit.edu>
+To: Paul Levy <pbl@dcs.qmw.ac.uk>
+Cc: ht@dcs.qmw.ac.uk, berdine@dcs.qmw.ac.uk, tuning@eartha.mills.edu
+Subject: Re: Promenade
+Message-ID: <2.2.16.19981215020804.3acf91d8@pacificnet.net>
+
+Hi Paul (and colleagues),
+
+Re:  http://www.pacificnet.net/~nowitzky/justint
+
+Thanks for trying out my tuning examples.
+
+At 07:35 PM 12/14/98 GMT, you wrote:
+>I and 2 colleagues played the equal-tempered and just intonation variants of
+>Promenades, but we couldn't tell the difference.  Rather embarrassing,
+>considering how keen I am about just intonation, despite having never before
+>heard it.
+>
+>Oh well.  Keep up the good work anyway.
+
+I created the files a couple of years ago for the exact same reason - I kept
+hearing ABOUT just intonation, but I had never heard any decent examples.
+
+I'm glad you wrote, because you reminded me that I needed to finish setting
+up an "equipment check" web page.  Please give it a try:
+
+        http://www.pacificnet.net/~nowitzky/justint/wheelchk.htm
+
+Let me know what happens!  Thanks again,
+
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu    AIM:  Nowitzky      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+
+
+------------------------------
+
+Topic No. 8
+
+Date: Tue, 15 Dec 1998 23:24:37 +0800
+From: Lydia Ayers <layers@cs.ust.hk>
+To: tuning@eartha.mills.edu
+Subject: ICMC Tape Deadline
+Message-ID: <199812151524.XAA19701@csnt1.cs.ust.hk>
+
+Hi, Folks,
+
+Just a reminder that the deadline for submitting tape pieces to
+ICMC (1999 -- Beijing) is today (15 December).  For all the
+details, please see the web page:
+
+http://www.cs.ust.hk/icmc99/
+
+Other deadlines apply for other pieces and paper submissions.
+For questions, please click on the email links on the Web
+page.
+
+Hope to see some of you there.
+
+Best,
+
+Lydia Ayers
+
+------------------------------
+
+Topic No. 9
+
+Date: Tue, 15 Dec 1998 11:35:38 -0500
+From: David Beardsley <xouoxno@virtulink.com>
+To: Tuning Digest <tuning@eartha.mills.edu>
+Subject: What happened to Tuning Digest???
+Message-ID: <36768FDA.806B7479@virtulink.com>
+
+I haven't received any digests since #1604 Dec.6th.
+
+--
+* D a v i d        B e a r d s l e y
+*           xouoxno@virtulink.com
+*
+* J u x t a p o s i t i o n     E z i n e
+* M E L A  v i r t u a l  d r e a m house monitor
+*
+* http://www.virtulink.com/immp/lookhere.htm
+
+------------------------------
+
+Topic No. 10
+
+Date: Tue, 15 Dec 1998 16:30:20 -0500
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+To: "INTERNET:tuning@eartha.mills.edu" <tuning@eartha.mills.edu>
+Subject: TUNING digest 1571
+Message-ID: <199812151630_MC2-63BA-FFD@compuserve.com>
+
+xx
+
+------------------------------
+
+Topic No. 11
+
+Date: Wed, 16 Dec 1998 22:43:53 -0800 (PST)
+From: "David Madole" <madole@ella.mills.edu>
+To: tuning@mills.edu
+Subject: Tuning List Down
+Message-ID: <19981217064353.20334.qmail@ella.mills.edu>
+
+Sorry!!!!
+
+As I'm sure some of you noticed, the list was down for a significant
+amount of time.  The reason for this is that I left Mills back in June,
+and I no longer really regularly check my mail here, as my life has moved on.
+My successor at Mills is not interested in continuing with the listserver.
+
+It is time to start to arrange to move the list.  I will provide all of
+the support I possibly can to whomever decides to take it over - it would
+be best to be moved to another list server running listproc 6.0, or listserv,
+if possible.  I will even help get the listserver compiled and running  (but
+not maintain it) if that is necessary.
+
+If you have any ideas, please send the mail to my new address, madole@dnai.com.
+
+Dave
+
+------------------------------
+
+Topic No. 12
+
+Date: Thu, 17 Dec 1998 18:43:25 -0600
+From: "John Loffink" <jloffink@pdq.net>
+To: <tuning@eartha.mills.edu>
+Subject: Re: amazon carrying independent CDs
+Message-ID: <006801be2a1f$800f6d40$711890d1@x2k5x9>
+
+>From: William Sethares <sethares@eceserv0.ece.wisc.edu>
+>
+>I looked into this. One fact is that in order for Amazon to carry the
+>CD, it must have a UPC code (so they can track their inventory).
+>When I followed the UPC links, it looks like its easy to get a number,
+>but it costs about $350 to become a "manufacturer" (six digits) and
+>then you have access to five digits (10,000 different) individual product
+>numbers.
+>
+>Since I am not currently planning to release 10,000 different CDs
+>(in the near term) it made me wonder if maybe there would be a way
+>to "go in on" a number with a few people, or to find someone who already
+>has a UPC number and would be willing to share/sell/rent a number or two.
+>
+>Has anyone done this before?
+>
+
+Many of the larger CD makers provide a UPC code as part of their package at
+no extra charge.
+
+John Loffink
+jloffink@pdq.net
+http://freeweb.pdq.net/jloffink
+
+------------------------------
+
+Topic No. 13
+
+Date: Thu, 17 Dec 1998 21:57:19 -0500 (EST)
+From: Johnny Reinhard <reinhard@IDT.NET>
+To: tuning@eartha.mills.edu
+Subject: Re: Partch
+Message-ID: <Pine.GSO.3.95.981217214301.914A-100000@u3.farm.idt.net>
+
+Bob Gilmore's Partch bio turns up an interesting bit in a letter from
+1950.  Contrary to the Jon Szanto position regarding the substitution of a
+sythesizer for the chromelodeon.  Mr. Szanto, I move for you to strike
+from the record (e.g. your web site) this unfair statement.  The web
+site reads: "If Mr.Reinhard has used a syth, then he has either
+ignored or simply not comprehended a Partch truism..."
+
+Partch writes in February to Lauriston Marshall (on p. 190 of the Gilmore
+book) "I shall use the Chromelodeon very little from now on; its
+musicality doesn't satisfy me, though it is indispensible from the
+standpoint of theory..."the need either for an electronic tone or a reed
+made out of some alloy less susceptible to temperature changes than
+brass."
+
+On April 6 Partch and Marshall won a Guggenheim Award for "studies toward
+the development of an electronic instrument with electronic tone and
+manual keyboard."  (Gilmore p. 191)
+
+What do y'all think?  Should I be impeached?
+
+Johnny Reinhard
+Director
+American Festival of Microtonal Music
+318 East 70th Street, Suite 5FW
+New York, New York  10021  USA
+(212)517-3550/fax (212) 517-5495
+reinhard@idt.net
+http://www.echonyc.com/~jhhl/AFMM
+
+------------------------------
+
+Topic No. 14
+
+Date: Thu, 17 Dec 1998 23:06:30 -0500
+From: Rick Sanford <76122.2237@compuserve.com>
+To: "INTERNET:tuning@eartha.mills.edu" <tuning@eartha.mills.edu>
+Subject: steel bar tunings
+Message-ID: <199812172309_MC2-63F5-DC60@compuserve.com>
+
+to Darren Burgess
+
+Question number one is - How are the bars suspended
+thus where are the nodes?
+
+( are they held only at one end
+        or are they drilled at two (or more) points
+        and suspended there)
+
+Richard A. Sanford Ph.D.
+50 West 34th St. #12A4
+New York, NY 10001
+
+------------------------------
+
+End of TUNING Digest 1606
+*************************

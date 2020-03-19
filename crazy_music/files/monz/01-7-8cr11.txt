@@ -1,0 +1,49 @@
+C:\JC\95\BGE.EXE -i 01-7-8.mid -o 01-7-8cr11.mid -g equal.tun just11.tun just7.tun -c x x x x x x x x x x x x x x
+sn 024d1a02 (2001-Jul-06).
+Didn't have to drop any notes; used 5 channels.
+12-tET                spring pain:      446684.406
+Werckmeister III      spring pain:      475522.862
+Kirnberger III        spring pain:      456753.365
+Thomas Young          spring pain:      416717.945
+Kellner               spring pain:      467037.012
+31 from Abb to C  :   spring pain:     2281119.870
+31 from Ebb to G  :   spring pain:     1741206.643
+31 from Bbb to D  :   spring pain:     1558168.103
+31 from Fb  to A  :   spring pain:     1558168.103
+31 from Cb  to E  :   spring pain:      250069.377
+31 from Gb  to B  :   spring pain:      337951.851
+31 from Db  to F# :   spring pain:      834486.860
+31 from Ab  to C# :   spring pain:      858941.238
+31 from Eb  to G# :   spring pain:     1379233.053
+31 from Bb  to D# :   spring pain:     1494366.326
+31 from F   to A# :   spring pain:     1405367.507
+31 from C   to E# :   spring pain:     1482979.686
+31 from G   to B# :   spring pain:     2281119.870
+31 from D   to F##:   spring pain:     1741206.643
+31 from A   to C##:   spring pain:     1558168.103
+COFT Total            spring pain:      112353.670
+COFTbig Total         spring pain:      112351.349
+After relaxing, Total spring pain:       29394.513
+             nSpring      Strength            Pain     RMS deviation
+             -------      --------            ----     -------------
+    Vertical   454        6988.031       10004.517        1.692 cent
+  Horizontal   484       14006.302        6169.826        0.939 cent
+     Melodic   170           2.431         161.128       11.514 cent
+   Grounding   495        3053.624       13059.043        2.925 cent
+       TOTAL  1603       24050.388       29394.513        1.563 cent
+   Grounding 0:    72         478.478         772.494        1.797 cent
+   Grounding 1:    22          82.891        2890.355        8.351 cent
+   Grounding 2:    31         128.185         949.939        3.850 cent
+   Grounding 3:    62         353.801         215.765        1.104 cent
+   Grounding 4:    34         316.807        2244.180        3.764 cent
+   Grounding 5:    18         125.497        1609.487        5.065 cent
+   Grounding 6:    28         118.735         115.841        1.397 cent
+   Grounding 7:    76         627.610        1437.651        2.140 cent
+   Grounding 8:    86         477.712        2418.211        3.182 cent
+   Grounding 9:     0           0.000           0.000        0.000 cent
+   Grounding A:    57         324.351         388.207        1.547 cent
+   Grounding B:     9          19.558          16.912        1.315 cent
+Ideal melodic semitone:  101.538 cents.
+Ideal melodic     tone:  197.514 cents.
+Ideal melodic   octave: 1190.645 cents.
+Bend range applied: -25.1133 to  18.0996

@@ -1,0 +1,26 @@
+NATURAL-LOGARITHMIC EQUAL TEMPERAMENT (NET) TUNING
+by Daniel A. Wier
+Revised 8 September 2002
+
+NET is a non-octave tuning system based on a division of the interval e:1 (e ~ 
+2.718281828) into a number of equal steps. The purpose of NET tuning is to 
+create tuning systems where the octave (2:1) itself is adjusted in order to 
+form more exact fifths, thirds, etc. The octave is "flexible", rather than 
+rigid as in octave-based equal and meantone temperaments. Or it could be just 
+an alternative tuning system.
+
+The scales are named "x/y-tone NET", where x is the total number of divisions 
+per octave and y is the number of steps between each used note. For example, 
+52/3-NET is a scale taken from every third note in a scale of 52 equal steps 
+within the e:1 "octave". This is an excellent approximation of 12-tone equal 
+temperament, the most common tuning used today in Western music. Each step in 
+this scale equals about 99.87888745 cents, compared to exactly 100 cents for 
+12-TET. 52/1-NET, or 52 equal steps in e:1, approximates 36-TET in the same 
+way.
+
+Other NET tunings include: 10/1-NET (or 10-NET), which gives a rough 
+approximation of 7-tone equal temperament; 73/6-NET, which is similar to the 
+Bohlen-Pierce scale (13 equal divisions of an octave and a fifth, or 3:1), and 
+137/5-NET, which can replace 19-tone equal temperament. 313/7-NET is close to 
+31-TET and 153/2-NET is like 53-TET. Of course any number of notes in NET 
+could be used.

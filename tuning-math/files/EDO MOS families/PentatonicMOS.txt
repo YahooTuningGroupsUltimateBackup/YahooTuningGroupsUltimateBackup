@@ -1,0 +1,147 @@
+Families of pentatonic MOS scales for all n-EDO tunings until 36EDO
+*******************************************************
+
+Names for MOS families (as proposed by Graham Breed):
+
+1L 4s Happy pentatonic
+2L 3s classic pentatonic
+3L s2 father
+4L 1s bug
+
+
+Additional constraints: L/s < 5, L/s > 7/6
+
+
+
+n   MOS family         L  s
+****************************
+ 6  Happy pentatonic    2  1
+ 7  Happy pentatonic    3  1
+ 7  classic pentatonic  2  1
+ 8  Happy pentatonic    4  1
+ 8  father              2  1
+ 9  classic pentatonic  3  1
+11  Happy pentatonic    3  2
+11  classic pentatonic  4  1
+11  father              3  1
+12  Happy pentatonnic   4  2
+12  classic pentatonic  3  2
+13  Happy pentatonic    5  2
+13  father              3  2
+13  bug                 3  1
+14  Happy pentatonic    6  2
+14  classic pentatonic  4  2
+14  father              4  1
+14  bug                 3  2
+15  Happy pentatonnic   7  2
+16  Happy pentatonic    8  2
+16  Happy pentatonic    4  3
+16  classic pentatonic  5  2
+16  father              4  2
+17  Happy pentatonic    9  2
+17  Happy pentatonic    5  3
+17  classic pentatonic  4  3
+17  bug                 4  1
+18  Happy pentatonic    6  3
+18  classic pentatonic  6  2
+18  father              4  3
+18  bug                 4  2
+19  Happy pentatonic    7  3
+19  classic pentatonic  5  3
+19  father              5  2
+20  Happy pentatonic    8  3
+20  classic pentatonic  7  2
+21  Happy pentatonic    9  3
+21  Happy pentatonic    5  4
+21  classic pentatonic  6  3
+21  father              5  3
+22  Happy pentatonic   10  3
+22  Happy pentatonic    6  4
+22  classic pentatonic  5  4
+22  classic pentatonic  8  2
+22  father              6  2
+22  bug                 5  2
+23  Happy pentatonic   11  3
+23  Happy pentatonic    7  4
+23  classic pentatonic  7  3
+23  bug                 5  3
+24  Happy pentatonic   12  3
+24  Happy pentatonic    8  4
+24  classic pentatonic  6  4
+24  classic pentatonic  9  2
+24  father              6  3
+24  bug                 5  4
+25  Happy pentatonic   13  3
+25  Happy pentatonic    9  4
+25  classic pentatonic  8  3
+25  father              7  2
+26  Happy pentatonic   14  3
+26  Happy pentatonic   10  4
+26  Happy pentatonic    6  5
+26  classic pentatonic  7  4
+26  father              6  4
+26  bug                 6  2
+27  Happy pentatonic   11  4
+27  Happy pentatonic    7  5
+27  classic pentatonic  6  5
+27  classic pentatonic  9  3
+27  father              7  3
+27  bug                 6  3
+28  Happy pentatonic   12  4
+28  Happy pentatonic    8  5
+28  classic pentatonic  8  4
+28  father              8  2
+28  father              6  5
+28  bug                 6  4
+29  Happy pentatonic   13  4
+29  Happy pentatonic    9  5
+29  classic pentatonic  7  5
+29  classic pentatonic 10  3
+29  father              7  4
+29  bug                 6  5
+30  Happy pentatonic   14  4
+30  Happy pentatonic   10  5
+30  classic pentatonic  9  5
+30  father              8  3
+30  bug                 7  2
+31  Happy pentatonic   15  4
+31  Happy pentatonic   11  5
+31  classic pentatonic  8  5
+31  classic pentatonic 11  3
+31  father              9  2
+31  father              7  5
+31  bug                 7  3
+32  Happy pentatonic   16  4
+32  Happy pentatonic   12  5
+32  Happy pentatonic    8  6
+32  classic pentatonic 10  4
+32  father              8  4
+32  bug                 7  4
+33  Happy pentatonic   17  4
+33  Happy pentatonic   13  5
+33  Happy pentatonic    9  6
+33  classic pentatonic  9  5
+33  classic pentatonic 12  3
+33  father              9  3
+33  bug                 7  5
+34  Happy pentatonic   18  4
+34  Happy pentatonic   14  5
+34  Happy pentatonic   10  6
+34  classic pentatonic  8  6
+34  classic pentatonic 11  4
+34  father              8  5
+34  bug                 8  2
+35  Happy pentatonic   19  4
+35  Happy pentatonic   15  5
+35  Happy pentatonic   11  6
+35  classic pentatonic 10  5
+35  classic pentatonic 13  3
+35  father              9  4
+35  bug                 8  3
+36  Happy pentatonic   16  5
+36  Happy pentatonic   12  6
+36  classic pentatonic  9  6
+36  classic pentatonic 12  4
+36  father             10  3
+36  father              8  6
+36  bug                 8  4

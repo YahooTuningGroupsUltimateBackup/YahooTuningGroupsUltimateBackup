@@ -1,0 +1,48 @@
+n-valent_et_modes.lmd
+
+lists all the n-valent et modes in the SCALA archive (n>=2)
+where n-valent = all interval classes have exactly n sizes of intervals.
+
+The modes are all from the SCALA file modename.html
+
+Typical entry:
+1 3 1 1 2 2 1 1  v___3md_n__8_class_1_bbaabbb_class_3_aaabbaa_class_5_bbaabbb_class_7_aaabbaa_ Verdi's Scala enigmatica
+The 1 3 1 1 2 2 1 1 lists the step sizes of the mode.
+
+v___3 = it is of valency 3, i.e. each interval class comes in 3 sizes.
+n__8 - scale has 8 notes
+m = includes the midpoint as one of the interval sizes in one of the classes.
+d = has a duplicated interval size in at least one class.
+I.e.an interval size that can be made from the steps in more than one way.
+Ex, LS = MM for this scale. (L, M, S = large, middle and small step sizes).
+
+class_5_bbaabbb = the scale can be generated using generators of two sizes from class 5
+using the pattern bbaabbb where a > b,
+
+Here, class 1 = the steps of the scale, so class 5 = intervals made up of 5 steps.
+
+Some n-valent scales need n generators to generate them for every class.
+1 3 2 3 1 2  v___3m_n__6_ Prometheus Neapolitan
+No generator info is shown for these.
+
+n-valent_et_modes_with_details.lmd
+Gives more info about each entry:
+Typical entry:
+1 3 1 1 2 2 1 1  V___3md_n__8_class_1_z_3_a_2_[_2]_b_1_[_5]_bbaabbb_class_3_z_3_a_5_[_5]_b_4_[_2]_aaabbaa_class_5_z_9_a_8_[_2]_b_7_[_5]_bbaabbb_class_7_z_9_a11_[_5]_b10_[_2]_aaabbaa_Dupl.__5__0__1__1__1__1__1__0_  304 Verdi's Scala enigmatica
+
+In:
+class_1_z_3_a_2_[_2]_b_1_[_5]_
+a, b are the generators in decreasing size. a > b > c (if present),..
+
+z_3 = the unique interval left over when you have made all the other notes.
+It is of size 3
+
+a_2_[_2}_ = a is of size 2, and is used twice.
+b_1_[_5]_ = b is of size 1 and used 5 times.
+bbaabbb = the pattern of generators
+
+Dupl.__5__0__1__1__1__1__1__0_
+= there are 5 duplicated interval sizes in total
+0__1__1__1__1__0_
+= lists the duplicated intervals for each class, in order
+class 1, class 2, ...,
