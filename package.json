@@ -1,0 +1,13 @@
+{
+  "name": "yahootuninggroupsultimatebackup",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "parse": "node --max-old-space-size=8192 parser.js"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "he": "^1.2.0",
+    "mailparser": "^2.7.7"
+  }
+}
