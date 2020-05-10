@@ -41,7 +41,7 @@ const writeListHtml = list => {
     fs.appendFileSync(listPage, `<a href='/'>back to root</a>`)
     fs.appendFileSync(listPage, `<h1>${list}</h1>`)
 
-    Object.entries(parsed[list]).forEach(([listTopicId, elements]) => {
+    parsed[list] && Object.entries(parsed[list]).forEach(([listTopicId, elements]) => {
         const listTopicPageFile = `topicId_${listTopicId}.html`
         const listTopicPage = `dist/${list}/${listTopicPageFile}`
 
@@ -81,7 +81,10 @@ const writeListHtml = list => {
                 attachments.forEach(attachment => writeAttachmentHtml(attachment, list, listTopicPage))
             }
 
-            fs.appendFileSync(listTopicPage, `<div style='${EMAIL_TEXT_STYLE}'>${textAsHtml}</div>`)
+            const textAsHtmlWithLinksUpdate = textAsHtml
+                .replace(/http:\/\/users\.bigpond\.net\.au\/d\.keenan/g, 'http://dkeenan.com')
+
+            fs.appendFileSync(listTopicPage, `<div style='${EMAIL_TEXT_STYLE}'>${textAsHtmlWithLinksUpdate}</div>`)
 
             element = elements.find(el => el.id === nextId)
         }
