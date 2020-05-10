@@ -8,6 +8,7 @@ const ATTACHMENT_STYLE = 'margin: 0px 20px; padding: 20px; background-color: #dd
 const EMAIL_TEXT_STYLE = 'margin: 0px 20px 20px; padding: 20px; background-color: #eee'
 
 const parsed = {}
+const listMsgIdToTopicIdMap = {}
 
 const deleteFolderRecursive = path => {
     if (!fs.existsSync(path)) return
@@ -71,9 +72,9 @@ const writeListHtml = list => {
 
         let element = initialElement
         while (element) {
-            const {email: {attachments, textAsHtml, from}, nextId, date, time} = element
+            const {email: {attachments, textAsHtml, from}, nextId, date, time, id} = element
 
-            fs.appendFileSync(listTopicPage, `<h3>${he.encode(from.text)}</h3>`)
+            fs.appendFileSync(listTopicPage, `<h3><a id=${id} href="#${id}">🔗</a>${he.encode(from.text)}</h3>`)
             fs.appendFileSync(listTopicPage, `<span>${date} ${time}</span>`)
 
             if (attachments.length) {
@@ -81,8 +82,24 @@ const writeListHtml = list => {
                 attachments.forEach(attachment => writeAttachmentHtml(attachment, list, listTopicPage))
             }
 
-            const textAsHtmlWithLinksUpdate = textAsHtml
+            let textAsHtmlWithLinksUpdate = textAsHtml
                 .replace(/http:\/\/users\.bigpond\.net\.au\/d\.keenan/g, 'http://dkeenan.com')
+
+            const internalLinkRegexp = /http:\/\/groups\.yahoo\.com\/group\/(?<otherList>\w+)\/message\/(?<otherMsgId>\d+)/
+
+            let matches = internalLinkRegexp.exec(textAsHtmlWithLinksUpdate)
+            while(!!matches) {
+                const otherList = matches.groups['otherList']
+                const otherMsgId = matches.groups['otherMsgId']
+                const otherTopicId = listMsgIdToTopicIdMap[otherList][otherMsgId]
+
+                textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(
+                    /http:\/\/groups\.yahoo\.com\/group\/\w+\/message\/\d+/,
+                    `/${otherList}/topicId_${otherTopicId}.html#${otherMsgId}`,
+                )
+
+                matches = internalLinkRegexp.exec(textAsHtmlWithLinksUpdate)
+            }
 
             fs.appendFileSync(listTopicPage, `<div style='${EMAIL_TEXT_STYLE}'>${textAsHtmlWithLinksUpdate}</div>`)
 
@@ -129,6 +146,9 @@ const parseList = list => {
                 nextId: nextInTopic,
                 id: msgId,
             })
+
+            if (!listMsgIdToTopicIdMap[list]) listMsgIdToTopicIdMap[list] = {}
+            listMsgIdToTopicIdMap[list][msgId] = topicId
 
             processedMessageCount += 1
             if (processedMessageCount === messageCount) writeListHtml(list)
