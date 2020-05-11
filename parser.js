@@ -2,6 +2,8 @@ const fs = require('fs')
 const he = require('he')
 const {simpleParser} = require('mailparser')
 
+process.on('uncaughtException', console.log)
+
 const ROOT_PAGE = 'dist/index.html'
 
 const ATTACHMENT_STYLE = 'margin: 0px 20px; padding: 20px; background-color: #ddd'
@@ -12,6 +14,9 @@ const listMsgIdToTopicIdMap = {}
 
 let processedListCount = 0
 const totalListCount = 6
+
+let writtenMessageCount = 0
+let loggedWrittenMessageCount = 0
 
 const deleteFolderRecursive = path => {
     if (!fs.existsSync(path)) return
@@ -72,6 +77,11 @@ const writeListHtml = list => {
 
         let element = initialElement
         while (element) {
+            if (writtenMessageCount >= loggedWrittenMessageCount) {
+                console.log('on list', list, 'wrote', loggedWrittenMessageCount, 'messages of total unknown but see above')
+                loggedWrittenMessageCount += 1000
+            }
+
             const {email: {attachments, textAsHtml, from}, nextId, date, time, id} = element
 
             fs.appendFileSync(listTopicPage, `<h3><a id=${id} href="#${id}">🔗</a>${he.encode(from.text)}</h3>`)
@@ -117,12 +127,13 @@ const writeListHtml = list => {
                 const altNextId = ids[ids.indexOf(id) + 1]
                 element = elements.find(el => el.id === altNextId)
             }
+
+            writtenMessageCount += 1
         }
     })
 }
 
 const writeAllHtml = () => {
-    console.log('time to start writing HTML!!!!!!!')
     fs.readdir(`src`, (err, lists) => lists.forEach(writeListHtml))
 }
 
@@ -140,55 +151,61 @@ const parseList = list => {
 
     let processedMessageCount = 0
     let messageCount = 0
+    let loggedProcessedMessageCount = 0
 
     fs.readdirSync(`src/${list}/messages`).forEach(messagesFilename => {
         const messagesFile = JSON.parse(fs.readFileSync(`src/${list}/messages/${messagesFilename}`))
 
         messageCount += messagesFile.length
 
-        messagesFile.forEach(async message => {
+        messagesFile.forEach(message => {
             const {topicId, rawEmail, prevInTopic, nextInTopic, msgId, postDate} = message
 
             if (!rawEmail) {
                 processedMessageCount += 1
                 if (processedMessageCount === messageCount) {
                     processedListCount += 1
-                    console.log('in the sad path, we just incremented processed list count to', processedListCount)
+                    console.log('in the sad path, having just finished processing list', list, 'we just incremented processed list count to', processedListCount)
                     if (processedListCount === totalListCount) {
-                        console.log('SO NOW IT IS TIME2 ######################################')
+                        console.log('in the sad path, we will now write HTML for the list', list)
                         writeAllHtml()
                     }
                 }
                 return
             }
 
-            const email = await simpleParser(he.decode(rawEmail))
+            simpleParser(he.decode(rawEmail)).then(email => {
+                const datetime = new Date(postDate * 1000)
 
-            const datetime = new Date(postDate * 1000)
+                if (!parsed[list]) parsed[list] = {}
+                if (!parsed[list][topicId]) parsed[list][topicId] = []
+                parsed[list][topicId].push({
+                    email,
+                    date: datetime.toLocaleDateString('en-US'),
+                    time: datetime.toLocaleTimeString('en-US'),
+                    previousId: prevInTopic,
+                    nextId: nextInTopic,
+                    id: msgId,
+                })
 
-            if (!parsed[list]) parsed[list] = {}
-            if (!parsed[list][topicId]) parsed[list][topicId] = []
-            parsed[list][topicId].push({
-                email,
-                date: datetime.toLocaleDateString('en-US'),
-                time: datetime.toLocaleTimeString('en-US'),
-                previousId: prevInTopic,
-                nextId: nextInTopic,
-                id: msgId,
-            })
+                if (!listMsgIdToTopicIdMap[list]) listMsgIdToTopicIdMap[list] = {}
+                listMsgIdToTopicIdMap[list][msgId] = topicId
 
-            if (!listMsgIdToTopicIdMap[list]) listMsgIdToTopicIdMap[list] = {}
-            listMsgIdToTopicIdMap[list][msgId] = topicId
-
-            processedMessageCount += 1
-            if (processedMessageCount === messageCount) {
-                processedListCount += 1
-                console.log('in the happy path, we just incremented processed list count to', processedListCount)
-                if (processedListCount === totalListCount) {
-                    console.log('SO NOW IT IS TIME ######################################')
-                    writeAllHtml()
+                processedMessageCount += 1
+                if (processedMessageCount === messageCount) {
+                    processedListCount += 1
+                    console.log('in the happy path, having just finished processing list', list, 'we just incremented processed list count to', processedListCount)
+                    if (processedListCount === totalListCount) {
+                        console.log('in the happy path, we will now write HTML for the list', list)
+                        writeAllHtml()
+                    }
                 }
-            }
+
+                if (processedMessageCount >= loggedProcessedMessageCount) {
+                    console.log('on list', list, 'processed', loggedProcessedMessageCount, 'messages of total', messageCount)
+                    loggedProcessedMessageCount += 1000
+                }
+            })
         })
     })
 }
