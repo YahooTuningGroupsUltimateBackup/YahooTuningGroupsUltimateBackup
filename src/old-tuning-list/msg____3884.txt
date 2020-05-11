@@ -1,0 +1,86 @@
+source file: mills2.txt
+Date: Thu, 31 Oct 1996 10:05:23 -0800
+
+Subject: RE: 12-ET Intervals list
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>Ciao. I'm working with a friend on a software for guitar and I need a
+>list of the intervals in 12-ET from the more consonant to more>
+>dissonant. With "consonant" I mean beatless, empty. So I've tried to do
+>my own list based only upon my ear:
+
+>octave
+>P5
+>P4
+>6M
+>3M
+>3m
+>6m
+>7m
+>4+
+>2M
+>7M
+>2m
+
+>This list is istinctive but I'd like to have a more scientific
+>justification if possible. Anyone can help me? Maybe with a mathematic
+>law on beating and interval spacing (spacing: 10M is more consonant
+>than  3M). Ciao.
+
+>-Lorenzo
+
+Hindemith tried to do the same thing, mathematically rather than 
+instinctively,
+and his list was identical to yours through the first seven entries. After 
+that, he went astray due to his refusal to accept 7-limit interpretations. 
+So he but the tritone last, although it is a 7:5 out of tune by 17 cents, 
+which by naive mathematics should be similar in consonance to the minor 
+sixth, an 8:5 out of tune by 14 cents.
+
+The most common definition of consonance is derived from a psychoacoustical 
+phenomenon known as roughness. The exact rankings will depend on the 
+overtone structure of the tones in question; two Japanese (?) workers whose 
+last names both start with a "K" (anyone?) wrote a paper in JASA giving an 
+example of how to calculate this. They produced a continuous graph showing 
+roughness from the unison up to one or two octaves; needless to say, there 
+were dips in the graph at the first six intervals in your list. The roughest 
+intervals were out-of-tune octaves, fifths, and especially unisons.
+
+Another component of consonance is tonalness, or how well the tones "fuse" 
+into a single complex-tone perception. I recently posted an algorithm for 
+determining the certainty of perceiving any tempered interval as any 
+interval from the harmonic series. This algorithm only assumes that there 
+will be some audible harmonic overtones within an optimal (rather high) 
+frequency range). There is only one free parameter in the algorithm, the 
+finest pitch resolution of the ear in a harmonic context. Unfortunately, 
+this algorithm doesn't translate well into an absolute ranking of intervals. 
+We can, however, look at the worst-case (out of all inversions and 
+extensions) certainty for the most likely interpretations of the 
+pitch-classes 0-6:
+
+resolution = 1%:
+semitones	interpretation	certainty
+0	   	    1/1	 	    40.1
+1	   	    18/17	    	    2.35
+2	   	    9/8	 	    4.34
+3	   	    6/5	 	    5.31
+4	   	    5/4	 	    5.85
+5	   	    4/3	 	    13.3
+6	   	    7/5 or 10/7	   3.42
+
+This basically agrees with the ranking in your list.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 31 Oct 1996 21:20 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA15553; Thu, 31 Oct 1996 21:21:11 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA28070
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA22233; Thu, 31 Oct 1996 12:21:09 -0800
+Date: Thu, 31 Oct 1996 12:21:09 -0800
+Message-Id: <32790998.4C36@cavehill.dnet.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

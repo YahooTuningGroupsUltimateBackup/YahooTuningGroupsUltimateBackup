@@ -1,0 +1,75 @@
+source file: mills2.txt
+Date: Wed, 4 Dec 1996 13:55:50 -0800
+
+Subject: computer composition
+
+From: James Kukula <kukula@synopsys.com>
+
+McLaren's discussion of ways that a computer can be used to compose music
+brings out many useful distinctions. He acknowledges the blurriness of the
+distinctions as well. There are yet other dimensions to the question that may
+be useful to expose.
+
+Many algorithms that generate complex data, e.g. a musical composition, have
+many "knobs" that can be adjusted. If the user is actually the programmer,
+then the whole program can be adjusted. The final product is generally the
+result of many loops through the process - generated a trial output, see how
+it is unsatisfactory, adjust knobs/program, try again. It's not easy to say
+what fraction of the result is due to human effort and what fraction due to
+computer effort.
+
+Also: some parameter settings might be quite simple, such as a probability
+threshold. But other parameters might be more complex, for example a program
+might use a library of simple melodic figures to build up more complex
+melodies. When a program gets such musical input from the user, it isn't easy
+to assign a proportion of effort.
+
+In the electronic design business these issues also come up. There's no way
+to design a leading-edge microprocessor chip without an awful lot of help
+from computers. But there's an awful lot of human effort too. Just how best
+to take advantage of the different abilities of humans and
+computers... I don't think there's an easy answer, but a lot of the progress
+in the electronics industry comes from finding new and better answers.
+
+Certainly music making is one of the oldest and richest fields of
+human/machine co-creation. Certainly the electronics revolution has already
+had vast impact on music. How profoundly musical this impact has been, versus
+simply lining the pockets of producers of hit recordings, far be it from me
+to judge. I doubt though that the potential has been fully explored.
+
+On another subject: popular non-12TET music. Isn't it true that music from
+non-European cultures use very different scales? I've heard that, for
+example, Indian ragas, sitar music, etc. use scales very different than
+12TET. Wouldn't these qualify as examples of non-12TET with substantial
+popularity, emotional impact, etc.? 
+
+Our European culture, now reinforced by mass media and that same electronic
+revolution that pays my rent, seems to do a good job of keeping expression
+channelled in some pretty narrow ruts. The possible forms of human
+expression, lifestyles, etc. are quite vast, but if you're outside the
+European mainstream, it seems to be harder and harder to survive. I'm not
+sure the tuning business is much different in this regard than, say,
+languages like English vs. Spanish. I hear the Supreme Court is looking into
+that matter right about now.
+
+Personally I think we'd be wise to keep working to resist the narrow
+social channelling forces. The more kinds of music the better! 
+
+Jim
+
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 5 Dec 1996 23:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22113; Thu, 5 Dec 1996 17:37:58 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA22194
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA22891; Thu, 5 Dec 1996 08:37:55 -0800
+Date: Thu, 5 Dec 1996 08:37:55 -0800
+Message-Id: <Pine.SCO.3.91.961205080919.26773B-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

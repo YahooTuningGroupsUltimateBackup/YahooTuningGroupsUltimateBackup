@@ -1,0 +1,66 @@
+source file: mills3.txt
+Date: Tue, 30 Dec 1997 16:31:26 +0100
+
+Subject: Re: Wilson scale
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+Stellated two out of 1 3 5 7 hexany, also dekatesserany, mandala,
+tetradekany
+  0:          1/1            0.000    prime, unison
+  1:         21/20           84.46723 minor semitone
+  2:         15/14           119.4428 major diatonic semitone
+  3:         35/32           155.1396 septimal neutral second
+  4:          9/8            203.9100 major whole tone
+  5:          5/4            386.3139 major third
+  6:         21/16           470.7811 narrow fourth
+  7:         35/24           653.1849 septimal diminished fifth
+  8:          3/2            701.9553 perfect fifth
+  9:         49/32           737.6521
+ 10:         25/16           772.6278 classic augmented fifth
+ 11:        105/64           857.0950 septimal neutral sixth
+ 12:          7/4            968.8264 harmonic seventh
+ 13:         15/8            1088.269 classic major seventh
+ 14:          2/1            1200.000 octave
+This is the lattice with factors 2 ignored, the zero indicates the 1/1
+position.
+
+hor > 3/1 - ver ^ 5/1 - hor >> 7/1
+
+         |   *     |         |         |
+     *   |   * *   | * * *   |         |
+   .     |   0 * * |   * *   |   *     |
+         |         |     *   |         |
+
+Imagine the four layers on top of one another for a 3D image.
+
+Manuel Op de Coul    coul@ezh.nl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Aline Surman <stick@dnvr.uswest.net>
+Subject:  various
+PostedDate:  30-12-97 18:10:52
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  30-12-97 18:08:35-30-12-97 18:08:36,30-12-97 18:07:59-30-12-97 18:08:00
+DeliveredDate:  30-12-97 18:08:00
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125657D.005E27A0; Tue, 30 Dec 1997 18:10:21 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28211; Tue, 30 Dec 1997 18:10:52 +0100
+Date: Tue, 30 Dec 1997 18:10:52 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA28196
+Received: (qmail 11701 invoked from network); 30 Dec 1997 09:10:49 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 Dec 1997 09:10:49 -0800
+Message-Id: <34A93363.15ED@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

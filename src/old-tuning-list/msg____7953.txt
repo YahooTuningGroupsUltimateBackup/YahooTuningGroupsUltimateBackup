@@ -1,0 +1,18 @@
+source file: m1432.txt
+Date: Sat, 30 May 1998 14:00:56 -0400 (EDT)
+
+Subject: Max
+
+From: Enkerli Alexandre <enkerlia@DITER.UMontreal.CA>
+
+Well, it's well-known for its MIDI capabilities so it might be a good
+program to use for pitch-bend microtuning but there are at least two other
+ways to use it that might be of interest.
+First, it can be used to "drive" or create input for another program. With
+Csound, for instance. As it has many interface objects and can build
+standalones, it can be used as a front-end for another program. Well, not
+with Csound (Cecilia might be a better solution) but with other music
+programs that accept either MIDI or text input.
+The other possibility is audio. Of course, it might not be as strong an
+audio program as, say, Csound or ProTools but Max with MSP (available on
+Cycling74) could be used for microtonal music in this way.

@@ -1,0 +1,26 @@
+source file: m1502.txt
+Date: Wed, 12 Aug 1998 16:30:33 -0500 (CDT)
+
+Subject: Re: Nano-temperament
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Wed, 12 Aug 1998, Paul Hahn wrote:
+>                                                   Consistency level of
+> high ETs can still provide useful information--in Margo's case, for
+> example, a synth whose internal ET had a consistency level greater than
+> or equal to 12 at the 3-limit (as 1024 does) would require no
+> nanotempering at all for most Pythagorean scales.
+
+Or, if you don't like that example, how 'bout a JI-ist who wanted to
+tune up Ellis' duodene, which is a 5-limit scale with a diameter of 5.
+If, as Daniel Wolf mentioned a while back, someone made a synth whose
+internal ET was 612, it would require no nanotempering for this purpose,
+because 612TET is level 21 consistent at the 5-limit.  665 would also
+work (level 6), but 624 (level 3) would not.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

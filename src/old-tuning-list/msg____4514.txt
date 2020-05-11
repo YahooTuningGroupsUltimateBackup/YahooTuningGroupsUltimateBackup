@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Sat, 4 Jan 1997 12:49:34 -0800
+
+Subject: Nonuniform Strings
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+>    You also find that the nodes of partials move toward the center of the
+> string.
+
+   Oh, that only applies to the odd (former) harmonics.  
+
+   That experiment has lead me to want to figure out a way to fabricate
+more gradual nonuniformities, especially a conical string, which (at the
+proverbial quick glance at least) I would think to be more or less
+acoustically analogous with a conical wind-instrument bore.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 4 Jan 1997 21:47 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01223; Sat, 4 Jan 1997 21:50:25 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01221
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA14837; Sat, 4 Jan 1997 12:50:22 -0800
+Date: Sat, 4 Jan 1997 12:50:22 -0800
+Message-Id: <199701041546_MC1-E36-A04@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

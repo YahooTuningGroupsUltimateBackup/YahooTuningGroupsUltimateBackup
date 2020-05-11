@@ -1,0 +1,31 @@
+source file: m1385.txt
+Date: Tue, 14 Apr 1998 08:08:11 -0500
+
+Subject: tuning tables
+
+From: sethares@eceserv0.ece.wisc.edu (William Sethares)
+
+Jeff Lofflink wrote:
+
+>The other problem is that the Ensoniq pitch table sysex codes were 
+never fixed through 3 generations of samplers (EPS, EPS-16 Plus and 
+ASR-10).  I'd call that limiting.  That means you can't store the tables 
+in your computer's sequencer file along with your composition or 
+update them in realtime
+
+This is somewhat misleading. It is possible to store the Ensoniq 
+tuning tables in your computer. I know since I wrote a program 
+several years ago to do just this. (Unfortunately, it was on an Atari 
+computer, so it will be of limited usefullness to most). Thus - the 
+problem is not with the "Ensoniq pitch table sysex codes", but rather 
+that the authors of the software did not bother to implement the 
+Ensoniq pitch tables. As far as I know, though, you cannot update 
+them except by sending a whole pitch table, that is, you cnnot retune 
+"one note" at a time. 
+
+Since most of my pieces are in non-12 based tunings, I have found 
+the Korg and Roland synths almost useless. The Yamaha's (like the 
+TX81Z), the Emu's (like the Proteus modules) and the Ensoniq 
+samplers are all roughly equally capable.
+
+Bill Sethares

@@ -1,0 +1,44 @@
+source file: m1431.txt
+Date: Fri, 29 May 1998 09:32:03 PDT
+
+Subject: Re-Tunable PC-Based Synth/Sequencer
+
+From: "Just Intonation" <justintonation@hotmail.com>
+
+A guy on the synth do-it-yourself list yesterday turned me on to a 
+PC-based synth/sequencer program called VAZ+ ( Virtual Analogue Synth 
+Emulator Software ), which only costs $35 USA! It has a Master Tuning 
+preference. I don't know the exact details in terms of whether pitches 
+can be specified as frequencies and/or in cents, how many tones per 
+octave are allowed, or what the tuning resolution is, but I've e-mailed 
+the company and the person who told me about it, and will post any 
+further info when I get it.
+
+   There is also a free demo of the program (which DOESN'T contain the 
+re-tunability feature) available for download, for anybody who would 
+like to check out the more general features of the synthesis and 
+sequencing aspects of the program.
+
+   This looks like an entry-level product that the alternate tuning 
+community can really get behind, so please try it out, if you get a 
+chance.
+
+   VAZ+ requires either Windows 95 or NT. This is because 32bit 
+performance was essential for the program. On a 486/66 PC playback at 
+22kHz is possible. A Pentium system will easily manage 44kHz. The 
+program defaults to a conservative 11kHz settings when first run.
+
+   Full details and screen shots of the synthesis and sequencing windows 
+are available at:
+
+
+   http://www.software-technology.com/info/softech/vaz.htm
+
+
+
+   Bill Flavell
+
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com

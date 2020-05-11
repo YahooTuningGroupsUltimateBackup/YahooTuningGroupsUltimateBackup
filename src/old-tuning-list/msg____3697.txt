@@ -1,0 +1,35 @@
+source file: mills2.txt
+
+
+Subject: Re: 88CET Variants and Their Approximations
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+For you folks out there who have also been experimenting with 88CET, the two
+cases in Manuel's 88CET calculations that struck me as especially interesting
+were:
+
+------------------------------------------------------------------------------
+
+  1: 4  2: 7  3: 10
+ 88.2160 cents, 13.6030/oct.  Std. dev: 2.9412 cents
+  1:         11/9           -5.4561   undecimal neutral third
+  2:         10/7           -0.0242   septimal augmented fourth, Euler's tritone
+  3:          5/3            2.1987   major sixth
+
+  1: 3  2: 4  3: 10
+ 88.2707 cents, 13.5946/oct.  Std. dev: 3.1293 cents
+  1:          7/6            2.0588   septimal minor third
+  2:         11/9           -5.6749   undecimal neutral third
+  3:          5/3            1.6517   major sixth
+
+------------------------------------------------------------------------------
+
+   I found them particularly interesting, because stretching the step size to 88
+1/4 cents or thereabouts, would make the 41-step triple-octave approximation
+pretty far off.  It would be sufficiently far off to make that tuning pretty
+much unequivocally different from simply every third step of 41TET.  
+
+   Perhaps that's something of an ignoble goal - making it different just to be
+different.  I suppose that's a matter of perspective.  But it's a thought
+anyway.

@@ -1,0 +1,51 @@
+source file: mills3.txt
+Date: Tue, 3 Feb 1998 01:58:54 +0100
+
+Subject: Re: Defining pitch bend resolution
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+Your experiments on pitch bend resolution are very interesting, but I would
+like to make a suggestion. Determining pitch change by a "timbral shift" in
+a rich harmonic spectrum seems to me to be a rather dicey method of
+comparison, especially if you don't know what's causing it. How about
+simultaneously playing a reference tone on another MIDI channel? That way
+you can clearly hear a change in the beats if the pitch changes.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Manuel Op de Coul <Manuel.Op.de.Coul@ezh.nl>
+Subject:  John Foulds
+PostedDate:  03-02-98 12:32:44
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  03-02-98 12:31:44-03-02-98 12:31:45,03-02-98 12:30:23-03-02-98 12:30:24
+DeliveredDate:  03-02-98 12:30:24
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C12565A0.003F51E8; Tue, 3 Feb 1998 12:31:37 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06452; Tue, 3 Feb 1998 12:32:44 +0100
+Date: Tue, 3 Feb 1998 12:32:44 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA06445
+Received: (qmail 29507 invoked from network); 3 Feb 1998 03:31:51 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 3 Feb 1998 03:31:51 -0800
+Message-Id: <34D6FFEF.1CFB@ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

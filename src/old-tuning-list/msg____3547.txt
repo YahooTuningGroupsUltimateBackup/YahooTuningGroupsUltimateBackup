@@ -1,0 +1,74 @@
+source file: mills2.txt
+Date: Thu, 5 Sep 1996 21:25:45 -0700
+
+Subject: Kami-Tuning List 821
+
+From: Eduardo Sabat-Garibaldi <esabat@chasque.apc.org>
+
+Tuning List Mills College        listproc@eartha.mills.edu
+ 
+To: Kami Rousseau <kami@InterLinx.qc.ca>
+TUNING Digest 821
+ 
+Dear Kami :
+ 
+  For almost 20 years I have been working on an instrument I call DINARRA.
+(read DEENAHRA), (from guitARRA DINamica).  
+  DINARRA is a 53/Oct guitar. The very position of the frets are according to
+one ninth of a skhisma, resulting two sizes of commas. The bigger is about one
+and a half times wider than the smaller, and are 12 per Oct.
+ 
+  Somebody asked me why I used this temperament and not 53 TET because the
+latter seems to be more simple than the former and is practically the same in
+practice. When I had the first DINARRA made I thought that the bigger spaces
+would help to see and find the proper fret to play, and in practice it helped
+a little. But the great improvement in order "to see" the notes was to paint
+the semitonic frets with colors according to a system. Yet I think the bigger
+spaces help us a little ("in" , "one before" or "one after" ) and on the other
+hand they are connected in some cases to the harmonic 7.
+  
+  In May 1995 I published the book "Principios de la Gama Dinamica" (in
+Spanish) where I included a Chapter (about 30 ps., 7 figs., 2 flow sheets and
+three computer programs) including the way to calculate the fret positions
+according to the physics. There is a BASIC program for PC.
+  The parameters are
+     The length of the chord, 
+     the "heights" between the chord and the plane of the fretboard, 
+ and the height of the frets. 
+ 
+  It may be adapted for other temperaments.
+  
+  The Dinarra strings are tuned just as for a Guitar, with some occasional
+variation (E, A, D, G, B, E , in commas Base-A,  31- 0- 22 (or 23)- 45- 9-
+31).   
+ 
+  Acoustic Dinarras have a warm sound because there are many notes that make
+"echo" (sympathetic resonance) with one or several other open strings. When an
+acoustic guitar is refreted in a DINARRA the change of the emotional message
+of the sound is immediate and really incredible !!. It is necessary to
+experience the change for better understanding. Even more so, in time the wood
+of the instrument is reeducated giving out a very warm sound.
+ 
+  Well, if you need more information I'll be happy to oblige.
+ 
+--Eduardo
+ 
+  
+Eduardo Sabat-Garibaldi           E-mail : esabat@chasque.apc.org
+Simon Bolivar 1260                Phone: (05982) 78 09 52
+11300 Montevideo                  FAX :  (05982) 29 83 91 (Automatico)
+Uruguay  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Sep 1996 08:11 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23731; Fri, 6 Sep 1996 08:13:02 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA23691
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id XAA12084; Thu, 5 Sep 1996 23:13:00 -0700
+Date: Thu, 5 Sep 1996 23:13:00 -0700
+Message-Id: <199609060210_MC1-958-2AF@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

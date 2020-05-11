@@ -1,0 +1,103 @@
+source file: mills2.txt
+Date: Wed, 1 Nov 1995 10:55:39 -0800
+
+Subject: Herbert Anton Kellner's Bach tuning
+
+From: wabi@server.net4you.co.at (Helmut Wabnig)
+
+To Tuning list and Harpsichord list:
+In Tuning Digest 462 I posted a frequency table for the
+Kellner Bach tuning. Now I got hold of Kellner's original work
+and found that his numbers are slightly different.
+
+Deviation from Equal temperament:
+
+       Kellner       wabi
+
+A        0.0          0.0
+B        4.3          4.189   
+H       -0.7         -0.888        
+C        8.2          8.099
+Cis     -1.6         -1.676
+D        2.8          2.830
+Es       2.3          2.234  
+E       -2.7         -2.843
+F        6.2          6.144
+Fis     -3.5         -3.631
+G        5.5          5.470
+As       0.4          0.279
+A        0.0          0.0
+
+The numbers differ more than 1/10 cent and I have to 
+recalculate them. Consider the possibility that I did
+a mistake. Or it is due to rounding errors.
+
+My impression is, that Kellner's work is not widely known.
+Otherwise it could not happen that some people still think,
+Bach was mean tuned. Absolutely impossible.
+Some think, Bach was equal tuned. He might have known ET.
+But could he possibly tune it in 15 minutes, as some say?
+Can you? Can anybody? Bach's tuning can be laid quickly,
+easily and very precisely. (Kellner's words).
+ET came with the advent of the piano, and is suited for it,
+which has less overtones than a harpsichord.
+
+Anyway, the main arguments are of a quite different nature.
+Bach was an eminent mathematician and numerologist. 
+Kellner is mathematician and physicist, built several
+harpsichords on his own, received a patent on his Bach tuning,
+and analyzed the codes in Bach's music. This had been done before,
+but proving that the tuning scheme for the WTC is modeled into the
+structure of the music, that's where the evidence comes from,
+has to be credited to Mr. Kellner. 
+
+The most astonishing discovery, at least to me, is something
+quite unexpected, unbelievable surprise:
+Bach himself has coded his tuning scheme into his signet!
+The seven pure fifths, the five tempered fifths, the 
+"three-unitarian" tempering are hidden in that graphical emblem.
+
+Luckily, the small introductory booklet "Wie stimme ich selbst 
+mein Cembalo?" is available in three languages, German, English
+and French. It costs about 30 $, give or take some. 
+
+Schriftenreihe Das Musikinstrument
+Heft 19
+Dritte, erweiterte Auflage
+ISBN 3-923639-68-6
+Verlag Erwin Bochinsky Gmbh&Co. KG
+Frankfurt am Main
+Germany
+
+If we don't read contemporary publications, we are going 
+to miss a lot. Can you suggest some further reading on this topic?
+Please post it, if it is rather new and modern.
+As for me, there is no question how to play Bach and
+especially the WTC. The Kellner Bach Tuning
+may be inappropriate for other music, but it is worth a try.
+
+My digital piano has 6 temperaments, but the new types have 
+microtuning capabilities. They can be programmed for any tuning.
+Electronic tuners with microtuning are also available.
+So, thanks to the Japanese, and Mr. Kellner et al, we can get the 
+original sound of Bach's music into our living rooms. 
+Midi files of the WTC are on midi archives in the Internet.
+I like listening to midi music, because it is free of "interpretation",
+which does not interest me.
+
+Yours
+Helmut Wabnig
+wabi@net4you.co.at
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 2 Nov 1995 07:09 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id VAA07196; Wed, 1 Nov 1995 21:09:49 -0800
+Date: Wed, 1 Nov 1995 21:09:49 -0800
+Message-Id: <199511020508.QAA14303@anugpo.anu.edu.au>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

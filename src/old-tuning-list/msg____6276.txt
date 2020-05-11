@@ -1,0 +1,79 @@
+source file: mills3.txt
+Date: Sun, 12 Oct 1997 16:34:58 +0200
+
+Subject: Tuners
+
+From: Carl Lumma <clumma@nni.com>
+
+>Before inventing something that is already here, you may want to look at
+>the Sanderson Accu-tuner or the Reyburn Cyber Tuner.  These are tuning
+>specific machines, though the RCT uses a powerbook.  Unlimited temperament
+>access, over 200 can be carried in the machine itself.  Allows all manner of
+>partial selection, unlimited scaling curves, accuracy to .1 cent,
+>etc...........
+
+I found the Reyburn Cyber Tuner on the web, but I could not find the
+Sanderson Accu-tuner.  Does anybody know where to get information on this?
+
+>There are a number of products on the market today that provide
+>microtonal tuning support. I have looked at the Accutone model 250,
+>with preprogrammed scales, and a three light strobe for $400; Korg
+>model MT-1200 wihch  can be programmed to temperments of your choice
+>for $300; Peterson 5000, with 112 customer definable temperment files;
+>Precision Strobe Tuner PST2, with the rotating LED's that I found
+>useful before and programmable temperments, for $325. All of these
+>assume that you are tuning 12 tones to the octave, but let you alter
+>any of those 12 to any note. With a little fancy temperment switching,
+>you can tune any number of tones to the octave with little trouble.
+
+Am familiar with the Korg and Peterson, but have never seen teh Accutone or
+Precision Strobe Tuner models.  Could anybody point me in the right direction?
+
+As far as a wish list goes, the smaller, simpler, and lighter, the better.
+Perhaps ideal would be a device without any scale template at all, just
+entry for cents and some rotating LED's.  It is always nice to have
+reference tones to compare the visual feedback to something you can hear.
+In fact, it would be really cool just to have a hand-held, battery powered
+device that only gave reference pitches (that is, had no listening
+capability) at a given frequency in hertz.
+
+The Violab Pitchman is such a tuner, and it can be purchased from Zuckermann
+harpsichords at http://www.zuckermann.com/earlykeyboardnotes/pitchman.html/,
+but it is stuck to one of several preset temperaments.  I have this tuner
+and it is really cool.  I have corresponded with the guy who makes this
+tuner about the idea of hertz entry, and he told me to buy a peice of lab
+equipment from http://www.telulex.com/.  I looked into this, but eventually
+decided that the Peterson 520 was better suited to my needs.  I have this
+tuner and it is okay.  But, when it comes down to it, strobes have got to
+suck.  And, big heavy boxes do not make me happy.
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Denis.Atadan@mvs.udel.edu
+Subject:  John Starrett and Tape Swap Damage Control
+PostedDate:  12-10-97 21:43:31
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-10-97 21:42:55-12-10-97 21:42:56,12-10-97 21:43:22-12-10-97 21:43:22
+DeliveredDate:  12-10-97 21:43:22
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125652E.006C4ACA; Sun, 12 Oct 1997 21:42:50 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14335; Sun, 12 Oct 1997 21:43:31 +0200
+Date: Sun, 12 Oct 1997 21:43:31 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA14334
+Received: (qmail 13464 invoked from network); 12 Oct 1997 12:43:27 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Oct 1997 12:43:27 -0700
+Message-Id: <199710121939.PAA10598@copland.udel.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,132 @@
+source file: mills2.txt
+Date: Fri, 3 Jan 1997 05:59:18 -0800
+
+Subject: RE: integral overtones
+
+From: "Ashcraft AC (Clif)" <aaaabb1@peabody.sct.ucarb.com>
+
+------ extPart_000_01BBF953.9BEFB3C0
+Content-Type: text/plain; charsets-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+	I don't believe uniformity of the string is the important factor: it is the stiffness of real wires attached to sound boards by being mechanically clamped at their ends (stretched over a fret, pressed down by a finger, whatever) which is responsible for the anharmonicity of string instruments.  I suppose if one could weld tiny bearings of negligible moment of intertia to the ends of a wire, and then pull on the bearings to generate the string tension, one might be able to create the kind of boundary condition at the ends of the wire which would eliminate this effect.  However, if one did just this, most listeners would probably complain: "That doesn't sound like a real ....."  
+
+	When one synthesizes musical tones by additive Fourrier synthesis this is exactly the kind of sound you get: perfectly harmonic, but somehow not quite believable.  Most listeners are used to, and tend to prefer, the sounds of real, anharmonic instruments which have these theoretically objectionable "defects", otherwise there wouldn't be so many synths on the market based on waveform sampling of "real" instruments rather than using Fourrier synthesis from harmonic partials - or so it seems to me.
+								Clif Ashcraft
+
+----------
+From: 	James Kukula[SMTP:kukula@synopsys.com]
+Sent: 	Friday, January 03, 1997 1:09 AM
+To: 	aaaabb1@peabody.sct.ucarb.com
+Subject: 	integral overtones
+
+
+Natural systems have all sorts of wierd overtone sets. Nice uniform strings
+will generate integer overtones. Nonlinear systems - systems with distortion,
+like overdriven loudspeakers - also seem to generate integer overtones.
+
+Systems with just one degree of freedom seem to be constrained to move
+periodically, which forces integer overtones, as has already been pointed
+out. One degree of freedom means a two dimensional phase space (the space of
+combinations of position and velocity). In three or more dimensions one can
+embed arbitrary graphs, but in two dimensions the possibilities are cut back
+severely. In a similar way it seems like the trajectory of a simple
+oscillator just doesn't have the topological freedom to fold around in
+strange ways. I might well be wrong about this. (I should hunt around in the
+literature but most of that stuff goes way over my head!)
+
+But the tendency of nonlinearity to create integral overtones seems to go
+beyond one dimensional systems. In a relatively calm ocean, waves of all
+different frequencies run over each other freely. But once waves start
+cresting, then distinct shapes start to appear and move through space
+together. This sort of phase coherence is again a periodic motion that
+implies integer overtones.
+
+It does seem that nature has a certain prejudice in favor of integers!
+
+Actually our common use of integers to count distinct objects seems related
+to the kind of phase coherence created by nonlinearity. Nonlinearity makes
+things clump together and split apart, and that's why there are things to 
+count. (And to do the counting!) Huh, and that's really the root of the
+distinction between digital and analog circuitry - digital circuits use
+distortion to make nice distinct pulses. (It's getting too late at night!)
+
+Jim
+
+
+
+------ extPart_000_01BBF953.9BEFB3C0
+Content-Type: application/ms-tnef
+Content-Transfer-Encoding: base64
+
+eJ8+IiUOAQaQCAAEAAAAAAABAAEAAQeQBgAIAAAA5AQAAAAAAADoAAENgAQAAgAAAAIAAgABBJAG
+ADABAAABAAAADAAAAAMAADADAAAACwAPDgAAAAACAf8PAQAAAE0AAAAAAAAAgSsfpL6jEBmdbgDd
+AQ9UAgAAAAB0dW5pbmdAZWFydGhhLm1pbGxzLmVkdQBTTVRQAHR1bmluZ0BlYXJ0aGEubWlsbHMu
+ZWR1AAAAAB4AAjABAAAABQAAAFNNVFAAAAAAHgADMAEAAAAYAAAAdHVuaW5nQGVhcnRoYS5taWxs
+cy5lZHUAAwAVDAEAAAADAP4PBgAAAB4AATABAAAAGgAAACd0dW5pbmdAZWFydGhhLm1pbGxzLmVk
+dScAAAACAQswAQAAAB0AAABTTVRQOlRVTklOR0BFQVJUSEEuTUlMTFMuRURVAAAAAAMAADkAAAAA
+CwBAOgEAAAACAfYPAQAAAAQAAAAAAAADkToBCIAHABgAAABJUE0uTWljcm9zb2Z0IE1haWwuTm90
+ZQAxCAEEgAEAFwAAAFJFOiBpbnRlZ3JhbCBvdmVydG9uZXMATAgBBYADAA4AAADNBwEAAwAIADUA
+IAAFADoBASCAAwAOAAAAzQcBAAMACAAkADEABQA6AQEJgAEAIQAAAEIwREZEMTAyNDI2NUQwMTFC
+RDVBMDA4MDVGMzZBNTU1AAIHAQOQBgBcCgAAEgAAAAsAIwAAAAAAAwAmAAAAAAALACkAAAAAAAMA
+NgAAAAAAQAA5AIChbeOF+bsBHgBwAAEAAAAXAAAAUkU6IGludGVncmFsIG92ZXJ0b25lcwAAAgFx
+AAEAAAAWAAAAAbv5heNtAtHfsWVCEdC9WgCAXzalVQAAHgAeDAEAAAADAAAATVMAAB4AHwwBAAAA
+FQAAAFVDQy9CQktOSjAxL0FTSENSQUFDAAAAAAMABhCjjaL0AwAHEB0KAAAeAAgQAQAAAGUAAABJ
+RE9OVEJFTElFVkVVTklGT1JNSVRZT0ZUSEVTVFJJTkdJU1RIRUlNUE9SVEFOVEZBQ1RPUjpJVElT
+VEhFU1RJRkZORVNTT0ZSRUFMV0lSRVNBVFRBQ0hFRFRPU09VTkRCT0FSAAAAAAIBCRABAAAA4wgA
+AN8IAAAiEAAATFpGdQCRj2T/AAoBDwIVAqgF6wKDAFAC8gkCAGNoCsBzZXQyNwYABsMCgzIDxQIA
+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
+1sI------ extPart_000_01BBF953.9BEFB3C0--
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 3 Jan 1997 16:00 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00394; Fri, 3 Jan 1997 16:03:01 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00392
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA22982; Fri, 3 Jan 1997 07:02:57 -0800
+Date: Fri, 3 Jan 1997 07:02:57 -0800
+Message-Id: <199701030959_MC2-E3C-8835@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

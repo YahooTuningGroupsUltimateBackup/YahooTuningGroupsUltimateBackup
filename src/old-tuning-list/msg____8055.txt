@@ -1,0 +1,108 @@
+source file: m1443.txt
+Date: Thu, 11 Jun 1998 13:46:42 +0000
+
+Subject: Microtunable wishlist
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+John Loffink wrote:
+
+>I have posted my microtonal wishlist to my web site at
+>http://freeweb.pdq.net/jloffink/architectures.html 
+
+Excellentissimo!  Well, actually I only got time to look at it for 
+two minutes yesterday.  But some quick thoughts below.
+
+I wrote:
+
+>> (3) Pitch assignation to a user definable keyboard zone - for
+>> example - select a zone of 34 consecutive keyboard notes, and
+>> assign each keyboard key a pitch value (ET or not) relative to 1/1
+>> in that zone (normally in an ascending scale, but not necessarily).
+>>  Then tell the machine to automatically assign that 34 key tuning
+>> scheme into the next octave either (for example) at the 35th key
+>> above or at the 36th key above and below.  (I don't suppose the
+>> latter exists yet).   
+
+John Loffink replied:
+ 
+>Most Ensoniq's have an "extrapolate" function that creates a scale in
+>this manner and compiles it to the full keyboard tuning.  I think
+>that's the best way rather than having some third method of storing
+>scales, if that's what you're suggesting.
+
+Will the Ensoniq extrapolate an arbitrary-number-division
+*non-equally- tempered* non-octave scale?  That's interesting, I
+didn't realise it went that far - I thought it could only extraopolate
+*equally-tempered* non-octave scales? But you're saying the Ensoniq
+will allow a 23 note scale, with user specified non-equal divisions, 
+which 'repeats' at intervals of 7/4 (and leaves specific keyboard 
+keys within the 23 steps blank)?  (for example).
+
+Not sure if I'm suggesting a 'third method', I may just have been
+suggesting something I didn't think could currently be done 
+quasi-automatically.  (Of course you can do anything like this 
+manually on existing samplers, but you run out of 'key-groups' (and 
+patience)).   
+
+Immediate reactions to wishlist page (John, if any of this appeals, 
+feel free to use/modify however you please):    
+
+1. Explain why high end resolution of 0.0061 cents would be useful? 
+Otherwise manufacturers will assume craziness? Suggest other options 
+and why?  
+
+2. Add idea of 'on-board absolute pitch meter' for sample based 
+modules?  (I totally agree that the machines ought to show _actual_ 
+resolution.)  
+
+3. I'm unclear how far the last line of your high-end  spec addresses 
+the question of adaptive tunings  ("real-time updates of note 
+pitches is selectable per note as instant pitch correction or new 
+note only").   Could this be made clearer/ elaborated upon?  An 
+option to invoke built-in, user-configurable adaptivity should indeed 
+be a requirement - at least in an ideal high-end machine.  How best 
+to provide *user configurability* for real-time adaptivit(ies) is not 
+my area - but others might like to suggest?
+
+4. The function definitions could be augmented by adding some ideas 
+about the  interface - ie., how the user wants the 'logic' of tuning 
+options to be presented and controlled.  (Perhaps this is 
+controversial?) (see below)        
+
+5. Measurements in Cents and/or Hz and/or *Ratios*(?).  To the 
+What-Limit?
+
+As regards interface: here's an off-the-top-of ny-head sketch of the 
+sort of thing I'd like to see:
+
+Click on a button called 'Tuning';
+Up comes a dialog box, which says:
+        New or Load or Edit
+New is new, Load loads pre-defined tuning configuration; Edit edits 
+one.  Suppose we choose 'New' -
+Up comes a dynamic dialog box:
+          Global or Instrument or Instrument-Element or MIDI Channel
+As you click different options, radio buttons/check boxes become 
+avaialble or not etc:
+          Define '1/1' to keyboard : key and pitch (conventional 
+name plus or minus cents, and in Hz)
+         Choose Equal-Tempered or Non-Equal-Tempered; 
+Depending on what you choose, dialogue box changes etc:        
+	Define terms: Cents or Hz or Ratios;
+         Choose cyclic interval (1200=default, or XXXX, or none);     
+   	If ET - choose number of scale steps; 
+         If non-ET - choose number of scale steps and exact sequence 
+of intervals;        
+	Assign synth sound(s) - synth deals automatically; 
+	Assign sampler sounds - user chooses from a list of samples, 
+(each of which contains the original sampled pitch in Name +/- 
+cents/Hz as part of the sample field.  Module assigns program or 
+samples accordingly, to nearest acurate pitch etc. User is then 
+offered opportunity to test and override sample mapping if 
+necessary). 
+
+Obviously no one wants to do this for every instrument - so once 
+a template is saved it can be recalled etc.
+ 
+Patrick O-L

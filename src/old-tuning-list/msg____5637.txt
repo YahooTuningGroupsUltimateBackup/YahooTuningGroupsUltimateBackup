@@ -1,0 +1,38 @@
+source file: mills2.txt
+Date: Sat, 14 Jun 1997 12:32:22 +0200
+
+Subject: Re: where do the 5ths go?
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>It is interesting to look at examples of systems where the octave is not
+>the basic building block but rather the fifth or another interval.
+
+   The 88CET system I keep droning on and on about is such a system, as is
+Carlos' Alpha.  88CET has 8 steps per P5, and Alpha has 9 per P5.  Bohlen's
+13ET per P12 tuning obviously concentrates on twelfths instead.
+
+   At least when it comes to 88CET, I found value in considering stacks of
+fifths wrapping within a 7:4, since those are two useful and very clearly
+recognizable building blocks.  Similarly, I found stacks of 9:7 supramajor,
+and 11:9 neutral, thirds to form useful chord or chord-fragment building
+blocks.
+
+   Or to put it another way, I have found stacks of many intervals to have
+both harmonic and melodic meaning, whether or not we wrap them within an
+octave or other interval, and regardless of what root pitch you build them
+upon.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 14 Jun 1997 12:33 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30623; Sat, 14 Jun 1997 12:33:12 +0200
+Date: Sat, 14 Jun 1997 12:33:12 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA30614
+Received: (qmail 19683 invoked from network); 14 Jun 1997 10:31:32 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Jun 1997 10:31:32 -0000
+Message-Id: <v01541104afc7ad7f6fbc@[207.207.3.147]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

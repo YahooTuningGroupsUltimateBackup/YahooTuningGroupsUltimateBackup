@@ -1,0 +1,426 @@
+source file: mills2.txt
+Date: Tue, 31 Oct 1995 10:27:18 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Models of reality, the Fourier
+  mindset, and negative eigenvalues in
+  Sturm-Liouville problems
+---
+Charles Lucy has been regularly pilloried
+in this forum for his doubts about the
+Fourier analysis model of acoustic
+systems.  Several months ago, in Topic
+1 of Digest 404, John Chalmers also stated 
+that "I can think of no physical principle 
+which would favor flat fifths over natural..." 
+This is a concise expression of a general
+attitude among acousticians and music
+theorists, most of whom are not fully
+conversant with the physics behind the
+conventional textbook description of
+vbrating strings and air columns.
+In fact there are good solid physical  reasons 
+why no simple harmonic mechanical oscillator
+ever produces strictly harmonic oscillations,
+and will instead tend to generate partials
+which are either systematically stretched
+or shrunk by comparison with the expected
+harmonics.  There are also excellent physical
+reasons why 2- and 3-dimensional physical
+oscillators will in general not exhibit either
+linear or harmonic oscillatory behavior at all.
+This point bears on Lucy's criticism of the
+Fourier analysis mindset that characterizes
+much of the discussion of this forum, and
+in a larger sense it also bears on the question
+of which tunings we use--or even contemplate
+using.
+Ultimately, the musics we choose to make are
+limited by our model of the world.  Whenever
+we tune an instrument, we inevitably begin
+to impose a structure on physical reality:
+and the type of structure we choose to impose
+is determined by our preconceptions.
+In the West and Mideast, ever since the time
+of Pythagoras and almost certainly (before
+that) the Babylonians and the Egyptians, we
+(in the West) have conceived of the universe as ruled
+by number.  The predictive value of number is a
+touchstone of classical Hellenic thought.
+This had profound implications
+for the kind of music made in Greece and
+the European cultures.
+However, other cultures bring other
+preconceptions to the process of tuning.
+There is no evidence (as Marc Perlman has
+pointed out) that the Javanese, the Balinese,
+or any of the other cultures of Southeast
+Asia conceive of the universe as a manifestion
+of number, except perhaps in the Kabalist
+sense implied by gematria, the geomancy of the
+Dogon peoples of Mali, etc.  Thus their tuning systems do 
+not arise from mathematical or physical-acoustic
+considerations, and as a result Javanese and
+Balinese music does not employ the 2:1 octave,
+4:5:6 harmonies or harmonic-series timbres. The
+same is true of the  musics found in Africa,
+Central Asia, most of the South Seas islands and
+South America.
+None of these cultures appear to conceive of
+music in the mathematical framework typical
+of Western thinking; indeed, as Jon Appleton
+has pointed out, in many other cultures
+music is often not analyzed at all, but regarded
+as belonging to same realm as magic.
+Thus one's preconceptions exert a potent
+influence on the kind of music one chooses 
+to make, and different models of reality
+produce different kinds of tuning.
+The simple harmonic oscillator equation
+is one model of reality.  
+There are many others even within the
+confines of Western mathematics.
+According to the simple harmonic motion 
+equation, the displacement
+x = A*sin(sqrt(k/m)*t) + B*cos(sqrt(k/m)*t)
+where k is the spring constant, m is
+the mass, and t is the elapsed time
+(A and B are constants of propotionality).
+This is a recipe for perfectly harmonic
+behaviour.   
+But the equation which describes
+simple harmonic motion is a drastic
+simplification of reality, and there
+are many other (more sophisticated)
+mathematical models which describe
+the same physical oscillatory system.
+For example, when a simple tube is
+excited with a laminar airflow the air
+in the tube will oscillate at a characteristic
+frequency determined by the length of
+the tube, the density of the air, the
+location and number of tone holes, etc.
+Increasing the airflow produces a  stronger
+second harmonic, and so on, according
+to this model.
+But in the real world two modes of
+oscillation (fundamental and second harmonic)
+in a tube tend to "pull in" toward each other
+so that the fundamental rises slightly in
+frequency, while the second harmonic drops
+slightly in frequency.  The simple harmonic
+motion model of reality cannot explain this
+because it views air molecules as billiard
+balls connected by springs, and
+the system cannot behave in any but
+a perfectly harmonic way.
+If instead we look at the air-filled tube as
+an energy exchange system from a 
+thermodynamic viewpoint, or if we
+view it as a state-space system, or
+if we consider it from the standpoint
+of continuum mechanics, the reasons
+for the slight inharmonicity of the
+oscillations become obvious.  Setting
+up a fundamental mode of oscillation in the 
+the tube changes its acoustical admittance;
+a second oscillation mode will then lose energy
+or gain energy, depending on the phase
+of its compressions and rarefactions 
+relative to that of the fundamental mode.
+Since the system will tend to minimize its
+overall potential energy the two acoustic
+modes will couple; and because the 
+system is closed (negigibly energy is
+lost via acoustic radiation), the energy lost
+from the second mode of oscillation has
+to go somewhere and not all of it will be
+either transmitted out the bore of the 
+tube or lost as friction against the walls
+or in the friction created by turbulent non-laminar
+flow around the tone holes, etc.  Thus the
+energy lost from the second mode of oscillation
+will partly flow into the fundamental mode of
+oscillation, which in turn forces a 
+change in its period.
+This example serves as a warning about
+the models we use to explain physical
+system, and consequently to justify the
+tuning systems we use.  In the case
+just considered, the inharmonic behaviour
+is slight--as long as flow of air through
+the tube remains slow and laminar.  Thus 
+it can be handled by perturbation theory,
+as in lord Rayleigh's "Acoustics" of 1896. But
+as the airflow increases, the flow becomes 
+non-laminar.  Multiphonics appear;
+then the oscillation patterns become
+quasi-periodic, start to break up, and
+finally become completely aperiodic.
+The oscillation turns to noise.
+Viewed as a simple energy exchange
+system, our model cannot explain this.
+But if we step back yet again and realize
+that the energy-exchange system we've
+been picturing is a drastic simplification
+the reason for this behaviour becomes clear.
+If, instead, we view the partial differential equations 
+which describe the interaction of non-linear
+acoustic admittance,  non-laminar airflow and
+radiated, transmitted and absorbed mechanical
+energy, and boundary conditions from the
+viewpoint of complexity theory...  Then it becomes
+obvious why the system beahves as it does.
+"Little is known concerning boundary value
+problems for general nonlinear differential
+equations..." [Courant and Hilbert, "Methods
+of Mathematical Physics," 1962, pg. 367.
+For the class of hyperbolic PDEs which
+describe one-dimensional physical
+oscillatory systems, perturbation theory
+is the classical method of dealing with
+the increased airflow described above. 
+But as we've seen this does not work
+beyond a very limited regime.  Nonlinear
+dynamics must be invoked beyond the region
+of non-laminar airflow, and in this regime
+the oscillations in the tube move from
+being ordinary attractors in phase space
+to being strange attractors, whose behaviour
+not only jumps back and forth between
+aperiodicity and quasi-peridiodicity, but
+also spans the complete gamut from
+pure noise to harmonic oscillation. Viewed
+in phase space, the operation of the compressions
+and rarefactions in the air of the tube follow
+orbits which can be bounded, yet not precisely
+predicted, and which depend crucially on
+initial conditions.
+Lest you imagine such chaotic behaviour is
+restricted only to airflow in tubes,
+note that in the case of the wave equation
+describing the general nonhomogeneous 
+vibrating string "whenever an eigenvalue is
+negative an aperiodic motion occurs 
+instead of the corresponding normal
+mode." [Courant and Hilbert, "Methods of
+Mathematical Physics," Vol. 1, pg 292]
+Thus chaotic oscillation can occur
+even in vibrating strings--in fact
+in any one-dimensional oscillator
+described by a Sturm-Liouville
+eigenvalue problem.
+This is not commonly known.
+Why?   
+Because every textbook on acoustics
+which treats the wave equation and
+the vibrating string  assumes
+that the egienvalues will never become
+negative.  As a result, the true complexity
+of the behjvaiour of even so-called
+"simple" 1-D physical oscillatory systems
+is masked from the unquestioning students.
+(These simplifying assumptions are made
+so that the equations can be quickly and
+easily solved.  The usual dodge is to claim
+that "negative eigenvalues have no physical
+significance." As so often in physics and
+engineering, this is a fudge.  In fact 
+the problem is just systematically
+restricted and our viewpoint successively
+limited until we arrive at equations which 
+undergrad-level mathematics can dispatch 
+with elegance in a neat closed form.)
+And what does all this have to do with
+tuning?
+The debate on this forum has mostly centered
+around a restricted set of musical tunings--
+JI, meantone, a few equal temperaments which
+well approximate the lower members of the
+harmonics series.  And this tiny subset of
+tunings is derived from simplistic physical 
+models (as we've seen).  These acoustic models
+are described by the usual textbook
+solutions of the wave equation, simple
+harmonic motion, and the rest of the
+18th- and 19th-century baggage.
+But the reality can be very different from
+the universe predicted by these 18th-century
+mathematical models.  
+"For three centuries science has successfully
+uncovered many of the workings of the
+universe, armed with the mathematics of
+Newton and Leibniz.  It was essentially a
+clockwork world, one characterized by
+repetition and predictability. (..) Most of
+nature, however, is nonlinear and is not
+easily predicted. (..) In nonlinear systems
+small inputs can lead to dramatically
+large consequences." [Lewin, Roger, 
+"Complexity," 1993, pg. 12]
+By now it should now be clear why the Fourier 
+transform has gained such popularity, and also 
+why Charles Lucy's doubts about it are
+well-founded.  In "a clockwork world,
+one characterized by regularity and
+predictability," a mathematical technique
+which breaks all physical oscillations
+down into sets of perfectly periodic
+sinusoidal functions with no beginning
+and no end makes a lot of sense.  In a
+clockwork 18th-century universe, the
+Fourier transform enjoys enormous descriptive
+power.
+But we now know that the 18th-century clockwork
+model of the world is not a complete picture.  In the
+real world, where chaotic strange attractors
+characterize the action of real oscillatory
+systems, the Fourier transform often falls apart.
+And instead of describing reality, the Fourier
+transform can put blinders on us and prevent
+us from seeing the world as it really is.
+In some cases, this is unimportant--because
+the oscillations of real physical systems are
+sometimes only a little different from the simplistic
+clockwork-universe description of the Fourier
+Theorem.  In instruments like strings, winds
+and brasses (after the initital attack of the
+tone is over, and if the instruments aren't
+played too loudly, and if we're talking only
+about the notes in the middle range of these
+instruments) a short-time Fourier analysis
+tells us *something* about what's going on
+in *some* of the notes, during *part* of
+their duration.  But even for this restricted
+class of sounds, Fourier techniques fail 
+during the first 10 milliseconds or so of the
+note's attack. FFTs fail because when t < 10ms  
+the amplitude and frequency of the component
+partials are both changing with great rapidity,
+and the Fourier transform *cannot* provide
+accurate information about both the period
+*and* the spectrum of an input function. An
+increase in resolution in one parameter forces
+a descrease in resolution in the other.  This is
+inherent in the mathematics of the FFT, and
+*cannot* be sidestepped.
+A much greater limitation on the Fourier mindset
+is the fact that most of the musical instruments used 
+by most of the cultures in the world are not violins
+or French horns or flutes.  Most of the musical
+instruments used by other cultures are two- 
+or three-dimensional oscillators which 
+generate inharmonic partials & noise, and store
+energy from one vibrational cycle to the next...
+so that their behaviour is often extraordinarily 
+non-linear.  See Rossing's discussion of the
+energy storage from one cycle to the next in
+a tam-tam, for example. [Rossing, 1992]
+For such instruments, the Fourier description
+is a hindrance rather than an aid to understanding.
+And the class of tunings to which we in the west 
+have systematically restricted
+ourselves--namely JI, meantone and equal
+temperaments with good approximations of 
+the lower harmonics--are also inadequate for
+such instruments. 
+This perhaps addresses John Chalmers' doubts
+about the validity of any "physical system that
+would favor flat fifths over natural." Simply
+moving from one-dimensional physical oscilaltors
+to two- and three-dimensional oscillators
+generate fifths which are either *very* flat or
+*very* sharp (depending on the oscillatory
+geometry)...indeed, the whole 18th- and 19th-century
+armamentarium of Western acoustic terminology is 
+inapplicable to such  physical oscillators: "fifth" and 
+"third" and "natural harmonics" are terms without
+meaning for such physical systems. The tam-tam
+or the metallophone or the vibrating drumhead
+or (as we've seen) even purportedly "simple"
+one-dimensional systems like the vibrating
+string often operate in the region of complexity...
+a region of oscillation that lies between the
+complete chaos of noise and the clockwork perfection
+of perfect harmonicity.  The Fourier view of
+the universe does not yield useful information
+when applied to such acoustic systems, or
+even when applied to a vibrating string characterized
+by negative eigenvalues in the associated
+Sturm-Liouville equations.
+One of the central revelations of complexity
+theory is that patterns lie hidden in chaos.
+Emergent order appears ex nihilio when 
+systems reach the edge of chaotic behavior,
+as in woodwind multiphonics, etc.  In fact
+the Brookhaven National Laboratory phsyicist
+Per Bak has developed the hypothesis that
+dynamical systems naturally evolve toward
+a critical state in which the edge of chaos
+spontaneously generates order. [See Bak, P.
+and Chen  K,. in Scientific American, Jan. 1991;
+also see Packard, N., "Adaptation Toward the
+Edge of Chaos," Technical Report, Center for
+Complex Systems Research, University of
+Illinois, CCSR-88-5, 1988.]
+What does this have to do with tuning &
+music?
+It seems possible (if not probable) that
+non-just non-equal-tempered tunings 
+represent an adaptation toward spontaneous
+order generated by the non-linear dynamical
+systems used in so many other musical
+cultures (i.e., two- and three-dimensional
+physical oscillatory systems: drums, 
+flat or curves metal plates, non-linearly
+coupled oscillators like those used in
+parts of Africa in conjuction with resonant
+strings, etc).
+Interestingly enough, throwing away the
+Fourier transform does not mean a loss
+of predictive power.  Many other analytic
+models for acoustic systems exist: Walsh
+transforms, Daubechies wavelets, Gabor's
+acoustic quantum, and even more recent
+non-linear mathematical transforms such
+as the slope transform [See Maragos, P., 
+"Slope Transforms: Theory and Application 
+to Nonlinear Signal Processing," IEEE
+Trans. Sig. Proc.,  43(40, Paril 1995, pp. 
+864-877.]
+The fact that so astute and insightful
+a thinker as John Chalmers could fall
+into the trap of looking at all tuning
+systems and physical oscillators through
+the narrow distorting lens of the
+Fourier transform is an indication of
+the power the Fourier mindset to
+brainwash the unwary.  While the Fourier
+transform is a marvellous mathematical tool,
+is does not describe all of acoustic reality--
+only a small part of it.
+Thus  Charles Lucy's doubts about the
+universal value of the FFT are well
+founded, and the attacks he has suffered
+for voicing these doubts in this forum
+are an indication of just how thoroughly
+the Fourier mindset can blind us to the
+wonderfully complex nature of real 
+instruments, real tunings and real music
+in the real world.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 31 Oct 1995 20:59 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA08873; Tue, 31 Oct 1995 10:58:57 -0800
+Date: Tue, 31 Oct 1995 10:58:57 -0800
+Message-Id: <v01530502acbc2e7c1883@[194.137.64.56]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,167 @@
+source file: m1588.txt
+Date: Fri, 20 Nov 1998 20:03:13 -0800 (PST)
+
+Subject: Re: Harmony, trinic and triadic -- a reply
+
+From: "M. Schulter" <mschulter@value.net>
+
+Hello, there.
+
+Recently there has been some discussion about the emergence of regular
+three-voice and four-voice compositions in Western European music
+around the end of the 12th century. Indeed the year 1998 may be an
+ideal time for this dialogue, since one of the earliest known
+documents referring to the use of such compositions (possibly
+Perotin's four-part organa _Viderunt omnes_ and _Sederunt principes_)
+dates to 1198 or so.
+
+Please let me begin by dissociating this specific question from the
+matter of cross-cultural responses to the European-style triadic
+harmony of a later period, fraught with very some very sensitive
+cultural issues. Interestingly, for example, the magazine _Early
+Music_ some years ago had an article on a Japanese delegation which
+visited Venice somewhere around the 1580's, an era of early triadic
+music in Europe, and may have found this polyphony an "interesting
+toy" or the like.
+
+Anyway, two people have offered comments which invite further
+discussion. First Bill Alves:
+
+> Medieval polyphony was something perfectly suited to the aesthetics
+> of gothic church music, so it is little wonder that contemporary
+> writers praised it, just as later writers praised the symphony
+> orchestra, Bach's counterpoint, Mozart's melodies, or Beethoven's
+> emotionalism. Yet I would hardly conclude that other cultures if
+> exposed to Bach, Mozart, or Beethoven would gladly don their
+> styles. One might also point out that the Medieval music refered to
+> in those accounts certainly did not have "full chordal harmony" as
+> we think of it.
+
+One complication here is that some of "us" may have different
+conceptions of just what "full chordal harmony" implies. To me, it
+implies a texture which, when judged by the standards of a given
+period, is saturated with the most complex stable sonorities
+possible. It also implies to me at least three voices, as opposed to a
+two-voice texture with simple intervals but not "chords."
+
+To many people, "chords" are implicitly built in thirds, or must
+consist of three distinct "pitch classes," so that I personally prefer
+to use the terms "combination" or "multi-voice sonority" in a medieval
+context in order to minimize confusion.
+
+Whatever terms we prefer to use, Gothic harmony from Perotin onward is
+based on a unit of stable saturation which I call the _trine_ after
+Johannes de Grocheio (c. 1300), who refers to a _trina harmoniae
+perfectio_ or "threefold perfection of harmony" based on a complete
+sonority of three voices and intervals: outer octave, lower fifth, and
+upper fourth (e.g. d-a-d'). Note that the octave counts as a "real"
+interval, and indeed a full trine might be described as a harmonic
+division of the octave. In term of string-ratios, we have 12:8:6, with
+the differences between adjacent terms -- (12-8):(8-6) or 4:2 or 2:1
+-- having the same ratio as that between the outer terms, 12:6 or 2:1.
+
+For people on the list with geometric inclinations, it's interesting
+that a cube has 12 edges, 8 corners, and 6 faces.
+
+Gothic music of the era 1200-1420 or so is thus based on a texture in
+which complete trines ideally alternate with unstable sonorities
+considered in a given epoch and style to be apt and pleasing, whether
+as cadential sonorities used in directed resolutions, or as
+"coloristic" sonorities (e.g. g-b-d' or g-c'-d' in a 13th-century
+style). To me, this is "full trinic harmony," whether or not one wants
+to introduce the adjective "chordal."
+
+Starting around 1420, there is a transitional period of about a
+century from the early Dufay through Josquin, say, when the sonorous
+ideal shifts from an alternation of stable trines and unstable
+sonorities to a pervasive tertian sound. By around the time of
+Jannequin and the early 16th-century Italian madrigalists, say the
+1520's, we might speak of a "triadic" texture where sonorities with a
+fifth divided into two thirds, or a sixth divided into a lower third
+and upper fourth (e.g. c-e-g, c-e-a) are predominant. By the middle
+of the century, theorists such as Vicentino (1555), Zarlino (1558),
+and Tomas de Santa Maria (1565) are emphasizing this standard of full
+sonority.
+
+Note that either trinic or triadic sonority, although "full" in its
+own terms, might sound quite "bare" to an enthusiast of modern jazz
+or 11-limit just intonation, for example.
+
+Of course, on this list, it seems obligatory to add that Pythagorean
+intonation is nicely suited to the trinic harmony of the Gothic, while
+5-limit just intonation or meantone nicely fits the triadic style of
+the Renaissance.
+
+In another post, Daniel Wolf remarked:
+
+> Other musicians, however, have come round to a triadic basis after a
+> deep consideration of the consequences suggested by particular
+> musical materials. I am quite fond, for example, of polyphonic music
+> in pythagorean intonation (c.f. Margo Schulter's postings to this
+> list) or of Javanese slendro (which is pythagorean in structure but
+> not intonation). But neither of these systems lends itself to
+> completely independent (i.e. non-parallel) part writing in more than
+> two voices, and the introduction of an additional consonant tone
+> within the space of the fifth is terribly convenient in this
+> regard.
+
+Here I might comment that "completely independent" part-writing may be
+defined differently in different eras and styles. Thus parallel fifths
+and fourths are not seen as compromising the essential independence of
+the parts in 13th-century trinic harmony as long as contrary motion
+remains the general rule, and the same may be said for parallel thirds
+and sixths in a 16th-century triadic context.
+
+If three or more voices all move at the same time, it's inevitable
+that at least two of them must move in similar or parallel
+motion. However, one index of maximum "harmonic efficiency" in a
+directed cadential progression might be the number of unstable
+intervals that get resolved by conjunct or near-conjunct contrary
+motion. Thus consider these 13th-century progressions:
+
+        f'-g'                            d'-c'
+        e'-d'                            b -c'
+        c'-d'                            g -f
+        a -g                             e -f
+
+(m6-8 + m3-5 + M3-1 + m2-4)       (m7-5 + m3-1 + M3-5 + m3-1)
+
+Each of these sonorities includes among its six intervals _four_
+unstable ones each resolving by conjunct contrary motion; there are
+also some parallel fifths and fourths which enrich the texture, just
+as parallel thirds and sixths are common in later triadic cadences.
+
+Also, while of course it is true that we cannot create any _stable_
+sonority by adding a third voice "within the space of a fifth," we can
+create some _relatively_ concordant sonorities by precisely this
+method, as can be seen in Perotin and various 13th-century
+repertories. Following the concepts of Jacobus of Liege (c. 1325), I
+propose a notation in which a sonority is shown as an outer interval
+"split" by a third voice into lower and upper adjacent intervals,
+outer|lower-upper:
+
+   d'         d'        d'
+   b          a         c'
+   g          g         g
+
+ 5|3-3     5|M2-4     5|4-M2
+
+Adding a third voice at a major or minor third, a major second, or a
+fourth produces a mildly unstable sonority in which all three
+intervals are to some extent "compatible," although the resulting
+thirds or major seconds introduce tension requiring further music.
+
+In sum, I would say that both Bill Alves and Daniel Wolf have shown how
+concepts such as "full chordal harmony" or "independent part-writing" can
+change in meaning depending on the style. While this issue may be somewhat
+peripheral to questions of tuning systems proper, I would consider it not
+irrelevant. Also, with Daniel, I would agree that characteristic meantone
+tunings (e.g. 1/3-1/6 comma) do invite a triadic kind of sonority, unless
+one is doing something a bit offbeat like using augmented sixths to
+approximate 7:4's, as Dave Hill has done very effectively on piano -- or
+diminished fourths to approximate 9:7's, etc. 
+
+Most appreciatively,
+
+Margo Schulter
+mschulter@value.net

@@ -1,0 +1,76 @@
+source file: mills2.txt
+Date: Fri, 27 Oct 1995 20:38:10 -0700
+
+Subject: Pygmy music
+
+From: Mmcky@aol.com
+
+The pygmy scale:
+
+tones:   1/1   8/7     21/16  3/2   7/4
+steps:      8/7  147/128    8/7  7/6   8/7
+
+Also:
+
+Scale:     1
+
+LCM:   2^7*3*7^2
+
+  5         196           7/         4  Harmonic Minor Seventh
+  4         168           3/         2  Perfect Fifth
+  3         147          21/        16
+  2         128           8/         7
+  1         112           1/         1  Unison
+
+Minimum Chords:
+
+   1   84   4:   6:   7    1-  4-  5
+   2  168  21:  24:  28    3-  4-  5
+   3  336  14:  16:  21    1-  2-  4
+
+I just couldn't resist the opportunity to do a short composition.
+
+My fil5 utility expands this to:
+
+LCM:   2^8*3^5*5^3*7^2
+
+ 12         392           7/         4  Harmonic Minor Seventh
+ 11         336           3/         2  Perfect Fifth
+ 10         300          75/        56
+  9         294          21/        16
+  8         288           9/         7
+  7         270         135/       112
+  6         256           8/         7
+  5         250         125/       112
+  4         243         243/       224
+  3         240          15/        14
+  2         225         225/       224
+  1         224           1/         1  Unison
+
+Minimum Chords:
+
+   1   84   4:   6:   7    1- 11- 12
+   2  126  14:  18:  21    1-  8- 11
+   3  168  21:  24:  28    9- 11- 12
+   4  180   9:  10:  12    2-  5- 10
+   5  180  15:  18:  20    2-  7- 10
+   6  210   5:   6:   7    3-  8- 11
+   7  336  14:  16:  21    1-  6- 11
+   8 1350  25:  27:  30    2-  4-  7
+
+You can ftp the resulting composition from users.aol.com. (6,100
+bytes.)  CD to MMCKY and download the file pygmy.zip.
+
+Marion
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 28 Oct 1995 10:42 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id BAA19937; Sat, 28 Oct 1995 01:42:48 -0700
+Date: Sat, 28 Oct 1995 01:42:48 -0700
+Message-Id: <9510280841.AA22529@nyx10.cs.du.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

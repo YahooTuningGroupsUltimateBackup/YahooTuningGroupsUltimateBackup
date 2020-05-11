@@ -1,0 +1,63 @@
+source file: m1434.txt
+Date: Mon, 01 Jun 1998 09:34:34 PDT
+
+Subject: VAZ+ Synth/Sequencer Tuning Capabilities
+
+From: "Just Intonation" <justintonation@hotmail.com>
+
+Hi, everybody, I just got a reply from the guy who turned me on to 
+the VAZ+ synth/sequencer, Martin Fay, and he also happens to be the 
+programmer who wrote it, and only has one micro-tuning-savvy beta 
+tester, so here's your chance to get in and have some conceptual input 
+on the ground floor of an entry-level, mass-market micro-tuning-capable 
+product! 
+
+   Here's the complete text of his note:
+
+----------------------------------------------------------------------
+
+   Bill:
+
+>>    Hi, Martin, I checked out the VAZ+ web site yesterday, and it
+>>    looks 
+>> like a great program. Do you have any idea how the user is able to
+>> specify alternate tunings? Is it by frequency, cents values, or some
+>> other way?
+>> 
+>>    Also, how fine is the tuning resolution? These are questions the
+>> alternative tuning people will be asking, and I need to know that
+>> stuff in order to promote VAZ+ on the alternative mailing lists and
+>> web sites that I'm in contact with (which I'll be more than happy to
+>> do!). Thanks.
+
+   Martin:
+
+>At present, the tuning map is setup in a text-format file, and each 
+>MIDI note can freely be given a tuning to 1 cent accuracy, which is 
+>also the frequency resolution of the VAZ+ oscillators.
+>
+>The present situation is entirely pragmatic, at present I am only 
+>aware of 1 of my beta testers who uses the microtuning capability so 
+>I haven't coded a tuning map editor, and 1 cent resolution seems to 
+>be sufficient for smooth pitch changes. I'm not sure what resolution 
+>you'd be after?
+>
+>
+>
+>Martin
+>
+>  man(i)kin / 3 track demo now available on mp3
+>+------------------------------------------------+
+>| Email: martin.fay@umist.ac.uk                  |
+>| Web: http://www.cp.umist.ac.uk/users/martin/   |
+>+------------------------------------------------+
+>| See web site for:                              |
+>| VAZ: Vurtual Analogue Synth Emulator           |
+>| Demos on mp3: man(i)kin, Curious Yellow        |
+>+------------------------------------------------+
+
+----------------------------------------------------------------------
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com

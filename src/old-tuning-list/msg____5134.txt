@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Tue, 18 Mar 1997 09:22:43 -0800
+
+Subject: Hearing at high frequencies
+
+From: James Kukula <kukula@synopsys.com>
+
+When I was in high school I hooked a variable frequency oscillator up to a
+loudspeaker. I had no problem hearing sound up to around 24 KHz. I remember
+a fellow student whose hearing cut out above around 15 KHz. I distinctly
+remember playing a sound at about 18KHz, loud enough to be uncomfortable for
+me, and this other student did notice the sound at all. Another fellow student
+could hear sounds up around 22 KHz no problem. 
+
+I shudder to think what many intevening years of rock music have done for me.
+
+Jim
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 18 Mar 1997 19:26 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23979; Tue, 18 Mar 1997 19:26:47 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA04890
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id JAA13244; Tue, 18 Mar 1997 09:45:03 -0800
+Date: Tue, 18 Mar 1997 09:45:03 -0800
+Message-Id: <199703181739.JAA24693@sunatg3>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

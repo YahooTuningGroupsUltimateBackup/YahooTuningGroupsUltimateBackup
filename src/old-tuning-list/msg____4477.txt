@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Thu, 2 Jan 1997 16:35:45 -0800
+
+Subject: RE: Paul Erlich's "tonalness" algorithm
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Thanks to Brian for a fine summary of the historical developments in the 
+theory of pitch perception. I certainly agree that the issue is complex and 
+that we are very far from understanding the complexities of the ear-brain 
+system. However, this from Brian himself:
+
+>Among the three popular pitch theories only
+>the optimum processor theory [Goldstein's]
+ >is able to account for most of the data
+>[in] a quantitative sense.
+
+It is no coincidence that I chose to highlight, and cite results from, 
+Goldstein's work, and only mentioned Terhardt and Wightmann due to some 
+overall similarities between their theories. Goldstein's theory can be 
+viewed as a first approximation to the problem, to which corrections will no 
+doubt be added by more sophisticated theories. In trying to understand Van 
+Eck's work, I carefully studied Goldstein's paper and found that the form of 
+Goldstein's theory was strongly suggested by the data, and was not merely a 
+preconceived construct to which the data was fitted. This impressed me 
+enough to inspire a reconstruction and correction of Van Eck's procedure, 
+which is the "algorithm" I posted. It seems a simple enough construct to 
+merit consideration, especially where no reasonable alternatives are 
+apparant. Far too many writers on tuning, etc. interpret chords cavalierly 
+and end up unknowingly contradicting themselves. A first step is to 
+recognize that any SWNR interval will tolerate some mistuning. A second step 
+is to attempt a consistent description of how an arbitrary interval will be 
+heard. This is what I have done, and although refinements are no doubt 
+possible, much useful information can be gleaned from this model.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 3 Jan 1997 02:04 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01098; Fri, 3 Jan 1997 02:07:32 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01096
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id RAA14058; Thu, 2 Jan 1997 17:07:30 -0800
+Date: Thu, 2 Jan 1997 17:07:30 -0800
+Message-Id: <199701022005_MC1-E20-4A58@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Tue, 10 Oct 1995 23:57:03 -0700
+
+Subject: RE: midi files
+
+From: Brian Thomson <BrianT@post.emap.co.uk>
+
+If you need the standard MIDI File format, I would heartily recommend   
+"The File Formats Handbook" by Gunter Born, which has the format, as well   
+as that of WAV files, 1-2-3 files, etc. Published by Thomson (!) Computer   
+Press / ITP, 1995.
+
+It's also on the WWW at:
+http://www.ips.id.ethz.ch/~parish/midi/midi_file_format.txt
+
+The easy way of putting it is to describe a SMF as made up of "chunks" -   
+a header chunk with information about the file, followed by chunk after   
+chunk of MIDI information with the time of the event in clock cycles (as   
+taken against the timebase defined in the header chunk).
+
+Good Luck,
+
+Brian Thomson
+a.k.a Ban This Moron (anag.)  
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 11 Oct 1995 09:23 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id AAA12967; Wed, 11 Oct 1995 00:23:40 -0700
+Date: Wed, 11 Oct 1995 00:23:40 -0700
+Message-Id: <Pine.3.89.9510110708.B6845-0100000@monviso2.alpcom.it>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

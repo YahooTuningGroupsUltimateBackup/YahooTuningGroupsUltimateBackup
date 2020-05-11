@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Fri, 5 Jan 1996 11:44:25 -0800
+
+Subject: The Just Intonation Ear Trainer
+
+From: alves@osiris.ac.hmc.edu (Bill Alves)
+
+I have just completed a program called the Just Intonation Ear Trainer,
+which is like a standard interval drilling program, except that you select
+the intervals from Harry Partch's gamut. It uses the same sound driver as
+JICalc, written by K. Romana Machado, and thus shares its requirements and
+limitations: It is a HyperCard stack, meaning that it requires HyperCard or
+HyperCard Player version 2.0 or higher. It will only work on a Macintosh,
+and will not work on a PowerMac or a Performa with a PowerPC processor.
+
+I have currently attached it to my web page:
+
+URL:http://www2.hmc.edu/~alves/
+
+I have also attached a few sound samples to the web pages about my
+compositions, if you are inclined to explore further. There are samples in
+both aiff and wav formats.
+
+The Just Intonation Ear Trainer is shareware, meaning that I request that
+you send me $10 or a recording of original compositions in non-12TET if you
+find the program useful. You may also redistribute it and put it on ftp
+sites, but you may not sell it without my permission.
+
+I would be happy to hear any feedback, especially bug reports. I hope you
+find it fun and useful!
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)621-8360 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 5 Jan 1996 23:16 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA15650; Fri, 5 Jan 1996 14:16:09 -0800
+Date: Fri, 5 Jan 1996 14:16:09 -0800
+Message-Id:  <9601051417.aa28198@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

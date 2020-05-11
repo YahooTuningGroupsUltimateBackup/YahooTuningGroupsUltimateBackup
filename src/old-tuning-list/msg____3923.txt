@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Mon, 4 Nov 1996 16:25:35 -0800
+
+Subject: Kameoka & Kuriyagawa
+
+From: John Chalmers <non12@deltanet.com>
+
+K&K are Kameoka and Kuriyagawa. Their work differs from Plomp's
+and Levelts's in that they consider all possible pairs of partials and
+refer to a more complex model of perception based on Stevens's concept 
+of a prothetic continuum. Their algorithm entails a great deal more
+computation than P&L's and requires taking powers and roots with
+fractional exponents. However, the results are similar to those of
+the P&L algorithm -- pairs of partials within a critical bandwidth
+interact and are dissonant, SPL matters, and pitches more than
+an octave apart barely contribute to the overall "dissonance power."
+
+Whether it is more accurate than P&L's isn't known, but the latter 
+seems to work just fine in practice.
+
+Their principal paper is the one below; Part 1 dealt with sine waves 
+and the theoretical basis for their work. It immediately preceded this
+one in the same volume of JASA. They also published a couple of abstracts
+and some short summaries in Japanese. I have no idea what they are
+doing now or whether they continued this research, which was done at
+a company.
+
+Kameoka, A. and M. Kuriyagawa. "Consonance theory Part II: Consonance
+   of complex Tones and its calculation method", Journal of the
+   Acoustical Society of America vol. 45, 1968, pp. 1460-1469.
+   
+
+--John
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 5 Nov 1996 03:10 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00759; Tue, 5 Nov 1996 03:11:11 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00757
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id SAA09818; Mon, 4 Nov 1996 18:11:05 -0800
+Date: Mon, 4 Nov 1996 18:11:05 -0800
+Message-Id: <v02130502aea4492f13a4@[128.125.224.121]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

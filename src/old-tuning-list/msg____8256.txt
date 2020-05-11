@@ -1,0 +1,29 @@
+source file: m1476.txt
+Date: Wed, 15 Jul 1998 09:28:09 -0700
+
+Subject: Re: TUNING digest 1475
+
+From: "Marcus W. Hobbs" <marcus@fa.disney.com>
+
+if terry has a kyma, i have a tuning tool that will tune the ensoniq mr via
+sysex very nicely.  the toolimplements many of erv wilson's tunings, plus equal
+temperaments and ji scales.
+
+marcus
+
+> We received this question from Terry Riley by FAX at JIN HQ. Anyone here
+> have an answer?
+>
+> =============================================================
+> Dear Friends,
+> Hope all is harmoniously resonant with you down there in JI land. I am in
+> need of some help and perhaps I have come to the right place. I recently
+> purchased an MR Rack from Ensoniq and found out that the Unisyn software
+> that comes with it does not work for tuning the one RAM slot user tuning. I
+> understand now from Ensoniq that I need to get a shareware program that
+> sends MIDI standard tuning changes over Sysex. The program may be called
+> tuning wrench or MIDI wrench. Can you shed any light on this? Would like to
+> hear from you, if so.
+> Best wishes,
+> Terry Riley
+>

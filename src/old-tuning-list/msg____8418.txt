@@ -1,0 +1,44 @@
+source file: m1517.txt
+Date: Fri, 28 Aug 1998 12:21:31 +0530
+
+Subject: Drew, the village idiot ! (XG tuning tables)
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Damn, do I feel stupid.
+In my defense, I'm new to the intricacies of MIDI, and I've
+had the keyboard for less than a week.
+
+I said:
+>Actually, I believe Yamaha has fudged the terminology in the 
+>manual for the PSR-530. The MIDI Master tuning can in fact be  tuned
+>-100 cent to -100 cent. 
+>"...alows each individual note of the octave to be tuned over the 
+>range from -64 to +64 cents in 1 -cent increments (1 cent = 1/100th
+>of a semitone)."
+>
+>These are actually 64ths of a semitone, aren't they ?
+
+Well, I'm the one that did the fudging: I didn't check !
+It is Cents ! When I read all  that 1200/768 stuff, I assumed it meant
+that Yamaha's tuning table divided the 1200 cent octave into 768 parts
+of 64 steps each. Nyet ! Nein ! Non ! No ! 
+The -64 to +63 are actual cents divisions, an octave divided into 1200
+parts.
+The PSR-530 only allows a maximum deviation of -63 to+64 cents,
+with C#(-64) being equal to C(+36). I checked using
+
+But, then I guess y'all knew this already. Sorry for the wasted
+bandwidth.
+
+Oh yeah, and I think I've figured out the Sysex for ALL the pitch
+related 
+XG parameters in the PSR-530. Either that or I wasted an hour playing
+with
+Bin,Hex,& Dec. no.s. I'll check today. Anyone who wants them, drop me
+a line. 
+
+Yeah, John L., you're right ( I just read your message).
+ 
+Regards,
+Drew

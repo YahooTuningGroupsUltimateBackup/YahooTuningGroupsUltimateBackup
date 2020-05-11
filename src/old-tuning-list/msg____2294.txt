@@ -1,0 +1,111 @@
+source file: mills2.txt
+Date: Thu, 9 Nov 1995 15:44:02 -0800
+
+Subject: guitars, slides & harmonics - simple help wanted
+
+From: chad@cix.compulink.co.uk (Charles Dignes)
+
+In-Reply-To: <199511091619.IAA05972@eartha.mills.edu>
+Dear All,
+
+I have just returned from gigging in Istanbul, home of the 
+multi-fretted long-necked lute (saz et al.), still coughing the 
+cigarette-smog of 15million chain-smoking Turks out of my poor 
+old lungs, but happy and bearing fine spoils. I can report that 
+micro-tonalism is alive and well; I told my Gypsy friends about 
+you all and they said to send greetings. But Lachio!
+
+This + the many recent wild and whacky postings has inspired me 
+to take down my good old occidental 5-string open-tuned 
+acoustic guitar and play about with an old slide thing I found 
+some years back. 
+
+Seeing as how there be less mathematically-challenged folk out 
+there than myself, I was hoping one such kind person might be 
+able to help me with a couple of problems that have been 
+nagging at me for the last decade or so. 
+
+1. 
+Firstly, does anyone have an idea of the mathematical 
+expression (algorithm?) for the following:
+
+* Get acoustic guitar and slide.
+* Place slide at the octave, i.e. half-way point of the string, 
+strike both sides. Result = same note.
+* If you then move the slide up (or down) and continue to 
+strike both sides of the string, certain "nodes" emerge in 
+which with each side of the string harmonises, according to the 
+relationship - i.e. "perfect" third, fourth, fifth etc... 
+For example: if the string in question is a G, then going up 
+the neck towards the nut you will pass from:
+
+unison (g)  | (g) - at the half-way length of the string, to:
+octave (d') | (d) - at the third-way length of the string.
+
+Although many of these nodes are the expected ones, plenty are 
+"out" of the standard "g" harmonic series. For example, the 
+minor 3rd is near enough a quarter-tone and the 7th is 
+decidedly skew.
+
+Questions:
+Maybe people have been going on abut this under some other 
+name, if so what is this sort of harmonic collection called? 
+What is the mathematics of this as a whole series? Are there 
+any proper big compositions & works in this field of, I suppose 
+I'd call it "bifurcative-JI"? Is it possible to play this in 
+yet another plane (i.e have not 2 but 3 floating sliding points 
+in the frequencu spectrum)? Is this a bit like what Brian 
+McLaren is talking about with rhythm?
+
+2. 
+My second request is of a similar nature, but more practical 
+and applies to anyone who is interested in the visualisation of 
+fretless finger-stopping (as opposed to diagrams of music!), 
+who has a computer and means op generating waving nice wavy 
+patterns (sine, cosine will do). 
+
+I have this thing called a cümbüs (that's pronounced jumbush 
+with puckered lips for the u umlauts). It's about the hardest 
+animal I ever encountered but essentially it is a 12-string 
+fretless banjo. The neck is bolt-on and the fingerboard is made 
+of (if you please) a formica strip. Cheap & cheerful and the 
+best friend the hard-working 7-days-a-week, 5-hours-a-night 
+Istanbul Gypsy twangers have. Louder than an Ud, less of a loss 
+if drunken revellers are sick on it, have to be controlled etc. 
+Also good for cooking up some rice in.
+
+If I can provide the exact dimensions of the fingerboard, 
+tuning of strings, string scale length etc... can anyone knock 
+me up a nice wavy pattern that approximates the "tree of life" 
+design found on all the nice old bouzoukis? This is a 
+traditional sinuous curvy thing with vine leaf bits coming off 
+it. I have PC running MS things and access to Quark and other 
+bigger apps.
+
+Essentially I am looking for a visual aid to a fretless 
+fingerboard that I can cut into the fingerboard so I can 
+encourage myself to play other forms of tuning. I imagine 
+something a bit more modern than vine-leaves, lots of 
+super-imposed sine and cosine waves that produce nice, moire 
+patterns, super-imposed over standard, or JI or 14ET fretting 
+marks etc...
+
+Hoping this is of interest or at least germane to the current 
+(wonderful high level) of postings & discussion, and apologies 
+if not. All responses gratefully received.
+
+Lu 
+aka: chad@cix.compulink.co.uk
+London, UK
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 10 Nov 1995 04:23 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA25068; Thu, 9 Nov 1995 18:23:44 -0800
+Date: Thu, 9 Nov 1995 18:23:44 -0800
+Message-Id: <Pine.3.89.9511092005.A599-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

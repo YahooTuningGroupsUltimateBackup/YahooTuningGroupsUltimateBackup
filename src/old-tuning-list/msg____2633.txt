@@ -1,0 +1,97 @@
+source file: mills2.txt
+Date: Thu, 7 Mar 1996 08:01:36 -0800
+
+Subject: RE: Microtuning software
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+This is a crossposting from the Algocomp list:
+
+You wrote:
+
+>Date:     Wed, 28 Feb 1996 15:13 +0100
+>From: COUL@ezh.nl (Manuel Op de Coul)
+>To: algo-comp@serial.music.uiowa.edu
+>Subject:  Microtuning software
+>
+>A new microtuning program, Scala, enables microtonal scales, just
+>intonation scales, equal and unequal temperaments to be created and
+>manipulated in many different ways.
+>
+>It is an editor, librarian and analysis tool in one, which can also
+>save tuning dumps for various synthesizers in Standard Midi Files.
+>The documentation explains how the program is used but not all
+>theoretical concepts.
+>
+>It runs on DOS (386+), VAX/VMS and Unix computers.
+
+Any plans to port the software to MacOS?
+
+90% of the MIDI studios in the U.S. are Macintosh based so it would seem to
+be more widely applicable if yur program was available on the Mac OS.
+
+- Kent
+
+Kent Devereaux
+Evanston, Illinois, USA
+kentd@mcs.com
+
+-----------------------------------
+
+I'm afraid there are no plans to port the software to MacOS. Scala is
+written in Ada, which makes the program very easily portable, but sad
+enough there is no decent Ada compiler for the Macintosh, at least not
+at the moment. So, the more people tell to Apple to fund and support
+development of an Ada compiler, like it funded porting of Linux, the
+better.
+On the other hand, there is a joint venture currently underway to port
+the GNAT Ada95 compiler to the Macintosh (running Machten UNIX).
+Delivery of both 68k and PowerPC versions is expected in the third
+quarter of 1996. The GNAT compilers are for free. More details via
+email at: gnat-mac@lists.csn.net . 
+When the compiler is available someone else is welcome to do the port, 
+since I don't own a Mac myself, but I'm willing to support the effort.
+However I don't know if any MIDI studios use Machten UNIX.
+
+It's possible to run Scala on a PC, and still use the files on a Mac.
+The scale files are just ASCII files, and the tuning dumps are
+standard MIDI files with system exclusive messages. Keyboard mappings
+(scale degrees to MIDI note numbers) are also ASCII files. 
+JICalc's scale model is less flexible than Scala's but with a text
+editor or a program it should be possible to change most Scala files
+with just intonation scales into files readable by JICalc. A difference 
+is that JICalc has the keyboard mapping as a header inside the scale 
+files, and Scala has them as separate files.
+
+If someone is interested in some of the algorithms in the program,
+they can contact me for (well readable) source code.
+
+This is an overview of the help items:
+
+ADD        APPEND     APPROXIMATE           CALCULATE  CATALOGUE  CD
+CLEAR      CLOSE      COMPARE    CONVERGENTS           COPY       CPS
+DELETE     DIFFERENCE DIRECTORY  DIVIDE     DOUBLE     ECHO       EGALIZE
+EQUALTEMP  EUCLID     EULERFOKKER           EXCHANGE   EXIT       FAREY
+FILE       FIT        FLIP       HARMONIC   HELP       INPUT      INSERT
+INTERSECT  INVERT     ITERATE    KEY        LATTICE    LIMIT      LOAD
+MERGE      MODE       MOS        MOVE       MULTIPLY   PAUSE      PERMUTE
+PIPEDUM    POLYNOMIAL POP        PRODUCT    PROJECT    PUSH       PYTHAGOREAN
+QUANTIZE   RATIO      REDUCE     REMOVE     REPLACE    REVERSE    SAMPLE
+SAVE       SEED       SELECT     SEND       SET        SHOW       SORT
+SPAWN      SQUARE     STRETCH    SUBTRACT   SWAP       SYMMETRIZE TEMPERAMENT
+UNIQUE     VARY       @          $          %          !          ?
+About...   Commands   Interruption          Pitches    Qualifiers Screen
+Startup    Storage_Error
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 7 Mar 1996 17:44 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA18565; Thu, 7 Mar 1996 08:44:16 -0800
+Date: Thu, 7 Mar 1996 08:44:16 -0800
+Message-Id: <960307114240_162592992@mail04.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

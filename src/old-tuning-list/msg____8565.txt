@@ -1,0 +1,38 @@
+source file: m1543.txt
+Date: Sat, 3 Oct 1998 13:11:36 -0500
+
+Subject: beats me
+
+From: sethares@eceserv0.ece.wisc.edu (William Sethares)
+
+Paul Erlich wrote:
+
+>Bram, I don't think you're understanding the phenomenon of beats...
+
+There are really two kinds of "beats" being discussed: one is a 
+physical wave phenomenon and the other is a psycho-acoustic 
+phenomenon.
+
+The physical kind is what you get when you have (say) two sine 
+waves of slightly different frequencies sounding at the same time. 
+The result is a wave with frequency at the average of the two and an 
+amplitude envelope whose frequency is the difference of the two. 
+Thus (for example) a sine with frequency 100 Hz and another with 
+frequency 101 Hz when sounded together appear to be a single wave 
+at frequency 100.5 Hz with a beat rate (amplitude modulation) of 1 
+Hz. This is the kind of beating that Bram is (I think) trying to cancel 
+by adding back in appropriately chosen waves. This is also the kind 
+of beating that Ed Foote is listening to when he tunes a pair of piano 
+strings. 
+
+The second kind of beating is what happens inside the ear, and is 
+closely related to difference frequencies that arise due to 
+nolinearities in the ear-brain complex. This is a more subtle 
+phenomenon usually associated with high amplitude sounds, and 
+clearly cannot be readily "cancelled out" by adding in other sinusoids, 
+if only because it cannot be measured outside of the ear itself.  
+
+I see no theoretical reason why Bram's suggestion shouldn't be do-
+able. But whether you can actually measure the waves, do the 
+calculations, and output the appropriate beat-cancelling sound in real 
+time -- may be tricky.

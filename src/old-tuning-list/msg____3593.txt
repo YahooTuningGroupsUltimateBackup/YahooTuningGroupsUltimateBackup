@@ -1,0 +1,105 @@
+source file: mills2.txt
+Date: Tue, 10 Sep 1996 15:08:22 -0700
+
+Subject: What is consonance?
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Gary Morrison's observations, and some chords that Harold Fortuin omitted 
+from consideration, lead me to review some basics about the psychoacoustics 
+of consonance.
+
+There are two, somewhat separable components to the sensation of consonance 
+(relative consonance, as opposed to dissonance). One is roughness, which has 
+a negative effect on perceived consonance. This is a phenomenon that occurs 
+when two or more partials are closer in pitch than the critical bandwidth. 
+Beating is a companion phenomenon to roughness, but the rate of beating is 
+not a good measure of the amount of roughness. A constant level of roughness 
+will imply higher rates of beating as the pitch of the stimulus increases. 
+In many studies with tones with inharmonic spectra, roughness is far and 
+away the more important determinant of consonance/dissonance judgments.
+
+The other component is tonalness, which is positively related to perceived 
+consonance. It is the degree to which all the partials approximate a single 
+harmonic series. As has been discussed, the origin of this sensation is 
+complex and includes the phenomena of virtual pitch (which replaces a bunch 
+of partials with a best-fit fundamental and a timbre), combination tones 
+(artifacts of nonlinear distortion in our ears or in the sound-creating 
+mechanism), virtual pitch of combination tones and roughness of combination 
+tones. The relative importance of this component is clearly not a constant 
+but dependent on pitch level, volume level, etc.
+
+Gary Morrison's observations make some sense when these two components are 
+viewed individually. Here's another example which I find musically useful 
+and clears up some of the misconceptions about "undertones."
+
+In my favorite tuning of 22-tET, a dominant ninth chord might be tuned 0 4 7 
+13 18 22 26. This approximates the just chord 8:9:10:12:14:16:18. Play this 
+chord in a moderately low register, and use a harmonic timbre. Now try 
+another dominant ninth chord, tuned 0 4 8 13 19 22 26. This approximates 
+what Harry Partch would call a "utonal" chord, with frequencies 
+1/18:1/16:1/14:1/12:1/10:1/9:1/8. Play this in the same register, and with 
+the same timbre, as the first chord. Which is more consonant? In one sense, 
+the first chord is more consonant; play it real loud (or with distortion) 
+and there will be no question. All the partials are within a single harmonic 
+series, plus or minus nine cents. But there is another, quite audible, sense 
+in which the second chord is ever-so-slightly more consonant. Observe that 
+the two chords contain exactly the same intervals. The difference is that 
+the smallest and most out-of-tune interval, 3/22 oct. (approximating a 
+10/9), is in a higher register in the second chord. This interval 
+contributes quite a lot of roughness to the chord, but the critical 
+bandwidth is wider in low registers, so putting the interval in a lower 
+register creates more roughness. This fact should be familiar to students of 
+orchestration.
+
+The second chord, though consonant in a certain sense, does not conform to a 
+harmonic series. The simplest integral representation of this chord is 
+280:315:360:420:504:560:630. This is far beyond the range understood by our 
+virtual-pitch mechanism, as it corresponds to notes in the 8th-9th octave of 
+the harmonic series. There is no need to invoke an undertone series to 
+explain this chord, though; as we have seen, all the intervals here are 
+fairly simple and the roughest interval is in a high register. But if the 
+chord has nothing to do with a harmonic series, does that make it atonal?
+
+Well, the determinant of the perceived root of a chord, other than the 
+lowest note in a particular voicing, is the virtual pitch sensation. It 
+operates perfectly well in the presence of distracting stimuli. Since the 
+simplest harmonics are usually the loudest, it is not surprising simple 
+ratios will be the most important for the virtual pitch phenomenon. Remember 
+that powers of 2 are octave-equivalent to the virtual pitch. A 3/2 (perfect 
+fifth) above the lowest note will greatly enhance the perception of the 
+lowest note as the root, while a 4/3 (perfect fourth) will destroy it. In 
+the absence of a perfect fifth, a 5/4 (major third) will enhance, and an 8/5 
+(minor sixth) will destroy, the rootedness of a chord.
+
+However, in this case we don't need to go that far, since both chords have a 
+3/2 above, and no 4/3 above, the lowest note. Therefore, the root of both 
+chords is well-defined, though it is certainly better-defined in the first 
+chord. To wit: if the lowest note, and the note a 2/1 (octave) higher, is 
+removed from both chords, the perceived root of the first chord remains the 
+now-missing note, while that of the second chord becomes quite ambiguous. 
+Transposing the note designated as 13/22 oct. or 1/12 (formerly 3/2 above 
+the lowest note) down a 2/1 makes it into the new root, since a 3/2 above it 
+occurs at the note 4/22 oct. or 1/16. Thus it is not atonal in that it has a 
+clear root, although it has at least one other potential root that can be 
+expressed through omission and octave-shifting.
+
+To my ears, this second chord can be as useful to 9-limit harmony as the 
+minor triad is to 7-limit harmony, though more care may be required in 
+voicing, tuning, and orchestrating it. The complexity of its integral 
+representation signals that any combination tones will serve to turn this 
+chord into mush. But consonant it is, in a certain sense.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 11 Sep 1996 07:27 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13081; Wed, 11 Sep 1996 07:29:28 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA12775
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA28860; Tue, 10 Sep 1996 22:29:26 -0700
+Date: Tue, 10 Sep 1996 22:29:26 -0700
+Message-Id: <v01540b17ae5bfcab2c72@[131.172.160.53]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

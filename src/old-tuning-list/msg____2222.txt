@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Tue, 31 Oct 1995 09:05:31 -0800
+
+Subject: Thanks! + MR-Rack MTS
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+>Brian says:
+>Ensoniq builds reliable products.  They sound pretty
+>good.  Other companies have flashier technology,
+>but Ensoniq's synths sound about as excellent as
+>anything out there. 
+
+*Blush* thanks so much!  I actually had nothing to do with the ASR-10 since
+I haven't been here that long, and have passed this message along to Bill
+Mauchly and the others who made it what it is today.  
+
+While I'm here though, there's a new synth we've just announced called the
+MR-rack, which is the first synth shipped with my Midi Tuning Standard
+implementation.  Both the bulk dump and note-change messages are supported,
+and the product's been tested with JICalc on the Mac and Midi Tuning Wrench
+under Windows.  These messages affect a single user tuning table in RAM.
+Thanks to David Doty and Carter Scholz for assistance and feedback during
+its development.  The only bad news is that the ASR-10 can't get an MTS
+retrofit.  
+
+One area which has been crying out for the note-change ability is the middle
+east.  The keyboards there have a series of buttons which tune the
+corresponding note down a preset interval.  We hope to have third-party
+support for this later in the year.
+
+
+regards,
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 31 Oct 1995 19:51 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA05606; Tue, 31 Oct 1995 09:51:52 -0800
+Date: Tue, 31 Oct 1995 09:51:52 -0800
+Message-Id: <199510311751.JAA05456@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

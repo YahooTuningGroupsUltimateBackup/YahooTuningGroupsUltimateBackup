@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Sat, 11 Nov 1995 13:39:20 -0800
+
+Subject: Re: The smallest LCM 3-octave, 36 note JI scale.
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+I believe that LCM is the usual mathematical abbreviation for "Least Common
+Multiple".  Marion and probably others use that as an indicator of the overall
+harmonic complexity of a chord.  The lower the LCM, the simpler the chord.  
+
+   For example, the least common multiple of 4, 5, and 6 is 60.  That's the
+smallest number that is an even multiple of all three (4x15=5x12=6x10=60).  So
+that major triad voicing would be equally complex harmonically as a 10:12:15
+minor triad (LCM is also 60), even though its numbers are somewhat higher on the
+whole.  
+
+   Some on the list have disputed whether LCM is the best measure of harmonic
+complexity.  Personally, it strikes me as a reasonable rule-of-thumb, although I
+haven't personally compared it with other possibilities.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 12 Nov 1995 06:00 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id UAA02660; Sat, 11 Nov 1995 20:00:29 -0800
+Date: Sat, 11 Nov 1995 20:00:29 -0800
+Message-Id: <199511120358.WAA19511@freenet3.carleton.ca>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

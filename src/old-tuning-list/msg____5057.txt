@@ -1,0 +1,76 @@
+source file: mills2.txt
+Date: Tue, 11 Mar 1997 21:07:01 -0800
+
+Subject: crystal sounds
+
+From: William Sethares <sethares@eceserv0.ece.wisc.edu>
+
+In yesterdays digest, Ray Tomes asked me to clarify some about the
+techniques used in the "Sound of Crystals" article...
+
+..can you please explain how you determined what frequencies to
+play at what time.  I imagine that the crystal output (slowed down) 
+is a bit like sitting on the keyboard and staying there so you need a 
+way to seperate the notes.
+
+There are many ways that one can utilize spectra (such as that of
+the morphine cyrstal) to generate sound. The two techniques that I 
+have explored are:
+
+(1) using the spectrum to define a single "sound" -- in this approach I 
+generated about 2 seconds of sound by mapping the x-ray 
+frequencies into audio frequencies. This was then transferred to a 
+sampler, and played like any other sampled sound, in any desired 
+tuning.
+
+(2) using the spectrum to define a "scale" -- in this case, each x-ray 
+frequency of the crystal is mapped to a separate key of the keyboard 
+(and of course, also mapped down into the audio range). Using a sine 
+wave sample then allows the "complete" sound to be played by 
+pressing all the keys simultaneously. 
+
+Thus, in both cases, I "composed" the pieces by improvising on the 
+keyboard. In the first case the crystal provides the basic "sound" 
+while in the second case it provides the "tuning". 
+
+Greg Taylor then said some nice things (blush) and continued...
+
+Just out of curiousity, what other XRD stuff sounded interesting? 
+Can one generalize? I wouldn't mind trying to map an essential 
+oil like Melissa, which I could then collide with the Allman 
+Brothers tune of the same name....
+
+Well, our original idea was to try and develop a kind of "auditory 
+crystallography" in which you might use the ear to hear patterns in 
+the x-ray diffraction data that the eye doesn't readily see. What we 
+ended up with was a way of generating some interesting sounds (and 
+scales, I suppose). The problem was that we were never really able 
+to convince ourselves that we could reliably distinguish the sounds of 
+various materials. Of course, every substance sounded somewhat 
+different, but the differences weren't something that was easy to 
+describe or remember. So, sorry Greg. We were never able to discern 
+any real patterns in how various materials sounded, nor were we 
+able to generalize enough to predict if something would sound 
+"interesting" (whatever that means) or not. Thus, it would be 
+impossible to predict if linguistic similarities (like your oil and an 
+Allman Brothers song) would be acoustically compatible. Nor even if 
+the sound of oil would be slick.
+
+[The other, perhaps larger issue that still remains largely unexplored 
+is the issue of the effect of details of the mapping. I once started a 
+paper on this, but never finished].
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 12 Mar 1997 13:53 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03054; Wed, 12 Mar 1997 13:53:36 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03050
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id EAA03231; Wed, 12 Mar 1997 04:51:56 -0800
+Date: Wed, 12 Mar 1997 04:51:56 -0800
+Message-Id: <3326A70B.1AD2@cavehill.dnet.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

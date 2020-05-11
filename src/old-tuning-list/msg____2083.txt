@@ -1,0 +1,264 @@
+source file: mills2.txt
+Date: Sat, 30 Sep 1995 09:09:50 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & Psychoacoustics - post 7 of 25
+---
+We've seen that three competing theories
+of pitch perception have tried to explain
+the ear-brain system since the middle
+of the 1840s.  No one model accounts
+for all the ear's behaviour, and some evidence
+contradicts each hypothesis.
+"Protagonists of both place and time theories
+point out how small the detectable limits are
+when translated into the terms of the other theory.
+Temporal [i.e., periodicity] theorists point out that a frequency
+discrimination limen of 3 Hz at 1 Khz corresponds
+to a shift in the pattern of excitation on the basilar
+membrane of 18 microns, or the width of 2 hair cells.
+Place theorists point out the that the same limen
+corresponds to a time discrimination of 3 microseconds,
+as against some 1000 microseconds for the width of a
+nerve action potential, and a variability of some hundreds
+in its intiation.  (..) There are several lines of evidence
+for and against these two theories, none of which is
+conclusive." [Pickles, James O., "An Introduction to
+the Physiology of Hearing," Academic Press, 2nd.
+ed., 1988, pp. 271-272.]
+At this point it's instructive to step back
+and recall that all cultures are conceptually
+limited by their experience.  The Cargo Cult
+of the South Seas Islands during WW II arose
+because the islanders fitted B-17s into
+their experience as godlike birds from
+a supernatural realm.
+In the same way,  the most sophisticated
+means of frequency analysis available to
+Helmholtz was a set of tuned glass resonators.
+By putting his ear to these globes, he could hear
+a particular resonant frequency amplified out
+of a complex harmonic timbre.  So it was
+natural for Helmholz to model the ear/brain
+system as a set of millions of tuned
+resonators.
+As technology advanced during the late 19th
+and early 20th century,  high-precision machine
+tools became available.  So it was natural for
+von Bekesy & others to model the ear/brain system as
+a precision machine for performing mechanical
+Fourier transforms of complex harmonic sounds.
+[For more details on these hypotheses, see:
+Helmholtz, "On the Senations of Tone," 1863;
+Plomp, R. "The ear as a frequency analyzer," JASA,
+1964, vol. 36, pp. 1628-1636;  Boomsliter & Creel,
+"The Long Pattern Hypothesis of Pitch and Harmony,"
+Journ. Mus. Theory, Vol. 5, 1961, p. 1-12; von
+Bekesy, G. "Concerning the Fundamental Component
+of Periodic Pulse Patterns and Modulated Vibrations
+Observed on the Cohlaer Model with nerve Supply,
+JASA, Vol. 33, 1961, ppg. 888-896; von Bekesy,
+"Three Experiments Concerned with Pitch
+Perception," JASA, Vol. 35, pp. 602-606, 1963;
+von Bekesy, G. "Hearing Theories and Complex
+Sounds," JASA, Vol. 35, pp. 588-601, 1963;
+Licklider, J.C. R. : "Periodicity Pitch and Related
+Auditory Process Models," Intern. Audiol. Vol. 1,
+pp. 11-36, 1962.]
+ Then  in the 1940s and 1950s computers became
+available, and with them software.
+So it became natural for modern researchers to
+model the ear/brain system as a combination
+of hardware and software, with software
+performing the crucial functions of pitch
+detection, perception of consonance, dissonance,
+etc.  Thus we now see papers like: Goldstein, J.R.
+ "An optimum  processor theory for the central formation of the
+pitch of complex tones," JASA, 1973, Vol. 54, pp.
+1496-1616; Wightman, F. I. "The pattern-
+transformation model of pitch," JASA, 1973,
+vol. 54, pp. 407-416.
+So what do we have?
+Quite possibly, a series of cargo cults.
+ The ear/brain system is viewed
+by each era in terms of the most convenient
+available paradigms, regardless of whether
+those paradigms are actually appropriate.
+In an interview with Curtis Roads, Max Mathews
+summarized all 3 theories of hearing with
+typical elegance and pith: "In a book first published
+in 1863, Helmholtz proposed that dissonance
+arises from unpleasant beats between partials
+whose drequencies are too close together. [4] The
+octave is the most consonant of intervals because
+all of the partials of the upper coincide in frequency
+with partials of the lower tone. (...) Rameau had
+another view of harmony. [6] He observed that
+in a major triad all frequencies present are integer
+multiples of a basse fundamentale or fundamental
+bass which, in the root position of the chord (C, E, G)
+lies two octaves below the root of the chord. (...)
+But, one might hold that musical harmony is merely
+a matter of brainwashing; that we accept combinations
+of tones that we have been taught are correct, and
+reject those that we have been taught are incorrect.
+We have some experimental evidence that bears on
+this." [Mathews, M. and Pierce, J.R. "Harmony and
+Non-Harmonic Partials," Rapports IRCAM, 1980, pp. 3
+-5]
+The above passage describes clearly the 3
+different competing hypotheses of hearing
+still competing even today: namely,  [1] that
+the ear is a frequency-domain Fourier analyzer;
+[2] that the ear is a time-domain autocorrelator;
+[3] that the ear/brain system uses a learned
+neural net system of pitch/interval recognition
+and consonance/dissonance classificiation.
+The contradictory results of experiments on
+pitch sensation lead to the conclusion that
+some aspects of all of these 3 models of human
+hearing bear some relation to the ear/brain
+system's actual operation.  However, because
+some of the experimental results are contradicted
+by each of these 3 models of hearings,  it
+is inescapably clear that under various
+circumstances one or more of these ear/brain
+hearing systems becomes dominant, and in
+some cases (particularly in the case of
+auditory illusions) all 3 of the ear/brain
+systems can clash and yield conflicting
+results.
+These  3 separate hypothetical mechanisms
+for processing  both vertical and horizontal
+(sequential) pitch are: [1] a frequency-based or
+Fourier analysis system; [2] a time-based or
+autocorrelative system; [3] ear/brain "wetware"
+that includes a strong learned component,
+and which is capable of actively filtering
+out auditory information, creating illusory
+auditory information, and transforming some
+or all of the information conveyed from the
+basilar membrane and the hair cells  to the auditory
+nerve, and from there into the Sylvian fissure,
+the superior medial olive and the geniculate
+nucleus--all areas in the brain responsible
+for dealing with aspects of auditory perception.
+This last point is important, because it is now
+known that musicians and non-musicians use
+different brain centers when hearing the same
+music.  Musicians show glucose metabolism
+primarily in the left brain when listening to
+music, while non-musicians show glucose
+metabolism both brain hemispheres.
+These PET scan results offer strong
+confirmation of the third model of hearing--
+what Mathews and Pierce call the "brainwashing"
+hypothesis, the model of hearing as molded by
+learned response (first put forward by Fetis and
+Alexander J. Ellis in the middle of the 19th century).
+While the Fourier analysis model of the ear/brain and
+the autocorrelative (or periodicity pitch) model
+have been extensively documented, what
+about experiments documenting the "wetware"
+component of the ear/brain system?
+Auditory illusions provide strong evidence
+for this hypothesis of the ear/brain
+system: Shepard, R. N., "Circularity in
+judgments of relative pitch," JASA, 1964,
+vol. 36, pp. 2346-2353; McAdams, S.
+and Bregman, A. "Hearing Musical Streams,"
+Computer Music Journal, 1979, Vol. 3,
+pp. 26-44; Locke, S. and Kellar, L., "Categorical
+percpetion in a non-linguistic mode," Cortex,
+Vol. 9, 1973, pp. 355-369; Cohen, A. "Inferred
+sets of pitches in melodic perception,"
+In R. Shepard, Cognitive structure of musical
+pitch," symposium presented at the meeting
+of the Western Psychological Association, San
+Francisco, CA, April 1978; Burns, E. M. and
+Word, W. I., "Categorical perception--phenoneon
+or eiphenomenon: Evidence from experiments
+int ehperception of melodic musical intervals,"
+JASA, 1978, vol. 63, pp. 456-468; Blcehner,
+M.J. "Musical Skill and categorical perception
+of harmonic mode," Status Report on Speech
+Perception, SR-51/52. New Maven, Connecticut,
+Haskins Laboratories, 1977, pp. 139-174;
+Balzano, G. J., "Musical versus psychoacoustical
+variables and their influence on the perception
+of musical intervals," Bulletin of the Council
+for Research in Music Education, 1981; Bachem,
+A. "Tone Height and tone Chroma as two different
+pitch qualities," Acta psychogica, 1950, vol.
+7, pp. 80-88; Moreno, E., "Expanded Tunings in
+Contemporary Music: Theoretical Innovations and
+Practical Applications," Vol. 30, Studies in the
+History and Interpretation of Music, The Edwin
+Meller Press, Lewiston: 1992; Moreno, E. "The
+Existence of Unexplored Dimensions of Pitch:
+Expanded Chroma," Proc. ICMA, 1992, pp. 404-405;
+Pierce, J.R. "Attaining Consonance in Arbitrary
+Scales," JASA, 1966, pg. 249;  Butler, J. W. and
+Daston, P. G., "Music Consonance as Musical
+Preference: A Cross-Cultural Sutdy," Journ. of Gen.
+Spcyh.., 1968, vol. 79, pp. 129-142; Hutchinson,
+W. and Knopoff, L., "The Acoustic Component of
+Western Consonance," Interface, Vol. 7, 1978,,
+pp. 1-29; Watkins, A. J., "Perceptual Aspects of
+synthesized approximations to Melody," JASA,
+Vol. 78 No. 4, 1985, pp. 1177-1186; Pikler, A. G.,
+Mels and Musical Intervals," Journ. Mus. Theory,
+Vol. 10, 1966, pp. 288-298; Risset, J-C., "Musical
+Acoustics,"  Rapports IRCAM 1978, pp. 7-8.
+Why are these 3 models of ear/brain function
+important to musicians in the real world?
+They're of crucial concern to microtonalists because
+if the place theory is right, then just intonation is
+the ideal tuning.  If the periodicity theory is the
+correct description of how the ear hears, then
+many tunings are acceptable provided that the
+interval between the fundamental and the first
+partial, and twix each subsequent pair of partials,
+is larger than the critical band at that frequency.
+As Pickles points out, the periodicity theory does
+*not* offer support for conventional Western
+musical practice: "It might be thought that the
+pleasant consonance of simple musical intervals
+depends on the simple relations between their periods,
+resulting in synchronous nerve firing.  However,
+once it is realized that most musical notes are
+rich in overtones, and that consonance might depend
+on a lack of beats between the harmonics, the
+argument cannot be used to support the importance
+of time information." [Pickles, James O., "An Introduction
+To the Physiology of Hearing," Academic Press, 2nd ed.,
+1988, pg. 274]
+On the other hand, if Fetis/Ward/Burns' "pattern
+recognition" hypothesis of the ear as a pliable active
+feedback system molded by learned response is the true
+picture of human hearing, then *any* type of tuning is
+acceptable.  After a while, the listeners will
+become acculturated and learn to accept *any*
+arbitrary interval as "consonant" or "dissonant."
+And what if elements of all three models are
+at work in the ear/brain system?
+In that case, the implications for musical tuning
+are more complex--a situation which will be
+considered in the next post.
+--mclaren
+&
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 1 Oct 1995 02:44 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA20743; Sat, 30 Sep 1995 17:43:51 -0700
+Date: Sat, 30 Sep 1995 17:43:51 -0700
+Message-Id: <9510010034.AA17220@us2rmc.zko.dec.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

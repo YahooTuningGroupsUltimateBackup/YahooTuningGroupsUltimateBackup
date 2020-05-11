@@ -1,0 +1,42 @@
+source file: m1493.txt
+Date: Tue, 4 Aug 1998 09:18:06 -0500 (CDT)
+
+Subject: Re: cents to frequency
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Tue, 4 Aug 1998, Mark Wilkes wrote:
+> I'm looking for a formula which will let me convert from cents to hertz.
+> Any ideas?
+
+First of all, cents are a measure of interval size, which is to say a
+frequency _ratio_, while Hertz are a measure of absolute frequency.
+While we often use intervals and notes almost interchangably on the
+list, it's understood that you would multiply the interval by whatever
+the frequency is of the note you're using as your 1/1 or keynote.
+
+That said, cents are just the log, base 2, of an intervals (frequency
+ratio) times 1200.  So to go the other direction, just divide by 1200
+and take the antilog base 2.  Of course, most calculators don't do
+logarithms in base 2, only base e and base 10 (natural and common log).
+So before you take the antilog you have to multiply by the log of 2 in
+the same base to get the right answer.
+
+Example: to convert 386 cents to a frequency ratio, divide 386 by 1200,
+getting 0.321666...  Multiply by the log of 2--I'll use natural logs, so
+the natural log of 2 is 0.693147...; multiplying that with the previous
+number gives 0.2229623...  Then taking the antilog of that (base e
+again--don't switch to common log now, or it'll screw stuff up!) gives 
+1.24977..., which is very close to 1.25 or the frequency ratio of 5/4
+that we all know 386 cents approximates.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>
+
+------------------------------
+
+End of TUNING Digest 1493
+*************************

@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Fri, 3 Jan 1997 15:06:32 -0800
+
+Subject: CPS & Euler question
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+Answer:
+
+A good source of information on Euler genera is R. Rasch's anthology of
+works by Adrian Fokker.
+The Euler notation describes the maximum distance on a lattice.
+For example,  3^2 for Euler would contain _three_ tones: 1, 3, 3^2 ;  3*5
+would contain 1,3,5,3*5 etc.
+
+If 2 is the largest exponent, second-degree would make sense as a label;
+
+As to the CPS, I would call m, ''number of factors'', and n ''set of
+available factors''.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 4 Jan 1997 04:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00943; Sat, 4 Jan 1997 04:13:55 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00941
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id TAA04059; Fri, 3 Jan 1997 19:13:52 -0800
+Date: Fri, 3 Jan 1997 19:13:52 -0800
+Message-Id: <memo.5627@cix.compulink.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

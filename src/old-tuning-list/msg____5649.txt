@@ -1,0 +1,197 @@
+source file: mills2.txt
+Date: Tue, 17 Jun 1997 09:07:17 +0200
+
+Subject: ScaleCoding confusion (fwd)
+
+From: Charles Lucy <lucy@ilhawaii.net>
+
+---------- Forwarded message ----------
+Date: Wed, 21 May 1997 23:31:14 -1000 (HST)
+From: Charles Lucy <lucy@lehua.ilhawaii.net>
+To: Bill Alves <alves@orion.ac.hmc.edu>
+Subject: ScaleCoding confusion
+
+Bill;
+ 
+I appreciated your interesting and thoughtful posting about your 
+coding of modes and scales, yet I see the possibility of confusion 
+arising between our two different systems.
+ 
+In about 1989, John Gibbon, Jonathan Glasier, and I, worked together
+to design a scalecoding system, and publicized it fairly widely 
+amongst musicians and music academics. The paper follows. I feel 
+confident that you will agree that the system covers all and 
+every contingency for analysing synthesising and coding modes and 
+scales from a chain of fifths perspective.
+ 
+The unfortunate similarity of our systems, is that your notation 
+uses the same numerical pattern that we used.  
+(3 sets of digits separated by '/')
+ 
+i.e. xx/yyy/z
+ 
+In our case the "x" is the number of steps in the chain
+                "m" is the position(s) of the missing steps 
+                "T"  is the "tonic" or "lowest note".
+ 
+In your case "x" is the number of pitches in the tuning system
+             "y" is the number of pitches in the subset
+             "z" is the number of commonly used auxiliary tones
+ 
+As we have both used the forward slash to separate the groups of 
+digits, the unwary reader could be confused.
+May I suggest that one of us use a different separator to avoid this,
+or that we always attach our respective names to the coding to
+clarify the possible ambiguity.
+ 
+The difficulty that I have is that there are already in excess of 
+10,000 copies of the LucyTuning scalecoding document in circulation from
+printed pamphlets, internet fileservers, and downloads over the
+last seven or so years. It is also used and explained in the 
+"LucyTuned Lullabies (from around the world)" booklet.
+ 
+BTW Bill; If you would be good enough to send me a snail address,
+I'll ship you a copy of the Lulls cassette plus booklet.
+ 
+ 
+File on scalecoding follows:
+ 
+SCALEMAKING - Analysis, Synthesis, and Coding
+ 
+by Charles E. H. Lucy 
+copyright 1990 & 1994
+This is an extract from "Pitch, Pi, and Other 
+Musical Paradoxes,
+(A Practical Guide To Natural Microtonality)" - 
+ISBN 0-9512879-0-7
+ 
+You may think of scalemaking as some sort of esoteric 
+musical alchemy. This is near the truth, for as with alchemy
+the intent may be to transmute something of little value into gold. 
+This may be in the form of a valuable piece of music. The process, 
+like chemistry, may be approached from two opposite directions: 
+starting from an existing scale and by analysis breaking it down 
+to its constituent parts to discover how it works, or by synthesis 
+constructing a scale using some form of recipe.
+ 
+First a few definitions:
+ 
+A scale is a series of notes which are used in a piece of music. 
+These may be identified by their musical names using the letters 
+A through G. Each of these letters may also be followed by any 
+number of sharp or flat symbols. For example the notes 
+D-E-F-G-A-B-C-D make a scale of D minor
+Any scale may be transposed by changing the starting note which 
+will change the other note names and the key signature. If we 
+flatten all the notes of the scale of D minor by one Large 
+interval from D to C, we create a scale of C minor 
+C-D-Eb-F-G-A-Bb-C and the key signature now has two flats 
+(Bb and Eb). Our two examples here have shown us two scales, 
+D minor and C minor, which both use the same mode. This mode of 
+L-s-L-L-L-s-L is known as the minor, Dorian or Kafi mode. 
+The name is dependent upon whether you are using the English, 
+Greek or Indian names for the mode. 
+ 
+A Mode is a sequence of intervals, which may be defined by 
+Large and small intervals. The sequence for the two minor
+ scales used in the examples above are both L-s-L-L-L-s-L, 
+which we described as the minor mode. This sequence of 
+intervals added together gives a total of five Large and 
+two small intervals, which gives us one octave. We can 
+therefore consider this pattern as circular. That is it 
+ends on the octave note above where it started. Using this 
+same circular sequence we could start it at any point and 
+each of the seven starting points gives us another mode. 
+In this case we can make all the Greek modes using this sequence, 
+which are the basis of Western music and harmony. These seven 
+different notes are contiguous on the spiral of fourths and fifths, 
+and arranged in pitch ascending order, give us a megamode. 
+This is the circular pattern from which the seven Greek modes 
+are derived. 
+ 
+A Megamode is a circular sequence of intervals from which modes 
+are derived. The megamode of seven contiguous positions on the 
+spiral of fourths and fifths produce all the Greek modes. We 
+could describe this as an expanse of six steps which contains 
+seven notes. There is a comparable megamode of four steps which 
+produces five contiguous notes and generates five pentatonic scales.
+ 
+ 
+1. List all the different notes which are used in the piece 
+regardless of octave.
+ 
+2. Arrange the note names in order of fourths (flats) in one 
+direction and fifths (sharps) in the other, leaving blank spaces 
+where notes are missing.
+[Sequence ascending in fifths is: 
+Bbb Fb Cb Gb Db Ab Eb Bb F C G D A E B F# C# G# D# A# E# B# F## C## etc.]
+ 
+The fifth may be considered as the dominant, and the fourth as the 
+sub-dominant.
+ 
+3. Count the total number of steps between the fourthmost (flat) and
+fifthmost (sharp) note. This is the extent of the string, or chain of
+fourths/fifths (x).
+ 
+4. List the missing notes. Identify them by numbering the flatmost 
+as 1 and the following as ascending numbers moving through fifths.
+Each of the missing notes may be defined as between 2 and x.
+ 
+5. The megamode may now be defined by the number of steps and 
+the position of the missing notes (m1, m2, etc.).
+ Eg. x  m1 m2 m3 and m4.
+ Therefore there are four notes missing in the sequence. 
+Therefore the extent is (x). So there are thirteen notes 
+of which four (m1 to m4) are missing leaving 13-4 9 notes. 
+In this case numbers 1, 3, 4, 6, 7, 8, 9, 10, and 12.
+ 
+6. The mode is determined by which of the notes is chosen as the 
+start of a sequence of ascending frequencies. This starting note
+ may be identified by stating its position on the chain of fifths. 
+For example, if the notes were six consecutive steps
+ Eg. F C G D A E B. These pitches could be arranged in seven
+ modes of different ascending pitch orders:
+ 
+(F) 1 (first note in chain) (Lydian) I,II,III,#IV,V,VI, and VII; 
+(C) 2 (2nd in chain) (Major or Ionian) I,II,III,IV,V,VI,and VII; 
+(G) 3 (Mixolydian) I,II,III,IV,V,VI,and bVII; 
+(D) 4 (Dorian) I,II,bIII,IV,V,VI,and bVII; 
+(A) 5 (Aeolian) I,II,bIII,IV,V,bVI,and bVII; 
+(E) 6 (Phrygian) I,bII,bIII,IV,V,bVI,and bVII; 
+(B) 7 (Locrian) I,bII,bIII,IV,bV,bVI, and bVII.
+ 
+7. The key of the scale and scale is determined by the tonal 
+center, which may defined as C,D,E,F,G,A, or B with the 
+appropriate sharps or flats. The scale may then be listed 
+in ascending frequency order by note name.  
+ 
+8. A scale or mode may therefore be defined as: 
+ Number of steps in chain (x)/position(s) of missing notes  
+(counted from fourths towards fifths)/Position of tonic 
+(counted from fourths towards fifths). 
+Eg. The scale and mode described as 5/25/3 could give the 
+notes F-G-D-E from the chain F-C-G-D-A-E. 
+Using the third note of the chain (G) as the starting note 
+giving a scale of G-D-E-F or the mode of I-V-VI-bVII.
+  
+ 
+ 
+Charles Lucy
+lucy@hour.com
+http://www.wonderlandinorbit.com/projects/lullaby
+http://www.ilhawaii.net/~lucy
+http://ourworld.compuserve.com/homepages/lullaby
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Jun 1997 09:24 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00605; Tue, 17 Jun 1997 09:24:32 +0200
+Date: Tue, 17 Jun 1997 09:24:32 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00603
+Received: (qmail 21366 invoked from network); 16 Jun 1997 08:41:11 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 Jun 1997 08:41:11 -0000
+Message-Id: <199706160750.PAA00692@csnt1.cs.ust.hk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Mon, 2 Dec 1996 14:23:20 -0800
+
+Subject: A naive question
+
+From: jpff@maths.bath.ac.uk
+
+Message written at 02 Dec 1996 17:11:11 -0500
+
+I have been giving a little thought to specifying tuning systems
+within a software system.  At present I am limiting myself to equal
+temprament scales.
+
+It seems to me that there are three parameters to specify the scale,
+and two (or one) to specify frequency required.  At present my
+operator take as arguments
+
+  1. The number of equal divisions	(eg 12 -- sorry 19)
+  2. The interval to be divided		(eg 2 for octave, 3 for 12th)
+  3. A base frequency 
+
+My question is about the base frequency.  At present I am toying with
+either making this "octave" zero, which suggests in the system I use
+(where octave 8 contains middle C) make is 1.021975, or alternatively
+decreeing that octave 8 is the reference point, and so 8.0 is always
+261.62561 (or there abouts).  
+
+My first question is what have a failed to realise?  Is the reference
+freguency really obvious and i have failed to understand?
+
+My second question is how useful is the large interval other than 2
+and 3?  I have this feeling that a two octave repeating scheme could
+be interesting?  
+
+I am using the selection in the format oct.pitch which assumes 100ET
+or less.  Does anyone (apart from me) ever think about 100ET?
+
+Any advice appreciated.  
+
+==John ff
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 3 Dec 1996 01:54 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA27963; Tue, 3 Dec 1996 01:56:02 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA27923
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA16966; Mon, 2 Dec 1996 16:55:59 -0800
+Date: Mon, 2 Dec 1996 16:55:59 -0800
+Message-Id: <961203005410_71670.2576_HHB60-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

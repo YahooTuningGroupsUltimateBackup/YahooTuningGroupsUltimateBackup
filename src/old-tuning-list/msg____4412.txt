@@ -1,0 +1,95 @@
+source file: mills2.txt
+Date: Thu, 26 Dec 1996 11:22:15 -0800
+
+Subject: Pitch bend
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Neil Haverstick wrote:
+ 
+> Haverstick here...I saw a very interesting CD/booklet package at Tower
+> Records today...put out by Bart Hopkin of Experimental Musical
+> Instruments mag fame, it is a project about just those weird ass
+> instruments and folks that he always features in the mag...it looked very
+> cool, and I believe I'll go back and get it. 
+
+I heard on the radio recently a CD which I'm going to try to find performed by a group I'm also going to find. 
+The group name is The Empire Brass. They are new to me, but they must be well known because they seem to be 
+played a lot on the local classical-pop station (KUSC, part of The Broadcast Service of the University of 
+Southern California). I can't remember the name of the composition but I think it was a piece for 10 brass 
+instruments by Giovanni [sp?, first or last name?]. It sounded like Renaissance or Early music. The way these 
+performers tune in to each other as an ensemble is just great. They performed the piece in obvious just 
+intonation with no vibrato and with the same envelope articulation. Man what a sound. You should hear the 
+resonance. I'd recommend it to anyone.
+
+> ...there seems to be a lot of unanswered questions about just
+> what Indian (and other modally oriented folks} musicians are doing when
+> they play...
+> ...If they stay
+> within the parameters of the harmonically real, ratio based intervals,
+> than is it wrong to make certain assumptions about their system? 
+
+That may be an assumption right there. Maybe they don't use ratio-based intervals in practice, or maybe they 
+use them as an aural gestalt (if you will) which is then perverted for expression by playing near but not 
+right on the ideal ratio-based intervals.
+ 
+> ...I do know that blues is MIGHTY hard to teach in any "logical" fashion,
+> because within a loose framework of 3 chords and the 6 tone blues scale,
+> there's a whole lot of room for individual interpretation as to where to
+> put a note, for instance, when you bend the 4th up to the 5th...what is
+> the FEELING you're trying to communicate, that is the issue, and believe
+> me, blues is both profound and microtonal as anything.
+
+Blues was my vector into microtonality as a kid. Blues is a thing. 
+
+Your sentence above touches on one of those things which has hit me sporadically over the years and made me 
+think "there's something heavy here, I really should follow through with this someday", which is to focus on 
+and expand the whole concept of bending or glissandi or portamento or any other name for moving pitch. Moving 
+pitch is obviously an important musical element which is understood at the gut level by many people in many 
+cultures (and even in other mammals; see whale songs, wolf calls, the cat's meow), yet it doesn't seem to have 
+an accompanying body of theoretical artifacts. (Maybe it does, and I'm just ignorant.) I'd really like to 
+either find and read, or start creating on my own or with others, attempts at analyzing and formalizing the 
+use and meaning of moving pitch. 
+
+One "problem" about moving pitch, or rather one thing which separates it from elements typically constituting 
+music notation and music theory, is its non-particulate or non-quantizable nature. Pitches, such as we 
+consider in 'tuning', are usually taken to be static points along the number-line-like spectrum. Similarly, 
+rhythms are conceptualizable as involving points or ranges on a time line. Moving pitch enters the world of 
+curves. Curves can be immediately recognized, and attributed with aesthetic value, but are not as easy to 
+handle as quantized units.
+ 
+Some questions which may begin a more serious investigation are:
+[] What are some ways in which may we notate moving pitch?
+[] Is it possible to formalize the feeling moving pitch imparts?
+[] Is it important to consider the fixed-pitch qualities of pitches which the bend passes through (like 
+bending across scale degrees or from one chord member to another), or does moving pitch make us hear in a 
+different way? In other words, how does the importance of the local pitch landmarks which the pitch moves 
+through play against the importance of the change in speed and direction over time?
+[] What are the psychological similarities or differences between a melody of discrete pitches and one of 
+continuous pitch?
+
+I think a beginning answer to at least the first question would be graph-like notation already in use in 
+virtual-synthesis software for notating volume envelopes and stuff. At least this would give us a 
+photograph-like way of notating the actual tracking of a pitch through time, even if it would say nothing 
+about the feeling it imparts or the logical classification of different characters of bends.
+
+An interesting thing to think about in the curve vs. discrete information problem is midi pitch bend 
+controller. This might be the most commonly available technology for generating quantifiable and reproducible 
+pitch curves for experimentation, yet it is still fundamentally a series of discrete pitch points through 
+time, and not truly continuous information.
+
+Matt Nathan
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 27 Dec 1996 00:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03335; Fri, 27 Dec 1996 00:18:21 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA03393
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA22358; Thu, 26 Dec 1996 15:18:17 -0800
+Date: Thu, 26 Dec 1996 15:18:17 -0800
+Message-Id: <851640577@csst.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

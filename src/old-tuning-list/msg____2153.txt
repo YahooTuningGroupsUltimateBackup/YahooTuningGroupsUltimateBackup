@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Mon, 16 Oct 1995 20:43:53 -0700
+
+Subject: Re: Chinese 12TET - overkill?
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> but 12 multiplications will tell
+> you if you're close - and 12 more will tell you if your next guess is
+> closer or not.
+
+   Bingo!  (Thanks Johnny.)  And of course it's not 12 multiplications;  it's
+only 4:  
+1.  Square the guess => guess sixth root of 2.
+2.  Square that => guessed cube root of 2.  
+3.  Multiply by result of step 1 => guessed square root of 2.
+4.  Square that => guess of 2.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Oct 1995 15:08 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id GAA22287; Tue, 17 Oct 1995 06:07:38 -0700
+Date: Tue, 17 Oct 1995 06:07:38 -0700
+Message-Id: <E98ZVZKCV2O7*/R=UCVAX/R=A1/U=WATHENMJ/@MHS>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

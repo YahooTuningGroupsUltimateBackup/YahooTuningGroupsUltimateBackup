@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Sat, 23 Dec 1995 08:01:07 -0800
+
+Subject: Paul Rapoport's article
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+For those who want to know the formulas used to calculate the numbers
+in the big file I've put together, or to know more about the theory of
+equal temperaments in general I'd like to make mention of Paul
+Rapoport's very interesting article
+"The Structural Relationships of Fifths and Thirds in Equal
+Temperaments", Journal of Music Theory vol. 37 no. 2, pp. 351-389,
+Fall 1993. 
+It has three sections about respectively the perfect fifth, the
+major third and the relationships between the two. It must be said 
+however that it's somewhat difficult material, but anyone with some 
+mathematical background should be able to follow it.
+The intervals figurating in the article are:
+
+p Pythagorean comma    a perfect octave
+k syntonic comma       v perfect fifth, structurally just
+d diesis               t major third, structurally just
+s schisma          Theta major third, structurally Pythagorean
+q diaschisma
+
+I have found it practical to have an overview of the equations in 
+question while studying the article, which is this:
+
+Theta = 4v - 2a
+    p = 12v - 7a
+    k = Theta - t
+    d = a - 3t
+    s = p - k
+    q = 2k - p
+Schismatic major third = 5a - 8v.
+
+Two errata that should be mentioned:
+page 379, one line above the bottom line, replace 
+"Basic t is best t." with "Best t=5."
+page 387, on the bottom line the second expression must be
+19v-11a.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 23 Dec 1995 18:42 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA16412; Sat, 23 Dec 1995 09:42:18 -0800
+Date: Sat, 23 Dec 1995 09:42:18 -0800
+Message-Id: <Pine.3.89.9512231209.A26440-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

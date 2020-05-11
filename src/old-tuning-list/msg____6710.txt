@@ -1,0 +1,134 @@
+source file: mills3.txt
+Date: Fri, 19 Dec 1997 18:46:46 +0100
+
+Subject: Re: Septimal Intervals
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Gary Morrison, at least, seems to be listening to the same chords
+as me:
+
+>   That's interesting.  I've always thought of 4:6:7 as fairly
+> self-content, but 4:5:7 is most likely dissonant.  (Then again dissonance
+> is context-related whereas discordance is not, but that's a different
+> discussion altogether.)
+
+However, I did actually specify 31 equal, where the situation is
+more complicated.  In lieu of Gregg Gibson discovering why, I'll
+respond to his other points:
+
+> The perfect fifth 3:2 is comprised of the minor third 6:5 and major
+> third 5:4. This in turn means that the consonant chords of the 3-limit
+> and those of the 5-limit are congruent, that is to say, they can exist
+> together without producing dissonant intervals.
+
+Yeah, yeah, yeah.  This is taking a feature of 5-limit and
+turning it into a principle.  I don't buy it.
+
+> But when we reach the septimals, we find that the perfect fifth 3:2 is
+> comprised of 7:6 and the undoubtedly dissonant 9:7. The other possible
+> septimal bisection of the fifth, 8:7 and 21:16, also includes an
+> undoubted dissonance (21:16) although the closeness of 8:7 makes it too,
+> undoubtedly dissonant.
+
+Yes, bisecting the fifth is a bad idea with septimals.
+
+> Now a chord with one dissonant interval, is dissonant. Someone may try
+> to deny this, but I am afraid he will fail.
+
+I believe your fears are unjustified.
+
+> There do exist a few septimal triads that seem to escape this argument,
+> e.g. 5:6:7, 4:5:7, 4:6:7. But a few triads do not begin to compare with
+> the richness and variety of the harmonies of the senario.
+
+Exactly what are you trying to say, Gregg?  You come up with an
+"undeniable" argument, and then deny it!  Or, am I
+misunderstanding?  To my ears, these chords are certainly more
+concordant than their constituent dyads.  Three examples are quite
+enough to disprove that little theory.
+
+What is "the senario(sic)" supposed to mean?  If 5-limit
+consonance, we are talking about 6 triads within the octave --
+3:4:5, 4:5:6, 5:6:8, 1/3:1/4:1/5, 1/4:1/5:1/6 and 1/5:1/6:1/8.
+Granted, septimal chords don't work well in inverted forms with an
+8/7. However, I am prepared to admit the utonal versions.  That
+gives us ... 6 chords.  So, we've doubled the number available
+from the 5-limit.
+
+> If follows that the septimals, even if one admits them to be weakly
+> consonant - which I do _not_ - certainly give rise, for the most part,
+> to undoubtedly dissonant chords. They have only the most tenuous
+> relation with the harmony of the senario, which on the contrary, forms a
+> closed, well-ordered system.
+
+There is certainly doubt as to the first statement.  Unless you
+consider all chords containing a septimal interval, when it is
+true but septimals are no different to quintals in this respect.
+There is no question that the 7-limit is a different sonority to
+the 5-limit. Why this is an argument for rejecting 7-limit
+consonances is beyond me.  Well-ordered systems are really
+dreadfully early 20th Century.
+
+> All this was observed centuries ago. Mersenne is full of highly
+> ingenious arguments regarding the septimals - nihil sub sole novum.
+
+My ignorance on the subject prevents me form getting into a
+historical discussion.
+
+> So today, some people still take it as a personal
+> insult if an interval they fancy is called dissonant, and - very
+> absurdly - try to make consonance and dissonance purely relative ideas
+> with no basis in physics.
+
+Certainly, consonance and dissonance are relative concepts.  By
+which I mean that a chord is only consonant or dissonant relative
+to another chord.  Why is this absurd?
+
+> But I - just as about 99% of all the Western musical theorists who have
+> ever lived - do really hate and wish to banish a certain narrow class of
+> dissonances - those which are so close to consonances that they beat
+> badly, but yet are melodically confounded with the consonances.
+
+Well, that's Western musical theorists for you.  Do these include
+the people who advocated 12 note well temperaments?
+
+We're clearly going to get nowhere in a consonance/dissonance
+argument.  I will, however, make the following assertions.
+7-limit chords have a character which makes them closely akin to
+5-limit consonances.  7-limit chords are sensitive to tuning and
+so, if they are to be used, they must be considered in choosing
+a temperament.  A well tuned 4:6:7 chord fulfils all the usual
+criteria of concordance.  Some 5-limit chords, spread over more
+than an octave, sound frankly dissonant -- see Helmholtz for more
+on this.  In the right circumstances, a 7-limit chord can function
+as a consonance.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk (Graham Breed) 
+Subject:  Pythagoreanism
+PostedDate:  19-12-97 18:47:23
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  19-12-97 18:45:14-19-12-97 18:45:15,19-12-97 18:44:50-19-12-97 18:44:50
+DeliveredDate:  19-12-97 18:44:50
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256572.00618509; Fri, 19 Dec 1997 18:47:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18869; Fri, 19 Dec 1997 18:47:23 +0100
+Date: Fri, 19 Dec 1997 18:47:23 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18103
+Received: (qmail 10395 invoked from network); 19 Dec 1997 09:46:39 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 Dec 1997 09:46:39 -0800
+Message-Id: <memo.522598@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

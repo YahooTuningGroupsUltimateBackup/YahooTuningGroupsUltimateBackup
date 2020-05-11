@@ -1,0 +1,89 @@
+source file: mills2.txt
+
+
+Subject: U of Ill. updates: M4C & SNDAN (fwd)
+
+From: James Beauchamp <jwb@timbre.music.uiuc.edu>
+
+This is to announce upgrades to two software packages available for ftp at our
+site: 
+	Music 4C, a music synthesis package, and 
+
+	SNDAN, an analysis/synthesis package. 
+
+Both are designed to run on Unix workstations.
+
+*******************************************************************************
+Music 4C (M4C) has recently been upgraded to version 1.5.
+
+Music 4C has the following features:
+
+1) Notes are given by I statements which give instrument name, start time and 
+   duration (in seconds) and numerical parameter values or strings peculiar to
+   the instrument.
+
+2) Function statements work the same as I statements except there is no
+   duration and their purpose is to create tables.
+
+3) Instrument definitions are written in C. Separate code is written for 
+   piece initialization, note-on, note-off (optional), and sample computation.
+
+4) Each instrument is compiled as a separate C module and several modules can 
+   be linked together with the M4C library to form an orchestra.
+
+5) Once the orchestra is compiled it is run with the score in the background
+   to produce a sound file. The sound files can be NeXT, headerless short int,
+   or headerless floating point.
+
+6) ascii pseudo-music notation and score processor software is part of the 
+   package. A midi file preprocessor is avaiable.
+
+A "class orchestra", consisting of 9 instruments, is set up for beginner use.
+Its use is discussed in M4C_intro.txt in the m4c/doc directory.
+
+With version 1.5 Music 4C includes unit generator functions for handling sound
+files and doing reverberation. In addition, several example instruments are
+given which illustrate FM modulation (1 and 2 carriers); additive synthesis
+based on analysis files produced by SNDAN; ghost instruments for amplitude
+control and reverberation; several examples of simple and complex
+reverberation; some sample instruments; and a trumpet instrument which uses
+Spectral Dynamic Synthesis.
+
+To obtain a copy of Music 4C, login to m4cguest@cmp-nxt.music.uiuc.edu and
+follow the instructions for ftp back to your machine. pw is same as the login
+name. Then follow the simple instructions for installation.
+
+*******************************************************************************
+SNDAN is a Unix-based software package for spectral analysis, display,
+modification, and synthesis of musical sounds. It uses EPS graphics for display
+under X Windows or NextStep. Both fixed filter bank harmonic analysis with
+arbitrary base frequency and tracking analysis with the possibility for pitch
+detection and reduction to harmonics are available. Recently SNDAN's display
+repertoire has been upgraded for improved 3D graphics. monan's 'pp' command now
+allows arbitrary orientations of the 3D spectrum with optional hidden line
+removal and color or grey scale. In addition, there is a 2D "spectrogram"
+command, 'ftc', which uses color or grey scale to indicate amplitude.
+
+Documentation for the various SNDAN commands are contained in the sndan/doc
+subdirectory.
+
+To obtain a copy of SNDAN, login to sndan@cmp-nxt.music.uiuc.edu and follow the
+instructions for ftp back to your machine. pw is 'cnmat.12'. Then follow the
+simple instructions for installation.
+
+*******************************************************************************
+Please let me know if you have any problems with these procedures.
+
+Jim Beauchamp
+j-beauch@uiuc.edu
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 3 Jul 1996 18:02 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA26179; Wed, 3 Jul 1996 09:02:20 -0700
+Date: Wed, 3 Jul 1996 09:02:20 -0700
+Message-Id: <70960703153407/0005695065PK1EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

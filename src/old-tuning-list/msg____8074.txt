@@ -1,0 +1,46 @@
+source file: m1445.txt
+Date: Sat, 13 Jun 1998 09:00:55 -0500 (CDT)
+
+Subject: Re: Microtunable wishlist
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Will the Ensoniq extrapolate an arbitrary-number-division
+>*non-equally- tempered* non-octave scale?
+
+   Yes.  You describe any sequence of intervals between any group of keys,
+and it will duplicate that sequence of intervals across successive keys.
+
+   This probably isn't a particularly useful example, but you can, for
+example set up this sequence of pitch relationships:
+
+C4
+     50c
+C#4
+     40c
+D4
+     30c
+D#4
+
+And then tell it to extrapolate from C4 to D#4, and you'll end up with:
+..
+A3
+     50c
+A#3
+     40c
+B3
+     30c
+C4
+     50c
+C#4
+     40c
+D4
+     30c
+D#4
+     50c
+E4
+     40c
+F4
+     30c
+F#4
+..

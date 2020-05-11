@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Thu, 16 Jan 1997 08:56:55 -0800
+
+Subject: Reply to Daniel Wolf
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>There are some musical contexts (and some temperaments as well -
+>the tuning of the TX81Z comes to mind)
+
+What's this?
+
+>where 9 _has_ a harmonic function
+>distinct from 3^2.
+
+I couldn't agree more: that's why 9-limit harmony is different from 7-limit 
+harmony. But to graph the same pitch at two different points on a lattice 
+seems too confusing. That's just the way my brain works, though. More:
+
+>Wilson has [...] worked with [...] 3(1,3,5,7,9,11),
+
+I don't dispute the musical validity of this construct. In fact it supports 
+everything I've been saying about odd numbers and about including a factor 
+of 1 in the CPS. It's just that in graphing this along with 2(1,3,5,7,9,11), 
+you'd have no idea that 1*9 is the same pitch as 1*3*3, if you have a 
+separate axis for 9.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 16 Jan 1997 18:08 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12926; Thu, 16 Jan 1997 18:11:45 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA12917
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA04221; Thu, 16 Jan 1997 09:11:05 -0800
+Date: Thu, 16 Jan 1997 09:11:05 -0800
+Message-Id: <199701161208_MC2-F66-E451@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

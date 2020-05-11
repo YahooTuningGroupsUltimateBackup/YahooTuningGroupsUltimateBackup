@@ -1,0 +1,29 @@
+source file: m1365.txt
+Date: Thu, 26 Mar 1998 13:31:02 +0000
+
+Subject: does xbendout work for QT2.5?
+
+From: BUYO-BUYO-IGOR <igor@db3.so-net.or.jp>
+
+Dear MAX-MICROTUNISTS on this list,
+
+Did I ask this before?
+I'm still using QT2.5 as the sound module for my MAX3.0.
+I love microtuning things so use a bunch of xbendout oriented things in
+my patch....but now wondering...if my QT is handling 14bit-bend-date
+correctly...my ear is not good enough to test this...ah..
+So sad if it's only handling it as the 7bit thing and ignoring the rest.
+
+-- 
+------------------8<-----------------------
+BUYO-BUYO-IGOR
+SaRiGaMa's Oil Vending Orchestra
+Japanese HomePage=http://come.to/sarigama
+International HomePage=http://www.mars.dti.ne.jp/~buyobuyo
+E-Mail=gianthead@bigfoot.com
+Jammin' on Mar29,May24
+Plans=http://www.mars.dti.ne.jp/~buyobuyo/sarisari/forsari.html 
+Also on Jun28
+Plans=http://www.mars.dti.ne.jp/~buyobuyo/gamagama/forgama.html
+Birth of "World Wide Deb" Jam (=non SaRiGaMa) on Apr26
+What?=http://www.mars.dti.ne.jp/~buyobuyo/bands/wwd.html

@@ -1,0 +1,78 @@
+source file: m1523.txt
+Date: Thu, 03 Sep 1998 12:57:49 +0530
+
+Subject: Synth tuning using keyboard split
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+I wrote :
+>>
+>>Just using a keyboard with atleast one split point, it is possible to
+>>fool around with many equal temperaments. I've been giving it a bit of
+>>thought and it should handle equal temps of upto 24 notes per octave.
+>>All it entails is transposing both left & right sides to the same
+>>"octave" range,
+>>then tuning the both parts to the odd numbered pitches of an ET, and
+>>shifting
+>>the channel master tune so the pitches on the right hand become the even
+>>numbered pitches of the scale.
+
+John L. wrote :
+>
+>You could do quartertone scales this way, but not any other nTETs.
+
+If  you get creative with it and agree to cope with remembering which
+key is what,
+it is possible to get many tunings with more than 12 note this way.
+
+It's not quite as simple as tuning the odd notes, and shifting to
+get the even notes, i.e., it doesn't work that simply for just any
+tuning.
+It does work for 19-tET.
+You need to take the gist of the idea and play about with it. For
+example, 
+here's how to tune the first 18 notes of Wendy Carlos' Alpha tuning. 
+(I've also done 19-tET & Wendy's Beta. Gamma is not possible with
+only one split.)
+
+
+The first column lists the first 18 notes, the second column lists the 
+microtuning for the named keys, and the third column first shows that
+you have to shift the channel master tuning right hand side of the split
+up 234 cents and lists the cent values this results in.
+(This can be done by first coarse tuning up 2 semitones,
+and then fine tune up 34 cents. On the Yamaha PSR--530 use the RPN
+Fine Tune parameter values : MSB=104, LSB=0.). 
+
+All units are in cents. The squiggly lines are to try and keep things in
+their place.
+
+
+Alpha,~~~~~~~~~"scale tuning"~~~~~~ PartShift
+First 18 notes~~~~key name~~~~~~~~~~(+ 234 cents))
+0~~~~~~~~~~~~~~~~~C~~~~~(+	0)~~~~~~234
+78	~~~~~~~~~~~~~~~~C#~~~~(-22)	
+156~~~~~~~~~~~~~~~D~~~~~(-44)	
+234			
+312	~~~~~~~~~~~~~~~D#~~~~(+12)~~~~~~	546
+390	~~~~~~~~~~~~~~~E~~~~~~	(-10)	
+468~~~~~~~~~~~~~~~F~~~~~~(	-32)	
+546			
+624~~~~~~~~~~~~~~~F#~~~~~(+24)~~~~~858
+702	~~~~~~~~~~~~~~~G~~~~~~	(+2)	
+780~~~~~~~~~~~~~~~G#~~~~ (-20)	
+858			
+936	~~~~~~~~~~~~~~~A~~~~~~(+36)~~~~1170
+1014	~~~~~~~~~~~~~~A#~~~~~(+14)~~~~~1248
+1092	~~~~~~~~~~~~~~B~~~~~~(-8)~~~~~~1326
+1170			
+1248			
+1326
+
+Please let me know if I've done something silly again.
+
+BTW, as mentioned in my other post the PSR-530 holds a different scale 
+tuning on each channel, expanding the possiblities further.
+
+Cheers,
+Drew

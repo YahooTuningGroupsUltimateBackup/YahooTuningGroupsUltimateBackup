@@ -1,0 +1,144 @@
+source file: mills2.txt
+Date: Sun, 22 Oct 1995 07:42:36 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: custom MIDI controller
+---
+One of the biggest stumbling blocks in
+the path of the microtonal revolution is
+the lack of a generalized MIDI keyboard.
+If MIDI users could buy a keyboard like
+the one on the Secor generalized 
+Scalatron, microtonality would take
+an enormous step forward.  Suddenly,
+it would become simple and easy to perform
+keyboard music in 31, 19, Partch 43, Wilson
+41, Secor 17, or Helmholtz 24-note tunings.
+Well, guess what?
+Now you can build your own generalized MIDI
+keyboard--and for less than $275!
+PAVO, 10. S. Front St., Philadelphia PA 19106,
+makes a black box to which you can hook 64
+momentary normally-open switches and get
+MIDI notes out.
+What kind of switches can you use?
+The sky's the limit: light switches, doorbell
+switches, reed switches, infrared or cadmium
+selenide photocells, contact switches, touch
+switches, proximity switches, ultrasound-
+activated switches, moisture-activated
+switches, odor-activated switches...you name it.
+Among the ideas PAVO suggests for novel
+MIDI controllers: [1] sewing reed switches into
+your clothing and generating a MIDI composition
+by your movements; [2] attaching multiple
+photoelectric switches to various parts of a
+room and generating MIDI notes by shining a
+laser; [3] building your own custom MIDI 
+percussion controller or keyboard.
+Of particular interest for folks on this forum
+is [3].
+The PAVO MIDI computer (a black box with a
+64-lead ribbon cable coming out of it and MIDI
+IN and MIDI OUT connectors) comes in kit form.
+The cost is $265 U.S. and with that you get the
+PROM of your choice.  (PAVO black boxes can do
+a *lot* of things; the 64-note MIDI controller PROM
+is only *one* of many PROMS they offer.  You can,
+for example, turn the black box into a "translating
+randomizer" merely by substituting another PROM
+into the ZIF socket inside the black box.  In this
+mode the PAVO black box selectively translates one 
+type of MIDI message into any other type of MIDI message,
+randomizing them within user-selected parameters
+entered into the front panel.  However this post
+concerns only the 64-note custom MIDI controller
+EPROM, so if you want more info on the many *other*
+exotic applications of their MIDI computer black
+box, write PAVO directly. That address again:
+PAVO, 10. S. Front St., Philadelphia PA 19106)
+The limitations of the PAVO box, are to be fair,
+numerous: first, you're limited to 64 input switches.
+(If you need a 128-key controller, buy two black
+boxes and hook their outputs through a MIDI merge
+box; ditto 192-key controller, etc.  At $250 per
+black box, this isn't all that expensive--especially
+compared to the *outrageous* highway-robbery cost
+of $2000 for a 36-pad MIDI marimba bought 
+commerically!)
+Second, the switches can't be more than 25 feet from
+the PAVO black box (and should probably be a lot
+closer for reliable operation).  Most limiting of all,
+the black box does not accept velocity information
+from the switches.  Thus you must set the velocity
+of the MIDI notes either via a pot on the front panel
+of the black box, or by means of a MIDI controller
+foot pedal hooked into the data stream with a MIDI
+merge box.  (It's possible that you might be able
+to wire an 8-bit A/D converter to the frame of the
+MIDI controller and feed it into the front pot of the
+PAVO black box, but since it's not part of the original
+design...you'd have to do it at your own risk.)
+All in all, these limitations are minor compared to
+the advantages offered by this widget.  For the first
+time, you can build your own custom MIDI percussion
+setup.  One of the first and most obvious applications
+that comes to mind would be to set up a set of plywood
+or pine squares in the form of a 64-note Bosanquet
+keyboard and attach the squares to reed or touch
+switches, then solder the switches to the ribbon
+cable leads.  Plus in the black box, turn it on, and presto!
+You've got your own Bosqnquet-style percussion controller.
+This would be ideal especially for those of us you yearn to
+work in large JI arrays (say, Wilson 31 or 41 or 43, not
+to mention D'Alessandro or the hebdomekontany) with
+a percussion-type controller.  
+By fitting the switch array with a DB-25 connector, one
+could easily disconnect one percussion controller and 
+reconnect another one, thus allowing a performer to move
+within a less than minute from, say, Partch 43 to 53-tone
+equal temperament.  Since switches are cheap (check the
+latest JDR MICRODEVICES catalog) and plywood or pine
+even cheaper, it should be a breeze to build half a dozen
+different percussion arrays, each suited to a given tuning.
+(Remember that since we're dealing with MIDI, one need
+only saw the pieces of wood and glue switches to 'em--
+all tuning's done in the MIDI synth.)
+Neoprene coverings on the plywood or wooden percussion
+pads would help give the percussion pads a more lifelike
+"feel," and again it's cheap and easy.
+Building the PAVO black box sounds pretty simple.
+They offer a videotape showing the complete process (for
+those of you who haven't dealt with a soldering iron and
+a volftmeter before), as well as a diagnostic EPROM. Plug
+in the EPROM and it'll automatically check your solder
+connections, chips, glue logic, and run a test on the MIDI
+ins and outs as well as the 64-lead ribbon connector (via
+loop-through).
+PAVO claims that assembly of one of their black boxes
+takes 5-7 hours, and given the apparent simplicity of
+the circuitry inside their box, that sounds reasonable.
+It's basically nothing but an antique 6809 8-bit
+microprocessor with an EPROM, a kilobyte or so of
+static RAM and some glue logic and hex buffers to
+keep the inputs and outputs from fricasseeing if you
+accidentally hook a MIDI out to the black box's MIDI OUT.
+All told, this is spectacular development for  those of us
+who burn with the bestial desire to build Bosanquet
+MIDI controllers!
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 22 Oct 1995 23:59 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA00139; Sun, 22 Oct 1995 14:58:49 -0700
+Date: Sun, 22 Oct 1995 14:58:49 -0700
+Message-Id: <951022215607_71670.2576_HHB46-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

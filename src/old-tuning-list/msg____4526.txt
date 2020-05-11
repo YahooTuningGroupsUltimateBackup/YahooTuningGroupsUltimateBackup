@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Sun, 5 Jan 1997 13:23:01 -0800
+
+Subject: Sympathetic Strings, Partials, Nodes, and Sitars.
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> > I really think it's fair to say that all of the common string and wind
+> > instruments have partials at frequencies sufficiently close to
+harmonics
+> > that, for the vast majority of musical purposes, they can be considered
+> > practically harmonic.  
+> Do you still have this information?  How close is close?  
+
+   I don't think I still have exact measurements of real-instrument
+deviations from exact harmonics lying around.  I don't think I ever printed
+them out.  And last I checked, my near-harmonic tone decomposition and
+resynthesis program was in a rather chaotic state.  It will need some
+changes to be reversed and reimplemented before I could make those
+measurements again.  
+
+   But the comments I made in this regard, are based upon decomposing
+(mostly) orchestral instrument sounds and then resynthesizing them, but
+forcing them to have purely integer pitch relationships, and then comparing
+the result to the original tones.  Certainly two conclusions were true:
+1.  Negating the aharmonicity of an instrument didn't affect the 
+    character of harmonies realized in those instrument sounds more than
+    realizing them in different timbres altogether, or in other
+combinations
+    of timbres.  
+2.  The main effect of negating aharmonicity was to make the timbres sound 
+    "dead" and mechanical, somewhat like the old Hollywood notion of a 
+    robot's voice.  
+I think I do still have a copy of the executable version of that program
+that's capable of doing forced-harmonic resyntheses, by the way.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 5 Jan 1997 22:21 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02051; Sun, 5 Jan 1997 22:24:08 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02049
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA26071; Sun, 5 Jan 1997 13:24:05 -0800
+Date: Sun, 5 Jan 1997 13:24:05 -0800
+Message-Id: <199701051619_MC2-E48-35DE@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

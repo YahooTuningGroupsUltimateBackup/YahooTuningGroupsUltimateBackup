@@ -1,0 +1,84 @@
+source file: mills3.txt
+Date: Fri, 10 Oct 1997 19:53:56 +0200
+
+Subject: Another version of 12-tET
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+To celebrate the 1200th digest, I will present another version of
+12-tET:
+  0:          1/1            0.000000
+  1:    1662005/1568693      100.0340
+  2:    1760309/1568693      199.5188
+  3:    1865285/1568693      299.7998
+  4:    1975877/1568693      399.5162
+  5:    2093975/1568693      500.0176
+  6:      10223/7229         599.9410
+  7:    2349463/1568693      699.3218
+  8:     355633/224099       799.5039
+  9:    2636887/1568693      899.1276
+ 10:     399193/224099       999.5407
+ 11:    2960239/1568693      1099.381
+ 12:          2/1            1200.000
+
+Before you think that I went crazy, I didn't invent this. I just
+calculated the ratios for the sake of it. This tuning was used in pianos
+by the English "Best Factory Tuners" in 1840.
+The idea becomes clear by showing the beat frequencies of 3/2 for the
+octave above middle C:
+
+  0: 0.000:        -1.1930
+  1: 100.034:      -1.1930
+  2: 199.519:      -1.1930
+  3: 299.800:      -1.1930
+  4: 399.516:      -1.1930
+  5: 500.017:      -1.1930
+  6: 599.941:      -1.1930
+  7: 699.322:      -1.1930
+  8: 799.504:      -1.1930
+  9: 899.127:      -1.1930
+ 10: 999.540:      -1.1930
+ 11: 1099.381:     -1.1930
+ 12: 1200.000:     -2.3859
+
+Now someone can persuade his piano tuner to set this tuning and let us
+know if it's an improvement.
+
+Reference:
+Jorgensen, Owen Henry. _Tuning. Containing: The perfection of
+eighteenth-century temperament, The lost art of nineteenth-century
+temperament
+and The science of equal temperament. Complete with instructions for aural
+and
+electronic tuning_. Michigan State University Press, East Lansing, 1991.
+
+Manuel Op de Coul    coul@ezh.nl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Manuel.Op.de.Coul@ezh.nl
+Subject:  Re: dynamic JI
+PostedDate:  10-10-97 20:10:25
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-10-97 20:09:49-10-10-97 20:09:50,10-10-97 20:10:18-10-10-97 20:10:18
+DeliveredDate:  10-10-97 20:10:18
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125652C.0063C4DA; Fri, 10 Oct 1997 20:09:44 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13528; Fri, 10 Oct 1997 20:10:25 +0200
+Date: Fri, 10 Oct 1997 20:10:25 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA13539
+Received: (qmail 6077 invoked from network); 10 Oct 1997 11:10:20 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Oct 1997 11:10:20 -0700
+Message-Id: <C125652C.0061FB3D.00@notesrv2.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

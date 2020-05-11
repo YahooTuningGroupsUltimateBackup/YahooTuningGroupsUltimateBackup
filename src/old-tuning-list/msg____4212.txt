@@ -1,0 +1,141 @@
+source file: mills2.txt
+Date: Sun, 1 Dec 1996 20:05:40 -0800
+
+Subject: Three views on the fourth
+
+From: Eric Lyon <eric@cmlab.sfc.keio.ac.jp>
+
+Brian Mclaren made some interesting observations in
+his attack on Milton Babbitt. Specifically, Brian
+pointed out Babbitt's rejection of the overtone series
+as a musical determinant. However he did not fully explain
+Babbitt's motivation for doing so. The reason is clear,
+Babbitt is arguing for an extremely contextual approach to
+interval syntax, and he is moreover interested in carrying
+forward Arnold Schoenberg's "emancipation of dissonance", or
+more specifically, the emancipation of dissonance from normative
+rules which require that a dissonance behave according to
+tonal function, namely that it must resolve to a consonance. 
+Babbitt takes the extreme position that the function of intervals
+is always contextually defined, and therefore he must reject
+the overtone series which implies an a priori hierarchy of interval
+importance. This rejection is debatable as Mclaren has shown.
+An interesting point in Babbitt's rejection of the overtone
+series as musical determinant is his argument that the
+perfect fourth comes earlier in the series than thirds, and yet
+the fourth is treated as a dissonance in tonal music. Mclaren
+claims this is circular reasoning: the fourth is a dissonance
+because our theory says it is. 
+
+If we accept Mclaren's view on the fourth, we must accept that
+it is a consonance relative to thirds by virtue of its relative
+ratio simplicity. But this really does limit our pleasure if we
+propose to look at some actual tonal music. By categorically
+rejecting the fourth as a dissonance, we can no longer hear
+4-3 suspensions in tonal function, especially in their
+voice-leading function in the I(6/4) chord, often a moment of great
+tension in classical works.
+
+I think we are better served by making a distinction between
+contextual dissonance based on tonal (or other) function, and what I'll
+call Hindemith-Mclaren dissonance, based on the intervallic and
+overtone complexity of a given simultaneity. We really can have
+both; it doesn't have to be "my way or no way".
+
+If we flip to the last four bars of the first movement of
+JS Bach's Italian Concerto,we are presented with a big fat I(6/4) chord 
+on the downbeat. Question: do you hear this simultaneity as
+a consonance or a dissonance? I can only speak for myself;
+I hear it as a flaming dissonance which Bach briefly savors
+by abruptly slowing the rhythm after 12 bars of steady 16th notes. 
+proceeding to the next bar, I hear a partial but hesitant
+resolution, before a final confident drive to the tonic in the
+last two bars. If we take a closer look at the downbeat of the
+second of these four bars we see (and hear) something strange:
+owing to a double suspension the downbeat simultaneity consists
+of pitches C-D-E-F: a diatonic cluster. From the Hindemith-Mclaren
+perspective (and any other I can think of), this simultaneity is
+considerably more dissonant than the triad on the downbeat of
+the previous bar. Yet I hear it as a resolution, a relative consonance.
+
+In examining the two bars from a functional viewpoint,
+I hear the harmonic sequence I(6/4)-V(5/3)-(something a bit
+weird but basically) vi with a counterpuntal two voice outline
+F-E-F/C-C-D, or 4-3-3. This is basically an elegant working out
+of a deceptive cadence, driven by the contextual dissonance of
+the 4th in the I(6/4) chord. But there is also a delicious
+ambiguity between the contextual dissonance and the Hindemith-Mclaren
+dissonance of the two downbeats which we cannot fully appreciate if
+we insist on maintaining either Babbitt's total contextuality approach
+or Mclaren's overtone simplicity approach to the exclusion of the other.
+
+We have already seen how Babbitt reacts to an idea which challenges
+his somewhat closed musical world view: denial. How does Mclaren
+respond to a similar challenge? 
+
+It is clear that one of the premises of Mclaren as an advocate for
+Xenharmonic music is that the primary relationship for evaluating and
+creating music is the set of ratios between pitch elements. This
+conception of music would be challenged by a music which incorporated
+considerable noise elements such that it is no longer practical to
+infer organization based on pitch ratios. This is precisely the
+case with the percussion and other music by John Cage. In fact, the
+prepared piano is a powerful, subversive attack on the notion of
+interval. We have the keyboard laid out for us, predictably measuring
+equal intervals and superimposing the structure of the diatonic
+scale with the distribution of white and black keys. And yet, what
+happens when we start to play the piano which Cage has prepared?
+Sometimes we get a tone. Sometimes we get a noise. The amplitudes
+are unpredictable. Sometimes a higher key on the piano makes a lower
+sounding pitch. Many of the spectra are inharmonic, highlighting the
+piano's membership in the percussion family. In short, the prepared
+piano is an intervention and a prank which forces us to revisit
+every assumption we may have about composing or playing music on a
+keyboard. That Cage uses this new instrument masterfully in the
+Three Dances for Two Prepared Pianos is a musical bonus.
+
+We have already seen how Mclaren reacts to Cage and his work, and
+therefore I conclude that despite Mclaren's attack on Babbitt,
+they both share one important quality: they are both musical bigots.
+My online Webster defines a bigot as:
+one obstinately or intolerantly devoted to his own opinions and prejudices.
+
+As I have said before, we don't need to take a reductive either/or
+approach, especially in the arts. We can accept music which is
+based on Xenharmonic principles without rejecting music which is
+clearly not, appreciating each in its own context.
+
+It turns out that in the recording and computer age, many composers
+have created excellent works which are based on other organization
+principles than pitch ratio: Christopher Penrose, Maggie Payne,
+Bill Schottstaedt, Robert Constable, Paul Reller, Eric Lyon, Francois Bayle,
+Francis Dhomont, Paul Lansky, The Beatles with Revolution #9 and I Am the 
+Walrus, Industrial music by Skinny Puppy, Laibach, Jim Thirwell,
+Nurse With Wound. And let's not forget the Japanese noise artists
+who are completely about noise organization: Merzbow, Hijokaidan,
+CCCC, The Incapacitants, Violent Onsen Geisha and many many other
+artists.
+
+So let's just relax a bit and enjoy the situation as we
+march forward into the next millennium with increasing
+musical diversity, and if we try hard enough, 
+perhaps even a tolerance clause.
+
+Eric Lyon
+eric@iamas.ac.jp
+http://www.iamas.ac.jp/~eric
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 2 Dec 1996 05:07 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13668; Mon, 2 Dec 1996 05:09:20 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA13980
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id UAA04877; Sun, 1 Dec 1996 20:09:17 -0800
+Date: Sun, 1 Dec 1996 20:09:17 -0800
+Message-Id: <Pine.A32.3.91.961201210315.59162A-100000@tiger.cudenver.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

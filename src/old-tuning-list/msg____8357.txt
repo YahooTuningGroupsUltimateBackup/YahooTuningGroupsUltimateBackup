@@ -1,0 +1,29 @@
+source file: m1501.txt
+Date: Wed, 12 Aug 1998 10:02:10 -0700
+
+Subject: Re: Nano-temperament
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+>I don't mean to belittle anyone's ideas, and perhaps I've misunderstood
+>something, but it seems to me that this "nanotempering" is a pretty
+>obvious thing, really.  It's the natural result of not rounding off to
+>the granularity of your synth until you've calculated all the pitches
+>involved as precisely as possible.  It's also basically the same as a
+>standard technique used in computer graphics called "dithering".
+
+"Dithering" (also "jittering" in the time domain) refers to a randomization
+of the rounding through the introduction of noise. It would be basically
+the same if Margo was advocating a random distribution of rounding error,
+which she is not. She is instead trying to find the the best regular
+distribution to support the desired tuning, which I don't think is as
+obvious as you say.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

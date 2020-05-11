@@ -1,0 +1,113 @@
+source file: m1408.txt
+Date: Thu, 7 May 1998 18:13 +0100 (BST)
+
+Subject: Re: Chaos, octave equivalence, and subharmonics
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+I always tell people that the mathematics involved in tuning theory is
+fairly simple, and now you bring up nonlinear dynamics.  Great.  Musicians
+take note that you do not need to understand any of this!
+
+> There may be many stages in the hearing process in which non-linear
+> dynamics come into play. It would probably be counterproductive to allow
+> this non-linearity to be enough to lead to chaos, while a parallel
+> structure of processors with different, lesser degrees of non-linearity
+> might actually aid in the recognition of pitch.
+
+Yes, chaos would be counterproductive.  There are plenty of nonlinear
+equations that produce stable subharmonics without being chaotic, though.
+ These would probably be more efficient than one that could suddenly lapse
+into chaotic behaviour.
+
+Jordan & Smith give the following example of a stable order 1/3
+subharmonic:
+
+x'' + x - x^3 / 6 = 1.5*cos(2.85*t)
+
+Where the '' means differentiate twice with respect to t.
+
+> It is known that when a
+> (not too high) pitch is heard, there are neurons that fire at the same
+> rate as the vibration rate of the pitch itself.
+
+Your theory suggests that neurons should fire at a 1/2^n subharmonic of
+higher pitches.  Has this been observed?
+
+> Other neurons in the
+> brain are known to have a non-linear response to their input from other
+> neurons. Since a response non-linear enough to lead to chaos would
+> essentially be destroying all frequency information, most of the neurons
+> would oscillate at the input frequency or at octave equivalents below
+> that frequency. Perhaps a certain, low octave range is where pitch
+> judgments are actually made. Notice how very high tones seem ambiguous
+> in pitch.
+
+I would question whether neurons can react at such high frequencies at
+all.  I don't have experimental data to hand, but I remember evidence that
+low frequencies are perceived in a different way to high ones, probably
+because of this.
+
+The usual mechanism suggested for high frequency perception is that each
+hair in the inner ear responds to vibrations of a particular frequency,
+plus their harmonics.  The hair is connected to a nerve cell, and that
+triggers when the hair vibrates.  For high frequencies, I don't think the
+periodicity of that nerve impulse is used by the brain.  This mechanism
+does show how the ear could have a predisposition towards harmonic
+overtones.  I think there is one hair for every few cents.  More precise
+measurements of pitch can be performed by averaging out the stimulus from
+two or three hairs.  I think octave reduction would have to be performed
+at a later stage.
+
+> Whether this [period doubling] or the winding of the cochlea explains
+> octave equivalence,
+> there may have been evolutionary advantages conferred by the ability to
+> reduce unimportant information and potential confusion from overtones by
+> compressing pitch information to within one octave, which led to the
+> brain or ear being designed the way they are.
+
+I don't disagree with this.  I'm still awaiting confirmation of this
+cochlea winding theory, though.  Also, I want evidence of an innate
+predisposition to octave invariance.  The latest book's I've read --
+which, as they came from libraries, are a decade or three old -- say that
+the original experiments showing octave invariance were performed on
+musically literate subjects.  More specifically, literate in Western
+Classical Music, where the notation is octave based.   The effect in the
+musically naive was much reduced.  More experiments have no doubt been
+performed since, so perhaps somebody could update me.  Such experiments
+should show a comparison between 4/1 and 3/1, not only 2/1 and smaller
+intervals.
+
+Octave invariance, and harmonic theory in general, lie outside the scope
+of this list.  I'll write up my ideas for my website sometime.
+
+> As for the apparantly irregular "subharmonic" which Gary observed in the
+> bassoon waveform, this can easily be explained by assuming some
+> parameter of non-linearity (perhaps lip pressure) was hovering around a
+> value at which an initial period doubling occurs. So the amplitude of
+> this period-2 subharmonic could have been changing, and it could cease
+> to exist for a while, returning again just as easily after either an odd
+> or even number of period-1 oscillations.
+
+This assumes the system is teetering in a bifurcation point, which is
+actually very unlikely.  I'd guess the amplitude of the subharmonic is
+chaotic.  Or, the subharmonic is entirely chaotic but appears to be order
+1/2 at certain times.  If the subharmonic comes from something like
+Duffing's equation, it will probably arise in the tube, and so be isolated
+from parameters like lip pressure.  A period doubling cascade can be
+linked to amplitude, though.
+
+[lengthy explanation omitted to conserve bandwidth]
+> Therefore, assuming the
+> parameter value varies smoothly with time, and at some times takes on
+> values corresponding to simple period-1 vibration, the only subharmonics
+> which can exist without chaos ever occuring are the subharmonics
+> corresponding to powers of 2. Period-3 oscillation (or, to a lesser
+> extent, periods of higher odd numbers) can be relatively common but
+> cannot smoothly connect with simpler behavior.
+
+It's unlikely that a period 3 cascade could be picked out from a chaotic
+region with one parameter.  In the Mandelbrot set, though, there is a
+fairly large period 3 region.  Similar things might occur with
+differential equations of 2 parameters for all I'd know.  I think there
+might even be a period 3, 9, 27, ... cascade in the Mandelbrot set.

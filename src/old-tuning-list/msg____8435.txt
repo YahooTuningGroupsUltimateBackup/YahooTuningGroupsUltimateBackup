@@ -1,0 +1,83 @@
+source file: m1523.txt
+Date: Thu, 03 Sep 1998 12:58:35 +0530
+
+Subject: MIDI  implementation & Yamaha XG
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Ahoy !
+
+Another note about my (mis)adventures with the Yamaha PSR-530
+XG compatible keyboard. 
+
+BTW, you can microtune from the front panel, and set master tuning in 
+cents too. Very limited no. of parameters are accessible from there
+though.
+
+Last night I suddenly realised that each channel can be microtuned
+differently!
+Yup, ea. of the 16 channels can hold a different "scale tuning". I
+checked.
+So, though the method of shifting the pitch of one side of the keyboard
+split works for a number of tunings, I don't have to do that, I can just
+set up
+a different tuning for each side.
+
+Now:
+Beware, beware, be very, very, ware of your synth's pitch bend and 
+RPN fine tune parameters. It would appear that manufacturers are pretty
+nonchalant with their implementation of these parameters. 
+No using pretty spreadsheets to generate values.
+
+Following my boo-boo mistaking the +/- 64 scale tuning for 64ths of a
+semitone,
+and then realising Yamaha had actually documented it correctly as 
+actual cents, I decided to check ALL pitch parameters using SysEx and
+Hansruedi Baer's Digital Oscilloscope Version 2.1 . I recommend everyone
+with
+a Mac (PowerMac&68k) get it (& those without go look for one). It's
+freeware ! 
+An Oscilloscope and Frequency meter rolled into one. Very nice. Not a
+toy, but
+simple enough for the Xenharmonic/Allotonic neophytes among us,
+ like yours truly.
+
+I figured out the SysEx messages for all the Pitch related parameters in
+the PSR-530,
+there are a total of  8. And most seem to work as advertised in the
+manual. 
+The multipart detune parameter is (-12.8..+12.7 [Hz]), and being Hz, it
+works
+logarithmically, i.e., when set to the max +12.7, all keys don't go up
+12.7Hz, only
+the B key does. The C key goes up @ 6.7Hz.  
+
+Pitch bend, I checked with the range at 1-semitone and 
+found no clear pattern in the data values that caused each successive
+pitch change.
+Graham Breed mentioned he does this and
+David Finnamore posted a note cautioning about it, you HAVE to check 
+the frequency of the bends against actual cent frequency equivalents.
+The 
+pitch bend implementation in the PSR appears to be quite coarse. 
+The RPN channel Fine Tune parameter is very odd, completely ignoring
+the LSB, and going from the equivalent of (-100  to +98 cents). 
+So, here again, it it means checking for the desired pitch.
+
+ And the SysEx (SYSTEM) Master Tune parameter (-102.4..+102.3Hz) doesn't
+appear to yield any more accuracy than the MIDI Master Tune
+(-100..+100cent)
+parameter. I was trying to use it to get the pitch of the C key to 256Hz
+which means 
+going down @ 37.63 Hz, but the best it gets to is @256.25Hz.
+
+BTW, I adopted Joe Monzo's system of tuning the fundamental, and refer
+to it as the 
+Monzo Fundamental, so if there isn't another name for it, and it's o.k.
+with you,
+Joseph..... We haven't heard a peep out of you lately, must be the road
+trip, 
+ you around or too busy burning asphalt ?
+
+Cheers,
+Drew

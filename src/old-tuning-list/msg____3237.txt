@@ -1,0 +1,101 @@
+source file: mills2.txt
+Date: Tue, 16 Jul 1996 13:48:19 -0700
+
+Subject: Re: tuning the harmonica
+
+From: Pat Missin <patm@globalnet.co.uk>
+
+It may be that I am attempting to make a square circle, but I was sure that
+if anyone could help me with the "perfect" tuning for the harmonica, they
+would probably be a subscriber to this list. Several suggestions have been
+made - all of them a compromise of some sort, but perhaps different
+compromises suit different circumstances. My thanks for all of those who
+have toaken th time to think about the subject.
+
+The 10-hole single reed diatonic harmonica (known as Richter, after its
+designer) has twenty reeds - a blow reed and a draw reed to each hole. The
+blow reeds form the series of notes:
+
+C  E  G  C  E  G  C  E  G  C  E  G
+
+The draw reeds are arranged to give s full diatonic scale in the mid-range
+of the harp, but omit and/or duplicate certain notes to give a C and a G
+chord in the lower octave for accompaniment and to keep the C major triad as
+blow notes.
+
+D  G  B  D  F  A  B  D  F  A
+
+Traditionally, the chord ws tuned as a just G dominant 9th (the F being a
+septimal seventh above the G. This sounds great in the G domintant chord,
+but very flat in melodies. To compromise, it was later tuned as a
+Pythagorean seventh above the G. This sounded nicer when the DFA triad was
+played, but the F-A interval was a rather rough sounding Pyth M3rd; so if
+you used these two notes to suggest a subdominant chord, some unpleasant
+combination tones were produced. More recently, because the issue of being
+in tune with other musicians was raised so often (harmonica players
+wondering why their instruments were "flat" intstead of wondering why the
+other instruments were in the compromise of 12TET!), there has been a
+tendency to tune the F even sharper, in some cases getting close to a just
+Dm chord, but this mkes the G7 almost unbearable. In many cases, the Es and
+Bs were also tuned a bit higher (midway between just and 12TET). There are
+other commonly used tunings (I have a collection of about 100, but most of
+these are far from "commonly used"), based on modal rearrangemnts of this
+set. For example, the harmonica minor. The blow notes are a repeaing Cm
+triad and the draw notes are tuned:
+
+D  G  B  D  F  Ab B  D  F  Ab
+
+Traditionally, this series was tuned as 8/10/12/14/17 - again some of the
+individual intervals sound a little rough, but as this harp is hardly ever
+played in anything other than Cm, that's not much of a problem. Blues and
+country-style players usually use a C harp to play in the key of G (cross
+harp), oso to get a major scale out of this position (as the modes are caled
+in harp-speak), the "country tuning" was developed, which is the same as the
+standard Richter, but raises the F to F#. This presents not problems with
+intonation (the F# is a perfect 5th above the B, a pure M3rd above the D, a
+pure m3rd below the A, etc.) Also, there is the natural minor (again based
+on the C harp, but the natural minor scale starts from the G). The blow
+notes are a Cm triad and the draw notes thus:
+
+D  G  Bb D  F  A  Bb  D  F  A.
+
+Again, this tunes justly with no real problems - it's one of my favorites
+because of the perfect 4ths and 5ths you can doublestop (and how well it
+lends itself to BbM as well as Gm). The chromatic beast I have described
+earlier - as I have pointed out, it's problem is the Dm6 chord produced by
+the draw notes. The usual way around this is 12TET.
+
+Phew! There you have it - the history of the harmonica's tuning. Various
+other approaches have been tried (including so-called "spiral" tunings,
+which spreads the scale out into a 13th chord, for example the blow notes
+could be:
+
+C  E  G  B  D  F  A  C  E  G 
+
+and the draw notes:
+
+D  F  A  C  E  G  B  D  F  A
+
+This seems to lend itself rather well to various meantone ideas.) Other
+designs have used something like a slide chromatic to produce a "perfect"
+diatonic (as one of you suggested), but these have not met with much success.
+
+I hope this is of interest to someone out there!
+
+
+Pat Missin.
+
+"...my music's a lot better than it sounds!" (with apologies to Mark Twain)
+---------------------------------------------------------------------------
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 17 Jul 1996 00:14 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA17352; Tue, 16 Jul 1996 15:14:28 -0700
+Date: Tue, 16 Jul 1996 15:14:28 -0700
+Message-Id: <95960716185259/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

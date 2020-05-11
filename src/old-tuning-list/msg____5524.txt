@@ -1,0 +1,114 @@
+source file: mills2.txt
+Date: Thu, 22 May 1997 07:59:37 +0200
+
+Subject: Harmonics & Beats are better with JI
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+In the thread "Re: Equal divisions -- of what?" it was pointed out that
+there are equal linear steps in the JI scale, specifically...
+
+JI scale  24   27   30   32   36   40   45   48
+Step         3    3    2    4    4    5    3
+
+so there are several places where equal steps occur and more still when
+larger steps are used.  Indeed the linear series 1 2 3 4 5 6 (7) 8 9 10
+can be fully formed in the JI scale [(7) needs a special blues flat].
+
+This is something from my WWW site which investigates the steps between
+notes which are also of course the beats...
+
+Harmonics & Beats are better with Just Intonation. 
+
+One of the really nice things about the just intonation scale is that
+the beats between notes are in the scale, whereas for 12T equitempered
+tuning they miss by quite a lot. I am using "beats" here a bit loosely
+because sometimes these beats are in the range of frequencies of notes,
+not the wa-wa-wa sound we associate with beats. 
+
+First the equitempered scale to show why it doesn't work in this way:
+
+note      do      re      mi      fa      so      la      ti      do
+Freq.   1.0000  1.1225  1.2599  1.3348  1.4983  1.6818  1.8877  2.0000
+Beats       0.1225  0.1374  0.0749  0.1625  0.1835  0.2049  0.1123
+Beats*8     0.980   1.099   1.198*  1.300   1.468   1.639   1.797*
+[* means Beats*16]
+The reason for *8 or *16 is to move the note up 3 or 4 octaves to see
+where it falls in the scale.
+
+In this case the beats are not generally in tune with the key. When
+beats are considered for notes that are 2 or more apart in the scale the
+situation is even worse.  The same will apply to 19TET etc.
+
+Now the just intonation scale 
+
+note      do      re      mi      fa      so      la      ti      do
+Freq.   1.0000  1.1250  1.2500  1.3333  1.5000  1.6667  1.8750  2.0000
+Beats       0.1250  0.1250  0.0833  0.1667  0.1667  0.2083  0.1250
+Beats*8     1.000   1.000   1.333*  1.333   1.333   1.667   1.000
+Note          do      do      fa      fa      fa      la      do
+
+In this case all the beats are perfectly in tune with the scale itself.
+When notes 2 or more apart are considered then the situation is still
+very good. This is more easily expressed by using the ratios of
+frequencies as shown below: 
+
+note      do  re  mi  fa  so  la  ti  do  re  mi  fa  so  la  ti    
+Ratio     24  27  30  32  36  40  45  48  54  60  64  72  80  90
+Beats-1      3   3   2   4   4   5   3   6   6   4   8   8  10
+Beats-2        6   5   6   8   9   8   9  12  10  12  16  18
+Beats-3          8   9  10  13  12  14  15  16  18  20  26
+Beats-4           12  13  15  16  18  20  19  24  26  30
+Beats-5             16  18  18  22  24  24  27  32  36
+Beats-6               21  21  24  28  28  32  35  42
+Beats-7                 24  27  30  32  36  40  45
+
+What is shown is the relative beat frequency between notes, for example
+in the "Beats-3" line the 10 is the beats (or difference) between mi=30
+and la=40. The figures are always up the diagonals to the top line. 
+
+Now what is noticeable is that in most cases the beats are actually
+perfectly in the scale as follows: 
+
+note      do  re  mi  fa  so  la  ti  do  re  mi  fa  so  la  ti    
+Beats-1     do  do  fa  fa  fa  la  do ...
+Beats-2       do  la  do  fa  so  fa  so ...
+Beats-3         fa  so  la  do# do  mib mi ...
+Beats-4           do  do# mi  fa  so  la  so# ...
+Beats-5             fa  so  so  la# do  do  re ...
+Beats-6               tib tib do  mib mib fa  sob ...
+
+Where the ... means that the cycle repeats for the next octave. All the
+notes are perfectly in the key except the ones labelled: do# mib sob so#
+la# tib. These all fall in the places where there are black notes and
+the "b" (flat) ones are correct in my view as to what the flat
+frequencies should be. The "#" (sharp) ones are unusual ratios but then
+again there is no real meaning to these notes in the key. 
+
+They do have the unusual ratios including 11, 13 and 19. Some of these
+are produced by the cases like fa-ti (careful how you pronounce that one
+:-) which is a dreadful chord anyway, and others by the cases like re-la
+which is our old friend D-A when in C, that is 27-40, which wants to be
+2-3.
+
+I would suggest that it would be possible to make some tempered tunings
+which are not too far from equitempered tunings, but which have beats
+that are reasonably well in tune.  Has anyone ever investigated this?
+It might be a fruitful exercise.
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+     http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 22 May 1997 10:20 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07520; Thu, 22 May 1997 10:20:03 +0200
+Date: Thu, 22 May 1997 10:20:03 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA07521
+Received: (qmail 1223 invoked from network); 22 May 1997 08:19:54 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 22 May 1997 08:19:54 -0000
+Message-Id: <199705220418_MC2-1712-DDD1@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,92 @@
+source file: mills2.txt
+Date: Wed, 30 Apr 1997 18:06:41 -0700
+
+Subject: 22 etc.
+
+From: Paul Rapoport <rapoport@mcmail.CIS.McMaster.CA>
+
+re PAULE's comments on 22 and my original:
+
+> >whether you mean just (as in 81:80) or not. The context usually
+> >determines; in any ET, it's obvious.
+
+> NO, IT'S NOT OBVIOUS AT ALL! 
+
+All I said and meant was that there is no just 81:80 in any ET. Terribly 
+obvious. But your elaboration is more interesting:
+
+In any ET, we would agree that the perfect 
+> fifth is the closest approximation to the 3:2. 
+
+We might not, but let's for the moment.
+
+We would also agree that the 
+> syntonic comma is NOT necessarily the closest approximation to the 81:80 -- 
+> for example, in 22-tET the closest step size to an 81:80 is 0 steps, and yet 
+> we would both call 1 step the syntonic comma. Why? Because the syntonic 
+> comma is defined as interval obtained by tuning several successive CONSONANT 
+> intervals.
+
+I agree that we may define crucial consonances as closest to just in an ET
+(usually representing the pure harmonics, with a power of 2 in the
+denominator, in case anyone else isn't sure what we are talking about). 
+After that, I would start (not necessarily conclude) by defining such
+things as commas in structural terms. They are left over as differences
+between multiples of harmonics. The syntonic comma has a standard
+definition; often it comes out positive or zero, sometimes it is negative.
+To say that it may not be the closest to 21.5 cents is certainly true but 
+is not affected by the structural definition. If you don't keep the same
+definition across tunings, you can't compare what is being defined, as 
+your subsequent demonstration shows.
+
+[two usually equivalent definitions omitted, one for m3s, one for M3s]
+
+> So the syntonic comma is 1 step in 22-tET, even though 0 steps would be 
+> closer in size to the JI syntonic comma. This situation would never occur 
+> for a basic consonace like the perfect fifth. 
+
+Perhaps not relevant, but it would. There are plenty of tunings where 
+there may be a choice of P5, and we may prefer the one which is farther 
+from just for one of several reasons.
+
+> Thus the "pseudo" terminology 
+> is warranted.
+
+If you don't try to make dissonances define themselves like consonances,
+it's not necessary. 
+
+> Now there are tunings where (1) and (2) give different answers! For example, 
+> in 21-tET, definition (1) gives a syntonic comma of 0 steps, while 
+> definition (2) gives an syntonic comma of -1 (that's minus 1) steps. Another 
+> example is 20-tET, where definition (1) gives a syntonic comma of 1 step, 
+> while definition (2) gives a syntonic comma of 2 steps. So I would argue 
+> that if an ET is not consistent within the 5-limit, the syntonic comma is 
+> undefined in that tuning.
+
+This I find most interesting, and I must get back to your notion of 
+consistency when I have time to return to the theory. Of course, if a m3 
+is defined in terms of a M3 and P5, this discrepancy will never come up. 
+Still, the m3 is valuable enough that the problem you mention is worth 
+consideration. I tried to do so, in fact, in my 25-tET piece, because it 
+has two viable m3s, at 288 cents and 336 cents.
+
+Obviously [!], if a syntonic comma is defined only one way (the difference
+between four P5s and a M3), there will be only one result.
+
+Paul R
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 1 May 1997 03:09 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01599; Thu, 1 May 1997 03:09:33 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA01585
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id SAA21948; Wed, 30 Apr 1997 18:07:58 -0700
+Date: Wed, 30 Apr 1997 18:07:58 -0700
+Message-Id: <199704302242.PAA10310@ella.mills.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

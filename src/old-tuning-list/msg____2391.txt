@@ -1,0 +1,88 @@
+source file: mills2.txt
+Date: Tue, 19 Dec 1995 06:20:47 -0800
+
+Subject: repeating digits ( transcendental numbers )
+
+From: Franz Kriftner <kriftner@elevator.source.co.at>
+
+Brian Mc Laren writes:
+
+ > It has been speculated that the digits in the
+ > decimal expansion of transcendental numbers
+ > never repeat.  One subscriber has even stated as
+ > much on this forum.  However, this proposition
+ > has never been proven mathematically.
+ >
+I'm quite sure this has been proven
+but as I do not know any proof i will prove it myself:
+
+any number with only a finite number of non-zeros is rational
+proof:
+if there are only zeros after the decimal point
+it's integer and we're done
+else
+just write down all the digits up to ( and including ) the last non-zero
+leave out the decimal point
+and divide by a 1 with as many zeros as there were digits after the
+decimal point
+the result is the same number written as a fraction of two integers
+we're done
+
+any number the digits of which repeat is rational
+proof:
+any number the digits of which repeat every n digits
+is an integer multiple of 0.0...010...010... ...
+( a 1 at every nth position )
+this 0.0...010...010...010... ...
+can also be written as 1/9...9 
+( 1 divided by a number with n 9s )
+an integer multiple of a rational number is rational
+so we're done
+
+any number the digits of which repeat starting from some position
+is just the sum of a number with only finitely many digits and
+another one the digits of which always repeat
+
+so we know for sure that that if the digits in the decimal expansion
+of a number repeat this number must be rational
+
+as a transcendental number can never be rational
+its digits never repeat
+
+---------------------------------------------------
+ by repeating I mean:
+ starting from some position
+ a fixed sequence of digits repeats forever
+ forgive me if I took you ( Brian Mc Laren ) wrong
+
+ if you only meant that some sequences of digits repeat sometimes
+ it is easy to prove that this will always happen 
+ as there are only finitely many different sequences of a given length
+ there must be a repeating sequence of this length
+
+ for example: there are 100 sequences of two digits
+              so after 202 digits ( 101 sequences )
+              there must have been a repetition
+
+---------------------------------------------------
+BTW:
+ I really appreciate Brian's postings
+
+          ______                                               ______  
+   _(0)  /___/_/                                        _(0)  /___/_/
+  /   \_/  |\                                          /   \_/  |\    
+           | \        F R A N Z   K R I F T N E R               | \   
+          /  |        Franz.Kriftner@source.co.at              /  |   
+        _/  _|    <http://www.source.co.at/~kriftner/>       _/  _|   
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Dec 1995 21:43 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA02562; Tue, 19 Dec 1995 12:42:58 -0800
+Date: Tue, 19 Dec 1995 12:42:58 -0800
+Message-Id: <0099B1E344A24A92.4D16@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

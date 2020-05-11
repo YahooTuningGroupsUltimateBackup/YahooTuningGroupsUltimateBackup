@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Fri, 3 Nov 1995 04:13:09 -0800
+
+Subject: Gelfond-Schneider Theorem
+
+From: jpff@maths.bath.ac.uk
+
+Message written at 3 Nov 1995 07:42:28 +0000
+In-reply-to: <9511020837.aa10239@cyber.cyber.net> (non12@cyber.net)
+
+How amusing to see the G-S theorem being quoted!  It takes me back to
+my PhD in computing and relativity where I used G-S to prove some
+theorems, and to pose other open questions.  I have a feeling that
+unusually Brian is wrong in some of the statements, but it is 25 years
+since I looked at it closely and my memory is not good.  So, I will
+have to read it up again.....
+
+==John ff
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 3 Nov 1995 18:04 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA23289; Fri, 3 Nov 1995 08:03:58 -0800
+Date: Fri, 3 Nov 1995 08:03:58 -0800
+Message-Id: <Pine.SOL.3.91.951103100021.16588D-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

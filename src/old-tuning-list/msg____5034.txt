@@ -1,0 +1,93 @@
+source file: mills2.txt
+Date: Mon, 10 Mar 1997 05:58:16 -0800
+
+Subject: C# and Db:I said KEYS, not PITCHES
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Gary Morrison wrote:
+> 
+>    I'm jumping into this conversation in mid-course, so I may well be
+> missing the context.  If so, my apologies.
+
+I'm afraid you are; but this isn't the only problem. 
+
+> A previous writer, quoted by Gary Morrison, wrote:
+> 
+> "ergo, the distinction between C# and Db makes sense
+> _only_ in well temperament. But of course, you can't
+> set two different temperaments at once, at least not
+> on a piano."
+
+In what we earthlings call "well-temperament", there is no possible 
+distinction between C# and Db -- everyone knows this on our planet. The 
+well-tempered systems were specifically designed for a 12-note per 
+octave keyboard; they were WELL-tempered specifically because they 
+removed the wolf of the meantone temperaments, and this was by means of 
+closing the "circle" of fifths. No closed temperament offering only 12 
+pitch classes can possibly distinguish between and C# and Db -- this is 
+a bland truism on planet earth.
+
+
+Then Gary Morrison himself:
+
+>    Welll...
+> 
+>    Certainly C# and Db are different in meantone temperaments and just
+> intonation as well as in well temperaments.  And also in 17TET, 19TET 
+> and 31TET as well.
+
+Meantone, yup.
+
+Just intonation, sure thing. Pythagorean too.
+
+19TET and 31TET, if you treat them as closures of 1/3-comma and 
+1/4-comma meantone, yessir. 17TET, I suppose, can also be regarded as 
+the closure of a chain of fifths.
+
+But well-temperament? NO! (in 72-point Gothic font)
+
+What's going on here? Has someone just devised an all new well-tempered 
+scheme for >12 pitch classes?
+
+>    But even if they are tuned exactly the same as they are in 12TET or
+> 24TET, the two notes are functionally different.  C# is nominally the
+> leading tone in the key of D, and Db ... well, Db could be a number of
+> formulations, like the seventh of a dominant seventh in the key of Ab, 
+> or the root of a Neapolitan in C.
+ 
+For the record, when I introduced this Beethoven example, I said that he 
+was talking about KEYS and not single pitches. I was saying that 
+Beethoven distinguished various keys, assigning them characteristics of 
+their own, and that we might be tempted to guess that well-temperament 
+was the main or sole cause of Beethoven's distinctions. But then I said 
+that we cannot simply ignore one of his distinctions, namely between C# 
+major and Db major; since this distinction cannot arise in any 
+well-temperament, Beethoven's thinking must have been motivated, at 
+least in part by less concrete considerations, such as the accumulated 
+associations of certain keys with certain pieces, or the association of 
+certain instruments with their most congenial keys, or relational 
+associations depending on the difference between modulating in a 
+flat-wards direction and in a sharp-wards direction. This is only a 
+paraphrase of what I said in two earlier messages.
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 10 Mar 1997 15:00 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00517; Mon, 10 Mar 1997 15:00:19 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA00515
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id FAA19976; Mon, 10 Mar 1997 05:58:46 -0800
+Date: Mon, 10 Mar 1997 05:58:46 -0800
+Message-Id: <3323F940.D9C@cavehill.dnet.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

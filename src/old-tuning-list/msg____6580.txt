@@ -1,0 +1,55 @@
+source file: mills3.txt
+Date: Wed, 10 Dec 1997 21:45:12 +0100
+
+Subject: Tuning program
+
+From: Pat Missin <patm@globalnet.co.uk>
+
+I've recently been playing with the program that Greg Phillips wrote for
+PCs with a SoundBlaster card. It was written primarily to assist in tuning
+wind chimes, but I have found it very useful for many other uses. As well
+as generating reference pitches with reasonable accuracy, it converts
+ratios to cents and vice versa, reads you own scales from a simple text
+file (as well as the data files for Scala) input as cents or ratios, it can
+play random notes from a scale, or hold a chord as you adjust each pitch,
+making it geat for  trying out different temperaments. Requires Windows 3.1
+(may work with '95, but I don't know for certain), a SoundBlaster or
+compatible and very little else (I tried it on a 386 with 4 Meg RAM and it
+worked fine).
+
+It can be downloaded from:
+
+ftp://ftp.maths.bath.ac.uk/pub/dream/xen/chime.zip
+
+Usual commercial disclaimers apply.
+
+ -- Pat Missin.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  John Starrett <jstarret@tiger.cudenver.edu>
+Subject:  Re: Greg's comments
+PostedDate:  10-12-97 22:24:56
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-12-97 22:23:02-10-12-97 22:23:02,10-12-97 22:22:48-10-12-97 22:22:48
+DeliveredDate:  10-12-97 22:22:48
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256569.00757516; Wed, 10 Dec 1997 22:24:53 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11985; Wed, 10 Dec 1997 22:24:56 +0100
+Date: Wed, 10 Dec 1997 22:24:56 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA11988
+Received: (qmail 991 invoked from network); 10 Dec 1997 13:24:46 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Dec 1997 13:24:46 -0800
+Message-Id: <Pine.A32.3.91.971210135634.25323A-100000@tiger.cudenver.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

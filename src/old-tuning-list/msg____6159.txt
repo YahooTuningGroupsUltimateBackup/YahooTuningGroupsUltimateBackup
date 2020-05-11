@@ -1,0 +1,54 @@
+source file: mills3.txt
+Date: Thu, 25 Sep 1997 22:13:30 +0200
+
+Subject: Symmetry (was Re: Barbershop and Equal-Step Tuning)
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Thu, 25 Sep 1997, Carl Lumma wrote:
+> There was also another term that Ivor used, "symmetry".  He never defined it
+> too well, but he complained that 12-tone was too symmetric, and that when
+> one first began Xenharmonic exploration, it was crucial to "knock the ear
+> out" with a non-symmetric tuning like 19-tone.  Could this be the same
+> thing, Ivor's term for consistency?
+
+It seems to me what Ivor was getting at was probably the fact that 12
+has many factors, which allows one to create what theorists call "scales
+of limited transposition".  E.g. 3 1 3 1 3 1 has only four different
+transpositions, because transposed by 4 steps it's unchanged.  (You can
+create such a scale because 4 is a divisor of 12.)  OTOH, in 19TET it's
+impossible to create such scales, because 19 is prime.
+
+--pH <manynote@library.wustl.edu> http://library.wustl.edu/~manynote <*>
+    O
+   /\        "Well, so far, every time I break he runs out.
+  -\-\-- o    But he's gotta slip up sometime . . . "
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  PErlich@Acadian-Asset.com
+Subject:  Reply to Peter Blasser and Carl Lumma
+PostedDate:  25-09-97 22:20:24
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  25-09-97 22:20:10-25-09-97 22:20:11,25-09-97 22:19:14-25-09-97 22:19:15
+DeliveredDate:  25-09-97 22:19:15
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C125651D.006FB186; Thu, 25 Sep 1997 22:19:59 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31143; Thu, 25 Sep 1997 22:20:24 +0200
+Date: Thu, 25 Sep 1997 22:20:24 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA31137
+Received: (qmail 29997 invoked from network); 25 Sep 1997 13:20:21 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 25 Sep 1997 13:20:21 -0700
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-970925200638Z-2831@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,120 @@
+source file: mills2.txt
+Date: Mon, 11 Mar 1996 07:33:25 -0800
+
+Subject: Miscellaneous
+
+From: non12@delta1.deltanet.com (John Chalmers)
+
+(These messages seem to have vanished into an Internet black hole
+as far the the Tuning Digest is concerned; my apologies to anyone 
+who might have received them already.)
+ 
+With Tim Perkis's permission, I've placed my JiCalc WRITEALL file
+copy of his TuneUP scale compilation in the Mills fpt site. TuneUP 
+was originally written in a dialect of FORTH, but later Mac systems made 
+it run erratically. I added a few more tunings and made some minor 
+corrections when I put the scales into an early version of JiCalc (without 
+comments or Notes). I think many Tuning List readers will find this
+set of scales interesting. As most of them have only 12-tones or fewer,
+it will be especially useful for synths which limit non-12-tet tunings 
+to only 12 tones per octave. Most of the scales come from A. J. Ellis's
+appendices to Helmholtz's "On the Sensations of Tone," Lou Harrison's 
+Music Primer (pentatonic scales), and J. Murray Barbour's "Tuning and Temperament" (Greek tetrachordal scales).
+ 
+Since this file is much shorter than my other JiCalc files, I left it
+as an uncompressed and non-encoded ascii file. The files are called
+JiCalc_TuneUP and TuneUP_README and are in the software mac directory
+with the rest of the JiCalc material.
+ 
+BTW, Benjamin Denckla has also created a MAX version of this set of
+scales with Tim's permission.
+ 
+Gary raised an interesting question about positive systems and stretched 
+octaves. Apparently, Bosanquet never considered the possibility that
+the octave was not exact in his "General Theory of the Divsion of the 
+Octave," as he called this section of his book, "Temperament."
+But, I see no reason why his concepts could not be extended to cover the 
+cases of stretched and contracted octaves as well. One could define a 
+positive fifth as one which generates an interval greater than zero cents 
+(a positive Pythagorean comma) when a chain of 12 such fifths is reduced 
+by 7 such octaves. The neutral fifth would then be defined as 7/12 of 
+the altered octave.
+ 
+Re Shepard Tones: With considerable difficulty, it is possible to
+approximate them on orchestral instruments (there is at least one
+extant composition which purports to do so, but I forget the 
+composer and its name). I am unaware of any successful attempts on
+commercial synths, though it should be straightforward with Csound
+once the proper envelopes and timbres (spectra consisting only of octave 
+and suboctave harmonics) are specified.
+ 
+Has anybody experimented with Phi-tonality, a timbre whose spectrum is 
+composed of powers and submultiples of the Golden Ratio (1.618034 approx) 
+and whose first order difference tones are coincident with other members 
+of the spectrum. See the article by Walter O'Connell in XH15, 1993 and 
+my "Notes and Comments 15," where I mention related work by David E. 
+Schroer and Lorne Temes (See also Brian McLaren's and Brink McGoogy's 
+papers). I think these timbres might be interesting if combined with 
+Shepard's envelopes (on each partial, of course).
+ 
+Re "Polyxenharmony," a coinage Ivor would have no doubt appreciated: 
+Augusto Novaro, a Mexican theorist, instrument designer, teacher and
+composer, advocated using 12- and 15-tets together. One might claim 
+this is really a subset of 60 (the LCM). Owen Jorgensen proposed his 7+5 
+tuning, in which the white keys are tuned to 7-tet and the black to 5-tet.
+Because of the way the pitches are offset, this tuning is a subset of
+70-, not 35-tet. Ivor Darreg recorded a guitar improvisation in 31- 
+and 41-tets by overdubbing a number of years ago.
+ 
+Brian McLaren and the SAG Xenharmonic Players (a fluid and informally 
+organized group, to be sure) have performed and recorded with mixtures 
+of commercial microtonal synth tunings and various ET's and JI's. 
+(Does anyone know the actual tunings in the TS-10 library?)
+Examples from their recent collections "Toward Unknown Regions 1 and 2" 
+(aka "Webs of Audition 1 and 2") include Pythagorean against 7-limit JI, 
+Slendro & Pelog vs the 17.19.23.29 hexany, a Tibetan scale against 31-tet,
+Carlos's Alpha and Beta together, the Greek Chromatic (in 12?) vs 35-tet 
+and several examples of (semi-) empirical pitch collections against 
+various ET's. 
+ 
+I once heard a Cambodian musician play a banjo in 12 with an ensemble 
+in (nearly) equal-7 at an Indonesian restaurant in Oakland in the late 
+1980's. (I must admit the clash was more apparent to Larry Polansky than 
+to me).
+ 
+I am very interested in seeing what Vyshnegradskii wrote on the subject 
+of transferring from one tuning to another in the course of a piece. 
+Darreg wrote on this technique too and composed a multisectional
+work in different ET's (Excursion into the Enharmonic), but I am unsure
+if he ever used different tunings in the same section seriatim, not 
+simultaneously
+ 
+Anyway, if one wants to try "transfer" as  a type of variation, it 
+might be interesting to take a MOS (WF) scale and transform it by varying 
+the size of its generator. For example one could transform the major mode
+from its 22-tet form (4 4 1 4 4 4 1), to its "unrecognizable" counterpart
+1 1 4 1 1 1 4 in 13-tet by varying the size of the 5th or 4th. The
+transformation could be continuous or discrete; in the latter case a
+series of transfers from 12, 19, 7, 16, 9 would be propriety-preserving 
+as well as less drastic or vertiginous. The scale intervals are  
+2 2 1 2 2 2 1, 3 3 2 3 3 3 2, 1 1 1 1 1 1 1,  2 2 3 2 2 2 3, and 
+1 1 2 1 1 1 2.
+ 
+Re Interval: One might be able to get back issues from Jonathan Glasier
+at the Sonic Arts Gallery, 2961 Beech Street, San Diego, CA 92102
+(619) 231-3673. I am looking into the possibility of the Glasier's
+making Interval available through Frog Peak Music. 
+ 
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 11 Mar 1996 17:12 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA01077; Mon, 11 Mar 1996 08:12:11 -0800
+Date: Mon, 11 Mar 1996 08:12:11 -0800
+Message-Id: <0099F2F6265708E2.E10B@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

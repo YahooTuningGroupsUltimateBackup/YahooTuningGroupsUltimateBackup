@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Wed, 11 Oct 1995 00:23:40 -0700
+
+Subject: Re: midifiles i/o
+
+From: Jurgen Schwietering <tweety@pmn.it>
+
+If you are still interested in (tested) ANSI-C- sourcecode drop me a
+(private, It might be skipped) message and I'll send you a small package
+which does the job. You should also read the midispecifaction indicated by
+Manuel, which will help you to understand the structure of midifiles. 
+   
+Jurgen
+ 
+  **********************************************\----+
+  ******************************** WizardMusic ***\  |
+  ** soft-hardware for musicians * Via G.F.Re 71 ***\|
+  ******************************** I-10146 Torino ****
+  **  tweety@pmn.it ************** xx39-11-7790523 ***
+  ****************************************************
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 11 Oct 1995 13:01 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id EAA14908; Wed, 11 Oct 1995 04:01:14 -0700
+Date: Wed, 11 Oct 1995 04:01:14 -0700
+Message-Id: <199510111059.SAA09507@hk.super.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

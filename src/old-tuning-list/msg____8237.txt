@@ -1,0 +1,38 @@
+source file: m1471.txt
+Date: Fri, 10 Jul 1998 10:08:44 -0700
+
+Subject: Re: Java and MIDI
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+Drew Skyfyre was asking about JAVA and MIDI on the Mac.
+
+I'm working on a project for Win 95/NT which I will eventually have to port
+to the Mac so I looked into Java and MIDI.  (I detest C++)  I found a few
+things that might be helpful.
+
+Java Sound is basically a software synth.  Check out Sun's website
+http://java.sun.com/ for more info.
+
+Softsynth.com ( http://www.softsynth.com/ what else!)  has a Java MIDI API
+for both Mac and PC.
+
+Midishare is an operating system for MIDI available at
+http://www.grame.fr/english/MidiShare.html that supports both Windows and
+Mac.
+
+Bryan Quinn at
+http://www.cs.nwu.edu/~bquinn/class/c95-mtd/ has information about
+implementing Java MIDI using native methods.
+
+Staccato is a MIDI API under development:
+http://www.undergrad.math.uwaterloo.ca/~srsouth/staccato/about.html
+but it's only (so far) for OS-2 and Windows.  There are a couple of nice
+articles about Java and MIDI however.
+
+Hope this helps.
+Fred.
+---------------------------------------------------------
+ Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+ phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca
+---------------------------------------------------------

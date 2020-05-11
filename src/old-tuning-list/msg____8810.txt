@@ -1,0 +1,298 @@
+source file: m1580.txt
+Date: Thu, 12 Nov 1998 20:21:28 -0800 (PST)
+
+Subject: Re: Marchettus of Padua and "7-limit" intervals
+
+From: "M. Schulter" <mschulter@value.net>
+
+---------------------------------
+                   Marchettus of Padua's tuning
+                  and Gothic cadential aesthetics
+                 ---------------------------------
+
+Recently Joe Monzo raised the issue of "7-limit" intervals as
+described or implied in the theory of Marchettus of Padua (1318), as
+well as the possibility of "5-limit" intervals as implied in this
+often original and unconventional theorist's _Lucidarium_.
+
+Here I would like to suggest that Marchettus's approach to the
+division of the whole-tone and the tuning of unstable intervals at
+cadences indeed points to the use of "super-Pythagorean" major thirds
+and sixths possibly quite close to ratios of 9:7 and 12:7. In a
+14th-century setting, such intervals can be seen as an accentuated
+expression of the usual cadential aesthetics as discussed by more
+conventional theorists such as Prosdocimus (1413), and realized in
+actual compositions of the period. 
+
+For these exponents of standard Pythagorean tuning, as for Marchettus,
+thirds and sixths are "tolerable" but active intervals which "strive"
+for resolution to stable 3-limit intervals by stepwise contrary motion
+including efficient semitonal progressions (e.g. m3-1, M3-5, M6-8).
+While a tuning based on the usual Pythagorean mathematics very nicely
+serves this Gothic aesthetic, the "superwide" major thirds and sixths
+of Marchettus and the "supernarrow" leading-tones suggested by his
+division of the tone can be seen as a more dramatic manifestation of
+the same musical feeling.
+
+
+--------------------------------------
+1. Marchettus, semitones, and cadences
+--------------------------------------
+
+Like conventional Gothic theorists, Marchettus expounds a
+sophisticated technique of polyphony in which the octave (2:1), fifth
+(3:2), and fourth (4:3) are stable concords, while the whole-tone
+(9:8) is a basic element of melody. Thirds and sixths -- which many
+theorists of the era describe as "imperfect concords" or "intermediate
+concords," and Marchettus calls "tolerable discords" -- strive for
+resolution by directed contrary motion to stable concords.
+
+Both for conventional theorists of the epoch and for Marchettus, an
+unstable third or sixth should approach as closely as possible the
+stable concord toward which it tends. Traditional Pythagorean tuning
+nicely serves this artistic ideal: it provides active thirds and
+sixths, and narrow leading-tones for cadential resolutions such as
+m3-1, M3-5, and M6-8.
+
+In this system, the diatonic semitone or _limma_ (e.g. e-f or b-c') is
+a compact 256:243 or ~90.22 cents, while the larger chromatic semitone
+or _apotome_ is 2187:2048 or ~113.69 cents (e.g. c-c#, eb-e). Such a
+tuning makes for efficient and expressive cadences. In the following
+diagrams, numbers in parentheses show vertical intervals in cents, and
+signed numbers show ascending or descending melodic motions:
+
+   e  --  -204 -- d        g# --  +90 -- a       f#' --  +90 -- g'  
+ (294)           (0)     (408)         (702)   (906)          (1200)
+   c# --   +90 -- d        e  -- -204 -- d       a   -- -204 -- g
+  
+   m3      -      1        M3      -     5       M6       -     8
+
+In these progressions, the unstable m3 (32:27, ~294.13 cents), M3
+(81:64, ~407.82 cents), or M6 (27:16, ~905.87 cents) is relatively
+concordant, but has a definite "edge" adding impetus to the
+resolution. One voice moves by what Mark Lindley[1] has aptly called
+an "incisive" limma of 90 cents, and the other by a generous 204-cent
+whole-tone (9:8).
+
+Marchettus may have been motivated to devise a new division of the
+whole-tone both in order to make these cadences even more dramatic and
+efficient, and to make the intricate Pythagorean mathematics simpler.
+
+He proposes a division of the 9:8 tone into "five parts," a proposal
+which seems to permit of two interpretations. The first reading,
+favored by Jan Herlinger, divides the tone into five _equal_ portions
+of about 41 cents each.[2]
+
+The second reading is suggested by a passage where Marchettus suggests
+that the tone with its 9:8 ratio might be divided into "five parts" as
+follows: 1, 3, 5, 7, 9. This could be taken as a division actually
+based on _1/9-tones_, very close as it happens to the ~22.64-cent
+steps of 53-tone equal temperament (53-tet):
+
+First reading (5 equal parts):     1/5    1/5    1/5    1/5     1/5
+Second reading (5 unequal parts):  1/9  2/9     2/9     2/9    2/9    
+
+David Lenson, in a study of 14th-century manuscript accidentals and
+intonations available on the World Wide Web[3], favors this
+interpretation.
+
+As the more mathematically orthodox Prosdocimus will emphatically
+assert a century later (1413, 1425), such even divisions of a ratio
+such as 9:8 are _in no way_ possible using the integer mathematics of
+Pythagorean just intonation -- or other integer ratio systems, one
+might add. Rather, such divisions seem akin to the tradition of
+Aristoxenos, who pragmatically recognized intervals such as
+1/6-octaves although they cannot be expressed as integer ratios..
+
+As flexible in his terminology as in his arithmetic, Marchettus
+borrowed the names of the three Greek genera to describe three kinds
+of semitones resulting from his division of the tone.
+
+An _enharmonic_ semitone, corresponding with the usual Pythagorean
+diatonic semitone found at mi-fa (e.g. e-f), has "two parts" out of
+the five. In the 1/5-tone reading, this normal semitone would be equal
+to 2/5-tone or ~81.56 cents; in the 1/9-tone reading, it might be
+equal to two "parts" of 2/9-tone each, thus yielding a 4/9-tone
+interval (~90.63 cents) virtually identical to the usual Pythagorean
+limma of ~90.22 cents).
+
+A _diatonic_ semitone, corresponding to the chromatic Pythagorean
+semitone, has "three parts." If these parts are equal 1/5-tones, then
+this semitone would be 3/5-tone or ~122.35 cents; in the 1/9-tone
+reading, if we take these three parts as 1/9-tone, 2/9-tone, 2/9-tone,
+then a 5/9-tone interval of ~113.28 cents, almost identical to the
+Pythagorean apotome, results.
+
+A _chromatic_ semitone, by which Marchettus prescribes a note should
+be inflected before a cadence (e.g. amount by which cadential g# is
+raised from g), has "four parts" out of five. In the 1/5-tone reading,
+this means an interval of 4/5-tone or ~163.13 cents, leaving a
+cadential leading-tone (e.g. g#-a) of only 1/5-tone or ~40.78 cents.
+In the 1/9-tone reading, if we take one of the "four parts" as the
+1/9-tone portion (2/9 + 2/9 + 2/9 + 1/9), we get an interval of
+7/9-tone or ~158.60 cents, leaving a leading-tone of 2/9-tone or
+~45.31 cents.
+
+Even in the latter reading, this scheme if taken literally results in
+cadential semitones of only about 45 cents, and cadential major thirds
+and sixths of about 453 cents and 951 cents respectively -- about
+midway between a Pythagorean M3 and fourth, or M6 and m7!
+
+While we have no way of being sure that such an intonation was not at
+times used, one tempting interpretation is that Marchettus was
+providing an easy-to-remember scheme for singers rather than an exact
+mathematical formula. If we take his "enharmonic" and "diatonic"  
+semitones as essentially equivalent to the Pythagorean limma and
+apotome, then his narrow cadential leading-tone might be somewhat
+narrower than the usual 90-cent limma but not quite so narrow as
+1/5-tone or 2/9-tone.
+
+
+----------------------------
+2. A "quasi-7-limit" reading
+----------------------------
+
+By following the 1/9-tone reading of Marchettus's "five part" division
+of the tone -- but defining the parts as 3/9, 1/9, 1/9, 1/9, 3/9 -- we
+can arrive at an interesting result where cadential semitones are
+equal to about 1/3-tone, and major thirds and sixth to ratios not far
+from 9:7 and 12:7.
+
+Thus our new "fivefold division" of the tone would be
+
+"Parts":             1       2       3        4                5
+           3/9       |  1/9  |  1/9  |  1/9   |      3/9       |
+----------------------------------------------------------------
+cents:   (Pyth)     67      90      114      137              204
+         (53-tet)   68      91      113      136              204
+
+----------------------
+   3/9 = cadential (limma - comma)
+
+------------------------------
+
+Topic No. 11
+   4/9 = limma (mi-fa)
+
+--------------------------------------
+   5/9 = apotome (e.g. c-c#)
+
+-----------------------------------------------
+   6/9 = superapotome (e.g. c-c# in c-c#-d)
+
+In this scheme, we get regular diatonic and chromatic semitones of
+4/9-tone and 5/9-tone, almost identical either to the usual
+Pythagorean limma and apotome, or to 53-tet semitones of 4/53 octave
+and 5/53 octave. Additionally, we get a "supercompact" cadential
+semitone of 3/9-tone, equivalent either to a limma minus a Pythagorean
+comma or to 3/53 octave.
+
+Let us see how the standard two-voice progressions discussed by
+Marchettus and illustrated in his musical examples look when we apply
+our leading-tone of 3/9-tone: 
+
+  e  --  -204 -- d        g# --  +67 -- a       f#' --  +67 -- g'  
+ (271)          (0)     (431)         (702)   (929)          (1200)
+  c# --   +67 -- d        e  -- -204 -- d       a   -- -204 -- g
+  
+  m3      -      1        M3      -     5       M6       -     8
+
+Here we arrive at a minor third of ~271 cents, close to 7:6; a major
+third of ~431 cents, close to 9:7; and a major sixth of ~929 cents,
+close to 12:7. These intervals, about a Pythagorean comma or 1/9-tone
+closer to their stable goals than even the usual Pythagorean
+intervals, seem to fit Marchettus's accentuated version of usual
+14th-century cadential aesthetics.
+
+In practice, of course, singers and players of non-fixed-pitch
+instruments would doubtless vary in their cadential intonations. From
+a xenharmonic perspective, here are some tunings suggesting the range
+of possibilities:
+
+                cadential m2   m3 (to 1)    M3 (to 5)   M6 (to 8)
+-------------------------------------------------------------------
+Pyth +/- comma     66.76        270.67       431.28       929.33
+                limma-comma  32:27-comma  81:64+comma  27:16+comma
+-------------------------------------------------------------------
+7-limit            62.96        266.87       435.08       933.13
+                   28:27          7:6          9:7         12:7
+-------------------------------------------------------------------
+53-tet             67.92        271.70       430.19       928.30
+                 3/53 oct      12/53 oct    19/53 oct    41/53 oct
+-------------------------------------------------------------------
+17-tet             70.59        282.35       423.53       917.64
+                 1/17 oct      4/17 oct     6/17 oct     13/17 oct
+-------------------------------------------------------------------
+
+These are only some convenient landmarks on the xenharmonic continuum;
+for example, a more subtle stretching of a Pythagorean major third
+cadencing to a fifth might result in an interval mentioned by Charlie
+Jordon in Tuning Digest 1577 -- 14:11 (~417.51 cents), about 10 cents
+wider than a usual 81:64 (~407.82 cents).
+
+
+--------------------------------------
+3. Marchettus as a Gothic Aristoxenian 
+--------------------------------------
+
+In building his system, Marchettus (like Vicentino 230 years later)
+uses both traditional integer ratios and a pragmatic division of the
+tone into a small number of equal parts, whether we read this system
+to be based on 1/5-tone or 1/9-tone.
+
+This system, interestingly, appears to fit and indeed to accentuate
+the aesthetic qualities of Gothic intervals and cadential progressions
+as presented in actual compositions of the time as well as in the
+writings of more orthodox Pythagorean theorists. Active major thirds
+and sixths become yet more active in cadences arranged with the
+supernarrow Marchettan leading-tones, and the release of their tension
+in expansion to the stable fifth and octave becomes yet more efficient
+and dramatic.
+
+Thus the musical feeling of 13th-14th century Continental European
+polyphony, while nicely agreeing with the mathematics of the
+Pythagorean system, may be expressed through other schemes including
+53-tet and the system of Marchettus (just possibly close
+equivalents).
+
+As art changes, the same basic mathematical scheme may also be
+modified to serve new aesthetic requirements. Thus the division of the
+tone into portions of 4/9-tone and 5/9-tone is a quite practical model
+for either Gothic or Renaissance polyphony -- but with the normal
+diatonic semitone shifting from the smaller to the larger portion as
+vertical thirds and sixths become smoother, and leading-tones
+consequently become wider (at or near 16:15).
+
+Whether or not the "superwide" cadential major thirds and sixths which
+Marchettus seems to favor actually approximated "7-limit" values,
+considering this possibility may direct our attention to some of the
+qualities of the Gothic harmonic aesthetic also nicely (albeit less
+drastically) expressed by the usual Pythagorean values. The
+exploration of the artistic territory sketched out by Marchettus --
+however uncertain the interpretation of his division of the tone -- is
+one of the main themes of neo-Gothic and Xeno-Gothic music.
+
+                 
+                      -----------------------------
+                                 Notes
+                      -----------------------------
+
+1. Lindley, Mark, "Pythagorean Intonation and the Rise of the Triad,"
+_Royal Musical Association Research Chronicle_ 16:4-61 (1980), ISSN
+0080-4460, pp. 6-7, 45; see also a convenient summary in Lindley,
+Mark, "Pythagorean Intonation," _New Grove Dictionary of Music and
+Musicians_ 15:485-487, ed. Stanley Sadie. Washington, DC: Grove's
+Dictionaries of Music (1980), ISBN 0333231112.
+
+2. Jan W. Herlinger, "Marchetto's Division of the Whole Tone," _Journal
+of the American Musical Society_ 34(2):193-216 (1981).
+
+3. David Lenson, _Nonspecific Accidentals: A study in medieval
+temperament based on notation_ (MA thesis, University of Western
+Ontario, 1987), http://home.on.rogers.wave.ca/dlenson/Thesis/ 
+-- especially Chapter 2.
+
+Most respectfully,
+
+Margo Schulter
+mschulter@value.net

@@ -1,0 +1,66 @@
+source file: mills2.txt
+Date: Tue, 11 Mar 1997 09:17:57 -0800
+
+Subject: Re: well temperament (C#/Db)
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Will Grant wrote:
+> 
+> Well, I stand corrected re key or pitch in reference to
+> Jonathan Walker's remarks, but I don't see what essential
+> difference it makes to what I was saying.
+> 
+> Of course, you can't tune one choir of strings to more
+> than one well temperament at a time; but you could tune
+> differently on Tuesdays and Thursdays, or you could tune
+> one 8' one way, and another 8' another, couldn't you ?
+
+I'm afraid this will get you no further: it can never be the case that 
+one well-tempered scheme will give you a C# (and not a Db), while 
+another will give you Db (and not C#). _Any_ well-tempered scheme will 
+simply give you C#/Db -- neither can be in a favoured position. The only 
+way I can construe you here is to conclude that you are confusing well 
+temperaments with other keyboard tunings, like meantone, which don't 
+close a chain of fifths into a circle. If this isn't the case then I'll 
+be happy to hear your explanation, but from what you've said so far I 
+can't come to any other interpretation.  
+
+While you haven't said anything to suggest it, how about this: is it 
+remotely possible that you were thinking of, say, two notional 
+well-tempered schemes, one of which would give you a very good 
+approximation of a 5/4 above A, while the second would instead give you 
+a similarly good 5/4 below F? So the first you would call your good C# 
+tuning, and the second your good Db tuning? This is as much as I can do 
+by way of speculating about your intentions. I'll wait to see what you 
+have to say.
+
+> In fact, for 1/4-tone music, etc., ordinary harpsichords
+> are, I think, a lot more convenient than ordinary pianos.
+
+What, if they have two ranks? Vishnegradskij managed well enough with 
+two pianos: each is in standard 12TET, but in relation to each other, 
+they are tuned a 2^(1/24) apart. I still find it a little comical, 
+because I'm tempted to listen to each part separately -- the musical 
+style was not particularly daring for its times, beyond the tuning 
+aspects; but perhaps I should try harder.
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 11 Mar 1997 21:51 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02192; Tue, 11 Mar 1997 21:51:31 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02190
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id MAA29974; Tue, 11 Mar 1997 12:49:27 -0800
+Date: Tue, 11 Mar 1997 12:49:27 -0800
+Message-Id: <3325C431.1A8C@dial.pipex.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

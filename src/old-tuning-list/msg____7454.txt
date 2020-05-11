@@ -1,0 +1,134 @@
+source file: m1385.txt
+Date: Tue, 14 Apr 1998 14:40:39 -0400
+
+Subject: Re: TUNING digest 1384
+
+From: monz@juno.com (Joseph L Monzo)
+
+On Tue, 14 Apr 1998 02:50:50 -0400 (EDT) tuning@eartha.mills.edu writes:
+
+>Re: Topic No. 3
+
+
+After my citation of Partch's criticism of Schoenberg's explanation of
+the 12-eq chromatic scale as the first 13 partials of "I, IV and V" on C,
+Paul Erlich wrote:
+
+>> Please continue, to where Partch shows that two notes which 
+>> Schoenberg assigns to the same 12ET note are in fact 99
+>> cents apart. I lent my copy of
+>> Genesis to a friend, so I don't have the reference handy.
+
+Continuing on p. 418 ["Genesis of a Music" 2nd ed., 1974], Partch says:
+
+"...140.5 cents (13th [partial] of "F") and 51.3 cents (11th [partial] of
+"G"),
+separated by 99.2 cents, or virtually a whole "semitone", are presumed to
+be the same tone, "Db"."
+
+Partch's point is that the assignment of partials to 12-eq
+representations by Schoenberg has a margin of error which nearly equals
+the smallest interval in the 12-equal scale, so that the partials could
+just as easily be represented by the next nearest 12-eq note as by the
+one assigned by Schoenberg.
+--------------------------------------------------------------------------------------
+Further in the discussion, regarding over-/ undertones and dualism,
+Erlich wrote:
+
+>> ...It may have been Max Meyer who used the term "hallucination", 
+>> I apologize if I misattributed that word.
+
+Meyer is indeed the one who called undertones "hallucinations".  As his
+book has been long out of print and is hard to find even in libraries, I
+give the relevant passage in full (from Meyer, "The Musician's
+Arithmetic", p.88-90 -- the idiosyncratically frequent use of italics is
+Meyer's):
+
+-----------------------------------------------
+
+"While the pretense of Rameau that his _dualistic_ theory of harmony
+(major-minor) had a _scientific_ basis had been more or less _challenged_
+by his contemporary, the _physicist_ D'Alembert, a later _physicist_, A.
+von Oettingen ["Harmoniesystem in dualer Entwicklung", 1866], not only
+_defended_ the logic of Rameau so far as mere dualism is in question, but
+even _tried to strengthen the dualism_ by a new logical derivation of the
+"symmetry" upon which the notion of dualism is based.
+
+Let us at once point out, however, that the major-minor theory of
+Oettingen is worse than Rameau's in this respect: that it fits even
+fewer, indeed only an exceedingly small minority of, cases of musical
+experience.
+
+Reasoning from the fact that Rameau proposed 1-3-5 as the make-up of the
+major chord with 1 as the chief tone, and 3-5-15 as the make-up of the
+minor chord with 5 as the chief tone, Oettingen very unreasonably invites
+the reader to _form the reciprocals of the latter three numbers_, that
+is, 1/3, 1/5, 1/15.  Oettingen then gives these fractions a common
+denominator, 15, and considers then only the numerators 5, 3 and 1 (in
+5/15, 3/15 and 1/15); and he invites the reader to conclude that, because
+1 thus sprang from 15 and because 1 was _the chief_ tone in the other
+(major) case, therefore the chief tone of the minor chord 3-5-15 must be
+the tone 15, _the father of the chief_ 1.  This would mean, for example,
+that among the tones C-A-E heard the tone E would have to be the chief
+tone.  Oettingen comes very near rewriting all the scores of all the
+previously composed music in minor, for the purpose of correcting all the
+"mistakes" made by the composers who were ignorant of his logical
+discovery.  Musicians, of course, have not been willing to sacrifice
+their quite different musical experiences to Oettingen's "logic".
+
+Hugo Riemann ["Musikalische Syntaxis", 1877] alone among the musicians
+was captivated by Oettingen's attempt at imposing the duality notion of
+Rameau more strongly than ever upon musical thinkers, -- captivated to
+such a degree that he even had hallucinations; for at one time he
+asserted the existence of "undertones", corresponding to those
+reciprocals mentioned in the previous paragraph, as the acoustical
+counterpart of "overtones".  The major scale would then be governed by
+overtones, the minor scale by undertones.  What a beautiful "symmetry"! 
+And not only a mysterious and speculative symmetry, but a truly
+acoustical symmetry, strictly scientific!  Undertones versus overtones!
+
+Unfortunately (for Riemann) acoustical science knows nothing of
+undertones.  These hallucinatory tones would have to be mechanically
+_multiplex_ tones in the same sense in which overtones are mechanically
+_partial_ tones.  But this would require the imagination of a sort of
+fourth dimension for space.  A volume of mass under tension can indeed
+vibrate in parts of itself.  This is plain mechanics.  But how could it
+vibrate in multiples of itself?  The multiples would have to lie in the
+fourth, the invisible dimension.
+
+>From all this nonsense we should learn this lesson:  We ought to abstain
+altogether from mixing up acoustics (which is nothing but a branch of
+mechanics) with musical theory (which concerns itself with reactions of
+organisms equipped with nervous tissue), notwithstanding the fact that on
+occasions a knowledge of acoustics can be very valuable to certain
+friends and helpers of the musician, that is, to the builder of musical
+instruments and to the physician treating larynx troubles."
+
+-----------------------------------------------
+
+Hopefully this last bit will provide more fodder for debate among tuning
+folk.
+ 
+It should be observed that although Partch almost always agrees with
+Meyer, and although he found room in "Genesis" to criticize Oettingen
+without making particular note of the similarities of his own theories
+with Oettingen [see p. 389], he does in fact utilize exactly Oettingen's
+numerical method of building Utonalities.
+
+Partch's criticism of Oettingen is only that Oettingen "held that unity
+for the 'minor' triad was found in the first partial common to all three
+tones.  This is of course the second 2/1 above the highest tone in the
+triad: 3/2 in the traid 1/1 - 6/5 - 3/2...", and that "Oettingen failed
+to consider difference tones of the minor...".  Otherwise, Partch placed
+the same significance as Oettingen in the reciprocal proportions of the
+"minor" chord, but without the acoustical allusions.
+
+   Joseph L. Monzo
+    monz@juno.com
+    4940 Rubicam St., Philadelphia, PA 19144-1809, USA
+    phone 215 849 6723
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

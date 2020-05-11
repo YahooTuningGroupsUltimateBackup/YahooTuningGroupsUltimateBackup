@@ -1,0 +1,30 @@
+source file: m1397.txt
+Date: Sun, 26 Apr 1998 23:51:00 -0500
+
+Subject: Re: TUNING digest 1396
+
+From: "jloffink" <jloffink@pdq.net>
+
+> From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+> 
+> ... The question of what that
+> resolution should be can be best answered on the basis of finding a large
+
+> equal temperament in which the limit you want to work in is consistantly
+> represented. 
+> 
+> Since many manufacturers will probably continue to specify tunings in
+terms
+> of deviations from 12tet pitch classes, it would probably be best to
+lobby
+> on the basis of two large equal temperaments, one chose entirely on the
+> basis of prime consistancy and another on this basis, but limited to
+those
+> temperaments divisible by 12.
+
+You made some valid points, but since the MIDI Tuning Standard is already
+in divisions of 2^n, I think it would be a bad idea to promote some other
+division.  I was more interested in the desired frequency resolution.  
+
+John Loffink
+jloffink@pdq.net

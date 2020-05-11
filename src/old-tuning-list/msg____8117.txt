@@ -1,0 +1,34 @@
+source file: m1451.txt
+Date: Thu, 18 Jun 1998 10:14:39 -0500
+
+Subject: RE: ROM, RAM, Z1, Trinity
+
+From: "Loffink, John" <John.Loffink@COMPAQ.com>
+
+> From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+> 
+> of course what I meant is that there is an area of the memory which 
+> can be written to (otherwise you couldn't change the parameters etc) 
+> but which doesn't take up _sample_ RAM.  Exactly what you call this  
+> area of memory, what it is, how it works, etc, I'm no expert at (as 
+> you'll just have gathered).  Presumably it's some kind of RAM 
+> reserved for stuff nearer the operating system level.  I'm sure John 
+> Loffink used a term to describe it once, but I haven't time to search 
+> for it right now.  In haste again  -
+  
+Program RAM.  That's what the sampler microprocessor uses for its own
+storage and program parameters, but not sample data.
+
+>  From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+> 
+> John Loffink's site lists the Korg Z-1 and Trinity series as having a 
+> global user full keyboard tuning.
+> Really ? I had to ask because I've always thought of Korgs as being from 
+> the 12-note-only camp.
+> 
+It's true.  I checked them out myself at the music store.
+
+John Loffink
+jloffink@pdq.net
+
+>

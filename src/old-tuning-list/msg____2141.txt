@@ -1,0 +1,38 @@
+source file: mills2.txt
+Date: Sat, 14 Oct 1995 08:30:29 -0700
+
+Subject: Computing Nth Roots
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+Another source claimed that Tsai-Yu" would have
+had to start with some numbers as large as 105 digits to
+get the required precision. I don't know what algorithms he
+used, but I suppose they were variations of the long-division
+ones for the square and cube roots we learnt in elementary school 
+and promptly forgot. All 12 roots may then be calculated by taking 
+various combinations of the square and cube roots. 
+	Ancient calculators were less handicapped by their notations 
+as might be presumed as computations were done with the help of an 
+abacus or counting board. Probably no one used Roman, Greek or Babylonian
+numerals symbolically.
+	Pace Aristoxenos and the myth that he meant ET, the ancient 
+Greeks were perfectly capable of computing 12-tet  if they had ever 
+wanted to. (Ditto for 24, 36, 72, and 144-tets to obtain the other 
+'shades' of his diatonic and chromatic tetachords.)
+	Archimedes allegedly invented a mechanical device called
+the Mesolabium (in latin) to approximate N-th roots and other
+graphical or geometric methods were known.
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 14 Oct 1995 19:08 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA20542; Sat, 14 Oct 1995 10:08:24 -0700
+Date: Sat, 14 Oct 1995 10:08:24 -0700
+Message-Id: <951014170639_71670.2576_HHB40-4@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

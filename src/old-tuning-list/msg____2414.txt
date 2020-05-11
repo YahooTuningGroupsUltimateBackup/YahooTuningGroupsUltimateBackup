@@ -1,0 +1,97 @@
+source file: mills2.txt
+Date: Fri, 22 Dec 1995 12:26:28 -0800
+
+Subject: Re: TUNING digest 591 - 12 tone optimization
+
+From: Jeff Welty <jwelty@wdni.com>
+
+Jeff said:
+> 
+> The objective function I minimize the sum of squared errors of
+> actual interval values minus desired interval values.
+> 
+> 	errsum = 0 ;
+> 	for n = 0 to 11 {
+> 	    v1 = note_cents[n] ;
+> 	    w1 = note_weight[n] ;
+> 	    for i = 0 to 6 {
+> 		int n2 = n+i+1 ;
+> 		if (n2 < 12) {
+> 		    v2 = note_cents[n2] ;
+> 		    w2 = note_weight[n2] ;
+> 		} else {
+> 		    v2 = note_cents[n2-12]+1200. ;
+> 		    w2 = note_weight[n2-12] ;
+> 		}
+> 		err = interval_weight[i]*w1*w2*((v2-v1) - desired_interval[i]) ;
+> 		errsum = errsum + err*err ;
+> 	    }
+> 	}
+> 
+> 
+Manuel Op de Coul said:
+> I don't completely understand from the code what it is that is coming
+> out of it. You to have to supply weights for 12 notes and then only 7
+> intervals are compared. Are you comparing the prime on purpose, or is
+> it always 0 cents? Is the resulting scale always symmetrical? The
+> error-function seems to be quadratic in the note values, and so far as
+> I can tell you need indeed an iterative procedure to find the minimum
+> of it. If there wouldn't be product terms of pitch variables then the
+> solution could be found algebraically by setting the derivative to 
+> each of them to zero.
+> 
+
+First, the easy ones.
+1.) The resulting scale is definitely not symmetrical. It is my understanding
+that it is impossible to have all perfect intervals in a 12 tone scale
+where the intervals are based on frequency ratios. -- the input data
+actually asks for the desired interval values in terms of ratios i.e.
+a fifth is 3/2 a fourth is 4/3 etc.
+
+2.) the routine is indeed iterative.
+
+Now the harder ones -- thanks for making me think about this Manuel!
+You found a bug in the routine.  The intent I had was to compare the
+actual intervals between all notes only once, but using 7 half steps
+forward from each note results in some duplication and an inadvertant
+doubling of the weights for intervals 6&7 since each is calculated twice
+and added to the error sum!  That's what I get for "throwing" this
+together.  (and that's the value of having other minds examine the
+process). The appropriate loop really ought to look *something* like:
+
+	for n = 0 to 11 {
+	    for n2 = n+1 to 11 {
+		int i = n2-n ;
+		if(i <=6 ) {
+		    v1 = note_cents[n] ;
+		    w1 = note_weight[n] ;
+		    v2 = note_cents[n2] ;
+		    w2 = note_weight[n2] ;
+		} else {
+		    v1 = note_cents[n2] ;
+		    w1 = note_weight[n2] ;
+		    v2 = note_cents[n2]+1200. ;
+		    w2 = note_weight[n2] ;
+		    i = 12-i ;
+		}
+		err = interval_weight[i]*w1*w2*((v2-v1) - desired_interval[i]) ;
+		errsum = errsum + err*err ;
+	    }
+	}
+
+New code will come sometime for those who've asked for it with this fix.
+Hopefully today.
+
+Jeff Welty             <weltyj@wdni.com>
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 23 Dec 1995 00:00 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA04594; Fri, 22 Dec 1995 15:00:25 -0800
+Date: Fri, 22 Dec 1995 15:00:25 -0800
+Message-Id: <v01530500acfc7cb10cf6@[194.137.65.33]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

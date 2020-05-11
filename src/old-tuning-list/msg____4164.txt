@@ -1,0 +1,118 @@
+source file: mills2.txt
+Date: Tue, 26 Nov 1996 20:21:59 -0800
+
+Subject: lurker revealed
+
+From: James Kukula <kukula@synopsys.com>
+
+Another lurker's confession:
+
+I studied physics in college. Somehow I got turned on to the musical
+connection when the wave equation and normal modes of oscillation came up. I
+dragged my Jr. High guitar out from under the bed & played with harmonics &
+tuning for the next few years. I started using the frets after a while. Never
+have got any good at playing any sort of music, but I still keep the guitar
+next to my chair & play around often enough, mostly just pentatonic
+meandering.
+
+In college I posed myself the problem, is there a better equal-step scale
+than the common one based on 2**(1/2)? I wrote a program to evaluate a
+"quality of scale" function for various step sizes, the function being a sum
+over overtones of how close the scale hits the overtone. I printed asterisks
+next to the local minima. When lots of lines got flagged, I zoomed in - and
+still lots of asterisks! Then I saw the same function in a math book as an
+example of a continuous function nowhere differentiable. Huh, never knew
+about that before. Kept on tuning that guitar, amazing what structure can
+unfold from just a couple of strings.
+
+Started getting into rational approximations to irrational numbers in
+grad school, triggered somewhat by the Fibonacci patterns in sunflowers. At one
+point I remember surprising a Jewish friend by asking about 19 year cycles in
+the lunar calendar. Irrational numbers are everywhere! Also started looking at 
+close calls in large products of small integers as a way to generate
+scales. Became a fan of 10**(1/90) as a generating interval. On guitar played
+a bit with scales built on the same old 2**(1/12), only so much one can do
+with frets, but with periods based not on the octave but the fifth, fourth, 
+etc. 
+
+What kind of instrument might be useful for playing 10**(1/90) music? How
+about a surface covered with hexagonal keys? Hey, the same thing could be
+used for other scales, too, good old 2**(1/12) or even just tuning!!
+
+   C     D     E     F#    G#    A#    C     D     E
+A     B     C#    D#    F     G     A     B     C#    D#     
+   G#    A#    C     D     E     F#    G#    A#    C   
+F     G     A     B     C#    D#    F     G     A     B    
+   E     F#    G#    A#    C     D     E     F#    G#    
+C#    D#    F     G     A     B     C#    D#    F     G  
+   C     D     E     F#    G#    A#    C     D     E
+A     B     C#    D#    F     G     A     B     C#    D#     
+   G#    A#    C     D     E     F#    G#    A#    C   
+F     G     A     B     C#    D#    F     G     A     B    
+   E     F#    G#    A#    C     D     E     F#    G#    
+C#    D#    F     G     A     B     C#    D#    F     G  
+
+I enjoy this newsgroup because even though I've only been subscribed a couple
+of weeks, people have gone far beyond any of my ideas in all directions!
+Anyway I put up this key pattern just for everyone's amusement. Probably all
+old hat as well, but my just tuning version is based on a pattern with three
+keys to a unit cell, the various cells run through all (2**n)(3**m), while
+the keys in the unit cell are related by, well, maybe 4/5, 1, 5/4, or??? I
+imagine a control panel sort of like organ stops, where one can reset the
+relationship between the keys in each cell, so one could even walk the
+progression 5/4, 25/16, etc. 
+
+Next problem, how to notate. Of course I have zip music training, I moved out
+of the school district in 8th grade just as they were about to catch me
+singing the melody line in chorus instead of whatever the sheet music
+said. Anyway I took a couple of Bach's harmonized chorals and used the colors
+of the spectrum to denote which just-tuned note I might want to play, the
+choices being in a series of 81/80 intervals. Well, I couldn't really finish 
+the exercise, but I got some really cool looking scores, and the exercise 
+seemed to reveal some interesting structure in the music, a gradual
+accumulation of tension and then resolution: I didn't seem too far off track
+at least. 
+
+I was completely amazed to see similar geometric patterns of fractions in
+Ernest McClain's books THE MYTH OF INVARIANCE etc. I also read one of Alain 
+Danielou's books, not (yet) the one recently published by Inner Traditions 
+- MUSIC AND THE POWER OF SOUND - but something about musicianship in the
+Orient, I forget the title. I also ran across a very similar analysis of the
+misfit of just tuning in 19th century Western music in THE STRUCTURE OF
+RECOGNIZABLE DIATONIC TUNINGS. 
+
+My more recent playing around with continued fractions has enamored me of the
+2**(1/53) scale. I am hoping to use simulated annealing algorithms to
+generate some reasonably structured random "melodies" in this and other
+scales. One musical friend doubts that rational intervals really sound
+better. For him I want to generate melodies in the scale generated by the
+cube root of the golden ratio, which ought to sound "perfectly horrible".
+
+I listen to all sorts of music - Captain Beefheart, Johnny Dyani, Paul
+Hindemith. Sometimes Harry Partch, Ben Johnston, Joe Maneri, or Music of Iran
+on Lyrichord. 
+
+Not long ago I spent some time training in a Tibetan Buddhist tradition &
+learned some basics of liturgical music: drum, cymbals, gyaling (a shawm),
+and ratung (a long straight horn). A very different style of music!
+
+I've gone on way too long! Thanks for continuing to open music up, the
+possibilities seem inconceivably vast!
+
+(These days I'm a computer programmer, developing tools for digital circuit
+designers.)
+
+Jim Kukula
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 27 Nov 1996 11:03 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09047; Wed, 27 Nov 1996 11:05:22 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA09540
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id CAA15795; Wed, 27 Nov 1996 02:05:20 -0800
+Date: Wed, 27 Nov 1996 02:05:20 -0800
+Message-Id: <199611271101.LAA30846@teaser.teaser.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

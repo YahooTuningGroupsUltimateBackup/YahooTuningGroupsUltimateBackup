@@ -1,0 +1,70 @@
+source file: mills2.txt
+Date: Fri, 6 Sep 1996 02:37:37 -0700
+
+Subject: More Equal Temp. vs. Just Int. MIDI files available
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+Hello again, fellow "tuning@eartha.mills.edu" subscribers and friends!
+
+Back by popular demand, I have created more example MIDI files demonstrating
+the difference between Equal Temperament and Just Intonation.  I had been
+meaning to write about it for some time, but the appended email from Ed
+Dotson gave me the extra motivation I needed (Thanks, Ed!).
+
+To hear the new examples (the first 3 steps are the same):
+
+1)  Go to my home page, "http://www.pacificnet.net/~nowitzky",
+2)  Go to the "Interests" section,
+3)  Select "here" in the sentence "Click here for an explanation",
+4)  Down near the bottom of the "Just Intonation" page, select the link
+entitled "The" Dominant Seventh Chord (under "For more fun"),
+5)  Either read all my "blah blah blah" explanation, or if you're impatient,
+skip right to the bottom and select one of the four example links--"The
+first tuning", "The second tuning", "The third tuning", or "Equal temperament".
+
+As always, I appreciate any comments/criticism/suggestions on my stuff.  Be
+well, and be "justly intoned"...
+
+--Mark
+
+     ==========================
+
+Appended email, from Ed Dotson:
+
+At 11:21 PM 8/30/96 -0700, Ed Dotson wrote:
+>Hey Mark: I listened to the files.  The justly tuned seemed 
+>smoother... perhaps less vibrancy due to fewer beats.  I'm a bbshopper who 
+>doesn't find the 7th flat(g)... maybe flat beautiful!!
+>How did you justly tune promenji.mid.  By manual calculation and pitch 
+>bending?
+>-- 
+>
+>Ed Dotson
+>ldotson@sprynet.com
+>73757.1062@compuserve.com
+
+P.S.:  Ed, I'm using pitch bending, as you surmised.  I wrote a "CAL"
+("Cakewalk Application Language") program to automate most of the necessary
+calculations.  Thanks again for your email.  --Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@pacificnet.net                      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Sep 1996 16:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24699; Fri, 6 Sep 1996 16:05:50 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA24780
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA19161; Fri, 6 Sep 1996 07:05:39 -0700
+Date: Fri, 6 Sep 1996 07:05:39 -0700
+Message-Id: <960906140000_71670.2576_HHB73-5@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

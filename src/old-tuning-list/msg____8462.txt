@@ -1,0 +1,33 @@
+source file: m1525.txt
+Date: Wed, 09 Sep 1998 22:56:29 -0400
+
+Subject: Re: TUNING digest 1524
+
+From: Dr_Orient <jma9183@garnet.acns.fsu.edu>
+
+> Topic No. 2
+>
+> Date: Sun, 06 Sep 1998 08:46:23 -0500
+> From: Gary Morrison <mr88cet@texas.net>
+> To: tuning@eartha.mills.edu
+> Subject: Re: Experimental 19-tone keyboard
+> Message-ID: <35F2922A.6548B175@texas.net>
+>
+> > I have nearly completed my custom MIDI keyboard ( final year electronic project
+> > at university ).
+>
+>    Neat!  Out of curiosity, which university?
+>
+> > I want to know if there is any preference as to what MIDI note number
+> > coresponds to each key.
+>
+>    I'm not personally aware of any such standard.  Although if you want to
+> maintain A=440Hz as an absolute-pitch standard, then perhaps it might make sense
+> to make that be the common note.
+>
+
+It is my understanding that General MIDI starts at C-1 being labeled MIDI Note number 0, extending to G9
+being labeled MIDI Note number 127 (Note: the 88-key range of a piano keyboard, by these criteria,
+extends from A0{an octave and a sixth above C-1} to C8, with C4 corresponding to Middle C). MIDI Note
+numbers may be extended higher than 127, but I have not encountered examples of them being extended on
+the low end. Any observations from more experienced readers?

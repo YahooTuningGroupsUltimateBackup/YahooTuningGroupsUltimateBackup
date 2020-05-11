@@ -1,0 +1,61 @@
+source file: mills3.txt
+Date: Wed, 1 Oct 1997 17:17:26 +0200
+
+Subject: dynamic JI
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+I was wondering why no one doing dynamic intonation seems to make use
+of research in the area of automatic key recognition of music. There
+is work done by Jamshed J. Barucha who uses a connectionist model
+which for example can also detect when the key is ambiguous. Other
+work in this regard did H. John Maxwell. He proposed a set of 55 rules
+to answer the two questions: Which vertical sonorities are chords? and
+What is the key?
+I presume these methods can be used as input to a dynamic intonation
+algorithm, but to my knowledge this hasn't been done yet. Judgeing
+from these papers however it looks quite difficult to capture the
+abstract state called key in a set of fixed methods. Though Maxwell
+has come rather close.
+Perhaps there are advantages if dynamic intonation methods would also
+try to identify cadences instead of focusing on how to get chords in
+tune, for other music than chorales or so.
+
+References
+Barucha, Jamshed J. _MUSACT: A connectionist model of musical
+harmony_. In: Machine Models of Music, Stephan Schwanauer & David
+Levitt (eds.), The MIT Press, 1993.
+Maxwell, H. John. _An expert system for harmonyzing analysis of tonal
+music_. In: Understanding Music with AI, Mira Balaban, Kemal Ebcioglu
+& Otto Laske (eds.), AAAI Press/The MIT Press, 1992.
+
+Manuel Op de Coul    coul@ezh.nl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  John Starrett <jstarret@tiger.cudenver.edu>
+Subject:  Re: Cakewalk CAL language, etc.
+PostedDate:  01-10-97 18:02:57
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-10-97 18:02:35-01-10-97 18:02:35,01-10-97 18:01:31-01-10-97 18:01:31
+DeliveredDate:  01-10-97 18:01:31
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256523.00581CA8; Wed, 1 Oct 1997 18:02:25 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03946; Wed, 1 Oct 1997 18:02:57 +0200
+Date: Wed, 1 Oct 1997 18:02:57 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03955
+Received: (qmail 10009 invoked from network); 1 Oct 1997 09:02:54 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Oct 1997 09:02:54 -0700
+Message-Id: <Pine.A32.3.91.971001095627.60196A-100000@tiger.cudenver.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

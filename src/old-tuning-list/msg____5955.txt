@@ -1,0 +1,57 @@
+source file: mills3.txt
+Date: Tue, 12 Aug 1997 22:09:16 +0200
+
+Subject: Re: TUNING digest 1151
+
+From: Paul Rapoport <rapoport@mcmail.CIS.McMaster.CA>
+
+I knew someone would pounce on my objection to general use of quartertone
+and say that syntonic comma should be restricted to 81:80. Thanks, Gary!
+
+However, I disagree. Syntonic comma may be defined algebraically and then
+applied to any tuning system in which that formula makes sense. To say,
+for example, that 53-tET has no syntonic comma isn't helpful. Sure it's
+tempered, but so are all ET intervals, including the perfect fifth, a term
+which is not restricted to 3/2 in common usage. What's so special about
+81/80?
+
+I know we've been over this before, but I think I'm being consistent. As
+far as I'm concerned, anyone is welcome to talk about quartertones in
+31-tET; you just won't find them in the tuning.
+
+Any JI term that has an ET equivalent is probably OK to use in the
+tempered sense, as long as that use is understood. This is where
+"quartertone" is different: it's already a tempered term.
+
+Your turn, Gary.
+
+Paul Rapoport
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  kukula@synopsys.com
+Subject:  Natural Harmony
+PostedDate:  12-08-97 22:44:12
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-08-97 22:44:14-12-08-97 22:44:15,12-08-97 22:42:37-12-08-97 22:42:38
+DeliveredDate:  12-08-97 22:42:38
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564F1.0071E612; Tue, 12 Aug 1997 22:44:13 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00459; Tue, 12 Aug 1997 22:44:12 +0200
+Date: Tue, 12 Aug 1997 22:44:12 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00457
+Received: (qmail 20733 invoked from network); 12 Aug 1997 20:31:59 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Aug 1997 20:31:59 -0000
+Message-Id: <199708122027.NAA05498@sunatg3>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

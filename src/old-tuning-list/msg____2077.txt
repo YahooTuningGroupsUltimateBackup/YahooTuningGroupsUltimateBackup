@@ -1,0 +1,125 @@
+source file: mills2.txt
+Date: Fri, 29 Sep 1995 04:11:49 -0700
+
+Subject: FWD: Tom McGeary on unequal temperaments
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Date:         Fri, 29 Sep 1995 02:12:17 -0500
+Sender:       Harpsichords and Related Topics <HPSCHD-L@CNSIBM.ALBANY.EDU>
+Subject:      Tom McGeary on unequal temperaments
+
+Like Dr. Frosztega, I too was dismayed that Jorgensen's theory
+that equal temperament was unknown in the 18th century was applied to
+the discussion about Bach - esp. since most serious reviews of his books
+have raised questions about his historical and evidentiary reasoning.
+In a review of his most recent book (in 1992 issue of Early Keyboard
+Journal), I addressed this argument at some length, which section
+I've appended below.
+
+tom mcgeary
+
+
+
+Jorgensen's historical thesis is that "Before the twentieth century, the
+system of equal temperament commonly practiced today was not possible on
+pianos, harpsichords, or clavichords . . . ." (p.779)
+
+According to Jorgensen, historical tuners could not set equal temperament
+because "During the nineteenth century and before, . . . one did not count or
+compare beat frequencies.  In fact, one did not listen to beats at all. . . .
+In the past, tuning by ear meant that one judged the relationships between the
+two notes of an interval by listening to the notes melodically only.  The
+first note was never sustained while the second note was being played.
+Therefore, no beats could be heard. (p.4)  .  . . In the past, tempering
+techniques consisted of listening carefully to the colors or qualities of
+chords in order to make aesthetic judgments for each tone. (p. xxi) . . . On
+technical grounds, . . . equal temperament on pianos or harpsichords was
+impossible during the nineteeth century and before." (p.6)
+
+This astonishing argument requires careful unravelling to show its fundamental
+confusions.  First, the 'facts' supporting this argument are a complete
+invention on Jorgensen's part. One has only to look at the original versions
+of the tuning directions that Jorgensen discusses (but not as Jorgensen
+reprints them !) to see that almost all tuning directions were set out
+harmonically and, therefore, that tuners presumably did tune intervals
+harmonically.
+
+Several lines from Barthold Fritz's "Anweisung, wie man Claviere, Clavecins,
+und Orgeln . . . in allen zwo"lf To"nen gleich rein stimmen ko"nne" (1756) -
+reprinted four times and the most influential practical tuning treatise in
+Germany - are worth quoting for several reasons (beyond just Fritz's clear
+advocacy of equal temperament):  "The most skilled tuning masters are
+accustomed to give the rule: that the major thirds beat above, the fifths,
+however, beat low."  Fritz gives the test of the equal-tempered major third 
+f - a: the speed of its beating should "approximate the eights in common time."
+
+Fritz's statements surely suggest that tuners heard beats and might even
+listen for beat rates. Moreover, they cast doubt on Jorgensen's statement
+that "nineteenth-century tuners believed that the beats of thirds and sixths
+were too rapid to count, compare, or use for tests" (5).  Surprisingly,
+Jorgensen seems not to have noticed that even his own book contains many
+mentions of historic tuners hearing or using beats.
+
+Jorgensen has the ide'e fixe that without the beat rates and test intervals
+known to modern tuners and without the skill to listen to beats at the upper
+harmonics, "equal temperament on pianos or harpsichords was impossible during
+the nineteenth century and before" (6). Jorgensen is, of course, correct that
+any keyboard instrument tuned where even a single note in the temperament
+octave deviates one cent from the theoretically correct value is technically
+not set in equal temperament (though such accuracy may not even be desirable).
+Without electronic aids and given the complex harmonics of a vibrating string,
+the phenomenon of coupled motion in pairs or triplets of strings, and the
+fallibility of human ears, a theoretically exact equal temperament has
+probably never been achieved.
+
+Elsewhere Jorgensen states that "equal temperament on pianos must be judged by
+the ear and not by electronic analysis of the actual frequencies" (4).  If
+ultimately it is an aural test for equal temperament, the question that
+Jorgensen does not consider is:  What degree of accuracy is sufficient to
+accept a practical tuning as equal temperament?  Without some standard of
+accuracy, one can all-too arbitrarily dismiss out of hand all historical equal
+temperaments (and presumably many modern ones as well) as too inaccurate to
+count as equal temperament - notwithstanding the fact that we have no
+witnesses to the accuracy of eighteenth-century tuners.
+
+Jorgensen also uses the dubious straw-man argument to prove equal temperament
+was impossible in the past. He suggests the experiment of having a group of
+musicians instruct a piano tuner how to set an equal temperament going through
+a cycle of fifths, with the condition that all intervals and chords be played
+arpeggio and staccato!  Of course the results will be an acoustical cacophony.
+But for Jorgensen, "the piano has been tuned 'by ear' in equal temperament
+according to nineteenth-century requirements" (5).
+
+Even if we accept, then, that eighteeth and nineteenth century tuners could
+not set a theoretically precise equal temperament that would meet Jorgensen's
+modern standards, what is the appropriate practical conclusion to draw?
+Certainly not the rest of Jorgensen's argument:  that historical tuning of
+equal temperament was "so different from that of today that it no longer can
+be called equal temperament" (p.3) and that tuners were deliberately trying to
+achieve key coloration.
+
+Jorgensen fails to make a crucial distinction between random deviations from
+precise equal temperament and deliberate attempts to set unequal temperaments
+designed to produce key coloration.  To ignore the difference between what is
+ideal and what we accept as a pragmatic realization of it could lead to the
+argument that we have never yet heard the Goldberg Variations ( i.e., achieved
+equal temperament) because in performance there are always a few wrong notes
+or rhythms that Bach did not intend ( i.e., random deviations from
+theoretically correct equal temperament.)
+
+More likely:  we should realize that when and where equal temperament was the
+goal, for historical accuracy we should utilize our modern practical tuning
+techniques to achieve the equal temperament that musicians certainly asked for
+and thought they were getting.
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 29 Sep 1995 17:49 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA19762; Fri, 29 Sep 1995 08:49:13 -0700
+Date: Fri, 29 Sep 1995 08:49:13 -0700
+Message-Id: <0099721C3F2F9BB5.29CF@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,67 @@
+source file: mills2.txt
+Date: Sun, 12 Nov 1995 12:57:29 -0800
+
+Subject: Re: Just Tuning - definition
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Well John, it's pretty hopeless to ask a couple hundred tuning-heads to avoid
+editorializing when somebody as authoritative as the Harvard guys say something
+as ... "distasteful" I suppose ... as that!  
+
+   Yeah, I've heard that Harvard definition of JI before ("any tuning that
+incorporates five or more acoustically pure types of intervals within the
+octave").  I personally doubt if it's refering to what it sounds like it's
+refering, and it's certainly vague whatever it's refering to.  
+
+   First of all, it never defined "acoustically pure".  "Equal to an untempered
+small whole number frequency ratio" would be a reasonable guess, but of course
+then they'd have to define "small".  
+
+   Second, it doesn't define "types" of intervals.  Are the fifths from scale
+steps 1-5 and 2-6 (regardless of their tuning) different "type"s, or is this
+sort of typing independent of position in the scale?  If it's independent of
+position in the scale, is the fifth from 7-11(4) - a diminished fifth - of the
+same "type" as the other fifths?  Are all perfect consonances one type, major
+another, and minor another?  
+
+   Third, it doesn't clarify whether "within an octave" includes an octave or
+not.  That sounds nit-picky I know, but if you've got four other than the
+octave, you've got to know the answer.  
+
+   Here's how I suspect that definition came about:  They got the number five
+from the number of exact 3:2 perfect fifths in the circle forming the historical
+Ptolemaic tuning.  In that tuning, the fifths between scale-degrees 4-8(1), 1-5,
+5-9(2), 6-10(3), and 3-7 are exact 3:2 fifths.  7-11(4) is not perfect, and 2-6
+is where the circle breaks by inserting a comma-flat fifth.  At that point, I
+suspect they took that number 5 and, without thoroughly understanding the
+question, wrapped what turned out to be deeply ambiguous words around it.  I'm
+speculating here of course.  
+
+   But let me make one very important point:  I suspect that it's difficult to
+support the idea that the definition of just intonation has been invariant over
+the centuries, and over the various schools of Western music.  JI enthusiasts,
+and most others knowledgible of tuning ideas, take it to mean - essentially -
+the opposite of temperament.  But one can probably argue fairly successfully
+that the definition was far more narrow in earlier times.  I doubt if Ptolemy's
+followers would have viewed Monophony as just intonation.  Considering that
+(according to Dave Hill) Rameau rejected 7:4 as a basic harmonic building block,
+I suspect that they probably would have viewed Monophony instead as more like
+cacophony!  Fortunately for Partch fans like me, the realm of musical
+possibilities is far more experimental nowadays.  
+
+   (I'm sorry John;  I accidentally deleted your message before I got a chance
+to answer - to you directly - the two specific questions you asked.  If you'd
+like me to answer them specifically, please resend them to me personally.)
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 13 Nov 1995 03:26 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA13689; Sun, 12 Nov 1995 17:26:12 -0800
+Date: Sun, 12 Nov 1995 17:26:12 -0800
+Message-Id: <951113011947_71670.2576_HHB42-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

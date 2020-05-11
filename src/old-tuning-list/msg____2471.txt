@@ -1,0 +1,51 @@
+source file: mills2.txt
+Date: Fri, 19 Jan 1996 11:25:56 -0800
+
+Subject: 31 tone et
+
+From: madole@ella.mills.edu (David Madole)
+
+> From: James Harley <jharley@mach1.wlu.ca>
+> To: tuning
+> Subject: Re: 31-tone in csound 
+
+> I've done just that--it's very simple. Either you create a table of 
+> frequencies, or use a logarithmic function to generate the scale from a 
+> starting frequency (sorry I can't just give you the code for the 
+> formula off the top of my head--I'll have to dig it out). I used a C 
+
+Well just happen to have it in my home directory...
+
+Here is the code I use to generate multiples for ET scales, e.g.,
+a.out 31 to generate multiples for 31 tone scale.  Then I put in
+a gen 2 (I think) statement for Csound and do table lookup in instrument.
+
+Really is pretty simple.
+
+Dave
+
+#include <stdio.h>
+#include <math.h>
+
+main(int argc, char **argv){
+int i,n; 
+float x;
+n = atoi(argv[1]);
+/*printf("%d\n",n);*/
+for (i = 0; i < n+1; i++) {
+	x = pow (2.0, (float)i/n);
+	printf("%f ",x);
+}
+printf ("\n");
+}
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 20 Jan 1996 17:27 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA21755; Sat, 20 Jan 1996 08:26:44 -0800
+Date: Sat, 20 Jan 1996 08:26:44 -0800
+Message-Id: <Pine.3.89.9601201100.A5705-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

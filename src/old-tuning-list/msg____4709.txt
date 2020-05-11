@@ -1,0 +1,27 @@
+source file: mills2.txt
+Date: Fri, 31 Jan 1997 15:39:34 -0800
+
+Subject: Re: TUNING digest 972
+
+From: Adam Silverman <adam.silverman@yale.edu>
+
+I am not clear on what you mean by "Lucy Tuning."  Is this some special
+tuning concept or is it just your word for a flexible JI that hovers
+around 440?
+
+-Adam
+abs22@pantheon.yale.edu
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 1 Feb 1997 22:57 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22198; Sat, 1 Feb 1997 22:57:49 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA22201
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id NAA26820; Sat, 1 Feb 1997 13:55:23 -0800
+Date: Sat, 1 Feb 1997 13:55:23 -0800
+Message-Id: <Pine.3.07.9702011634.A13180-7100000@login>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

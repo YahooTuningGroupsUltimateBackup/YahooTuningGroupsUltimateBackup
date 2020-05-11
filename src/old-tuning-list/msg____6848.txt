@@ -1,0 +1,62 @@
+source file: mills3.txt
+Date: Tue, 30 Dec 1997 03:30:48 +0100
+
+Subject: Re: re 19, 22, etc
+
+From: mr88cet@texas.net (Gary Morrison)
+
+It looks like you already got an answer to your question about (4 * P5 -
+M3 = T / 2), so I'll answer the other one.
+
+
+
+> what does 88cet mean? Each tone having 88 cents?
+
+   Yip!  88CET = "88 Cent [per step] Equal Temperament".  Each pitch in the
+system is 88 cents away from its closest neighbor.  It can be thought of as
+a close approximation to all of the following:
+2 steps per 10:9             10 steps per 5:3
+3 steps per 7:6              11 steps per 7:4
+4 steps per 11:9             15 steps per 15:7
+5 steps per 9:7              16 steps per 9:4
+7 steps per 10:7             18 steps per 5:2
+8 steps per 3:2
+
+   Also, it has these "OK" approximations:
+6 steps per 15:11
+12 steps per 11:6
+17 steps per 12:5
+
+   To the best of my knowledge I first discovered 88CET, although I haven't
+done any extensive research to verify that.  Several list members other
+than me (such as Bill Sethares, Paul Fly, and Warren Burt) have written
+some impressive music in it.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Re: motherload
+PostedDate:  30-12-97 03:31:35
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  30-12-97 03:29:14-30-12-97 03:29:14,30-12-97 03:28:38-30-12-97 03:28:39
+DeliveredDate:  30-12-97 03:28:39
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125657D.000DA7B5; Tue, 30 Dec 1997 03:31:05 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA27363; Tue, 30 Dec 1997 03:31:35 +0100
+Date: Tue, 30 Dec 1997 03:31:35 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA27510
+Received: (qmail 24566 invoked from network); 29 Dec 1997 18:30:46 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 29 Dec 1997 18:30:46 -0800
+Message-Id: <v01541104b0cdb133fbd6@[207.207.2.96]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

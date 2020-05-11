@@ -1,0 +1,61 @@
+source file: m1422.txt
+Date: Wed, 20 May 1998 15:01:01 -0400
+
+Subject: Reply to Joe Monzo
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>> This whole argument smacks of what I object to in the prime-limit
+>> theoreticians' approach. Harmonically speaking, an interval is never
+>> more likely to be interpreted as a higher-odd-limit, lower-prime-limit
+>> ratio than a higher-prime-limit, lower odd-limit ratio, holding the
+>> approximation error constant.<snip>
+
+[Monzo:]
+>I'd be interested in seeing some quantifiable info about this.
+>Have there been experiments which prove this statement?
+>I think this is an important and overlooked aspect of the prime/ odd
+>debate in this forum.  Lemme see some numbers.
+
+The experiments that Ken Wauchope and I both did (independently) are one
+bit of tangential evidence. The problem is that it's hard to come up
+with an experimental test of what ratio is implied, acoustically, by a
+given interval. But there are mathematical ways of defining such things,
+such as which pair of overtones is beating most slowly, etc., and
+anything reasonable along those lines will favor something like an
+integer-limit rule. Superimposing octave equivalence then brings you
+from interger-limits to odd-limits.
+
+>Well, Paul, the reason you say these things is because you favor
+>ETs, where you must be concerned with consistency, approximations,
+>etc.
+
+No!
+
+>In real just tuning, the differences are quite audible.
+
+I agree that the differences are audible
+
+>The
+>5-limit
+>tritones provide a biting dissonance in the "dominant 7th" chord
+>that *demand* resolution onto the major or minor triad on the "tonic".
+
+I agree that you wouldn't want the 7-limit approximations to be too
+smooth -- that would take away from the need to resolve. However, the
+tritones are not, in any relevant harmonic sense, 5-limit.
+
+>A perfectly tuned 4:5:6:7 chord is only a tiny bit less consonant
+>than a plain old 4:5:6 triad.  There's a big difference in the sound
+>and feel from the 3- and 5-limit "dominant 7th"s, provided they are
+>in perfect tune also.  And we're not talking about the tritone dyad
+>by itself, we're talking about a 4-part chord.
+
+Right. I think that the dominant 7th arises because it can be formed
+from diatonic scale steps. The diatonic scale admits a wide range of
+tunings, and the dominant 7th "works" in virtually all of them. Pinning
+its tritone down to some complex ratio has no acoustical relevance. Even
+contextual relevance is suspect since the diatonic scale in
+common-practice music requires the vanishing of the syntonic comma, so
+whatever ratio you give, I can probably give you another one, differing
+by 81:80, that has as much contextual meaning.

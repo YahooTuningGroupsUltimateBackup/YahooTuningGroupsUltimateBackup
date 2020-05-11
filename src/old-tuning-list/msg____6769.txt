@@ -1,0 +1,119 @@
+source file: mills3.txt
+Date: Mon, 22 Dec 1997 23:52:29 +0100
+
+Subject: RE: Gibson Digest 1272
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>Gregg Gibson:
+>}> >}Of
+>}> >}course the centre of 22-tone equal in India is nowadays supposed to be
+>}> >}the South.
+>
+>Paul Ehrlich:
+>}> >
+>}> >Where did you get this idea?
+>
+>}I am uncertain what you mean. This is a matter of elementary knowledge.
+>}Look in any elementary text on the subject.
+>
+>No text I have seen, elementary or otherwise, has made this claim. Neil
+>Haverstick is quite right (if I may interpret "chord changes" as "key
+>changes") that equal temperament arises only in response to the need to
+>modulate (change key) extensively. Two cultures make extensive use of
+>modulation: the West and Thailand. The solutions they have arrived at are
+>12-equal and 7-equal, respectively. Meantone temperament was the preferred
+>system in the West before modulations became too extensive; Thailand may have
+>been influenced by Chinese Pythagorean theories before modulation became a
+>major feature of that music. The most widely accepted interpretations of the
+>Indian 22-sruti system place no note more than a comma away from a 12-equal
+>pitch. No wonder that Indian musicians, both North and South, have accepted
+>12-equal far more readily than some 22-equal harmoniums, etc. that some
+>ill-informed Westerners have provided them.
+>
+>}Your definition of the syntonic comma is one definition, but it is
+>}irrelevant to a discussion of precisely how the consonant cycles are to
+>}be reconciled in an equal temperament.
+>
+>Hmm. Your reconcilability criterion is that four fifths add up to a major
+>third (octaves ignored). In other words, the difference between a major third
+>and four fifths is zero. Using my definition of a syntonic comma, this
+>translates to: the syntonic comma is zero. Far from irrelevant -- it is
+>equivalent to the whole "discussion."
+>
+>}Your assertion that you have never denied 22-tone equal to be unfit for
+>}diatonicism comes strangely from someone who has proclaimed this system
+>}the salvation of music, but perhaps you mean to preserve 12-tone equal
+>}for diatonicism. I have heard this sort of thing before - it always
+>}reduces to "something special for ME" and 12-tone equal for everybody
+>}else.
+>
+>If I didn't want it to be for everyone I would have patented a keyboard
+>layout for the decatonic scale. The salvation of music -- hardly. I merely
+>feel that, if the next generation of musicians is given a wide variety of
+>tuning systems to play with, and only one of them succeeds in producing a
+>wealth of music that is not diatonic or pentatonic but is tonal, or at least
+>carries on in some sense the popular tradition in Western music of an
+>interplay between melody and harmony, there is a chance that that tuning will
+>be 22-equal.
+>
+>}The modern Arab theorists have done their utmost to impose the 24-tone
+>}equal for instrumental music. But Arab singers cheerfully (if that is
+>}the right word) go their own way, and certainly do not regularly,
+>}deliberately use intervals as close as 50 cents
+>
+>No, but they use intervals close to 150 and 250 cents, the reason for
+>24-equal. 31-equal, containing 155- and 348-cent intervals, will clearly be
+>much more succesful for reproducing Arabic music than 19-equal, which has
+>absolutely nothing in the way of neutral seconds or thirds.
+>
+>}I think I have mentioned that this interval of about 150 cents occurs in
+>}the 31-tone equal, where it corresponds to a 4/5 tone. Note however that
+>}this interval is perfectly unadapted to harmony, which the modern Arabs
+>}and Indians often seek to imitate.
+>
+>In your opinion, then, whatever is unique about Arabic music is less
+>important to Arabic musicians than Western features that they seek to
+>imitate?
+>
+>}My own personal opinion is that Arab
+>}(and Indian) vocal melodies are far, far more likely to be exactly
+>}recognizable in the 19-tone equal than in the 17- 22- or 24-tone
+>}divisions, in despite of the troublesome matter of the 150-cent
+>}interval.
+>
+>Not only 24, but also 17, would be better for Arabic music than 19. Just take
+>the step sizes of the various seven-tone scales in Arabic music in 24-equal,
+>subtract 1 form the size of each step, and you have serviceable 17-equal
+>approximations, including 141- and 353-cent intervals. I am not sure if the
+>dissonant thirds of 17-equal would matter to the sound of the music or if
+>consonant thirds are a concern only proper to certain other musical cultures.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Steven Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+Subject:  The Intonational Preferences of Irish Setters
+PostedDate:  22-12-97 23:58:46
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  22-12-97 23:56:38-22-12-97 23:56:38,22-12-97 23:56:10-22-12-97 23:56:10
+DeliveredDate:  22-12-97 23:56:10
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256575.007E0556; Mon, 22 Dec 1997 23:58:25 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22896; Mon, 22 Dec 1997 23:58:46 +0100
+Date: Mon, 22 Dec 1997 23:58:46 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA23988
+Received: (qmail 24339 invoked from network); 22 Dec 1997 14:58:42 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 22 Dec 1997 14:58:42 -0800
+Message-Id: <199712222256.RAA20388@doghouse.hq.nasa.gov>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

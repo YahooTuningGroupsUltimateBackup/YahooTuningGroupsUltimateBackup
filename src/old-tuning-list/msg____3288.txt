@@ -1,0 +1,90 @@
+source file: mills2.txt
+Date: Mon, 22 Jul 1996 09:17:32 -0700
+
+Subject: puzzle solution
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+The first series is the number of different rotational and inversional
+equivalent triads in 3-tET, 4-tET, etc. The second one is the number
+of different triads without the inversional equivalence. 
+12-tET is the only one which has the same number of notes as number of
+triads (with inversional equivalence). Peter Schat's compositional system 
+is based on this fact, see his book "De Toonklok", Meulenhoff/Landshoff,
+Amsterdam, 1984. There is an English translation now but I don't know
+the publisher; its title is probably "The Tone Clock". 
+
+I have found formulas for the functions, given here. The division is
+integer division, for example: 5 / 3 gives 1 as result. N is the number
+of notes per octave. It would be possible to do without the
+if-statements, using integer roundoff of some fractional multiplication,
+but that would go at the expense of clarity. 
+
+  function Triad_Count (N : Positive) return Natural is
+     Result : Natural;
+  begin
+     Result := (((N - 3) mod 6) + 3 * ((N - 3) / 6)) * ((N + 3) / 6);
+     if (N + 3) mod 6 = 0 then
+        Result := Result + 1;
+     end if;
+     return Result;
+  end Triad_Count;
+
+  function Second_Triad_Count (N : Positive) return Natural is
+     Result : Natural;
+  begin
+     Result := (N mod 3) * (N / 3) + 3 * (N / 3 - 1) * (N / 3) / 2;
+     if N mod 3 = 0 then
+        Result := Result + 1;
+     end if;
+     return Result;
+  end Second_Triad_Count;
+
+Here are some results:
+  1:   0  0
+  2:   0  0
+  3:   1  1
+  4:   1  1
+  5:   2  2
+  6:   3  4
+  7:   4  5
+  8:   5  7
+  9:   7 10
+ 10:   8 12
+ 11:  10 15
+ 12:  12 19
+ 13:  14 22
+ 14:  16 26
+ 15:  19 31
+ 16:  21 35
+ 17:  24 40
+ 18:  27 46
+ 19:  30 51
+ 20:  33 57
+ 21:  37 64
+ 22:  40 70
+ 23:  44 77
+ 24:  48 85
+ 25:  52 92
+ 26:  56 100
+ 27:  61 109
+ 28:  65 117
+ 29:  70 126
+ 30:  75 136
+ 31:  80 145
+ 32:  85 155
+ 33:  91 166
+ 34:  96 176
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 22 Jul 1996 18:24 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA08071; Mon, 22 Jul 1996 09:24:44 -0700
+Date: Mon, 22 Jul 1996 09:24:44 -0700
+Message-Id: <199607221622.AA12816@interlock.wdni.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

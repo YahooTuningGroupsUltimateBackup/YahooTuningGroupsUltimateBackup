@@ -1,0 +1,116 @@
+source file: mills3.txt
+Date: Sun, 21 Sep 1997 19:30:43 +0200
+
+Subject: Sysex vs. Pitch Bend
+
+From: Carl Lumma <clumma@nni.com>
+
+>Gary Morrison wrote:
+>
+>>    You might be well-served to see how your "product plans" compare with
+>> Marion McCoskey's "FasTrack" JI MIDI sequencer, or possibly even Justonic's
+>> "Pitch Palette" software.  I personally don't know much about the features
+>> of either.
+>
+>Can someone please give more information on these?
+
+I've done some work with the Pitch Palette, what would you like to know?
+It's a windows program that sends sysex re-tuning messages to compatible
+synths, including ones by emu, ensoniq, and roland.  It has a ratio-based
+scale editor, and a calculator utility for converting between fractions,
+cents, and hertz.  It has a primitive sequencer that allows you to add scale
+and key changes to midi files.
+
+It even has a live performance mode that can make key changes automatically
+if you stick to block chords in root position.  The Justonic people brag
+about this feature, but it's really very limited.  Much better is to send
+key changes from the lowest octave of your keyboard or from midi foot
+pedals, which the Pitch Palette also supports.  I haven't done any work with
+the live performance mode yet; so far I've used it only for midi sequencing.
+
+My problem was, as seems to be the bugaboo of the tuning-table method, TIME.
+The tuning dumps take too long.  Unless you're very very careful, and even
+if you are, your music will stutter and bark at every key change.  At least,
+this is the problem I had with the Proteus/2.
+
+To avoid this, I used the roland Virtual Sound Canvas, a software synth that
+comes bundled with the Pitch Palette.  Because it is "virtual", it can do
+sysex retuning much more quickly.  It doesn't sound like the proteus, but I
+never liked proteus sounds anyway.  To sample my work, and for more
+information on the Justonic software, you can visit my music page at...
+
+http://users.nni.com/source_of_goodness/ericarl.html
+
+My teacher, Denny Genovese, has written an excellent DOS program called MMT.
+It uses the pitch-bend method, cycling thru 8 midi channels for polyphony.
+I believe that with 95% of synths, the pitch-bend method is much faster and
+more flexible than the sysex method, if at the cost of maximum polyphony.
+95% isn't really fair in this context, however, since a large number of
+synths don't even support sysex microtuning.
+
+>>    Assuming that that's what you're asking about, there has been a bit of
+>> discussion about how to use pitch bend for microtonality.  The tricky part
+>> clearly is how to synchronize it with note-ons under very legato playing.
+>> Since the either the pitch-bend message must precede the note-on or the
+>> reverse, you're going to have a "blurp" in pitch either at the attack of
+>> the current note or at the release of the previous note.
+>
+>MIDI transmits 3125 instructions per second.  A pitch bend is 3
+>instructions.  To send 16 of these takes 3*16/3125*1000=15.36 ms,
+>or twice as much if you include the note-ons as well.  Is this
+>really a problem?
+
+Not in my experience.  I have used MMT with two Yamaha TX81Z's, the Proteus,
+and a Kawai K5m, and I have yet to hear a "blurp" from any style of playing
+whatever.  MMT can't play midi files, but it does accept live midi data,
+and, if one is bent on playing midi files, a second computer can be used.
+Denny is looking to develope MMT further, and would appreciate any input in
+that regard.
+
+Before I close this message, I would like to make it clear that I am not an
+advocate of the pitch-bend method.  Or of the tuning-table method.  Any
+pitch-bend favoritism detected in this letter may be considered fair defense
+against those who seem to pick on it without considering cons of sysex or
+the work of artists like Denny and Jules Siegel, who use it to great effect.
+
+What I do believe, quite frankly, is that both of these methods suck.  I
+don't think that any of us really believe otherwise --  it's all too easy to
+let which method is better and why obscure the fact that we're being handing
+our hats when it comes to a microtuning solution for midi.  Now, I'm told
+that the Symbolic Systems Kyma setup is just about as good as can be, but
+I've never seen one.  Has anyone seen one?  Justonic is working on a synth
+designed for microtuning called the "Tone Palette".  They claim it is
+several orders of magnitude quicker and higher-res than anything else.
+They've got a prototype, but are having problems getting to production.
+Find out more in the bowels of their site at www.justonic.com.
+
+Carl
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  alves@orion.ac.hmc.edu
+Subject:  Re: 1/1 article
+PostedDate:  21-09-97 19:55:28
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  21-09-97 19:55:18-21-09-97 19:55:18,21-09-97 19:54:27-21-09-97 19:54:27
+DeliveredDate:  21-09-97 19:54:27
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256519.00626EC3; Sun, 21 Sep 1997 19:55:08 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03199; Sun, 21 Sep 1997 19:55:28 +0200
+Date: Sun, 21 Sep 1997 19:55:28 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03197
+Received: (qmail 11638 invoked from network); 21 Sep 1997 17:55:15 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 21 Sep 1997 17:55:15 -0000
+Message-Id: <v01510101b04aa6f1fe4c@[134.173.37.15]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

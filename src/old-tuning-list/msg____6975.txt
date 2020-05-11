@@ -1,0 +1,41 @@
+source file: mills3.txt
+Date: Thu, 8 Jan 1998 16:43:58 +0100
+
+Subject: Musicworks correction
+
+From: Paul Rapoport <rapoport@mcmail.CIS.McMaster.CA>
+
+I inadvertently abbreviated Musicworks' website address. It should be
+
+<http://www.musicworks.web.net/sound>.
+
+Paul Rapoport
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  sejic@nersp.nerdc.ufl.edu (World Harmony Project Inc.) 
+Subject:  Various
+PostedDate:  08-01-98 17:56:01
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  08-01-98 17:55:33-08-01-98 17:55:33,08-01-98 17:55:26-08-01-98 17:55:27
+DeliveredDate:  08-01-98 17:55:27
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256586.005CF851; Thu, 8 Jan 1998 17:55:57 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24354; Thu, 8 Jan 1998 17:56:01 +0100
+Date: Thu, 8 Jan 1998 17:56:01 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA24350
+Received: (qmail 2533 invoked from network); 8 Jan 1998 08:55:58 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Jan 1998 08:55:58 -0800
+Message-Id: <199801081653.LAA45362@ufl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

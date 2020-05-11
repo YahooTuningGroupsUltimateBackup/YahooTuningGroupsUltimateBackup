@@ -1,0 +1,93 @@
+source file: m1523.txt
+Date: Fri, 4 Sep 1998 19:41:01 -0700 (PDT)
+
+Subject: Re: David Finnamore's tunings
+
+From: "M. Schulter" <mschulter@value.net>
+
+Hello, there, and I'd like to reply briefly to two questions of David
+Finnamore about my example of one possible arrangement for his
+"neo-medieval/Renaissance" tuning based on Pythagorean 9:8 whole-tones
+and 256:243 semitones combined with semitones ingeniously dividing 9:8
+into 21:20 and 15:14.
+
+First, in my example, I followed the usual Gothic rule that small
+semitones should be placed at diatonic locations, that is, where mi-fa
+or fa-mi would be sung: e.g. a-bb, eb-d, f#-g, c#-d, g#-a. Here I take
+the small 21:20 semitone as the counterpart of the usual limma
+(256:243, which occurs at e-f and b-c'), and accordingly place it at
+these locations. Note that "diatonic" semitones in this sense may be
+defined by the rule that a flat tends to descend, and a sharp to
+ascend.
+
+Chromatic semitones (c-c#, eb-e, f-f#, g-g#, bb-b) get a large semitone of
+15:14 (about 119.4 cents), a counterpart of the Pythagorean large semitone
+or apotome (2187:2048). These semitones are located immediately below a
+sharp or above a flat, and singing such semitones would go "against the
+grain" from a usual medieval/Renaissance perspective. 
+
+This preference has both melodic and harmonic aspects somewhat
+accentuated by this tuning. Melodically, the diatonic semitones of
+21:20 (about 84.5 cents) are even more incisive than the usually keen
+limma of about 90.2 cents. Harmonically, for example, major thirds and
+sixths take on an even more active and "expansive" quality than in
+classic Pythagorean tuning, making cadences where these intervals
+expand to stable fifths and octaves yet more dynamic.
+
+Thus if one shares the medieval preferences for small melodic
+semitones and dynamic Gothic-style vertical cadences, and is
+performing or composing in a usual medieval or "medievalesque" style
+where c#-d or bb-a, for example, are much more likely to occur as
+melodic intervals than c-c# or bb-b (often regarded as "unsingable" in
+medieval and even Renaissance theory, although theorists as early as
+Marchettus of Padua in 1318 approved of such "chromatic"
+progressions), following the "small diatonic semitone" custom might be
+an apt choice.
+
+However, you are very right to emphasize that this _is_ a choice, and
+that your scale permits many alternatives which might be just as usual
+or more so, depending on the style.
+
+For example, around 1400, it appears that there was a very popular
+movement in favor of consistently dividing whole-tones so that the
+small semitone would always be in the _lower_ part of the division. In
+other words, from a Pythagorean perspective, all accidentals were
+tuned as flats -- or, in your tuning, would have 21:20 below and
+15:14 above. 
+
+As Mark Lindley has shown (see "Pythagorean Intonation" in the _New
+Grove_ for a brief and informative summary), a major motivation for
+this modification was a desire in the early 15th century to place
+schisma thirds in prominent places -- that is, the almost pure thirds
+(and sixths) which result when sharps are tuned as flats.
+
+In your tuning, if we make a similar modification, we get major thirds
+and sixths at locations like d-f# and e-c#' which are about 379 cents
+and 877 cents respectively, if I calculate correctly. This narrow M3
+is reminiscent of 1/3-comma meantone or 19-tet, but the m3 won't be
+the same as in these tunings at such points, because the fifths remain
+a pure 3:2, requiring an m3 of around 323 cents to fill the remaining
+space. While not as close to pure as regular Pythagorean schisma
+thirds and sixths, these intervals nevertheless will have a nice
+contrast with their active Pythagorean counterparts (e.g. c-e, d-b)
+and even more active counterparts involving flats (e.g. eb-g, bb-g').
+
+One choice, of course, if you go in for a "quasi-Pythagorean"
+arrangement of your scale, is to do what certain early 15th-century
+theorists proposed: have 17 notes per octave, with ten accidentals
+splitting the five whole-tones both ways (c#/db, eb/d#, f#/gb, g#/ab,
+bb/a#). Where this is possible, it could give a performer or composer
+great freedom to explore many potentials of your scale.
+
+In conclusion, I should emphasize that these tunings are just a subset
+of the possibilities for your scale.
+
+Most respectfully,
+
+Margo Schulter
+mschulter@value.net
+
+------------------------------
+
+End of TUNING Digest 1523
+*************************

@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Fri, 16 May 1997 06:10:13 +0200
+
+Subject: Life beyond JI and (INT)xtET
+
+From: Charles Lucy <lucy@ilhawaii.net>
+
+Various authors in TUNING Digest 1074 wrote:
+ 
+>Thre must be some composers on this forum who have structured 
+>compositions in just tunings, or any non ET  tuning for that matter. 
+ 
+>Can anybody out there give an analysis?
+ 
+>Should we now head for another dead end, or even a set of dead ends? 
+ 
+>Now is the time to pick up where they left off and continue with the 
+>development of Western music on the track they had to abandon for lack 
+of >technological prowess (or courage?).
+ 
+>On my Wave Blaster, major triads actually sound better
+>in 31tet than JI.  This  may be because of sample looping (could
+>someone explain this, please?), phase shifting vibrato or a bug in
+>my program.
+ 
+I am pleased to see that so many verbose tuning list subscribers are
+expressing the limitations of xtET and JI tuning systems.
+I found the same limitations when I played with them, which is why 
+I eventually began looking further into other possibilities.
+>From my experience and that of others using LucyTuning during the
+past eleven years, the only limitation that we have found, is that
+modulating in a circle and arriving back in the original key
+[as one can in any (integer)tET system] is "forbidden" in this spiral
+system.
+You may argue with my interpretation of physics logic, philosophy, 
+business practices, arrogance, or "ghostone" ideas; yet if you're 
+looking for a practical microtuning system which is flexible, and 
+can tackle all or any other tuning; We've already got it sussed!
+ 
+download the tech. specs etc. from
+http://www.wonderlandinorbit.com/projects/lullaby
+ 
+BTW the site is currently being upgraded and simplified for those 
+without SchlockWave etc.
+Try it yourself (for old/new/classical/folk/experimental music)
+and enjoy!
+ 
+lucy
+ 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 16 May 1997 08:43 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03451; Fri, 16 May 1997 08:43:53 +0200
+Date: Fri, 16 May 1997 08:43:53 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03449
+Received: (qmail 21754 invoked from network); 16 May 1997 06:43:46 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 May 1997 06:43:46 -0000
+Message-Id: <Pine.SUN.3.91.970515225937.18203B-100000@si.UCSC.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

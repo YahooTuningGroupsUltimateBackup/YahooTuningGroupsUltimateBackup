@@ -1,0 +1,36 @@
+source file: mills2.txt
+Date: Sat, 4 Jan 1997 11:14:34 -0800
+
+Subject: Euler question
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+To quote from R. Rasch's Fokker book:
+"Fokker's way of describing genera was based on the approach of
+Leonhard Euler in _Tentamen novae theoriae musicae_ (St. Petersburg,
+1739). Because of this, Fokker's genera are often called 'Euler genera'.
+However, since the harmonic seventh plays an important role in Fokker's
+genera, while it was rejected for practical use by Euler, it is better
+to see Fokker's theory of genera as an extension of Euler's and to
+call the resulting genera _Euler-Fokker genera_."
+
+> If 2 is the largest exponent, second-degree would make sense as a label;
+
+Not quite, the degree is the sum of the exponents. For example,
+Genus [33557] (chromatico-enharmonicum) is of the fifth degree. This one
+has 3 x 3 x 2 18 notes. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 4 Jan 1997 20:37 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01181; Sat, 4 Jan 1997 20:40:26 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01179
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA13986; Sat, 4 Jan 1997 11:40:03 -0800
+Date: Sat, 4 Jan 1997 11:40:03 -0800
+Message-Id: <Pine.SUN.3.95.970104143550.14636A-100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

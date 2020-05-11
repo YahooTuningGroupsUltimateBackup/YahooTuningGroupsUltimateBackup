@@ -1,0 +1,58 @@
+source file: mills2.txt
+Date: Thu, 8 Aug 1996 13:15:17 -0700
+
+Subject: Definition of consistency
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+It appears that Paul R. hasn't caught on to the consistency thread, although 
+he certainly understands the concept. Since even the Great McLaren's 
+interest was piqued by one of my posts on consistency, maybe it's worth 
+reviewing. Unfortunately, all of my e-mail from that far back is lost, so 
+instead I'll review Manuel's post in Tuning Digest 776:
+
+Manuel wrote:
+>I have created a list of equal temperaments up to about 650 tones
+>per octave with their consistency limits as was explained by Paul
+>Erlich's post of 13 June 1996. However it's not restricted to
+>integer divisions, all scale step sizes that give a different
+>consistency limit were calculated. Initially I thought this could
+>make a nice graph, step size horizontally, limit vertically,
+>but the function behaves very wildly and there are very many points.
+>Not included in the file are points where both left and right side
+>limits are smaller than 5.
+>This is the filename:
+>ftp://ella.mills.edu/ccm/tuning/papers/consist_limits.txt
+
+>Another larger file
+>ftp://ella.mills.edu/ccm/tuning/papers/cons_limit_bounds.txt
+
+>contains the step size bounds for each consistency limit of 3 to 18,
+>also up to 650-tET.
+
+Here's a definition of consistency: Given an odd number n, an octave-based 
+equal temperament is consistent within the n-limit if, for any odd numbers 
+a, b, and c such that 0<a<b<c<=n, the number of steps that best approximates 
+a:b plus the number of steps that best approximates b:c is equal to the 
+number of steps that best approximates a:c.
+
+No equal temperament can be adequately notated using the symbols of just 
+intonation (Pythagorean scale plus syntonic commas) if it is not consistent 
+within the 5-limit. Paul Rapoport disagrees. I guess we'll just have to 
+agree to disagree.
+
+I found 111-tet by looking at consist_limits.txt.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 9 Aug 1996 08:23 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06760; Fri, 9 Aug 1996 08:24:01 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA06642
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA08441; Thu, 8 Aug 1996 12:50:11 -0700
+Date: Thu, 8 Aug 1996 12:50:11 -0700
+Message-Id: <85960808194558/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

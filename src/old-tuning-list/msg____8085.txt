@@ -1,0 +1,38 @@
+source file: m1447.txt
+Date: Sun, 14 Jun 1998 15:21:50 -0500
+
+Subject: Re: Voice synth for PowerMacs (VocalWriter 1.0)
+
+From: "Michael A. Thompson" <mat0001@jove.acs.unt.edu>
+
+Drew Skyfyre wrote:
+
+> Hello Everyone,
+>
+> For all you PowerMac users ,here's something you may not know about :
+> VocalWriter 1.0 ,software synth that sings (multitimbral & polyphonic)!
+> and writes
+> AIFF files. Includes a GM synth.
+>
+> >With the recent development of its breakthrough acoustic modeling
+> >   technology called Resonant Articulatory Synthesis (RAS), KAE Labs
+> >   offers the first musical instrument that can model the human vocal
+> >   tract in singing unrestricted English lyrics.
+>
+> A 15 day trial fully functioning demo is available for download
+>  (4MB compressed file). $100 to register.
+>  Go to <www.kaelabs.com>
+>
+> Cheers,
+> Drew
+
+  yes, it uses the Macintosh Speech engine. So if you want your piece to
+sound like HAL then it works great, if you want your piece to sound like a
+human its not so great. It is fun to mess with though....
+
+I have been working with a  major DSP company on a "singing"
+computer(classical voice--male(tenor)--female(sop.)). The results, still
+need work, but sound surprisingly human. I will post a web page soon if
+anybody is interested...
+
+Michael

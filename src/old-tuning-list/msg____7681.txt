@@ -1,0 +1,86 @@
+source file: m1408.txt
+Date: Thu, 7 May 1998 00:43:50 -0700 (PDT)
+
+Subject: Re: Triple-Just 12-Tone Tuning System (Digest 1407 Topic 4)
+
+From: Mark Nowitzky <nowitzky@alum.mit.edu>
+
+Hi Bill,
+
+The tuning system you describe sure sounds like it's got potential:
+
+At 07:07 PM 5/6/98 -0400, you wrote:
+>From: "Triple Just" <triplejust@hotmail.com> (Bill Flavell)
+>Subject: Triple-Just 12-Tone Tuning System
+
+>...
+>   This tuning system is based on the super-imposition of three just 
+>tuning scales, the second being super-imposed on the F of the first 
+>scale, and the third being super-imposed on the A of the first scale. 
+>...
+
+I added "Comments from Peanut Gallery" (i.e., comments from me):
+
+>   Pitch   Frequency   Interval   Comments from Peanut Gallery
+    -----   ---------   --------   ============================
+>    C         1440
+>                         16/15
+>    B         1350
+>                        135/128
+>    A#        1280                     <-call this "Bb"
+>                         16/15
+>    A         1200
+>                         16/15
+>    G#        1125
+>                         25/24
+>    G         1080
+>                          9/8          <-correction:  27/25
+>    F#        1000
+>                         25/24
+>    F          960
+>                         16/15
+>    E          900
+>                         10/9
+>    D#         810                     <-call this "D2"
+>                         81/80
+>    D          800                     <-call this "D1"
+>                         16/15
+>    C#         750
+>                         25/24
+>    C          720
+
+Here is the tuning system in two dimensions, a la Helmholtz/Ellis:
+
+        D2  810
+        G  1080   B  1350
+        C   720   E   900   G# 1125
+        F   960   A  1200   C# 750
+        Bb 1280   D1  800   F# 1000
+
+I renamed the D# to D2, so as not to confuse it with the pitch of a typical
+D#.  I presume you called it D# to indicate the key (button) on the keyboard
+the pitch is mapped to.
+
+It can be thought of as an "A Duodene" (again using Helmholtz/Ellis
+terminology), but with the D#=843.75 removed and the D2=810 added in its place.
+
+It looks useful that you have both "flavors" of D (D1=800 and D2=810)
+readily available on the keyboard.  For example, a "ii V7 I" progression in
+C Major can be handled thusly:
+        ii   D minor   D1, F, A
+        V7   G Dom 7   G, B, D2, F
+        I    C Major   C, E, G
+
+>   I'm going to be hosting an e-mail mailing list regarding this tuning 
+>system, so if you'd like to subscribe, please let me know by private 
+>e-mail.
+
+Sounds good!  Count me in!!  Sign me up!!!  Thanks,
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu                        |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

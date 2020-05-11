@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Fri, 31 Jan 1997 10:32:37 -0800
+
+Subject: Quadratic Corners
+
+From: John Chalmers <non12@deltanet.com>
+
+Franck: Last year I started writing some simple BASIC programs
+to factor and plot scales on various types of tonal lattices as I
+needed to make some new graphics for some talks I intended to give, 
+and I am a slow and not very competent draftsman. 
+
+The lattices included both Cartesian types (powers of 3 on the
+horizontal, 5 on the vertical, 7 on a 30 degree diagonal, etc.)
+and polygonal ones similar to those  invented by Ervin Wilson. 
+Once I had the programs running on my old monochrome Mac, I started 
+generating scales which had interesting visual appearances. 
+
+A Quadratic Corner is an incomplete  Euler-Fokker genus consisting
+for the factors 3.5.7 of 1 3 3^2 5 5^2 3x5 7 7^2 3x7 and 5x7. One
+can add the inversion of each of these terms and reduce
+the whole to a common octave. The concept may be extended to include
+higher prime factors, such as 11 and 13.
+
+In the 3.5.7 rectilinear lattice, this collection has a nice spikey 
+appearance as my program connects only nearest neighbors (tones 
+differing by plus or minus 1 step along any axis). Some versions of 
+the polygonal lattice plotters allowed diagonally related notes to be 
+connected as in the familiar triangular lattice where major and minor
+triads appear as equilateral triangles.
+
+I make no claims for the musical utility of these scales nor of the
+related Cubic Corners, but visually they are interesting in some
+representations.
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 31 Jan 1997 20:57 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21282; Fri, 31 Jan 1997 20:57:11 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA21315
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id LAA20376; Fri, 31 Jan 1997 11:54:57 -0800
+Date: Fri, 31 Jan 1997 11:54:57 -0800
+Message-Id: <32F24E14.142F@sprynet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

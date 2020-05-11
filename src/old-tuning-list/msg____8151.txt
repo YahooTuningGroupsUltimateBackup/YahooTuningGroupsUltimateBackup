@@ -1,0 +1,101 @@
+source file: m1452.txt
+Date: Sat, 20 Jun 1998 00:46:48 EDT
+
+Subject: Relative importance of tuning accuracy for fifths and major thirds
+
+From: <Ascend11@aol.com>
+
+I've read that accuracy of tuning of the fifth is more critical than accuracy
+of tuning of the major third for the overall harmoniousness etc. of the music.
+It's beyond much doubt that in many ways the fifth is a more "fundamental"
+consonance than the major third.  It preceded the third historically and seems
+to be more central in world music than the major third, which seems to have
+become more important in western polyphonic music than elsewhere.  I've had
+the experience of playing and listening to recordings of music played on a
+piano in three roughly equidistant tunings: 12 TET (fifths 2.0 cents flat,
+thirds 13.6 cents sharp), sixth comma mean tone (MT) (fifths 3.6 cents flat,
+thirds 7.2 cents sharp), and quarter comma MT (fifths 5.4 cents flat, thirds
+just).  My overall impression is that in 12 TET, the piano has a
+characteristic "fine old burnished" sound - very lively with a lot of beating.
+To me, the beating and shrillness considerably detract from the pleasantness
+of the piano's sound.  When the piano is tempered to sixth comma MT, the sound
+is more relaxed.  The major and minor triadic harmonies seem more natural
+sounding and to me they sound better, warmer.  Nevertheless, after having
+become used to hearing the piano in quarter comma MT, the sixth comma MT music
+still sounds somewhat strained and harsh to me, while it sounds to me much
+more harmonious and pleasant in quarter comma MT.
+
+When I listen closely to the piano's sound in these different tunings, I can
+discern in both the 12 TET and sixth comma MT music a subtle "liveliness"
+resulting from a lot of fast pulsatings in the sound.  The effect is to give
+the sound a roughness or harshness which takes away from the pleasantness and
+somehow in a way the clarity of the music.  By contrast, in the quarter comma
+MT tuning, there seems to be an almost complete absence of a certain "brand"
+of this "liveliness" which gives me a kind of sense of relief, as though the
+air had been cleared of smoke or as though the fog on my windshield had
+evaporated.
+
+Now there's another kind of inharmoniousness which remains in the quarter
+comma MT tuned piano.  Now it's there and now it's not.  Sometimes fourths in
+the bass seem to be a bit unpleasant.  The fifths are a little flatter than
+would be ideal - not really nice and crisp.  But by comparison with the sharp
+thirds temperaments, the piano sounds absolutely beautiful.  The triadic
+harmonies are really sweet sounding while in 12 TET they sound strained and
+labored and pinched, and the same holds to a somewhat lesser degree for the
+sixth comma MT.
+
+I've thought about this and tried to figure out why these temperaments affect
+the sound of the piano I'm working with in this way.
+
+I've just listened to some of Bill Sethares' fascinating music on a CD which I
+just received from him.  There is a delightful harmonious smooth feel to much
+of the sound, and believe it or not, there's something about it reminiscent of
+the way my piano sounded when it was in quarter comma MT - a very pleasant
+freedom from roughness giving the music a feel of clarity and definition.
+
+This makes me think that the beating and trembling which results from
+mistuning plays a big part in marring the sound of mistuned music.  It may be
+that some kinds of beating actually enhance the music's sound.  But the
+tremulous, fast and I believe largely synchronous, coherent, and piercing
+beating which mistuned thirds in particular give to the piano's sound seem to
+me to be really detrimental to the sound.
+
+If I listen for beating in the music of the piano tuned to quarter comma MT, I
+can hear some waviness.  Generally it is not prominent and doesn't impose
+itself on my attention.  It doesn't seem to give the sound any noticeable
+"muddiness".
+
+I thought about the beating phenomenon.  Looking at a simple case, with
+fifths, the third partial of the root will beat against the second partial of
+the mistuned fifth above it and the beat rate will be proportional to the
+product of the frequency of the root note, the number 3, and the degree of
+mistuning in cents.  In the case of mistuned thirds, the fifth partial of the
+root will beat against the fourth partial of the mistuned third above it and
+the beat rate will now be proportional to the product of the frequency of the
+root note, the number 5, and the degree of mistuning in cents.
+
+I've done some spectral analysis of piano string partials and I've found that
+for notes in the vicinity of middle C, the partials are quite strong up past
+the 10th or 20th or so.  I believe that it is not totally missing the mark to
+suggest that there will be a tendency for a mistuning of thirds by X cents to
+cause beating with a beat frequency 5/3 times the beat frequency which results
+from a mistuning of fifths by X cents.
+
+I'm sure the matter is more complex than the above simplified picture would
+imply, but it would be in line with my impressions that mistuning of thirds
+seems to me to be more deleterious to piano music's sound than mistuning of
+fifths.
+
+Somewhat related to this is my sense that in quarter comma MT piano music, the
+narrowness of the minor thirds (they are theoretically narrow by 5.4 cents in
+this tuning) impresses itself on my attention somewhat more than the
+narrowness of the fifths, also by 5.4 cents, in harmonic contexts.  The
+melodic quarter comma MT fifth sounds "tempered", but it still seems close
+enough to me to have the feel of a fifth, which rises (sails) high above the
+lower note.  Still, in comparison with a true fifth, it falls short.
+
+It's clear, and Bill Sethares' work is demonstrating this, that specifics of
+an instrument's or of an ensemble's timbre will to a large extent determine
+how different kinds of tuning or mistuning will affect its overall sound.
+
+Dave Hill    La Mesa, CA

@@ -1,0 +1,76 @@
+source file: mills3.txt
+Date: Thu, 29 Jan 1998 18:30:34 +0100
+
+Subject: Re: 60 vs 45
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Thu, 29 Jan 1998, Carl Lumma wrote:
+> While I agree that equilateral triangles work better than squares for
+> modeling triads, I still feel much better with right angles in 3D
+> (7-Limit).  For one thing, while both triangles and squares tile a plane,
+> tetrahedrons aren't space-filling like cubes.
+
+You don't need the tetrahedra to fill space.  The lattice fills space
+perfectly fine (if you look at the Voronoi cells of the vertices,
+they're rhombic dodecahedra, which _do_ fill space); but instead of
+dividing space up into cubes you get alternating tetrahedra and
+octahedra.  The octahedra are actually kind of interesting as chords,
+almost like the Petrushka chord.
+
+>      5/4-------15/8
+>     /   \   .  /
+>    /  .  \    /
+>   /       \  /
+> 1/1-------3/2
+>
+> ..The dots (7/4 and 21/16) are a 3/2 apart, but are not represented by the
+> same length or direction as the other 3/2's in the diagram.  What to do?
+
+This isn't right--21/16 should be plotted, not where you have it, but
+like this:
+
+      5/4-------15/8
+     /   \      /
+    /  .  \    /  .
+   /       \  /
+ 1/1-------3/2
+
+in which case the spatial/visual relationship between pitches 3/2 apart
+is preserved.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Do you like to gamble, Eddie?
+  -\-\-- o    Gamble money on pool games?"
+
+             NOTE: dehyphenate address to remove spamblock.          <*>
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Paul Hahn <Paul-Hahn@library.wustl.edu>
+Subject:  Re: 60 vs 45
+PostedDate:  29-01-98 18:43:07
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  29-01-98 18:42:14-29-01-98 18:42:15,29-01-98 18:40:59-29-01-98 18:40:59
+DeliveredDate:  29-01-98 18:40:59
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125659B.00613DA2; Thu, 29 Jan 1998 18:42:07 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01774; Thu, 29 Jan 1998 18:43:07 +0100
+Date: Thu, 29 Jan 1998 18:43:07 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01772
+Received: (qmail 23136 invoked from network); 29 Jan 1998 09:42:20 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 29 Jan 1998 09:42:20 -0800
+Message-Id: <Pine.SOL.3.95q.980129112742.6124C-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

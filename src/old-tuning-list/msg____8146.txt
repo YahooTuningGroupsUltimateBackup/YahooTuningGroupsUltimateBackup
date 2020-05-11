@@ -1,0 +1,16 @@
+source file: m1451.txt
+Date: Fri, 19 Jun 1998 10:20:02 +1000 (EST)
+
+Subject: Scala/Jicalc
+
+From: Greg Schiemer <gregs@mail.usyd.edu.au>
+
+I've recently tried to run Scala on a Mac using Virtual PC -- without
+success. Has anyone succeeded in doing this ? I've been allowed to run an
+elective on alternate tunings but am limited by the fact that I only have
+access to a Mac lab. I've seen Jicalc but Scala seems more suitable for
+working with Csound and it has an amazing scales archive. Is there any way
+of accessing the scales archive from Jicalc ?  Does JiCalc have script
+files (equivalent of .CMD files in Scala) ? 
+
+Greg S

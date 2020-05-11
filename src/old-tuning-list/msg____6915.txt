@@ -1,0 +1,104 @@
+source file: mills3.txt
+Date: Sat, 3 Jan 1998 17:37:40 +0100
+
+Subject: Positive and negative temperaments
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+The formula given relates the Pythagorean comma to the step size.
+If 50 equal is a doubly negative temperament, this isn't such a
+useful method of classification.  Better is to state the interval
+that's defined out of existence.
+
+For generalised keyboard mappings, you need to define two small
+intervals for two directions.  The way these add up to give
+5-limit harmony is determined by which temperament class you
+choose.  The nthly positive definition is useless here.  It is
+also undefined for unequal temperaments.
+
+79, 91 and 103 equal are singly negative, but not meantone.
+
+There are two different kinds of triply positive temperaments.
+With 15, 27 and 39 equal, the enharmonic diesis (7 0 -3)H is
+zeroed.  With 51, 63, 75 and 87 equal, zero 3*(13 -4 -1)H, or
+set 2 Pythagorean equivalent to 3 syntonic commas.
+
+Now, look at this:
+
+Triply negative  9, 21, 33, 45, 57, 69, 81, 93, 105, 117
+Doubly negative  2, 14, 26, 38, 50, 62, 74, 86,  98, 110
+Singly negative  7, 19, 31, 43, 55, 67, 79, 91, 103, 115
+Zeroly positive 12, 24, 36, 48, 60, 72, 84, 96, 108, 120
+Singly positive  5, 17, 29, 41, 53, 65, 77, 89, 101, 113
+Doubly positive 10, 22, 34, 46, 58, 70, 82, 94, 106, 118
+Triply positive  3, 15, 27, 39, 51, 63, 75, 87,  99, 111
+
+The difference between each scale size in a class is 12.  This
+follows from the definition of the Pythagorean comma.  A better
+nomenclature for the same classes would simply be to take the
+remainder of the scale size when divided by 12.  Defining the
+sizes of the octave(T) and Pythagorean comma(X) uniquely defines
+the size of the fifth(P5)
+
+      12 * P5 - 7 T = X        P5 = (X + 7T)/12
+
+T   2  3  5  7  9 10  12
+X  -2  3  1 -1 -3  2   0
+P5  1  2  3  4  5  6   7
+
+1*ln(2)/ln(1.5)=1.7          2*ln(2)/ln(1.5)=3.4
+3*ln(2)/ln(1.5)=5.1          4*ln(2)/ln(1.5)=6.8
+5*ln(2)/ln(1.5)=8.5          6*ln(2)/ln(1.5)=10.3
+7*ln(2)/ln(1.5)=12.0
+
+When you add 12 to the octave size, you add 7 to the fifth size.
+So, this is a complete set of consistent scale classes.  If you
+add the octave sizes of any two scales in this superset, you also
+add the fifth sizes.  That means:
+
+T_3 = T_1 + T_2             P5_3 = P5_1 + P5_2
+
+For perfect octaves, the fifth is P5/T-ln(3/2)/ln(2) octaves
+sharp.  The mistuning in terms of scale steps is then:
+
+d = P5 - T*ln(3/2)/ln(2)
+
+When adding scales,
+
+d_3 = P5_3 - T_3*ln(3/2)/ln(2)
+d_3 = (P5_1+P5_2) - (T_1+T_2)*ln(3/2)/ln(2)
+d_3 = P5_1 - T_1*ln(3/2)/ln(2) + P5_2 - T_2*ln(3/2)/ln(2)
+d_3 = d_1 + d_2
+
+So, adding scale sizes means adding the amount of mistuning of
+fifths in terms of scale steps.  Paul Erlich stated this on the
+tuning list last month, but didn't prove it.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk (Graham Breed) 
+Subject:  Horizontal and vertical
+PostedDate:  03-01-98 17:38:20
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  03-01-98 17:35:49-03-01-98 17:35:50,03-01-98 17:35:09-03-01-98 17:35:09
+DeliveredDate:  03-01-98 17:35:09
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256581.005B2AE7; Sat, 3 Jan 1998 17:37:44 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07297; Sat, 3 Jan 1998 17:38:20 +0100
+Date: Sat, 3 Jan 1998 17:38:20 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07281
+Received: (qmail 3215 invoked from network); 3 Jan 1998 08:37:55 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 3 Jan 1998 08:37:55 -0800
+Message-Id: <memo.855325@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

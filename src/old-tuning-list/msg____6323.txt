@@ -1,0 +1,61 @@
+source file: mills3.txt
+Date: Wed, 22 Oct 1997 22:33:09 +0200
+
+Subject: RE: Canright Revisited: Every Interval is Just
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Carl's strict belief that "Consonance is a factor
+of the size the number in an intervals ratio" leads to absurdities.
+According to Carl, the following sequence of ratios represents intervals
+of increasing dissonance:
+
+31/21
+301/201
+3001/2001
+30001/20001
+300001/200001
+3000001/2000001
+30000001/20000001
+300000001/200000001
+3000000001/2000000001
+30000000001/20000000001
+300000000001/200000000001
+3000000000001/2000000000001
+30000000000001/20000000000001
+300000000000001/200000000000001
+
+Now these intervals are getting closer and closer to 3/2, and after just
+a few of them even the best ear can't tell the difference between them
+and 3/2. Yet according to Carl, 3/2 is more consonant than any of these
+ratios. Thus we must conclude that Carl's definition of consonance has
+little to do with anything you can actually hear.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  John Chalmers <non12@deltanet.com>
+Subject:  Questions
+PostedDate:  23-10-97 03:08:16
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  23-10-97 03:07:20-23-10-97 03:07:21,23-10-97 02:08:01-23-10-97 02:08:01
+DeliveredDate:  23-10-97 02:08:01
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256539.000629AF; Thu, 23 Oct 1997 03:07:19 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23555; Thu, 23 Oct 1997 03:08:16 +0200
+Date: Thu, 23 Oct 1997 03:08:16 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA24706
+Received: (qmail 8276 invoked from network); 22 Oct 1997 18:08:13 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 22 Oct 1997 18:08:13 -0700
+Message-Id: <Pine.SCO.3.96.971022180552.14384A-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

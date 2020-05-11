@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Thu, 29 Aug 1996 15:03:08 -0700
+
+Subject: Byzantine tuning, Kami reply
+
+From: John Chalmers <non12@deltanet.com>
+
+RE Byzantine 68-tet: I don't think the Greek Orthodox Church really 
+considered playing in 68-tet, but rather thought of constructing the 
+tetrachords of its liturgical music in 28 parts rather like the Aristoxenian
+30 parts of classical Greek theory. I found a number of such tetrachords
+in a book by  Octavio Tiby, "La Musica Byzantina," Fratelli Bocia, 
+Milan, 1938. The tetrachords are  12 +13+ 3; 12 + 5 + 11;. 12 + 9 + 7;  
+and  9 + 12 + 7. In this system, the whole tone has 12 parts (212 cents), 
+and the octave consists of two such tetrachords and 12 parts for the 
+disjunctive tone. Hence the formula is  28 + 12 + 28 = 68 parts for the 
+octave. 12 + 5 + 11 is a pretty fair "Phrygian" tetrachord, but 3 parts
+is roughly a 1/4-tone and 9 parts 3/4 of a tone.
+
+Other writers on Byzantine music, including Xenakis in "Musiques 
+Formelles," give quite different tunings in the 30 parts-to-the-4th system.
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 30 Aug 1996 00:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06836; Fri, 30 Aug 1996 00:18:12 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA06694
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA16826; Thu, 29 Aug 1996 15:18:11 -0700
+Date: Thu, 29 Aug 1996 15:18:11 -0700
+Message-Id: <Pine.SCO.3.91.960829151323.18831A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,79 @@
+source file: mills2.txt
+Date: Fri, 1 Mar 1996 12:20:44 -0800
+
+Subject: Positively confused
+
+From: xen@tiac.net (J. Pusey)
+
+There seems to be some confusion about the definition of the term "positive
+system" (and, by extension, "negative system").  I've been doing quite a lot of
+tuning-related reading recently, yet have been encountering conflicting
+definitions for these concepts.
+
+According to R. H. M. Bosanquet in "An Elementary Treatise on Musical Intervals
+and Temperament," (1876, [1987 reprint]): "Fifths are called positive if they
+have positive departures, i.e. if they are greater than E. T. fifths; they are
+called negative if they have negative departures, i.e. if they are less than E.
+T. fifths.  Perfect fifths are more than seven semitones; they are therefore
+positive.  Systems are said to be positive or negative according as their
+fifths are positive or negative." (p. 60)  By "E. T. fifths" he means 700 cent
+12-tET fifths, of course.  Similarly, "seven semitones" means seven 100 cent
+12-tET semitones.
+
+This would appear to be rather clear.  However, J. Murray Barbour can't seem to
+make up his mind in "Tuning and Temperament: A Historical Survey" (1951, [1972
+reprint]).  Right up front in the Glossary (p. ix), he defines a positive
+system as: "A regular system whose fifth has a ratio larger than 3:2."
+Similarly, he defines a negative system as: "A regular system whose fifth has a
+ratio smaller than 3:2."  This, of course, is at odds with Bosanquet's
+definition.  Barbour then goes on in the main text, when describing multiple
+divisions of the octave, to say: "The 34-division is a positive system, like
+the 22-division.  That is, its fifth of 706 cents is larger than the perfect
+fifth ..." (p. 121).  This is consistent with his definition of positive system
+in the glossary, although it is not at all clear whether he is using the term
+"perfect fifth" to refer to the pure ratio of 3/2 (701.955 cents) or to its
+12-tET approximation of 700 cents.  However, a few pages later, he describes
+53-tET as "a positive system, with fifths sharper than those of equal
+temperament ..." (p. 124).  The 53-tET fifth is 701.887 cents, which is
+slightly *smaller* than 3/2 (701.955 cents), so we must conclude that his
+definition in the glossary is incorrect.
+
+Unfortunately, the confusion has not been limited to Barbour.  In his article,
+"Cents and Non-Cents: Logarithmic Measures of Musical Interval Magnitude" in
+Xenharmonikon 15, our own John Chalmers writes: "A negative system is one whose
+fifths are less than the 3/2 perfect fifth of 701.9550009 cents." (p. 82)
+Fortunately, John C. has since corrected his error in the "Notes & Comments"
+section of XH 16 (p. 2).
+
+Ironically, several pages later in this very same issue of XH, Paul Rapoport,
+in his otherwise excellent article "The Notation of Equal Temperaments," makes
+the same mistake, I believe, when he writes: "In many positive temperaments,
+i.e. where v is greater than the just perfect fifth (701.955 cents), k is the
+obvious choice of komma to use for notation, ..." (p. 66).  He uses the
+variable "v" to represent the equal-tempered interval most closely
+approximating the just perfect fifth.
+
+I believe Bosanquet to be the final authority in this matter -- is he indeed
+the originator of the terms "positive system" and "negative system"?  However,
+the question remains: Why is there so much confusion over these terms?
+
+Now, what in blazes is a "doubly positive system"???
+
+John
+
+---
+John G. Pusey
+xen@tiac.net
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 1 Mar 1996 22:08 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA11535; Fri, 1 Mar 1996 13:08:07 -0800
+Date: Fri, 1 Mar 1996 13:08:07 -0800
+Message-Id: <313766DD.267F@dial.pipex.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

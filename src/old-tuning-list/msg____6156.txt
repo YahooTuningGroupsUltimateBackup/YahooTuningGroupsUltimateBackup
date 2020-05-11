@@ -1,0 +1,67 @@
+source file: mills3.txt
+Date: Thu, 25 Sep 1997 20:32:59 +0200
+
+Subject: Blackwood's proof
+
+From: James Kukula <kukula@synopsys.com>
+
+Mark Nowitzky writes:
+
+> It was something about Helmholtz'
+> and Ellis' attempt to use just intonation to get better harmony than equal
+> temperament being proved impossible by Easley Blackwood in "The Structure of
+> Recognizable Diatonic Tunings".
+
+I don't know how familiar folks are with Blackwood's book. I'm not any
+kind of musician. But I really loved the book, because it built a bridge
+between my own thinking and more conventional musical ideas.
+
+Before I read Blackwood I had tried taking a couple of Bach harmonized
+chorales and figuring out how they should be played in j.t., I think 5-limit
+is the right term. Basically the problem is just to figure out which of a set
+of nearby pitches to use for each note, the pitches differing by the 80/81
+comma. Being a musical ignoramus I'm sure I made tons of errors. But the
+exercise really opened up for me the structure of the Bach pieces, or
+seemed to anyway. I found, though, that the pieces seemed to turn on a kind
+of musical pun, to take advantage of the blurring of harmonic distinctions
+provided by temperament.
+
+As I read Blackwood, the point is not so much that e.t. or any temperament is
+so much better than j.t. in any universal or absolute sense, but that
+mainstream European musical practise at least in the 18th & 19th Centuries
+was really structured around temperament, and you can't just slide j.t. into
+the classics and make them better. A different kind of music based on
+j.t. might be better in some sense, but the structure of composition is
+strongly connected to tuning, so you can't change one without some adjustment
+in the other.
+
+Jim
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  clumma@nni.com
+Subject:  Barbershop and Equal-Step Tuning
+PostedDate:  25-09-97 21:31:24
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  25-09-97 21:31:11-25-09-97 21:31:12,25-09-97 21:30:15-25-09-97 21:30:16
+DeliveredDate:  25-09-97 21:30:16
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C125651D.006B350D; Thu, 25 Sep 1997 21:30:59 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31095; Thu, 25 Sep 1997 21:31:24 +0200
+Date: Thu, 25 Sep 1997 21:31:24 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA31090
+Received: (qmail 23892 invoked from network); 25 Sep 1997 12:31:21 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 25 Sep 1997 12:31:21 -0700
+Message-Id: <19970925193227218.AAB352@NIETZSCHE>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

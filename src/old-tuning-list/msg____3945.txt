@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Wed, 6 Nov 1996 15:31:05 -0800
+
+Subject: Consonance coefficient
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Lorenzo,
+
+I don't think your method will lead you into any serious errors, although it 
+seems like the various inversions of a given chord will often differ a lot 
+less in consonance than fundamentally different chords. Also, I often prefer 
+more dissonant chord voicings on guitar over more consonant ones, if the 
+musical context befits them. Of course, for a six-string chord, you have 15 
+individual values for dissonance to add up.
+
+Since you are comparing intervals to their inversions and not to 
+fundamentally different intervals, the results I posted for you were 
+perfectly useless to you. Fortunately, my theory tells you that the 
+certainty with which a tempered interval will be perceived as its most 
+likely just interpretation is proportional to the denominator of that just 
+interval (in lowest terms), and a factor, related to the degree of 
+mistuning, which will be the same for all inversions of an interval, and 
+thus ignorable for your purposes. So, interpreting this certainty as 
+consonance, we can say that the perfect twelfth is twice as consonant as the 
+perfect fifth and three times as consonant as the perfect fourth. The major 
+tenth is twice as consonant as the major third and 2.5 times as consonant as 
+the minor sixth. The major sixth is 1.666666667 times as consonant as the 
+minor third or minor tenth. However, the increased consonance of wider 
+intervals comes at the price of a thinner harmonic texture, which is not 
+always desireable.
+
+For other intervals, the ratio-interpretation will vary according to 
+inversion; contact me privately for more details. Also, if I'm treating the 
+intervals as non-interacting and simply adding values for each interval in a 
+chord, I'd feel better about adding dissonance levels than adding consonance 
+levels. To be continued . . .
+
+ -Paul
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 7 Nov 1996 01:12 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06332; Thu, 7 Nov 1996 01:13:17 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06319
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA18287; Wed, 6 Nov 1996 16:13:13 -0800
+Date: Wed, 6 Nov 1996 16:13:13 -0800
+Message-Id: <Pine.SCO.3.91.961106160853.20403C-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

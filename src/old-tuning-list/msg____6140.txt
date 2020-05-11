@@ -1,0 +1,78 @@
+source file: mills3.txt
+Date: Tue, 23 Sep 1997 18:59:50 +0200
+
+Subject: Re: TUNING digest 1186
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+>Topic No. 5
+>
+>Date: Sun, 21 Sep 1997 13:33:41 -0400
+>From: Carl Lumma <clumma@nni.com>
+>To: tuning@eartha.mills.edu
+>Subject: Sysex vs. Pitch Bend
+>Message-ID: <19970921173340078.AAA394@NIETZSCHE>
+
+<snip>
+
+>>MIDI transmits 3125 instructions per second.  A pitch bend is 3
+>>instructions.  To send 16 of these takes 3*16/3125*1000=15.36 ms,
+>>or twice as much if you include the note-ons as well.  Is this
+>>really a problem?
+>
+>Not in my experience.  I have used MMT with two Yamaha TX81Z's, the
+Proteus,
+>and a Kawai K5m, and I have yet to hear a "blurp" from any style of playing
+>whatever.  MMT can't play midi files, but it does accept live midi data,
+>and, if one is bent on playing midi files, a second computer can be used.
+>Denny is looking to develope MMT further, and would appreciate any input in
+>that regard.
+>
+>Before I close this message, I would like to make it clear that I am not an
+>advocate of the pitch-bend method.  Or of the tuning-table method.  Any
+>pitch-bend favoritism detected in this letter may be considered fair
+defense
+>against those who seem to pick on it without considering cons of sysex or
+>the work of artists like Denny and Jules Siegel, who use it to great
+effect.
+>
+>What I do believe, quite frankly, is that both of these methods suck.  I
+>don't think that any of us really believe otherwise --  it's all too easy
+to
+>let which method is better and why obscure the fact that we're being
+handing
+>our hats when it comes to a microtuning solution for midi.  Now, I'm told
+>that the Symbolic Systems Kyma setup is just about as good as can be, but
+>I've never seen one.  Has anyone seen one?  Justonic is working on a synth
+>designed for microtuning called the "Tone Palette".  They claim it is
+>several orders of magnitude quicker and higher-res than anything else.
+>They've got a prototype, but are having problems getting to production.
+>Find out more in the bowels of their site at www.justonic.com.
+>
+>Carl
+>
+
+Beware that Pitch Palette does NOT support the MIDI Tuning Dump standard per
+se!  The standard is too slow for the on-the-fly retuning that their program
+does.  To retune takes 408 bytes or about 130 ms. which is much too slow.  I
+asked them about the Ensoniq MR rack which they do support.  It retunes via
+the MIDI Tuning Dump.  Ensoniq in their superior wisdom designed the MR
+series with a shortcut mode where you need only send one octave worth of
+tuning data, 50 bytes or about 16 ms.  Great, for octave repeating tunings.
+
+Even the MIDI Real Time Single-Note Tuning Change takes 8 bytes plus 4 bytes
+multiplied by the number of notes to be changed.  This might work but the
+program would have the added complexity of having to select which notes need
+to be retuned first in the context of the music.
+
+I went through all the trouble of looking for a sound card (Turtle Beach
+Tropez+) that supports the MIDI Tuning Dump standard only to find that the
+standard is flawed for many applications.  Or is it MIDI in general that is
+flawed for microtonal applications?
+
+---Fred
+
+
+---------------------------------------------------------
+ Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+ phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca

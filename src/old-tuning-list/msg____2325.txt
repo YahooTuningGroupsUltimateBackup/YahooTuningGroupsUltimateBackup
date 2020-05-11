@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Thu, 16 Nov 1995 15:55:48 -0800
+
+Subject: Re: TUNING digest 561
+
+From: marcus@fa.disney.com
+
+> > The 12 tone equal temperament scale is derived from the overtone
+> > series of a vibrating string.
+>
+>    Of course most of us tuning listers will be prompt to point out that 12TET
+> doesn't provide a *really great* harmonic series approximation.  The 5th
+> harmonic is way sharp and it misses some really neat harmonics - 7, 11, and
+13
+> for example.  It does, however, provide a fairly EFFICIENT mapping to the
+> harmonics it does match - matching the first 5 harmonics reasonably well on
+as a
+> coarse resolution as 100 cents, is in my view an impressive feat.
+
+Thanks for replying.  I'm afraid I'm waaaaay back at Tuning 101.
+
+Would you (or anybody on the list) mind elaborating scale construction base on
+partial frequency formulas?  i.e., Given the really neat partial freq ratios
+that mclaren described, how do I construct a scale from them?
+
+I realize that we can do NonJust Equal Temperament, Just Non Equal Temperament
+(what others are there?).  There also seems to be the option of octave
+transposition.  For the harmonic series, and the cylindrical vibration mode
+series, transposing partials somehow into an octave seems really important,
+because the series increases too rapidly to construct a scale merely composed
+of partials.
+
+For 12TET, did someone merely lay out the harmonic series to some order, octave
+transpose them, and then make a best fit to a 2^(n/12) scale (discarding
+partials 7,11,13 in this case)?
+
+Thanks a bujillion,
+
+Marcus
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 17 Nov 1995 06:14 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id UAA02094; Thu, 16 Nov 1995 20:14:15 -0800
+Date: Thu, 16 Nov 1995 20:14:15 -0800
+Message-Id: <Pine.3.89.9511162357.A11601-0100000@email.ir.miami.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

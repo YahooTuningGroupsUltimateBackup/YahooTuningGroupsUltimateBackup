@@ -1,0 +1,42 @@
+source file: m1422.txt
+Date: Wed, 20 May 1998 11:27:41 -0700
+
+Subject: It's Daytime Now
+
+From: Carl Lumma <clumma@nni.com>
+
+>I'm agreeing that you misunderstood. Three to the something is a power
+>of three, while something to the three is a third power.
+
+Of course this is correct.  I see now that you meant base 3's in your
+original post.
+
+>>I agree that we only want one way to approximate something in an equal
+>>tuning, as long as we're using equal tuning to approximate.  But I do not
+>>agree that the 1% rule determines which things are one.
+>
+>Which things are one?
+
+I admit this is unclear.  Here's the orginal post by Erlich...
+
+>No, certainly not alike. But I guess I should have said something in the
+>paper about how in 12-tone equal temperament there is one and only one
+>way of approximating any consonant ratio, and that is a property that
+>adds a degree of simplicity that musicians may not be happy to give up.
+
+I was trying to say that I do agree we only want one way of approximating a
+given consonant ratio, but that I'm not convinced that two approximations
+within the 1% rule are necessarily confounded in their approximating that
+ratio.
+
+My guess would be that the chance of two approximations getting confounded
+with eachother varies inversely to the accuracy of the tuning's
+approximations at the limit it's being used [by the composer].  This would
+explain why, in all but the most carefully used circumstances, pithces in a
+just tuning cannot be used to approximate things, as I thought they might
+some time ago.
+
+Level 2 and higher consistency is the best measure I can think of for when
+a tuning's approximations are likely to get confounded with eachother.
+
+Carl

@@ -1,0 +1,72 @@
+source file: mills2.txt
+Date: Mon, 4 Dec 1995 06:35:46 -0800
+
+Subject: JICalc for Frets
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+The following is a little Hypertalk that those interested can plug into
+their JICalc stack to calculate Just fret positions.  I'm making another
+movable-fret guitar and couldn't stand the thought of tapping away at my
+hand calculator again.  Here's now to install this in your stack:
+
+1) Start up JICalc.  This has to run under the regular Hypercard 2.0 or
+greater, not Hypercard Player.
+
+2) After selecting a card from the index and click to it, make a new card.
+
+3) Go into field-edit mode under "tools" and make a new field.  Place it
+somewhere convenient and name it "String Length".
+
+4) Go into button-edit mode under "tools" and select one of the buttons to
+calculate the ET +- cent, 1024 or 768, whichever you don't use very much.
+Rename it "Fret Pos" or something and replace its script with the following:
+
+on mouseUp
+  set cursor to 4
+  get card field "String Length"
+  put it into strlength
+  repeat with i=1 to 60
+    --make sure the field has something in it; skip it otherwise
+    if line 2 of field i >0 then
+      --get the ratio
+      put ((line 1 of field i)-(line 2 of field i))/(line 1 of field i)
+into ratio
+      --multply string length by this ratio and display
+      put strlength * ratio into line 3 of field i
+      --display and ratio as a check
+      put ratio into line 4 of field i
+    end if
+  end repeat
+end mouseUp
+
+5) Enter some ratios and enter the total string length into the new field.
+Click on the Fret Pos button and the string lengths will be displayed.
+These are in centimeters for ease in multiplication.  Measure these from the
+nut.  For the octave above past the octave fret, recalculate with half the
+string length and place starting at the octave fret.  
+
+I use 16- or 18-guage steel wire bent around a fretboard which has had its
+old frets removed.  This is very similar to a sitar's movable frets.  The
+fret is held at the back of the neck with either tied fishing wire (this is
+even what sitar builders use) or rubber bands (which break quickly but are
+good for just a quick check).  Different fret positions for different
+strings are something this system doesn't allow.  It's derived from articles
+by David Canright in 1/1. Thanks to him for the information and thanks to
+Carter Sholz for sending me the original scripts for the JICalc buttons so I
+could modify them.   
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 5 Dec 1995 01:20 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA22824; Mon, 4 Dec 1995 15:20:18 -0800
+Date: Mon, 4 Dec 1995 15:20:18 -0800
+Message-Id: <199512042313.SAA00492@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

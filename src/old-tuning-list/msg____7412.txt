@@ -1,0 +1,58 @@
+source file: m1380.txt
+Date: Thu, 9 Apr 1998 11:32:20 -0500
+
+Subject: RE: Microtonal phones
+
+From: "Loffink, John" <John.Loffink@COMPAQ.com>
+
+> -----Original Message-----
+> 
+> From: monz@juno.com (Joseph L Monzo)
+> Subject: Microtonal phones
+> 
+> Just thought I'd mention this, since it
+> seems we're trying to document all the
+> places where we're hearing microtones:
+> 
+> The tones which sound when you press
+> numbers on the keypad of a touch-tone
+> phone are in ratios.  I had figured them
+> out once, because their arrangement into
+> dyads  follows a geometrical pattern
+> across the keys, but they were never
+> written down.
+> 
+	[Loffink, John]  
+
+The phone frequencies, known as DTMF, are combinations of two tones as
+follows:
+
+	freq1, freq2, ratio
+'1'	697 Hz, 1209 Hz, 1.73
+'2'	697 Hz, 1336 Hz, 1.91
+'3'	697 Hz, 1477 Hz, 2.12
+'4'	770 Hz, 1209 Hz, 1.57
+'5'	770 Hz, 1336 Hz, 1.73
+'6'	770 Hz, 1477 Hz, 1.92
+'7'	852 Hz, 1209 Hz, 1.42
+'8'	852 Hz, 1336 Hz, 1.57
+'9'	852 Hz, 1477 Hz, 1.73
+'*'	941 Hz, 1209 Hz, 1.28
+'0'	941 Hz, 1336 Hz, 1.42
+'#'	941 Hz, 1477 Hz, 1.57
+
+The intervals are:
+phone	closest 12TET
+1.28	1.26
+1.42	1.41
+1.57	1.58
+1.73	1.68/1.78
+1.91	1.88
+2.12	2.12
+
+I don't have a table of intervals handy, but from the above info the only
+improvement I see over 12TET are closer approximations to 5/4 and 7/4,
+though still not exact.
+
+John Loffink
+john.loffink@compaq.com

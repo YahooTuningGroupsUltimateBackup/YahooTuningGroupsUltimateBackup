@@ -1,0 +1,80 @@
+source file: mills3.txt
+Date: Sat, 20 Dec 1997 11:00:20 +0100
+
+Subject: A Higher-Level Comment on Gregg Gibson's Limen
+
+From: mr88cet@texas.net (Gary Morrison)
+
+I and several others have reacted skeptically to some of Gregg Gibson's
+recent thoughts.  I think I should state my opinion on this idea of his a
+little bit more precisely.
+1.  The essential idea he's getting at I don't by any means think to be
+    ridiculous or anything like that.  If Gregg's suggestion can be summarized
+    that there is a certain level of detail in pitch below which we view their
+    melodic effects will be perceived as subtle flavorings of the same original,
+    and above which they will be perceived as an essentially different melody,
+    then my opinion is that it's an interesting concept.  Proposing that such
+    a "limen" exists is a sign of insightfulness in that he's come up with an
+    underlying concept I don't recall having been discussed on the list.
+2.  It's an interesting concept that could perhaps become a useful rule of thumb
+    for composers (e.g., if you're composing something under the assumption
+    that the audience will hear at greater resolution than this, you probably
+    won't get your idea across).
+3.  Despite that, I think it's important to note that its area of direct appli-
+    cability is fairly narrow.  (A narrow field of applicability doesn't neces-
+    sarily imply unimportance.)  I say that based upon the examples he's given
+    and the counterexamples others and I have suggested.  For example, this
+    limen has potential applicability to comparatively familiar melodic
+    structures like diatonic melodies, but it's more difficult to relate to
+    microtonal melodic runs, or to melodies pulled from entirely nontraditional
+    scales (e.g., 9TET, 8TET, 11TET, Pierce-Bohlen, and 88CET to name a few).
+    Also, its direct applicability to other than melody seems somewhat limited
+    as well.
+4.  The idea is based upon an assumption of a fairly abrupt change in peoples'
+    perception of tuning errors, that change being centered around the limen he
+    proposes to be around 60 cents.  Tuning ... "surprises" I'll say ... smaller
+    than 30 cents (i.e., to the nearest 60-cent-resolution point) will be viewed
+    as coloring of the familiar melody, whereas tuning surprises larger than
+    that fundamentally change the melody.  I'm inclined to think that the
+    attitude change from melodic coloring to fundamental melodic change is a
+    greatly more gradual one.  Standard melodic variation techniques and modal
+    changes (for example) show clearly that melodies can undergo some extremely
+    enormous permutations before our ears perceived them to be fundamentally
+    different.  Given that recognizability of a melody blurs out that far, it
+    seems surprising that there would be sharp, sudden changes in attitude
+    toward subtle changes.
+5.  He seems to suggest that the sub-30-cent coloring effects of a different
+    rendition of a diatonic melody are comparatively unimportant.  I don't think
+    that the distinction between a familiar melody rendered in, say, QC meantone
+    vs. 19TET, vs. Ptolemiac JI are as audibly significant as the variations
+    available across entirely nondiatonic frameworks.  But even still, I don't
+    think it wise to underestimate the musical impact of those coloring effects.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Partch CDs
+PostedDate:  20-12-97 11:01:00
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  20-12-97 10:58:56-20-12-97 10:58:56,20-12-97 10:58:31-20-12-97 10:58:32
+DeliveredDate:  20-12-97 10:58:32
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256573.0036D20F; Sat, 20 Dec 1997 11:00:43 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22578; Sat, 20 Dec 1997 11:01:00 +0100
+Date: Sat, 20 Dec 1997 11:01:00 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA22322
+Received: (qmail 19134 invoked from network); 20 Dec 1997 02:00:52 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 20 Dec 1997 02:00:52 -0800
+Message-Id: <v01541108b0c0b90c552b@[207.207.2.115]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

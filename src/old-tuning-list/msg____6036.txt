@@ -1,0 +1,78 @@
+source file: mills3.txt
+Date: Sun, 31 Aug 1997 19:47:38 +0200
+
+Subject: Re: Demisemitones
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Gary Morrison wrote:
+
+>> The definition only applies to syntonic meantones.
+
+>   I musta missed something:  Which definition are you referring to?  The
+> disemitone/quartertone?
+
+A demisemitone is the difference between an augmented unison and
+a minor second.  An augmented unison is the approximation of a
+chromatic semitone, and a minor second of a diatonic semitone, in
+a syntonic meantone.  This is the only definition of these
+intervals I know, and it only applies to syntonic meantones. Hence
+the same is true of demisemitones.  24tet is a special case,
+because a subset of it is a syntonic meantone temperament.
+
+The interval 7/4 is called a subminor seventh.  If you define that
+as a minor seventh flattened by a demisemitone, you have a
+definition of an interval.  In syntonic meantones, 7/4 is an
+augmented sixth, so the two definitions agree.
+
+I have adopted the / and \ symbols to notate boosts of this kind
+of demisemitone.  There is technically a lesser demisemitone
+being the difference between a greater demisemitone and an
+augmented unison.
+
+In JI, there are 2 minor sevenths -- 16/9 and 9/5 -- so there
+are two greater demisemitones defined the 7-limit way.  One is
+(4 -2 0 0)H - (-2 0 0 1)H = (6 -2 0 -1)H and the other is
+(0 2 -1 0)H - (-2 0 0 1)H = (2 2 -1 -1)H.  The former is a
+septimal comma, and has priority over the \ symbol.  / and \ can
+be used generally to denote small deviations from the 5 prime
+limit when meantone (eg staff) notation is used for JI.  Does
+whoever originally suggested them object to this?
+
+To unite two threads, if you define the sruti scale:
+
+       r q r q r q r q r q r q r r q r q r q r q r
+      S   r   R   g G   M   m   P   d   D   n N   S'
+
+in a manner consistent with 22 octave reduced fifths, a septimal
+comma is well approximated by q, so these small srutis are
+demisemitones and, for example, the first sruti is r\.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  PErlich@Acadian-Asset.com
+Subject:  RE: 5-limit in India?
+PostedDate:  31-08-97 16:16:01
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-09-97 17:09:22-01-09-97 17:38:02,01-09-97 17:37:45-01-09-97 17:37:48
+DeliveredDate:  01-09-97 17:37:48
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256505.00532AA8; Mon, 1 Sep 1997 17:08:24 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09708; Sun, 31 Aug 1997 16:16:01 +0200
+Date: Sun, 31 Aug 1997 16:16:01 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA09705
+Received: (qmail 25552 invoked from network); 31 Aug 1997 14:15:56 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 31 Aug 1997 14:15:56 -0000
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-970831134145Z-1741@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,102 @@
+source file: mills2.txt
+Date: Fri, 20 Dec 1996 11:30:22 -0800
+
+Subject: fwd: RE:  practical vs. theoretical implementations of micro...
+
+From: JLoffink@bangate.compaq.com
+
+-------------
+Original Text
+From: John Loffink@HW Stor@Sys Hou, on 12/20/96 9:24 AM:
+To: smtp[tuning@eartha.mills.edu.]
+
+Re:  practical vs. theoretical implementations of microtonality
+
+This discussion is based upon several false assumptions.  Some 
+corrections....
+
+1.  There is no such thing as a Kurzweil K3000.  You must be referring to 
+the K2500.
+2.  It is very simple to do octave shifts of instruments.  Multiple pitch 
+tables are not necessary to do more than 17 notes per octave for a piano 
+range instrument.  If you need instruments with 250 discrete pitches, 
+assuming that they repeat by octaves, you can create the pitch table once, 
+copy the instrument and then merely shift the pitch by octaves to create 
+the full scale pitch range.  This is not possible with the Ensoniq series 
+of samplers however (see next item).
+3.  The author seems to be mistaking the architecture of the Ensoniq series 
+with other manufacturers instruments as well.  The Ensoniq samplers cannot 
+store the program parameters (tunings, filter settings, etc.) separate from 
+the sample RAM.  This is one of the great weaknesses of the ASR-10.  The 
+other is the limitation of loading 8 instruments.  Kurzweil and I believe 
+E-mu and Akai can and do allow multiple program settings using a common set 
+of samples.  So all these calculations starting with a 32M sample bank and 
+then multiplying it by X times are wrong except for those using an Ensoniq. 
+ To do the octave shifts one merely needs to copy a few hundred bytes of 
+program RAM and readjust the relevent parameter.
+4.  The assumption is made that tuning tables are the only means of 
+creating a non-12 note scale on instruments without full scale tuning 
+tables.  This is correct only when talking about non-equally spaced scales. 
+ For equal tempered scales on the Kurzweil K2000 and K2500, it is very easy 
+to adjust the keymap tracking parameter to a rough value so that the 
+individual samples track the pitch range they were intended for.  One then 
+adjusts one of the two available pitch modulation sources to fine tune the 
+pitch tracking to get a tuning accurate to +-1 cent over the entire MIDI 
+range.  Since the Kurzweil gives the pitch tracking modulation depth in 
+real units of cents, it is very easy to calculate the proper values for any 
+equal tempered scale, including non-octave repeating scales such as the 
+Carlos alpha, beta and gamma scales.  I recently gave an example of this to 
+a tuning list member for 19TET and I believe he forwarded those parameters 
+to this list.  On the Kurzweil instruments this is stored as a program 
+parameter in program RAM, not in sample RAM.  The K2000 and K2500 are 
+limited to 999 programs per instrument.  I believe this to be an adequate 
+number for most users even though you would have to use  separate programs 
+for the same sample set in 19TET and 31TET scales (but again, no extra 
+sample RAM).  Any one of these 999 programs are instantly available by a 
+MIDI extended program change message.  Multiple ET scales could even be 
+mixed within the same composition and sequence.  It takes a few minutes to 
+calculate the parameters for a new ET scale and about 30 seconds to program 
+each instrument.
+5.  The K2500 and Emu EIV both allow 128M of sample memory.  The lowest 
+cost Kurzweil option is to get a K2500R (Rack) without the sampling option 
+for about $2500.  You don't need the sampling option to use samples, only 
+to do your own sampling from microphone, line or digital inputs!  The SIMM 
+slots and SCSI interface are on the basic unit.  30 pin 16Mx8 RAM is 
+currently running $95-$120, so the full 128Mbyte cost is less than $1000.   
+Of course, the assumption that you need this much is entirely wrong.  Add 
+64M RAM, the Program RAM option, a SCSI CD-ROM drive, a 1 or 2 Gig hard 
+drive and several sample CD-ROMs and the total price ticket is $4000-$4500. 
+ Yes, this is expensive, no doubt about it, but it is also one hellaciously 
+powerful system.
+6. Software updates do occur, especially for the more expensive instruments,
+ so the situation is not entirely hopeless.  I urge everyone to contact the 
+manufacturers and request microtonal tuning capabilities.  Make sure they 
+know that your purchase decision is dependent upon this feature.  I am 
+personally working with Kurzweil on these matters and would love for other 
+manufacturers to be responsive as well.  One problem is that there is no 
+consensus as to what microtonal users want.  One user may want only a few 
+full keyboard tuning scales while another may want dozens of octave based 
+scales that can be selected on the fly for complex just intonation 
+modulations.  And let's be realistic, no mass market manufacturer will 
+support resolutions to .01 cents or better because the VLSI chips simply 
+aren't that accurate.  Users needing this accuracy will have to rely on 
+specialized systems like KYMA or the Justonics synthesizer.
+  
+For Marcus Hobbs:
+The literate I've seen on the Ensoniq MR Rack says it has only one RAM 
+tuning table location.  Is this incorrect?
+
+John Loffink
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Dec 1996 21:23 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA16486; Fri, 20 Dec 1996 21:25:30 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA16479
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA27173; Fri, 20 Dec 1996 12:25:28 -0800
+Date: Fri, 20 Dec 1996 12:25:28 -0800
+Message-Id: <199612202024.PAA27765@synapse.gsfc.nasa.gov>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

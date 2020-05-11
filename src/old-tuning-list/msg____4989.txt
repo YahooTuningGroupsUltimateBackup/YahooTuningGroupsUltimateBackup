@@ -1,0 +1,70 @@
+source file: mills2.txt
+Date: Tue, 4 Mar 1997 13:14:15 -0800
+
+Subject: Re: New Paper
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+"Asmussen, Robert" <robert@terraworld.net> erote:
+>I have recently posted a paper that explores tuning by ratios. Included
+>in this paper are illustrations, programs, WAV files, Csound examples
+>and a retuned two-part invention by J.S. Bach.
+>http://www.terraworld.net/users/r/robert/default.htm
+
+Robert, on arriving at your pages I had a feeling of deju vu.
+Your three coloured waves logo with periods in the ratio 2:3:5 is quite
+similar to one on my pages.  The problem with which you are dealing,
+that of working out the exact correct frequency of every note in any
+composition, is the same one that I address in my AJI pages at
+http://www.kcbbs.gen.nz/users/rtomes/aji-main.htm
+
+Robert, congratulations on a nice clear presentation.
+
+In your pages you say:
+>Another point to note is that most pieces of traditional tonal music, 
+>even short and seemingly simple pieces by Mozart and Haydn, cannot be 
+>translated without modification from traditional notation into integer 
+>ratios. Chromatic passages are especially difficult to recast into this 
+>new framework.
+
+Right!  I have considered a number of options for this and believe that
+in general the best solution is one based on a sort of information
+theory idea.  The following may be a bit heavy, but once grasped can be
+seen as a powerful tool.
+
+To explain this idea, consider that each chord played has notes related
+by ratios to the tonic.  Suppose that these ratios for a particular
+chord are 5/4, 15/8, 3/1.  Then it is necessary to find the LCM (lowest
+common multiple) of the numerators and divisors which are 15 and 8.  My
+system then consists of counting demerit points for the factors of these
+two numbers.  We have 2^3 and 3^1*5^1 and so must score demerits by
+weighting the value for the indices here.  Generally ratios of 2 are
+most acceptable and then 3 and then 5 etc.  My preferred formula for
+demerits is in proportion to p*ln(p) so that if 2 is set as unity each 3
+and 5 will score 2.4 and 5.8 respectively.  In that case 8 and 15 will
+score 3 and 2.4+5.8 for a total of 11.2 demerits.  If there is a better
+way to "read" the chord then it will score less.
+
+Some intervals such as a minor sixth may be interpreted as 7/4, 16/9 or
+9/8 depending on circumstances.  The one that minimises the demerits is
+to be considered better because it is more simply related to the other
+notes present or even previously played.
+
+BTW, there is a missing graphic on one of your pages.  Unfortunately I
+just pressed the wrong key and lost everything including the reference.
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 4 Mar 1997 22:43 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05980; Tue, 4 Mar 1997 22:43:44 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA05965
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id NAA19501; Tue, 4 Mar 1997 13:41:30 -0800
+Date: Tue, 4 Mar 1997 13:41:30 -0800
+Message-Id: <Pine.SCO.3.91.970304133442.11903A-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

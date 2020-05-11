@@ -1,0 +1,69 @@
+source file: mills2.txt
+Date: Sat, 2 Mar 1996 23:54:07 -0800
+
+Subject: Re: Proteus Tuning
+
+From: Jim Flannery <newgrange@sfo.com>
+
+Adam.B.Silverman@students.Miami.EDU wrote:
+
+> I'm having trouble getting my EMU Proteus to play microtonally:
+> I use a Macintosh with Vision, and have sequenced lines, inserting pitch
+> bend messages for microtonal alterations.  On playback, though, I kkep
+> hearing the "bending" between each note.  How do I get it to attack each
+> pitch without these little glissandi?
+> -Adam
+
+The Proteus does have a "user" tuning which may (or may not) be fine 
+enough for your purposes (which eliminates the use of the pbend 
+altogether).
+
+You would probably want to use a patch editor (I use Galaxy) rather than 
+the front panel display (if it's even available there -- I'm not sure) 
+which would be unbelievably tedious.
+
+Basically, you can tune each interval individually, by simply typing in 
+the value in cents. If you're working with 1200-cent octaves with 12 
+division, you can do one octave and the Proteus will duplicate it; 
+otherwise, you're stuck with doing all of them. Of course, in Vision 
+it's up to you to keep track of what, say, "D#3" _really_ is (I use MAX, 
+so they're all just numbers to me).
+
+The disadvantage is that (for what I assume are floating-point limits or 
+some such -- any ideas out there?) once you type in, say, 98, it 
+recalculates to, maybe, 97.8682. (as I said, it may not be critical 
+enough for your purposes.) The recalculation seems to stay within LND, 
+though, and my poor shell-shocked ears think my stuff sounds ok (tho' 
+there's a reason I'm doing this stuff with computers instead of string 
+instruments).
+
+I have a question about the Proteus itself (and the use of samples of 
+conventional instruments in general) in tunings other than those they 
+were designed for; aren't the resonating parts of the instruments 
+designed to "sweeten" partials (by, for example, shaving miniscule 
+amounts of wood from the inside of the body) which may not be present if 
+the fundamental has been retuned (or more to the point here, are we 
+hearing partials we wouldn't be if we were playing a _real_ instrument 
+in that tuning)? (Sorry if the question seems naive (or incomprehensibly 
+phrased) -- I just have to wonder how accurate my experience of these 
+tunings is...) 
+
+-- -- -- -- -- -- -- -- / -- -- -- -- -- -- -- -- / -- -- -- -- -- /
+ /                               /                 /
+   /     /   Notions of freedom are tied up with drink
+  /                                                 Malcolm Lowry
+ /                      /          /         
+ /           Jim Flannery            /          newgrange@sfo.com
+/            Newgrange Media
+-- -- -- -- -- -- -- -- / -- -- -- -- -- / -- ---- -- -- -- -- -- /
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 3 Mar 1996 13:47 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id EAA06817; Sun, 3 Mar 1996 04:46:49 -0800
+Date: Sun, 3 Mar 1996 04:46:49 -0800
+Message-Id: <199603031244.HAA15239@freenet3.carleton.ca>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,62 @@
+source file: mills2.txt
+Date: Sat, 16 Mar 1996 17:46:38 -0800
+
+Subject: Cents without Logs
+
+From: non12@delta1.deltanet.com (John Chalmers)
+
+Most cheap hand calculators have only the four functions, 
++, -, *, and /, though a few have a square root (SQR) key as well. 
+I've often wondered what the point of having this last key is as I would 
+expect that  most people sufficiently sophisticated mathematically to 
+need a SQR key would probably need a log key too. After all, how often 
+do most people have to calculate geometric means, Std Dev's., diagonals 
+of rectanges, radii of circular areas, or RMS values? And if they did 
+these operations often, wouldn't they occasionally want other functions 
+like the sin, cos, tan, log, exp, etc. as well? 
+	Anyway, I began to think how one might compute cents without a 
+log key and looked up Ellis's algorithm for integer cents in Helmholtz's 
+"On the Sensations of Tone " in appendix XX, section C. This algorithm is 
+really very simple: reduce the ratio to a single octave (remembering how 
+many octaves there were), reduce it to again if necessary so that it is 
+less than a 4/3 or 3/2 by multiplying by 3/4 or 2/3. Now take the 
+difference betweeen the Numerator and Denominator of the reduced ratio 
+and divide it by the sum of the N and D. Multiply this quantity times 
+the "Bimodulus" 3477 and add 1200 cents for each octave by which the ratio 
+was reduced and  498 or 702 if the octave reduced ratio was larger than a Fourth or Fifth. The final result should be accurate to a cent (there is 
+an minor 1 cent correction for reduced ratios between 450 and 498 cents). 
+In practice, it is simple and fast as the reductions may be largely done 
+by inspection.
+	Why does it work and why 3477?  Well, there is an old and well-
+known approximation to the natural log of (x+e)/(x-e), 2e/x, where e is 
+a small number. Let the reduced ratio be N/D (N>D), let x = N+D (the Sum 
+of N and D) and let e = N-D (the difference) and substitute into both
+expressions. Then (x+e)/ (x-e) becomes (N+D+N-D) or 2N over (N+D-N+D) or 
+2D and Ln (2N/2D) = ln(N/D).  This ln is approximated by 2*(N-D)/(N+D).
+	The cents value of N/E is defined as ln(N/D)*1200/ln(2) or
+approximately 2*(N-D)/(N+D) *1200/Ln(2). The factor 1200/ln(2) is 
+1731.234+ and twice it would be 3462.5. Hence one would think that 
+formula for the approximate integer cents of small intervals would be (N-D)/(N+D)*3462. Ellis discovered empirically that 3477 works better, 
+giving nearly exact results for 5/4 and only slightly deviating ones for 
+larger and smaller intervals. 3462 is less convenient as it requires 
+small corrections. Reversing the procedure yields a close approximation to 
+the decimal form of the ratio if one is given an interval in cents.
+	While this technique is not a fundamental breakthrough, it is 
+an interesting reminder of just how clever the 19th century scholars 
+and scientists really  were. The upshot is that if, alas, one is ever 
+stuck with only a four function calculator, one can still do tuning 
+theory.
+ 
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 18 Mar 1996 02:02 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA01860; Sun, 17 Mar 1996 17:01:48 -0800
+Date: Sun, 17 Mar 1996 17:01:48 -0800
+Message-Id: <199603180100.RAA01746@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

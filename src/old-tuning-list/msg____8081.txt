@@ -1,0 +1,84 @@
+source file: m1447.txt
+Date: Sun, 14 Jun 1998 07:21:47 -0500
+
+Subject: Defining "Just" Intonation and "Consonance"
+
+From: "Benjamin Tubb" <brtubb@cybertron.com>
+
+I just figured out the following info which perhaps may interest others.
+
+Just Intonation Ratio Limits [with respect to the denominator]
+2 Limit   3/2      5/4      7/4      9/8      11/8     13/8     15/8
+Cents      701.96   386.31   968.83   203.91   551.52   840.53  1088.27
+
+
+3 Limit   4/3      5/3      7/6      11/6     13/12    17/12    19/12
+Cents      498.04   884.36   266.87  1049.36   138.57   603.00   795.56
+
+5 Limit   6/5      7/5      8/5      9/5      11/10    13/10    17/10
+Cents      315.64   582.51   813.69  1017.60   165.00   454.21   918.64
+
+7 Limit   8/7      9/7      10/7     11/7     12/7     13/7     15/14
+Cents      231.17   435.08   617.49   782.49   933.13  1071.70   119.44
+
+
+Does anyone have any comment as to why the following list of "just" intervals
+isn't otherwise accepted for the most "consonant" use insofar as they are based
+on the second most consonant interval of a Perfect Fifth besides the Octave.
+(The consonance of the unison being obvious.)
+
+   Perfect Fifth Derived Ratios for the chromatic scale
+(i.e. based on 3/2 and adjusted for octave range)
+Int Ratio         Cents
+P5  3/2           701.96
+M2  9/8           203.91
+M6  27/16         905.87
+M3  81/64         407.82
+M7  243/128      1109.78
+D5 729/512        611.73
+m2 2187/2048      113.69
+m6 6561/4096      815.64
+m3 19683/1638     317.60
+m7 59049/32768   1019.55
+P4 177147/131072  521.51
+   531441/524288   23.46
+   Octave!!? (1200+23.46)
+
+*D5=diminished fifth, augmented fourth, tritone.
+
+Notably above, the "octave" by the next derived ratio of 531441/524288 equals
+23.46 cents! And the Perfect Fourth "commonly" represented by 4/3 = 498.04
+cents is opposed to 177147/131072 = 521.51 cents "derived" above. Essentially,
+I'd like to know what is the definition of "just" intonation and how "should"
+it be applied. I would assume one critical factor would be the limitations of
+human hearing in its accuracy of pitch perception but the "Fibonacci spiral" of
+the cochlea would also seem significant. Comments on this would be most
+appreciated.
+
+
+Another example similar to the above is the Perfect Fourth derived chromatic
+scale:
+Int  Ratio          Cents
+P4   4/3             498.04
+m7   16/9            996.09
+m3   32/27           294.13
+m6   128/81          792.18
+m2   256/243          90.22
+D5   1024/729        588.27
+M7   4096/2187      1086.31
+M3   8182/6561       384.36
+M6   32768/19683     882.40
+M2   65536/59049     180.45
+P5   262144/177147   678.49
+     1045876/531441 1176.54
+    Octave!!?  (1176.54-1200) = -23.46
+
+-------------
+Benjamin Tubb
+AIM: brtubb
+ICQ: 650264
+brtubb@cybertron.com
+http://home.cybertron.com/~brtubb/theory.html
+
+The Music of Stephen Collins Foster (1826-1864)
+http://www.geocities.com/Nashville/9958/

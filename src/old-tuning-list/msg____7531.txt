@@ -1,0 +1,50 @@
+source file: m1392.txt
+Date: Wed, 22 Apr 1998 08:47:46 -0700
+
+Subject: Re: TUNING digest 1391
+
+From: csz@wco.com (Carter Scholz)
+
+Dan,
+
+Your thoughts on pelog make fascinating reading.  I hope to
+read your whole article when you've finished revising it.
+A few further thoughts:
+
+>In the central Javanese palace instruments
+>(cf the Gadja Mada study), this average is
+>indeed around 665 cents. However, since so many modern
+>instruments copy the RRI Solo tuning, with essentially
+>a slendro kempyang ('fifth') of 721 cents, we may being
+>witnessing one way in which a tuning trend develops.
+
+That's interesting.  I didn't know that the RRI instruments
+had become such a model.  I wonder why?  (Not just the power of
+mass media, I hope.)
+
+<Are you looking specifically for small-number ratios?
+>No, but if someone does come up with a just solution
+>(I lean toward the view that these tunings are kinds
+>of 'well temperaments'), I would be _very_ interested
+>in hearing it.
+
+Dan Schmidt's pelog comes close.  It's a section of a harmonic
+series from 8 (pelog 6) to 15 (pelog 5), omitting 13.  It violates
+your condition (7), but if you lower pitch 2, I think it satisfies
+them all:
+1/1  16/15  6/5  7/5  3/2  8/5  9/5  2/1
+(This tuning is tumbuk 6 with P4=S5, by the way.)
+
+<To guarantee a functional pelog, I wonder if you
+<might also need to constrain the 6-7 interval
+<(already >80 cents, but usually a good deal
+<larger), and possibly the 3-4 (usually at least
+<twice as large as 4-5).
+>These are already satisfied by setting 1-3 and 1-5.
+
+I don't see this.  It appears to me that you could have an 80-cent
+6-7 that satisfies all your conditions, and a 3-4 that equals 4-5.
+E.g. (in cents): 0  100  300  500  700  850  930  1200
+Am I missing something?
+
+Carter

@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Tue, 5 Nov 1996 13:22:54 -0800
+
+Subject: Re: notating tuning references
+
+From: "Adam B. Silverman" <adam.silverman@yale.edu>
+
+Gary Morrison asked (off the list):
+>> An idea which I have toyed with (but not yet implemented, mostly out of
+>> laziness) is to notate, at least when writing single-voice-per-staff music,
+>> tuning references for complex (extended JI or less-than obvious) intervals.
+>> For instance, when a violinist would read a Bb7, they would see the seven
+>> and automatically tune it as a 7/4 or 7/6 to some sounding pitch.  However,
+>> if I have modulated to the key of Gb7, I would notate a Gb7 enclosed in
+>> parenthesis on the staff.
+>
+>   Can you elucidate this a little more?  For example, what does the "key of
+>Gb7" mean?  I presume that this is some particular mode built upon Gb and
+>containing a 7:4 seventh?  How then would you specify this particular
+>mode, and
+>how would you switch to a 9:5 minor seventh?
+>
+
+Let's change the example to a chord written F:Bb7:Eb7 (1/1, 21/16, 7/4)
+	-The bass plays F, no problem.
+	-The soprano sees Eb7, and plays Eb approximately a quartertone
+flat, knowing to tune a "7" relationship because she has the "7"
+diacritical.
+	-The alto sees Bb7, but must tune a complex interval.  She sees the
+"7", but doesn't know how to tune it since she is a bit lower than a 4/3
+from the bass--no man's land.  Since she sees the cue (Eb7) written in her
+part, she sees that the soprano pitch is a 4/3 above hers, and knows to
+which pitch she should tune her simple relationship.
+
+Another example: what if the bass moves from F (1/1) to GL+ (8/7), and then
+the alto must play a 5/4 from this new fundamental?  She would see in her
+part BL+ over a cue (GL+), and knows to hear a 5/4 in relation to the bass
+rather than some kind of seventh.
+
+A 9/5 minor seventh would come under my "easy to hear" interval
+classifications.  Since nobody sees a "7" they know not to tune too far
+away from their "home" chromatic scale.  If I wanted an F#+ (45/32) in the
+chord C:F#+:G (1/1, 45/32. 3/2), I would give the alto an F#+ over a cue
+(D).
+
+Pardon my ambiguity, I hope that this is clearer.
+
+-Adam
+
+_________________
+Adam B. Silverman
+153 Cold Spring Street; A3
+New Haven, CT 06511
+(203) 782-1765
+
+abs22@pantheon.yale.edu
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 5 Nov 1996 22:57 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04930; Tue, 5 Nov 1996 22:58:38 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04929
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA29648; Tue, 5 Nov 1996 13:58:34 -0800
+Date: Tue, 5 Nov 1996 13:58:34 -0800
+Message-Id: <Pine.3.89.9611051636.A16603-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

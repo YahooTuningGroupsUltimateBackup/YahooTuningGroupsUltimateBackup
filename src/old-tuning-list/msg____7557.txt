@@ -1,0 +1,74 @@
+source file: m1396.txt
+Date: Sun, 26 Apr 1998 01:20:42 EDT
+
+Subject: Re: TUNING Resolution
+
+From: Ascend11 <Ascend11@aol.com>
+
+=09I recently joined the tuning forum and have followed the recent discus=
+sion=0Aabout tuning resolution with interest.  I have worked fairly exten=
+sively with=0AFourier additive analysis and pitch extraction algorithms (=
+which I received=0Afrom the University of Illinois=92 CERL music lab and =
+further developed), and=0Ahave analyzed a number of digitally recorded vo=
+ice and acoustic instrument=0Asounds (16 bit signed integer samples at a =
+40 KHz sampling rate).  In this=0Awork I was impressed by the closeness o=
+f the frequencies of the partials of=0Amany, but not all instrument sound=
+s to being exact integer multiples of the=0Abasis frequency as determined=
+ by pitch extraction (as a frequency vs time=0Atrajectory which I usually=
+ computed at points roughly a millisecond apart over=0Athe course of the =
+sound).  Frequently the deviations of time averaged partial=0Afrequencies=
+ from n times the time averaged basis frequencies (n an integer)=0Awere l=
+ess than one cent.
+
+=09Here are some results which I obtained:  For three recorded soprano no=
+tes of=0Aroughly one second duration with vowel sounds =93ah=94 and =93ee=
+=94 at e4 and f4, I=0Aaveraged the =93global=94 frequency of the sound ov=
+er the main portion of the note=0A(appreciable sound volume) and then ave=
+raged the frequencies of the first 20=0Apartials over this same portion o=
+f the note.  For three notes, the average=0Aabsolute values for the devia=
+tions of the average partial frequencies from n=0Atimes the average =93gl=
+obal=94 frequency were: 0.44, 1.04, and 0.48 cents.  For=0Athree recorded=
+ baritone =93ah=94 sounds at a2, g3, and c4, having durations of=0Aroughl=
+y 2 seconds, these deviations in cents (average for first 20 partials)=0A=
+were 0.57, 0.55, and 0.41.  For a trombone f3 sound, the average absolute=
+=0Avalue of the deviation of a partial=92s average frequency from n times=
+ the=0Asound=92s global frequency was .48 cents (first 20 partials).
+
+=09The averages of the instantaneous deviations of the frequencies of par=
+tials=0Afrom n times the global frequency over a set of time points space=
+d a=0Amillisecond apart over the duration of the sounds appeared to be co=
+nsiderably=0Agreater than this.
+
+=09In the case of a flute d4 note a little under a second in duration, th=
+e=0Adeviations in the average partial frequencies from n times the global=
+=0Afrequency of the sound amounted to 4.55 cents, roughly ten times great=
+er than=0Athese deviations were for the sung notes and the trombone note.
+
+=09I analyzed a piano a2 sound of roughly 2 seconds=92 duration and here =
+will give=0Athe cent deviations of the average partial frequencies from n=
+ times the=0Aaverage global frequency over the early portion of the sound=
+ just after the=0Apeak of the attack for the first 20 partials:  Partial =
+1: -11.4 cents; par. 2:=0A-6.7 cents; par. 3: -7.3; par. 4: -6.7; par. 5:=
+ -6.5; par. 6: -5.8; par. 7:=0A-4.8; par. 8: -3.5; par. 9: -1.1; par. 10:=
+ +1.0; par. 11: +5.1; par. 12: +5.0;=0Apar. 13: +7.9; par. 14: 10.4; par.=
+ 15: +8.9; par. 16: +16.9; par. 17: +20.1;=0Apar. 18: +23.0; par. 19: +24=
+6; par. 20: +29.1.  The results for a c4 piano=0Anote I analyzed were si=
+milar but not identical to those for the a2.
+
+=09I've gone into some specific detail as I believe this is necessary in =
+order=0Ato give a meaningful picture of the results of this work.
+
+=09I have the impression that seemingly small shifts in the frequencies o=
+f=0Amusical sounds can have surprisingly large effects on the cumulative=
+=0Aimpression which the music creates.
+=09
+=09Note: I am doing non-real-time additive synthesis of musical notes on =
+a=0AMacintosh 8500 computer for purposes of developing demonstrations and=
+ also=0Alistening tests for use in research in musical aesthetics.  Recen=
+tly I've had=0Aa piano retuned to quarter comma mean tone temperament and=
+ have been exploring=0Aits harmonies and have prepared a few demonstratio=
+ns of pieces of music played=0Aside by side in equal temperament and in q=
+uarter comma mean tone temperament.=0AMany have found the difference betw=
+een the effects of these different tuning=0Asystems to be striking.
+
+=09Dave Hill, La Mesa, CA=0A

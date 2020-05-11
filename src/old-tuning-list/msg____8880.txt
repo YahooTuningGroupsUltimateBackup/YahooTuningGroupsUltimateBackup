@@ -1,0 +1,17 @@
+source file: m1587.txt
+Date: Fri, 20 Nov 98 14:18:16 GMT
+
+Subject: Re: Resoundcard
+
+From: jpff@maths.bath.ac.uk
+
+>>>>> "Carl" == Carl Lumma <clumma@nni.com> writes:
+
+ Carl> And, as an aside, tuning issues aside, is there even a single sound card
+ Carl> that supports realtime synthesis (NOT wavetable)?
+
+ Carl> Carl 
+
+Yes, the Extended Csound card from Analog at least.  Supports Csound
+on teh board.  Also check out CreamWare's SHARC card.
+==John ff

@@ -1,0 +1,33 @@
+source file: m1388.txt
+Date: Sat, 18 Apr 98 00:55:52 -0000
+
+Subject: Continued Fraction Problems
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+A couple of math-type queries  for anyone who can answer them:
+
+1)In my study of E.Dunne's page on Pianos & Contd. Fractions, I have come 
+to the halt in trying to figure out how one obtains the contd. fraction 
+expansion for a logaritm,in this case,log[2](3).I've  understood how one 
+obtains Contd. Fractions in general,but I assume for a log one might 
+require a tool such as that for sq.roots in the denominator (multiplying 
+the top  & bottom of the fraction by (sq.rt.2 + 1).
+
+2)In Dunne's excursion into using the maj 3rd (5/4) for the computation 
+(on how many notes could be there in an ET octave), where ( log[2](5/4) = 
+log[2](5) - log[2](4) )He says "since log[2](4) is an integer,the crux of 
+the approximation is
+that of log[2](5) . Why is log [2](4) to be ignored ?
+
+
+3)What the world desperately needs is a web site dealing with math for 
+music,sort of a 'Math for Absolute Dummies ' !!! I'm telling you, a lot 
+of people could be put off by the math involved in microtonality.Good 
+thing I'm the persistant type !
+
+
+Thanks in advance.
+
+Cheers,
+Drew

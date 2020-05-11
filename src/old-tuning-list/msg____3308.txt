@@ -1,0 +1,61 @@
+source file: mills2.txt
+Date: Thu, 25 Jul 1996 07:42:54 -0700
+
+Subject: Number of triads, continued
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+The integer series I gave on 22 July for the number of different
+triads in equal temperaments have been identified by Neil Sloane of
+AT&T who is an integer series specialist. See his webpages: 
+
+http://netlib.att.com/netlib/att/math/sloane/doc/eistop.html
+
+1 1 2 3 4 5 7 8 10 12 14 16 19 21 24 27 30 33 37 40 44 48 52 56 61 65
+catalogue number: A001399
+Partitions into at most 3 parts.
+
+The generating function is
+
+                                      1
+                      - -----------------------------
+                                  2                 3
+                        (x + 1) (x  + x + 1) (x - 1)
+
+
+
+1 1 2 4 5 7 10 12 15 19 22 26 31 35 40 46 51 57 64 70 77 85 92 100 109
+catalogue number: A007997 
+Solutions to x+y+z=0 (mod n). Molien series for A sub 3.
+D.J. Benson, Poly. Invts. of Finite Grps, Cambr., 1993, p. 105.
+
+Generating function:
+
+                                  2
+                                (x  - x + 1)
+                          - ---------------------
+                              2                 3
+                            (x  + x + 1) (x - 1)
+
+
+
+To know more about generating functions one can take a book about 
+combinatorial mathematics. They are not expressions that produce the 
+series however. With some manipulations, i.e. splitting them in 
+separate terms and then doing an inverse transformation, it might be
+possible to obtain a closed form expression for the series, with
+binomial coefficients probably. So whoever wants to take a shot, go
+ahead. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 25 Jul 1996 18:35 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA10866; Thu, 25 Jul 1996 09:35:21 -0700
+Date: Thu, 25 Jul 1996 09:35:21 -0700
+Message-Id: <v02130504ae1d50211856@[192.168.11.207]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

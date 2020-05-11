@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Sat, 28 Oct 1995 02:54:13 -0700
+
+Subject: Comments on Brian's Post in #542.
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+I have two comments on Brian's post in Tuning Digest 542. As Bosanquet
+defined them, positive systems are regular cyclic systems whose
+fifths are greater than 700 cents, hence the Pythagorean tuning
+is a positive system. Defining positive fifths as those sharper than
+3/2 is a common error, which I have been guilty myself on occasion.
+ 
+Secondly, Wuerschmidt defined constructing and defining intervals
+somewhat differently than Brian alleges, though his definition is
+very useful. According to Mandelbaum's dissertation (my principal
+source for W), W's defining intervals are small intervals set to
+zero size in defining an ET. In 12-tet, the syntonic comma and the
+diesis are two such defining intervals. Constructing intervals,
+on the other hand, are intervals set to 1 degree of the temperament.
+Examples of such intervals in 12-tet are 16/15, 135/128, and 25/24.
+Constructing intervals, therefore, are not the coordinate axes of
+tonal lattices, but rather the melodic seconds of the JI scale
+which is the acoustic justification for the ET. Different sets
+of defining intervals lead to different sets of constructing 
+intervals and different scales to be mapped onto the ET 
+(or is it into?).
+ 
+Prof. Fokker used a concept identical to W's defining intervals
+in his derivation of ET's as periodicity blocks in the 3x5 and
+3 x 5 x7 tonal lattices. The number of tones in the ET is equal
+to the absolute value of the determinant of the square matrix whose
+rows are vectors whose elements are the exponents of the defining
+intervals in the lattice. Two by two matrices are used for 2-D 
+lattices with obvious extensions to more harmonic factors.
+For the 2- and 3-D cases, the ET's are equal to the cross and box
+products of the vectors.
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 28 Oct 1995 22:27 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id GAA26264; Sat, 28 Oct 1995 06:27:50 -0700
+Date: Sat, 28 Oct 1995 06:27:50 -0700
+Message-Id: <Pine.3.89.9510281636.A22694-0100000@email.ir.miami.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

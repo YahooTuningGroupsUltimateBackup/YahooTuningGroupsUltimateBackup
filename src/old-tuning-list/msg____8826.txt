@@ -1,0 +1,20 @@
+source file: m1583.txt
+Date: Sun, 15 Nov 1998 16:19:47 -0800
+
+Subject: Fw: Roland SCB-55
+
+From: "Bob Lee" <quasar@sonic.net>
+
+>Someone recently gave me a Roland SCB-55 duaghter board, and I managed to
+>get it working on my Soundblaster AWE-32 with very little hassle.  I'm
+>enjoying the sounds even though they are, of course, 12TET.
+>
+>The manual mentions a set of 12 messages for "Scale Tuning", one for each
+of
+>the 12 notes.  The parameter is -64 to +63 cents.
+>
+>Can anyone here direct me to some software to control those parameters?
+>
+>    -b0b-    (Bob Lee)    quasar@b0b.com    http://www.b0b.com
+>
+>

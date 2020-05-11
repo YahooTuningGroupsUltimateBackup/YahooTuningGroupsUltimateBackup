@@ -1,0 +1,117 @@
+source file: mills3.txt
+Date: Mon, 20 Oct 1997 17:44:44 +0200
+
+Subject: Canright Revisited: Every Interval is Just
+
+From: Carl Lumma <clumma@nni.com>
+
+Don't get me wrong here.  I like equal-step tunings as much as the next guy.
+I even like 12.  I am always amazed at how good it sounds, and at how
+powerful it is.
+
+But I do not think of it as imitating any type of Just Intonation.  I think
+of it as imitating a 12 note scale of 100 cent steps.  No interval can
+imitate another.  Intervals are not actors or comedians.  And it is at least
+highly un-likely that the ear ever helps out.
+
+>From the time I first got involved with JI, I've been hearing a lot of talk
+about equal-step tunings "approximating" Just tunings.  I always felt
+something was wrong with this argument, and here I attempt to put it into
+words.  I'll use a recent posting for fresh meat...
+
+>So 22et forces you to abandon much of what you have learned about how
+>music works. It has much better 7-limit approximations than 19et, and
+>will even get you as close to the 11-limit as Harry Partch's own voice
+>could (max. error 20.1 cents). 34et is not consistent beyond the
+>5-limit.
+
+There are a coupla problems here.  First, the author uses the cents
+deviation method to compare 22et to various forms of JI.  While this can be
+useful to say how far one interval is from another, it cannot be used to
+compare the consonance of one interval to another.  Consonance is a factor
+of the size the number in an intervals ratio.
+
+For example.  An interval 16 cents flat of the sublime 6/5 has frequency
+ratio 19723/16585.  This, of course, is our quite dissonant 12et minor
+third.  An interval 18 cents flat of the 6/5 bears ratio 19/16.  It is a
+very consonant minor third found in the duple 16-32 of the harmonic series
+(or, to use Denny Genovese's excellent syntax: Mode 16 of the harmonic series).
+
+Second, he is making a statement about the accuracy of Partch's voice.
+There are so many ways to measure this (and I doubt any can be any good),
+that this data is useless without knowing how it was measured.
+
+Third, he says "max error 20.1 cents".  Here, he is probably referring to
+22et, in which case the maximum is the kind of error to consider.  But, to
+make his statement about getting as close as "Partch's own voice could"
+work, he must use minimum error when referring to Partch's voice.  Partch
+wouldn't sing with a minimum error of 20 cents if he was drunk.
+
+Lastly, the author assumes that Partch was trying to imitate 11-limit
+intervals when he sang.  This is the classic ploy of the
+cents-deviation-user: get the intervals within the tuning error of a common
+instrument and they might as well be the same.  If Partch thought this, he
+too should be told that performance is divine; it doesn't imitate anything.
+
+(Incidentally, I don't think Partch thought that.  He seems to be stretching
+when he uses the fact that the higher identities are more sensitive to
+mis-tuning against many ET's in Chapter 17 of Genesis, although this is also
+an important consideration.)
+
+To put it another way, and to touch upon the pop in microtones issue
+(again!?), we might think music consisted of two parts: Composition and
+Performance.  This can work even if the two take place simultaneously (as in
+improvisation).
+
+Composition is done within a framework, beit 12et, 11-limit JI, or even the
+Alvian "free JI" (in this case the framework is Mr. Alves' style of using
+ratios, and bravo to his cut on the tape swap).
+
+Performance is done within a sound-making device.  Only on the sound-making
+devices of keyboards and fretted strings are Composition and Performance
+working with the same pitches.
+
+The rest of the time, one of two things happen: Performance exceeds
+Composition or Composition exceeds Performance.  In the case of Barbershop
+singing, or in Reinhard's favorite Pink Floyd, the Performance is correcting
+for the deficiencies used in the (12et) Composition.  In the case of
+Stravinsky, Honeggar, and Shostakovitch, the Performance is mistuning the
+Composition (which could sound as well as it controls your mind).
+
+The point is that the finished product, music, is what it is.  The ear
+doesn't do the watoosee, it hears the intervals played.  Intervals don't
+imitate anything.
+
+|----------------------------------------|
+|Carl Lumma                              |
+|http://users.nni.com/source_of_goodness |
+|----------------------------------------|
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Eduardo Sabat <esabat@adinet.com.uy>
+Subject:  Dinarra
+PostedDate:  20-10-97 20:40:38
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  20-10-97 20:39:51-20-10-97 20:39:51,20-10-97 19:40:30-20-10-97 19:40:30
+DeliveredDate:  20-10-97 19:40:30
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256536.0066847E; Mon, 20 Oct 1997 20:39:46 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21961; Mon, 20 Oct 1997 20:40:38 +0200
+Date: Mon, 20 Oct 1997 20:40:38 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA21966
+Received: (qmail 1755 invoked from network); 20 Oct 1997 11:40:34 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 20 Oct 1997 11:40:34 -0700
+Message-Id: <199710201843.PAA08962@mail.adinet.com.uy>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

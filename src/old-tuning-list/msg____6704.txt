@@ -1,0 +1,74 @@
+source file: mills3.txt
+Date: Thu, 18 Dec 1997 16:47:36 +0100
+
+Subject: 19-tone Equal Octave Stretch
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+Paul Ehrlich said:
+> >My calculations indicate that 2-3 cents is indeed the optimal amount of
+> >stretching for the 19-tone octave in order to maximize the overall consonance
+> >of intervals which are approximations of ratios using numbers no higher than
+> >6 (including the octave and double octave).
+
+Very good. No matter what one's particular bias, matters such as the
+optimal temperature of the octave are determinable using objective
+criteria. Your figures for relative consonance, in particular for those
+of the 22-tone equal, are however utterly incorrect, for, as I have
+tried to demonstrate to you - and this is by no means a difficult matter
+to understand - that temperament is noncyclic. You cannot blithely
+assign the closest values to all consonances when evaluating the
+consonance of a noncyclic temperament, for in such systems these
+consonances do not exist together either in diatonic music (which you
+have admitted) nor yet in chromatic or enharmonic music, which also
+require a modicum of consonance and tonal coherence. I formerly made the
+same error which you are making, but had no one to tell me so; I was
+forced to discover this for myself.
+
+In the present case, it is _not_ all the consonances that are
+_ultimately_ relevant to the determination of the amount by which the
+19-tone equal octave can or should be tempered, even though I have
+considered them all, as a kind of courtesy to Fokker, and a
+demonstration that all of them have to be considered initially. For,
+finally, the fourth cannot be tempered by much more than 8.4 cents and
+remain satisfactory, i.e no more deteriorated than the more sensitive
+fifth at 5.7 cents deviation, and no less consonant than 5:3 or 5:4.
+This puts a limit on the permissible temperature of the octave, as does
+the fifteenth, I need not tell you why.
+
+You should be very chary of reducing congruence with consonances to
+percentages in the facile manner you have done. This is a habit of
+thought that too often leads one to overlook many important factors. A
+rigorous mathematical calculation of all the important factors is
+certainly beyond you; it is also as yet beyond anyone. But it is
+unnecessary to spend 300 years with the equations to know a good or bad
+temperament when one hears and sees one.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  William Sethares <sethares@eceserv0.ece.wisc.edu>
+Subject:  melodic lemons
+PostedDate:  18-12-97 16:53:59
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-12-97 16:51:57-18-12-97 16:51:58,18-12-97 16:51:34-18-12-97 16:51:35
+DeliveredDate:  18-12-97 16:51:35
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256571.00572414; Thu, 18 Dec 1997 16:53:45 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29663; Thu, 18 Dec 1997 16:53:59 +0100
+Date: Thu, 18 Dec 1997 16:53:59 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29656
+Received: (qmail 23243 invoked from network); 18 Dec 1997 07:53:55 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 18 Dec 1997 07:53:55 -0800
+Message-Id: <199712181551.AA24698@eceserv0.ece.wisc.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

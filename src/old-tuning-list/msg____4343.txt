@@ -1,0 +1,184 @@
+source file: mills2.txt
+Date: Tue, 17 Dec 1996 08:51:58 -0800
+
+Subject: MIDI2CS new version
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+There is a new version of the MIDI-file to Csound converter, see news
+below. 
+The 'midi2cs.cps' (cycles-per-second file) can also be generated with
+Scala with the command: SEND/CPS midi2cs . Take a scale and a keyboard
+mapping, do the above command, and you can run MIDI2CS.
+
+Manuel Op de Coul    coul@ezh.nl
+
+--------
+Newsgroups: alt.music.producer,alt.binaries.sounds.midi,alt.music.midi,
+comp.music.midi,fido.ger.midi,maus.midi,...
+Subject: Midi2Cs 0.95 DOS beta / GM support for Csound
+Message-ID: <32a1d53c.1631217@news.snafu.de>
+From: rubo@berlin.snafu.de (Ruediger Borrmann)
+Date: Sun, 01 Dec 1996 19:23:01 GMT
+Organization: Unlimited Surprise Systems, Berlin
+
+                 MIDI2CS 0.95 beta (DOS 16bit - 95/12/01)
+               at http://www.snafu.de/~rubo/songlab/midi2cs
+  Intro
+
+     This page is
+        * an extension of Midi2Cs's manual for version 0.94
+        * describing what has changed and how
+
+     You'll find the headlines of this page by starting 'midi2cs' with
+     option '-h' or option '?'.
+                           midi2cs -h
+     This option might help you to remember the new features after
+     you've read this page.
+
+
+  Environment variable MIDI2CS defined for config files directory
+
+     Now you are able to define a config files's directory by adding
+     the following line to your environment (e.g. autoexec.bat).
+
+          set MIDI2CSirectory's path> (e.g. set
+          MIDI2CS\csound)
+
+     Midi2Cs 0.94 created a 'midi2cs.cps' (cycles-per-second file) and
+     a 'midi2cs.pro' (projectfile) file in the same directory where
+     you started it. Midi2Cs 0.95 looks up the config files's
+     directory for these files.
+
+
+  GM supported - 'midi2cs.gmi' (General Midi Instrument) config file
+
+     A new file 'midi2cs.gmi' will be created in the config files's
+     directory the first time you start Midi2Cs 0.95. This file is the
+     new General Midi Instrument's configuration file. It looks like
+     this:
+
+          ; MIDI2CS - General Midi instrument table
+          ; Program Number - Instrument (WAV, AIFF or ORC file)
+          000 "" ;Acoustic Grand
+          001 "" ;Bright Acoustic
+          002 "d:\studio\samples\gm\acpiac3.aif" ;Electric Grand
+          003 "" ;Honky-Tonk
+          004 "" ;Electric Piano 1
+          005 "" ;Electric Piano 2
+          006 "" ;Harpichord
+          007 "" ;Clav
+          008 "" ;Celesta 009
+          ...
+
+     Just add your own *.aif, *.wav, *.orc (see Midi2Cs's manual)
+     files to design your own individual General Midi Instrument set.
+     Next time you run a conversion of a MIDIfile the instruments
+     of this table will be used as presets for all tracks in your
+     MIDIfile that contain GM program changes (the first change
+     will be taken).
+
+
+  Automatic lookup for global+local projectfile 'midi2cs.pro'
+
+     Midi2Cs is able to read more than one projectfile. At first it
+     looks for a 'midi2cs.pro' file in the config files's directory.
+     Then it reads a possibly existing local 'midi2cs.pro' file. After
+     that it might read a <filename>.pro file specified with option
+'-r'
+     in the commandline.
+
+     My standard projectfile in the config files's directory only
+     contains the following lines:
+
+          # MIDI2CS PROJECT FILE 0.95 - rubo@berlin.snafu.de
+
+          nameofscore date.sco
+          nameoforc date.orc
+
+          sr 44100
+          nchnls 1
+          givol 0.2
+
+          firstbar 16
+          lastbar 24
+
+          drumchannel 10 off
+
+          endofproject
+
+     So the result after processing a midifile by calling 'midi2cs
+     <filename.mid>' is a mono score output for 9 bars from bar 16 to
+     bar 24 with samplerate 44,1 kHz excluding the MIDI drum channel.
+     The mastervolume of 0.2 is good to start with to prevent digital
+     distortion.
+
+
+  Default tempo calculation when firstbar > 0 option added
+
+     When option 'firstbar' in the projectfile was set bigger than 0
+     the default tempo calculation was not always correct. Fixed.
+
+
+  Wrong note specifiers in filename do not crash the program anymore
+
+     Midi2Cs crashed when a samplefile's name ended like *h3.aif. The
+     reason is that 'h'' in Germany. Fixed. There is no note 'h'
+     that is calculated by Midi2Cs. It just takes default note c3 for
+     a samplefile named *h3.aif.
+
+
+  Option orcfile/scorefile 'date' creates date
+  in score and orchestra filenames
+
+     The idea is to get a new score and orchestra filename every day
+     to see the progress in work and have a backup.
+     If you specify the following options, the current date will be
+     taken as name of the score and and the orchestra file.
+
+          nameofscore date.sco
+          nameoforc date.orc
+
+     See my example projectfile some lines above.
+
+
+  Duration calculation options '-' and '+' implemented
+
+     The projectfile option 'duration' only took fixed values. Now you
+     are able to add or substract milliseconds by adding a minus or
+     plus sign at the beginning of the specified value like 'duration
+     +300' or 'duration -50'.
+
+
+  Specific event comment bug corrected
+
+     There was a bug that produced unnecessary but harmless score
+     output. Fixed.
+
+
+  50 tracks supported
+
+     Midi2Cs is able to convert standard midifiles up to 50 tracks
+     into Csound score and orchestra files now. It will not crash if
+     your file has more than these. You'll get a message.
+
+
+  rubo@berlin.snafu.de
+
+Ruediger Borrmann - rubo@berlin.snafu.de - http://www.snafu.de/~rubo
+ author of Midi2Cs - http://www.snafu.de/~rubo/songlab/midi2cs
+  audio rendering on Linux, SunOS, IRIX, Nextstep, DOS, ...
+   hardware independent music production freeware
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Dec 1996 21:26 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00644; Tue, 17 Dec 1996 21:28:42 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00642
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA19921; Tue, 17 Dec 1996 12:28:37 -0800
+Date: Tue, 17 Dec 1996 12:28:37 -0800
+Message-Id: <Pine.SCO.3.91.961217114938.24653B-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

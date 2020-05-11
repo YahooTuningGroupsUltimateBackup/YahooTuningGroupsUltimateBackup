@@ -1,0 +1,67 @@
+source file: mills2.txt
+Date: Sun, 19 Jan 1997 08:42:38 -0800
+
+Subject: Re: from Gary Morrison
+
+From: Rabia Kathleen Seidel <seidel@top.monad.net>
+
+Gary Morrison wrote:
+> 
+>    I'm FINALLY kinda-sorta starting to look into (generic) internet
+> suppliers now.  One that seems to be around here provides 1Meg of
+> space for personal web pages and ftp space, and does not "sell disk
+> space" (i.e., they don't have any policy for paying more to get more).
+>    They claim that that's a lot, and if you need more space on a
+> temporary basis, (e.g., to ftp a big file, download it, and then
+> toss it) they'll let you go a little over over for a short time.  But
+> with sound files being a definite possibility for my web pages, I would
+> think that 1Meg would go bye-bye pretty quickly.
+> 
+>    Waddaya folks think?
+
+I think so, too. You should probably look into one of the larger
+national ISP's, like Webcom. You might also want to consider getting a
+domain name, like "garytunes.com," which would enable you to move from
+one ISP to another without changing your address. It isn't cheap -- $200
+to start, plus $50 every two years to maintain -- but depending on your
+purposes, it may be worth the investment.
+
+In addition to site space, you might also want to ask whether the ISP
+provides access to the logs of hits to your site. Many of the smaller
+ones don't. You'll see how many people a day hit the site, where they're
+from, and what pages they visited. These logs can be interesting, and
+especially useful if you're promoting an event or a product and want to
+check out the effectiveness of your efforts.
+
+Good information on audio file formats can be found at:
+
+FAQ: Audio File Formats (very comprehensive)
+<http://www.informatik.uni-freiburg.de/~bacher/audiofaq.txt>
+<ftp://ftp.cwi.nl/pub/audio/AudioFormats.part1>
+<ftp://ftp.cwi.nl/pub/audio/AudioFormats.part2>
+
+Dept. of Computing, Imperial College, London: Audio Reference
+<http://www.doc.ic.ac.uk/~ih/doc/audio/>
+
+The Cross Platform Page: Audio Formats
+<http://www.mcad.edu/Guests/EricB/xplat.aud.html>
+
+A comparison of Internet audio compression formats
+<http://xanadu.com.au:8000/sc/audio.html>
+
+Best regards,
+Kathleen Seidel
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Jan 1997 20:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08853; Sun, 19 Jan 1997 22:12:51 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08782
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA27054; Sun, 19 Jan 1997 13:12:39 -0800
+Date: Sun, 19 Jan 1997 13:12:39 -0800
+Message-Id: <2.2.16.19970119130737.0a07fbaa@pacificnet.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

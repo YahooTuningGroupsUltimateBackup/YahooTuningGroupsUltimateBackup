@@ -1,0 +1,101 @@
+source file: mills2.txt
+Date: Sun, 19 Jan 1997 10:40:09 -0800
+
+Subject: Steve's Thoughts on Commas and Pseudocommas
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> This was all the more
+> puzzling in light of Pauls explanation to me that I had created the
+> _same amount of shift_ that I was trying to avoid when I used the
+> borrowed tone in my experiments.  One "works" but the other doesn't...
+
+   I'm inclined to agree with Paul's assessment that using the borrowed
+ii-chord is more or less a way of avoiding the problem.  And a clever one
+too.  It's avoiding the problem in the sense that, by substituting a chord
+that is inherently more discordant, you made it plausible to use the
+"wrong" scale degree 2 - wrong that is for submediant of the subdominant,
+but right for the dominant of the dominant.  Even more impressively, the
+more discordant chord was enough of a surprise that moving the submediant
+down from 16 to 15 became plausible as well.  (Then again see my note below
+about the tenor part.)
+
+
+
+
+> Does the perceptability of such phenomon depend on
+> a) whether the shift takes place in an inner or outer voice
+
+   Putting the movement from 16 to 15 in the tenor part (as it was in the
+4-part voicing I suggested) does indeed seem to have made it less
+noticeable.  Generally speaking anything in the tenor part won't stand out
+as much as soprano or bass.  So I suppose that's not terribly surprising,
+and a help tip for making a comma- or pseudocomma-shifted note less
+shocking.  
+
+
+
+b) the function within the chord of the tone undergoing the pitch shift.
+
+   Perhaps so, in particular with regard to whether it's a tendency tone or
+not.  But I'm personally inclined to think that the overall discordance of
+the chord, as with the minor vs. diminished ii, is a bigger factor.  Or
+perhaps more generally than discordance, but the surprisingness of the
+chord.  Adding a b7 to that chord might have made note shifts even harder
+to pinpoint because the unusualness of that chord distracts listeners'
+attention from the shifts.
+
+
+
+> The other question concerns the last example, the wandering tonic.  I
+> thought this one sounded the smoothest of all, and all the chords
+> sounded or felt "right".  What bothers me is that while I could easily
+> sense the shift in tonic if I were to hum it from the beginning of the
+> progression in order to focus on it, I didn't seem to be all that
+> bothered by it if I just listened to the chords as they were.
+
+   Wandering tonics of course are one of my big fascinations in this field
+of unusual tunings, so I always enjoy hearing impressions of how they
+affect people.  Thanks for describing that impression.  
+
+   The first time I heard a wandering tonic was, something like about 10
+years ago, when I programmed it into Dave Hill's setup at FSU's Center for
+Music Research.  I had HEARD OF the idea before that, I think from John
+Chalmers but I'm not sure, when Glen Prior experimented with them on one of
+Erv Wilson's 53TET tubulogs.  
+
+   In that case of 53TET, and the JI example at FSU, the comma shift was
+more sneaky, presumably because the amount of shift was smaller (roughly 22
+cents instead of well over twice that in 22TET).  So the effect of "normal,
+normal, normal, normal ... yeah yeah same ol' stuff, ... HUH?!  How the
+hell did we get here??!!" is a bit more mysterious than on 22TET.  I'd like
+to try that example in 34TET to hear it on an intermediate size of shift. 
+It should be available in 41TET as well.  
+
+
+
+
+> I recall reading somewhere, perhaps here on the list, about composing
+> such that the downward drift is compensated for by upward drift.  If 
+> anyone knows what I'm referring to and can provide a reference for me
+> to track it down again, I'd appreciate it.
+
+   I know that a while back I mentioned that you can shift the pitch upward
+similarly with a I-IV-V7-I progression by making scale-degree 4 of the
+IV-chord match a 7:4 seventh of the V7 chord.  In a purely JI scenario, the
+tonic would wander up by 36:35, which is quite a bit more than the 81:80
+downward wander of the comma-shift mentioned earlier.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Jan 1997 14:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08657; Sun, 19 Jan 1997 16:19:51 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08676
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA15443; Sun, 19 Jan 1997 07:19:47 -0800
+Date: Sun, 19 Jan 1997 07:19:47 -0800
+Message-Id: <199701190506_MC1-F65-745E@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

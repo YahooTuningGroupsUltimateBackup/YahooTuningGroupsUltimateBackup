@@ -1,0 +1,113 @@
+source file: mills2.txt
+Date: Mon, 7 Jul 1997 23:44:19 +0200
+
+Subject: RE: Muddy Waters
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+I have not recieved TD 1122, so I write with some tentativeness . . .
+
+I wrote that in the rectangular lattice philosophy,
+
+>>i.e., a major seventh is just as dissonant/complex as a major
+>>sixth.
+
+Marion replied,
+
+>I must be missing something here.  I thought a major seventh was
+>15:8, and a major sixth was 5:3.  The last time I checked the LCM
+>of 5:3 was 15 and the LCM of 15:8 was 120.
+
+Note that I did state that I was assuming octave equivalence, by which I
+meant exact equivalence in all respects. (If we drop the assumption
+altogether, then I would argue that prime or odd limits will not do;
+every integer should be a distinct limit representing a certain degree
+of harmonic complexity.) Equating the LCM and ROHS ideas as Graham has
+done requires that we consider 2 to be a distinct factor. So I should
+really be comparing 5:3 with 15:1 directly if I am specifically
+addressing the LCM variety of the rectangular lattice philosophy. 15:1
+is a very wide interval so the usual roughness we associate with
+dissonance does not come into play. But if we could somehow control for
+the width of the interval, I claim that 5:3 should be considered more
+consonant than 15:1. For example, I think 14:1 is slighlty more
+consonant that 15:1, once the unfamiliarity of the former interval is
+overcome. But 5:3 is more consonant than any 7-limit interval.
+
+I think a basic argument for the triangular as opposed to rectangular
+lattice representations can be founded upon traditional theory.
+Traditional theory deems 15:1 and all its octave equivalents to be
+dissonant, and 5:3 and all its octave equivalents to be consonant. Aside
+from second inversions, traditional theory deems major and minor triads
+to be consonant, while all inversions of the triads 1:3:15 and 1:5:15
+are considered dissonant. A 2-d triangular lattice therefore seems a far
+better fit to traditional theory than a 2-d rectangular lattice.
+
+To address Graham's questions: One way of constructing a lattice with a
+useful metric is to make the length of each interval, according to a
+"city-block metric," a monotonic function of its (odd) limit. James
+Tenney and Graham have both proposed using log(n) as the length of each
+step along the axis representing the factor n. The problem I have with
+that is that m/n and m*n will both have a metric of log(m)+log(n).
+Following traditional theory, Partch, and my own ears, I think that for
+any odd number n, the ratios n/m or m/n, where m is an odd number less
+than n, and arbitrary powers of 2 are allowed, are more consonant that
+ratios involving odd numbers larger than n. The idea of a lattice and an
+associated metric is to make the distance associated with a consonant
+interval shorter than that associated with a dissonant interval. One way
+to make the lattice my beliefs is to use isosceles triangles; the base,
+representing 3:1, is given length log(3), while the sides, representing
+5:1 and 5:3, are both given length log(5). One could also envision using
+scalene triangles and giving 5:3 a longer length than 5:1 if one felt
+that 5:1 was more consonant than 5:3. One could even preserve the
+appearance of the rectangular lattice and allow a "short-cut" diagonally
+through the block for 5:3, but not for 15:1. Then the length of 5:3
+would be sqrt(log(3)^2 + log(5)^2), but 15:1 would still be
+log(3)+log(2). This sort of representation just barely works because
+sqrt(log(3)^2 + log(5)^2)9487 and the smallest compound interval
+length is log(9)1972.
+
+In the 5-limit case, the plane is filled by triangles. The right-side-up
+triangles are major triads, and the upside-down triangles are minor
+triads. In the 7-limit case, space is filled by tetrahedra and
+octahedra. The right-side-up tetrahedra are 7-o tetrads, the upside-down
+tetrahedra are 7-u tetrads, and the octahedra are Wilson hexanies. In
+general, a lattice of mutually prime axes will have the property that
+space is filled by all possible CPSs where the set of factors is the set
+of axes. One of each of these CPSs fit together like pieces of a puzzle
+to form an Euler genus that uses each factor exactly once. Since the
+Euler geni fill the space, so do the CPSs.
+
+When the axes are not mutually prime, as is the case when 9-limit ratios
+are considered consonant, things get a little stranger since the same
+note may appear in more than one place in the lattice. The easiest way
+around this is to use the prime lattice and introduce a lot of
+"shortcuts" corresponding to 9-limit and other odd ratios, but that
+destroys the CPS-filling-Euler-genera-filling-space picture. However,
+the usual otonal and utonal hypertriangles, the most compact structures
+in these lattices, will fail to be the only saturated consonant entities
+if the axes are not prime, so the CPS picture is not so useful in those
+cases anyway . . .
+
+Marion, I am using geometrical pictures to express my thoughts and your
+LCM idea, as Graham pointed out, is equivalent to a particular
+geometrical picture as well, a rectangular one where 2 is a distinct
+factor that has its own axis, and the log of the LCM is just the
+distance (according to the city-block metric) between the two most
+distant points in the chord. In other words, the LCM is a measure of the
+longest extent of the ROHS of a chord. Since I feel that a minor triad
+is more consonant than a major seventh chord, I don't like this method
+and would prefer instead to use the triangular lattice. What replaces
+the LCM in that case? If we use the isosceles triangles eluded to above,
+the answer is just the Partch limit!
+
+Much more to come . . .
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 8 Jul 1997 04:16 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28899; Tue, 8 Jul 1997 00:18:55 +0200
+Date: Mon, 7 Jul 1997 18:39:02 +0200
+Message-Id: <Pine.SCO.3.96.970707093624.8810A-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,70 @@
+source file: m1389.txt
+Date: Sat, 18 Apr 1998 17:11:28 -0400
+
+Subject: microtonal math
+
+From: monz@juno.com (Joseph L Monzo)
+
+> ...What the world desperately needs is a web site
+> dealing with math for music,sort of a 'Math for Absolute
+> Dummies ' !!! I'm telling you, a lot of people could be
+> put off by the math involved in microtonality.Good 
+> thing I'm the persistant type !
+
+1)
+I'm working on a webpage to introduce my theory
+and it will have a good deal of microtonal math.
+(a couple more months, I hope...)
+
+2)
+Thought you might find this usefu:
+
+The formula to calculate cents from any ratio.
+The format I use here can be pasted directly into
+an Excel spreadsheet; just replace RATIO with
+the cell reference to the ratio:
+
+=MOD((LOG(RATIO))*(1200/LOG(2)),1200)
+
+For example, to find the cents of the "perfect 5th",
+mod((log(3/2)*(1200/log(2)),1200).  This returns
+702 cents.
+
+The use of logarithms is necessary in converting
+from just-intonation to equal-temperament because
+equal-temperament is based on a just ratio
+(normally the "octave" 2/1) which is divided equally.
+When measured rationally, the frequencies  keep
+increasing geometrically, so roots or logarithms
+must be used to compute the tempered intervals.
+
+The ratio of a tempered interval can be calculated
+easily as follows:
+
+=DIVISOR^(DEGREE/DIVISIONS)
+
+For example:
+
+The just "perfect 5th" is 3/2, which equals 1.5.
+
+The 12-eq "perfect 5th" is the 7th degree
+of a scale which is measured by dividing the "octave"
+(with the ratio 2/1) into 12 equal parts, so its formula
+is (2/1)^(7/12).  This returns 1.498307...
+
+The 22-eq "perfect 5th" is the 13th degree of a scale
+which also divides the "octave", this time in 22 equal
+parts, so its formula is (2/1)^(13/22).  This returns
+1.506196...
+
+The 13th degee in the  "13th root of 3/2" scale
+provides an exact "perfect 5th" because (3/2)^( 13/13)
+returns 3/2 itself, or 1.5.
+
+   Joseph L. Monzo
+    monz@juno.com
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

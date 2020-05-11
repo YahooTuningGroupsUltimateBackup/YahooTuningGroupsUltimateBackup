@@ -1,0 +1,122 @@
+source file: mills2.txt
+Date: Wed, 14 May 1997 19:19:20 +0200
+
+Subject: RE: Why x-ET?
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Reply to David Finnamore:
+
+>Thanks for joining the fray!  This is good stuff.  Great sense of humor, too!
+
+Hmmm, worrying.  Are you detecting my finely tuned wit, or did I
+make some more laughable errors in my post?  Hopefully the former.
+The problem with, as you put it, "joining the fray," is that I
+handle my e-mail offline so I end up replying to the digest before
+the one I'm picking up.  Anyway, here goes . . .
+
+>In any event, it seems evident
+>to me that the math of roots and exponents is more complex than that of
+>whole-number ratios.  If you can solve for the nth root of x in your head,
+>and multiply it by the factor of the previous note of the scale in your head,
+>you really do have some mathematical skills to show off!  And if I'm not
+>mistaken, that math is necessary for ETs whether or not you're trying to
+>approximate a JI tuning.
+
+If you're tuning a digital synth to an ET scale, all you need to
+do is one division, and from then on it's just addition.  This
+is easier than all that multiplying of fractions you need to work
+with JI -- unless you use ratio space axes.  My point is that
+there's no reason why you can't do all your work in a logarithmic
+scale, and then an ET is the simplest scale to define.  Most of
+the work in microtonality now is done with electronic synthesis
+rather than dividiing up strings.
+
+Actually, I probably could calculate an nth root of 2 to a few of
+decimal places (which is all you need for practical tuning) using
+the Taylor series for (1+x)**n  A first approx to the nth root
+of two is 1+0.7/n for 10<n<100.  This is the sum you need for most
+sensible nTETs.  I cheated and got the 0.7 from my calculator, but
+it can be estimated from the Taylor series. The true inverse
+problem would be calculating the logarithms of whole number
+ratios, which I could do with pencil and paper fairly easily if I
+could remember the logarithms to base two of prime numbers.  In
+reality, of course, I would use a spreadsheet for both
+calculations.
+
+>>I consider small number ETs to be the less valuable
+>>because the natural order, which can be made audible by
+>>playing equal intervals in series, sounds pretty boring.
+>
+>This sounds like interesting analysis but I'm not sure what it means.  Do you
+>mean that the larger the number of equal divisions of a given interval, the
+>more musically useful the resulting scale?  If so, why?  If not, how small is
+>small?  And why should a scale played in order be boring?  "Joy to the world"
+>by G. F. Handel is a good example of musically interesting and effective use
+>of scale tones in their "natural" order.  I must be missing your point.
+
+By the limited experience I've had of playing in alternative
+tunings, I have found that ETs do have a common characteristic.
+My ear can definitely tell that all the intervals are the same.
+Melodically, this makes ET to me more natural than JI.  But,
+the effect is to make the scales sound "linear".  Diatonic scales
+fitted to 19tet sound great but, once I play all the notes within
+a third, in any order, it starts to sound bland.  This means that
+the equal tempered nature of a scale is audible, but should be
+hidden.  Handel may have got away with it, but he was a better
+composer than me!
+
+>It is true that human perception of audio
+>phenomena, pitch included, is essentially logarithmic.  But why does it make
+>musical sense to simply quantize this logarithmic space?  I'm not saying it
+>doesn't.  But I don't yet know of any reason that it should, either
+>theoretically or experientially.
+
+Once you define a space, the simplest thing you can do is divide
+it into equal steps.  If that doesn't work, you can try something
+more complicated, but there's no point in adding complexity for
+the sake of it.  JI comes from the harmonic series, which is a
+quantization of linear frequency space.
+
+>>>nature is the best basis of judging any tuning
+>>>system.
+>
+>>    doesn't hold unless you consider ETs to be less natural
+>than JIs.
+>
+>I do. :-) Sort of. . . .
+
+To correct my own grammar, I suppose something's either natural or
+it isn't. My point is that ET scales _are_ natural.  Of course,
+the word "natural" could mean a lot of things.  In this case, in
+relation to mathematics, acoustics, human instinct or patterns
+found in the natural world.  I think it's the last one you mean,
+which is fair enough.
+
+More importantly, though, I disagree with your original statement
+which, as you did say, is largely a question of personal taste. A
+tuning should be judged primarily by its subjective musical
+interest.  By this criterion, just scales score very well. But,
+with most music, they can be approximated quite adequately to,
+say, 31tet.  This is the usual, but not sole, reason for using
+ETs.  If you want to exploit JI with hair splitting accuracy, I
+expect you'd have to work with slow, harmonic music with perfectly
+harmonic timbres and no vibrato.  Otherwise, go with whatever's
+simplest.  On my Wave Blaster, major triads actually sound better
+in 31tet than JI.  This  may be because of sample looping (could
+someone explain this, please?), phase shifting vibrato or a bug in
+my program.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 15 May 1997 02:28 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02266; Thu, 15 May 1997 02:28:51 +0200
+Date: Thu, 15 May 1997 02:28:51 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA02264
+Received: (qmail 26358 invoked from network); 15 May 1997 00:22:02 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 May 1997 00:22:02 -0000
+Message-Id: <Pine.GSO.3.93.970515095356.4565A-100000@extro.ucc.su.OZ.AU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

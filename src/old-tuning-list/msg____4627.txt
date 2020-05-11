@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Thu, 16 Jan 1997 12:24:06 -0800
+
+Subject: Reply to PaulE
+
+From: John Chalmers <non12@deltanet.com>
+
+Paul: I was referring to the Minkowski "Taxicab" "City Block," or 
+"Manhattan" metric where the distance function is ds|dx| +|dy| +|dz|...
+rather than the square root of the sum of the squares of the Euclidean
+or relativistic metrics. Thus 6/5, 5/3, 16/15 and 15/8 would have
+the same distance from 1/1 as you point out.  
+
+As for "punning," one may map the relevant region of the tonal 
+lattice onto (or do I mean into?) some ET by using Fokker's 
+application of the cross and/or box products after choosing the 
+intervals (kommata) one wishes to set to zero. I  think  his papers 
+on "Periodicity Blocks" are in the Bibliography. 
+
+Whether one should use a pseudo-Cartesian (right angle) lattice
+or a polygonal/polyhedral one is for me mostly a matter of taste.
+At Paul E's earlier suggestion, I started plotting 7 and higher
+limit scales on oblique, polygonal lattices (the simpler ones are
+easily interpretable as polyhedrons in 3 space). I must admit that 
+I got  stunning graphics, though beyond about the 11-limit, I find 
+the rectilinear mode easier to interpret.
+ 
+However, I got fascinated by the patterns, so, I wrote a series of
+Q&D Basic programs to plot scales (after factoring their ratios) on a 
+series of polygonal lattices of the type Erv Wilson has used. I stopped 
+at the centered-tridekagon and the 43-limit. I recommend this 
+approach to those of you with faster computers, more memory, and higher 
+resolution graphics than I have. 
+
+I might mention the Carter Scholz's latest version of JiCalc plots
+scales on a 31-limit lattice (pseudo-Cartesian). It's downloadable
+from Mills. Also, it plays each lattice point when the note 
+is clicked. 
+
+-John
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 17 Jan 1997 02:13 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12385; Thu, 16 Jan 1997 11:01:41 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA12285
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id CAA22254; Thu, 16 Jan 1997 02:01:38 -0800
+Date: Thu, 16 Jan 1997 02:01:38 -0800
+Message-Id: <199701160500_MC2-F50-FF96@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

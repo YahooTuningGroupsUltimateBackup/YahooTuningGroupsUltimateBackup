@@ -1,0 +1,141 @@
+source file: m1542.txt
+Date: Fri, 2 Oct 1998 18:46:30 -0400
+
+Subject: harmonic entropy, neutral zones
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+A while back I posted on my concept of harmonic entropy. In February
+1997 I ran a computer program to compute the harmonic entropy of all
+intervals within the octave in 1-cent increments, based on the
+assumption that our brain can ideally recognize ratios with numerator up
+to N but our hearing of frequencies is blurred in the form of a normal
+distribution with standard deviation 1% (based on Goldstein's work). I
+hadn't looked at the results yet, so as a preliminary study I listed the
+local minima and maxima below.
+
+Note that the minima appear to approach the just values as N increases,
+but the number of minima remains approximately constant. Note also that
+there is a definite maximum at around 348 cents. This means that
+harmonically, the brain interprets the neutral third with a variety of
+ratios, none of which is predominant enough to allow the brain to make a
+decision. As Johnny Reinhard said, a sort of neutral zone. Other neutral
+zones appear to be stabilizing for N=80 at around 285 cents, 423 cents
+(giving the 9/7 a very narrow range of acceptable flattening!), 457
+cents, and 537 cents.
+
+The local minima and maxima were as follows (maxima denoted with *):
+
+N=80:
+
+*57
+264 (7/6=267)
+*285
+316 (6/5=316)
+*348
+387 (5/4=386)
+*423
+437 (9/7=435)
+*457
+498 (4/3=498)
+*537
+581 (7/5=583)
+*615
+620 (10/7=617)
+*656
+702 (3/2=702)
+*746
+814 (8/5=814)
+*845
+885 (5/3=884)
+*924
+970 (7/4=969)
+*999
+1021 (9/5=1018)
+*1041
+1051 (11/6=1049)
+*1145
+
+N=40:
+
+*72
+219 (8/7=231)
+*242
+272 (7/6=267)
+*286
+314 (6/5=316)
+*348
+386 (5/4=386)
+*426
+433 (9/7=435)
+*454
+498 (4/3=498)
+*543
+586 (7/5=587)
+*654
+703 (3/2=702)
+*752
+811 (8/5=814)
+*843
+884 (5/3=884)
+*923
+968 (7/4=969)
+*996
+1021 (9/5=1018)
+*1130
+
+N=20:
+
+*110
+171 (11/10=165)
+*197
+255 (7/6=267)
+*287
+319 (6/5=316)
+*346
+384 (5/4=386)
+*421
+439 (9/7=435)
+*450
+497 (4/3=498)
+*545
+585 (7/5=583)
+*643
+701 (3/2=702)
+*761
+818 (8/5=814)
+*844
+885 (5/3=884)
+*933
+972 (7/4=969)
+*1042
+1057 (11/6=1049)
+*1096
+
+N=10:
+
+*201
+270 (7/6=267)
+*285
+318 (6/5=316)
+*347
+382 (5/4=386)
+*428
+436 (9/7=435)
+*444
+503 (4/3=498)
+*552
+577 (7/5=583)
+*619
+710 (3/2=702)
+*783
+812 (8/5=814)
+*840
+887 (5/3=884)
+*933
+965 (7/4=969)
+*997
+1023 (9/5=1018)
+*1049
+
+(remember that for N=10, ratios of 11 aren't even considered)

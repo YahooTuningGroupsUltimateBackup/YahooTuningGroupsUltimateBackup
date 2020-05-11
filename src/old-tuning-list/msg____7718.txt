@@ -1,0 +1,24 @@
+source file: m1410.txt
+Date: Sat, 9 May 1998 08:52:40 -0600 (MDT)
+
+Subject: Re: period tripling and a microtonal pendulum
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+All-
+	Just a small clarification and I will shut up. I mentioned 
+period tripling in maps of the real interval- all the cases that I know of 
+are discontinuous and rather contrived, and probably don't apply to music.
+	
+	Musically speaking, we have a driven pendulum experiment whose 
+angular position is determined by decoding square wave pulses from an 
+optical shaft encoder. In addition to decoding the absolute position, I 
+also feed the output to a speaker. The angular velocity of the pendulum 
+manifests itself as a pitch, and the bifurcations of the system are 
+heard as subtle changes in melody. I am trying to get my student to hear 
+these subtleties so he can recognize when something interesting is 
+happening by sound alone as we sweep through parameter space. You really can 
+distinguish very small pitch changes when the bifurcations take place.
+
+John Starrett 
+http://www-math.cudenver.edu/~jstarret

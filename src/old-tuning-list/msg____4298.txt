@@ -1,0 +1,118 @@
+source file: mills2.txt
+Date: Wed, 11 Dec 1996 05:39:33 -0800
+
+Subject: RE: tuning a Roland
+
+From: "Ashcraft AC (Clif)" <aaaabb1@peabody.sct.ucarb.com>
+
+------ =_NextPart_000_01BBE73D.AF0FF320
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+The JV-80 and JV-880 from Roland can also be microtuned the same way.  This has permitted me to use my 880 for 19TET.  There are 7 usable voices (the 8th is for precussion) which can be separately tuned +/- 64ths of a 12TET interval.  What I do is set up three pairs of voices.  One voice in each pair is tuned to the "flats" and the other to the "sharps" and both voices are tuned to the "naturals" and the E#/Fb and B#/Cb notes.  This lets me use my favorite music editor/player for my Mac, Concertware Pro, to represent 19TET music on a conventional musical score. 
+					Another lurker,
+						Clif Ashcraft
+----------
+From: 	Adam B. Silverman[SMTP:adam.silverman@yale.edu]
+Sent: 	Tuesday, December 10, 1996 3:30 PM
+To: 	aaaabb1@peabody.sct.ucarb.com
+Subject: 	tuning a Roland
+
+If I recall, back in the "Which synths should I buy?" thread, the consensus
+was to boycott Roland, who never allow microtuning and never will.  Whoever
+said this aparrently did not do their homework, since I have found a Roland
+Super JD module (if anyone is interested, write me and I'll go back to the
+studio to check the model number) which allows any "part"--that's "voice"
+to most of us--to be tuned in increments of +/- 64ths of a tempered
+semitone.  This is in the form of an octave=repeating pitch-class tuning
+table.  Also, some of their patches seems to have a background layer tuned
+in quarter-tones (like their "telephone" sound-effect), so I'll bet that
+extended scales can be done--I just don't know how.
+
+It's not ideal, but is a great boon for people who like Roland sounds,
+which are much slicker than those found on the Proteus.
+
+Another methond of microtuning synths that has not been mentioned is to
+build a scale note-by-note as a "drum kit."  I know that some Yamahas allow
+both coarse and fine detuning on a note-by-note basis in their "drum kits,"
+and perhaps other brands will permit this as well.
+
+_________________
+Adam B. Silverman
+153 Cold Spring Street; A3
+New Haven, CT 06511
+(203) 782-1765
+
+abs22@pantheon.yale.edu
+
+
+
+
+
+------ extPart_000_01BBE73D.AF0FF320
+Content-Type: application/ms-tnef
+Content-Transfer-Encoding: base64
+
+eJ8+IhMOAQaQCAAEAAAAAAABAAEAAQeQBgAIAAAA5AQAAAAAAADoAAENgAQAAgAAAAIAAgABBJAG
+ADABAAABAAAADAAAAAMAADADAAAACwAPDgAAAAACAf8PAQAAAE0AAAAAAAAAgSsfpL6jEBmdbgDd
+AQ9UAgAAAAB0dW5pbmdAZWFydGhhLm1pbGxzLmVkdQBTTVRQAHR1bmluZ0BlYXJ0aGEubWlsbHMu
+ZWR1AAAAAB4AAjABAAAABQAAAFNNVFAAAAAAHgADMAEAAAAYAAAAdHVuaW5nQGVhcnRoYS5taWxs
+cy5lZHUAAwAVDAEAAAADAP4PBgAAAB4AATABAAAAGgAAACd0dW5pbmdAZWFydGhhLm1pbGxzLmVk
+dScAAAACAQswAQAAAB0AAABTTVRQOlRVTklOR0BFQVJUSEEuTUlMTFMuRURVAAAAAAMAADkAAAAA
+CwBAOgEAAAACAfYPAQAAAAQAAAAAAAADkToBCIAHABgAAABJUE0uTWljcm9zb2Z0IE1haWwuTm90
+ZQAxCAEEgAEAFAAAAFJFOiB0dW5pbmcgYSBSb2xhbmQAhwYBBYADAA4AAADMBwwACwAIAB8AEgAD
+ACYBASCAAwAOAAAAzAcMAAsABwA2AB0AAwBHAQEJgAEAIQAAAEVGNjYxMjU3MkE1M0QwMTFCRDVB
+MDA4MDVGMzZBNTU1AP8GAQOQBgBQCAAAEgAAAAsAIwAAAAAAAwAmAAAAAAALACkAAAAAAAMANgAA
+AAAAQAA5AIDB8fhv57sBHgBwAAEAAAAUAAAAUkU6IHR1bmluZyBhIFJvbGFuZAACAXEAAQAAABYA
+AAABu+dv+OpXEmb6UyoR0L1aAIBfNqVVAAAeAB4MAQAAAAMAAABNUwAAHgAfDAEAAAAVAAAAVUND
+L0JCS05KMDEvQVNIQ1JBQUMAAAAAAwAGEAUxHtkDAAcQSwYAAB4ACBABAAAAZQAAAFRIRUpWLTgw
+QU5ESlYtODgwRlJPTVJPTEFORENBTkFMU09CRU1JQ1JPVFVORURUSEVTQU1FV0FZVEhJU0hBU1BF
+Uk1JVFRFRE1FVE9VU0VNWTg4MEZPUjE5VEVUVEhFUkVBUkUAAAAAAgEJEAEAAADbBgAA1wYAAOIL
+AABMWkZ1aiVQDf8ACgEPAhUCqAXrAoMAUALyCQIAY2gKwHNldDI3BgAGwwKDMgPFAgBwckJxEeJz
+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
+
+------ extPart_000_01BBE73D.AF0FF320--
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 11 Dec 1996 17:52 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23540; Wed, 11 Dec 1996 17:54:31 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA23576
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA08756; Wed, 11 Dec 1996 08:54:29 -0800
+Date: Wed, 11 Dec 1996 08:54:29 -0800
+Message-Id: <009ACB13E0B1B200.CC52@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

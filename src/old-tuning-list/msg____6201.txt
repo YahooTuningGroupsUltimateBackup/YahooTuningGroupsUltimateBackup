@@ -1,0 +1,46 @@
+source file: mills3.txt
+Date: Wed, 1 Oct 1997 18:38:37 +0200
+
+Subject: Ensoniq MR-rack resolution
+
+From: Rune Bystrom <rbystrom@puppis.ls.eso.org>
+
+In reply to Marcus Hobbs TUNING Digest 1181:
+  I have found the resolution in the Ensoniq MR-Rack to be 9 bits.
+  When using Single Tone Tune Change the least change that made any
+  difference was xx 00 20. Another thing worth noting is that the sounds do
+  not cover the whole 128 key range which is OK but the keys outside
+  the sounding range cannot be retuned. This means for instance that
+  a Grand Piano tuned to 24TET still has only 88 tones. Correct me if i am
+  wrong which I hope I am.
+
+  Rune Bystrom
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Peter.Blasser@oberlin.edu
+Subject:  Re: CAL language
+PostedDate:  01-10-97 21:10:48
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-10-97 21:10:21-01-10-97 21:10:22,01-10-97 21:09:17-01-10-97 21:09:18
+DeliveredDate:  01-10-97 21:09:18
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256523.00694F64; Wed, 1 Oct 1997 21:10:16 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04199; Wed, 1 Oct 1997 21:10:48 +0200
+Date: Wed, 1 Oct 1997 21:10:48 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04190
+Received: (qmail 11353 invoked from network); 1 Oct 1997 12:10:45 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Oct 1997 12:10:45 -0700
+Message-Id: <Pine.PMDF.3.95.971001150021.167489A-100000@OBERLIN.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

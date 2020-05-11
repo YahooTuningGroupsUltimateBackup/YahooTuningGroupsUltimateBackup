@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Tue, 17 Sep 1996 15:26:44 -0700
+
+Subject: Re: Consistency generalized
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 13 Sep 1996, it was written:
+>                             . . . I wrote a program to figure out
+> consistency levels at all limits up to 31 for all ETs up to 1200TET.
+> (Overkill, I know, but CPU cycles are cheap.)  The output is available
+> at <http://library.wustl.edu/~manynote/consist.txt>.  ("." indicates
+> level 1 consistency.)  Perusing it, one finds that the first ET with
+> level 2 consistency at the 7-limit is 31, at the 9-limit 41, at the
+> 11-limit 72, at the 13-limit 270, and at the 15-limit 494.  No ET below
+> 1200 exhibits level 2 consistency at the 17-limit.
+
+It's interesting to note that the first ETs to be level 2 consistent at
+the 5- and 7- limits (12 and 31) are actually level 3 consistent at
+those limits as well.  I took a quick pass through the file and found
+that the first ET to be level 3 consistent at the 9-limit is 171 (which
+is actually level _8_ consistent! holy cow), and at the 11-limit, 342.
+I couldn't find any ET under 1200 that was level 3 consistent at the
+13-limit.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Churchill? Can he run a hundred balls?"
+     -\-\-- o
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Sep 1996 00:25 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08626; Wed, 18 Sep 1996 00:27:24 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA07398
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA22050; Tue, 17 Sep 1996 15:27:23 -0700
+Date: Tue, 17 Sep 1996 15:27:23 -0700
+Message-Id: <3058974D.25CE@interlinx.qc.ca>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,61 @@
+source file: mills2.txt
+Date: Sat, 8 Mar 1997 05:10:04 -0800
+
+Subject: Re:  AD3 ?
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+Daniel Wolf <DJWOLF_MATERIAL@compuserve.com> wrote:
+>Just a quick question: I recently had some rehearsals with members of
+>Ensemble Modern here in Frankfurt and noticed that they tuned to A=443. Is
+>a similar upward drift in fashion elsewhere?
+
+and smith@cnmat.CNMAT.Berkeley.EDU (Ronald Smith) replied
+>Yep, has been for some time now.
+
+I didn't know about this but found it fascinating because I believed
+that A=440 was too low.  My reasons for this are several.  Anyway, 443
+is still too low it should be 450.
+
+1. In indian music the note "ni" is 450 Hz.  For the Indian music scale
+see http://www.kcbbs.gen.nz/users/rtomes/in_music.gif
+
+2. There often exists an electromagnetic standing wave around the earth
+called the Schumann resonance.  It has one main frequency mode given by
+the speed of light divided by the earth's circumference or 300,000km/s /
+40,000 km or 7.5 Hz.  When the natural Just Intonation scale is
+calculated with this as a base you get 
+ratio      24    27    30    32    36    40    45    48
+*7.5 Hz   180   212.5 225   240   270   300   337.5 360
+Which gives 225 Hz or 450 Hz exactly the same as the Indian music
+frequency.
+
+3. Before the standard A=440 was set the naturally chosen value was
+heading for 450 (please correct me on this one).
+
+4. The tempo of music, which may be seen as an extension of the key, is
+found to favour a slightly faster or slightly higher A.  This also leads
+me to an answer of 450.  I will do a seperate post about this another
+time as it is another whole subject.
+
+So I think that people naturally want to use notes that fit the
+frequencies in 2 above which will be the key of F and other keys based
+on that.  That is because our brains are affected by e/m fields in
+general and the Schumann resonance in particular (this is well
+established).  Any other option is against (our) nature.
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 8 Mar 1997 15:08 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08833; Sat, 8 Mar 1997 15:08:33 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09597
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id GAA05124; Sat, 8 Mar 1997 06:06:49 -0800
+Date: Sat, 8 Mar 1997 06:06:49 -0800
+Message-Id: <199703080903_MC2-1249-C500@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

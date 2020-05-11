@@ -1,0 +1,176 @@
+source file: mills3.txt
+Date: Thu, 8 Jan 1998 22:34:50 +0100
+
+Subject: RE: Special Way
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+I thank Carl for the review, and I will try to respond to some of his
+contentions.
+>
+>}What is this Special Way?  Krumhansl, quoted by Mr. Erlich, seems to be
+>}touching on it: "If chord construction is determined in some principled way
+>}by scale structure, then this further serves to maintain the tonal
+>}framework for encoding pitch information."
+>
+>"Special Way?" You are a Yes fan, you must be a Genesis fan too :)
+>
+>}Most western classical music happens to work in this Special Way, and the
+>}thing it uses to do it is the diatonic scale.  Mr. Erlich's goal, if I'm
+>}not mistaken, is to find a new scale suitable for use in this Special Way.
+>
+>}To recap so far, I am using "Special Way" to mean a way of explaining
+>}beauty in music from how melody and harmony are related, a construct
+>}heretobefore unknown to music theory, at least at the level Mr. Erlich
+>}takes it.
+>
+>Wow, I strongly disagree. Virtually every music theorist who does not care
+>about tuning issues understands harmony in terms of the diatonic scale and
+>tonal functions. "Functional harmony" -- ring a bell? Unfortunately,
+>virtually every alternative-tuning theorist does not so understand harmony.
+>This is unfortunate. It seems that "music theory" is divided into two
+>schools, and Carl is perhaps only familiar with the alternative-tuning
+>school. There is much of value in the other school, Carl.
+>
+>} In his paper, it is called "Generalizing diatonicity".  I
+>}suggest this is an unfortunate term, as it implies the diatonic scale,
+>}which is exactly what he wants to replace, kind of how "octave" isn't a
+>}good way to say "2/1", since it implies 12-tone...
+>
+>Actually, octave implies a heptatonic scale, not necessarily in 12-tone. But
+>I don't think I invented the term "diatonicity."
+>
+}He then defines a set of scales as candidates for representing the
+7-limit.
+ }These scales are assumed to be root of 2 equal-step tunings, with only
+one
+}pitch per 7-limit approximation.
+>
+>}The one pitch per approximation thing is necessary for the Special Way to
+>}work, as far as I can tell.  I can't quite tell you how, but I have a gut
+>}feeling it is, and since the Special Way is what we're after, I won't argue
+>}it.  Besides, it keeps the size of the pitch set manageable.
+>
+>I couldn't very well consider every possible tuning system in the paper.
+>Keeping the pitch set manageable is an important goal. Modulation flexibility
+>is as well; although I don't mention it in the paper, I assume readers are
+>familiar with this feature of ETs. However, I leave it to you to prove to
+>yourself that your gut feeling is correct, or if it is not, and there is a
+>non-equal-step tuning that satisfies all the properties I list, then we
+>should know about it!
+>
+>}The root of 2 part is understandable, considering that we need strong low
+>}identies for our 7's to work.  This seems contradictory to the rule that
+>}the higher identities are more sensitive to mistuning, since there are more
+>}low-numbered fractions near them.
+>
+>I don't see any contradiction.
+>
+>}Indeed it is, and perhaps it is a
+>}counterbalance to this principle.  The paper offers only that "octave
+>}equivalence seems pervasive" and that it is "universally perceived, even by
+>}some animals".
+>
+>That's the key. I did not have room in the paper to consider tempering the
+>octave, but as you know, I have no objections to doing so.
+>
+>}The matter of mistuning is far from clear, even touching back on our old
+>}bone about unknowingly passing low-numbered ratios when measuring cent
+>}detuning of an interval.  Paul's paper addresses this by making the
+>}standard deviation in log-frequency detuning inversely proportional to the
+>}limit of the interval.
+>
+>That is not correct. I do offer this as an alternative model, but the first
+>model, in which the standard deviation is constant for all intervals, is the
+>one which yield the candidate tunings:
+>
+>}So the list of scales comes down to 22, 26, 27, and 31 tone equal
+>temperament.
+>
+>Can you suggest a way to make the paper less confusing on this point?
+>
+>}..in what would be letter "d", Mr. Erlich makes use of a term I do not
+>}understand: "characteristic dissonance".  He defines it to be any dissonant
+>}interval that shares the same number of scale steps as a consonant
+>}interval.  Shadings of dissonance aside, what kind of scale steps we
+>}talkin'?  The example of the diminished 5th is given, but why it should be
+>}considered a type of 5th, or why the P5 should not be considered a 7th is
+>}not made clear.
+>
+>Are you serious? Count scale steps. Anyone in a traditional theory class
+>could answer this blinfolded; perhaps I presumed too much of the traditional
+>theory background when writing this paper.
+>
+>By the way, all the numbering and lettering in my paper is screwed up, thanks
+>to Microsoft.
+>
+>}So has the paper provided a good definition of the Special Way?  Yes.  Has
+>}it succeeded in convincing me that the Special Way is still good, and that
+>}the 22TET decatonic scale is a fresh vehicle for it?  Without a doubt.
+>}What it hasn't provided is a name for the Special Way.  Maybe "tonality" is
+>}best, but I didn't use it because it has so many other meanings.
+>
+>In alternate-tuning land, yes. In traditional theory land, it has a very
+>specific meaning. Traditional theorists usually think that extending
+>consonance to the 7-limit means throwing out tonality. I make a case that a
+>7-limit system of tonality exists.
+>
+>}Serialism is certainly devoid of the Special Way -- and no doubt there is
+>}good serialism to be done -- but it is also lacks consonance.
+>
+>Hmmm. Serialism, and much 12-tone theory, _does_ make a big deal about using
+>the same pitch sets for melody and harmony. I think 11TET would work much
+>better for dissonant serialism than 12TET, since 11TET is the most effective
+>tuning for random dissonance, and 11TET is a subset of 22TET.
+>
+>}Far out avant garde music is certainly lacking of Special Way, if not other
+>}things.
+>
+>And I do love far-out avant garde music like Henry Cow, when I'm in the mood
+>for it. I love Phish when they go far out, and I think 22TET can take you a
+>lot farther out than 12TET. But sometimes you just want to listen to
+>something that "takes you home".
+>
+>}Indian chamber music and Bagpipe music are good examples, but they stay
+>}inside one tonality, the fundamental of which is played on a drone.  I love
+>}them both, and they are extremely consonant, but this is not going to
+>}satisfy hardcore Special Way fans.
+>
+>I will admit that the closer you are to JI, as long as major and minor whole
+>tones are not too different, the better for these styles.
+>
+>You did not address the rest of my paper, such as my demonstration that 22TET
+>is virtually the best tuning for the decatonic scales. It may seem circular
+>since I found the scales in 22TET, but one might have hoped for a better way
+>of tuning them, which (perhaps unfortunately) does not exist.
+>
+>Modulatory effects only possible in JI -- can you give a specific example?
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  John Starrett <jstarret@tiger.cudenver.edu>
+Subject:  new microtonal freeware
+PostedDate:  09-01-98 00:28:35
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  09-01-98 00:28:09-09-01-98 00:28:11,09-01-98 00:28:05-09-01-98 00:28:05
+DeliveredDate:  09-01-98 00:28:05
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256586.0080E8DB; Fri, 9 Jan 1998 00:28:31 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31737; Fri, 9 Jan 1998 00:28:35 +0100
+Date: Fri, 9 Jan 1998 00:28:35 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA31685
+Received: (qmail 16842 invoked from network); 8 Jan 1998 15:28:32 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Jan 1998 15:28:32 -0800
+Message-Id: <Pine.A32.3.91.980108161900.23868A-100000@tiger.cudenver.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

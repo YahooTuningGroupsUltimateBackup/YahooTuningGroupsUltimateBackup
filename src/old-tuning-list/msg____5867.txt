@@ -1,0 +1,181 @@
+source file: mills3.txt
+
+
+Subject:  LCMs of periods
+
+From:  Mckyyy@aol.com
+
+I didn't receive this tuning digest from Paul E until he recently
+forwarded it to me.  In it he said.
+
+>I thought we had decided that our "differences of opinion" were
+>simply an error on your part. You were claiming that the LCM of
+>a chord was proportional to the pattern length of the chord. I
+>pointed out that this was only true under certain wild
+>assumptions about the relative register of the chords. For
+>example, the major triad (4:5:6) and the minor triad (10:12:15)
+>both have an LCM of 60. For both chords, the pattern length of
+>the chord as a whole is that of the frequency represented by the
+>number 1. So in order to give both chords the same wavelength,
+>you have to play the minor triad an octave plus a major third
+>higher than the major triad. If you play them in the same
+>register, the wavelength of the minor triad is 10/4 = 2.5 times
+>longer than that of the major triad.
+
+It's true that I was confused about this for awhile, actually,
+quite a long while, and I would again like to thank you, Paul,
+for bringing my error to my attention.  The pattern length of
+chords is proportional to the LCM of their PERIODS, not the LCM
+of their frequencies.  I discovered this when I was designing
+frequency divider JI instruments in the mid 60's, but when I
+wrote my sequencer for FM synthesis, which is frequency rather
+than period oriented, I lost track of the distinction.  The
+oversight was masked by the fact that chords with small lcms of
+frequencies also tend to have small lcms of periods, since they
+are all made up of the same set of prime factors.
+
+Below is an ascii illustration of the periods of the triads
+mentioned by Paul.  Those who are put off by long lists of
+numbers would be well advised to skip the rest of this post.
+
+ 1  1 1 1    1  1  1
+ 2  2 2 2    2  2  2
+ 3  3 3 3    3  3  3
+ 4  1 4 4    4  4  4
+ 5  2 1 5    5  5  5
+ 6  3 2 1    6  6  6
+ 7  1 3 2    7  7  7
+ 8  2 4 3    8  8  8
+ 9  3 1 4    9  9  9
+10  1 2 5   10 10 10
+11  2 3 1    1 11 11
+12  3 4 2    2 12 12
+13  1 1 3    3  1 13
+14  2 2 4    4  2 14
+15  3 3 5    5  3 15
+16  1 4 1    6  4  1
+17  2 1 2    7  5  2
+18  3 2 3    8  6  3
+19  1 3 4    9  7  4
+20  2 4 5   10  8  5
+21  3 1 1    1  9  6
+22  1 2 2    2 10  7
+23  2 3 3    3 11  8
+24  3 4 4    4 12  9
+25  1 1 5    5  1 10
+26  2 2 1    6  2 11
+27  3 3 2    7  3 12
+28  1 4 3    8  4 13
+29  2 1 4    9  5 14
+30  3 2 5   10  6 15
+31  1 3 1    1  7  1
+32  2 4 2    2  8  2
+33  3 1 3    3  9  3
+34  1 2 4    4 10  4
+35  2 3 5    5 11  5
+36  3 4 1    6 12  6
+37  1 1 2    7  1  7
+38  2 2 3    8  2  8
+39  3 3 4    9  3  9
+40  1 4 5   10  4 10
+41  2 1 1    1  5 11
+42  3 2 2    2  6 12
+43  1 3 3    3  7 13
+44  2 4 4    4  8 14
+45  3 1 5    5  9 15
+46  1 2 1    6 10  1
+47  2 3 2    7 11  2
+48  3 4 3    8 12  3
+49  1 1 4    9  1  4
+50  2 2 5   10  2  5
+51  3 3 1    1  3  6
+52  1 4 2    2  4  7
+53  2 1 3    3  5  8
+54  3 2 4    4  6  9
+55  1 3 5    5  7 10
+56  2 4 1    6  8 11
+57  3 1 2    7  9 12
+58  1 2 3    8 10 13
+59  2 3 4    9 11 14
+60  3 4 5   10 12 15
+
+I think of the above diagram as a representation of a bunch of
+frequency dividers hooked to a common frequency source.  As the
+high-frequency source steps through its 60 states, the counters
+step through 3, 4, 5 ... .etc states.
+
+I thought we had this one straightened out.  As I remember it you
+agreed with one of my tables of numbers, but maybe I'm not
+remembering correctly.
+
+The other issue, at least in my mind, was ratio invariance.  I
+suppose it might have been better to use the term frequency
+invariance.  To cover that one you need to go to the scale level.
+
+Let's take an example 12-tone, 7-limit scale, which I believe is
+the 12-tone, 7-limit scale with the smallest frequencies.
+
+70 72 80 84 90 96 105 108 112 120 126 135
+
+Here is that scales inversion, or the expression of the scale in
+period form rather than frequency form.
+
+224 240 252 270 280 288 315 336 360 378 420 432
+
+This is the output of a program I wrote after my conversations
+with Paul that takes the LCMs of the periods of a scale and
+constructs a minimum set of chords without using the principle of
+ratio/frequency invariance.
+
+In other words, the same chord at a higher frequency has a
+shorter period than one at a lower frequency, and thus comes up
+first in the sort.
+
+12 224
+11 240
+10 252
+ 9 270
+ 8 280
+ 7 288
+ 6 315
+ 5 336
+ 4 360
+ 3 378
+ 2 420
+ 1 432
+
+ 1- 5- 9 ;      1260   3   4   5
+ 3- 6-10 ;      1440   4   5   6
+ 1- 4-10 ;      1680   4   5   7
+ 1- 4- 7 ;      1680   4   5   6
+ 2- 5- 8 ;      1890   5   6   7
+ 4- 9-11 ;      2016   6   8   9
+ 0- 3-10 ;      2160   5   6   9
+
+The numbers after the semicolons represent the periods of the
+chords, not the LCMS adjusted for frequency.  Thus the two 4:5:7
+chords are rated differently.  This is an interesting concept
+even though it reversed the usual practice of rating similar
+chords lower in the scale as more "fundamental" or "harmonious".
+
+For example consider the many distinctions that are made in the
+literature of the three major chords in the 7-tone Zarlino Scale.
+
+I plan to do more work on this subject as soon as I can find the
+time. I want to do a program that does period analysis on
+frequency representations so that I can use it to generate chord
+patterns for use with the my FM sequencer.  Also, I am still
+working on my DSP music project.  That one uses period
+representation throughout, but who knows when I'll get it done?
+Too many fun things to do, and not enough time to do them in is
+not really the worst problem to have.
+
+Thanks again, Paul, for taking the time to analyze my work.  As
+you find other problems, I would be very happy to hear about
+them.
+
+Marion
+
+
+
+$AdditionalHeaders:  Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id C12564DA.000712CB; Sun, 20 Jul 1997 03:17:15 +0200

@@ -1,0 +1,113 @@
+source file: m1363.txt
+Date: Mon, 23 Mar 1998 17:26:27 -0500
+
+Subject: Well Temperaments, Just Diminished
+
+From: monz@juno.com (Joseph L Monzo)
+
+RE: Well Temperaments
+
+The following table is the adjustment from equal temperament (in cents)
+used by Johnny Reinhard for the Werckmeister III temperament used in last
+week's performance by the Soho Baroque Opera.  He got it from an
+unpublished English translation of Werckmeister's treatise. (Beware of
+other listings of Werckmeister III -- they contain errors!)  
+
+C = +12
+C#/Db = +2
+D = +4
+D#/Eb = +6
+E = +2
+F = +10
+F#/Gb = 0 
+G = +8
+G#/Ab = +4
+A = 0
+Bb/A# = +8
+B = +4
+C = +12
+ 
+As I stated in the review of this performance which I posted to Tuning
+Digest, tunings are usually described as starting on C (which would make
+C the note with O cents adjustment), but as there was no standard
+reference pitch in use in Europe at the time these temperaments were in
+use, Reinhard felt it best to tune to A-440 and calculate the adjustments
+from there.
+
+>From the research I've done, Werckmeister III seems to have been the
+most popular of the well temperaments.  (Anyone else know otherwise?)
+
+----------------------------------------------
+RE: Diminished-7th Chords
+
+Diminished-7th chords were used by Bach, so they definitely pre-date the
+establishment of equal-temperament, although they became much more
+widespread after the acceptance of 12-equal, as they are singularly
+fitted to that tuning because of their equal intervals.  Note that in
+reference to a 12-equal diminished 7th chord, transposition to any of the
+chord members, and inversion, are equivalent.
+
+When constructing diminished-7th chords in just-intonation, several
+different approaches may be used.
+
+As far as 3-limit goes, I've never experimented with diminished-7ths in
+this tuning, nor have I ever heard of anyone else doing so.  The minor
+3rd has the ratio 32/27 (294 cents).  Anyone out there try it?
+
+For 5-limit, the minor 3rds may be either 32/27, or 6/5 (316 cents).  The
+particular arrangement of these determines the sound of the chord.  There
+are a few different constructions that can be used; here are the most
+consonant :
+
+A succession of three 6/5s is one method.  This gives, obviously, the
+most consonant minor 3rds, with a diminished 5th with the ratio 36/25
+(631 cents), and diminished 7th of 216/125 (947 cents).
+
+Another possibility is a 6/5, a 32/27, and another 6/5.  This gives a
+diminished 5th of 64/45 (610 cents) and diminished 7th of 128/75 (925
+cents).
+
+Of course, allowing for enharmonic equivalence, an augmented 4th could be
+used instead of a diminished 5th.  Interestingly, using the intervals
+6/5, 75/64, and 6/5, gives a chord with exactly the same interval
+structure described in the example above, just transposed.  In this
+chord, the diminished 5th is technically an augmented 4th of 45/32 (590
+cents), and the diminished 7th is technically a Pythagorean 6th of 27/16
+(906 cents).
+
+All of these are fairly dissonant, and generally they only work as
+"resolving" chords, that is, they must move to another, more consonant
+chord.
+
+As more and more prime numbers are allowed in the factors of the ratios,
+the number of possible notes that may be used is increased exponentially,
+making it impractical to list them all in a posting.  However, allowing
+higher primes also gives more consonant diminished-5th and diminished-7th
+intervals.
+
+In the 7-limit, the minor 3rds may be either 32/27, 6/5, or 7/6 (2.67
+cents).  Various different combinations of these give interesting and (to
+varying degrees) pretty good diminished-7th chords.
+
+In mid-1800s Austrian harmonic theory (beginning, I believe, with
+Sechter, and continuing all the way to Schoenberg, and to a large extent
+even today), the diminished-7th chord was considered to be a dominant-7th
+flat-9th with the root omitted.  As first noted by Ellis in his
+translation of Helmholtz's "On the Sensations of Tone", the most
+consonant tuning for the diminished-7th chord is to use the intervals 6/5
+- 7/6 - 17/14.  This  gives a chord with the chord identities 5, 3, 7,
+and 17, which are indeed the 10th, 12th, 14th and 17th harmonics of the
+missing fundamental, and in *perfect* tuning, they would emphasize that
+missing fundamental.  Note also that all the difference tones of this
+chord are octaves below the chord members, which serves to further
+increase the feeling of both consonance and the fundamental.
+
+   Joseph L. Monzo
+    monz@juno.com
+    4940 Rubicam St., Philadelphia, PA 19144-1809, USA
+    phone 215 849 6723
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

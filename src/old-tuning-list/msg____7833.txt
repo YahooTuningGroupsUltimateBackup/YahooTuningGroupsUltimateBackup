@@ -1,0 +1,84 @@
+source file: m1418.txt
+Date: Sun, 17 May 1998 15:58:47 -0400
+
+Subject: ET for melodies/ JI for harmonies
+
+From: monz@juno.com (Joseph L Monzo)
+
+[Me:]
+>> I'll grant that equal temperaments are easy to hear in
+>> melodic terms
+
+[Carl Lumma:]
+> Whoa!  Wait a minute?  Where did this come from?
+
+[Paul Erlich:]
+> I don't know where it came from, but it's true. Even Mathieu
+> admits that a 12-tone chromatic scale is melodically smoother
+> in 12tET than in an unequal tuning.
+
+It came from Ben Johnston, "Scalar Order as a Compositional
+Resource", published in _Perspectives of New Music_, vol 2 # 2,
+Spring-Summer 1964, p. 59:
+
+[Johnston:]
+"...Octaves are then divided by a scale of smaller intervals.  The
+two conflicting criteria which condition this are simplicity and
+symmetry: that is, a preference for simplicity or consonance of
+harmonic pitch ratios, and a preference for dividing melodic
+intervals symmetrically, into "equal" smaller intervals.
+
+"Melodically, the pitch dimension is a linear succession of
+octaves, each internally subdivided into smaller intervals which
+we speak of adding and subtracting.  But this view of pitch offers
+no explanation of the common harmonic experience of a gradual
+scale of consonance and dissonance.  Listening harmonically to
+pitch intervals we are actually comparing tempos of vibration...
+<snip>
+
+"Harmonic listening is too easy and too basic to be ignored, even
+in purely melodic music.  Yet melodic preference for equal scale
+intervals is also strong.  If a scale is derived harmonically, it
+must consist of intervals whose melodic sizes differ by what seems
+a negligible amount.  What seems negligible depends mostly upon
+relative sizes but also upon cultural conditioning and upon "how
+good an ear" an individual listener has." [end quote]
+
+Johnston then proceeds to demonstrate how he derived a
+53-pitch-class 5-limit JI source scale with an approximately
+equal division of the octave.  Compare the following:
+
+Interval		Prime factors	Ratio		Cents
+--------		-------------	-----		-----
+Syntonic Comma		3^4 * 5^-1	81/80		21.5
+53-eq "step" size	2^(1/53)	n/a		22.6
+Pythagorean Comma	3^12		531441/524288	23.5
+
+The fact that the 53-eq step size is almost exactly midway
+between the two commas means that 53-eq is good at approximating
+all the notes in a 5-limit system (that is, ratios with factors
+of 3 and 5), or, conversely in Johnston's case, that a 53-tone
+5-limit system that divides the octave as evenly as possible will
+approximate 53-eq very closely.
+
+This article is a very lucid exposition of the matter stated in
+the title.  Johnston describes S. S. Stevens's "four kinds of
+scales of measurement: nominal, ordinal, interval, and ratio".
+He gives examples of musical use of the four as follows:
+
+nominal		formal analysis (ABA, ABACABA, etc.)
+ordinal		dynamics (pp, p, mp, mf, f, ff)
+interval	melodic use of pitch (i.e. ET)
+ratios		harmonic use of pitch & tuning by ear
+
+Johnston's writings get very little citation -- they're well worth
+reading.
+
+   Joseph L. Monzo
+    monz@juno.com
+    
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Mon, 21 Oct 1996 20:21:41 -0700
+
+Subject: JI Calc 4.3 bug
+
+From: Carter Scholz <csz@well.com>
+
+Alex Ruthmann writes:
+> I have had a problem with generating the random tones 
+> with the "Ear" icon.  JI Calc displays an error message...
+
+I apologize for not thoroughly checking out all the sound functions 
+of the new JiCalc 4.3 before posting it.  I will do so, and will 
+post a fix within a few days.
+
+Carter
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 22 Oct 1996 07:15 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06447; Tue, 22 Oct 1996 07:17:23 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA06438
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id WAA09785; Mon, 21 Oct 1996 22:17:15 -0700
+Date: Mon, 21 Oct 1996 22:17:15 -0700
+Message-Id: <961022045904_71670.2576_HHB32-5@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

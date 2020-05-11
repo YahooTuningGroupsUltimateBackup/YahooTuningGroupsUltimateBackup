@@ -1,0 +1,86 @@
+source file: m1400.txt
+Date: Wed, 29 Apr 1998 15:27:17 -0400
+
+Subject: Reply to Joe Monzo
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>In traditional 12-eq harmonic theory, with extended
+>chords built upwards in 3rds, if the near-quartertone
+>identities of 11 and 13 are assumed to be implied
+>by the "flat 5th / sharp 11th" and "flat 13th",
+>respectively
+
+I think any good jazz musician would assume otherwise.
+
+>, the rational implications of the chord-
+>members of a major chord line up pretty much as
+>follows:
+
+>27/16	13th
+>13/8	flat 13th
+
+>11/8	sharp 11th
+>4/3	11th (21/16 is another possibility)
+
+>19/16	sharp 9th (7/6 is another possibility)*
+>9/8	9th
+>17/16	flat 9th
+
+>15/8	major 7th
+>7/4	minor 7th
+
+>25/16	augmented 5th
+>3/2	5th
+>11/8	diminished 5th (23/16 ???)
+
+>5/4	3rd
+
+>1/1	root
+
+>* See the discussion about these two particular
+>intervals between Paul Erlich and and myself
+>re: Hendrix Chord [Tuning Digest #1376], as to
+>whether 19 is admissible as a rational implication
+>of the "sharp 9th".
+
+I think 19 is much more admissible as a rational implication of the
+sharp 9th than 11 or 13 are admissible as rational implications of
+anything in 12tET (despite what Schoenberg may have had to say).
+
+Let's analyze a few common jazz chords (which are normally played, of
+course, in 12tET):
+
+1. 13flat9 (meaning: root, maj .3rd, min. 7th, min. 9th, maj. 13th; the
+perfect 5th is often omitted in jazz)
+
+I think this chord derives its flavor from the major triad formed on the
+maj.13th with the min. 9th and maj. 3rd.  This triad resonates clearly
+and forms a polyharmonic structure against the root. Tuning the triad
+27:34:40 would destroy this effect and render the chord pretty ugly
+(IMO). Hence in this case the maj. 13th should be 5/3 and the min. 9th
+should be 25/12.
+
+2. sharp11flat9 (meaning: root, maj. 3rd, min. 7th, min. 9th, aug. 11th)
+
+Here, there is a strongly resonating dominant seventh chord formed on
+the aug. 11th with the min. 7th, min. 9th, and maj. 3rd. If we fix the
+maj. 3rd at 5/4, then the aug. 11th should be 10/7, the min. 7th should
+be 25/14, and the min. 9th should be 15/7. Of course, the fact that the
+min. 7th is also close to 7/4 helps to reinforce the root along with the
+maj. 3rd. It is very common in jazz to have a maj. 3rd - min. 7th
+tritone imply two different roots, one with their traditional roles and
+one with their roles reversed. This requires a tuning, such as 12tET,
+where the 50:49 "septimal sixth-tone" vanishes.
+
+3. 6/9 (meaning root, maj. 3rd, perf. 5th. maj. 6th, maj. 9th)
+
+Here, we have a chain of 5ths, but also a major 3rd and two minor
+thirds. If all these intervals are to be consonant, no just
+interpretation will really do. This chord requires a tuning where the
+80:81 syntonic comma vanishes.
+
+Other examples can be pointed out, but I think that's enough to make my
+point for now.
+
+By the way, the simplest ET consistent in the 19-limit is 80tET.

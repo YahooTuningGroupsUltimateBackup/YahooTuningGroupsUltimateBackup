@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Fri, 11 Jul 1997 10:27:53 +0200
+
+Subject: Fokker refs
+
+From: John Chalmers <non12@deltanet.com>
+
+The references to Fokker's papers on periodicity blocks in harmonic
+lattices are the following as they appeared in a periodical. Fokker
+published a great number of papers in Dutch, English, German and French.
+Many, if not all, are listed in the bibliography available at the Mills
+anonymous ftp site (ella.mills.edu) in HTML format.
+
+Fokker, A.D. "Selections from the harmonic lattice of perfect fifths and
+major
+thirds containing 12, 19, 22, 31, 41 or 53 notes",  Proceedings of the 
+KNAW, Series B, vol. 71, 1968, pp. 251-266.
+ 
+KNAW Koninklijke Nederlandse Academie van Wetenschappen
+
+Fokker, A.D. "Unison vectors and periodicity blocks in the
+three-dimensional
+(3-5-7) harmonic lattice of notes,Proceedings of the KNAW, 
+Series B, vol. 72, 1969, pp. 153-168.
+
+--John
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 11 Jul 1997 10:29 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA26268; Fri, 11 Jul 1997 10:29:32 +0200
+Date: Fri, 11 Jul 1997 10:29:32 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA26529
+Received: (qmail 18251 invoked from network); 10 Jul 1997 17:01:05 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Jul 1997 17:01:05 -0000
+Message-Id: <Pine.SOL.3.95q.970710114000.13703C-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

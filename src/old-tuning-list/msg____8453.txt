@@ -1,0 +1,267 @@
+source file: m1524.txt
+Date: Sun, 6 Sep 1998 19:04:47 -0700 (PDT)
+
+Subject: Re: Quasi-17-tet by just intonation
+
+From: "M. Schulter" <mschulter@value.net>
+
+-------------------------------------------
+                  Quasi-17-tet by 5-limit just intonation:
+                A "wide double schisma fifth" approximation
+                -------------------------------------------  
+
+---------------
+1. Introduction
+---------------
+
+Recently I posted a just intonation tuning very closely approximating
+12-tone equal temperament (12-tet), using the schisma fifth
+16384:10935 -- which had, in fact, been proposed by Johann Philipp
+Kirnberger as early as 1766.
+
+>From a xenharmonic perspective, this interval (about 700.00128 cents)
+and the fourth of 16384:10935 (its octave complement) occur in various
+musical systems and tunings, including Alexander Ellis's variant on
+Helmholtz's 1/8-schisma temperament[1].
+
+It is only fair to add that while Kirnberger and other developers and
+exponents of this interval (Lambert, Marpurg, and later Farey) were
+indeed seeking a just intonation approach for tuning the virtual
+equivalent of 12-tet, the schisma fourth or fifth is for Ellis
+actually a "defective" interval in a tuning scheme striving for pure
+fifths and thirds -- albeit hardly a "Wolf" <grin>.[2]
+
+Apart from teaching me once again that it can indeed be hard to come
+upon a really "new" tuning, my encounter with Kirnberger's
+quasi-12-tet scheme has suggested an even more intricate scheme with
+even larger integer ratios for tuning an approximation of one of my
+favorite scales: 17-tet.
+
+To get this idea, I needed only to realize that a 17-tet fifth of
+about 705.882 cents is very close to a pure fifth at 3:2 (about 701.955
+cents) plus _two_ schismas of about 1.95372 cents -- or 705.862 cents.
+
+While such an approximation of 17-tet might be even more unlikely than
+Kirnberger's quasi-12-tet for anyone actually to tune, I found it a
+charming exercise in musico-mathematical poetry. Each interval in the
+chain seems full of historical associations lending their flavor to
+the intrigue of the whole.
+
+
+--------------------------------------------
+2. Of fifths, thirds, and a curious semitone
+--------------------------------------------
+
+Our object is to arrive at a generating interval for our quasi-17-tet
+scale: a fifth two schismas wider than pure. This turns out easy to
+arrange on paper, although even less easy than quasi-12-tet to tune in
+practice. If one accepts Barbour's description of Kirnberger's scheme
+for the latter task as "roundabout,"[3] I'm not quite sure what term
+might apply to this scheme -- possibly "labyrinthine"?
+
+We begin with a chain of 9 pure fifths up, or fourths down where
+called for to keep within the desired octave, arriving at a schisma
+minor third of 19683:16384, e.g.
+
+c-g-d-a-e-b-f#-c#-g#-d#
+
+This interval of c-d#, a Pythagorean augmented second, is precisely
+one schisma wider than a pure m3 at 6:5 (about 315.64 cents), or
+about 317.595 cents.
+
+If we add another chain of nine pure fifths, we get a kind of curious
+"diminished fifth" equal in size to precisely two such schisma thirds:
+
+     19683:16384
+----------------------
+c-g-d-a-e-b-f#-c#-g#-d#-a#-e#-b#-f##-c##-g##-d##-a##-e##
+                     -----------------------------------
+                                19683:16384
+
+The interval c-e## might be described in two ways. From a Pythagorean
+viewpoint, it consists of two augmented seconds each a Pythagorean
+comma (531441:524288, about 23.46 cents) wider than a usual m3 at
+32:27 (about 294.13 cents).
+
+>From a 5-limit perspective, it could also be described as being formed
+from two minor thirds each a schisma wider than 6:5, producing an
+interval _two_ schismas wider than a diminished fifth of 36:25 (about
+631.13 cents).
+
+Either calculation gives us a ratio for c-e## of 387420489:268435456,
+or the square of our schisma m3 ratio 19683:16384 -- about 635.190
+cents.
+
+To get from this curious interval to our quasi-17-tet fifth, we move
+first a just 5:4 major third up, and then a just 6:5 minor third
+down. The difference of these two intervals defines a 5-limit
+chromatic semitone of 25:24, or about 70.672 cents. Adding this 25:24
+interval to our "double minor schisma third" c-e##, we arrive at the
+not inconsiderable ratio of 3228504075:2147483648, or about 705.862
+cents.
+
+While conventional Pythagorean notation nicely expresses all of our
+chain of fifths from c to e##, representing these last steps invites a
+notation showing variances from a Pythagorean tuning in syntonic
+commas of 81:80 or about 21.506 cents. Thus we might write the
+intervals up a major third and then down a minor third as:
+
+e##-g###(-1)
+g###(-1)-e###(-2)
+
+and the final quasi-17-tet fifth (two schismas wider than just) as:
+
+c-e###(-2).
+
+Here each sharp raises a note by a Pythagorean apotome of 2187:2048
+(about 113.69 cents), while each parenthetical negative number lowers
+a note by that number of syntonic commas. Starting with a regular
+Pythagorean major third of c-e (81:64, about 407.82 cents), adding an
+apotome for each of the three sharps to obtain c-e###, and then
+subtracting two syntonic commas to obtain c-e###(-2), brings us to the
+expected fifth-plus-two-schismas.
+
+It is understandable why tuning 18 pure fifths, a pure major third,
+and then a pure minor third down to arrive at a quasi-17-tet fifth may
+be more enchanting in theory than in practice.
+
+>From a theoretical and contemplative viewpoint, however, each step has
+its significance. The familiar Pythagorean intervals of the 18-fifth
+chain c-e## represent the classical Gothic style from Perotin and
+earlier to Machaut. The schisma minor thirds c-d# and d#-e##, also a
+part of this chain, recall the era around 1400 when such thirds
+heralded a new approach to keyboard tunings and music. The 25:24
+semitone, and the pure 5:4 and 6:5 third together defining it, evoke
+for me the tertian just intonation of the Renaissance.
+
+
+--------------------------------
+3. How accurate is quasi-17-tet?
+--------------------------------
+
+Comparing a true 17-tet fifth of 10/17 octave (about 705.8824 cents)
+with our quasi-17-tet fifth-plus-two-schismas (about 705.8624 cents),
+we have a difference of about 0.0200 cents, or 1/50 cent.
+
+If we generate a quasi-17-tet scale, seeking to close the circle at
+the octave by tuning 17 such fifths, then we will fall slightly short
+of this octave (17 fifths - 10 octaves) by a comma having a ratio
+equal to 
+
+                       (3228504075:2147483648)^17
+                       --------------------------
+                                  2^10
+
+or the rather large integer ratio
+
+449803428507699070078142388657801512055553043909284604089805711
+333684881797231175590710351961955330881848802903918457871062446
+517174209283548407256603240966796875:
+449891379454319638281053850768598185886969711830191663310075557
+261183758067148787031904068610389085714992091063352089512320826
+605549429968900851518086516385513472
+
+It will be seen that the two almost equal terms of this ratio are each
+somewhat larger than a googol, or 10^100. Since 17-quasi-tet fifths
+yield an interval slightly _smaller_ than an octave, our ratio is
+slightly _less_ than unity, or about 0.99984775469834538259397238309.
+
+Converting to cents, we find that the quasi-17-tet comma is equal to
+about -0.33847849865247873430151573027 cents, with the negative sign
+again showing that in this tuning 17 fifths is a bit _smaller_ than 10
+octaves.
+
+This approximation of 17-tet thus involves an error factor about 20
+times larger than in Kirnberger's quasi-12-tet[4], but still somewhat
+smaller than that of 1/3-comma meantone vis-a-vis 19-tet, or 1/4-comma
+meantone vis-a-vis 31-tet. These two meantone tunings have commas of
+about .9385 cents wide (19 fifths/11 octaves) and 6.0687 cents narrow
+(31 fifths/18 octaves) respectively.  
+
+If we assume a truncated quasi-17-tet tuning with a pure 2:1 octave,
+then the 17th fifth would be _larger_ than the others by the comma of
+about.338 cents, thus being equal to about 706.201 cents, as compared
+to the other fifths at 705.86 cents, or 705.88 cents in 17-tet
+proper. Such a small divergence should hardly have a tangible effect
+on the character of the tuning vis-a-vis true 17-tet.
+
+Other divergences within the scale would be even smaller: thus the
+true 17-tet major third (6/17 octave) is about 423.53 cents, as
+compared to its quasi-17-tet counterpart of about 423.45 cents. This
+interval thus retains its characteristic flavor and its penchant for
+expanding to a fifth with a definite neo-Gothic "zonk."
+
+Incidentally, a scale step in either 17-tet or quasi-17-tet -- that
+is, the diatonic semitone of about 70.59 cents in either tuning --
+happens to be almost identical to the 25:24 chromatic semitone of
+tertian just intonation (about 70.67 cents). Thus it might be
+appropriate that the just tuning chain for quasi-17-tet should combine
+a chain of 18 pure fifths (suggesting the "neo-Pythagorean" qualities
+of the tuning) with a 25:24 ratio.[5]
+
+
+--------------------------------
+4. Naming caution and dedication
+--------------------------------
+
+Having confirmed once again by my quasi-12-tet adventure that almost
+any tuning may have a long documented history (in that case going back
+at least to Kirnberger), I would hesitate to propose _any_ name for
+this quasi-17-tet tuning or its comma, the latter likely involving
+some of the larger integers encountered in just intonation theory.
+
+However, I would not hesitate to dedicate this essay itself to one
+whose career on this planet has immensely advanced xenharmonics, just
+intonation, and the recognition of 17-tet as an honored member of the
+diverse n-tet family: Ivor Darreg.
+
+
+                             -----------------
+                                   Notes
+                             -----------------
+
+
+1. Hermann L. F. Helmholtz, with translation, notes, and Appendices by
+Alexander J. Ellis, _On the Sensations of Tone as a Physiological
+Basis for the Theory of Music_, 6th ed. (New York: Peter Smith, 1948),
+p. 316, n. at *. Ideally, the Helmholtz tuning would call for making
+each fifth 1/8-schisma narrow to produce pure major thirds; Ellis,
+allowing for the limited accuracy of human hearing, instead "dumps"
+the full schisma on one fifth or fourth out of the chain of 8
+producing a pure M3.
+
+2. Ibid. Ellis remarks that such fifths or fourths "are defective,
+.. being 700 cents down or 500 up, in place of 702 and 498 as all the
+others." Lest any reader be tempted to take this "defect" too
+seriously, it might be well to recall the view of Helmholtz, ibid. at
+p. 315, that "[t]he principal fault of our present tempered intonation
+[i.e. 12-tet], therefore, does not lie in the Fifths; for their
+imperfection is really not worth speaking of, and is scarcely
+perceptible in chords." At issue, of course, was rather the tuning of
+major and minor thirds.
+
+3. J. Murray Barbour, _Tuning and Temperament: A Historical Survey_
+(East Lansing: Michigan State College Press (1953), p. 64.
+
+4. As Ellis notes in Helmholtz, see n. 1, p. 316 n. at *, the schisma
+fifth (used in Kirnberger's quasi-12-tet) is larger than a true 12-tet
+fifth by about 0.001280 cents. Thus the comma (12 fifths/7 octaves)
+is 12 times this variance, or about 0.01536 cents.
+
+5. It is interesting that an interval of about 70 cents serves as a
+_diatonic_ semitone (e.g. e-f, c#-d, eb-d) in 17-tet or quasi-17-tet,
+but as a _chromatic_ semitone (e.g. c-c#, eb-e) in tertian just
+intonation, where the diatonic semitone of 16:15 is equal to about
+111.73 cents. Curiously, the usual 17-tet or quasi-17-tet M3 of about
+423.5 cents is quite close to the 32:25 diminished fourth (about
+427.37 cents) of tertian just intonation. Here we see a dramatic case
+of Mark Lindley's observation associating active thirds with keen
+diatonic semitones (as holds more moderately in Pythagorean and
+12-tet), and restful thirds with large diatonic semitones (as holds
+also in 19-tet and 31-tet, and the kindred 1/3-comma and 1/4-comma
+meantone tunings).
+
+Most respectfully,
+
+Margo Schulter
+mschulter@value.net

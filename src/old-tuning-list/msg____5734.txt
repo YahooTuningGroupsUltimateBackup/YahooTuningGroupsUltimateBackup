@@ -1,0 +1,97 @@
+source file: mills2.txt
+Date: Thu, 3 Jul 1997 21:02:40 +0200
+
+Subject: Muddy waters
+
+From: Mckyyy@aol.com
+
+Hi Paul E,
+
+>Let those of us who don't understand Partch's work not accuse
+>him of muddy thinking!!!
+
+How about muddy writing?
+
+>As for priority, I seriously doubt the claim that the
+>prime-limit concept predated Partch's work; in fact, it is often
+>merely the result of misunderstanding Partch.
+
+Gosh, I thought Pythagorus started the whole thing (at least in
+the west) with his famous 3 limit.  I certainly was working with
+prime limits before I ever heard of Partch.
+
+>There are those who subscribe to a rectangular
+>matrix/ROHS/LCM/Tenney harmonic distance idea.  According to any
+>of these philosophies, 15:1 is "the same" as 5:3,...
+
+They produce patterns of the same length, but the patterns are
+quite different.  The picture frames are the same size, but the
+pictures they contain are not the same.  But you can use LCMs to
+both determine the size of the picture frame and the contents of
+the picture.
+
+Actually, the 15:1 ratio, assuming it is truly phase-locked,
+would be heard as a single tone, since it can be assumed that a
+substantial amount of the acoustical energy is in the
+fundamental.  However, if we decompose the sum of 5:3, into its
+component sine waves from the viewpoint of the 15 unit length of
+the repeated pattern, we find that it has no energy in the
+fundamental, and therefore would be heard as two distinct,
+harmonious tones.
+
+>i.e., a major seventh is just as dissonant/complex as a major
+>sixth.
+
+I must be missing something here.  I thought a major seventh was
+15:8, and a major sixth was 5:3.  The last time I checked the LCM
+of 5:3 was 15 and the LCM of 15:8 was 120.
+
+In your discussion, you talk of the consonance of intervals,
+which I presume means you are discussing only the consonance of
+diads.  How does your theory handle triads?
+
+As a programmer, I find it more comfortable to deal with these
+questions in terms of the sorting and searching of lists.  All
+these geometrical approaches seem to me to be only introducing
+unnecessary complications.  The geometry relevant to music is the
+geometry of the sound waves produced, and perhaps the geometry of
+the ear.  JI music theory is a very quantum kind of thing, and
+analyzing it in terms of lines and spaces with their infinite
+numbers of points seems to me to drag in lots of irrelevant
+information which just has to be filtered out later.
+
+Using octave equivalence, there would seem to be 1320 possible
+chords in a 12-tone scale.  Making a list of these chords and
+sorting them according to their LCMs is simple and easy on a
+computer, and gives a good starting point for a discussion of
+relative consonance.  Certainly, the list could be reordered in
+many ways, but I believe that most of these orderings would have
+a high correlation with an LCM ordering.
+
+If we want to discard octave equivalence and use instead just the
+list of all notes in a multi-octave scale, or if we want to use
+more notes per octave, the problem is still quite manageable.
+
+I don't see that picking certain diads out of a scale and
+analyzing them geometrically gives as full a picture as analyzing
+every possible triad the scale can produce.
+
+I believe it is good that there are many points of view, but if I
+am obliged to understand Partch, does that also mean you are
+obliged to understand me?
+
+Marion
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 3 Jul 1997 21:15 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04283; Thu, 3 Jul 1997 21:16:00 +0200
+Date: Thu, 3 Jul 1997 21:16:00 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04277
+Received: (qmail 20563 invoked from network); 3 Jul 1997 17:11:29 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 3 Jul 1997 17:11:29 -0000
+Message-Id: <33BBA5C5.7BB6@erols.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,22 @@
+source file: m1548.txt
+Date: Thu, 8 Oct 1998 13:58:43 -0400
+
+Subject: RE: Cancelling out beats
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Paul H. wrote,
+
+>?? I must be misunderstanding something.  If you analyze the signal
+>using a process which decomposes it linearly, such as a Fourier
+>transform, no energy is detected at the beat frequency.  What is a
+>decrease from nothing?  I think this is what Gary Morrison was talking
+>about when he said (talking about bram's beat-canceling idea):
+
+Reading this again, I note an even more important point: the ear does
+_not_ detect energy at the beat frequency; even beat rates in the
+audible range do not necessarily produce audible tones (they only can be
+said to do so if the conditions are right for difference tones: loud
+enough for the real nonlinearities of the ear to be inmportant), as
+Helmholtz observed. The beat is only a variation in the energy at an
+average frequency of the original waves.

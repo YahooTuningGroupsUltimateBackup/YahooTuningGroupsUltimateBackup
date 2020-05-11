@@ -1,0 +1,25 @@
+source file: mills2.txt
+Date: Fri, 14 Jun 1996 13:01:47 -0700
+
+Subject: biblio
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+There is a new version of the bibliography,
+ftp://ella.mills.edu/ccm/tuning/papers/bib.html
+
+Thanks to the contribution of Franck Jedrzejewski it has grown
+25% in size.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 14 Jun 1996 23:18 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA16608; Fri, 14 Jun 1996 14:18:02 -0700
+Date: Fri, 14 Jun 1996 14:18:02 -0700
+Message-Id: <Pine.SCO.3.91.960614141432.29602A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

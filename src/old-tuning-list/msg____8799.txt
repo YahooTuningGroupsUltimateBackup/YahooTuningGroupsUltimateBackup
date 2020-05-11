@@ -1,0 +1,28 @@
+source file: m1580.txt
+Date: Thu, 12 Nov 1998 15:02:12 -0600 (CST)
+
+Subject: Re: Harmonic waste
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Thu, 12 Nov 1998, Paul H. Erlich wrote:
+>> the definition of
+>> harmonic waste [is] any thirds narrower or fifths wider than just.
+> 
+> Presumably, this means major thirds, but shouldn't the criterion be
+> minor thirds? Is 2/7-comma meantone harmonically wasteful? I think the
+> criterion about thirds should be changed to "any minor thirds wider than
+> just."
+
+Well, it's defined the way it is because if you add up the total amount
+of tempering in all of the fifths, major thirds, and minor thirds (i.e.
+the consonant intervals) in any temperament, that total will be constant
+as long as no harmonic waste exists.  If we change the definition to
+Paul E.'s proposed one this is no longer true.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Do you like to gamble, Eddie?
+  -\-\-- o    Gamble money on pool games?"
+
+             NOTE: dehyphenate node to remove spamblock.          <*>

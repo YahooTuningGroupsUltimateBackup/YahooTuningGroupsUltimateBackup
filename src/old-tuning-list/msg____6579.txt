@@ -1,0 +1,88 @@
+source file: mills3.txt
+Date: Wed, 10 Dec 1997 19:06:57 +0100
+
+Subject: re:Chestnut help
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+>   Then again, best I can remember, keyboards playing with fretted strings
+>was, and still is, a comparatively unusual scenario (in the classical-music
+>tradition that is - it is of course fairly common in modern-day popular
+>music).
+
+I don't think this is necessarily true. The archlute or theorbo were common
+bass continuo instruments and thus were often paired with a harpsichord.
+
+But in regards to this question and Neil Haverstick's original question
+about Bach jamming with Weiss, let's do a brief reality check. Given what
+we know about tuning practices of the time, which did not include counting
+beats, as Ed Foote reminds us, there was undoubtedly a significant margin
+of error for any tuning, let alone some circulating temperament with no
+pure intervals other than the octave.
+
+Leaving aside the special case of the organ, these were workaday musicians
+who probably "touched up" the tuning of their harpsichords pretty much
+every day. I can tell you from experience that you're not going to spend 45
+minutes every day getting every interval at the top end of the keyboard
+exact (if indeed that were possible). The story that Bach could tune his
+harpsichord in 15 minutes is thus completely believable though still
+impressive.
+
+Now, the difference between pure and ET thirds is about 15 cents. If you
+consider that most thirds in most temperaments of the period are going to
+be compromised in the direction of ET, they are going to be frequently in
+the range of 5 to 10 cents away. In a treble register, this is within the
+margin of error of even good singers, fretless strings, and woodwinds.
+(Remember that these are not modern woodwinds, either.) The margin of error
+grows, of course, with the size of the ensemble and speed of the piece. (By
+the way, the seeming beat-spotlighting character of the long consonances in
+slow movements is mostly an illusion: performers at that time would
+improvise filler and ornaments in such occasions.)
+
+In this context, the practical differences between temperaments like some
+of Neidhardt's and Marpurg's and ET are angels dancing on the head of pin.
+
+This is not to say that temperament was not important to Bach or that he
+couldn't hear the difference, but that it is a matter of degree of
+acceptability in practical music making. If I had been present when he and
+Weiss jammed, I'm sure that, in the wonder of the music of the moment, a
+few acoustical beats here or there would probably be the last thing on my
+mind.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Pat Missin <patm@globalnet.co.uk>
+Subject:  Tuning program
+PostedDate:  10-12-97 21:45:12
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-12-97 21:43:19-10-12-97 21:43:19,10-12-97 21:43:05-10-12-97 21:43:05
+DeliveredDate:  10-12-97 21:43:05
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256569.0071D16C; Wed, 10 Dec 1997 21:45:08 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11975; Wed, 10 Dec 1997 21:45:12 +0100
+Date: Wed, 10 Dec 1997 21:45:12 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA11971
+Received: (qmail 27091 invoked from network); 10 Dec 1997 12:45:09 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Dec 1997 12:45:09 -0800
+Message-Id: <3.0.5.16.19971209224101.294f5626@mail.globalnet.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

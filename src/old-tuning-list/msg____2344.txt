@@ -1,0 +1,36 @@
+source file: mills2.txt
+Date: Tue, 28 Nov 1995 05:47:43 -0800
+
+Subject: Tuning list archives
+
+From: "J. Pusey" <pusey@remqhi.ENET.dec.com>
+
+Douglas Nunn complained last week that there was no archive for this mailing
+list. This is not true. Dave Madole posted an announcement back in September
+that archives are available via FTP and via listproc. Check out the following:
+
+ftp://ella.mills.edu/ccm/tuning/list/archive           (pre-digest archives)
+ftp://ella.mills.edu/ccm/tuning/list/archive/digests   (digest archives)
+
+Also, you can send e-mail to listproc@eartha.mills.edu with subject blank
+and "INDEX TUNING" in the body to retrieve an index of what's in the archive,
+and then send a message with "GET TUNING <filename>" in the body to retrieve
+a particular digest or pre-digest archive part.
+
+Sorry, for the belated response, but I was away from my computer all last
+week.
+
+John
+pusey@remqhi.enet.dec.com
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 28 Nov 1995 15:52 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA12107; Tue, 28 Nov 1995 05:51:57 -0800
+Date: Tue, 28 Nov 1995 05:51:57 -0800
+Message-Id: <9511281336.AA02451@us2rmc.zko.dec.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Thu, 15 May 1997 21:02:00 +0200
+
+Subject: JI modes
+
+From: "Collins, Gordon" <CollinG@f3groups3.fsd.jhuapl.edu>
+
+Greg Schiemer wrote:
+
+>What is the term Phrygian JI scale ? I presume David that you mean a mode
+>that begins on the third degree of a JI scale (I looked for confirmation
+>in Doty's primer to no avail and my past experience of the terms dorian
+>phrygian lydian is based on 12-TET where each of these modes is an octave
+>of white notes starting on D, E, F and so on). I was unaware that these
+>terms still apply in the world of JI. 
+
+Whoa!  Perhaps it's time to remind folks that Western music, at least before 
+the 20th century, is not - repeat NOT - based on 12TET!  (I'm not singling 
+out Greg here - I've seen quite a few posts recently reflecting this 
+assumption.)  It is based on the diatonic scale and the concept of tonality 
+without a great deal of concern for the particular tuning used.  When the 
+church modes were invented, the scale was tuned in Pythagorean tuning (3-
+limit JI), with only eight notes per octave: C, D, E, F, G, A, Bb, and B.  
+(Come to think of it, the Bb might be even later than that.)  Centuries 
+later, 5-limit tuning was used, to make the thirds pure (at the expense of 
+the D-A fifth, among other things) and more "fictitious" notes were accepted 
+as sharps and flats.  By the time mean-tone came into use, the church modes 
+were being replaced by hexachords and major/minor scales and there were more 
+than 12 pitches per octave in use.  Well-temperaments reduced that number to 
+12 only in the 18th century.  So the modes have almost *always* been used in 
+JI, and *never* in 12TET!
+
+Gordon Collins
+gordon_collins@jhuapl.edu
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 15 May 1997 21:45 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03173; Thu, 15 May 1997 21:45:19 +0200
+Date: Thu, 15 May 1997 21:45:19 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03171
+Received: (qmail 28778 invoked from network); 15 May 1997 19:45:15 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 May 1997 19:45:15 -0000
+Message-Id: <970515154122_-1968027284@emout11.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,57 @@
+source file: m1420.txt
+Date: Mon, 18 May 1998 19:22:47 -0400
+
+Subject: Reply to Joe Monzo
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>> I think the fact that the tritone in major nearly forms a 4:5:6:7
+>> with the dominant, and that the tritones in minor nearly form
+>> an 8:10:12:14:17 with the dominant, were not inconsequential
+>> for the development of tonal harmony.
+
+>I don't think the fact that the tritones are close to septimal
+>consonances has anything to do with the development of
+>tonal harmony.  Tonal harmony, as used during the so-called
+>"common practice" period 1600-1900, developed mainly out of
+>the fixing of pitches as absolute values (especially in notation),
+>the recognition of 5-limit ratios as consonances, and the intuitive
+>realization that because ratios have two terms, they are
+>related to other ratios in two different ways (Partch's
+>"Basic Monophonic Concept #2": "every ratio of a Monophonic
+>system is at least a dual identity"; "Genesis", p. 88), giving
+>rise to the major/ minor system.
+
+>In fact, assuming a tuning in 5-limit JI (or a meantone
+>which approximates 5-ratios well), the tritone could be one
+>of four ratios, all of which, while much less dissonant than
+>the Pythagorean tritones:
+>3^6		729/512		6.12	aug 4th
+>3^-6		1024/729	5.88	dim 5th
+>were pretty much at, if not beyond, the limit of what could
+>be considered consonant:
+>3^2 * 5^-2	36/25	6.31	dim 5th
+>3^-2 * 5^-1	64/45	6.10	dim 5th
+>3^2 * 5^1	45/32	5.90	aug 4th
+>3^-2 * 5^2	25/18	5.69	aug 4th
+
+>The 64/45 would normally be considered the tritone which appears
+>in the 5-limit Dominant 7th chord of 36:45:54:64.  4:5:6:7 is the
+>same as 36:45:54:63.
+
+This whole argument smacks of what I object to in the prime-limit
+theoreticians' approach. Harmonically speaking, an interval is never
+more likely to be interpreted as a higher-odd-limit, lower-prime-limit
+ratio than a higher-prime-limit, lower odd-limit ratio, holding the
+approximation error constant. I think the four 5-prime-limit ratios you
+listed have very little to do with the way a tritone is heard
+harmonically, even if tuned to exactly those ratios. Although I agree
+that the Pythagorean tritones, despite their low prime limit, are very
+dissonant, I don't think the JI tritones are "much" more consonant. In
+fact, they may even be more dissonant, since the Pythagoean tritones
+approximate simple 7-limit ratios better.
+
+Anyway, I maintain that the fact that the tritones reinforced the root
+of the dominant chord when combined with it harmonically helped to
+define major and minor as the "tonal modes", while other modes without
+such harmonic-melodic focus fell out of use.

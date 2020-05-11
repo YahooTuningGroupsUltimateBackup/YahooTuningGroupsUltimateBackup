@@ -1,0 +1,169 @@
+source file: mills2.txt
+Date: Thu, 1 Feb 1996 15:56:58 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: melodic modes in 19 & 17
+---
+As mentioned some months ago,
+efforts to force-fit the 19 tone
+equal tempered scale into the 
+melodic patterns familiar throughout
+Western music are doomed to 
+failure.
+This, because there's nothing like a
+semitone in the 19-tone system.
+Since 19 is a member of the third-tone
+family of scales, this is obvious.  Yet
+many notation schemes and suggested
+melodic modes depend on the mistaken
+idea that 19 has something that sounds
+or functions like a semitone.
+In actual musical practice, two 19-tone
+scale-steps do not sound anything like
+a semitone--the resulting interval,
+126.315 cents, sounds a full quarter
+of a semitone larger than the semitone
+found in 12.  Alternating this interval
+with the 3-step whole-tone in 19
+produces a queasy effect that cannot
+be described as either "major" or
+"minor"--instead, the overall impression
+is that of a 7-out-of-48-tone mode
+which sounds distinctly out of tune.
+Since major and minor melodic modes
+do not exist as such in 19, this creates
+a substantial conflict.  After all, major
+and minor *vertical* triads are easy to
+play in 19--but a major or minor melodic
+mode are not to be found.
+So what's the solution?
+The experience of the Southern California
+Microtonal Group has shown definitively
+that the concept of  major and minor
+melodic modes must be abandoned in 19.
+To avoid producing a bizarre and queasy
+out-of-joint melody, 12-tone melodic
+paradigms must be thrown overboard and new 
+forms used.
+Recently, Jeff Stayton recorded a duet
+with me in the 19-tone system.  Stayton
+used one melodic mode, while Your Humble
+E-Mail Correspondent used another.  Neither
+mode, however, had any point of contact
+whatever with 12--and as a result, the
+combination sounded entirely natural in
+19.
+My melodic mode used ascending and 
+descending subsets of the following:
+LssLssssLsL  L = 3 scale-steps in 19,
+                      s = 1 scale-step in 19
+This "super-mode" appeared as two
+different modes, one ascending, the
+other descending:
+ASCENDING:
+LssLsLLsL   (intervals shown as number
+                     of 19-tone scale-steps)
+I.e., 
+1  4  5  6  9  10 12  15  16 (20=1)
+                     (scale degrees played: numbered
+                     from 1 to 19, with 20 = 1)
+DESCENDING:
+LsLsLsLsL  (intervals shown as number
+                    of 19-tone scale-steps)
+I.e., 
+20=1  17  16  13  12  11  8  5  4   (20=1)
+                   (scale degrees played: numbered
+                     from 1 to 19, with 20 = 1)
+Variety was added by borrowing additional
+steps from the "super-mode" and adding
+them ornamentally to either the ascending
+or descending mode.
+Jeff Stayton's guitar accompaniment used
+an entirely different mode:
+(Descending)
+LsmssmsL  where L = 3 scale-steps in 19
+                             s = 1 scale-step in 19
+                             m = 2 scale-steps in 19
+I.e., 
+4  20=1  19  17  16  15 13  12  9
+		(scale degrees played: numbered
+                     from 1 to 19, with 20 = 1)
+Stayton varied his mode by substituting 2
+single scale-steps for a 2-degree "m" step:
+thus he might play
+LsssssmsL instead of LsmssmsL, for
+example.
+The combination of these two melodic modes
+worked smoothly and sounded entirely natural
+in 19.  However, they do NOT derive from any
+12-tone or Pythagorean paradigm.
+More to the point, both of these modes use
+*more* than 7 tones.  It has been my experience
+when improvising in or writing scores in 19
+that more than 7 tones are required for a 
+natural-sounding melodic mode.
+This should not come as a surprise.  In 1956,
+Miller's paper "The Magic Number Seven, Plus
+or Minus Two" pointed out that the human
+cognitive system is capable of easily 
+assimilating as few as 5 or as many as 9
+"units."  If each step of the melodic mode
+is thought of as a unit, this explains why
+9-tone modes come so naturally to 19--
+even though such modes use 2 more steps
+than the Pythagorean-based 12-tone 
+melodic modes familiar from Western music
+theory, a 9-tone mode still fits comfortably 
+the limits of the  channel capacity of the
+human sensorium.
+(By contrast, serialism's 12 notes are too
+many.)
+Thus my experience indicates that at least
+8 and usually 9 steps are needed to create a
+convincing and natural-sounding melodic
+mode in 19.
+On the other end of the perceptual scale,
+the 17-tone equal-tempered scale sounds
+best melodically when used with 5-step
+or 6-step modes:
+1  6  4  1  5  (ascending: intervals in 
+                      number of 19-tone scale-steps)
+I.e.,
+1  2  8  12  13  17  (18=1)
+or
+1  6  1  4  4  1 (ascending: intervals in number
+                         of 17-tone scale-steps)
+I.e., 1  2  8  9  13  17 (18=1) (ascending: scale 
+                      degrees played--numbered from
+                       1 to 17, with 18 = 1)
+Not all xenharmonic equal temperaments 
+require a complete rejection of 12-tone
+melodic modes.  22, 24, 27, 29, 31, 36 and so on
+all have familiar 7-note major and minor melodic
+modes.
+19, however, does not.  This startling contrast
+between the familiar-sounding major and minor
+triads available in 19 and the utterly alien-sounding
+melodic modes is one of the greatest resources
+of the 19 tone equal temperament.  Composers who
+ignore this fact do so at the peril of producing
+awkward-sounding out-of-joint music that
+gives the impression of 12 badly mistuned.
+--mclaren 
+ATDT *70, 633-4360
+ 
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 2 Feb 1996 04:20 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id TAA26453; Thu, 1 Feb 1996 19:20:00 -0800
+Date: Thu, 1 Feb 1996 19:20:00 -0800
+Message-Id: <960201221740_412518206@emout10.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

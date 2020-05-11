@@ -1,0 +1,43 @@
+source file: mills3.txt
+Date: Thu, 18 Dec 1997 16:16:42 +0100
+
+Subject: Lapsus Linguae
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+In my reference to the locrian mode, I said:
+> As an example of the other degrees, take the second degree, a diminished
+> second.
+
+This should have been a minor second, of course. Slip of the tongue.
+Sometimes I refer to a diminished minor tone, and this sometimes leads
+me to erroneously say diminished second when I mean minor second.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Steven Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+Subject:  My melodic lemon
+PostedDate:  18-12-97 16:32:13
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-12-97 16:30:13-18-12-97 16:30:14,18-12-97 16:29:50-18-12-97 16:29:51
+DeliveredDate:  18-12-97 16:29:51
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256571.005525D1; Thu, 18 Dec 1997 16:31:58 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28753; Thu, 18 Dec 1997 16:32:13 +0100
+Date: Thu, 18 Dec 1997 16:32:13 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA28749
+Received: (qmail 21758 invoked from network); 18 Dec 1997 07:32:04 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 18 Dec 1997 07:32:04 -0800
+Message-Id: <199712181531.KAA11609@doghouse.hq.nasa.gov>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

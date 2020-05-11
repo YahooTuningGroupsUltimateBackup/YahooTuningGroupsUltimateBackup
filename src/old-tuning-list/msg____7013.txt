@@ -1,0 +1,111 @@
+source file: mills3.txt
+Date: Mon, 12 Jan 1998 21:25:39 +0100
+
+Subject: RE: MIDI/Audio Wish List
+
+From: "Loffink, John" <John.Loffink@COMPAQ.com>
+
+>Patrick Ozzard-Low wrote:
+>Graham Breed wrote
+>
+>> My tuning priorities are:
+>>
+>> 1) At least 1/64 semitone steps
+>> 2) A full keyboard table
+>> 3) The ability to transpose that table differently for each channel
+>> 4) At least 0.1 cent steps
+>> 5) Multiple tables, easily swapped
+>> 6) More than one table active at a time
+>
+>Graham, do you mean 1) and 4) refer to different things? (ie., 4
+>refers to 3?) Or am being very thick?
+>[Loffink, John]  I agree.  1) and 4) seem to be at odds with one another.
+>Graham, on 3), do you need to transpose by octaves to get the full playable
+>range of more-than-12 note octaves, or do you need microtonal transpositions?
+> Most synths should already be capable of the former.
+>
+>General question: How essential is it to differentiate between
+>sampler and synth 'wish lists'?
+>[Loffink, John]  This is not necessary at all.  The limitation is the
+>software code inside each unit and the manufacturer's unwillingnesss to
+>expend the effort to implement microtuning.
+>
+>>I guess I'm confused whether you want more "Partials" to accomplish
+>>microtonal scales or better sampling.
+>
+>I want 1) more partials and 2) a way of dealing with them so that a
+>patch ('instrument') can be set up easily.  For example, suppose
+>you've got a set of 36 samples, one for each (12-ET) note of a three
+>octave range (say, of bowed violin strokes). And you want to 'build a
+>violin' in 22-ET (or something) over 3 octaves.  Imagine this: select
+>range of samples (Sample Number 0-35); select range of partials
+>(Keygroups)  0-65 (3 octaves in 22-ET); select source tuning type
+>(12-ET); select destination tuning type (22-ET); select preferred
+>deviation (ie., whether sampler chooses nearest sample to map from
+>above or below desired destination frequency range - preferably from
+>above, so destination is not 'mickey mouse' );   press GO.  Sampler
+>creates 66 partials, maps samples 0-35 to said 66 partials, and
+>retunes accordingly.  Impossible?
+>
+>[Loffink, John]  You want to map 12TET sample sets to nTET sample sets.  Of
+>course what you suggest is not impossible.  My point is that it is not
+>necessary to do this by using more "Partials" (I hate Roland's usage of that
+>term, which is why I always put it in quotes) or zones if the instrument
+>supports microtuning tables.  The microtuning table, if implemented properly,
+>will do the mapping for you, automatically, without all the recompilation and
+>excessive memory usage.  Granted, you will not have precise control at a less
+>than semitone level of how the samples are mapped, but is this really
+>necessary?  You will get "mickey mouse" effects no matter where your base
+>sample was recorded at, this is the effect of shifting the formant (fixed
+>resonant) frequencies of the sample.
+>
+>Increasing the number of "Partials" will not solve your problem, because
+>you'll have a new one -- the sampler's internal RAM will not have enough
+>storage to handle the increase.  Program parameters are most likely to be
+>stored in 64K to 512K local RAM inside the unit, not your 32M to 128M sample
+>RAM.  If you now ask manufacturers to increase the local RAM just for
+>microtonal support, I can tell you that none of them will do it because that
+>increases the price of the hardware.
+>
+>I'm sorry if this is getting too technical again, but you can't really
+>understand the ramifications of your requests without a little understanding
+>on how today's synthesizers and samplers work.  My points are 1) for
+>microtonal scales to be implemented in mass produced instruments it must be
+>economically realistic for the manufacturers to do so, and 2) for microtonal
+>scales to be used by non-specialists it must be as easy as possible for them
+>to be changed.  You can't accomplish either of these by defining microtonal
+>scales at the "Partial" or zone level.
+>
+John Loffink
+john.loffink@compaq.com
+>
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Aline Surman <stick@dnvr.uswest.net>
+Subject:  b5th ratios
+PostedDate:  12-01-98 21:33:55
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-01-98 21:34:20-12-01-98 21:34:21,12-01-98 21:34:10-12-01-98 21:34:10
+DeliveredDate:  12-01-98 21:34:10
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658A.0071009F; Mon, 12 Jan 1998 21:34:46 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18058; Mon, 12 Jan 1998 21:34:56 +0100
+Received: from yalta.NL.net by ns (smtpxd); id XA18021
+Received: from ella.mills.edu ([144.91.3.20]:14418 "HELO ella.mills.edu" ident: "TIMEDOUT") by 
+yalta.NL.net with SMTP id <5147-2135>; Mon, 12 Jan 1998 21:33:55 +0100
+Received: (qmail 22708 invoked from network); 12 Jan 1998 12:32:02 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Jan 1998 12:32:02 -0800
+Message-Id: <34BA85A5.74B9@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

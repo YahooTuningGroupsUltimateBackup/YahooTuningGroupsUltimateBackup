@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Thu, 16 Jan 1997 22:22:37 -0800
+
+Subject: Reply to Pat Missin
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+Paul wrote:
+
+''It is these sorts of experiments that lead me to quarrel with Daniel Wolf
+
+about his use of sine waves, which would invariably lead to the 10:12:15:17
+
+solution, and never to the subharmonic one.''
+
+This is a poor comparison (10 : 12 : 15 : 17) against ( /6 : /5 : /4 :
+2/7). The first wins whether with sine waves or with strings. Try these
+inversions instead: (17/2 : 10 : 12 : 15 ) against  ( /7 : /6 : /5 : /4 ).
+My own preference (and that of my three-and-a-half year old son who has
+heard more gamelan pelog than any other live music) in this second set
+whether with sine waves or more complex timbres is always for the
+subharmonic version. I thinkl that the inversion chosen plays a large role
+in the harmonic-subharmonic distinction. The 10:12:15:17 ''locks in'' to
+it's tuning through the doubled difference tone (5). 
+
+And need I repeat for the nth time, that I chose sine waves for my spacing
+work to avoid the whole issue of masking tones whose spectra shared too
+many partials, thus obscuring which tones were fundamentals.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Jan 1997 12:13 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09221; Mon, 20 Jan 1997 06:38:54 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09184
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id VAA12287; Sun, 19 Jan 1997 21:38:50 -0800
+Date: Sun, 19 Jan 1997 21:38:50 -0800
+Message-Id: <32E293AE.1A22@sprynet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Thu, 19 Sep 1996 11:18:53 -0700
+
+Subject: RE: Consistency generalized
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Paul H.,
+
+	    I believe your original definition leads to consistency for level 
+N>1.5. For 1<N<1.5, there is no guarantee that the approximating intervals 
+will be consistent with one another.
+
+	    I don't think the concept of consistency has much to do with whether a 
+particular JI interval is approximated well enough to be used as a harmonic 
+consonance. The absolute accuracy of the approximation is the determining 
+factor, not the accuracy relative to the size of the smallest steps in the 
+tuning. For example, the 12-tET major third sounds like a 5/4 even if 12-tET 
+is considered a subset of 72-tET, where the interval is off by an entire 
+step. I have derived an algorithm for determining the certainty with which 
+an arbitrary interval is perceived as one or another JI intervals, based on 
+J. L. Goldstein's 1973 paper, "An optimum processor theory for the central 
+formation of the pitch of complex tones." Manual Op de Coul has ingeniously 
+integrated this algorithm into Scala, under the Farey command. I leave it to 
+him to provide instructions. Using this algorithm, we find that for any 
+listener across the entire gamut of frequency resolution the most prominent 
+interpretation of the a 7-tET "third" will be 11/9, and the most prominent 
+interpretation 7-tET "tenth" will be as 17/7. Listeners at one extreme of 
+the gamut will perceive the 7-tET "sixth" as 5/3, but those at the other 
+extreme will hear it as 18/11. Thus the typically considered "imperfect 
+consonances" in triadic harmony are not well represented in 7-tET.
+
+	    What consistency offers is a supplement to considerations of how good 
+the approximations to JI are. Essentially, composing with a consistent 
+tuning will be no more difficult than composing in JI, while in inconsistent 
+tunings, complications may arise if one attempts to always use the best 
+approximations to JI intervals.
+
+ - Paul E.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Sep 1996 21:15 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09749; Thu, 19 Sep 1996 21:16:57 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA30269
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA07606; Thu, 19 Sep 1996 12:16:50 -0700
+Date: Thu, 19 Sep 1996 12:16:50 -0700
+Message-Id: <v01510105ae674b5036b2@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

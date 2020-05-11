@@ -1,0 +1,75 @@
+source file: mills2.txt
+Date: Tue, 4 Mar 1997 08:21:30 -0800
+
+Subject: Re: Schenker and tuning
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Daniel Wolf wrote:
+ 
+> Schenker himself wrote precious little that was useful about 
+> intonation and - a contemporary of Schoenberg and Hauer - was active 
+> in a Vienna that was solidly committed to equal temperament (listen to 
+> any recording by Kolisch).
+
+All that I've ever noticed of substance on intonation are the comments 
+in Harmony (1906), where Schenker takes a Zarlinoesque approach, 
+filtered through the harmonic series. He says that art must place 
+restrictions on what nature offers, and so only the first six harmonics 
+contribute to tonality -- whatever the vagaries of his explanation, his 
+conception of at least the major scale seems to be firmly 5-limit. He 
+criticises Riemann (as usual) for his utonal-type explanation of the 
+minor -- he seems unconvinced primarily because such an explanation 
+lacks an acoustical basis (this shows, as we might expect, that a purely 
+mathematical explanation is not acceptable to him). He notes that the 
+first minor triad available in the harmonic series is 10:12:15, and that 
+the root is thus not identical with the fundamental. But he never quite  
+settles on an explanation -- thus Daniel's phrase "a clouded major" 
+seems quite fair (the tierce de Picardie also lurks in the shadows). 
+
+As a further restriction upon natural resources, Schenker then says that 
+art represents this essentially 5-limit system by the simpler 12TET. I'm 
+not at all sure that this move is available to Schenker, but it 
+undoubtedly places him within the decidedly pro-12TET Viennese milieu 
+that Daniel mentions. 
+
+> What would be very interesting would be to take one of Schenker's 
+> graphic analyses and to construct a tuning for the piece based up 
+> projecting the simplest rational interpretations at each stage of 
+> prolongation and elaboration.
+
+I've done some work on this. For example, two works of Beethoven would 
+seem to defeat a 5-limit explanation even of the Background:
+
+1. the funeral march of the Ab Sonata, op.26, which ends up a great 
+diesis away from its tonic (repeating this in the reprise), i.e. 
+(6/5)^4.
+
+2. the song "In questa Tomba oscura", which ends up a lesser diesis away 
+from its tonic, i.e. (5/4)^3
+
+One other point of interest: in connection with the F major Prelude of 
+Chopin's op.28, Schenker tentatively explains the Eb in the final chord 
+as Chopin's "visionary" inclusion of the 7th harmonic (since the chord 
+doesn't function as a dissonance to be resolved). Jonas, in his 
+footnote, enthusiastically reinforces this explanation.
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 4 Mar 1997 17:40 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05863; Tue, 4 Mar 1997 17:40:09 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA25844
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id IAA24666; Tue, 4 Mar 1997 08:38:08 -0800
+Date: Tue, 4 Mar 1997 08:38:08 -0800
+Message-Id: <009B0C4B08C26C60.6048@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

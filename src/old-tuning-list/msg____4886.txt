@@ -1,0 +1,113 @@
+source file: mills2.txt
+Date: Tue, 25 Feb 1997 15:22:27 -0800
+
+Subject: Tonality Diamond
+
+From: Lydia Ayers <layers@cs.ust.hk>
+
+I tried this a few weeks ago, but it vanished into cyberspace, so
+here we go again:
+
+>From: prent@VNET.IBM.COM
+
+>I have been unable to locate a copy of Genesis of a Music by
+>Partch. I cannot remember what Partch's Tonality Diamond looked
+>like. As I remember, it had otonality along one axis, lower left to
+>upper right, and utonality accross the other, upper left to lower
+>right as follows:
+>
+>                          11: 8
+>
+>                      9: 8   11: 6
+>
+>                 7: 4    3: 2   11:10
+>
+>            5: 4    7: 6    9: 5   11: 7
+>
+>       3: 2    5: 3    7: 5    9: 7   11: 9
+>
+>  1: 1    1: 1    1: 1    1: 1    1: 1    1:1
+>
+>       4: 3    6: 5   10: 7   14: 9   18:11
+>
+>            8: 5   12: 7   10: 9   14:11
+>
+>                 8: 7    4: 3   20:11
+>
+>                     16: 9   12:11
+>
+>                          16:11
+
+
+>Then from John Chalmers:
+
+>Prent:  Harry usually rotated the Diamond on its side so that the
+>1/1 (2/1) column ascended, and he indicated when the tower of intervals
+>surpassed the 2/1, but your plot is basically correct.
+
+Here are the actual diamonds from Genesis of a Music.
+Partch's Expanded Tonality Diamond (Genesis p. 159) is a little 
+different from the one above, it's like this:
+
+                          7: 7
+
+                     12: 7   7: 6
+
+                 11: 7    3: 3   14:11
+
+            10: 7   11: 6   12:11    7: 5
+
+       9: 7    5: 3     11:11    6: 5   14: 9
+
+  8: 7     3: 2     20:11   11:10    4: 3    7:4
+
+       4: 3     18:11    5: 5   11: 9   3: 2
+
+            16:11    9: 5   10: 9   11: 8
+
+                 8: 5    9: 9    5: 4
+
+                     16: 9    9: 8
+
+                         1: 1
+
+But the Tonality Diamond is not the version he used for his Diamond Marimba 
+(Genesis p. 261), which is:
+
+                          11: 8
+
+                      9: 8   11:10
+
+                 7: 4    9: 5   11:6
+
+            3: 2    7: 5    3: 2   11: 7
+
+       5: 4    6: 5    7: 7    9: 7   11: 9
+
+  1: 1    5: 5    3: 3    7: 7    9: 9    11:11
+
+       8: 5    5: 3   12: 7   14: 9   18:11
+
+            4: 3   10: 7    4: 3   14:11
+
+                 8: 7    10: 9   12:11
+
+                     16: 9   20:11
+
+                          16:11
+
+
+Lydia Ayers
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 26 Feb 1997 00:33 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21450; Wed, 26 Feb 1997 00:33:44 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA21455
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id PAA11093; Tue, 25 Feb 1997 15:31:56 -0800
+Date: Tue, 25 Feb 1997 15:31:56 -0800
+Message-Id: <199702252331.HAA00539@csnt1.cs.ust.hk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

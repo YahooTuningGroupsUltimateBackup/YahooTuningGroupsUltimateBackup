@@ -1,0 +1,70 @@
+source file: mills2.txt
+Date: Fri, 1 Mar 1996 06:00:15 -0800
+
+Subject: Pythagorean scales
+
+From: Kami Rousseau <kami@login.net>
+
+>What I had in mind was the potentiality of using the circle of 7:4s instead
+of 3:2s. 
+
+I invented a formula that will help you a lot (I someone else know this
+trick, email me so I stop claiming I invented it, but I am pretty sure that
+I am the first one to use it). Here goes:
+
+{ (x,y) E N* | x>y} ---> x= 1, 2, 3... ; y= 2, 3, ...
+n E Z               ---> n= ..., -2, -1, 0, 1, 2, ...
+
+1 <= (x^n)/(y^p) < y
+where p= | n*log(x) / log(y) |
+
+| | means interger part of a number.
+
+So, for your question, x=7, y=2
+
+Say you want to find the 5th interval of the "7/4 stack" serie, to build a
+Pythagorean scale.
+
+n=5, p= | 5*log(7) / log(2) |
+p= | 14.036...|
+p= 14
+
+7^5 / 2^14 = 1.0258...
+
+
+
+n=45, p= | 45*log(7) / log(2) |
+p= | 126.33 |
+p= 126
+
+7^45 / 2^126 = 1.2579...
+
+It works, the final number will always be smaller than y (2 in our exemple,
+so we needn't worry about normalizing intervals to a 2/1)
+
+If anyone would like to have the demonstration for this theorem, email me.
+
+Here are some arbitrary values:
+The human can ear from 20 30 000 Hz, 
+The smallest interval one can perceive is 2 cents,
+The maximum number of beatings per second is 20, because 20 Hz is the lower
+limit of audition.
+We cannot hear beats that are further than 16 seconds apart (because the
+slowest tempo is 30 and the longest note is the square (2 whole notes))
+
+I anyone disagrees with these values, email me.
+But if everyone agrees, then these values become the list's standard.
+
+Bye.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 1 Mar 1996 16:11 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA02817; Fri, 1 Mar 1996 07:11:13 -0800
+Date: Fri, 1 Mar 1996 07:11:13 -0800
+Message-Id: <960301100832_157370998@mail02.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

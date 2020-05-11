@@ -1,0 +1,62 @@
+source file: mills3.txt
+Date: Sun, 27 Jul 1997 05:21:22 +0200
+
+Subject: Expressive Intonation
+
+From: Adam Silverman <adam.silverman@yale.edu>
+
+(Brian Carlson):
+> Several months ago there was some mention of expressive intonation.  I
+> didn't quite understand what that meant, but I believe there was an
+> example that one could play a C# in some cases that was actually at a
+> lower frequency than a natural C. Maybe I'm not remembering correctly,
+> but can anyone out there explain the concept of expressive intonation in
+> greater detail?
+
+The idea of "expressive intonation" arises from the use of strict
+microtonalism which often becomes so specific that the performer has no
+room for interpretation by means of pitch shifting, vibrato, portamento,
+etc.  When the composer specifies exactly which pitch s/he wants from a
+gamut of 31 or 1200 or more steps-per-octave, musicality often gets thrown
+out of the window.  Expressive intonation is not a system, but just an
+issue that may be addressed by a vague-ness in the notation, a program
+note, or other ways that best suit your music.  I assume that most
+people who work with equal temperaments will want to limit this as much
+as possible, (which still allows for expressiveness in articulation,
+rhythm, dynamics, etc.).  In my music, I have been working on finding good
+ways to use Extended Just Intonation as a goal, while giving the performer
+a chance to show their musicality.  This is much the same as standard
+tonal music performance-practice, except that it accepts higher
+overtone-relationships as consonances.
+
+Adam B. Silverman
+abs22@pantheon.yale.edu
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk
+Subject:  Blueprint for World Domination
+PostedDate:  27-07-97 11:40:01
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  27-07-97 11:40:03-27-07-97 11:40:04,27-07-97 11:39:05-27-07-97 11:39:06
+DeliveredDate:  27-07-97 11:39:06
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564E1.003517C2; Sun, 27 Jul 1997 11:39:54 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA20753; Sun, 27 Jul 1997 11:40:01 +0200
+Date: Sun, 27 Jul 1997 11:40:01 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA20759
+Received: (qmail 2970 invoked from network); 27 Jul 1997 09:39:52 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 27 Jul 1997 09:39:52 -0000
+Message-Id: <memo.835564@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

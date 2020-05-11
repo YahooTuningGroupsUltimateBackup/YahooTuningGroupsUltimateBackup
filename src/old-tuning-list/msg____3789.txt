@@ -1,0 +1,61 @@
+source file: mills2.txt
+Date: Sat, 19 Oct 1996 13:34:10 -0700
+
+Subject: Re: Answers to Chris Palmer
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> First, do any of you have any ideas on how to notate scales that divide 
+> the octave into more or less than 12 steps?  The standard 5-line system 
+> doesn't really do it for me.  
+
+   Many tunings can function quite well for traditional musical frameworks, and
+as such traditional notation is a reasonable possibility.  The traditional
+notation of these tunings still allows you to convey many of their
+nontraditional effects too.  Tunings of this sort include 19TET (TET="Tone Equal
+Temperament"), 17TET, most meantone- and well-temperaments, and some of the more
+traditional Just tunings (with adaptions to show changes of tuning reference).
+Examples of tunings that aren't generally amenable to traditional notation are
+10TET, 15TET, 16TET, 22TET, 24TET, 31TET, and most nonoctave tunings, although
+24 and 31 require only the addition of quarter-accidentals.  
+
+
+
+> Second, being new to this tuning thing, are there any books that will 
+> explain the concepts?  
+
+   Libraries worth!  Neil Haverstick just announced that he has completed his
+street-wise musicians' guide to 19TET.  A number of people have said that they
+like my EPS Xenharmonic Scales Disk documentation as a general introduction.
+But most of the commercially-available books out there concentrate on one or two
+types of tunings.  Fewer are truly general in nature.  
+
+   But that is certainly not to suggest for a moment that they're not valuable
+books.  David Doty's Just Intonation Primer, for example, is said to be one of
+the most definitive and easy-to-understand books on JI.  (I personally haven't
+had a chance to read it, but have heard nothing but good reports about it.)
+Bill Sethares is probably about 3/4 of the way done with what I strongly suspect
+will become one of the great landmark books in the field, exploring the
+interactions of tuning and timbre - why certain tunings sound good and bad in
+certain instrumental timbres, and the reverse.  (I'm helping review the
+manuscript for him, so this one I can vouch for from first-hand experience!)
+
+   And then there are the venerable old books:  Partch's Genesis of a Music,
+Rameau's Treatises, James Tenney's and Barbour's books, for example.  And, down
+in the nuts and bolts, there are lots of books and magazine articles on
+Psychoacoustics.  Brian McLaren has read a lot of them, and can probably make
+some suggestions if you're interested in them.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 20 Oct 1996 01:55 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03804; Sun, 20 Oct 1996 01:57:18 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA03802
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA27720; Sat, 19 Oct 1996 16:57:16 -0700
+Date: Sat, 19 Oct 1996 16:57:16 -0700
+Message-Id: <199610192356.QAA12125@netcom16.netcom.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

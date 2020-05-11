@@ -1,0 +1,62 @@
+source file: mills3.txt
+Date: Mon, 2 Feb 1998 23:42:16 +0100
+
+Subject: Defining pitch bend resolution
+
+From: wcooper@socrates.berkeley.edu
+
+Does anyone know of an authoritative definition of pitch bend
+resolution?  I used to think it was obvious.  I used to think that if
+a sound module had a pitch bend resolution of, say, 8 bits, that meant
+that whenever it received a 14-bit pitch bend signal it used only the
+leading 8 bits and ignored the remaining 6.  But then I did some
+experimentation and discovered that this is far from the case.
+
+     The experiment is straightforward and anybody can repeat it.  I
+tested a couple of synths with similar results, but I'll describe here
+only the results obtained with a lowly Roland Sound Canvas.  First I
+created a little program (in Max) to make it easy to transmit one at a
+time a series of 14-bit pitch bend signals increasing by increments of
+one.  By repeatedly clicking the mouse I could send, say, the series
+8192, 8193, 8194, . . . from the computer to the sound module.  Next I
+set the Sound Canvas' pitch bend range to its maximum value of +/- 24
+semitones.  Then I started a note playing in a sawtooth wave timbre,
+chosen because it has lots of overtones.  By listening intently for
+subtle overtone changes as I clicked away with the mouse, I could tell
+when the shifts in pitch were taking place.  Why a minute change in
+pitch should cause a discernable change in the overtone spectrum I
+don't know, but it does.
+
+     The pitch changes came frequently, about every 4 or 5 mouse
+clicks.  To distinguish among that many different pitches, the Sound
+Canvas must be extracting something over eleven bits of information
+from the pitch bend numbers.  Not bad, I thought, for a unit that is
+considered the MacDonald's hamburger of the synthesizer world.
+
+     But wait.  The pitch changes occurred sometimes on an even
+number, sometimes on an odd.  This was a surprise.  There is no way of
+explaining it unless the sound module was somehow taking into account
+even the very lowest-order bit of the pitch bend signal.  The usual
+concept of pitch bend resolution, based on how many lower-order bits
+are ignored, went out the window.  Even a Sound Canvas looks at all 14
+bits!
+
+     I repeated the experiment for other pitch bend ranges.  The
+narrower the range, the more mouse clicks it took to get from one
+pitch change to the next.  Pitch bend ranges that are powers of two
+are special.  They produce uniformly spaced pitch changes.  For
+example, for a range of +/- 16 semitones the pitch changes came
+regularly at every 8th mouse click.  Here is a summary of how far
+apart the pitch changes occurred in response to various range settings
+that are powers of 2.  The theoretically implied number of high-order
+bits needed is also given:
+
+   ---------------------------------------------------
+                    PB increments       Theoretical
+    PB Range        between changes     bits required
+   ===================================================
+   +/-  1 semis    128                  7  bits
+   +/-  2   "       64                  8   "
+   +/-  4   "       32                  9   "
+   +/-  8   "       16                 10   "
+   +/- 16   "        8                 11   "

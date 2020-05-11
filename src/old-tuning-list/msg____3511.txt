@@ -1,0 +1,200 @@
+source file: mills2.txt
+Date: Sun, 1 Sep 1996 19:36:47 -0700
+
+Subject: Post from Brian
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject:  writeable CD-R drives
+--
+There's been much enthusiasm of late about
+writeable CD-R discs, CD-ROM-writing drives,
+and the prospects of releasing your own 
+microtonal music on your very own CDs
+burned on your very own home computer.
+This would be wonderful, if the technology were
+ready for prime time.
+It isn't.
+"The problem with the writeable CD technology
+is that you have to make an `image' to be written
+to the disk.  (..) If you want to back up 650 MB, you
+want to have another 650 MB on your hard disk
+empty to store the image, which is then 
+transferred to the CD-R (..) You get *one shot
+at writing to the disk* from beginning to end.
+You can do multiple sessions, but that's a *real
+hassle too.* The point is that once the CD-ROM
+starts to `burn' you can't stop it.  If there's a
+glitch, brownout, operating system hiccup,
+horribly fragmented file, or any number of
+things, then the CD doesn't get burned, and you
+end up with a *blown session.*  These are
+common, and *the result is a totally useless
+disk* that must be discarded. It takes
+a couple of hours to prepare your files to be 
+burned into the disk.  If something changes,
+you have to start over.  And if your hard disk
+isn't fast enough, you can't even burn the
+disk at all.
+"One vendor told me that the quad-speed CD-
+ROM writers *were kept off the market* 
+because the system requirements were
+outrageous, and tolerances for error was
+nil.  I recommend people buy a cheap Tahiti
+optical drive and use it for backup and 
+archiving instead--at least until a new
+technology arrives called *packet writing.*
+Packet writing is now being standardized,
+and it will allow a CD-R to act a little more 
+like a normal optical drive insofar as 
+using for backup is concerned.  I'm told
+that many of the CD-R units on the market
+will be upgradble to packet writing
+technologyw ith a BIOS revision.  Make sure
+to check before you buy a CD-R.  Until 
+packet writing comes along, these devices
+are *close to being useless for the average
+user.*"  [Dvorak, John C., "Inside Track,"
+in PC Magazine, March 26, 1996, pg. 91]
+The test reported on this forum in which
+a 15-minute audio file was written to
+CD-R is, alas, meaningless.  The acid test:
+how often does the drive and disc combo
+produce a bad burn when a full 680 megs
+of audio data are written non-stop to
+CD-R disk?
+Reports suggest that the error rate right
+now is around 60%, depending on the brand
+of CD-R disc.  That is, 6 out of 10 discs
+produce a bad burn and a blown disc which
+must be discarded. Worse still, my gearhead
+friends inform me that the writeable CD
+technology is so flaky that to get good
+results, people who burn their own CD
+ROMs must check the grapevine to see
+which brand name of writeable CD-R 
+disc has a bad error rate this month,
+and which manufacturer came out with
+a good batch.  One month TDK writeable
+CD-R discs produced near-100% bad burns,
+the next month it was Mitsui, the next
+month Sony... And it changes from one
+month to the next.  You get the idea.
+Worse still, many CD-R writeable drives
+will burn discs that other brands of
+CD-ROM read-only drives cannot read.
+Let's take some detailed examples,
+from "The Great American Burnout,"
+Multimedia World, July 1996, pp. 58-
+66, in which 20 different CD-R burner
+drives were compared:
+"JVC's Personal Archiver 2X for
+Windows 3.x and Windows 95 eliminates
+compatibility issues; but it limits you
+to burning discs on JVC recorders..."
+"On the HP SureStore 4020i, none of
+the included software would run our
+write tests..."
+"[On the Microboards PlayWrite 4000]
+premastering packages can record Red
+Book audio tracks, but they lack
+audio-editing features, and [the
+Microboards']  Red Roaster's ability to
+set up subchannel codes for subindices
+and program pauses...]
+"[MicroNet Master CD Plus] the 512K
+buffer can be a problem with slower 486 
+systems...]
+"Though it supports all modes of writing,
+the drive failed the CD Extra test. According
+to Olympus, the PC versions of Gear don't
+handle the [Olympus Deltis CD-R2] properly,
+causing the failure..."
+"[On the Pioneer DW-S114X] we created CD
+Extra discs without a problem; but the read
+tests failed, with bad sector errors.  This
+recorder requires CD-R media to be in pristine
+condition..."
+"We couldn't get [the Smart & Friendly CD-R
+1002] to burn a CD-DA + XA two-session disc.  
+Our attempts to add a session after recording
+a session with audio tracks resulted in a
+cryptic `Toolkit or virtual CD error' from
+Easy-CD Pro.  Since we were able to add data
+on the very same CD-R disc using the same
+software but another recorder, the Sony
+mechanism appears to have been the culprit..."
+"Easy-CD Pro returned a cryptic `Toolkit
+Error: 136' and Gear's manual stated that
+the [Sony Spressa 9221] doesn't support
+CD Extra..."
+"While the write performance is excellent,
+the [Yamha CDR100] cannot effectively
+double as a reader, because of slow
+access times..."
+The Philips CDD 2000 got the highest marks
+from Multimedia World magazine--which,
+compared with the dismal results from the
+other drives, means that the Philips CDD 
+2000 might actually *work*--some of the time.
+Now let's deal with some anecdotal evidence:
+Gary Morrison and I paid for a CD-R audio
+disc as the pre-master of our CD release,
+"Detwelvulate!" containing 74 minutes of
+Ivor Darreg's microtonal music.
+I tried to play the CD-R master last week.
+It's now unplayable, some 18 months after
+it was burned.
+Despite all the nonsense about the photoreactive
+dye lasting 10 years, 20 years, 500 years,
+or what-have-you, the brutal reality is that
+CD-R discs don't last very long.  A year,
+maximum.  Probably less.
+The problems afflicting CD-Rs, once written,
+are legion:
+[1] Fingerprints are permanent.  They cannot
+be burnished off.  Try to do so, and you'll
+destroy the CD-R because you'll smudge the
+photoreactive dye.
+[2] The photoreactive dye is laid down in a
+single continuous spiral track 1/10 the width
+of a human hair.  As the disc endures thermal
+stress in winter and summer, the single 
+continuous spiral track distorts and finally
+becomes unreadable.
+[3] If the spiral dye channel is even 
+microsopically off-center, the CD-ROM
+drive will accumulate so many errors as
+the drive head runs from the inside toward
+the outside fo the CD-R disc that the disc
+will be unreadable.
+Thus, unfortunately, the writeable CD
+technology is not ready for prime time.
+I researched the technology 6 months ago:
+it was dismal.  Packet-writing drives are
+now beginning to become available, but
+it doesn't seem to have helped the abysmal
+error rate of the CD-R media, nor has it
+helped lengthen the ridiculously short life
+span of dye-based CD-R discs once burned.
+Those of you who are contemplating buying
+a CD-R writeable drive to burn your own
+microtonal audio CDs would do well to 
+wait another 3-5 years.  Perhaps the technology 
+will have been debugged by then.
+--mclaren
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 2 Sep 1996 20:53 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06941; Mon, 2 Sep 1996 20:54:07 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA14925
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA07506; Mon, 2 Sep 1996 11:18:25 -0700
+Date: Mon, 2 Sep 1996 11:18:25 -0700
+Message-Id: <960902181107_71670.2576_HHB36-4@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

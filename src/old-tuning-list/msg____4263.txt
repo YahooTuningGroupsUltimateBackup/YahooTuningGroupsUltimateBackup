@@ -1,0 +1,141 @@
+source file: mills2.txt
+Date: Thu, 5 Dec 1996 10:14:42 -0800
+
+Subject: How I stumbled into non12TET (a confession)
+
+From: gtaylor@heurikon.com (One Cointreau, on ice....)
+
+I read with some interest the recent note from my demi-neighbor
+Miekal And about the extent to which what's posted here seems a
+bit removed from the way that he does business. Of course, one
+might simply point out that I'm probably one of the worst of those
+folks, dwelling as I'm wont to do on matters of theory and that sort
+of thing. Moreover, Neil Haverstick's exhortations for us to just get
+down to business and Find Da Gruv seems somewhat in the same vein -
+calls for spending time on Praxis as well as Theory. I applaud this
+new direction, and think it's worth pursuing.
+
+Since I cannot possibly shake my non12TET tail feathers with anything
+like the skill of Doctah Neil, I'll do my part by coming clean in another
+way - recounting the sordid tale of my flight from 12TET. Said story
+reveals much about my decided *lack* of mathematical or theoretical
+savvy, but demonstrates that all I was ever trying to do was to make
+some noise I liked. I hope you find it entertaining and instructive and
+encouraging.
+
+We start with me at Cornell while my beloved was finishing her
+Ph.D. I'm learning to play central Javanese gamelan and having a
+wonderful time. So I think, "How come I don't try doing this on one
+of my synths?" Luckily, I'm at a school full of engineers, and on
+an Internet full of bright folks. Some of my acquaintance decide that
+it might be innerstin' to figure out how a DX7 assigns pitches on a
+keyboard (imagine my good fortune. This is '82, '83, and all there
+is is the DX7), and they do it. "Okay Greg - give us a scale and we'll
+burn you a new keyboard PROM." Suddenly, your dense narrator has
+access to a tunable keyboard. Part one is pure serendipity.
+
+It was Carter Scholz (to whom I raise my foaming glass and utter
+words of praise. I owe ya, Carter) who first introduced me to Daniel
+Schmidt's Just Intonational variants of Javanese tunings back when
+an acquaintance was helping me to reverse-engineer stuff. I'd initially
+started by using the tunings from the gamelan I perform with at Cornell
+and some stuff from Colin MacPhee, but ran into the same problem
+that sent Bill Sethares on his grand quest - lots of my hard-won
+programming of timbres sounded like complete nonsense with the new
+tunings. Since what Carter had shown me stuck close to the overtone
+series, I figured things would be a bit easier. Besides, I liked how "sweet"
+his slendro scale was.
+
+The original ROM I burned simply put the Pelog scale on the white
+keys (from F-F) and the Slendro scale on Black (F#-F#).
+
+It worked great, and let me get around monkeying around with ratios and stuff
+and just *play.* So I guess I confess to not being much of a theorist.
+
+The final bit of it happened on a train. When my beloved got a Fulbright
+and we moved to the Netherlands in 1989-90, I became a Sonologist, and
+wound up riding the   train between Utrecht and Den Haag nearly every
+day. One of the books I'd taken along to work my way through was "Karawitan:
+Source Readings in Javanese Gamelan." I thought then that it was about
+time that I tried to get a sense of the way that the Javanese thought  of their
+own traditions (besides - a bunch of my teachers had translations and
+articles in the book). One of the interesting ideas that I kept circling
+around in the book was the notion of how one "transposes" between
+various Javanese pathet, and I found myself thinking about the extent
+to which it might be possible to look at making a kind of transpositional
+version of my scale. So, I did the stupidest and simplest thing; I got out
+my notebook on the train and took the Slendro scale from Dan Schmidt's
+Just Intonational variant and figured the frequencies by using each of the
+other pitches besides 1/1 as the first note for the series of ratios. It wasn't
+pretty - with some "tempering", you can produce something that seems
+to work rather well to the ear. But that's another story. Since I'm nearly
+innumerate and exceedingly stupid, that took me pretty much the whole
+way from Gouda and Woerden back home.
+
+But the next afternoon, I tried the same thing with the Pelog scale, and
+found something that worked beautifully. When I took Dan's Pelog
+
+1/1 - 11/10 - 6/5 - 7/5 - 3/2 - 8/5 - 9/5
+
+and cranked out a new set of pitches using the same ratios starting on the
+3/2, all kinds of stuff started to drop out (that is, I wound up with
+frequencies that were octaves of the 7 tones I already had). I've still got
+the piece of graph paper from that train ride somewhere, full of places
+where I scratched out the doubled notes. I wound up with (drum roll)
+12 NOTES which gave me two Schmidt Pelog scales a perfect fifth apart.
+"Oh, cool," I thought. I got off the train, ran home, fired up JICalc on
+my Mac Plus, and typed in the new scale (from F=600)
+
+600-630-660-675-720-810-840-900-945-960-990-1080
+
+(I'll let y'all do that on your own)
+
+And all kinds of cool stuff started dropping out once I started stepping
+through the intervals on transpose. The thing that made me happiest was
+that I'd managed to get a Schmidt *Slendro* scale outta putting the two
+Pelogs together - two of 'em, actually. It's the scale that's been on my
+keyboards since that very day, and the one I've pretty much exclusively
+for my own pleasure. The genesis of the thing was impossibly mundane
+and dumb, but it gave me what at the time seemed a kewl set of options.
+After that, I started making music and pretty much forgot about it.
+
+I include this little tale to encourage those of you who may be flummoxed
+by the squad of witty and numerate folks here. Not all of us are quite
+that bright or sufficiently prescient that we can see where we're going.
+I'm certainly not one of those people - I was just some dork on a Dutch
+train with a copy of Partch and some Javanese source readings and graph
+paper. No revolution, no agenda. I just wanted to mess about with the
+Javanese music I studied and loved (and wasn't gifted with the intelligence
+that allowed Bill Sethares to discover a whole bunch of neat stuff in the
+course of wondering about how to come up with good timbres for *his*
+stuff). I confess here before the assembled masses just *how* I wound
+up with my silly little "personal" scale that's brought me so much
+pleasure. So take heart - I'll bet that I'm not the only person who
+fell into all this while whacking about in the brush searching for
+something else.
+
+And now, back to the theoretical scrimmaging already in progress.
+
+With regards,
+Gregory
+
+_
+I would go to her, lay it all out, unedited. The plot was a simple one,
+paraphrasable by the most ingenuous of nets. The life we lead is our only
+maybe. The tale we tell is the must that we make by living it. [Richard
+Powers, "Galatea 2.2"] Gregory Taylor/Heurikon Corporation/Madison, WI
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Dec 1996 09:55 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01145; Fri, 6 Dec 1996 09:57:02 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01150
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id AAA17214; Fri, 6 Dec 1996 00:57:00 -0800
+Date: Fri, 6 Dec 1996 00:57:00 -0800
+Message-Id: <199612060354_MC1-CBE-9FA7@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

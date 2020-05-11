@@ -1,0 +1,45 @@
+source file: m1395.txt
+Date: Fri, 24 Apr 1998 21:18:49 -0500 (CDT)
+
+Subject: Orchestral-Instrument Aperiodicity
+
+From: mr88cet@texas.net (Gary Morrison)
+
+Any of you folks who are interested in the discussion on slight
+aperiodicities (i.e., not quite exact harmonic overtone structures) in the
+tones of orchestral instruments might want to check out:
+
+        http://lonestar.texas.net/~mr88cet/tuningStuff/BClarWave.GIF
+
+(I hope that URL works;  I confess that I'm still a little new to web stuff.)
+
+   Some things are notable considerations in or about this picture:
+1.  This is a bass-clarinet (concert) C# at about 139Hz.
+2.  It is clearly not COMPLETELY periodic, despite the fact that the tone
+    itself sounds almost completely unvarying.
+3.  If you look at the heights of various peaks and troughs in the waves, you
+    will see that they vary by now means randomly.  As the red, hand-drawn
+    curve shows, there's a definite periodicity to the depth of the lowest
+    trough.  That frequency does not seem to match the fundamental or any other
+    harmonic present in the wave.  (This fact is easier to see when you zoom
+    out on the wave a little more.)
+4.  Since the entire wave does not move up and down with this curve, this can't
+    be due to a subharmonic.  (Also, it was run through a subsonic filter before
+    being drawn here, and this particular pitch is in the lowest register of
+    the bass clarinet, so it subharmonics are inherently unlikely.)
+5.  A slightly-detuned upper partial seems to be the only possible explanation
+    for this sort of motion of that lower trough, as well as the other peaks
+    and troughs.
+6.  It is sampled at 44.1KHz, which works out to about 317 samples per cycle.
+7.  It is displayed at about 3 1/2 samples per pixel.
+8.  A Fourier analysis shows that the highest harmonic that is loud enough to
+    have any chance of being visible on this display is the 38th, which has a
+    frequency of about 5.3KHz.
+9.  That 38th harmonic is represented by about 8 samples, so it should have
+    no problem whatsoever being accurately represented here.
+10. If you zoom in on the wave closer, you find that all of the various wiggles
+    are accurately represented here.  None have been spacially aliased by
+    insufficient display resolution, for example.
+11. The troughs circled in green MAY reflect the peaks and troughs of a high
+    harmonic walking through that particular slightly-lower-harmonic-dictated
+    trough.  I'm not sure of that by any means though.

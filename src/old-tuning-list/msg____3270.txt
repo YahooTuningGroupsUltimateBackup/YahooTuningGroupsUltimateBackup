@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Fri, 19 Jul 1996 14:47:09 -0700
+
+Subject: Ensoniq VFX-SD
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Some observations on this micro-tunable machine (in the used incarnation I 
+just purchased):
+
+1. When editing the tuning table, although the nominal resolution is 1 cent, 
+the true resolution is in fact a few cents, as nominal 1 or 2 cent changes 
+often result in exactly the same rate of beating.
+
+2. When changing the pitch of a voice, the resolution does appear to be in 
+fact 1 cent. However, the amount of detuning displayed may be inaccurate. 
+For example, a perfect match to the third harmonic is found at 1 octave, 7 
+semitones, and 00 cents, instead of 1 octave, 7 semitones, and 02 cents.
+
+3. Interpolating often produces strange results. It appears to insist that 
+all steps be exactly the same number of cents, and takes the liberty of 
+changing one of your endpoint pitches to make this possible. Often, the 
+resulting interpolation is backwards, decreasing in pitch rather than 
+increasing as you go up the keyboard, with one huge step from an extremely 
+low note to an extremely high note in the middle. The order in which you 
+specify the endpoints does not seem to matter.
+
+4. Extrapolating seems to work fine. The display won't show you assignments 
+higher than C8, but they're there, up to a point. Some high notes sound 
+really distorted though -- must be the digital architecture.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 20 Jul 1996 03:40 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA16796; Fri, 19 Jul 1996 18:40:51 -0700
+Date: Fri, 19 Jul 1996 18:40:51 -0700
+Message-Id: <Pine.3.89.9607192105.A21238-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

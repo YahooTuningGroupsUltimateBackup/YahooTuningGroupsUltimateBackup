@@ -1,0 +1,75 @@
+source file: mills2.txt
+Date: Tue, 27 Feb 1996 22:20:24 -0800
+
+Subject: Re: Kami's pop quiz
+
+From: Jim Flannery <newgrange@sfo.com>
+
+kami@login.net wrote:
+
+> What is the minimum frequency that a human can perceive as a sound? 
+> (20 Hz, 15 Hz, 10Hz?? Give me the lowest world record.)
+
+The question is perhaps better approached by rewording it: "...can 
+perceive as a _pitch_?"
+
+Remember that when we talk about "frequency" and "Hz" we are talking 
+about the number of modulations from 0 air pressure to +/- n air 
+pressure (amplitude) per second. You can _hear_ a 1 Hz tone; it is a 
+transient followed, 1000 milliseconds later, by another transient (tap 
+.. tap ... tap).
+
+As you increase the frequency, you first hear these transients closer 
+together (um, more "frequently" -- amazing language, ain't it?) until 
+they start to sound more like a buzzing noise and, finally, a low hum (a 
+pitch!) at around 20 Hz.
+
+(I'm feeling really nostalgic remembering Bob Snyder demonstrating this 
+to my first composition class, sticking a couple of cables into the e-Mu 
+synth on the wall of the classroom and cranking the frequency up & down 
+in the "threshold" zone. Everything I'm recycling here is derived from 
+his course text (of course I never throw _anything_ away)).
+
+This happens because our brain processes sensory data in "frames" 
+approx. 30-50 ms long ... so discrete events which occur more frequently 
+than 20x per second seem to happen continuously (we cannot perceive 
+their absences between them). This is _exactly_ the same process by 
+which we see film -- a collection of still images -- as a seamless 
+moving image. The threshold below which we can detect flicker in a movie 
+projector is approx. 16-18 frames per second (i.e., 16-18 Hz.). (16 and 
+35mm cinema runs at 18 or 24 fps, (sound always at 24); but many super-8 
+cameras and projectors run at 16 fps, a speed at which many people can 
+see flicker; at progressively slower speeds, more and more people can 
+resolve a succession of still images.)
+
+(unfortunately, I can't find the _reader_ from that class, so I'm 
+dependent on the familiarity of names in the bibliography in the text 
+for suggestions ... you might try Lachman, Lachman & Butterfield, 
+"Characteristics of the Short-Term Store" in _Cognitive Psychology and 
+Information Processing_ (1979) (sorry, no editor listed here), Ernst 
+Poppel, _Mindworks--Time and Conscious Experience_ 1988), um, I'd be 
+guessing beyond that ... actually, I'm guessing *period* as to which 
+article had which data, so *definitely* don't quote *me* (e-mail me a 
+fax # & I'll send you the whole biblio))
+
+Hope some of this helps...
+
+-- -- -- -- -- -- -- / -- -- -- -- -- -- / -- -- ---- -- -- -- -- /
+ /                               /                 /
+   /     /   I am not fond enough of lies to talk about truth
+  /                                                  Aragon, 1926/
+ /                      /          /         
+ /           Jim Flannery            /          newgrange@sfo.com
+/            Newgrange Media
+/-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- / -- -- / -- /
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 28 Feb 1996 13:39 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id EAA12498; Wed, 28 Feb 1996 04:39:20 -0800
+Date: Wed, 28 Feb 1996 04:39:20 -0800
+Message-Id: <0099E96A741CE6B6.C63C@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,59 @@
+source file: mills2.txt
+Date: Fri, 21 Jun 1996 13:18:33 -0700
+
+Subject: Self-Similar scales
+
+From: John Chalmers <non12@deltanet.com>
+
+I might say a few words about self-similar scales myself.
+Brian is talking about several different kinds of self-similarity.
+The type exhibited by the Harrison/Lucy system is true of any
+cyclic tuning, whether equally-tempered, linearly tempered (meantone,
+Helmholtzian, Sabat-Garibaldi's, etc.), or just (Pythagorean, cycles
+of 5/4's, etc.). Each new tone has a constant relation to the one
+preceding: either the cyclic interval or its complement re the
+interval of equivalence (octave inversion if the IE is 2/1). 
+
+The Golden Ratio or Section tuning (Kornerup, Dudon) has another type
+of self-similarity. Many of the small intervals of the scale are in
+the GS relation to each other. In this case, the chromatic semitone/
+diatonic semitone, the diatonic semitone/whole tone, the whole tone/ 
+minor third, and the minor third/perfect fourth are in the GS relation. From
+these relations and the derivation of these intervals by a cycle of
+fifths, the "golden" fifth may be found. From this fifth (and/or its
+complement) all the intervals may be generated.
+
+A third type is described in Brian's Xenharmoniko^n papers. In this case,
+a given relation is iteratively applied within the the IE. For example,
+iterating the Golden Ratio relation (.618034..) in the octave yields
+1200, 742, 459, 283....cents. A possible problem with this kind of
+scale is that the terms quickly converge to inaudible intervals.
+
+A variation on this last type may be obtained by limiting the iterations 
+before the intervals become unusably small and applying the technique to
+the larger intervals already generated. This procedure yields scales
+with more evenly distributed intervals while preserving the sense of 
+proportion. 
+
+Hahn's question about the perceptual character of these scales is 
+still relevant. I can only say that some successful pieces have
+been written using unusual relations, e.g., John Chowning's STRIA,
+which uses the 9th root of PHI (aka the GS). I believe Brian answered my 
+own question by making a distinction between the acoustic and compositional
+levels of organization. I think the only way to address these concerns 
+is to compose, record, and distribute more music and let the listeners 
+decide. 
+
+--John
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 22 Jun 1996 00:28 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA19878; Fri, 21 Jun 1996 15:28:22 -0700
+Date: Fri, 21 Jun 1996 15:28:22 -0700
+Message-Id: <Pine.SCO.3.91.960621152603.10799A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

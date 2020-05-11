@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Tue, 17 Oct 1995 07:50:39 -0700
+
+Subject: Re: Chinese 12TET - Approximation
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+>>1.  Square the guess => guess sixth root of 2.
+
+   This probably should have said:
+1.  Square the guess of 12th root of two => guess of sixth root of 2.
+
+>>2.  Square that => guessed cube root of 2.  
+>>3.  Multiply by result of step 1 => guessed square root of 2.
+>>4.  Square that => guess of 2.  
+
+   Johnny K's point here is that it just doesn't take too many iterations of
+insightful guessing before you resolve the 12th root of 2 down to as fine
+accuracy as you realistically need for musical purposes.  
+
+   But you don't need any sort of analytical technique to choose your guesses -
+just intelligence.  I'd probably start by noticing that 1.1, since 1.2 is almost
+certainly too high.  1.1 squared is 1.21, and that squared is 1.46, and that is
+going to square up to something close to 1.5 squared (2.25).  So since 1.1 to
+only the eighth power is already larger than two, the twelfth power of two must
+be somewhere between 1.1 and 1.  So, I would probably then split the difference
+and guess 1.05.  Doing those four multiplications, I find that 1.05 to the
+twelfth power is 1.795..., meaning that the real twelfth root of two must be
+somewhat larger than that.  Doing those same multiplications on 1.06 gives me
+something a lot closer:  2.01.  
+
+   For the limited purposes of very crude and/or imprecise-pitched instruments,
+that's about all of the precision you need.  And that in only three iterations
+of insightful guessing, and a total of eight multiplications.  Not too tough!  
+
+   From there I'd probably see that I'm so close that I'd probably be best off
+shaving just a little bit off the 1.06, and try 1.059.  That then lands me at
+1.9895...:  Low by about the same amount by which I was high at 1.06.  So I'd
+then try 1.0595.  That puts me at 2.00083...
+
+   So, after just five iterations - easily less than a day's work with
+multiplication on paper - I'm down to an error of less than a cent!  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Oct 1995 17:41 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA05341; Tue, 17 Oct 1995 08:40:51 -0700
+Date: Tue, 17 Oct 1995 08:40:51 -0700
+Message-Id:  <9510170839.aa04406@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

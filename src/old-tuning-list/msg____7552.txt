@@ -1,0 +1,25 @@
+source file: m1396.txt
+Date: Sat, 25 Apr 1998 20:55:31 -0500 (CDT)
+
+Subject: Orch. Instrument Aperiodicity Again
+
+From: mr88cet@texas.net (Gary Morrison)
+
+Paul E. mentioned a means in which FFTs could fool us into thinking that
+a partial is not exactly harmonic.
+
+   That reminded me that Dave Hill, who I hear say is on the list now, has
+done many voice- and some musical-instrument-sound decompositions using a
+different technique - more or less superheterodyning if I remember
+correctly (it's been a while).  In any case, it certainly admitted the
+possibility of partials being nonharmonic, and followed each partial's
+pitch with extreme precision.
+
+   Its accuracy was clearly validated by the fact that the sounds recreated
+from the decomposition were almost perfectly indistinguishable from the
+originals.  They are certainly vastly superior to any other synthetic
+instrument-sound reconstructions I've ever heard.  I think that most would
+agree.
+
+   It would be interesting to hear if he saw evidence that orchestral
+instruments had nonharmonic partials.  Dave?

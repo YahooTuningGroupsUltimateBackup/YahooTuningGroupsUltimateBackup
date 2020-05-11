@@ -1,0 +1,51 @@
+source file: mills2.txt
+Date: Fri, 20 Sep 1996 03:21:55 -0700
+
+Subject: Farey
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Well, the Scala command Paul E. referred to is "ratio/farey", the
+command "farey" does something different. 
+It takes two parameters, an interval and the maximum Farey order 
+(maximum denominator) of the approximating ratio.
+For example, rat/fa 115.0 20 gives:
+
+ 9/8  203.9100 cents,  2^-3.3^2
+Deviation:  88.9100 cents,   Certainties:  0.0000   0.0000
+ 10/9  182.4037 cents,  2.3^-2.5
+Deviation:  67.4037 cents,   Certainties:  0.0000   0.0006
+ 11/10  165.0042 cents,  2^-1.5^-1.11
+Deviation:  50.0042 cents,   Certainties:  0.0000   0.0055
+ 12/11  150.6371 cents,  2^2.3.11^-1
+Deviation:  35.6371 cents,   Certainties:  0.0003   0.0209
+ 13/12  138.5727 cents,  2^-2.3^-1.13
+Deviation:  23.5727 cents,   Certainties:  0.0063   0.0438
+ 14/13  128.2982 cents,  2.7.13^-1
+Deviation:  13.2982 cents,   Certainties:  0.0339   0.0627
+ 15/14  119.4428 cents,  2^-1.3.5.7^-1
+Deviation:  4.4428 cents,   Certainties:  0.0652   0.0698
+ 16/15  111.7313 cents,  2^4.3^-1.5^-1
+Deviation: -3.2687 cents,   Certainties:  0.0634   0.0658
+
+The certainties indicate the likelihood of the interval being heard
+as such. The first assumes a precision of pitch perception of 0.006
+(fine, 0.6%), the second of 0.012 (coarse) within a certain optimal
+frequency range. This is explained in an article by Goldstein. The
+likelihood decreases with the difference and with the denominator of
+the approximation. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Sep 1996 12:21 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06580; Fri, 20 Sep 1996 12:22:43 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA07900
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id DAA25081; Fri, 20 Sep 1996 03:22:40 -0700
+Date: Fri, 20 Sep 1996 03:22:40 -0700
+Message-Id: <009A8A764D6FFD40.F61C@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

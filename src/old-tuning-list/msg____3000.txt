@@ -1,0 +1,127 @@
+source file: mills2.txt
+Date: Tue, 4 Jun 1996 07:32:52 -0700
+
+Subject: Post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Partch's tonality diamond
+--
+In "History and Principles of Microtonal Keyboard Design,"
+1985, Douglas Keislar proposes that Harry Partch might
+have gotten the idea for the tonality diamond from a book
+by Max Meyer(!) Keislar suggests that "Partch might have been
+inspired by his reading of Meyer (1929), who depicts a 
+similar diamond on page 22 " of Max Meyer's 1929 book
+"The Musician's Arithmetic."
+Can anyone confirm or deny this?
+--
+The Innova Release 2 4-CD set of Partch recordings boasts
+a cover photo of Partch with the adapted viola and an
+instrument I've never seen before--the Monocordion.
+It looks like a version of Partch's 1932 circular-key
+ji keyboard mapped onto an accordion. 
+Does anyone know anything about this instrument?
+Any sources available on it?
+Partch mentions nary a word about the Monocordion
+in "Bitter Music," the 1933 "Exposition of Monophony,"
+or any other material I've been able to find. 
+--
+Gary Morrison objected to my posted statement "therefore,
+naturally, no one has written an article on the tunings 
+between 5 and 11 tones per octave."  Gary pointed out that
+he has written a number of articles about 10-TET.  
+My statement should have read "therefore, naturally, no has
+written an article on all the tunings between 5 and 11 tones 
+per octave as a group."  
+This set of tunings forms an obvious "island" of equal temperaments
+separated from the main body of divisions of the octave usually
+discussed by music theorists.  It seemed surprising to me
+years ago, and still seems astonishing, that no one else has
+penned a monograph on this clearly distinct group of equal
+temperaments.
+Thus Gary Morrison and Yaws Twuwy are both correct.
+--
+Some weeks back, Thierry Rochebois asked for citations
+of composers who'd combined different tunings in a
+single composition.  It turns out Allen Strange wrote
+a string quartet with a tape part circa 1980. "I just
+finished a piece which was premiered in December, a
+string quartet, and it dealt with simultaneously seven, twelve
+nineteen and twenty-five-tone equal temperament, as
+closely as players could come to it, being kept in tune
+by a tape..." ["Interview: Allen Strange," Ear Magazine
+West, 8(3), May-June 1980, pg. 1]
+No doubt there are bezillions of other composers who've
+nonchalantly combined different tuning systems but
+who haven't bothered to let anyone know.
+How about posting on this forum?  How about letting
+the rest of us know, folks?
+--
+Gary Morrison stated recently that he judged this tuning
+forum a place for recitations of personal experience
+in microtonality, rather than for citations of the literature
+on the subject.
+Permit me to suggest that both are necessary and appropriate.
+Without citations, this tuning forum would degenerate into
+a C.B. radio-type chat line..."Breaker breaker, we got a cool
+tuning comin' up on the left!"   Without descriptions of the
+personal experiences of the participants, this tuning forum
+would degenerate to the Perspectives of New Music level
+(shudder).
+--
+To emphasize my point about the MIDI tuning standard,
+this quote from Jim Cooper in January 1986 article
+in "Keyboard" magazine:
+"Since MIDI is not part of some police state decree,
+there are differences in implementation. These are 
+mostly too esoteric to explain here, but they can
+definitiely cause communications problems when
+two devices are MIDIed toegether. Like most other
+people, I refer to MIDI as a "standard," but for it
+to really be a standard would bring up severe legal
+problems of an anti-trust nature. (...) So MIDI
+is a specification for a method of interfacing, not
+a law.  Exactly which parts of the specification 
+actually find their way into a given instrument or 
+device depends on complex tradeoffs that the
+engineering and marketing departments of each
+manufacturing company must decide on." 
+Exactly the same point applies to the MIDI tuning
+dump specification.
+So the next time someone on this forum claims,
+"Wow, I just read that such-and-such synthesizer
+will have a tuning precision of 1/800,000 of a cent!"
+blow it off.  
+It's nonsense.
+We're lucky (alas!) to have the 1024  parts per 
+octave given us by Yamaha and Ensoniq.
+Incidentally, my point here is NOT that Yamaha
+and Ensoniq are horrible folks for giving us "only"
+1024 parts per octave tuning resolution--this 
+resolution is completely adequate for any musical
+applications I can think of.  The point is, rather, 
+that people on this tuning forum ought to stop
+wasting their time mooning around for some
+super-accurate tuning resolution and instead
+get off your rears and use the equipment we've
+got.  A number of microtonal theorists who won't
+be mentioned continue to mope & sulk and refuse
+to compose in exotic scales with modern digital
+synths because the "tuning accuracy is inadequate."
+C'mon, people, remember the Nike commercial:
+"JUST DO IT."
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 4 Jun 1996 19:25 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA18096; Tue, 4 Jun 1996 10:25:21 -0700
+Date: Tue, 4 Jun 1996 10:25:21 -0700
+Message-Id: <Pine.A32.3.91.960603092824.51739A-100000@tiger.cudenver.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

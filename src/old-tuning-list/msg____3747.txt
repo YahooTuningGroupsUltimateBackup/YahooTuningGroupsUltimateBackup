@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Mon, 7 Oct 1996 10:17:09 -0700
+
+Subject: RE: guide to non-tempered synthesizers
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+One variety of Ensoniq's VFX that Brian did not mention is the VFX-SD, which 
+I own. It only has one programmable _system_ tuning, but each patch can 
+include a pitch-table, so you can have a different tuning for each 
+instrument, if you like. Gary's point about the split points is well-taken, 
+especially if you have some low notes mapped to high keys or vice versa.
+
+Steve Curtin of Ensoniq has informed me that the pitch resolution of the VFX 
+line is not 768 steps per octave, as he originally stated, but is in fact 
+512 steps per octave. This seems correct given my expereince that the 
+nominal size of an interval needs to be incremented by usually 2, sometimes 
+3, cents before the rate of beating changes.
+
+In light of Brian's more recent post of the state of microprocessor 
+technology in the world of synthesizers, Michael Vannice's claim that Marion 
+Systems' synths give 512 steps per semitone (revised from 512 steps per 
+cent!) or 6144 steps per octave seems unlikely. Then again, Brian's reports 
+on technology are not always accurate (CD-R, for instance), but the tuning 
+resolution of sysnths seems to be one thing that he would know something 
+about.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 8 Oct 1996 07:54 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10181; Tue, 8 Oct 1996 06:56:15 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA10182
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id WAA24846; Mon, 7 Oct 1996 22:56:13 -0700
+Date: Mon, 7 Oct 1996 22:56:13 -0700
+Message-Id: <961008055250_71670.2576_HHB35-5@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

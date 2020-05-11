@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Mon, 13 Nov 1995 21:55:42 -0800
+
+Subject: RE: definition of JI
+
+From: Mmcky@aol.com
+
+I guess it's pretty well accepted that JI tuning is tuning using
+small whole number frequency ratios.  The difficult part is
+defining small.
+
+I guess no one would be surprised that my approach to the matter
+is based, in part, on the Least Common Multiple.  The other part
+is absolute frequency.
+
+The LCM of tones sounded simultaneously, together with the
+absolute frequency determine the length of patterns in the sound
+in the time domain.
+
+I think the ear/brain as the ability to remember what is heard
+for a certain length of time and remember it in great detail. 
+When the patterns in the sounds are comfortably within that
+length of time, the ear/brain experiences the "pleasure" of
+easily decoding the patterns.
+
+As length of time it takes to reapeat the sound patterns
+approaches the capacity of the sound memory, the ear/brain has
+difficulty decoding the patterns, and we register that difficulty
+as distress, or dissonance.
+
+Some patterns actually take a very long time to repeat, but
+include smaller patterns that are not actually alike, but are
+very nearly alike.  The ear can decode these patterns easily, and
+also registers the fact that they are not exactly alike.  This,
+of course, is a description of tempered music.
+
+But here we have a possible physiological basis for a definition
+of small.  Small would be when the ear can easily decode the
+pattern.  Large would be when the ear can't decode the pattern.
+
+Marion
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 14 Nov 1995 18:55 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA19575; Tue, 14 Nov 1995 08:54:57 -0800
+Date: Tue, 14 Nov 1995 08:54:57 -0800
+Message-Id: <199511141625.RAA18992@musik.auc.dk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

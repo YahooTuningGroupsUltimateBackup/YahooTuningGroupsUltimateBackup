@@ -1,0 +1,115 @@
+source file: m1522.txt
+Date: Wed, 2 Sep 1998 14:50:31 EDT
+
+Subject: Re: Re: XH 17: David Finnamore's response
+
+From: DFinnamore@aol.com
+
+Margo Schulter wrote:
+
+>I guess that such a tuning might look like this:
+>
+>     15:14     189:160            10:7     45:28     567:320
+>    119.44     288.38            617.49   821.40     990.33  
+>      c#'        eb'               f#'      g#'        bb'
+> _119.4|84.5_84.5|119.4_     _119.4|84.5_119.4|84.5_84.5|119.4_    
+> c'         d'         e'    f'         g'         a'         b'   c''
+>1:1        9:8       81:64  4:3        3:2       27:16   243:128  2:1
+> 0        203.91    407.82 498.04    701.96     905.87   1109.78 1200
+>    203.91     203.91    90.22   203.91    203.91   203.91    90.22
+
+Yes, that could be one of them, though I haven't explored that possibility
+yet.  Interestingly, you've split the 1:1-to-9:8 and 3:2-to-27:16 in this
+example 15:14 first, whereas the others are split 21:20 first (going from low
+to high pitch).  That would put some like intervals next to each other (eg.,
+the two adjacent 21:20s on either side of the 9:8). Is there a historical
+and/or logical reason for doing it that way?  One "problem" with it is that it
+would yeild intervals involving 7^2 in some modes, and those are pretty
+difficult for the ear to digest IMHO (21^2:20^2 = 7^2*3^2:5*2^2).  I've been
+splitting all of them one direction in any given tuning; that keeps all
+diatonic intervals in all modes down to one 7 apiece.  Here's an example; left
+column is the intervals between each member of the tuning, middle column is
+the intervals from 1:1, right colum is cents:
+
+1:1		1:1			0.00
+21:20		21:20		84.47
+15:14		9:8			203.91
+21:20		189:160	288.38
+15:14		81:64		407.82
+256:243	4:3			498.05
+21:20		7:5			582.51
+15:14		3:2			701.96
+21:20		63:40		786.42
+15:14		27:16		905.87
+21:20		567:320	990.33
+15:14		243:128	1109.78
+256:243	2:1			1200.00
+
+Its sister tuning would swap all the septimal intervals in the left column.  I
+also have generated versions in which the 256:243s are a m3 and a m2 apart
+instead of the usual P4, as above.
+
+>The idea of leaving the Pythagorean whole-tones (9:8) and diatonic
+>semitones at e-f and b-c' (256:243) unaltered, but changing the
+>divisions of the whole-tones into semitones, occurs in some medieval
+>and Renaissance sources.
+
+Ah, wonderful. I'm delighted to know that there's an actual connection to
+"early" music theory.
+
+>However, these schemes tend either to minimize the contrast between
+>the usual Pythagorean diatonic and chromatic semitones [snip]
+>In contrast, your scheme slightly accentuates the difference between
+>the diatonic and chromatic semitones, respectively 21:20 (about 84.5
+>cents) and 15:14 (about 119.4 cents).
+
+Yes, deeper colors are what I'm after.  Please forgive this elementary
+question: What makes one diatonic and the other chromatic?
+
+>Apart from adding a bit of extra
+>contrast, this tuning has the advantage of not drastically
+>compromising the fifths Bb-F and B-F#'[snip]
+>...The actual compromise of 5.76 cents or
+>so, a bit less than 1/4 Pythagorean comma, should be much less
+>disadvantageous.
+
+Good point.  That would be an advantage in a static tuning.  Since my music is
+fantastical rather than historical, I allow myself to shift the tuning center
+as needed to get pure fifths, and to get seconds and thirds with colors
+appropriate to the mood of the piece.  Now if only I can find a real Celtic
+harp player who's willing to retune for every piece! :-)
+
+Thanks, Margo!  You've done an excellent job analyzing the idea behind my
+"new" tunings, and given me some more insight into their appropriateness and
+usefulness.
+
+Since you seem interested in these ideas, here's a related 11-limit tuning
+concept that uses all 4 primes:  Take a cycle of 3:2s (4 or so) and split them
+each into 7:6 and 9:7; then split each 7:6 into 11:10 and 35:33, and each 9:7
+into 8:7 and 9:8; then octave-reduce.  Eg.,
+
+Ratio		Cents
+1:1		0.00
+11:10		165.00
+9:8		203.91
+7:6		266.87
+99:80		368.91
+81:64		407.82
+21:16		470.78
+4:3		498.05
+3:2		701.96
+33:20		866.96
+27:16		905.87
+7:4		968.83
+297:160	1070.87
+63:32		1172.74
+2:1		1200.00
+
+
+David J. Finnamore
+Just tune it!  (It only makes cents.)
+
+------------------------------
+
+End of TUNING Digest 1522
+*************************

@@ -1,0 +1,59 @@
+source file: mills2.txt
+Date: Sun, 23 Feb 1997 04:33:25 -0800
+
+Subject: Re: Ghosttone tests as requested by Matt Nathan
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Charles Lucy wrote:
+> 
+> Tests performed on guitar for ghosttones
+> 
+> as requested by Matt Nathan
+>
+> Fifth Guitar String tuned to 110 Hz.
+> Here are the approximate results
+> 
+> Ghostones
+> Finger position
+> Percent                   Approx.  Hz of ghosttone
+> 50                                220
+> 41                                550
+> 33                                330
+> 25                                440
+> 20                                550
+> 17                                660
+
+Even allowing for some in measurement, this is definitely 
+nowhere near the the series of fourths and fifths you 
+predicted! Will you admit this?
+
+> Now to take this the next stages and measure them accurately.
+>
+> and to start counting beat frequencies against a metronome. 
+Last post you said you could measure the frequencies of 
+ghosttones without a tuner, using a metronome and a 
+second string. Will you outline the exact procedure for 
+doing this so I can proof your method? 
+
+> The principle of this is explained in my spreadsheet which I
+> posted last week
+
+I just reread it. You only posted the spreadsheet data 
+with no explanation of the principle of beat frequencies.
+Be sure to include it in the next post. Thanks.
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 23 Feb 1997 13:59 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA15125; Sun, 23 Feb 1997 13:59:13 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA15121
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id EAA02293; Sun, 23 Feb 1997 04:57:04 -0800
+Date: Sun, 23 Feb 1997 04:57:04 -0800
+Message-Id: <009B0519C9DA0647.377D@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,65 @@
+source file: mills2.txt
+Date: Sat, 20 Jul 1996 15:16:06 -0700
+
+Subject: notation, 20-tET, etc.
+
+From: Paul Rapoport <rapoport@mcmail.cis.mcmaster.ca>
+
+Paul Ehrlich wrote:
+
+Well, in Paul Rapoport's point of view, 22 would fall into the same
+category as 27, 41, 46, and 53, where syntotic comma (81:80) displacements
+are necessary to get good thirds, and if 27, 41, 46, or 53 is traditional,
+then so is 22. Paul Rapoport's notation probably deals with 15 and 34 in
+the same way. Is this correct? 
+
+-- The assumption is close (some options and subtleties aren't captured by
+it). If "the same way" means it is possible to use the syntonic komma,
+then fine. In 22 the Pythagorean komma is 2, which makes a difference in
+the circle of fifths, of course. 46 is the closest in that regard, being
+22+24. 
+
+However, I'm not aware of much of a "tradition" of notating comma 
+displacements in actual musical practice, so I'd have to say the only 
+traditional tunings are 12, 19, 31, 43, 50, 55, etc.
+
+-- This would agree with Eric Regener, who rejected positive tunings. 
+However, notating and using them is not a problem, and there's a decent
+tradition for it, mainly because of the use and study of 53. 
+
+I have a feeling I would have a bigger problem with Paul Rapoport's
+system, since it seems the minor third and its purity are being ignored.
+It's that consistency issue again. If the best approximation of the
+perfect fifth minus the best approximation of the major third is not the
+best approximation of the minor third, a notation based on just 5-limit
+intervals is not appropriate for the tuning. In 20tet, for example, the
+perfect fifth is 12 steps, and the closest approximation to the major
+third is 6 steps, so should the minor third be 6 steps too? No, 5 steps is
+a far better minor third. This seems to be a fatal blow to notating 20tet
+with Pythagorean scales and syntotic commas. 
+
+-- The minor third and its purity are not in fact ignored. The method works, 
+I believe, for tunings such as 20. If the best M3 and m3 don't add up to 
+a P5 (as in this case), that doesn't make the notation a problem. 
+Similarly, if there's no good P5 in an ET (as in 13, 16, 23, others), the 
+notation isn't a problem; in fact, it reveals the problem.
+
+-- In 25, there are two minor thirds, both of them fairly awful but 
+usable. No problem there either.
+
+-- However, it is desirable to use the 7th and other primes in the 
+notation system to reflect their use in the tuning. I look forward to 
+hearing about recent work in this connection.
+
+Paul Rapoport
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 21 Jul 1996 01:52 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA01147; Sat, 20 Jul 1996 16:52:53 -0700
+Date: Sat, 20 Jul 1996 16:52:53 -0700
+Message-Id: <Pine.GSO.3.93.960721083706.28265B-100000@extro.ucc.su.OZ.AU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

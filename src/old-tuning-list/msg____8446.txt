@@ -1,0 +1,19 @@
+source file: m1524.txt
+Date: Sun, 06 Sep 1998 08:46:23 -0500
+
+Subject: Re: Experimental 19-tone keyboard
+
+From: Gary Morrison <mr88cet@texas.net>
+
+> I have nearly completed my custom MIDI keyboard ( final year electronic project
+> at university ).
+
+   Neat!  Out of curiosity, which university?
+
+
+> I want to know if there is any preference as to what MIDI note number
+> coresponds to each key.
+
+   I'm not personally aware of any such standard.  Although if you want to
+maintain A=440Hz as an absolute-pitch standard, then perhaps it might make sense
+to make that be the common note.

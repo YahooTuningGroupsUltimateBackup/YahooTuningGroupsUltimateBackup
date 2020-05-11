@@ -1,0 +1,103 @@
+source file: mills2.txt
+Date: Fri, 25 Oct 1996 12:52:34 -0700
+
+Subject: Re: TUNING digest 872
+
+From: john_loffink@ycrdi.com
+
+tuning@eartha.mills.edu,Internet writes:
+Topic No. 10
+
+Dear Denis,
+
+	I was glad to hear that the Kurzweil 2000 is totally retunable. I would
+like to ask you another few questions about the tuning:
+
+1) Can you tune the samples?
+
+2) What the tuning precission?
+
+3) How many midi chanels has it got?  and do you know if they can be tuned to
+different tunings or the tuning applies to all the chanels at the time?
+
+**********************For Everybody:
+
+Dear Tuners
+
+	Does any of you know a keyboard that has 16 or 32 midi chanels that
+can be retuned independently, wether with the internal sounds or with your
+own samples ???
+
+Tony Salinas
+
+1) Samples can be tuned by keymaps so that each key has its own unlimited 
+microtonal scale with any number of notes per octave.  This is more tedious
+than the global intonation tables because you have to create a keymap for
+each tuning and instrument.  You can store up to 999 keymaps and instruments
+in a K2000/K2500.
+
+You can also retune any instrument using the intonation table.  These tables
+are limited to 12 note per octave scales.  Note however that the tonic itself
+can be retuned, making just key modulations possible by selecting a new
+scale.  Instruments will not glitch or turn off when a new intonation table
+is selected.  The intonation table is effective globally to all instruments
+and MIDI channels.  Currently, only new notes will be affected by an
+intonation table change, not sustaining notes.  You could not use keymap
+tunings and intonation table tunings realistically at the same time.  You can
+store up to 255 intonation tables in a K2000/K2500.
+
+2) The tuning precision is currently limited by software to 1 cent.  It is
+closer to 1/20th of a cent in the hardware in most situations.  Transposing a
+sample downwards 4-5 octaves or more reduces the tuning accuracy.
+
+3) The K2000/K2500 have 16 MIDI channels.  Intonation tables apply to all the
+channels at the same time.  Keymap tunings apply only to individual
+instruments.
+
+4) The Ensoniq EPS/EPS-16+/ASR-10 and Kurzweil K2000/K2500 are the only
+full-fledged samplers that allow user friendly retuning.   Using an E-mu
+sampler, for instance, requires creating a sample range for each key and
+retuning each sample for the individual notes.  Very tedious.  The
+EPS/EPS-16+/ASR-10 have no internal sounds, unless you count the Flash ROM
+option for the EPS-16 + (up to 1Mbyte).  The Ensoniqs have 16 MIDI channels
+but since you can load only 8 instruments at a time you are realistically
+limited to 8 channels.  The Ensoniqs have an unlimited tuning range per
+instrument, not limited to 12 note octaves or to the system or MIDI channel. 
+There are 8 pitch tables available per instrument, however, the sysex codes
+to access them never worked so you're limited to 4 different pitch tables per
+instrument by using the patch select buttons.
+
+There may be a few obsolete (Yamaha, Peavey, etc.) and current (General
+Music?) synthesizers with microtonal capabilities and small RAM options,
+probably 2 Mbyte or less.  Back issues of Keyboard Annual Synth/Sampler
+reports are good for this type of information (sorry, I can't access them at
+the moment).
+
+John Loffink
+Senior Hardware Engineer
+Young Chang Research & Development Institute
+(Kurzweil Music Systems)
+
+
+
+
+
+
+
+
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 25 Oct 1996 23:44 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA32042; Fri, 25 Oct 1996 23:46:10 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA30497
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA15514; Fri, 25 Oct 1996 14:46:06 -0700
+Date: Fri, 25 Oct 1996 14:46:06 -0700
+Message-Id: <199610251744_MC1-B40-FE27@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

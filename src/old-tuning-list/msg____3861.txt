@@ -1,0 +1,188 @@
+source file: mills2.txt
+Date: Mon, 28 Oct 1996 14:21:47 -0800
+
+Subject: Universal notation
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Johnny Reinhard wrote,
+
+>Re: systems, I don't believe there is any virtue in sticking to a
+>particular system of tuning, per se.  Anyone care to comment?
+
+If this means sticking to one system of tuning for one's entire musical 
+career, well, the rest of the musical world outside of this list provides 
+many fine examples of composers and musicians who have achieved excellence 
+through focused hard work, or pure inspiration, with one tuning system. If 
+someone wishes to devote his or her life to an alternate tuning system, and 
+that person is extremely talented, we may have a small step towards breaking 
+out of the 12-tet monopoly. The steps taken by those who have devoted 
+themselves to various incarnations of just intonation, or have worked 
+extensively with 19- or 31-tone equal temperament, have been, no disrespect 
+intended, tiny. Spreading oneself too thin in the world of tunings, one ends 
+
+up mostly approximating a pre-existing style or set of tendencies, rather 
+than developing a new set of musical thought processes that exploit the 
+resources of a particular tuning.
+
+Why are systems important? There are various systems of tuning in use, 
+mainly because melodies tend to gravitate around a set of fixed pitches, and 
+also to provide either a specification that all harmonies be just, or a 
+framework in which many usable harmonies are constructed from a small set of 
+melodically important tones. An additional feature of many systems is to 
+allow transposition. The problem, of course, is that these systems are 
+varied and theoretically incommensurable.
+
+I must say that the tape of "Cosmic Rays" that Johnny sent me demonstrates 
+that his performers have an ability to reproduce the same dissonant 
+intervals at different pitch levels with amazing accuracy. Considering that 
+world-class string players such as Isaac Stern are often 50 cents out of 
+tune, I'm duly impressed. However, I am very skeptical that these 
+"quadratic-prime just" intervals are often played within 5-10 cents of their 
+written value, unless some trick of relating the beat frequency to the tempo 
+is used. My apologies if I am underestimating an obviously super-talented 
+ensemble, but for the rest of us, I doubt if jumping right into cents is the 
+best idea. 72-tet might be better as a first step, as it approximates 
+11-limit JI consistently in addition to containing standard 12-tet. On the 
+other hand, if one adopted 72-tet, distinctions of 1/4-septimal comma (such 
+as in my music) would require a bisection of the 72-tet steps. The result is 
+144-tet, which, as it happens, is still a consistent representation of 
+11-limit JI (the approximations are the same as in 72-tet). Alterations of 
+1/4-syntonic comma would require an additional bisection (the minimum to 
+perform Renaissance meantone, a wonderful tuning for all triadic diatonic 
+music), although there are those who like Renaissance music just fine in JI 
+or even 12-tet. But for the purists (like me), the final result is 288-tet, 
+or steps of just over 4 cents, which is the usual jnd or "just-noticeable 
+difference." It's too bad we're stuck with the lousy decimal system, as it's 
+mentally and physically easier to approximate bisections and a trisection 
+than the quintisections required by decimals.
+
+If I had to train string players to play microtones, I'd have them learn 
+thirds of semitones (sixth-tones) first, using 7/4 and 7/3 as "landmarks," 
+and then I'd have them learn quartertones, using 11/8 and 11/6 and Arabic 
+scales as guides, and then show then how to fill in the missing 
+twelfth-tones by playing 5/4, 5/3, and 7/5 "just". Once they had 
+internalized the 72-tet system, I'd have them play along with electronically 
+recorded examples to fine-tune their abilities, and then to motivate further 
+divisions into halves and quarters with septimal and meantone musical 
+examples. The accuracy of the latter divisions would be questionable and 
+lots of electronic recordings would help, but in theory, at least, the 
+players would be familiar with 288-tet. To ask for finer gradations than 
+this seems utterly infeasible, as the distinctions can no longer be heard by 
+ear. Having been arrived at by an ear-training of successive bisections and 
+trisections, with reference to musical examples at each step, one would 
+expect far more accuracy from this system than by simply asking for cents 
+deviations (play a 37-cents-sharp b-flat!)
+
+On fixed-pitch instruments, it may be that none of this is important, as 
+some sort of tablature can always be used. On the other hand, using one's 
+ear is important even on fixed-pitch instruments, so there may be some value 
+in trying to standardize a 72-tet notation with additional alterations for 
+half-way and quarter-way notes.
+
+Besides Ezra Sims, Franz Richter Herf has published a 72-tet notation, but I 
+doubt the two are materially different.
+
+Anyhow, seeing that Paul Rapoport is back with us, I'd like to continue my 
+discussion with him. Although for practical performing purposes there is no 
+question that Johnny is right that a single, all-encompassing, and 
+backwards- (or should I say sideways-) compatible system is desirable for 
+performance purposes, for theoretical and historical purposes other systems 
+may be more convenient. Although there is no doubt that to get a modern 
+player to play meantone, you need a different alteration for every scale 
+degree, meantone was once the default. In Paul Rapoport's scheme, as long as 
+a meantone tuning (such as 19-tet or 31-tet) is specified, no alterations 
+are needed to render a diatonic passage. But as the number of 
+pre-specifiable tunings approaches 171, the practical usefulness of his 
+notation for, say, string players, approaches mud.
+
+Which brings me to the problems with Rapoport's notation viewed purely as a 
+theoretical tool. Here's something I wrote up on August 16:
+
+Paul R.:
+You are correct that your view of "best" commas in equal temperaments is 
+based on using 1:3 and 1:5 as the basic building blocks of a system (we are 
+ignoring octaves here). You are in good company here, but this is why I 
+object to this view (I'm playing devil's advocate against myself at every 
+question):
+
+Q. Why do we treat 1:5 and 1:3 as basic and fundamental?
+
+A. Because they are consonant.
+
+Q. Are any other intervals consonant?
+
+A. Yes, 3:5 is consonant.
+
+Q. Is 3:5 just a by-product of building 1:5 and 1:3 from the same note?
+
+A. No. It is inherently consonant, and needs to be tuned accurately.
+
+Q. How do you know?
+
+A. Listen.
+
+Q. I'm not convinced. In a triad, don't the 1:5 and the 1:3 determine 
+consonance?
+
+A. No. Compare triads in 15-tet and 20-tet, built from the best 1:3 and the 
+best 1:5. They have the same 1:3, and the 1:5 is better in 20-tet. However, 
+the 15-tet triad is clearly more consonant.
+
+Q. I hear it, but how can that be?
+
+A. The 3:5 is tuned much worse in 20-tet. In fact, there is a closer 
+approximation to 3:5 in 20-tet than the difference between the best 1:5 and 
+the best 1:3.
+
+Q. Well, why not use that 3:5 in the triad?
+
+A. Because then one of the other two intervals, which you defined as basic, 
+would have to change.
+
+Q. But isn't it true that in any tuning, the 1:3 and the 1:5 determine the 
+best triad?
+
+A. No. Besides 20-tet, try 11-tet and 14-tet. In all three tunings, you'll 
+find better triads.
+
+Q. But those aren't even recognizable!
+
+A. Ok, try 64-tet. There the best perfect fifth is 37 steps, and the best 
+major third is 21 steps. Changing either of these by 1 to give a better 
+minor third of 17 steps improves the entire triad.
+
+Q. Well, who said there could be only one good triad in a system? I mean, 
+with a large number of notes, of course you're going to have a lot of good 
+triads! Can't they all be musically useful?
+
+A. Yes, but when the "best" is really only third best, your system does not 
+come close to exhibiting the potential of each tuning.
+
+Q. Isn't potential of the tuning something for the composer to discover?
+
+A. The tonal resources of 64-tet are difficult enough to fathom. A notation 
+system which obscures the basic consonance-dissonance relations of the 
+tuning is not serving the interests of tonality.
+
+Anyway, now it's October, and all I can add is that Rapoport's scheme might 
+be saved by having a more complex derivation of the "best" intervals, one 
+which would be based on finding the best triad rather than the best fifth 
+and major third. Here a criterion like mean-squared error might be useful, 
+but the fifth can tolerate a bit more mistuning than the thirds . . .
+
+ -Paul E.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 29 Oct 1996 00:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04613; Sat, 26 Oct 1996 15:14:50 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA05672
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id GAA00010; Sat, 26 Oct 1996 06:14:47 -0700
+Date: Sat, 26 Oct 1996 06:14:47 -0700
+Message-Id: <199610261510.PAA26923@teaser.teaser.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

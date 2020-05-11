@@ -1,0 +1,36 @@
+source file: m1602.txt
+Date: Fri, 4 Dec 1998 15:57:38 -0500
+
+Subject: Monzo's and Canright's diagrams
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>In my design, which is similar to the
+>rectangular form above, lengths are proportional
+>to the prime's place in the prime series, and
+>angles are representative of circular "octave"
+>pitch deployment for each interval. 
+
+On Monzo's diagram, only the tones whose interval with 1/1 has a prime
+number in the numerator and a power of two in the denominator have
+angles representative of circular "octave" pitch. All other intervals,
+including composites with a power of two in the denominator, will not
+have the correct angle. Therefore, Monzo's diagrams have no real
+advantage over standard rectangular lattices or any other projection
+thereof. However, I feel strongly about the advantage of triangular over
+rectangular lattices, and one could certainly use Monzo's angles in
+constructing a triangular lattice (but why would one?).
+
+One way of determining what angles to use that makes more sense that
+Monzo's proposal is Canright's (in his web article Harmonic-Melodic
+Diagrams or something -- John Starrett's page is down right now so I
+can't tell you the address). Although Canright uses a rectangular-type
+lattice, aditional connections can easily be drawn to make it into a
+triangular lattice. Canright derives the lengths and angles to use in
+his lattice so that  the position of the tones along a certain direction
+will correspond to the pitch of the tones. This works for all the tones,
+not just the ones at certain special intervals from 1/1, while Monzo's
+circular pitch is only correct for a few tones. So, given Monzo's
+willingness to have arbitrary angles in his diagram, and desire to
+depict pitch relationships, he would be better served by Canright's
+approach.

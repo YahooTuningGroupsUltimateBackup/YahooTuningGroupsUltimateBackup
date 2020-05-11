@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Wed, 17 Jul 1996 18:34:30 -0700
+
+Subject: Inharmonic spectral analysis
+
+From: muslp@luxor.latrobe.edu.au (Larry Polansky)
+
+Another interesting program for spectral (track)
+analysis, although unfortunately only available for
+a Mac PPC, is Chris Langmead's PAST, written as an
+M.A Thesis here at Dartmouth, using Lemur-files
+as analsyis bases, and freely available on the Web
+(via Bregman's webpage: http://music.dartmouth.edu).
+
+Chris did a lot of thinking about the notion of
+"harmonicity": template matching, equal spectral distribution
+and so on, and came up with some interesting analysis techniques. His
+thesis (also on his website) explains a lot of the theoretical
+justifications behind some of his decisions, and is well-worth
+reading if you're interested in the kinds of things Brian is
+talking about.
+
+lp
+
+Larry Polansky
+till December: Music Dept., LaTrobe U.,
+Bundoora, Victoria, Australia 3182
+
+permanent: Bregman Electro-Acoustic Music Studios
+Dartmouth College, Hanover, NH 03755 USA
+ph: 603-646-3974
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 18 Jul 1996 11:41 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id CAA04590; Thu, 18 Jul 1996 02:41:43 -0700
+Date: Thu, 18 Jul 1996 02:41:43 -0700
+Message-Id: <9607180940.AA06537@arthaud.saclay.cea.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

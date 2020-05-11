@@ -1,0 +1,69 @@
+source file: mills2.txt
+Date: Fri, 21 Jun 1996 11:58:47 -0700
+
+Subject: Re: Post from McLaren
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+It is also well documented that stretched octaves are preferred to just 
+octaves. But all these studies tend to focus of melodic rather than harmonic 
+intervals, or else tones with weak harmonics. The fact that "stretched" 
+intervals are preferred to just intervals in a context where beating between 
+partials is not the most prominent determinant of consonance may indicate 
+that Terhardt's hypothesis about a "stretched" harmonic template is correct. 
+The ear, when presented with a multiplicity of pure tone components (in 
+Parncutt's version, the prenatal ear hearing the mother's voice), is known 
+to slightly stretch the intervals between them, and one hypothesis is that 
+this stretching is "expected" even when a meager stimulus is presented. 
+Goldstein studied the precision with which frequency information is 
+transmitted by the brain's central pitch processor by measuring residue 
+("virtual") pitches produced by two pure tones, but I think his approach 
+assumed symmetrical errors and did not pay attention to systematic biases in 
+the allowable mistuning of the pure tones. I wonder if such a study would 
+reveal that judgments of harmonic relationships are easier to make when the 
+distances are stretched somewhat. In any case, it may be a case of the 
+archers aiming for the bullsye, but a steady wind blowing the arrows off 
+course. The aesthetic of stretched intervals must be somewhat compromised in 
+practice: phenomena such as second-order beating and combination tones can 
+be disturbing for significant departures from harmonicity.
+
+The "small integers" concept of consonance that McLaren "disproves" is a 
+rather extreme, Partchian version. Which is more consonant, 300001/200000, 
+or 11/9? While the former clearly involves larger integers, it is also very 
+close to 3/2, and is likely to be heard as such. He also extends the small 
+number theory to chords of more than two notes, where the use of frequencies 
+vs. periods can determine which chord is calculated to be more consonant. 
+Observe:
+
+Frequencies:
+
+Major - 4:5:6
+Minor - 10:12:15
+Suspended - 6:8:9
+
+Periods:
+
+Major - 10:12:15
+Minor - 4:5:6
+Suspended - 6:8:9
+
+Using either frequencies or periods, the suspended triad comes out in 
+between major and minor; the fact that the suspended triad is more dissonant 
+is related to the fact that when the intervals are looked at individually, 
+it requires higher numbers. Moreover, McLaren seems to love neutral thirds 
+and hate tritones; I have to strongly disagree with his consonance judgments 
+here. But consonance is a very subjective judgment, and the art of 
+composition can be just as effective (or more so) when based on flawed or 
+subjective premises. . . .
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 21 Jun 1996 22:18 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA16477; Fri, 21 Jun 1996 13:18:33 -0700
+Date: Fri, 21 Jun 1996 13:18:33 -0700
+Message-Id: <Pine.SCO.3.91.960621131145.6208B-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

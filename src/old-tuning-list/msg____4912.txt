@@ -1,0 +1,87 @@
+source file: mills2.txt
+Date: Thu, 27 Feb 1997 08:29:37 -0800
+
+Subject: RE: TUNING digest 998
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Amazing how my posts are continually misunderstood. I wrote,
+
+>> In particular, would some mathematician not have interpreted
+>>Aristoxenus' ideas in terms of the twelfth root of two?
+
+Why does that lead people to argue that Aristoxenus did not advocate equal 
+temperament? Of course he did not. The idea of irrational numbers was too 
+repugnant to the ancient Greeks. Aristoxenus just described what he heard, 
+and a different mathematical mindset may have led to different 
+interpretations of his descriptions. As these descriptions were 
+self-contradictory, it seems useless to try to figure out what Aristoxenus 
+"actually meant" in mathematical terms; however, this didn't prevent ancient 
+Greeks or 16th century theorists from doing just that.
+
+>> I do agree that in most cases the diatonic scale existed without a
+>> standardized tuning. I believe that the creation of similar tetrachords
+>> was the only guiding principle in most cases, since I do not believe that
+>> 5-limit or higher ratios are relevant to purely melodic music. The 3-limit
+>> (and even 2-limit) approximations have a wide range of tolerance when
+>> harmony is not an issue, or when inharmonic instruments make the value of
+>> just intonation questionable.
+
+>What is a 2-limit approximation of a diatonic scale. The "2-limit" gives us 
+>nothing but octaves. Or did you mean 2^1/x, in which case the "limit"
+>terminology is out of place.
+
+No, I meant all 2-limit approximations, i.e., octaves. Many cultures use 
+distinctly out-of-tune octaves, yet still recognize an equivalence between 
+pitches so separated.
+
+Actually, I prefer to use the "limit" terminology in Partch's original 
+sense, for all odd numbers and odd numbers only. However, when discussing 
+tuning systems rather than consonance/dissonance issues, the prime usage can 
+occasionally be useful.
+
+I don't know how the word "mystical" got attached to Ptolemy, if I made the 
+attachment, I apologize, I should have substituted a better word.
+
+>> Matt, you could be given a Mozart string piece which would have to 
+descend
+>> by, say, seven commas from beginning to end, if it is to have all chords
+>> in just intonation and no comma shifts in sustained tones (this is
+>> actually a typical scenario). Even though the beginning and ending keys
+>> may be notated exactly, you would say that the piece ends in a distincly
+>> different key than it began. Would your analysis reflect the musical
+>> reality better than the traditional analysis? I think not! What if the
+>> piece was a keyboard piece?
+>> Forget it!
+
+>Leopold Mozart, being representative of a 17th/18th-century string playing
+>tradition, specified 1/6th-comma meantone as the tuning which expert 
+players
+>should employ. His son, it seems, endorsed this (see the Chesnut article
+>"Mozart's Teaching of Intonation" in JAMS, c.1980 -- sorry about the vague
+>date), and with it the corollory of tuning flats higher than sharps that
+>mean-tone tunings share with just intonation. Since string players are
+>limited by the tuning of their open strings, they cannot incorporate any
+>irreversable comma shifts (as opposed to some local fluctuation), but the
+>use of any meantone tuning removes this problem, by means of their 
+different
+>characteristic compromises.
+
+Thank you for the info, Jonathan, meantone was my choice as well.
+
+ -Paul Erlich
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 27 Feb 1997 19:14 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA32040; Thu, 27 Feb 1997 19:14:04 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA32160
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA16768; Thu, 27 Feb 1997 10:11:32 -0800
+Date: Thu, 27 Feb 1997 10:11:32 -0800
+Message-Id: <199702271304_MC2-11CE-7F7A@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

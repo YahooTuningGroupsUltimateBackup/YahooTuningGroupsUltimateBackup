@@ -1,0 +1,83 @@
+source file: mills2.txt
+Date: Tue, 19 Nov 1996 18:03:18 -0800
+
+Subject: diatonic scale
+
+From: John Chalmers <non12@deltanet.com>
+
+Re Hermann Pedtke's keyboard: The keyboard described by Pedtke
+in his Xenharmonikon 6 article on meantone (Summer 1977)is the 
+two-manual Scalatron, not the generalized keyboard version. I think 
+Brian is referring to Hans Luedtke's two patents for keyboards with
+hexagonal digitals, #2,061,364 of Nov. 17, 193 and # 2,003,894 
+of June 4, 1935.
+
+I am unaware of the Paris keyboard.
+
+RE the diatonic scale: I think our emphasis is a bit misplaced. 
+As I understand European musical history,  Pythagorean tuning
+and the rather artificial system of modes began to break down
+during the Middle Ages as Musica Ficta tended to erase the 
+modal differences and the intonation softened towards just thirds
+and sixths, at least in English music, according to Walter of
+Odington. 
+
+This tweaking went on for several centuries and eventually in 
+the 18th century Rameau analysed the diatonic scale in terms of triads 
+and theory caught up with practice. However Barbour showed that tuners 
+in the 15th and 16th centuries, when  Pythagorean tuning was being 
+replaced by meantone, 12-TET and various irregular systems, devised 
+complete chromatic octaves (12 notes) not merely the seven diatonic 
+tones. Thus the diatonic scale was never viewed wholly in isolation 
+from its modes and transpositions. 
+
+No doubt by this time the diatonic scales were considered to be 
+constructed of triads as all the chromatic tones were harmonized
+by triads, but most probably musicians thought in terms of five or 
+six chords, not just three primary ones, though a specialist on early 
+music could advise me here. I think it was Rameau's insight that the scale
+could be construed as the union of just three primary triads rather
+than 5 (including the conjugate ones on degrees 3 and 6) that led
+to the myth that it was deliberately constructed with this
+in mind. (I'm ignoring the supertonic triad deliberately.)
+
+It seems to me to be a coincidence that Ptolemy's Intense Diatonic 
+in the Greek Lydian mode provides 4:5:6 triads on 1/1, 4/3 and 3/2.
+There is little evidence that the Greeks were aware of this fact
+and there were other diatonic tunings in favor without this property.
+The tuning does NOT have a mode with 3 minor (10:12:15) triads on 
+these roots, however and neither does any other Greek tuning. It seems
+therefore, that the major-minor system presupposes some sort of tuning
+with acceptable thirds that ignores the syntonic comma. Meantone, ET
+and various irregular systems do just this. 
+
+(Redfield's just scale does have this property as it consists of three
+minor triads on 1/1, 4/3 and 3/2. Every mode of this scale contains a
+note differing by a comma from a Ptolemaic mode. The generating tetrachord
+is 10/9 x 9/8 x16/15 rather than the Greek 16/15 x 9/8 x 10/9. ) 
+
+I must say that I think Rameau's insight is very  valuable for 
+contemporary 
+scale builders. I generated a number of analogous scales using various
+kinds of triads and mixtures in the 60's, but did very little with them 
+save play a few on Partch's chromelodeon until I spoke with Max Mathews 
+and saw David Lewin's article on Generalize Tonal Functions. As most
+scale builders soon find out, it is no easy task to find a harmonically
+generated scale with the melodic strength and logic of the diatonic
+scale.
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 20 Nov 1996 11:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18711; Wed, 20 Nov 1996 11:07:54 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA15279
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id CAA04116; Wed, 20 Nov 1996 02:07:50 -0800
+Date: Wed, 20 Nov 1996 02:07:50 -0800
+Message-Id: <199611200504_MC1-C1D-A9BF@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

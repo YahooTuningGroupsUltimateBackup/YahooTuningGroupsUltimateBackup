@@ -1,0 +1,144 @@
+source file: mills3.txt
+Date: Thu, 8 Jan 1998 14:48:50 +0100
+
+Subject: MIDI/Audio wish list
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+Thanks for all very useful comments John.
+
+> Tuning resolution of sample/wavetable based instruments better than 1 cent
+> is questionable since no manufacturer will tune their own samples to better
+> accuracy than this.
+
+Yes, the tuning of library sample libraries is very unreliable.  Of
+course, since these libraries are created/edited with the
+sampler units, (that is, unless an external reference is used) they
+can be no better than the sampler.  So is the argument circular?
+Would better resolution therefore have a knock on effect?  Probably
+not, since the library makers aren't interested in exact tuning.  The
+question (as I see it) is -  is better resolution only needed for
+very special purposes, or do a considerable proportion of members of
+this list feel it would be valuable? (If the members of this list
+don't then surely few will).
+
+> the extra resolution in their custom ICs would be insignificant in terms of
+> design resources and transistors.  DSP or Virtual Modeling type instruments
+> could do better though.
+
+Sorry, what's an IC?
+
+> You have to remember that manufacturers need to make a profit in order to
+> stay in business, and most provide the bare minimum of features that they
+> can get away with.
+
+Sure.  Too bad microtonalist's haven't got alot of economic clout.
+The discussion paper, in a round about way, is aiming to do a tiny
+bit about that.
+
+> For instance, MIDI pitch bend has supported 14 bit
+> resolution for 15 years now, but nobody makes a 14 bit pitch bend
+> controller except Big Briar, 98% of them are 8 bit, the other 2% are 10
+> bit.
+
+(Aside) Something I've always wondered about is why using pitchbend
+from my keyboard (A80) (to the sampler) sounds poor.  But retuning
+the sample at partial level sounds fine.  Please excuse my ignorance
+of this stuff.
+
+> Building tunings into "Partials", Keygroups or Zones is tedious and
+> wasteful effort in my opinion.
+
+Yes, it's extremely tedious - but my point is that it needn't be,
+even on a sampler.  Hence the idea of creating on-board macros or
+templates to speed up the process.  The reason why it's not a waste
+of effort (for me) is that I'm creating simulations of acoustic
+instruments.  The difference between what one can achieve in this
+respect on a sampler and a synth is enormous (IMO) - but of course
+not everybody is interested in simulation.
+
+>Today's synthesizers support hundreds of
+> patches/programs, doing it that way virtually hard codes the tuning into
+> the sample set and increases your memory requirements exponentially.  I
+> don't think there's much question that most users prefer separate tuning
+> tables,
+
+Agreed - so would I! And I don't think there's an immutable reason it
+can't be done on a sampler! In fact the Roland does have something
+which sort of works like this - but not well enough.  Since a sampler
+is a kind of relational database, there shouldn't be any reason why,
+(given 1998 processors et al) the relational mappings need not be
+much more flexible and friendly.  So, (from my view at least, but I'd
+be interested to know if others would like this too), it seems
+worth arguing that updating the 'database architecture' would be a
+great idea for making the best of the  sonic benefits of sampling
+(for specific purposes).  But, maybe sampling technology will soon be
+(successfully) surpassed - let's hope so.
+
+>the issues are:
+
+> Do you want octave based tables?
+> Do you want keyboard based tables? (Remember, these are virtually
+> impossible to retune note by note on the fly, ala Justonic Pitch Palette,
+> because of the limited MIDI bandwidth)
+> How many tables do you need?
+> Are the tables assigned globally or per MIDI channel?
+> Do you need to switch between tables or notes in realtime, and if so should
+> notes be updated immediately or on new notes only?
+> Is the MIDI Tuning Dump Standard supported?
+
+Great stuff.
+
+> Also, I believe any proposal to manufacturers must be presented in a
+> prioritized fashion.  If given as an all or nothing situation, you're most
+> likely to get nothing, or else get a confused subset of the requested
+> features.
+
+Sure. The discussion paper is meant as a kind of think-tank document,
+aimed at clarification and encouraging consensus (maybe!).  It's not
+a proposal to manufacturers.
+
+> > A kind of `kit' mother keyboard with a large number of movable slots
+> > into which a user configurable number and arrangement of keys of
+> > different sizes and colours could be fitted_  And new types of control
+> > for keys (taking the idea of `after touch' further_)
+> >
+> Starr Labs is working on a generalized microtonal MIDI keyboard that
+> supports polyphonic aftertouch.
+
+Do you mean the Microzone - or are Starr Labs producing another
+keyboard as well?  I hope the distinction between what I suggested
+and the Microzone is clear.
+
+Thanks!
+
+Patrick Ozzard-Low
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+Subject:  New Instruments
+PostedDate:  08-01-98 15:02:15
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  08-01-98 15:01:47-08-01-98 15:01:48,08-01-98 15:01:41-08-01-98 15:01:42
+DeliveredDate:  08-01-98 15:01:42
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256586.004D0F84; Thu, 8 Jan 1998 15:02:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19561; Thu, 8 Jan 1998 15:02:15 +0100
+Date: Thu, 8 Jan 1998 15:02:15 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA20997
+Received: (qmail 16878 invoked from network); 8 Jan 1998 06:02:07 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Jan 1998 06:02:07 -0800
+Message-Id: <199801081355.NAA08526@imail.norfolk.gov.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

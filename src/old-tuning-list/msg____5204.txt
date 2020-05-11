@@ -1,0 +1,23 @@
+source file: mills2.txt
+Date: Wed, 26 Mar 1997 10:00:47 -0800
+
+Subject: Cavity Resonators
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Does anyone out there have information on cavity (as opposed to tube)
+resonators? Are there any formulas for the dimensions of such resonators or
+is trial and error the best we can do?
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 26 Mar 1997 19:19 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18478; Wed, 26 Mar 1997 19:19:43 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA14131
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA10117; Wed, 26 Mar 1997 10:18:08 -0800
+Date: Wed, 26 Mar 1997 10:18:08 -0800
+Message-Id: <199703261759.JAA08619@ella.mills.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

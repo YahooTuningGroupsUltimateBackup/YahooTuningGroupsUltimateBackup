@@ -1,0 +1,71 @@
+source file: mills3.txt
+
+
+Subject:  RE: Basic dimensionality, and related issues
+
+From:  gbreed@cix.compulink.co.uk
+
+I wrote:
+
+>If the dissonance of a composite number is independent of its
+>factors, why use lattices at all?
+
+and Paul replied:
+
+>What an odd question! What could you possibly mean by it?
+
+Okay, the first part of my question is a condition.  If you're
+going to give a new direction to 9, you may also give one to 15,
+21 and so on until every number has its own diection.  Nobody has
+suggested this, but then nobody has said why we should stop at
+9 either.
+
+Using the harmonic distance on a rectangular lattice as a measure
+of dissonance is an economical theory.  All octave invariant,
+5-prime-limit intervals can be expressed in 2 dimensions on this
+lattice.  The dissonance of these intervals can be calculated
+using 2 free parameters: the step lengths in the 3- and 5-
+directions.  The method can be generalised into any number of
+prime dimensions with a new free parameter for every new
+dimension.  Switch to a triangular lattice, and you need n-1 new
+free parameters for n-dimensional harmony, giving n(n-1) in total.
+These parameters can all be produced from the same formula, like
+log(max(m,n)).
+
+Give each integer its own direction, though, and you need n free
+parameters to assess n+1 intervals (including 1/1).  You could
+just as easily write down a list of the intervals you plan to use,
+and say how dissonant each is.  So, why use a lattice?  Or, if 9
+is special, why?
+
+
+Actually, since I asked that original question something did
+occur to me about these composite lattices.  They are geting very
+close to being a Hilbert space.  I think this may be important,
+but I will not explain myself here because I don't expect most
+list subscribers will know what a Hilbert space is, let alone what its
+significance might be.
+
+
+Approximate scales where 9/1 approximates to be different to
+twice 3/1 are an entirely different idea.  Don't use arguments
+for one to justify the other.  There is nothing wrong with the
+basic dimension of a scale changing with an approximation.
+Incidentally, Paul, why do you think your previous comment on
+this contradicts what I said?
+
+All equal temperaments have a basic dimension of 1.
+
+If 9 approximates to an odd number, how would you tune 1:3:9?  If
+3/1 and 9/1 are optimised, 9/3=3/1 must be wrong.  Or do you plan
+to avoid all chords where 9 and 3 both occur?  Otherwise, you
+*could* equally say that you have two different 3- directions.
+
+This problem doesn't arise with harmonic dimensionality.  You
+could curve your triangular, 3-5 lattice and add extra links
+between the 9's.  This will be quantitatively the same as giving 9
+a new dimension.
+
+
+
+$AdditionalHeaders:  Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id C12564DB.00281032; Mon, 21 Jul 1997 09:17:35 +0200

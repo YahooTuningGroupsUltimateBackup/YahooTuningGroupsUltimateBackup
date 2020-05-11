@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Tue, 17 Sep 1996 17:29:44 -0700
+
+Subject: RE: Consistency generalized
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Paul Hahn,
+
+Your generalization is quite correct and produces the desired result of a 
+more stringent criterion. The musical meaning of integer levels of 
+consistency higher than 1, namely, the importance of matching just 
+intonation in combinations of n-limit intervals, I find dubious. So level 2 
+consistency seems like an arbitrary requirement, as level 2.1 consistency 
+and level 1.9 consistency would lead to results which are slightly different 
+but just as meaningful musically.
+
+One thing I looked at long ago was what we would now call level 3 
+consistency, since 12-tET is just barely level 3 consistent at the 5-limit. 
+It seemed reasonable that an equal temperament could be "fuzzified" so that 
+it covered one-third of frequency space, while two-thirds remained 
+out-of-tune with respect to the equal temperament. The simplest qualifiers 
+are:
+
+
+3-limit:	 5-tET
+5-limit:	 12-tET
+7-limit:	 31-tET
+9-limit:	 171-tET
+11-limit:	342-tET (=2*171)
+
+My Commodore 64 couldn't do the higher-limit calculations within a 
+reasonable period of time, but these days it's just a few seconds:
+
+13-limit:	5585-tET (=5*1117)
+15-limit:	5585-tET
+17-limit:	16808-tET (=22*764)
+19-limit:	20203-tET (=89*227)
+
+ -Paul Erlich
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Sep 1996 02:29 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08515; Wed, 18 Sep 1996 02:31:38 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA07845
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA16328; Tue, 17 Sep 1996 17:31:33 -0700
+Date: Tue, 17 Sep 1996 17:31:33 -0700
+Message-Id: <960917190242_480834378@emout09.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

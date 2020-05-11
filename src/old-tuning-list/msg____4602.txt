@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Tue, 14 Jan 1997 09:35:30 -0800
+
+Subject: RE: CPS
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Kami Rousseau wrote,
+
+>This means that the CPS are a generalisation of the Euler Fokker
+>generas.
+
+That's one way of looking at it. Judging, however, from the preponderance of 
+hexanies, eikosanies, and hebdekotamies (whatever), I would venture that 
+having repeated factors goes againt the purest spirit of CPS.
+
+However, there is another connection between Euler-Fokker genera and CPS. 
+The union of all
+
+CPS i/(k+1) (1,a(1),a(2), . . . ,a(k)),
+
+where the a's are mutually prime and i ranges from 1 to k, is
+
+Eu (a(1),a(2), . . . ,a(k)).
+
+In k-dimensional space, the "interior" of the Euler-Fokker genus is broken 
+into non-overlapping regions, the "interiors" of the CPSs. That is because 
+the only intersections in the above CPSs are between CPS iand CPS i1, 
+namely,
+
+CPS (j+1)/k (a(1),a(2), . . . ,a(k)),
+
+whic are mere "borders" of dimension k-1.
+
+Now it is customary to view these Euler-Fokker genera as cubes, hypercubes, 
+etc., but if we view the CPSs as regular polygons, polyhedra, etc. (by 
+making the axes at 60-degree angles from each other), we obtain fascinating 
+results about regular tilings of k-dimensional space, since obliquely 
+stretched cubes tile just as well as cubes! Try it!
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 14 Jan 1997 19:21 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14041; Tue, 14 Jan 1997 19:24:54 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA14035
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA28645; Tue, 14 Jan 1997 10:23:35 -0800
+Date: Tue, 14 Jan 1997 10:23:35 -0800
+Message-Id: <Pine.A32.3.91.970114112023.26883A-100000@tiger.cudenver.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

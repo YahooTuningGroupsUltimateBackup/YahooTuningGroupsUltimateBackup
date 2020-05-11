@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Wed, 15 Nov 1995 22:27:36 -0800
+
+Subject: Re: TUNING digest 559
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> The 12 tone equal temperament scale is derived from the overtone
+> series of a vibrating string. 
+
+   Of course most of us tuning listers will be prompt to point out that 12TET
+doesn't provide a *really great* harmonic series approximation.  The 5th
+harmonic is way sharp and it misses some really neat harmonics - 7, 11, and 13
+for example.  It does, however, provide a fairly EFFICIENT mapping to the
+harmonics it does match - matching the first 5 harmonics reasonably well on as a
+coarse resolution as 100 cents, is in my view an impressive feat.  
+
+   Buuuut, that's not the central focus of your question.  In response to your
+question, I suppose it's worth pointing out that Brian is speaking about a
+classification of tunings that ... well, I was starting to say "intentionally
+avoid" harmonic relationships, but I suspect it would be more appropriate to
+say, "make no effort to match" harmonic relationships.  
+
+   I'm still catching up on Brian's NJNET posts, so I'm not certain of the
+context behind his allusion to different vibrational modes.  Buuuut, everything
+I've read of those posts so far suggest that they are based upon abstract
+mathematical formulations (other than those of JI and ET), and not upon "found"
+pitch relationships, by which I mean pitch relationships found in natural
+vibrational systems.  
+
+   That is unless of course he's found a NJNET mathematical formulation for the
+vibrational modes of spheres or whatever.  I kind of doubt if those vibrational
+modes are predictable by formulations like the inharmonic series formulations
+he's mentioned (such logs of factorials).  
+
+   So I kinda doubt if vibrational modes of physical structures other than
+strings is his main point really.  Unfortunately, since I haven't gotten that
+far yet, I'm not much good for commenting on what he was speaking of there.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 16 Nov 1995 08:30 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA25062; Wed, 15 Nov 1995 22:30:00 -0800
+Date: Wed, 15 Nov 1995 22:30:00 -0800
+Message-Id: <951116062526_71670.2576_HHB31-4@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

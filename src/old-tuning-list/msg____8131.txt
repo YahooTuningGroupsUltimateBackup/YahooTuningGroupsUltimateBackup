@@ -1,0 +1,81 @@
+source file: m1451.txt
+Date: Thu, 18 Jun 1998 22:27:43 -0500
+
+Subject: Microtonality in Minneapolis
+
+From: Harold Fortuin <hfortuin@wavefront.com>
+
+Here's an update regarding the Clavette Microtonal MIDI Keyboard
+Controller, and other recent activities of mine in Minneapolis:
+
+In March, I completed a 36-minute documentary about it, including
+introductions to the instrument and tuning principles suitable for the
+layperson, and original compositions and arrangements in 19 and 31-ET.
+Earlier this year I also began rehearsing my latest duet Endangered
+Species with fellow list member Kris Peck, who built a 20-tone JI
+electric guitar.
+I presented the premiere of the video and Endangered Species at a
+lecture-demonstration at the University of St. Thomas in St. Paul on
+March 10, to an audience of local composers and students.
+
+So far, the video has been broadcast on Minneapolis public access, and
+the suburban public access stations of Bloomington and Northwest
+Communities. I am willing to send free copies of the video to any list
+member who will promise to sponsor it for public access broadcast in
+their community, but may withdraw this offer if I get too many requests
+to handle, so first come, first serve! In addition to the US NTSC
+standard, I can create copies in other video standards for other
+countries.
+
+In May, I recorded Endangered Species with Kris in the studio of John
+Dieterich, another local list member, and arranged a 4-camera video
+recording at the St. Paul public access studios later that month. I will
+probably use these recordings as is, since the quality of performance
+and recording was high, but I may tweak the audio in Digital Performer a
+little. I expect the audio recording will eventually become part of a
+Clavette CD, and the video should become part of a 20+ minute music-only
+video of more recent Clavette music.(It's a good thing we recorded it
+last month--Kris and wife Stephanie became the proud parents of Lydia
+Peck on June 15!)
+
+I've posted short QuickTime video clips of Clavette keyboard and pedal
+technique on my website at
+http://www.wavefront.com/~hfortuin/clavett.htm. If you don't have
+QuickTime, which runs on Windows and Mac OS, there's a link there to
+download it for free.
+
+Thanks to some unusual circumstances on my day job, I had the time to
+complete a Windows 95 version of my KTune Kurzweil 2000/2500 tuning
+generator in April. This program generates octave-based equal
+temperaments and JIs especially for the Keymap editor in these
+synthesizers (but output could be entered in the Intonation editor). It
+creates a text file with values to be entered into the synthesizer
+manually. It can create decimal divisions of the octave, so by following
+directions in the ReadMe file it can generate non-octave ETs. This
+freeware program can now be downloaded as a .zip archive from
+http://www.wavefront.com/~hfortuin/phdcurv.htm (For the programmers
+amongst us, I created it with Microsoft Foundation Classes in MS Visual
+C++ 4.0 and 5.0.) I've included a dump of a bank of Programs in various
+ETs developed with the help of KTune for K2000 System 2.0+.
+
+I've pulled the copy of my Curvaceous dissertation software for Mac OS
+from the site, since for some reason the more recent versions of
+Performer can't open its Standard MIDI file output; plus, I'm well along
+the way with a standalone version of this, which should run on any
+platform, but which I'll only test on Windows 95/98 and Mac OS. (I'm
+writing this using Java 1.0's Abstract Windowing Toolkit using MS Visual
+J++ 1.0, and the Sun JDK for the Mac.) I hope to post a version of this
+in a few months for the xenrhythmicists amongst you.
+
+Once again, new to my website:
+--http://www.wavefront.com/~hfortuin/clavett.htm    for video clips of
+the Clavette
+--http://www.wavefront.com/~hfortuin/phdcurv.htm    for KTune software
+and K2000 programs in various ETs using various sounds
+
+And let me know if you can sponsor broadcast of the video. (If you live
+in a community in the US with public access, you can sponsor this video
+without any cost to you.)
+
+Have a marvelous microtonal summer,
+Harold Fortuin

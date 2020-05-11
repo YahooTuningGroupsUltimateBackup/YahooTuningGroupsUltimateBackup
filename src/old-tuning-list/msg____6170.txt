@@ -1,0 +1,51 @@
+source file: mills3.txt
+Date: Sat, 27 Sep 1997 18:19:08 +0200
+
+Subject: Re: et fretting question
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Why does everyone use 22tet instead of 24tet frets on their instruments?
+>It seems to me, after testing it out on a spreadsheet program, that 22tet
+>does not imitate 4/3, 16/9, even 9/8 well enough.
+
+   "Well enough" is of course relative.  If my memory serves, 22TET's
+fifths and fourths are about as far off as 19TET's, although in the
+opposite direction.  And again, if memory serves 22TET does a pretty good
+job of approximating 7:6, 6:5, and 5:4.
+
+   22TET also has a syntonic pseudocomma, which can be cumbersome at first,
+but opens you to some intriguing, sneaky musical effects.
+
+   Ivor Darreg's main reason for pursuing 22TET separately from
+quartertones and 19TET, was that it has a "restful" mood compared to 19TET
+having "lots of zonk", and 24TET having 12TET's 'restless" mood.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net
+Subject:  Re: 22tet and 24tet
+PostedDate:  27-09-97 18:20:02
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  27-09-97 18:19:46-27-09-97 18:19:48,27-09-97 18:18:48-27-09-97 18:18:49
+DeliveredDate:  27-09-97 18:18:49
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C125651F.0059AEFC; Sat, 27 Sep 1997 18:19:35 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00007; Sat, 27 Sep 1997 18:20:02 +0200
+Date: Sat, 27 Sep 1997 18:20:02 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00011
+Received: (qmail 10295 invoked from network); 27 Sep 1997 09:19:18 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 27 Sep 1997 09:19:18 -0700
+Message-Id: <v01541105b053382b1d52@DialupEudora>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

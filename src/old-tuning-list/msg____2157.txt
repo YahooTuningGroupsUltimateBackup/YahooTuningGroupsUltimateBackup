@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Tue, 17 Oct 1995 09:16:38 -0700
+
+Subject: Re: Chinese 12TET - overkill?
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Tue, 17 Oct 1995, Michael Wathen 556-9565 wrote:
+> As for the post from our pool player (I don't have his name either only
+> his Email address) which gave the formula for the twelfth with the
+> powers of eleven,
+
+I guess that would be me.
+
+>                   this formula is a direct result of Newton's Method
+> hence it requires the knowledge of Calculus.  I believe that the same
+> could be said about Manuel Op de Coul's formula.
+
+Nnnnnooooo, I don't think so.  All it really takes is the ability to
+expand the nth power of a binomial (or just the first two terms,
+actually)--a little algebra, no calculus required.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "A three-cushion player doesn't need to be married.
+     -\-\-- o               He already has enough aggravation."
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Oct 1995 09:24 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id AAA00402; Wed, 18 Oct 1995 00:23:44 -0700
+Date: Wed, 18 Oct 1995 00:23:44 -0700
+Message-Id: <951018072124_71670.2576_HHB27-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

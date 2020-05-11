@@ -1,0 +1,35 @@
+source file: m1426.txt
+Date: Sun, 24 May 1998 18:33:14 -0500 (CDT)
+
+Subject: Re: Synth tuning resolution /Ensoniqs/Yamahas
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Uh,I think we got our lines crossed again.What I should have said is :
+>Is the res. of the MR series "good enough" for all practical purposes in
+>actual use ?
+
+   Oh.  It's probably fair to say that that depends on what sorts of
+unusual tunings you're interested in.  If you expect to render *very* long,
+sustained chords, in exact JI with no vibrato or most any other expressive
+device, then better than 0.1Hz resoltion could potentially have value.  I'm
+inclined to thinkg that there probably aren't many musically-realistic
+cases that require that, though.
+
+   But as for what the MR-series' and ASR-X's resolution is, I confess that
+I don't personally know.  Presumably John Loffink's web page lists it.
+
+
+
+
+
+>I've been reading through the discussion on Ensoniqs that was going on
+>here recently,and I don't
+>quite get something : You said that  the MR and ASR-X can hold only one
+>"global" tuning,does this mean that it can only use one tuning at a time
+>on all MIDI channels ?
+
+   I have heard that to be the case here on the list, but I didn't myself
+make that that claim, nor do I personally know that for certain.  But they
+do support the MIDI tuning, which, from what little I do know of it, does
+have significant support for dynamic tuning.

@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Fri, 3 Jan 1997 21:19:49 -0800
+
+Subject: integral overtones
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> Perhaps a string player on this list would like to comment: has anyone
+ever
+> encountered a ''nice uniform string''? 
+
+   Dan's point is certainly valuable, and very amusingly put, but I think
+personally that there's only so much validity to it.  
+
+   I spent several years working on a program that decomposes musical tones
+into envelopes of harmonics or near-harmonics.  Based upon that experience,
+I really think it's fair to say that all of the common string and wind
+instruments have partials at frequencies sufficiently close to harmonics
+that, for the vast majority of musical purposes, they can be considered
+practically harmonic.  
+
+   You will find a fair number of subharmonics in those tones, by the way. 
+
+
+   Dan's point about very short notes is definitely an important caveat to
+that.  But those have to be very short notes indeed.  
+
+   Of course bells, timpani, xylophones, and of course snare drums, for
+example, are an entirely different question altogether.  The piano is
+definitely on the hairy edge, but still falls on the harmonic side.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 4 Jan 1997 06:55 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00997; Sat, 4 Jan 1997 06:58:35 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00995
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id VAA04711; Fri, 3 Jan 1997 21:58:33 -0800
+Date: Fri, 3 Jan 1997 21:58:33 -0800
+Message-Id: <32CDEFF9.6CD@ix.netcom.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

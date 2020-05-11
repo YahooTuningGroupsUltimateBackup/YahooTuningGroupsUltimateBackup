@@ -1,0 +1,119 @@
+source file: mills3.txt
+Date: Thu, 4 Sep 1997 21:22:12 +0200
+
+Subject: RE: Tuning of the 2nd sruti
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Paul Erlich wrote:
+
+>Unfortunately for theorists, practice does not always conform to the
+>theoretical value schisma=1 sruti. Being only 2 cents, it should not be
+>surprising that musicians would tend to ignore it in practice. The most
+>common occurence of this practice is at sruti 12, which can be used as
+>729/512 (611.730 cents) or 64/45 (609.776 cents) depending on the situation.
+>But the diaschismatic interpretation of the sruti system implies that 729/512
+>is 12 srutis while 64/45 is 11. Perhaps the best theoretical remedy would be
+>to consider a 10-sruti schisma-augmented perfect fourth (499.999 cents) a
+>consonant interval in its own right, and fix 729/512 as the correct tuning of
+>sruti 12.
+
+On the evidence I've got, which is purely the modes Manuel put on
+this list as well as the FTP site, I wouldn't say that a schisma
+is even theoretically 1 sruti.  As it took me a while to sort this
+out, I'll share my thoughts with the list.
+
+First, the sruti scale I'm using is:
+
+        s p r p s p r p s|p r p s|s p r p s p r p s
+
+With s a limma, r a chromatic semitone and p a syntonic comma.  I
+think these work out as:
+
+                  (s)   ( 8 -5 0)
+                  (r) = (-3 -1 2)H
+                  (p)   (-4 4 -1)
+
+Setting a schisma=0 means s=p+r.  Setting a diaschisma=0 means s=r.
+
+Most of the scales work as 5-limit harmony with the just version
+of this scale.  In some cases the schismic and diaschismic
+approximations both work.  The following scale doesn't make sense
+to me:
+
+3 2 4 3 2 4 4   Gandhaara Grama (Sarngadeva der. ma-grama)
+
+I suggest that Pa should be flat by p rather than s, so that the
+interval of 3 steps separating the tetrachords is a minor tone.
+Either this uses a different version of the sruti scale, or it is
+assumed that people will guess the correct tuning.  Or, my
+interpretation is wrong.
+
+
+This scale works as a diaschismic but not a schismic scale:
+
+2 6 1 4 2 6 1   Raga Bhairav
+
+I'm assuming the intervals of 6 steps should be just minor thirds,
+but I have no proof of this.
+
+
+I think the following scales imply schismic tuning:
+
+1 4 6 2 1 7 1   Raga Todi
+1 7 1 4 2 2 4 1 Raga Saurastra
+1 4 7 1 1 6 2   Raga Varali
+
+The intervals of 7 steps aren't right for diaschismic major thirds,
+so I'm assuming they should be schismic minor thirds.  The upper
+tetrachord of Varali suggests the same _diaschismic_ approximation
+as in Bhairav above!  That's consistent with the sruti scale being
+a kind of well temperament with no single interpretation.
+Because the tonic is always sruti 0, you don't have to worry
+about transpositional invariance, so this sort of thing is
+allowed.  Then again, the 6 steps could denote a Pythagorean
+minor third (5 -3)H.
+
+
+There are also some that may have 7-prime-limit intervals.  The
+following is the only one that doesn't work schismically:
+
+4 2 4 3 3 3 3   Gandhaara Grama (Narada der. sa-grama)
+
+The middle of the three 3's is 2s+p.  This can't be a minor tone.
+I suggest it should be the interval (-1 1 1 -1)H or 15/14.  It
+can be better represented as either r+r+p or s+p.  The two are
+identical in a schismic temperament, and the former is the
+diaschismic equivalent of 2s+p.  One of the other 3's will be
+(2 0 -2 1)H to compensate.  It's also possible that all the 3's
+are supposed to be roughly equal intervals, and no 7-limit
+interpretation is intended.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net
+Subject:  2-D FFTs
+PostedDate:  06-09-97 01:15:48
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  06-09-97 01:15:55-06-09-97 01:15:56,06-09-97 01:15:28-06-09-97 01:15:28
+DeliveredDate:  06-09-97 01:15:28
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256509.007FC8E7; Sat, 6 Sep 1997 01:15:45 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA15687; Sat, 6 Sep 1997 01:15:48 +0200
+Date: Sat, 6 Sep 1997 01:15:48 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA15690
+Received: (qmail 18551 invoked from network); 5 Sep 1997 23:15:38 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 5 Sep 1997 23:15:38 -0000
+Message-Id: <v01541100b0354f9d3d9e@[207.207.3.113]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

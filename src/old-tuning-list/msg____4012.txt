@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Thu, 14 Nov 1996 07:17:24 -0800
+
+Subject: Re: TUNING digest 892
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> Would it really be so difficult to get a suitable number of
+> standard MIDI keyboards and mechanically mount them close above
+> each other (like an organ but a lot closer), then set each to
+> it's own channel for input to a computer that does the real
+> work?
+
+   I've pondered that in a slightly different light.  I suppose to some degree
+that depends on what you mean by "keyboard".  Are you refering to the raw,
+internal keyboard mechanism (like those by FATAR or whoever) minus the internal
+electronics and then building a custom electronic and case setup around both?
+Or by "keyboard" do you mean a complete, off-the-shelf keyboard product, like
+for example a couple of DX-7s (or whatever) stacked close atop one another?  
+
+   If you mean the latter, then I see two problems to deal with:
+1.  The top keyboard will still be quite a bit above the bottom one, to the 
+    point where it's not terribly practical to finger both at the same time.
+    To a fair degree this applies to the individual mechanisms as well in a 
+    custom case.  The internal mechanisms aren't a whole lot narrower than
+    finished products.  
+2.  The top keyboard obscures the control buttons of the lower keyboard.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 14 Nov 1996 16:55 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08877; Thu, 14 Nov 1996 16:56:51 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA08618
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA05645; Thu, 14 Nov 1996 07:56:48 -0800
+Date: Thu, 14 Nov 1996 07:56:48 -0800
+Message-Id: <009AB5D4CB53C500.262D@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Mon, 25 Dec 1995 12:47:37 -0800
+
+Subject: RE:K2000 & Tuning
+
+From: HFORTUIN@delphi.com
+
+as James McCartney states, the K2000 is perfectly capable of being 
+alternately tuned. I found his technique very original, but there is a more
+straightforward method:
+
+When creating or editing your sample root to key assignments in the 
+Keymap editor, you will note that you can offset the pitch of any MIDI
+note number (actually, all but 0-11) by plus or minus 48 semitones, as well
+as plus or minus any number of cents up to 100 (= 1 semitone). Using this 
+method, you can divide your octave, twelfth, or whichever favorite interval
+ANY WAY YOU LIKE, provided that to-the-cent accuracy is good enough for you.
+
+If the thought of calculating these offset values intimidates you, you 
+might like a copy of a K2000 tuning program I've written for the Mac.
+It only outputs text files, and it doesn't yet assign the appropriate 
+sample root to your keys. However, it does calculate any just or equal
+division of the octave, and presents its results as offsets to each
+MIDI note no. 
+
+Regrettably, I haven't yet posted this on the web yet, but if enough of
+you are interested, or if someone can volunteer a chunk of cyberspace, 
+I'll be happy to do so. In the meantime, send me a personal requesting it.
+
+
+he program is stand-alone, and has an ugly command-line interface, but it 
+does the job.
+
+Harold Fortuin
+hfortuin@delphi.com
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 25 Dec 1995 22:05 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA05312; Mon, 25 Dec 1995 13:05:05 -0800
+Date: Mon, 25 Dec 1995 13:05:05 -0800
+Message-Id: <01HZ8A6RNNHK9BVQOK@delphi.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

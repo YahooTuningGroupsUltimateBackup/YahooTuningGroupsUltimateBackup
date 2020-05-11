@@ -1,0 +1,70 @@
+source file: mills2.txt
+Date: Sun, 3 Mar 1996 10:16:44 -0800
+
+Subject: Linus, Balzano
+
+From: non12@delta1.deltanet.com (John Chalmers)
+
+Linus: Congratulations on your daughter's success!
+ 
+Re Balzano: B seems to have independently discovered the principle 
+of propriety, though he called it "coherence. Basically it means that 
+the scale has no overlapping interval classes, i.e. that the largest 
+2nd is less than or equal to the smallest third for all melodic seconds 
+(intervals between adjacent tones) and melodic thirds (intervals between 
+every other tones), irrespective of their acoustical size  and similarly 
+for all scale interval classes.
+ 
+His other contribution to scale theory is his application of Group Theory 
+to scale generation. In analogy with the major mode in 12, Balzano created 
+a class of scales partitionable into chains of triads of the form 0 k 2k+1 
+and 0 k+1 2k+1, where k and k+1 are the number of scale degrees in the 
+mediant and conjugate-mediant ("Thirds") and 2k+1 is the dominant of 
+the triads, following Riemann's and Lewin's terminology. The "chromatic" 
+sets C thus have k(k+1) or k^2 +k tones, the generators (G) of the 
+diatonic sets have 2k+1 tones  and the diatonic sets (D) have 2k+1 tones.
+The K and k+1 are also the generators of groups of cardinality C. 
+ 
+Hence for 12-tet, k = 3, k+1 = 4, 2k+1 = 7, k^2+k = 12. Balzano studied 
+the case where k = 4, 5, and 6 and mentioned k=8 briefly. These correspond 
+to equal temperaments of 20, 30, 42, and 72 tones (56 is presumably 
+included). The diatonic sets and their generators have 9, 11, 13, and 17 
+tones respectively (15 for k = 7). 
+ 
+There are several problems with this theory. The set of predicted scales 
+misses several harmonically much better tunings by 1 degree with the  exceptions of 12 and 72-tet (19, 31, 41, also 29 and 43 are better by most
+criteria than 20, 30 and 42). Secondly, the triads are continually 
+shrinking as k gets larger, and the number of tones in the scale compared 
+to the number in the chromatic set also decreases. For example, in 72-tet, 
+only 17 of the 72 tones are in the scale, leaving the remaining 55 tones 
+as auxiliaries, alternates, or ornaments. The triads 0 8 17 and 0 9 17 are 
+essentially tone clusters of 0 133.3 283.3 and  0 150 283.3 cents. The 
+scale itself, consisting of 4 repeated blocks of  5 4 4 4 degrees and a 
+final interval of 4 degrees, is coherent (actually, strictly proper), 
+however. It is an MOS (as are all of Balzan's scales), though not a 
+"deep scale" (Winograd, Gamer, L= C/2 or C/2+1). 
+ 
+One might modify the theory and increase the number of "thirds" in the 
+basic chords and harmonize with 7th chords, whole-tone scales, etc. 
+(as did Yasser in 19-tet). Another possibility is to lengthen the chain 
+of generators to produce larger MOS's. Eleven tones out of 20-tet is a
+ better analog of the major scale than are 9, which really belong in 
+16-tet, assuming a fifth-like generator. By 11 out of 30, one is already 
+into an essentially non-diatonic realm of scales.
+ 
+All in all, Balzano's is an extremely interesting theory, which should be 
+tried compositionally (I believe a visiting composer at UCSD did write a 
+piece using larger chords in 20-tet, but I've not heard it).
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 4 Mar 1996 00:47 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA13018; Sun, 3 Mar 1996 15:46:54 -0800
+Date: Sun, 3 Mar 1996 15:46:54 -0800
+Message-Id: <9603031533198731@csst.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

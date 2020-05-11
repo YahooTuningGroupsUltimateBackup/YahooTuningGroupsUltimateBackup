@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Tue, 27 Feb 1996 07:42:30 -0800
+
+Subject: Re: 7:4 as a structural interval
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Tue, 27 Feb 1996, Kerr Jamieson wrote:
+> Re David B. Doty's message:-
+> >Re Mr. Tsuji's question "Can we meet the fifth somewhere?" If I understand
+> >this to mean "will some number of 7:4's = some number of 3:2's," the answer
+> >is "not in JI."
+> 
+> Surely seven of the one is half-a-dozen of the other in any context?
+> 
+> Or am I missing the point somewhere along the line?
+
+I think you are (no offense)--the question is not:
+
+   Are there integer X and Y such that (7/4) * X = (3/2) * Y ?
+
+but rather
+
+   Are there integer X and Y such that (7/4) ^ X = (3/2) ^ Y ?
+
+Since the prime factorization of any integer is unique, the answer is
+clearly "no".
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "A three-cushion player doesn't need to be married.
+     -\-\-- o               He already has enough aggravation."
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 27 Feb 1996 19:55 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA19433; Tue, 27 Feb 1996 10:55:00 -0800
+Date: Tue, 27 Feb 1996 10:55:00 -0800
+Message-Id: <9602271850.AA20996@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,86 @@
+source file: mills2.txt
+Date: Thu, 27 Feb 1997 15:02:07 -0800
+
+Subject: Happy 1000th,Aristoxenos
+
+From: John Chalmers <non12@deltanet.com>
+
+I'd like to second Adam's comments and express my appreciation to David
+Madole (and Greg Higgs) for starting and administering the Tuning List 
+for the past three years. The accumulated digests, Bibliography, and
+other FTP files, etc. are a unique resource containing information 
+accessible only with difficulty elsewhere, if at all.
+
+Some comments on recent digests:
+
+Plomp and Levelt's model is simpler to program and computes faster
+than Kameoka and Kuriyagawa's. I'm told they give essentially the 
+same results as far as predicting the relative dissonance of intervals
+in specific timbres.
+
+As for the use of 5/4. Eratosthenes, who may be responsible for
+the linear misinterpretation of Aristoxenos's parts, used 19/15 as his
+enharmonic ditone. By Ptolemy's time, the enharmonic was no longer
+used in popular music except as a semitonal pentatonic produced by
+gapping the diatonic sequence (Winnington-Ingram, Mesomedes hymns,
+etc.)
+
+Frankly, I'm somewhat suspicious of Ptolemy's enharmonic and chromatic 
+genera as they have a rough 1:2 division of the pyknon (Barbera), even 
+if  it meant that he had to reorder the intervals resulting from 
+"katapyknosis" to obtain usable superparticular ratios. But, I do 
+agree that the kithara and lyra tunings probably represent practice. 
+I also find his Equable Diatonic interesting as it resembles extant 
+3/4-tone Islamic diatonic tunings.
+
+Aristoxenos's (or Cleonides's) parts are still used by the Eastern 
+Orthodox Churches to describe their tetrachords, though at one time
+another system of 68 parts to the octave, 28 to the fourth was in use.
+(Savas, Xenakis, Athanasopoulos, Tiby, etc.). I do not know the origin
+of this system, however.
+
+I would agree with Dan that Aristo was a cognitive (proto)scientist 
+more concerned with perception rather than mathematical niceties. 
+Whatever he might have met, his scales are certainly worth hearing 
+and using, even if we tune them to some 0 mod 12 ET or even try to 
+interpret them as Ptolemy and Eratosthenes did as linear division. 
+I think he may also be a witness for his own contemporary practice as 
+he gives scales plausibly interpretable as Archytas's and the old 
+Pythagorean forms. He may also have been documenting the various 
+tuning of the relatively new chromatic genus.
+
+Kathleen Schlesinger also understood Aristoxenos to mean the 9/8 tone,
+but she then fantasically interpreted his genera in terms of a 
+part of 17+ cents and a fourth of 510+ cents to try to make it agree
+with theories.
+
+Has anyone actually tried repeating his experiment on a replica kithara
+without tuning machines? I suspect it wouldn't be hard to loose the 
+comma in the chain of intervals.
+
+I don't have copies of Barker's books handy and I would appreciate 
+it very much if someone could send me (or post) the "planetary scales" 
+in the several genera. I would like to check them against a list of
+correspondences with KS's harmoniai as used by the Anthroposophists,
+including Elsie Hamilton. Winnington-Ingram states that Censorinus
+and Pliny list planetary scales which resemble the Dorian and
+Phrygian of Aristides Q. with chromatic, rather than enharmonic,
+intervals. It would be interesting to see if Steiner's correspondences
+are the same as the Greek theorists and writers, but I am unable to
+get either the classical or Steiner's texts at the moment.
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 28 Feb 1997 00:05 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA32458; Fri, 28 Feb 1997 00:05:12 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA32445
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id PAA11539; Thu, 27 Feb 1997 15:03:01 -0800
+Date: Thu, 27 Feb 1997 15:03:01 -0800
+Message-Id: <Pine.SCO.3.91.970227133015.19872C-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

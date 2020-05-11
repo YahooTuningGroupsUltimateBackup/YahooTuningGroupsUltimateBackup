@@ -1,0 +1,127 @@
+source file: mills3.txt
+Date: Sat, 30 Aug 1997 14:11:13 +0200
+
+Subject: Re: 5-limit in India?
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+John Chalmers wrote:
+
+> A 4th century CE (AD) date for the Indian 22 shruti scale certainly allows
+> for Greek influence. Alexander the Great reached the Indus in the 4rd
+> century BCE and a Greek state lasted in Khorasmia until Roman times. Greek
+> astronomy clearly influenced Indian astronomy (the Paulisa Siddhanta,
+> Romaka Siddhanta, Surya S. etc. ) at an early date, thought to be  around
+> 4th century CE by Neugebauer). Since the chief music theorists of the
+> Hellenistic period were also astronomers, I see no problem with their being
+> a Greek influence on music as well, or at least on music theory.
+
+I'd have thought it was more likely that the influence was in the
+other direction.  It's the Greeks (Pythagoras, Plato) who were in the
+habit of fitting musical scales to mathematical ideas, without worrying
+about music as an art.  Ideas about music could have been spread by
+traders, but it would have taken a long time for them to be taken up
+as common practice.  700 years, in fact.
+
+Paul Erlich wrote:
+
+>I'm not sure whether you were trying to say that the specification comma=1,
+>diaschisma=0, leads unambiguously to 22 tones while your previous
+>specification comma=diesis could lead to 12, 22, 34, or 46. If this is what
+>you were saying, can you guide us through the math?
+
+No, I'm suggesting that the 22 note sruti scale is best interpreted
+as a tempered scale with diaschisma=0.  The number of notes you need
+is the smallest number that make all the distinctions you require.
+Once you decide that commas are important, 22tet is the first ET that
+includes them which is no worse an approximation than 12tet.  A 4th
+Century Indian theorist trying to fit observed scales to a set of
+roughly equal intervals could well have hit upon 22 steps.  There are
+other choices that could have been made, but 22 is a historical fact.
+
+In the same way, medieval Arabic music makes best sense with Skhismatic,
+and Renaissance European music with Syntonic, temperament.
+
+> I believe that the sa- and ma- gramas were tuned by ear (with 5-limit
+> intervals) by musicians before theorists decided to quantify them in
+> terms of a 22-tone scale.
+
+That's my suspicion as well.  The 22 note scale seems to be a
+solution to problems in intonation that arose through the use of
+5-limit scales.  It makes absolute sense to me as a 20th Century
+European theorist.
+
+> The Pythagorean series was more important in ancient musical
+> theory than it is now; for example the medieval Arabs used a 17-tone
+> Pythagorean series to quantify some apparently 5-limit scales.
+
+The Pythagorean series was important in cultures that didn't
+recognise the syntonic comma.  Is it right that Chinese music
+theory mentions 12 note Pythagorean scales?  The Medieval Arabs
+and Europeans took up Pythagorean ideas because they placed a
+high value on Greek learning.  I don't see that this applies to
+India.  The 22 note scale could have arisen from 11 gramas, but
+the gramas don't look like Pythagorean scales.  If the sruti
+scale is influenced by Pythagorean ideas, why no mention of
+frequency ratios?
+
+We've decided behind the scenes that the sruti scale looks like
+this in doubly positive temperament:
+
+          r q r q r q r q r q r q r r q r q r q r q r
+         S   r   R   g G   M   m   P   d   D   n N   S'
+
+The basis here is:
+
+              (r) = (  8  -5)H
+              (q)   (-11.5 6)
+
+The two notes that can't be altered by q are Sa and Pa.  Sa is
+the tonic of Indian scales, and so is an obvious choice to keep
+fixed.  The fifth from this can also be kept perfect.  The 22
+notes are generated from cycles of fifths about each of these
+points.  This is the obvious 22 note scale to use for Indian
+music, as I understand it.
+
+My own belief, for which I have no evidence, is that, if 5-limit
+harmony has a single origin, it was in a culture that performed
+choral music.  When a large number of people sing together,
+harmony becomes important.  If 5-limit intervals are considered
+desirable, they will be easy enough to recognise.  I know of no
+ancient Greek or Indian choral music, so the chances are that they
+both learnt it from a third people.  As choral music leaves no
+instruments to be dug up by archaeologists, we'll probably never
+know who this people was.  The existence of the 22 note scale,
+and it's persistence -- at least in theory -- to the present day,
+suggests that 5-limit scales were well established in India by the
+4th Century AD.  From the Greeks, we know that they had been around
+for at least 700 years by then.  That's all I know.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk
+Subject:  Tuning of the 2nd sruti
+PostedDate:  31-08-97 19:51:06
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-09-97 17:08:21-01-09-97 17:37:53,01-09-97 17:37:36-01-09-97 17:37:38
+DeliveredDate:  01-09-97 17:37:38
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256505.00532674; Mon, 1 Sep 1997 17:08:13 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09788; Sun, 31 Aug 1997 19:51:06 +0200
+Date: Sun, 31 Aug 1997 19:51:06 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA09785
+Received: (qmail 1932 invoked from network); 31 Aug 1997 17:51:02 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 31 Aug 1997 17:51:02 -0000
+Message-Id: <memo.893941@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

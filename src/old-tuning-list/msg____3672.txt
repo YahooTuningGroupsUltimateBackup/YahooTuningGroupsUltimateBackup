@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Tue, 24 Sep 1996 22:43:42 -0700
+
+Subject: problems with jic again
+
+From: sashabog@cats.ucsc.edu
+
+i'm a grad student here at ucsanta cruz trying to do last minute preparations
+for my class i'm teaching this quarter on just intonation. (more on it at a 
+later time)now i'm having to main problems with jic
+1) i'm trying to send my tunings from jic 4.21 on my powermac to an tx8iz and 
+it seems to respond with the message " midi buffer full" and seems to get a very jumbled
+up version of the tuning. Does anyone know how i can get around this?
+
+2) now i'm tryingg to send my tunings from jic 4.1 on a mac se/30 to the same
+tx8iz and it seems to respond fine, only know i want all the tunings i have on
+the 4.21 version (on the powermac) to be transferred to the 4.1 version (on
+the mac se/30. How do i do this? I read in the help section that disk can do it
+but its quite vague. where does it save it and how to i transfer it?
+
+Can anyone be of help to this poor grad student to get his class up and running?
+thanks in advance.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 25 Sep 1996 09:47 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24101; Wed, 25 Sep 1996 05:30:04 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA24405
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id UAA03970; Tue, 24 Sep 1996 20:30:02 -0700
+Date: Tue, 24 Sep 1996 20:30:02 -0700
+Message-Id: <199609250329.UAA03897@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

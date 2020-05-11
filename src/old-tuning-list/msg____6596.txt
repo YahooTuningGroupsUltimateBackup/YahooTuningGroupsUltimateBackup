@@ -1,0 +1,83 @@
+source file: mills3.txt
+Date: Fri, 12 Dec 1997 07:00:58 +0100
+
+Subject: More on 22-tone equal
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+I wish to clarify my statements regarding the tone of 22-tone equal.
+
+This temperament does not merge 10:9 (182 cents) and 9:8 (204 cents) in
+the sense that it does not merge the two at a value intermediate between
+the two( as _do_ the harmonically usable temperaments) but it does merge
+them at a value quite divergent from both, namely at 218 cents. So in
+one sense it does not merge (or compromise between) the two species of
+tone, but in another sense it does merge them, at a very unfortunate
+excentric value.
+
+ In other terms, 22-tone equal eliminates the comma only to break the
+back of the cycle of fifths, harmonically considered. It also reduces
+the diatonic semitone from 112 cents to 55, and the chromatic semitone
+it swells enormously from 71 cents to 164, presuming the fifths are held
+consonant at 709 cents. I suppose someone will announce they adore music
+without any consonant fifths, and if possible, without any other
+consonances either, but no matter. It would be hard to find a more
+grotesque temperament for any purpose of melody, whether diatonic,
+chromatic or enharmonic.
+
+On the other hand... this system is _so_ outrageous that perhaps one
+should give it the benefit of the doubt! Perhaps it will find wide use
+as an example of what exquisitely mistuned intervals sound like.
+
+All harmonically usable temperaments: 12- 19- 31- 43- 50- 55-tone equal,
+etc merge the two species of tone at a value intermediate between 10:9 &
+9:8. This permits the cycles of the fifth, major third and minor third
+to be integrated within a single coherent system. These temperaments
+divide the tone into 2,3,5,7,8 & 9 equal parts respectively.
+
+It is interesting that no usable temperament divides the tone into four
+equal parts. Both 22- and 24-tone equal do so, and both are dogs, though
+for very different reasons. There is also a gap in the sequence at 6.
+
+It occurs to me that I might make my points concerning 22-tone equal
+easier to understand by giving at least the first few fifths of the
+system. I start on C, purely out of reverence for tradition:
+
+	etc	F		C		G		D		
+A		E		B		F#	etc
+		491		0		709		218		
+927		427		1145	654
+
+Note the very narrow diatonic semitone between E & F, and the very wide
+chromatic semitone between F & F#. It occurs to me that Pythagoreans
+bored with their chosen system, and who want to _really_ get hold of
+some mistuned intervals, might love all this.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  Gibson's modes
+PostedDate:  12-12-97 14:41:37
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-12-97 14:39:46-12-12-97 14:39:47,12-12-97 14:39:30-12-12-97 14:39:30
+DeliveredDate:  12-12-97 14:39:30
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656B.004B08C4; Fri, 12 Dec 1997 14:41:30 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13792; Fri, 12 Dec 1997 14:41:37 +0100
+Date: Fri, 12 Dec 1997 14:41:37 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA13779
+Received: (qmail 9685 invoked from network); 12 Dec 1997 05:41:30 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Dec 1997 05:41:30 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971211190408Z-1918@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

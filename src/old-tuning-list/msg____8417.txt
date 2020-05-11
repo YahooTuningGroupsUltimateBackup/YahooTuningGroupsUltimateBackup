@@ -1,0 +1,98 @@
+source file: m1517.txt
+Date: Fri, 28 Aug 1998 12:13:19 +0530
+
+Subject: [Fwd: ethnic music on standard keyboards]
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+This is a multi-part message in MIME format.
+--------------D806B24825AF367BC066B24D
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Tetsuji Katsuda just posted this on the Electronic
+music discussion list.:
+
+
+Subject: 
+          ethnic music on standard keyboards
+      Date: 
+          Tue, 25 Aug 1998 11:49:12 +0900
+     From: 
+          Tetsuji Katsuda <katsuda@NET.EMAIL.NE.JP>
+
+       To: 
+          EMUSIC-L@AMERICAN.EDU
+ 
+
+
+Hello, this is Tetsuji from Japan.
+I am the person who asked "how to reproduce ethnic music scale on MIDI"
+on
+July.
+I finally developed a program that enables micro-tuning of MIDI devices.
+The program runs on Windows-98 environment and creates a SMF.
+If you are interested in my program, please visit
+http://www.asahi-net.or.jp/~HB9T-KTD/music/muse.html
+and down-loat the program.
+There is another program that creates ethnic music automatically, also.
+
+Thanks,
+Tetsuji Katsuda
+--------------D806B24825AF367BC066B24D
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Received: from hiroshima.american.edu (hiroshima.american.edu [147.9.1.18])
+	by bom2.vsnl.net.in (8.8.5/8.8.8) with ESMTP id VAA22516
+	for <steele@BOM2.VSNL.NET.IN>; Tue, 25 Aug 1998 21:00:21 +0530 (IST)
+Received: from atlanta (atlanta.american.edu [147.9.1.6])
+	by hiroshima.american.edu (8.8.6/8.8.6) with ESMTP id JAA29155;
+	Tue, 25 Aug 1998 09:31:18 -0400 (EDT)
+Received: from AMERICAN.EDU by AMERICAN.EDU (LISTSERV-TCP/IP release 1.8c) with
+          spool id 671268 for EMUSIC-L@AMERICAN.EDU; Tue, 25 Aug 1998 09:31:23
+          -0400
+Received: from hiroshima.american.edu (hiroshima.american.edu [147.9.1.18]) by
+          atlanta.american.edu (8.8.5/8.8.5) with ESMTP id JAA24717 for
+          <emusic-l@listserv.american.edu>; Tue, 25 Aug 1998 09:31:08 -0400
+Received: (from daemon@localhost) by hiroshima.american.edu (8.8.6/8.8.6) id
+          JAA16192 for emusic-l@listserv.american.edu; Tue, 25 Aug 1998
+          09:30:50 -0400 (EDT)
+Received: from leo.asahi-net.or.jp (leo.asahi-net.or.jp [202.224.39.56]) by
+          hiroshima.american.edu (8.8.6/8.8.6) with ESMTP id JAA09007 for
+          <EMUSIC-L@american.edu>; Tue, 25 Aug 1998 09:30:48 -0400 (EDT)
+Received: from net.email.ne.jp (ppp194123.asahi-net.or.jp [210.155.194.123]) by
+          leo.asahi-net.or.jp (8.8.8/3.6W) with ESMTP id WAA04262 for
+          <EMUSIC-L@american.edu>; Tue, 25 Aug 1998 22:36:51 +0900 (JST)
+X-Mailer: Mozilla 4.04 [ja] (Win95; I)
+MIME-Version: 1.0
+References: <199806292016.QAA12472@smtp.interlog.com>
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+Message-ID:  <35E22628.79EC7B90@net.email.ne.jp>
+Date:         Tue, 25 Aug 1998 11:49:12 +0900
+Reply-To: Electronic Music Discussion List <EMUSIC-L@AMERICAN.EDU>
+Sender: Electronic Music Discussion List <EMUSIC-L@AMERICAN.EDU>
+From: Tetsuji Katsuda <katsuda@NET.EMAIL.NE.JP>
+Subject:      ethnic music on standard keyboards
+To: EMUSIC-L@AMERICAN.EDU
+X-Status: 
+
+Hello, this is Tetsuji from Japan.
+I am the person who asked "how to reproduce ethnic music scale on MIDI" on
+July.
+I finally developed a program that enables micro-tuning of MIDI devices.
+The program runs on Windows-98 environment and creates a SMF.
+If you are interested in my program, please visit
+http://www.asahi-net.or.jp/~HB9T-KTD/music/muse.html
+and down-loat the program.
+There is another program that creates ethnic music automatically, also.
+
+Thanks,
+Tetsuji Katsuda
+
+
+--------------D806B24825AF367BC066B24D--

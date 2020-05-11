@@ -1,0 +1,301 @@
+source file: m1483.txt
+Date: Fri, 24 Jul 1998 00:21:52 -0700 (PDT)
+
+Subject: Re: Nano-temperament
+
+From: "M. Schulter" <mschulter@value.net>
+
+[Please note that this article is a draft which may have some mathematical
+bugs and glitches, but I hope that the concepts at any rate are
+interesting -- M.S.]
+
+In digital music, as in the digital graphic arts, one must adapt
+"continuous-tone" concepts to the technical realities of devices
+limited to a set of discrete colors or tones. Thus a monochrome laser
+printer can, strictly speaking, produce only black and white dots, not
+intermediate shades. A synthesizer with 768 or 1024 steps per octave
+can produce only these tones, not the precise intermediate values
+required for a given tuning scheme.
+
+In the case of the laser printer, we can gain the visual effect of
+intermediate shades of gray by a process of _halftoning_: grouping
+black and white dots into repeated patterns, or halftone cells,
+produces an impression of gray shading.
+
+Similarly, with a microtunable synthesizer, it is possible to mix
+slightly different interval sizes in order to approximate an
+intermediate value. Here I shall first give a simple example of this
+technique in approximating Pythagorean tuning with a synthesizer such
+as the Yahama TX81Z having 768 steps per octave, and then consider the
+somewhat more intricate example of approximating 17-tone equal
+temperament (17-tet) on a device with 768 or 1024 steps per octave.
+
+A possible term for this technique is _nano-temperament_, the
+deliberate variation of intervals by very small quantities, typically
+on the order of one synthesizer tuning unit (e.g. 1.5625 cents on a
+768-step device, or 1.171875 cents on a 1024-step device). Since
+"microtonal" variations are often somewhat larger, for example the
+5.38-cent tempering of the fifth in 1/4-comma meantone, the term
+"nano-temperament" may be descriptive.
+
+In fact, nano-temperament may be a useful technique in generating a
+wide variety of temperaments, for example different shades of
+historical and contemporary meantone. The following examples, which
+focus on a Gothic or Xeno-Gothic worldview where fifths and fourths
+are the primary harmonic intervals, should be taken as a reflection of
+one side of the author's tastes, not of the scope of the technique
+itself.
+
+
+----------------------------------
+1. Nano-temperament: A simple case
+----------------------------------
+
+The problem of approximating a classic Pythagorean tuning on a
+synthesizer provides a ready introduction to nano-temperament. 
+Interestingly, this is a case where in practice nano-temperament seems
+useful on a 768-step device but superfluous on a 1024-step device.
+
+Let us first consider the latter device, where each discrete tuning
+step is equal to 1200/1024 or 1.171875 cents. As it happens, 599 of
+these steps produce an interval of 701.953125 cents, or only about
+002 cents narrower than a pure 3:2 fifth (about 701.955 cents).
+
+While one might suspect that the choice of 1024 steps per octave as a
+standard has more to do with the binary status of this number as 2^10
+(making the octave a convenient digital kilostep) than with a taste
+for precise Pythagorean tuning, nevertheless this choice generates an
+extraordinarily close approximation of a just fifth.
+
+With the very popular standard of 768 steps per octave, however, the
+approximation is not quite so close. Taking 449 steps of 1200/768 or
+1.5625 cents, we produce a fifth of 701.5625 cents, or about .3925
+cents narrow.
+
+If we consider only a single fifth, this is a very reasonable
+approximation, being about five times closer to just than 12-tet, in
+which fifths are often considered "nearly pure."
+
+If we consider other intervals generated from a series of such fifths,
+however, then this small error becomes cumulative, possibly having
+tangible effects on the aural quality of such intervals.
+
+Let us consider, for example, the Pythagorean major third. In Gothic
+and related contexts, this is an active interval, ideally having a
+ratio of 81:64 (about 407.82 cents). Four fifths of 701.5625 cents,
+however, produce a slightly narrow major third of 406.25 cents, or
+about 1.57 (.3925 x 4) cents smaller than our ideal size.
+
+Is this a distinction with a musical difference? At least one author,
+Easley Blackwood, suggests a demarcation line at around 406 cents as
+the point where major thirds become too active to serve pleasingly as
+points of harmonic repose -- corresponding in regular tunings to a
+fifth of around 701.5 cents.[1] Thus if we want the extra bit of
+"edge" that would make our major third unequivocally Pythagorean and
+active, some adjustment might not be out of place.
+
+Fortunately, it is possible to make this adjustment simply by making
+one fifth out of four an extra tuning step large: 450 steps rather
+than the usual 499. This yields a fifth of 703.125 cents, or about
+1.17 cents wide -- almost exactly correcting the error of the other
+three fifths, each .3925 cents narrow.
+
+Nano-tempering one fifth out of each four in our tuning chain thus
+produces a major third equal to three 449-step fifths plus one
+450-step fifth. From this sum of 1797 steps, we factor out two octaves
+(1536 steps), arriving at a size of 261 steps, or 407.8125 cents, only
+about 0.0075 cents from an ideal 81:64.
+
+Curiously, this is the same result we get with four equal fifths of
+599 steps on a 1024-step device, which yields a major third with a
+size of (2396 - 2048) or 348 steps, also 407.8125 cents. Such an
+outcome is not so surprising, since three steps on a 768-step device
+are equal to four steps on a 1024-step device. Both results, in fact,
+are equivalent to 87 steps in 256-tet.
+
+
+---------------------------------------------
+1.1. Pythagorean nano-temperament in practice
+---------------------------------------------
+
+Applying these techniques to an actual chain of fifths, we might
+choose the following scheme for 768-step devices, with "s" and "l"
+meaning small and large fifths respectively:
+
+           l    s   s   s   l   s   s   s   l    s    s           
+768     Eb   Bb   F   C   G   D   A   E   B   F#   C#   G#
+
+                   s = 449#768 = 701.56  cents
+                   l = 450#768 = 703.125 cents
+
+A nano-temperament of this kind involves a slight compromise in the
+quality of the fifths intentionally tuned a bit further from just in
+order to compensate for cumulative errors in the other direction. Such
+compromises, fortunately, are typically much milder than those
+encountered in traditional kinds of temperament. Here each wide fifth
+of 703.125 cents, although three times as far from pure as the other
+very slightly narrow fifths, is still only about 1.17 cents or about
+1/20 Pythagorean comma from just. At c'-g' (the fifth on middle C),
+this tempering would produce one beat each 1.88 seconds or so.
+
+It should also be noticed that while all major thirds will have as
+generating intervals three small fifths and one large fifth, thus all
+sharing the same nearly-ideal Pythagorean size, other intervals will
+vary somewhat.
+
+For example, major sixths or minor thirds may result either from three
+small fifths, or from two small fifths plus one large one. The former
+arrangement results in a slightly "subdued" interval about 1.17 cents
+narrower than 27:16 in the case of M6, or wider in the case of m3. The
+latter arrangement produces an even more slightly "super-vibrant"
+interval just .3925 cents narrower than a precise Pythagorean tuning
+in the case of M6, and the same amount narrower for m3.
+
+
+------------------------------
+
+Topic No. 3
+2. Nano-temperament for 17-tet
+------------------------------
+
+Topic No. 4
+
+One way of viewing 17-tet is as a kind of exaggerated Pythagorean
+tuning. Fifths are equal to ten scale steps of about 70.588 cents, or
+705.88 cents. Major thirds are equal to six steps, or 423.53 cents,
+roughly midway between the Pythagorean 81:64 (407.82 cents) and the
+9:7 form of some extended just intonation systems (435.08 cents).
+While the question of what to do with the latter interval might have
+many answers, an obvious one from a medievalist viewpoint is "Let it
+expand to a fifth by conjunct contrary motion."
+
+This scale also provides a minor seventh (14 steps) of 988.24 cents,
+about a third of the way from the Pythagorean 16:9 (996.09 cents) to a
+7:4 (968.83 cents). The major second (3 steps) of 211.76 cents is
+likewise about a third of the way from a Pythagorean 9:8 (203.91
+cents) to 8:7 (231.17 cents).
+
+Translating a scale step in 17-tet into sythesizer tuning units, we
+find that one scale step equals about 45.176 units on a 768-step
+device, or 60.235 units on a 1024-step device. Thus the closest
+approximation to a scale step is 45 tuning units on a 768-step device
+or 60 units on a 1024-step device, in either case 70.3125 cents (about
+276 cents narrow).[2]
+
+To correct for this error, we might add an extra tuning step for every
+four scale steps on a 1024-step device, or every six steps on a
+768-step device:
+
+
+----------------------------------------------------------------------
+         17-tet                   768-tet              1024-tet           
+interval steps  cents     steps  cents    +/-     steps   cents   +/-
+----------------------------------------------------------------------
+Unison    0     0.000      0     0.000   0.000      0      0.00  0.000
+m2        1    70.588     46*   71.875  +1.287     61*   71.484 +0.896 
+A1        2   141.176     91   142.188  +1.012    121   141.797 +0.621    
+M2        3   211.765    136   212.500  +0.735    181   212.109 +0.346
+m3        4   282.353    181   282.813  +0.460    241   282.422 +0.069
+A2        5   352.941    226   353.125  +0.184    302*  353.906 +0.965
+M3        6   423.529    271   423.437  -0.092    362   424.186 +0.657 
+4         7   494.118    317*  495.313  +1.195    422   494.531 +0.413
+d5        8   564.706    362   565.625  +0.919    482   564.844 +0.138
+A4        9   635.294    407   635.938  +0.644    543*  636.328 +1.034
+5        10   705.882    452   706.250  +0.368    603   706.641 +0.759
+m6       11   776.471    497   776.563  +0.092    663   776.953 +0.482
+d7       12   847.059    542   846.875  -0.184    723   847.266 +0.207
+M6       13   917.647    588*  918.750  +1.103    784*  918.750 +1.103
+m7       14   988.235    633   989.063  +0.827    844   989.063 +0.827
+A6       15  1058.824    678  1059.375  +0.551    904  1059.375 +0.551
+M7       16  1129.412    723  1129.688  +0.276    964  1129.688 +0.276
+8        17  1200.000    768  1200.000   0.000   1024  1200.000  0.000        
+-----------------------------------------------------------------------
+
+For both 768-tet and 1024-tet devices, an asterisk (*) indicates that
+the last scale step has an extra tuning unit: 46 units (71.875 cents)
+in 768-tet, and 61 units (71.484 cents) in 1024-tet.
+
+Adding what might be called an "intercalary" tuning unit every six
+steps in 768-tet or four steps in 1024-tet (rather like a leap year)
+gives a close approximation of 17-tet.[3] However, this simple pattern
+does cause some intervals to vary from their ideal size by more than
+half of a tuning unit. Making a correction only when an error of at
+least half a tuning unit would otherwise occur results in a scheme
+like this:
+
+----------------------------------------------------------------------
+         17-tet                   768-tet              1024-tet           
+interval steps  cents     steps  cents    +/-     steps   cents   +/-
+----------------------------------------------------------------------
+Unison    0     0.000      0     0.000   0.000      0      0.00  0.000
+m2        1    70.588     45    70.313  -0.275     60    70.313 -0.275 
+A1        2   141.176     90   140.625  -0.551    120   140.625 -0.551    
+M2        3   211.765    136*  212.500  +0.735    181*  212.109 +0.346
+m3        4   282.353    181   282.813  +0.460    241   282.422 +0.069
+A2        5   352.941    226   353.125  +0.184    301   352.734 -0.207
+M3        6   423.529    271   423.437  -0.092    361   423.047 -0.482 
+4         7   494.118    316   493.750  -0.368    422*  494.531 +0.413
+d5        8   564.706    361   564.063  -0.643    482   564.844 +0.138
+A4        9   635.294    407*  635.938  +0.644    542   635.156 -0.138
+5        10   705.882    452   706.250  +0.368    602   705.469 -0.413
+m6       11   776.471    497   776.563  +0.092    663*  776.953 +0.482
+d7       12   847.059    542   846.875  -0.184    723   847.266 +0.207
+M6       13   917.647    587   917.188  -0.459    783   917.578 -0.069
+m7       14   988.235    632   987.500  -0.735    843   987.891 -0.344
+A6       15  1058.824    678* 1059.375  +0.551    904* 1059.375 +0.551
+M7       16  1129.412    723  1129.688  +0.276    964  1129.688 +0.276
+8        17  1200.000    768  1200.000   0.000   1024  1200.000  0.000        
+-----------------------------------------------------------------------
+
+
+-------------
+3. Conclusion
+-------------
+
+The method of nano-temperament seems useful in a range of musical
+contexts, for example in approximating various shades of meantone.
+Since a meantone major third is derived from four fifths, it is
+possible by varying the size of _some_ of these fifths by one tuning
+unit to achieve shades of _average_ temperament only 1/4 tuning unit
+apart. The major thirds will vary by an amount four times this size: a
+single tuning unit.
+
+In many ways, nano-temperament presents a kinder and gentler version
+of usual tuning dilemmas: some intervals are might slightly less pure
+in order to avoid larger discrepancies or inconsistencies. As the use
+of synthesizers for historical and new scales and temperaments becomes
+more common, this technique invites further exploration.
+
+
+                       ---------------------
+                               Notes
+                       ---------------------
+
+1. Easley Blackwood, _The Structure of Recognizable Diatonic Tunings_
+(Princeton: Princeton University Press, 1985), pp. 202-203. Blackwood
+sets "the largest permissible fifth" for music where thirds are stable
+intervals at about 701.5 cents.
+
+2. Pythagorean tuning enthusiasts may take note that a 17-tet step of
+70.588 cents is not far from three Pythagorean commas of around 23.46
+cents, or 70.38 cents. As it happens, both 768-tet and 1024-tet give
+an excellent approximation of this comma with 15 and 20 tuning units
+respectively, either yielding 23.4375 cents.
+
+3. This "intercalary" metaphor is much indebted to Guido d'Arezzo, who
+compares an octave to a week: "Just as when seven days have elapsed we
+repeat the same ones, so that we always name the first and eighth days
+the same; so we always represent and name the first and eighth notes
+the same way..." See Guido's _Micrologus_ (c. 1030?), translated in
+Warren Badd, tr., Claude V. Palisca, ed., _Hucbald, Guido, and John on
+Music: Three Medieval Treatises_ (Yale University Press: New Haven,
+1978), at p. 61. Guido's metaphor has a special appeal because the
+term "octave" is indeed used in the liturgical calendar to signify the
+interval of a week. Given the complexities of calendar reform,
+possibly comparing an interval tuned slighter wider (or narrower) than
+the closest approximation on a digital device to a "leap year" is not
+so inapposite.
+
+Margo Schulter
+mschulter@value.net
+22 July 1998

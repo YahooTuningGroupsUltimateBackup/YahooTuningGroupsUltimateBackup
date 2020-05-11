@@ -1,0 +1,56 @@
+source file: mills2.txt
+Date: Wed, 18 Dec 1996 06:29:41 -0800
+
+Subject: RE: Longuet-Higgins Question
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Longuet-Higgins, H. Christopher.
+
+       AUTHOR: Kurenniemi, Erkki
+        TITLE: Divisor harmonies
+       SOURCE: Musiikki vol. 19, no. 1-4, 1989, p. 462-472. ISSN: 0355-1059. 
+     LANGUAGE: English.
+     DOC TYPE: as -- Article in a symposium
+        CLASS: Theory, analysis, and composition: Harmony, counterpoint, 
+               voice-leading 
+               Music and related disciplines: Physics, mathematics, 
+               acoustics, architecture
+     ABSTRACT: Describes a class of chords called divisor harmonies, which 
+               lead to: (1) a new theory of harmony; (2) the denial of 
+               octave equivalence and changes in the concepts of tonality, 
+               scale, and rhythm; (3) a theory of microtonality; (4) and 
+               connections between this theory and auditory neural 
+               structures. Precursors of the theory of divisor harmonies 
+               include Leonhard Euler's 1738 theory of harmony and 
+               Christopher Longuet-Higgin's harmonic space. To determine a 
+               given divisor harmony, choose any tone and call it the 
+               fundamental. Construct the harmonic overtone series of this 
+               fundamental. Second, choose a natural number n (1,2,3,4,...) 
+               and select the nth harmonic of the fundamental. Call this 
+               overtone the sampler. Third, form the descending inverted 
+               overtone series starting at the sampler. Fourth, retain those 
+               pitches which belong both to the overtone series and the 
+               undertone series and discard all else. The divisor harmony Hn 
+               consists of those overtones of the fundamental which also are 
+               undertones of the sampler. The divisor harmonies are simply 
+               set harmonies consist of the pitches common to the overtone 
+               and undertone series for any given tone.
+      SUBJECT: > harmony--divisor theory--introduction
+               > Euler, Leonhard--views about harmony
+               > Longuet-Higgins, H. Christopher--views about harmonic space
+               > temperament and tuning--microtonality--role in divisor 
+               harmony theory
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Dec 1996 16:03 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01683; Wed, 18 Dec 1996 16:05:18 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01681
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA10627; Wed, 18 Dec 1996 07:05:14 -0800
+Date: Wed, 18 Dec 1996 07:05:14 -0800
+Message-Id: <199612180959_MC1-D68-E6F7@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

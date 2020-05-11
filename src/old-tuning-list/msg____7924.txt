@@ -1,0 +1,72 @@
+source file: m1427.txt
+Date: Tue, 26 May 1998 08:16:38 +0000
+
+Subject: root moving
+
+From: BUYO-BUYO-IGOR <igor@db3.so-net.ne.jp>
+
+thanx Mr. Nowitzky for your interest.
+
+since i usually play bass....i didn't like the idea that the root staying at
+ the same place..
+what i'm trying to do is to give a freedom to root by handling 233.609hz as 
+a common harmonics...
+the music doesn't have to have 233.609 existing all the time and when improvising
+ to the prepared dat thang .... players can even go away from this harmonic 
+structure...
+but we will say "this music has hidden 233.609 as its gravity"...too musch harmolodic
+? 
+
+so if using your tablet from..it would be like this...i think..
+
+i checked the calculation ...and oh my buddha!!
+241.145 was the 16/31 of 233.609...it had to be 249.183(8/15)...
+
+        Freq    Name          Times "root"
+        ------- ----    -------------------------
+        233.609 root            1/1   233.609
+        233.609 9th             9/8   207.652
+        233.609 13th         13/8   287.519
+        233.609 5th             3/2    155.739
+        233.609 M7           15/8    249.183
+        233.609 3rd             5/4    186.887
+
+
+>>http://www.mars.dti.ne.jp/~buyobuyo/songs/five.html
+>>
+>>207.652
+>>287.519
+>>155.739
+>>241.145
+>>186.887
+>>
+>>these all have common harmonics
+>>
+>>233.609
+>
+>I'm having trouble seeing the harmonic relation on a couple of the above
+>notes.  Here's what I get:
+>
+>        Freq    Name    Times "root" (233.609 Hz)
+>        ------- ----    -------------------------
+>        233.609 Bb      1/1
+>        207.652 Ab      8/9
+>        287.519 Db?     ?
+>        155.739 Eb      2/3
+>        241.145 B?      ?
+>        186.887 Gb      4/5
+>
+>I cannot determine where 287.519 and 241.145 fit.  For example, the closest
+>things I can find for 287.519 Hz are:
+>
+>        207.652 Ab * 4/3 = 276.869, or
+>        186.887 Gb * 3/2 = 280.331.
+BUYO-BUYO-IGOR----------------------
+mizumushi@bigfoot.com
+
+SaRiGaMa's Oil Vending Orchestra
+http://i.am/sarigama
+HOMELESS-HOMEPAGE
+http://i.am/homeless
+Be Our "Oshaberist" (for big-mouth-girls only!)
+http://i.am/oshaberi

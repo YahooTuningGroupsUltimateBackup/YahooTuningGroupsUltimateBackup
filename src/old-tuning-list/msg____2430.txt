@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Wed, 3 Jan 1996 15:50:39 -0800
+
+Subject: Ensoniq MR rack
+
+From: marcus@fa.disney.com
+
+I was reviewing the tuning digests and rediscovered Steve Curtin's October post
+regarding the MR:
+
+> While I'm here though, there's a new synth we've just announced called the
+> MR-rack, which is the first synth shipped with my Midi Tuning Standard
+> implementation.  Both the bulk dump and note-change messages are supported,
+> and the product's been tested with JICalc on the Mac and Midi Tuning Wrench
+
+So, like, has anybody on this list tried this?  How would I get a copy of
+JICalc for the MAc?
+
+Does the bulk dump let you arbitrarily remap any frequency to any key?
+How long does it take to do a bulk dump; that is, can you make many bulk dumps
+during a performance?  etc., etc.
+
+I use Cubase on my Mac Powerbook, which, to the best of my knowlege, does not
+support the bulk dump.  Anybody know of a sequencer that could record the bulk
+dump messages along with your key events?
+
+Thanks,
+Marcus
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 4 Jan 1996 03:43 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA03704; Wed, 3 Jan 1996 18:43:14 -0800
+Date: Wed, 3 Jan 1996 18:43:14 -0800
+Message-Id: <960104024043_71670.2576_HHB84-4@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

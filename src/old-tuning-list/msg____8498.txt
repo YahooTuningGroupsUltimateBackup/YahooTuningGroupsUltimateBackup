@@ -1,0 +1,80 @@
+source file: m1531.txt
+Date: Mon, 21 Sep 1998 11:23:23 +0530
+
+Subject: Software for writing Xenharmonic music!?
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Wotcha!
+
+Is it my imagination, or is there a dearth of notation software tools to
+write 
+Xenharmonic music, which is one of the main reasons for the
+slow progress & proliferation of microtonality ? 
+
+I downloaded the notation software "Lime" (thanks for the tip John C.)
+a few days ago to see how it would work for me. I wanted to be able to
+enter music using std. notation symbols for note duration values 
+(whole note, 16th etc.). The only place I know of that this is possible,
+is in 
+notation programs. Unfortunately, they seem to be so entrenched in the
+std. 12-TET world that even when they claim to have microtonal
+features, (like Lime with special microtonal accidentals, etc.) they
+seem
+only partly thought out. Even a neophyte Xenharmonicist like myself
+can list some pretty basic/logical notation and MIDI features that could
+make life 
+so much easier. 
+
+I know of George Hajdu's Max patch for displaying some microtunings, 
+but it too relies on the std. staff and the conventions associated with
+that.
+I know Monzo's working on something, though I think he's not yet able to 
+say when it'll be ready. 
+
+Perhaps some of the text based systems might be more efficient,
+i.e., HMSL, Siren, etc. ? 
+
+Am I right in thinking that the std. notation conventions for notating
+temporal
+details are pretty much accepted and used by most musicians, leaving
+only the
+actual pitch notaion as the problem ?
+
+Which means that there's a big gaping hole in the sequencer/notation
+software
+market for a program that has the kind flexibility in pitch and MIDI
+capabilities  
+as there already is in temporal capabilities. Maybe it's time to get
+hold of some
+of those  Java "How-to"  books :-)
+
+I believe it would  be interesting to hear how the rest of you cope with
+this problem.
+Most of the gear talk is focused on synths and the like, so how about it
+? 
+Got any secrets and/or secret weapons to tell about ?
+
+
+I'm using "tunings" that are sets of 24 notes chosen from various other
+tunings
+so I have a reasonable variety while still being able to cope, me still
+being a newbie.
+I have them set up as a different "scale tuning" on 2 different MIDI
+channels.
+Being a step input kind of guy, I'm trying out writing the music on good
+old
+paper first, then inputing the music into Lime as std. notation (so I
+have the
+temporal data correct), then saving it as a MIDI file, then editing it
+in event list
+view where I just have to enter the correct MIDI channel number to the 
+appropriate notes. Fun, no ?
+
+Oh, yeah, you may want to check this out : "Silence" by Michael Gogins,
+algorithmic
+Composition software written in Java. <www.pipeline.com/~gogins> . Very
+interesting.
+
+G'day,
+Drew

@@ -1,0 +1,112 @@
+source file: mills2.txt
+Date: Tue, 30 Jul 1996 06:17:40 -0700
+
+Subject: Response to McLaren's kind remarks
+
+From: Lindsay Shaw and Paul Turner <landp@adelaide.dialix.oz.au>
+
+Several kilobytes ago - TUNING 783 - Brian McLaren posted some agreable 
+remarks on an idea I had communicated to him about applying group theory 
+to understanding some properties of et_s. Brian mentioned some references 
+to work that had already been done along these lines, for which I'm grateful. 
+(I'd be even more grateful if I knew exactly _which_ number of the Computer 
+Music Journal contained Gerald G. Bolzano's paper "The Group Theoretic 
+Structure of 12-fold and Microtonal Tunings".)
+
+It might be worth saying here what the idea was that attracted Brian's 
+comments. Quite likely I'm covering more or less familiar material with this 
+and, in any case, the mathematics is not deep. Maybe others will have useful 
+comments.
+
+*****
+
+We say that two frequencies u and 2u differ by an octave and that a scale of
+n steps from u to 2u is equal-tempered if the frequencies 
+        2^(1/n)u, 2^(2/n)u, ... , 2^(n-1/n)u
+are interpolated between u and 2u.
+
+The set of numbers {1 = 2^(0/n), 2^(1/n), ... , 2^((n-1)/n)} representing 
+the multipliers of the frequency u, forms a group under the operation of 
+adding the numerators of the respective indices, modulo n. 
+I.e. 2^(p/n) * 2^(q/n) = 2^((p+q)/n), where p+q is reduced mod n.
+
+Identifying the numerators 0,1,...,n-1 with pitch-class numbers, we have 
+the familiar group of pitch-classes under addition modulo n.
+
+The group formed in this way is the cyclic group of order n. It has (cyclic)
+subgroups of every order dividing n. This means, for example, that the groups 
+corresponding to, say, 14-et, 21-et and 35-et all have subgroups of order 7 
+and hence these et_s possess _all_ the structure of 7-et. In fact they include
+7-et both as a subgroup and as cosets of the subgroup of order 7.
+
+[E.g. in 21-et, the set of pitch classes {0, 3, 6, 9, 12, 15, 18} constitutes 
+the subgroup of order 7, while the sets {1, 4, 7,...,19}, {2, 5, 8,...,20},
+etc. are the cosets.]
+
+Similarly, 8-et contains transpositions of the 'diminished seventh' chord
+found in 12-et, and 9-et contains transpositions of the 'augmented' triad
+from 12-et, due to shared subgroups of orders 4 and 3 respectively.
+
+Practical consequences of this way of looking at et_s might include the
+recognition of:
+(1) the availability of smooth transitions between tunings by using a common 
+subgroup as a kind of 'pivot', and
+(2) the need to avoid certain combinations or progressions nominally 
+available in a given tuning, in order to express the _uniqueness_ of that
+tuning.
+
+In n-et, where n is not prime, consider the factorisation pqr...-et, where
+p,q,r,... are prime powers and n = pqr... . One might want to avoid the
+'trap' of expressing p-et or q-et or r-et etc. rather than whatever is special 
+about n-et itself.
+
+Of course, one might _not_ want to avoid these commonalities: indeed, one 
+might want to exploit them. But to be aware of their existence, at least,
+seems important.
+
+The question arises as to where the specialness of any n-et, for a composite
+n, resides. Consider a sequence, of sufficient length, of pitches a,b,c,... .
+If the sequence does not lie entirely within any particular coset of any
+proper subgroup, then n is the smallest order of et_s that contains the 
+sequence. The sequence is unique to n-et if we discount the fact that there 
+are higher order et_s that also contain it. But what might 'of sufficient 
+length' mean? And how difficult does it become to meet this criterion for 
+uniqueness when n is highly composite (so that there are subgroups of many 
+orders)?
+
+For example, in 12-et, a passage in the key of C-major consisting of the tones
+F-G-A-B, expresses 6-et until the tones -C-D-E are appended. Note that if
+C,D,E belong to one coset of the subgroup of order 6, then F,G,A,B belong to 
+the other. Likewise, if F,B,D belong to one coset of the the subgroup of order
+4 then C,A and E,G belong to the other two cosets respectively; and the 
+sets {C,E}, {G,B}, {F,A}, {D} contain representatives of the cosets of the
+subgroup of order 3.  It looks as if structures like the major scale express
+the unique features of 12-et rather well, while unadorned permutations of the
+sets    {C,D,E,F#,G#,A#} or
+        {C,D#,F#,A}      or
+        {C,E,G#}         or
+        {C,F#}
+or their transpositions, might not.
+
+*****
+
+All of this is knowable through other approaches. It might even be trivial. 
+But it seems to me that group theory provides a relatively tidy way of 
+dealing with at least some tuning issues.
+
+Paul Turner
+
+
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 30 Jul 1996 15:28 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id GAA25139; Tue, 30 Jul 1996 06:28:49 -0700
+Date: Tue, 30 Jul 1996 06:28:49 -0700
+Message-Id: <9607301328.AA15941@ ccrma.Stanford.EDU >
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

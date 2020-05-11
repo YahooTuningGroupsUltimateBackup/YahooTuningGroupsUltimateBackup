@@ -1,0 +1,85 @@
+source file: m1466.txt
+Date: Sun, 5 Jul 98 21:38:14 +0000
+
+Subject: microtuning software for Macs
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Greetings All,
+
+First these messages... 
+I've been unable to get online for days now, since  the phone co. =
+(shitty govt. monopoly)
+sent me an absurd phone bill that I absolutely refused to pay ,foll. =
+which they cut the line. I've complained formally, but don't expect =
+to ever have it resolved. I now have to go into town
+and use a local business services place to get wired. 
+
+Anyway...
+Just discovered a neat piece(s)  of software  for the Mac which uses =
+pitch-bends to achieve 
+ANY equal temperament, regardless of octaves, etc. 
+Yes, you can now use your Rolands, Korgs, Yamahas ,etc. which are =
+limited
+to 12-note scales, to work with any <n-CET> and <n-TET> tunings.
+Possisbilities include 19-TET, 53-TET, 88-CET, Wendy Carlos' Alpha, =
+Beta, etc.
+
+It is however (from what I've been able to ascertain) limited to a =
+maximum of 4 voices of polyphony.
+Also, the manual is in French. I've done a strange translation of =
+some of it, using my "rudimentary" French and a pocket dictionary. =
+Send me a note and I'll e-mail a compressed text file over. 
+
+It, or rather they (a set of MIDI "algorithmic toys"), are called =
+"MIDI formers" and are from
+INA-GRM
+	116 Avenue du Pr=E9sident Kennedy
+	75013 PARIS
+
+	Tel: 42 30 29 88
+	Fax: 42 30 49 88
+	Email: ina.grm@applelink.apple.com
+
+Not sure if they have a website/ftp site with these thingies =
+available for download. I've 
+sent them an e-mail and will report back when I receive a reply.
+
+They're actually Max patches that work with the free runtime version =
+of Max, MaxPlay 3.0.
+That's what I'm using it with. 
+
+I deduce it works it's mojo by first picking out the MIDI note =
+nearest to the target pitch, and then applying a pitch bend. It also =
+bounces around four MIDI channels, because of the nature of pitch =
+bends. 
+
+
+This seems a neat way of using pitch bends, with little limitation. =
+Instead of the approach of ,say
+Real Time Tuner, where individual MIDI ch.s are assigned to =
+individual pitches, allowing as many
+notes in a tuning as there are MIDI ch.s ,minus one for MIDI control. 
+
+All you have to do is allow the assignment of as many MIDI ch.s to an =
+"instrument"/ multitimbral
+part as you want polyphony for that part ( a min. of 2 and a max. =
+limited only by the polyphony of your synth). THen just let the =
+program bounce around these ch.s. Perhaps Real Time Tuner can be 
+changed to work this way. I'd send the developer(s) a note, but have =
+no e-mail contact info.
+
+OR, maybe some nice Max toting lister will write a flexible =
+patch/stand-alone program implementing this ?
+
+
+Salut,
+Drew
+
+"When you do the Tina Lina, all you need's a concertina." 
+- If only our musical aspirations were that modest. Of course, if we =
+could sing it like Mario Lanza,
+we could even chuck the concertina.
+
+Drew's arse of the year : Pauline Hanson. She'd make a dandy Nazi, =
+non ?

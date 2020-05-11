@@ -1,0 +1,42 @@
+source file: mills3.txt
+Date: Thu, 15 Jan 1998 23:57:07 +0100
+
+Subject: 63/50
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Has anyone noticed that the ratio 63/50, prime limit 7, is extremely
+close to the 12TET major third? I noticed that two of the ratios in
+K&S's list were 6 cents above 12TET intervals, and the interval between
+them is the fairly simple 63/50. Tuning three successive 63/50s up and
+an octave down yields the extremely small interval 250047/250000 (prime
+limit still 7).
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Manuel.Op.de.Coul@ezh.nl
+Subject:  RE: JI approximation to 22ET
+PostedDate:  16-01-98 13:11:08
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  16-01-98 13:11:11-16-01-98 13:11:12,16-01-98 13:10:16-16-01-98 13:10:17
+DeliveredDate:  16-01-98 13:10:17
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658E.0042EF39; Fri, 16 Jan 1998 13:11:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00884; Fri, 16 Jan 1998 13:11:08 +0100
+Date: Fri, 16 Jan 1998 13:11:08 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01019
+Received: (qmail 26552 invoked from network); 16 Jan 1998 04:10:59 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 Jan 1998 04:10:59 -0800
+Message-Id: <C125658E.004284C7.00@notesrv2.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,46 @@
+source file: m1542.txt
+Date: Fri, 2 Oct 1998 08:11:54 -0500
+
+Subject: beating the beats
+
+From: sethares@eceserv0.ece.wisc.edu (William Sethares)
+
+Bram wrote:
+
+> Might it be possible to find these (Sethares consoannce papers) 
+online? 
+ 
+An .html version of "Relating Timbre and Tuning" 
+is available online at:
+
+http://eceserv0.ece.wisc.edu/~sethares/consemi.html
+
+and theres a bunch of "supporting stuff" like computer programs to 
+do the dissonance calculations branching from my homepage at:
+
+http://eceserv0.ece.wisc.edu/~sethares/
+
+***
+
+As Paul Hahn mentioned, Bram's idea of cancelling beats in 
+a "noise cancellation" kind of way is not directly related to the
+minimization of beats via a sensory dissonance calculation (which is 
+what's going on in "Relating Timbre and Tuning").
+
+In any case, one useful formula from trig is:
+
+sin(x) + sin(y) = 2 cos( (x-y)/2 ) sin( (x+y)/2 )
+
+To apply this to the beat cancellation, use this in the form
+
+sin(w t) + sin( (w + dw)t ) = 2 cos( dw t /2) sin( (w+dw/2)t )
+
+where w = one frequency
+w+dw = other frequency
+(thus dw = different between the two frequencies)
+and t is time.
+
+The "amplitude" is thus the slowly varying wave cos(dw t/2)
+while the basic wave if sin( (w+dw/2)t )
+
+***

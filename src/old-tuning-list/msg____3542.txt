@@ -1,0 +1,402 @@
+source file: mills2.txt
+Date: Thu, 5 Sep 1996 13:42:41 -0700
+
+Subject: From McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: disagreements about notation
+--
+Paul Rapoport posted a reply to some of my (probably ignorant)=20
+comments on his article in Xenharmonikon 16, "The Notation of
+Equal Temperaments," published in 1995, pp. 61-85.
+Paul's article dealt with the intractable issue of designing coherent
+and systematic notations for the full range of equal temperaments.
+No small accomplishment, that.
+Paul has succeeded in producing a notationally coherent set of
+set of conventions that will theoretically allow the systematic
+notation of any equal temperament.  Pauls' achievement is
+considerable, and the article valuable, for three reasons: [1] Paul
+appears to be the first theorist who has put together an integrated &
+coherent notation which can apply not just to a limited range of
+ETs, but to all of 'em; [2] He has generalized Blackwood's procedures
+(as when B'wood used every other note from 26 to notate 13) to
+regularize the notation of equal temperaments in which either
+the limma =3D the apotome, or in which the neutral mode is the=20
+predominant melodic paradigm; [3] Paul's approach is open-ended
+enough and flexible enough to admit of considerable expansion,
+potentially to other systems than those he considers in his
+article.
+All together, Paul's article "The Notation of Equal Temperaments"
+is among the most impressive and theoretically dextrous=20
+written on the subject.
+That said, permit me to respond to some of Paul's wise and
+insightful comments:
+Paul posts:
+"1. Brian says that <I have an "implicit presumption" that one ought to
+relate "all the especially 12-like tunings with good fifths."> I don't.
+The basing of a notation system on fifths is all I did, whether or not
+those fifths are good or bad, or whether an ET has fifths at all. For
+those that don't (e.g. 13-tET), I proposed a general solution to notate
+them within the same framework."
+This is an excellent point, and it cleverly dodges the question of what's
+an "implicit presumption."  My experience is that when you notate
+music on a five-line staff  (never mind the names of the notes or
+exact shape of the accidentals), the immediate presumption created
+in the minds of the average musician is: "Oh, this is familiar!
+Here's a  perfect fifth, and here's a major second, and...I guess there
+are some odd accidentals, but this is really just like 12, isn't it?"
+No, 13-TET doesn't sound a bit like 12.
+The problem with notating highly xenharmonic equal temperaments
+like 13 or 23 on the five-line staff is that the 5-line staff itself
+carries baggage.  It automatically seduces the unwary observer into
+assuming that you've got a perfect fifth, major 3rd, &c.  This is an=20
+*implicit presumption.*  Use the five-line staff *at all*=20
+and you can't escape creating this illusion.
+Paul posts:
+"2. <ETs 9, 10, 23, 22, and 21 cannot be usefully notated using a 5-limit
+method.> The article shows how to do this. Of course many may prefer the
+method for ETs with recognizable fifths; see point 1." =20
+Paul & I disagree over what is meant by "usefully notated."  Clearly,
+Paul has a different idea of "useful" than do I.  To me, "useful"=20
+notation is that which most accurately reflects the *sound* of
+the equal temperament and its fundamental melodic/harmonic
+paradigms.  Paul Rapoport may mean something different--
+for instance, he might mean "the notation that most clearly
+brings out certain abstract structures present in the tuning." =20
+In any case, let me give you an example: in 21-TET  a *basic*
+melodic mode is the neutral mode.  Here you're in catch-22 if you
+stick with the five-line staff and conventional note-names--
+because if you write the neutral mode 1 4  7  10  13  16  19
+(scale-steps numbered 1 to 21) as C D E F G A B, you will
+be bamboozling the person who reads the notation inasmuch
+as s/he will assume there's a semitone twixt E and F: but in
+the 7-note neutral mode of 21 all successive notes have the same
+interval, 171.428 cents.  On the other hand, if you flat the E or
+sharp the F, your reader will assume that the distance D-Eb
+or F#-G is smaller than the other steps.  Again, having settled
+on a five-line staff and conventional note-names, these implicit
+assumptions are *unavoidable* regardless of which particular=20
+exotic symbols are used instead of # and b...and thus these
+implicit assumptions (created unavoidably in the reader) render such=20
+notation less than useful (again, in my opinion).
+I should mention that Paul Rapoport knows *vastly* more than I do=20
+about notating the equal temperaments.  So he'll surely answer what
+to me seem like serious objections.  My guess is that I'm overlooking
+something obvious and fairly deep here.=20
+Paul posts:
+"3. <ETs generally do not allow themselves to be seen as an "outgrowth" of
+just intonation.> Many uses of ETs do exactly that, especially the ones
+that allow recognizable tonal or modal progressions. This does not mean
+that they grew from JI historically, which is a different and differently
+arguable point." =20
+The key words here are "many" and "allow themselves." =20
+Paul is absolutely correct in implying that some xenharmonic composers
+use ETs as quasi-JI arrays--Ezra Sims comes to mind, some of the music
+of Fokker, etc.  But nowadays with retunable synths, most modern
+xenharmonic composers who use equal temperaments generally
+use 'em because they like the way each ET "sounds" or because
+each ET enjoys structural or melodic or harmonic properties which
+render it musically unique and impressive.  In short, nowadays, if
+you want JI, you just press a button and retune your synth to JI.
+So this "quasi-JI" use of ETs has dropped drastically.  Also, with the
+advent of true JI, composers can hear just how far from JI most
+equal temperaments sound.  Most ETs sound unique--not like JI.=20
+Now that all of us can hear that, there's been a steadily growing
+realization that each ETs is musically unique not for this or that
+aproximation of this or that JI array but because of its unique
+internal structural and modal properties... And this awareness
+on the part of composers and listeners alike has steadily eroded
+the tendency to hear any particular ET as a JI analog.  (53 and
+72 remain exceptions in this regard, depending on the ratios.)
+Paul's objection here may well relate more to theoretical than to
+compositional concerns.  Certainly listeners react to music in
+ETs when we perform them in terms of: "Wow, 19 is really smooth
+but 17 is brilliant and steely," rather than, "Wow, 19 sounds much
+more just than 17 does."
+Paul posts:
+"4. Brian spends some time discussing why small intervals, e.g. 1/17 or
+1/31 octave don't sound like JI, for no reason I can determine." =20
+The reason is simple. Throw in a bunch of chromatic 1/31 or 1/17
+octave intervals in succession and the impression of a quasi-JI
+construct disappears.  Now that we can get all 31 or 53 or 72
+or whatever tones per octave at once,  my experience is that=20
+xen composers/performers are much more willing to sound
+radically microtonal chromatic passages.  Neil Haverstick is
+a shining example.  "Hit 'em with tiny intervals" seems to be
+his watchword, and it's a knockout.  Listen to Neil's superb
+"Birdwalk" if you want to be rocked back in your seat. This is  very
+different from the "bad old days" back when the Prophet 5 rev 3
+was all you had, and you had to choose "12 out of" 31 or "12 out
+of" 53, etc.  Paul's comments in his numbered rebuttals
+3 and 4 seem more  appropriate to 12-out-of-X usage than=20
+all-notes-of-X-at-once microtonal usage. =20
+Again, for the obvious reason that lots of chromatic successive=20
+notes destroy any sense of "JI-ness" *even* in a highly JI-like=20
+ET like 53.
+Paul posts:
+"5. <Easley Blackwood's microtonal etudes suffer because he tried to make
+them all as 12-like as possible.> Not quite; he tried to make them as
+tonal/modal as possible."  Paul is very close to being accurate here,
+but his statement is just shy of 100% correct.  In fact Blackwood tried=20
+to=20
+make the ETs as tonal/modal as possible *in the Pythagorean framework*--
+there are tonal/modal constructs entirely *non-Pythagorean.*  Viz.,
+the neutral mode used by the Kwaiker of Guatamala, the Thais, etc.
+Blackwood's usage forces the ETs into either major or minor=20
+ melodic modes derived from Pythagorean theories and
+constructs.  This doesn't work musically for more than half the
+equal temperaments between 5 and 33 tones per octave.
+Incidentally, I mentioned that upwards of 40% of=20
+Blackwood's claims about the ETs were incorrect. =20
+Here's the rundown:
+B claims that 21-TET has no recognizable diatonic mode.  [Blackwood,
+Research Notes, NEH Grant R0-29376-78-0642, 1978-81, pg. 9] This
+is verifiably wrong, as you can hear for yourself.   Tune up 21 & sound:
+MAJOR IN 21-TET:  1  5  8  10  13  17  20
+MINOR IN 21-TET:   1  5  7  10  13  16  19
+(notes numbered numerically from 1 to 21, Carillo-style)
+Your ears will end the debate.
+Blackwood on page 124 of his NEH Grant Report claims that in
+16-TET "the effect of CEG is that of a minor triad with
+acceptable thirds,  but a singularly peculiar perfect fifth."
+[Blackwood, Research Notes, NEH Grant R0-29376-78-0642,=20
+1978-81, pg. 124]
+*Nonsense.*  Tune up the triad 1-5-10 (starting at A440 Hz,
+these are frequencies 400 Hz - 546.417 Hz - 649.803 Hz).
+Does this triad sound as though it has anything *remotely*
+akin to a perfect fifth?
+In fact the triad sounds like discordant diminished chord
+of some kind.  No perfect fifth is perceptible, Blackwood
+is simply wrong. But don't take my word for it--again,
+let your ears decide.
+In discussing 17-TET, Blackwood states that there is
+no consonant triad available.  Wrong.  The neutral triad
+formed by 1-6-11 (again, these are scale steps numbered
+from 1 to 17, Carillo-style) sounds just fine. =20
+Blackwood claims that 19 has a recognizable diatonic
+scale: to me it sounds unacceptably distorted.  The 2/19
+of a whole-tone leading tone is the Achilles heel of
+this mode--it just doesn't work at all, and the 9-tone
+gapped mode 1 4 7 8 9 12 15 18 19 works infinitely
+better. But let your ears decide.=20
+Lastly, Blackwood claims that 18-TET allows the
+construction of various chords which he writes as
+V,  V7, etc.  This is contrary to what my ears hear,
+to what common sense tells us.  Rather than creating
+a sense of tonality, diminished seventh chords *destroy*
+a sense of tonality. Thus, for Blackwood to claim that
+(for example) "the V/II harmnies are both complex
+altered chords with roots missing" (as on pg. 213 of
+his grant report) and that "the chord in bar 96 is..a
+minor dominant ninth with a lowered fifth and lowered
+seventh" and that this creates any sense of tonal
+harmonic progression...  Preposterous.  When
+you lower the fifth as much as the 18-TET scale does,
+it makes no sense to speak of "dominant chords with
+lowered fifths."  The thing doesn't sound even remotely
+like a dominant anything, it sounds like a diminished
+chord and it's discordant as hell. Listen to an 18-TET
+4:5:6 triad and you'll hear instantly that there is
+no recognizable fifth, there is no dominant, there
+is no V chord, there is no sense of tonality.  Blackwood
+has simply let the theory and the numbers carry him
+away to a conclusion contrary to what the ears hear.
+Again, don't take my word for it--play the 18-TET
+progression I-IV-V-I and let your ears decide whether
+this creates any sense of tonality or not:
+12=091=096=0912
+6=0913=0918=096
+1=098=0912=091
+I-----IV----V----I
+(Pitches of 18-TET notated from 1 to 18; vertically
+stacked numbers indicate notes sounded together.)
+Can you hear any kind of V chord?  Is this a functional
+dominant?
+So adding up the total, we find that Easley Blackwood
+has made statements verifiably incorrect (tune up=20
+your synth, don't take my word for it) about 16, 17,
+ 18, 19 and 21 tone equal temperament.  That's 5 out
+of the 12 equal temperaments twixt 12 and 24: a
+40% error rate. =20
+Paul posts:
+"6. <A string of MIDI numbers (0 to 127) and a MIDI file...constitutes
+a notation.> It does, but no one  I know would want to perform or
+analyze from. Brian goes on to claim that <I reject pieces of music which
+aren't in traditional notation,> a point which he dreamed up himself."
+Paul might imagine that I dreamed up this point, but the fact remains
+that when faced with anything other than an ultra-conservative=20
+completely common-practice-period notation, Paul's interest
+appears to drop drastically.  I've seen it happen in person.  If I
+play Paul a notated piece, he shows real interest--but  play him music
+notated in a MIDI file and he's apt to say, as he did to me face-to-face,
+"I can't make anything of this without a score." (1992, personal
+communication, in person.)
+This seems a strong bias against accepting or listening critically
+to music not notated in a quasi-conventional way...but then again,
+perhaps I misinterpret. =20
+As to the question of a MIDI file or numerical notation
+being a notation that "no one I know would want to
+perform or analyze from," well, Paul knows me, and I've no
+problems performing or analyzing from such a notation.  So the
+statement falls short of absolutely strict accuracy. Actually,
+in my experience numbers are *far* simpler than using note names.=20
+Bill Schottstaedt and Julian Carillo are two obvious examples of=20
+superb composers who prefer this kind of notation, and you could
+make a good argument that all Csound-using computer composers
+analyze, perform and use numerical notation all the time.  So when
+Paul says "no one I know" prefers using numerical rather than
+quasi-ceonventional 5-line-staff-based notation, perhaps it's a=20
+slight overstatement...
+Paul posts:
+"7. <"Essentially no one attends or gives live acoustic concerts any
+more."> Statements like this lead people on this forum to ignore Brian."
+This statement is numerically accurate.  The question here is: what
+is meant by "essentially no one"? =20
+Let's do the math.  Compare the total number of hours of recorded
+music played last year with the total number of hours of=20
+live acoustic concerts played last year.  (Rock concerts don't
+count since they are nowadays karaoke to a DAT.) If the latter number
+is C and the former is B, then B/C is indeed essentially zero.
+Let's consider just one concrete example: DMX is a digital music
+channel broadcasting 24 hours a day sans commercials.  You pay
+10 bucks a month to your cable company for it, you get 30
+channels, and it's CD-quality sound.  24 hours/day*365 days/year
+*30 channels * 30 million subscribers (at last count, 1995) =3D
+7.884 BILLION person-hours of listening to recorded music.
+How does this number of person-hours compare to the total
+amount of live acoustic music person-hours listened to in 1995?
+Let's take a guess...say, 200 people per live acoustic concert,
+maybe 1000 concerts per day across the U.S., say 2 hours
+per concert, total =3D 200*1000*365*2 =3D 189,800 person-hours
+of live acoustic concert.
+Now divide live/recorded person-hours of listening:
+189,800/(7.884 exp 9) =3D 0.000024
+Isn't this "essentially zero"?  Paul is being silly here.  He's
+quibbling.  This is as near zero as makes no difference.
+Quibbles about how closely 0.000024 approaches zero are
+obviously superfluous--obviously virtually the music listened
+to by virtually all the people in the U.S. is recorded music.  Clearly the
+obvious fact is that by and large 99.999% of the population no
+longer attends  live concerts of acoustic music.  Essentially all=20
+music is nowadays heard off CDs, off cassettes, on the radio, or
+some other recorded form.  To deny this is to discredit yourself
+by denying the facts.=20
+Paul posts:
+"8. <For 25-tET, "a notation which implies that there are more tones than
+sharped or flatted versions of C, D, E, G, and A proves less than
+useful."> Sorry, no sale. Keeping to that principle of notation would
+imply that the only structure in 25-tET is groups of pentatonic scales.
+But 25 has a quite usable major 3rd and natural 7th, which staying with C
+D E G A won't reveal adequately." =20
+The issue in this particular case is what is meant by "less=20
+than useful."  Clearly my meaning is different from Paul's.=20
+My definition of "useful" in this case involved bringing to the surface
+the fundamental pentatonic mode of pitches which remain exactly
+the same in 5-TET through 45-TET.  Paul meant something else...
+no doubt we're both right.
+Paul posts:
+"9. <Blackwood's (and my) notion that E and F are the same note (in 20, 25,
+etc., any ET with a 720-cent fifth) is "willful obfuscation."> It is true,
+however. Several articles show why. But it is possible both to use and
+relieve this fact in a systematic way. My article does this, but Brian
+doesn't seem to recognize that." Paul is doubtless correct that I don't
+recognize his point.  I'll have to re-read his article, clearly. Mea culpa.
+Paul posts:
+"10. <22-tET has nothing in common with traditional tunings.> Does anyone
+agree with this?"  This has already been dealt with by Paul Erlich,
+who also disagrees with Paul.  My claim is overstated: 22-TET has
+a musically recognizable semitone in common with highly=20
+Pythagorean tunings, and it shares a near-just 4:5:6.  Over-emphasis
+is often necessary to get my point across.  Murmur politely and
+average folks will step on your face as they walk over you without
+noticing--shout and they'll pay attention. (Shout the truth as they'll
+grab for a noose, but that's a different matter...)
+Paul posts:
+"11. <The notation of distinctly un-Pythagorean ETs in this manner doesn't
+work, e.g. 13- and 14-tET.> My solutions for these and others like them
+reveal exactly what he says is lacking. For example, there is no major or
+minor third in 14, and no perfect fifth in 13: this emerges from what I
+suggest be done to notate these ETs." =20
+The issue here is whether the fact that the musical nature of=20
+these ETs eventually "emerges" at the end of a lengthy process of
+elaborate notation is sufficient to do musical justice to these exotic
+ETs.  Paul clearly feels it is, and I clearly don't.  Reasonable people
+can disagree.
+Paul posts:
+"12. <14-tET is nothing more than two sets of 7-equal.> This comment is
+similar to Brian's comment about 25 being nothing more than 5 sets of
+5-equal, and equally incorrect. Blackwood's 14-note etude and mine in 25
+should be enough to show that." =20
+Actually, Paul and I are both correct here.  My intended
+subtext is that melodically the neutral mode is the primary melodic
+structure in 14, not a diatonic major or diatonic minor scale.  In that
+context my statement is correct; Paul's point is presumably that other
+musically modes exist in 14 (and 25).  His statement is also correct.
+Paul posts:
+"13. <35-tET is a nightmare to notate.> Anyone who reads my article is
+invited to determine that this is not so. If anyone wishes, I'll apply the
+method I've evolved to that, since I didn't illustrate it in my article.
+It is a curious case, but by no means dreadful."  Paul is speaking
+notationally--I'm speaking musically.  35 is notationaly dire because
+it boasts two "perfect fifths" about equally far from the just 3/2.
+The ear thus tends to identify one or the other as "the" perfect fifth
+depending on context--if you use a primarily 7-TET context, the 685.714
+cent fifth sounds "right" and if you use the 5-TET context, the
+720-cent fifths sounds "right." My experience is that no known notation
+captures this musical reality.  On the other hand  Paul's  notation surely
+has subtleties and advantages I've not yet appreciated..I'll have=20
+to study his Xenharmonikon 16 article again.
+Paul posts:
+"14. <Sharps and flats are most useful in tunings which sound like they
+have semitones.> This is too vague for me. Besides, sharps and flats
+aren't defined in terms of semitones, but at least initially as 7 perfect
+fifths (up or down), in a Pythagorean sense, anyhow. What interests me
+most are cases where the fifths are so far from just that the sharp and
+flat end up denoting either fairly large or fairly small intervals."
+On reflection, Paul is right.  My language in this regard
+is too vague.
+Paul posts:
+"15. <"The use of sharps and flats in 19 is willf
+=D4 perverse."> There are
+many counterexamples to this categorical denial. Of all ETs, 19-tET is
+closest to 12."  This is musically not true in my experience.  22 sounds
+to my ears much closer to 12 than 19, because the 1/11 octave interval
+sounds much closer to a semitone than does a 2/19 octave interval.=20
+19 is a third-tone scale, with whole tones and thirds of tones.
+Thus, the leading tone in 19 must be either 2/19 a (too flat) or
+1/19 a (too sharp); by comparison 1/11 octave works just fine as a=20
+leading tone in 22.
+The other issue here is that notating 19 with #, b, 5-line staff &
+traditional note names *badly* confuses xenharmonists, because the
+12-TET conditioning is so strong.  I've seen it happen.  Because
+everything is notated with *exactly* the same symbols as used=20
+in 12-TET, xenharmonists stumble and stumble again when
+trying to interpret this...yes...this perverse notation for 19-TET. =20
+Oddball accidentals or different note names (Yasser's suggestion)
+really seem infinitely less confusing to me and to most folks
+I've worked with in playing 19-TET pieces.
+Finally, Paul posts:
+"It's a discussion about matters of notation, which I see in a=20
+broader context than one of convenience or necessity: a context=20
+which may reveal structures and at the same time be
+useful for all the things notation is intended for."
+Wise and sensible.
+Incidentally, Paul, John Chalmers told me that you studied with
+Easley Blackwood.  If this is incorrect, mea culpa.=20
+--mclaren
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Sep 1996 01:46 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23125; Fri, 6 Sep 1996 01:47:58 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA23353
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA00600; Thu, 5 Sep 1996 16:47:56 -0700
+Date: Thu, 5 Sep 1996 16:47:56 -0700
+Message-Id: <Pine.A32.3.91.960905173722.46241A-100000@tiger.cudenver.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

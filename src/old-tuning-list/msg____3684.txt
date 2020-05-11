@@ -1,0 +1,141 @@
+source file: mills2.txt
+Date: Thu, 26 Sep 1996 08:13:03 -0700
+
+Subject: Mazzola Workshop
+
+From: John Chalmers <non12@deltanet.com>
+
+This noticed looked as if it might be of interest to Tuning
+listers in the NY-NJ area, so with Trish's permission, I'm 
+forwarding it.
+
+--John
+
+
+Date: Mon, 23 Sep 1996 18:24:44 -0400
+From: Trish Anderson <trish@ruccs.rutgers.edu>
+To: admin@ruccs.rutgers.edu
+Subject: Music and Mathematics, Oct 26
+
+
+             MUSIC AND MATHEMATICS
+
+             Saturday October 26th
+
+
+The Rutgers Center for Cognitive Science and the Center for
+Discrete Mathematics and Theoretical Computer Science will
+present a one-day course on Mathematical Music Theory.  It will
+be given by Guerino Mazzola, from the University of Zurich,
+who is acknowledged as one of the worlds leading authorities
+in this field.  Mazzola's book "The Geometry of Tones,"
+(Birkhauser Press) was recognized immediately as a major advance
+in our understanding of music. It is a complex argument
+involving several theorems as well as analyses of works such
+as Beethoven's Hammerklavier Sonata.
+
+In addition, Mazzola has created powerful computer software
+for analysis and performance of music - that is available
+on the Internet.  Also, Mazzola's composition sequencer
+software was recommended for commercial production by
+Herbert von Karajan.
+
+Besides being an advanced mathematician and computer
+scientist, Mazzola is a frequently recorded jazz musician
+with a discography of several albums and CD's.  He will
+be visiting the United States this October to cut another CD.
+
+The Rutgers Center for Cognitive Science and the Center for
+Discrete Mathematics and Theoretical Computer Science is sponsoring
+a day-long course on Mathematical Music Theory from Mazzola.
+Besides his lectures, Mazzola will demonstrate the remarkable
+music composition and analysis software called RUBATO.
+This is a great opportunity to meet and talk with this
+remarkable person.
+
+The course is free to all members of the public.
+
+
+                GUERINO MAZZOLA
+
+              Dept of Mathematics
+              University of Zurich
+
+TITLE:
+Theory and Hypermedia for Big Science in Musicology
+
+ABSTRACT:
+Based on modern information technology, mathematics and semiotics,
+SYSTEMATIC MUSICOLOGY has fundamentally changed. As a theoretical
+basis of this change, mathematical music theory offers a precise
+language and models to describe  musicological facts. It is based
+on three factors (1) symmetry, (2) local-global gestalts and
+(3) the Yoneda classification by "variation of perspectives".
+Hypermedia implementation of the theory is an integral
+part of these significant developments. It turns out that
+the representation and control of music's inhomogeneous and
+semantically open data, make music a prototypical research
+subject asking for Big Science effort and funding in the Humanities.
+
+We explain these developments by presenting the theory, and the
+computer analysis and performance platform, RUBATO(R), that has been
+developed at the Multimedia Lab of Zurich University. RUBATO consists
+of (1) a framework software, (2) three modules for rhythmical, melodic,
+and harmonic analysis, (3) one module for shaping performances, and
+(4) one module for sight-reading, (5) five modules for creating
+performances. RUBATO is not only  an powerful research tool,
+its concepts and architectural constructs yield fundamental insight
+into the rational bases of performance. We report, for example,
+on the highly significant relations between RUBATO's analyses
+of Schumann's Kinderszene Nr.7 "Traeumerei" and the timings of
+famous pianists. Comparison of Argerich's and Horowitz' recordings
+on the basis of RUBATO's genealogical performance model yield new
+approaches to comparative criticism.
+
+Our talk includes video and audio tapes/CD to illustate the software.
+
+
+Time:  Saturday Oct 26th,
+       10am-5pm with breaks to meet other attendees
+       and exchange information on music composition,
+       performance, music software, etc.
+
+Location: Voorhees Hall, Room 105
+          College Ave Campus, New Brunswick.
+          Voorhees Hall is within easy walking distance
+          from the New Brunswick Railway Station.
+          It can also be easily reached from the main
+          New Jersey freeways, such as the NJ Turnpike.
+          TO RECEIVE A MAP AND TRAVEL INFORMATION,
+          CONTACT TRISH BY EMAIL, PHONE OR FAX, AS BELOW:
+
+Contact: Trish Anderson
+
+         e-mail: trish@ruccs.rutgers.edu
+         phone:  (908) 445-0635
+         fax:    (908) 445-0634
+
+Organizer:  Prof Michael Leyton
+            e-mail: leyton@ruccs.rutgers.edu
+            Rutgers Center for Cognitive Science
+
+
+Speaker:    Guerino Mazzola
+            e-mail: gbm@presto.pr.net.ch
+
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 27 Sep 1996 09:50 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00057; Fri, 27 Sep 1996 09:50:35 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA01165
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id AAA28247; Fri, 27 Sep 1996 00:50:32 -0700
+Date: Fri, 27 Sep 1996 00:50:32 -0700
+Message-Id: <9609270751.AA04558@arthaud.saclay.cea.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

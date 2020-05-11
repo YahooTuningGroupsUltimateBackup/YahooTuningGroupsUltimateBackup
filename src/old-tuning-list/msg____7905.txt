@@ -1,0 +1,14 @@
+source file: m1425.txt
+Date: Sat, 23 May 98 18:00 BST-1
+
+Subject: Yamaha tuning info
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Contrary to what was stated previously, you _can_ set the carrier
+on the TX81Z to a Hz value.  The precision depends on the register,
+and is 1Hz at best.  This may correspond to the internal frequency
+representation, in which case the tuning should be accurate.
+Choose the right fundamental and it should work for JI ... except
+the way it's set up I don't think it's any use.  Stick to tuning
+tables, and put up with the imprecision.

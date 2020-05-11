@@ -1,0 +1,130 @@
+source file: mills3.txt
+Date: Tue, 30 Sep 1997 04:47:17 +0200
+
+Subject: RE: MIDI Tuning Dump Standard
+
+From: "jloffink" <jloffink@pdq.net>
+
+In Digest 1191, Carter Scholz writes:
+
+>In Digest 1189, John Loffink writes:
+
+>>The MIDI Tuning Dump standard certainly has deficiences, probably
+>>because not many people contributed to its conception.
+
+>Most likely.  Six people contributed to original spec.  A preliminary
+>version was published in Computer Music Journal with a request for
+>comments.  One comment was received.
+
+I saw the preliminary version in 1/1 and Computer Music Journal.  At
+the time, I did not see the weaknesses in the spec.  I was working
+with keyboards with full keyboard tuning tables (EPS and TX81Z).  I
+was using fixed just intonation scales without any real modulation,
+apparently just like the creators of the spec.  For these purposes,
+it works just fine.
+
+>>The greatest limitation is the insistance on handling tuning dumps
+>>only on a full keyboard basis.  This makes dynamic tuning programs
+>>like Justonic's almost impossible as the MIDI bandwidth can't
+>>support real-time updates.
+
+>But the spec says that the full keyboard "non-real-time" dump isn't
+>intended for performance.  Instead, there's an additional 12-byte
+>"real-time" message for retuning any individual note on the fly.
+
+>I don't know exactly what Justonic is doing, but I can't imagine why it
+>would need more than these 12 bytes per note-on.  The synthesizer
+>doesn't need to know the entire tuning table, it just needs to get
+>up-to-date frequency data for sounding notes from its host.
+
+A MIDI byte takes 320 microseconds to transmit.  Let's say you have
+a fairly dense arrangement with 20 notes on 10 MIDI channels sounding
+as you modulate to another tonic.  It takes, not counting the actual
+note ons, 320 us per byte x 12 bytes per message x 20 sysex messages =
+76.8 milliseconds to send the updated tunings to the various
+instruments.  This is clearly not adequate.  It is also very painful
+to insert these individual sysex messages in a general purpose
+sequencer unless you modulate or change scales only infrequently.
+
+A sysex octave tuning table is generally around 30-42 bytes long.
+Sending 320 us per byte x 36 bytes per message x 10 MIDI channels =
+115.2 milliseconds.  Well, that's even worse, unless you're using
+just 2-3 synthesizers with global rather than channelized tuning
+scales.
+
+Since the MIDI bandwidth limitation is the problem, the obvious
+solution for now is to preprogram the modulations into the synthe-
+sizer tuning tables and select the tables over MIDI sysex.  This
+works well with instruments like the DX7IIFD and TX802 which can
+store 64 tables, or the K2000 and K2500 which can store 255 tables.
+It does not work well with programs like Justonic that don't
+presume to know where you will modulate to in advance.  Justonic
+uses just one of the preprogrammed scales for all of its
+modulations.
+
+>>The other problem is the immediate updating of sustained notes.
+>>This is also a problem for real-time key modulations, especially
+>>for rapid paced music.
+
+>To quote from the spec:
+
+>"There is some question as to whether instantaneous response to
+>real-time tuning changes is desirable in every circumstance. In some
+>performance situations it makes more sense if a tuning change affect
+>only those notes which occur subsequent to the change, and not affect
+>sounding notes. But there are also situations in which tuning changes
+>should take place instantaneously, as specified in the standard, and
+>should affect sounding notes without disrupting their continuity.
+
+>"If the instrument responds well in the latter situation, some
+>workaround is possible for the former. The reverse is not true.
+>Therefore the standard requires that tuning changes immediately affect
+>sounding notes. Manufacturers might, however, consider implementing a
+>switchable instantaneous/next-note-on option within an instrument."
+
+>I still think this is sound.  An example of when immediate response by
+>sounding notes might be desired: glissando of a tone to keep a fixed
+>tonic during certain modulations.
+
+I haven't figured out what the workaround is to next-note-on type
+compositions with an instrument that supports only instantaneous
+retuning.  Perhaps you could explain further?  If I want sustaining
+notes to hold their current tuning while sounding new notes in a
+new scale, what are my options?  If it's back to the individual sysex
+messages per note, I'll need some MIDI Draino to unclog the limited
+bandwidth.:-)
+
+John Loffink
+
+
+
+ 
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carter Scholz <csz@well.com>
+Subject:  Re: Tuning 1193
+PostedDate:  30-09-97 05:41:51
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  30-09-97 05:41:28-30-09-97 05:41:29,30-09-97 05:40:26-30-09-97 05:40:26
+DeliveredDate:  30-09-97 05:40:26
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256522.001443F8; Tue, 30 Sep 1997 05:41:21 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02085; Tue, 30 Sep 1997 05:41:51 +0200
+Date: Tue, 30 Sep 1997 05:41:51 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA02090
+Received: (qmail 21753 invoked from network); 29 Sep 1997 20:41:48 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 29 Sep 1997 20:41:48 -0700
+Message-Id: <199709300340.UAA05772@well.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

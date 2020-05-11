@@ -1,0 +1,62 @@
+source file: mills3.txt
+Date: Fri, 10 Oct 1997 20:10:25 +0200
+
+Subject: Re: dynamic JI
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+>    Interesting.  I came up with "decent" key recognition algorithm nearly
+a
+> year ago based upon ... well, oversimplifying it a bit ... tallying up a
+> histogram of note frequency on a circle of fifths.
+
+The advantage of a connectionist network model is that you only need a few
+input tones to get a reasonable response. The different activation levels
+of the key units
+is what indicates the key. So if C has the highest activation then F and G
+come next
+to that as in the circle of fifths. The network consists of layers with
+nodes for tones,
+major chords, minor chords and keys. The links have a weight and are
+symmetrical.
+An interesting conclusion of the article by Barucha is that even though the
+weight
+of the links between source chord C major and its parent keys F, C and G
+are equal,
+the parent keys are not activated to the same degree. It is in decreasing
+order:
+C, F, G which are the keys in which the chord is on the tonic, dominant and
+subdominant.
+This in accordance with the hierarchy of harmonic functions in music
+theory.
+
+Manuel Op de Coul    coul@ezh.nl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  John Starrett <jstarret@tiger.cudenver.edu>
+Subject:  Re: Guitar refretting
+PostedDate:  10-10-97 23:39:15
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-10-97 23:38:49-10-10-97 23:38:50,10-10-97 23:39:18-10-10-97 23:39:19
+DeliveredDate:  10-10-97 23:39:19
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125652C.0076E537; Fri, 10 Oct 1997 23:38:39 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13555; Fri, 10 Oct 1997 23:39:15 +0200
+Date: Fri, 10 Oct 1997 23:39:15 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA13551
+Received: (qmail 28181 invoked from network); 10 Oct 1997 14:39:07 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Oct 1997 14:39:07 -0700
+Message-Id: <Pine.A32.3.91.971010153531.46961A-100000@tiger.cudenver.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

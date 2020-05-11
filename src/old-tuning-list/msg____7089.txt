@@ -1,0 +1,75 @@
+source file: mills3.txt
+Date: Thu, 29 Jan 1998 20:04:12 +0100
+
+Subject: RE: Tuning of decatonic modes
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>}I've worked out that Paul Erlich's Pentachordal modes can be
+>}written as 10 JI notes plus three commas of 50/49.  This
+>}interval is larger than a syntonic comma, so some tempering is
+>}advisable, but it should be small enough for the scales to
+>}function as 10 pitch classes.
+>
+>In my paper, I mention that in JI, two of the ten notes of the pentachordal
+>modes would each require two versions a 50:49 apart. An earlier version of
+>the paper (such as the one on John Starrett's web page) had 49:48 instead of
+>50:49. That was an error. However, the number two is correct. You don't need
+>three commas, just two, and the two are located at scale steps a 6:5 from one
+>another.
+>
+>The symmetrical decatonic modes, however, require four 50:49 commas, and two
+>64:63 commas.
+>
+>
+>For those confused but interested, the pentachordal scale is
+>
+>s s s L s s s L s s
+>
+>and the symmetrical scale is
+>
+>s s s s L s s s s L
+>
+>and the template (1,4,7,9) is supposed to produce complete 7-limit tetrads on
+>most scale degrees, just like, in the diatonic scale, the pattern (1,3,5)
+>produces complete 5-limit triads on most scale degrees. Unlike Partch, I
+>think the most stable root of these chords is the lower note of the 3:2
+>interval found within them, and this root will always be the (1) in these
+>templates.
+>
+>}As 10 fixed pitches, the comma of 50/49 means that the tritones
+>}10/7 and 7/5 must be equal.  With just octaves, they must both
+>}be an exact half-octave.  As these are the worst 7-limit
+>}intervals in 22-equal, that means there is no better way of
+>}tuning decatonic modes unless you allow more than 10 notes.
+>
+>Yuppers. This is all in the paper.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  Re: 60 vs 45 / GUITAR
+PostedDate:  29-01-98 20:35:33
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  29-01-98 20:34:45-29-01-98 20:34:46,29-01-98 20:33:30-29-01-98 20:33:31
+DeliveredDate:  29-01-98 20:33:31
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125659B.006B88EE; Thu, 29 Jan 1998 20:34:34 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01850; Thu, 29 Jan 1998 20:35:33 +0100
+Date: Thu, 29 Jan 1998 20:35:33 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01848
+Received: (qmail 13561 invoked from network); 29 Jan 1998 11:34:46 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 29 Jan 1998 11:34:46 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-980129192919Z-3304@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

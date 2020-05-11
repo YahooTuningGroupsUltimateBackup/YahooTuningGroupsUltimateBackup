@@ -1,0 +1,153 @@
+source file: mills3.txt
+Date: Sun, 19 Oct 1997 20:37:57 +0200
+
+Subject: Re: TUNING digest 1211
+
+From: Larry.Polansky@Dartmouth.EDU (Larry Polansky)
+
+Re: fretless... there are a couple of other fretless players out there... and
+my new marchione guitar is fretless.... not sure what exactly i'm gonna play
+with it but if anybody's got a cool piece....
+
+lp
+
+
+SMTPOriginator:  nowitzky@pacificnet.net
+From:  Mark Nowitzky <nowitzky@pacificnet.net>
+Subject:  Analysis of Vicentino's "Madonna"
+PostedDate:  20-10-97 01:54:43
+SendTo:  tuning@eartha.mills.edu
+CopyTo:  CN=coul1358/OU=AT/O=EZH,kami@interlinx.qc.ca,armandtatevossian@prodigy.com,Klynt@wardlawclaims.com,msrotman@aol.com,peterp7878@aol.com,saxqtet@aol.com,matchframe@instanet.com,tom.nowitzky@globalstar.com,nowitzky@calarts.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  20-10-97 01:54:29-20-10-97 01:54:30,20-10-97 00:55:10-20-10-97 00:55:10
+DeliveredDate:  20-10-97 00:55:10
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256535.008351FC; Mon, 20 Oct 1997 01:54:22 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21278; Mon, 20 Oct 1997 01:55:14 +0200
+Received: from polaris.pacificnet.net by ns (smtpxd); id XA21280
+Received: from pm3d-28.pacificnet.net (pm3d-28.pacificnet.net [207.171.18.173])
+	by polaris.pacificnet.net (8.8.5/8.8.5) with SMTP id QAA14575; Sun, 19 Oct 1997 16:54:43 
+-0700 (PDT)
+	env-from (nowitzky@pacificnet.net)
+Date: Sun, 19 Oct 1997 16:54:43 -0700 (PDT)
+Message-Id: <2.2.16.19971019165149.3f9762ce@pacificnet.net>
+X-Sender: nowitzky@pacificnet.net
+X-Mailer: Windows Eudora Pro Version 2.2 (16)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: tuning@eartha.mills.edu
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+Subject: Analysis of Vicentino's "Madonna"
+Cc: Manuel.Op.de.Coul@ezh.nl, kami@interlinx.qc.ca,
+        armandtatevossian@prodigy.com, Klynt@wardlawclaims.com,
+        msrotman@aol.com, peterp7878@aol.com, saxqtet@aol.com,
+        matchframe@instanet.com, tom.nowitzky@globalstar.com,
+        nowitzky@calarts.edu
+
+This posting may be found in its entirety, complete with hyperlinks to MIDI
+examples, at:
+
+  http://www.pacificnet.net/~nowitzky/justint/madonna.htm
+
+(and I apologize for its length)...
+
+Analysis of Vicentino's "Madonna", by Mark Nowitzky, 10/19/97
+
+Inspired by this posting to the TUNING list:
+
+(From TUNING Digest 1210, Topic 2)
+
+... beginning of forwarded message...
+
+Date: Fri, 17 Oct 1997 13:52:06 +0200
+From: Manuel.Op.de.Coul@ezh.nl
+To: tuning@eartha.mills.edu
+Subject: Vicentino enharmonic madrigal
+
+I have made a short MIDI file with the first page of Nicola Vicentino's
+madrigal "Madonna il poco dolce". Vicentino wrote this madrigal as an
+example of a composition that employs the three modes diatonic, chromatic
+and enharmonic. The microintervals of the enharmonic mode are minor dieses.
+I have rendered it in 5-limit just intonation with minor diesis of 128/125.
+Thanks to Kami Rousseau for putting it in his website. Download
+http://www.interlinx.qc.ca/~kami/music/madonna.mid or go to his music page
+http://www.interlinx.qc.ca/~kami/ and follow the link "MIDI files". No
+special equipment needed.
+
+Manuel Op de Coul
+
+... end of forwarded message...
+
+My thoughts and analysis of Manuel's MIDI file:
+
+This work by Vicentino sounds like an excellent example for testing out
+tuning theories. When I first played it, it sounded like the third chord in
+the piece was too sharp. But I wasn't sure, because I had some similar
+surprises when I experimented with a Moussorgsky work. (Click here for
+details on that experiment.)
+
+Anyway, I took a "microscope" to the file to understand what was happening.
+I found that the tuning was accomplished by using MIDI "pitch bends" on the
+notes, to adjust them from equal temperament to just intonation. (I used the
+same tuning method on the aforementioned Moussorgsky work.)
+
+... a short digression into how pitch bending works...:
+
+A MIDI pitch bend mimics the "pitch wheel" found on many electronic
+keyboards. As an example, to get a "justly intoned" C Major chord, you'd
+sharpen the G (via a positive pitch bend), and flatten the E (via a negative
+pitch bend):
+
+          C Major chord
+  ------------------------------
+  Equal tempered  Justly intoned
+  --------------  --------------
+       G+0             G+80
+       E+0             E-561
+       C+0             C+0
+
+The notation used here is the note name, followed by the positive or
+negative pitch bend value. The values are based on a semitone having 4096
+pitch bend units.
+
+... back to the Madonna MIDI file...:
+
+So, I found that the first four chords were tuned as follows:
+
+  Manuel's 5-limit just intonation rendering
+  ------------------------------------------
+      G minor  G Major  D Major  F Major
+      -------  -------  -------  -------
+      G+80     G+80     F#+1281  F+1602
+      D+160    D+160    D+1842   C+1682
+      Bb-160   B-481    A+1041   A+1041
+      G+80     G+80     D+1842   F+1602
+
+You can see from the above that the transition from the first chord to the
+second is smooth, because most of the notes don't change (G+80 remains G+80,
+and D+160 remains D+160). The only change is from Bb-160 to B-481.
+
+But the third chord (D Major) is a different story. The D+160 becomes a much
+sharper D+1842 (which explains the "sharpness" I heard when I first played
+the file). But I wondered; is this how it "should" be?
+
+... another digression, this time into 5-limit just intonation...:
+
+A classic way to help visualize 5-limit just intonation is by placing the
+notes in a two-dimensional table. This is the so-called Duodenarium, from
+Ellis' translation of Helmholtz' On the Sensations of Tone. The notes are
+arranged as follows:
+
+     ascending Perfect Fifths are written over one another vertically
+     ascending Major Thirds are written to the right horizontally
+
+Theoretically, the Duodenarium can extend infinitely in the vertical and
+horizontal directions. Using the "note + pitch bend" notation, the center of
+the Duodenarium looks like this (with C+0 at the very center):
+
+  Duodenarium with "note + pitch bend" notation

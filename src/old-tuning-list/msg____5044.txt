@@ -1,0 +1,170 @@
+source file: mills2.txt
+Date: Mon, 10 Mar 1997 18:19:40 -0800
+
+Subject: Positive Linear Temperaments
+
+From: John Chalmers <non12@deltanet.com>
+
+Here are some positive tunings which approximate just intervals
+or distribute the errors more or less equitably.
+
+Pythagorean , 3/2 Just 701.9550008653874 
+Error in Cents		Errors in Squared Cents
+E30             	E320 
+E51.953721       	E523.817025 
+E73.804081         	E7214.47104 
+E351.953721        	E3523.817025 
+E373.804081        	E37214.47104 
+E575.757802       	E57218.28806 
+E3575.757802       	E357218.28806 
+ 
+6/5 Just, 1/9-SKHISMA, 3 
+Sabat-Garibaldi 701.7379207778391 
+TF(F-T+5*OCT)/9
+E3.2170801          	E324.712376E-02 
+E5.2170801            E524.712376E-02 
+E76.843203         	E7246.82942 
+E35.4341602     	E3529.424753E-02 
+E377.060283     	E37246.87654 
+E577.060283    	E57246.87654 
+E3577.277363     	E357246.92367 
+ 
+15/8 Just, 1/7-SKHISMA, 3op5 701.6758978956825 
+TF(5*OCT-F-T)/7
+E3.279103          	E327.789847E-02 
+E5.279103         	E527.789847E-02 
+E77.711523       	E7259.46759 
+E35.558206  		E352.1557969 
+E377.990626  		E37259.54549 
+E577.990626     	E57259.54549 
+E3578.269729   	E357259.62338 
+ 
+5/4 Just, 1/8-SKHISMA, 
+Helmholtzian 701.7107857668957 
+TFOCT-(T+3*OCT)/8
+E3.2442151   		E325.964101E-02 
+E50             	E520 
+E77.223093      	E7252.17307 
+E35.2442151     	E3525.964101E-02 
+E377.467308     	E37252.23271 
+E577.223093    	E57252.17307 
+E3577.467308   	E357252.23271 
+ 
+7/4 Just 702.226720966491 
+TFOCT-(S+5*OCT)/14
+E3.2717201      	E327.383181E-02 
+E54.127481      	E5217.0361 
+E70             	E720 
+E354.399202      	E35217.10994 
+E37.2717201    	E3727.383181E-02 
+E574.127481     	E57217.0361 
+E3574.399202     	E357217.10994 
+ 
+7/6 Just, 7702.2086062930842 
+TF(F-S+9*OCT)/15
+E3.2536054      	E326.431571E-02 
+E53.982564      	E5215.86082 
+E7.2536054    	E726.431571E-02 
+E354.23617  		E35215.92513 
+E37.5072109   	E372.1286314 
+E574.23617  		E57215.92513 
+E3574.489775  	E357215.98945 
+ 
+21/16 Just, 7op3 702.2476225127298 
+TF(9*OCT-F-S)/13
+E3.2926216    	E328.562743E-02 
+E54.294694      	E5218.4444 
+E7.2926216   		E728.562743E-02 
+E354.587316    	E35218.53002 
+E37.5852433  		E372.1712549 
+E574.587316    	E57218.53002 
+E3574.879937   	E357218.61565 
+ 
+7/5 Just, 7702.9146345659516 
+TF(T-S+4*OCT)/6
+E3.9596337    	E32.9208968 
+E59.630791    	E5292.75212 
+E79.630791  		E7292.75212 
+E3510.59042    	E35293.67302 
+E3710.59042     	E37293.67302 
+E5719.26158    	E572185.5042 
+E35720.22121  	E3572186.4251 
+ 
+35/32 Just, 7op5 702.0391081666382 
+TF(14*OCT-T-S)/22
+E3.0841073     	E327.074038E-03 
+E52.626579      	E526.898918 
+E72.626579     	E726.898918 
+E352.710686    	E3526.905993 
+E372.710686    	E3726.905993 
+E575.253159      	E57213.79784 
+E3575.337265      	E357213.80491 
+ 
+LST35 701.714542922257 
+TF(2*F-16*T+80*OCT)/130
+E3.2404579       	E325.782002E-02 
+E53.005724E-02      	E529.034378E-04 
+E77.170493         	E7251.41597 
+E35.2705152         	E3525.872346E-02 
+E377.410951          	E37251.47379 
+E577.20055  		E57251.41687 
+E3577.441008    	E357251.47469 
+ 
+LST357 702.099167047429
+TF(2*F-16*T-28*S+332*OCT)/522 
+E3.1441662        	E322.078389E-02 
+E53.10705     	E529.653761 
+E71.785755       	E723.18892 
+E353.251216    	E3529.674545 
+E371.929921    	E3723.209704 
+E574.892805     	E57212.84268 
+E3575.036971  	E357212.86347 
+ 
+LST35711 702.4344609176296 
+TF(2*F-16*T-28*S-36*E+728*OCT )/1170
+E3.4794601      	E32.2298819 
+E55.789401      	E5233.51717 
+E72.908359     	E728.458554 
+E356.268861  		E35233.74705 
+E373.387819  		E3728.688436 
+E578.697761  		E57241.97572 
+E3579.17722 		E357242.2056 
+ 
+LST3571113 702.6053399022005 
+TF(2*F-16*T-28*S-36*E-42*TH+ 1274*OCT)/ 2052
+E3.650339    		E32.4229409 
+E57.156433     	E5251.21453 
+E75.300665      	E7228.09705 
+E357.806772      	E35251.63747 
+E375.951004    	E37228.51999 
+E5712.4571  		E57279.31158 
+E35713.10744   	E357279.73453 
+ 
+This was a theoretical study; I do not think the 15/8, 21/16,
+and 35/32 to be important harmonic intervals, but I do think
+the result of setting the errors of the harmonics equal and 
+equal/opposite to be interesting. The methods are the same as
+in the earlier post on negative systems.
+The functions are (F-X), (T+8*X-5*OCT), (S+14*X-9*OCT),
+(E+18*X-11*OCT) and (Th+21*X-13*OCT). The latter two are 11/8 and
+13/8. I have not included the 6/5 or 5/3 in these calculations.
+See my paper in XH2.
+
+Doubly postive systems resembling 22-tet are also possible. I
+will post some such tunings at a later date.
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 11 Mar 1997 03:33 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01120; Tue, 11 Mar 1997 03:33:31 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01118
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id SAA17391; Mon, 10 Mar 1997 18:32:04 -0800
+Date: Mon, 10 Mar 1997 18:32:04 -0800
+Message-Id: <3389a501.891562562@kcbbs.gen.nz>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

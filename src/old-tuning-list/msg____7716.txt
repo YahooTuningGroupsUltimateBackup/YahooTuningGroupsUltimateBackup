@@ -1,0 +1,201 @@
+source file: m1410.txt
+Date: Sat, 9 May 1998 14:56 +0100 (BST)
+
+Subject: More chaotic stuff
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Ah yes, more on chaos theory shoehorned into a musical discussion.
+Musicians can still be reassured that they don't need to know this
+stuff.
+
+
+Paul Erlich wrote on the version of Duffing's equation I posted:
+
+>While most physical nonlinearities are characterized by a quadratic
+>fixed point, this appears to be one with a zero-slope cubic
+nonlinearity
+>(inflection point).
+
+"Most physical nonlinearities" is something of a generalisation.  I
+thought Duffing's equation is pretty much a classic for forced
+oscillations, but maybe only in pure mathematics.  I never did any chaos
+theory in physics.  Not important here, as I assume we're still thinking
+of an artificial process in the brain.
+
+>Instead of a period-doubling cascade, changes in the
+>parameter value for this type of system lead to a Fibonacci sequence of
+>period lengths. So changing the parameter in this case could decrease
+>the period to 2 or increase it to 5. I don't see how this is more
+>"stable" that a typical order 1/n^2 subharmonic for a
+>quadratic-fixed-point nonlinearity.
+
+I meant "stable" in the usual sense that, of you perturb the system
+slightly, it will not tend towards an entirely different behaviour.
+This is the minimum criterion for a limit cycle to be at all useful.
+There are, in fact, four centres and three (unstable) saddles.  Centres
+are stable, but not asymptotically stable, and this is usually how limit
+cycles arise, although I don't know if that's relevant in this case.
+Slight damping means the centres become stable spirals, and their basins
+of attraction are much reduced.
+
+Here's some text:
+
+"For the linear equation this[not the system above] periodic motion
+appears to be merely an anomalous case of the usual almost-periodic
+motion, depending on a precise relation between the forcing and natural
+frequencies.  Also, any damping will cause its disappearance.  When the
+equation is nonlinear, however, the generation of alien harmonics by the
+nonlinear terms may cause a stable subharmonic to appear for a range of
+the parameters, and in particular for a range of applied frequencies.
+Also, the forcing amplitude plays a part in generating and sustaining
+the subharmonic even in the presence of damping.  Thus there will exist
+the tolerance of slightly varying conditions necessary for the
+consistent appearance of a subharmonic and its use in physical systems."
+
+D.W.Jordan & P. Smith "Nonlinear Ordinary Differential Equations" 2nd
+edition, Oxford, 1987, p.196.
+
+The following general case (Duffing's equation without damping) is then
+covered:
+
+                  x'' + a*x + b*x^3 = G*cos(w*t)
+                  w^2*x'' + a*x + b*x^3 = G*cos(tau)
+
+In the first equation, differentiation is with respect to t, in the
+second wrt to tau.  The two are equivalent, and the second is used as
+the frequency is not known before the parameters are chosen.  There's a
+lengthy calculation, that I haven't followed, the result being (p.200):
+
+                 a =~ w^2/9
+
+As "the calculations are valid without the restriction on b."  I think b
+should still be small, though.  It looks like this is a good way of
+generating a subharmonic of a particular value, if that's what you want
+to do.  Not all of these subharmonics are stable, though, so I quoted
+one that is proved such as an example in the next section.
+
+Whatever mechanism, some kind of nonlinear equation seems to be the way
+to perform frequency reduction.  The most useful subharmonic will still
+be of order 1/2, but that is not inevitable.  According to the text,
+this sort of thing goes on in quartz clocks.
+
+> The actual frequency at which periodicity pitch gives up is about 5-6
+> kHz. Really high!
+
+Yes, this is higher than I thought.  I was expecting a few hundred Hz.
+
+>>The latest book's I've read --
+>>which, as they came from libraries, are a decade or three old -- say
+that
+>>the original experiments showing octave invariance were performed on
+>>musically literate subjects.
+
+> Are white rats musically literate?
+
+No, obviously not.  I'd still prefer humans, but please outline any
+experiments you know of.  Not having access to a university library, I
+can't get hold of academic papers very easily.
+
+>>More specifically, literate in Western
+>>Classical Music, where the notation is octave based.
+
+>Many other cultures use octave-based notation.
+
+Whoa!  Hold on there!  When did I say anything else?
+
+>>> As for the apparantly irregular "subharmonic" which Gary observed in
+the
+>>> bassoon waveform, this can easily be explained by assuming some
+>>> parameter of non-linearity (perhaps lip pressure) was hovering
+around a
+>>> value at which an initial period doubling occurs. So the amplitude
+of
+>>> this period-2 subharmonic could have been changing, and it could
+cease
+>>> to exist for a while, returning again just as easily after either an
+odd
+>>> or even number of period-1 oscillations.
+
+>>This assumes the system is teetering in a bifurcation point, which is
+>>actually very unlikely.
+
+>Not unlikely at all! Look again at a bifurcation diagram -- there is
+>quite a large range of values where the period-2 behavior has a
+>relatively constant amplitude, but at one end of this range the
+>amplitude suddenly decreases and period-1 behavior ensues. If the
+>bassoonist is trying to keep within this range, say because he is
+trying
+>to play as loud as he can and octave subharmonics don't bother him but
+>chaos does, the parameter will likely take on just such a range of
+>values.
+
+If there's some reason to move toward a bifurcation, that would make a
+difference.  If "the period-2 behaviour has a relatively constant
+amplitude" why not play right in the middle of the period 2 region,
+instead of veering toward the bifurcation?
+
+>>I'd guess the amplitude of the subharmonic is
+>>chaotic.  Or, the subharmonic is entirely chaotic but appears to be
+order
+>>1/2 at certain times
+
+>>A period doubling cascade can be
+>>linked to amplitude, though.
+
+>These don't sound like examples of real-world dynamics.
+
+On thinking about it, the chaotic subharmonic is unlikely.
+
+It's obvious I'm relying on one book, but anyway ... The example is for
+Duffing's equation again:
+
+                 x'' + k*x' + x^3 = G*cos(w*t)
+
+The bifurcation parameter is G (really Gamma) which is the forcing
+amplitude.  A period doubling cascade is demonstrated (pp336-345).
+
+>>It's unlikely that a period 3 cascade could be picked out from a
+chaotic
+>>region with one parameter.
+>
+>Not unlikely at all, I've done it with my vocal cords.
+
+Well done!  How did you perform this experiment?
+
+>>In the Mandelbrot set, though, there is a
+>>fairly large period 3 region.  Similar things might occur with
+>>differential equations of 2 parameters for all I'd know.
+
+>Actually, a differential equation needs to have at least 3 parameters
+>for chaos to occur. However, the picture along whichever of the
+>parameters is responsible for chaos will be the good old bifurcation
+>diagram. The Mandelbrot set represents a discrete (not continuous)
+>dynamical system, which only needs one parameter to exhibit chaos. If
+>you restrict yourself to the real line, you see the usual bifurcation
+>diagram again (proceeding from right to left).
+
+I meant that the bifurcation parameter becomes a plane, like the
+Mandelbrot set, rather than that the system has two variables.  I can
+see that isn't clear.
+
+Minor correction: that should be "an autonomous differential
+equation..."
+
+>>I think there
+>>might even be a period 3, 9, 27, ... cascade in the Mandelbrot set.
+>
+>Naah, the Mandelbrot set is clearly all about period doubling; the
+>iteration of a point on the set's boundary doubles the angle the point
+>makes on the unit circle (to which the boundary can be conformally
+>mapped). Although you could probably find some contorted path in the
+>complex plane to support your guess.
+
+You bet!  The way I would implement twelfth-reduction, though, is to use
+a 1/3 order subharmonic generator, and repeat the process until the
+frequency became suitably low.
+
+Incidentally, Benoit Mandelbrot is a Polish mathematician, with some
+links with France, working in the USA.  I have no idea how he pronounces
+his name, but everyone I know, including one Italian who's met him,
+sounds the last 't' in 'Mandelbrot'.

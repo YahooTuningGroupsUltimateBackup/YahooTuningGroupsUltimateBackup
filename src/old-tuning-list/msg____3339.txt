@@ -1,0 +1,38 @@
+source file: mills2.txt
+Date: Mon, 29 Jul 1996 13:16:22 -0700
+
+Subject: Reply to John
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+> A relation simpler than either Sauveurs or Henflings is the one
+> Blackwood uses, the relation of the whole tone to the diatonic
+> semitone. The octave has 5T+2D steps. When d is 0, one gets
+> 5-tet, when T and D are both 1, 7 steps, when 2:1, 12; 3:2, 19;
+> 5:3, 31; 3:1, 17; 4:1, 22 4:3, 26; etc. 
+
+To which might be added that Sauveur's table of 1711 consists of
+divisions which have the chromatic 12-tone scale embedded in them and
+hence the diatonic scale too. The connection between Sauveur's and
+Blackwood's relation is rather simple. The comma plus the chromatic
+semitone is the diatonic semitone and the chromatic semitone plus the
+diatonic semitone is the whole tone. 
+So for instance if the ratio comma:chromatic semitone is 2:3 
+(for 50-tET), then the next is 3:5 and thus D:T is 5:8.
+
+> Hypocaffeinemia this AM, alas.
+
+With American coffee, that means lots of drinking :-)
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 30 Jul 1996 07:57 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA13755; Mon, 29 Jul 1996 22:57:51 -0700
+Date: Mon, 29 Jul 1996 22:57:51 -0700
+Message-Id: <199607300555.WAA04902@dnai.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

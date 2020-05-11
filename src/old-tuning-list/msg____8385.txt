@@ -1,0 +1,51 @@
+source file: m1508.txt
+Date: Wed, 19 Aug 1998 00:46:25 +0100
+
+Subject: tuning on synths
+
+From: neuwirth  <neuwirth@smc.univie.ac.at>
+
+in answer to david griffel searching for a program
+for tuning synths for realtime performances.
+
+there are 2 ways of doing it.
+
+yamaha and roland synths both have sysex messages for
+scale tuning, which allows you to change the tuning of all
+tones in one pitch class (all c's, all c#'s ..)
+in increments of 1 cent.
+the sysex messages are vendor specific and therefore different.
+
+general midi has master channel tune in increments of
+100/8192 cents (much finer)
+so it is possible to tune each channel separately.
+if you play all c's on channel 1, all c#'s on channel 2,
+you can use this to play in alternative tunings,
+and the technique will work for every fully
+general midi compliant synthsizer (roland and yamaha both 
+will work).
+
+since a midi keyboard (or any other midi instrument)
+will produce notes only on one channel, you need a tool for 
+rechannelizing.
+there is a freeware program 
+midicable
+which allows you to do exactly that.
+
+so with any decent patch editor speaking general midi
+and midicable you can use the channel fine tune method
+to create alterntive tunings.
+
+i will have a presentation at the annual meeting of the
+mathematical societies of the united states in january
+in san antonio where i will use this technique
+to explain the mathematics behind different historical tunings.
+
+the title will be
+
+eine kleine mathematische nachtmusik
+
+--
+Erich Neuwirth <neuwirth@smc.univie.ac.at>
+Computer Supported Didactics Working Group, Univ. Vienna
+Visit our SunSITE at http://sunsite.univie.ac.at

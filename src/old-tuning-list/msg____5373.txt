@@ -1,0 +1,62 @@
+source file: mills2.txt
+Date: Wed, 30 Apr 1997 19:02:45 -0700
+
+Subject: Re: pseudo
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>> *  It's not an 81:80 frequency ratio.
+>This would mean that 2^1/7, 2^11/19 (and 8*88cents) are pseudo fifths too.
+
+   Does that mean that you'd like to change the name of a scale that's
+existed for several hundred years to quarter-ptolemaic-just-syntonic-comma
+meantone?
+
+   A P5 is a basic chord and scale constructor, whereas a syntonic comma is
+a measured result of a specific experiment, which has subsequently been
+used as a semigeneric unit of pitch difference for specifying the sizes of
+meantone fifths.
+
+   I'm not in favor of changing the size of the centimeter, thank you.
+
+   The syntonic comma is interesting, historically speaking, for two
+attributes:  First is how it comes about (the pitch difference between
+large and small Ptolemaic whole-steps).  The second is that it is probably
+the most basic of a handful of justifications (all puns intended) for an
+OPEN system of tuning - one with an indefinite number of tones per octave's
+span.
+
+   The task of either accepting precise renderings of just ratios,
+including the comma discrepancies it generates, or of tempering in terms of
+that comma, is almost certainly the single-longest running thread in the
+history of tuning.
+
+   Now, we have a new concept that shows only one of those two vital
+attributes - the difference between large and small whole tones, but
+explicitly precludes an open system of tuning.  We are faced with a choice:
+Do we generalize an existing term to where one of its two most important
+attributes is rendered irrelevant, or at least secondary?  Or, do we derive
+from the first term, a new term for the new concept?
+
+   I think that Ivor Darreg's choice of "pseudo<X>" is at least a pretty
+good term for something that has some, but not all, of the qualities of an
+"<X>".  Perhaps a "quasi<X>" would be better?
+
+   If you two really think that it's better to reuse an existing term ...
+Well...  OK...  "Syntonic comma" certainly wouldn't be the first such term.
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 1 May 1997 04:06 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01549; Thu, 1 May 1997 04:06:13 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA01576
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id TAA25649; Wed, 30 Apr 1997 19:04:37 -0700
+Date: Wed, 30 Apr 1997 19:04:37 -0700
+Message-Id: <v01541108af8d61186a25@[207.207.2.133]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

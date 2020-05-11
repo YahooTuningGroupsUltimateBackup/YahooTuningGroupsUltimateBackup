@@ -1,0 +1,86 @@
+source file: mills3.txt
+Date: Thu, 30 Oct 1997 18:48:09 +0100
+
+Subject: Re: TUNING digest 1222
+
+From: Carl Lumma <clumma@nni.com>
+
+>> It must be something else, then, that causes additive patches to sound more
+>> like violins when you detune the harmonics.
+>
+>I suggest that "something else" is vibrato.
+
+I don't think it's vibrato.
+
+>Here is a brief definition of sensory dissonance:
+>
+>(1) Define the sensory dissonance between two sine waves to be
+>given by the psychoacoustic data gathered by Plomp and Levelt. (A
+>simple approximation to this is given below).
+>
+>(2) Given two sounds F and G, one with partials at frequencies f1, f2,
+>f3, f4, etc and the other with partials at frequencies g1, g2, g3, g4,
+>etc. Define the sensory dissonance between F and G to be the sum of
+>all the dissonances between all the sine wave partials, weighted by
+>the relative amplitudes of the partials.
+>
+>Suppose two sine waves are at frequencies f and g. The data
+>gathered by Plomp and Levelt can be parameterized as the
+>difference between two exponentials
+>
+>                      exp(-a |f-g|) - exp(-b |f-g|)
+>
+>where a and b are constants.
+
+Now we're talking!
+
+>For details, see my paper in JASA, Sept  93.
+
+Journal of Acoustic Science and Astrology?
+
+>If you need a computer program that implements these
+>calculations, I can mail you one.
+
+By all means!  Intel version?
+
+>Just a simple thought--consonance, having to do with the relationship
+>between 2 or more pitches--when the intervals coincide with the harmonic
+>overtone series, they are consonant--when they do not or one of them does
+>not, they are not consonant, irregardless of how they "sound" to the ear.
+>What "sounds" pleasant is, I believe, much more of a learned thing than
+>seems to be generally acknowledged.  7/4 "sounds" perhaps a bit dissonant
+>in the 12TET world, but I believe is extremely consonant when developed in
+>the proper musical setting.
+
+Right.  Likes and dislikes are products of behavior.
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  RE: a definition of sensory dissonance
+PostedDate:  31-10-97 01:05:13
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  31-10-97 01:04:12-31-10-97 01:04:13,31-10-97 00:04:45-31-10-97 00:04:45
+DeliveredDate:  31-10-97 00:04:45
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256541.00005FF7; Fri, 31 Oct 1997 01:04:05 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00062; Fri, 31 Oct 1997 01:05:13 +0100
+Date: Fri, 31 Oct 1997 01:05:13 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA00053
+Received: (qmail 6385 invoked from network); 30 Oct 1997 16:05:07 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 Oct 1997 16:05:07 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971030225702Z-4059@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

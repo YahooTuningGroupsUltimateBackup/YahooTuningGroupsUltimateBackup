@@ -1,0 +1,60 @@
+source file: mills2.txt
+Date: Sun, 29 Sep 1996 16:07:45 -0700
+
+Subject: Re: Quadratic Prime Just Intonation
+
+From: Johnny Reinhard <reinhard@styx.ios.com>
+
+Paul and others have asked me what I mean by "quadratic prime just 
+intonation" and this is now the time.  I used this tuning exclusively in 
+a solo trombone work called _Rama_ based on the Arthur C. Clarke & Gentry 
+Lee series of books.  I later used it for a section of my string quartet 
+_Cosmic Rays_.
+
+Firstly, I'd like to quote a passage of _Rama_ which lead me to the tuning:
+
+"What comes first?  Do we use models to help us find the truth? Or do we 
+know the truth first, and then develop the mathematics to explain it?"
+- a lead character Nicole les Jardins
+
+Quadratic Primes 41, 43, 47, 53, 61, 71, 83, 97
+Each successive number is computed by increasing the difference from the 
+previous number by two, resulting in exactly forty consecutive prome 
+dollars.  The sequence of primes ends only when the 41st number in the 
+string turns out to be a non-prime, namely 41 X 41 = 1681.
+
+The ratios are:
+43/41 = 82 cents
+47/43 = 179 cents
+53/47 = 193 cents
+61/53 = 244 cents
+71/61 = 263 cents
+83/71 = 271 cents
+97/83 = 270 cents
+and continues to diminish down to 1681/1601 = 84 cents
+ 
+In the _Rama_ books, the alien sentients that rule their lives use 
+quadratic primes as the basis for their computer software.  I found in 
+using what at first seem like arcane relationships actually make 
+consonance of all possible combinations.  Thats why its just intonation.
+
+Johnny Reinhard
+American Festival of Microtonal Music 
+318 East 70th Street, Suite 5FW
+New York, New York  10021  USA
+(212)517-3550/fax (212) 517-5495
+reinhard@ios.com
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 30 Sep 1996 06:28 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05130; Mon, 30 Sep 1996 05:28:58 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04713
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id VAA16288; Sun, 29 Sep 1996 21:28:55 -0700
+Date: Sun, 29 Sep 1996 21:28:55 -0700
+Message-Id: <01IA2JG9OEF68Y62BX@delphi.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

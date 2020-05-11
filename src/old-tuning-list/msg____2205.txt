@@ -1,0 +1,27 @@
+source file: mills2.txt
+Date: Fri, 27 Oct 1995 06:06:28 -0700
+
+Subject: RE: Microtonal font
+
+From: "J. Pusey" <pusey@remqhi.ENET.dec.com>
+
+I dug out my old Finale 2.0 documentation last night and found (as I suspected)
+that it too supports the nonstandard key signature dialogs that Brian discovered
+in version 3.5. So it would seem that Finale has had this feature for many
+years now. Now I suppose I ought to my money where my mouth is and take a
+serious stab at actually trying to use this stuff.
+
+John
+pusey@remqhi.enet.dec.com
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 27 Oct 1995 17:21 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA01907; Fri, 27 Oct 1995 08:21:21 -0700
+Date: Fri, 27 Oct 1995 08:21:21 -0700
+Message-Id:  <9510270819.aa05881@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,88 @@
+source file: mills3.txt
+Date: Fri, 10 Oct 1997 19:06:31 +0200
+
+Subject: Re: TUNING digest 1202
+
+From: Prent Rodgers <prodgers@us.ibm.com>
+
+Terry Truman wrote:
+
+>.Greetings,
+> If you had your choices, what would be required in a tuning
+>machine that would suit your needs? A very wide open question, I
+>realise.
+> I'm in the initial stages of design for a precision,
+>multi-temperament machine initially aimed at Pipe Organ enthusiasts,
+>which could provide facilities for up to 100 temperaments.
+>Being for organs, it is primarly for 12 tone systems, but there is no
+>reason why this could not adapted to other uses.
+>
+> Let me know what you think, or are these machines anathema ?
+>Terry.
+
+I used to have a marvelous portable tuner I used to build many
+microtonal machines about 15 years ago. I can't remember the
+manufacturer or model, but it was a small blue box with 12 tone
+choices, and two dials to tune them either ten cents or one cent sharp
+and flat (coarse and fine adjustment). It had a set of 12 or so LED's
+that would rotate clockwise or counter-clockwise until the note was in
+tune. It had another dial to select the octave. It went missing on a
+road trip in '81.
+
+What I liked about it was the rugged construction, which allowed me to
+use it in the garage where I built instruments without worry over
+spilling machine oil, solder, or ashes into the guts of the machine.
+Today I use a laptop computer, but I am always worried about damage. I
+haven't found a good tuning program for the PC, but it seems like it
+should be possible to listen to the microphone input and report
+frequency in real time. Today, I build a set of .wav files in CSound
+and select from the desired pitch, then tune by sound. I really miss
+the rotating LED's.
+
+There are a number of products on the market today that provide
+microtonal tuning support. I have looked at the Accutone model 250,
+with preprogrammed scales, and a three light strobe for $400; Korg
+model MT-1200 wihch  can be programmed to temperments of your choice
+for $300; Peterson 5000, with 112 customer definable temperment files;
+Precision Strobe Tuner PST2, with the rotating LED's that I found
+useful before and programmable temperments, for $325. All of these
+assume that you are tuning 12 tones to the octave, but let you alter
+any of those 12 to any note. With a little fancy temperment switching,
+you can tune any number of tones to the octave with little trouble.
+
+Yours,
+
+Prent Rodgers
+Boise, ID 83706
+
+Internet: prodgers@us.ibm.com
+=
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Manuel.Op.de.Coul@ezh.nl
+Subject:  Another version of 12-tET
+PostedDate:  10-10-97 19:53:56
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-10-97 19:53:27-10-10-97 19:53:27,10-10-97 19:53:56-10-10-97 19:53:56
+DeliveredDate:  10-10-97 19:53:56
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125652C.006242AD; Fri, 10 Oct 1997 19:53:16 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13513; Fri, 10 Oct 1997 19:53:56 +0200
+Date: Fri, 10 Oct 1997 19:53:56 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA13500
+Received: (qmail 3744 invoked from network); 10 Oct 1997 10:53:52 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Oct 1997 10:53:52 -0700
+Message-Id: <C125652C.0061B07D.00@notesrv2.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

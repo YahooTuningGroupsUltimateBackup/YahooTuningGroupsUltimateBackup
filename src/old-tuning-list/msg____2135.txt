@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Fri, 13 Oct 1995 09:46:36 -0700
+
+Subject: Re: 12-tet in China
+
+From: "David R. Canright" <dcanrig@danhicks.math.nps.navy.mil>
+
+Paul Hahn's adaptation of the square root algorithm to the Nth root certainly works:
+
+    Answer := Of_Number;
+    loop
+       Delta := (Of_Number / (Answer ^ (N-1))) - Answer;
+       if abs Delta <= Answer * Epsilon then
+          return Answer;
+       end if;
+       Answer := Answer + Delta / N;
+    end loop;
+
+But as he points out:
+
+> Powers of two reduce the amount of calculation
+> required, which is nice, but not necessary.
+
+For doing by hand, the simplest way is find the square root of two, then the  
+square root of that, then the cube root of that.  This converges to 10  
+significant digits in a total of 12 iterations (4 for each root).  The direct  
+12th root approach also converges in 12 iterations, but the latter requires  
+calculating 11th powers 12 times, while the former only requires finding 2nd  
+powers 4 times.
+
+Either way, the algorithm is not inherently difficult.
+
+	David C.
+--
+David Canright                (408) 656-2782 (or -2206)
+Math. Dept., Code MA/Ca       (408) 656-2355  (FAX)
+Naval Postgraduate School     DCanright@NPS.Navy.mil
+Monterey, CA  93943  USA      http://math.nps.navy.mil/~dcanrig/
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 13 Oct 1995 19:04 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA08088; Fri, 13 Oct 1995 10:04:17 -0700
+Date: Fri, 13 Oct 1995 10:04:17 -0700
+Message-Id: <Pine.3.89.9510131215.A23934-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

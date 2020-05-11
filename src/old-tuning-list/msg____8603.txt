@@ -1,0 +1,24 @@
+source file: m1552.txt
+Date: Tue, 13 Oct 1998 16:55:01 -0400
+
+Subject: the Birdhouse/Freenote web pages
+
+From: David Beardsley <xouoxno@virtulink.com>
+
+I fixed a glitch in the Birdhouse/Freenote web pages.
+An ancient/out-of-date page called index.html was getting
+loaded instead of the current index.htm. I found it
+by following the link on the 1/1-JIN pages.
+
+Tune in: http://home.earthlink.net/~freenote/
+
+
+
+--
+* D a v i d        B e a r d s l e y
+*           xouoxno@virtulink.com
+*
+* J u x t a p o s i t i o n     E z i n e
+* M E L A  v i r t u a l  d r e a m house monitor
+*
+* http://www.virtulink.com/immp/lookhere.htm

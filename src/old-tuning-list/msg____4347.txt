@@ -1,0 +1,51 @@
+source file: mills2.txt
+Date: Tue, 17 Dec 1996 13:41:33 -0800
+
+Subject: alternate tuning for the Korg O5R/W
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+> malkin@iwaynet.net (David Malkin) wrote:
+> Subject: alternate tuning for the Korg O5R/W
+> 
+> I've got a very specific question that only someone familiar with
+> microtonality would understand (and hopefully appreciate). I have a Korg
+> O5R/W syth module that hooks into an old DW-6000 synth. The O5R/W allows
+> for microtonality, but it only allows you to alter the 12 chromatic steps
+> of Western harmony (and automatically tunes every octave of the keyboard to
+> the specs that one specifies). If you want to tune a synth keyboard for
+> more than 12 steps you are out of luck. I read a book by Scott R. Wilkinson
+> called TUNING IN. He made reference to an article by Carter Scholz that
+> appeared in 2/86 copy of KEYBOARD magazine; page 49. He showed how one get
+> any keyboard to play in microtones by writing a program in Pascal and
+> having it interface with a Roland MPU@1 and a Yamaha DX7. The computer
+> waits in an infinite loop in a standby mode and whenever one presses a key
+> on the keyboard, it triggers the correct pitch bend midi data that is
+> written in the program.  Is this possible with my Korg O5R/W? Do you know
+> of anyone who may be of help.
+
+I don't know about the Korg 05R/W, or the Korg DW-6000, but I do know about the midi specs and the Yamaha DX7. 
+The original Yamaha DX7 played on one midi channel at a time. Pitch bend is a channel message, which means it 
+affects all notes sounding on the channel at once. This means that the original DX7 can only play monophonic 
+microtonality using the pitch bend technique. If you use a midi module capable of playing on multiple midi 
+channels at once, rather than the DX7, you can play polyphonic microtonality by sending each note and its 
+associated pitch bend to a separate channel. 
+ 
+The second generation Yamaha DX7-II of course does microtonality without pitch bend, with each of the 128 
+midi notes being independantly tunable across the same wide range (IOW, the pitches don't have to be ordered 
+low to high).
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Dec 1996 23:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00740; Tue, 17 Dec 1996 23:18:09 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00738
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA23806; Tue, 17 Dec 1996 14:18:00 -0800
+Date: Tue, 17 Dec 1996 14:18:00 -0800
+Message-Id: <v02130503aedcc951ebcd@[192.168.11.205]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

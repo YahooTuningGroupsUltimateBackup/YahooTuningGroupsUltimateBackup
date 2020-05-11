@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Fri, 14 Mar 1997 14:06:14 -0800
+
+Subject: Re: Milne/Wolf 4-5-6-7-8 and Gr Aug6th/Fr Aug6th chords
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 14 Mar 1997, Atlas Eclipticalis wrote:
+>    What is the acoustical basis for this chord / unique sonority?
+>[the French 6th]
+
+Well, personally I interpret it as the combination of two 4:5:7 triads,
+one inverted.  In other words:
+
+	 7/5 <--(4:5)--> 7/4
+
+            ^           ^   ^
+             \         /     \
+            (5:7)   (4:7)   (5:7)
+               \     /         \
+                v   v           v
+
+	         1/1 <--(4:5)--> 5/4
+
+This is analagous to, say, a major seventh chord being made up of two
+4:5:6 triads, like so:
+
+                 3/2 <--(4:5)-->15/8
+
+                ^   ^           ^
+               /     \         /
+            (2:3)   (5:6)   (2:3)
+             /         \     /
+            v           v   v
+
+         1/1 <--(4:5)--> 5/4
+
+--pH <manynote@library.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "'Jever take'n try to give an ironclad leave to
+  -\-\-- o    yourself from a three-rail billiard shot?"
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 15 Mar 1997 02:13 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19721; Sat, 15 Mar 1997 02:13:37 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA19719
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id RAA24413; Fri, 14 Mar 1997 17:12:00 -0800
+Date: Fri, 14 Mar 1997 17:12:00 -0800
+Message-Id: <199703142010_MC2-129A-88E3@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,29 @@
+source file: m1571.txt
+Date: Mon, 2 Nov 1998 13:28:28 -0000
+
+Subject: Re:Yamaha XG pitch bend specs
+
+From: Graham Breed <g.breed@telecomknowledge.com>
+
+Drew Skyfyre wrote
+
+>Sometime ago, I reported the following :
+
+>"Pitch bend, I checked with the range at 1-semitone and 
+>found no clear pattern in the data values that caused each >successive
+>pitch change.
+>etc"
+
+I should have asked at the time, but how deviant are your results from a
+linear response?  I've done some quick tests with my AWE64, and it seems to
+be roughly 1 cent steps but not accurate to much more than a cent.  Also,
+now I've had quite a lot of experience of playing with pitch bends, the
+results do sound pretty good.  Certainly better than not using pitch bends.
+
+If you're doing _serious_ work, tuning tables are usually better than pitch
+bends because you don't have slurring which can be a problem with some
+synths.  The exception is where you want more notes than you can get into a
+tuning table, so you stick in a small correction from the nearest note that
+is in the table.  Or, of course, if you don't have tuning tables and you
+want to choose the scales you hear.  Is assuming a linear response good
+enough for these purposes from what you've measured?

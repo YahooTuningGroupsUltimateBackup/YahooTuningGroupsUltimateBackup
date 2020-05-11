@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Wed, 9 Jul 1997 19:55:26 +0200
+
+Subject: Re: Muddy waters
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+>I have not recieved TD 1122, so I write with some tentativeness . . .
+Could it be that no-one got that digest?
+
+I've drawn myself some triangular lattices, and I can see how a
+lot of nice shapes correspond to a CPS.  I've also tried to
+visualise a regular tetrahedral lattice.  The points of this seem
+to be in a hexagonal close packed structure.  If I can get a
+quantitative formula worked out, I'll change the metric.  Making
+the 5/3 dimension infinite turns a triangular into a square
+lattice.  What fun!
+
+The saturated 15-limit chords 3:7:15:21 and 5:7:15:35 both make
+the same shape on a tetrahedral lattice: two triangles joining at
+one edge, not in the same plane.  On a tetrahedral, octave
+specific lattice a 4:5:6 chord lies on three corners of the same
+shape.  3:4:5 and 5:6:8 don't look as good.  4:5:6:8 doesn't
+either, but I still think this is leading somewhere.  I don't see
+that we need a new dimension for 9.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 9 Jul 1997 20:30 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05188; Wed, 9 Jul 1997 20:31:14 +0200
+Date: Wed, 9 Jul 1997 20:31:14 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05094
+Received: (qmail 17635 invoked from network); 9 Jul 1997 18:31:07 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 9 Jul 1997 18:31:07 -0000
+Message-Id: <199707091428_MC2-1A85-EB32@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,123 @@
+source file: m1445.txt
+Date: Fri, 12 Jun 1998 18:55:01 +0000
+
+Subject: Commas and Consistency
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+Re commas: 
+
+In Intervals, Scales and Temperaments (p133) Hugh Boyle defines the
+syntonic comma (81/80, or 21.506 cents) in a couple of the usual ways,
+and then goes on:
+
+'In musical performance, this comma should not be thought of as the
+problem it presents to the tuner of keyboard instruments, but as a
+somewhat elastic interval depending, as it must, on the ear's ability
+to estimate intervals under varying circumstances. Further, if the
+musical instinct of the artist for melody or for concord compels him
+to make a small adjustment of this kind in the width if his intervals,
+then any subsequent readjustment felt necessary can easily be
+absorbed, without offending the ear, in a discord, which, because of
+its dissonance, is lacking in definition.'  
+
+I'm not quoting this because I think it's marvellously illuminating. 
+Unfortunately I haven't got a copy here of Blackwood's book at the 
+moment, which (as I recall)  is more interesting on the topic. 
+
+However, my questions about 'disappearing commas' stem from the fact 
+that various writers use the term 'comma' (as above) to refer, 
+naturally enough, to two facets of the same thing.  We talk about a 
+fixed temperament, such that, as Paul H put it:      
+
+>An interval vanishes in a particular ET (or quasi-ET like a
+>well-temperament) if it is represented by 0 scale degrees. 
+
+And we talk about a comma as an 'elastic' interval, the acceptable 
+leeway employed by a violinist or clarinetist when taking a tone 
+(for example) as either major (9/8) or minor (10/9) (the difference 
+between the two being 81/80) in different situations, or some 
+approximation of either.  A 'comma' is an anomaly 
+specifically resulting from combinations of just intervals (or 
+equivalent tempered intervals); it is also (more or less) the 
+ambit of an interval within which performers adjust their intonation 
+in certain circumstances.  Well, this is the way I've always thought 
+of it.  OK? 
+
+Therefore, going from what Pauls H and E wrote - is a  *disappearing* 
+comma something which belongs exclusively to the logic of a 
+temperament?  Or is the phrase 'disappearing comma' sometimes used 
+equally to refer to intonational 'disappearance' in commatic 
+performance adjustments?  ('disappearing' in the sense of 'going 
+unnoticed')? I'm not clear on this - and maybe that's why my question 
+wasn't clear to Paul E.  I wrote:
+
+>>Could anyone tell me - is there a unique theoretical limit at which
+>>a comma (of different kinds?) may be said to disappear?
+
+Paul E replied:
+
+>I don't understand this--can you rephrase?
+
+I'll try.  Is there an historically accepted limit to the size of 
+what will work as an effective 'performance comma' - (that is, from a 
+traditional harmonic point of view)?  Is that a question which is too 
+subjective to worry about? I have always assumed it could not be more 
+than about 21-24 cents.  I've tried some experiments with various 
+conventional and unconventional progressions, and in differing 
+temperaments and timbres, but so far they are inconclusive.  
+
+Now, the reason I started looking at this is because I have been 
+trying to work out some ideas about consistency.   It occurred to 
+me, as both Pauls reactions seem to confirm, that the ancient notion 
+of a 'comma' is (kind of) the original root of the idea of 
+consistency. 
+
+I know that the following has been discussed on the list before, but 
+I'll just try to explain what I was trying (unsuccessfully) to work 
+out.  Both Pauls have been very kind in explaining some of this to me 
+off-list. Paul H has also explained a simple algorithm to show 
+whether an n-ET is level-p consistent at the m-limit.  The algorithm 
+goes something like this: (I'm dumping a bit of pre-written stuff 
+here) -
+
+(i) choose the n-ET and the m-limit to be considered; 
+(ii) list the intervals which belong to the primary m-limit; 
+(iii) find the primary m-limit interval which is least well
+approximated by the chosen n- ET; 
+(iv) add this interval to itself until the deviation from its 
+intended equivalent is greater than (1200/2n) cents; call the number 
+of additions at this point t. 
+(v) then n-ET is level-(t-1) consistent at the m-limit. 
+
+Thus inconsistency occurs when the combination of t m-limit ratios 
+diverges by more than half a step in n-ET from the expected 
+consistent combination of n-ET scale-steps.  This corresponds to our 
+intuitive notion of 'consistency' in everyday terms.  But a more 
+stringent criterion (from the point of view of intonation) might be 
+substituted - for example, the criterion could be changed to 1/3rd of 
+a step (by changing (1200/2n) to (1200/3n)) (as has been discussed 
+before).  Obviously, doing this changes the meaning of 'consistency'. 
+
+If we replace the expression (1200/2n) with (1200 x 21506/10000n) we 
+might track 'consistency' relative to the sytonic comma - which I 
+have assumed is the traditionally acceptable ambit of intonational 
+wandering in 'commatic situations'.  But I wanted to know if my 
+assumption was grounded.
+
+Well, that's an inconclusive explanation of what I was trying to get 
+at.  I found both Pauls' responses interesting - but unfortunately I 
+soon get into difficulties making sense of their maths. I'm sorry to 
+be a useless correspondent in this respect, and also sorry that I 
+don't have adequate time at the moment to try harder.  
+
+However - I was particularly interested in this bit (by Paul E):
+
+> commas constructed from n-limit intervals are uniquely defined in all 
+>tunings consistent within the n-limit. Given consistency, the 
+>determination of the size of a comma in an ET is fairly trivial.  
+
+and I wonder if Paul would give us a couple of examples of what he 
+means?
+
+Patrick O-L

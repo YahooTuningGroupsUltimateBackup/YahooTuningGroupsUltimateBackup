@@ -1,0 +1,261 @@
+source file: mills2.txt
+Date: Fri, 29 Dec 1995 12:28:46 -0800
+
+Subject: List of modes
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Here is a list of modes that I have been putting together over a period
+of time. The numbers are the consecutive intervals in number of scale steps.
+It is clear that such a list of bare numbers is in many cases an
+oversimplification of things. For instance for an Indian raga it is only
+one technical aspect of a whole musical system which can also have
+different ascending and descending scale patterns, different stress on 
+notes, enharmonic variations, etc. So no attempt was made to make the
+list complete for Indian ragas. Most of these listed have the same
+ascending and descending scale, however if for a particular case none
+having that exists, I have incorporated one which omits a note in
+either or both cases. All 72 ragas of the South-Indian (Karnatic)
+melakarta raga system are in the list indicated with "mela".
+North-Indian (Hindustani) equivalent names are given also. 
+There are also more Japanese pentatonic modes, different forms of basic
+ones. 
+For more information about the concept of mode, there is a lot to find 
+under "mode" in the New Grove encyclopedia.
+The number of modes in the list is 208. Lines beginning with a ! are 
+comments. Additions are welcome.
+
+
+! 7 tone modes:
+1 1 2 1 2     Lima: Thailand
+1 2 1 1 2     Nem: Thailand
+2 1 1 1 2     Barang: Thailand
+!
+! 12 tone modes:
+1 5 1 5       Messiaen's truncated mode 5
+5 1 5 1       Messiaen's truncated mode 5 inverse
+2 4 2 4       Messiaen's truncated mode 6
+4 2 4 2       Messiaen's truncated mode 6 inverse
+2 1 4 1 4     Hira-joshi: Japan
+1 4 2 3 2     Kokin-joshi: Japan, Raga Revati
+1 4 2 1 4     Hon-kumoi-joshi: Japan
+1 4 1 4 2     Iwato: Japan
+2 1 2 4 3     Raga Abhogi
+4 2 1 4 1     Raga Amritavarsini
+4 1 4 2 1     Raga Bhinna Shadja
+2 2 3 2 3     Pentatonic, Ryo: Japan, Raga Bhopali (Bhup), Mohana
+2 3 2 3 2     Yo: Japan
+1 2 4 1 4     Balinese, Raga Bhupala, Raga Bibhas
+3 2 4 2 1     Raga Candrakauns (modern)
+2 3 2 2 3     Ritusen: Japan, Raga Devakriya, Durga
+5 2 1 3 1     Raga Devaranji
+3 2 2 3 2     Raga Dhani
+4 1 2 4 1     Raga Gambhiranata
+2 2 3 3 2     Raga Hamsadhvani
+3 2 3 2 2     Raga Malkauns (Malakosh), Hindola
+1 3 1 3 4     Raga Megharanjani
+4 1 2 2 3     Raga Nagasvarali
+1 3 3 1 4     Raga Reva
+1 5 1 1 4     Raga Saugandhini
+2 1 4 2 3     Raga Sivaranjini
+4 3 2 1 2     Raga Valaji
+2 2 2 4 2     Prometheus
+2 2 2 2 2 2   Whole Tone, Messiaen's mode 1
+2 3 2 2 1 2   Pyongjo: Korea, Raga Darbar
+3 2 3 2 1 1   Blues scale
+1 2 2 3 2 2   Ritsu: Japan, Raga Suddha Todi
+2 1 2 4 1 2   Raga Bagesri, Sriranjani
+1 2 3 2 2 2   Raga Bhavani
+1 1 4 1 2 3   Raga Candrajyoti
+2 2 2 1 4 1   Raga Caturangini
+2 1 2 3 3 1   Raga Ghantana
+1 2 3 2 3 1   Raga Gurjari Todi
+1 3 2 3 2 1   Raga Hamsanandi
+2 2 1 4 2 1   Raga Hamsa Vinodini
+2 4 1 1 2 2   Raga Jaganmohanam
+1 4 2 2 2 1   Raga Jivantika
+1 3 3 1 1 3   Raga Kalagada
+1 4 2 1 1 3   Raga Kalakanthi
+4 1 2 2 1 2   Raga Khamas
+2 2 3 2 2 1   Raga Kumud
+1 3 1 3 3 1   Raga Lalita, Sohini
+2 2 3 1 3 1   Raga Latika
+1 3 3 2 1 2   Raga Malayamarutam
+2 1 4 2 1 2   Raga Manavi
+1 3 2 1 4 1   Raga Mandari
+3 2 2 2 1 2   Raga Manohari
+1 3 2 3 2 1   Raga Marva
+2 1 2 2 3 2   Raga Palasi
+1 3 1 2 1 4   Raga Purna Pancama
+2 2 1 4 1 2   Raga Rageshri (Rajashri)
+2 1 3 3 2 1   Raga Ranjani
+2 1 3 1 3 2   Raga Simharava
+1 2 2 2 1 4   Raga Suddha Simantini
+2 1 3 1 1 4   Raga Syamalam
+2 1 3 1 2 3   Raga Vijayanagari
+1 2 3 1 4 1   Raga Vijayasri
+4 2 1 3 1 1   Raga Vijayavasanta
+2 2 2 1 2 3   Raga Yamuna Kalyani
+1 1 4 1 1 4   Messiaen's mode 5
+4 1 1 4 1 1   Messiaen's mode 5 inverse
+1 3 1 3 1 3   Messiaen's truncated mode 3
+3 1 3 1 3 1   Messiaen's truncated mode 3 inverse
+1 2 3 1 2 3   Messiaen's truncated mode 2
+1 3 2 1 3 2   Messiaen's truncated mode 2
+! G = Greek name, M = Medieval (ecclesiastical) name
+1 2 2 1 2 2 2 G.Mixolydian, M.Hypophrygian, M.Locrian: very minor
+2 2 1 2 2 2 1 G.Lydian, M.Ionian, M.Hypolydian, Raga Bilaval, Mela Shankarabharanam: major
+2 1 2 2 2 1 2 G.Phrygian, M.Dorian, M.Hypomixolydian, Raga Kafi, Mela Kharaharapriya: neutral
+1 2 2 2 1 2 2 G.Dorian, M.Phrygian, M.Hypoaeolian, Raga Bhairavi, Mela Hanumatodi: minor
+2 2 2 1 2 2 1 G.Hypolydian, M.Lydian, Raga Kalyana, Mela Mecakalyani: very major
+2 2 1 2 2 1 2 G.Hypophrygian, G.Ionian, M.Mixolydian, Raga Khamaj, Mela Harikambhoji: soft major
+2 1 2 2 1 2 2 Hypodorian, M.Aeolian, Raga Asavari, Mela Nathabhairavi: soft minor
+2 1 2 2 2 2 1 Melodic Minor ascending, Mela Gaurimanohari
+2 1 2 2 1 3 1 Harmonic Minor, Spanish gipsy, Mela Kiravani
+1 3 1 2 2 1 2 Harmonic Minor inverse, Raga Ahir Bhairav, Mela Cakravana
+2 2 1 2 1 3 1 Minor-Major mode, Mela Sarasangi
+2 2 1 1 2 2 2 Major Locrian
+2 2 1 4 1 1 1 Raga Rageshri
+2 2 2 2 1 2 1 Lydian Augmented
+2 1 2 1 2 2 2 Minor Locrian
+1 2 1 2 2 2 2 Super Locrian
+1 1 3 2 1 1 3 Mela Kanakangi, Aristoxenos' Chromatic Dorian
+1 1 3 2 1 2 2 Mela Ratnangi
+1 1 3 2 1 3 1 Mela Ganamurti
+1 1 3 2 2 1 2 Mela Vanaspati
+1 1 3 2 2 2 1 Mela Manavati
+1 1 3 2 3 1 1 Mela Tanarupi
+1 2 2 2 1 1 3 Mela Senavati
+1 2 2 2 1 3 1 Neapolitan, Mela Dhenuka
+1 2 2 2 2 1 2 Mela Natakapriya
+1 2 2 2 2 2 1 Mela Kokilapriya
+1 2 2 2 3 1 1 Mela Rupavati
+1 3 1 1 3 2 1 Raga Lalit
+1 3 1 2 1 1 3 Mela Gayakapriya
+1 3 1 2 1 2 2 Mela Vakulabharanam
+1 3 1 2 1 3 1 Double Harmonic Minor, Major Gipsy scale, Raga Bhairava, Mela Mayamalavagaula
+1 3 1 2 2 2 1 Mela Suryakanta
+1 3 1 2 3 1 1 Mela Hatakambari
+2 1 2 2 1 1 3 Mela Jhankaradhvani
+2 1 2 2 3 1 1 Mela Varunapriya
+2 2 1 2 1 1 3 Mela Mararanjani
+2 2 1 2 1 2 2 Mela Carukesi
+2 2 1 2 3 1 1 Mela Naganandini
+3 1 1 2 1 1 3 Mela Yagapriya
+3 1 1 2 1 2 2 Mela Ragavardhani
+3 1 1 2 1 3 1 Mela Gangeyabhusani
+3 1 1 2 2 1 2 Mela Vagadhisvari
+3 1 1 2 2 2 1 Mela Sulini
+3 1 1 2 3 1 1 Mela Calanata, Aristoxenos' Inverted Chromatic Dorian
+1 1 4 1 1 1 3 Mela Salaga
+1 1 4 1 1 2 2 Mela Jalarnava
+1 1 4 1 1 3 1 Mela Jhalavarali
+1 1 4 1 2 1 2 Mela Navanitam
+1 1 4 1 2 2 1 Mela Pavani
+1 1 4 1 3 1 1 Mela Raghupriya
+1 2 3 1 1 1 3 Mela Gavambodhi
+1 2 3 1 1 2 2 Mela Bhavapriya
+1 2 3 1 1 3 1 Raga Todi, Mela Subhapantuvarali
+1 2 3 1 2 1 2 Mela Sadvidhamargini
+1 2 3 1 2 2 1 Mela Suvarnangi
+1 2 3 1 3 1 1 Mela Divyamani
+1 3 2 1 1 1 3 Mela Dhavalambari
+1 3 2 1 1 2 2 Mela Namanarayani
+1 3 2 1 1 3 1 Raga Purvi, Shri, Mela Kamavardhani
+1 3 2 1 2 1 2 Mela Ramapriya
+1 3 2 1 2 2 1 Raga Marwa, Mela Gamanasrama
+1 3 2 1 3 1 1 Mela Visvambhari
+2 1 3 1 1 1 3 Mela Syamalangi
+2 1 3 1 1 2 2 Mela Sanmukhapriya
+2 1 3 1 1 3 1 Minor Gipsy scale, Mela Simhendramadhyama
+2 1 3 1 2 1 2 Mela Hemavati
+2 1 3 1 2 2 1 Mela Dharmavati
+2 1 3 1 3 1 1 Mela Nitimati
+2 2 2 1 1 1 3 Mela Kantamani
+2 2 2 1 1 2 2 Mela Risabhapriya
+2 2 2 1 1 3 1 Mela Latangi
+2 2 2 1 2 1 2 Mela Vacaspati
+2 2 2 1 3 1 1 Mela Citrambari
+3 1 2 1 1 1 3 Mela Sucaritra
+3 1 2 1 1 2 2 Mela Jyotisvarupini
+3 1 2 1 1 3 1 Mela Dhatuvardhani
+3 1 2 1 2 1 2 Hungarian, Mela Nasikabhusani
+3 1 2 1 2 2 1 Mela Kosalam
+3 1 2 1 3 1 1 Mela Rasikapriya
+1 3 1 1 2 3 1 Raga Lalita
+1 3 2 2 2 1 1 Enigmatic
+2 1 2 1 1 3 2 Modified Blues
+2 1 2 2 1 1 2 1 Zirafkend: Arabic
+1 2 1 1 2 1 2 2 Spanish Phrygian
+2 2 1 2 1 1 2 1 Major Bebop
+2 1 2 1 2 1 2 1 Diminished, Messiaen's mode 2 inverse
+2 2 1 1 1 2 2 1 Ishikotsucho: Japan
+1 2 1 2 2 1 2 1 Magen Abot mode
+1 2 1 2 1 2 1 2 Octotonic, Messiaen's mode 2
+1 1 1 3 1 1 1 3 Messiaen's mode 4
+3 1 1 1 3 1 1 1 Messiaen's mode 4 inverse
+1 1 2 2 1 1 2 2 Messiaen's mode 6
+2 2 1 1 2 2 1 1 Messiaen's mode 6 inverse
+1 1 2 1 1 2 1 1 2 Messiaen's mode 3
+2 1 1 2 1 1 2 1 1 Messiaen's mode 3 inverse
+2 2 1 1 1 2 1 1 1 Taishikicho: a mode of "rock boxes"
+1 1 2 1 1 2 1 1 2 Tsjerepnin
+1 1 1 1 2 1 1 1 1 2 Messiaen's mode 7
+2 1 1 1 1 2 1 1 1 1 Messiaen's mode 7 inverse
+1 1 1 1 1 1 1 1 1 1 1 1 Chromatic
+!
+! 17 tone modes of Arabic Pythagorean scale:
+3 3 1 3 3 1 3   Safi al-Din's maqam `Ussaq
+3 1 3 3 1 3 3   Safi al-Din's maqam Nawa
+1 3 3 1 3 3 3   Safi al-Din's maqam Abu Salik
+3 2 2 3 2 2 3   Safi al-Din's maqam Rast
+2 3 2 2 3 2 2 1 Safi al-Din's maqam `Iraq
+3 2 2 3 2 2 2 1 Safi al-Din's maqam Isfahan
+2 2 3 2 2 1 3 2 Safi al-Din's maqam Zirafkand
+2 3 2 2 1 3 2 2 Safi al-Din's maqam Buzurk
+3 2 2 2 3 2 3   Safi al-Din's maqam Zankulah
+2 3 2 2 2 3 3   Safi al-Din's maqam Rahawi
+2 2 3 2 2 3 3   Safi al-Din's maqam Husaini
+2 2 3 2 3 2 3   Safi al-Din's maqam Higazi
+1 2 1 1 1 1 1 2 1 1 1 1 1 2 al-Kindi's mode
+1 2 1 2 1 1 2 1 2 1 3       Ishaq al-Mausili's mode
+!
+! 19 tone modes:
+4 4 4 4 3       Five out of 19
+3 3 3 3 3 4     Yasser's Hexad
+3 3 2 3 3 3 2   Nineteen-tone Major
+3 2 3 3 3 3 2   Nineteen-tone Melodic Minor
+2 3 2 2 3 2 2 3 Eight out of 19
+2 2 1 2 2 2 2 2 2 2 Ten out of 19
+2 1 2 2 2 1 2 2 2 1 2 Eleven out of 19
+1 2 1 2 2 1 2 1 2 1 2 2 Twelve out of 19
+2 1 2 1 2 1 2 1 2 1 2 1 1 Thirteen out of 19
+1 2 1 1 2 1 1 2 1 1 2 1 2 1 Fourteen out of 19
+!
+! 22 tone modes of Indian shruti scale:
+4 3 2 4 4 3 2 Shadja Grama
+4 3 2 4 3 4 2 Madhyama Grama
+3 2 4 3 3 4 3 Gandhaara Grama
+2 2 2 1 2 2 2 2 2 2 1 2 Twelve-tone gamut
+!
+! 24 tone modes:
+1 1 8 4 1 1 8 Aristoxenos' Enharmonion Dorian
+2 3 5 4 2 3 5 Aristoxenos' Diatonon Malakon Dorian
+3 5 2 4 3 5 2 Athanasopoulos' Byzantine Liturgical Chromatic
+1 5 4 4 1 5 4 Diatonic + Enharmonic Diesis Dorian
+4 3 3 4 3 3 4 Miha'il Musaqa's mode: Egyptian
+3 3 4 4 3 3 4 Neutral Diatonic
+5 5 4 5 5     Quasi-equal Pentatonic
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 30 Dec 1995 00:35 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA19270; Fri, 29 Dec 1995 15:35:43 -0800
+Date: Fri, 29 Dec 1995 15:35:43 -0800
+Message-Id:  <9512291536.aa23487@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

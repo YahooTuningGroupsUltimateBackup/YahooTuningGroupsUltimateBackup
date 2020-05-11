@@ -1,0 +1,107 @@
+source file: mills2.txt
+
+
+Subject: Consistency limits
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+I have created a list of equal temperaments up to about 650 tones
+per octave with their consistency limits as was explained by Paul
+Erlich's post of 13 June 1996. However it's not restricted to 
+integer divisions, all scale step sizes that give a different
+consistency limit were calculated. Initially I thought this could
+make a nice graph, step size horizontally, limit vertically,
+but the function behaves very wildly and there are very many points.
+Not included in the file are points where both left and right side 
+limits are smaller than 5.
+This is the filename:
+ftp://ella.mills.edu/ccm/tuning/papers/consist_limits.txt
+
+Another larger file 
+ftp://ella.mills.edu/ccm/tuning/papers/cons_limit_bounds.txt 
+
+contains the step size bounds for each consistency limit of 3 to 18,
+also up to 650-tET.
+
+
+The first list looks like this:
+
+Limit at right side (larger step)
+       Step size in cents
+                  Number of tones per octave
+                            Limit at left side (smaller step)
+                                   Uniqueness limits for this temperament
+
+  4    589.572    2.03537     5      3   2
+  5    543.415    2.20825     2      3   2
+  2    422.656    2.83918     5      4   4
+  5    413.594    2.90139     6      4   4
+  6    387.530    3.09653     7      4   4
+  7    371.508    3.23007     4      4   4
+  3    320.000    3.75000     7      3   2
+  7    308.735    3.88682     8      3   2
+  8    295.424    4.06195     5      3   2
+  5    293.296    4.09142     4      3   2
+  4    242.288    4.95278     9      4   4
+  9    241.594    4.96699    10      4   4
+ 10    233.004    5.15010     6      4   4
+  6    229.774    5.22251     5      4   4
+  5    228.571    5.25000     3      4   4
+  2    200.205    5.99383     5      4   4
+  5    200.126    5.99622     8      4   4
+  8    199.770    6.00691     7      4   4
+  7    199.218    6.02355     3      4   4
+  3    177.777    6.75000     5      5   4
+  5    177.254    6.76992     6      5   4
+  6    168.867    7.10616     4      5   4
+  4    150.611    7.96752     6      4   4
+  6    149.050    8.05098     7      4   4
+  7    145.454    8.25000     3      4   4
+  4    135.917    8.82887     7      6   6
+  7    135.843    8.83369     8      6   6
+  8    132.110    9.08328     6      6   6
+  6    131.998    9.09104     5      6   6
+  5    131.169    9.14848     2      6   6
+  2    122.706    9.77941     5      5   4
+  5    121.645    9.86475     8      5   4
+  8    119.717    10.0236     9      5   4
+  9    118.566    10.1209     4      5   4
+  3    110.676    10.8423     6      5   4
+  6    110.375    10.8719     4      5   4
+  4    101.320    11.8436     6      6   6
+  6    100.562    11.9329    10      6   6
+ 10    99.2594    12.0895    11      6   6
+
+The second list runs like this:
+
+  3   2400.00   0.50000  -  1403.91   0.85475
+  3   1267.97   0.94639  -  800.000   1.50000
+  3   760.782   1.57732  -  543.415   2.20825
+  3   480.000   2.50000  -  467.970   2.56426
+  3   422.656   2.83918  -  345.810   3.47011
+  3   342.857   3.50000  -  292.608   4.10104
+etc.
+
+Manuel Op de Coul    coul@ezh.nl
+
+------------------------------
+
+Topic No. 7
+
+Date: Thu, 11 Jul 96 09:58 EST
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+To: tuning <tuning>
+Subject: RE: Another post from McLaren
+Message-ID: <73960711145837/0005695065PK2EM@MCIMAIL.COM>
+
+
+>As I've pointed out in prior posts, the strict
+>extreme hard-line Pythagorean viewpoint
+>fails when it encounters reality, since
+>the 3:5:7 triad demonstrably sounds less
+>consonant than the 4:5:6 triad--yet the
+>integers of the 3:5:7 triad are obviously
+>smaller.
+
+Why are so many things obvious to Brian that are not obvious to the rest of 
+us?

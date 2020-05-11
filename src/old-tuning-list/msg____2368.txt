@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Wed, 6 Dec 1995 16:02:02 -0800
+
+Subject: Programs for optimization of 12 tone tunings
+
+From: Jeff Welty <jwelty@wdni.com>
+
+Hello,
+
+I'm new to the list (and tuning in general), so take that into account
+please.
+
+I have located various 12 tone tunings (i.e. equal temparment, Valloti, 
+etc.)  and am curious how the tunings were arrived at.  It strikes me 
+that this is a problem that can be solve with traditional mathematical 
+optimization techniques.  Does anyone know of the existence of such 
+software for a PC?  If not I am tempted to put together some code to do 
+it myself.
+
+Thanks in advance,
+Jeff
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 7 Dec 1995 17:48 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA04108; Thu, 7 Dec 1995 07:48:09 -0800
+Date: Thu, 7 Dec 1995 07:48:09 -0800
+Message-Id: <Pine.SOL.3.91.951207094333.29471E@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,14 @@
+source file: m1513.txt
+Date: Mon, 24 Aug 1998 09:06:29 +0300 (DST)
+
+Subject: geometrical mean
+
+From: Jan Haluska <jhaluska@mail.saske.sk>
+
+Hi all,
+if  X , Y  are two tone frequencies, 
+how to tune the  value  Z=sqrt(X*Y)  acousticaly
+( sqrt(X*Y)  denotes the geometrical mean of the tones  X  and  Y )? 
+Demonstrate the method on   X = 1,   Y =   5/4 .
+Thanks. 
+Jan Haluska

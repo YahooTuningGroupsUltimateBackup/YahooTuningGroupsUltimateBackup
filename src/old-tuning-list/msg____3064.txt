@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Fri, 14 Jun 1996 12:43:08 -0700
+
+Subject: Post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: combining different tunings simultaneously
+--
+In Topic 2 of Digest 706  William Alves wrote:
+"I also wonder what, exactly, is Brian's dividing point for deciding when a
+tuning is a combination of tunings? It doesn't seem to me to be a
+straight-forward question."
+This strikes me as an extremely insightful comment by Bill Alves. 
+Theoretically, meantone tuning is a combination of tempered and
+just intervals--so theoretically it ought to be heard as a combination
+of two types of different tunings.  But it never sounds that way to
+these old ears.
+The issue of categorical perception is an important one.  There's a
+well-known range within which intervals can be "mistuned" yet
+still heard as members of the scale. 
+Lastly, there's the issue of combining separate tunings as whole
+entities, each of which boasts its own internal structure.
+When combining 7/oct and 5/oct, for instance, the result does
+not sound to my ears as though it's two different small equal
+temperaments.  Rather, it sounds like a gapped subset of 35/oct.
+However, in a composition which combined 15/oct and 17/oct
+my ears heard 17/oct alternating with 15/oct in a regular way.
+The first composition used a piano timbre, though, while the second
+used timbral and registral alternation to keep the tunings audibly
+separate, so this might not be a fair test.
+Na'theless, my experience is that when two relatively simple
+tunings are combined simultaneously, the ear often preceives
+them as a single complex tuning.
+The reasons why this will occur under some circumstances,
+while it doesn't occur under other circumstances, remain obscure.
+This suggests that it is not obvious how a 24-tone subset scale
+embedded in a 72/oct composition will be heard.  Timbre, rhythm
+and tonal fusion will almost certainly play a part, along with
+tessitura and dynamics.
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 14 Jun 1996 22:01 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA13789; Fri, 14 Jun 1996 13:01:47 -0700
+Date: Fri, 14 Jun 1996 13:01:47 -0700
+Message-Id: <009A3DC53F4BAFED.50D1@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

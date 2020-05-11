@@ -1,0 +1,20 @@
+source file: m1569.txt
+Date: Fri, 30 Oct 1998 17:42:07 -0500
+
+Subject: Polansky's consonance funtions
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>Mathematically, i work a lot with my students (and use in my
+>own composition work) some variant of the tenney HD function, which is
+very
+>similar to the Euler function and the barlow function 
+
+There are two major problems with these definions. First, as they are
+defined over rectangular rather than triangular lattices, they make (for
+example) the minor third and major seventh equal in consonance, which
+does not accord well with experience or practice. Second, they suffer
+from the same problem as Lucy's definition, in that a distant point in
+the lattice can be a very good approximation of a consonant interval
+from, and so clearly more consonant than many closer points in the
+lattice to, a given origin.

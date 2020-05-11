@@ -1,0 +1,53 @@
+source file: m1414.txt
+Date: Wed, 13 May 1998 06:53:57 -0500 (CDT)
+
+Subject: Re: Marketing hype
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Yes, LucyTuning is a meantone tuning; yet neither 1/3 comma, nor 1/4 comma.
+>
+>The thing which is significant (instead of references to integer
+>frequency ratios), is that LucyTuning at http://www.ilhawaii.net/~lucy is
+>developed from a new
+>paradigm for harmonic mapping, enabling users to transpose and modulate
+>forever plus emulate any other tuning system.
+
+   Best I can tell, here's the "reality" behind what Mr. Lucy has said here:
+
+   Yes, LucyTuning is neither third-comma nor quarter-comma, since its
+fifth size in fact somewhere between the two.
+
+   Mr. Lucy has claimed earlier, as he aluded here, that because
+LucyTuning's fifth size is built from pi, it ensures that the circle of
+fifths never closes.  There is semitruth and falsehood behind that
+assertion:
+
+The semitruth:  LucyTuning definitely can stack up more fifths above a tonic
+   before approximately closing the circle than either quarter-comma or third-
+   comma meantone.  Third-comma meantone comes "close enough" at 19 fifths,
+   and quarter-comma at 31 fifths.  LucyTuning doesn't get there until about
+   88 fifths.  But this is only a semitruth, because taken in absolutes, the
+   circle of fifths never closes in ANY typical meantone tuning.
+Falsehood #1:  Lucy claims that his property is because LucyTuning's fifth
+   size is based upon pi, pi being irrational.  Pi has nothing to do with this.
+   The frequency multiplier for quarter- and third-comma meantone's fifths are
+   no more or no less irrational than for LucyTuning's fifth.  They are all
+   defined as 3/2 divided by a root of 81:64, and roots of 81:64 (or at least
+   the roots used in meantone calculations) are irrational.
+Falsehood #2:  LucyTuning in no way invalidates the meaningfulness of integer
+   ratios.  Lucy would be extremely hard-pressed to find anybody in the field
+   of unusual tunings that will agree with him that the only reason why 3:2
+   is significant to our ears is that it's an approximation to one LucyTuned
+   fifth, rather than the reverse.  Speaking of ratios, the ratio of people
+   who believe the standard JI-based model to those who believe Lucy's model
+   is probably on the order of 100:1.
+Falsehood #3:  This "new paradigm for mapping harmony" (how many fifths above
+   or below a tonic you are) is clumsy at best for emulating other tunings.
+   Without a doubt, there certainly are cases where it makes sense to think of
+   pitches in terms of how many fifths apart they are, but there are vastly
+   more cases where it doesn't.  For example:  Suppose we're looking for a
+   LucyTuned approximation of a 9:7 within 2 cents.  Those two pitches would
+   have to be 325 LucyTuned fifths apart.  Certainly it's flagrantly obvious
+   that to say that two pitches are a 9:7 ratio apart is vastly more intuitively
+   meaningful than saying that they are 325 fifths apart!

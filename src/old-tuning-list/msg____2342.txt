@@ -1,0 +1,27 @@
+source file: mills2.txt
+Date: Sun, 26 Nov 1995 19:31:39 -0800
+
+Subject: Re: Error Condition Re: Re: unsubscription
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> PLEASE unsubscribe 70364.315@compuserve.com
+
+   Mr. Gullibility here found Adam's message a little confusing.  But anyway I
+figured I'd mention for the benefit of whoever may be planning on unsubscribing
+in the future, there are TWO errors in this message.  Obviously the "PLEASE"
+doesn't mean much to the computer, but also (if I recall correctly) address to
+unsubscribe also should not be there.  And as Adam pointed out, it should be
+sent to listproc@eartha.mills.edu.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 27 Nov 1995 19:08 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA26234; Mon, 27 Nov 1995 09:08:34 -0800
+Date: Mon, 27 Nov 1995 09:08:34 -0800
+Message-Id: <0099A083FA2FE60A.2324@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

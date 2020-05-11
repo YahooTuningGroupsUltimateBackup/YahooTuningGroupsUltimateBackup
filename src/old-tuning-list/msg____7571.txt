@@ -1,0 +1,58 @@
+source file: m1399.txt
+Date: Tue, 28 Apr 1998 12:08:13 -0500 (CDT)
+
+Subject: <Gallagher>Totally new concept!</Gallagher>
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+I've been working recently on verbalizing another concept I've developed
+in my contemplations of various ETs, and I think perhaps it's time I
+shared it with y'all to see what you think of it.  I have added the
+following text to my personal webpage:
+
+*** BEGIN QUOTED-WEBPAGE ***
+   [The chart at the following URL] contains data on another concept which I call
+   completeness. An ET is complete at a given harmonic limit if the basic
+   intervals within that limit form a basis which spans that ET, if you
+   think of the ET as a space or group. Example: 24TET is incomplete at
+   the 5-limit because 5/4 is approximated by 8 steps and 3/2 by 14,
+   which means no matter what combination of 5/4s and 3/2s (or 6/5s) you
+   use, you can never generate those intervals which contain an odd
+   number of steps.
+   
+   http://library.wustl.edu/~manynote/complete.txt
+   
+   So what do the numbers mean? Only those combinations of ET and (odd)
+   limit have entries which are both consistent and complete. (I stopped,
+   somwhat arbitrarily, at 300TET.) x/y means that the ET is x-level
+   consistent at that limit (as in the above charts), and y is the
+   diameter at which the ET is completed.
+   
+   So what, in turn, does diameter mean? If n-ET has diameter y at the
+   m-limit, that means that there is at least one interval which requires
+   combining y m-limit (primary) intervals to derive it, but no intervals
+   which require more. Example: the primary intervals (consonances)
+   within the 5-limit (the senario) are represented in 12TET by 3, 4, 5,
+   7, 8, and 9 steps. 1 can be expressed as 4-3 (or 5-4, etc.), 2 by 5-3
+   etc, and 6 by 3+3. (The derivations of 10 and 11 are analogous to
+   those of their complements 2 and 1.) That completes the gamut of
+   12TET, therefore the diameter of 12TET at the 5-limit is 2.
+   
+   A contrasting example: in 19TET, combinations of exactly 2 of the
+   primary 5-limit consonances (5, 6, 8, 11, 13, 14) give you all the
+   rest except for 4 (and its complement 15). 4 does, however, have a
+   ternary derivation (4=5+5-6), so the diameter of 19TET at the 5-limit
+   is 3.
+*** END QUOTED-WEBPAGE ***
+
+The point, in case it isn't clear, of introducing a parameter like
+diameter is that it gives us another measure by which we can compare
+ETs, i.e. an ET with a small diameter will be more "comprehensible" to
+the ear/mind, whereas an ET with a large diameter will have intervals
+which are interpreted as more complex and difficult to hear.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

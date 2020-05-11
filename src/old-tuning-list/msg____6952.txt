@@ -1,0 +1,121 @@
+source file: mills3.txt
+Date: Tue, 6 Jan 1998 14:36:58 +0100
+
+Subject: MIDI/Audio wish list
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+Dear All,
+
+The `21st Century Acoustic Orchestral Instruments' (for ATS) is still
+going_ have been hoping to launch in January, not sure if we'll make
+it.
+
+As an  Appendix to the discussion paper I had the idea of including a
+list of features/improvements that would specifically benefit
+composers and others who use MIDI and digital audio for alternative
+tunings.
+
+Why include this in a paper about acoustic instruments? It makes sense
+that the two grow together.  In the paper I mention the value of
+making electronic simulations of pieces using ATS, as an aid for
+(acoustic) performers to learn a new piece.  Other purposes: checking
+the ears,  creating the work itself (first and foremost I'm  a
+composer); creating an electronic realisation of a microtonal score of
+which there's no recording. There are quite a lot of problems with
+simulation  -  especially the time it takes... in fact it's
+interesting how difficult it is to do well.
+
+However - I don't own a synth - I don't like them.  The unit I use is
+a Roland S750 sampler, which I bought back in 1991. (_speaking of
+which microtonal instruments do you have_ my main instrument is an
+1890's Bechstein _but unfortunately it's not too keen on being
+re-tuned _).
+
+The Roland is a useful tool, but there are 3 major drawbacks.
+
+1)  Limited RAM capacity  (18Mb). (The EMU E4 takes 128Mb, but the
+Emulators don't tune in cents. I think they tune in 1/64th of a
+semitone, which is unhelpful).
+
+2)  There are only 255 partials (=`Keygroups' in AKAI-speak ; `Zones'
+in EMU-talk). This means, for example, that if one wanted to create a
+simulation of a string trio in 22-ET, and each instrument is given
+the (very restricted) range of 3 octaves, that already takes up
+(3*3*22) = 198 partials.  And that's just for, say, a single bowed
+stroke, so there's not much left over for pizzicato_ let alone
+simulating a chamber orchestra_ So there's multi-tracking_ There's
+also the E4 again, which has 1000 zones (or is it unlimited ? But, as
+I say,  the E4 tunes in 1/64ths_ and, there's the Kurzweil K2500_,
+and Kyma...)
+
+3)  But it takes for ever to build these patches- tailoring the
+samples, naming the partials, assigning them to MIDI note numbers
+etc. (I work with one sample per note, so a single violin patch may
+take up to about 32 Mb).
+
+And, after all this, the simulation is NOT music.  Its just a
+simulation  - stiff, inexpressive, fairly lifeless_ (yes, there's
+physical modelling, and its getting better_ slowly.)
+
+Anyhow, the gist of all this is : my wish list would include things
+like :
+
+Tuning resolution minimum 1 cent, preferably less (any thoughts on
+this?); Number of Partials (Keygroups, Zones) limited by memory only,
+not hard coded into the architecture;  Include on-board absolute pitch
+meter (but would put the price up); Macro and template procedures for
+building unconventional `instruments';
+
+AND -
+
+A kind of `kit' mother keyboard with a large number of movable slots
+into which a user configurable number and arrangement of keys of
+different sizes and colours could be fitted_  And new types of control
+for keys (taking the idea of `after touch' further_)
+
+The discussion paper will be on the Net, and Emailed freely, but hard
+copies will also be sent to about 200 major composers, acousticians,
+instruments builders/manufacturers.  If anyone would like to include
+any ideas in this Appendix please let me know.  I'm asking because, as
+I say, I don't own a synth or a VL, and I'm not really a computer/MIDI
+buff, so I'm sure some of you will have much better ideas than me.
+But please don't make any suggestion so technical I won't understand
+them! (If its OK with you, I would acknowledge the list rather than
+individuals (?)).
+
+Hope that's a good idea.  I'm still hopelessly busy, but will get
+back to you as I can.
+
+All best,
+
+Patrick Ozzard-Low
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+Subject:  Favourite recordings
+PostedDate:  06-01-98 14:49:55
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  06-01-98 14:49:32-06-01-98 14:49:32,06-01-98 14:49:28-06-01-98 14:49:29
+DeliveredDate:  06-01-98 14:49:29
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256584.004BEF88; Tue, 6 Jan 1998 14:49:25 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29534; Tue, 6 Jan 1998 14:49:55 +0100
+Date: Tue, 6 Jan 1998 14:49:55 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03816
+Received: (qmail 429 invoked from network); 6 Jan 1998 05:49:48 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 6 Jan 1998 05:49:48 -0800
+Message-Id: <199801061342.NAA11364@imail.norfolk.gov.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

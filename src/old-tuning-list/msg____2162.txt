@@ -1,0 +1,356 @@
+source file: mills2.txt
+Date: Wed, 18 Oct 1995 08:09:28 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & psychoacoustics - post 23 of 25
+---
+Psychoacoustics is an empirical science. Mathematical theories abound, 
+but they are attempts to explain experimental evidence. There are no valid "a priori" theories of hearing.
+Psychoacoustics uses choice and adjustment methods, along with 
+computer analysis of live performances.  The first methods  involve laboratory  setting, while the second generally does not. 
+Overall results from both settings tend to agree. 
+Psychoacoustic researchers are prone to bias.  The goal of scientific 
+investigation is not to reduce or eliminate the prejudice of the 
+investigator, but to reduce or eliminate its effect on the measured 
+results. All of the psychoacoustic researchers cited so far have tuning 
+preferences. 
+Some of these researchers warp the presentation of results to favor a given 
+tuning system, while others do not.
+Ohm (1843), Helmholtz (1863) and Pikler (1898) strongly favored  just 
+intonation tunings and the ear-as-Fourier-analyzer model. To explain away 
+the empirical evidence that 19th-century composers and performers 
+universally used equal tempered tunings, Helmholtz claimed that modern 
+performers were incompetent and that "true" (i.e., just) intonation was a 
+lost art, requiring superlative skill. To refute the empirical evidence that 
+most people who listened to music seemed to like equal-tempered intervals, 
+Helmholtz claimed that modern listeners had been brainwashed by equal 
+temperament.
+In order to determine a listener's "true"  preference among musical 
+intervals, he contended, one needs must find an ear uncomtaminated by 
+debased modern equal-tempered music.  Since ears accustomed to pure just 
+intonation and unsullied by equal temperament were not to be found in 19th 
+century Europe, Helmholtz's hypothesis ran afoul of the first demand on any 
+scientific hypothesis: namely, that it be testable. 
+However, in the second edition of his book "On the Sensations of Tone," 
+Helmholtz modified his original position and wrote that music "does not 
+rest solely upon inalterable natural laws, but is also, at least partly, the 
+result  of esthetical principles, which have already changed, and will still 
+further change, with the progressive development of humanity." [Helmholtz, 
+Hermann, "On the Sensation of Tone," 2nd. Dover ed., 1863, pg. 235]
+Helmholtz is thus a contradictory figure, on the one hand explaining away 
+empirical evidence with various pieces of circular reasoning, and on the 
+other hand openly suggesting that the third, or learned, model for hearing 
+had a strong influence on the auditory system.
+Pikler and Ohm proved less open-minded, and they consistently bury results 
+which conflict with just intonation as the "best" tuning. 
+Seebeck (1843), Stumpf (1896) Schouten (1938), Boomsliter & Creel (1965), 
+Plomp (1967) and Roederer (1973) are strongly biased toward the 
+periodicity model of the ear.   Of these, Seebeck, Schouten and Stumpf do not 
+attempt to explain all pitch processing or auditory phenomena on the basis 
+of the periodicity theory: they simply give their results and omit mention of 
+data which would tend to contradict their conclusions. 
+Plomp's approach deserves special mention.  He argues tenaciously and at 
+length against von Bekesy's place theory near the end of his magnum opus, 
+Experiments In the Tone Sensation (1967).  After describing a model of the 
+ear's pitch and spectral-analysis functions as a set of 1/3-octave bandpass 
+filters, Plomp goes on to state: "This model of the ear's frequency-analyzing 
+mechanism must be considered as a simplified representation, since the ear 
+does not containa  limited number of fixed filters but is a continuous 
+system of overlapping filters. Nevertheless, Figure 60 elegantly accounts 
+for both the discrimination of the lower harmonics and the preservation of 
+periodicity.  The way in which these waveforms give rise in the ear to 
+periodic nerve impulses, however, is still rather unknown." [Plomp, 
+"Experiments In the Tone Sensation," pg. 128, 1967]
+Plomp mentions experiments by de Boer (1956), Schouten (1962), Ritsma 
+and Engel (1964) and Licklider (1956, 1959, 1962)--all staunch advocates 
+of the periodicity theory.  Significantly, Plomp does not mention any of the 
+experiments which tend to contradict the periodicity theory of hearing--in 
+particular, Flanagan and Guttman's 1959 experiments and the removal of the 
+fundamental from the Seebeck click series.  These experiments *are 
+*described by von Bekesy.
+By neglecting to cite the full range of experimental results, Plomp creates a 
+false impression that all psychoacoustic data support the periodoicity 
+theory.  Moreover, he neglects to mention that the Fourier-analysis (or 
+place) theory of hearing could equally well account for the fact that pitch is 
+primarily determined by the lower harmonics of a sound, and that even when 
+those lower harmonics are masked by noise the ear still detects a definite 
+pitch.  "Apart from the question of how a model spanning only two octaves 
+can throw any light on the perception of a complex tone, we may ask how 
+this observation can explain why the pitch of a complex tone is not altered 
+when the lower harmonics are masked completely by noise... In that case, 
+thecontribution fo the place corresonding to the fundamental is eliminated." 
+[Plomp, "Experiments In the Tone Sensation," 1967, pg. 130]
+Oddly, Plomp neglects to mention the obvious place-theory explanation of 
+this effect. This phenomenon is well known from the perception of definite 
+pitch ascribed to bells: the ear operates as a Fourier analyzer and fits the 
+partials of the bell into the higher members of a harmonic series, then 
+assigns the bell a perceived pitch given by the assumed fundamental.  If the 
+ear's Fourier analysis can assign a nonexistant fundamental to a bell, why 
+not to a strictly harnonic sound whose lower harmonics are masked by 
+noise?
+Houtsma summarizes this explanation concisely: "De Boer (1956) reported 
+pitch matches in which inharmonic complex tones comprising five or seven 
+partials with uniform frequency spacing were aurally matched to periodic 
+complex tones with a fundamental that differed systematically from the 
+spectral spacing of the inharmonic sound. Schouten, Ritsma and Cardozo 
+(1962) produced similar data for AM complexes (three partials)...and 
+smoorenburg (1970) found essentially the same results using complexes 
+consisting of only two tones. [Houstma, A.J.M., and Goldstein, J.L., "The 
+Central Origin of the Pitch of Complex Tones: Evidence from Musical Interval 
+Recognition," Journ. Acoust. Soc. Am., Vol 51, No. 2, 1971, pg. 525]
+Moreover, Plomp glosses over the most serious objection to the periodicity 
+theory--namely, that because of the duration imposed on the impulses from 
+nerve fibers in the inner ear, pitches above 1600 Hz should not be 
+perceptible. "The physiological process which sets an upper limit to the 
+frequency of impulses in each fiber is the refractory period. For a brief 
+interval of approximately 1 msec after each impulse the nerve-fiber is not 
+excitable and cannot transmit another impulse." [Boring, E. G. and A. Forbes, 
+Hearing: Its Psychology and Physiology, 1983, 2nd ed., pg. 401]  Plomp's 
+response to these objections is worth noting:  
+"The hypothesis that hte pitch of a tone is based on the period of the sound 
+waves may be criticized ont eh ground that this periodicity is preserved up 
+to 3000-4000 cps, whereas we are able to distinguish tones up to about 
+16000 cps. This discrepancy is one of the most serious arguments against 
+periodicity pitch. It is obviated by Wever's assumption (Chapter 7) that the 
+ear is provided with two ptich-detecting mechanisms: one, based on 
+periodicity, for low frequency and one, based on place of maximal 
+stimulation along the basilar membrane, for high frequencies.  This 
+conception is not very attractive, however." [Plomp, "Experiments In the 
+Tone Sensation, 1967, pg. 130]
+This is a remarkable statement. Plomp saves the periodicity model of pitch 
+by dragging in another model of ear/brain function, then criticizing his own 
+conclusion!
+Plomp never explains why the idea of multiple auditory pitch detection 
+mechansisms is "not very attractive."  Moreover, his arguments for the 
+periodicity theory lose much of their power because he's forced to appeal to 
+the very theory he's arguing against (the place theory) in order to save the 
+periodicity theory for notes with high fundamentals.
+In several cases where both the periodicty and place theories offer equal 
+explanatory power, Plomp consistently comes down on the side of the 
+periodicity theory.  Consider the following example:
+"Upon presenting tone intervals with the same freuqnecy ratios to the ear, 
+for instance the mistuned interval 200 + 601 cps, the same phenomena were 
+observed as with (von Bekesy's) model. This corresondence was considered 
+by von Bekesy as an affirmation that in both cases the same mehcanism is 
+involved.  In his opinion, it seems clear that the periodicity of the nerve 
+impulses does not play an important part in the production of beats.
+Although this reasoning appears rather attractive, I prefer an alternative 
+explanation of the beats which is based on the assumption that pitch is 
+related to the periodicity of nerve impulses." [Plomp, "Experiments In the 
+Tone Sensation," 1967, pg. 125]
+Perhaps even the most diligent researchers become confused when 
+attempting to explain away their own biases.  At least Plomp admits his 
+prejudice: "In the writer's opinion, this explanation of pitch perception in 
+terms of periodicity is more satifactory than those based on the palce 
+principle. If the pitch of complex tones is derived from periodicity, it is 
+difficult to see why this should not be the case for simple tones, too." 
+[Plomp, "Experiments In the Tone Sensation," 1967, pg. 129]  
+Aside from the fact that many of his objections to the place theory are 
+easily answered, and that he neglects to point out some of the most serious 
+problems with the periodicity theory, Plomp is reasonably straightforward 
+about his leanings toward the periodicity theory.
+Boomsliter & Creel, in "The Long Pattern Hypothesis in Music," Journ. Mus. 
+Theory, 1965, are not so forthcoming.
+They are strongly prejudiced toward just intonation, and their article does 
+not cite results which tend to contradict either periodicity or JI tunings 
+(viz., combination tones, the universal preference for stretched intervals, 
+etc.) and they explicitly attempt to derive all of the ear's functions from the 
+periodicity theory.  For example, there's no mention of the body of 
+psychoacoustic evidence for a universal preference for stretched intervals, 
+and Boomsliter and Creel explain away their own data showing a general 
+preference for just intervals on their "search organ" singificantly larger 
+than those predicted by the just intonation theory of small whole numbers. 
+The same is true of Roederer in his book's section on the physical makeup of 
+the ear/brain system: there is a great deal of discussion of neurons and 
+neural firing pattern, none at all on the processing of medullar and higher 
+brain areas nor any detailed discussion of von Bekesy's experiments, the 
+physical action of the organ of Corti, etc.  However to his credit Roederer 
+does cite extensively the results of Ward, Corso, Terhardt, Sundberg and 
+Lindqvist for the unviersal preference of stretched invtervals.  
+Thus Roederer, like Helmholtz, is a contradictory figure--deliberately 
+overemphaszing some of the evidence, while remaining open-minded about 
+other contradictory results. Fetis (1943), Ellis (1885) Corso (1954), Ward 
+(1970),  Burns (1970), Hood (1975) and Erickson (1983) are all strongly 
+biased toward the ear-as-controlled-by-learned-preference model of 
+hearing.  Terhardt and Ward/Burns tend to bury evidence which does not 
+favor their view by dumping a superflux of additional results on top of the 
+relevant data; this has the same effect as squirelling the relevant data 
+away in a bibliograhy at the back of the article, but it achieves the same end 
+by opposite means. Fetis, Hood, Ellis, tend to stress the  multiplicity of 
+results and musical cultures, rather than concentrating on empirical data 
+from specific experiments.
+Von Bekesy demonstrates a bias toward the place theory but his bias does 
+not appear to affect his willingness to bring forward contradictory results. 
+In particular, he cites both the periodicity and place theories as worthy of 
+additional investigation in his 1966 article "Hearing Theories and Complex 
+Sounds," Journal of the Acoustic Society of America. 
+Terhardt & Zick, Kameoka & Kuriyaga, Pierce, Mathews, Green, Wessel, 
+Risset  and Sundberg do not exhibit a bias toward any specific theory of 
+hearing.  These authors all cite competing hypotheses and suggest lines of 
+further experimental inquiry into all 3 ear/brain models.
+Throughout this article the intent has been to present psychoacoustics data 
+as clearly as possible.
+In many cases this meant extracting experimental results from layers of 
+refutation or from citations buried in bibliographies because this or that 
+psychoacoustician preferred not to bring the inconventient result out into 
+the body of the text, where it might raise embarassing questions.
+In other cases, viz., Risset or von Bekesy or Pierce, extensive direct quotes 
+of secondary sources were used because these sources offered the most 
+detailed survey of the evidence.
+Thus the casual reader must be wary of Roederer, Helmholtz, Plomp and 
+other sources widely cited because of the covert (sometimes overt) bias 
+toward this or that tuning or theory or hearing.
+As mentioned at the outset, acousticians have fared far worse than 
+psychoacoustics researchers in this regard.  
+Backus (1969), like von Bekesy, is biased toward just intonation--but unlike 
+von Bekesy he neglects to mention any of the psychoacoustic experiments 
+which cast doubt on either just intonation as the ideal tuning system or the 
+place theory as the sole explanation of hearing.  In the chapter ""Intervals, 
+Scales, Tuning, and Temperament," Backus lavishes 3 pages on just 
+intonation and 2 pages on Pythagorean intonation but only 1 page on equal 
+temperament. No tunings are mentioned  other than Pythagorean, meantone, 
+just intonation and equal temperament: there is, for example, no reference 
+to pelog, slendro, the Indian srutis, or any other non-European tuning..
+Moreover, Backus buries or is not aware of many psychoucstic data which 
+contradict his view of the ear as simple Fourier analyzer.  In part (as 
+mentioned earlier) this is because Backus had the bad luck to publish his 
+book "The Science of Musical Acoustics" just before computers introduced 
+an immense unpheaval into acoustic and auditory research. In part the 
+problem appears to be overt prejudice against acoustic results which do not 
+favor just intonation.  As mentioned earlier, texts by Rossing and Hall 
+supersede the acoustics in Backus and the psychoacoustics  (where Backus 
+refers to them at all) are incorrect as well as out of date. Thus Backus' 
+entire text should be ignored.
+Benade (1975) cannot excuse his lapses on the basis of bad timing. In the 
+period 1970-1974 much of the data cited throughout this series of posts 
+was already well known; Benade chooses not only to ignore it, but actually 
+to argue with a number of independently-confirmed results, particularly the 
+universal preference for stretched musical intervals and the accumulated 
+evidence for the periodicity theory.   
+For example: "Experiments by Paul Boomsliter and Warren Creel give us very 
+important information on what a musician actually does about tuning.  My 
+discussion in this capter is strongly influenced by these data, although I do 
+not completely accept their published interpretatiojn.  Paul C. Boomsliter 
+and Warren Creel, "The Long Pattern Hypothesis in harmony and hearing," J. 
+Mus. Theory, Vol. 5, No. 2, 1961, pp. 2-30, and Paul C. Boomsliter and Warren 
+Creel, "Extended Reference: AN Unrecognized Dynamic in Melody," J. Mus. 
+Theory, vol. 7, No. 2, 1963: pp. 2-22. " [Benade, A., "Fundamentals of Musical 
+Acoustics, 1975, pg. 303]
+In short, Benade agrees with Boomsliter and Creel's claim for "small-
+integer-ratio" detectors in the ear, but rejects the evidence they provide for 
+the periodicity theory of hearing.   Benade's commentary is notable because 
+[1] it is hidden away in a  footnote and [2] it ignores the fact that a wealth 
+of additional evidence supports the periodicity theory of hearing--evidence 
+which cannot be easily explained by the place theory, which Benade 
+espouses.
+Again: "Everywhere in our experiments we have found indications that our 
+nervous system processes complex sounds coming to it by seeking out 
+whetever subsets of almost harmonically related components it can find." 
+[Benade, A., "Fundamentals of Musical Acoustics," 1975, pg. 68]
+This statement is as deceptive as it is true.  The accuracy of Benade's claim 
+depends on experiments he chooses to perform: and by failing to perform 
+auditory experiments which would cast doubt on the place theory of hearing, 
+Benade creates the impression that no such doubt exists.  As has been seen 
+throughout this article, there is ample evidence both to support and 
+contradict the place theory of hearing (and to support and contradict the 
+other two models of hearing as well). By omitting mention of any of this 
+additional evidence, Benade creates a profoundly misleading impression in 
+the unwary reader.  The implication of Benade's statement is that all 
+psychoacoustic experiments support the place theory of hearing--entirely 
+untrue, as we have seen.
+Again: "The situation with tones having harmonic partials is much more 
+straightforward.  We have already learned that pitch-matchings between 
+usccessive and superposed tones are in agreement the tones consist of a 
+few strong partials." [Benade, A., "Fundamentals of Musical Acoustics," 
+1975, pg. 302]
+The psychoacoustic data do not support this claim.  On the contrary: every 
+psychoacoustic experiment since the 1830s shows a distinct and 
+measurable difference betwen intervals heard as "perfect" when played 
+successively and when played simultaneously, with a strong tendency for 
+successive tones to be played wider than simultaneous tones, and a 
+consistent tendency for both categories of tones to be played wider than 
+small-integer ratios.  Clearly in this case Benade is unware of (or has 
+chosen to ignore) 150 years of  psychouacoustic data.
+For these reasons Benade's text is unreliable insofar as it bears on 
+psychoacoustics.  Some of Benade's acoustic results remain valid, others 
+have been disproven--particularly Benade's discussion of oscillation 
+patterns in woodwinds and his theory of regimes of oscillation for brass 
+instruments.  On balance the entire text should be ignored in favor of more 
+detailed and far more accurate treatments by Rossing, Fletcher, Askill and 
+Lord Rayleigh.
+Rossing and Fletcher's "The Physics of Musical Instruments," and Askill's 
+"The Physics of Musical Sound" remain excellent surveys of the state of the 
+art in musical acoustics.  As mentioned, however, little information on 
+psychoacoustics can be gleaned from these texts because psychoacoustics is 
+not their concern.  These texts do not cite appreciable amounts of 
+psychoacoustic data and should not be quoted to support this or that tuning 
+or theory of hearing.
+"Musical Acoustics: An Introduction," by Donald Hall, 1980, contains an 
+accurate precis of acoustics of piano strings, metallohpohnes and 
+woodwinds, as well as good survey of brass instruments, et alii. Hall is 
+strongly biased toward just intonation and he buries or calls into question 
+psychoacoustic data which do not accord with his prejudices. The acoustic 
+portion of Hall's text is impeccable and worth reading, while the section of 
+the book which bears on tuning systems and psychocoustics is incomplete, 
+outdated, full of errors of omission, and should be ignored.
+The single best overall survey of psychoacoustic experiments peformed up 
+to the 1960s is Plomp's 1966 text "Experiments In the Tone Sensation." It 
+contains an exhaustive bibliography unmatched anywhere else, and 
+constantly uses extensive direct quotes from the original sources.  Plomp 
+exhibits a constant and strong bias toward the periodicity theory; however, 
+he readily admits his prejudice.
+He is also conscientious in pointing out behaviours of the human ear which 
+are not well explained.
+Georg von Bekesy is biased toward the place theory; not surprising, 
+inasmuch as his work put the place (Fourier) theory of hearing on a firm 
+foundation. He cites both the periodicity and place theories as deserving 
+further study, however,  and (like Plomp) also cites results which 
+contradict all three  models of the ear/brain system.  
+"Experiments in Hearing," New York: Robert E. Krieger, 1960 and republished 
+in 1980, is the single best source of references for the place theory of 
+hearing. 
+Harvey Fletcher's "Speech and Hearing in Communication," 1953, is dated but 
+unlike Backus and Benade it is not rendered worthless by overt bias.  Better 
+texts now exist (Sundberg, Rossing, Pierce, Terhardt & Zick) but the results 
+Fletcher cites tend to be accurate.
+Diana Deutsch's 1982 "The Psychology of Music"  summarizes key  
+psychoacoustic results by many of reserachers who made the original 
+findings.   Most of the  contributors are biased toward one or another tuning 
+and the reader must take care to separate experimental results from the 
+conclusions drawn by the various authors.  As has been seen, the conclusions 
+of various researchers are on occasion mere opinions, unsupported by the 
+facts.  The data cited in Deutsch's compilation are extensive and accurate, 
+although the bibliogpraphies for each section prove distinctly selective.
+"Psychological Acoustics," edited by E.D. Herbert, is a collection of the 
+original papers in psychocoustics from the 1870s to the 1970s. This is the 
+only text which amasses all the original results in the original authors' own 
+words.  Much of the material is now dated, however, and therefore provides 
+an incomplete picture of the ear/brain system.
+"Auditory Scene Analysis," by Albert S. Bregman, 1990, is a disappointment. 
+It is vague on crucial points and does not cite enough psychoacoustic 
+references.  While Bregman does not exhibit major biases toward any 
+specific tuning system, he appears to gloss over many difficult areas of 
+psychoacoustics; viz., the contradictory evidence for various theories of 
+hearing, unexplained ear/brain phenomena, the role of musical illusions in 
+the auditory path, etc. 
+On the whole Bregman's text is useful as a quick overview but should not be 
+cited as a primary source.
+The next and last post of this series will discuss the higher-level 
+ineraction of tuning, timbre and structural tonality as considered by
+Rothenberg, Keislar, Douthett and as examined in the work of Pierce, Risset, Sethares, Carlos, et al.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Oct 1995 18:02 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA13167; Wed, 18 Oct 1995 09:01:51 -0700
+Date: Wed, 18 Oct 1995 09:01:51 -0700
+Message-Id: <Pine.A32.3.91.951011123529.42758B-100000@freenet2.freenet.ufl.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,305 @@
+source file: mills2.txt
+Date: Sat, 4 Nov 1995 11:53:34 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Bach wars
+---
+Many forum subscribers have added their 2 cents
+to the long-running "Bach wars."  For my part,
+permit me to say that the posts by all concerned
+were absolutely superb.  Full of detailed quotes,
+specific references, cogent reasoning.  Paul Hahn,
+Gary Morrison, Manuel Op de Coul, Aleksander Frosztega,
+Johnny Reinhard and Helmut Wabnig did a marvellous 
+job of distilling the references and citing competing
+sources.
+As to who is right or wrong, that is not nearly
+as interesting as the citations themselves.  This
+controversy, raked over in admirable detail, gives
+*all* of us the references and direct quotes required
+to decide for ourselves.  That should be the goal of 
+scholarship...and in the "Bach wars" series of posts,
+all subscribers concerned have adhered to high 
+standards of scholarship and logical reasoning.
+Unlike so many posts in which sarcasm, appeals
+to authority, or sheer naysaying substituted for
+a reasoned debate, the "Bach wars" have proven 
+enormously enlightening.   Reading this series of
+posts has taught me a good deal about an important
+question in the history of tuning.  Congratulations
+to everyone who posted on the subject.  You've all
+shown us how interesting and educational this forum
+can be at its best.
+---
+As to the specific question of the "Bach wars" posts--
+"What tuning did Bach use?"--it does not behoove me
+to speak directly, given the abysmal nature of my
+ignorance about the period and the people involved.
+However, some general observations seem in order:
+[1] "Statisticum radix scientiae malorum."  It is my
+firm belief that misuse of stastistics is the root of all
+bad science. (As opposed to pseudo-science, like the
+N-rays which destroyed Rene Blondlot's reputation 
+in 1906 and the abominable E-rays which constitute
+such a blot on the credibility of German science
+today.  E-rays are nothing but dowsing performed on
+purported electromagnetic radiations, which radiations
+can neither be detected by any known instruments nor
+cut off by any known form of shielding.  Yet they 
+"cause cancer."  What's the German word for "scam"?)
+One of the worst uses of statistics is what I call 
+"stripmining the noise floor."  When you've got too
+little data to form a reliable representation of a
+statistical universe, or when you've got dribs and
+drabs of data collected at time A, time B, time C,
+under wildly different conditions and with dubious
+controls...you're basically pushing linear parametric
+statistical methods beyond their useful limits. You're
+trying to statistically analyze noise...trying to
+make soup out of dishwater, mathematically speaking.
+The result?
+Hard numbers that look convincing but turn out to be
+"junk science."
+My best guess is that the "What tuning did Bach use?"
+controversy is undecidable because all participants
+concerned are stripmining the noise floor.
+---
+Let me give some concrete examples:
+Statistical analysis of Bach's harpsichord compositions
+looks like a reasonable strategy at first glance. However,
+Bach's collected harpsichord compositions do not form
+a reliably complete representation of an underlying
+statistical universe for the following reasons:
+[1] Bach wrote his harpsichord compositions over a number
+of years.  Some were penned in Cothen, some earlier, some
+later.  If Bach's style of composition changed, this throws
+into doubt one of the underlying assumptions of a statistical
+analysis: namely, that all samples derive from the same
+statistical universe.  To use an acoustics analogy, this is
+like taking half your measurements of reverberation time
+in a closet and half your measurements in Carnegie Hall.
+You've got a mixed set of data and you're lumping all the
+data points together willy-nilly.  A guaranteed shortcut 
+to "junk science."
+[2] Bach may have written some compositions for a harpsichord,
+others for clavichord.  Does the statistical analysis take
+this possibility into account?  Do scholars know for *certain* 
+which compositions were written for which instrument?   Did
+Bach (or his patron, the prince) use different tunings on
+different keyboard instruments?  Are we *sure*?  Are
+scholars *sure* that many of Bach's compositions weren't
+written to be played on *both* a harpsichord *and* a
+clavichord (whichever might have presented itself and
+been available) and might thus have represented Bach's attempt
+to compose music which sounded good *regardless* of the
+particular tuning used?
+For example, the clavichord might have used one well temperament,
+the harpsichord another--or the clavichord might have used, say,
+Kirnberger III, while the harpischord might have used equal
+temperament because harpsichord continuo often had to
+accompany an instrumental ensemble at Cothen. (Remember,
+Bach's harpsichord concerti were written at Cothen.)
+Did the statistical analysis take these issues into account?
+If not, why not?
+[3] Many assumptions are inevitably implicit in any linear
+parametric statistical analysis.  In order to calculate r values,
+you have to fix parameters and make guesstimates about their
+influence and constancy.   If you correlate verbal IQ test scores
+with length of stay in the US for new immigrants and assume
+strong causality, you come to the bizarre conclusion that 
+emigrating to the United States raises people's 
+intelligence.  
+You get this garbage answer out of linear parametric statistics
+because you put garbage *into* the equations: namely, garbage
+assumptions.  Without basis, you assumed two parameters to 
+be deeply causally connected for the wrong reason, and ran too
+far ahead of yourself with the results.
+This raises questions about the Bach statistical study.  Questions
+of *both* causation *and* correlation. What are the *specific* r values
+by interval category for Bach's compositions?  Do they imply
+causation?  If so, what *kind* of causation? For a classic
+example of garbage science, see the r values buried in the appendix
+of Charles Murray's "The Bell Curve."  You'll find r values between
+0.4 and 0.6.  As a rule, an r below about 0.75-0.8 is a sure-fire
+indicator of smoke & mirrors. The correlation is so weak that the
+researcher had better answer some *very* tough questions or
+risk being called slipshod, or worse, a fraud.
+So I for one want to know those r values on the Bach statistics.  
+Did the Bach statistical analysis use linear regression?  
+Quadratic?  Cubic?  Least-squares?
+What's the mean, median and the standard deviations for the r values
+of each interval broken down by year of composition?  What do these
+profiles tell us about causation?  Was multiple regression used on
+*different variables*?  Were the results compared?  What did *that*
+say about causation as opposed to correlation or 
+even mere coincidence (AKA low r values)?  Did the
+statistical analysis even bother to consider such issues?
+If not, I want to know why.  Bach may in some compositions have
+been interested in exploring unusual dissonances: thus at certain
+points in his career his compositions might have *deliberately*
+used "bad" intervals in a given well temperament (if indeed he used
+a well temperament).  But at other times in his career, he might 
+have been more interested in exploring unusually perfect consonances
+in a given well temperament.  This would change the intervals
+Bach tended to use over time: did the statistical analysis take
+this into account?
+We know for a fact that Bach's 7th chords were considered wildly
+dissonant and highly outre in his day.  Therefore it seems  
+reasonable to posit that he might have systematically explored
+sets of intervals unusual for composers of the period.  Did the
+statistical analysis take this into account?  Or did the statistical
+analysis arbitrarily assume that Bach would have used the most
+consonant (read: beatless) intervals in a given well temperament
+most often, and the least consonant intervals least often?
+More complexly, Bach (being the genius he was) might have switched
+his interests constantly, exploring one set of unusual dissonances in
+one composition, another set of exotic consonances (available only
+in a given well temperament) in another composition.  Conflating
+all of the interval data into a single linear regression would destroy
+all of this information and produce *wildly* misleading answers.
+In this case, multivariate analysis would be called for.  Was it
+applied?  Was multidimensional statistical analysis used?  Did
+the researcher test for correlation between (say) timbre *and*
+interval and interval, or only twixt interval and interval?
+[4] Bach might have preferred certain intervals (even if he used
+equal temperament) for numerological or ecclesiastical reasons.
+We know with surety that he considered C minor and D minor "special"
+keys.  Only a few of his compositions use these keys: they are
+statistically underrepresented.  Bach clearly invested these keys
+with some special significance, because he reserved these keys
+for his most ambitious works.  The Chaconne (of which Bach wrote
+exactly ONE), for instance, uses d minor: so does the famous prelude
+and fugue.  The passacaglia & fugue (again Bach wrote only ONE
+passacaglia) uses c minor...and so on.
+Does the statistical analysis take this into account?  Depending
+on the well temperament (if such a tuning was indeed used),
+d minor and c minor might well have exhibited special intervallic
+properties.  We can be reasonably certain from statistical analysis,
+for example, that a number of Buxtehude's later compositions use
+keys which when transposed down on the meantone Luneborg organ offer
+unusually consonant sets of intervals.
+Did the person who performed the statistical analysis take this
+possibility into account? Did s/he run a separate analysis on
+this assumption?  Were the results compared with the straightforward
+statistical analysis?  
+If not, why not?
+Bach could have had many reasons for using certain intervals.
+We know, for example, that Bach was numerologically inclined.
+In one of his chorales the melody enters 10 times, representing
+the 10 commandments: other examples abound.  Does the statistical
+analysis of Bach's use of intervals take into account the possibility
+that he might well have used a given interval-set for reasons *other*
+than considerations of acoustic consonance and dissonance?
+This same objection applies to fugue subjects and counter-subjects.
+One fugue of the 48 deliberately uses all 12 tones of the chromatic
+scale in succession, for instance: does the statistical analysis
+take into account the effects of such part-writing?
+[5] Some of Bach's klavier compositions were originally written
+for organ, some are alterations or emendations of works written
+for instrumental ensemble, and some are greatly modified versions
+of other composer's works--specifically, the "transcriptions" of
+pieces by Vivaldi, which are very much more than mere
+transcriptions.   Does the statistical analysis take this into account?
+If not, why not?
+---
+Statistical arguments for or against this or that historical trend
+fill me with foreboding. They're a fertile breeding ground for "junk
+science" (without the researcher *intending* to do junk science, of
+course--or even realizing it).  So many assumptions and 
+presuppositions are implicit in any linear parametric statistical 
+analysis of historical data as almost to force me to proclaim:
+ "a pox on all historical statistical studies!"
+Classic examples of "junk science" from statistics abound
+ in economics. For instance, those bogus United States GNP 
+charts going back to 1876--charts which completely ignore the fact
+that the U.S. switched from an agrarian economy in the early 19th
+century to a steam-driven Bessemer-furnace economy in the late 19th 
+century to an oil-and-steel-driven machine-tool economy in
+the early 20th century to an information-driven service 
+economy in the late 20th century.  What's the net discounted dollar
+value of a bushel of tobacco in 1876 compared to the net discounted
+dollar value of a megabyte of computer code in 1996?  The
+question is unanswerable.  You're not just comparing apples
+and oranges, you're comparing apples and *mu-mesons.*  The
+question doesn't even make *sense.*
+Again, sociological historical studies purporting to show 
+improvements in "quality of life" as the century progressed
+are equally flawed.  While in 1880 there were no antibiotics,
+it was also standard for a middle-class family to have 2 or 3
+live-in servants.  If you're a healthy person, would you be
+willing to trade lack of antibiotics for being waited on hand
+and foot and having your meals cooked for you and your washing
+done by a crew of servants?  Would this be an overall improvement
+or decline in your standard of living, as opposed to today?
+The answer isn't obvious to me.  Again, apples compared
+with oranges.  Again, garbage science produced by a misuse of
+statistics.
+All told, the value of historical statistical studies of Bach's
+interval-usage seems at best right on the borderline of
+junk science, and at worst little more use than 
+examining bird entrails.
+---
+This leaves us with the written historical record.
+Does any specific numerical record exist of the frequencies
+to which Bach tuned each of the keys on his harpsichord?
+Clearly not.
+Thus we are left with inadequate data.  *Grossly* inadequate
+data.  Regardless of what tuning you think Bach used, the
+fact remains that (unless we want to swim in the VERY
+murky waters of statistical historical numerology) we must
+fall back on vaguely-worded hearsay testimony about Bach's
+tuning.
+My standard for this kind of historical hearsay is: would you
+convict someone of murder on the basis of this stuff?
+In this case, no way.  You don't need O.J.'s Dream Team
+on this one.  The testimony is so weak and so open to
+interpretation that even a grand jury would no-bill the 
+defendant.  It wouldn't even get to trial.
+Thus my sense here (reading the "Bach wars" posts) is again 
+that the question is undecidable on the basis of the hearsay
+testimony from Bach's relatives and acquaintances. 
+Many of the quotes supposedly come from "eyewitness"
+accounts--but can we be *sure* it was *actually* 
+an eyewitness account, or was Forkel remembering
+long after the event?  Or did Forkel miss the incident
+entirely, and perhaps have to rely on C.P.E. Bach's 
+recollection?  Or was it one of those "a friend of my
+cousin's brother told me he heard someone say..." things, 
+gussied up in first-person narrative form?
+What's that?
+Did someone mention "false memory syndrom"...?  Meaning:
+people tend *not* to remember the event itself, but what
+someone else *told* them about it...?
+We know *some* generalities with reasonable certainty:
+Bach was considered "old-fashioned" during his lifetime,
+and his style was out of date long before he reached middle
+age.   The  homophonic, racier, faster-paced "Italian
+style" was much more in vogue by the 1720s than Bach's
+almost quattrocentric polyphony.
+Did this influence what friends and acquaintances 
+remembered about Bach's tuning?  Did they unconsciously
+exaggerate the "meantone" quality of Bach's music because
+of the old-fashioned nature of his polyphony?  Or did they
+instead unconsciously redact their memories of his tuning 
+procedures so as to "modernize" Bach and unwittingly
+make his music more fashionable to fit in with the new 
+music everyone was used to?
+I don't know the answer to these questions.  Before making
+up my mind about "what tuning did Bach use?"  I'd sure like
+to.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 5 Nov 1995 04:39 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA29690; Sat, 4 Nov 1995 18:39:15 -0800
+Date: Sat, 4 Nov 1995 18:39:15 -0800
+Message-Id: <951105023715_71670.2576_HHB54-5@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

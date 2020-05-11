@@ -1,0 +1,72 @@
+source file: mills2.txt
+Date: Mon, 22 Jul 1996 06:26:37 -0700
+
+Subject: VFX tuning
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+>Some observations on this micro-tunable machine (in the used incarnation I 
+>just purchased):
+>
+>1. When editing the tuning table, although the nominal resolution is 1 cent, 
+>the true resolution is in fact a few cents, as nominal 1 or 2 cent changes 
+>often result in exactly the same rate of beating.
+>2. When changing the pitch of a voice, the resolution does appear to be in 
+>fact 1 cent. However, the amount of detuning displayed may be inaccurate. 
+>For example, a perfect match to the third harmonic is found at 1 octave, 7 
+>semitones, and 00 cents, instead of 1 octave, 7 semitones, and 02 cents.
+
+The resolution of the TS/VFX and EPS/ASR is 768 tones per octave, which is
+1.5 cents.  This does get mapped a little strangely from the front panel
+display to the internal tuning sometimes.  One trick is to increment
+slightly past where you want to tune in and then try decrementing- because
+of the mapping you'll be able to get an offset which is between the steps
+reached by just incrementing.
+
+>3. Interpolating often produces strange results. It appears to insist that 
+>all steps be exactly the same number of cents, and takes the liberty of 
+>changing one of your endpoint pitches to make this possible. Often, the 
+>resulting interpolation is backwards, decreasing in pitch rather than 
+>increasing as you go up the keyboard, with one huge step from an extremely 
+>low note to an extremely high note in the middle. The order in which you 
+>specify the endpoints does not seem to matter.
+
+I hadn't looked at interpolation that closely but I had tried it out with
+many of the standard ETs such as 19 etc.  Can you give a specific case for
+the backwards interpolation?  
+
+Manual Op De Coul's 'Scala' tuning editor is currently being extended to
+support the VFX and TS.  I've sent him the sysex docs and you would be a
+good test subject for this.  Contact him for more info.
+
+>4. Extrapolating seems to work fine. The display won't show you assignments 
+>higher than C8, but they're there, up to a point. Some high notes sound 
+>really distorted though -- must be the digital architecture.
+
+The distortion is one of the unfortunate charms of sampling and
+interpolating oscillators.  Because it's skipping steps in a wavetable the
+number of 'real' samples in the wavetable decreases as you transpose up or
+down.  This is why people multisample- that is put a sample in the upper key
+range that's playing at a higher pitch so the oscillator doesn't have to
+transpose as far.
+
+Aside from these problems, I hope the unit is still useful to you.  Ensoniq
+is the one of the few manufacturers of music synths these days which is
+producing both affordable and tunable instruments.
+
+regards,
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 22 Jul 1996 17:24 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA02578; Mon, 22 Jul 1996 08:24:28 -0700
+Date: Mon, 22 Jul 1996 08:24:28 -0700
+Message-Id: <v02130505ae1947f49b03@[192.168.11.207]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

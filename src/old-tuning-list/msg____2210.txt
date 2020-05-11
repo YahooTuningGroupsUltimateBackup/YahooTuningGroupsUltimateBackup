@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Fri, 27 Oct 1995 23:54:55 -0700
+
+Subject: RE: E-mu sysex tuning tables?
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+To Paul Fly,
+If it's true that the E-mu Morpheus tunes the same way as the E-mu 
+Proteus, it's not difficult to calculate the tuning numbers for it.
+The resolution is 768 steps per octave, so to obtain the number,
+take the base-2 logarithm of the frequency ratio, multiply by 768 and 
+round to the nearest integer. The tuning number for middle-C of 
+261.6 Hz is 3840. So a pure fifth above middle-C gets
+3840 + [ 768 * 2log 1.5 ] = 4289.
+The tuning program that I'm currently writing can print out tables of
+these numbers for different synthesizers. Until it is ready I could
+send you some via e-mail for scales you wish to explore. 
+You could do me a favour by looking up in the manual the instrument
+number that goes in system-exclusive messages, and/or find out what 
+the message format is for tuning dumps. That way I can have the 
+program send tuning dumps for the Morpheus and write them to
+MIDI-files. If you are able to download a MIDI-file you could help me
+test this.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 28 Oct 1995 16:45 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id AAA21885; Sat, 28 Oct 1995 00:45:59 -0700
+Date: Sat, 28 Oct 1995 00:45:59 -0700
+Message-Id:  <9510280744.aa17073@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

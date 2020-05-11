@@ -1,0 +1,61 @@
+source file: mills2.txt
+Date: Tue, 4 Mar 1997 07:22:48 -0800
+
+Subject: Re: Schenker and tuning
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Rick wrote:
+
+''  Now, to which degree does the Schenkerian I-V-I "Ursatz" analyzed out 
+of "tonal" music afect choice of tuning?  Maybe someone more familiar 
+with this kind of lingo can speak on that.  For instance, I want to know, 
+does the V_I dominant-tonic cadence require a certain tuning for proper 
+performance?''
+
+Schenker himself wrote precious little that was useful about intonation and
+- a contemporary of Schoenberg and Hauer - was active in a Vienna that was
+solidly committed to equal temperament (listen to any recording by
+Kolisch).
+
+As the ''Ursatz'' is supposed to be a simple cadence prolonged over the
+course of an entire movement, the essential intonational quality would be
+that the tonic chord is identical at the begining and ending of the
+movement. So, comma slipping is presumably out of the question. All the
+pitches between the initial and final chord are derived by scalar infills
+of the tones of this chord, but such infills seems not to be essentially
+affected by intonation, i.e. if the fourth degree is sometime represented
+by the subdominant and other times by the seventh of the dominant. (Heinz
+Bohlen has proposed a model of scale building through an analogous infill).
+Schenker's methods of prologation are indeed based upon classical species
+counterpoint, but the rules of counterpoint, with their clear relationship
+to tuning, are portable to an ET environment with no loss of coherence
+(indeed the compounding of acoustical puns - the fourth degree is one
+example - tends to strengthen rules about interval restrictions). 
+
+What would be very interesting would be to take one of Schenker's graphic
+analyses and to construct a tuning for the piece based up projecting the
+simplest rational interpretations at each stage of prolongation and
+elaboration.
+
+Schenker's treatment of the minor tonic triad - as a kind of ''clouded''
+Major triad - is, in the end, a matter of taste. I recall doing a layered
+Schenker-style analysis of a small Schumann _Papillion_ in f minor as an
+undergrad, and the most convincing _Urlinie_ that I could hear was an
+_ascending_ phrygian line - the inversion of the expected descending Major
+scale - and the basic harmonic motion was inverted as well. But then again,
+Schenker viewed some Schumann as already past the acceptable edge of tonal
+practice.      
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 4 Mar 1997 17:26 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05876; Tue, 4 Mar 1997 17:26:30 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA05861
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id IAA23567; Tue, 4 Mar 1997 08:21:30 -0800
+Date: Tue, 4 Mar 1997 08:21:30 -0800
+Message-Id: <331C4C79.5128@cavehill.dnet.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Tue, 12 Nov 1996 22:33:21 -0800
+
+Subject: gen keyboards--Clavette2:The Next Generation
+
+From: HFORTUIN@delphi.com
+
+Thanks to Manuel for keeping teh rest of the world updated on the
+generalized keyboard ideas emanating from the Netherlands these days.
+
+And thanks to Mr. Aschour, I soon will contact Francois Paris to learn
+more about his system.
+
+In the meantime, you should know that I am making progress in finding
+engineers to start on a Clavette2, which would basically be like
+the existing Clavettes, but with 250-300 keys which would be
+velocity sensitive.
+
+NOTHING IS YET CERTAIN, but I've at least interested some local
+electronic engineers in the "CPU problem", and am working on finding
+some people brilliant with sensors, and perhaps finding a
+mechanical engineer.
+
+Once this instrument is built, I do plan to have additional copies
+made on a per-order basis, but of course all of this is likely to
+be a few years down the road yet.
+
+If you are not familiar with the Clavette, you can read about it
+in the 1995 ICMC Proceedings, or a few more details in the 1994
+Yearbook of the Stichting Huygens-Fokker. 
+
+I still expect the Clavette's future model to be a MIDI controller
+keyboard/pedal system, rather than include any synthesis or
+intelligent real-time just tuning adjustments system.
+
+Yours truly,
+HAROLD
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 13 Nov 1996 14:45 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03365; Wed, 13 Nov 1996 14:46:43 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA03357
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id FAA15793; Wed, 13 Nov 1996 05:46:39 -0800
+Date: Wed, 13 Nov 1996 05:46:39 -0800
+Message-Id: <199611130843_MC1-BEE-DE84@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

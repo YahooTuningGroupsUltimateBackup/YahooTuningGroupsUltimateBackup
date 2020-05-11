@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Sat, 26 Apr 1997 21:06:37 -0700
+
+Subject: Re: The Xens have it...
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>I have seen several references on this list to pseudocommas, usually with
+>reference to 22TET ... While I
+>understand what a conventional comma is, I am unfamiliar with either this
+>22-TET pseudocomma
+
+   A pseudocomma is precisely the analogy to a real comma in an
+equally-tempered tuning.  In 22TET it's easy to see by comparing C- and
+D-Major scales:
+
+C  *  *  *  D  *  *  E  *  F  *  *  *  G  *  *  A  *  *  *  B  *  C
+            D  *  *  *  E  *  *  F# *  G  *  *  *  A  *  *  B  *  *  *  C# *  D
+                    \____/                     \____/
+                 Pseudocomma                Pseudocomma
+                    Error                      Error
+
+It's probably best not to call this a true comma because a true comma
+creates entirely new sets of pitches, separated by and 81:80 frequency
+ratio, whereas 22TET's pseudocomma never produces more than 22 notes per
+octave's span.
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 27 Apr 1997 06:09 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31731; Sun, 27 Apr 1997 06:09:12 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA31738
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id VAA06712; Sat, 26 Apr 1997 21:07:42 -0700
+Date: Sat, 26 Apr 1997 21:07:42 -0700
+Message-Id: <v01541102af8831b80a89@[207.207.2.15]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

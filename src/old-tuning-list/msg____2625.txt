@@ -1,0 +1,28 @@
+source file: mills2.txt
+Date: Mon, 4 Mar 1996 13:01:49 -0800
+
+Subject: RE: Proteus Tuning
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Flynn,
+
+Such resolution is not so very bad. If you take the nearest step,
+you're never further than halfway, 0.78125 cents. For the average
+case, an audible beat will be much slower than 1 Hz.
+If there is a DOS PC with a Midi interface near the Proteus at your
+college, you can let it do the boring maths work with this program:
+ftp://ella.mills.edu/ccm/tuning/software/pc/scala/scala.zip
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 4 Mar 1996 22:52 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA01104; Mon, 4 Mar 1996 13:52:00 -0800
+Date: Mon, 4 Mar 1996 13:52:00 -0800
+Message-Id: <Pine.SOL.3.91.960304164428.6185N-100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

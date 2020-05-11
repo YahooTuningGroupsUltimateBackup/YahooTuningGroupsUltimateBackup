@@ -1,0 +1,137 @@
+source file: m1559.txt
+Date: Tue, 20 Oct 1998 22:39:32 -0700 (PDT)
+
+Subject: Re: Septimal schisma as xenharmonic bridge?
+
+From: "M. Schulter" <mschulter@value.net>
+
+Hello, there.
+
+Recent Tuning List discussions have focused on making connections
+between different currents of just intonation and other branches of
+xenharmonics.
+
+As someone with a special interest in Pythagorean tuning, while I
+might not have any additional suggestions to contribute in the way of
+organizational questions, it occurs to me to share a few reflections
+on the relationship of this xenharmonic approach to others. Curiously,
+the tuning if sufficiently extended also has an interesting musical
+linkage in its very ratios with some of these other approaches, of
+which more shortly.
+
+An interesting feature of Pythagorean tuning is that it seems to serve
+as a kind of crossroads for four trends in xenharmonics:
+
+(1) Historical tunings. Like characteristic 15th-17th century meantone
+and 18th-19th century unequal well-temperaments, the Pythagorean
+tunings of the 13th-15th centuries are associated with a great
+tradition of polyphonic composition. Understanding this tuning may play
+a vital role in understanding Gothic harmony, as well as vice versa;
+the tuning both influences and reflects the sonorous ideal of the
+period.
+
+(2) Cross-cultural tunings. Pythagorean systems based on pure fifths
+or fourths, with various modifications, occur in many world musics
+from China and India to Persia. Scholars such as Ervin Wilson have
+begun to draw some connections which may lead to a richer
+understanding of cross-cultural xenharmonics.
+
+(3) Just intonation (JI). Pythagorean tuning is not only a system of
+just intonation with a very long history, but also an amazingly
+successful system not only ideally suited to much Gothic music but
+inviting "Neo-Gothic extensions" approximating intervals in 5-based
+and 7-based systems.
+
+(4) N-tet and related systems. Like equal temperaments such as 17-tet,
+Pythagorean tuning tends to have a non-tertian focus quite distinct
+from "classical" European music of the post-Gothic era. Also, like
+these systems, it has sometimes been dismissed as "purely
+mathematical, not musical," or denounced as "intolerably dissonant."
+Fortunately, the growing recognition promoted by xenharmonicists such
+as Ivor Darreg that _all_ n-tet's have a potential for beautiful music
+may lead to a more just appreciation of Pythagorean tuning also.
+
+Now for the musical linkage of Pythagorean tuning, a 3-based JI
+system, and both 5-based and 7-based systems.
+
+This linkage involves two bridges, the first well known and the second
+perhaps a bit more obscure -- but obvious once John Chalmers called it
+to my attention.
+
+These bridges are the regular schisma, and what I term the _septimal
+schisma_, which permit extended Pythagorean tunings to emulate
+intervals of 5-based and 7-based JI systems. While the use of these
+intervals is, of course, at the discretion of the composer or
+performer, one application is to supplement the basic 3-based
+Pythagorean intervals with two new "flavors" of unstable intervals
+which can serve as diversions or impel directed cadential action
+toward stable octaves, fifths, and fourths.
+
+The regular schisma of 32805:32768 or about 1.95 cents, as many
+readers will be aware, is a bridge to a quasi-5-based world. It is the
+difference between the Pythagorean comma (531441:524288, about 23.46
+cents) and the syntonic comma (81:80, about 21.51 cents) which
+separates a number of basic 3-based intervals from their 5-based
+counterparts. 
+
+Possibly less well known, the septimal schisma of 33554432:33480783 or
+about 3.80 cents is a bridge to a quasi-7-based world of
+"superefficient" cadences and third-tone steps. It is the difference
+between the Pythagorean comma and the septimal comma (64:63, about
+27.26 cents) which separates basic Pythagorean intervals from their
+7-based counterparts.
+
+All we need to do is to extend Pythagorean tuning far enough, and both
+schismas extend their welcoming doors into new xenharmonic
+regions. More specifically, we generate new flavors of intervals
+either a comma wider or a comma narrower than the usual forms.  Here
+are some key intervals as examples:
+
+       5-schisma            Regular 3-based         7-schisma 
+     (~1.95 cents)                                (~3.80 cents)
+-----------------------------------------------------------------------
+     10 4ths or 5ths        2 5ths or 4ths      14 4ths or 5ths 
+
+M2   65536:59049            9:8                 4782969:4194304 
+     (180 cents; ~10:9)     (204 cents)         (227 cents; ~8:7)
+
+m7   59049:32768            16:9                8388608:4782969
+     (1020 cents; ~9:5)     (996 cents)         (973 cents; ~7:4)
+----------------------------------------------------------------------
+     9 5ths or 4ths         3 4ths or 5ths      15 4ths or 5ths
+
+m3   19683:16384            32:27               16777216:14348907
+     (318 cents; ~6:5)      (294 cents)         (271 cents; ~7:6)
+
+M6   32768:19683            27:16               14348907:8388608
+     (882 cents; ~5:3)      (906 cents)         (929 cents; ~12:7)
+----------------------------------------------------------------------
+     8 4ths or 5ths         4 5ths or 4ths      16 5ths or 4ths
+
+M3   8192:6561              81:64               43046721:33554432
+     (384 cents; ~5:4)      (408 cents)         (431 cents; ~9:7)
+
+m6   6561:4096              128:81              67108864:43046721
+     (816 cents; ~8:5)      (792 cents)         (769 cents; ~14:9)
+----------------------------------------------------------------------
+
+Thus it might be said that Pythagorean tuning is not only the mother
+of many systems but a cousin germane to many more. Also, as this chart
+suggests, the usual Pythagorean intervals might be viewed as a kind of
+"middle of the road" between 5-based and 7-based alternatives.
+
+An open question: might an extended Pythagorean tuning with its
+contrasts of basic 3-based, quasi-5-based, and quasi-7-based intervals
+in some way have a kinship to the three genera (diatonic, chromatic,
+enharmonic) or to Guido d'Arezzo's three hexachords (soft, natural,
+and hard)?
+
+In any case, the septimal schisma and the world of extended
+Pythagorean tunings it opens may illustrate a common adage of the
+xenharmonic movement: in exploring all the possibilities which music
+has to offer, "12 is not enough."
+
+Most respectfully,
+
+Margo Schulter
+mschulter@value.net

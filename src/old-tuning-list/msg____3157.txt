@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Fri, 5 Jul 1996 08:11:22 -0700
+
+Subject: List in Latin
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Next to the English (int_names.txt) and Dutch (int_namen.txt) interval
+lists, there is now a Latin name list:
+
+ftp://ella.mills.edu/ccm/tuning/papers/int_nomini.txt .
+
+These names are by no means the only ones possible. Various writers in
+the past have used all kinds of different nomenclature. Some fantasy
+had to be used to come up with a name for some intervals. For example, 
+I didn't know what the word for "harmonic" is, if there is yet one, 
+so I just took "consonator".
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 5 Jul 1996 19:19 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA04597; Fri, 5 Jul 1996 10:19:56 -0700
+Date: Fri, 5 Jul 1996 10:19:56 -0700
+Message-Id: <v01510100ae02ff6bdba6@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

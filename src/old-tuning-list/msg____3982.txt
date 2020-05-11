@@ -1,0 +1,56 @@
+source file: mills2.txt
+Date: Tue, 12 Nov 1996 05:49:05 -0800
+
+Subject: Re: Pitch Bend Tuning...
+
+From: linusliu@HK.Super.NET (Linus Liu)
+
+I use pitch bend. A tempered halftone is 4096 units. The following
+table is one I use to tune my midi file. One piece I did was the 
+Paganini Caprice #1, you can find it via ftp kahless.isca.uiowa.edu
+in /pub/algo-comp/LinusLiu.
+
+I don't know if the midi equipment I have can resolve in what I
+command it, though. I still have tons of problems with my midi setup.
+But I do not have the problem about slides because of delayed
+pitchWheel messages. They either skip altogether.
+
+KEY A-maj C-maj D-maj E-maj F-maj G-maj Bb-maj Eb-maj Ab-maj
+
+SO    80e  720      0a  160  1520   800  1440   1360   1280 
+ME  -560    80e  -640  -480   880   160e  800    720    640 
+DO     0a  640    -80d   80e 1440   720  1360   1280   1200
+LA  -640     0a  -720  -560   800    80e  720    640    560 
+FA   -80d  560   -160g    0a 1360   640  1280   1200   1120
+RE  -720   -80d  -800  -640   720     0a  640    560    480
+TE -1360  -720  -1440 -1280    80e -640     0a   -80d  -160g 
+SO  -800  -160G  -880  -720   640   -80d  560    480    400 
+ME -1440  -800  -1520 -1360     0a -720   -80d  -160g  -240  
+DO  -880  -240   -960  -800   560  -160g  480    400    320 
+
+
+Regards,
+Linus Liu.
+
+>Friends,
+>
+>        I find it hard to believe that not one of you knows anything about
+>the specifics of using MIDI pitch bend for tuning purposes.  Can't someone
+>post some information on this subject?
+>
+>
+>        -andrew
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 12 Nov 1996 14:53 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01279; Tue, 12 Nov 1996 14:54:28 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01277
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id FAA01244; Tue, 12 Nov 1996 05:54:25 -0800
+Date: Tue, 12 Nov 1996 05:54:25 -0800
+Message-Id: <199611121345.VAA04058@hk.super.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

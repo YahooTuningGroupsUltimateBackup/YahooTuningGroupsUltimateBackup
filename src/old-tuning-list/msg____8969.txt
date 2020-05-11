@@ -1,0 +1,63 @@
+source file: m1607.txt
+Date: Fri, 18 Dec 1998 17:30:43 -0500
+
+Subject: Assymmetrical 14-tone modes in 26-tET
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+I decided to look at the modes of the assymmetrical scale 0 2 4 6 8 10
+12 14 15 17 19 21 23 25 in 26-tET -- because all octave species of this
+scale is constructed of two identical heptachords, each spanning a ~4/3,
+separated by either a ~4/3 or a ~3/2; and because the scale contains 10
+consonant 7-limit tetrads constructed by the generic scale pattern 1, 5,
+9, 12 (5 are otonal and 5 are utonal) with a maximum tuning error of 17
+cents.
+
+In my paper, I introduce the notion of a charateristic dissonance. This
+is a dissonant interval which is the same generic size (same number of
+scale steps) as a consonant interval. Allowing the 7-limit to define
+consonance and allowing errors up to 17 cents, the 14-out-of-26 scale
+has three characteristic dissonances (plus their octave inversions and
+extensions). Two are "sevenths" of 554 cents instead of the usual 508
+cents, and one is an "eighth" of 554 cents instead of the usual 600
+cents.
+
+None of the modes of this scale satisfy all the properties for a
+strongly tonal mode according to my paper. But a few come close. The
+mode
+
+0 2 4 6 8 10 11 13 15 17 19 21 23 25
+
+or in cents,
+
+0 92 185 277 369 462 508 600 692 785 877 969 1062 1154
+
+has all characteristic dissonances disjoint from the tonic tetrad (0 8
+15 21), which is major. The only other mode with this property is the
+minor equivalent:
+
+0 2 4 5 7 9 11 13 15 16 18 20 22 24
+
+or in cents
+
+0 92 185 231 323 415 508 600 692 738 831 923 1015 1108.
+
+The following modes have one characteristic dissonance which shares a
+note with the tonic tetrad, but it approximates the 1 identity and the
+11 identity when played along with the tetrad. Therefore the interval
+does not disturb the stability of the tonic too much, and the mode can
+be considered tonal:
+
+major: 0 2 4 6 8 10 12 13 15 17 19 21 23 24
+
+or in cents
+
+0 92 185 277 369 462 554 600 692 785 877 969 1062 1108
+
+and
+
+minor: 0 2 3 5 7 9 11 13 15 17 18 20 22 24
+
+or in cents
+
+0 92 138 231 323 415 508 600 692 785 831 923 1015 1108.

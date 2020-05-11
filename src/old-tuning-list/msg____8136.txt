@@ -1,0 +1,25 @@
+source file: m1452.txt
+Date: Fri, 19 Jun 1998 11:38:57 -0700
+
+Subject: Re: TUNING digest 1451
+
+From: csz@wco.com (Carter Scholz)
+
+Greg Schiemer wrote:
+
+========
+ I've seen Jicalc but Scala seems more suitable for
+working with Csound and it has an amazing scales archive. Is there any way
+of accessing the scales archive from Jicalc ?  Does JiCalc have script
+files (equivalent of .CMD files in Scala) ?
+========
+
+There is no way of directly reading Scala files into JICalc, but JICalc can
+import and export scales in its own well-defined & documented (in the Help
+stack) text format.  Writing an external utility to translate Scala files
+into this format shouldn't be that difficult.  Perhaps a future version
+will include the translation.
+
+JICalc has no scripting per se.  Conceivably AppleScript could be used to
+control the Hypercard engine, but I don't know enough about AppleScript to
+guess how possible or difficult this would be for your purpose.

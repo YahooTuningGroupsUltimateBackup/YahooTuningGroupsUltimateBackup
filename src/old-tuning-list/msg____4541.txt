@@ -1,0 +1,34 @@
+source file: mills2.txt
+Date: Mon, 6 Jan 1997 08:15:26 -0800
+
+Subject: RE: TUNING digest 947
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>Also, looking at good Sitars, I noticed that the sympathetic strings each
+>have their own nut exactly beneath the fret that sounds the note they
+>amplify.  The sympathetic string's bridge is right beneath the main bridge.
+>It seems to me that these SHOULD be the nodal points for that note on the
+>instrument.  I can't imagine the air conducting the sound from one string 
+to
+>the other.  Hundreds of years of design can't be that far wrong.  What am I
+>missing?
+
+>-Glen Peterson
+
+The bridge and nut or fretted fret are trivially nodal points for all 
+harmonics of a string.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 6 Jan 1997 17:36 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03013; Mon, 6 Jan 1997 17:39:31 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA03011
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA14530; Mon, 6 Jan 1997 08:39:28 -0800
+Date: Mon, 6 Jan 1997 08:39:28 -0800
+Message-Id:  <06JAN97.12475506.0037.MUSIC@MUSIC.STLAWU.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,154 @@
+source file: mills2.txt
+Date: Sun, 15 Oct 1995 21:06:48 -0700
+
+Subject: Computer-aided composition
+
+From: MMCK@delphi.com
+
+>Perhaps Marion can expound a little further on his
+>techniques for exploring a wide variety of tunings (perhaps
+>comparing them to algorithmic composition techniques?), and why
+>he finds that JI systems are easier to explore in that manner.  
+
+There are two dimensions (at least) to this problem.  One is
+theoretical, and one is practical.
+
+In the theoretical dimension, we have at our disposal a musical
+instrument of infinite resolution.  We are faced with the problem
+of composing in a transcendental or irrational scale.  We need to
+decide that certain combinations of notes are acceptable, or
+consonant, and others are not consonant.  We know that factors
+such as absolute pitch, volume, and harmonic content will affect
+consonance, but for purposes of this simplified discussion, I
+will ignore those.
+
+There may be many valid ways of making this judgement, but
+approximations of JI intervals are the usual.  You will hear
+phrase like "this interval is a little flat from the major
+third".   Judgements like this may be fine for humans, but are
+far to general for a computer to understand.  It takes a much
+more precise definition to program a computer to make judgements
+about harmony.
+
+It is fairly easy to guess that 14983/10000 fairly closely
+approximates the 3/2, but other situations are not so clear cut--
+especially if we intend to sound 3 or 4 notes at the same time. 
+After all, the purpose of tempering is to introduce ambiguity
+into the tuning so that intervals may be interpreted by the ear
+in more than one way.
+
+For example, we can take the ET approximation for the third, and
+reduce it in steps to the JI third 5/4.
+
+1259921/1000000
+ 527253/418481
+ 205415/163038
+  88992/70633
+  27431/21772
+   6699/5317
+    635/504
+    286/227
+     63/50
+     29/23
+      5/4
+
+At each successive approximation, we are further from the
+original note of the ET scale.  So we have a trade-off between
+accuracy to the original model, and simplicity of tuning.  This
+is a complex decision for only two notes, and if we make
+different choices for different combinations of notes, which is
+apparently what the ear does, then it is even more complex, and
+what if we are to eschew this simple Euclidian series and opt to
+only include 5, 7, or 11 limit numbers, or use some other
+criteria altogether.
+
+One can come up with thousands of JI scales that approximate any
+irrational scale.  For example, there is no single JI scale that
+is generally agreed upon to represent the harmonic
+characteristics of 12ET, surely the single most analyzed scale in
+human history.
+
+The purpose of tempering is to introduce ambiguity, and the
+degree to which it is successful in its purpose is also the
+degree to which it becomes difficult to analyze.
+
+OTH, JI scales contain none of that kind of ambiguity.  Each
+combination of notes represents only one point on a gradient of
+consonance, and can be interpreted only one way.  Some may find
+harmonies acceptable that others do not, but it is possible a
+computationally straightforward index of consonance without
+having to search a vast tree of possibilities.
+
+Therefore, the space that must be searched by a heuristic
+designed to measure consonance is almost infinitely smaller for a
+JI scale than an irrational scale.  LCM is the heuristic of
+choice for me, but I think any of the others I have seen
+discussed here would have the same characteristics.
+
+In the practical dimension, one must also consider tuning
+granularity.  Since all present day electronic instruments use
+digital oscillators, they have nearly exact accuracy, and great
+stability, but, because tuning has not been an important design
+criteria, they have poor tuning granularity compared to what
+could be done with very little more cost and engineering.
+
+In addition, the tuning characteristics of wavetable synthesis
+are a function of the sample length.  Tuning granularity may be
+different for a piano or flute voice, or be a function of the
+absolute pitch.  Manufacturer's of such instruments do not
+release the sample length data, so, when you use one of these
+devices, you are buying pseudo-random tuning, unless you want to
+reverse engineer their firmware, or measure the output with a
+frequency counter while changing voices etc.
+
+FM synthesis at least produces predictable tuning with a
+published spec.  But it is certainly not an implementation of
+anything like infinite resolution.  Tuning numbers can only range
+up to 1024.  I think tuning numbers of 10^10 are easily possible. 
+But the Sound Blaster can still produce an astounding number of
+scales.  For example, it can play some 72,000, 12-tone, five-
+limit scales with more than 5 LCM60 chords.
+
+For those who are into non-exact JI, or tempering, the tuning
+characteristics of the chosen instrument introduce yet another
+variable to further fuzzify computations required to evaluate a
+particular combination of notes.
+This is not to say that those computations can't, or shouldn't be
+done, but it is a much, much harder problem than exact JI.  For
+exact JI, tuning variations do not exist, so they do not need to
+be considered in the harmonic analysis.
+
+I have done experiments in pure algorithmic composition where you
+just program some machine, and then let it produce music.  As a
+matter of fact, in 1983, I built such a machine out of about 75
+medium scale logic chips, and I still have it in my garage.  I
+gradually came around to the view that computer-aided composition
+is much better.
+
+I usually use a minimum chord set, and in many cases my
+compositions are made up entirely of LCM60 chords, which means
+the harmony is much simpler than most.  If I want to use more
+complex chords, I usually generate a more complex scale and still
+use a minimum chord set.  This seems to me to give better results
+than using a maximally consonant scale, but choosing more complex
+chords.
+
+If you are interested in learning more about my approach to this
+problem, you can ftp FasTrak from the
+ccm/tuning/software/pc/fastrak directory at mills.edu.  Even if
+you don't have an IBM PC with a Sound Card, you might like to
+read the on-line documentation.  You will need a PC to unzip the
+file though.
+
+Marion 
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 16 Oct 1995 13:00 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id DAA04717; Mon, 16 Oct 1995 03:59:38 -0700
+Date: Mon, 16 Oct 1995 03:59:38 -0700
+Message-Id: <00997F4FA2788C45.52D8@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

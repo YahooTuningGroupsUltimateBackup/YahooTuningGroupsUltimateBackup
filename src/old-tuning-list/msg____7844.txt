@@ -1,0 +1,43 @@
+source file: m1419.txt
+Date: Mon, 18 May 98 20:57:24 -0000
+
+Subject: Re: Microtuning Yamaha FM synths
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hello,
+
+>>I've been racking my brains and searching the net for a solution to my
+>>quest for an accurate  real-time microtuning synth.
+>
+>   Couldja clarify what you specifically you mean by "accurate"?
+>
+Shoulda been a little more specific.I meant being able to actually tune a 
+synth for real-time use using Hertz.Each MIDI ch. would have one precise 
+note.I'd like to be able to hear ,in real-time,the result of  generating 
+random/specific frequencies using computer programs.etc.
+
+>   As for real-time, I'm inclined to think that any of the (few) machines
+>that support the MIDI tuning standard, like Ensoniq's ASR-X or MR series,
+>would be a good possibility.
+I have considered them.They allow increments of  @0.1 Hz (by my calc.) 
+,so most notes would be a little off.
+
+It was David First's contributions,starting in TD-1391,that seriously 
+started me thinking about this.
+
+While actual human ability to recognise  differences in pitch may be 
+limited ,I think it is more extended when dealing with psychoacoustic 
+efx.Such as if one were using individually tuned multi-tap delays mixed 
+at a low level with reverb.
+
+Besides the fact that I find MIDI annoying  in general, I specifically do 
+not think in terms of ,and do not work with Cents.MIDI is like thinking 
+in English,but having to translate to and from Latin before actually 
+speaking.Leaving something to be desired in the end result.
+
+Also,if the approach  actually works,used Yamaha FM synths are a bargain.
+
+
+Later,
+Drew

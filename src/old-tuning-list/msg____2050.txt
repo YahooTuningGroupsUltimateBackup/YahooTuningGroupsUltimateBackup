@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Mon, 25 Sep 1995 22:30:55 -0700
+
+Subject: Re: FWD: Bach's tuning
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Mon, 25 Sep 1995, Aleksander Frosztega wrote:
+>                                                                  But the
+> quote in question still refers to equal temperament.  Why?  Because of the
+> context: Most ear-tuning instructions for Circular temperaments in 18th-
+> century Germany relied on setting the *fifths* in order to temper the scale.
+> I have never seen (I don't think) 18th-century German ear tuning
+> instruction that use fifths as a tempering device for Equal Temperament.
+> They all used rows of MAJOR THIRDS which were to be made wide!
+> (Sorge gave explicit instructions that each successive third should be
+> made somewhat *wider* than the last.)
+
+Eh?  If one is wider than another, then they're not equal, are they?
+
+> Yes, this is the F#-C# fifth in Kirnberger I though III.  However, it is not
+> tempered by 1/12 Pythagorean comma; it is tempered by the *schisma.*
+> Kirnberger was not the best mathematician in the world and Marpurg, in
+> fact, corrects Kirnberger's calculations in Marpurg's _Versuch._
+
+Let me get this straight: you castigate Jorgenson for insisting on .1
+cent accuracy, and now you're making a fuss about a difference of (my
+calculator puts it) .0012817 cents?  Sounds like straining at gnats and
+swallowing camels to me.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Do you like to gamble, Eddie?
+     -\-\-- o         Gamble money on pool games?"
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 26 Sep 1995 13:01 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id EAA03862; Tue, 26 Sep 1995 04:01:22 -0700
+Date: Tue, 26 Sep 1995 04:01:22 -0700
+Message-Id: <00996F987A734D82.2639@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

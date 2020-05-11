@@ -1,0 +1,85 @@
+source file: mills2.txt
+Date: Mon, 23 Jun 1997 22:59:35 +0200
+
+Subject: Re: the 6th chord and odd-limit theory (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>> (i.e., chords in 
+>> which each interval is within the 7-limit but the chord as a whole is in a 
+>> higher limit).
+
+>I know what the first bit means, but I don't know any other definition of
+>the limit of a chord.  Could someone explain this to me so that I can set
+>about (dis)proving it?
+
+I know this whole business can be very confusing, but let me try to
+explain this step by step.
+
+First of all, as the title of this message indicated, I am talking about
+odd-limit theory, as in Partch's original definition. The limit is
+defined as the highest number needed in the representation of the
+interval or chord after all factors of two are discarded (octave
+equivalence is the justification for discarding them). This also agrees
+with Ralph D. Hill's observation that every new odd number adds a new
+quality, as well as a higher degree of tension, to a chord. I used to
+believe (though I'm not sure in light of my recent obsevation here) that
+a given style of music established a certain odd limit as the norm;
+higher-limit chords will sound dissonant and need to resolve, while
+lower-limit chords will sound incomplete. This is certainly applicable
+to Common Practice and the 5-limit; 3-limit pentatonic examples are
+easily constructed, and I believe I've taken a first step toward
+realizing the 7-limit case (see my upcoming Xenharmonikon paper).
+
+Now let us state what we mean by "representation." For an interval, this
+is just a lowest terms ratio p/q; we can define this to be the frequency
+ratio, in which case the period (or wavelength, string length, . . . )
+ratio in lowest terms is just q/p. Either reprentation implies the same
+odd limit for the interval.
+
+Following Partch, we will define integer multiples from 1 to n of a
+frequency to be an "n-otonality," and integer multiples from 1 to n of a
+period (or wavelength, string length, . . .) to be an "n-utonality." So
+we can define the otonality-limit as the lowest n for which a chord
+(with all factors of 2 removed) is a subset of an n-otonality, and
+similarly for the utonality-limit.
+
+For a chord of 2 notes, the limit of the 1 interval in the chord is the
+same as the utonality-limit and the otonality-limit of the chord. For
+more than two notes, the otonal or utonal representations may differ in
+complexity, in which case the simpler one is often chosen and the chord
+is deemed as appropriate. For example, 10:12:15 is a "5-limit utonality"
+and 4:5:6:7 is a "7-limit otonality." As Paul Hahn has pointed out, the
+3-limit, 5-limit, and 7-limit are particularly easy cases to deal with,
+since if all intervals of a chord belong to one of these limits, the
+chord itself will belong to that limit either as an otonality or as a
+utonality.
+
+However, the 6th chord 12:15:18:20 has an otonality-limit of 15, a
+utonality-limit of 15, but no interval is beyond the 9-limit. Kami
+Rousseau's 6th chord 14:18:21:24 has an otonality-limit of 21, a
+utonality-limit of 21, but again no interval is beyond the 9-limit. Paul
+Hahn's example 18:22:24:33 has an otonality-limit of 33, a
+utonality-limit of 33, but no interval is beyond the 11-limit.
+
+It appears then that there is a new class of "saturated" chord beyond
+the otonal and utonal chords that Partch envisioned. By saturated I mean
+that no new notes can be added without increasing the odd-interval-limit
+of the chord. I think this finding merits investigation as a natural
+extension of Partch's work.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 23 Jun 1997 23:01 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05735; Mon, 23 Jun 1997 23:01:23 +0200
+Date: Mon, 23 Jun 1997 23:01:23 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05728
+Received: (qmail 26044 invoked from network); 23 Jun 1997 20:59:26 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Jun 1997 20:59:26 -0000
+Message-Id: <009B63B0DDB21546.5CEC@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,21 @@
+source file: m1513.txt
+Date: Mon, 24 Aug 1998 12:03:19 +0530
+
+Subject: Re: "Intelligent" harmoniser & microtonality ?
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hi,
+ 
+In TD-1484 I wrote :
+>Has anyone here tried using "intelligent" harmonisers,
+>such as Eventide's H-3000, etc. to achieve microtonality with 
+>guitars ? I read somewhere that these things have a finetune parameter
+>for the harmony part, in cents. (Of course I could be wrong, and the 
+>fine tune resolution could be much coarser.)
+
+Well, I was wrong (I think). Turns out most harmonizers have only
+a "master" fine tuning. Individual intervals can only be set to std.
+12-tet intervals.
+
+-Drew

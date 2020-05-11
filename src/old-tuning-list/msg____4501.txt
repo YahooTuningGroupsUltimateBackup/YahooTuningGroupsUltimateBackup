@@ -1,0 +1,28 @@
+source file: mills2.txt
+Date: Fri, 3 Jan 1997 14:08:54 -0800
+
+Subject: CPS & Euler question
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+I am mentioning in a footnote of my paper a connection between Wilson CPSs 
+and Euler genera. The question is on of terminology. First of all, I am 
+assuming that 3^2 is an Euler genus with 2 notes a perfect fifth apart. 
+Assuming this is correct, is there a term that defines the following set of 
+Euler genera: 3^2, 3^2*5^2, 3^2*5^2*7^2, etc.? Second-order, second-degree, 
+what? Secondly, Wilson CPSs are defined as m out of n factors. Is m be 
+described as the order, degree, or fluzbyx of the CPS?
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 3 Jan 1997 23:13 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00675; Fri, 3 Jan 1997 23:15:58 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00673
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA01393; Fri, 3 Jan 1997 14:15:51 -0800
+Date: Fri, 3 Jan 1997 14:15:51 -0800
+Message-Id: <Pine.SUN.3.95.970103164455.9821A-100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

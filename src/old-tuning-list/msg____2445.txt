@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Sat, 6 Jan 1996 15:16:46 -0800
+
+Subject: Re: CLM, Linux, and microtonality
+
+From: james@clyde.as.utexas.edu (James McCartney)
+
+>composition.  Especially if & when someone
+>produces a microtonal synthesis program like James
+>McCartney's SuperCollider that runs in real
+>time on an *affordable* computer (the Power Mac
+>is not currentlfordable and probably never
+>will be--everyone with $4000 to spend on
+>a Power Mac raise your hand, please).
+>Such a program would bode well for interactive
+>real-time (those 90s buzz-words!) acoustic-and-
+>digital microtonality.
+
+You can get a Power Computing clone for quite a bit
+less than $4000. A Power 100 with 850HD/16RAM, 256K L2
+and 15" monitor is $2628.
+
+I hope by year end to have SuperCollider running on the BeBox
+as well.
+
+
+   --- james mccartney     james@clyde.as.utexas.edu
+If you have a PowerMac check out SuperCollider, a real time synth program:
+ftp://kahless.isca.uiowa.edu/pub/algo-comp/SuperColliderDemo.sea.hqx
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 7 Jan 1996 03:28 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA01902; Sat, 6 Jan 1996 18:28:09 -0800
+Date: Sat, 6 Jan 1996 18:28:09 -0800
+Message-Id: <Pine.SOL.3.91.960106212218.14788A-100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

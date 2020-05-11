@@ -1,0 +1,46 @@
+source file: m1435.txt
+Date: Wed, 3 Jun 98 03:11:04 +0000
+
+Subject: FB-01 again
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Greetings All,
+
+Ewan A. Macpherson wrote (John Chalmers also sent me a note to this 
+effect.) :
+>The FB-01 has no tuning tables.  All microtuning must be done on the
+>fly by replacing note-on & note-off messages with sysex messages
+>indicating the exact pitch to be played.
+
+You mean you can't just sick the sequencer/controller onto the FB-01 ? 
+How about having some kind of MIDI processing between the note-ons/offs 
+and the synth appending the sysex commands to them ?
+Would this be possible ?
+
+Rick Sanford wrote :
+>Unisyn (MAC) supports the FB-01 for microtuning
+>and is very cheap.
+Hmm does this mean that I wouldn't have to perform the previusly 
+mentioned contortions ?
+I would be able to just send note-on & note-off messages from a  
+sequencer/controller ?
+
+>If you use MAX, you can also write a tuning librarian.
+but it's not cheap ;-)
+
+>I have to ask, why are you about to buy an FB-01?
+>Or is someone giving you one?  Such a dog unit!
+Do the words *short on cash* hold any special meaning for you ?
+And,like I said I've also got Finale & a MIDI guitar convertor on my 
+shopping list.
+I figure I can get a more respectable synth later.
+
+Also, I'm in Goa,India and I have to deal with other matters like 
+shipping costs,ridiculous import duties,a constantly sinking 
+currency,absurd bureaucracy,even more absurd bureaucrats,etc.
+
+Then again, this FB-01 thing looks ike more trouble than it's worth.
+
+Bye,
+Drew

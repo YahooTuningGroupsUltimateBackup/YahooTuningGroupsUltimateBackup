@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Wed, 5 Mar 1997 16:54:31 -0800
+
+Subject: Re: Greeks and Pi ?
+
+From: Jonathan Wild <jon@sound.music.mcgill.ca>
+
+Charles Lucy asked:
+>If irrationals were treated differently to rationals, how
+>did the ancient Greeks handle Pi?
+
+The first real proof of Pi's irrationality was not until the 18th  
+century - I think you'll find it was either by Euler or Lambert. The  
+proof pi is transcendental didn't appear till even later. But the way  
+the Greeks attacked the problem of finding the ratio between a  
+circle's diameter and area suggests they at least had doubts about  
+pi's rationality. This is perhaps best exemplified in the way  
+Archimedes, among others, made ever-finer polygonal approximations  
+(of known area) to a circle, from both inside and outside, converging  
+towards the "true" ratio which could never be completely attained. I  
+believe he even says something to the effect that while it is false  
+to believe that in this way you can "exhaust" the whole area of the  
+circle, you can in fact come arbitrarily close. 
+
+
+Persistent failure to properly "square the circle" -- definitely one  
+of antiquity's most popular problems -- could also have sown seeds of  
+doubt among the Greeks as to pi's rationality. One would imagine that  
+this would have created some consternation for early Pythagoreans,  
+who had rather hoped that the cosmos and everything in it worked  
+according to numbers -- in fact in some sense that everything *was*  
+number. But if the ratio of a circle's radius to its circumference  
+was irrational, then the lengths of the celestial bodies' circular  
+paths around the "Central Fire" would be incommensurable with their  
+distances from it, i.e. have no common number. (This particular  
+cosmological model, in favour with early Pythagoreans, had a Central  
+Fire around which were placed the earth, moon, and Sun; the five  
+planets known to the ancients; a fixed sphere of stars and a  
+"counter-earth", perpetually invisible to us since it remained  
+diametrically opposed to ours on its orbit around the central fire,  
+and apparently incorporated to fudge the number of "things" out there  
+to add up to ten, the so-called perfect number...)
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 6 Mar 1997 02:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07241; Thu, 6 Mar 1997 02:15:28 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07256
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id RAA21282; Wed, 5 Mar 1997 17:13:50 -0800
+Date: Wed, 5 Mar 1997 17:13:50 -0800
+Message-Id: <v01540b02af43c932759c@[206.119.10.100]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

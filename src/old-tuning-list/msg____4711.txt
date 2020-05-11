@@ -1,0 +1,81 @@
+source file: mills2.txt
+Date: Sat, 1 Feb 1997 16:29:06 -0800
+
+Subject: Meantone Explanation
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Somebody asked me about the exact meaning of fifth-comma meantone. 
+Those of you who are new to unusual tunings might find this useful
+information.  
+
+
+              -----------------------------------------------
+
+
+   The usual definition of an nth-comma meantone would be something like "a
+tuning based upon a circle of identical-sized fifths tuned flat of the 3:2
+by 1/n commas, wrapping within an octave".  
+
+   Assuming that you use the syntonic comma in that definition, as opposed
+to the pythagorean comma, then quarter-comma meantone is devised to create
+a just 5:4 at the sacrifice of the accuracy of the 3:2.  That is because a
+stack of four fifths lands you a major third above where you started:  C G
+D A E.  If those fifths were exactly just, then you'd arrive at an 81:64
+ratio, which is a syntonic comma (81:80) sharp of the idea 5:4.  So the
+quarter-comma meantone solution to that problem is to compromise the P5
+down by 1/4 of a comma so that when you stack up 4 of them you end up 4/4
+of a comma flat of 81:64, which is of course 5:4.  
+
+   Similarly, third-comma meantone is devised to temper the 27:16 major
+sixth down to the cleaner-sounding 5:3.  
+
+   As you've probably heard by now, 31TET is virtually identical with
+quarter-comma meantone, and 19TET, for all realistic purposes, *IS*
+third-comma meantone.  If you stack up 31 quarter-comma flat fifths you
+land only 6 cents off from where you started, and if you stack up 19
+third-comma flat fifths you land only about 1 cent off.  
+
+   So what about fifth-comma meantone?  As with sixth-comma meantone, that
+is probably best characterized as well temperament.  That particular size
+of fifth was probably chosen more to generally equalize tuning errors
+within a 12-toned framework, rather than to make any particular interval
+sound accurate.  That in the sense that whether a 243:128 major seventh is
+really all that much more harmonically unpleasant than 15:8 major seventh
+(a comma flatter) or than any major seventh for that matter, is pretty
+marginal.  
+
+   Or relative to the tonic anyway; 15:8 is of course is mediant of the
+dominant, so perhaps one could argue it that way.  Perhaps one could argue
+that fifth comma meantone was devised to make the third of V-chord just in
+the same sense that third-comma meantone makes the IV-chord just.  That
+combined with the fact that the total error between the third of I (the
+mediant) and the third of V (the leading tone) is smaller that way.  In the
+quarter-comma meantone case, the mediant's error is 0 and the leading
+tone's is 1/4 comma, whereas in fifth-comma meantone a total error of 1/4
+comma, the mediant's is 1/5 comma, and the leading tone's is 0, a total of
+1/5 comma.  
+
+   But I think that when you add to that formulation the error in the third
+of the IV-chord (the submediant), and also consider the effects upon minor
+keys, I suspect that the well-temperament explanation may be more
+realistic.  Well anyway, fifth- and sixth-comma meantone definitely
+straddle the boundary between well temperaments and classic meantones.  By
+the pure definition, they're certainly meantone tunings, but their
+motivation seems to match more closely that of well temperaments.  
+
+   Oh, by the way, I think that Switched-On Bach 2000 has some fifth-comma
+meantone on it.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 2 Feb 1997 18:31 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22655; Sun, 2 Feb 1997 18:31:02 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA22633
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id JAA05971; Sun, 2 Feb 1997 09:27:58 -0800
+Date: Sun, 2 Feb 1997 09:27:58 -0800
+Message-Id: <199702021224_MC2-10AB-B182@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

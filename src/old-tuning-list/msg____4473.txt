@@ -1,0 +1,82 @@
+source file: mills2.txt
+Date: Thu, 2 Jan 1997 13:55:19 -0800
+
+Subject: RE: To Paul Erlich
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+You wrote:
+
+>Fourier proved that any periodic waveform can be expressed as the sum 
+>of sine waves whose frequencies form an EXACT harmonic series. 
+
+I quote from the Encyclopedic Dictionary of Mathematics (MIT 2nd Ed 1993)
+''Fourier also stated (without rigorous proof) that an arbitrary function
+could be represented by trigonometric series, a statement that gave rise
+to subsequent developments in analysis. (Vol 1, p 620)''
+  
+
+At Santa Cruz (way back when) we did a series of sprectral analyses of
+real instruments and deviations from harmonic seria (mostly stretching
+but also some more eccentric behavior) were the norm. (This is certainly
+familar to anyone who has worked with real string instrument harmonics).
+At Darmstadt in '90 I saw some similar work from IRCAM done with extreme
+amplification so that the deviations through - say - the 64th partial were
+evident. Again: whether voices, bowed strings, brass, or woodwind, all had
+harmonics deviating from the expected integer ratios.  
+
+Deviations and stretching in the strings and vocal chords seemed to
+account for the situation there, but what is with the wind instruments?
+
+A possible explanation:
+
+In a trombone, for example, you have several systems working at once whose
+net effect is quite complex, indeed aperiodic. The basic tube, and the bell have 
+separate resonances (which vary with the slide and with muting), the mouth
+cavity of the player has its own variable resonances, and the oscillating
+lips are a very complicated sound with a large noise component and are
+variable in the extreme. The upshot of all this is a constant negotiation 
+between the elements to get something acceptable. One short example: if I
+am to play d1 as the tonic of a major triad on a tenor trombone, I have to
+choose between buzzing d1 and trying to resonate the 5th partial of Bb in
+the first position or the third partial of G in the fourth position. Each
+of which produces a distict timbre and both of which may be problematic in
+the given triad, so I can change the shape of my mouth, or mute, or - yes - add
+either slide or lip vibrato (and I have heard players who could lip vibrato
+over an octave), or add or remove noise from the lip (''growl''). (I know
+this will damage my reputation, but I recommend listening to any recordings
+of Jackie Gleason's ''Velvet Brass'', of Spike Jones recordings with Frank 
+Rehak, or of Stuart Dempster's performance of Robert Erickson's _General
+Speech_ to hear what trombonists can do with pitch and timbre.) 
+
+About vocal ''subharmonics'', I find the easiest way to learn to produce them 
+is to start by singing while inhaling (the ''fry''), eventually adding ex-
+haling, so that one can eventually do both and sing continuously (I remem-
+ber Robert Ashley doing something similar in the early 70s so that he could
+speak without pausing. The Tuvan singers here in Frankfurt on the main 
+shopping street do the same. 
+
+You wrote:
+
+>Daniel, do you agree with LaMonte and if so, how do you justify doing JI 
+>with beatless pure tones without invoking combination tones?
+
+Yes, I agree with La Monte (while recognizing that some people have excellent
+pitch height memory) and thus combination tones are indispensible - if you 
+are making reference to my spacing model, the harmonic series is the model and
+structures are described in terms of just intonation but only to simplify
+matters as I assume some degree of tolerance, likewise I assumed sine waves
+(need I repeat it again) to avoid masking. 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 2 Jan 1997 23:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00908; Thu, 2 Jan 1997 23:19:37 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00906
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA13106; Thu, 2 Jan 1997 14:19:31 -0800
+Date: Thu, 2 Jan 1997 14:19:31 -0800
+Message-Id: <199701021717_MC1-DFD-DB02@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

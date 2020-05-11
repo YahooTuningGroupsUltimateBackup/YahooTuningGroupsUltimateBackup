@@ -1,0 +1,36 @@
+source file: mills2.txt
+Date: Thu, 31 Oct 1996 17:52:07 -0800
+
+Subject: a semantic question (from a Semitic person)
+
+From: "Adam B. Silverman" <adam.silverman@yale.edu>
+
+Is there a specific word to describe intervals which share a particular
+numerary nexus?  For example, if I want to describe only 5-limit intervals
+which include 5 (exclude 3/2, 4/3, etc.).  Would you say it is on the
+"plane of 5", or "5-plane intervals" (referring to a lattice dimension)?
+
+-Adam
+
+_________________
+Adam B. Silverman
+153 Cold Spring Street; A3
+New Haven, CT 06511
+(203) 782-1765
+
+abs22@pantheon.yale.edu
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 1 Nov 1996 02:58 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03653; Fri, 1 Nov 1996 02:58:57 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01631
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id RAA00036; Thu, 31 Oct 1996 17:58:52 -0800
+Date: Thu, 31 Oct 1996 17:58:52 -0800
+Message-Id: <v03007801ae9f1658bc47@[130.132.159.24]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Wed, 30 Apr 1997 19:04:37 -0700
+
+Subject: Re: Some accidental questions
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>* Has any symbol emerged as "standard" (or near-standard) for
+>  representing the equal quarter-tone?
+
+   There are several notation systems out there, but one that's fairly
+common could be described thus:
+
+Quarter Sharp regular old sharp minus one of its near-vertical lines.
+
+3/4 Sharp regular old sharp with a third near-vertical line.
+
+quarter flat a backward regular flat (i.e., kinda like a "d" instead of a "b")
+
+3/4 flat regular and quarterflats with a common vertical stem, or to describe
+           it another way, it's like a heart with a tall stem pointing out the
+           top.
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 1 May 1997 08:54 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01677; Thu, 1 May 1997 08:54:21 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA01700
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id XAA08189; Wed, 30 Apr 1997 23:52:46 -0700
+Date: Wed, 30 Apr 1997 23:52:46 -0700
+Message-Id: <3.0.1.32.19980130224949.006aea80@knowarch.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

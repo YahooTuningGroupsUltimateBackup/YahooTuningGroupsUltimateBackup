@@ -1,0 +1,70 @@
+source file: mills2.txt
+Date: Thu, 6 Jun 1996 15:21:56 -0700
+
+Subject: Hindemith
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Gary wrote:
+
+>   I seem to recall somebody saying the Paul Hindemith professed to teach
+>composition in terms of the harmonic series, although (as far as I know)
+>strictly within the 12TET system.
+
+>   Anybody know any more on that?
+
+Yes, Hindemith made it clear to his students that the major triad is 
+patterned after the harmonic series, and many writers on orchestration show 
+the "chord of nature" as a sort of ideal voicing: large intervals on the 
+bottom, small ones on top.
+
+Please read Partch's "Genesis of a Music" for an excellent historical survey 
+of music theory as it relates to the harmonic series or just ratios.
+
+Both Hindemith and Schoenberg conceived 12-tone composition in terms of the 
+harmonic series, but while Schoenberg went too high up the harmonic series, 
+Hindemith stayed down too low. Schoenberg could explain the whole chromatic 
+scale as harmonic series above C, F, and G; however, in identifying C# with 
+the 13th harmonic of F as well as the 11th harmonic of G, he was identifying 
+it with two notes a semitone apart. Meanwhile, Hindemith expressed all 12TET 
+intervals as 5-limit just ratios, and identified the strength of the 
+relationship with the simplicity of the ratio:
+
+Strongest
+2/1 (octave)
+3/2 (perf. fifth)
+4/3 (perf. fourth)
+5/3 (maj. sixth)
+5/4 (maj. third)
+6/5 (min. third)
+8/5 (min. sixth)
+9/5 (min. seventh)
+9/8 (maj. second)
+15/8 (maj. seventh)
+16/15 (min. second)
+45/32 (tritone)
+Weakest
+
+(He construed this sequence as sort of a "tone row" in his Ludus Tonalis.) 
+So he is really constructing the chromatic scale by building major triads on 
+C,  F,  G, Db, and Eb, and a minor triad on B: a rather arbitrary 
+construction. He then assumes that the relationships he set forth will be 
+
+heard as such without the conncting triads. I would argue that a tritone is 
+never directly heard as a 45/32; it is almost as close to 7/5 as a minor 
+sixth is to 8/5, so 45/32 is silly except in some kind of "extended 
+referece" theory and then only in very specific situations. Other ratios he 
+put forth are not going to be directly heard as such, or only in certain 
+chords.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 7 Jun 1996 04:12 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id TAA28699; Thu, 6 Jun 1996 19:12:56 -0700
+Date: Thu, 6 Jun 1996 19:12:56 -0700
+Message-Id: <960607020702_71670.2576_HHB85-7@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Sun, 15 Oct 1995 21:05:13 -0700
+
+Subject: Adaptive FFT
+
+From: MMCK@delphi.com
+
+Brian says,
+
+>Because the discrete Fourier transform is cyclic and imposes an
+>infinite  periodicity (both supersonic and subsonic) on your
+>spectrum, you must use a limited fixed sampling rate and
+>band-limit your input samples to avoid aliasing (that is, to
+>avoid the lowest supersonic and the highest subsonic frequency
+>bins from bleeding into your audible frequency bins and 
+>contaminating them with inharmonic-sounding spurious garbage). 
+>But once you fix your samling rate, you've thrown out all
+>information between samples.
+
+This assumes an invariant "time slice" analysis, where the
+transform is applied repetitively to a fixed number of data
+points.  As I pointed out in a previous post, if you first apply
+time domain analysis to identify periodic sequences in the data,
+and then "slice" the data according to the results of this
+analysis, these considerations don't apply.
+
+It is not Fourier analysis that imposes the condition that "you
+must use a limited fixed sampling rate".
+
+Using a variable time slice does make it more difficult to use
+FFT's, and it does not solve the problem of aperiodic signals and
+strange attractors, etc, but it may help some by limiting the
+amount of extraneous data brought in by imposing an outside
+frequency on the analysis.
+
+Actually, the sampling frequency is another arbitrary frequency
+imposed on the signal.  It might be possible to adaptively vary
+the sampling frequency as a function of the output of real time
+analysis, and thus minimize this effect also.
+
+Marion
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 16 Oct 1995 06:07 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id VAA01985; Sun, 15 Oct 1995 21:06:48 -0700
+Date: Sun, 15 Oct 1995 21:06:48 -0700
+Message-Id: <01HWHKU6U6CO9EDN4E@delphi.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,86 @@
+source file: mills3.txt
+Date: Sun, 21 Sep 1997 19:55:28 +0200
+
+Subject: Re: 1/1 article
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+Manuel Op de Coul asked me:
+
+>Could you give us the ratios of your complete Pelog scale?
+
+Pelog:
+Pitch Successive Cents be-    Ratio rel-   Cents     Frequency
+#     Ratio      tween steps  ative to 1   from 1       (hz)
+1                               1/1           0.00     293.33
+        8/7        231.17
+2                               8/7         231.17     335.24
+        21/20      84.47
+3                               6/5         315.64     352.00
+        35/32      155.14
+4                               21/16       470.78     385.00
+        8/7        231.17
+5                               3/2         701.96     440.00
+        16/15      111.73
+6                               8/5         813.69     469.33
+        35/32      155.14
+7                               7/4         968.83     513.33
+        8/7        231.17
+1'                              2/1        1200.00     596.67
+
+And, just for completeness sake...
+
+Slendro:
+Pitch Successive Cents be-    Ratio rel-   Cents     Frequency
+#     Ratio      tween steps  ative to 1   from 1       (hz)
+1                                 1/1      0.00        282.86
+         8/7       231.17
+2                                 8/7      231.17      323.27
+         7/6       266.87
+3                                 4/3      498.04      377.14
+         7/6       266.87
+5                                 14/9     764.91      440.00
+         8/7       231.17
+6                                 16/9     996.08      502.86
+         9/8       203.91
+1'                                2/1      1200.00     565.72
+
+I hope I haven't made any more errors:)
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  DFinnamore@aol.com
+Subject:  MIDI pitch bend tuning
+PostedDate:  21-09-97 21:41:31
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  21-09-97 21:41:16-21-09-97 21:41:19,21-09-97 21:40:27-21-09-97 21:40:28
+DeliveredDate:  21-09-97 21:40:28
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256519.006C2425; Sun, 21 Sep 1997 21:41:11 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03278; Sun, 21 Sep 1997 21:41:31 +0200
+Date: Sun, 21 Sep 1997 21:41:31 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03276
+Received: (qmail 19464 invoked from network); 21 Sep 1997 19:41:22 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 21 Sep 1997 19:41:22 -0000
+Message-Id: <970921153227_-196104480@emout03.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

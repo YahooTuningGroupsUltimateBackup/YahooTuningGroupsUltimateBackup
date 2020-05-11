@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Sun, 9 Mar 1997 10:03:20 -0800
+
+Subject: Re: TUNING digest 1008
+
+From: Andrew Milne <andymilne@dial.pipex.com>
+
+Ray Tomes wrote:
+
+> I certainly don't know enough about music history to argue on that score
+> and anyway accept that 16/9 is sometimes the correct value for that
+> note.  However I would argue on the basis of logic.  If you have a
+> dominant 7th chord and the other notes have frequency ratios of 4:5:6:8
+> why should the extra note be 64/9 in that ratio scheme when 63/9 would
+> cancel down nicely to 7 and make an elegant 4:5:6:7:8?   Whatever was
+> actually played historically I still feel that the intention or meaning
+> of such a chord is 4:5:6:7:8.
+
+If the 7th in a dominant 7th chord is tuned to 7/4, then it loses its
+dissonance and instability. Indeed such a chord can function as a tonic
+(as it does, quite exceptionally for the time, in Chopin's 22nd
+Prelude).
+
+But, in common-practice classical music, and indeed in most contemporary
+(not blues-based) pop music, the dominant seventh chord is a chord which
+actively seeks resolution to the tonic (usually a major or minor triad a
+perfect fifth below) with the seventh resolving down a minor or major
+second and the third resolving up a minor second.
+
+It is the unrelatedness of the seventh to the rest of the triad that
+makes this such an effective leading tone.
+
+For this reason it is absolutely incorrect to tune the seventh of a
+dominant seventh to 7/4 in the music of Mozart, Beethoven, Chopin
+(exception noted) etc., because to do so is to misunderstand the
+harmonic function of this note, and to give the dominant chord an
+entirely different function to that intended.
+
+Andrew Milne
+Islington
+London
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 10 Mar 1997 01:34 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10626; Mon, 10 Mar 1997 01:34:52 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA10312
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id QAA14332; Sun, 9 Mar 1997 16:33:18 -0800
+Date: Sun, 9 Mar 1997 16:33:18 -0800
+Message-Id: <336b49f1.802701832@kcbbs.gen.nz>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

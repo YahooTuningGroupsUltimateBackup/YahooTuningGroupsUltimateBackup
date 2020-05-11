@@ -1,0 +1,28 @@
+source file: m1436.txt
+Date: Wed, 03 Jun 1998 10:37:52 -0700
+
+Subject: FB-01
+
+From: Carl Lumma <clumma@nni.com>
+
+>I have to ask, why are you about to buy an FB-01?
+>Or is someone giving you one?  Such a dog unit!
+
+All this talk about FB01's... I don't really know anything about them, but
+I've been told that they're a little more than "dog unit"s.  Retuning is
+apparently much more effective with pitch bends than with Sysex messages.
+Here's what Jules Siegel once told me...
+
+>>4 FB01s ... The FBs have a quirk which allows you to have multiple
+>>voices with different pitchbends on a single channel ... All it is, is
+>>that once the note-off comes, the fb01 ignores further bend msgs for
+>>that note.  So a  new note can be started after a different bend is
+>>sent.  You need to use a patch with a long decay, and not be in
+>>monophonic mode.  The multiple notes can come so fast that they don't
+>>even sound like the arpeggios that they actually are.  Note that
+>>sending a different patch immediately chops off all sounding notes on
+>>the channel. You can send a series of midi volume events if you need to
+>>stop the notes more gracefully, and the voice decay would make them
+>>sound for too long.
+
+Carl

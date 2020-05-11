@@ -1,0 +1,59 @@
+source file: mills3.txt
+Date: Tue, 23 Dec 1997 12:45:38 +0100
+
+Subject: Re: 19, 22, 29, 41, 53 : 12 and multiples
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Tue, 23 Dec 1997, Robert C Valentine wrote:
+> Regarding 19TET in particular, perhaps it is the last temperment which
+> preserves "sameness" of the "big" and "small" major seconds (9:8, 10:9).
+
+Um, what?  The nearness of 31, 43, and 55 TET to quarter, fifth, and
+sixth comma meantone has been known for hundreds of years.  31 is
+level-3 consistent through the 7-limit.
+
+72TET is level 2 consistent through the 11 limit, BTW, and is used not
+only by Sims but by the Richter-Herf crowd.
+
+Wendy Carlos uses 144TET on Beauty In The Beast for her "Super-Just"
+13-limit scale.  On a theoretical basis, I would have preferred 270TET
+for a highly modulatory piece like she wrote, since 270 is the first
+tuning that is level-2 consistent through the 13-limit, but of course at
+such high numbers the difference is far too small for me to notice.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Do you like to gamble, Eddie?
+  -\-\-- o    Gamble money on pool games?"
+
+             NOTE: dehyphenate address to remove spamblock.          <*>
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Robert C Valentine <bval@iil.intel.com>
+Subject:  19, 22, 29, 41, 53 : 12 and multiples
+PostedDate:  23-12-97 13:14:54
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  23-12-97 13:12:40-23-12-97 13:12:41,23-12-97 13:12:12-23-12-97 13:12:13
+DeliveredDate:  23-12-97 13:12:13
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256576.004312D1; Tue, 23 Dec 1997 13:14:33 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24303; Tue, 23 Dec 1997 13:14:54 +0100
+Date: Tue, 23 Dec 1997 13:14:54 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA24301
+Received: (qmail 4419 invoked from network); 23 Dec 1997 04:14:46 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Dec 1997 04:14:46 -0800
+Message-Id: <9712231211.AA123846@ilx170.iil.intel.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,142 @@
+source file: mills3.txt
+Date: Tue, 23 Dec 1997 22:44:10 +0100
+
+Subject: Reply to R. C. Valentine
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>
+>}> On the list, I believe someone =17 by no means devoid of understanding =
+>=17
+>}> said that "Gibson's preference for mean-tone temperaments is
+>}> well-established" as if there are any others worth discussing (for
+>}> long). Well, there is just intonation and Pythagoreanism, but they are
+>}> not temperaments. There are 22- 29- 41- & 53-tone equal, but I do hope
+>}> that by now I have explained why these 'temperaments' are valueless, for
+>}> they cast out the consonant thirds from their tonal fabric as soon as
+>}> one tries to preserve the consonant fifths. =20
+>
+>}I really don't understand this statement "cast out the consonant thirds".
+>
+>}	12TET  7  M4 =3D=3D  4 P5
+>}	19TET  11 M4 =3D=3D  6 P5
+>}	53TET  31 M4 =3D=3D 17 P5=20
+>
+>}Is the "problem" that the 53TET (and others) has a choice of thirds to
+>}use depending on context (in this run of 31 M4, we probably came close
+>}to a variety of M4 that were diatonically correct to the original root,
+>}if we built the equivalent of I, IV, V)?
+>
+>I can't understand your notation. What is M4? Anyway, Gregg is referring to
+>the fact that 22-, 29-, 41-, 53-equal and JI are not meantone temperaments.
+>You're going to tie yourself (and the music) in knots if you try to use these
+>tunings for traditional diatonic music. Modulations to nearby keys become
+>extremely awkward, as do single-key chord progressions such as I-IV-ii-V-I
+>and I-vi-ii-V-I.
+>
+>}Of course, this choice gives you lots of VERY consonant thirds, and,=20
+>}using them when it is important harmonically (to fix audible beating)
+>}does not mean we really care whether we hit them exactly melodically
+>}(since we already have determined that melody can be a lot sloppier
+>}than harmony).
+>
+>JI is perfect harmonically but contains melodic errors of a syntonic comma.
+>(The other non-meantone temperaments mentioned are worse than JI in both
+>respects). If one treats sustained tones as single pitches (not altering them
+>by a comma mid-stream) these melodic errors can accumulate over the course of
+>a piece, often landing the piece as much as ten commas below where it
+>started. 1/4-comma meantone temperament is perfect melodically but contain
+>harmonic errors of no more than 1/4 syntonic comma. These errors do not
+>accumulate since consonant intervals of the same type do not combine to form
+>other consonant intervals. So the relevant question is not whether melody can
+>be a lot sloppier than harmony but whether melody can be four (locally) to
+>forty (globally) times sloppier than harmony. I think the answer depends on
+>the exact sizes of the errors and, of course, the musical context, but I
+>think meantone wins in most cases. Of course, one can write piece
+>specifically for JI which avoids most of its disturbing characteristics, but
+>the vast majority of classical composers did not do this.
+>
+>In a performance context one would have to deal with far fewer pitches in a
+>meantone rendition. These practical benefits of meantone may have been the
+>decisive factor in making meantone the most important tuning in the West from
+>1500-1800.
+>
+>31-equal is close to 1/4-comma meantone; 19-equal is virtually 1/3-comma
+>meantone, having harmonic errors no larger than 1/3 comma.
+>
+>}Ezra Simms is currently advocating 72TET (he approached it from a few
+>}other directions) and has articles in Perspectives of New=20
+>}Music (vol 29, their microtonal series) and Computer Music Journal
+>}in recent years. As a REAL tuning system to advocate vs 12TET, this=20
+>}one meets all the tests above.
+>
+>I do like your argument (deleted). Ezra Sims, though, attributes some ratios
+>to 72TET that it cannot express consistently. 72TET is only consistent
+>through the 17-limit.
+>
+>}Regarding 19TET in particular, perhaps it is the last temperment which
+>}preserves "sameness" of the "big" and "small" major seconds (9:8, 10:9).
+>
+>} 	major scale...
+>
+>}	12TET :  2 2 1 2 2 2 1
+>}	19TET :	 3 3 2 3 3 3 2
+>}	22TET :  4 3 2 4 3 4 2
+>}	29TET :	 5 4 3 5 4 5 3
+>}	41TET :	 7 6 4 7 6 7 4
+>}	53TET :	 9 8 5 9 8 9 5
+>
+>}But... is that a good thing? Thanks a lot.
+>
+>This sameness is what characterizes a meantone temperament, and as I have
+>stated above, I think it is a good thing for diatonic music. More:
+>
+>15TET: 3 2 1 3 2 3 1
+>26TET: 4 4 3 4 4 4 3
+>31TET: 5 5 3 5 5 5 3
+>34TET: 6 5 3 6 5 6 3
+>72TET: 12 11 7 12 11 12 7
+>
+>For one thing, the ii triad is lousy in those of the above "major scales"
+>where there are two sizes of major second. It is unfortunate that the best
+>meantone scales that 72TET has to offer are the same as 12TET scales. This
+>often prevents one from taking advantage of the superb 5:4 of 72TET in a
+>diatonic context.
+>
+>The "major scales" in 15- and 22-equal sound really out-of-tune melodically
+>because of the two different sizes of major second. So even if the ii triad
+>and modulation are avoided, these tunings will sound weird for diatonic
+>music.
+>
+>I have non-diatonic reasons for liking 22-equal. Blackwood has written about
+>good reasons for liking 15- and 16-equal in Perspectives of New Music.
+>
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  More on Just Intonation 2
+PostedDate:  23-12-97 23:44:53
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  23-12-97 23:42:40-23-12-97 23:42:40,23-12-97 23:42:11-23-12-97 23:42:11
+DeliveredDate:  23-12-97 23:42:12
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256576.007CBFE8; Tue, 23 Dec 1997 23:44:32 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24700; Tue, 23 Dec 1997 23:44:53 +0100
+Date: Tue, 23 Dec 1997 23:44:53 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA24718
+Received: (qmail 12496 invoked from network); 23 Dec 1997 14:44:50 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Dec 1997 14:44:50 -0800
+Message-Id: <34A0A105.3CED@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

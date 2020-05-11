@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Tue, 10 Oct 1995 02:22:55 -0700
+
+Subject: RE: midi files
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Marcus, there is a lot of stuff here:
+
+http://www.cs.ruu.nl/pub/MIDI/
+
+Maybe also code to read and write standard MIDI files, I don't know
+but it is not too difficult to write it yourself and it still depends
+on what you wish to do with it.
+The MIDI file specification is here:
+
+http://www.cs.ruu.nl/pub/MIDI/DOC/midifile
+
+It contains two routines in C for writing and reading a variable length
+number.
+I am currently writing code for writing a MIDI file, not in C, but let
+me know if you need help.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 10 Oct 1995 14:17 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA19736; Tue, 10 Oct 1995 05:17:41 -0700
+Date: Tue, 10 Oct 1995 05:17:41 -0700
+Message-Id: <199510100945.GAA27292@chasque.apc.org>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

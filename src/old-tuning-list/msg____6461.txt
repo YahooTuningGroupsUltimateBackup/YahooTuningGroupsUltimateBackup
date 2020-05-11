@@ -1,0 +1,61 @@
+source file: mills3.txt
+Date: Thu, 20 Nov 1997 20:54:36 +0100
+
+Subject: RE: The severity of scale
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>
+>>>>Does this mean that you're going to go over to squared detuning?
+>>
+>>>Go over from where? I used squared error as the loss function to calculate
+>>>optimal meantone temperaments and the quality of equal-tempered
+>>>approximations in many posts here. When I said that the maximum error was
+>>>20
+>>>cents, would it have made any difference to say that the maximum squared
+>>>error is 400 cents squared? No, it would have just made me sound silly.
+>
+>>Actually, the difference between squared detuning and regular detuning is
+>>quite important:
+>
+>I agree -- thus my loss function. By absolute detuning, quarter-comma
+>meantone is optimal.
+>
+>>it means that our intervals get worse exponentially.
+>
+>You mean quadratically (very different!).
+>
+>>The
+>>regular, "cents detuning" method strongly implies arithmatic worsening.
+>
+>Right. The rate of beating is one quantity that does, in fact, increase
+>linearly with absolute detuning.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carl Lumma <clumma@nni.com>
+Subject:  Carl's opinion on FPI tuning
+PostedDate:  20-11-97 22:22:38
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  20-11-97 22:21:17-20-11-97 22:21:18,20-11-97 22:21:24-20-11-97 22:21:24
+DeliveredDate:  20-11-97 22:21:25
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256555.00754996; Thu, 20 Nov 1997 22:21:05 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04250; Thu, 20 Nov 1997 22:22:38 +0100
+Date: Thu, 20 Nov 1997 22:22:38 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA04255
+Received: (qmail 18036 invoked from network); 20 Nov 1997 13:22:35 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 20 Nov 1997 13:22:35 -0800
+Message-Id: <19971120212418359.AAA291@NIETZSCHE>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

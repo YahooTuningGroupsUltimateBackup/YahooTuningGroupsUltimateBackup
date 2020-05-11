@@ -1,0 +1,104 @@
+source file: mills2.txt
+Date: Mon, 14 Jul 1997 13:20:54 +0200
+
+Subject: Historical Temperaments
+
+From: A440A@aol.com
+
+Ed Remler writes:
+
+>Prior to the publication by Mersenne of the correct frequency ratios
+>for ET in 1636 it would have been practically impossible to tune in ET.
+>Subsequent to that time it spread through continental Europe.<snip> the
+history >of the use of beats to tune in ET is
+>unknown to me, but exact rules for ET tuning are relatively unimportant.
+
+      I must respectfully disagree.  ET is an exact placement of the pitches,
+and getting there accurately enough to distinguish ones tuning from the late
+well-temperaments requires aural measurements that must be exact.  As the
+temperament wars of the early 1800's raged, ( Stanhope, Farey, see Jorgensen,
+"Tuning" pg 295),  nothing was said about these techniques.
+      Beats were used for the many equal beating temperaments, true, but that
+is setting intervals directly,  not using the beats caused by test notes (for
+the maj3rd/min3rd fifth test, or the maj3rd/sixth test for fourths).  Without
+the use of these tests, I will defy anybody to tune an acceptable ET on a
+piano, and there will be darn few that can do it on a harpsichord.  A
+clavichord has so much "bebung" variability,  I would hesitate to draw any
+conclusions from what the players said about their tuning at all. 
+     Montal gives a set of instructions for tuning a temperament that,
+according to Bill Garlick, results in a very good to excellent ET.  These
+were published in 1836,  which to my knowledge is the earliest date assigned
+a written bearing plan that actually worked.  We do see that Hipkins
+documented the Broadwood tuners use of non-equal temperament ca.1848
+
+Also:
+> von Helmholtz (p.321 of
+>Dover Edition) quotes Marpurg who quotes Kirnberger, a pupil of J.S.
+>Bach, that he required all major Thirds to be sharpened, and this can
+>only mean sharpened with respect to MT which is 14 cents flatter the ET.
+   >This is important not only to show Bach's preferences, but to indicate
+>how clavier tuners probably tuned in ET as a practical matter at that
+>time (pre 1750).
+      Requiring that "all thirds be tuned sharp" is not saying that they are
+all tuned equally sharp.  Sharpening a third slightly from pure lets the
+tuner know two things,  how tempered the interval is, and on which side of
+pure.  It makes for easier tuning, but there is considerable difficulty in
+getting them all the same.  There is little evidence that Bach wanted all
+keys identical.  
+
+> There is no doubt that all the great masters of the classical period
+>considered ET to be the ideal.
+
+       There is considerable doubt.  Especially among those that tune
+professionally.  The distinctions between irregular and regular circulating
+temperaments must be appreciated.        This is important, because the
+greatest keyboard works composed so far seem to have come from the period in
+which the tuning underwent its most rapid changes.  Can any list of composers
+compare with those that worked between 1700 and 1850?  This whole era was
+concerned with tonality, the plausibility of an atonal tuning being popular
+is  (IMHO) thin.   
+
+> I am also happy to stand with them in disagreeing with the remark often
+ >made here and elsewhere that ET is some sort of a 'compromise' system of
+>tuning.  ET is certainly not and should not be considered in the same
+>league as MT which is a compromise. ET was a great discovery-both
+>aesthetic and scientific-and without it, Western music could not have
+>achieved its unique glory. 
+
+      Hmmm.  I tune equal temperaments for a living.  I think I know the
+relationships in a 12TET backwards and forwards on at least a hundred
+different pianos, ( yes, the aural sizes of the thirds are different on
+different sizes of instruments, 9' pianos beat faster than spinets).  I
+consider ET to be a compromise, because there is something lacking.  That
+something is the pure interval.  
+      There is something physiologically important about being subjected to
+pure intervals, and the dissonance of the tempered intervals is useful in
+providing a context for this appreciation.   With 12TET, there is no textural
+difference, and the context must come from without. 
+     ET is a great developement, but the unique glory of Western Music was
+formed before it was firmly in place.  I personally see ET as more of an
+entropic, dead-end detour, than a realized ideal of musical perfection. 
+     As to the temperaments used by the past?  In 1780, a piano performance
+would have been followed by a discussion on the tuning, comparing the beauty
+of certain keys with the resulting damage elsewhere.  We need to hear the
+music played in more than just the ubiquitous ET of today, and then, just
+like the theorists of old, we need to debate how the music sounds best. 
+
+Regards, 
+Ed Foote 
+Precision Piano Works
+Nashville, Tn.  .  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 14 Jul 1997 14:52 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09034; Mon, 14 Jul 1997 14:52:44 +0200
+Date: Mon, 14 Jul 1997 14:52:44 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA09838
+Received: (qmail 25485 invoked from network); 14 Jul 1997 12:52:03 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Jul 1997 12:52:03 -0000
+Message-Id: <970714084913_-1694853526@emout03.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

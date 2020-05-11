@@ -1,0 +1,19 @@
+source file: m1508.txt
+Date: Wed, 19 Aug 1998 02:44:44 -0400
+
+Subject: Re: Macintosh synthesizer
+
+From: The Evil Lord of the Goat-Rats <spottisw@world.std.com>
+
+>  1) Macintosh synthesizer
+>	by Will Grant <wgrant@cats.UCSC.EDU>
+>
+>Does anybody know about a software synth
+>that runs with Max on the Mac?
+
+You can read about MSP, a real-time synthesizer and audio processor, at
+www.cycling74.com.  Are there members of tuning that have experience with
+MSP and could review it on the list?  I seems like a dream product, and
+I've like to know how effectual of a real-time synth is it.
+
+ -Spottiswoode Thjss

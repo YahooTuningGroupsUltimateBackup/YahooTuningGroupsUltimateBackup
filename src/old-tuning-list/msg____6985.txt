@@ -1,0 +1,73 @@
+source file: mills3.txt
+Date: Fri, 9 Jan 1998 13:09:25 +0100
+
+Subject: RE: blues scale
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>}I mentioned to Paul Erlich, and he encouraged me to post, this observation
+>}on his "blues scale" in 22TET:
+>}>
+>}>22TET   cents
+>}>
+>}>0       0
+>}>6       327
+>}>9       491
+>}>10      545
+>}>13      709
+>}>19      1036
+>}>
+>}>In just intonation, it would be
+>}>
+>}>Ratio   cents
+>}>
+>}>1/1     0
+>}>6/5     316
+>}>4/3     498
+>}>27/20   520
+>}>3/2     702
+>}>9/5     1018
+>
+>Bill left out my diagram above, leading to a slight misinterpretation below.
+>
+>}Functionally, it may make sense to Paul to interpret the 22TET intervals as
+>}he has done above. However, I definitely hear the 10 step interval as being
+>}much more like an 11/8 (551 cents) than a 27/20.
+>
+>Me too. In fact, I don't hear a 27/20 as anything but an out-of-tune fourth
+>-- the 27-limit is too high. The ratios are not my interpretation of the
+>22TET intervals -- they are what would result if my diagram (omitted above)
+>were translated to JI. However, as I mentioned, in such a translation the
+>"bluesy" quality of the scale is lost. In any meantone tuning, the scale
+>corresponding to the diagram would have only five notes. Here is an example
+>where the "error" of the syntonic comma, so egregiously inflated in 22TET,
+>becomes a useful musical feature.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Eduardo Sabat <esabat@adinet.com.uy>
+Subject:  What do you play ?
+PostedDate:  09-01-98 16:37:20
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  09-01-98 16:36:56-09-01-98 16:36:57,09-01-98 16:36:49-09-01-98 16:36:50
+DeliveredDate:  09-01-98 16:36:50
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256587.0055C385; Fri, 9 Jan 1998 16:37:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09730; Fri, 9 Jan 1998 16:37:20 +0100
+Date: Fri, 9 Jan 1998 16:37:20 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA13087
+Received: (qmail 22203 invoked from network); 9 Jan 1998 07:37:17 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 9 Jan 1998 07:37:17 -0800
+Message-Id: <199801090931.MAA20640@adinet.com.uy>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

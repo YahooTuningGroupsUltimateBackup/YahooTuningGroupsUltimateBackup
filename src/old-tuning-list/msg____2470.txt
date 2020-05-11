@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Thu, 18 Jan 1996 18:52:49 -0800
+
+Subject: Re: 31-tone in csound
+
+From: James Harley <jharley@mach1.wlu.ca>
+
+> What I am wondering is if there is anyone out there who has
+> experience with creating orchestra and score files in C-sound for the 31
+> tone chromatic scale.  Anybody have any insight, or want to point me in a
+> direction?  Thanks a lot!
+>
+I've done just that--it's very simple. Either you create a table of 
+frequencies, or use a logarithmic function to generate the scale from a 
+starting frequency (sorry I can't just give you the code for the 
+formula off the top of my head--I'll have to dig it out). I used a C 
+program to generate my score files,  but I'm sure you can use either 
+procedure directly in csound.
+
+Jim
+------------------------------------------------------------------------------
+James Harley					jharley@mach1.wlu.ca
+Faculty of Music				tel: (519) 884-0710 x2286
+Wilfrid Laurier University			fax: (519) 747-9129	
+Waterloo, ON, CANADA N2L 3C5			home tel: (519) 884-3410
+------------------------------------------------------------------------------
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 19 Jan 1996 20:25 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA13206; Fri, 19 Jan 1996 11:25:56 -0800
+Date: Fri, 19 Jan 1996 11:25:56 -0800
+Message-Id: <199601191924.LAA12271@ella.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

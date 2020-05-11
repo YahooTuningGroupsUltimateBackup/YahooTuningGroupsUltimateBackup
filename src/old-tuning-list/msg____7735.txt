@@ -1,0 +1,19 @@
+source file: m1412.txt
+Date: Mon, 11 May 1998 16:06:21 +0200
+
+Subject: Scala's new web site
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+Scala, the tuning program that I wrote, has a web site now:
+
+http://www.tiac.net/users/xen/scala/
+
+It contains a list of features, examples, help text with index,
+download info, a list of references, release notes, and some links.
+Many thanks to John Pusey for doing design work, hosting of this
+web site and giving critical comments.
+Maintainers of websites, if you have links to the Scala zipfile please
+replace them with a link to the above home page.
+
+Manuel Op de Coul    coul@ezh.nl

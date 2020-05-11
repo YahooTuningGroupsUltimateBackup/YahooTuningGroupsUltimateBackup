@@ -1,0 +1,23 @@
+source file: mills2.txt
+Date: Mon, 20 Jan 1997 05:04:26 -0800
+
+Subject: Re: digest 961, topic 1 - .AU and .WAV files
+
+From: John Fitch <jpff@maths.bath.ac.uk>
+
+SOX will also do audio file format conversions, and it is a little cheaper
+at $0; mind you does not edit as well.
+ohn ff
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Jan 1997 14:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08728; Sun, 19 Jan 1997 19:40:13 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08793
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA20001; Sun, 19 Jan 1997 10:40:09 -0800
+Date: Sun, 19 Jan 1997 10:40:09 -0800
+Message-Id: <199701190838_MC2-F9C-8B55@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

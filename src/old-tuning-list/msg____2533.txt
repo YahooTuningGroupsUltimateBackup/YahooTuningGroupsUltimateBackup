@@ -1,0 +1,209 @@
+source file: mills2.txt
+Date: Sat, 3 Feb 1996 14:42:50 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Xenharmonics on a broken
+ shoestring
+---
+While it's easy to gripe about the lack
+of this or that sophisticated synthesis
+algorithm on today's MIDI synths, it's
+sobering to realize how far we've come.
+In many ways we live in the golden age of
+xenharmonics.
+A whole lot of dirt cheap fully retunable
+MIDI synthesizers are available used--and
+most of 'em for a pittance.  For example,
+the prospective microtonalist can today
+grab a used TX81Z for about $250, or a
+used VFX for about $600.  These are both
+excellent synthesizers.  Add an antique DOS
+286 machine, used, for another $200 or
+so, tack on a DOS sequencing program
+like Cakewalk or Texture, a cheap MIDI
+interface, and you can do an astounding
+amount of sophisticated microtonal
+composition.
+Move up to a Windows 386 machine (for
+about $100 more) and a program like
+Finale, and you've got the ability to
+score and perform compositions of
+a complexity unthinkable a few years
+ago. You can record xenharmonic scores
+that world-class ensembles would have
+had to practice for 6 months to perform!
+None of this was possible just 10 years
+ago.
+So much inexpensive high-quality
+equipment has washed up in the USED
+section of the classified ads today 
+and in the backs of cheapo guitar shops
+that it's mind-boggling.
+A look at a 1986 issue of "Keyboard" puts
+the situation in focus--back then, analog
+MIDI synths were the state of the art. 
+2,000 note sequencers running on the 
+Commodore 64 were considered "powerful."
+The only affordable sampler was the Mirage,
+and to detwelvulate *that*, you had to
+buy an alternative operating system from
+Dick Lord in New Hampshire.
+Recently, US Snail brought me the latest tapes 
+by Warren Burt and Gary Morrison.  While both
+of these composers have asked me not to 
+review their work in public, they probably
+wouldn't mind my saying that their 
+latest work is excellent.  
+And in both cases what's especially 
+impressive is how much they were able 
+to do with modest resources.
+Gary Morrison, for instance, has an obsolete 
+68030-vintage Macintosh with a DAT
+machine, a two-track Sound Tools setup,
+and an Ensoniq ASR-10.  Yet he's been able
+to simulate a very convincing orchestral
+wind and percussion ensemble.
+Warren Burt has an equally modest set-up.
+An "obsolete" 286 DOS laptop, a MIDI
+interface, a little A/D-D/A box that hooks
+into the computer's parallel port (cost
+$150, maximum stereo output rate 22.05
+khz), the public-domain program US from
+the U of Illinois, a commercial DOS sample
+editor, the Buchla Lightning MIDI controller,
+a Proteus I, a Roland SCC-1 Sound Canvas
+sound card, and a couple of reverb and delay 
+boxes, along with an obsolete 13-bit EPS
+sampler. (Still an *extremely* useful synth--
+as I can testify, since I still use one myself!)
+Yet with this modest setup--which wouldn't 
+even rate a sneer from a Keyboard or Electronic
+Musician reviewer--Warren manages to tease
+a kaleidoscope of interesting  music.  
+His latest work ranges from digital musique
+concrete, to algorithmic music which
+uses William Sethares' idea of matching
+partials to the microtonal tuning, to pastiches
+which employ public-domain algorithmic composition
+programs  processing musical material from
+neoclassical composers in a 19-tone extension
+of serialism.
+This kind of fine work done with so-called "obsolete"
+MIDI equipment should tell us something important.
+In the end, you don't really need a DigiDesign TDM
+48-track Power Mac system.  You don't really
+need NeXTStep-486 running on an 80686 machine.
+You don't really need a monster 16-bit sampler
+with 64 or 128 megs or RAM.
+This kind of bleeding-edge technology is nice--
+but it's not *necessary* to produce good microtonal
+music.
+In the end, what matters most is imagination and 
+ingenuity.  My own computer music never uses
+a sampling rate higher than 20 khz; and you
+can do a surprising amount with a 20 or 30
+khz sampling rate on a 13-bit 1 megaword 
+sampler like the EPS.   
+Moreover, vintage synths like the 1986 
+TX81Z or the 1989 VFX have so many features 
+that it's difficult to believe *anyone*
+has come close to exhausting their sonic
+potential, even though they've been in use for
+years and years.
+Beyond that, there remains the largely unexplored 
+option of combining live acoustic home-built 
+xenharmonic instruments with digital synths
+in live and recorded performances.
+For some reason, microtonalists have long faced off
+into oposing groups: the "acoustic only!" camp
+and the "digital only!" camp.  But why not mix
+and match instruments of both kinds?
+Why not combine *both* sound-worlds?  
+This is a direction we in the Southern California
+micorotnal group have been pursuing for years, 
+and it has so far proven fruitful.
+Recently I finished building my own copy of a
+Harry Partch-style harmonic canon I.
+Essentially a monochord multiplied times 44,
+with movable bridges for each string, the
+instrument turned out to be much simpler
+to construct than my forebodings indicated.
+Best of all, it cost less than $100.
+Yet with a harmonic canon  you can tune up
+all the tetrachords listed in John Chalmers
+magnum opus "Divisions of the Tetrachord"--
+four or five at a time, simultaneously.
+Or you can tune up a single tetrachord with
+a variety of harmonizations.
+You can also get Partch's 29-note, 37-note, 39-note,
+41-note and 43-note just scales, or 43-tone
+or 41-tone equal temperament.   Not to mention
+multiple courses of strings with lesser divisions
+of the octave.  The harmonic canon is  an
+endlessly useful instrument--it sounds splendid,
+yet it's easy to maintain (run emory cloth along
+teh strings to get rid of rust once a week, and dust
+and oil the wood) and almost trivial to 
+build.
+Building my own megalyra has proven even
+easier, and cost considerably less than $100.  
+These instruments require no special carpentry
+skills--even a duffer like myself can cut and 
+plane maple and pine planks, drill holes, and
+screw in 44 piano pins.  Making a megalyra
+is literally no more complex than drilling
+11 pairs of holes, sinking 11 pairs of
+piano pins, and winding tight 11 pairs of 
+piano strings across a piezoelectric pickup.
+That's essentially all there is.  (Hint: get
+used rusted piano pins from a piano repair
+shop.  You can emory-cloth the rust off the
+pins, and they work just fine. The only real
+expense is the piezo pickup, the 11 piano
+strings, and the piano tuning hammer.  Once
+again, rusted used piano pins work fine.)
+Anyone can build these simple xenharmonic
+instruments, yet the resulting music
+sounds impressive in live performance--
+especially when combined with digital MIDI 
+synths and/or playback of computer-generated 
+soundfiles.
+When I see the latest issue of Computer Music
+Journal, I have to wonder: Why aren't these
+people talking about "more is less" in computer
+music?
+As Warren Burt has pointed out, in the age of
+downsizing, most of our incomes are dropping 
+even more rapidly than the price of computer 
+hardware--so getting the mostest out of the 
+leastest is a matter of real concern.  
+It's also a fun challenge.  
+So every time that latest, greatest new
+synth beckons to me from the music shop
+window, a little voice in the back of head 
+whispers: You still haven't used more than
+1/10 of the capabilities of the equipment 
+you've already got!
+Frankly, both Gary and Warren  would do us
+a favor if they'd  post more about getting 
+"the mostest from the leastest."  
+Like Ivor Darreg's, their work has produced 
+impressive results with very modest resources, 
+and we could all learn a thing or two from 
+these fine composers.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 4 Feb 1996 19:47 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA23868; Sun, 4 Feb 1996 10:47:46 -0800
+Date: Sun, 4 Feb 1996 10:47:46 -0800
+Message-Id:  <9602041045.aa27022@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

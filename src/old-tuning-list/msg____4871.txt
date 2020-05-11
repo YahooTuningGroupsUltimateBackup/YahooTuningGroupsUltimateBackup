@@ -1,0 +1,115 @@
+source file: mills2.txt
+Date: Mon, 24 Feb 1997 09:59:58 -0800
+
+Subject: To Gary, Diatonic Analysis Insufficient
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+> From: Gary Morrison <MorriSonics@compuserve.com>
+> 
+> > > > ...tone should be considered a "wandered" tonic, or the major
+> > > > third of the V of ii (near C# in C) should be considered a
+> > > > "wandered" tonic. "
+> > > Frankly I wouldn't buy that. If the harmony makes clear
+> > > that you're playing a vi chord, then its third is the tonic.
+> > > That's built into the definition of diatonic triads.
+> > Sure, but definitions are not music. I say let the
+> > music make the definitions, not the reverse. ...
+> > If a diatonic analysis is crippled enough to confuse 81/80
+> > with 1/1, then it doesn't fall within the realm of usefulness.
+> 
+> Well, then I recommend you avoid diatonic-triad nomenclature 
+> and concepts (e.g., "V", "ii", or "vi") if you're not interested 
+> in diatonic harmony!
+
+True, I know, but I was reponding to the topic, also it's
+hard to criticise something without saying its name. Note
+that in my examples I used ratio notation. 
+
+> I'm certainly not suggesting by any means that that 
+> is the only valid or useful mindset from which to write 
+> music.  But it's far from useless just
+> because it doesn't comprehend the idea of a comma.
+
+It's useless for describing music which doesn't stick to 7 
+pitches. I'm also trying to argue that much of what is called 
+diatonic music actually makes use of progressions which imply
+more than 7 pitches, and if played on instruments which are
+pitch-adjustable, including voice, the progressions can
+naturally lead the ear of the performer to play these pitches.
+In these cases, diatonic notation and thinking is worse than
+useless; (IMO) it's harmful, because it gives a truncated
+explanation of musical reality.
+
+> The ideas of traditional harmony has value applied to certain 
+> microtonal systems - as much or as little value as it has in 
+> 12TET.  Traditional theory is based upon triadic harmony, but 
+> its most basic emphasis is functional harmony:
+> * Leading tones want to go up,
+> * Sevenths want to go down,
+> * Dominant seventh chords want to resolve to tonic chords, etc.
+
+I can agree heartily with a melodic-tendancy basis for 
+functional harmony, but there is still the sense of
+tonality which is like the reference map that functional
+harmony plays over. When you move into "romantic" 
+chromaticism as an extension of diatonic thought
+with added deceptive resolutions, secondary dominants, 
+"distant" modulations, etc. it becomes even more important
+to consider the real harmonic areas which these voice 
+leading tendancies are leading you into. I suggest that
+12-tone chromatic tonal music implies more than 12 pitches
+and that a chromatic analysis is just as incorrect and
+harmful (by not telling the whole truth) as a diatonic 
+analysis is for much of supposedly diatonic music.
+
+> Functional harmony is also the basis behind wandering tonics:  
+> If you can convince an audience that some pitch is the leading 
+> tone, and you resolve it upward by half-step, then they'll 
+> believe that the pitch you land on is the tonic, even if it's 
+> not the tonic you started on.  Taken out of the framework of 
+> functional harmony, and of tonality, the idea of wandering 
+> tonics is no longer meaningful.
+
+Let me recount one of my formative microtonal experiences: the
+first 81/80 I heard. In the mid 70's, then-schoolmate Kraig Grady 
+introduced me to Erv Wilson and Erv played for me the following 
+sequence, 1/1 5/4 5/3 10/9 40/27 160/81, then he paused, and
+followed it with 2/1. Believe me, when my ear heard the real
+tonic it could tell THAT was home, no matter that my 
+diatonic-solfege-trained brain had analyzed "do mi la re so do". 
+The fact that the final melodic 81/80 movement was so small 
+and yet so clearly correct convinced me by-experience of the 
+reality of microtonal hearing.
+
+What I'm trying to say is that even though you may write 
+music which you think leads your audience to a "wandered 
+tonic", if you follow it with the real tonic, they will 
+recognize it. This makes me think it better to call the 
+supposed "wandered tonic" by another name, to reflect the 
+ear's ability to differentiate, rather than reflecting 
+the false assumption at the base of a diatonic analysis. 
+
+> So it's certainly not unreasonable to think that the tonic 
+> could wander down to the original pitch of the leading tone, 
+> for example.  But if it does, it's still functionally the 
+> tonic, because that's how our ears will perceive it.
+
+Maybe that example should be called a modulation rather
+than a wandered tonic, or maybe it's all a matter of who's 
+listening. All I can really go by is my own ear.
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 24 Feb 1997 19:35 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18000; Mon, 24 Feb 1997 19:35:02 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18004
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA14568; Mon, 24 Feb 1997 10:33:05 -0800
+Date: Mon, 24 Feb 1997 10:33:05 -0800
+Message-Id: <v02130500af378dc2c8aa@[192.168.11.203]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

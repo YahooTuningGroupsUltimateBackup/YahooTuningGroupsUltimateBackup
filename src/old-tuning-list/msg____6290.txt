@@ -1,0 +1,109 @@
+source file: mills3.txt
+Date: Thu, 16 Oct 1997 22:32:17 +0200
+
+Subject: RE: how about 22et vs 19et ?
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Neil Haverstick did a nice job talking about 19et. That's partially
+because the existing musical terminology makes sense in 19et. Which
+means, essentially, that traditional ways of composing and performing
+music work in 19et. When 12et was adopted, 19et was a viable, known
+alternative (Salinas, Costeley) but 12et won out for convenience's sake.
+In 19et, most Renaissance, Baroque, and some classical music will sound
+great. But, as Neil points out, the diatonic b7ths are unbelievably far
+from forming nice 7-limit tetrads, so dominant sevenths (and arguably
+half-diminished sevenths) sound better in 12et than in 19et.
+
+What Neil doesn't point out, and what I would recommend he explore in
+his playing, is that using the #6th instead of the b7th leads to a much
+better set of septimal intervals. For example, in 12et, playing a B and
+an F together is ambiguous as to whether the root is G or C#. In 19et,
+the root is much more clearly C#, while a B and an E# will evoke a root
+of G. It sounds to me like Neil, when playing a blues in G or D, is
+sticking to the diatonic F in some places where an E# might be much more
+consonant. I very often hear blues or pop music which, if transposed to
+the key of D, uses a septimal E# over the G (IV) chord, and slightly
+less often I hear the #6 over the I chord. Weighing against the
+acoustical superiority of the #6th is the familiarity and symmetry of
+the traditional diatonic scale, and the fact that 19et's 7-limit
+intervals often deviate from JI in the opposite direction than 12et's
+approximations of the same intervals, leading to a very strong initial
+"that's out-of-tune" reaction.
+
+31et is just like 19et but more so (i.e., 7-limit intervals based on the
+augmented sixth chord are nearly just; those based on the diatonic b7
+are worse than 12et but not as bad as the same in 19et.) It also has
+great 11-limit approximations.
+
+22et is completely non-traditional. The fact that the product of four
+perfect fifths does not approximate a 5:1 ratio throws a wrench into the
+works. You have to scrap the usual notions about how to tune the guitar,
+scales, chords, and keys (not to mention repertoire!), or at least
+retreat to a much more bare-bones set of definitions in order to build
+an understanding of the tuning back up. You can read my paper on John
+Starrett's web site to see at least one approach. 34et is
+non-traditional as well, but the inequality between major and minor
+whole tones is much less noticeable than in 22et, and making a "comma"
+adjustment, often necessary when trying to force traditional chord
+progressions into non-traditional tunings, is more disturbing when the
+adjustment is as large as 1/22 octave.
+
+So 22et forces you to abandon much of what you have learned about how
+music works. It has much better 7-limit approximations than 19et, and
+will even get you as close to the 11-limit as Harry Partch's own voice
+could (max. error 20.1 cents). 34et is not consistent beyond the
+5-limit.
+
+15et and 27et are also nice, non-traditional tunings. 26et is
+"traditonal" in a sense but turns 12et's deviations from 5-limit JI
+upside-down. 26et's leading tone of 138 cents (3/26 oct) is certainly
+unusual-sounding, and it can even sound better to use a harmonically
+false leading tone to get a more familiar interval of resolution (92
+cents or 2/26 oct). But 26et has a nice way of introducing 7-limit
+harmony (two diatonic scales tuned a half-octave apart will each contain
+the 7-limit completion of all of the other's 5-limit triads!) and is
+even consistent through the 13-limit. Finally, 29et is worth considering
+since it is consistent all the way through the 15-limit.
+
+If you want to get really non-traditional, try 24.6063et, which gives
+you great approximations of all ratios of odd numbers through 13, but
+forget about even numbers!
+
+As for fingering, it does help if you already have calloused fingers,
+otherwise your finger will just mash over several frets and probably
+dampen the string's vibrations somewhat. You need to get some hardened
+part of your fingertip (or side) to press the string down between two
+frets, and that can be a lot easier on an electric guitar, since the
+tension and action are lower. Don't expect to be able to pull off your
+usual set of flashy licks and tricks without a long period of slowly
+re-training your fingers.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  jpff@maths.bath.ac.uk
+Subject:  Re: Music Notation Software & Synth query
+PostedDate:  17-10-97 13:37:38
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  17-10-97 13:36:58-17-10-97 13:36:59,17-10-97 12:37:41-17-10-97 12:37:42
+DeliveredDate:  17-10-97 12:37:42
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256533.003FCB6B; Fri, 17 Oct 1997 13:36:48 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19672; Fri, 17 Oct 1997 13:37:38 +0200
+Date: Fri, 17 Oct 1997 13:37:38 +0200
+Message-Id: <9710171137.AA19672@ns.ezh.nl>
+Received: from ella.mills.edu by ns (smtpxd); id XA19680
+Received: (qmail 21221 invoked from network); 17 Oct 1997 04:37:21 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Oct 1997 04:37:21 -0700
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

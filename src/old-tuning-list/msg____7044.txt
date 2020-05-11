@@ -1,0 +1,82 @@
+source file: mills3.txt
+Date: Fri, 16 Jan 1998 15:08:41 +0100
+
+Subject: Negative IQ of sender (POL)
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+John Loffink wrote:
+
+> > >Increasing the number of "Partials" will not solve your problem,
+> > >because you'll have a new one -- the sampler's internal RAM will
+> > >not have enough storage to handle the increase.  Program parameters
+> > >are most likely to be stored in 64K to 512K local RAM inside the
+> > >unit, not your 32M to 128M sample RAM.  If you now ask
+> > >manufacturers to increase the local RAM just for microtonal
+> > >support, I can tell you that none of them will do it because that
+> > >increases the price of the hardware.
+
+And I, like a complete twonk, completely mis-read what he'd said.
+For some unknown reason I thought he was saying that more 'partials'
+would eat into available sample RAM, rather than system/program RAM
+(or ROM?).  This puts into question the positive rating of my IQ and
+my ability to read plain English.  So I'm very sorry for the
+redundant explanations  in the last digest.  And John, contrary to
+what I said, wasn't remotely wrong.
+
+John wrote:
+
+>>>  My points are 1) for
+> > >microtonal scales to be implemented in mass produced instruments it must be
+> > >economically realistic for the manufacturers to do so, and 2) for microtonal
+> > >scales to be used by non-specialists it must be as easy as possible for them
+> > >to be changed.  You can't accomplish either of these by defining microtonal
+> > >scales at the "Partial" or zone level.
+
+I wrote:
+
+> I agree entirely with the general points 1 and 2.  I'm unconvinced
+> however about the last sentence of this paragraph.
+
+John's reasoning is:  to greatly extend the number of
+'partials'/zones available would take up too much system memory,
+causing the cost of the unit to increase too much.  That seems
+suprising - but it may be true (?)
+
+Except that, as I understand, the E4 does not have this architectural
+feature (ie., more 'partials' do eat into sample RAM, they certainly
+did on the EIII).   The drawbacks on the E4 are rather : cost, tuning
+resolution, speed of setting up the zones/samples for ATS.
+
+Apologies again for my inability to read..........
+
+Patrick Ozzard-Low
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  DMB5561719 <DMB5561719@aol.com>
+Subject:  New reviews at Juxtaposition Ezine
+PostedDate:  16-01-98 15:27:38
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  16-01-98 15:27:43-16-01-98 15:27:43,16-01-98 15:26:47-16-01-98 15:26:47
+DeliveredDate:  16-01-98 15:26:47
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658E.004F6EF6; Fri, 16 Jan 1998 15:27:37 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02598; Fri, 16 Jan 1998 15:27:38 +0100
+Date: Fri, 16 Jan 1998 15:27:38 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA30020
+Received: (qmail 28737 invoked from network); 16 Jan 1998 06:27:34 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 Jan 1998 06:27:34 -0800
+Message-Id: <63079538.34bf6d75@aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Mon, 18 Dec 1995 17:52:30 -0800
+
+Subject: A program for the optimization of 12 tone tunings
+
+From: Jeff Welty <jwelty@wdni.com>
+
+I hammered out a program this afternoon to optimize 12 tone tunings.
+
+It is written entirely in C, and while it uses a routine from
+numerical recipes (fortran edition), I believe it is not in violation
+of any copyright laws to distribute the code.
+
+What I have for input is a table of interval values desired (in terms
+of frequency ratios), weights for those intervals, and also 12 note
+weights.
+
+The output is cents for each note, and a error table of intervals achieved
+by the optimization minus the intervals desired.
+
+If anyone is interested in this program I can mail the source code (365 lines).
+and a sample input file.  It is still not user-friendly, so I'm really thinking
+the best next step at this point is if someone would like to evaluate it
+for potential use  and also just how good a job it does.
+
+I'm still quite a newbie at this tuning stuff, so I'm sure I've missed something
+somewhere on the internet, but it's at least been personally valuable for me up to now.
+(actually only took 2 hours to throw the code together, already had the optimization
+piece in another project).
+
+Anyone interested?
+
+ Jeff Welty            <weltyj@wdni.com> 
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Dec 1995 03:19 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA20456; Mon, 18 Dec 1995 18:19:28 -0800
+Date: Mon, 18 Dec 1995 18:19:28 -0800
+Message-Id:  <9512181814.aa08671@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

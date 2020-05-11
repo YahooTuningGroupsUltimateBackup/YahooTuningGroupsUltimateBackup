@@ -1,0 +1,102 @@
+source file: mills2.txt
+Date: Sun, 24 Nov 1996 14:13:24 -0800
+
+Subject: Re: Thoughts on Brian M's Non-Octave Thoughts
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+(Gag!  This is the third time I've written this message;  CompuServe
+Information Manager keeps kicking the bit-bucket on me.  This message only
+though.  Weird...)
+
+   First of all, let me acknowledge right off that Brian has experience with
+more nonoctave tunings than I do.  My nonoctave experience is mostly limited to
+88CET tuning, although my experience with 88CET is fairly significant.  
+
+
+Regarding coming close to an octave being sufficient to elicit the feeling of
+octave equivalence:
+   I absolutely agree with that, but I'd like to add that it doesn't 
+   necessarily mean that it will sound like a CORRECT octave.  Best I've been 
+   able to see, speaking in very overgeneralized approximations, an interval
+   within about 75 cents of an octave will sound like an octave rather than 
+   having a musical meaning of its own.  And if it's more than, say, 10 cents
+   off from a proper 2:1, it will sound pretty dreadfully out of tune.  That 
+   too is a big overgeneralization, and both of those generalizations apply 
+   only to approximately-harmonic timbres.  
+
+   On a related note, Paul E recently pointed out that neither he nor I have 
+   been able to get a pitch-classing effect from a P12 (3:1).  I may have
+   inadvertently misrepresented my findings there.  That is certainly true 
+   when it comes to compounding intervals by a twelfth, meaning that I haven't
+   been able to find much similarity between, for example, a major third and a
+   major fourteenth.  I have, however, been able to get a sense much like that
+   of leading-tone resolution to other intervals, including the P5.  In doing
+   that though, I have to avoid the tuning's closest representations of an 
+   octave, because aluding to the octave almost immediately destroys the sense
+   the P5, or whatever, is the most "basic" interval.  
+
+
+Regarding Enrique Moreno's (or Brian's attribution of Enrique Moreno's) view
+that using traditional interval nomenclature for non-octave tunings' pitch
+relationships:
+   I can certainly see value in avoiding them.  When I was in the throes of 
+   devising my 88CET notation system, I initially devised an 88CET-specific
+   interval nomenclature, but later decided that there really wasn't a whole
+   lot of value to it, and that it was more likely to confuse than enlighten.
+   But certainly a strong case can be made for avoiding classifying some 
+   intervals in terms of traditional nomenclature.  9:7 is probably in that 
+   category, in that it somewhat stretches the boundary between thirds and 
+   fourths.  I find it to be more clearly a third than a fourth, but there are
+   certainly some contexts where it clearly has a fourth-like sound.  One is
+   the scenario where you let a pickup note rise by a 9:7 into the opening
+   downbeat in a moderate-to-fast-tempo melody.  That is probably a case of 
+   social conditioning:  it probably gives that fourth-like sensation (or it 
+   often does for me anyway), because that's a VERY common melodic use for a 
+   P4.
+
+   But that brings to mind the first of two caveats to accepting Enrique's 
+   view that traditional nomenclature shouldn't apply to nonoctave tunings.
+   Is this sort of social conditioning (this sort of sensation is a third, 
+   this sensation is a fifth, etc.) hopeless to try to overcome?  It is 
+   certainly deeply engrained.  
+
+   My other caveat is that this sort of motivation for not applying traditional
+   interval nomenclature to non-octave tunings' resources is not in any 
+   specific to non-octave tunings.  Any tuning that 9:7s (again, as an example)
+   may benefit from avoiding classifying that interval as a third or a fourth.
+   If his concern in particular is that you need to come up with a new set of
+   interval nomenclature based upon the interval and its non-octave duplicates
+   (e.g., coming up with a name for the sensation of Pierce-Bohlen's 9:7 and 
+   its 3:1-displaced equivalent, then I personally would be skeptical about 
+   the value in that, because I have only managed to get a pitch-classing 
+   effect from other intervals in very limited ways.  But then again, that may
+   be partly due to the fact that, like Carlos' Alpha and Beta tunings, 88CET
+   doesn't really have a natural interval of repetition (although its 7:4, 
+   3:2, 5:2, and 8:1, in order of decreasing preference, are good candidates).
+
+
+Regarding Brian's question about how one goes about determining a non-octave
+tuning's most consonant interval:
+   Brian approached the question, appropriately I'd say, in terms of what 
+   intervals work for doubling.  In that regard, I have found that intervals
+   that work for doubling are heavily dependent upon the intervals in the 
+   original chord.  In particular, most any interval that is "bland" compared
+   to the other intervals in the chord seems to work fairly well for doubling.
+   Even intervals as flavorful as a 5:2 seem to produce a quite satisfactory
+   doubling effect for chords whose harmonies are comparatively complex, like
+   7:6s or 11:9s for example.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 24 Nov 1996 23:12 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06177; Sun, 24 Nov 1996 23:14:25 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06239
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA22606; Sun, 24 Nov 1996 14:14:22 -0800
+Date: Sun, 24 Nov 1996 14:14:22 -0800
+Message-Id: <961124221020_71670.2576_HHB43-8@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

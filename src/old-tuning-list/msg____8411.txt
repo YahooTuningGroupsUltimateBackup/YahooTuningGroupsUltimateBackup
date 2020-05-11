@@ -1,0 +1,99 @@
+source file: m1514.txt
+Date: Tue, 25 Aug 1998 14:41:07 -0400
+
+Subject: RE: XH 17: n-tet's and harmony
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Margo,
+
+Thanks for all the good press in your fine article -- I'm glad you found
+my work interesting. There seems to be some inconsistency in your usage
+of the word "limit". You appear to define the word thus:
+
+>In describing just intonation systems, it is common to refer to the
+>most complex prime number used in generating the intervals of a given
+>system as its "n-limit."
+
+But then you speak of a non-prime, 9, as a limit:
+
+>Since the time of Debussy, more complex sonorities have been accepted
+>as stable: for example, tetrads such as the "added sixth" (12:15:18:20
+>in one possible 5-limit tuning) and "minor seventh" (12:14:18:21 in a
+>9-limit tuning).
+
+The prime limit of the first chord is indeed 5, but that of the latter,
+7. However, as some of us have discussed before, there can be two
+equally useful concepts, an odd limit (closer to Partch's usage and
+useful for describing sonorities) and a prime limit (useful for
+describing resources of JI systems). The chords 12:15:18:20 and
+12:14:18:21 are what I call the two "saturated 9-limit tetrads," since
+all the intervals in each chord are ratios of 9 or less, and no notes
+can be added to either chord without increasing the odd limit, and there
+are no other chords with these properties. (Incidentally, both chords
+can be called minor seventh chords, as the first is octave-equivalent to
+10:12:15:18.) This type of chord seems to have been missed by Partch,
+who may not have realized that utonalities and otonalities are not the
+only possible saturated chords for odd limits 9 and up. So perhaps you
+were thinking of the odd limit of the second chord, and the prime limit
+of the first chord?
+
+But then you go on to say,
+
+>Similarly, in Gothic style, a combination of three superimposed thirds
+>(e.g. e-g-b-d') may resolve to a stable 3-limit sonority (e.g. f-c');
+>in triadic harmony, it may resolve to a 5-limit sonority; in 7-limit
+>harmony, it may serve as a stable tetrad.
+
+Now any chord that could be notated as e-g-b-d' cannot be a stable
+tetrad if the odd limit is 7, so you must be back to the prime limit
+definition and thinking of 12:14:18:21, or you should have said 9
+instead of 7, in which case you could have meant either 12:14:18:21 or
+10:12:15:18.
+
+On another point, you wrote,
+
+>The striking "neo-late-Gothic" feature of 22-tet is its drastically
+>contrasting versions of intervals I will here call in traditional
+>fashion thirds and sixths, although Erlich's decatonic nomenclature is
+>well worth studying and may give a better insight into the scale's
+>structure
+
+When discussing neo-late-Gothic applications of the tuning, there is no
+need to consider the decatonic nomenclature; it is quite irrelevant. The
+conventional (heptatonic) nomenclature predates any kind of equal
+temperament and is not "derived from" or "most natural for" any ET; on
+the contrary ETs (12, 19, 31) were developed to conveniently quantize
+the ideas of composers using this nomenclature. Similarly, there has to
+be a decatonic corpus (opus?) before that nomenclature can be useful; in
+no way does 22-tET alone suggest or require it. It is true that I found
+the decatonic scales in 22-tET, and 22-tET is very nearly the best
+tuning for them. But as you demponstrate, the "Xeno-Gothic" paradigm can
+suggest 22-tET just as strongly as the "hyper-diatonic" paradigm that
+spawned the decatonic scales, and for the former case, some form of
+Pythagorean notation is clearly more appropriate.
+
+An easy way to get a feel for these and other possibilities on almost
+any retunable synth is to use a 12-out-of-22 tuning where E-F and B-C
+are 1/22 oct intervals and all the rest are 2/22 oct. Then:
+
+1) The white keys are a "Pythagorean" diatonic scale
+2) The black keys are a "Pythagorean" pentatonic scale.
+3) All thirds and sixths formed by two keys of the same color are
+"regular" and approximate ratios of 7 or 9.
+4) All thirds and sixths formed by two different-colored keys are
+"schismatic" and approximate ratios of 5.
+5) A major, A-flat major, C minor, and C-sharp minor give approximate
+5-limit just intonation, in a fashion analogous to the late Gothic
+keyboard tuning.
+6) Decatonic scales as in my paper can be formed by omitting C and F, B
+and F, or B and E.
+7) The interval B-f approximates 11:8 with an error of 6 cents and
+sounds good in the chord B-a-b-eb'-f, which approximates 4:7:8:10:11. It
+is interesting to resolve this interval by contrary motion through the
+very incisive 1/22 oct intervals to c-e. The latter interval is
+approximates a 9:7 with an error of 1 cent and is therefore more stable
+than B-f. 9:7 sounds like a traffic noise to most people unless supplied
+with a context, such as D-Gb-A-c-e, which approximates 4:5:6:7:9.
+
+-Paul

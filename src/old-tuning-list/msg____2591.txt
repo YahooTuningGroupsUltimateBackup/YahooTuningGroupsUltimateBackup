@@ -1,0 +1,51 @@
+source file: mills2.txt
+Date: Wed, 28 Feb 1996 08:08:50 -0800
+
+Subject: Re: 7:4 as a structural interval
+
+From: Gary <71670.2576@compuserve.com>
+
+Kerr Jamieson asks:
+
+> >Re Mr. Tsuji's question "Can we meet the fifth somewhere?" If I understand
+> >this to mean "will some number of 7:4's = some number of 3:2's," the answer
+> >is "not in JI."
+> 
+> Surely seven of the one is half-a-dozen of the other in any context?
+
+   I think that David Doty's point is that a stack of 7:4s atop one another
+never produces any composite interval exactly the same as any interval produced
+by a stack of 3:2s, no matter how high you pile up either stack.  
+
+   You can think of it as a little like a ruler with inches on one side and
+centimeters on the other.  It seems like no even centimeter mark ever exactly
+aligns with any even inch mark, other than at the zero-point of ruler of course.
+(Actually, you will find two that exactly align if you had a 2.54m-long ruler.
+But in the case 7:4s and 3:2s, they will absolutely NEVER exactly align.)
+
+   That's similar with the fact that a circle of just perfect fifths never
+exactly closes.  No power of 3:2 is ever exactly equal to any power 2:1.  As it
+happens, a stack of seven octaves is not far from a stack of twelve fifths, the
+error being the Pythagorean comma (about 23.5 cents).  The basis for 12TET
+tuning is that you can distribute that error evenly across all those fifths and
+land exactly on seven octaves up.  But those would no longer be exact 3:2s
+anymore.  
+
+   And, as it turns out, a stack of eight 7:4s is about as tall as a stack of
+eleven 3:2s, the error being about 29 cents out of about 7750 cents.  If you
+approximate those ratios as does 88CET tuning (7:4 at 968 cents rather than
+968.826 cents, and 32 at 704 cents rather than 701.955 cents), the two stacks
+end up the same height.  But as with the circle of fifths, those are no longer
+exact representations of 7:4 and 3:2 harmonies.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 28 Feb 1996 17:30 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA18141; Wed, 28 Feb 1996 08:30:01 -0800
+Date: Wed, 28 Feb 1996 08:30:01 -0800
+Message-Id: <Pine.3.89.9602281255.A28144-0100000@ra.isisnet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

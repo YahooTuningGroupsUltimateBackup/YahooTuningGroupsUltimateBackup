@@ -1,0 +1,91 @@
+source file: mills2.txt
+Date: Tue, 13 Aug 1996 12:16:58 -0700
+
+Subject: RE: TUNING digest 802
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Paul R,
+
+What symbol did I use multiply?
+
+>> Here's a definition of consistency: Given an odd number n, an 
+octave-based
+>> equal temperament is consistent within the n-limit if, for any odd 
+numbers
+>> a, b, and c such that 0<a<b<c<=n, the number of steps that best
+approximates
+>> a:b plus the number of steps that best approximates b:c is equal to the
+>> number of steps that best approximates a:c.
+
+>Multiple uses of the same symbol make this confusing or actually
+>impossible to figure out. Thanks, though, for the earlier references.
+
+I'd be happy to clear this up, but I don't see what your complaint is 
+directed at.
+
+>> Exactly. Here's the implicit derivation of your strict mathematical
+>> definition: the syntonic comma is (3:2)^4/(5:4) (ignoring octaves);
+>> therefore the best syntonic comma is 4 times the best perfect fifth minus 
+
+>> the best major third, mod the number of notes per octave. Another, just 
+as
+>> musically relevant and just as mathematically strict, definition would 
+be:
+>> the syntonic comma is (3:2)^3/(5:3) (again ignoring octaves); therefore 
+the
+>> best syntonic comma is 3 times the best perfect fifth minus the best 
+major
+>> sixth, mod the number of notes per octave. If the two definitions lead to 
+a
+>> conflict, I see no reason one should take precedence. Therefore, in such
+>> cases, there is no "best" syntonic comma.
+
+>Perhaps someone else would like to explain the precedence of 1:5 over
+>3:5. It's fairly clear to me, which does not invalidate attempts to base
+>a system on 3:5. I don't know whether something could be concocted to
+>include both in all cases.
+
+That's precisely the point. In a case, like 20tet, where the two approaches 
+lead to different results, then the tuning is simply not compatible with a 
+
+just-intonation view. Defining a "best" size for the syntotic comma is 
+futile in such systems. The precedence of 1:5 over 3:5 seems consistent with 
+an Euler-Fokker, or square lattice, philosophy but not an Erv Wilson, or 
+triangle lattice, philosophy. I have investigated the relationship between 
+the two approaches in terms of lattices and made some geometrical 
+discoveries in the process. Both approaches extend to any number of 
+dimensions -- perhaps I'll write a paper on this someday. Paul, I guess your 
+notation system succeeds within the Euler-Fokker philosophy, but I lean 
+towards a more egalitarian one.
+
+> >The method . . . . also allows for an improvement in Blackwood's 
+notations
+>> in a few cases.
+
+>Blackwood's notation for 16, 18, and possibly a few others isn't
+>consistent in potential use on all steps of the tuning. (I haven't his
+>work at hand as I write this.) Examining the scales he writes out at the
+>beginning of each piece in the 12 etudes should show what I am getting
+>at.
+
+Ah, I'll bet this derives from his desire to preserve standard notation of 
+diminished scales. See his PNM article.
+
+ -Paul E.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 14 Aug 1996 01:19 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03952; Wed, 14 Aug 1996 01:19:20 +0200
+Received: from sun4nl.NL.net by ns (smtpxd); id XA03950
+Received: from eartha.mills.edu by sun4nl.NL.net with SMTP
+	id AA13286 (5.65b/CWI-3.3); Tue, 13 Aug 1996 18:26:58 +0200
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA14868; Tue, 13 Aug 1996 09:25:37 -0700
+Date: Tue, 13 Aug 1996 09:25:37 -0700
+Message-Id: <v01510100ae365a26443d@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

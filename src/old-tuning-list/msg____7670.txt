@@ -1,0 +1,9 @@
+source file: m1405.txt
+Date:     Tue, 5 May 98 12:06:59 BST
+
+Subject: Re:  Csound
+
+From:     J P Fitch <jpff@maths.bath.ac.uk>
+
+I think I fixed the bug with rounding for cpsxpch but I will check.
+==John

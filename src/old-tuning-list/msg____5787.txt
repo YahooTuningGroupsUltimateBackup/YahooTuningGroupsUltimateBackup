@@ -1,0 +1,66 @@
+source file: mills2.txt
+Date: Tue, 8 Jul 1997 19:51:10 +0200
+
+Subject: Re: Octave invariance
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+David Finnamore wrote:
+
+>How so?  The way I larnt it, a simple C major triad in root position consists
+>of a minor third stacked on top of a major third.  In first inversion, it
+>consists of a perfect fourth stacked on top of the minor third.  In second
+>inversion it's that perfect fourth with the major third stacked above it.
+> From what perspective are those the same set of intervals?
+
+Um, yes.  Technically there are six intervals in a major root position
+triad: plus a major third, plus a minor third, plus a perfect fifth,
+minus a major third, minus a minor third and minus a perfect fifth.
+In octave equivalent terms, minus a fifth is the same as plus a fourth.
+In these terms, then, all inversions of a major triad contain the same
+intervals.  I had overlooked the obvious simplification of only taking
+positive intervals and this does, indeed, distinguish simple inversions.
+However, in the specific method David mentions the chords C-E-G-C, E-G-C-E
+and G-C-E-G have identical dissonance.  I consider this to be a problem.
+Taking all positive intervals, the first chord can be distinguished from
+the last two (it's all in the sixths) which is less of a problem.
+
+My mention of utonal/utonal degeneracy betrays some muddy thinking
+on my part.  What I meant is that a major triad has the same
+intervals as a minor triad.  This is a completely different issue
+to inversions and octave equivalence, and I shouldn't have mentioned
+it in that context.
+
+What I mean by a "privileged root" is taking one note from the chord,
+calling it the root, and treating it in a privileged way when you
+analyse the chord.  In traditional harmony, the root of an x major
+or minor chord is x.  It is considered that a chord is more
+consonant if the root is the lowest note and the root is the most
+common note in the chord.  The problem with privileged roots in
+general is that you have to specify why one note in particular should
+be the root, and why it should have that privilege conferred upon it.
+
+The best way, IMHO, of having octave invariance without inversional
+invariance is to take the lowest note in the chord to be the root,
+and measuring only positive intervals that include it.  Hence,
+C-E-G-C contains a major third, perfect fifth and perfect unison
+(octave invariant octave).  This is a sensible simplification,
+distinguishes all simple inversions of major and minor triads and
+tetrads, and is in good agreement with traditional harmony.  A
+fundamental theory, though, has to explain why this approximation
+works.  Although I don't know of such a theory, it would have to be
+octave specific.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 9 Jul 1997 01:11 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22258; Wed, 9 Jul 1997 01:11:38 +0200
+Date: Wed, 9 Jul 1997 01:11:38 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA22294
+Received: (qmail 8339 invoked from network); 8 Jul 1997 23:11:32 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Jul 1997 23:11:32 -0000
+Message-Id: <970708191023_-892188239@emout06.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

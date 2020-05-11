@@ -1,0 +1,43 @@
+source file: m1587.txt
+Date: Thu, 19 Nov 1998 15:05:53 -0800
+
+Subject: MOS and Rothenberg
+
+From: Carl Lumma <clumma@nni.com>
+
+I've been pondering the relationship between the MOS and Propriety concepts
+recently.  So I'm posting some questions to frighten and amuse.  I'm aware
+that Clough formalized a lot of the MOS stuff, but I wouldn't know where
+(or what) to get of his work.  Also, I'm not sure how best to get
+Rothenberg's work...
+
+>>has "stability" of 1.0 and "efficiency" of .7407.
+>
+>Shame on me, but I don't even know what these measure signify.  Help,
+>please.
+
+Or if the definitions of these terms appear in his 1969 paper "A Pattern
+Recognition Model Applied to the Perception of Pitch".  Frog Peak or
+somebody ought to distribute this stuff.  So the following is based only on
+correspondence with Wilson, and Chalmer's excellent XH3 article "The
+Application of Rothenberg's Pattern Recognition Model to the Structure of
+Tetrachords and Tetrachordal scales" (and its version appearing in
+Divisions of the Tetrachord)...
+
+1. If A and B are the two unique interior intervals of a MOS, then Chalmers
+has given that the scale is improper when A/B > 2 or < 1/2, proper when A/B
+= 2 or 1/2, and strictly proper when 1/2 < A/B < 2.  But can anyone give a
+formula that gives the propriety of a MOS using just its generator and
+interval of equivalence, and show why it works?
+
+2. Can a proper scale with one and only one ambiguous interval in each mode
+exist?
+
+3. What about a proper scale with one and only one ambiguous interval in
+each interval (steps) class?
+
+4. Can somebody show a method for finding which tunings will support a
+given rank-order matrix?  Preferably one that works on both just and equal
+step scales?
+
+Carl

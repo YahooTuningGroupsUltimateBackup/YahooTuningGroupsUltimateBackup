@@ -1,0 +1,157 @@
+source file: mills2.txt
+Date: Sat, 1 Mar 1997 15:24:17 -0800
+
+Subject: Re: natural music
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+Paul Hahn <Paul-Hahn@library.wustl.edu> wrote:
+ "Ray: have you read "The Year of the Jackpot" by Heinlein?
+ If not, I strongly recommend it."
+
+I have read a few Heinlein but not that one.  I will have a look for it
+thanks.
+
+To continue the story about nature's music, after visiting the Cycles
+Foundation and finding that others before me had also find that cycles
+in many things seemed to have periods that were harmonically related I
+gradually developed a theory which would explain this.  It also turned
+out to make a lot of valid predictions about the universe at large.
+
+On my WWW site (at the URL in sig block) I explain the harmonics theory
+which lead to explaining these observations.  I will give a brief
+outline here which is oriented towards music and which will tell us
+something about tuning systems.
+
+Imagine an instrument which when it is plucked (or struck or blown or
+whatever) produces some fundamental frequency plus all of its harmonics.
+The higher order harmonics will have less energy in them.  Now imagine
+that over time each harmonic loses energy to its harmonics.  For the
+curious, this is caused by a non-linearity in the wave equation and only
+happens in a 3D wave so will not happen in a string for example).
+
+So what goes on is this, energy is transferred as follows:
+
+Frequency --> harmonics
+
+1 --> 2  3  4  5  6  7  8  9 10 11 12 13 14 15 ...
+2 -->       4     6     8    10    12    14   ...
+3 -->             6        9       12       15 ...
+4 -->                   8          12         ...
+5 -->                        10             15 ...
+6 -->                              12         ...
+7 -->                                    14   ...
+.. etc etc
+
+So what is happening here is that some harmonics are receiving energy
+from multiple different paths, in particular 12 gets lots of energy,
+while other harmonics such as 11 and 13 receive very little.  The
+resulting energy pattern depends totally on how many ways each harmonic
+number can be factorised.
+
+When calculations are carried out to higher numbered harmonics an
+interesting pattern develops.  These calculations can be carried out by
+a very simple BASIC program:
+
+n = (highest harmonic number)
+dim x(n): x(1)=1
+for i=1 to n/2
+  for j=i*2 to n
+    x(j)=x(j)+x(i)
+  next j
+next i
+
+and the results are now in the x array and may be printed.
+
+The accurate details of the patterns generated can be seen at:
+http://www.kcbbs.gen.nz/users/rtomes/rt-ha-no.gif Harmonics to 1000000 
+http://www.kcbbs.gen.nz/users/rtomes/rt-hanox.gif Harmonics 2 to 288 
+http://www.kcbbs.gen.nz/users/rtomes/rt-hanoy.gif Harmonics 288 to 69120
+but for those who don't have WWW access here is a rough ascii
+reconstruction of the relative harmonic energy for the strong harmonics
+between 48 and 96:
+
+---------------------------------------------  48
+----
+---------------------  54
+--------------------  56 
+------------------------------------  60
+--------------------------  64
+---
+------------------------------------------  72
+---
+---------------------------  80
+-------------------------  84
+-----------------------  90
+-------------------------------------------  96
+
+Now a tuning person will instantly recognise the relationships present.
+The 4 strongest harmonics are 48-60-72-90 or a major chord with ratios
+4:5:6:8 and the just intonation scale is present as double the
+traditional 24:27:30:32:36:40:45:48 ratios.  However there are two
+additional values which are quite strong and these 56 and 84 which put
+the ratios 28 and 42 in the just scale so as to allow a couple of good
+dominant 7th chords with ratios 4:5:6:7:8.
+
+There are additional weaker harmonics between these strong ones and I
+have investigated indian music which has extra notes and found that
+these extra notes are where they would be expected by the harmonics
+theory.
+
+At higher harmonics this pattern is repeated with variations.
+I was going to write "minor variations" but realised that "minor" would
+have a different connotation.  There are also examples of minor keys to
+be found, such as the range 1440 to 2880:
+
+-------------------------------------  1440
+----
+----
+--------------------------------  1728
+---
+---------------------------  1920
+-----------------------  2016
+------------------------------  2160
+----------------------------  2304
+----
+-----------------------  2688
+---
+-----------------------------------------  2880
+
+Here the strongest harmonics are 1440-1728-2160-2880 which is a
+10:12:15:20 tuning.
+
+The predicted pattern of harmonics by this very simple rule is found to
+very rich and to have many interesting musical meanings present.  The
+pattern is characterised by many ratios of 2, lots of ratios of 3 and
+lesser still of 5 and 7.  Although the other primes do appear as ratios
+they do so very seldom.
+
+Also, as we move up the harmonics scale we find that the key keeps
+changing.  After every 2 or 3 ratios of 2 (2.38 on average) the key
+shifts by a ratio of 3 and so that means that every about every 4
+octaves (including the 2.38 and 1.585 from the 3) there is a shift to
+the dominant.  At still larger intervals there is a key shift by a major
+third.  It is at these points that minors appear.
+
+The above patterns also match closely to the pattern of cycles found by
+Dewey.  From this pattern I have calculated what periods should exist
+for longer and shorter cycles and found that I get the right answers
+even for long geological cycles of ~600 million years.  I am quite
+convinced that the universe is a giant musical instrument oscillating in
+the pattern that I described.
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 2 Mar 1997 11:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01875; Sun, 2 Mar 1997 11:11:16 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01825
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id CAA13929; Sun, 2 Mar 1997 02:09:28 -0800
+Date: Sun, 2 Mar 1997 02:09:28 -0800
+Message-Id: <33194CE1.70FA@cavehill.dnet.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

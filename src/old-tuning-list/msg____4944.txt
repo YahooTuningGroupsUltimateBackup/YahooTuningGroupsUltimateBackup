@@ -1,0 +1,69 @@
+source file: mills2.txt
+Date: Sun, 2 Mar 1997 07:26:32 -0800
+
+Subject: Major tonic endings
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Paul Erlich wrote:
+
+>>'' Pieces in minor tended to end with a Picardy (major tonic) chord in
+the
+>>days
+>>when the minor triad was tuned 10:12:15.''
+
+I asked:
+
+>Can you identify ''those days'' with any exactitude?
+
+He responded:
+
+''No, there is no single set of dates. I would say Renaissance through
+Middle 
+Baroque. Well-temperaments brought the 16:19:24 tuning into currency in the
+
+Late Baroque period. Please don't make this into another black-and-white 
+issue, I'm trying to explain tendencies, not impose rules. Having played in
+
+these tunings during the 20th century, I can't give experimental proof that
+
+my own tendencies in this regard are similar to historical ones
+indepentenly 
+of having grown up bombarded with classical music on the radio (which 
+included some authentically-tuned performances of Renaissance music). But I
+
+feel them strongly.''
+
+The problem is that the ''Renaissance to Middle Baroque'' - I assume you
+intend a period between the last days of Pythagoreanism and the advent of
+well temperaments - is a time period where different intonations were in
+use simultaneously, depending largely upon instrumental resources and
+whether voices were accompanied or not.  The reasonable rule of thumb has
+been that fretted strings approximated equal temperament (Vincentino 1555),
+keyboards used some form of  meantone, and  voices, unfretted strings and
+winds either matched the temperament of continuo instruments or tended
+towards just intervals.  To attribute a harmonic figure like the tonic
+major ending to intonational practice is problematic in that the figure is
+present in all instrumental repertoires, without regard to tuning. Even if
+the figure were to have originated in a just or meantone environment
+(approximating /6:/5:/4) - and its obiquity in the lute repertoire speaks
+against this - the adoption into other tuning systems would have meant that
+the figure was frequently heard without the psychoacoustic effect that you
+claim. For this reason, I suspect that the figure became established as an
+affect independent of its precise intonation - and one whose archaicizing
+quality was already well established in the late meantone repertoire (hence
+Rousseau's label identifying the figure with gothic Picardie).
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 2 Mar 1997 16:56 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01972; Sun, 2 Mar 1997 16:56:53 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01984
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id HAA29782; Sun, 2 Mar 1997 07:54:59 -0800
+Date: Sun, 2 Mar 1997 07:54:59 -0800
+Message-Id: <199703021052_MC2-11F3-649D@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

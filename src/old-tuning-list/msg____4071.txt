@@ -1,0 +1,60 @@
+source file: mills2.txt
+Date: Tue, 19 Nov 1996 12:36:50 -0800
+
+Subject: Generalized Keyboard
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+All,
+    While searching the web with the phrase "MIDI controller" I came across
+the web page for Starr Labs.  They appear to already make a generalized
+keyboard.  Here is something I cut from their pages to paste here:
+
+"Uath-72 , Generalized Keyboard Specifications:
+
+(documentation under construction)
+The Uath-72 is the design of Erv Wilson who makes his home in Los Angeles,
+California. Mr. Wilson has made a forty-year study in the area of musical
+temperament which follows an ongoing thread of research and
+experimentation, really from the dawn of Western Music. The Uath-72 is a
+1990's rendition of the Bosanquet Generalized Keyboard built in the late
+19th century. Bosanquet's original design was a takeoff on the standard
+mechanical piano action, modified to present several ranks of keys
+organized in levels or tiers. Generally speaking, deviations in pitch from
+the standard 12-tone Equal Temepered pitches were organized into the
+successive ranks of black and white keys. A full discussion of the
+background of this instrument and the study of tunigs and temperament is
+beyond the scope of this paper. The modern electronic version of the
+keyboard configures the ranks into a flat 2-dimensional planar array of
+keys. The onboard computer, the MIDI interface and the availability of
+programmable synth engines all conspire to yield a truly programmable
+instrument which may be retuned with a button press or two rather than a
+week with a piano technician's tuning hammer!"
+
+ Their web address is http://www.catalog.com/starrlab/ for more
+information.  The information on this keyboard, also called the MicroZone
+can be found at http://www.catalog.com/starrlab/uzone.htm 
+
+I could never have found this and other valuable microtonal information
+without the web and the search engines therein.
+
+---Fred  
+
+--------------------------------------------------------
+ Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+ phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca
+---------------------------------------------------------
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Nov 1996 23:47 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18340; Tue, 19 Nov 1996 23:48:59 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA18182
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA23758; Tue, 19 Nov 1996 14:48:56 -0800
+Date: Tue, 19 Nov 1996 14:48:56 -0800
+Message-Id: <Pine.SCO.3.91.961119142856.21225E-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

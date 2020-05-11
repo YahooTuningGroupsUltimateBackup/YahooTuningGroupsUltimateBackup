@@ -1,0 +1,35 @@
+source file: m1410.txt
+Date: Fri, 8 May 1998 19:07:45 -0700 (PDT)
+
+Subject: ear architecture
+
+From: Jesse Bagshaw Gay <jgay@reed.edu>
+
+re: several things about the ear from several recent posts...
+
+one of my texts(Sensation and Perception, by Coren et al)  says:
+
+1. Individual neurons can fire up to 1000 time/sec.
+The volley theory says that groups of neurons cooperate in response to
+higher frequencies( for example, to
+represent 2000 Hz, 2 neurons could fire at 1000 Hz each, 180 degrees out
+of phase with each other) Such cooperation has been shown up to about 4000
+Hz.
+
+2. In general, there are two ways in which sounds are differentiated by
+the ear.
+
+a. Place theory:  The basilar membrane is shaped like a very long
+triangle.  Each region resonates at a different frequency.  Consequently,
+the place on the basilar membrane that gets most excited in response to
+any incoming sound wave provides information about the frequency.
+
+b.Frequency theory:  Individual neurons fire at the rate of the incoming
+sound.(Or groups, as per the volley theory.)
+
+The place theory does not hold below about 500 Hz, and the frequency
+theory does not hold above about 4000Hz.  Between 500 and 4000 hz, both
+mechanisms play a role.
+
+3.  Some kind of higher processing occurs which enables the brain to infer
+a fundamental from a set of sufficiently defined harmonics.

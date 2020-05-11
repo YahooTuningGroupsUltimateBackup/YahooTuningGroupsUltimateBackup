@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Fri, 23 May 1997 11:10:23 +0200
+
+Subject: RE: pure? / synth tuning
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>>-3986.313713865*LOG(C2/B2) [. . .]
+>Well, this last number converts from base ten to base two, and then
+>multiplies by 1200 to convert from octaves to cents.
+
+   To emphasize the point more strongly, I'd have stated it "this number
+NOT ONLY converts from base ten to base two, BUT ALSO multiplies by 1200 to
+convert from octaves to cents".
+
+   The number ONLY to convert from base 10 to base 2 (which describes a
+frequency multiplier as a number of octaves between the two pitches) is the
+reciprocal of the base-10 log of 2, which is roughly 3.322.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 23 May 1997 11:11 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08330; Fri, 23 May 1997 11:11:10 +0200
+Date: Fri, 23 May 1997 11:11:10 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA08332
+Received: (qmail 16267 invoked from network); 23 May 1997 09:11:07 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 May 1997 09:11:07 -0000
+Message-Id: <v01541102afaa7a9f4702@[207.207.3.181]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

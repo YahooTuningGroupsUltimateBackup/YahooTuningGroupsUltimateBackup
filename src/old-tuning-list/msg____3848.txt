@@ -1,0 +1,97 @@
+source file: mills2.txt
+Date: Sun, 27 Oct 1996 16:25:19 -0800
+
+Subject: Johnston's notation defended (again)
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Johnny Reinhard said (Sun, 27 Oct 1996):
+> An example of Ben Johnston's "conflicting directions" in his notation
+> would be an "F" with a combination of symbols in front of it: one symbol
+> might be to substract 70 cents, another to add 22 cents...and there could
+> even be a third.  Unfortunately, I cannot send the "actual" notation by
+> e-mail.  Suffice it to say that muddling over how to calibrate a pitch
+> through a succession of mathematical processes is unneccessary.  Cents
+> makes sense.
+
+These cents approximations must be: 70 cents down -- a flat sign; 22 cents up 
+-- a plus sign. Since an Fb+ is rather out-of-the-way, I'll show one way to 
+arrive at an Ab+ instead, since all we're interested in is the combination of 
+signs which shift the pitch in different directions. Here's one path through 
+the 5-limit lattice from C to Ab+, letter-names on the left, corresponding 
+ratios on the right:
+
+            Ab+   C+                  81/50    81/80
+                  F+                           27/20
+                  Bb    D                      9/5     9/8
+                        G                              3/2
+                        C                              1/1
+
+So, for instance, the player might be required to ascend a fifth (3/2) from C 
+to G, then a minor third (6/5) from G to Bb; this process is then repeated, 
+leading from Bb to F+ and finally to Ab+. Fifth, minor third, fifth, minor 
+third -- nothing more complicated. Where's an Ab without a plus sign then, 
+and what would that mean?
+               
+                Ab      C                     8/5       1/1
+
+The Ab without further inflections is the normal just minor sixth above the 
+C. An acquaintance with such lattices induces performers to think of the 
+different inflection signs as steps along different axes of the lattice and 
+not merely up or down a pitch continuum. Where are the conflicts then? 
+Nowhere, except in the eye of someone who takes pride in refusing to discover 
+how Ben Johnston's notation works. I'll assume that Johnny Reinhard is not 
+taking issue with the difficulty itself, but with what he sees as unnecessary 
+difficulty; but when a composer wishes that the performer should, as far as 
+possible, understand and hear the intervallic relationships in the 
+composition, then presenting the performer with cents deviations is no longer 
+an option (and deviations from what? -- who is able to intuit frequency 
+relationships based on 2^[1/12]?). Ben's notation is simply the one correct 
+notation for his own music; the application of this notational system outside 
+Ben's works can only be justified on the merits of individual cases. For 
+Partch, it is arguably successful, but there would be little point in 
+reworking, say, Xenakis's quarter-tones in any extended JI notation (in 
+general, building bridges between Ptolemaic and Aristoxenian territory is a 
+thankless, and usually pointless task).
+
+Cents notation, in any case, erects an equal-tempered default, which is the 
+last thing any JI composer would wish to invoke. So is Ben Johnston's 
+notation the perfect language of tuning into which all systems can and should 
+be translated? Not in the least. Is it the best system for Ben Johnston's 
+music, with the potential for successful application in many other areas 
+because of its consistency and lucidity? Yes.
+
+A parting comment on my own theoretical home ground: I've seen various 
+articles which purport to explain certain historic keyboard tunings; on 
+reading through them, I find that they never go beyond cents notation, which 
+cannot even begin to explain how the tunings were devised, which would 
+require a mixture of ratios and inflections by the roots of one or other 
+comma. The most cents notation can tell us in such circumstances is the 
+audible effect of the tuning, which is very well in itself, but empty of 
+explanatory content. Our lives would be very different today if the sciences 
+had remained on this level of incomprehending taxonomy.
+
+(And by the way: yes, that message to Adam Silverman was not intended for the 
+list -- the first time I've made the classic e-mail list slip; on one list I 
+received a message from a subscriber to his sister, asking for her advice on 
+the proposal of marriage he was about to make. Mine was slightly less 
+embarrassing, but bad enough.)
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 28 Oct 1996 17:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05292; Mon, 28 Oct 1996 02:09:35 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA07075
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id RAA12537; Sun, 27 Oct 1996 17:09:32 -0800
+Date: Sun, 27 Oct 1996 17:09:32 -0800
+Message-Id: <Pine.3.89.9610271940.A9804-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

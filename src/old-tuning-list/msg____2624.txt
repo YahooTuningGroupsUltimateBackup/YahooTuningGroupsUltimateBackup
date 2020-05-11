@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Mon, 4 Mar 1996 10:39:46 -0800
+
+Subject: Re:Proteus Tuning
+
+From: Flynn Cohen <fcohen@dcolarts.demon.co.uk>
+
+the Proteus E-MU Master Performance System Synthesizers we have at my college 
+have the very unfortunate disadvantage of tunability to only 
+64-divisions-per-semitone. This basically means that I have to calculate my 
+'cents' approximations of whole-number ratios to even more compromised figures 
+--e.g., the ratio of 7/4 can be represented as 969 cents, or 31 cents flat of a 
+theoretical tempered minor seventh; the proteus will then read that discrepancy 
+as 20/64ths of a semitone, etc. This process is utterly tedious, as well as 
+being insufficient in terms of deriving natural intervals (i.e., I  am forced 
+to tune by maths, rather than by ear).
+Do the Proteus' that you lot are using really tune in cents? How recent is your 
+equipment? etc., etc. I think I would do anything to get away from tuning the 
+way I do now (except for buying my own equipment, of course). 
+
+-Flynn Cohen
+ Dartington College of Arts
+ Devon, England.
+>fcohen@dcolarts.demon.co.uk<
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 4 Mar 1996 22:02 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA00015; Mon, 4 Mar 1996 13:01:49 -0800
+Date: Mon, 4 Mar 1996 13:01:49 -0800
+Message-Id: <0099ED9E6F07B2A1.D849@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,77 @@
+source file: mills2.txt
+Date: Fri, 4 Jul 1997 22:36:44 +0200
+
+Subject: Re: Definitions, pure fifths tuning
+
+From: "Richard Moody " <remoody@easnetsd.com>
+
+Ed Remler wrote...
+> 3. Mean Temperament has two general meanings. First it means a
+system of
+> tuning by fifths such that four ascending fifths and two descending
+> octaves make up a perfect third. It also means any one of many
+slight
+> variations about this basic system.
+> 4. Bach's WTC refers to a mean tempered clavichord; in particular,
+> well-tempered means mean tempered. Since the WTC starts in the key
+of C,
+> it seems that Bach's thought of mean tempered in terms of ascending
+> fifths started on C.
+
+Regarding the scheme (if I understand it right) of up four fifths and
+down two ocataves will give a pure third.  
+
+Using the notation that middle C c'   and tuning from the octave
+below, or c Tuning this on a piano gives a c - e  third that beats
+sharp by more than 5 beats per second, more like 7 or 8.  After
+trying two or three times and erring on the flat side for fifth going
+up and sharp octaves comming down, the c - e third was still sounded
+faster than the rate prescribed for ET  or 5.1-- bps.  
+
+To check against paper, using the ratio for the 5th or 3/2, or 1.5,
+and using A220, (a)  for conveince, four fifths gives a frequency of
+220*1.5^4 (as entered on the W95 calculator, OK so ^ is the x^y key)
+or  1113.75.   So two octaves down or /4 gives 278.4375 for c# ' . 
+Hmm already that is sharper than 277.183 called for by ET. 
+
+Where one begns the temperament is all important and I believe as Ed
+suggests that it should start from C, especially for the reason he
+gives of WTC starting at C.  
+	Continuing the temperament started above, the b fifth to e is tuned.
+ Here is is intersting to note that in the octaves e - e', d - d',
+and c - c', all of the fourths and fifths sound pure, execpt f which
+has not been tuned, so tuning f from c' and Bb from f gives the
+diatonic scales in both C and F with pure fourths and fifths.  If one
+keeps close to the circle of fifths as Ed mentions, it would be
+logical to tune the "flat keys" next, so from Bb tune up two octaves
+to bb'  (I knew this notation system would be rough in ASCII), down a
+fifth (eb') down a fifth (ab)  down a fifth (db).  octave up from db
+(db' ) fifth down and here we are at gb and f # and the wolf is from
+f # to B (fifth) and f # to b (fourth) The rests of the fourths and
+fifths are as pure as the skill of the tuner.  It is interesting to
+hear the thirds some pure and some well.. nasty. 
+
+	This also can be quickly tuned from (for the sake of our piano tuner
+members) 
+C3-G3-D3-A3-E3-B3-(F#4), Then C3-F3-Bb2-Eb3-Ab3-Db4-Gb4(/F#4) and the
+octaves Gb4-G3, Eb4-E3, Db4-D3.  and the E and B octaves.  This I
+believe might be the temperament that the variations are based.  To
+get rid of the wolf, it would have to be spread out, which means
+temper the fifths, or put in another place by tuning further into the
+circle of fifths, or starting the temperament from another key. 
+
+Richard Moody  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 5 Jul 1997 02:47 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05237; Sat, 5 Jul 1997 02:47:40 +0200
+Date: Sat, 5 Jul 1997 02:47:40 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05210
+Received: (qmail 16696 invoked from network); 5 Jul 1997 00:47:33 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 5 Jul 1997 00:47:33 -0000
+Message-Id: <Pine.SOL.3.95.970704202257.2286A-100000@rodan.syr.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

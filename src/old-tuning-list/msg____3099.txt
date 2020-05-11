@@ -1,0 +1,77 @@
+source file: mills2.txt
+Date: Fri, 21 Jun 1996 11:55:30 -0700
+
+Subject: Post From McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: nj net scales revisited
+--
+In Tuning Digest 707, Paul Hahn quoted my previous post
+in which I remarked
+> For instance, one could choose to define a tuning
+> in which the just twelfth is to the octave as pi is
+> to two.  This is John Harrison's pi tuning, -- mclaren
+and Paul added
+"Erh?  I thought in pi tuning the octave was to the major third as pi is
+to one.  The two are not equivalent, at least according to my
+calculations." -- Paul Hahn
+Paul is correct so far as he goes.  I had in mind (and should
+have mentioned that I had in mind) Charles Lucy's modification 
+of Harrison's pi tuning.  
+In Lucy's  more general modification, the ratio and
+difference of two intervals (a large interval and a small
+interval) are used, with octave corrections, to obtain
+an unlimited number of subsequent pitches.
+Paul, however was incorrect when he posted
+
+"And how is this scale self-similar?  The Golden Tuning is because
+successive trips around the spiral of fifths keep subdividing intervals
+by Golden Sections, but pi tuning does no such thing." -- Paul Hahn
+
+[pi/2]^N and [4/pi]^N with N running from one to infinity produces
+a set of self-similar intervals insofar as the ratio of one interval
+to the subsequent or previous one is always pi/2  or 4/pi, depending
+on whether you go up by pi/2 or down by pi/2.
+
+> Or one could choose to define a tuning in which the
+> interval of 2 octaves + 7/6 is to the 1/1 as
+> 4.6692106 (Feigenbaum's constant).
+> Or one could choose to define a tuning in which the
+> octave + 11/8 is to the 1/1 as 2.718281828:1
+> And so on. -- mclaren
+
+Paul Hahn goes on to say:
+"It's these kind of proposals of Brian's that baffle me sometimes.  I
+cannot imagine any fashion in which Feigenbaum's or Euler's constants
+could possibly be aurally significant in any way." -- Paul Hahn
+
+The inability to imagine X is generally not a valid criticism of
+X.  Rather it is an implied critique of the person making
+the comment.
+Arthur C. Clarke's famous bon mot ought to be modified as follows:
+"Whenever a respected music theorist says that something is
+aesthetically possible, he is quite probably right.  But whenever a
+respected music theorist says that something is aesthetically
+impossible, he is almost certainly wrong."
+--mclaren
+
+
+( One might also recall Clarke's words to the effect that any
+sufficiently advanced technology is indistinguishable from magic.
+I might suggest that "Any sufficiently advanced music is 
+indistinguishable 
+from noise."  JC)
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 21 Jun 1996 20:58 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA10963; Fri, 21 Jun 1996 11:58:47 -0700
+Date: Fri, 21 Jun 1996 11:58:47 -0700
+Message-Id: <25960621185252/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,124 @@
+source file: m1399.txt
+Date: Tue, 28 Apr 1998 18:20:33 -0400
+
+Subject: TUNING digest 1398:  JI Tuning Resolution
+
+From: monz@juno.com (Joseph L Monzo)
+
+> Some time back I did some audio experiments
+> to determine the extent to which I could actually
+> discriminate beating in just intervals.   Listening
+> to rather loud synthesized sawtooth waves through
+> headphones at about 440Hz, I found that the limit
+> of my discrimination was at the 19 limit -- for example
+> I could manage to tune a 19/13 by eliminating beats,
+> but not a 21/13.  So to my ear, a 21/13 a few tenths
+> of a cent sharp or flat makes no distinguishable
+> difference in terms of consonance, but does
+> (just barely) for a 19/13.
+
+This is very interesting to me, as I have already
+hypothesized in my book that, in most musical
+contexts (though certainly not in all -- see below),
+19 is a kind of limit to the use of higher primes in
+just-intonation, whether exactly-tuned or only
+implied by tempered or lower-prime-limit just pitches.
+
+In traditional 12-eq harmonic theory, with extended
+chords built upwards in 3rds, if the near-quartertone
+identities of 11 and 13 are assumed to be implied
+by the "flat 5th / sharp 11th" and "flat 13th",
+respectively, the rational implications of the chord-
+members of a major chord line up pretty much as
+follows:
+
+27/16	13th
+13/8	flat 13th
+
+11/8	sharp 11th
+4/3	11th (21/16 is another possibility)
+
+19/16	sharp 9th (7/6 is another possibility)*
+9/8	9th
+17/16	flat 9th
+
+15/8	major 7th
+7/4	minor 7th
+
+25/16	augmented 5th
+3/2	5th
+11/8	diminished 5th (23/16 ???)
+
+5/4	3rd
+
+1/1	root
+
+* See the discussion about these two particular
+intervals between Paul Erlich and and myself
+re: Hendrix Chord [Tuning Digest #1376], as to
+whether 19 is admissible as a rational implication
+of the "sharp 9th".
+
+Thus, the prime limit here falls around 17, 19
+or 23.
+
+The question marks beside 23/16 refer exactly to
+the possible inability of primes above 19 to normally
+be relevant.  There is no problem with admitting
+the composite [i.e., non-prime] harmonic identities
+9 (= 3^2) and 15 (=3^1 * 5^1), as they both fall
+within the 19-limit as lower odd-numbered identities.
+
+If we include the 3-limit 27 (= 3^3) and the 5-limit
+25 (=5^2), and possibly the 7-limit 21 (= 3^1 * 7^1),
+we have gone all the way to a 27-limit in terms of
+odd identities (excepting 23), but are still within the
+19-limit in terms of prime factors.
+
+However, if the next two prime factors are added
+as harmonics, 29/16 falls about a quartertone
+between the two 7ths, and 31/16 about a quartertone
+between the "major 7th" and "octave".  Traditional
+theory already has a couple of 7ths to choose from
+in chord-building, so these ratios fall somewhat
+outside traditional harmonic concepts.  So to me,
+the fuzzy area lands squarely on 23.
+
+
+> Figuring that the 19th partial of A440 will beat
+> at 0.5 Hz if detuned by 0.1 cent, that becomes
+> my desired accuracy for the goal of avoiding
+> audible dissonance in a conventional pitch range...
+
+This also provides corroboration to my observation
+that, unless the music moves extremely slowly or
+is designed specifically to illustrate very slight
+differences in tuning (or probably both), a discrepancy
+of up to even 1 cent is excusable.
+
+> ...I can imagine musics that would want precision
+> beyond that for particular effects such as very
+> sustained chords with rock-solid lack of phase
+> shifting...
+
+Indeed, the extremely accurate Rayna synthesizer
+utilized by La Monte Young in his entirely static
+(at least on the surface) "Dream House" installations
+is what finally enabled him to explore the effect of
+much higher primes (up to 283 in the one currently
+running).
+
+> ...but that's another issue than dissonance.
+
+Indeed again, the title of Kyle Gann's chapter on
+Young's tunings in the book "Sound and Light"
+(about La Monte and Marian) is called "The Outer
+Edge of Consonance".
+ 
+   Joseph L. Monzo
+    monz@juno.com
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

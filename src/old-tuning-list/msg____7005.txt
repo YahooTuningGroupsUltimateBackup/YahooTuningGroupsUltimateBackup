@@ -1,0 +1,164 @@
+source file: mills3.txt
+Date: Sun, 11 Jan 1998 08:49:40 +0100
+
+Subject: septimal keys
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+You will recall Paul Erlich's blues scale:
+
+9---------0---------13
+           \       / \
+            \     /   \
+             \   /     \
+              \ /       \
+               6---------19--------10
+
+I'll rewrite that with different names.  Remember that the two
+D's are different:
+
+D---------A---------E
+           \       / \
+            \     /   \
+             \   /     \
+              \ /       \
+               C---------G--------D
+
+I played around with this trying to get the difference between the
+D's to be two commas.  Then I decided the commas could be switched
+to a ration of 36/35, what I call a septimal diesis.  I ended up
+with the following scale:
+
+   /   \     /   \     /
+  /  C\--------G\--------D\
+ /       \ /       \ /
+D---------A---------E
+           \       / \
+            \     /   \
+             \   /     \
+              \ /       \
+               C---------G
+
+This is a representation of a 3-D lattice, with D-C\ the subminor
+seventh 7/4.
+
+D and D\ are separated by a septimal comma which is too small.
+Between C\ and C, and G\ and G, there are septimal dieses, though.
+This looks like a septimal equivalent of a diatonic scale: 7 notes
+plus a comma and 6 consonant triads.  Unfortunately, two of those
+triads share a root.
+
+I've been playing this with my schismic mapping, and it sounds
+fine melodically.  D\ isn't used much and, for the loss of a
+chord, you could remove it from the key.  In 22 equal, the comma
+vanishes anyway:
+
+A   C\  C   D\  D   E   G\  G   A
+  5   1   3   0   4   5   1   3   =22
+
+This is a kind of minor.  There's also a major:
+
+          A---------E
+           \       / \
+            \     /   \
+             \   /     \
+              \ /       \
+               C---------G---------D
+              / \       / \       /
+          D/-/---\--A/-/---\--E/ /
+            /     \   /     \   /
+
+C     D   D/    E   E/    G     A   A/    C
+   4    0    3    1    5     3    1    5   =22
+
+
+The following scales, and their inversions, also have 7 notes and
+6 consonant triads in 22-equal.
+
+   /   \     /   \     /
+  /  C\--------G\--------D\
+ /       \ /       \ /
+D---------A---------E
+ \       / \       /
+  \     /   \     /
+   \   /     \   /
+    \ /       \ /
+     F---------C
+
+        /   \     /   \     /
+       /  C\--------G\--------D\
+      /       \ /       \ /
+     D---------A---------E
+    / \       /
+   /   \     /
+  /     \   /
+ /       \ /
+Bb--------F
+
+This last one is a subset of a decatonic key:
+
+A   Bb  C\  D\  D   E   F   G\  A
+  2   3   4   0   4   2   3   4    =22
+
+2 3 2+2 2+2 2 3 2+2 Alternate Pentachordal Major
+
+The rest aren't because they include steps of a septimal diesis.
+All of these scales have more than two step sizes, so they don't
+fulfil Paul Erlich's melodic criteria.  So far, I've only listened
+to the first type.
+
+
+          A---------E
+           \       / \
+            \     /   \
+             \   /     \
+              \ /       \
+               C---------G
+              / \       / \
+             /   \     /   \
+           ---Gb\-------Db\---
+                \  \ /  / \
+                -\--Eb-/-  \
+                  \   /     \
+                   \ /       \
+                   Bbb\------Fb\
+
+In meantone temperaments, Fb\=E and Bbb\=A.  So, this has 7 notes
+and 10 7-limit triads, or 7 triads plus a tetrad.  It includes the
+more dissonant 7-limit chords, but it's still pretty good.
+
+C  C# Eb E  F# G  A  C
+  2  6  2  5  3  5  8  =31
+
+
+All these 7 note keys should work with diatonic harmony.  I
+thought it couldn't be done, but I was wrong.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carl Lumma <clumma@nni.com>
+Subject:  Clearer
+PostedDate:  11-01-98 16:11:15
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  11-01-98 16:10:41-11-01-98 16:10:42,11-01-98 16:10:32-11-01-98 16:10:32
+DeliveredDate:  11-01-98 16:10:32
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256589.00535F51; Sun, 11 Jan 1998 16:11:07 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23217; Sun, 11 Jan 1998 16:11:15 +0100
+Date: Sun, 11 Jan 1998 16:11:15 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA23904
+Received: (qmail 10605 invoked from network); 11 Jan 1998 07:11:07 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 11 Jan 1998 07:11:07 -0800
+Message-Id: <3.0.32.19980111004824.007cba80@nni.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

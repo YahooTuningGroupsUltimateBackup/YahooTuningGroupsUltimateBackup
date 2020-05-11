@@ -1,0 +1,117 @@
+source file: mills3.txt
+Date: Fri, 12 Dec 1997 23:05:44 +0100
+
+Subject: Would you like fries with your information?
+
+From: Carl Lumma <clumma@nni.com>
+
+Paul Erlich wrote...
+
+>>>No wonder, considering the number of times more information that can be
+>>>stored in the 7-limit than in any root of 2 temperament with up to 2 times
+>>>the number of pitches.
+>
+>>How do you define information?
+
+If this isn't the hardest question!  How do you define information?  I think
+it is an effect on Time.  I don't yet know what exactly this effect is, but
+I have some ideas.  I don't yet know what these ideas mean for Time's
+relativistic definition, but all this is off-topic, and I can't give away
+all my secrets.
+
+So, I must appologize for maybe writing too quick.  I had just come back
+from work, and was in a bit of a state.  Later, I realized I didn't know of
+a good way to explain this comment.  Nevertheless, I hold that it is
+correct, if requirin' further explaination.  I will do my best.
+
+Lots of stuff has been written on the nature of music.  In late 94, I
+explained it in terms of my ideas about cognition.  Since then, I have found
+only two cases where this idea was mentioned by someone other than me -- an
+old Minsky essay, and the following...
+
+Beethovan: Music.  What is it?  I don't understand it!  What does it do?
+
+Schindler: It exhalts the soul?
+
+Beethovan: B.S. It is the power of music to carry one directly into the
+mental state of the composer.  What was I thinking when I wrote this?
+
+Schindler: duh? [listening to something - Kreutzer sonata?]
+
+Beethovan: A man is trying to reach his lover, but his carriage is stuck in
+the mud.  She will only wait so long.  This is the sound of his aggitation!
+
+..from the movie "Immortal Beloved", for all it was and was not.  I suppose
+things like "the language of music" or "music tames the savage beast" fit
+along these lines too, but these are expressions more than things people
+think about.
+
+So the idea is that music is a sort of "fake information".  The brain hears
+it, and thinks it's learning.  But it doesn't know *what* it's learning->  I
+believe that all information has a certain character that makes learning
+possible (the old "Music of the Spheres", with appropriate name).  Music can
+imitate this, offering a kind of generic data that the brain accepts,
+generating appropriate reinforcements (emotions) just like you were learning
+to drive or whatever.
+
+So, while music is a form of communication, in that it can create a specific
+mental state in the listener that was first in the mind of the composer (or
+maybe out of nowhere, if certain conceptualist techniques are used- alg
+comp, dice rolling, etc), specific data cannot as yet be transferred (that
+is, things like wagon wheel, or mud) without words.  This aside, I hope I've
+established that information is in there.
+
+How is the information stored?  I believe it's all rhythm.  Pitch is just a
+way to fit more rhythm in.  I believe all musical devices (including melody,
+fugue, harmony, polyrhythms, etc) have a useful definition in this theory,
+and I have classified all the musical devices I could think of.  There is
+the matter of minor is "sad", and major is "happy", but I'm hoping to god
+this is cultural.  A single sustained dyad might cause a reaction, but so
+does looking at a bright red wall.  The study of which harmonies effect your
+liver, or which colors heal your spleen really beg the question.
+
+With all that out of the way, I can explain my post.  Say I'm an alien
+concerned with sending some music to earth.  I want to impress the
+Earthlings with how much "information" I can fit into a three minute song.
+Would I send music tuned in 36 note/octave 7-limit, or in 72 equal?
+
+Well, information is stored in the rhythm, and multiple rhythms are played
+at once, kept discrete by their pitch.  If my ear sorted these rhythms by
+tracking each individual pitch in the tuning, I'd use 72-tone, no contest.
+I do have some kickass alien-powered absolute pitch, but my auditory
+perception is just like the human auditory perception -> it sorts these
+rhythms using relative pitch.
+
+Well it must be obvious what I'm getting at.  The number of intervals
+provided by the just tuning is far greater than those of the equal-step tuning.
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carl Lumma <clumma@nni.com>
+Subject:  Call me a "Zartist"
+PostedDate:  12-12-97 23:35:56
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-12-97 23:34:00-12-12-97 23:34:01,12-12-97 23:33:44-12-12-97 23:33:44
+DeliveredDate:  12-12-97 23:33:45
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656B.007BF3BF; Fri, 12 Dec 1997 23:35:49 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14184; Fri, 12 Dec 1997 23:35:56 +0100
+Date: Fri, 12 Dec 1997 23:35:56 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA14172
+Received: (qmail 20233 invoked from network); 12 Dec 1997 14:35:52 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Dec 1997 14:35:52 -0800
+Message-Id: <19971212223658718.AAA489@NIETZSCHE>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

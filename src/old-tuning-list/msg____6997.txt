@@ -1,0 +1,54 @@
+source file: mills3.txt
+Date: Fri, 9 Jan 1998 23:56:17 +0100
+
+Subject: Re:
+
+From: Steven  Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+
+Fred Kohler <Fred_Kohler@bc.sympatico.ca> writes:
+
+> Here's an idea.  How about having some "banks" predifined as tunings
+> that are in common use such as 19 and 31 TET Valotti+Young and
+> others specified as "user".
+
+My E-mu Classic Keys, and I *think* this is true of most of the
+Proteus derived modules, came with 12tet, Valotti, a 5 limit JI,
+"gamelan" and 19tet tuning tables built in, plus the user table, all
+out of the box.
+
+As I've recently learned, the current samplers do NOT have these
+features, but it's not like they don't have prior experience with
+non12 [and, the Classic sounds *are* sample based...].  Maybe these
+sorts of things would be a good use for the new high powered DSP Emu
+supposedly announced recently.
+
+Steve
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Jonathan M. Szanto" <jszanto@adnc.com>
+Subject:  John Schneider recordings
+PostedDate:  10-01-98 01:19:37
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-01-98 01:19:10-10-01-98 01:19:12,10-01-98 01:19:04-10-01-98 01:19:04
+DeliveredDate:  10-01-98 01:19:04
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256588.0004A8C9; Sat, 10 Jan 1998 01:19:34 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22713; Sat, 10 Jan 1998 01:19:37 +0100
+Date: Sat, 10 Jan 1998 01:19:37 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA22700
+Received: (qmail 4368 invoked from network); 9 Jan 1998 16:19:33 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 9 Jan 1998 16:19:33 -0800
+Message-Id: <3.0.5.32.19980109161450.007bbcb0@adnc.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

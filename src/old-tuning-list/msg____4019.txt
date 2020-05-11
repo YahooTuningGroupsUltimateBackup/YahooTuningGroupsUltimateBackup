@@ -1,0 +1,87 @@
+source file: mills2.txt
+
+
+Subject: Pitch Bend Tuning
+
+From: asouter@scf.usc.edu (Andrew Souter)
+
+Friends,
+
+
+        I am attempting to use pitch bend messages sent by sequencer to a
+K2000 to set frequency output to conform to JI ratios in a more perfect
+fashion than possible using Global software tuning or other cent based
+methods.
+
+        I sent the following message to the list last week:
+
+>        This is a rather basic question I know, but does anyone know what
+>the tuning resolution of the K2000?  How many steps are possible between a
+>semitone, and if this number is something like 2048 or hopefully 4096, how
+>are translations made between this number and cent values?  Thanks in
+>advance.
+
+_______________________________________________________________________________
+
+        I recieved the following response from John at Kurweil:
+
+        If you're speaking in terms of the intonation tables, resolution is
+limited to 1 cent steps by software.  The value set in software is
+truncated, not rounded, to the next lowest hardware resolution, which is on
+the order of
+1/20 cent.  Transposing samples downwards 4-5 octaves or more reduces the
+tuning resolution.
+
+        Changing pitch by other means such was the pitch wheel will usually
+be more limited by the controller than the K2000 internals.  Most if not
+all of the
+pitch wheels of current synthesizers have a resolution of only 7-8 bits, even
+though the MIDI parameter has a resolution to 14 bits.
+
+_______________________________________________________________________________
+
+
+        I still have several unanswered questions concerning generally
+using the pitch benf message to control tuning, and more specifically doing
+this on a K2000.  Let me further clarify my query with the following
+questions:
+
+        1) Where does the 1/20 of a cent figure come from?  Does that mean
+that there are 2000 (or probably 2048) possible frequency divisions between
+a musical half step?
+
+        2) In the hypothetical scenario where the pitch bend range is set
+to 100 cents under the "Common" page, and MIDI pitch bend messages are sent
+using an external sequencer to produce every possible value in step size of
+1 unit (0,1,2,3...   ...8189,8190,8191) from 0 to 8191, how many unique
+pitch values will the K2000 produce?  Is it capable of producing 8192
+unique values?  Is the figure dependent upon the initial frequency of the
+note?
+
+        3)  Would I be correct in assuming that pitch bend messages affect
+the absolute output frequency in an exponential fashion as in the 12Tet
+model?  What I mean is, if I played A440 and with a pitch bend value of 256
+(and pitch bend range was set to 100 cents) would the output frequency in
+Hertz be equal to 440((2^(1/12))^(256/8192))=440.7949Hz?
+
+
+        thanks...
+
+        -andrew
+
+Safe Journey...
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 15 Nov 1996 11:02 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11462; Fri, 15 Nov 1996 11:04:08 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA11479
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id CAA18012; Fri, 15 Nov 1996 02:03:44 -0800
+Date: Fri, 15 Nov 1996 02:03:44 -0800
+Message-Id: <961115100106_71670.2576_HHB42-3@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

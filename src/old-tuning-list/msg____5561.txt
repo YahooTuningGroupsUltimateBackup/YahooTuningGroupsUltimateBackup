@@ -1,0 +1,79 @@
+source file: mills2.txt
+Date: Fri, 30 May 1997 21:53:36 +0200
+
+Subject: modes
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Gordon Collins wrote:
+
+''Daniel Wolf sees modes in certain patterns of harmonization. ''
+
+This is not so. Rather: I hear particular patterns of harmonization as a
+consequence of melodic modes. As Bill Alves says, Major and minor are modes
+of the common diatonic collection just as well as any others. Their
+historical prominence in the common practice era - as opposed to the
+prominence of other modes in other eras - is attributable to the particular
+suitability of the intervallic arrangement to harmonizations which can
+project the first degree of the major scale as a tonic over the duration of
+a piece. This is a fairly Schekerian statement, but as I noted in earlierpostings, I am also quite open to simultaneous interpretations of a work
+where local melodic behavior is suggestive of other modes - a ''Raga
+Malaka'' interpretation. Please note that my definition here is based upon
+major to allow for the characteristic ambiguity of the minor, which pivots
+between its own distinctive modal identity and one based upon the parallel
+major scale with chromatic modifications.   The difficulty represented by this misunderstanding is similar to the
+problem that mid-Rennaisance theorists in had dealing with the definitionof modes when not all voices in a polyphonic setting started or ended on
+the final of the mode. Just because the thickened texture allowed for
+chords with more pitches, doesn't mean that a piece whose bass is in d
+dorian will have an alto in f lydian when the alto starts and ends on f. A
+close study of that alto voice will probably reveal motion that is
+uncharacteristic of a lydian melody. Counterpoint did indeed change the
+modes, but the distinctiveness of the modes was determinative in how
+actually counterpoint functioned.
+
+In the common practice era, the rise of Major and minor corresponded
+generally with the substitution of transposition for modulation (in the
+sense of changing the melodic mode) as a means of generating tonal variety
+over the duration of a piece, with the melodic contrast between minor andMajor leading to two distinct ways of coloring harmonic progressions thatwere functionally identical. This was accompanied by a general change in
+the texture, towards a more homophonic arrangement of the voices, or rather
+one in which the inner voices were decidedly subservient to the outer. The
+striking cross relationships in Bach chorale harmonizations are one example
+of this. The net result is that although the material resources of these
+modes at the local level of a piece were not substantially different fromthose of earlier musics, the experience was quite distinct.
+
+What, however, does this have directly do with tuning? I am afraid that the
+more I ponder the music of the common practice era, the closer I come to
+concluding that ''tonal music'' was composed with increasing disregard for
+precise tuning. And the increasingly indistinct tuning was used to
+represent or imply an increasingly broad harmonic language with unlimitedtransposition. Twelve tone and serial musics may even be worse off; a good
+friend of mine recalls visting the studios of many composers in the fifties
+- Boulez, Stockhausen, Nono among them - and all of them had out-of-tune
+pianos. The first broadcast of the complete _Lulu_ featured intermissionswith George Perle playing analytical examples on an instrument where almost
+every pitch had vibrato due to mistuned strings. In contrast, older musicis terribly sensitive to tuning. Simply playing dorian as d to d' on a just
+major C scale won't work due to the comma shy fifth d - a; in pythagoreanthe opposite is often the case due to the ditone above the tonic,
+resolution to which is demanded by the diminished fifth b - f. (A
+discussion of the benefits and disadvantages of out-of-tuneness might be
+worthwhile for this list...).
+
+As to the general question of the survival of other modes in the tonal era:
+Sibelius's _Seventh_, or any of Debussy's lydian works should be sufficient
+- if late - counter-examples to the thesis that modal writing just stopped.
+
+I wish to acknowlege that Harry Powers - author of the New Grove article on
+''Mode and Melodic Type'' - greatly influenced my thinking on these issues
+during his guest professorship at my graduate school. My definition of key
+does differ from his but does so by going to a fairly radical reduction (a
+group of seven consecutive members from a chain of fifths, with chromaticsubstitutions in the minor borrowed from the parallel Major). I find thisdefinition will be true for a wider repertoire than that defined in Groveand also one that is closer to the practices of notating and keyboarding,which are certainly signs and symptoms of the conceptual framework
+underlying the system.  Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 30 May 1997 21:56 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05200; Fri, 30 May 1997 21:56:04 +0200
+Date: Fri, 30 May 1997 21:56:04 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05202
+Received: (qmail 636 invoked from network); 30 May 1997 18:49:24 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 May 1997 18:49:24 -0000
+Message-Id: <199705301437_MC2-178E-6CF2@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

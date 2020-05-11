@@ -1,0 +1,166 @@
+source file: mills2.txt
+Date: Tue, 25 Feb 1997 23:51:41 -0800
+
+Subject: Re: History of the Diatonic Scale - Aristoxenus and Ptolemy
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Manuel Op de Coul wrote:
+
+> If the Greeks had not their 
+> absolutist Pythagorean/Platonic insistence on ratios in explaining 
+> everything, to the extent that the discovery of irrational numbers was a 
+> forbidden secret,would they not have progressed farther in mathematics and 
+> science? In particular, would some mathematician not have interpreted 
+> Aristoxenus' ideas in terms of the twelfth root of two? I'm sorry if it's 
+> not politically correct to identify the intellectual stumbling blocks of
+> past civilizations.
+
+I thought this old chestnut concerning Aristoxenus had been laid to rest; 
+clearly I was wrong. The adoption, in the 16th century of Aristoxenus as the 
+father of equal temperament tells us much about the ideas of 16th century 
+musici looking for antique sources to justify their intuitions about lute 
+and viol tunings, but it says little or nothing of value regarding the ideas 
+of Aristoxenus himself. In constructing his tetrachords, Aristoxenus accepts 
+both the 4/3 as the boundary of the tetrachord, and the 9/8 as the tone of 
+disjunction; if you doubt this, I suggest you read Aristoxenus, together 
+with Barker's footnotes. Now this leads to a contradiction in the 
+description of the various tetrachords: the diatonic, for instance consists 
+of two tones and a semitone, but since he has already accepted the 9/8 tone, 
+(9/8)^2 * sqrt(9/8) must equal 4/3, which they obviously do not. Don't take 
+my word for this; if you're short of time, might I suggest one passage in 
+particular: Elementa Harmonica, Book II, 56-7. Here Aristoxenus attempts to 
+give a practical proof that two-and-a-half tones equals a fourth, with a 
+proof that depends on tuning a fifth correctly; the fifth, however, must be 
+flat by a Pythagorean comma in order to make the proof work. But Aristoxenus 
+never indicates any such drastic flattening, nor does he even once, in the 
+whole treatise, ever suggest tempering intervals. Trying to pick your way 
+through this and other arithmetical contradictions can lead, I am convinced, 
+to only one honest conclusion: that Aristoxenus should be understood as 
+providing us with essentially vague, musicianly descriptions, which are 
+distorted if we begin to squint too hard at the details, and try to endow 
+them with more mathematical rigour than he ever countenanced -- this is the 
+problem with later apologists from Cleonides to the 16th century. 
+Aristoxenus himself implicitly encourages this attitude, when he states 
+that, in the manner of his teacher Aristotle, music theory should be 
+regarded as an autonomous discipline, relying on its own concepts rather 
+than being subordinate to, say, acoustics or to the arithmetic of the 
+rationals. I don't personally endorse this approach, but I don't think it's 
+intellectually dishonourable; but twisting Aristoxenus in directions he 
+never intended is a distinctly more dubious pastime.
+
+If, for the sake of argument, we follow Aristotle and Aristoxenus in taking 
+music theory as an autonomous discipline, then of course we will think in 
+terms of adding or subtracting intervals, rather than multiplying or 
+dividing ratios. Aristoxenus's diatonic tetrachord, with its two equal-sized 
+tones, would appear to be nothing other than the standard Pythagorean 
+diatonic (the "ditonic diatonic" in Ptolemy's list) -- the only difference 
+being that Aristoxenus eschews the Pythagorean ratio description. In this 
+case, we can argue our way from Pythagoras to Aristoxenus along the 
+following path:
+
+           9/8 * 9/8 * 256/243 4/3
+
+           log(9/8) + log(9/8) + log(256/243) 4/3
+
+           tone + tone + limma diatessaron (fourth)
+
+and if we are to take Aristoxenus as a faithful reporter of contemporary 
+musicians' thinking, the limma was taken to be half of a tone, so:
+
+           tone + tone + semitone fourth.
+
+But we must note that this was the informal thinking of people who are 
+concerned with their art rather than with theoretical niceties; it was 
+certainly not a matter of sophisticated mathematical reasoning far in 
+advance of its time, involoving irrational quantities in the specification 
+of the semitone, whether (9/8)^(1/2) or 2^(1/12); nor does Aristoxenus 
+provide any such reasoning.
+
+> I do agree that in most cases the diatonic scale existed without a
+> standardized tuning. I believe that the creation of similar tetrachords 
+> was the only guiding principle in most cases, since I do not believe that
+> 5-limit or higher ratios are relevant to purely melodic music. The 3-limit
+> (and even 2-limit) approximations have a wide range of tolerance when
+> harmony is not an issue, or when inharmonic instruments make the value of
+> just intonation questionable.
+
+What is a 2-limit approximation of a diatonic scale. The "2-limit" gives us 
+nothing but octaves. Or did you mean 2^1/x, in which case the "limit" 
+terminology is out of place.
+ 
+> What is "mystical" about Ptolemy is that he insisted on superparticular
+> ratios and a geocentric universe with purely circular motions as if these
+> were some sort of revealed truths. They ended up requiring exceedingly
+> complicated models to approach the fairly simple realities. It is just as
+> fair to criticize his views as it is to criticize Aristotelian physics.
+> Where would the world be if no one had ever criticized Aristotelian
+> physics? If a schoolteacher were to teach Aristotelian physics today, 
+> would it not be fair to criticize them? 
+
+Reading the first two books of Ptolemy's Harmonics certainly doesn't suggest 
+a mystical approach to the description of Greek tuning practices; Ptolemy 
+remains faithful to the approach he gives at the beginning: the testing of 
+all reasoning by empirical means. The superparticulars 2/1 (which is also 
+multiple) 3/2, 4/3 and 9/8 were not challenged by any Greek theorist; 
+Ptolemy reasoned that all melodics (i.e. conjunct intervals in tetrachords) 
+should similarly consist of superparticulars, on the assumption that an 
+observed pattern should not be thrown aside at the first hint of 
+uncertainty, but should be explored further to see if it will yield further 
+results that stand up to empirical testing. We can carry out this project 
+with greater rigour than Ptolemy, who could only rely upon his ears. But we 
+see in various places that he certainly didn't treat the superparticular 
+principle as a sacred truth: witness his readiness to grant that the intense 
+diatonic tetrachord used in singing was approximated by the still more 
+easily tunable ditonic diatonic, even though the latter involved a 
+non-superparticular ration (namely the 256/243). (Another of Ptolemy's 
+departures from any doctrinal presentation is the listing of the six tunings 
+customarily used in his time by practising musicians: four of the six 
+combine two different tetrachordal tunings.) 
+
+> Matt, you could be given a Mozart string piece which would have to descend
+> by, say, seven commas from beginning to end, if it is to have all chords 
+> in just intonation and no comma shifts in sustained tones (this is 
+> actually a typical scenario). Even though the beginning and ending keys 
+> may be notated exactly, you would say that the piece ends in a distincly 
+> different key than it began. Would your analysis reflect the musical 
+> reality better than the traditional analysis? I think not! What if the
+> piece was a keyboard piece?
+> Forget it!
+
+Leopold Mozart, being representative of a 17th/18th-century string playing 
+tradition, specified 1/6th-comma meantone as the tuning which expert players 
+should employ. His son, it seems, endorsed this (see the Chesnut article 
+"Mozart's Teaching of Intonation" in JAMS, c.1980 -- sorry about the vague 
+date), and with it the corollory of tuning flats higher than sharps that 
+mean-tone tunings share with just intonation. Since string players are 
+limited by the tuning of their open strings, they cannot incorporate any 
+irreversable comma shifts (as opposed to some local fluctuation), but the 
+use of any meantone tuning removes this problem, by means of their different 
+characteristic compromises. As for a Mozart keyboard piece, equal 
+temperament was in the process of supplanting well-tempered systems for 
+keyboards in the German-speaking lands during Mozart's lifetime -- what of 
+it. Just intonation of the type requiring comma shifts (i.e. prohibiting 
+intervals such as 40/27) has two obvious home grounds: a capella singing, in 
+which it can be employed intuitively, and in electro-acoustic music, where 
+it can be applied by calculation. Any other application requires special 
+efforts; Johnston string quartets, yes, but Mozart, no. 
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 26 Feb 1997 15:56 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18649; Wed, 26 Feb 1997 15:56:33 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18675
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id GAA29788; Wed, 26 Feb 1997 06:54:09 -0800
+Date: Wed, 26 Feb 1997 06:54:09 -0800
+Message-Id: <Pine.SOL.3.91.970226085326.27137D-100000@library>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

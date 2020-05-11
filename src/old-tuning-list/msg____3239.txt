@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Tue, 16 Jul 1996 21:31:44 -0700
+
+Subject: Chord periods
+
+From: Mmcky@aol.com
+
+>It is redundant to go to all that trouble to calculate 
+>the LCM of the "normalized chord periods."
+
+Not a lot of trouble, actually.  I used my excel 
+spreadsheet and just typed =lcm( and then selected 
+some cells with the mouse.  The spreadsheet did the 
+rest.  It's quite convenient for doing JI music 
+calculations.  It does gcd too.
+
+I confess, I suspected something would cancel out, 
+but I didn't have the time to go into it just then and 
+simplify.  Thanks for saving me the trouble.
+
+I do think this representation makes the concept 
+clearer, but without more feedback I won't know.
+
+I intend to write a chord sorting program based on 
+this principle when I can find the time, and do some 
+compositions, but free time is in mighty short supply 
+for me just now.
+
+Marion
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 17 Jul 1996 08:16 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id XAA27155; Tue, 16 Jul 1996 23:16:36 -0700
+Date: Tue, 16 Jul 1996 23:16:36 -0700
+Message-Id: <v01510101ae11d29e4c81@[205.218.46.35]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

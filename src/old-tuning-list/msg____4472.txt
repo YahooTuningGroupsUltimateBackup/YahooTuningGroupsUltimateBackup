@@ -1,0 +1,51 @@
+source file: mills2.txt
+Date: Thu, 2 Jan 1997 13:40:47 -0800
+
+Subject: RE: mod groups & rhythm
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Gary wrote,
+
+>I suspect though that pitch and rhythm are fundamentally different when
+>it comes to temperament.  Tempering pitches is meaningful because our ears
+>hear in a manner that could perhaps be described as simultaneously in
+>linear and logarithmic frequency scales.
+
+During my month away from the list, I too came up with the idea of rhythmic 
+temperament, and so was pleasantly suprised to find that it had been 
+discussed in my absence.
+
+Although Gary's point has some merit, perhaps he is forgetting that 
+logarthmic relationships arise from application of a given multiplicative 
+factor, in this case a ratio, several times. There is nothing in the nature 
+of rhythm that prevents this from having significance.
+
+For example, one can, in the course of a piece, reinterpret triplets as 
+quarter-notes, a rhythmic modulation by a factor of 3/2. Repeat this three 
+more times, and you will have accelerated by a factor of 81/16. Now 
+interpret every fifth note as the basic pulse, and you will be at 81/80 of 
+the original tempo.
+
+Of course, no one will notice that you have not returned to the original 
+tempo. But what if you had left the original tempo in place through the 
+entire process, in one voice or a drumbeat? You would want to come back to 
+it at the end. The polyrhythms in the middle of the process would be too 
+complex to hear mathematically, anyway, so why not "temper" them, so that 
+the 81/80 becomes a 1/1? Each time the triplets are introduced, they could 
+be played a tiny bit too slow, the exact amount of tempering being identical 
+to that of meantone tuning.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 2 Jan 1997 22:52 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00891; Thu, 2 Jan 1997 22:55:22 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00889
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA12389; Thu, 2 Jan 1997 13:55:19 -0800
+Date: Thu, 2 Jan 1997 13:55:19 -0800
+Message-Id: <199701021653_MC2-E36-6524@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

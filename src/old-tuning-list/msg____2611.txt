@@ -1,0 +1,95 @@
+source file: mills2.txt
+Date: Sat, 2 Mar 1996 05:51:19 -0800
+
+Subject: Reply to Andrew Milne
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+In response to Andrew Milne's question about propriety I can only 
+point to the proper article, which I haven't read myself yet:
+
+Balzano, Gerald J. "The group theoretic description of 12-fold and microtonal
+pitch systems", Computer Music Journal vol. 4 no. 4, pp. 66-84, 1980.
+
+Proper modes are I think not considered to somehow have more
+validity, but to have cognitive advantages over nonproper modes.
+For an exposition about it on the Web, go to Ken Overton's pages:
+http://music.dartmouth.edu/~kov/lerdahl/
+Then follow the links "Lerdahl's proposed cognitive constraints",
+"Tuning and Temperament", "The argument for equal temperament",
+"14. Uniqueness, Coherence and Simplicity", "The invocation of
+Balzano".
+The term used there is coherence. Below some text from these pages.
+       
+Manuel Op de Coul    coul@ezh.nl
+-----
+
+   13. Division of the octave into equal parts facilitates transposition
+   and reduces memory load.
+   
+   This is one of the constraints that Lerdahl acknowledges "... can be
+   variously jettisoned." (p. 114), which certainly seems plausible given
+   that people presumably did enjoy music before equal temperament came
+   into practice.
+   
+   So when should one jettison this constraint? It would seem plausible
+   that someone who wishes different key areas to have distinct timbral
+   qualities may find various Just tunings valuable. On the other hand,
+   if a composer desires to write tonal music in which modulations occur
+   often without any structural importance, this constraint may be heeded
+   to good effect.
+   
+   14. Assume pitch sets of n-fold equal divisions of the octave. Then
+   subsets that satisfy uniqueness, coherence, and simplicity will
+   facilitate location within the overall pitch space.
+   
+   This is entirely derived from an article by Gerald Balzano in which he
+   uses set-theory to find various relationships between different scale
+   types. This is a fundamentally different approach to the cognition of
+   pitch space which assumes that our scales are derived from tuning
+   theory and the harmonicity of fundamental frequencies.
+   
+----
+                           THE INVOCATION OF BALZANO
+                                       
+   The words Uniqueness, Coherence, and Simplicity come from a paper by
+   Gerald Balzano published in MUSIC, MIND AND BRAIN, a collection of
+   articles on the neuropsychology of music. It was edited by Manfred
+   Clynes and published by Plenum Press (New York) in 1982.
+   
+   Balzano proposed the study of pitch sets as an alternative to the
+   study of timbre or harmonicity for psychoacousticians. The bulk of his
+   analysis was devoted to the 12-note collection: " ... depending on the
+   tuning system (e.g. just, pythagorean, equal temperament), differences
+   among these integers translate either approximately or exactly into
+   log frequency differences." (p. 322) His analysis and discussion was
+   devoted to various subsets of this 12-note collection, with extended
+   discussion of the diatonic subsets.
+   
+   Below are the general definitions of each word. If you would like to
+   read a more complete discussion of a word, click on that word.
+   
+     * Uniqueness: Uniqueness contributes to the emergence of a 'tonic'
+       element. It refers to the ability to individuate the elements of a
+       set by virtue of their relations with one another. If more than
+       one element in a set have the same intervallic relationship to all
+       the other members of that set, it is NOT unique.
+       
+     * Scalestep-Semitone Coherence: This requires that the same distance
+       is not traversed in one part of the scale by one step and in
+       another part of the scale by more than one step.
+       
+     * Simplicity of Scale Family: Simplicity is a criterion which
+       guarantees transpositional equivalence by comparing patterns of
+       overlap among scale family members and their vectors of relations.
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 2 Mar 1996 15:15 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id GAA25784; Sat, 2 Mar 1996 06:15:32 -0800
+Date: Sat, 2 Mar 1996 06:15:32 -0800
+Message-Id: <199603021414.WAA04499@hk.super.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

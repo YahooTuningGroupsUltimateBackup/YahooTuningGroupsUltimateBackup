@@ -1,0 +1,205 @@
+source file: mills2.txt
+Date: Fri, 27 Sep 1996 13:39:32 -0700
+
+Subject: The tonicity of tempered intervals and t
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+The following is excerpted from an old version of a paper that will appear 
+in Xenharmonikon:
+
+***********************************PART 
+1***************************************
+[13]
+
+Parncutt's theory of harmony is essentially an extension of the theory of 
+complex pitch perception, i.e., the waywe synthesize the harmonic partials 
+of a musical tone into a single sensation, whise pitch is that of the 
+fundamental component -- even if that component is physically absent from 
+the stimulus[14]:
+
+	    According to Terhadt, the root of a chord is a virtual pitch, i. e., a 
+complex tone
+	    sensation. This observation alone is not very useful, as there are 
+virtual pitches at _all_
+	    the notes of the chord. The root is different in that the spectral 
+pitches in its harmonic
+	    pitch pattern arise from more than one complex tone (note). In other 
+words, the root is
+	    the implied fundamental of a group of pure tone components belonging to 
+different
+	    complex tones.
+
+For two notes in a harmonic relationship, whose frequency ratio in lowest 
+terms is given by p/q, with
+
+	    p>=q		    	    	    	    	    	    	    	    	    (0)
+
+the "fundamental frequency" is given by
+
+	    f0=f(p)/p=f(q)/q	   	    	    	    	    	    	    	    (1)
+
+Now according to any of the theories of complex pitch perception 
+(Goldstein[15], Terhardt[16], Wightmann[17], the relationship becomes 
+difficult to perceive for f0 very low (or, what will amount to the same 
+thing, for p and q very large); let us tentatively require
+
+	    f0>=F	    	    	    	    	    	    	    	    	    	    (2)
+
+F being the lower bound for any f0. We now find
+
+	    F<=f(p)/p and F<=f(q)/q	 	    	    	    	    	    	    	    (3)
+
+or
+
+	    p<=f(p)/F and q<= f(q)/F		    	    	    	    	    	    (4)
+
+If we are comparing intervals by fixing f(p) and varying f(q)[18], the 
+fractions will satisfy
+
+	    p,q<=N	   	    	    	    	    	    	    	    	    	    (5)
+
+where
+
+	    N=f(p)/F	 	    	    	    	    	    	    	    	    (6)
+
+Now we will assume that N is large compared with the p and q of fractions we 
+are actually trying to represent in our tuning. This is reasonable (I am 
+able to tune just intervals such as 17:13 by ear, though it could hardly be 
+considered a consonant interval); the question is to what extent these more 
+complex ratios disturb the representation of simpler ones. In fact, we will 
+let N approach infinity (by letting F go to zero), causing the particular 
+frequency at which f(p) is fixed to cease to have any bearing on the result, 
+so that we can judge intervals solely by their size and not by the register 
+in which they are played.
+	    Given any N, the set of fractions satisfying (5) and (0), arranged in 
+ascending order, is called the Farey series of order N. For example, the 
+Farey series of order is
+
+	    1/1,6/5,5/4,4/3,3/2,5/3,2/1,5/2,3/1,4/1,5/1,6/1	  	    	    	    	    (  
+7)
+
+This series has the property that any two consecutive fractions p(i)/q(i) 
+and p(j)/q(j) (j=i+1) satisfy[19]
+
+	    p(j)q(i)-p(i)q(j)=1		    	    	    	    	    	    	    (8)
+
+If the next fraction after p(j)/q(j) is denoted by p(k)/q(k) (k=j+1) we find
+
+	    1=p(j)q(i)-p(i)q(j)=p(k)q(j)-p(j)q(k)
+
+	    p(j)q(i)+p(j)q(k)=p(k)q(j)+p(i)q(j)
+
+Say the interval one is trying to represent is p(j)/q(j); then p(j) is small 
+compared with N. Then
+
+	    p(k)~p(i)~N	   	    	    	    	    	    	    	    	    (9)
+
+because:
+(a) membership in the Farey series requires that they be <= N; and
+(b) All three fractions being similar in magnitude implies that (9) also 
+implies
+
+	    q(k)~q(i)~Nq(j)/p(j)	    	    	    	    	    	    	    	    (9c)
+
+therefore if p(j) were <= N-p(j), the fraction (p(i)+p(j))/(q(i)+q(j)), 
+which lies between p(i)/q(i) and p(j)/q(j), would also belong to the Farey 
+series of order N, contradicting the assumption that p(i)/q(i) and p(j)/q(j) 
+are consecutive. By (8) we know that
+
+	    cp(j)=p(k)+p(i), cq(j)=q(i)+q(k)	  	    	    	    	    	    (10)
+
+for some c, so
+
+	    p(k)=cp(j)-p(i),q(i)=cq(j)-q(k)	   	    	    	    	    	    	    (11)
+
+whence
+
+	    q(k)=cq(j)-q(i)	    	    	    	    	    	    	    	    	    (12)
+
+>From (11),
+
+	    p(k)q(i) = 
+(c^2)p(j)q(j)-cp(i)q(j)-cp(j)q(k)+p(i)q(k)	  	    	    	    (13)
+
+and using (12),
+
+	    p(k)q(i)-p(i)q(k)=(c^2)p(j)q(j)-cp(i)q(j)-cp(j)(cq(j)-q(i))
+
+	    p(k)q(i)-p(i)q(k)=-cp(i)q(j)+cp(j)q(i)
+
+	    p(k)q(i)-p(i)q(k)=c		    	    	    	    	    	    	    (14)
+
+by virtue of (7). Now (9) and (10) tell us that
+
+	    c~2N/p(j)
+
+so
+
+	    p(k)q(i)-p(i)q(k)~2N/p(j)	    	    	    	    	    	    	    (15)
+
+While N is still finite, there is a range of intervals f(1)/f(2) which could 
+be interpreted as p(j)/q(j). A natural set of bounds for this range is[20]
+
+	    a(j)=(p(i)+p(j))/(q(i)+q(j))<f(1)/f(2)<(p(j)+p(k))/(q(j)+q(k))=b(j)	  	     
+	    (16)
+
+which unambiguously ascribes to any f(1)/f(2) one and only one fraction from 
+th e Farey series, namely p(j)/q(j). Now the width of this range on a 
+logarithmic scale, such as a scale of cents, is given by
+
+	    W(j)=log(((p(i)+p(j))/(q(i)+q(j)))/((p(j)+p(k))/(q(j)+q(k))))=log(a(j)/  
+b(j))	    (17)
+
+Since in our case p(j),q(j) are relatively small,
+
+	    W(j)=log(p(k)q(i)/p(i)q(k))
+
+and since the range is small,
+
+	    W(j)=p(k)q(i)/p(i)q(k)-1
+
+or
+
+	    W(j)=(p(k)q(i)-p(i)q(k))/p(i)q(k)
+
+Substituting (15), (9), and (9c),
+
+	    W(j)=(2N/p(j))/((N^2)q(j)/p(j))
+
+or
+
+	    W(j)=2/Nq(j)	  	    	    	    	    	    	    	    	    (18)
+
+	    Now, if we want to take octave equivalence into account, we would like 
+all inversions and octave expansions of an interval to be equal in tonicity 
+to the individual interval. Denote the lowest-terms reduction of 
+(2^n)p(j)/q(j) by p(j,n)/q(j,n). L(j), the "limit" of p(j)/q(j), is the 
+greater of the largest odd factor of p(j) and the largest odd factor of 
+q(j). Obviously, L(j)=L(j,n). Since q(j,n) is often equal to, but never 
+greater than L(j),
+
+	    W(L(j))=W(j,n)=2/NL(j)<=W(j)	 	    	    	    	    	    	    (19)
+
+is a lower bound on the "width" of all ratios of the L(j) limit. Harry 
+Partch, using the word "identity" with the same meaning as our "limit," 
+states essentially the same thing in his "Observation One": what he calls 
+the "field of attraction"[21] is proportional to our W(L(j)) (or equal with 
+N~2.9).
+
+To be continued next 
+week...................................................................
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 28 Sep 1996 07:30 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02397; Sat, 28 Sep 1996 07:30:30 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA02843
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id WAA16751; Fri, 27 Sep 1996 22:30:28 -0700
+Date: Fri, 27 Sep 1996 22:30:28 -0700
+Message-Id: <199609280529.XAA25540@freenet.uchsc.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,147 @@
+source file: mills2.txt
+Date: Thu, 9 Nov 1995 10:28:53 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: A new rhythmic vocabulary
+---
+"All things come from thence, from
+that universal rule either directly proceeding
+or by way of sequence." [Marcus Aurelius,
+"Meditations"]
+The previous post explored the outer
+edges of rhythm by suggesting an
+extension of the waveform periodicity
+in the frequency domain of non-just
+non-equal-tempered scales up into
+the beat level of the individual measure.
+As mentioned, there is a complete and
+utter lack of generalized rhythmic
+vocabulary to talk about these kinds
+of divisions of the beat.  We can talk
+sensibly in Western music about "half notes,"
+"3 eighth notes in the time of 2," and so on,
+and we can even (with some difficulty)
+talk about "40% of a half note" (notated
+as the N-tuplet `8 in the time of 5'),
+but when it comes to something like
+1/1.61803399 of a half note, conventional
+Western notation falls mute.  Indeed, there
+is not even the ghost of a clue where to
+start talking about such divisions of the
+beat except in raw numbers--which are
+tremendously hard to deal with intuitively,
+or manipulate as ensembles without huge
+amounts of gratuitous calculation.
+What does this have to do with tuning?
+It seems clear that the natural way to compose
+in non-just non-equal-tempered scales is to
+extend the frequencies into divisions of the
+beat.  But what we want is a simple way of
+manipulating such rhythms.  Ideally, we should be
+able to easily and simply apply such familiar
+concepts as rhythmic augmentation and diminution
+to sets of rhythms derived from the pitches of
+non-just non-equal-tempered scale frequencies.
+If we can't do this, it cripples us at the start 
+in composing with non-just non-equal-tempered
+scales.
+First, let me suggest a generalization of the
+standard Western rhythmic vocabulary.
+Traditionally, divisions of the beat are 
+handled with a descriptive vocabaular that
+directly specifies the division of the beat:
+half note lasts one half a whole note,  quarter
+note lasts one quarter of a whole, triplet
+quarter packs 3 quarters into the time of 2,
+and so on.  This is fine as far as it goes. But
+extending to anything other than simple
+integer divisions of the beat is impossible:
+there's no such thing as a "1.618034-note."
+Instead, permit me to suggest what the
+computer programmers have christened
+a "call by reference," rather than the
+"call by value" of conventional Western
+rhythmic vocabulary.
+Instead of using words for the divisions
+of the beat that describe the actual 
+values, suppose we use a rhythmic 
+vocabulary which describes the successive
+position of the rhythm in a hierarchy from
+long to short.  This kind of rhythmic 
+vocabulary could be applied to an unlimited
+range of different divisions of the beat, rather
+than the extremely limited set of integer
+divisions of the beat which can be described
+by traditional Western usage.
+PRIMARY -- longest duration within the measure
+SECONDARY -- next longest duration
+TERNARY -- next longest
+QUATERNARY -- next longest
+..and so on.
+With this change of vocabulary, it suddenly
+becomes possible to write down a set of
+rhythms derived from our non-just non-equal-
+tempered scale:
+P S S P T P 
+Given the non-just non-equal-tempered
+scale described in the previous post, this
+is a set of notes of duration:
+1.0 1/1.618034  1/1.618034 1.0 1/2.414213 1.0
+In the context of this new rhythmic vocabulary,
+all of the traditional techniques of Western
+rhythm can be applied.  Here, augmentation
+refers to multiplying all notes by the value
+of 1/SECONDARY beat duration.  
+In traditional Western usage, the secondary
+beat duration is always 1/2, so augmentation
+is always a simple doubling of note durations.
+Contrariwise, diminution is a simple havling
+of note durations.
+In the context of the rhythms derived from our
+non-just non-equal-tempered scale, however,
+augmentation means multiplying all note
+durations by 1.618034, while diminution 
+means multipying all note durations by 
+1/1.618034.
+Embedded tuplets can also be carried over
+into the new rhythmic scheme, with a
+concomittant increase in rhythmic
+complexity.  A triplet in traditional Western
+usage is obtained by adding the primary to
+the secondary duration; here it's obtained
+by doing the same thing, but the result
+(instead of being a 3:2 duration) is a 2.618034:1
+duration.  And so on.
+This gives us at least some reasonable way
+to *talk* about rhythmic divisions derived
+by time-scaling our non-just non-equal-tempered
+micro-level of frequency up into the level
+of the individual measure.  Because of the
+obvious implications for new kinds of compositional
+techniques, this derivation of rhythm from
+non-just non-equal-tempered scale
+frequencies clearly demands further
+exploration.
+The next post will discuss generalizations of
+vertical structures in non-just non-equal-tempered
+scales, along with an examination of consonant
+vertical structures in a representative non-just
+non-equal-tempered scale, along with several
+kinds of near-equivalents to conventional modulation
+between keys (equal temperaments) or 1/1s (JI).
+---mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 10 Nov 1995 00:38 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA22718; Thu, 9 Nov 1995 14:38:39 -0800
+Date: Thu, 9 Nov 1995 14:38:39 -0800
+Message-Id: <Pine.3.89.9511091753.A26367-0100000@email.ir.miami.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

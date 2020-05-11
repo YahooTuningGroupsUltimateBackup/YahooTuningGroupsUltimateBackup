@@ -1,0 +1,70 @@
+source file: m1431.txt
+Date: Fri, 29 May 1998 13:29:29 -0400
+
+Subject: RE: 9-limit lattices
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>I've been reviewing saturated chords for my website.  Although
+>Paul Erlich used these as an argument for giving 9 a separate
+>direction
+
+Did I really argue that way? I thought my reasons for sometimes giving 9
+a separate direction had nothing to do with saturated chords. Although I
+may have used a saturated chord as an example of a 9-limit harmony.
+
+>As there are no 7s, we can use a tetrahedral lattice with 9 at
+>the apex.  The chords then become:
+>
+>              5                     5----15
+>             / \                     \   /
+>            / 9 \                   9 \ /
+>           1-----3                     3
+>
+>Which doesn't look as clear to me.
+
+I would have to disagree with the way you drew those pictures. The
+3-limit connection between 3 and 9 is very important, so I would include
+an additional 9 to the right of 3 in both chords. As I have said before,
+the disadvantage of giving composites their own axes is that certain
+notes often have to appear in more than one place in the lattice.
+
+
+>The reason is that these
+>anomalous suspensions work because of the compositeness of 9.
+
+True.
+
+>A lattice that treats 9 as prime can't show that.
+
+Unless you put 9 in two places.
+
+>I can understand why 9 is a separate axis in Erv Wilson's
+>diagrams.
+
+In all of his diagrams that I've seen, 9 is NOT a separate axis.
+
+
+>The way the scales are generated, there's no confusion.
+
+I'm confused.
+
+>For general lattices, though, why?  If you want the otonality
+>to look like a primary unit, how about a double linkage?
+
+>                        5
+>                       / \
+>                      / 7 \
+>                     1=====3-----9
+
+Something along those lines might be the best solution, although (I'm
+assuming you have invisible lines connecting 7 to the other identities)
+I would still want to have 9 directly connected to 5 and to 7. The
+advantage of giving 9 its own axis is that such connections can be
+easily made without a messy tangle of lines.
+
+>Now, a curved
+>structure in 5-dimensional space, that might work...
+
+Right, one where the two occurences of 9 would coincide due to the
+curvature.

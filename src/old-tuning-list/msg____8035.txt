@@ -1,0 +1,18 @@
+source file: m1443.txt
+Date: Wed, 10 Jun 1998 20:08 +0100 (BST)
+
+Subject: Re: Fokker's Matrices
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Paul Hahn wrote:
+
+>You can generate any damn ET you want this way, although sometimes the
+>unisons/commas chosen to vanish aren't very small.
+
+Correct me if I'm wrong, but Fokker used octave invariant matrices.
+That means you can't use them to define 88CET, for example.
+
+I've just noticed there's nothing about this on my website.  I'll add a
+page sometime, including a derivation of 88CET which is particularly
+interesting.

@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Tue, 28 Jan 1997 09:02:29 -0800
+
+Subject: Re: TUNING digest 932
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+>> > The literate I've seen on the Ensoniq MR Rack says it has only one RAM
+>> > tuning table location.  
+
+It's true that there's only one RAM user tuning on the MR, but like Gary
+says you can download to that location using MTS dump messages, and change
+the RAM table on the fly using the Note Change message.  For details on
+this you don't need to look at the manual, just get the MTS spec, a copy of
+which is on the tuning list FTP site I think.   One minor enhancement I
+added- if you send note change messages to tuning number 0x7F and the not
+number is in the middle C range, that note change is replicated across
+octaves, which is good for middle-eastern style tuning.   Since there's
+only one user-editable tuning sending a dump or note change to any tuning
+number only affects the RAM tuning.  This info is in the manual somewhere,
+but maybe only in the second edition.
+-------------------------------------------------------------------
+Steven Curtin
+Lucent Technologies - Bell Labs Innovations
+Microelectronics division, Modems & Multimedia
+rm. 3C-208, 200 Laurel Ave S
+Middletown, NJ 07748-4801  U S A
+ph: (908)957-2996   fax: (908)957-6878
+-------------------------------------------------------------------
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 29 Jan 1997 11:24 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA16756; Wed, 29 Jan 1997 11:24:33 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18306
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id CAA10316; Wed, 29 Jan 1997 02:24:23 -0800
+Date: Wed, 29 Jan 1997 02:24:23 -0800
+Message-Id: <Pine.A32.3.95.970128115147.20944A-100000@freenet3.afn.org>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

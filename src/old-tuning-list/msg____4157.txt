@@ -1,0 +1,164 @@
+source file: mills2.txt
+Date: Mon, 25 Nov 1996 19:11:29 -0800
+
+Subject: Fractional Comma Manifesto, Part 2
+
+From: Kami Rousseau <kami@InterLinx.qc.ca>
+
+As Jonathan Walker said, my equations were not simplified. (He also 
+pointed that I forgot the frational part of an exponent.) 
+
+The reason I did not simplify the expressions was that I wanted the 
+isolate the 3^m/2^n factor. But the equation of a chain of meantone or 
+ET fifths can be expressed in a simplified way. I find that the long 
+expressions helps us understand where the simplifications come from.
+
+The mth meantone fifth is given by
+
+2 ^ (4m/k - n)  *  3 ^ (m - 4m/k) * 5 ^ (-m/k)
+
+where m is an integer, k is the "inverse of the comma fration" (for 1/4 
+comma meantone, k=4). n is the integer part of log2(3)m. The 4's are the 
+exponents of 2 and 3 in the syntonic comma, 81/80.
+
+For example, 1/4 comma meantone is
+
+2 ^ (4m/4 - n)  *  3 ^ (m - 4m/4) * 5 ^ (m/4)
+
+or
+
+2^(m-n) * 5^(m/4).
+
+Why is a power of 3 included in the general equation? Because the 3's do 
+not always simplify. Take a look at 1/3 comma meantone :
+
+2 ^ (4m/3 - n)  *  3 ^ (m - 4m/3) * 5 ^ (m/3)
+
+When m= 3, we get
+
+2^(4*3/3 -4) * 3^(3- 4*3/3) * 5^(3/3) = 5/3.
+
+*******
+Now let's look at ET's. Let a=log2(3) and [x] mean integer part of x. 
+The equation for the mth ET fifth (from my first post) simplifies to :
+
+2 ^ ( [ak]m/k - [am] )
+
+For the 12TET fifth, we have
+
+2 ^ ( [a*12]*1/12 - [a*1] ) = 2^ ( 19/12 - 1 ) = 2^ 7/12.
+
+Surprised? The ET fifth is not only a random division of the octave, it 
+is derived from a circle of fifths. For nTET, are there n fifths in the 
+circle? Not always. When I began my little investigation, I 
+believed that you could get all the notes from the circle of fifths, but 
+sometimes this circle closes before you get all the scale degrees. Here 
+is a list of fifths, and the ET's they are used in, for 0<n<144.
+
+2^x	ET
+0/1	1
+1/2	2,4,8,10
+1/3	3
+2/5	5
+4/7	7,14,21,28,35,42,49,56,63,70
+5/9	9,18,27
+6/11	11,22
+7/12	12,24,36,48,60,72,84,96,108,120,132,144
+7/13	13
+8/15	15
+9/16	16,32
+9/17	17
+11/19	19,38,57,76,95,114,133
+11/20	20
+13/23	23,46
+14/25	25
+15/26	26,52,78,104
+16/29	29
+17/30	30
+18/31	31,62,93,124
+19/33	33,66,99
+19/34	34
+21/37	37
+22/39	39
+23/40	40,80
+23/41	41
+25/43	43,86,129
+25/44	44
+26/45	45,90,135
+27/47	47,94
+29/50	50,100
+29/51	51
+31/53	53,106
+31/54	54
+32/55	55,110
+33/58	58
+34/59	59
+35/61	61
+37/64	64,128
+38/65	65,130
+39/67	67,134
+39/68	68
+40/69	69,138
+41/71	71
+42/73	73
+43/74	74
+43/75	75
+45/77	77
+46/79	79
+47/81	81
+47/82	82
+48/83	83
+49/85	85
+50/87	87
+51/88	88
+52/89	89
+53/91	91
+53/92	92
+56/97	97
+57/98	98
+59/101	101
+59/102	102
+60/103	103
+61/105	105
+62/107	107
+63/109	109
+64/111	111
+65/112	112
+66/113	113
+67/115	115
+67/116  116
+68/117	117
+69/118  118
+69/119  119
+70/121	121
+71/122	122
+71/123	123
+73/125	125
+73/126	126
+74/127	127
+76/131	131
+79/136	136
+80/137	137
+81/139	139
+81/140	140
+82/141	141
+83/142	142
+83/143	143
+
+Can anyone on the list explain why this happens? And also, please 
+correct any errors, typos, and add your comments, your "grain of salt".
+
+-Kami
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 26 Nov 1996 17:07 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08544; Tue, 26 Nov 1996 17:09:28 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA07219
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA27547; Tue, 26 Nov 1996 08:09:20 -0800
+Date: Tue, 26 Nov 1996 08:09:20 -0800
+Message-Id: <Pine.SCO.3.91.961126074430.25335A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

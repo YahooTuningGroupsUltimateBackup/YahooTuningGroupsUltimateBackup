@@ -1,0 +1,74 @@
+source file: mills2.txt
+Date: Fri, 27 Dec 1996 14:30:29 -0800
+
+Subject: Iranian tuning
+
+From: alves@osiris.ac.hmc.edu (Bill Alves)
+
+John Chalmers wrote:
+>I've seen two different descriptions of Iranian music,
+>one in terms of commas, limmas and whole tones, the other in 1/4-tones.
+>Unfortunately, "1/4 tone" is also used generically by some authors
+>for any sort of interval less than a tempered semitone.
+
+Ella Zonis in _Classical Persian Music_ (Harvard UP, 1973) characterizes
+these as opposing poles in a continuing controversy among Iranian music
+theorists. On the one hand there are the Pythagoreans, as represented by
+Mehdi Barkechli (in _La musique traditionelle de l'Iran_, Tehran, 1963) who
+divide the 9/8 whole tone into a comma (24 cents) and two limmas (256/243
+or 90 cents each). The diatonic semitones are not divided. As John shows in
+_Divisions of the Tetrachord_, this results in a 17-tone scale. Barkechli
+claims that this scale is both a theoretical and actual description of
+practice.
+
+More common seems to be the 24TET point of view, though, according to
+Zonis, the theoreticians in that camp recognize that the actual tuning will
+vary from player to player. I don't know if there has been any research
+into the actual tunings used by players since this book.
+
+By the way, I wouldn't characterize the _radif_ as the Iranian equivalent
+of a "fake book." Traditional Iranian improvisation is based on elaborate
+variations of skeletal melodies known as gusheh-ha (sing. gusheh). All the
+gusheh-ha of traditional Iranian improvisation are enumerated and the
+entire corpus is known as the radif. The embellishment of a particular
+gusheh will depend on a variety of factors, including what's idiomatic for
+the instrument, and, of course, the taste of the performer.
+
+There was a move in the twentieth century to write down the radif in
+Western notation, and the government at one time actually convened a panel
+of experts to standardize the radif. However, no one could agree on the
+exact form of each of the gusheh. Therefore the panel ended unsuccessfully,
+and several musicians have gone on to publish their own versions of the
+radif.
+
+It is my understanding (which is limited to pre-revolutionary Iran) that
+these books only serve as reference works. Comparing them to fake books
+(which, admittedly, also contain skeletal versions of music to serve as the
+basis for improvisation) is likely to evoke images of Iranian players
+reading from a volume on a music stand, which is hardly the case. (Perhaps
+with a brandy snifter beside them stuffed with tips :)
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)621-8360 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 28 Dec 1996 01:13 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03945; Sat, 28 Dec 1996 01:16:28 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA03944
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA00792; Fri, 27 Dec 1996 16:16:25 -0800
+Date: Fri, 27 Dec 1996 16:16:25 -0800
+Message-Id: <Pine.SUN.3.95.961227183312.12627A-100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

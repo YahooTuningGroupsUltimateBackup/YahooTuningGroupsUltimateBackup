@@ -1,0 +1,74 @@
+source file: mills3.txt
+Date: Tue, 26 Aug 1997 20:11:06 +0200
+
+Subject: Demisemitones
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+I wrote:
+
+>> I now use the term "demisemitone" for intervals with dimensions
+>> of q and r-q, although I would rather call them quartertones.
+
+Gary Morrison wrote:
+
+>   I may have lost track of the "p"s and "q"s, but I think I understood you
+> to suggest that the distance between a minor second and an augmented octave
+> should be viewed as roughly a quartertone?
+
+There is a difference between a fifth and a twelfth, so there is
+also a difference between an octave and a unison.  In this case,
+we're talking about the difference between an augmented unison
+and a minor second.  Augmented octave indeed ...
+
+I introduced the term "demisemitone" for this concept, to avoid
+confusion with other meanings the word "quartertone" has
+acquired.
+
+>   If so, I don't think that's a good idea.  In 24TET for example, the
+> distance between an augmented unison (e.g., C-C#) and a minor second (e.g.,
+> C-Db) is zero, not a quartertone.  In 19TET, that difference is the same as
+> chromatic half-step.
+
+The definition only applies to syntonic meantones.  24tet, as
+opposed to 12tet, is not such a scale, so a demisemitone can
+be defined as 1 step.  In general, I would define a demisemitone
+as the approximation of the septimal comma.  This is consistent
+with 7/4 being a subminor seventh, and an augmented sixth in
+a syntonic meantone.
+
+>   When you deal with quarter-steps, you have to add the ideas of
+> half-augmentation and half-diminishment, and consequently subminors,
+> neutrals, and supramajors.  If you don't, you're almost certainly going to
+> run into inconsistent terminology.
+
+Yes, fine with me.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  kukula@synopsys.com
+Subject:  groups, matrices, etc.
+PostedDate:  26-08-97 18:22:43
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  28-08-97 10:23:50-28-08-97 10:23:52,28-08-97 10:21:25-28-08-97 10:21:26
+DeliveredDate:  28-08-97 10:21:26
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256501.002DF3AF; Thu, 28 Aug 1997 10:21:55 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01384; Tue, 26 Aug 1997 18:22:43 +0200
+Date: Tue, 26 Aug 1997 18:22:43 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA01382
+Received: (qmail 6316 invoked from network); 26 Aug 1997 16:22:31 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 26 Aug 1997 16:22:31 -0000
+Message-Id: <199708252334.QAA00544@sunatg3>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

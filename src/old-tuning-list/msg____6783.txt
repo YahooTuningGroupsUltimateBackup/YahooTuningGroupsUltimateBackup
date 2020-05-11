@@ -1,0 +1,51 @@
+source file: mills3.txt
+Date: Tue, 23 Dec 1997 20:46:49 +0100
+
+Subject: Basic Principle of Temperament
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+I believe I said (correctly) in an earlier post that the three pairs of
+consonances vary independently under temperament. In fact, to be more
+precise, this is true for equal temperaments only; in unequal
+temperaments of value one can arrange for (at most) two of the three
+pairs to vary together, but never all three. In the 1/3 mesotonic for
+example, the fifth and major third are diminished by 1/3 comma, while
+the minor third is held just. In the 1/4 comma mesotonic the fifth and
+minor third are diminished by 1/4 comma, while the major third is held
+just. In unequal temperaments indeed one could arrange for the
+consonances to vary together (except for the 'wolves') but the result
+would be execrable octaves.
+
+All this is a commonplace for the cognoscenti. I set it down here as a
+help to those whose musical education ? in other respects perhaps quite
+excellent ? has not much prepared them for tuning questions.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  19-tone Equal Tetrachords
+PostedDate:  23-12-97 21:02:13
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  23-12-97 21:00:04-23-12-97 21:00:05,23-12-97 20:59:36-23-12-97 20:59:36
+DeliveredDate:  23-12-97 20:59:36
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256576.006DDB33; Tue, 23 Dec 1997 21:01:51 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24651; Tue, 23 Dec 1997 21:02:13 +0100
+Date: Tue, 23 Dec 1997 21:02:13 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA24593
+Received: (qmail 28151 invoked from network); 23 Dec 1997 12:02:10 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Dec 1997 12:02:10 -0800
+Message-Id: <34A07AA7.7F5@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

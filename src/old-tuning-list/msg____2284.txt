@@ -1,0 +1,26 @@
+source file: mills2.txt
+Date: Wed, 8 Nov 1995 06:09:35 -0800
+
+Subject: Re: Transcendental Numbers
+
+From: Tom  <td@plan9.att.com>
+
+td@plan9.att.com babbled:
+>  While
+>the square root of 12, for example, whose `decimals go on forever
+>without repeating in *any* pattern', is not rational.  Neither
+>is it transcendental, being a root of the equation x^12=2.
+
+Obviously, td had a fit of aphasia affecting his puncutation and
+whether he was talking about the 12th root of 2 or x^2=12.
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 8 Nov 1995 18:41 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA09778; Wed, 8 Nov 1995 08:40:57 -0800
+Date: Wed, 8 Nov 1995 08:40:57 -0800
+Message-Id: <951108114005.21c0302f@HIRAM.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

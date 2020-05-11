@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Sun, 12 Nov 1995 08:54:37 -0800
+
+Subject: Defenition of JI
+
+From: jinetwk@hopf.dnai.com (Just Intonation Network)
+
+>The Early Music list has just been informed, with the Harvard 
+>Dictionary of music as authority, that Just Tuning is "any 
+>tuning that incorporates five or more acoustically pure types 
+>of intervals within the octave." That means, of course, that 
+>Pythagorean and 1/4-comma meantone, and, for that matter, most 
+>early temperaments, are Just Tunings! Somehow, I don't think 
+>that is the definition that JI advocates use today.
+
+The definition of JI that I use (and one that is pretty common, if not
+universal, among JI users, at least in the U.S.), is essentially that of Partch:
+Just Intonation is any tuning in which all of the intervals can be expressed
+as integer ratios, *with a strongly implied preference for the smallest
+numbers that are compatible with a given aesthetic purpose.*
+
+Just Intonation systems are commonly further qualified by the prime factors
+by which they are generated, e.g., five-limit JI, seven-limit JI, 3 x 7, JI,
+etc. Pythagorean is a form of JI (three-limit), but not a good system for
+triadic harmony, i.e., it does not use "the smallest numbers that are
+compatible with _that_ aesthetic purpose." 1/4-comma meantone is definitely
+NOT a variety of JI, even though it includes just (5:4) major thirds,
+because it also includes irrational intervals derived from the square root
+of 5. The same goes for most of the historical temperaments.
+
+Further, the "any tuning that incorporates five or more acoustically pure types 
+of intervals within the octave" definition implies a twelve-tone fixed
+scale, and most people working with JI today don't restrict themselves to
+12-tone fixed scales, or in many cases, to any fixed scale whatever.
+
+--DBD
+==========================================================================
+David B. Doty                                            jinetwk@dnai.com
+Just Intonation Network                      http://www.dnai.com/~jinetwk
+Phone:(415) 824-5325                                 535 Stevenson Street
+FAX:  (415) 864-8726                              San Francisco, CA 94103
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 12 Nov 1995 20:47 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA08225; Sun, 12 Nov 1995 10:47:16 -0800
+Date: Sun, 12 Nov 1995 10:47:16 -0800
+Message-Id: <Pine.3.89.9511121320.B12735-0100000@email.ir.miami.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

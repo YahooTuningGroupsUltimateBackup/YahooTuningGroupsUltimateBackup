@@ -1,0 +1,125 @@
+source file: mills2.txt
+Date: Wed, 11 Sep 1996 08:40:18 -0700
+
+Subject: Re: Gamelan Selonding
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+The range of variation in Balinese & Javanese tunings is well known.  A
+recent recording of the Balinese ritual 7-tone iron Gamelan Selonding (to
+be more precise, a copy of a ritual instrument from the village of
+Tenganan) provides a startling illustration of either (a) the range of
+variation within the Saih 7 (Balinese pelog) conception or (b) grounds for
+some reconsideration of the whole family of scales. 
+
+C. McPhee made two divisions of the Saih 7 family: that based upon the
+Gambuh (a theatrical music apparently imported from East Java), from which
+the more familiar large bronze ensembles derive their tunings, and that of
+the Gamelan Gambang, with which he identifies the Gamelan Selonding
+tunings. Like the G.Gambang, Selonding (the spelling is wildly variable) is
+used in ritual practices; it is found almost exclusively in East Bali
+(hence, furthest from Javanes influence) and nearly each village maintains
+their own, and distinct, practice. Furthermore, McPhee identified two
+tendencies in Balinese practice, on one hand towards an island-wide
+standardization of tuning (in both pitch height & interval structure) and
+on the other towards deviation. Selonding clearly falls into this category.
+
+Two caveats before I proceed: (1) I am dealing with precious little
+substantial data, much of that unclear about which instrument or register
+is in question & attempts to fill in gaps have so far been met with little
+success and (2) an iron gamelan, with relatively thin keys, is extremely
+malleable, so all that follows may be for nought!
+
+The usual model for Saih 7 is something like E F G A+ B C D.  For
+comparisons sake, I will transpose the following examples to E, indicating
+in parentheses the approximate original pitch level, and giving cent values
+wherever possible.
+
+The Tuning McPhee gives for the South Tenganan Gamelan is:
+
+                            E     F    G    A    Bb    C      D     (where
+E is actually a low 257.5 Hz "D")
+   intervals in cents  132 184 181 159  158  255
+    cum. cents         0    132 316 497 656   814  1069
+
+The main melodic instrument begins its scale on the second degree, and
+continues to the octave of this pitch. Interestingly, his transcribed
+examples are rich in triads and a series of meantone-like triads can be
+derived from this tuning.
+
+The recording I have (WDR), made from the copy of another (?) Tenganan
+orchestra, has two pieces in the same 5-tone mode (my transcription, within
+10 cents):
+
+                                (x)      F       G      A       (x)    C   
+  D    (F=E+33cents)                                        cm. cents      
+     0      180   380            660  890   
+
+This is the tuning for the main melodic instrument. For the record, several
+of the other instruments have a very high second degree, ca 310 cents,
+giving a scale like F G# A C D (untransposed: E Fx G# B C#). (I find the
+clash of the various second degrees to be charming). Please note the triad
+F A C, again, in the meantone direction.
+
+The only monograph source on the topic, Ernst Schlager´s Rituelle
+Siebenton-Musik auf Bali, gives, unfortunately, no measurements in cents (I
+find this a bit surprising as Schlager was a professional scientist).
+However, his notation in 12tet shows some rough scalar profiles:
+
+        Village   Level of Pitch 1         Scale, transposed
+        Selat            A                       E    F#   G#    A#   B   
+C#   D#
+        Ngis             E                       E    F#   G#    A     B   
+C#   D
+        Bugbug        Eb                      E    F#   G#    A     B    C#
+  D
+        Timbrah        D#                     E    F     G      A     Bb  
+C    D
+        Bungaji         E                       E    F     G      A     Bb 
+ C    D
+        Asak            E                       E    F      G      A     Bb
+  C    D
+        Tenganan 1  E                       E     F     G      A     B    
+C    D
+        Tenganan 2  (E)                            F     G             Bb  
+C    D                  
+
+Of all of these distinct profiles, only Tenganan 1 is a normative Saih 7!
+
+Having just begun to work with these materials, I have no conclusions, but
+suspicions, to report: a tendancy towards meantone-like triads, the
+diminishing of the 1 - 5 fifth, and 
+making a fourth out of the 1-4 interval. (The 1-7 interval, seems to be
+7/4-ish thoughout the greater pelog family). Curiously, the Euler Genus
+(1,3,5,7), an eight tone set, yields two seven tone scales, through the
+omission of a single pitch, one of which bears harmonic (if melodically a
+bit stretched) similarities with normative Saih 7 or Pelog and the second
+of which approaches Selonding:
+
+Euler Normative:         1x5,  3x7,  1x3,  1x3x5x7,  3x5,  1,  5x7
+Euler Selonding:         1x5,  3x7,  1x3,  1x3x5x7,  1x7,  1,  5x7
+
+To find such harmonic resources imbedded in these tuning strikes me as
+reasonable, if these tunings are indeed "well temperaments", compromises
+made by the gamelan maker in order to play in more than one transposition
+level (patet/key/mode). That the linear series behind the temperament might
+have meantone-like qualities is happy speculation on my part, but might be
+suggestive to composers working with gamelans, or in search of interesting
+and attractive pitch materials.
+
+
+Daniel Wolf
+Frankfurt/Main                 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 11 Sep 1996 20:46 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA26187; Wed, 11 Sep 1996 20:48:06 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA26321
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA22513; Wed, 11 Sep 1996 11:48:04 -0700
+Date: Wed, 11 Sep 1996 11:48:04 -0700
+Message-Id: <199609111446_MC1-960-9675@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

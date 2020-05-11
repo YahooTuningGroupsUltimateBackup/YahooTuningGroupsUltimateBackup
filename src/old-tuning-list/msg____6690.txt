@@ -1,0 +1,139 @@
+source file: mills3.txt
+Date: Thu, 18 Dec 1997 03:19:01 +0100
+
+Subject: Practical Bases of Just Intonation
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+One traditional means of deriving just intervals is of course to simply
+embark upon a series of perfect fifths:
+
+3/2 x 3/2 = 9/4 x 1/2 = 9/8
+9/8 x 3/2 = 27/16
+27/16 x 3/2 = 81/32 x 1/2 = 81/64
+etc
+
+Bringing the ratios back within the octave as one proceeds. This is
+Pythagorean intonation.
+
+But does a singer ever sing this many successive fifths (or fourths)?
+Evidently not. In highly modulated music such a chain might occur, but
+would be only an almost undiscernable trickle of tonality in the great
+flood of tones more directly related to the tonic (new or old.)
+
+The system is therefore without practical relation to music, and is one
+of those theoretical delusions which so plague and confuse musicians.
+But this cycle of fifths does nevertheless have an important r?le to
+play in the derivation of systems which are fit for practical music.
+
+If the cycle of fifths/fourths is used merely to ensure that each one of
+the tones of a temperament has a consonant fifth above and below it, and
+that the other consonances are likewise related to the fifths such that
+consonant chords are present, and the maximum number of consonant
+melodic intervals likewise present (this is the point I have earlier
+made in connection with the harmonic and melodic deficiencies of the
+22-tone equal) then the cycle of fifths/fourths is very useful - in the
+context of temperament, not just intonation - to ensure that the cycle
+of the fifth/fourth shall be harmonically and melodically congruent with
+the cycles of the major third/minor sixth and minor third/major sixth.
+That is to say, by congruent, I mean that every pitch of the temperament
+has both consonant fifths and thirds above and below it. If even one
+tone lacks this, then we have at a stroke severely restricted both
+modulation, and also gravely weakened the melodic coherence of music,
+which depends on a seamless fabric of consonances and dissonances
+related by consonance. Within limits, music can survive a poor
+temperament, as the 12-tone equal daily attests, but its variety and
+expressivity will be found to be greatly constrained.
+
+But if the cycle of fifths is used as a basis for just intonation, it
+excludes the thirds and sixths from consonance, which is absurd. There
+are two other consonant cycles besides the cycle of the fifths/fourths,
+to which cycles I referred in the previous paragraph. The thirds and
+sixths are more common in song than either fifth or fourth, so although
+they are less consonant, they are but little less likely to be sung
+accurately, the more so as the thirds are much narrower than the fifth
+and fourth.
+
+It follows that any just intonation which hopes to be of practical use
+in describing what singers can sing, or what they find easiest to sing,
+and in describing how closely a given dissonance is related to the
+tonic, and hence how "tonal" that dissonance is, must include all three
+consonant cycles in the calculation.
+
+These principles follow from acoustics, and not primarily from art or
+culture. Renaissance polyphony, Rock music, Western 'Classical' music,
+Arab music, Indian music, etc all share, at least for singers, in these
+principles. No singer accurately sings the 20th just fifth from the
+tonic (unless by chance this corresponds to a consonant interval.)
+
+As it turns out, even if one does give greater weight to the cycle of
+the fifth/fourth, calling dissonances "tonal" that are related to the
+tonic through _two_ successive fifths or fourths (and not one only) we
+have only two additional tonal dissonances, both of them a mere comma
+removed from consonances, and so perfectly irrelevant melodically, and
+worthless for harmony. These are 32:27 (4/3 x 4/3 x 4/3) and 27:16 (3/2
+x 3/2 x 3/2), and occur of course among the regular atonal dissonances
+that I have enumerated.
+
+These principles have nothing to do with any one temperament; they hold
+true for all temperaments and systems; I certainly did not dream them up
+to promote the 19-tone equal temperament, which however closely conforms
+to the resulting intervals.
+
+No matter how one may try to avoid it, no matter what argument one may
+devise, it cannot be denied that the 19 degrees of the 19-tone equal
+correspond remarkably well (though not of course perfectly) to the 7
+consonances and 12 tonal dissonances. Of course, as I have just noted,
+it is possible to discuss _at the margins_ in a manner of speaking. One
+may discuss whether the septimals should be included as consonances, but
+even were we so unwise as to take these intervals for consonant, we
+would do nothing except set up a very limited exception to the general
+tonality of music. The manner of deriving the tonal dissonances is also
+debatable, though again, within the realms of reasonable debate, the
+number of 12 tonal dissonances can be altered only slightly if at all.
+
+This is not an arbitrary system, any more than the multiplication table
+is arbitrary. The tonal dissonances are associated to the consonances
+through 94 different consonant progressions, which form the fabric of
+tonality which it is the business of temperament to knit yet more
+strongly together. By this means dissonance acquires an inevitable,
+highly memorable character that marvelously contributes to the
+expressive power of music.
+
+I believe I have posted the tonal progressions proper to one of the 19
+intervals. I don't think this is the place to post them all, but here is
+one more:
+
+25/24 , 70.7 cents, the chromatic semitone:
+
+5/4 x 5/3 , 5/4 x 5/6, 5/3 x 5/4, 5/3 x 5/8, 25/18 x 3/2, 25/18 x 3/4,
+ 25/16 x 4/3, 25/16 x 2/3
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Aline Surman <stick@dnvr.uswest.net>
+Subject:  19 tone/20 tone
+PostedDate:  18-12-97 03:48:00
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-12-97 03:45:54-18-12-97 03:45:54,18-12-97 03:45:31-18-12-97 03:45:32
+DeliveredDate:  18-12-97 03:45:32
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256571.000F2EC3; Thu, 18 Dec 1997 03:47:46 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18430; Thu, 18 Dec 1997 03:48:00 +0100
+Date: Thu, 18 Dec 1997 03:48:00 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18621
+Received: (qmail 9585 invoked from network); 17 Dec 1997 18:46:50 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Dec 1997 18:46:50 -0800
+Message-Id: <34989783.57EC@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

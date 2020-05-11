@@ -1,0 +1,31 @@
+source file: mills2.txt
+Date: Thu, 25 Jul 1996 19:34:45 -0700
+
+Subject: Re: TUNING digest 790
+
+From: Mmcky@aol.com
+
+Manuel Says:
+
+>>The generating function is....
+
+It seems to me that for any finite number of integers, there are an infinity 
+of generating functions.
+
+The one mentioned here is probably elegant, but I see no way to prove it 
+is the most elegant.
+
+Marion
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 26 Jul 1996 16:06 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA28344; Fri, 26 Jul 1996 07:06:06 -0700
+Date: Fri, 26 Jul 1996 07:06:06 -0700
+Message-Id: <009A5E947698164C.249C@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

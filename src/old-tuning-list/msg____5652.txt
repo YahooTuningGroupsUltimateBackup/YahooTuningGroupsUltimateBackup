@@ -1,0 +1,64 @@
+source file: mills2.txt
+Date: Tue, 17 Jun 1997 09:39:27 +0200
+
+Subject: Lucy comments on x/y/z scale coding system used by Bill Alves
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Lucy has apparently failed to understand that Bill Alves' notation is a
+specific and obvious notation for a modest amount of useful and valuable
+information for purposes of comparison with no design on making some ''code
+to end all codes''. To do so would neccessarily lead to a degree of
+specificity that would undermine the entire project, which succinctly
+identifies one sent of scalar properties observable in real musics.
+Whatever Lucy's own newer notation may do, it does not immediately present
+the (systemic collection/scalar collection/alternative membership) pitch
+information in a succinct form. And Alves', may I add, does not attempt to
+impose, with imperialist certainty, an external analysis upon systems
+belonging to persons or cultures with whom the analyst is insufficiently
+familiar. That Lucy's 1989 code is similar to Alves' demonstrates only the
+obviousness of the procedure; the tenor of Lucy's recent letter to Alves
+suggests that the notational similarity is, however, deceptive, in that the
+two gentlemen are listening to very different aspects of scales, that Lucy
+does not understand this, and thus the resemblance is ultimately
+superficial.
+
+I also beg to differ with Lucy's claim to priority for this code. It is
+implicit in the work of Bosanquet and Yasser, and Erv Wilson taught me (and
+perhaps Bill as well) in the mid seventies to design scales by using a MOS
+notation which was vitually identical, including auxillary tones via
+substitutions in the chain of generating intervals. Although I have dateddocuments from this study, Wilson was clear-headed enough to always insist
+that such methods were obvious consequences of existing music theory and a
+modest bit of set theory and I believe he would find expending much effort
+into such a priority claim to be silly.  In addition, a close look at pitch
+class theory will reveal work that is largely homologous with this, if
+notated differently and towards different ends.
+
+And that brings us to the crux of the matter: a code like this is nothingspecial in itself and certainly not worth arguing over priority claims.
+There are an infinite number of alternative codings for the same
+information, but the conceptual basis for the particular assemblage of
+information chosen to be encoded is the critical point. On this basis, I
+would assign priority here to Yasser. A similar discussion took place earlier on the list regarding lattice
+notations for tuning systems, with several enthusiasts promoting Ben
+Johnston - although lattices were used already in the nineteenth century
+music acoustical literature: Ellis and - already triangulated! - Tanaka,
+come immediately to mind. The fact is, however, from an elementary
+mathematical viewpoint, the lattice was already described in complete form
+by alternative but non-graphic means elsewhere in the music theoretical
+literature. As Vogel and his students have amply demonstrated, it is a
+trivial exercise to translate a given functional harmonic theory into a
+tuning lattice!
+
+ Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Jun 1997 09:52 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01002; Tue, 17 Jun 1997 09:52:28 +0200
+Date: Tue, 17 Jun 1997 09:52:28 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00999
+Received: (qmail 11392 invoked from network); 16 Jun 1997 02:31:58 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 Jun 1997 02:31:58 -0000
+Message-Id: <199706160229.VAA17217@riptide.wavetech.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

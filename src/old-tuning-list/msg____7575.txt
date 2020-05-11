@@ -1,0 +1,33 @@
+source file: m1398.txt
+Date: Tue, 28 Apr 1998 00:01:20 -0500 (CDT)
+
+Subject: RE: Orchestral-Instrument Aperiodicity
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>It looks an awful lot like the true fundamental is an octave below the
+>period you have identified.
+
+   That's not terribly likely for three reasons:
+1.  This note is in the lower register of the bass clarinet.  It is not an
+    overtone.  The register key is not down.
+2.  If you look at the wave earlier in time, you see that the alternating
+    low-high of that rough slowly starts alternating the other direction, and
+    in about the same amount of time starts alternating the other way.  There's
+    something going on that isn't at a subharmonic frequency.
+3.  Once again, if it were a component at half the fundamental frequency, we
+    would have seen the entire wave ooze up and down with that trough.
+
+
+
+
+>Try playing
+>a wind instrument without the reed and you will still get a rough idea
+>of the pitches you're fingering from the way your breath-noise is
+>amplified.
+
+   Analogously, one thing I've done on my orchestral string samples is to
+sample and loop the sound of bowing the bridge, and then high-pass filter
+it out in the original sample.  That way the pitch of that noise component
+doesn't change in pitch with the change in pitch of the tone, just as it
+does not on a the real instruments.

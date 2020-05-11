@@ -1,0 +1,24 @@
+source file: mills2.txt
+Date: Fri, 26 Jul 1996 21:26:56 -0700
+
+Subject: Re: Need spec for Gen. Midi Tuning dump
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+By the way, be careful of one thing:  I found out after I grabbed a free copy
+of the MIDI-file spec, that the words of the spec itself is copyrighted,
+although although its author has placed the ideas it presents in the public
+domain.  So you might want to be cautious of the possibility that the same might
+hold for MIDI tuning dump, sample dump, and such.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 27 Jul 1996 06:27 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id VAA12846; Fri, 26 Jul 1996 21:27:42 -0700
+Date: Fri, 26 Jul 1996 21:27:42 -0700
+Message-Id: <960727042255_71670.2576_HHB66-17@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

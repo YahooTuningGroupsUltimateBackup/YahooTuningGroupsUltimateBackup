@@ -1,0 +1,51 @@
+source file: m1400.txt
+Date: Wed, 29 Apr 1998 14:57:40 -0500 (CDT)
+
+Subject: RE: Difficulties in Piano Construction
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Wed, 29 Apr 1998, Paul H. Erlich wrote:
+> Gary wrote,
+> >         If I remember correctly, [Ivor] said that it would tend to go out
+> >of tune more quickly in anything other than equal-temperament.
+> 
+> If the total tension of the strings were held constant, then there is no
+> reason that tuning to an unequal tuning would lead to less tuning
+> stability than one had in equal temperament.
+
+That makes sense to me--but I'd hate to go against the hands-on
+experience of a tuner.  Ed Foote, what say you?  (IIRC, Ed was the tuner
+on the list who was using unequal temperaments on modern pianos, yes?)
+
+> Daniel wrote,
+> >There are arguments about ET and the piano based upon
+> >the stretched intonation of the partials of the
+> >rigid piano wire. I have great trouble in supporting
+> >these arguments historically, however, because the
+> >early pianos were wired at a much lower tension
+> >than modern instruments and were considerably less
+> >stretched. [snip]
+> 
+> That seems contrary to the evidence as well as scientific theory. [snip]
+> 
+> "Physically, . . . the inharmonicity of single piano strings . . .
+> becomes decreased as the pitch is raised. ([This] is implied in fact by
+> the formula of inharmonicity by Fletcher.)"
+
+As I recall, the greater harmonicity that results from greater string
+tension is the reason that historical keyboard instruments are scaled so
+that the strings are very near their breaking stress, regardless of the
+metal used.  Occasionally we have discussions on the Harpsichord list
+about this.  Intuitively, the phenomenon can be explained this way: as
+string tension increases, the component of the restoring force in the
+vibration caused by string tension (ideal-stringlike behavior)
+increases, becoming greater in relation to the component caused by
+string stiffness (bar-like behavior), which remains constant--and ideal
+strings vibrate harmonically while bars do not.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

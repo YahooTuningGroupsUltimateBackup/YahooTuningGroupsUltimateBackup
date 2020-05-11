@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Tue, 10 Dec 1996 23:58:24 -0800
+
+Subject: To Heinz Bohlen: Tonality and Infilling
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+Heinz Bohlen wrote:
+
+**Alright, that sounds rather mechanistic, but
+doesn't already the choice of the triad introduce tonality into this
+process?**
+
+My understanding of tonality is that it is not determined by a single
+static entity - the triad - but rather by establishing relationships
+between pitches. The two basic procedures in doing this are repetition and
+contrast.  A monody can be _tonal_, for example, without outlining chords,
+but but establishing - through repetition - fixed reference pitches and
+contrasting them with other pitches. 
+
+Schenker demonstrated one way (or a complex of ways) in which voice leading
+created contrast to a basic triad. The tones of the triad were contrasted
+with neighbor and or passing tones. The particulars of his voice leading
+were observed in late 18th and early nineteenth century european musics; I
+have no doubt that alternative particulars could be observed in other
+musics. Bohlen's method of scale construction appears to be in the same
+spirit - if not derived specifically from voice leading in a particular 
+repertoire. Great minds think alike...
+
+What still appears the be curious to me about both infill methods of scale
+construction is why a triadic infill of the octave (4,5,6,8) should be
+preferred to, for example, the tetrad (4,5,6,7,8), and why the harmonic
+infills are preferred over subharmonic or neutral divisions. (And why
+should a harmonic triadic infill (4,5,6,8) be itself infilled in a
+non-harmonic way (i.e. the diatonic scale and not harmonics 8 through 16).
+Are these preferences innate or acquired, and if acquired (my own
+suspicion), what is the range of possible variation? 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 11 Dec 1996 14:37 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23095; Wed, 11 Dec 1996 14:39:36 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA23064
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id FAA06191; Wed, 11 Dec 1996 05:39:33 -0800
+Date: Wed, 11 Dec 1996 05:39:33 -0800
+Message-Id: <01BBE73D.AF0FF320@ashcraac.sct.ucarb.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

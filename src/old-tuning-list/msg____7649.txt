@@ -1,0 +1,24 @@
+source file: m1403.txt
+Date: Sun, 3 May 1998 09:45:09 -0500 (CDT)
+
+Subject: Re: JI Tuning Resolution
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Hang on, I said you _can_ get 88CET, not that I was doing this!
+
+   Ah.  But, no matter;  as long as you're doing cool stuff in whatever
+tuning, then I be grinnin'!
+
+
+
+
+
+>There's a "Scale Tune"  parameter
+>that sets the interval between notes, and this can be used to get
+>88CET.  Unfortunately, it can only take cent values so it's
+>useless even for a piano tuner's octave.  If you think this is
+>stupid, try writing to soundfont@emu.com and telling them so.
+
+   I get the impression that Emu's stand-alone MIDI synthesizers, however,
+can do arbitrary tuning tables.  Is that true?

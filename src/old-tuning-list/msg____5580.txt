@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Mon, 2 Jun 1997 14:03:46 +0200
+
+Subject: Help!!!
+
+From: Murat Ses <Murat.Ses@mag.linz.at>
+
+Hi
+
+Can anyone explain following stuff in brief:
+
+(Document: modenam.par)
+
+7 tone modes:
+
+
+1 1 2 1 2	Thai mode 1
+1 2 1 2 1	,,    ,,  2
+2 1 1 2 1 	,,    ,,  6
+
+I cannot find out meanings of 2 or 1 ?
+
+I can understand e.g. the following and apply the same :-)
+
+17 tone modes of Arabic Pythagorean scale:
+256/243 65536/59049 9/8 32/27 8192/6561 81/64 4/3 1024/729 262144/177147
+3/2 128/81 32768/19683 27/16 16/9 4096/2187 1048576/531441 2/1
+
+Thanks in advance
+
+
+Murat
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 3 Jun 1997 02:40 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14004; Tue, 3 Jun 1997 02:40:27 +0200
+Date: Tue, 3 Jun 1997 02:40:27 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA14015
+Received: (qmail 10115 invoked from network); 3 Jun 1997 00:40:10 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 3 Jun 1997 00:40:10 -0000
+Message-Id: <009B530334005B94.3DDB@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

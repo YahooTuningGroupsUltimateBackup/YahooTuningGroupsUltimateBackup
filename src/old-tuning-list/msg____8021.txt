@@ -1,0 +1,49 @@
+source file: m1442.txt
+Date: Tue, 9 Jun 1998 15:07:48 -0400
+
+Subject: RE: Disappearing Commas
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>Could anyone tell me - is there a unique theoretical limit at which a 
+>comma (of different kinds?) may be said to disappear?
+
+I don't understand this--can you rephrase?
+
+>Are there 
+>strict and not so strict definitions of which systems (or musical 
+>sequences?) of which this can be said to pertain/occur?   Is there a 
+>single accepted definitive reference which defines the 'disappearance 
+>of a comma'? (Helmholtz?)  These are things I missed in my education.
+
+With regard to the syntonic comma and some of the "better" ETs, you
+probably can get quite a lot from references like Helmholtz. Otherwise,
+I must humbly suggest that my consistency stuff is key. This has been
+covered on the list before, contact me and I'll try to dig up the
+relevant TDs. The syntonic comma is traditionally defined both as the
+difference between a Pythagorean minor third and a just minor third, and
+as the difference between a Pythagorean major third and a just major
+third. When using the closest approximations to the consonant intervals
+(one constructs the Pythagorean intervals from chains of perfect fifths)
+in an ET not consistent within the 5-limit, these definitions may not
+agree, so the comma itself, and the question of its disappearance, may
+not be well-defined. Similarly, commas constructed from n-limit
+intervals are uniquely defined in all tunings consistent within the
+n-limit. Given consistency, the determination of the size of a comma in
+an ET is fairly trivial.
+
+In meantone tuning, the syntonic comma disappears by definition. That
+is, even though it may be possible to find a better perfect fifth above
+C than G, by extending the meantone tuning to 100 or so notes per
+octave, and using such a perfect fifth to define a non-vanishing
+syntonic comma, that's not really a kosher use of meantone. Other
+non-closed tuning systems may also have "canonical" representations for
+the consonances, and one should use these, not some distant
+improvements, to define the commas. Going back to meantone, one can make
+a case for defining the canonical 7/4 as the augmented sixth, and all
+septimal commas can be determined from there. But that is already in
+conflict with the interpretation of the dominant seventh chord as some
+form of 4:5:6:7. Going to higher primes (odd composites don't lead to
+any new commas) in meantone tuning or other non-closed systems is really
+questionable unless those systems were designed with those primes in
+mind.

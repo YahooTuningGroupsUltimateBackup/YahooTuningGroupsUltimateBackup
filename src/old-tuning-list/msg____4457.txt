@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Wed, 1 Jan 1997 15:13:23 -0800
+
+Subject: Re: Roland microtuning
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+John Loffink wrote:
+> 
+> > A friend of mine just bought a Roland XP80, which permits
+> > 12-note-per-octave tuning, specified in cents, and possibly per-note tuning
+> > across the whole keyboard as well, althought I'm not as sure about that
+> > part, as I only had a quick look at the manual, and about 5 minutes of
+> > actual playing with the settings.
+> 
+> The Roland JV-1080, XP-50 and XP-80 each have sixteen 12-note-per-octave
+> tuning tables.  Even the low-priced XP-10 has one 12-note-per-octave user
+> tuning table.  The XP-10's $895 list price probably qualifies it as the
+> least expensive microtonal keyboard ever marketed.  It's refreshing to see
+> microtonal support, no matter how limited, in an instrument in this price
+> range.  Older Roland models with microtuning include the SC-50, SC-55mkII,
+> SC-88, M-GS64, JV-90 and JV-880.
+> 
+> John Loffink
+
+Just thought I'd add that I see adds for used Yamaha DX7-II keyboards, like the one 
+I have, in the local used-stuff paper in Los Angeles for $300 to $500. It holds 2 
+user tunings which are complete per-note tunings, that is 128 midi triggerable or 
+61 keyboard triggerable pitches each tunable across the instrument's range (8 
+octaves?) to a resolution of 1024 Yamaha tuning units per octave. If one were to 
+purchase an additional memory cartridge, something like 40 additional user tunings 
+may be stored. Of course, using the midi tuning dump lets you store endless scales 
+on a computer or generate them in real time for transposition fun.
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 2 Jan 1997 00:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06506; Thu, 2 Jan 1997 00:14:37 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06509
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA28761; Wed, 1 Jan 1997 15:14:34 -0800
+Date: Wed, 1 Jan 1997 15:14:34 -0800
+Message-Id: <32CAEE06.C46@ix.netcom.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

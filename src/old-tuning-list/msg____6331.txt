@@ -1,0 +1,63 @@
+source file: mills3.txt
+Date: Thu, 23 Oct 1997 16:48:58 +0200
+
+Subject: Re: Questions
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Thu, 23 Oct 1997, John Chalmers wrote:
+>                                                          are there
+> any commercially available recordings of music in the 13th root of
+> 3/1 scales?
+
+I don't know how commercially available this is, but the Bohlen-Pierce
+scale is discussed in chapter 13 of the following book:
+
+ TITLE        Current directions in computer music research / edited by Max V.
+                Mathews and John R. Pierce.
+ PUBLISHED    Cambridge, Mass. : MIT Press, c1989.
+ DESCRIPTION  vi, 432 p. : ill., music ; 24 cm.+ 1 disc (digital ; 4 3/4 in.)
+ SERIES       System Development Foundation benchmark series ; 2.
+ NOTE         Includes index.
+ NOTE         Music,CD copy of examples shelved at circulation desk.
+ SUBJECTS     Computer music -- History and criticism.
+ OTHER AUTHOR Mathews, Max V.
+              Pierce, John Robinson, 1910-
+ ISBN         0262132419.
+
+The accompanying CD mentioned in the cataloging above contains four
+samples for that chapter; three of them are short compositions.
+
+--pH <manynote@library.wustl.edu> http://library.wustl.edu/~manynote <*>
+    O
+   /\        "Hey--do you think I need to lose some weight?"
+  -\-\-- o
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carl Lumma <clumma@nni.com>
+Subject:  The limits of the ear
+PostedDate:  23-10-97 19:20:01
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  23-10-97 19:19:13-23-10-97 19:19:13,23-10-97 18:19:53-23-10-97 18:19:54
+DeliveredDate:  23-10-97 18:19:54
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256539.005F212C; Thu, 23 Oct 1997 19:19:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA25471; Thu, 23 Oct 1997 19:20:01 +0200
+Date: Thu, 23 Oct 1997 19:20:01 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA25476
+Received: (qmail 25288 invoked from network); 23 Oct 1997 10:19:57 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Oct 1997 10:19:57 -0700
+Message-Id: <19971023172106234.AAA99@NIETZSCHE>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

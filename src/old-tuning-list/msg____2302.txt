@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Fri, 10 Nov 1995 21:34:59 -0800
+
+Subject: RE: Big Gulp
+
+From: Mmcky@aol.com
+
+Here is an analysis of Big Gulp.  I took the liberty of changing
+28/12 to 28/24 and 33/16 to 33/32.  I hope that is what was
+intended.
+
+I Also did a composition in this scale.  The composition can be
+downloaded from users.aol.com.  After you log in, just cd to
+mmcky, and download gulp.zip.  It's about 9 kilobytes, and 4
+minutes.
+
+Scale:     1
+
+LCM:   2^6*3^4*5*7*11
+
+ 12         360          15/         8  Major Seventh
+ 11         336           7/         4  Harmonic Minor Seventh
+ 10         324          27/        16  Pyth Major Sixth
+  9         297          99/        64
+  8         288           3/         2  Perfect Fifth
+  7         264          11/         8
+  6         252          21/        16
+  5         240           5/         4  Major Third
+  4         224           7/         6
+  3         216           9/         8  Major Tone
+  2         198          33/        32
+  1         192           1/         1  Unison
+
+Minimum Chords:
+
+   1   60   3:   4:   5    3-  8- 12
+   2   60   4:   5:   6    1-  5-  8
+   3   72   6:   8:   9    2-  7-  9
+   4   72   6:   8:   9    3-  8- 10
+   5   72   8:   9:  12    4-  6- 11
+
+Marion
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 11 Nov 1995 18:30 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA27303; Sat, 11 Nov 1995 08:30:34 -0800
+Date: Sat, 11 Nov 1995 08:30:34 -0800
+Message-Id: <199511111622.IAA26170@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

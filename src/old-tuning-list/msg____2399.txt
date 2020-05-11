@@ -1,0 +1,206 @@
+source file: mills2.txt
+Date: Wed, 20 Dec 1995 13:02:56 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject:  The collapse of innovation 
+in post-1988 synthesizer technology
+---
+In a previous post, Your Humble E-Mail 
+Correspondent mentioned the general
+excellence of Ensoniq's synths.  They
+sound about as good as anything else out
+there,  Ensoniq synths are rock-solid
+reliable, and their sampler operating
+systems are particularly intuitive and
+easy to use.  Anyone who battled the
+hellish TX16-W Yamaha sampler operating
+system or the botched E-Mu sampler OS's
+from the late 80s is well qualified to
+appreciate the excellence of the EPS/
+EPS-16/ASR-10's operating system. 
+However,  there's still plenty of room
+for improvement in the Ensoniq line.
+Someone posted a query about that--how
+can anyone say Ensoniq isn't up to date
+technologically?
+Here's how:
+[1] The ASR-10 needs more RAM.  A *LOT*
+more RAM.  Right now, the Kurzweill 2500
+series can take up to 128 megs.  This
+is a reasonable minimum amount: 256 megs
+would be more like it.  But 128 megs is a
+start.
+The ASR-10, by contrast, is stuck with 16 megs.
+This is around 90 seconds of sampling time at
+44.1 khz stereo.  Completely unacceptable.  Far
+too small an amount of RAM to be useful.
+Part of the problem is the kbd controller chip
+Ensoniq uses to address the RAM, part of the
+problem is the burden of maintaining backwards
+compatability with the EPS/EPS-16 &c.  
+Backward compatability must go.  The ASR-10's
+successor needs more RAM.  A *LOT* more.  
+With EDO, the people at Ensoniq need to start
+thinking in terms of *gigabytes* of RAM.
+(As always, readers will call this "insane"
+today, "a little over the top," in 6 months,
+and "very sensible, but somewhat conservative"
+in a year.) 
+[2] A rule of thumb is that a decent saxophone
+or clarinet needs 25-40 multisamples.  The
+ASR-10 allows 8 layers per instrument, 
+8 instruments total.  This is utterly inadequate.
+Backward compatability must go.  Dump the 8
+layer limit.  At least 127 A-B crossfades should
+be allowed per multisampled instrumnet, at least
+16 MIDI channels/instruments at a time.
+[3] David Doty made a point about accessing various
+layers during performance.  Clearly Ensoniq needs
+to upgrade the ASR-10's successor to allow MIDI
+access to each of the 127 layers within an
+instrument.  Since these would often be used for
+alternate tunings, it's a particular priority.
+[4] Ensoniq may want to think about implementing
+some new technology.  
+Ever since innovation ground to a screeching halt
+in the synthesizer industry, somewhere around 1988,
+industry pundits have wondered why sales of
+digital keyboard instruments have dropped
+steadily.
+There's no mystery. 
+The Korg M-1 provided the original and ever since
+then all the keyboard manufacturers have concentrated
+on cranking out endless xerox copies of that instrument,
+all using exactly the same antique technology:
+sample playback.
+With the exception of the Yamaha VL-1M/VL-7 and
+the E-Mu Morpheus, all current synthesizers are 
+nothing but sample playback machines that spit back
+digital recordings burned into ROM when you press
+a key.
+Now, there's nothing wrong with sample playback. It's
+a fine technology.  But after a while,  you get tired of
+hearing nothing but sample playback.
+Even today's samplers use exactly the same technology--
+with the only wrinkle being that *you* get to choose 
+what digital recording is regurgitated when you press
+a key, instead of *the synth company** choosing the sound.
+All today's synths are basically nothing but digital
+Mellotrons.  Where's the synthesis?
+Does anyone remember the origin of the term "synthesizer"?
+These instruments are supposed to *generate new sounds.*
+Instead, we get yet another canned B-3 sample
+burned into ROM.  And no matter how mich reverb, phasing,
+ring modulation, flanging or delay you slather on top of
+a sound burned into ROM, it all sounds pretty much the
+same.
+Around 1988, synth companies stopped making synthesizers.
+Instead, they all followed the cattle stampede toward
+the easy dollar.
+The net result is that there is today hardly any reason
+to buy one synth from one manufacturer rather than another.
+Ensoniq's tuning tables make a difference.  But if they *really*
+want to increase sales, how about building some actual 
+synthesizers for a change?
+Even Yamah has dropped the ball.  Today, if you want to
+buy an FM synth you're out of luck.  You have to buy one
+used, or pay for a Kyma.
+The brutal reality is there are *dozens* of synthesis
+methods: digital additive, subtractive, frequency
+modulation, amplitude modulation, Chebyshev
+distortion, Miller Puckette's formant synthesis,
+Lansky's LPC synthesis, phase vocoder analysis/
+resynthesis, Daubechies wavelets, Walsh function 
+analysis/resynthesis, Dashow's exponentiation
+synthesis, Hiller & Ruiz's physical modelling
+synthesis, waveguide synthesis, many others.
+Yet aside from Yamaha's VL-7/VL-1M physical
+modelling synth, not a single manufacturer has
+implemented *any* of these synthesis techniques
+in a currently available commercial synthesizer.
+Amazing.
+Shocking.
+Yet true.
+If Ensoniq wants to jump-start synth sales,
+they might think about implementing some of
+these synthesis techniques.
+Now that Korg's OASYS synthesizer has been
+discontinued--yet another case of classic
+vaporware--and the Gibson/G-WIZ labs' FAR
+Fourier resynthesizer cannot be purchased
+by anyone, anywhere, for any reason, at any time,
+any way, shape or form...well, now that these
+vaporware instruments have bitten the dust,
+what else is there on the horizon?
+Zero.
+Zilch.
+Zip.
+Squat.
+Diddly.
+Nada.
+These synths have joined the parade of
+vaporware formed by the Prism synthesizer
+(remember that one?), the additive synth
+built from the Amiga's Amy sound chip
+(256 additive partials--it gobbled the Amiga's
+entire CPU and memory so the company dumped
+it and licensed the rights to a start-up which
+was promptly sued out of existence), and the
+marvellous Technos 16pi...a synthesizer which,
+if it had ever existed, would have been 
+superlative.
+Well, chances are this is all blue-sky
+fabulation.  Chances are Ensoniq won't bother
+to actually build synthesizers.  Too much work.
+And the MR rack tends to bolster that 
+viewpoint.  Yet another wannabe sample-playback
+box, yet another digital Mellotron.  
+It's ironic that Ensoniq is giving up the opportunity
+to crush the Japanese synth companies.  What with
+their little Yen crisis and teetering financial
+system, this is an ideal chance for American synth
+companies to steal back the initiative that was
+lost when the Japanese licensed FM technology
+and ground the American analog synth manufacturers
+into the dirt back circa 1983.
+In any case, these remarks should be understood
+inthe context of making Ensoniq's excellent products
+better.  Rather than angering the engineers and
+management at Ensoniq, perhaps these words 
+will irk them into improving already fine
+synths.
+N.B.: Even though the Kurzweil 2500 series offers
+gobs of RAM, the sampler does *NOT* have a
+full-keyboard tuning table.  Thus my next sampler
+will be an ASR-10.  Also, Dave Rossum at E-Mu
+needs to take a look at Ensoniq's multiple tuning
+tables and realize the *immense* importance of
+more than one tuning table.  JI compositions
+which change key centers demand multiple tuning
+tables, as does work with (say) a Wilson 70-note
+hebdomekontany in only 128 MIDI notes.  Allen
+Strange has mentioned that he gets only 3 octaves
+of Partch's 43-tone just scale in MIDI's 128 notes;
+using the same timbre on 3 MIDI channels tuned
+3 octaves apart would increase his range to
+9 octaves.  And, as usual, Ensoniq is the *only*
+current manufacurer to support multiple tuning
+tables.
+Thus, for many microtonal applications, Ensoniq
+synths remain the only real choice.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 20 Dec 1995 22:57 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA26137; Wed, 20 Dec 1995 13:56:54 -0800
+Date: Wed, 20 Dec 1995 13:56:54 -0800
+Message-Id: <v01530501acfddf656c7a@[128.83.112.40]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

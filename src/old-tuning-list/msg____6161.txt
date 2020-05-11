@@ -1,0 +1,54 @@
+source file: mills3.txt
+Date: Thu, 25 Sep 1997 23:14:29 +0200
+
+Subject: Re: 22tet and 24tet
+
+From: Peter.Blasser@oberlin.edu
+
+After testing 22tet and 24tet on a spreadsheet application, I must ask why
+22tet is better at imitating 11 limit ratios.  24tet imitates 11/6, 18/11,
+16/11, 11/8, 11/9, and 12/11 almost perfectly, while 22tet
+imitates 20/11, 11/10, 9/7, and 14/9, while still giving good
+approximations of 11/8 and 7/6.  This could be said to be an almost equal
+proportion of imitations, although 24tet has a remarkable amount of
+well-hit 11 limits.  I think 24tet is good also because of its nice
+approximation of 4/3 and 3/2, which make for nice tetrachords.  But there
+is obviously a great following of 22tet, and I would love to understand
+why.  Obviously there are greater reasons than I have just comprehended.
+Thank you very much, and I would love to receive old copies of this
+discussion, if it would teach me something.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[Peter Blasser
+[Oberlin College Mailroom Box #277, 135 W.Lorain St.,
+[Oberlin, Ohio, 44074-1081.
+[Peter.Blasser@Oberlin.edu       .             .            .           .
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Paul-Hahn@library.wustl.edu
+Subject:  Re: 22tet and 24tet
+PostedDate:  26-09-97 00:07:31
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  26-09-97 00:07:10-26-09-97 00:07:11,26-09-97 00:06:14-26-09-97 00:06:14
+DeliveredDate:  26-09-97 00:06:15
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C125651D.00797FCE; Fri, 26 Sep 1997 00:07:05 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31308; Fri, 26 Sep 1997 00:07:31 +0200
+Date: Fri, 26 Sep 1997 00:07:31 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA31287
+Received: (qmail 14581 invoked from network); 25 Sep 1997 15:07:28 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 25 Sep 1997 15:07:28 -0700
+Message-Id: <Pine.SOL.3.95q.970925165753.6784H-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

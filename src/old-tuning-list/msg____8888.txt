@@ -1,0 +1,52 @@
+source file: m1589.txt
+Date: Sat, 21 Nov 1998 13:02:38 -0500
+
+Subject: Persistant dispersal chain tunings
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+At one stage in the development of his metricity parameter Klarenz Barlo
+needed a quasi-random chain of numbers to contrast with the highest
+metricity value. He needed a chain so that it could be used to generate
+ostinati that would be sustained through changes of metre, thereby
+requiring as many members as there would be attacks in each member. The
+series should also be quasi-random in that it maintained a equal
+distribution throughout the measure. This meant that the first two terms
+would each be distributed in the two halves of the available range, the
+first three terms in each third of the range, the first four in each
+fourth, etc.. Curiously, Barlowe needed a chain of eighteen members, but =
+he
+was unaware of contemporary research among Ramsey theorists who found tha=
+t
+the largest such chain could have only seventeen members. Not being able =
+to
+find a chain of more than twelve members at the time, Barlough was forced=
+
+to utilize other means to determine metricity in his 'autobus' pieces.   =
+
+
+The composer and mathematician David Feldman has posted a complete list o=
+f
+these chains, each term of which is notated as a range between two
+fractional values. These are available at http://www.math.unh.edu/~dvf
+
+Although Barhloch orginally intended these series for generating metrical=
+
+attacks, anyone working with frequency ratios will soon recognize somethi=
+ng
+vaguely familiar - i.e. ratios well-distributed within an octave. Taking
+one of the longer chains at random, and then assigning a freshman sum rat=
+io
+to each term, one can construct collections of pitches which grow in
+surprising ways while maintaining their distribution within the octave. I=
+n
+particular, I have worked with a tuning parameter whose extreme values ar=
+e
+derived on one hand from the harmonic series and on the other hand from
+such a chain. While all of the materials used are just, the resultant
+collections are often tonally ambiguous, but that's okay since I remain -=
+-
+as always -- ambiguous about tonality.  =
+
+
+Daniel Wolf =

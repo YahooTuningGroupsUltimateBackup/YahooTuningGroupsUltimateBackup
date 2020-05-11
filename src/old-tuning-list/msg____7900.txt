@@ -1,0 +1,35 @@
+source file: m1424.txt
+Date: Fri, 22 May 1998 16:11:51 -0500
+
+Subject: scales for brass
+
+From: sethares@eceserv0.ece.wisc.edu (William Sethares)
+
+Bill Flavell asks:
+
+>if there is anybody in the 
+alternative tuning scene who is composing for acoustic or synth brass 
+timbres (which are my favorites), and what your opinions are regarding 
+which alternative tuning scale is best suited for composing with brass 
+timbres. 
+
+In terms of TTSS, if you draw the dissonance curve for 
+brass-like timbres, you get minima at many of the simple
+integer ratios, because (as we've seen in the recent thread about
+deviations from harmonicity) brass timbres have (primarily) 
+harmonic partials. Hence, from this point of view, the various 
+JI scales would be most appropriate.
+
+There is another issue...  early brass instruments 
+(more generally, any air column resonator that
+is overblown) produces pitches with fundamentals
+that very closely match the harmonic series
+(one thinks of bugles, for instance). Hence "overtone scales"
+might be another good choice, since they would mimic
+the way the instrument works.
+
+These two answers are not the same, but if you pick
+your overtones carefully, then they are quite
+close.
+
+Bill Sethares

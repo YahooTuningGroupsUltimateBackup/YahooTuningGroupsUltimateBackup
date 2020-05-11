@@ -1,0 +1,67 @@
+source file: m1585.txt
+Date: Thu, 19 Nov 1998 00:56:18 +1000
+
+Subject: A strange 9-limit temperament
+
+From: Dave Keenan <d.keenan@uq.net.au>
+
+Here's a version of my tuning that is easier to remember since it has whole cent offsets from 12-tET and reduces the two semi-wolves (12 cent error) to (barely) acceptable fifths with a 10 cent error. The price paid for this improvement is only an increase from 12 to 13.2 cents in the maximum 9-limit error (excluding the 7:5), so we see it is a tolerant tuning. (The 7:5 error is fixed at 17.5 cents for all versions since it is approximated by the half octave.)
+
+This version has 8 fifths of 706 cents, 2 of 712, and 2 wolves of 664 cents.
+
+Note	Offset		Step
+	from 12-tET	size
+	(cents)	(cents)
+---------------------------
+C	+ 6		106
+C#	+12		106
+D	+18		 64
+D#	-18		106
+E	-12		106
+F	- 6		112
+F#	+ 6		106
+G	+12		106
+G#	+18		 64
+A	-18		106
+A#	-12		106
+B	- 6		112
+
+This can be seen to be 12 from 200-tET, however it does not use the interesting approximations given by Robin Perry in this list on 17-Nov-1998.
+
+Errata: The offsets in my earlier posting were as they would have been for a scale starting on G, not C as shown. My apologies.
+
+For this version of the tuning the errors in the intervals of the 12 pentads and tetrads are:
+
+2:3	4:5	5:6	4:7	5:7	6:7	4:9	5:9	6:9	7:9
+4.0	-4.3	8.4	13.2	17.5	9.1	8.1	12.4	4.0	-5.1
+
+Errors in the intervals of the other 4 triads are:
+
+2:3	4:5	5:6
+10.0	1.7	8.4
+
+As a lattice of 7-limit tetrahedra it is
+                                                  D#--------A#--------E#
+                                                 / \       / \       / \
+                                                /   \     /   \     /   \
+                                               /  A--\---/--E--\---/--B  \
+                                              / x/    \ /       \ /       \
+                         A---------E---------B--/------F#--------C#--------G#
+                        / \       / \       / \/    x /
+                       /   \  F#-/---\--C#-/--/\--G# /
+                      /  Eb-\/--/--Bb-\---/--F  \   /
+                     / x    /\ /       \ /       \ /
+Eb--------Bb--------F------/--C---------G---------D
+ \       / \       / \    /x /
+  \  C--/---\--G--/---\--D  /
+   \   /     \   /     \   /
+    \ /       \ /       \ /
+     Gb        Db        Ab
+
+Of course it wraps around due to D# = Eb, F# = Gb etc. The 'x's indicate that the 7:4 intervals in these positions don't work. Since lines representing 7:n intervals on these diagrams are not shown, but are understood, it was necessary to explicitly indicate where they don't exist.
+
+I'm still waiting for someone to tell me they've seen it before.
+
+Regards,
+-- Dave Keenan
+http://uq.net.au/~zzdkeena

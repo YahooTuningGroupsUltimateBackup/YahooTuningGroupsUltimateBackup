@@ -1,0 +1,97 @@
+source file: mills2.txt
+Date: Mon, 19 May 1997 05:13:13 +0200
+
+Subject: RE: pure? / synth tuning
+
+From: DFinnamore@aol.com
+
+SPurman writes:
+
+> Anyway, how can I most accurately tune my synth to
+>  this pure JI scale, in one cent increments?
+
+Gary's intuitive analysis of the tuning table you found in a book was right
+on the math except for C# 135:128, and A# which I was unable to decipher - A#
+ 14 cents above 12-tET - anyone?  The 16s were not exaggerated.  (135:128?
+What the heck kinda deal is that?, you may ask.  It was reached by taking the
+perfect 5th, 3:2, of the F#.  See the Danielou site at
+http://www.imaginet.fr/~jcloarec/danielou/ANGLAIS/index.html for an
+enlightening explanation of a similar kind of approach.)
+
+Someone out there may be able to tell us of a simpler method but here's how I
+find the number of cents above the tonic for any JI ratio:
+
+x log-base2(d/n), where n is the numerator of your JI ratio, d is the
+denominator of same, x is the answer you seek.
+
+In English - find the log-base2 of the inverse of the JI ratio.  Sure, just
+get out my trusty slide-rule here, which everyone keeps by their keyboard...
+
+I use a table in a Word Perfect for Windows doc to do the calculations for me
+on each scale.  WP doesn't do log-base2, only base ten or natural logs, but I
+found that multiplying any base10 log by 3986.313713865... will produce the
+corresponding base 2 log.  Oh, goody.  So here is the line from my Formula
+Bar for line 2 of the table, which calculates C# (or as I like to call it,
+2b):
+
+-3986.313713865*LOG(C2/B2)-100
+
+B2 and C2 are the cells where the numerator and denominator, respectively,
+are entered; on line 3 which calculates the D (I call it 2) the formula reads
+B3 and C3, instead of B2 and C2, and subtracts 200 instead of 100, and so on
+until the last line where you are calculating the B (I call it 7) by
+substituting B12 and C12 and subtracting 1100.  (Line 1 contains the column
+headings.)  Make sense?
+
+Make an empty template like that in your word processor or spreadsheet and
+you can use it to calculate the synth tuning tables for any JI scale you can
+think of.  They are legion.  Put several sets of these columns side-by-side
+in landscape mode to analyze a bunch of scales at once, and to hold several
+related scales so you can print it out and keep it near your keyboards.  Toss
+your slide-rule.
+
+By the way, I've learned that using numbers instead of letters for
+scale-degrees allows thinking in terms of various key-centers without having
+to transpose your system in your head.  1  2b  2  3b  3  4  4#  5  6b  6  7b
+ 7 is the series I'm comfortable with for use with a 12-key-to-the-octave
+keyboard using an octave-repeating scale.
+
+A Q for those who work with non-repeating and/or non-octave scales - what
+sort of nomenclature works there for identifying scale degrees?
+
+> is there a JI tuning that is more
+> theoretically *pure* or natural than others,...?
+
+Gary M. answers:
+
+> I don't think that any one just intonation
+> tuning is necessarily more purely JI than any other.  But then again, that
+> depends on what you mean by "pure".  As far as I can tell, "pure" has no
+> specific definition in tuning theory
+
+The way I look at it, there are many possible ways to arrange or develope JI
+systems of tunings, so the question belongs the other way around - in what
+system would any given scale be the purist JI tuning?  E.g., the Danielou
+site I mentioned advocates a system based on 5-limit, limiting the
+possibilities to ratios involving multiples of 2, 3, and 5.  Your original
+question stemmed from using a system of dividing successive harmonic
+overtones by powers of 2.  That's only a small taste of the possible systems.
+
+Have fun.
+
+David J. Finnamore
+Just tune it!
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 19 May 1997 06:48 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05317; Mon, 19 May 1997 06:48:03 +0200
+Date: Mon, 19 May 1997 06:48:03 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05314
+Received: (qmail 19237 invoked from network); 19 May 1997 04:47:59 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 May 1997 04:47:59 -0000
+Message-Id: <199705190444.VAA23758@dnai.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

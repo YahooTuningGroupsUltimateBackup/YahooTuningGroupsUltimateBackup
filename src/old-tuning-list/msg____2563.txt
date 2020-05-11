@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Wed, 21 Feb 1996 19:43:42 -0800
+
+Subject: Re: All proper modes of ET
+
+From: Gary <71670.2576@compuserve.com>
+
+Manuel sez:
+
+> On Brian's request I have written a computer program for finding 5-,
+> 6-, 7-, 8-, and 9-note modes of equal temperaments with fifths less
+> than 21 cents away from 3/2 and the fifth degree relatively prime to
+> the number of notes. 
+
+   For whatever it's worth, I would imagine that a perhaps more interesting
+criterion would be ETs with fifths off by no more than, say, 1/6 of their ET
+step size.  That would, in essence, measure their efficiency at nailing a fifth
+beyond brute-force by sheer number of notes per octave.  
+
+   Anybody care to give that a whirl?  I'll guess that the list is fairly
+similar for the most part.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 22 Feb 1996 04:47 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id TAA13403; Wed, 21 Feb 1996 19:47:12 -0800
+Date: Wed, 21 Feb 1996 19:47:12 -0800
+Message-Id: <960222034201_71670.2576_HHB88-11@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

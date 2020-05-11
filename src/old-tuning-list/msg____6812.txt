@@ -1,0 +1,117 @@
+source file: mills3.txt
+Date: Fri, 26 Dec 1997 17:11:53 +0100
+
+Subject: Comma shift and the speed of the galaxy
+
+From: Carl Lumma <clumma@nni.com>
+
+>>Is there a way for a multiplicity of tunings to co-exist in a way that
+>>performers from different camps can play together or is there a need for a
+>>"standard" tuning for practical reasons such as instrument manufacturing and
+>>performance?
+
+I don't know of any reason why there can't be a variety of tunings in use.
+My good friend, who is in his 3rd year at Julliard, has 4 trumpets, all of
+them approximate 12 to a different degree.  So why can't he have instead 4
+trumpets that approximate 4 different tunings?  I would think different
+tunings would be a boon for manufacturing- they're always looking for
+something to sell.
+
+Keep in mind that only fixed pitch instruments are fixed in pitch.  My
+abovementioned friend has a brass quintet.  They played a concert this past
+Monday night at a local catholic church.  Any chord longer than .5 seconds
+was played in pure 5-limit Just Intonation, despite the fact that none of
+them know what that means any better than they know what equal temperament
+means.  They do know the old rule: "Raise the 5th and Flat the 3rd!"
+
+They played some songs along with the organ, and it wasn't hard to hear the
+intonation fight on these tracks.  Afterwards, they all confirmed the
+difficulty of keeping in tune with the organ.  Anybody familiar with groups
+like the Canadian or Empire brass can confirm that JI is nothing new to
+ensembles of this kind.
+
+>>Will the fragmentation of opinion among tuning pioneers inhibit a popular
+>>movement beyond 12TET, so that alternate tunings remain the province of
+>>academics and isolated pockets of experimentation?
+
+Who wants a popular movement?  A bottom-up enema is needed.  It starts with
+a generalized midi keyboard and GOOD MICROTUNING SYNTH in every ear training
+room in the conservatory.  Assignments for analysing the various ET's.
+Singing Just Intervals.
+
+We've got it in Barbershop.  I went to a week-long camp called "Harmony
+College" this past August.  I took a class called "Tune it or Die".  It
+discussed the problem of where to put the comma so you don't go flat.  The
+prof had a PC running Justonic's Pitch Pallete (which the Barbershop Society
+has been involved with from the beginning), and some software that would
+measure the harmonics of a sound (good Barbershop vocal technique aims to
+cull every harmonic possible from the human voice).
+
+He also had an old Xen-modified keyboard called the "Just Intonation
+Trainer".  It automatically tunes 4-5-6-7 chords in every key, in any
+inversion, but only if all 4 notes, and no others, are used.  (When one
+plays a 4 and 6 on the 12-tone physical keyboard, a simple gait opens to a
+pair of virtual keyboards: one for the 5's, the other for the 7's.)  It has
+two waveforms and a 3 octave range.  Really a very limiting instrument, but
+great for singing and hearing- except when the logic was turned off!
+
+Now, as to where to put the comma...
+
+>>Certainly, singers temper intervals.
+>>However, they do not require an explicit system to do so.
+
+If they did, they wouldn't.  But I don't think they do, at least not without
+a keyboard.  I'm NOT saying they always sing right on in any system.  But
+"tempering" usually means adjusting intervals in a specific way, for the
+purpose of modulating in a specific way.  Singers just don't do this, and I
+for one, am glad.
+
+>>As odd as it may seem, I must agree with Gregg Gibson that most traditional
+>>Western music requires temperament, not necessarily always ET but necessarily
+>>a meantone temperament, to adequately perform it.
+
+I don't think i'd say "most".  Much of it really should have meantone, true
+enough.  But at least as much of it can be tuned in JI with good results.
+
+>>If the pitches were not adjusted in the midst of playing them, the key of
+a >>typical piece of classical music would drift, usually downwards, by
+several >>commas by the time the piece was completed.
+
+The first thing to consider is if this pitch drift is important.  In pieces
+that resolve to the tonic, I believe it most definitely is.  Even listeners
+who do not know that the song has gone flat will without a doubt have some
+feeling of being let down.  In pieces with plenty of modulation, I'm not
+sure it's as important.
+
+The second question is where to put the comma.  In the abovementioned
+Barbershop class I took, the following example was given...
+
+-----------------------------------------------------------------------------
+Chord:    CMaj      E7       A7       A7       D7       G7      Cmaj
+          (I)     (III7)    (VI7)    (VI7)    (II7)    (V7)     (I)
+-----------------------------------------------------------------------------
+Tenor      5........8........12       7        10       7        5
+-----------------------------------------------------------------------------
+Lead       4        7        10.......5        7        5        4
+-----------------------------------------------------------------------------
+Bari       3        5        7        4........6        4........3
+-----------------------------------------------------------------------------
+Bass       2        3        4        3        4........3        2
+-----------------------------------------------------------------------------
+         "Here     is       why      some     guys     sing    flat"
+
+..I wish I could include the music.  Although there were no ties, the
+dotted lines indicate that the same 12-tone note is repeated in that part.
+Now, for frequencies...
+
+-----------------------------------------------------------------------------
+Chord:    CMaj      E7       A7       A7       D7       G7      Cmaj
+          (I)     (III7)    (VI7)    (VI7)    (II7)    (V7)     (I)
+-----------------------------------------------------------------------------
+Tenor    327.03~~~327.03~~~~327.03   381.52   363.36   339.13   322.98
+-----------------------------------------------------------------------------
+Lead     261.63   286.15    272.52~~~272.52   254.35   242.24   258.39
+-----------------------------------------------------------------------------
+Bari     196.22   204.39    190.76   218.01~~~218.01   193.79~~~193.79
+-----------------------------------------------------------------------------
+Bass     130.81   122.64    109.01   163.51   145.34~~~145.34   129.19

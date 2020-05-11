@@ -1,0 +1,36 @@
+source file: m1561.txt
+Date: Fri, 23 Oct 1998 13:03:02 +1000
+
+Subject: Yamaha 19-tET 3-row keyboard patent
+
+From: Dave Keenan <d.keenan@uq.net.au>
+
+Paul Erlich wrote (privately):
+>... Yamaha just patented 19-tone equal temperament!!! (No joke.)
+
+I just looked it up. See
+http://www.patents.ibm.com/details?pn=US05516981__&s_clms=1#clms
+
+I couldn't get the full images of the patent, maybe you'll have better luck.
+It doesn't patent 19-equal per se, but essentially any instrument that plays 19-equal from a 3 row keyboard (where two of the rows also allow playing in 12 equal). We are still free to make an instrument that plays anything other than 19 equal from a 3 row keyboard and we are free to make one that plays 19-equal from anything other than a 3-row keyboard.
+
+I'd rather a fixed 19 from 31-equal (or perfect-thirds meantone), you'd have a wolf fifth between E# and Cb but who cares. It would still allow modulation through 13 majors and 10 minors. Of course that was tried way back (not all the way to 19 notes but same idea) and those keyboards are only in museums.
+
+>The patent also includes guitars, trumpets, etc.
+
+It's the claims that determine what infringes a patent and their claims don't mention or even imply such instruments. They all specifically say "a keyboard musical instrument". Unless we're talking about different patents? I'm talking about US Patent 5516981, Yamaha, 1994, "Musical instrument tuned in nineteen note temperament scale".
+
+>I don't think there are different patents, but the one I've seen and has
+>been discussed on the List includes diagrams and descriptions for
+>guitar, trumpet, and others. Don't know the number off hand.
+
+I finally got to see the images. Yes there's a trumpet and guitar but these are not claimed. All this does is make sure no one else can patent them. It does not prevent anyone making and selling them. What I said previously still stands.
+
+>If that's so, you should inform the tuning list, where quite a hoopla
+>was made over this patent.
+
+Disclaimer: I'm not a lawyer. What I know about patents comes from reading the book "Patent it Yourself" by David Pressman. Believe me at your own risk.
+
+Regards,
+-- Dave Keenan
+http://uq.net.au/~zzdkeena

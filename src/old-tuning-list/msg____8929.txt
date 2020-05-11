@@ -1,0 +1,31 @@
+source file: m1605.txt
+Date: Mon, 7 Dec 1998 10:22:41 -0600 (CST)
+
+Subject: amazon carrying independent CDs
+
+From: William Sethares <sethares@eceserv0.ece.wisc.edu>
+
+>Amazon.com, the popular online book and CD store, has added a very
+>interesting new feature. You can now enroll in a free service to have your
+>publication (book or CD) listed and for sale online. They take a cut of the
+>sales proceeds for the service.
+>
+>http://www.amazon.com/exec/obidos/subst/partners/direct/direct-application.html
+
+I looked into this. One fact is that in order for Amazon to carry the
+CD, it must have a UPC code (so they can track their inventory).
+When I followed the UPC links, it looks like its easy to get a number,
+but it costs about $350 to become a "manufacturer" (six digits) and
+then you have access to five digits (10,000 different) individual product
+numbers. 
+
+Since I am not currently planning to release 10,000 different CDs
+(in the near term) it made me wonder if maybe there would be a way
+to "go in on" a number with a few people, or to find someone who already
+has a UPC number and would be willing to share/sell/rent a number or two.
+
+Has anyone done this before?
+
+
+
+Bill Sethares

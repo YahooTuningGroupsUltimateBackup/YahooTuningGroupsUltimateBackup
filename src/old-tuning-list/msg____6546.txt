@@ -1,0 +1,81 @@
+source file: mills3.txt
+Date: Sat, 6 Dec 1997 10:20:39 +0100
+
+Subject: Reconfiguring a DX21
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Yesterday, I took delivery of 20 new keys for my DX21.  The
+reason?  Well, naturally, I got bored of the same keyvoard
+layout all the time, and decided to go for something more
+symmetrical.
+
+Actually, I was taking the thing apart to clean it, and change the
+backup battery.  I was half way through removing the keys to
+get rid of the fluff sitting behind them, and I realised that
+there was nothing to stop me putting them back in a different
+order.  There was an explantion of something like this on the
+list not long ago, but I didn't pay as much attention as I should
+because I didn't realise how easy it is.  At the  moment, I'm
+away from home, so I can't review the thread.
+
+I'm using a layout with alternating white and black keys all the
+way up the 5 octave keyboard.  This gives invariance for
+transpositions of an even number of steps. That means, for ETs,
+there are only 2 ways of fingering each chord or mode.  There are
+advantages for such a layout even in 12 equal, and I remember it
+being mentioned in the CMJ microtonal special.
+
+For the operation, I needed 5 new black keys, and 15 additional
+Ds.  Actually, I could have got by with only 14 Ds, but one of the
+old ones was slightly damaged.  These cost me 42 pounds (about
+$67) from the Yamaha spares department.  The only tool I required
+was a screwdriver.  Changing the battery looks to be more
+difficult, so I'm hoping that'll wait for a while.
+
+The DX21 keyboard is not velocity sensitive.  It may be more
+difficult to customise one that is.  As a spare keyboard, it
+should still be of some use, and worth the expenditure from my
+ever dwindling funds.
+
+Paul Erlich mentioned an alternative layout for 22 equal.  He
+confused me with talk about latticed balconies, or something, so
+I didn't understand him at the time.  What I think he meant is
+a  keyboard with clusters of 6 white and 5 black keys.  This is
+certainly a good idea.  To redo a 5 octave keyboard, you only
+need 5 extra Ds, provided you don't mind having a few keys
+unaccounted for at the edges.  The problem is that the slots
+designed for D keys won't accept any other key.  You could sort
+this out if you've got an extensive toolbox to hand, but it
+doesn't look easy.  Otherwise, you need to leave a gap for every
+tritone ... not really much of an advance on the traditional
+layout.  A shame, because it'd look really good.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Stephen Soderberg <ssod@loc.gov>
+Subject:  Problems in Notation
+PostedDate:  06-12-97 22:54:11
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  06-12-97 22:52:18-06-12-97 22:52:19,06-12-97 22:52:08-06-12-97 22:52:09
+DeliveredDate:  06-12-97 22:52:09
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256565.00782425; Sat, 6 Dec 1997 22:52:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08235; Sat, 6 Dec 1997 22:54:11 +0100
+Date: Sat, 6 Dec 1997 22:54:11 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08231
+Received: (qmail 19283 invoked from network); 6 Dec 1997 13:54:07 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 6 Dec 1997 13:54:07 -0800
+Message-Id: <Pine.A32.3.93.971206163659.124900A-100000@rs8.loc.gov>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

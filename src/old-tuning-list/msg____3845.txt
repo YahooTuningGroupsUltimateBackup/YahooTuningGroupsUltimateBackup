@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Sat, 26 Oct 1996 11:44:14 -0700
+
+Subject: Re: TUNING digest 872
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+As I recall, and I'm quoting this from a friend who owns a K2500, the
+limitations are:
+1.  You can tune "any" equal-temperament across all keys linearly (that is some
+    completely consistent number of cents between each adjacent key up the 
+    keyboard).  The problem is that you only can do that to 2-cent resolution.
+    Quartertones (50 cents per step) therefore work fine, but 19TET (approx.
+    63.16 cents per step) doesn't.
+2.  You can retune the notes of the keyboard to arbitrary pitches with a key-
+    map.  The problem is that you're limited to 12-tone-per-octave tunings.  
+    Again 19TET in the frequently-used "linear" mapping of 63.16 cents between
+    adjacent key is not possible.  That limitation does make it possible to 
+    map it into two-or-more 12-toned subsets, like I did in my EPS Xenharmonic
+    Scales Disk (one with naturals and flats, one with naturals and sharps, and
+    a third with the most common accidentals (e.g., F# instead of Gb, and Bb
+    instead of A#) along with E#/Fb and B#/Cb).  I don't know if the K2x00 
+    provides any means like the EPS/ASR's patch-select buttons of 
+    interactively switching between tuning tables though.
+
+   The rather cumbersome solution is to turn each key into its own individual
+sample playback, and adjust the pitch of each accordingly.  There is apparently
+a program that helps you do that.  
+
+   But again, I'm not knocking Kurzweil or the 2x00.  I'm just repeating what a
+friend who owns one has told me.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 28 Oct 1996 23:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04649; Sun, 27 Oct 1996 19:43:41 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06611
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA10311; Sun, 27 Oct 1996 10:43:39 -0800
+Date: Sun, 27 Oct 1996 10:43:39 -0800
+Message-Id: <961027183405_71670.2576_HHB59-3@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

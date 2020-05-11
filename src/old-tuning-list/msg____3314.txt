@@ -1,0 +1,56 @@
+source file: mills2.txt
+Date: Fri, 26 Jul 1996 07:08:15 -0700
+
+Subject: Scala 1.1 online
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Scala version 1.1 for PC is now online, the location is the same:
+
+ftp://ella.mills.edu/ccm/tuning/software/pc/scala/scala.zip
+
+It is a major update with many new features, to name some:
+- The LATTICE command can now also make pseudo 3-D lattices.
+- The COMPARE command can now save scale comparison results.
+- The CPS command is enhanced.
+- EQUAL/DATA provides more equal temperaments' info.
+- There is a new DISCARD command to throw away commas or other hairy intervals.
+- Polynomials can now have arbitrary powers.
+- The QUANTIZE command now has optimal fitting and consistent fitting.
+- More items were added to the SHOW commands.
+- A new TIP command provides useful tips.
+- A program to convert a text representation of a MIDI file to a MIDI file
+  has been added (not written by me). This allows users to assemble tuning 
+  dumps for unsupported instruments themselves, with the new hexadecimal
+  output of the SEND command. If anyone will have successfully done this, 
+  please let me know.
+- More command files are included to do scale manipulations.
+
+And some bugs were fixed, most notably the system-exclusive MIDI files
+will now play correctly with the MS-Windows player.
+Two backward-incompatible changes were made to the command language, to
+REDUCE and COPY/PITCH.
+
+The amount of source code has increased by 10% which may not seem much, but
+it's already quite a large program. Statistics: 31393 lines of which
+Ada lines: 25976, comments: 3127, empty: 2290; 157821 tokens;
+14832 statements; 0.472 statements/line; 174 files; 1,167,185 bytes.
+
+Jeff, your suggestion has been implemented: SHOW/LINE INTERVALS.
+
+Peter, I am at a loss what can be wrong but hope it solves your
+problem. Having the online help is handy, I use it all the time myself
+because I can't remember everything anymore. If it doesn't we'll search on. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 26 Jul 1996 16:11 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA28994; Fri, 26 Jul 1996 07:11:21 -0700
+Date: Fri, 26 Jul 1996 07:11:21 -0700
+Message-Id: <009A5E94D4ED2130.249C@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

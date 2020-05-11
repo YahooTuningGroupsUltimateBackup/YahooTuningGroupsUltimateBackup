@@ -1,0 +1,44 @@
+source file: m1381.txt
+Date: Fri, 10 Apr 1998 10:02:29 -0700
+
+Subject: Re: Telephone Touch Tones
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+In TUNING digest 1379
+monz@juno.com (Joseph L Monzo) said,
+"The tones which sound when you press
+numbers on the keypad of a touch-tone
+phone are in ratios.  I had figured them
+out once, because their arrangement into
+dyads  follows a geometrical pattern
+across the keys, but they were never
+written down."
+
+
+Those tones you hear are calle DTMF.
+The web page
+http://www.whatis.com/
+has information on this and many other mysterious acronyms.
+
+>From T.H. Tsim at
+http://www.paranoia.com/~filipg/HTML/LINK/F_DTMF.html
+we get:
+
+"The tone frequencies were designed to avoid harmonics and other problems
+that could arise when two tones are sent and received. Accurate transmission
+from the phone and accurate decoding on the telephone company end are
+important. They may sound rather musical when dialed (and representations of
+many popular tunes are possible), but they are not intended to be so. "
+
+Note that the tones were specifically designed to avoid harmonics.
+
+I'm sure some enterprising microtonalist could find a musical use for them.
+Heh, heh.
+
+---Fred.
+
+--------------------------------------------------------
+ Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+ phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca
+---------------------------------------------------------

@@ -1,0 +1,325 @@
+source file: m1403.txt
+Date: Sun, 3 May 1998 11:45:06 -0400
+
+Subject: Response to Paul Erlich
+
+From: monz@juno.com (Joseph L Monzo)
+
+Paul Erlich provided some alternate rational interpretations
+of 12-eq chord tones in Tuning Digest # 1400, in response
+to a list I had posted the day before.
+
+I did not mean to imply that the ratios in my table are
+the only ones, or even the best ones, which could be
+implied by chord-tones used in the 12-eq scale.  I was
+merely using that tabulation as an illustration of the
+similarities between Ken Wauchope's observations about
+perceptual limitations [Tuning Digest #1398], and mine
+about musical usage and implications, of prime-limits
+in music.
+
+I specifically intended *not* to find which ratios were
+best implied by the 12-eq notes, but rather exactly the
+opposite, namely, how primes above our usual limit (that
+is, above 5 or even 7) could be mapped to 12-eq notes.
+
+I agree with Erlich that certain 12-eq chords in certain
+contexts can imply ratios which fall under lower prime
+limits and which exhibit both smaller-integer and lower-
+prime internal relationships than the higher-prime ratios
+I indicated.  I have always said that many different
+rational interpretations of 12-eq notes are possible,
+and Erlich provides good reasons for his choices.
+>> I think 19 is much more admissible as a rational> implication of the
+sharp 9th than 11 or 13 are> admissible as rational implications of
+anything> in 12tET (despite what Schoenberg may have had> to
+say).>Perhaps, as Erlich suggests,  11 and 13 are far enoughaway from
+their closest 12-eq representations that itis not valid to assume that
+they can be implied by *any*12-eq notes, and so they deserve to be
+considered entirelyunique chord identites that can only be represented
+innon-12-eq tunings.
+> Let's analyze a few common jazz chords (which are
+> normally played, of course, in 12tET):
+
+Erlich correctly points out, with his first two examples,
+that in the higher tones of complex chords there are
+implications of other, simpler chords.  Let's take a closer
+look:
+
+> [Example] 1. 13flat9 (meaning: root, maj .3rd, min. 7th,
+> min. 9th, maj. 13th; the perfect 5th is often omitted in jazz)
+>
+> I think this chord derives its flavor from the major triad
+> formed on the maj.13th with the min. 9th and maj. 3rd.
+> This triad resonates clearly and forms a polyharmonic
+> structure against the root. Tuning the triad 27:34:40
+> would destroy this effect and render the chord pretty ugly
+> (IMO). Hence in this case the maj. 13th should be 5/3
+> and the min. 9th should be 25/12.
+
+Here is my matrix graph illustrating all the notes described
+by myself and Erlich.  Powers of 3 go left-to-right, powers
+of 5 go front-to-back, and higher primes transpose this 3x5
+matrix to different levels from top-to-bottom.  For each of
+the notes used, I give the 12-eq description (qualified by
+our names if necessary), the JustMusic prime-factor notation,
+the ratio, and the Semitones (= cents/100).  3^1 and 3^2 are
+only  placeholders. (For the best view use 8-pt. Courier New
+font):
+
+                         Monzo -9         
+           		  17^1 
+                         17/16
+                          1.05
+                            |
+                            |
+                            m7
+                           7^1
+                           7/4
+                           9.69
+                            |
+   Erlich -9                |
+   3^-1 * 5^2               |
+     25/12                  |
+      0.70                  |
+       \                    |
+        \              3rd  |
+      Erlich 13    _ - 5^1  |
+      3^-1 * 5^1 -     5/4  |                            Monzo 13
+         5/3           3.86 |                          _ - 3^3
+         8.84           \   |               _ - (3^2)-    27/16
+           \             \  |    _ - (3^1)-                9.06
+            \             root -
+             \       _ -   n^0
+           (3^-1)  -       1/1
+                          0.00
+
+Analysis:*********
+(The ratios and semitones are given within 1 octave. The
+proportions are given consecutively.  The analysis of the
+individual chords gives the smallest integer which represents
+the identity.)
+
+12-eq	ratio	 s-t.	prop.	Monzo	Erlich
+polytonal
+=====	=====	
+====	=====	=====	================
+13 (M)	27/16	 9.06	 81	27
+13 (E)	5/3	 8.84	 80			 1
+-9 (M)	17/16	 1.05	 51	17
+-9 (E)	25/24	 0.70	 50			 5
+m7	7/4	 9.69	 42	 7	 7
+maj 3	5/4	 3.86	 30	 5	 5 ----- 3
+root	1/1	 0.00	 24	 1	
+1	__________
+			______	___	___	3^-1 * 5^1
+			(3^-1)	n^0	n^0
+
+In the "proportions" column, the absolute identites
+level all ratios to one common nexus, in this case, the
+"missing fundamental" of 4/3 (= 3^-1).  This makes
+it easy to see the rational intervals which make up
+the discrepencies between our two interpretations:
+81/80 (22 cents) for the 13th, and
+51/50 (34 cents) for the -9.
+
+The column with my name shows how this chord fits into
+my rational interpretation, giving an otonal chord
+on a "root" of 1/1 (= n^0), with the identities
+1, 5, 7, 17 and 27.
+
+The last two columns show Erlich's 7-limit polytonal
+interpretation, giving an otonal chord on 1/1 with
+identities 1, 5, and 7, and an otonal chord
+on 5/3 (= 3^-1 * 5^1) with identities 1, 3, and 5.
+The 5/4 is thus both the 5-identity in the 3-note
+dominant-7th-chord on 1/1, and the 3-identity in the
+major triad on 5/3, which "resonates clearly".
+
+> [Example] 2. sharp11flat9 (meaning: root, maj. 3rd,
+> min. 7th, min. 9th, aug. 11th)
+>
+> Here, there is a strongly resonating dominant seventh
+> chord formed on the aug. 11th with the min. 7th, min. 9th,
+> and maj. 3rd. If we fix the maj. 3rd at 5/4, then the
+> aug. 11th should be 10/7, the min. 7th should be 25/14,
+> and the min. 9th should be 15/7. Of course, the fact that
+> the min. 7th is also close to 7/4 helps to reinforce the
+> root along with the maj. 3rd. It is very common in jazz
+> to have a maj. 3rd - min. 7th tritone imply two different
+> roots, one with their traditional roles and one with their
+> roles reversed. This requires a tuning, such as 12tET,
+> where the 50:49 "septimal sixth-tone" vanishes.
+
+In my matrix graph:
+
+            Monzo -9
+             17^1
+            17/16
+             1.05
+               |
+               |
+            Monzo +11
+              11^1
+              11/8
+              5.51
+               |
+               |
+             Monzo m7
+               7^1
+               7/4
+              9.69
+               |
+     maj. 3rd  |
+       5^1     |
+       5/4     |
+       3.86    |
+          \    |
+           \   |
+             root
+              n^0
+              1/1
+             0.00
+ Erlich m7     |
+5^2 * 7^-1     |
+   25/14       |
+   10.04       |
+      \        |
+       \       |             Erlich -9
+    Erlich +11 |   __ --  3^1 * 5^1 * 7^-1
+    5^1 * 7^-1 |--            15/14
+       10/7    |               1.19
+       6.17    |
+          \    |
+           \   |
+            \  |
+           (7^-1)
+
+ Analysis:
+*********
+
+12-eq	ratio	 s-t.	prop.	Monzo	    
+Erlich polytonal
+=====	=====	
+====	====	======	==========================
+-9 (E)	15/14	 1.19	120			 15
+----- 3
+-9 (M)	17/16	 1.05	119	17
++11 (E)	10/7	 6.17	 80			  5
+----- 1
++11 (M)	11/8	 5.51	 77	11
+m7 (E)	25/14	10.04	 50			 25
+----- 5
+m7 (M)	7/4	 9.69	 49	 7	 
+3rd	5/4	 3.86	 35	 5	 5 ----- 35 -----
+7
+root	1/1	 0.00	 28	 1	 1 ----- 
+7	__________
+			______	___	___	______	5^1
+* 7^-1
+			(7^-1)	n^0	n^0	(7^-1)
+
+The fourth column displays the discrepancies:
+120/119 (14 cents) for the -9,
+80/77 (66 cents) for the +11,
+50/49 (35 cents) for the m7.
+
+The fifth column shows an otonal chord on 1/1 with identities
+1,5,7,11, and 17.
+
+The last three columns give Erlich's chord, which has 5/4
+functioning as both the 5-identity in an otonal chord on
+1/1 and the 7-identity in an otonal chord on 10/7.  This is
+the "strongly resonating dominant seventh chord formed on
+the aug. 11th with the min. 7th, min. 9th, and maj. 3rd".
+The interpretation as an otonal chord on 8/7 puts all
+of Erlich's ratios over a nexus, while those on either side
+of it show the polytonal significance.
+
+In jazz harmony, a commonplace progression is a dominant-7th flat-5
+(or sharp-11) chord which resolves a half-step lower, with a pair
+of tritones (root--flat 5 and maj 3--m7) which each function doubly 
+as themselves and as the other in the "tritone substitution" of 
+flat-II for V.  This has also been analyzed by me in connection
+with Schoenberg in exactly the same septimal terms which Erlich
+uses here  -- more about that below.
+
+>
+> [Example] 3. 6/9 (meaning root, maj. 3rd, perf. 5th. maj. 6th, > maj.
+9th)
+>
+> Here, we have a chain of 5ths, but also a major 3rd and two minor
+> thirds. If all these intervals are to be consonant, no just
+> interpretation will really do. This chord requires a tuning where > the
+80:81 syntonic comma vanishes.
+
+
+Matrix Graph:
+                       
+        maj 3rd
+         5^1                                             maj 3rd
+         5/4                                   6th   _ - 3^4
+         3.86                        9th   _ - 3^3 -     81/64
+           \                     _ - 3^2-      27/16     4.08
+            \             5th -      9/8       9.06
+          root      _ -   3^1        2.04
+           n^0    -       3/2
+           1/1            7.02
+           0.00
+
+ Analysis:
+*********
+
+12-eq	ratio	 s-t.	prop.	 IDs
+=====	=====	 ====	====	======
+9th	9/8	 2.04	144	 9
+6th	27/16	 9.06	108	27
+5th	3/2	 7.02	 96	 3
+3rd (P)	81/64	 4.08	 81	 5
+3rd (j)	5/4	 3.86	 80	81
+root	1/1	 0.00	 64	 1
+			______	___
+			 n^0	n^0
+
+(I had enough room here to show only one syntonic comma, that
+between the "just" and Pythagorean major 3rds.  The 13th and
+possibly even the 9th could also be interpreted as 5-limit.)
+
+No argument from me here.  In fact, jazz harmony as it developed
+thru be-bop and beyond could not have happened without accepting
+*a priori* the 12-eq scale.  Charlie Parker specifically stated
+that he realized how to perform what he had been hearing in his
+head when he found that he could improvise melodies that were made
+up of the higher partials of the tune's chord changes.  (That the
+just harmonies could still be implied to some degree in the complex
+and fast-changing 12-eq harmonic motion should probably be ascribed 
+to the fact that this music was generally played very fast.  That
+the need for precison of intonation is in inverse proportion to the 
+tempo is a point that has been noted often before.)
+
+This double implication (poly-tonality vs. higher partials)
+was exactly the kind of ambiguity cited by Schoenberg: see
+"Theory of Harmony", p 418, regarding an 11-note chord from
+measures 382-383 of his "Erwartung".  He shows how part of this
+complex chord can be explained as two different dominant-7th,
+flat-9th chords a tritone apart, with the four upper tones
+forming a diminished-7th quadrad which the two chords have
+in common in 12-eq.  Analyzing them by assuming that the
+12-eq 7ths represent the 7/4 of the chords gives exactly the
+result observed by Erlich regarding the 50/49 "6th-tone".
+
+The 12-eq scale's ability to represent all these different
+implications *simultaneously* is exactly what Schoenberg desired to 
+exploit, and it presents the best case for his retention  of 12-eq, 
+as well as for its general acceptance throughout most of this
+century.  Of course, the debates in this forum are precisely
+about which ratios can be represented, and how well.
+
+Joseph L. Monzo
+monz@juno.com
+ 
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

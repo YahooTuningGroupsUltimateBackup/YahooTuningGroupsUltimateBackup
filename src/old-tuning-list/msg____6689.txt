@@ -1,0 +1,235 @@
+source file: mills3.txt
+Date: Thu, 18 Dec 1997 02:23:17 +0100
+
+Subject: Re G. Gibson in TD1265 and on the sensitivity of intervals to mistuning
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>}In the more usual timbres at least, the 7:6 interval beats too much to
+>}be consonant, affected as it is by the unison. The 7:5 is obscured by
+>}the fifth and fourth. There is a slightly stronger case for the 7:4, but
+>}note that the first partial of the lower tone beats with the fundamental
+>}of the upper tone (8:7).
+>
+>Dissonance and consonance are merely relative acoustical qualities; how they
+>are used in music is a human cultural decision. To speak of them in such
+>absolute terms elevates one particular style of music to the status of divine
+>revelation. Medieval and Chinese music used 3-limit dyads as the basic
+>harmonic consonances. Later modal and then tonal Western music used 5-limit
+>triads as the baisc consonances; dyads were now excluded from the texture as
+>they sound "incomplete" in this context. It is not difficult to find examples
+>in Wagner, Stravinsky, and jazz where the basic consonances are 7-limit
+>tetrads, by virtue of all other harmonies being even more dissonant. Triads
+>sound incomplete in this sort of context. Some features of this sort of style
+>are harmonic movement by a half-octave, representing a 7:5 but forming a
+>cycle which quickly closes; and chromatic melodic segments which are more
+>than just passing figures. However, in such a style it has been difficult to
+>impart a sense of logic and inevitability that is present in much tonal
+>music. This is because
+>
+>1) The (7-limit) consonant and (even more) dissonant chords do not arise from
+>a fixed pattern of intervals within a scale -- in other words there is no
+>grammatical support for the consonant/dissonant distinctions.
+>2) There is no pattern of intervals which differentiates a given note as the
+>"tonic."
+>3) 7-limit chords are quite out-of-tune in 12-tet.
+>
+>My decatonic scales in 22-tet solve these and other problems.
+>
+>}Your phrase "vanishing of the syntonic comma" is unfortunate. This comma
+>}does vanish in the 22-tone equal, but at a value (218 cents) that leads
+>}to excruciatingly dissonant 'major thirds' (436 cents), minor thirds
+>}(273 cents), major sixths (927 cents) and minor sixths (764 cents) as
+>}soon as one modulates more than a few keys.
+>
+>The syntonic comma arises musically in two ways. Either it is the difference
+>between a 5:4 ("major third") and four 3:2s ("perfect fifths"), or it is the
+>difference between a 5:3 ("major sixth") and three 3:2s, octaves ignored.
+>These consonances must first be present in the tuning system and musical
+>style before the determination of the size of the comma can take place. In
+>22TET, there is no doubt that if the 5:4 and 5:3 are used as consonances,
+>they are represented by 382 and 872 cents respectively, as the just values
+>are 386 and 884. The 3:2 is represented by 709 cents, a value that is very
+>slightly better than that of 19TET relative to just intonation. In mod 1200
+>arithmetic, we find: 4*709-382 = 55, and 3*709-872 = 55. Both definitions
+>give a syntonic comma of 55 cents, or one degree, in 22TET.
+>
+>One cannot set the syntonic comma to a fixed value (0) and then use these
+>relations to derive the size of the basic consonances. The consonances come
+>first.
+>
+>Since the syntonic comma does not vanish in 22TET, the whole diatonic system
+>fails, a point you don't need to keep making, if you're paying any attention
+>my replies. I don't disagree with you and never did. The terms "third,"
+>"fifth," "semitone," etc. are therefore not strictly appropriate in
+>discussing 22TET. However, if you do choose to use them, it should be with
+>respect with some reasonable distortion of the diatonic scale, for example a
+>major scale like the Indian ma-grama 4 3 2 4 3 4 2, where five triads are
+>consonant, rather than a fifth-generated creature like 4 4 1 4 4 4 1, whre no
+>triads are consonant. Actually, the three "minor" triads in this latter scale
+>are close to just 6:7:9 chords, which many people quite like. But let's leave
+>these diatonic non-issues behind.
+>
+>}But even if one remains
+>}within the same key, many intervals within the tonal fabric become
+>}dissonant so long as fifths of 709 cents are preserved. To those who
+>}treasure each new whining, commatic dissonance like the goose's golden
+>}egg, and hate consonance with a passion, this temperament is indeed a
+>}gift from the gods.
+>
+>Let me make one caveat to the claim that if the syntonic comma does not
+>vanish, the diatonic system fails. There is an important period in Western
+>musical history where a major scale with a comma defect was actually used.
+>This was in the late medieval period, when consonant thirds and sixths were
+>gaining acceptance, but Pythagorean temperament was still sine qua non. The
+>procedure was to tune a Pythagorean series starting with, say, Gb, to obtain
+>the scale C Db D Eb E F Gb G Ab A Bb B C in Pythagorean intonation. Now
+>examine the "major" scale starting on D: D E Gb G A B Db D. In cents it is 0
+>204 384 598 702 882 1086 1200. The I, iii, IV, V and vi triads are only 2
+>cents off just intonation! The ii triad is quite out-of-tune, however, and
+>would have to be avided in such music, and modulation is not possible. But
+>this was a period before triadic harmony had not yet established itself,
+>though the diatonic scale had long reigned supreme and continued to do so.
+>Melodically the difference between the two sizes of whole tone is just a bit
+>too small to be disturbing, and so it seems likely that this scale could have
+>been the ma-grama of ancient India -- in terms of a 22-tone Pythagorean
+>tuning, the structure of this scale is indeed 4 3 2 4 3 4 2. Indian music
+>uses a melody against a tonic drone, so the out-of tune intervals between the
+>second and fourth and between the second and sixth never occur harmonically.
+>
+>}22-tone equal is to observe that the three consonant cycles (those of
+>}the fifth, major third and minor third with their inversions) are
+>}incommensurable.
+>
+>Introduce the septimal harmonies and the cycles become "commensurable" again,
+>if I may continue your misuse of the word. See my paper.
+>
+>}Of
+>}course the centre of 22-tone equal in India is nowadays supposed to be
+>}the South.
+>
+>Where did you get this idea?
+>
+>}Tuning now to a different issue, you appear to assume that because the
+>}historic Arab theorists - most of them more concerned to interpret
+>}ancient Greek theory than the practice of their own musicians -
+>}prescribe or record a tuning, all are Neanderthals who do not fall down
+>}before this tuning in awe. I certainly do not hold Arabic music in
+>}contempt.
+>
+>As I recall, you began on this list by attempting some selective
+>interpretation of Arab theorists -- anything that supports 1/3-tones, you
+>like. I am speaking simply as a musician who listens. I listen closely -- at
+>blues jams I will often echo a singer or other soloist note-for-note
+>including all microtonal inflections and slides. In high school I trained
+>myself with a computer to infallibly recognize randomly played 31-equal
+>intervals, though I must admit to falling short of Johnny Reinhard's
+>1200-equal abilities. The simple fact is that Arabic music often divides a
+>minor third into two equal parts.
+>
+>}I am aware of the cents in a (12-tone equal) tone. Difference of opinion
+>}need not give rise to random unpleasantness.
+>
+>Just curious, what is this in reference to?
+>
+>}I had much rather be called a 'popularist' than an elitist.
+>
+>Yes, I thought it a more accurate description.
+>
+>}I do not deny that non-Western traditions use intervals different from
+>}those commonly used in the West. Thank God that they do!
+>}I do however categorically deny that any singers whatever (allowance
+>}made for the occasional alien with 31-tone equal ears)
+>}can reliably reproduce intervals narrower than 55-60 cents in melody.
+>
+>Partch and several fine interpreters of his music have produced many
+>counterexamples, now available on CD.
+>
+>}I wish to clarify my statements regarding the tone of 22-tone equal.
+>
+>}This temperament does not merge 10:9 (182 cents) and 9:8 (204 cents) in
+>}the sense that it does not merge the two at a value intermediate between
+>}the two( as _do_ the harmonically usable temperaments)
+>
+>Correction: diatonically useable temperaments
+>
+>}but it does merge
+>}them at a value quite divergent from both, namely at 218 cents. So in
+>}one sense it does not merge (or compromise between) the two species of
+>}tone, but in another sense it does merge them, at a very unfortunate
+>}excentric value.
+>
+>How you can say it merges them is beyond me. The "9:8" arises from
+>consonances as two perfect fifths, and the "10:9" arises as a major third
+>minus two perfect fifths. Thus the difference between them is, by definition,
+>a syntonic comma. The syntonic comma, we have seen, is represented by 55
+>cents in 22-equal. The "10:9" is represented by 164 cents, and the "9:8" by
+>218 cents, in 22-equal.
+>
+>}All harmonically usable temperaments
+>
+>Again, this should say "diatonically usable"
+>
+>}: 12- 19- 31- 43- 50- 55-tone equal,
+>}etc merge the two species of tone at a value intermediate between 10:9 &
+>}9:8. This permits the cycles of the fifth, major third and minor third
+>}to be integrated within a single coherent system. These temperaments
+>}divide the tone into 2,3,5,7,8 & 9 equal parts respectively.
+>
+>}It is interesting that no usable temperament divides the tone into four
+>}equal parts. Both 22- and 24-tone equal do so, and both are dogs, though
+>}for very different reasons. There is also a gap in the sequence at 6.
+>
+>Why is 24TET unusable?
+>
+>And what about 26TET, where the syntonic comma truly does vanish? You feel
+>that the ratios of 3 (3:2, 4:3) are more sensitive to mistuning than the
+>ratios of 5 (5:4, 6:5, 5:3, 8:5), and therefore 26-equal would be out of the
+>question. However, Harry Partch was convinced that the opposite was true, and
+>rational approximation theory, with a suitable musical interpretation, quite
+>agrees with Partch. My ears find evidence for both points of view: at first
+>the prominent beating of out-of-tune ratios of 3 is more disturbing, but
+>ultimately it is not as detrimental to the musical meaning of the intervals
+>as an equal amount of mistuning in more complex ratios. This latter fact
+>explains why 19TET is much better than 12TET for 5-limit harmony; weighting
+>the ratios of 3 much more than the ratios of 5 would make 12TET look better.
+>One gets used to the prominent beating of the ratios of 3 in 19TET and 22TET,
+>and misses it when it's gone. The beating in 26TET is only a shade faster.
+>Many musical cultures use ratios of 3 in musically significant ways but
+>mistune them relative to JI by up to about 20 cents. The West mistunes ratios
+>of 5 by similar amounts in attempting to use 12TET. On balance, treating all
+>consonances as equally susceptible to mistuning may make the most sense,
+>especially in a context of complete harmonies, where the more complex ratios
+>can be more easily understood by virtue of the way they combine. I did so in
+>deriving 2-3 cents as the optimal amount of stretching for 19TET; unlike
+>Gregg, I used squared error as the measure of dissonance, the appropriateness
+>of which I recently discussed.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  Practical Bases of Just Intonation
+PostedDate:  18-12-97 03:19:01
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-12-97 03:16:56-18-12-97 03:16:56,18-12-97 03:16:33-18-12-97 03:16:34
+DeliveredDate:  18-12-97 03:16:34
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256571.000C8764; Thu, 18 Dec 1997 03:18:47 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18616; Thu, 18 Dec 1997 03:19:01 +0100
+Date: Thu, 18 Dec 1997 03:19:01 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18603
+Received: (qmail 6742 invoked from network); 17 Dec 1997 18:18:58 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Dec 1997 18:18:58 -0800
+Message-Id: <3498EA05.140F@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

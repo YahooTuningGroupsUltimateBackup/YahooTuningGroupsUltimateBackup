@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Sun, 17 Nov 1996 11:48:55 -0800
+
+Subject: Re: Post from Brian McLaren
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> I can understand how this change enforced a 12-pitch-per-octave standard
+> keyboard, but pianos are hand-tuned, even now. The construction of a piano
+> does not have to be changed to accomodate most historical meantone, just,
+> or well-tempered tunings, as long as they don't stray radically from a
+> 12TET median.
+
+   I believe that what Brian is refering to is that with non-ETs, you either
+need, or will want anyway, more steps per octave, and physical mechanisms of
+previous centuries put big limits on how many more steps per octave you can add
+beyond 12.  
+
+   However, when you force the circle of fifths to close at 12, there is less
+impetus to even wonder about other pitches, because it is a complete system in
+itself, and a useful one at that.  Meantone temperaments are not closed at 12
+steps per octave.  
+
+   Also, I'm told second-hand that when you tune the strings of a piano such
+that the tensions of adjacent keys vary much from one another, they tend to go
+out of tune quickly.  That makes ETs easier to realize on piano even if you do
+stick with 12-tones/octave.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 17 Nov 1996 20:48 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA15195; Sun, 17 Nov 1996 20:49:35 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA15101
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA19423; Sun, 17 Nov 1996 11:49:33 -0800
+Date: Sun, 17 Nov 1996 11:49:33 -0800
+Message-Id: <961117194445_71670.2576_HHB70-7@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

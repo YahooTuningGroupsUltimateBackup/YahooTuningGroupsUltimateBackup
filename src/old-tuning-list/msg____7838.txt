@@ -1,0 +1,156 @@
+source file: m1420.txt
+Date: Mon, 18 May 1998 18:19:37 -0400
+
+Subject: RE: tetrachords
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+There seem to be two schools of thought about the melodic structure of
+scales; one is based on tetrachords, the other on "maximal evenness".
+Let's flesh out what they mean for some common scales.
+
+First, let's consider the modes of the major scale. All of them are
+maximally even in 12-, 19- or 26-tone equal temperament; that is, there
+is no way to more closely approximate a 7-tone equal-tempered scale in
+these tunings than the major scale and its modes. Now look at the modes
+themselves:
+
+(C D E F) (G A B C)
+(D E F G) (A B C D)
+(E F G A) (B C D E)
+F (G A B (C) D E F)
+(G A B (C) D E F) G or G (A B C (D) E F G)
+A (B C D (E) F G A) or (A B C (D) E F G) A
+(B C D (E) F G A) B
+
+Each octave species contains two identical tetrachords, shown in
+parentheses. In the first three modes, the tetrachords are disjunct, and
+in the last four, they are conjunct. So in the first three modes, any
+melody played in one tetrachord can be repeated an approximate 3:2 away,
+and in the last four, any melody played in one tetrachord can be played
+an approximate 4:3 away.
+
+Why is this important? Well, one theory is that the minor third was the
+first melodic interval ever used, and the most primitive melodies had
+only two notes a minor third apart. See for yourself how easy it is to
+sing just about any text in such a melody, and how common it is in
+popular sing-song. Later, a third note was added, a whole-tone away so
+that the outer two notes formed a perfect fourth, the 4:3 ratio. This
+interval is a simple enough ratio so that even without harmony, had some
+sort of pretonal strength to it. This three-note scale, or "trichord"
+was then repeated either starting on the last note of the previous
+trichord, or a whole-tone higher such that the last note of the second
+trichord was an octave, or 2:1 ratio, away from the first note of the
+first trichord. Thus were formed all the modes of the pentatonic scale:
+
+(C D F) (G A C)
+(D F G) (A C D)
+F (G A (C) D F)
+(G A (C) D F) G or G (A C (D) F G)
+(A C (D) F G) A
+
+(These are maximally even pentatonic scales in 7- or 12-tone equal
+temperaments).
+
+Then the minor thirds were filled in. In the West, the minor thirds were
+divided into a whole tone (already familiar) and a half tone (new).
+Ordering these two intervals the same way in both trichords leads to two
+identical tetrachords, thus the modes of the major scale above.
+
+In the Arabic world, the minor thirds were often divided instead into
+two equal parts, 3/4-tones which were not familiar from the trichords.
+This led to the following scales (+ means quarter-tone sharp, - means
+quarter-tone flat):
+
+(C D E- F) (G A B- C)
+(D E- F G) (A B- C D)
+F (G A B- (C) D E- F)
+(G A B- (C) D E- F) G or G (A B- C (D) E- F G)
+(A B- C (D) E- F G) A
+
+Also appearing was a scale, Mohajira, which put the 3/4-tones at
+opposite ends of the tetrachords and the whole-tone in the middle:
+
+(E- F G A-) (B- C D E-)
+
+(This is a maximally even heptatonic scale in 17-, 24-, or 31-tone equal
+temperament).
+
+Many scales in the East may have been formed by halving the whole tones,
+rather than the minor thirds, in each trichord. Though a clear violation
+of the maximal evenness principle, some of the resulting scales are
+found outside the West:
+
+(C C# D F) (G G# A C)
+(D F F# G) (A C C# D)
+F (G G# A (C) C# D F)
+(G G# A (C) C# D F) G
+G (A C C# (D) F F# G)
+(A C C# (D) F F# G) A
+
+Also appearing was a scale (Major Gypsy or Persian) which put the
+half-tones at opposite ends of the tetrachords and the minor third in
+the middle:
+
+(C# D F F#) (G# A C C#)
+
+In India, musicians may have had a very high sensitivity to intonation,
+which forced them to distinguish two types of whole tones. Tuning the
+original minor third to 6:5, the whole tone completing the 4:3 would
+have to be 10:9, while the one that, along with the two 4:3s, completed
+the 2:1, would have to be a 9:8. They appear to have reckoned the former
+as 3 srutis, the latter as 4 srutis, and the minor third as 6 srutis,
+making a 22-sruti octave. There seems to have been an early attempt at
+dividing the minor third into two equal parts, resulting in a scale
+known as Gandhaara grama, which did not survive the ancient period and
+whose true nature is shrouded in mystery. More successful were the
+Western-type approach of dividing the minor third into a half-tone (2
+srutis) and a whole-tone (4 srutis). When the two minor thirds were
+divided the same way, the resulting "diatonic" scales could have the
+following sequences of intervals:
+
+(3 2 4) (3 2 4) 4
+(3 4 2) (3 4 2) 4
+(4 2 3) (4 2 3) 4
+(4 3 2) (4 3 2) 4
+(3 2 4) 4 (3 2 4)
+(3 4 2) 4 (3 4 2)
+(4 2 3) 4 (4 2 3)
+(4 3 2) 4 (4 3 2)
+4 (3 2 4) (3 2 4)
+4 (3 4 2) (3 4 2)
+4 (4 2 3) (4 2 3)
+4 (4 3 2) (4 3 2)
+
+There are four distinct scale types here, each represented by three
+modes. The four scale types are the ones that appear to have been most
+important in a period in Indian music history, according to a paper by
+Lewis Rowell, John Clough, and others. They show that these scales can
+be singled out from all 7-out-of-22 scales by demanding two properties.
+One is that there be only one tritone (half-octave interval). The other
+is a sort of second-order maximal evenness involving the numbers 7, 12,
+and 22. I pointed out to John Clough that a different but equally simple
+definition of second-order maximal evenness allows one to obtain the
+four scale types without the additional tritone rule. However, I did not
+make a big deal out of it, since I believe the acoustical-tetrachordal
+derivation to be more relevant.
+
+In modern Indian scales the two minor thirds were, however, not always
+divided with the intervals in the same order. Also the Eastern-type
+approaches of dividing the whole-tone are used in India. Finally, even
+the scales above each have only three octave species with identical
+tetrachords. Probably, the majority of Indian scales cannot be
+considered to have two identical tetrachords.
+
+If you read my paper on decatonic scales in 22-tone equal temperament,
+you will see that one version of the scale has the property that all its
+octave species contain two identical pentachords, either conjunct or
+disjunct, while another version is maximally even. The pentachordal
+scale can be derived from the Indian scales above by treating the 22
+srutis as equal and dividing all 4-sruti intervals in half. As far as
+melodic appeal goes, I think the tetrachord (trichord, pentachord)
+concept wins, as evidenced by comparing the two scales played
+melodically. However, the maximally even scale contains 8 consonant
+tetrads to the pentachordal scale's 6. Another case of melody and
+harmony being at odds for scale construction (something Ivor Darreg
+liked to point out).

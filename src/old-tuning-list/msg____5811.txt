@@ -1,0 +1,65 @@
+source file: mills2.txt
+Date: Fri, 11 Jul 1997 12:20:02 +0200
+
+Subject: RE: Meantone, Partch
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Paul Erlich wrote:
+
+>Topologically, meantone tunings wrap the 5-limit plane onto an infinite
+>cylinder. I like to see ETs as having as many dimensions as odd factors
+>with which they are consistent. ETs consistent with the 5-limit wrap
+>said plane onto a torus.
+
+A 2-D scale is linear with octave invariance, because each point
+will lie on a line drawn on Paul's cylinder, at the intersections
+with the original lattice.  I generally don't like this idea of
+"linear temperaments" because it places too strong an emphasis on
+octave invariance.  However, if you define a temperament as "a
+formula that produces a scale" that would make the difference.
+
+Applying octave invariance would wrap 3-D pitch space into a
+hypercylinder.  Note that there would be two straight lines
+connecting any two points in this hypercylinder, so this space
+would also imply inversional invariance.  A meantone would then
+wrap this into a toroidal hyperprism, and an ET a hypertorus.
+Quite something, given that an integer CET or TET would be a
+finite set of points in this hypertorus, having a Hausdorff
+dimension of zero.  Anyway, back to Earth:
+
+>22tET can be considered 5-dimensional because
+>it consistently represents all ratios of 3, 5, 7, 9, and 11.
+
+This is a 1-D scale approximating 5-D harmony in my terminology,
+including 2 and implying 9.  Call it an ET approximating the
+11-limit if you prefer.  However, I would certainly not say that
+the scale is 5 dimensional, rather that you are mapping it to a
+5-dimensional space.  The number of points in the full 5-D real
+pitch space depends linearly upon the number of octaves you look
+at, hence the scale has a Hausdorff dimension of 1.  I wouldn't
+say that adding a direction for 9 alters the dimension.  A
+definition, then:
+
+The dimension of a scale is the smallest number of fundamental
+intervals (FIs) such that every interval in the scale is a linear
+combination of integer multiples (phew!) of those FIs.  This
+implies that none of the FIs can be a linear combination of
+integer multiples of the others.  The FIs would be real numbers
+denoting the interval size in octaves, c*nts, or some such unit.
+Distinct prime numbers always constitute a set of FIs.  Note the
+analogy reals->vectors, integers->scalars.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 11 Jul 1997 12:24 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00642; Fri, 11 Jul 1997 12:24:44 +0200
+Date: Fri, 11 Jul 1997 12:24:44 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00560
+Received: (qmail 4660 invoked from network); 11 Jul 1997 10:24:34 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 11 Jul 1997 10:24:34 -0000
+Message-Id: <Chameleon.868616497.neuwirth@loyd.nime.ac.jp>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

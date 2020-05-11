@@ -1,0 +1,56 @@
+source file: mills3.txt
+Date: Sat, 29 Nov 1997 17:09:44 +0100
+
+Subject: Testing the Tropez Plus tuning dumps
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+"Fred Kohler" <Fred_Kohler@bc.sympatico.ca> wrote:
+
+> I have a Tropez Plus and would be willing to do the test but I'm not sure
+> how to accomplish it.  Any hints?
+
+Okay, try this:
+
+Start a sequencer file with a standard tuning dump.  Then, loop
+an arpeggio.  At one of the bars, insert another tuning dump to
+do something very noticeable -- like tune everything up an octave.
+See how fast you can get before the first (or second) note after
+the dump doesn't get tuned in time, or there is an annoying glitch.
+
+If there's no problem at any speed, try a fast chord sequence
+instead, and saturate the MIDI stream with continuous controllers.
+If there's still no problem, well ... there's no problem!
+
+I'd guess the glitch will either be very noticeable, or completely
+negligible.  If the former, see what happens if you send a
+meaningless SysEx of the same length.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  A440A@aol.com
+Subject:  Bach? Puhleeze?
+PostedDate:  30-11-97 00:19:38
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  30-11-97 00:18:02-30-11-97 00:18:03,30-11-97 00:17:59-30-11-97 00:18:00
+DeliveredDate:  30-11-97 00:18:00
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125655E.007FFAFD; Sun, 30 Nov 1997 00:17:53 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02296; Sun, 30 Nov 1997 00:19:38 +0100
+Date: Sun, 30 Nov 1997 00:19:38 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02294
+Received: (qmail 28318 invoked from network); 29 Nov 1997 15:19:28 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 29 Nov 1997 15:19:28 -0800
+Message-Id: <971129181657_261222769@mrin47>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,449 @@
+source file: mills2.txt
+Date: Sun, 29 Oct 1995 01:17:07 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subjedt: Xenharmonic uses of FFTs
+---
+The FFT (to paraphrase DSP expert F. Gump)
+ is like a box of chocolates: you never
+know what you're going to get out.
+Because of the close connection between
+the micro-level of harmonic or inharmonic
+partials, and the macro-level of just,
+equal-tempered and n-j n-e-t tunings,
+the FFT deserves a more detailed and more
+knowledgable discussion than it has to
+date received on this forum.
+As everyone knows, today's digital 
+time-stretching and pitch-shifting
+algorithms (exemplified by SoundHack
+and the Dolson vocoder) have reached a
+high state of perfection.  This kind of
+software allows you to reliably change
+the pitch (or length) of any sound with
+digital exactitude, under exquisitely
+precise software control.
+Everyone knows this, but it isn't true.
+A number of folks on this forum have gone
+so far as to claim that the FFT "tells you
+what's going on inside a sound."
+Alas, not so.
+In fact the short-time FFT analysis of
+a signal changing  in time gives you
+a series of snapshots.  Each snapshot is
+an average of what goes on during that
+time interval.  You get *NO* information
+whatever about goes on *BETWEEN* spectral
+snapshots.
+To get around this severe limitation in our
+knowledge about the waveform being analyzed,
+scientists and acousticians use a sophisticated
+scientific technique.   It's called "a wild guess."
+Between spectral snapshots spat out by the STFFT
+analysis, audio analysis programs make a set of
+arbitrary assumptions.  In effect, guesses.
+Namely: they guess (arbitrarily) that the frequency
+components do not change very much, or very fast,
+and that they remain nearly harmonic all the time.
+None of these assumptions are true for any sound
+in the real world, but they are sometimes *almost*
+true for some sounds, some of the time.
+Some sounds have nearly harmonic overtones that
+change relatively slowly except for the initial
+10 milliseconds of the attack.  Alas, during the
+first 1/100th of a second of almost every sound, short-
+time FFT analysis produces garbage output and the
+results must invariably be fudged with various
+ad hoc rules of thumb and guesstimates.
+This occurs because--during the initial attack of
+a soun--both the frequency and the magnitude
+of the partials change very rapidly, and the FFT
+completely falls apart when applied to spectra
+changing rapidly in both phase and magnitude
+at the same time.  (This is inherent in the nature
+of wave phenomena, and is in fact the basis for
+the Heisenberg Uncertainty Principle when applied
+to de Broglie matter waves.)
+The net result is that the FFT in fact does *not*
+tell you "What's going on inside a sound."  Instead,
+the FFT *sometimes* gives you a hint under
+*some* circumstances of *some* of what
+*might* be going on inside *certain* sounds
+at the micro-level...part of the time.
+However,  the short-time FFT also introduces
+a great many distortions into the information
+it generates.  The short-time FFT also destroys
+some of the information being analyzed. 
+Some people have claimed otherwise: memorably,
+Mark Dolson.  The statement is always incorrect
+when applied to the short-time FFT, and often
+incorrect when applied to the simple FFT.
+Under no circumstances can
+the output of an FFT be taken as gospel,
+and in many cases the FFT lies outright.
+Doubtless many of you will be shocked to
+learn this.  "But the textbooks say..." 
+Nope. 
+All too many textbooks are written by
+folks without a lot of hands-on practical
+experience, and they usually deal with ideal
+theoretical cases ONLY.  For good reasons, 
+engineering and physics texts are  written
+to make the subject matter as transparent
+and comprehensible as possible.  As a result,
+few introductory texts go so far as to tell
+you the remarkable number of ways in which
+today's sophisticated DSP algorithms can
+turn your input into total trash.
+Perhaps you've been seduced by the siren sound
+of that cognomen "digital."  Anything that's
+"digital" *must* be accurate--right?  It *must*
+be reliable--right?  After all--the Fourier transform
+is a classic mathematical technique...how can
+it *lie* to us?
+To repeat one of my favorite riffs, all methods
+of analysis are reliable only insofar as the
+quantity being analyzed fits the assumptions
+on which the analysis is based.  Aiming a
+telescope at a virus doesn't tell you much;
+using a microscope to study galaxy M31 is
+futile.
+In particular, mathematical techniques produce
+accurate results only when the input honors
+the boundary conditions of that technique.
+This is no surprise to those of us on the physics
+side of the fence, but it seems to come as a 
+constant shock to some other folks.  While 
+physics dudes understand & accept that
+all mathematical models of reality are merely
+*approximations* of the extremely complex
+real world--and usually crude approximations
+at that--this is a lesson that has yet to percolate
+into everyone else's consciousness.  Thus one
+often sees engineers with a mathematical hammer
+looking at everything in the universe as though
+it's some kind of nail.
+The FFT is a classic example.
+Surprisingly, this can be good thing.  To an engineer,
+distortion is a no-no...but to a composer, distortion's
+ *dandy.*  If a mathematician puts a sound
+into the FFT and gets out weird digital glop
+that strikes the ear as xenharmonic & unspeakably bizarre 
+& nothing like the input...well, that's bad news for
+a math nerd but great news to a xenharmonist.
+So rejoice: not only does the FFT often produce
+utter junk on output, it often spits out sonically
+*interesting* junk.
+Think of it as "found art," DSP-style.  
+This makes DSP pitch-shifting and time-stretch
+algorithms (like SoundHack) splendid synthesis
+modules!  Because of the FFT's propensity to
+act in a highly non-linear and bizarre manner,
+it can mixmaster even the most mundane inputs
+into utterly fascinating digital grunge.
+But don't take my word for it.
+Instead, let's consider 3 hands-on examples that
+show just how wildly the FFT can misbehave:
+[1] Try this one--take a short noisy percussive
+sound (say, a breaking light bulb, or the thwack
+of a hammer, or a recorded gunshot) and time-
+stretch it by a factor of 100.   Surprise!  Although
+intuition would lead you to suspect that the output
+would simply be a very long very loud rumble,
+such is not the case!  Instead, what you get out
+bears *no sonic relation whatever* to the input:
+the output is a wild series of rising and falling
+sine waves, a strange and xenharmonic surf of
+exotic glissandi and portamenti--1000 violins
+run amok with tremolo from hell.
+[2] Now take a short 100-sample burst of noise--
+say, from an arc welder, or off a radio being 
+tuned--and time-stretch it by a factor of 100, 
+then  another factor of 100 (10,000 all told).
+Surprise!  The output will be a long digital
+shriek composed of many sine waves rising
+and falling.  Surprise #2: the shriek will
+gradually die away into silence after several
+minutes.  Yes, even though the input was 
+noise of a constant level, the output is not
+only a set of pitched gliding sine waves, but
+one which fades away into *nothing!*
+[3]  Digitally pitch-shift a perfectly harmonic sound
+(say, a triangle wave or a square wave) by
+an irrational factor...say, a 12-TET minor third.
+Surprise!  The output sound will suffer from
+ periodic "blips" in its amplitude and
+severe overall phasing--in fact the original
+boring triangle or square wave will sound as
+though it's been passed through a Leslie
+speaker simulator and then a phaser, along
+with a chopper modulator that makes
+the sound's envelope flutter audibly.
+---
+How can such things happen???
+Listen up: this may be the only time anyone 
+tells you the whole truth about the FFT.
+In case [1],  time-stretching a sharp percussive
+noise produced a series of wild rising
+and falling sine waves because we tried to
+use the FFT to analyze and resynthesize a
+noise impulse as though it were made up of 
+a collection of sine waves.
+Remember the admonition at the start of this
+post?  A mathematical technique is *only*
+useful for analyzing those inputs which
+adhere to the assumptions underlying that
+technique.  And in this case, our assumptions
+were fatally flawed--we tried to model the
+sound of a light bulb smashing as a set of
+sine waves.
+Sorry: this doesn't work in the real world.  
+As opposed to pie-in-the-sky theoretical
+inputs made up of perfectly harmonic sinusoids,
+many common everyday sounds in the
+real world are not even remotely well
+modeled as collections of sine waves.  
+What took place inside the FFT algorithm that's
+at the heart of SoundHack's time-stretch
+algorithms is worth examining in detail,
+because it will demonstrate just how 
+badly such so-called "digitally perfect"
+algorithms as the FFT can misbehave.
+To see what happened, think back on the
+way you got bell sounds out of an
+old analog synth.  Remember?   First you'd
+crank up the voltage controlled filter to
+a whopping big Q, until it was just about
+to warble into oscillation.  Then you backed the
+filter's Q knob off just a bit and plugged
+a short sharp impulse into the filter's
+input.  On the Arp 2600 a trigger pulse
+(which is generally *never* used as an
+audio output--it's meant to trigger an
+outboard synth or an analog sequencer or
+envelope generator!)  made a dandy candidate.
+What happened, of course, is that the
+short sharp impulse hit the filter with
+a whole bunch of freqencies. (Remember,
+the frequency and time domains are inverse
+to one another: an impulse narrow in the time
+domain is broad in the frequency domain. 
+Thus a sharp short spike like a trigger
+pulse contains a wide band of sine
+waves in the frequency domain) The filter
+stored those frequencies and smeared
+them out over time.  Moreover, because
+the filter had a very high Q it was near
+the conditions necessary for self-oscillation,
+and the burst of energy from the trigger
+pulse pushed the filter over the edge and
+made it "ring" for a while.
+So the output was a rich clangy bell sound,
+with lots of bizarre spurious sine waves
+generated by the filter itself.  The capacitors
+in the filter circuit delayed each of the many,
+many sine waves in the trigger pulse by
+a different amount, spreading them out
+over time: and the self-oscillation of the
+filter added huge numbers of overtones
+at the natural resonance frequency of the
+filter itself (a frequency determined by
+the capacitance, inductance, and resistance
+of the filter circuit).
+The end result is that a perfectly ordinary
+little click, when fed into that analog
+filter, generated a completely unexpected
+result: a deep inharmonic bell clang that
+lasts several seconds.
+If you'll remember that a filterbank is
+at the heart of the FFT, you'll now realize
+what was happening when you fed the poor
+defenseless FFT that short sharp breaking-
+light-bulb sound. 
+Extreme values of time-stretch are analogous
+to raising the Q of an analog filter.  In this
+case, the energy from each time-slice of
+the FFT was carried out into many, many
+other frames because the extreme
+time-stretch cranked down drastically
+the rate at which the short-time FFT was 
+permitted to change its output.
+The net result is that the energy from
+each FFT frame built up and built up,
+until finally it sent the individual filters
+of which the FFT is made into a brief
+period of self-oscillation.
+At the same time, the digital filterbank
+which lies at the heart of the FFT
+spread those sine waves out in time.
+This explains the wild rising and falling
+sine waves--whose amplitudes rise
+and fall as their phases coincide
+constructively or destructively.
+This last phenomenon is the clue
+to case [2], in which a noise burst
+of constant level is changed into a
+shriek which decays into silence.
+Because of the extreme time-
+stretch (here, a factor of 10,000!)
+the many sine waves generated
+by the FFT's filterbank bled
+away at a rate controlled by the
+internal "circuitry" of the FFTs
+digital filters--in this case, the
+various constants used inside 
+the FFT itself, which correspond
+to delay times and filter gains and
+tap coefficients. In effect, we
+"whacked" the FFT with a
+100-sample impulse and it
+reverberated for a while, then
+died away.  This is in fact a
+classic example of the impulse
+response of an FIR filterbank at 
+the heart of a real-world FFT.
+In case [3] the filter tried to
+approximate an irrational
+quantity with the ratio of 2
+integers.  In this case, the
+attempt failed because the length
+of the FFT wasn't very large, and so
+we tried to approximate an irrational
+number with 2 *small* integers.  
+Remember:  an FFT algorithm
+does pitch-shifting by changing the
+decimation factor of the input FFT
+of the sound and then changing the
+output sample rate conversion filter
+so that the ratio of the two quantities
+is as close as possible to the desired
+pitch shift ratio.  However, in the
+case of a ratio as irrational as 2^(4/12),
+the FFT algorithm falls apart--because
+ultimately it's limited by the fundamental
+frequency of the sound itself.  If the
+sound's fundamental is, say, 100 samples
+in length, then the FFT *must* use a 128-point
+window to preserve the fundamental of
+the input sound.  This limits the granularity
+by which the decimation factor/sample rate
+conversion filter  can be changed.  And thus
+(as usual with the FFT) we get a trade-off:
+to pitch-shift a sound with extreme precision,
+we must reduce the window size of our
+FFT--but this amounts to throwing away most of
+the frequency information in the original sound. 
+Conversly, the more precise our frequency analysis
+of the input, the more coarse and granular the
+amount by which we can ratchet the pitch
+up or down via DSP methods.
+---
+Now that you've more insight into just how
+bizarrely the FFT can behave, you might want to
+try your hand at using the FFT to make microtonal
+music.  This is a happy hunting ground for
+the imaginative xenharmonist!  Talk about "found
+scales..."  With a sound tool like SoundHack or
+the Dolson vocoder, you can obtain "found scales"
+from almost any kind of percussive sound--nor 
+do you need access to a digital audio workstation
+or a mainframe!  You can do  impressive and 
+wildly microtonal-sounding compositions with the FFT
+right on your home Mac or PC.
+Here are some suggestions for ways to produce
+*highly* xenharmonic music using the FFT:
+[1] Try ring modulating a harmonic-timbre sound
+ & then  pitch-shifting or time-stretching it.
+(To ring modulate a sound, just multiply it by 
+a fixed sine wave or set of sine waves.  Most
+DSP tools allow the user to generate a fixed
+signal with an arbitrary set of frequencies
+and amplitudes, and also allow you to multiply
+any signal by any other signal.)  
+You'll discover that the more inharmonic a
+sound, the wilder the output from the FFT--
+regardless of the particular technique you
+use.
+[2] Try extreme time-stretching or pitch-
+shifting of conversations.  Only a small part 
+of any given vocalisation consists of pitched
+material: the rest is made up of glottals,
+fricatives, plosives, labials, and the like.
+Because these are *wildly* inharmonic
+impulses, they're superb candidates 
+for teasing wacky microtonal goobidge from the
+FFT.
+[3] Try pitch-shifting or time-stretching
+a sound by some large amount, then
+save the sound in reverse order and
+repeat the process.  As long as the
+time-stretch or pitch-shift isn't a
+power of 2, the result will be a
+gobbling gibbering wobbling modulation 
+that's caused by the ratio of the two
+incommensurate decimation rate-vs.-
+FFT-widow-sizes.  This procedure
+can generate some extremely unusual
+timbres & highly xenharmonic pitches.
+[4] Try multiplying one sound by another;
+try dividing one sound by another.
+You'll discover that division is equivalent
+to high-pass filtering of one sound
+ring-modulated by the other; it's incredibly
+noisy.  Multiplying one sound by another
+is equivalent to ring-modulating one
+sound by the other.
+Results are especially interesting if, say,
+one input is Mozart and the other input
+is The Sex Pistols.
+[5] Try using an envelope follower to 
+control the amount by which you ring
+modulate a sound; also try making
+the relationship inverse. (That is,
+division instead of multiplication.)
+For pitched highly harmonic material,
+this can turn a western symphony
+orchestra is something like a 
+demented gamelan; it's endlessly
+entertaining, particulatly with the
+100 strings of Montovani.
+[6]  Some DSP packages allow you
+to use a phase vocoder to generate
+a set of time-varying filters.  This
+is a real gold mine.  The mundane
+usage is to analyze speech and
+apply the time-varying filters to
+a flute, an electric guitars, etc.,
+ad nauseum.
+But it becomes *really* interesting
+if you abuse & misuse the algorithm
+by "analyzing" the sound of a
+thunderstorm, say, or a recording
+of bugs frying on an electric bug
+zapper, and then apply the weird
+non-linear time-varying filters thus
+obtained to, say, the sound of a
+ditch witch, or a building being 
+demolished.   The end result, as
+Carter Scholz put it, is akin to
+"Lloyd Bridges giving a lecture on just 
+intonation while wearing a scuba 
+regulator and breathing helium."
+*Highly* xenharmonic!
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 29 Oct 1995 18:03 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id BAA05391; Sun, 29 Oct 1995 01:04:04 -0800
+Date: Sun, 29 Oct 1995 01:04:04 -0800
+Message-Id: <Pine.3.89.9510291016.A12098-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

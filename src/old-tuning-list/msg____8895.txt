@@ -1,0 +1,80 @@
+source file: m1589.txt
+Date: Sat, 21 Nov 1998 12:47:56 -0800
+
+Subject: subharmonic scale
+
+From: monz@juno.com
+
+Jeff Collins wrote:
+
+> I am new to this list and have been doing a bit of
+> lurking around, but today i read a post from Joe Monzo
+> who mentioned the Subharmonic scale. This scale
+> sounds very interesting to me...but i have absolutely
+> no information on it.
+> Does anyone possibly have any info they can e-mail
+> (or snail) to me? I would really appreciate it.
+
+First, welcome to the List.
+
+I've decided it would be more fruitful to send this
+to the List than to you personally.  Perhaps others
+have comments.
+
+The "subharmonic scale" can be characterized as a
+utonal progression, in Partch's terms.  It is the
+exact inverse of the "harmonic series" of overtones
+above a fundamental.  In the case of subharmonics,
+the "fundamental" is the highest note in the series,
+with the subharmonics in reciprocal integer ratios
+below it.
+
+The proportions as we used in our improv were as follows,
+with pitch progressing from the top down, and with
+the equivalent "bottom-up" standard terms given for
+the notes which form the "minor triad":
+
+1/3  "fundamental"
+1/4  "5th"
+1/5  "minor 3rd"
+1/6  "root"
+1/7  
+1/8  "5th"
+1/9
+1/10  "minor 3rd"
+1/11
+1/12  "root"
+1/13
+1/14
+1/15
+1/16  "5th"
+1/17
+1/18
+1/19
+1/20  "minor 3rd"
+1/21
+1/22
+1/23
+1/24  "root"
+1/25
+1/26
+
+Note that we normally skip the 1/1 and 1/2 as they
+just produce higher octaves of the top 1/3.  Intervals
+between notes become progressively smaller as you
+go down the scale.
+
+The top note, 1/3, was around 3200 Hz.  Notes below
+1/16 are progressively smaller "semitones" -- the
+keyboard tuning went much further than this, but
+notes near the bottom were quite low in pitch and
+sounded more like rumbles than clear subharmonics.
+
+- Joe Monzo
+  monz@juno.com
+  http://www.ixpres.com/interval/monzo/homepage.html
+
+___________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com/getjuno.html
+or call Juno at (800) 654-JUNO [654-5866]

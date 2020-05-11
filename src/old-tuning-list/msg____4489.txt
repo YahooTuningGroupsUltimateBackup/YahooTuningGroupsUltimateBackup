@@ -1,0 +1,38 @@
+source file: mills2.txt
+Date: Fri, 3 Jan 1997 07:24:26 -0800
+
+Subject: Harmonics at other than integer frequency ratios.
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+There is also an article that provides a quantitative analysis of the
+inharmonicity of piano strings:
+
+     AUTHOR: RASCH, Rudolf A.; HEETVELT, Vincent
+      TITLE: String inharmonicity and piano tuning.
+     SOURCE: Music perception, USA  Vol. III/2 (winter 1985) 171-89.
+   LANGUAGE: English.
+   DOC TYPE: ap -- Article in a periodical
+      CLASS: MUSIC AND RELATED DISCIPLINES - Physics, mathematics,
+             acoustics, architecture
+   ABSTRACT: Inharmonicity is a well-known property of stiff strings such
+             as those used in the modern piano. The inharmonicities
+             measured in a medium-sized grand piano are in excellent
+             correspondence with the predictions by formula from the
+             physical properties of the strings. Strings with higher
+             frequencies usually have higher inharmonicity than strings
+             with lower frequencies; this cancels out part of the effect
+             of inharmonicity on beat frequency.  (Authors, abridged)
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 3 Jan 1997 16:28 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00454; Fri, 3 Jan 1997 16:31:42 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00452
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA23789; Fri, 3 Jan 1997 07:31:35 -0800
+Date: Fri, 3 Jan 1997 07:31:35 -0800
+Message-Id: <32CD209D.AD8@ix.netcom.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

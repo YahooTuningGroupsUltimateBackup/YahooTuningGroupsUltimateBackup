@@ -1,0 +1,72 @@
+source file: mills2.txt
+Date: Wed, 14 May 1997 11:09:35 +0200
+
+Subject: Re: Scala to Csound (digest 1072 topic 2)
+
+From: Greg Schiemer <gregs@mail.usyd.edu.au>
+
+> 			    TUNING Digest 1072
+>   2) Re: Scala to Csound (digest 1064 topic 2)
+> 	by jpff@maths.bath.ac.uk
+> 
+> ----------------------------------------------------------------------
+> 
+> Csound contains operators for dealing with any equally divided scale,
+> repeating at any interval in teh score; it also has facilities for
+> handling non-equal scales at any repeat interval.  This has been there
+> for a long time now.  Look at cpsxpch.
+
+Thanks John. I have looked at cpspch. It seems to me to be related to
+pitch class, which is inherently related to modulo-12. For that reason, I
+tried another way. I thought it was more exact (and therefore less likely
+to mislead) to use modulo-7 numbers, rather than modulo-12.
+
+In my demo program - which I cooked up for students to discover the
+differences in the sound of triads produced on 2-limit and 3-limit scales
+as discussed in Doty's book - I found a way to do this using cpsoct as
+Scala also gives values (using SHOW/FREQ) that contain the tuning in
+oct+cps. In my program, pitch is defined in the .ORC file using goto
+statements which access 7 oscils that contain
+
+	cpsoct (ioctave + ktonic)
+	cpsoct (ioctave + ksupertonic)
+	cpsoct (ioctave + kmediant)
+	cpsoct (ioctave + ksubdominant)
+	cpsoct (ioctave + kdominant)
+	cpsoct (ioctave + ksubmediant)
+	cpsoct (ioctave + ksupermediant)
+
+The values of ktonic, ksupertonic, etc.. are defined in the .ORC files. 
+Pitch can then be specified in the .SCO file as two parameters, octave
+number and percentage of an octave. The .SCO files are as easy for the
+user to read in cpsoct as they are in cpspch too.
+
+Maybe the question should be : is it being too pedantic to try and express
+these JI pitches in a numbering system other than 12. What do you think ? 
+Anyway, I hope to post the code on Mark's website later this week. 
+
+	http://www.pacificnet.net/~nowitzky/justint/greg.htm
+
+I'll inform the list when it is ready. Thanks Mark for setting this up.
+
+Aside from the issue of expressing pitches without using pitch classes,
+it's been suggested that I use Pearl as a string editor on a PC to tailor
+Scala output by stripping away unwanted character strings. This would
+allow me to generate Csound .SCO and .ORC files entirely from within
+Scala. Has anyone done this already ? 
+
+Greg S
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 14 May 1997 13:30 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01609; Wed, 14 May 1997 13:30:04 +0200
+Date: Wed, 14 May 1997 13:30:04 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA01607
+Received: (qmail 14040 invoked from network); 14 May 1997 11:30:00 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 May 1997 11:30:00 -0000
+Message-Id: <v01541102af9da53a27dd@[207.207.3.165]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,68 @@
+source file: m1385.txt
+Date: Tue, 14 Apr 1998 03:53:50 -0500 (CDT)
+
+Subject: RE: delurking (synthesizer tuning capabilities)
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>My opinion is based upon using Ensoniq samplers since 1989.  If you want to
+>do a moderate amount of modulation in just intonation, 4 switchable scales
+>are not enough.
+
+   That's true.  But then again Ensoniq instruments respond to SysEx codes
+too, noting the caveat you mentioned.  And the MR series, and apparently
+the ASR-X, comply with the MIDI tuning standard which, as I understand it,
+has well-defined provisions for dynamic intonation.
+
+   Now that is of course assuming that you're restricting yourself to
+matching octave boundaries on the keyboard with octave boundaries in the
+tuning.  I'll be hornswaggled if I can tell how on Earth people do this,
+but the apparent truth of the matter is that the most common way to map
+more than 12 steps per octave to a keyboard is mapping them linearly,
+successive steps in the tuning to successive keys on the keyboard.
+
+   But anyway, if you're willing to admit that possibility, you can, for
+example map a dynamic JI scheme to 19-toned subsets rather than 12-toned
+subsets, you might be able to get by with 8 tables even with fairly exotic
+harmony.
+
+
+
+
+
+>Even if you use only fixed scales, if you want more than 8
+>different ones then you must store those scales as separate files and then
+>copy them individually to each and every sample instrument that you use.
+
+   Yes, that's unfortunate.  In many ways, I personally would prefer a
+single global intonation.  I normally save different copies of the
+otherwise same instrument separately, which is indeed annoying.
+
+   Still, with individual pitch tables for individual instruments I can
+simulate a global intonation table, but with a global intonation I can't
+simulate individual instrument pitch tables.  So at least the solution is
+general.
+
+
+
+
+
+>The most flexible microtonal architecture I've seen in a commercial
+>synthesizer is the Yamaha TX802.  You can define up to 64 keyboard scales on
+>a cartridge, and then assign each part to any of the scales.
+
+   That sounds interesting.  Are those "keyboard scales" completely
+arbitrary though?  Can any MIDI note number be tuned to any arbitrary pitch
+irrelevant of what you tune any of the other MIDI notes to (within the
+range and resolution of the sound-generator that is)?
+
+   If so, then I'd say you're right that they've got Ensoniq beat, and I
+think I have some product investigation to do!  If not, then I'd have to
+see what are the restrictions.  If for example, all Cs (for example) must
+be exact octaves apart, or if the step size between all pairs of adjacent
+keys has to be the same or of limited resolution, I'm not terribly
+interested.  (Those are, as I understand it anyway, the limitations that
+the K2500 puts on you.  Although they apparently have something or other to
+at least partly get around that;  I think it's called a "function".)
+
+   Oh, is the TX802 still a current-produced product?

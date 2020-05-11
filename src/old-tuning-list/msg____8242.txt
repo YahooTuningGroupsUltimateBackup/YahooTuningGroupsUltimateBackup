@@ -1,0 +1,28 @@
+source file: m1472.txt
+Date: Sat, 11 Jul 1998 14:03:53 -0700 (PDT)
+
+Subject: Sound Forge
+
+From: Jesse Bagshaw Gay <jgay@reed.edu>
+
+In an attempt to create JI instruments, I have begun putting the
+individual
+samples in my Emu E4K into Sound Forge, retuning them, and returning them
+to the sampler.  However, I have not found any of the pitch shift/preserve
+duration algorithms to be effective in retuning.  They all produce
+obvbious chorusing effects on any but the smallest retunings.
+I will say, though, that I have not put a whole bunch of time into this
+endeavor.  Are there any Sound Forge users on this list that have found
+any of the pitch shift algorithms to be particularly effective?
+
+I have also tried to do pitch shifts without preserving the length of a
+sample.  This technique is more effective, but changes the character of
+some samples.
+
+thanks 
+Jesse
+
+------------------------------
+
+End of TUNING Digest 1472
+*************************

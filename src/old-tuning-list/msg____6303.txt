@@ -1,0 +1,20 @@
+source file: mills3.txt
+
+
+Subject:  Vincentino
+
+From:  Kami Rousseau <kami@InterLinx.qc.ca>
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256536.001075E1; Mon, 20 Oct 1997 04:59:47 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21355; Mon, 20 Oct 1997 05:00:41 +0200
+Date: Mon, 20 Oct 1997 05:00:41 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA21345
+Received: (qmail 1252 invoked from network); 19 Oct 1997 20:00:38 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 Oct 1997 20:00:38 -0700
+Message-Id: <344AC82C.50A6@interlinx.qc.ca>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

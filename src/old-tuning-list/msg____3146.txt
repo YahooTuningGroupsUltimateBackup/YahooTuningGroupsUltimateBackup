@@ -1,0 +1,114 @@
+source file: mills2.txt
+
+
+Subject: ## VRML generation to Symbolic Composer ## (fwd)
+
+From: Peter Stone <psto@xs4all.nl>
+
+Symbolic Composer was recently enhanced by VRML 1.0 interface, which 
+allows to generate 3 dimensional worlds directly with SCOM algorithms.
+Symbolic Composer continues as an exclusive music composition program,
+while Einstein's Daydream will grow more into 3D graphic composition,
+maintaining full-compatibility with SCOM music language.
+
+PRESS RELEASE, For Immediate Release 
+
+Announcing Einstein's Daydream 1.0
+Algorithmic Toolbox for Creating VRML Moving Worlds and MIDI Music to the Web 
+
+AMSTERDAM, June 24, 1996 Algorithmic Research today announced Einstein's
+Daydream, an algorithmic toolbox for creating VRML 1.0 and VRML 2.0 compatible
+worlds and MIDI music to the Web.
+
+"The current trend to replicate shopping malls and banks into virtual 
+reality does not favour the algorithmic nature of cyberspace. Instead, our
+challenge will be to explore the unknown and build the wild and free 
+cyberspace generating it by algorithms. Einstein's Daydream will bring 
+artistic and musical cyberspace designs a reality, available for the 
+millions who will access the world-wide information matrix," said Peter 
+Stone, president of Algorithmic Research. 
+
+Einstein's Daydream produces VRML 1.0 and VRML 2.0 Moving Worlds compatible
+files that can be placed in servers, or processed further in VRML builder
+programs. Algorithms can control VRML 1.0/2.0 language parameter fields, 
+and allow to create objects, animations, camera paths, behaviours, actions 
+and reactions. 
+
+Algorithms cover lsystems, fourier synthesis, noise, fractals, chaos,
+oscillators, neurons, number theory, fibonacci sequences, prime numbers,
+autocatalysis and processors, totaling over 400 functions applicable on 
+any VRML constructs, or MIDI. 
+
+MIDI file generation uses object-oriented SCOM language that covers musical
+micro and macrostructures definable by algorithms. MIDI playback is based 
+on 256 channel operation, and is internal. A Netscape plug-in is supplied 
+to achieve the same resolution in servers. VRML file generation requires 
+an external VRML-compatible browser for viewing. 
+
+Einstein's Daydream is implemented in Lisp and runs on the Macintosh. Windows
+version is under preparation and will be announced later this year. 
+
+Einstein's Daydream is targeted for advanced users for creating algorithmic
+worlds and music, or experimenting and studying virtual architecture not
+bound to physical constraints. 
+
+"The philosphy of Einstein's Daydream is simple: to supply the user a 
+toolbox of interoperative modular functions, that can be applied on 
+generating whatever there is possible in VRML and MIDI specifications. 
+As an ascii-written, user-extendable Lisp-based language Einstein's Daydream
+does not represent limits of expression, but naturally requires a certain
+decipline to adapt into algorithmic construction." 
+
+Features
+
+Einstein's Daydream includes optimized development environment for editing 
+and maintaining code and accessing hypertext documents needed in program
+development. The interface enables pasting of language macros for quick 
+coding and 2D viewing of parameter data. If you are not a programmer, this
+environment will make you a programmer. 
+
+Einstein's Daydream uses open and modular software architecture. New functions
+can be added snapping in plug-in modules. New modules can be programmed
+online with build-in Lisp interpreter. The modules can be compiled into
+fast-executing machine language with Macintosh Common Lisp, available through
+Digitool. Document system can be expanded by dragging folders containing new
+documents into the Documents folder. 
+
+Algorithmic Research is collecting a list of subscribers who would like to
+obtain Einstein's Daydream for Windows at a reduced price for $100 to support
+the porting costs. After porting the price will jump to the list price $495. 
+In case your company is interested in sponsoring the development, or if you
+would like to subscribe the Windows version contact Peter Stone. Upgrade to
+Einstein's Daydream will be available to SCOM Pro users for $199. Developer's
+discount is available for persons who would like to start writing 3D 
+extension modules, or new scientific algorithms to Einstein's Daydream. 
+
+Specifications
+
+ Platform:
+                    Macintosh
+ Operating System:
+                    Mac OS
+ Minimum Memory:
+                    8 MB RAM, 16 MB-32 MB suggested
+ VRML Generation:
+                    VRML 1.0 (VRML 2.0 soon) 
+ Music Generation:
+                    MIDI
+ Nmbr. of Algorithms:
+                    400+100
+
+Further Information
+
+Here are a couple of examples that show you the effect of algorithmic
+construction of a hypercube, nested in levels 2 and 3 (VRML 1.0 file 
+format). cube32.wrl and cube33.wrl. There is also a small gallery of 
+screen shots of the hypercube.
+
+         http://www.xs4all.nl/~psto/vrml/einstein.html
+
+ Contact:
+         Peter Stone
+         Algorithmic Research
+         +31-20-6957 880
+         psto@xs4all.nl

@@ -1,0 +1,84 @@
+source file: m1412.txt
+Date: Mon, 11 May 1998 10:12:22 EDT
+
+Subject: Re: Recency of Equal Temperament's becoming nearly universal
+
+From: Ascend11 <Ascend11@aol.com>
+
+I've discovered a reprinted volume of the Encyclopaedia of Music by John W.
+Moore, published in 1854 (Boston, Cleveland, New York, and London) at the UC
+San Diego music library.  The encyclopedia contains a full article on the
+pianoforte, and the description is consistent with that of a piano tuned to a
+mean tone temperament.  Contrasting the piano with the guitar, the author
+writes: "The guitar is capable, in a small space, of the most heart-touching
+expression; but then its tone is not fit to be heard from afar, even in a
+theatre or concert room; besides, ITS STYLE OF HARMONY (in the best of hands)
+is not (ital.) comme il faut, or perfectly according to severe counterpoint;
+nor, strange as the assertion may seem, can it admit of alteration without
+injuring the genius of the instrument.  This is plain from a comparison of
+Huerta's performance with that of the accomplished and scientific Sor." I.e. -
+the guitar is (without adjustments not widely known of in 1854) constrained to
+be in equal temperament, but the piano is not subject to that limitation.
+
+I found nothing about tuning practices under entries for tuning, temperament,
+etc., in that encyclopedia, but I found an entry under BEARING NOTES which
+reads as follows: 
+
+	"In the tuning of keyed instruments, harps, etc., bearing notes signify those
+notes between which the most erroneous or highly tempered fifth is situate, on
+which also the <ital. wolf> is said to be thrown.  Many tuners begin at C, and
+tune upwards through the progression of fifths, C, G, D, A, E, B, Gb, Db, and
+Ab, and then stop and begin again at C, the octave above the former note, and
+tune downwards, through the fifths F, Bb, and Eb, and thus the resulting fifth
+Ab, Eb, produces <ital. bearing notes>; owing to each fifth having been made
+more or less flat than the system of twelve notes will bear, the <ital. least
+sum> of all their errors or temperaments being the <ital. Diaschisma>.  Some
+tuners are in the habit of throwing their <ital. wolf> into the fifth Ab, Db,
+and others into that of Db, Gb, which last, as being nearest to the middle of
+the whole progression of fifths, seems its most appropriate place for general
+use."
+
+The entry for DIASCHISMA reads:
+
+DIASCHISMA. (From the Greek) An interval in the ancient music, forming the
+half of a minor semitone.
+
+The entry for SEMITONE reads:
+
+SEMITONE.  Half a tone;  the smallest of all the intervals admitted in modern
+music.  There are two species of semitone; the major and the minor.  The
+semitone major is produced by rising a degree, as from G natural to A flat;
+the semitone minor, by passing from a natural note to its sharp.
+
+	As the just intonation minor semitone is about 72 cents, this would make a
+diaschisma about 36 cents, which is about the size of the wolf in quarter
+comma mean tone temperament.  I would infer from this entry that, as late as
+1854 in the United States, mean tone temperaments, including quarter comma
+were the ones in most widespread use for the piano and other keyboard
+instruments.
+
+	Regarding Silbermann, it is my understanding that he is associated with a
+"Silbermann temperament" which is essentially identical with sixth comma mean
+tone temperament, which is about halfway between quarter comma mean tone
+temperament (with just 5/4 thirds) and equal temperament with thirds sharp
+from just by 13.7 cents.  (the 1/6 comma MT third is sharp by about 7.2
+cents).
+
+	I had my piano tuned first to sixth comma mean tone temperament last summer.
+Putting it into that tuning caused its sound to be dramatically different than
+the sound it had in equal temperament - more gently harmonious and strikingly
+resonant - just a "different animal", hardly the same kind of musical
+instrument as a piano in equal temperament.  More recently I have been playing
+a rented piano in quarter comma mean tone temperament.  The sound of the
+different piano in this latter tuning is again very different from the sound
+either of equal temperament or sixth comma mean tone temperament - to my ears
+a very beautiful sound - and to a number of others it was an amazing surprise
+to hear a piano sounding as it does in mean tone temperament.  Although I have
+been working with just intonation music synthesis for nearly 20 years, I
+myself was amazed to hear the sound of a piano in mean tone temperament and I
+still have not gotten over this "discovery".
+
+	If I were to compare the sounds of the sixth comma mean tone piano and the
+quarter comma mean tone piano, I'd say they both sound very beautiful and they
+sound very different, one from another.  I would think there was plenty of
+room for pianos tuned both in 1/6 comma and quarter comma.

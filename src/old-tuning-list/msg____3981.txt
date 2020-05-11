@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Tue, 12 Nov 1996 01:47:42 -0800
+
+Subject: Getting Johnston and Tenney off the Lattice / Keyboards
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+I think that one historical point should be corrected. Ben Johnston does
+not have priority in presenting his tunings as lattices. There is a long
+German tradition of presenting tonal functions in terms of positions on
+lattices of 2 or more dimensions. Even Schoenberg, coming from the Austrian
+scale-step function theory, uses lattices in his _Structural Functions of
+Harmony_. These lattices are identified immediately with Just Intonation
+and later mapped onto the temperament at hand. Moreover, it is not uncommon
+to see the rows in the lattices shifted so that Major triads are
+upward-pointing triangles, and minor triads point downward. (One of Martin
+Vogel*s students has written a dissertation documenting some 130 years of
+lattices illustrating tonal functions).
+
+One of the reasons that Jim Tenney´s Darmstadt lectures were met with such
+reserve four years ago is that his excited presentation of his tonal
+lattice was like an elementary - and old fashioned - harmony lesson to much
+of his audience. This was  a shame, because Jim has raised some interesting
+aesthetic issues and drawn exciting compositional implications from his
+research. 
+
+On a different theme, I had some conversations with Scott Hackleman in
+April about the possibility of his building 17, 19- or 22- tone keyboards
+along the line of his famed clavichord, but used to trigger midi-keys.
+Whether this would be a simple on/off arrangement or touch sensitive was
+left open in our discussion. I was interested in this possibility because
+it seems that around 19 tones is nearly ideal, provided one had the
+capacity through software to modulate, and the Hackleman-Wilson keys are
+wonderful to play, with the feel of something real under the fingers. The
+question I have not been able to answer concerns the possibility of
+dismantling one or two cheap midi keyboards and attaching their switches to
+the Hackleman keys. Has anyone ever ventured such a project? I have not got
+a midi keyboard here to tear apart...
+
+Daniel Wolf 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 12 Nov 1996 14:48 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01267; Tue, 12 Nov 1996 14:49:08 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01260
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id FAA01065; Tue, 12 Nov 1996 05:49:05 -0800
+Date: Tue, 12 Nov 1996 05:49:05 -0800
+Message-Id: <199611121345.VAA04050@hk.super.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

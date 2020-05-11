@@ -1,0 +1,154 @@
+source file: mills2.txt
+Date: Sat, 26 Oct 1996 20:09:37 -0700
+
+Subject: Johnston's notation defended
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Apologies for the length of the following message, but I thought I should 
+say a few things in defence of Ben Johnston's notation.
+
+Daniel Wolf said (Sat, 26 Oct)
+> So for the players* sake, I like to have as little ambiguity 
+> as possible and would like all identical written intervals
+> to have identical size. Johnston*s notation does not do this, as it is
+> based upon a scale with a mixture of three and five intervals, and depends
+> upon identification of a tonic. Thus, within the key of C, for example,
+> Johnston*s fifths C/G and D/A are not both 3/2 intervals. Moreover,
+> Johnston*s notation obviates the fact that the conventional staff notation
+> is a perfectly natural vehicle for Pythagorean intervals.
+
+Ben prefers a 5-limit syntonon diatonic default for two reasons, I think: he 
+chose to explore the 5-limit thoroughly before moving on gradually to higher 
+primes, so he devised his notation initially within a 5-limit environment, 
+while perfectly aware that it was extendable. Since these 1960s 
+"hyper-chromatic" works form the most "atonal" (faute de mieux) portion of 
+his oeuvre, the syntonon diatonic itself is not of importance on the aural 
+surface of the music, but it provided the 5-limit default he wanted. In 
+later works, especially from the neo-classical phase of the last ten years, 
+the syntonon diatonic is all the more clearly worth preserving as a default. 
+I would imagine also that Ben believes, like Zarlino, that the syntonon 
+diatonic is the ideal representation of the major scale/Ionian mode, towards 
+which singers at least will aim if unhampered by intonational distractions 
+from accompanying instruments (I would endorse this).
+
+Ben absolutizes his notation in two ways: A = 440 is observed, even though 
+A+ = 440 would often remove the need for a great many plus and minus signs 
+from his scores; secondly, if I understand correctly, C is fixed as an 
+arbitrary 1/1 for notational purposes, regardless of the tonal centre of a 
+passage (if any).
+
+Adam Silverman (or any other friends of Ben) is welcome to correct me if any 
+of the above details sound dubious or plain incorrect.
+
+For my own theoretical purposes I remove these two anchors, and relativise 
+the system completely; since I'm dealing with modal or tonal music, 1/1 is 
+be identified with whichever letter-name is the modal final or tonal centre. 
+I would use a syntonon diatonic default for pieces dating from the late Ars 
+Nova or afterwards; earlier Ars Nova pieces have to be considered on their 
+merits with regard to their suitability for just or Pythagorean intonation; 
+Ars Antiqua I give a 3-limit default. In 5-limit Renaissance a capella 
+music, a further licence is the gradual sinking of the 1/1 pitch (which need 
+not happen quite so frequently as is usually maintained for JI 
+performances).
+
+The notation can also be extended for the description of tempered systems 
+which are derived from the 5-limit, such as the meantone family of tunings; 
+other temperaments, such as certain 18th-century irregular temperaments (and 
+of course 12-TET) are better suited to a 3-limit default. The choice depends 
+on whether roots of the syntonic or the Pythagorean comma are employed in 
+the construction of the temperament; some tunings, such as Kirnberger II, 
+are ambiguous in this respect, and can be described in two ways. 
+Furthermore, aurally near-identical tunings will receive different 
+descriptions if their derivations are different: for instance 1/10-comma 
+meantone and 12-TET are extremely close approximations of each other, but 
+the former is properly describable in terms of (81/80)^(x/10) deviations 
+from the syntonon diatonic, while the latter is most certainly not.
+
+Daniel Wolf again:
+ 
+> In very microtonal passages, pitch height may not match notational height. 
+> I have decided to accept this point in lieu of going to a further step and 
+> using a notation with  more than seven nominals, such as the 
+> twelve-nominal notation proposed by Wilson in Xenharmonikon.
+
+Funny you should mention this, because one of the virtues of a 5-limit 
+notational default is that pitch height _will_ correspond to notational 
+height for much, much longer than a 3-limit default. This is a fairly big 
+gain to offset your objection to the contextualisation of interval sizes in 
+5-limit default notation. Still, I'm not determined, as I said above, to 
+defend a 5-limit default where it conflicts with the style of the music, or 
+with the derivation of a tuning system. Which brings us on to your next 
+point:
+
+> I am not particularly attached to my notation but I do find it curious 
+> that so many people have made transcriptions of Partch scores in 
+> Johnston*s notation which goes against both the whole limit (factoring) 
+> idea of Partch, and Partch*s decided invertibility. Moreover, the 
+> instances in Partch*s music which are based upon the syntonic diatonic 
+> scale are minimal.
+
+Adam Silverman will no doubt defend himself capably here, but I could make a 
+couple of comments. Ben's notation, like his music, quite deliberately works 
+within, and extends the very tradition that Partch largely spurned. The 
+staff notation used in that tradition was designed from the beginning for 
+vocal performers who, of necessity, had to be able to conceptualise the 
+sound in advance, in order to perform; instrumental performers were happy 
+with tablatures for centuries until these systems faded away for various 
+reasons in the 18th century. Since Partch concentrated heavily on 
+fixed-pitch instruments, he was at liberty to use tablatures, or otherwise 
+depart from the notational norm that he grew up with. The important use of 
+voices and strings in Ben's works, together with his desire to work within 
+that tradition renders his notation the best suited to his purposes.
+
+Does it suit Partch though? This is one corner of the "authentic Partch" 
+debate, which I'd prefer not to enter (although I'll remind readers that if 
+we had always followed artists wishes, the Canterbury Tales and much of 
+Kafka's work would have been destroyed, to take two examples from a great 
+many -- and is recording really consistent with corporeality?). 
+Nevertheless, for those used to Ben's notation, the transcription of 
+Partch's scores offers considerable analytical leverage; it's not in every 
+case a plot to have performances on non-Partchian instruments. I can't see 
+that a 5-limit default creates any great obstacle to our understanding of 
+Partch, any more than a 3-limit default would -- if you're most familiar 
+with the former, and you haven't a pair of 5-limit tinted spectacles glued 
+to your face, what's the problem?
+
+Daniel, since I'm not entirely sure I understand "Johnston's notation ... 
+goes against both the whole limit (factoring) idea of Partch, and Partch's 
+decided invertibility", could you please expand on this, so that I can be 
+certain of your objections? (And by the way, your apostrophes appear as 
+asterisks -- have a look at your e-mail editing arrangement.)
+
+Johnny Reinhard said (Fri, 25 Oct):
+> My experience with Ben Johnston gives high marks for exactitude, but
+> loses too much due to the slowness with which it is read.  Often 
+> conflicting directions are used for a single note and so a mathematical 
+> calculation is necessary.  This process takes one out of real time.
+
+I doubt if Ben would ever have claimed that his notation allowed fluent 
+prima vista performance, but what are these "conflicting directions"? 
+Whatever some might say of Ben's notation, I can't see that inconsistency is 
+a possible objection. Are you claiming there is an intrinsic flaw in the 
+notational system, or just talking about an occasional slip of the pen? 
+Perhaps an example would help.
+
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 28 Oct 1996 19:19 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19446; Mon, 28 Oct 1996 19:19:24 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA19820
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA22790; Mon, 28 Oct 1996 10:19:21 -0800
+Date: Mon, 28 Oct 1996 10:19:21 -0800
+Message-Id: <Pine.SCO.3.91.961028095551.3951A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

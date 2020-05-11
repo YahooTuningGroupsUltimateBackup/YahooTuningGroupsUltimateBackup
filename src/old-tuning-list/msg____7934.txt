@@ -1,0 +1,81 @@
+source file: m1429.txt
+Date: Wed, 27 May 1998 13:37:30 -0400
+
+Subject: 4D lattices
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Paul Hahn wrote,
+
+>    10/9 --- 5/3 --- 5/4
+>     / \     / \10/7 / \
+>    /   \   /   \   /   \
+>   /14/9 \ / 7/6 \ / 7/4 \
+>16/9 --- 4/3 --- 1/1 --- 3/2 --- 9/8
+>           \ 8/7 / \12/7 / \ 9/7 /
+>            \   /   \   /   \   /
+>             \ / 7/5 \ /     \ /
+>             8/5 --- 6/5 --- 9/5
+>
+>This is a projection of part of the 3D 7-limit lattice into a plane.
+>The triangles are in the 3-5 plane, and the ratios inside the triads are
+>either one layer above or below depending on whether they're inside
+>major or minor triads.  This shows all pitches separated from the 1/1 by
+>intervals I consider consonant or primary within the 9-limit; however,
+>without drawing lines which intersect and become confusing I can't
+>draw lines for all those intervals, even when I'm not restricted to
+>ASCII art.  Several of the 9-limit intervals look like secondaries
+>instead of primaries when represented this way.  In 4 dimensions it
+>would look like this:
+>
+>                     5/3 --- 5/4
+>                     / \10/7 / \
+>    10/9            /   \   /   \         3/2 --- 9/8
+>     / \           / 7/6 \ / 7/4 \          \ 9/7 /
+>    /   \        4/3 --- 1/1 --- 3/2         \   /
+>   /14/9 \         \ 8/7 / \12/7 /            \ /
+>16/9 --- 4/3        \   /   \   /             9/5
+>                     \ / 7/5 \ /
+>                     8/5 --- 6/5
+
+This pitch set is just the 9-limit Partch diamond, by the way. There are
+better ways of visualizing 4- and higher dimensional lattices, though,
+but you'll have to use your imagination since ASCII isn't up to the
+task. John Chalmers sent me some lattice diagrams of pitch sets where
+there are four axes representing the prime numbers 3, 5, 7, and 11. The
+diagrams were developed by Erv Wilson. Essentially, these are
+projections of 4-d space onto two dimensions along a very special
+direction.
+
+The 3-d diagrams above (which are also used by Wilson) show the basic
+tetrad with three pitches around an equilateral triangle and the fourth
+pitch in the center. The fact that its six intervals are represented by
+lines in six different directions helps one construct fairly complex
+structures without pitches overlapping in the two-dimensional
+projection. However, three steps of 7/4 (343/256) will lead to a pitch
+at the same 2-d location as one step of 3/2 and one step of 5/4 (15/8).
+So certain structures, like Wilson's stellated hexany, are better
+represented with slightly irregular triangles.
+
+The 4-d diagrams show the basic pentad with the five pitches around an
+equilateral pentagon. Its ten intervals are represented by lines in only
+five different directions. Complex structures will have many overlapping
+lines, and it will become difficult to see at a glance which pitches are
+really connected and which just happen to coincide with a pre-existing
+line. However, since the diagonal of an equilateral pentagon is the
+golden ratio times the side, new pitches along a given line will always
+divide the distance between existing pitches on that line in the golden
+ratio. The golden ratio is of course the only ratio that has this
+iterative property. So the magic of the pentagon ensures that one can
+construct very complex lattices in 4-d without worrying about the
+pitches overlapping in 2-d. If one doesn't want the lines to overlap,
+one can use slightly irregular pentagons.
+
+When John sent me the diagrams, I started drawing my own to determine
+whether the 4-d CPS scales fit together to tile 4-d space. They do. I
+had a very intersting e-mail exchange with John and/or the Tuning list
+at that time. Unfortunately, my e-mail rcords from 3/96 to 6/96, which
+includes that stuff, got deleted.
+
+For 5-d, Wilson uses an equilateral pentagon with one pitch in the
+center . . .

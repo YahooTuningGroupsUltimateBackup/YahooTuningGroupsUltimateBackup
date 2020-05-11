@@ -1,0 +1,159 @@
+source file: mills2.txt
+Date: Fri, 20 Sep 1996 01:27:30 -0700
+
+Subject: Re: duh?
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Scott_Purman@nile.com (Wed, 18 Sep 96, Subject: duh?) said:
+
+> [C]an someone explain to me what the ratios are ratios of?
+> or maybe tell me the ratios of the 12 tones in a
+> traditional ET scale (or 13 tones, from C to C for 
+> instance). I think I could pick it up from 
+> there....thanks.
+ 
+In answer to Scott Purnham, and on the assumption that 
+others new to the list may have similar queries, I offer 
+here a brief explanation of ratios, JI and 12TET. Apologies 
+to the great majority of list subscribers for cluttering up 
+their mailboxes -- you can skip to the next message.
+
+
+What are they? -- The ratios of the frequencies of two 
+pitches. 3/2 is a perfect fifth, 5/4 a just major third, 
+81/64 a Pythagorean major third, 81/80 the syntonic comma 
+(difference between 5/4 and 81/64). To decipher the ratios, 
+you must extract the prime factors in the numerator and 
+denominator: e.g.
+
+		5/4 = 2^-2 * 5^1
+
+		81/80 = 2^-2 * 3^4 * 5^-1
+
+"*" is multiplication, "^" is an exponent superscript sign 
+(so 3^4 is three-to-the-power-of-four, i.e. 81). I don't 
+know just how rusty your maths might be, so I'll remind you 
+that the negative exponent x^-1 means 1/x, so 2^-2 is 1/4, 
+while 2^-2 * 5^1 is 5/4. The intervals in JI Ear Trainer are 
+all smaller than an octave, so the numerator of the ratios 
+will always be greater than the denominator, but less than 
+twice the denominator; i.e. the ratios fall between 1/1 
+(unison) and 2/1 (the octave).
+
+Since you will be familiar with the harmonic series, this 
+might be the most convenient point of entry. We are not 
+concerned here with absolute frequency, expressed in Hz, but 
+only with frequency relations. Define the fundamental as 1, 
+so the second harmonic, an octave higher has twice the 
+frequency, thus 2/1; the third harmonic, an octave and a 
+fifth higher, has three times the frequency, thus 3/1; the 
+fourth harmonic, two octaves higher is 4/1, i.e. (2^2)/1; 
+the fifth harmonic, two octaves and a (just) major third 
+higher is 5/1.
+
+If a perfect fifth plus an octave is 3/1, how do you express 
+a perfect fifth alone in ratio terms?  Just as multiplying 
+the frequency by 2 raises a pitch by an octave, so division 
+by 2 lowers a pitch by an octave; thus 3/2 is 3/1 less an 
+octave -- a perfect fifth above the fundamental. How do you 
+express a (just) major third in ratio terms? Since 5/1 is a 
+major third plus two octaves, divide 5 by 4 -- that is, by 
+2^2 -- to bring it down to a major third above the 
+fundamental; 5/4 is therefore a major third. But I also 
+mentioned a Pythagorean major third above; how is this 
+derived? Multiplying a frequency by 3 is equivalent to 
+raising a pitch by an octave and a fifth; now, say your 
+fundamental is C, then 3 times the fundamental is a G, 3^2 
+or 9 times is a D, 3^3 or 27 times is an A, and 3^4 or 81 
+times is an E -- this is the 81st harmonic. In order to 
+bring this E within the octave above the fundamental, we'll 
+have to descend by six octaves, so we divide 81 by 2^6 or 
+64, hence the ratio 81/64 for the Pythagorean major third.
+
+How is the 81/64 third related to the 5/4 third? To find 
+which is higher, express the two ratios in terms of a common 
+denominator: thus we have 81/64 to compare with 80/64 -- 
+this means that the Pythagorean third is higher. To express 
+the difference in ratio terms, divide 81/64 by 5/4; this is 
+equivalent to 81/64 * 4/5, which equals 81/80, i.e. the 
+syntonic comma I mentioned above. You can now manipulate the 
+ratios accordingly, without reference to the harmonic 
+series. Such ratios were in any case discussed by music 
+theorists long before the harmonic series and the frequency 
+of sound-waves were understood: the Chinese took the 
+relative lengths of bamboo pipes as their conceptual 
+starting-point, Pythagoras the relative weights of hammers, 
+and thereafter the divisions of a string became the most 
+common means of conceptualising ratios (the monochord of 
+mediaeval and Renaissance musicians was such a device -- it 
+was never intended for performance).
+
+So far I've left "Pythagorean" and "just" undefined, but we 
+now have the means to rectify this. A Pythagorean interval 
+is expressible in terms of a ratio that includes only 2 and 
+3 (and their powers) in the numerator and denominator. A 
+just interval will have a ratio that also includes 5 (and 
+its powers) in the numerator and denominator. "Extended just 
+intonation" includes prime numbers higher than 5. Partch's 
+terminology is the most lucid for such purposes: Pythagorean 
+intervals are 3-limit intervals, just intervals are 5-limit, 
+while Partch used an 11-limit system. Note that each higher 
+number limit includes the previous limit, so the 3-limit 
+intervals form a proper subset of the 5-limit set; each 
+sytem is, theoretically speaking, an infinite set of 
+intervals (this doesn't conflict with the fact that one can 
+be a subset of another). A quick test of the knowledge so 
+far gained: express the major seventh in ratio terms, within 
+the 5-limit system. Just as we can construct such an 
+interval by adding a perfect fifth and a major third (in 
+this case, just), so we multiply 3/2 and 5/4, to obtain 
+15/8.
+
+Finally, a word on the intervals of12-note equal temperament 
+(12TET); these are irrational proportions, so we will have 
+to abandon ratio terminology. The tuning system is 
+constructed upon that proportion which, when multiplied by 
+itself 12 times, equals 2. Thus we have to find an interval 
+above 1/1, the starting pitch, twelve of which will make up 
+an octave, i.e. 2/1. That interval is the twelfth root of 2 
+above the 1/1 starting point, the starting frequency 
+multiplied by 2^(1/12) -- that is, two to the power of a 
+twelfth, or the twelfth root of two. Thus the equal tempered 
+semitone is the proportion (2^[1/12])/1. How is the 12TET 
+perfect fifth expressed in such terms? Since this fifth is 
+seven 12TET semitones above an initial pitch, we want the 
+seventh power of the twelfth root of 2, i.e. (2^[1/12])^7 = 
+2^(7/12). How can this be compared to the 3/2 perfect fifth? 
+Simply find the decimal value of each; you'll find the 3/2 
+is very slightly higher. The 12TET system was adopted as a 
+tuning convenience in the late 18th/early 19th centuries in 
+Europe because it provided a good approximation of the 
+common 3-limit intervals, and a tolerable -- or at least 
+recognizable -- approximation of the 5-limit intervals. An 
+equivalent method for constructing 12TET is to find the 
+difference between 12 fifths and 7 octaves (the Pythagorean 
+comma), and remove the twelfth root of this difference from 
+each fifth; from this the "circle of fifths" is artificially 
+derived. Each 12TET fifth will therefore be 3/2 divided by 
+the twelfth root of the Pythagorean comma; I'll leave you to 
+prove for yourself that this is equivalent to 2^(7/12).
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Sep 1996 12:20 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07871; Fri, 20 Sep 1996 12:21:58 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA06325
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id DAA24800; Fri, 20 Sep 1996 03:21:55 -0700
+Date: Fri, 20 Sep 1996 03:21:55 -0700
+Message-Id: <009A8A7640C705C0.F61C@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

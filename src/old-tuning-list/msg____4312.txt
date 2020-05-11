@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Fri, 13 Dec 1996 12:01:11 -0800
+
+Subject: RE: McLaren on Group Theory, etc.
+
+From: Gordon Collins <gcollins@ctisinc.com>
+
+>> The integers modulo N do form a group under addition,
+>
+>   Hmmm...  They are certainly closed over addition, and there certainly
+>seem to be identity and inverse elements.  But I can't recall what else is
+>required for them to constitute a group.  
+
+The only other criterion is associativity.
+
+Gordon Collins
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 13 Dec 1996 22:02 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03728; Fri, 13 Dec 1996 22:04:55 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA03726
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA17975; Fri, 13 Dec 1996 13:04:53 -0800
+Date: Fri, 13 Dec 1996 13:04:53 -0800
+Message-Id: <Pine.A32.3.91.961213135903.16968A-100000@tiger.cudenver.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

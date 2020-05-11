@@ -1,0 +1,42 @@
+source file: m1482.txt
+Date: Thu, 23 Jul 1998 11:36:33 -0400
+
+Subject: Re: TUNING digest 1481
+
+From: Dr_Orient <jma9183@garnet.acns.fsu.edu>
+
+>  <Nangaku@aol.com> wrote:
+>
+> Can somebody in this forum help me understand the concepts of overtones and
+> tone color?  For example, A440 produced by a tuning fork consists of
+> vibrations having frequencies of mostly A440. But A440 played on a piano or a
+> tuba will have more overtones, frequencies that are multiples of 440  - 880,
+> 1320 etc.  This is were I lose it. Are overtones different frequencies
+> produced by different aspects of whatever materials are producing the sound?
+> So if the sound is being created by simpler materials such as a tuning fork,
+> the will be fewer other frequencies involved, whereas if the sound is created
+> by a piano, the hammer and string are more complex materials and therefore
+> have more frequencies or overtones?
+
+You're on the right track. The simplest acoustic timbre (to my knowledge) is that
+of the flute, which approaches a pure sine wave (fundamental). A vibrating
+string, on the other hand, vibrates along its entire length (1/1, the fundamental
+pitch), half its length (1/2, giving the octave), a third of its length (1/3, an
+octave and a fifth), a fourth (1/4, two octaves), and so on (Pythagoras had some
+very nice discussions on this subject). Different string materials, means of
+excitation (such as a bow or the hammers of a piano), tension, and other factors
+(such as the presence or absence of a mute on a viola, or bray pins on a harp,
+for example) influence how loud (roughly speaking, how great the amplitude) any
+given overtone will be in relation to the others. It is the balance or proportion
+of loudnesses of all the individual overtones that determines the timbre of a
+sound, whatever the source or medium of that sound might be  it might be a
+vibrating string, a column of air, a speaker set in motion by an electronic
+signal, etc.    Incidentally, it is because the ratios of vibration of overtones
+get progressively more complex the higher up the overtone series one goes that we
+have the eternal invention of different systems of tuning and their resultant
+aesthetic and scientific debates (like many that are found in this very digest!).
+Some of the more theoretically learned contributors can clarify these points
+better than I (I'm certain I detected a more than a few cringes at my
+over-simplifications), but hopefully this can begin to help.
+All The Best,
+Dr_Orient

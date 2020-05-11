@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Sun, 28 Jul 1996 08:58:51 -0700
+
+Subject: RE: THE generating function
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Marion, 
+
+> If you analyze a series of integers using some particular method you will get
+> a particular generating function.
+
+Yes if put that way you are right. That method though is one of the
+most useful ones and "the generating function" the common way of
+referring to it. But it's like when someone speaks of his house as
+"the house" he doesn't mean there are no other houses. Anyway we are
+getting off-topic now.
+
+Manuel
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 28 Jul 1996 18:00 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA06897; Sun, 28 Jul 1996 09:00:08 -0700
+Date: Sun, 28 Jul 1996 09:00:08 -0700
+Message-Id: <009A6036942FDA6E.2860@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

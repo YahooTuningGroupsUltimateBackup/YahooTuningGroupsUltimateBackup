@@ -1,0 +1,93 @@
+source file: mills3.txt
+Date: Wed, 31 Dec 1997 21:19:39 +0100
+
+Subject: RE: Measures of Scale
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>}So if...
+>
+>}4(P5) - M3 - 2(T) = X
+>
+>}..then what's a good name for "X"?  Size of the syntonic comma?
+>
+>Yes.
+>
+>}Is this a
+>}good definition of the syntonic comma?
+>
+>There is another possible definition:
+>
+>3(P5)-M6-T=X
+>
+>The two definitions are often equivelent, but in the case of tunings not
+>consistent within the 5-limit (such as 20tet) they are unequal. In such a
+>case I say that the syntonic comma is not well-defined in that tuning.
+>
+>}So a meantone tuning is one where
+>}the syntonic comma is best represented by zero steps?
+>
+>Yes!
+>
+>}And if...
+>
+>}12(P5) - 7(T) = Y
+>
+>}..then what's a good name for "Y"?  The degree of positive or negetiveness?
+>}Isn't this the definition of the Pythagorean comma?
+>
+>Yes, yes.
+>
+>}When are these measures the same?
+>
+>Sometimes, sometimes not.
+>
+>}Does anybody know of any other useful
+>}measures for scales?
+>
+>The diaschisma [3(T) - 4(P5) - 2(M3)] and schisma [M3 - 8(P5) + 5(T)] can be
+>defined in terms of the pythagorean comma and syntonic comma, so they are not
+>independently useful. Two measures that are useful in the context of my
+>decatonic scales are the septimal comma
+>
+>2(T) - H7 - 2(P5)
+>
+>and the septimal sixth-tone
+>
+>2(M3) - 2(H7) + T
+>
+>where H7 is the harmonic seventh. Just as with the syntonic comma, other
+>definions of these measures are possible, but the alternate definions are
+>equivalent for tunings that are consistent within the 7-limit. My decatonic
+>scales are possible only if the septimal comma and septimal sixth-tone both
+>vanish. Such tunings are the septimal equivalent of meantone tunings, but
+>have wide instead of narrow "perfect fifths".
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  John Chalmers <non12@deltanet.com>
+Subject:  Greek triads, Classification of temperaments
+PostedDate:  31-12-97 21:38:05
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  31-12-97 21:35:43-31-12-97 21:35:43,31-12-97 21:35:05-31-12-97 21:35:06
+DeliveredDate:  31-12-97 21:35:06
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125657E.00711F67; Wed, 31 Dec 1997 21:37:32 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09265; Wed, 31 Dec 1997 21:38:05 +0100
+Date: Wed, 31 Dec 1997 21:38:05 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09509
+Received: (qmail 29837 invoked from network); 31 Dec 1997 12:38:01 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 31 Dec 1997 12:38:01 -0800
+Message-Id: <Pine.SCO.3.96.971231123446.3798A-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

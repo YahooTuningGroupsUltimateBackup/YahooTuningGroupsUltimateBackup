@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Mon, 23 Jun 1997 13:15:31 +0200
+
+Subject: Re: the 6th chord and odd-limit theory (Paul E)
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 20 Jun 1997, it was written:
+>                                 However, it would not be possible to
+> construct a chord which included a (say) 11-limit interval, but none
+> higher, such that the chord overall had a higher limit.
+
+Once _again_ I correct myself.  (Who is this Hahn guy anyway--he keeps
+screwing stuff up!?)  The highest-limit interval in the chord
+18:22:24:33 is a 11/9, but the chord as a whole is 33-limit.
+
+(But Paul E.'s conjecture is still true for the 7-limit!  Honest.  Have
+I ever been wrong? 8-)> )
+
+--pH <manynote@library.wustl.edu> http://library.wustl.edu/~manynote <*>
+    O
+   /\        "Hey--do you think I need to lose some weight?"
+  -\-\-- o
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 23 Jun 1997 22:54 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05066; Mon, 23 Jun 1997 22:54:18 +0200
+Date: Mon, 23 Jun 1997 22:54:18 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05070
+Received: (qmail 25441 invoked from network); 23 Jun 1997 20:54:01 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Jun 1997 20:54:02 -0000
+Message-Id: <009B63B0C2C11C46.5CEC@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

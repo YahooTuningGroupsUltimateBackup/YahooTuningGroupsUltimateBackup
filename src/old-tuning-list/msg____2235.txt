@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Thu, 2 Nov 1995 08:40:23 -0800
+
+Subject: Comment on McLaren's latest
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+I decided to calculate the first 24 terms of McLarenUs
+absolute interated base-10 Log of 2 series and was surprised
+when I multiplied the values by 1200 that so many near 
+approximations to the cent valus of JI intervals appeared. 
+How ironic!
+ 
+QJohn
+ 
+ Iterated Logs			RCentsS
+ 
+ .3010299914836512           361.2359897803815   	16/13
+ .5213902264448474           625.6682717338169   
+ .2828371100931915           339.4045321118297   	17/14
+ .5484636012214862           658.1563214657834   
+ .2608521854571927           313.0226225486312   	6/5
+ .5836055122402353           700.3266146882823   	3/2
+ .2338806115358638           280.6567338430366   	20/17
+ .6310057705055842           757.206924606701    
+ .1999666663668159           239.9599996401791   	8/7
+ .6990423837260028           838.8508604712034   	13/8
+ .1554964895337534           186.5957874405041   	10/9
+ .8082793998714722           969.9352798457667   	7/4
+ 9.243848837769722D-02       110.9261860532367   	16/15
+ 1.03414715067742            1240.976580812903   
+ 1.458233950348209D-02       17.4988074041785    
+ 1.836172769316191           2203.40732317943    
+ .2639135387943072           316.6962465531687   	6/5
+ .5785383218185376           694.2459861822451   	3/2 
+ .2376678652128183           285.201438255382    	13/11
+ .6240295260730155           748.8354312876187   
+ .2047948582633569           245.7538299160283   	15/13
+ .6886809417258432           826.4171300710118   
+ .1619819330864984           194.3783197037981   	9/8,10/9
+ .7905334115065893           948.6400938079072   
+ 
+----
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 2 Nov 1995 20:24 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA02717; Thu, 2 Nov 1995 10:23:56 -0800
+Date: Thu, 2 Nov 1995 10:23:56 -0800
+Message-Id: <Pine.SUN.3.91.951102102215.6167B-100000@garcia.efn.org>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

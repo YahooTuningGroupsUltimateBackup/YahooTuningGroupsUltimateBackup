@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Wed, 27 Dec 1995 15:53:39 -0800
+
+Subject: RE:K2000 & Tuning
+
+From: Gary <71670.2576@compuserve.com>
+
+I am certainly no expert on the K2000, but a friend of mine at work has been
+wrestling with it (on his  K2500), and he has concluded, possibly falsely that
+you can retune notes these ways:
+1.  You can can tune a CONSTANT gap between ALL pairs of adjacent keys.  In 
+    other words you can set a gap between a pair of adjacent keys, but it has
+    to be the same between all adjacent-key pairs.  He said that its resolution
+    was two-cent, not single cent.
+2.  Simultaneously in some sense, you can set the pitch of each key to much
+    higher resolution provided that the tuning repeats in octaves of 12 keys.
+This works fine for tuning, for example, 12-toned JI or meantone scales.  Or it
+will work fine for tuning all keys to an equal-temperament whose step-size is a
+multiple of 2 cents.  What it will not work for is such things as laying 19-tone
+equal-temperament "linearly" across the keyboard, such that the octave above a
+given C is the G visually a twelfth above it.  That seems to be a very popular
+approach, although I'll be darned if I can figure out how so many people
+(including Harry Partch) can function that way.  
+
+   The third thing you can do is to individually duplicate each ... forgive me I
+only know the Ensoniq term ... wavesample across a single key and then tune each
+wavesample as needed.  
+
+   Correct me if I'm incorrect.  I'm sure my friend would be pleased to find out
+if he's missed something.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 29 Dec 1995 21:28 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA16617; Fri, 29 Dec 1995 12:28:46 -0800
+Date: Fri, 29 Dec 1995 12:28:46 -0800
+Message-Id: <0099B9BCDB1096BF.5AE6@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,138 @@
+source file: mills2.txt
+Date: Thu, 4 Jan 1996 23:43:23 -0800
+
+Subject: K2000 vs. ASR-10
+
+From: HFORTUIN@delphi.com
+
+Gary Morrisons recent message [slightly edited], with my response:
+
+[Sorry about the lack of contractions and the use of [] instead of parentheses,
+but these quirks are necessitated by my quirky primitive home modem.]
+
+GM: Probably the main consideration when it comes to choosing between the K2000
+and the ASR-10 especially for unusual tunings, based upon a collegues
+experience, is power vs. ease of use.  The K2000 is very powerful, but it is not
+very easy to do exotic things on.  The ASR-10...is FAR easier to use than the
+K2000.  
+------------------------------
+HF: First of all, I am not employed, and have not been employed, by any synth
+manufacturer. And I do know that if Steve Curtin has any influence at Ensoniq,
+that their instruments will continue to be alternate-tuning friendly. And I have
+seldom decided in favor of ease of use if the thing I needed to do could only be
+done by a counterintuitive product. [I did a difficult orchestral score using
+Finale 1.0--penning the score and parts almost certainly would have taken less
+time!]
+
+I have never used an ASR-10, but I have used Ensoniq EPS samplers, various
+Yamaha FM synths, the Roland D50, etc. [mostly late 80s technology]. The manuals
+for those Yamaha & Roland machines were awful, and Ensoniqs manuals were
+certainly far superior. However, especially in comparison to other synths of
+1991 vintage, the K2000 has an unusually large LCD display and a generally
+intuitive architecture, once you spend a little time with it. Its manual is
+superb, including several tutorials, and the video that came with it was really
+helpful for your first evenings with the instrument. However, the manual does
+devote VERY LITTLE space to setting up alternate tunings [just a little on page
+15-1]--something I hope Kurzweil has, or will, correct. [Any Kurzweil employees
+listening out there?]
+
+Since its <<root>> sounds are good samples and multisamples, with some very
+impressive synthesis algorithms for processing [especially those analogish
+filters], it is not nearly as difficult to coax naturalistic sounds out of this
+device as with the various pre-physical modelling synths. If you present your
+music to the public, this is an important consideration.
+
+Personally, I found the majority of the K2000 features placed where you would
+expect. If you are familiar with a competing manufacturers products, you will
+need to take a little time getting familiar with Kurzweils particular
+terminology, but it is not any more obtuse, and probably less so, than that of
+their competitors. [If the manufacturers can agree on General MIDI, why are they
+unable to standardize their terminology???]
+
+If you use my software, or if you acquire the 5-53 ET piano program disk that is
+out there, you can certainly set up adjacent-pitch to adjacent-key tunings with
+no problem. 
+-------------------------------
+GM: When it comes to using traditional keyboards for nontraditional tunings,
+that is a big question.  As I think I have mentioned before, most people just
+map a tuning to the keyboard linearly [adjacent keys on the keyboard going to
+adjacent pitches in the tuning], mismatching octave boundaries of the keyboard
+to the octave boundaries of the tuning.  I am in awe of people who can function
+that way, because I just cannot imagine being able to ignore the 7 ivory/5 ebony
+structure that keyboard imposes.  
+-------------------------------
+HF: I agree that adjacent-pitch to adjacent-key mappings are counterintuitive if
+you plan to perform directly from your standard keyboard.  That is why I came up
+with the Clavette microtonal keyboard controller while at the Institute of
+Sonology--my preferred way to play the K2000 with alternate tunings.
+
+However, if you do not have such a luxury at your disposal, with a little
+head-scratching you can work out pitch-MIDI key relations in your sequencer, or
+pitch-12keyboard relations for live performance. 
+
+If you have already taken the time to research and understand tuning theory to
+any degree, you certainly do have the intelligence to work out these pitch-MIDI
+key relationships.
+----------------------------
+
+GM: I prefer, personally, to map the keyboard so that [somehow] octave
+boundaries in the tuning match octave boundaries on the keyboard, preferably in
+some meaningful way.  [This sort of thing is very easy to do on the ASR-10, but
+somewhat more difficult on the K2000, according to my informant.]  For example,
+in 10TET, I map the keyboard so that adjacent Es and Fs play the same pitch, and
+similarly with adjacent Bs and Cs.
+---------------------------
+HF: While my software currently does not allow for this, I will consider it for
+a future release. In the meantime, it certainly CAN still be done on the K2000
+with a little adjustment to my programs output.
+
+Just remember that all semitone [ST] and cent offsets in the K2000 Keymap editor
+are expressed as offsets from the expected standard 12ET pitch. So to get the
+Kurzweil C4 [MIDI key 60] key to play C4 1/4-tone sharp, and to get key C#4 to
+play the same pitch, type in:
+
+key range: C4 to C4
+ST: 0
+cents: 50
+
+key range C#4 to C#4
+ST: 0
+cents: -50			
+
+Of course, to make sure the resulting tone sounds decent, you need to check that
+your sample root is somewhere in the neighborhood of the resulting pitch. Or, if
+you like purely synthetic timbres, use waveforms in place of sample roots, or
+perhaps deliberately use the <<wrong>> sample roots if you like.
+
+if you are a little patient, and can program your VCR [or could easily learn to
+do so], you should NOT be scared away by the K2000 in terms of ease of use. But,
+I am assuming you have some basic familiarity with tuning theory  as well as
+rudiments of sound synthesis.
+
+If programming synths really terrifies you, and if you just want to use canned
+sounds and tunings, decide which <<cannings>> suit you best, and buy the synth
+with the ones you want. The K2000 provides a number of historic pythagorean,
+well, and just tunings, plus Carlos alpha and beta. I know that the Yamaha TX802
+includes 1/4-tones, 1/8-tones, and also some other historic tunings.  I think
+the Korg Wavestation, a synth with a cool vector synthesis system, also has some
+built-in and 1 or 2 user-definable tunings. And if you mainly want some world
+music tunings, theres a new Macintosh software product out there [described in a
+recent Electronic Musician or Keyboard magazine] which generates some of these
+quickly and easily for some sound cards and synths.
+
+Hopefully this will help those of you in the market for a new or recent used sy
+synth.
+
+Musically yours,
+Harold Fortuin
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 5 Jan 1996 14:41 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA03253; Fri, 5 Jan 1996 05:40:58 -0800
+Date: Fri, 5 Jan 1996 05:40:58 -0800
+Message-Id: <960105133620_71670.2576_HHB25-5@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

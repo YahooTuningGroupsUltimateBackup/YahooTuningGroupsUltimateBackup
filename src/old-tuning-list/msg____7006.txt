@@ -1,0 +1,238 @@
+source file: mills3.txt
+Date: Sun, 11 Jan 1998 16:11:15 +0100
+
+Subject: Clearer
+
+From: Carl Lumma <clumma@nni.com>
+
+>>There is no such thing as the odd limit of a pitch -- all intervals can
+be >>constructed above and below any pitch. What do you really mean?
+
+Odd limit of the interval, sorry.
+
+>>}Idea "A" seems to suggest that we temper the octave the most, the fifth the
+>>}next most, and so on up.  But we can't do this without wrecking tonality,
+>>}since the low identities provide that, as explained in idea "B".
+>>
+>>}Both A and B are really one idea, in that they're both caused by the way
+>>}superparticular fractions get closer to eachother, so there's no
+>>}"contradiction", true.  But when tempering, it presents a trade-off
+>>}situation, one which can't be well-addressed by just making the de-tuning
+>>}inversely proportional to limit.
+>>
+>>None of the above makes any sense to me. Perhaps you have something in mind
+>>that you'd like to clarify, but insofar as you're relying on (B), I honestly
+>>can't figure it out.  Moreover, I don't see anything special about
+>>superparticulars.
+
+The superparticulars are just all the intervals between adjacent members of
+the series.  You're supposed to be able to detune a 3/2 more than an 13/12,
+since there's less low-numbered ratios near the 3/2 to get confussed with,
+right?  That's idea A.  It suggests that if you've got a certain amount of
+tempering to do, you should do it more on the low identities.
+
+Yet the high identities rely on the low ones for context in music.  High
+identities work in a tonality, and its the lower identities that play the
+bigger role in establishing tonality.  That's idea B.  It's the cons to
+tempering the lower identities more.  While they alone can stand more
+tempering than the higher identities, how well the higher identities to
+work depends on the strength of the lower ones.
+
+>>How did you think I arrived at this list, if not by insisting that the
+>>candidates must be better in the 7-limit than 12 at the 5-limit?
+
+I see I made a mistake as to what your criteria were for the two candidate
+lists.  I don't have the charts, but I didn't think that 22, 26, and 27
+were as good at the 5-limit as 12...
+
+>>Can you suggest a way to make the paper less confusing on this point?
+
+Yes.
+
+Instead of...
+
+"if we wish to move to the 7-limit without decreasing the overall level of
+accuracy from that of 12-equal at the 5-limit"
+
+Say...
+
+"if we want our new tuning to approximate the 7-limit at least as well as
+12-equal approximates the 5-limit"
+
+Instead of...
+
+"but now only two are still more accurate than 5-limit 12-equal"
+
+Say...
+
+"but now only two are still better at the 7-limit than 12 equal is at the
+5-limit."
+
+>>}1) Conventional theory is full of holes.  The tritone is spelled as an
+>>}augmented forth in certain contexts, and as a diminished fifth in others,
+>>}but it's the same pitch.
+>>
+>>First of all, it's an interval, not a pitch.
+
+This time my use of pitch is just fine.  The intervals are the aug 4th and
+the dim 5th.  I meant that, starting the two intervals on the same bottom
+pitch, the "two" upper pitches are the same.
+
+>>Secondly, the augmented fourth and diminished fifth _sound_ different in
+>>context, and one must resolve outwards while the other must resolve inwards.
+
+I agree.  Playing Jazz got me to understand enharmonics in 12, especially
+the difference between the aug 4 and the dim 5.  I can see the reason why
+someone might prefer to use enharmonics and proper spellings of intervals
+for certain work in 12.  I just don't prefer using them for the type of
+work I do in 12.
+
+>>}Why you consider it a type of fifth in your
+>>}example was, in any case, not clear to me.
+>>
+>>Because you have to count 5 scale steps to get from the lower note to the
+>>upper note, inclusive.
+
+You mean scale degrees, not steps?
+
+If my scale is, in 12...
+
+C  C#  E  F#  G#  B  C
+
+..then the tritone is the 4th degree.
+
+>>I did provide such a definition -- "step" means a step in the scale, not a
+>>step in the tuning.  Without a basic, "generalized diatonic" scale, the
+>>concept is meaningless.
+
+I'm with you on the need for a generalized diatonic scale, but I missed the
+definition.  I don't see why a fifth is ever anything but the fifth degree
+of a scale.  The tritone isn't part of the "unaltered diatonic" scale, so I
+can't see how it can be a type of 5th or 4th degree in that scale.
+
+>>Wow, I thought my definition was fine. It certainly seems robust to me. How
+>>would you suggest I improve it? Perhaps by spelling out every single
+interval
+>>occuring in each of the "generalized diatonic" scales?
+
+Maybe.
+
+How would you define diatonic?
+
+How do you define dissonace, as in "characteristic dissonance", at a given
+odd limit?  An interval whose ratio involves odd numbers (after factors of
+two are taken out) bigger than the limit?
+
+>>}I noticed that.  But why is it Microsoft's fault?  Did you used some
+>>}automatic numbering scheme?  I hate that trend in software nowadays!  It's
+>>}not already so easy that you can't do it yourself?
+>>
+>>I couldn't figure out how to turn off the auto-numbering in Word 97.
+
+You can't just type the numbers in by hand?  I'm sure you can turn off the
+auto-numbering with a short spelunk thru the preferences thingy.  I hate
+Word to death, and I just removed it from my computer, or I'd tell you how
+exactly.
+
+>>Henry Cow was a British group whose music was very composed, a bit
+Zappa-like
+>>but much deeper emotionally (I feel).
+
+I'll keep my eyes peeled.
+
+>>Have you seen or heard Phish live?
+>>There's no comparison.
+
+Unfortunately, no.
+
+>>I'm sure you can transcribe all Partch music in 72TET and not lose anything
+>>in the modulatory effects.
+
+Oh, maybe so.  At the cost of a pitch set twice the size of Partch's
+(roughly, but the pitch set used varies from work to work).
+
+>>}Please Note: How the intervals are heard depends on context!!!  I'm just
+>>}throwing in my analysis here because sometimes a particular context seems
+>>}to be assumed when giving rational approximations for the 22TET
+intervals...
+>>
+>>what context are you assuming???
+
+None in particular.  That was the point.
+
+Bill Alves writes...
+
+>Looking at your 22TET JI approximation, it occurs to me that it will all
+>fit pretty neatly into the 11 limit. You have 31/16, and, by implication
+>its inversion 32/31, but 33/32 is only 1 cent off, and is already present
+>in the distance between the 4/3 and the 11/8 (or 3/2 and 16/11). Likewise
+>40/33, while a couple of cents further off than 23/19 that you use, also
+>uses this interval down from the 5/4. A 25/22 (11/10 down from 5/4) is just
+>2 cents worse than your 17/15. While the 600 cent interval is always a
+>problem in low limit JIs, 99/70 (7/6 down from 33/20), though not exactly a
+>pretty ratio, nails it. Here are my suggestions in your format, with
+>inversions filled in:
+>
+>> 1- 55   33/32 (1)
+>> 2- 109  16/15 (3)
+>> 3- 164  11/10 (1)
+>> 4- 218  25/22 (3)
+>> 5- 273  7/6   (6)
+>> 6- 327  40/33 (6)
+>> 7- 382  5/4   (4)
+>> 8- 436  9/7   (1)
+>> 9- 491  4/3   (7)
+>>10- 545  11/8  (6)
+>>11- 600  99/70 (0)
+>>12- 655  16/11 (6)
+>>13- 709  3/2   (7)
+>>14- 764  14/9  (1)
+>>15- 818  8/5   (4)
+>>16- 873  33/20 (6)
+>>17- 927  12/7  (6)
+>>18- 982  44/25 (3)
+>>19- 1036 20/11 (1)
+>>20- 1091 15/8  (3)
+>>21- 1145 64/33 (0)
+>>22- 1200 2/1   (0)
+>
+>I understand that you may be using different criteria for your
+>approximations, so I just offer these as another possible interpretation
+>and look forward to your paper.
+
+Thanks for work.  This seems quite a bit more elegant to me.  Truth be
+told, elegant was what I was trying to avoid.  I said that I left out the
+inversions to reveal structure in the scale.  Maybe this was misleading.  I
+didn't pick the approximations as a scale.  I was just trying to show what
+you might wind up hearing if you're not careful.
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  jpff@maths.bath.ac.uk
+Subject:  Re: Our instruments
+PostedDate:  11-01-98 20:14:36
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  11-01-98 20:14:11-11-01-98 20:14:12,11-01-98 20:14:02-11-01-98 20:14:02
+DeliveredDate:  11-01-98 20:14:02
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256589.0069A6AE; Sun, 11 Jan 1998 20:14:28 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA26563; Sun, 11 Jan 1998 20:14:36 +0100
+Date: Sun, 11 Jan 1998 20:14:36 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA26596
+Received: (qmail 17668 invoked from network); 11 Jan 1998 11:14:34 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 11 Jan 1998 11:14:34 -0800
+Message-Id: <E0xrSpX-0000x0-00@wallace.maths.bath.ac.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

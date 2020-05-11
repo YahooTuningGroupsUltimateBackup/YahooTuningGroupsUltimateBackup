@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Thu, 19 Oct 1995 21:11:46 -0700
+
+Subject: RE: Militant JI'ism
+
+From: Mmcky@aol.com
+
+Denny says,
+
+>    For those of you who think that I'm not being militant
+>enough on the side of just intonation, ...
+
+I certainly think it's better not to be militant about just
+intonation, or anything else, for that matter.
+
+>I would like to point out something that Easly Blackwood once
+>said: "There is no such thing as just intonation. All you 
+>can do is approximate a ratio by some standard of precision. It
+>all depends on the tolorance that you are willing to accept". I
+>think that the same thing could be said about equal
+>temperaments, as well.
+
+That may well be true for mechanical instruments, but it does not
+seem to represent the situation for frequency dividers, and since
+all modern electronic musical instruments use some form of
+frequency division, it may be a distinction of some importance.
+
+Take for example the humble fifth, which is 3/2 in JI and
+1.498307077 in 12ET.  To produce the JI fifth to an almost
+unbelievable level of accuracy simply takes three flip-flops with
+no gating, assuming they are the right kind of flip-flops (JK or
+D).  The circuit needs to be fed with a frequency that is 3 times
+the frequency of the lower tone.
+
+But to produce the 12ET fifth to the accuracy represented above
+is quite complex, and since it is a non-repeating decimal, to
+produce the 12ET fifth with the same accuracy with which we can
+easily produce the JI fifth is quite impossible.  Since
+498307077, and 1000000000 have no common factors, we would have
+to use two frequency dividers of 29 and 30 flip-flops
+respectively, and a substantial amount of gating logic.  We would
+have to feed this circuit with a frequency 4.983070769E+17 times
+higher than the lowest tone we wished to produce.
+
+There is the alternative of using the "phase accumulator" method
+of generating the frequency, as in FM synthesis or Wavetable
+synthesis.  That eliminates the need for the very high frequency,
+but introduces phase jitter and does little or nothing for
+circuit complexity.
+
+With electronics, we can easily produce a very accurate JI fifth,
+or we can spend thousands of times as much and get a much less
+accurate approximation of an ET12 fifth.  That is a principle
+reason why I prefer exact JI.
+
+Another reason is that the ear/brain system looks a lot more like
+an electronic mechanism to me that a mechanical system.  And
+then, of course, there is ease of analysis.
+
+Marion
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Oct 1995 07:17 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA28815; Thu, 19 Oct 1995 22:17:16 -0700
+Date: Thu, 19 Oct 1995 22:17:16 -0700
+Message-Id: <951020045912_71670.2576_HHB31-2@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

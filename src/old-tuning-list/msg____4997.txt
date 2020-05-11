@@ -1,0 +1,74 @@
+source file: mills2.txt
+Date: Wed, 5 Mar 1997 15:25:08 -0800
+
+Subject: Reply to John Chalmers/Lst Sqr Tun (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>My Variant of Paul's 696.0743748037858
+>TF(6*F+40*T+30*MS+110*OCT)/256
+
+Could you explain how this is derived? Did you also include absolute-error 
+versions of my optimizations in your list? Is this one?
+
+>However I'm still not completely convinced
+>that the intonation of the 5/3 and 6/5 are as important as the
+>that of 3/2 and 5/4, but even if it is, there are not independent
+>intervals.
+
+Ok, let's assume the intonation of the 6/5 is as important as that of 3/2 
+and 5/4. They are not independent intervals. So what? Yes, optimizing on 3/2 
+and 5/4 guarantees a pretty good 5/3. But optimizing on 3/2 and 6/5 
+guarantees a pretty good 5/4. However, these optimizations lead to different 
+tunings, neither of which is as optimal (under our assumption) as using all 
+three. Who cares about independence?
+
+John, under your optimization, the tuning of 6/5 (cents(3/2)-cents(5/4)) is 
+as important as that of 15/8 (cents(3/2)+cents(5/4)). I would argue that the 
+tuning of the 15/8 is unimportant, while the tuning of the 6/5 is very 
+important. At the very least, 6/5 should be included in the optimization 
+with a smaller weight than 3/2 and 5/4, but I prefer to give it full weight.
+
+>In triads, one has both a major third and a minor third and
+>adjusting either the fifth or the major third adjusts the minor third
+>as well. There are only two degrees of freedom, not three, which reduces
+>to one in meantone-like tunings or their positive analogs.
+
+This is what made it possible to make this a one-dimensional minimization 
+problem. But again, who cares about degrees of freedom? This is not 
+statistical inference here!
+
+>I thoroughly agree that the triads of 15-tet are more consonant than
+>those of 10-tet, but this is not relevant.
+
+It sure is relevant! See below.
+
+>We were both talking about
+>meantone-like tunings which form their major thirds as 4 fifths up,
+>their major sixths as 3 fifths up and their minor thirds as the difference
+>between the fifth and the major third, which is equivalent to taking
+>the minor third as 3 fifths down. If the fifth is greater than 700 cents,
+>these relations no longer hold in any meaningful sense.
+
+True, but the original objective ("consonance") function is expressed 
+independently of these relations. In the space of meantone tunings, these 
+relations can be used to make the problem into a one-dimensional problem. 
+But in general, it can only be reduced to a two-dimensional problem, since, 
+as you point out, there are two independent intervals (any two can be chosen 
+without affecting the result.) For example, would you not agree that just 
+intonation gives better triads than any meantone tuning?
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 6 Mar 1997 00:28 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07198; Thu, 6 Mar 1997 00:28:32 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07230
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id PAA11634; Wed, 5 Mar 1997 15:23:34 -0800
+Date: Wed, 5 Mar 1997 15:23:34 -0800
+Message-Id: <009B0D4425FA3EA0.6234@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

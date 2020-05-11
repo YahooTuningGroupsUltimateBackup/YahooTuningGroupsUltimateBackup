@@ -1,0 +1,32 @@
+source file: m1398.txt
+Date: Mon, 27 Apr 1998 23:02:43 -0400
+
+Subject: RE: Orchestral-Instrument Aperiodicity
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>4.  Since the entire wave does not move up and down with this curve, this
+>can't
+>be due to a subharmonic.  (Also, it was run through a subsonic filter before
+>being drawn here, and this particular pitch is in the lowest register of
+>the bass clarinet, so it subharmonics are inherently unlikely.)
+
+It looks an awful lot like the true fundamental is an octave below the
+period you have identified. Read Benade or Backus, one of whom discusses
+how the true fundamental can indeed be a subharmonic of a resonant
+frequency, a phenomenon found not only in wind and brass instruments but
+also the human voice (e.g., Tuvan throat singing, Janis Joplin). Your
+subsonic may have lessened that true fundamental, but it is still there.
+
+>11. The troughs circled in green MAY reflect the peaks and troughs of a high
+>harmonic walking through that particular slightly-lower-harmonic-dictated
+>trough.  I'm not sure of that by any means though.
+
+We both forgot to mention noise. All wind instrument timbres contain
+significant amounts of noise, coming from the breath of the performer
+while the reed is open. This noise will of course spoil any exact
+periodicity that might otherwise be there. By the way, the instrument
+will tend to amplify this noise at its resonant frequencies. Try playing
+a wind instrument without the reed and you will still get a rough idea
+of the pitches you're fingering from the way your breath-noise is
+amplified.

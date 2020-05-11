@@ -1,0 +1,31 @@
+source file: m1423.txt
+Date: Fri, 22 May 98 10:56:14 +0000
+
+Subject: Synth tuning resolution
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hi Gary,
+
+>>I have considered them.They allow increments of  @0.1 Hz (by my calc.)
+>>,so most notes would be a little off.
+>
+>   I suppose it's worth pointing out that that's not very far off.  A 1/5Hz
+>beat is pretty darned slow.  You'd have to have some very high harmonics on
+>some very long, sustained tones to be able to hear that.
+
+So,the MR series resolution is good enough that one might, in all 
+probability ,never wish for more ?
+
+BTW,please ignore that rubbish in that post about "psychoacoustic efx" 
+blah-blah.Just thinking aloud.Could've kicked myself for forgetting to 
+delete it from the message.
+
+Also there is another alternative: MSP,the real-time synthesis software 
+that works on top of Max.
+It uses Hertz.<www.cycling74.com> Also distributed by IRCAM.
+
+John (Loffink),thanks for the Yamaha FM info,but drat..... 
+And you should get MSP onto you website.
+
+-Drew

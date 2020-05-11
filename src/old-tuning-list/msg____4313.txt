@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Fri, 13 Dec 1996 13:04:53 -0800
+
+Subject: Re: definition of a group
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+>From Eric's Treasure Trove of Mathematics (on line mathematical 
+encyclopedia)
+
+A group G is defined as a set of finite or infinite objects or operators 
+(called ``elements'') that may be combined or ``multiplied'' to form 
+well-defined products which satisfy 
+
+     1. If A and B are two elements, then the product AB is also a member 
+of the set.
+
+     2. The defined multiplication is associative, i.e. (AB)C A(BC)
+
+     3. There is a unit ``identity'' element I (a.k.a., 1 or E, the 
+latter deriving from the
+     
+German ``Einheit'' meaning unity) such that IA AI A for every 
+element in the set.
+
+     4. Therex must be an inverse or reciprocal of each element. 
+
+Eric's Treasure Trove
+http://www.gps.caltech.edu/~eww/math/math.html
+
+John Starrett
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 13 Dec 1996 23:59 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03859; Sat, 14 Dec 1996 00:02:05 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA03855
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA20689; Fri, 13 Dec 1996 15:02:03 -0800
+Date: Fri, 13 Dec 1996 15:02:03 -0800
+Message-Id: <3.0.32.19961213145533.00687ed0@adnc.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

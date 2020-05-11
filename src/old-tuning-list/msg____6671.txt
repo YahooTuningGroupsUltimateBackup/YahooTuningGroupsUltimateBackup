@@ -1,0 +1,68 @@
+source file: mills3.txt
+Date: Wed, 17 Dec 1997 01:53:11 +0100
+
+Subject: Just Interval Progressions
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+I have enumerated all the progressions, derived from the consonances, by
+which one can arrive at the first 61 just intervals. For example, here
+are the progressions by which one arrives at 16:15 (112 cents, the
+diatonic semitone, the diminished minor tone:)
+
+4/3 x 8/5
+4/3 x 4/5
+8/5 x 4/3
+8/5 x 2/3
+32/25 x 5/3
+32/25 x 5/6
+16/9 x 6/5
+16/9 x 3/5
+64/45 x 3/2
+64/45 x 3/4
+128/75 x 5/4
+128/75 x 5/8
+
+Similar enumerations were made many centuries ago, but always so far as
+I can discover, from a strictly diatonic and/or fifth-based standpoint.
+My method uses all the consonances, and is equally well-adapted to serve
+as a theoretical basis for chromatic and enharmonic music.
+
+The modern just intonationists have performed many notable and
+instructive calculations involving the 5-limit, although their
+doctrinaire insistence on the sacredness of the ratios, their obsession
+with the 7-limit (and still more indefensibly, their musical
+castles-in-the-air concerning the purely dissonant and quite
+imperceptible 9-, 11-, 13-limits, etc.) and their refusal to seriously
+consider the problems of adapting these ratios to practical music, has
+vitiated much of their work. Still their approach is an honorable
+antidote to the crudities of the dominant 12-tone-equal ethos.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  Septimal Intervals
+PostedDate:  17-12-97 02:38:44
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  17-12-97 02:36:39-17-12-97 02:36:40,17-12-97 02:36:18-17-12-97 02:36:19
+DeliveredDate:  17-12-97 02:36:19
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256570.0008D7F4; Wed, 17 Dec 1997 02:38:32 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17517; Wed, 17 Dec 1997 02:38:44 +0100
+Date: Wed, 17 Dec 1997 02:38:44 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA17515
+Received: (qmail 18905 invoked from network); 16 Dec 1997 17:38:41 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 Dec 1997 17:38:41 -0800
+Message-Id: <34978F8D.712D@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

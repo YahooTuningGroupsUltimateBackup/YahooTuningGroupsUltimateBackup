@@ -1,0 +1,634 @@
+source file: mills2.txt
+Date: Wed, 18 Dec 1996 14:04:33 -0800
+
+Subject: post for Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: practical vs. theoretical
+ implementations of microtonality
+--
+A microtonal composer on this forum
+recently slammed head-on into the real world
+of synthesizers in a particularly unpleasant 
+way, so it's time to discuss the humungously
+vast difference between the theoretical
+ideal ivory tower notions of microtonality
+on currently available MIDI synthesizers
+as opposed to the hard cold realities.
+--
+Let's start with the basic upper limit
+on the number of pitches per octave
+on a MIDI synthesizr.
+If you have only one pitch table on
+your synthesizer or sampler, you will
+be limited to no more than 17 tones per
+octave.
+How so?
+Let's do the calculation (which, since
+it's obvious, has never been posted
+by any of the illustrious PhDs on this
+forum):
+The instrument of the orchestra with
+the largest pitch range is the piano:
+88 notes, a little more than 7 octaves.
+The maximum number of pitches which can
+be generated with one pitch table limited
+to 127 MIDI notes on such an instrument is:
+127/88*12 17.3 pitches per octave.
+To get more pitches per octave than
+this, you must either [1] reduce the
+range of your instrument from 7 octaves
+down to some smaller ambitus; [2] use
+multitracking with SMPTE sync and 
+create multiple MIDI files which break
+up portions of your composition into
+different keyboard ranges, and then
+build up the entire composition out
+of multiple passes via multitrack
+recordings; [3] use an instrument
+with multiple pitch tables; or [4]
+pull the samples into a program like
+Alchemy and sample-rate-convert them
+to use less memory...which also
+produces lower audio fidelity.
+--
+These are your only choices.
+Reducing the range of the instrument
+is usually not an option. If you 
+want to compose a piano sonata in,
+say, 41 tone equal temperament, 
+this limits you to a 3 octave
+range. Most composers would not
+accept such a limitation.
+As for using multitrack with SMPTE
+sync to create a microtonal compostion
+via multiple passes in the recording
+studio, this is so harrowing and so
+arduous and so difficult that no
+microtonal composer has ever done
+it. Thus it is so complex and so
+tortuous that it is effectively
+impossible.
+Few MIDI synthesizers have multiple
+pitch tables.  Only the EPS samplers,
+the VFX and TS-10 synthesizers, and
+the TX802 have more than one pitch table.
+Of these, only the TS-10 and ASR-10
+samplers are currently manufactured.
+This leaves most microtonal composers
+with no options.
+--
+In the real world, things are very
+different from the realm of pure theory.
+Let's take a hard cold example--let's
+say you want to compose a piano sonata
+in 41 tone equal temperament.
+The best piano sample bank around is
+the Akai Steinway D bank on Volume 1
+of Akai's "Complete Piano" series. 
+Clearly, this is the piano sample
+to use.
+This bank takes up 32 megs of sample
+RAM.
+As we've seen, the maximum limit for
+1 MIDI channel is 17 pitches per
+octave.  To get 41 pitches per octave,
+we need 3 different retuned sample
+banks on 3 different MIDI channels,
+requiring a minimum of 96 megabytes
+of sample RAM.
+No current sampler allows this much
+RAM except for the astronomically
+expensive Kurzweill K3000 sampler.
+This sampler lets you add up to
+128 megs of RAM and the sampler
+itself costs about $4500.  With
+128 megs of RAM, the cost rises above
+$6000.  Since no microtonalist
+has this kind of cash to spend merely
+to produce a single composition, you're
+pretty much out of luck.
+The alternative is to use 8 Ensoniq
+ASR-10 samplers, at an approximate
+cost of $20,000.  Those of you who have
+twenty thousand dollars to spend on
+a single composition, raise your hands...
+The other alternative is to use one
+ASR-10 sampler and break up the 
+Akai piano sample into 8 different
+blocks, then realize the entire
+composition in fragments by writing 
+software to break up your MIDI file 
+of the composition into 8 different
+MIDI channels and re-assemble the
+whole composition one fragment
+at a time via digital multitrack 
+with SMPTE sync, changing piano samples
+between each take.
+No microtonalist has yet accomplished
+such an incredibly convoluted and
+difficult feat; in the real world,
+therefore, such an option does not
+realistically exist.
+--
+If you want to use a sampler without
+a pitch table--say, the Akai S-2000--
+you're *really* up the creek.
+In this case you can only break out of
+12-tet by using a sample map to map
+each sample to a different pitch and
+each pitch to a separate key.
+This requires that you use 127 different
+samples...one for each MIDI note.
+Since the Akai Steinway D piano bank
+uses 1 sample for each whole note
+(44 whole notes total in the bank)
+with a total of 32 megs, you would need
+32 megs * 127/44 92.36 megabytes of
+sample RAM to get 127 MIDI microtonal notes.
+If we're in 19-tone equal temperament,
+127 MIDI notes still isn't very much:
+that's only 127/19 6.68 octaves, less
+than the range of a conventional grand
+piano.  Yet the Akai series of samplers
+permit only 32 megs per sampler.  This
+means that you would either have to 
+buy 3 Akai samplers, or multitrack
+the composition sync'd to SMPTE--as we've
+seen, an impractical option so difficult
+and so arduous as to be effectively
+impossible.
+--
+What are the other alternatives?
+Well, theoretically we could feed
+the Akai piano bank samples into
+a program like Alchemy or Sound
+Forge and sample-rate-convert them
+to take up less room. Downsampling
+from 44.1 khz to 22.05 khz would
+double the number of notes per 
+megabyte of sample. However, this 
+would degrade the audio quality of 
+the piano sound, and it would
+also take up an impractical amount
+of computer time.
+How much time?
+As Leibniz suggested, "Gentlemen,
+let us calculate."
+Say 5 minutes per 800 kilobyte piano 
+sample to convert from 44.1 khz to 
+22.05 khz--and the Akai piano sample 
+has 44 different multisamples, so this
+is 220 minutes or 3 hours 10
+minutes.  Add on file naming,
+saving to disk, etc., and we
+get roughly 4 hours of work.
+Of course, this is only for
+one intonation--41-tet. If we
+want sample-rate-converted
+smaller-size piano samples
+re-mapped for every equal
+temperament from 5 through
+53 tones per octave, that 
+will take 192 hours of work,
+or 8 days working non-stop
+8 hours per day.  If we
+work 4 hours per day (a more
+realistic estimate--say, 
+after you come home from your
+job) it would take 16 days
+to finish that task.
+This still gives you only 1
+timbre--piano timbre, in 5
+through 53 tones per octave.
+For 64 different timbres (a
+reasonable though modest
+sound-pallette) you would need
+to spend 1024 days, or 2.8
+years working 4 hours per day,
+7 days per week, 52 weeks per
+year.
+At this point we've slammed
+head-on into the practical
+limitations of the real
+world.
+--
+The difference between the
+theoretical ideal of microtonality
+and the practical reality is vast.
+It's as large as the differene
+between the theoretically finite
+possibility that a pot of water
+will freeze when you put it over
+a fire, and the practical reality
+that this NEVER happens. In the 
+real world, the pot always boils...
+ALWAYS. Without exception.
+And so when various forum subscribers
+clamor that my facts are incorrect
+or my conclusions are wrong, it's
+well to remember that they are fantasizing
+about some ideal theoretical pie-in-the-
+sky realm, and NOT talking about the real
+world.
+--
+We can use the 17-pitch-per-
+MIDI-channel limit to do some
+other calculations which tell
+us some revealing things about
+synthesizers and MIDI.
+72 pitches per octave seems like
+a reasonable maximum for a
+microtonal composer. Some
+members of this forum (myself,
+John Fitch with 100/oct, William
+Schottstaedt with 144/oct) have
+composed pieces of music using
+much larger numbers of tones
+per octave, but such compositions
+remain rare exceptions.  Most microtonal
+music uses 72 tones/octave
+or less.
+If we accept 72 pitches per octave
+as a practical maximum, how many
+MIDI channels are needed to
+realize such a composition, given
+the 127 MIDI note limitation?
+The answer is 72/17 4.23,
+or, rounding up, 5 MIDI channels.
+Thus 5 MIDI channels represents
+the minimum number that should
+be available on a sampler.
+We can use this result to tell
+what the minimum amount of sample
+RAM should be on a sampler so
+as to allow us to compose with
+up to 72 pitches per octave:
+Given that most sample banks
+now average about 32 megs of
+RAM, we would need at least
+5*32 megs of sample RAM.
+So 160 megabytes is the minimum
+amount of sample RAM which would
+be useful on a sampler if you
+want to compose microtonal music
+with it.
+Alas, no sampler allows this much
+RAM.
+The Enqoniq ASR-10 is limited
+to 16 megs maximum, ditto the
+Digidesign Sample Cell. The
+Kurzweill 2000 allows 64 megs
+maximum, while the Kurzweill
+3000 allows 128 megs maximum.
+Now we run into another limitation
+of the real world: pitch tables,
+and the lack thereof.
+The Ensoniq ASR-10 is the only
+sampler on the market which
+currently has pitch tables. All
+other samples are locked via hardware
+into 12 pitches per octave--in
+some samplers you can vary those
+12 pitches, but you're still
+restricted to 12.
+At this point various forum
+subscribers will predictably
+claim that they can force 12/oct
+samplers to do microtonal things
+using some exotic combination of
+hardware and software.
+This is false.
+While in an ideal world it is
+theoretically possible to use some 
+exotic software systemm to tweak
+an Akai or Kawai or Kurzweill or
+Roland synthesizer/sampler so
+that it produces microtonal music,
+in the real world the cold hard
+fact is that these exotic kludges
+*do not* produce acceptable results.
+Either pitch-bend messages/
+sys-ex messages clog the MIDI
+channels and turn chords into
+arpeggios, or pitch-bends turn
+every note-on into a twang (an
+ugly sound, especially with
+percussive timbres), or you get
+only a few notes out of N at a
+time.
+Thus, in the real world, these
+schemes don't work.  In the
+real world, I need all 41 pitches
+of 41-tet available at once.
+I want to do 5 octaves of
+41-tone per octave note
+clusters. I want to do complex
+chromatic polyphony at high
+speed.  I want to run from the
+highest pitch to the lowest
+in chromatic progression while
+harmonizing with 13th chords.
+None of these strange sys-ex
+or pitch-bend schemes will
+permit this.
+Thus, in the real world such
+onerous kludges simply do not work.
+They enforce such drastic
+limitations on the composer
+as to be unacceptable. Either
+the composer must edit every
+note to insert a sys-ex message
+by hand, or the MIDI channels
+get so choked with sys-ex info
+that the synthesizer starts
+missing notes, or you're limited
+to a maximum of 16 notes/MIDI
+channels at a time, or some other
+crippling problem arises.
+--
+This points up the *enormous*
+gap between practical and
+theoretical implementations
+of microtonality.
+While pitch-bend and sys-ex
+schemes are theoretically
+possible, in the real world
+they just don't work out.  
+The hard cold brutal reality
+of microtonal composition is
+that it's so difficult and
+so complex and so demanding
+for us (the first generation of
+microtonal composers using
+MIDI instruments) to write
+music outside of the 12 Sacred
+Tones that if a scheme requires
+a composer to spend more than
+a day or two tweaking a synthesizer
+to get non-12, we simply won't use
+it.
+The reason for this is the hardware
+we're battling, as well as our own
+mental software.  We were all taught
+to compose in 12, and that programming
+is very strong. Thus it's doubly hard
+for us, as the first generation of xenharmonists
+with instant access to ALL possible tunings,
+to fight *both* our 12-tet programming AND
+the current neolithic generation of 
+microtonal synth hardware.
+Right now synthesizers are mostly hardware.
+In the future, this will change drastically.
+Soon synths will be mostly software, and this
+will make it much *much* easier to compose
+in real time in scales like Partch 43 or 
+41-tet.  In the meantime, however, we must
+do the best with the hardware we've got.
+Remember...MIDI is only 13 years old.
+--
+Amid this blizzard of numbers, it's important
+to keep sight of our priorities--as this tuning 
+forum often does NOT.
+Numbers and ratios and algorithms are
+NOT what microtonal music is all about.
+Words and equations and psychoacoustics
+papers are NOT the ultimate destination of
+xenharmonics.
+Microtonality is about MUSIC.
+As composers, we cannot afford to
+get sidetracked into a tarpit of
+endless sys-ex tables and synth
+set-ups and individual note-edits.
+More than a few hours of this prior
+to a composition or performance is
+impractical. In the real world,
+a couple of days of this kind
+of hassle at most is about the
+limit of what the average xenharmonic
+composer can stand per tuning.
+What we need is pretty much something
+like what an ordinary 12-tone composer
+has: you sit down at the piano and you
+play.  If 12-tone composers had to
+spend 3 weeks busting hump with sample
+editors and sys-ex tables and the rest
+of that rigamarole before they could
+even start to compose, there wouldn't
+be much 12-tone music.
+This is just the hard cold reality.
+People who dwell in ivory towers or
+who spend their lives as programmers
+(not composers) of course don't
+understand this.  But for the rest of
+us, it's a very real fact.  When the
+amount of work required to get a 
+synthesizer to do something microtonal
+rises above some arduous level--say,
+a couple of days of effort--we as composers
+will say "The hell with it!" and move on.
+This is why so little microtonal music
+has been written for the FB-01. That
+synth required that a separate sys-ex
+tuning message be sent with each
+note-on, and it was simply far far *FAR*
+too much work.  Composers just gave
+up and turned to other synthesizers that
+had tuning tables.  Life's too short
+to spend it beating your head against
+intractable digital hardware.
+--
+This means that synthesizers and samplers
+with pitch tables are the minimum 
+requirement for microtonality.  While
+it is in an ideal world theoretically
+possible to get synths which are locked into
+12 pitches per octave to do something
+microtonal, in the real world it's so
+difficult and so complex and introduces so
+many crippling limitations that in practical
+terms it's impossible.  For microtonality,
+you MUST have a synthesizer with a pitch table.
+--
+It's a matter of some interest to use
+the 17 pitch per octave limit to calculate
+how many MIDI notes *would* have been
+required to let us get 72 pitches per
+octave.  It turns out that the number
+of MIDI notes we really needed in the
+MIDI spec was X 72*88/12 528.
+The assumptions here are, as usual,
+that we won't need a single instrument
+with a wider range than a grand piano
+(88 notes) and that we must restrict
+ourselves to a single MIDI channel.
+It's heartbreaking to realize that if
+only the original MIDI spec had used
+10 bits for pitch instead of 7, we would
+today be able to easily get 72 pitches
+per octave without any trouble. In fact
+with 1023 MIDI notes we'd be able to 
+get 7 octaves of 139 pitches per octave...
+plenty for almost any practical
+microtonal composition.
+Just think of it--if the original MIDI
+protocol had used 16 bits per MIDI byte
+instead of 8 bits, we would have had
+15 bits available for pitch. That would
+have given us 32767 pitches, far more
+than enough for any conceivable xenharmonic
+tuning.  Our problems would have been
+solved.
+Alas, Wold's Law applies: Erling Wold once
+said that all standards in the personal computer
+industry are created by taking the cheesiest 
+sleaziest lowest-cost kludge that will
+do the job at some grotesquely sub-minimal
+level and etching it in adamantine diorite.
+Once again, with MIDI, Wold's Law has
+proven correct...if only MIDI had been
+delayed until 16 bit processors and
+16 bit bytes became the standard in
+the desktop computer industry...!
+(Sigh.)
+--
+At this point Johnny Reinhard and his
+New York friends will predictably claim
+that the answer is to eliminate MIDI
+synthesizers and compose for pure
+acoustic ensembles.  Of course, Johnny
+and friends overlook the vitally
+important fact that MIDI synths have
+become *indispensable* in composing microtonal
+music. A MIDI synth allows a composer
+to *hear* those new microtonal harmonies 
+and microtonal melodies before committing
+them to paper. This is absolutely necessary
+because history shows that every microtonal
+theorist who ever made a judgement about
+a scale *without* hearing it wound up
+being completely mistaken. The cold deaf
+mute silent numbers NEVER tell you what a 
+tuning will *sound* like. Thus, J. Murray
+Barbour dismissed 19-tet as "too insipid"
+because of its "overly pure" minor thirds...
+but in fact 19-tet is today one of the most
+popular equal temperaments, due to its distinctive
+and memorable and very aggressive "sound" or
+"mood."  Fox-Strangways disdained Partch's 43
+note just intonation because of the purported
+"problem" with different notes having the same
+name--but as anyone who's heard Partch's music
+knows quite well, this is simply a non-problem.
+As a triad moves from I to IV to V to I, different
+notes with the same name play musical chairs
+inside the chords. It works perfectly, sounds completely 
+straightforward. Again: 15-tet was pooh-poohed by 
+countless music theorists because of its 720-cent
+fifths, but 15-tet turns out to have a vivid
+and lovely "sound" or "mood"--as Easley Blackwood,
+Ivor Darreg, and many others have proven conclusively 
+by composing superb music in the tuning.
+And so on.
+Thus, microtonal synthesizers are here to
+stay.  It is not practical to roll the clock
+back and banish them from the composer's
+studio or the concert hall.
+This makes the 127-note MIDI limit a
+particularly huge probem.  MIDI syths
+are everywhere--in fact they are largely
+responsible for the formation of this
+tuning forum--and this means that the
+17-pitch-per-octave limit is something like
+the speed of light...it is built into
+microtonal synths at the hardware level,
+and we must *all* deal with it. (The
+only exceptions are those lucky few with
+access to the Samson Box. Even the KYMA
+system is limited to 127 MIDI notes.)
+--
+Efforts to expand the number of MIDI notes
+have proven disastrously misguided.  The
+recent ZIPI proposals by the Berkeley CNMAT group
+headed by David Wessel suggested sending
+pitch as an unsigned multi-byte float instead
+of as an unsigned 7-bit int. This was an
+astoundingly BAD idea because the great
+virtue of MIDI note numbers is that they
+are just that--numbers, not connected to
+any particular pitch.  This leaves the
+individual synthesizer free to interpret
+the numbers and that means that a microtonal
+composer has maximum flexibility.  Using
+simple integers as MIDI numbers means
+that a composer can very simply and easily
+set up elaborate pitch tables merely by
+filling up the linear array of midi note
+numbers in any way desired. For example, a
+microtonal composer can fill one pitch
+table of a MIDI synth with a 5/oct pitch
+table, another pitch table with 7/oct,
+and yet a third with a 35/oct pitch table.
+This allows a composer great freedom in
+moving between tunings--all you need 
+do is switch MIDI channels.
+Interpreting MIDI notes as simple integers
+(which are really pointers to an array)
+without reference to pitch makes possible
+such exotic compositional strategies as
+composing in (say) 13-tone equal temperament
+melodically with just intonation vertical
+harmonies for each note.
+All you need to do is fill one pitch table
+with 13-tet and two other pitch tables with
+the same pitches transposed a 5/4 higher and
+a 3/2 higher.
+To regress and devolve by interpreting notes as pitch
+rather than numbers is a giant step BACKWARDS
+which makes many kinds of microtonal composition
+much more complex than they ought to be. 
+But the worst aspect of CNMAT's ZIPI proposal
+is that it puts the burden of setting pitch on
+the shoulders of the controller manufacturers.
+And we all know EXACTLY what will happen five
+minutes after ZIPI becomes the official pitch
+protocol for synthesizers: the controller 
+manufacturers would take one look at the
+pitch protocol, say "To hell with this!" and
+lock their controllers into strict 12-tet to
+save time and money in manufacturing their
+keyboards.
+The end result?  
+ZIPI would sound the death knell for 
+microtonality on digital synthesizers.
+--
+And so the situation looks bleak for microtonality
+on synthesizers.  Those who want to explore
+large numbers of tones per octave (> 17 pitches
+per octave) are up against some cruel practical
+limitations.  And now that Ensoniq has fired
+its entire R&D staff, the future of microtonal
+innovation on synthesizers is very much in question.
+Instead of having more pitch tables on synths
+(as we desperately need), we are likely to have
+*fewer* in the future. 
+John Fitch's Extended Csound spec looks like it's
+arriving just in time.
+--mclaren
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Dec 1996 07:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04789; Thu, 19 Dec 1996 07:13:20 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04465
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id WAA09396; Wed, 18 Dec 1996 22:13:17 -0800
+Date: Wed, 18 Dec 1996 22:13:17 -0800
+Message-Id: <Pine.SOL.3.95.961218220448.17303A-100000@equinox>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

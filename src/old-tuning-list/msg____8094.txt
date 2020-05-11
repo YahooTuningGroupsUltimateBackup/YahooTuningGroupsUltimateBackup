@@ -1,0 +1,55 @@
+source file: m1448.txt
+Date: Mon, 15 Jun 1998 12:48:19 -0500
+
+Subject: RE: Microtunable wishlist
+
+From: "Loffink, John" <John.Loffink@COMPAQ.com>
+
+> From: gbreed@cix.compulink.co.uk (Graham Breed)
+> 
+> What difference does it make how the samples are tuned?  So long as you
+> correct for mistuning, there shouldn't be problem.  That is, record a
+> sample as being Eb, 0.32 cents sharp of equal temperament, or whatever.
+> It's really easy to work out the pitch of a sample: count the number of
+> bytes in the loop.  Anyway, give us a sampler and we can tune the samples
+> ourselves.  And a lot of voices will use square or sawtooth waves which
+> can be tuned accurately.  This isn't a good argument for poor tuning
+> precision, even if it is the argument they give.
+> 
+Wavetable instruments use multisamples to map multiple samples at defined
+pitches across the keyboard.  If these multisamples are mistuned relative to
+each other by up to 1 cent, it doesn't matter how accurate your tuning table
+is, you won't be able to retune the multisamples to correct the errors
+unless your tuning table is specific to each multisample.  Now samplers
+don't have this problem as they all allow you to fine tune the pitch of each
+multisample.  Most wavetable synthesizers lack this ability.
+
+>  From: csz@wco.com (Carter Scholz)
+> 
+> In the recent discussion of wish lists and tuning implementations,
+> one practical point has been overlooked.  It was not "Ensoniq" the
+> company that gave us their implementation -- it was Steven Curtin,
+> who was in charge of the tuning implementation while he worked there.
+> Likewise, E-mu's David Frost was more or less singlehandedly responsible
+> for the Proteus tuning implementation.  Tuning is not and never will be
+> a priority for a manufacturer.  The best we can hope for is a sympathetic
+> and knowledgable individual within a company who is willing to devote
+> his or her time and energy to make it happen.  Talking to programmers
+> is far more likely to be productive than talking to executives or
+> marketing types.
+> 
+I know the main OS software engineer inside one of the keyboard companies
+and he was receptive to upgrading some microtuning features.  He will be
+getting a copy of the wishlist.  Will he implement all suggestions?  I doubt
+it, but every little bit helps.  It also helps to have some pressure from
+outside so the individuals can justify these features to their marketing
+groups and management.
+
+While I agree that tuning is not currently a priority for manufacturers, I
+disagree that it never can be. Microtuning was on the marketing features
+list for one proposed high end instrument at this company.  That request was
+put in there by marketing, not engineering.  We are making headway, as slow
+as it may seem.
+
+John Loffink
+jloffink@pdq.net

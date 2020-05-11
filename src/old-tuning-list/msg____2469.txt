@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Thu, 18 Jan 1996 17:46:35 -0800
+
+Subject: Re: TUNING digest 607
+
+From: Brian Belet <BBELET@sjsuvm1.sjsu.edu>
+
+On Thu, 18 Jan 1996 10:25:02 -0800 you said:
+>Hi...I'm a senior music/math double major at Bates College and am new to
+>the list.  My thesis topic is involved in creations of scales in 31 tone
+>music, using the work of John Clough, Sebastion Von Hoerner, and Harry
+>Partch.  What I am wondering is if there is anyone out there who has
+>experience with creating orchestra and score files in C-sound for the 31
+>tone chromatic scale.  Anybody have any insight, or want to point me in a
+>direction?  Thanks a lot!
+>						-- Ethan --
+
+Ethan Weker,
+In CSound, or any software synthesis environment, you can easily work
+in any type of tuning by specifying frequency in hz (cps), and simply
+forego the entire hassle of pitch names (i.e., n-cents sharper than G#).
+I've worked in CSound (may the gods guard me from ever having to touch it
+again....), and now I work in Smalltalk-80 using the Kyma system.
+I always work in free-floating frequency space (cps), and so I can permit
+the comma to wander as it wishes in extended just intonation &/or any
+hybrid system (e.g., recursive iterations of the ratio of the golden
+mean).   This is where software synthesis has its strengths.  So, enjoy
+it and use it!
+  --  Brian Belet
+
+***********************************************************
+*   Brian Belet, D.M.A.         bbelet@sjsuvm1.sjsu.edu   *
+*   Music Systems Coordinator   VOX:  (1)-408-924-4632    *
+*   School of Music             FAX:  (1)-408-924-4773    *
+*   San Jose State University                             *
+*   One Washington Square, San Jose, CA  95192-0095, USA  *
+*---------------------------------------------------------*
+*            http://cadre.sjsu.edu/music/belet.html       *
+***********************************************************
+
+Received: from sun4nl.NL.net [193.78.240.1] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 19 Jan 1996 03:54 +0100
+Received: from eartha.mills.edu by sun4nl.NL.net with SMTP
+	id AA14782 (5.65b/CWI-3.3); Fri, 19 Jan 1996 03:54:12 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA03548; Thu, 18 Jan 1996 18:52:49 -0800
+Date: Thu, 18 Jan 1996 18:52:49 -0800
+Message-Id: <Pine.3.89.9601182112.A3493-0100000@mach1.wlu.ca>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,247 @@
+source file: mills2.txt
+Date: Mon, 14 Jul 1997 23:22:32 +0200
+
+Subject: RE: Basic dimensionality, and related issues
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Graham wrote,
+
+>>On dissonance of composites in general:  it is much easier to form
+>> consonant chords using composite numbers than prime numbers of
+>> about the same size.  As an octave invariant example, 1:3:5:15
+>> includes the interval 15/1.  Try finding an equally consonant 4
+>> note octave invariant chord including 13/1.  If the consonance of
+>> an interval reflects its propensity to form consonant chords, then
+>> composites are more consonant than primes and, in some
+>> circumstances, the metric should handicap high primes accordingly.
+>
+>How does your metric accomplish this?
+>
+>The fact that 15/1 comes up in almost fully consonant chords of the 5-limit,
+>while 13/1 does not, is already enough to handicap 13. Specifically, the
+>chord 1:3:5:15 has a nice compact appearance in the 5-limit lattice, while no
+>chord with 13 in it can be found there at all. (BTW, I think 3:5:9:15 is at
+>least as consonant as 1:3:5:15 -- the triangular lattice gives them the same
+>shape, while the rectangular lattice appears to treat 1:3:5:15 as simpler).
+>
+>The consonance of a chord should not be judged solely by the most complex
+>interval -- all intervals should be looked at, as well as issues of virtual
+>pitch and combination tones. If I was suggesting that the most complex
+>interval alone was enough, I apologize profoundly and take it back.
+>
+>I admit that the metric I was proposing is not very useful if carried over
+>from intervals to chords. I don't think yours does any better in that
+>respect, though. I don't think the lattice concept is appropriate for
+>quantifying the consonance of entire chords, though it might be worthwhile to
+>make a few attempts. I think the appropriate measures for chord consonance
+>are a combination of the existing roughness algorithms (Plomp&Levelt,
+>Kameoka&Kuriyagawa, Sethares) with a "tonalness" algorithm. I have a simple
+>version of the latter -- a better version awaits my very intermittent work on
+>a concept I call "harmonic entropy."
+>
+>Anyway, good point Graham, but I wonder how you answer it yourself. BTW, I
+>think the consonance of an interval has a meaning different from, and without
+>perfect correlation with, the propensity of that interval to occur in
+>generally consonant chords.
+>
+> > >   By fibonacci, what I'm referring to is J. Yasser's fibonacci-like
+>> >sequence of tunings (5 7 12 19 31 50 81...).  (By fibonacci-like I mean
+>> >that the next number in the sequence is the sum of the previous two.)  12
+>
+>> Firstly, wasn't it Kornerup who first identified this sequence?
+>
+>Sure, but in a very different context. Kornerup identified a subset of the
+>ETs consistent with meantone notation and composition and did not include 5
+>in the sequence. Yasser proposed that an evolution of tonality takes place
+>where at each stage, a given member of the sequence is the number of diatonic
+>tones, the previous member is the number of chromatically altered tones, and
+>thus the total number of pitches is the next member of the sequence. After
+>tonality and atonality are exhaused in a given system, the total set of
+>pitches is retuned unequally, and music progresses one Secondly, there are
+>lots of Fibonacci-like scale sequences.
+>Fibonacci+3, for a start.  The special thing about this
+>sequence is that the number of steps in a tone and semitone, or
+>tone and minor third, or minor third and perfect fourth, are
+>neighbouring steps in the Fibonacci series.  Another meantone
+>type ET is 43TET.  12+31C.  Hey ...
+>
+>------------------------------
+>
+>Topic No. 4
+>
+>Date: Sat, 12 Jul 1997 12:40:21 -0400
+>From: "Andrew L. Kaye" <androsky@fast.net>
+>To: tuning@eartha.mills.edu
+>Subject: Re: Carlsberg Beer
+>Message-ID: <33C7B374.B893DD9F@fast.net>
+>
+>
+>--------------466ADBE552939739789B3CF7
+>Content-Type: text/plain; charset-ascii
+>Content-Transfer-Encoding: 7bit
+>
+>Daniel Wolf writes:
+>In my experience, existing psychophysical theories are either weak or
+>culturally local.
+>(There are some minor innate behavior mechanisms associated with sounds
+>- my favorite
+>example is the taste of Carlsberg Beer while listening to particular
+>sine wave frequencies
+>- but the culturally aquired patterns seem to be overriding; see, for
+>example,
+>Gilbert Rouget _Music and Trance_).
+>
+>What is der Karlsberg Effekt? Source?
+>
+>--------------466ADBE552939739789B3CF7
+>Content-Type: text/html; charset-ascii
+>Content-Transfer-Encoding: 7bit
+>
+><HTML>
+>Daniel Wolf writes:
+><BR><I>In my experience, existing psychophysical theories are either weak
+>or culturally local.</I>
+><BR><I>(There are some minor innate behavior mechanisms associated with
+>sounds - my favorite</I>
+><BR><I>example is the taste of Carlsberg Beer while listening to particular
+>sine wave frequencies</I>
+><BR><I>- but the culturally aquired patterns seem to be overriding; see,
+>for example,</I>
+><BR><I>Gilbert Rouget _Music and Trance_).</I>
+>
+><P>What is der Karlsberg Effekt? Source?</HTML>
+>
+>--------------466ADBE552939739789B3CF7--
+>
+>------------------------------
+>
+>Topic No. 5
+>
+>Date: Sat, 12 Jul 1997 09:48:24 -0700 (PDT)
+>From: John Chalmers <non12@deltanet.com>
+>To: Alternative Tuning List <tuning@eartha.mills.edu>
+>Subject: ET, Limits
+>Message-ID: <Pine.SCO.3.96.970712094739.25736A-100000@delta1.deltanet.com>
+>
+>Gary: I think the context makes it clear that I was talking about equal 
+>temperaments and contrasting closed cyclic systems to open, infinite ones.
+>
+>Partch defined limit implicitly and used it in the titles of two chapters
+>(Chapter Seven, Analysis of the 5 Limit, and Chapter Six, Application 
+>of the 11 limit). However, I can find no place where he explicitly 
+>defines it, though it is clear from context (to me, at least) that the
+>Prime Limit of a tuning is determined by the highest prime number used to
+>define ratios in that tuning. Partch does use 9 and mentions 15 as odd
+>numbers 
+>which define ratios, but does not use them to define Limits. He appears 
+>to consider ratios such as 9/8, 81/64, 27/16 and their inversions to be 
+>at the 3 limit.
+>
+>One of the problems with HP's exposition is his technical vocabulary.
+>"Identity" as in the definitions of ratios, e.g.,  "Ratios of 9: those 
+>ratios with identities no larger than 9, in which 9 is present: 9/8, 
+>16/9, 9/5, 10/9, 9/7, 14/9" is not very meaningful as few people would 
+>consider 9 as identical to 1 or any other number (except under the modulo
+>N operation). What he means is "odd multiple" and he carefully
+>distinguishes his concept of identity from that of partial or _"ingredient
+>of Harmonic  Content"_. 
+>
+>Calling the identities "correlatives" does not make the concept
+>appreciably clearer, and he defines the correlatives as the 
+>set 1, 3, 5, 7, 9, 11 ....
+>
+> He further defines Odentity and Udentity according to whether the
+>odd number appears in the numerator (over numbers) or denominator.   
+>
+>At least in Genesis of a Music, HP seems to have restricted the term Limit 
+>to  prime numbers, though odd numbers serve as "Identities" in 
+>defining ratios.  
+>
+>The definition of a Ratio of N is analogous to that of 9 given above. 
+>Replace 9 by N in the first portion and list all ratios in the tuning
+>containing N, but no larger prime, as a factor. It is not necessary to 
+>assume octave equivalence, though Partch does as he uses ratios both as 
+>a labels for tones of his scale and for the relation to a 1/1. Two is thus
+>not considered a ratio defining number in his theory.
+>
+>I can only say that with exposure, his technical vocabulary becomes 
+>clearer.
+>
+>Since the LCM is a function of all prime factors, including 2, and 
+>their powers, the concept of LCM and Prime Limit are very different. 
+>All inversions of both the major and minor triads are at the 5 Limit as 
+>5 is the largest Prime Number that appears in any of them (1:3:5, 4:5:6, 
+>5:6:8, 6:8:10, 10:12:15, 12:15:20, 15:20:24, /1:/3:/5 etc.). 
+>
+>--John
+>
+>------------------------------
+>
+>Topic No. 6
+>
+>Date: Sat, 12 Jul 1997 15:25:07 -0400
+>From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+>To: "INTERNET:tuning@eartha.mills.edu" <tuning@eartha.mills.edu>
+>Subject: Re: Carlsberg Beer
+>Message-ID: <199707121525_MC2-1AB9-D028@compuserve.com>
+>
+>According to Craig Adcock, in _James Turrell: The Art of Light and Space_>,
+>an experiment carried out by Kristian Holt-Hansen in 1968 involving ''Tas>te
+>and Pitch'' tested how the tastes of Carlsberg Lager and Carlsberg Elepha>nt
+>beer were affect by sound: at 650 Hz. for the Elephant and 10-15 Hz. for
+>the Lager, the beer tasted distinctly better. I believe that L. Wechsler
+>gives a different version of the results in his monograph on Robert Irwin>. >
+>
+>I have no idea if or how the taste of Carlsberg Beer has changed over the>
+>years (and personally, I stick to stouts and Roggenbiers), but I anxiousl>y
+>await verification or revision of the results present above. A serious ta>sk
+>for tuning scholars, at last!
+>
+>------------------------------
+>
+>Topic No. 7
+>
+>Date: Sat, 12 Jul 1997 23:26:36 -0400 (EDT)
+>From: Joseph  Downing <jdowning@mailbox.syr.edu>
+>To: tuning@eartha.mills.edu
+>Subject: Re: Perishable tunings and other permutations?
+>Message-ID: <Pine.SOL.3.95.970712232339.28430C-100000@rodan.syr.edu>
+>
+>On Sat, 12 Jul 1997, Charles Lucy wrote:
+>> All this chat about meantone tuning is very interesting, yet it
+>> would seem very difficult to affirm the details of which tunings
+>> were used on keyboard instruments, as the tuning is perishable.
+>> Does anyone have access to physical fretted instruments from the
+>> periods in question, so that fret, nut and bridge distances may
+>> be measured?
+>
+>Of course, the other instrument that if fairly stable in tuning is the
+>organ.  If pipes are 'dead-cut' to 'correct'length,(which was not uncommon
+>in earlier times, and not uncommon now amongst better builders) then it is
+>possilbe to get a fair idea of the builders ideas about tuning.  In fact,
+>a lot of the info about tuning does come from organs, especially organs in
+>poor areas, where the resources were not available to 'up-date' the organ
+>to the latest fancy.
+>
+>Joe Downing,
+>in Syracuse
+>
+>------------------------------
+>
+>End of TUNING Digest 1132
+>*************************
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 14 Jul 1997 23:51 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21053; Mon, 14 Jul 1997 23:52:08 +0200
+Date: Mon, 14 Jul 1997 23:52:08 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA20965
+Received: (qmail 26174 invoked from network); 14 Jul 1997 21:05:42 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Jul 1997 21:05:42 -0000
+Message-Id: <c%ap¬adian-Asset%lRS-970714203308Z-1323@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

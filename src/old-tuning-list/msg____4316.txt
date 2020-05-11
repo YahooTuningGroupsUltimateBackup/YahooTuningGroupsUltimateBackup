@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Sat, 14 Dec 1996 11:39:38 -0800
+
+Subject: mod groups & rhythm
+
+From: James Kukula <kukula@synopsys.com>
+
+Rhythm, or the duration of notes, is structured a lot like pitch. The common
+musical palette for duration is much more limited than than for pitch. But
+the ratio of 2/1 is still the fundamental structure, with 3/2 not far behind.
+
+One idea that follows from this - tempered rhythm! Instead of triplets being
+exactly 3/2 speed, one could speed them up or slow them down a touch. This
+would then permit rhythmic puns.
+
+Rhythm has an extra dimension that pitch doesn't - phase. Two steady
+pulses with the same speed can still differ, they can be offset from each
+other in time. 
+
+Really, pitch and pace - pardon my dread ignorance of proper musical terms -
+are not wholly separate. A steadily repeated click sets up a regular
+pulse at say 3 beats per second. But speed it up to 24 beats per second and
+it's a very deep pitch. Somehow as this pulse/pitch transition is traversed,
+the sensitivity to phase or registration in time is lost. Perhaps that loss
+of phase is just what the transition is about. 
+
+Adding phase makes the mathematical structure messier. Pitch intervals do 
+seem to form a group. Moving one interval after another is the same as moving
+some third interval. With rhythm or pulse, there are two operations. One can
+shift the pulse in time, or change the speed. 
+
+Shifting a pulse back and forth in time looks like a group structure -
+there's a nice inverse. But changing speed is messier. It makes good sense to
+double the speed of a pulse. But if I halve the speed, then there are two
+ways to do this - I need to skip every other beat, but do I choose to skip
+the even or odd beats? So the speed-up operation appears not to have a
+well-defined inverse. 
+
+Jim
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 14 Dec 1996 21:34 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04277; Sat, 14 Dec 1996 21:36:24 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04276
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA29197; Sat, 14 Dec 1996 12:36:21 -0800
+Date: Sat, 14 Dec 1996 12:36:21 -0800
+Message-Id: <199612141535_MC1-D16-AE95@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

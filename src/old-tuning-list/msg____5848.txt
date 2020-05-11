@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Mon, 14 Jul 1997 19:48:41 +0200
+
+Subject: Limits
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Thanks to John Chalmers for the reminder on Partch's terminology. It
+appears that the concept that I've been referring to as "odd-limit" is
+fully consistent with Partch's term "identity", while Partch's usage of
+the term "limit" was not restricted to this definition. In the future,
+then, I will use the term "identity", despite the association with "1"
+that that term might have elsewhere. Then "limit" can be used to mean
+"prime limit," as would suit the needs of JI composers sorting out pitch
+materials, who seem to have a plurality in this digest over those more
+interested in using the term for consonance/dissonance issues.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 14 Jul 1997 19:50 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29936; Mon, 14 Jul 1997 19:50:58 +0200
+Date: Mon, 14 Jul 1997 19:50:58 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA29849
+Received: (qmail 20226 invoked from network); 14 Jul 1997 17:47:44 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Jul 1997 17:47:44 -0000
+Message-Id: <199707141231_MC2-1AD0-B30E@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,79 @@
+source file: m1446.txt
+Date: Sun, 14 Jun 98 01:12:30 +0000
+
+Subject: Re:Re: Microtunable wishlist
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hokay , reality check.
+
+Hate to be a wet blanket, but how many commercial synth co.s do you 
+think are actually ever going to implement realistic microtuning 
+capabilities ? All this wish list stuff  brings out the kid in me ,but 
+I've seen
+synth models com and go, and "the more things change,the more they stay 
+the same".
+>From the responses I've gotten from co.s (except Ensoniq!)after enquiring 
+about microtuning,
+I'd say fat chance. It isn't up there on their list of  "shiny new 
+features that will
+dazzle  music store visitors and seperate them from their money."
+
+Patrick Ozzard-Low's posting and the suggestions in it (in Tuning Digest 
+1443 ,11th June)
+ is  beautiful .BUT,dream on.However, I don't believe it would be 
+difficult to 
+implement.If those engineers can pull off 12 voices of physically modelled
+real-time synthesis (Korg Z1,1cent res,global table), I think they can
+implement the MIDI tuning std. to the letter. Ok, maybe a resolution of 
+0.0061
+would be difficult to pull off,but why not atleast 0.1 cent (1024 
+divisions
+per 12-TET half-step) ? And that menu thing of yours ,Patrick, is very 
+nice (and simple).
+
+Ensoniqs do 0.4, the Marion did 0.2. Kyma uses a plain old Motorola 56002
+and does  @0.01 (0.0026Hz).
+
+Anyhow, I'm not holding my breath for people like Yama- +/- -63-ha , 
+Ro-12note-land,
+E-mu,etc. to give users what they really want. Maybe I'll get the Kyma 
+in a couple of years,or maybe there'll be a capable software synth 
+available 
+soon. The Ensoniq MR/ASR-X are good compromises right now. And,if anyone
+ does do things right ,it'll be them.They DID put in Gary's 88-CET as a 
+reset !
+
+In fact here's what I got from Yuichiro Nagai,Director of Marketing,
+Ensoniq Japan Incorporated,regarding the MR series & ASR-X :
+
+> pitch tables are set up at the instrument
+>level, if you use unisyn you can assign any of the 45 available presets 
+>orload your own via sysex.  There is also a global override that allows you
+>to set tables globally for all tracks.
+>
+>>And,can one switch between different tunings on an individual channel
+>>,perhaps by real-time sys-ex dumps ?
+>Yes they can be changed by sending a NRPN message. We also support The MIDI
+>TUNING STANDARD which allows for single note tuning changes.
+
+And when I asked about user tuning memories;
+>To answer your question, yes the MR and X only have one slot for user 
+>tunings.
+> You can do tunings individually as you have noted though. BUT I think you
+>underestimate the amount of tunings that are available out of the box.  There
+>are all the "standard" alternates and some pretty obscure ones too. Many of
+>our engineers are big fans of alternate tunings.
+
+For PowerMac users there is the Max-MSP combo that will do perfect 
+resolution,
+specified in Hz!,with considerable real-time synth power 
+(albeit with ltd. polyphony) for @ $750. <www.cycling74.com>
+
+Speaking of software synths ,the Retro AS-1 <www.bitheadz.com> and
+Vibra-9000 <www.koblo.com> are analog *modelling* synths 
+that can do equal temperaments only, using  something called *keytracking*
+(I think),that enables you to have more or less notes (per octave  ?).
+
+Cheers,
+Drew

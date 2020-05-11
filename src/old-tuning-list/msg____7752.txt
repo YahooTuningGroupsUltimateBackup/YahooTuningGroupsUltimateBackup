@@ -1,0 +1,58 @@
+source file: m1414.txt
+Date: Tue, 12 May 1998 17:48:16 -0400
+
+Subject: RE: Odd vs. Prime
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Carl Lumma wrote,
+
+>But if I'm breathing, I'm 
+>not at a loss to hear the "3-ness" in the 81/64 or the "5-ness" in the 5/4.
+
+I don't know what you're breathing. Consider the following intervals:
+
+Ratio	Prime Limit	Cents
+34/27	17		399.1
+63/50	7		400.1
+92/73	73		400.5
+29/23	29		401.3
+82/65	41		402.2
+53/42	53		402.7
+77/61	61		403.3
+101/80	101		403.5
+24/19	19		404.4
+115/91	23		405.2
+91/72	13		405.4
+67/53	67		405.8
+43/34	43		406.6
+62/49	31		407.4
+81/64	3		407.8
+100/79	79		408.1
+119/94	47		408.3
+138/109	109		408.4
+19/15	19		409.2
+147/116	23		410.0
+128/101	101		410.1
+109/86	109		410.3
+90/71	71		410.5
+71/56	71		410.9
+52/41	41		411.5
+33/26	13		412.7
+80/63	7		413.6
+47/37	47		414.2
+61/48	61		414.9
+75/59	59		415.4
+89/70	89		415.7
+
+If you have a way of tuning intervals with 0.1 cent precision, hold one
+note constant and sweep the other one through this range. Without
+looking, stop the sweep where you hear 3-ness. Do the same for 7-ness,
+and, if you believe in such things, 13-ness, 17-ness, 19-ness, 23-ness,
+29-ness, 31-ness, etc.
+
+Be honest here. Personally, I hear nothing in this entire range but a
+5/4 giving way to a 14/11. I'd be willing to believe Ken Wauchope if he
+says he can hear a hint of consonance around the 19/15. But qualitative
+differences like the ones between intervals of odd limit 3, 7, and 13? I
+>doubt it!

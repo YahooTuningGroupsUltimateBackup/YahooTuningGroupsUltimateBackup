@@ -1,0 +1,24 @@
+source file: m1514.txt
+Date: Tue, 25 Aug 1998 10:15:52 -0500 (CDT)
+
+Subject: Re: geometrical mean
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Tue, 25 Aug 1998, Paul Hahn wrote:
+>       tune up a (just) 3/2 and a 6/5 to get 9/5 above; tune down a 3/2
+> and then up a 4/3 (again just) to get 8/9 below, then tune the target
+> string (halfway between 10/9 and 9/8, we hope) to beat at the same rate
+> with each of those.
+
+Gack, I messed up.  To get the desired result the upper interval would
+have to beat twice as fast as the lower.  Hmm--I think to get equal
+beating you'd have to do something like this: up to the 5/3, down a
+chain of three 3/2s-4/3s to 27/32.  The desired mean tone would beat
+equally with the 5/3 (a narrow 3/2) and the 27/32 (a narrow 4/3).
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

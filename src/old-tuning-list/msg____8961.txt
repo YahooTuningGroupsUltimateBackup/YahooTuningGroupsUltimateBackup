@@ -1,0 +1,45 @@
+source file: m1607.txt
+Date: Fri, 18 Dec 1998 11:04:00 -0600 (CST)
+
+Subject: tuning bars
+
+From: William Sethares <sethares@eceserv0.ece.wisc.edu>
+
+About scaling steel bars for tuning...
+
+Heres one way to go about it, though of course even the best laid 
+calculations will require fine tuning once youre done, but this should 
+get you close. A hint: always cut the bars a tiny bit too long, since its 
+much easier to file off the extra than to try and reintroduce it 
+afterwards...
+
+Say the pitch (fundamental) of the chime is at frequency f1, its got 
+length L1 and radius r1. Then 
+
+f1 = P  r1/ (L1^2)
+
+(the denominator here is L1 squared)
+and P is a constant that depends on Youngs modulus, the density of 
+the material and a bunch of other things that will turn out to be 
+irrelevant.
+
+Similarly, the fundamental of the second bar is at
+
+f2= P  r2/ (L2^2)
+
+where r2 is the radius and L2 the length.
+
+Now divide these two equations to get
+
+f2/f1 = (r2 L1^2 ) / (r1 L2^2 )
+
+where the constant P has disappeared.
+You can use this formula to approximate the tuning for uniform bars 
+of different lengths and radii. For instance, if you use the same 
+radius material, then both r1 and r2 drop out. Let the ratio f2/f1 be 
+how you want the two tuned in relation to each other, and then solve 
+for L2.
+
+Hope this helps
+
+Bill Sethares

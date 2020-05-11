@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Sun, 5 Jan 1997 11:30:48 -0800
+
+Subject: strings and things
+
+From: William Sethares <sethares@eceserv0.ece.wisc.edu>
+
+The problem of figuring out the partials that will sound when a 
+nonuniform string is plucked is dealt with in 
+
+Kalotas and Lee, ``Transverse modes of a string with variable mass 
+density", Acustica Vol 76 (1992).
+
+This paper provides a matrix method that allows you to segment the 
+string into sections, each with its own properties, and to then 
+calculate the partials of the complete system. Thus, for Gary's twist 
+tie string, you could divide the string into three parts, (regular string 
+on left and right, twist tie version in middle) and use Kalotas' 
+method. 
+
+However, the inverse problem is far more interesting from a musical 
+perspective: define a desired set of partials, and find a string with 
+contour so as to generate the desired partials. Unfortunately, this 
+inverse problem is as yet unsolved. 
+
+On a slightly different topic, Glen said: I can't imagine the air 
+conducting the sound from one string to the other.
+
+I believe that sympathetic strings do indeed work by transferring 
+the energy through the air. As a simple experiment, sing into a string 
+on a guitar, and you can easily set the string to vibrating 
+(sympathetically) with your voice. 
+
+
+-Bill Sethares
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 5 Jan 1997 22:07 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02024; Sun, 5 Jan 1997 22:10:52 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02022
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA25131; Sun, 5 Jan 1997 13:10:49 -0800
+Date: Sun, 5 Jan 1997 13:10:49 -0800
+Message-Id: <199701051608_MC1-E34-DC2A@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,36 @@
+source file: mills2.txt
+Date: Thu, 12 Dec 1996 18:11:10 -0800
+
+Subject: Re: McLaren on Group Theory, etc.
+
+From: Gordon Collins <gcollins@ctisinc.com>
+
+Dear me, dear me.  I've been lurking on this list for a few weeks,
+waiting to get a feel for it, but I must rise up now in defense of
+mathematics.  Yo, Brian!  Get yourself a good book on Number Theory.
+Hardy & Wright is a good choice.  (Yes, that's *Number* Theory, not
+*Group* Theory.  The integers modulo N do form a group under addition,
+but that is not relevant to your post.  Issues of compositeness and
+relative primality are pure Number Theory.)  In said book you will
+discover that 7 mod 12 -5, not 5, and that yes-indeedy-do there are 12
+(count 'em: 12 !) distinct equivalence classes modulo 12.
+
+Faulty whole-number mathematics on the tuning list?  For shame!
+
+Gordon Collins
+Yet another harpsichordist who has forever abandoned the harsh world of
+12TET
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 13 Dec 1996 05:36 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06341; Fri, 13 Dec 1996 05:38:30 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA05585
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id UAA03457; Thu, 12 Dec 1996 20:38:26 -0800
+Date: Thu, 12 Dec 1996 20:38:26 -0800
+Message-Id: <32B0DD6E.347D@ix.netcom.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

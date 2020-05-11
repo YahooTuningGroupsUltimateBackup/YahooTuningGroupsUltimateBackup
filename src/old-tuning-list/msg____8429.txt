@@ -1,0 +1,103 @@
+source file: m1521.txt
+Date: Tue, 1 Sep 1998 00:00:38 -0700 (PDT)
+
+Subject: Re: XH 17: David Finnamore's response
+
+From: "M. Schulter" <mschulter@value.net>
+
+> That's helped me make more sense of a set of 7-(prime)limit,
+> 12-tone/2:1 tunings, the heptatonic subsets of which I've been
+> exploring for use with what might be thought of as
+> neo-/Xeno-Medieval/Gothic/Rennaissance compositions (for lack of
+> more concise term :-).  Those tunings are built of five alternating
+> 21:20s and 15:14s, with two 256:243s sandwiched in here and there to
+> fill out the octave.  Note that 9:8 can be divided into 21:20 and
+> 15:14.
+
+Hello, there, and I guess that such a tuning might look like this:
+
+     15:14     189:160            10:7     45:28     567:320
+    119.44     288.38            617.49   821.40     990.33  
+      c#'        eb'               f#'      g#'        bb'
+ _119.4|84.5_84.5|119.4_     _119.4|84.5_119.4|84.5_84.5|119.4_    
+ c'         d'         e'    f'         g'         a'         b'   c''
+1:1        9:8       81:64  4:3        3:2       27:16   243:128  2:1
+ 0        203.91    407.82 498.04    701.96     905.87   1109.78 1200
+    203.91     203.91    90.22   203.91    203.91   203.91    90.22
+
+Here are some quick comments, hoping that the above interpretation of
+your scheme is (at least mostly) right.
+
+The idea of leaving the Pythagorean whole-tones (9:8) and diatonic
+semitones at e-f and b-c' (256:243) unaltered, but changing the
+divisions of the whole-tones into semitones, occurs in some medieval
+and Renaissance sources. 
+
+However, these schemes tend either to minimize the contrast between
+the usual Pythagorean diatonic and chromatic semitones -- around 90.22
+cents and 113.69 cents -- or indeed to make them precisely equal. A
+14th-century organ-pipe plan dividing the tone by pipe ratios of
+18:17:16 (roughly 99.95 cents-104.96 cents), and the scheme of
+Henricus Grammateus (1518) to achieve a true equal division of the 9:8
+tone by Euclidean methods (about 101.955 cents) are examples.
+
+In contrast, your scheme slightly accentuates the difference between
+the diatonic and chromatic semitones, respectively 21:20 (about 84.5
+cents) and 15:14 (about 119.4 cents). Apart from adding a bit of extra
+contrast, this tuning has the advantage of not drastically
+compromising the fifths Bb-F and B-F#' in the way that either the
+18:17:16 or Grammateus tunings do, making one or both intervals more
+than 10 cents from a just 3:2. The actual compromise of 5.76 cents or
+so, a bit less than 1/4 Pythagorean comma, should be much less
+disadvantageous.
+
+Your arrangement has the interesting property of producing augmented
+fourths and diminished fifths of precisely 10:7 and 7:5.
+
+Another consequence, quite consonant (pun intended) with the desire of
+Marchettus of Padua (1318) for _very_ wide cadential major thirds and
+sixths (and narrow cadential semitones), is to make these intervals
+about 5.76 cents larger than usual Pythagorean size when they involve
+accidentals (e.g. e-g#, eb-c'). In these cadences M6 is 320:189, or
+about 911.62 cents, while M3 is 80:63, or about 413.58 cents.
+
+These last intervals, interestingly, vary from 5:3 and 5:4 by a
+septimal comma (64:63), a neat 7-limit connection. Again, the tuning
+stays fairly close to Pythagorean but tends to give it a bit of an
+extra edge.
+
+Having shared these first impressions, please let me return to some of
+your other comments.
+
+> Is it accepted practice to refer to primes as "complex"?  Aren't
+> primes, by definition, the simplest whole numbers?  Perhaps "highest
+> prime number" would be a better way to state it?
+
+This sounds like an excellent point: "highest" or "greatest" or
+"largest" prime indeed seems clearer to me.
+
+>> the septimal minor seventh (7:4) also becomes literally and
+>> figuratively a "prime factor" in defining the scale,
+
+> Figuratively?  How do you mean?
+
+What I meant was a kind of play on words: in such a tuning, 7:4 is a
+"prime factor" not only in the mathematical sense of 7 being a prime,
+but in the figurative sense of being a "principal" or "very important"
+factor in defining the scale and some of the possible sonorities.
+
+> David J. Finnamore
+
+Thank you again both for your helpful suggestions on my review of
+articles by Paul Erlich and Brian McLaren in XH 17, and for your
+intriguing scale -- hoping I got it mostly right.
+
+Most appreciatively,
+
+Margo Schulter
+mschulter@value.net
+
+------------------------------
+
+End of TUNING Digest 1521
+*************************

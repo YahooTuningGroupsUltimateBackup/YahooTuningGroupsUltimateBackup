@@ -1,0 +1,64 @@
+source file: mills2.txt
+Date: Mon, 7 Oct 1996 06:49:07 -0700
+
+Subject: tunable synths
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+<shameless plug ON>
+
+>Here in detail are the models (by manufacturer) :
+>
+>ENSONIQ
+>Mirage - Full keyboard, 256 parts per octave or
+>            4096/octave by entering all 60 notes
+>            Requires Dick Lord's UPWARD CONCEPTS
+>            alternative operating system disk or
+>            Buzz Kimball's alternative OS disk.
+>ESQ-1, ESQ-M, SQ-80 - Only retunable within 12 notes
+>            per octave. Details published in a 1986 
+>            KEYBOARD magazine article.
+>VFX, VFX- SQ, TS-10 -  Full keyboard, 768 parts per octave.
+             Over 30 tunings in ROM.             
+>EPS, EPS-16+, ASR-10 - Full keyboard, 768 parts
+>            per octave.  Tuning is stored on disk along 
+>            with the sound sample.
+>SQ-1, SQ-1R - NOT RETUNABLE!
+>Also, none of Ensoniq's dedicated piano modules are
+>retunable.
+
+To this I would add:
+MR-Rack, MR-61, MR-76 - Rack mount and full keyboard, 1536
+parts per octave.  Stores one global RAM                 user tuning that
+can be downloaded via MIDI Tuning
+Standard dump messages and edited on the fly 
+with MTS note change.  Over 40 tunings in ROM.
+>ESQ-1, ESQ-M, SQ-80, 
+>SQ-1, SQ-1R - Can be retuned to different ET's with a               coarse
+but sometimes usable resolution.
+
+See my series in the Transoniq Hacker http://www.transoniq.com/~trnsoniq/
+April-June 1995 for details on tuning ALL the Ensoniq synths.  Also see the
+web page (www.ensoniq.com) for general specs.
+
+<shameless plug OFF>
+
+regards,
+
+Steve Curtin
+Ensoniq Corp
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 7 Oct 1996 17:25 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03670; Mon, 7 Oct 1996 16:26:41 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA03677
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA29855; Mon, 7 Oct 1996 08:26:32 -0700
+Date: Mon, 7 Oct 1996 08:26:32 -0700
+Message-Id: <63961007144636/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

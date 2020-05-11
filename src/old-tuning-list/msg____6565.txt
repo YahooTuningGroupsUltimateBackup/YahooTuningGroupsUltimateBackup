@@ -1,0 +1,109 @@
+source file: mills3.txt
+Date: Tue, 9 Dec 1997 01:44:47 +0100
+
+Subject: More on the 19-tone Equal Temperament
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+My comments on the intervals of 19-tone equal at the limit of human
+perception seem to have provoked some disbelief. I am indeed serious. Of
+course anyone can distinguish between tones as little as 5-10 cents
+apart in successive hearings. But if one substitutes one such tone for
+the other in a given melody, not one person in a thousand will identify
+that _melody_ as different. This is what I mean. I can make myself no
+plainer. I grant that melodies wherein one substitutes one of the
+degrees of the 22-tone or 24-tone equal for an adjacent degree, do
+occasionally (not usually) produce a change in melody if one of the
+degrees is highly consonant. Adjacent degrees of the 31- and 34-tone
+equal _never_ produce such a change in melody to my ears. Naturally
+there may be exceptional individuals with more acute powers of
+discrimination, though I doubt it. But music is written for the many,
+not the few.
+
+55-60 cents as the limen of intervallic perception is well-established
+in the literature. Pratt for example in his Meaning of Music, as I
+recall, found a value "just wider than a quarter-tone", and Seashore &
+Jenner found a value between 53 and 61 cents.
+Naturally no one should accept these results without making trial for
+himself. I find however that my own ears are fully in agreement with
+these results.
+
+There is nowadays a disposition to be suspicious of anyone who ventures
+to condemn _any_ system of tuning. The presumption seems to be that
+everything is good for something. The advocates of the 12-tone equal
+have often been willing to use any argument to defend their chosen
+system (e.g. the egregious Barbour, who ventured to write a book on
+tuning, having never heard any tuning system other than the 12-tone
+equal) and this perhaps, by a kind of reaction in favor of
+experimentation, has induced many to doubt that any standard tuning
+system should exist. This is emphatically not the attitude of the great
+artists of the past, whose work depends as much on calculated limits as
+on absolute freedoom. Nor was this the attitude of musical theorists of
+the past, who tended rather to automatically dismiss all tunings that
+did not conform to quite specific and demanding requirements. And I am
+far from certain that their attitude was merely benighted. A temperament
+which results in continual whining dissonances in place of consonances
+may interest a few, but will never displace the 12-tone equal, nor
+should it. Music which innovates too radically is somewhat in the case
+of poetry which should adopt so many new words that the sense is
+obscured.
+
+I have observed that rock singers use a great many third tones; there is
+seldom a popular melody nowadays without them. This perhaps is what
+makes rock melody so much more pleasing to the masses than the 12-tone
+melodies of the last century, which are now almost wholly disregarded. I
+suspect that if 12-tone equal is ever dethroned, it will be by rock
+instrumentalists wishing to reproduce the subtler, necessarily 19-tone
+melodies of their vocalists.
+
+All tuning systems which are not mere noise, reduce approximately either
+to the 12-tone or the 19-tone equal, melodically considered. This
+follows inescapably from the principle of the melodic limen. 31-tone
+equal for example reduces melodically to the 12-tone equal (with a few
+exceptions where the augmented tone occurs, where it has rather a flavor
+of the 19-equal), because the adjacent degrees of the 31-tone equal are
+confounded in melody. 17- and 22-tone equal do possess a certain melodic
+independance, but are so seething with sour dissonances that they are
+really not worth discussing.
+
+I have used tree diagrams to examine all the possible heptatonic modes
+of the 19-tone equal that have a modicum of consonant intervals and
+chords, hence the four new modal genera, which I have previously
+suggested might profitably be added to the diatonic. In harmony these 28
+new modes constitute what may be called the chromatic music, whose
+existence has been hitherto intuited, but never plainly defined.
+
+It is fascinating that Francisco Salinas in the 16th century in his De
+Musica observed that the 1/3 comma mesotonic (virtually equivalent to
+the 19-tone equal) would alone permit the realization of the enharmonic
+genus of the ancients. This is indeed the case, of which more
+later.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Aline Surman <stick@dnvr.uswest.net>
+Subject:  lutes again
+PostedDate:  09-12-97 03:17:08
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  09-12-97 03:15:21-09-12-97 03:15:22,09-12-97 03:15:09-09-12-97 03:15:10
+DeliveredDate:  09-12-97 03:15:10
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256568.000C6010; Tue, 9 Dec 1997 03:15:10 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10202; Tue, 9 Dec 1997 03:17:08 +0100
+Date: Tue, 9 Dec 1997 03:17:08 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA10198
+Received: (qmail 9133 invoked from network); 8 Dec 1997 18:17:06 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Dec 1997 18:17:06 -0800
+Message-Id: <348CB3A9.6D90@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

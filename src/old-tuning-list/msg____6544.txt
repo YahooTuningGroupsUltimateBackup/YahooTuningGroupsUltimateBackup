@@ -1,0 +1,121 @@
+source file: mills3.txt
+Date: Sat, 6 Dec 1997 03:39:29 +0100
+
+Subject: An Odd Clef for 88CET Guitar?
+
+From: mr88cet@texas.net (Gary Morrison)
+
+An interesting series of thoughts popped into mind recently regarding
+notation for my 88CET guitar.  My 88CET-tuning notation system uses
+traditional notation symbols, although the pitches don't correspond to what
+they would in traditional tuning.
+
+   Well, my notation system is another big topic in itself, but what
+matters for this discussion is that, in this notation system, the pitches
+that correspond to my 88CET guitar's practical pitch range aren't terribly
+practical for any traditional clef.  And since this is a nonoctave-based
+tuning system, doing what in traditional tunings would be called an octave
+transposition, like the real guitar does, is kind of risky.
+
+   That practical range works out to the A on the third ledger line below
+the bass staff up to the F on the top line of the treble staff.  Notes
+above that F are feasible, but not terribly common.  As you can see, it's
+also not centered nicely for a full grand staff.
+
+   So, I'm toying with kind of an offshoot of the ol' Baroque-era movable
+clef approach, or perhaps kind of a hybrid of that with a grand staff.
+
+   Here's the evolution of thought as it ran through my head:  Of any of
+the traditional clefs, that range of notes centers best on the tenor clef:
+The low A works out to be five ledger lines below the tenor staff, and the
+high F works out to four ledger lines above the staff.  But even still,
+four and five ledger lines is a little cumbersome, especially since it can
+play higher than that F.  So I then said, I can cut that down to three and
+four ledger lines by employing a seven-line staff - one additional
+non-ledger line below and above the usual bottom and top lines of the tenor
+clef.  That makes keeping track of ledger lines a little bit more
+tractable.
+
+   Then I thought, you know, I'd almost bet money that it would be easy to
+lose your place on a seven-line staff.  It would probably be easy to
+confuse for example, the A on middle (fourth down) line with the C on the
+third line down.  That distinction will probably be a rather unfortunate
+additional complication when you're trying to also trying to monitor your
+tone, that your fingers are right behind the frets, remember where the beat
+is, which fingers (left and right!) you're going to play the next note, and
+all that in three part harmony in eighths and sixteenths at 100bpm!
+They'll probably both look like "notes buried somewhere in the middle of
+this big, fat staff"!
+
+   So what popped into mind was, as a navigational aid, how about removing
+the center (A) line?  The result would look something like this (in this
+dreadful ASCII-text graphics world!):
+
+                                      -O-  Highest typical note
+                                      ---
+                                      ---
+                            ++-^---------------------
+                            ++o-/--------------------
+                            ||<>-------"-------------  1st (D)
+                            ++o \     -O-              2nd (A)
+                            ++-v---------------------
+                            -----------O-------------  3rd (D)
+                            -------------------------
+                                      -"-  Open 4th string (A)
+                                      ---
+                                      -"-  Open 5th string (D)
+                                      -O-  Open 6th string (A)
+
+   So what you have is kind of like two three-line staves in a
+grand-staff-line structure, all built around the C clef.  That except that
+the two staves would have no more space between them than that left by
+removing the center line, rather than the usual greatly enlarged space
+between treble and bass staves.
+
+   Anybody have any thoughts on that, in terms of playability, for example?
+Or how about thoughts on extending that one line farther in each
+direction?
+
+                                      -O-  Highest typical note
+                                      ---
+                            -------------------------
+                            ++-^---------------------
+                            ++o-/--------------------
+                            ||<>-------"-------------  1st (D)
+                            ++o \     -O-              2nd (A)
+                            ++-v---------------------
+                            -----------O-------------  3rd (D)
+                            -------------------------
+                            -----------"-------------  4th (A)
+                                      ---
+                                      -"-  Open 5th string (D)
+                                      -O-  Open 6th string (A)
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Tuning-List Tape
+PostedDate:  06-12-97 06:32:49
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  06-12-97 06:31:07-06-12-97 06:31:07,06-12-97 06:30:57-06-12-97 06:30:58
+DeliveredDate:  06-12-97 06:30:58
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256565.001E4BE8; Sat, 6 Dec 1997 06:30:55 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07798; Sat, 6 Dec 1997 06:32:49 +0100
+Date: Sat, 6 Dec 1997 06:32:49 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07801
+Received: (qmail 12767 invoked from network); 5 Dec 1997 21:32:45 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 5 Dec 1997 21:32:45 -0800
+Message-Id: <v01541100b0ae3dcfba89@[207.207.2.43]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

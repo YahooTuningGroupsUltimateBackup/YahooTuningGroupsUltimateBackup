@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Fri, 2 May 1997 06:55:57 -0700
+
+Subject: Re: Suggestions on cabinet building
+
+From: Steven Rezsutek <steve@synapse.gsfc.nasa.gov>
+
+Denis.Atadan@mvs.udel.edu writes:
+
+> This post doesn't have as much to do with tuning as it does with
+> sound. I'm hoping to build a pair of matched leslie-type speakers
+> but currently I don't know much about the acoustics of cabinet
+> building. Does anyone know of a good book that would act as a
+> practical reference source for this sort of thing. 
+
+It won't help with the rotating component aspects of a leslie cab,
+and, in fact, I don't even know where to look for something like that
+off hand, but probably the best book around for the other aspects of
+speaker cabinet design is "The Loudspeaker Design Cookbook" by Vance
+Dickason.  I believe it is published by the folks who do "Audio
+Amateur" and "Speaker Builder" magazines, but you can get it from
+nearly anyplace that caters to amateur speaker builders, like
+Madisound or Parts Express.
+
+I've only designed one cabinet (yet to be assembled, so I don't know
+how well I did), so there isn't much I could tell you that Dickason
+wouldn't do a much better job at.  
+
+Hope this helps,
+
+Steve
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 3 May 1997 03:32 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03262; Sat, 3 May 1997 03:32:43 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03300
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id SAA24281; Fri, 2 May 1997 18:30:52 -0700
+Date: Fri, 2 May 1997 18:30:52 -0700
+Message-Id: <970502212628_214441905@emout12.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

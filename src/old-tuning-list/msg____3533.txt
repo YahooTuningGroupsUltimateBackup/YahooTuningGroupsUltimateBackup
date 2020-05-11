@@ -1,0 +1,217 @@
+source file: mills2.txt
+Date: Wed, 4 Sep 1996 17:45:48 -0700
+
+Subject: CDR Recording Problems - Mac
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Please forgive the length of this post, but since Brian pointed out that
+CDR-writing technology isn't quite there, I figured I'd ask a friend who's been
+monitoring the situation, if the Mac situation might be a little different.
+Since Macs have been in the "DAW" (Digital Audio Workstation) market for several
+years longer than PCs, perhaps the situation might be better.
+
+
+--------------- Forwarded Message ---------------
+
+From: 	Bill Meadows, INTERNET:mrbill@fantasia.sps.mot.com
+To: 	Gary Morrison, 71670,2576
+Date: 	3 Sep 1996 , 11:05 AM
+
+RE: 	Re: CDR Recording Problems
+
+Sender: mrbill@fantasia.sps.mot.com
+Received: from spsgate.sps.mot.com (spsgate.sps.mot.com [192.70.231.1]) by
+dub-img-7.compuserve.com (8.6.10/5.950515)
+        id LAA27286; Tue, 3 Sep 1996 11:57:39 -0400
+Received: from mogate (mogate.sps.mot.com) by spsgate.sps.mot.com
+(4.1/SMI-4.1/Email 2.1 10/25/93)
+        id AA24013 for 71670.2576@CompuServe.COM; Tue, 3 Sep 96 08:57:37 MST
+Received: from txbc.sps.mot.com by mogate (4.1/SMI-4.1/Email-2.0)
+        id AA23433 for 71670.2576@CompuServe.COM; Tue, 3 Sep 96 08:57:36 MST
+Received: from fantasia.sps.mot.com by txbc.sps.mot.com with SMTP
+        (1.38.193.4/16.2) id AA05405; Tue, 3 Sep 96 10:57:35 -0500
+Received: by fantasia.sps.mot.com (4.1/SMI-4.1)
+        id AA21370; Tue, 3 Sep 96 10:58:34 CDT
+Date: Tue, 3 Sep 96 10:58:34 CDT
+From: mrbill@fantasia.sps.mot.com (Bill Meadows )
+Message-Id: <9609031558.AA21370@fantasia.sps.mot.com>
+To: 71670.2576@CompuServe.COM
+Subject: Re: CDR Recording Problems
+
+
+Well, given the temperment of some subscribers to daw-mac, if all CD-R burners 
+yielded 60% error rates, there would be fires, pipe-bombs and assasinations of 
+company execs!!!
+
+The "image file" requirement seems to be dependent on both software and
+hardware. 
+Generally 4x writes require it, 2x don't. I think I read recently that Toast 
+CD-Pro software may NOT require an image file (but I'm not sure if that's for 
+4x writes.) 4x writes do seem to require a lot of user overhead, and are very 
+dependent on fast hard drives, busses, uninterrupted CPU time, etc.
+
+Multiple session writes seem to be hardware dependent, so machines support it, 
+some don't. Again, your software has to support it also. It apparently is NOT 
+highly recommended because certain track info is only written to disk when 
+you are done, so your file integrity is in jepardy until then. Handling the disk
+
+between sessions could render it unusable.
+
+>From what I can tell from daw-mac, seems like most people are happy with their 
+Yamaha CD-R, both CDE-100 and CDE-102 gets good marks. Digidesign MasterList CD 
+and Astarte Toast (various versions) also seem popular. 
+
+I have no idea about half-life. I've never heard any complaints, but who knows? 
+They ARE delicate, so storage and handling are important (who touches their 
+audio CDs anyway?) 
+
+Either Electronic Musicain or Keyboard (maybe both) recently ran an article 
+comparing various CD-R options.
+
+Below are a few daw-mac related mesaages.
+
+mr "I'm waiting for now" bill
+
+--------------- MESSAGE daw-mac.v003.n355.3 ---------------
+
+From: MMkrs@aol.com
+Subject: Re: CD-R input
+Date: Thu, 29 Aug 1996 10:46:34 -0400
+
+> We are starting the search for a new CD-R machine. It must be compatible
+> with Toast and be able to write multi-sessions, audio only cds, enhanced
+> cds, hybrid format Director projects, and of course do the standard cd
+> archieve stuff. Anybody have an opinion/experience with such a beast?
+> Please e-mail responses to michelet@lodgenet.com.
+
+Yamaha CDE-100 with Toast CD-ROM Pro 3.0.
+
+M. Hans Liebert
+Music Makers, Inc.
+NYC
+mmkrs@aol.com
+--------------- MESSAGE daw-mac.v003.n352.2 ---------------
+
+From: Jeff Ulmer <jeffu@iceonline.com>
+Subject: Re: Masterlist CD or...
+Date: Mon, 26 Aug 1996 10:43:31 -0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+>According to an Astarte distributor I spoke with at Macworld earlier this
+>month, the next release (I don't recall the version number) is due sometime
+>this fall, and it's feature set will be very similar to Masterlist CD.
+>Price will be about US$450 (+/- my memory lapse).  Owners of the current
+>version of Toast CD-DA or Toast CD-ROM Pro will be offered a discounted
+upgrade price.  For more info, email <info@astarte.de>
+
+According to my latest price list, Masterlist CD has dropped in price to
+$495 US. The only problem with the CD DA software is that it requires
+Digi's sound drivers in order to play back through your Digi setup,
+which in my case wouldn't work. I have used Toast for non audio stuff in
+the past and it works well.
+
+
+
+--------------- MESSAGE daw-mac.v003.n352.11 ---------------
+
+From: "D. Davis" <dlincoln@iac.net>
+Subject: Re: Backups, Jaz, CDR
+Date: Tue, 27 Aug 96 06:25:18 -0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="US-ASCII"
+
+George Ludwig <george@xmt.madcap.com writes:
+
+>2. If I get a CDR it would be kinda handy for doing one-off CDs, and for 
+>backup purposes the media would be a lot cheaper. Guitar Center is currently
+>selling the Yamaha CDR102 for 799.99 Does anyonehave any opinion on this?
+>Also, Guitar Center will sell the Astarte CD ROM Pro software for 99.99 w/
+>purchase of the CDR102 (stock it includes Toast software). Would I pretty 
+>much
+>need the optional software or is the Toast software not lame?
+
+The Yamaha is a great drive... very reliable and well made.
+
+CD-ROM Pro is good but it is better for things like backups than it is 
+for audio discs.  CD-DA is their audio disk software and is very nice.  
+With CD ROM Pro you have no control over PQ coding and such so you're 
+stuck with 2 second gaps and, I believe, track-at-once mode.
+
+-d-
+
+------------------------------
+
+
+From: nick@fciad2.bsd.uchicago.edu (Nick Yasillo)
+Subject: CD-R drives/ Software
+Date: Wed, 26 Jun 96 00:29 CDT
+
+
+For anyone planning on purchasing a new CD burner or thinking of 
+getting some new CD-R software, there is a must-see article titled:
+"CD Recordable Software, A Macintosh Compendium" published in
+the June, 1996 issue of a magazine called CD-ROM Professional.
+ISSN- 1049 - 0833,   Online, Inc.,   462 Danbury Road, Wilton CT
+phone 203-761-1466
+ 
+The (7) page article includes an excellent overview of all of the differences
+between the various multimedia and audio formats.  The best part of this
+article, however, has to be the (2) full pages of Feature Comparison Charts 
+which show exactly which features in each of (8) CD-R programs will 
+work on each of (7) single disc CD-R burners and (6) jukeboxes.
+ 
+Although some of the articles in this magazine are available on the net at:
+         http://www.onlineinc.com/cdrompro/index.html   
+this article is not included.
+ 
+The classified ads in this mag are also worth taking a look at.  There is an 
+outfit which will supply blank CDRs which have custom screen printing 
+already applied, and there are lots of sources of blank discs, with some at 
+prices as low as US $ 5.95 ea.
+ 
+Hope this helps somebody.
+ 
+Nick Yasillo
+
+
+--------------- MESSAGE daw-mac.v003.n242.7 ---------------
+
+From: ashdot@netvision.net.il (ashdot)
+Date: Wed, 20 Mar 1996 12:12:01 +0300 (IDT)
+Subject: Re: Sony CDR
+
+>Does anyone know if the Sony CDU920s being offered for sale at 799.00 from ...
+
+>is a useful (for audio) unit and is it a good buy?
+
+Yes, we have one and use it all the time, both for CDROM back up and
+Masterlist CD audio mastering.
+
+Izhar
+
+******************************************************************************
+                     Izhar Ashdot Productions Ltd.
+                          Tel Aviv, Israel
+
+              Izhar's Home Page: http://shani.net/ashdot
+
+------------------------------
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 5 Sep 1996 02:47 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19874; Thu, 5 Sep 1996 02:48:58 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA19950
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA24568; Wed, 4 Sep 1996 17:48:57 -0700
+Date: Wed, 4 Sep 1996 17:48:57 -0700
+Message-Id: <960905004238_71670.2576_HHB55-11@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

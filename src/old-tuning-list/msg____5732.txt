@@ -1,0 +1,64 @@
+source file: mills2.txt
+Date: Wed, 2 Jul 1997 20:28:01 +0200
+
+Subject: Re: the 6th chord and odd-limit theory
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+I've got this almost completely sorted out now, and I don't even
+need matrices to explain it.  If I'm repeating anyone here, it's
+because I thought a different approach would be helpful.  I'm not
+behind on the list or anything like that.
+
+All the numbers we'll be meeting today will be odd, so I won't say
+so every time.  Numbers with more than one prime factor have a
+special significance, so I'll call them "rhubarb numbers" for want
+of knowing a better term.
+
+First choose a number m.  Either n or m, or both, must be
+composite. m<n.  n and m  must not share a common factor.
+Providing neither m nor m are rhubarb, a saturated n-limit chord
+can be constructed form all the divisors of n*m except n*m and 1.
+This chord will be it's own utonal analog.
+
+Examples are the two 9-limit saturated chords already found.
+Also, the 11-limit s-chord 33:11:9:3, the 25-limit s-chord
+75:45:25:15:9:5:3 and the 35-limit s-chord
+105:63:45:35:21:15:9:7:5:3.
+
+When mj is rhubarb, we have a problem.  The intervals n*i/j and
+n*j/i will be beyond the n-limit.  The same problem occurs when
+nj is rhubarb unless i>m and j>m, so that i*m<n and j*m<n.
+This problem complicates matters, but is not insuperable as I
+shall demonstrate with the example n, m
+
+This gives us the chord 35:21:15:7:5:3.  The intervals 35/3 and
+21/5 are >15-limit.  Therefore [21 or 5] and [35 or 3] must be
+removed.  If 35 and 21 are removed, we have a 15-limit otonality.
+Removing 5 and 3 gives its utonal analog.  The choice is then
+removing [21 and 3] or [35 and 5].  The resulting chords 15-limit
+s-chords 35:15:7:5 and 21:15:7:3 are then otonal/utonal analogs.
+
+I otonal/utonal pairs will arise whenever the rhubarb prooblem
+occurs.  I haven't looked at any cases where n and m are both
+rhubarb.  The first of these is n5, m3.  Doubly rhubarb
+numbers can safely be ignored until someone starts writing 105-
+limit music.
+
+That should be all you need to know.
+
+                         Graham
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 2 Jul 1997 21:11 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA27131; Wed, 2 Jul 1997 21:11:29 +0200
+Date: Wed, 2 Jul 1997 21:11:29 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA27114
+Received: (qmail 28383 invoked from network); 2 Jul 1997 19:11:19 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 2 Jul 1997 19:11:19 -0000
+Message-Id: <19970702190816.28139.qmail@ella.mills.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

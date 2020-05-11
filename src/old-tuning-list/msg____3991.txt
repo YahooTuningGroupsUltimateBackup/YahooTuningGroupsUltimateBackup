@@ -1,0 +1,60 @@
+source file: mills2.txt
+Date: Tue, 12 Nov 1996 18:12:26 -0800
+
+Subject: generalized keyboard
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+All-
+	Brad Busley, our instrument maker (scientific instruments) at 
+University of Colorado at Denver Physics holds some basic patents (or 
+pending patents) on aspects of membrane technology for generalized 
+fingerboards for guitar like instruments. His work centers around a 
+pressure and position sensitive membrane that reads the finger position 
+on the "fingerboard" and translates position to pitch (which of course is 
+software assignable to anything MIDI can handle). Finger pressure can 
+then be translated into any controller stream desired. Brad can be 
+contacted at bbusley@carbon.cudenver.edu. Be warned, he's quite busy and 
+a little email negligent. 
+
+	I have designed, but not implemented, a generalized keyboard as
+follows:   
+
+A position and pressure sensitive membrane is connected via software to 
+
+1) Display a pitch area screen on the computer, which can then be divided 
+into pitch regions either with finger pressure tracing out the regions or 
+with a mouse on the screen or other means.
+
+2) Assign pitch (or pitches) to the regions.
+
+3) Act as a "keyboard" in accordance with software rules definable by the 
+user.
+
+	A keyboard of this type can of course use pressure as well as 
+position WITHIN a pitch region to modify pitches in any manner acceptable 
+to MIDI. One could, for instance, have side to side position within the
+pitch region bend the pitch, up and down motion in the region change timbre
+and finger pressure control the amplitude. Time, demand and money are all 
+that is keeping a generalized keyboard of this sort from the market. The 
+technology exists and the programming for something like this is not 
+exceptionally difficult.
+	I am posting a schematic of this keyboard on my web page the 15th 
+of this month. Let me know what you think of the idea.
+	My web page is http://www-math.cudenver.edu/~jstarret. Yes, that 
+really is a dash after www.
+
+John Starrett 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 13 Nov 1996 03:45 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02169; Wed, 13 Nov 1996 03:46:26 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02154
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id SAA13555; Tue, 12 Nov 1996 18:46:20 -0800
+Date: Tue, 12 Nov 1996 18:46:20 -0800
+Message-Id: <Pine.A32.3.91.961112192359.23757B-100000@tiger.cudenver.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

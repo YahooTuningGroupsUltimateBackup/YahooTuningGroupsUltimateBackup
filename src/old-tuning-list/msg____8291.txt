@@ -1,0 +1,70 @@
+source file: m1487.txt
+Date: Tue, 28 Jul 1998 14:07:57 -0400
+
+Subject: Waveforms, Starrett, Hahn
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Starrett:
+>> It is not so much that rich tones are composed of a fundamental 
+>> frequency and its overtones as that they can be decomposed this way. 
+[snip]
+>>               Joseph Fourier figured out how to add up cosine and
+sine 
+>> waves, which are mathematical representations of the the simplest
+kinds of 
+>> sounds, to obtain any type of periodic function whatsoever, [snip]
+>> 	Describing a complex waveform in terms of its decomposition into
+a 
+>> sum of sine and cosine waves whose frequencies are simple multiples
+of 
+>> the fundamental (such as A 440) is useful, but not necessary, for 
+>> describing a tone and understanding why a waveform looks and sounds
+as it 
+>> does.
+
+Hahn:
+>There's been much excellent discussion on this topic already; I'd just
+>like to interject that the reason Fourier-type decomposition of
+periodic
+>waveforms is useful is because we believe that the inner ear does
+>something very similar, therefore it tells us something significant
+>(_pace_ Brian, not _everything_) about how we would hear such a sound.
+
+That's very true -- in fact, if one shifts the phases of the Fourier
+components of a waveform, without messing with their amplitudes, one can
+end up with a completely different-looking wave, but one that sounds
+almost identical (especially at low volumes) to the original. If the ear
+were really very sensitive to wave shape, one would hear the sound of a
+piano or guitar or plucked bass string as continually changing in
+timbre; the inharmonic partials can be interpreted as harmonic ones
+whose phases are drifting relative to one another. Perhaps in some
+subtle sense the timbre of these instruments does continually change,
+and perhaps that's why these are my favorite instruments to play, but
+the difference between these sounds and resynthesized versions with
+exactly harmonic partials (with _any_ relative phases) is subtle enough
+so that one can say the the amplitudes of the Fourier decomposition are
+primary, and the shape of the wave secondary, in describing the timbre
+of the wave. In fact, it is my understanding that the BBE
+sound-enhancing hardware works by applying different phase shifts to all
+frequencies, so as to eliminate peaks in the total waveform that at loud
+volumes could cause distortion in amplifiers, speakers, and the human
+ear, while preserving the amplitudes of all components. If the shape of
+the wave were very important to musical effect, this procedure could
+hardly be called sound-enhancing!
+
+I just picked up a copy of the 1997 edition of Manfred R. Schroeder's
+_Number Theory in Science and Communication_ -- another tour-de-force by
+him for those who like mathematics but dislike formal proofs -- and the
+introduction to chapter 28 asks the question, "For a given amplitude
+spectrum (_magnitudes_ of Fourier transform coefficients), how does one
+choose the _phase angles_ of the Fourier coefficients in order to
+achieve the smallest range of magnitudes in the corresponding inverse
+Fourier transform [i.e. in the resynthesized wave - PE]?" Although he
+does not mention BBE, he is addressing essentially the same issue (and
+uses Galois sequences to do it).
+
+------------------------------
+
+End of TUNING Digest 1487
+*************************

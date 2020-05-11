@@ -1,0 +1,75 @@
+source file: m1360.txt
+Date: Fri, 20 Mar 1998 23:15:38 -0600 (CST)
+
+Subject: Using Ensoniq ASR/EPS Patch-Select Buttons for Switching Tunings
+
+From: mr88cet@texas.net (Gary Morrison)
+
+Just in case this is of interest to any of you out in tuning land,
+somebody asked me about how to use the ASR/EPS patch-select buttons to
+switch off between different tuning tables.  I asked if he knew what layers
+are about.  Here was his reply followed by my reply to that:
+
+
+
+
+---------------------------------------------------------------------------
+
+
+
+>Well, yes, of course, I know what a layer is, but why only 4?
+
+   Good.
+
+   The 4 is because there are two patch-select buttons over by the
+pitch-bend and mod wheels, and there are four possible combinations of two
+on-off switches like that.
+
+   To use them to select layers, and thereby tuning tables, go over to the
+Edit:Instrument page, then punch the back-arrow button until you get to a
+page that looks like "OO PATCH=" followed by a bunch of numbers or dashes.
+
+   A patch is a combination of layers playing at the same time, and with
+this page you can choose which patches play with each up-down combination
+of the patch-select buttons.
+
+   If, for example, you want:
+- Layer 1 (only) to play when you have both patch-select buttons
+  released,
+- Layer 2 (only) when you press the right patch-select button but
+  not the left,
+- Layer 3 (only) when you press the left patch-select button but
+  not the right,
+- Layer 4 (only) when you press both the left and right patch-
+  select buttons.
+To set this up, move the cursor with the right- and left-arrow buttons in
+this "OO PATCH=" display until it's directly to the right of the "=".  If
+you push the up-arrow button at there, a 1 will pop up next to the "=".
+That means that layer 1 will play when you have neither patch-select button
+depressed.  If there are any other numbers to the right of that 1, then
+move the cursor over to them and press the down-arrow button, which will
+turn off those layers.
+
+   To turn on layer 2 for the right-button-only patch, press the right
+patch-select button, and hold it down.  You will notice that the display
+changes to "O* PATCH=" followed by numbers or dashes.  The "*" means that
+that patch-select button (the right one) is down, and the "O" means that
+that button (the left button) is up (i.e., not depressed).  The numbers in
+that display the layers that will play when you have that combination.
+Turn layer 2 on in the same way as you turned layer 1 on for the "OO"
+patch, and turn the rest off.  You have to hold the right patch-button down
+throughout that entire operation.
+
+   You can then set the "*O" and "**" patches similarly.
+
+   To make the ASR play different tunings, or tuning subsets, in each of
+those layers, you can get one of the layers to sound right, and then do a
+Command:Layer:Copy Layer command to create layers 2, 3, and 4 as duplicates
+of layer 1.  Be sure to use the "Params Only" option, since that will avoid
+copying the sample data itself, which hogs a lot of memory.
+
+   You then select each layer one by one, and do an Edit:Layer on it, and
+cursor over to the "PITCH TBL=" (I think that's how it reads anyway) page.
+You can use the up- and down-arrow keys to select a pitch table for that
+layer.  That then will give you a different pitch table for each of four
+otherwise identical-sounding patch-button selections.

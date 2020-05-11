@@ -1,0 +1,44 @@
+source file: m1523.txt
+Date: Thu, 3 Sep 1998 17:47:36 +0930
+
+Subject: Experimental 19-tone keyboard
+
+From: "McDougall, Darren Scott - MCDDS001"
+
+Advice wanted...
+
+I have nearly completed my custom MIDI keyboard ( final year electronic project
+at university ). The keyboard is not a performance device, as it has just over
+an octave and has buttons rather than keys, but is intended to allow the
+exploration of 19 TET on a more intuitive interface than a confusing standard
+synth keyboard.
+
+I want to know if there is any preference as to what MIDI note number
+coresponds to each key. In my own 19-tone sequencing setup, I have defined #64
+to E, #65 to E#/Fb, #66 to F, #67 to F#, #68 to Gb, and so on. If there has
+already evolved some accepted standard for this, or if other musicians have
+defined their own, please inform me so that I can make my device as universal
+as possible.
+
+ABOUT THE KEYBOARD
+All it does is send MIDI notes to your microtonal synth. I have completed
+constructing the playing surface; it is now time to program the microcontroller
+- a Motorola 68HC11 for those who are interested. It has white buttons for the
+(duh) 7 white notes, red buttons for the 5 sharps, blue buttons for the 5
+flats, and two grey buttons for E# / Fb and B# / Cb.
+
+My reasoning for choosing the MIDI note numbers I did, stemmed from having had
+built a 19-tone electric guitar. My tuning meter only has E A D G B E to choose
+from so I chose E for tuning every string on my guitar because I could tune
+both the top and bottom strings open. The other four strings require fretting
+to E; this is quite awkward to do, so being able to tune two strings without
+contorting my upper body is a big plus in my book! (Maybe I should fit a fine
+tuner whammy bridge). Note-number 64 is the centre of the MIDI range, and I
+also wanted the pitch of 19-tone E A D G B E to be centrally located on my
+standard synth keyboards.
+
+Please tell me what you think of this setup; I can certainly change at this
+early stage of the project.
+
+Thankyou
+DARREN McDOUGALL

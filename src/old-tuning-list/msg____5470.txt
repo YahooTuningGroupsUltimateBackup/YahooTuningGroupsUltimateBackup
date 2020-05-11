@@ -1,0 +1,56 @@
+source file: mills2.txt
+Date: Thu, 15 May 1997 21:45:19 +0200
+
+Subject: Tuning ET vs. JI
+
+From: DFinnamore@aol.com
+
+Graham Breed writes:
+
+> If you're tuning a digital synth to an ET scale, all you need to
+>  do is one division, and from then on it's just addition.  This
+>  is easier than all that multiplying of fractions you need to work
+>  with JI -- unless you use ratio space axes.  My point is that
+>  there's no reason why you can't do all your work in a logarithmic
+>  scale, and then an ET is the simplest scale to define.  Most of
+>  the work in microtonality now is done with electronic synthesis
+>  rather than dividiing up strings.
+
+I see now that we're on slightly different tracks - the classic situation of
+two sides that are both right if you consider that they're facing different
+directions!  I believe that you're talking about the application of a tuning
+to an instrument, which is decidedly easier with ET, and, some would say, the
+primary reason that ET was chosen for Western music in the first place.  I'm
+still stuck on the abstract, theoretical questions.  Like, which ideal tuning
+goal, if even it could be applied, is most likely to yield melodies and
+harmonies to which the human body and soul should most readily resonate.
+ It's a sticky question, I know, and maybe founded partly on misconceptions
+hidden in the depths of my cosmology.  I'm open to that, and open to
+criticisms on that basis.  So far, it seems to me to be a worthy pursuit.
+ More on this in the next posting.
+
+>JI comes from the harmonic series, which is a
+>quantization of linear frequency space.
+
+Lost ya there.  Doesn't "quantization" denote equal divisions?  E.g., in what
+sense are the two spaces in 1:1, 9:8, 5:4 equal, or based on equal divisions
+of linear frequeny space, whatever that means?  Strange as it might seem,
+after years of picturing frequency space logarithmically, I can't get myself
+to visualize it linearally - it doesn't seem to make any sense that way.
+
+David J. Finnamore
+Just tune it!
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 15 May 1997 21:46 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03178; Thu, 15 May 1997 21:46:44 +0200
+Date: Thu, 15 May 1997 21:46:44 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03176
+Received: (qmail 28992 invoked from network); 15 May 1997 19:46:39 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 May 1997 19:46:39 -0000
+Message-Id: <970515154201_114511325@emout11.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

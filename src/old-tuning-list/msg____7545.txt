@@ -1,0 +1,77 @@
+source file: m1394.txt
+Date: Fri, 24 Apr 1998 07:10:37 -0500 (CDT)
+
+Subject: RE: JI Tuning Resolution
+
+From: mr88cet@texas.net (Gary Morrison)
+
+Just to make sure that this discussion is not getting too far off the
+original topic, let me paraphrase my original suggestion:  If you go to a
+synthesizer manufacturer asking for tuning resolution on the order of a few
+tenths of a single cent, it would probably be wise to ask yourself whether
+the tones you're realizing with it are even that close to being periodic.
+
+   Now Paul here is calling into question my belief that typical orchestral
+instruments have deviations from purely harmonic vibrations.  These
+deviations, best I can tell, are extremely slight, but almost certainly
+much more than a few tenths of a cent.  I have not, however, specifically
+measured them;  I have only observed them to exist.
+
+   Now back to your regularly-scheduled discussion.
+
+
+
+
+>I'm afraid I have to disqualify the oscilloscope here. The oscilloscope
+>will have a certain finite sampling time and the period of the waveform,
+>varying slighlty as it does, will never be precisely matched to this
+>sampling time.
+
+   I don't know what you're getting at by introducing sampling into this,
+but you certainly don't need a digitizing oscilloscope to see this.  A
+plain, boring ol' analog scope will show it just fine.
+
+   If you zoom it in on a single period of the tone, you see the peaks and
+troughs of the vibration bobbing up and down, and sometimes moving around
+too.  Regardless of what you attribute that to, it's certainly not a
+strictly periodic wave.  But if you change the time per division so as to
+zoom out to show 10 or so cycles, you can see that the bobbing up and down
+of the peaks and troughs follows a regular progression from one cycle to
+the next.  Sometimes you can even actually see a peak moving through the
+lower frequency components.
+
+   This, by the way occurs on fundamental-mode pitches as well as
+"overblown" pitches, so it can't be due to a subharmonic.
+
+
+
+
+
+>If you study the mechanics of
+>a 1-component driver, such as a bow, reed, or lips, you will understand
+>that regardless of the extent to which the resonant modes of vibration
+>of the instrument deviate from a harmonic series, the driving mechanism
+>will force the waveform to become periodic,
+
+   Would you apply that to a flute, for example?
+
+   It sounds like you're suggesting that lips, or a reed for example, can
+only vibrate periodically.  I personally am aware of no evidence to that
+effect.  They certainly don't have the physical characteristics of a system
+that vibrates only in harmonics, notably a mechanical transmission line.
+
+
+
+
+
+>> . . . JI does what it does more in the lower harmonics
+>>than the upper ones
+>I think Harry Partch would disagree with you there.
+
+   That of course is why I said "to the degree that JI does what it
+does...":  To include the possibility that that degree might be zero.  Or
+very high.
+
+   In other words, I was not expressing an opinion along those lines;  just
+stating that if that were true, then the fact that the lower harmonics are
+closer to harmonic than the would be relevant.

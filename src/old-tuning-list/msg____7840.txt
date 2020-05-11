@@ -1,0 +1,24 @@
+source file: m1419.txt
+Date:     Mon, 18 May 98 12:01:44 BST
+
+Subject: Re: Alternative Tuning CSound Scores?
+
+From:     jpff@maths.bath.ac.uk
+
+Message written at 17 May 1998 12:49:26 +0100
+In-reply-to: <19980513225221.20470.qmail@hotmail.com> (Triple Just)
+References:  <19980513225221.20470.qmail@hotmail.com>
+
+At the danger of seeming to push my work forward, may I suggest that
+you look at the cps2pch and cpsxpch opcodes, as there are designed to
+assiste with ET tunings.  For JT systems it seems that describing teh
+pitch as two integers whose ratio is the requirement, possibly with an
+octave number is sufficient.
+
+>>>>> "Bill" == Triple Just <triplejust@hotmail.com> writes:
+
+ Bill>    Hi, everybody, I'm in the process of getting heavy into CSound on the 
+ Bill> Power Mac (8500/132), and was wondering if there are any alternative 
+ Bill> tuning scores for CSound out there that anybody knows of? Thanks.
+
+==John ffitch

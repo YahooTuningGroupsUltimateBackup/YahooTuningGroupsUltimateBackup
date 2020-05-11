@@ -1,0 +1,58 @@
+source file: mills3.txt
+Date: Fri, 26 Sep 1997 23:15:34 +0200
+
+Subject: Misc
+
+From: Carl Lumma <clumma@nni.com>
+
+>From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+>
+>It seems to me what Ivor was getting at was probably the fact that 12
+>has many factors, which allows one to create what theorists call "scales
+>of limited transposition".  E.g. 3 1 3 1 3 1 has only four different
+>transpositions, because transposed by 4 steps it's unchanged.  (You can
+>create such a scale because 4 is a divisor of 12.)  OTOH, in 19TET it's
+>impossible to create such scales, because 19 is prime.
+
+Yeah, it seems like this is more like it.  Thanks again, Paul!
+
+>From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>Carl Lumma wrote,
+>
+>>If we can agree that there is a difference between re-tuning music made for
+>>100 cent equal, as powerful a model and good-sounding a tuning as it is, and
+>>playing music made for 7+ limit Just Intonation, however embellished,
+>
+>I agree! That's why I'm more interested in 22-tet than 19, 31, or
+>50-tet.
+
+Whoops!  I lost you.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  jszanto@adnc.com
+Subject:  lumma, TET
+PostedDate:  27-09-97 02:18:31
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  27-09-97 02:18:10-27-09-97 02:18:10,27-09-97 02:17:12-27-09-97 02:17:13
+DeliveredDate:  27-09-97 02:17:13
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C125651F.0001A7A5; Sat, 27 Sep 1997 02:18:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA32502; Sat, 27 Sep 1997 02:18:31 +0200
+Date: Sat, 27 Sep 1997 02:18:31 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA32491
+Received: (qmail 29489 invoked from network); 26 Sep 1997 17:18:27 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 26 Sep 1997 17:18:27 -0700
+Message-Id: <3.0.2.32.19970926171102.006b4cac@adnc.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

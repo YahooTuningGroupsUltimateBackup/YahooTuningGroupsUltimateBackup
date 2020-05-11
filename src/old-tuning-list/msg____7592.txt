@@ -1,0 +1,72 @@
+source file: m1399.txt
+Date: Tue, 28 Apr 1998 23:34:10 -0500
+
+Subject: Re: JI Tuning Resolution
+
+From: "jloffink" <jloffink@pdq.net>
+
+> From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+> Perhaps you misunderstood me. If the tuning resolution is, for example, 1
+
+> Hz, in lower registers there is going to be good intonation for the
+> harmonic series above 1 Hz, and all else will be rough approximations. I
+> think that the contrast between the exact and approximate tunings would
+be
+> musically unacceptable (with a resolution of 1 Hz, try modulating from
+the
+> key of 80 Hz to its subdominant!). If I can't have a tuning with the
+> accuracy of the Rayna, then I would like the potential deviation from
+Just
+> to be spread around as much as possible in a temperament that represents
+> harmonic identities consistently. As long as you are not working with
+> sustained textures that really require something like the Rayna, I think
+> that absolute frequency resolution will be secondary to consistency. I
+made
+> the suggestion that equal-tempered division of the octave divisible by 12
+
+> be considered because, MIDI standard or not, tuning tables seem to be
+> expressed at the software level most often in terms of unit deviations
+from
+> 12tet pitch classes, not in terms of octave divisions alone, and
+> manufacturers will probably be interested in supporting microtonal
+capacity
+> only when that does not eliminate an accurate 12tet. From my experience,
+> 768tet and 1200tet are not good choices but there are ET of this
+magnitude
+> that would be better.    
+> 
+No, I understood you perfectly.  The MIDI Tuning Standard has a maximum
+resolution of 100 cents / 2^14 = .0061 cents.  Only 768TET, 1536 TET,
+3072TET, etc. fit within that standard.  Trying to achieve some other nTET
+with better consistency will have several problems from a practical
+standpoint:
+1. The MIDI Tuning Standard, while currently implemented by only three
+manufacturers (Emu, Ensoniq and Turtle Beach), is the only standard we've
+got.  To propose some division of the semitone other than its 2^n divisions
+would set back the little progress it has made.  I know some list members
+are disappointed over the lack of response to the MIDI Tuning Standard, but
+this is to be expected given the design life cycles of these instrument
+lines that amount to 3-8 years on average.
+2.  Division of the octave or semitone by other than binary multiples is
+not likely to be accepted by manufacturers.  They have no margin timewise
+for anything more complicated than binary multiplication/division in
+calculating pitch.  Remember that they are using microprocessors like the
+68000, 68340 (68020 comparible), or 68020 running at 16 to 25 MHz, not the
+latest Pentium or RISC processor.  While this situation will improve in the
+future, the increase in voice count is likely to eat up any processing
+speed improvements.
+3.  My impression is that instruments with "1 cent resolution" actually map
+some 100 cent / 2^n division to the 1 cent value.  The Ensoniq
+EPS/16Plus/ASR-10 certainly do this.  I believe Roland does it as well. 
+The actual scale is stored as 100 / 2^n divisions, usually 768TET, not 1
+cent.  This could explain why some list members have worse results with
+these instruments since the conversion errors are not consistent.  For
+instance, if you want to adjust a pitch by +0.6 cents, you would round up
+to 1 cent.  The 1 cent value on your synth display is closest to 1.5625
+cents, so now your pitch is adjusted by +1.5625 cents, instead of 0 cents
+which would have been closer.  Perhaps one request should be to show the
+actual cents values to several decimal places, not roughly translated
+values or hard to decipher tuning units.
+
+John Loffink
+jloffink@pdq.net

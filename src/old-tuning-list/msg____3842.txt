@@ -1,0 +1,84 @@
+source file: mills2.txt
+Date: Sat, 26 Oct 1996 07:26:58 -0700
+
+Subject: Re: TUNING digest 875
+
+From: "Adam B. Silverman" <adam.silverman@yale.edu>
+
+>Just to add to Jonathan Walker's comments on the Johnston notation. . .
+>
+>he employs flat and sharp symbols to distinguish between five-limit minor
+>and major thirds, as well as "+" and "-" to designate ascending or
+>descending syntonic commas (81/80); surely this accomodates enharmonic
+>spellings (?).
+
+Ben's notation uses +/- for a mixture of 3 and 5-limit intervals (dare I
+say "see Fonville, 1991?)  Since each symbol or combination of symbols
+represents a particular ratio, then an enharmonic spelling is necessarily a
+different pitch.
+
+Does your comment refer to a system such as that which is described by S.
+Terpstra in 1/1 8:3, which uses a system which sounds to me like an ET with
+comma or skhisma-sized scale steps?  If so, could someone please explain
+the logic of this system to me?
+
+Johnny R. said:
+>My experience with Ben Johnston gives high marks for exactitude, but
+>loses too much due to the slowness with which it is read.  Often conflicting
+>directions are used for a single note and so a mathematical calculation
+>is necessary.  This process takes one out of real time.
+
+and Paul Rapoport said:
+>I am interested in Johnny Reinhard's remarks that cents notation is
+>helpful to performers. I can readily believe this, provided that fine
+>discriminations aren't necessary. I imagine that performers then identify
+>a sound or fingering with a cents designation. Would that be right?
+>
+>I still don't like this for analytical purposes, however. I wonder
+>whether performers prefer this notation to others or just get used to it.
+
+Johnny's notation is especially good for his own polymicrotonal music,
+which pledges allegiance to no system and wanders with ease from one
+microtonal system to the next.  However, it does nothing to guide the
+performer towards knowledge of what *kinds* of intervals are being played.
+For example, in the early performance of his "Cosmic Rays" (I have not
+heard the "good" tape), the performers were so steeped in the xenharmonic
+aspects of the piece (note: *xen* harmonic) that they failed to well-tune a
+major triad--I argue that they didn't know that they were supposed to play
+a well-tuned chord.  Nonetheless, this is probably the best compromise for
+such music.  It should also take a whole lot of rehearsal to do well, as
+does all "performed" microtonal music.
+
+Ben's notation is specifically bent towards a JI ststem which he himself
+has stretched to the limit of its practical capabilities.  My suggestion
+(for JI music) is to use differing systems of notation for score and parts,
+in which Sims or similar diacriticals are used to approximate pitch (with
+the rest tuned by ear) for easy sight-reading, and Johnston or something
+similar is for the score.  Of course, Johnston notation, as with all
+notational systems, should be in a constant state of evolution, and I hope
+that discourse such as this will include proposition of better ways to
+notate pitches which are far from home on the lattice.
+
+
+_________________
+Adam B. Silverman
+153 Cold Spring Street; A3
+New Haven, CT 06511
+(203) 782-1765
+
+abs22@pantheon.yale.edu
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 28 Oct 1996 18:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06401; Sun, 27 Oct 1996 10:47:02 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06410
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id BAA09014; Sun, 27 Oct 1996 01:46:59 -0800
+Date: Sun, 27 Oct 1996 01:46:59 -0800
+Message-Id: <v02140b00ae98df225eb1@[164.67.22.50]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

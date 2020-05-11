@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Fri, 13 Sep 1996 11:15:21 -0700
+
+Subject: Consistency generalized
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+I've been mulling over Paul Erlich's concept of consistency for a little
+while now.  When he first described it it really caught my attention,
+because it dovetailed nicely with a concept I've used in my little
+theoretical musings for years.  The tunings I am interested in are what
+you might call "level 2 consistent": not only are all intervals up to a
+given limit represented consistently, but all combinations of them as
+well.  Thus, for example, at the 5-limit 7TET is consistent, but it is
+not level 2 consistent because 5/4 is represented by two steps, but
+25/16 is closer to five steps than four.
+
+To generalize, an ET is level N consistent at the K-limit if all
+approximations of K-limit intervals vary from just by no more than
+1/(2N) of a step.  This means that all combinations of up to N K-limit
+intervals are represented consistently.
+
+While Paul E. explores ETs which are level 1 consistent, I tend to be
+more interested in level 2 consistency, which is a much more stringent
+criterion.  How much more?  Well, I wrote a program to figure out
+consistency levels at all limits up to 31 for all ETs up to 1200TET.
+(Overkill, I know, but CPU cycles are cheap.)  The output is available
+at <http://library.wustl.edu/~manynote/consist.txt>.  ("." indicates
+level 1 consistency.)  Perusing it, one finds that the first ET with
+level 2 consistency at the 7-limit is 31, at the 9-limit 41, at the
+11-limit 72, at the 13-limit 270, and at the 15-limit 494.  No ET below
+1200 exhibits level 2 consistency at the 17-limit.  Contrast this with
+29 and 41 being level 1 consistent at the 15-limit, and 58 being level 1
+consistent at the 17-limit.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Churchill? Can he run a hundred balls?"
+     -\-\-- o
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 13 Sep 1996 22:34 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30898; Fri, 13 Sep 1996 22:35:44 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA28367
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA12813; Fri, 13 Sep 1996 13:35:42 -0700
+Date: Fri, 13 Sep 1996 13:35:42 -0700
+Message-Id: <Pine.SOL.3.91.960913153519.5523A-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

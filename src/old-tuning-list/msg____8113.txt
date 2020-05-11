@@ -1,0 +1,23 @@
+source file: m1450.txt
+Date: Wed, 17 Jun 1998 18:57:43 +0000
+
+Subject: ROM, RAM, etc
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+I wrote (in haste)
+
+> Drew, as I say, I'm not sure if I understood you correctly, but some
+> samplers (eg., Roland S770 series, Akai S1000 series) keep sample
+> looping parameters in ROM. 
+
+of course what I meant is that there is an area of the memory which 
+can be written to (otherwise you couldn't change the parameters etc) 
+but which doesn't take up _sample_ RAM.  Exactly what you call this  
+area of memory, what it is, how it works, etc, I'm no expert at (as 
+you'll just have gathered).  Presumably it's some kind of RAM 
+reserved for stuff nearer the operating system level.  I'm sure John 
+Loffink used a term to describe it once, but I haven't time to search 
+for it right now.  In haste again  -
+
+Patrick O-L

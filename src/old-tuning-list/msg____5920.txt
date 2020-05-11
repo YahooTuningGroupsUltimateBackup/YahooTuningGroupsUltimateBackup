@@ -1,0 +1,247 @@
+source file: mills3.txt
+Date: Wed, 30 Jul 1997 01:01:02 +0200
+
+Subject: RE: theories
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Neil,
+
+Like you, I am a guitarist who plays best when feeling, not thinking.
+But due to my physics background I tend to often think in mathematical
+terms. The math involved in tuning theory is quite simple, really. Some
+of us like to make it kind of complicated just to stretch our
+intellectual muscles. But you don't need anything beyond a basic
+understanding of logarithms to grasp any of the really good ideas in
+tuning. Many of us have read Harry Partch's "Genesis of a Music" and
+throw around terms like "tonality diamond" and assume that others will
+understand us. This book does not assume any mathematical ability and is
+written by a musician for musicians. A tonality diamond is just a scale
+formed by picking a central pitch and including all notes that have
+simple frequency ratios with that pitch. Partch dealt mainly with odd
+numbers because dividing by 2 is just transposing down an octave, so if
+you're talking about non-octave-specific pitch classes, you can dispence
+with all factors of 2. So by "simple frequency ratios" we mean that both
+the numerator and denominator of the ratios are odd numbers not
+exceeding a pre-specified limit. It is easy to find all possible such
+ratios by allowing the numerator to increase along one axis and allowing
+the denominator to increase along the other. So the tonality diamond is
+just a two-dimensional grid, which Partch liked to rotate by 45 degrees
+to make it look like a diamond. Let's work out the first few tonality
+diamonds. I will call the central pitch 1/1 and G and will give the
+scale tones best approximating the tones of the diamond in 72-tone equal
+temperament (all errors are 4 cents or less) notated using 1/6ths of the
+conventional 12-tone sharps and flats (e.g., 1/2#, 5/6b).
+
+
+Tonality Diamonds
+-----------------
+
+
+
+
+1-limit
+
+
+1
+-
+1
+
+or
+
+G
+
+
+
+3-limit
+
+
+1     3
+-     -
+1     1
+
+1     3
+-     -
+3     3
+
+or
+
+G     D
+
+C     G
+
+
+
+5-limit
+
+1     3     5
+-     -     -
+1     1     1
+
+1     3     5
+-     -     -
+3     3     3
+
+1     3     5
+-     -     -
+5     5     5
+
+or
+
+G     D     B1/6b
+
+C     G     E1/6b
+
+E5/6b B5/6b G
+
+
+
+7-limit
+
+1     3     5     7
+-     -     -     -
+1     1     1     1
+
+1     3     5     7
+-     -     -     -
+3     3     3     3
+
+1     3     5     7
+-     -     -     -
+5     5     5     5
+
+1     3     5     7
+-     -     -     -
+7     7     7     7
+
+or
+
+G     D     B1/6b F1/3b
+
+C     G     E1/6b A2/3#
+
+E5/6b B5/6b G	C5/6#
+
+A1/3# E1/3# D5/6b G
+
+
+
+
+9-limit
+
+1     3     5     7     9
+-     -     -     -     -
+1     1     1     1     1
+
+1     3     5     7     9
+-     -     -     -     -
+3     3     3     3     3
+
+1     3     5     7     9
+-     -     -     -     -
+5     5     5     5     5
+
+1     3     5     7     9
+-     -     -     -     -
+7     7     7     7     7
+
+1     3     5     7     9
+-     -     -     -     -
+9     9     9     9     9
+
+or
+
+G     D     B1/6b F1/3b A
+
+C     G     E1/6b A2/3# D
+
+E5/6b B5/6b G	C5/6# F1/6#
+
+A1/3# E1/3# D5/6b G     B1/3#
+
+F     C     A1/6b D2/3# G
+
+
+
+
+11-limit
+
+1     3     5     7     9     11
+-     -     -     -     -     --
+1     1     1     1     1     1
+
+1     3     5     7     9     11
+-     -     -     -     -     --
+3     3     3     3     3     3
+
+1     3     5     7     9     11
+-     -     -     -     -     --
+5     5     5     5     5     5
+
+1     3     5     7     9     11
+-     -     -     -     -     --
+7     7     7     7     7     7
+
+1     3     5     7     9     11
+-     -     -     -     -     --
+9     9     9     9     9     9
+
+1     3     5     7     9     11
+--    --    --    --    --    --
+11    11    11    11    11    11
+
+or
+
+G     D     B1/6b F1/3b A     C1/2#
+
+C     G     E1/6b A2/3# D     F1/2#
+
+E5/6b B5/6b G	C5/6# F1/6# A1/3b
+
+A1/3# E1/3# D5/6b G     B1/3# D5/6#
+
+F     C     A1/6b D2/3# G     B1/2b
+
+D1/2b A1/2b F1/3# B1/6# E1/2b G
+
+
+
+Look at the 5-limit diamond for a familiar case. Each row is a major
+chord, and each column is a minor chord. So tradiationally speaking, the
+diamond is a compact way of seeing all the consonant chords that contain
+the note G. (Of ourse, the 1/1 could mean anything, not just G.) So if
+you were writing a song and you knew you wanted G in the melody, you
+could just try out the different chords in the tonality diamond of G and
+see which one you liked the best. For higher limits, we are talking
+about more complicated chords, but the concept is exactly the same.
+
+How's this so far for basic concepts?
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  petalsinpetaluma@hotmail.com
+Subject:  Re: TUNING digest 1139 (?'s for Gary Morrison)
+PostedDate:  31-07-97 05:50:05
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  31-07-97 16:42:05-31-07-97 16:42:06,31-07-97 16:40:50-31-07-97 16:40:50
+DeliveredDate:  31-07-97 16:40:50
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564E5.00280236; Thu, 31 Jul 1997 09:17:01 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA25866; Thu, 31 Jul 1997 05:50:05 +0200
+Date: Thu, 31 Jul 1997 05:50:05 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA25864
+Received: (qmail 26356 invoked from network); 31 Jul 1997 03:49:58 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 31 Jul 1997 03:49:58 -0000
+Message-Id: <199707310346.UAA23121@f40.hotmail.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

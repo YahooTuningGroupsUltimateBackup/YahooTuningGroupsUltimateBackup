@@ -1,0 +1,110 @@
+source file: m1555.txt
+Date: Fri, 16 Oct 1998 17:44:18 -0400
+
+Subject: Contest!
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>I developed it after reading Paul Erlich's criteria for 7-limit
+generalised-diatonic scales (in which he finds that only a 10 of 22-TET
+is suitable)
+
+I haven't PROVED that something significantly different from 10 of 22
+can't work, but I doubt it. Also I know of no 9-limit or 11-limit
+generalized-diatonic scales, but they might exist (I don't know how
+important that would be, since the 9-limit and especially 11-limit
+analogues of the minor chord sound pretty dissonant to me, despite
+Partch's excellent use of them . . .). I hereby offer a prize of
+unending praise and worship, and a promise to get a guitar capable of
+playing it and to learn to play it, to anyone who discovers any new
+generalized-diatonic scale. First some definitions:
+
+Q in the below means the approximate 3:2 (Q is for quint, the latin =
+term
+for fifth).
+A "characteristic dissonance" is an interval which is formed from the
+same number of scale steps as a consonant interval, but is not
+consonant.
+For the n-limit, all intervals n:m, where m is less than n, and their
+octave equivalents, are considered consonant.
+The root of a chord is determined by the Q in it: the root is the note
+representing 2 in the approximate ratio 3:2. If a chord has more than
+one Q in it, you are free to use whichever root you want.
+
+Now the rules:
+
+(0) Octave equivalence:
+
+There is a basic scale which repeats itself exactly at the octave,
+extending infinitely both upwards and downwards in pitch.
+
+(1) Scale structure:
+
+EITHER a or b must be satisfied.
+
+(Version a - distributional evenness): The basic scale has two step
+sizes, and given these step sizes, the notes are arranged in as close =
+as
+possible an approximation of an equal tuning with only as many notes =
+per
+octave as the basic scale.
+
+(Version b - tetrachordality): The basic scale has a structure
+emphasizing similarity at the Q. In particular, there is a
+"tetrachordal" structure, that is, within any octave span, the pattern
+of steps within one approximate 4:3 are replicated in another
+approximate 4:3, with the remaining "leftover" interval spanned using
+patterns of step sizes (often just one step) found in the "tetrachord."
+
+(2) Chord structure:=20
+
+There exists a pattern of intervals (defined by number of scale steps,
+not specific as to exact size) which produces a complete, consonant
+chord (containing all non-equivalent consonant interval) on most scale
+degrees.
+
+(3) Chord relationships:
+
+The majority of the consonant chords have a root that lies a Q away =
+from
+the root of another consonant chord.
+
+(4) Key coherence:
+
+A chord progression of no more than three consonant chords is required
+to cover the entire scale.
+
+(5) Tonicity:
+
+The notes of the scale are ordered, increasing in pitch, so that the
+first note is the root of a complete consonant chord, defined hereafter
+as the "tonic chord."
+
+The remaining rules come in "strong" and "weak" versions.
+=A0
+Strong Version
+---------------------
+
+(6) Homophonic stability:
+
+All characteristic dissonances are disjoint from the tonic chord, with
+the following possible exception: A characteristic dissonance may share
+a note with the tonic chord if, when played together, they form a
+consonant chord of the next higher limit (3 =DE 5, 5=DE 7, 7=DE 9).
+
+(7) Melodic guidance:
+
+The rarest step sizes are only found adjacent to notes of the tonic
+chord.
+
+Weak Version
+--------------------
+
+(6) Homophonic stability:
+
+At least one characteristic dissonance either is disjoint from the =
+tonic
+chord, or shares a note with the tonic chord such that, when played
+together, they form a consonant chord of the next highest limit (3=DE =
+5,
+5=DE 7, 7=DE 9).

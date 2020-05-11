@@ -1,0 +1,122 @@
+source file: mills3.txt
+Date: Tue, 23 Dec 1997 21:51:47 +0100
+
+Subject: More on Just Intonation 1
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+I apologize for the extemely primitive character of this post, but I
+desire my meaning to be crystal-clear to all.
+
+When a singer sings a note, and wishes to proceed upward or downward by
+a disjunct interval, he will find the following notes (C used as tonic
+here) most convenient, because they are consonant (those who choose to
+wage the war to make 7:4 consonant I advise to do some reading,
+thinking, and listening; even if they manage the feat, they will find
+themselves involved in the thankless task of attempting to erect a
+system of tonal relations outside the senario, and based on very weak
+consonance at best):
+
+Eb	E	F	G	Ab	A	_C_	Eb	E	F	
+G	Ab	A
+						5		6
+						4			5
+						3				4
+						2					3
+						5						8
+						
+3							5
+					5	6
+				4		5
+			3			4
+		2				3
+	5					8
+3						5
+
+The numbers give the ratios of the intervals corresponding to the ratio
+of the vibrations.
+
+Once a singer has proceeded upward to Eb, say, he can again proceed
+surely by consonant intervals from Eb to any one of the six intervals
+above or the six intervals below. Of course, singers do not sing a long
+succession of disjunct intervals; they outline them with intercalated
+conjunct dissonances. Occasionally too, they sing disjunct dissonances,
+but with great difficulty, and less accuracy. Once a singer gets to Eb,
+here are his new consonant options, as it were:
+
+Gb G Ab Bb Cb C _Eb_ Gb G Ab Bb Cb C
+
+We can say that a tone such as Gb is related to C, the original tonic
+here, _through_ Eb. To find the ratio between C & Gb, we multiply 6/5 x
+6/5 = 36/25.
+
+If we perform a like calculation for every one of the notes at a
+consonant distance from the initial tonic (here C) we get 12 'tonal'
+dissonances that are related via one consonant interval to the original
+tonic. Such dissonances can without exception be reached by at least six
+(usually eight) different consonant progressions. They, together with
+the consonant intervals, form a closed, highly coherent tonal system.
+This 'tonal net' is woven exceedingly tight - though it has a hole,
+which it is one of the prime objectives of temperament to patch. There
+can be _no other_ basis of tonal or musical coherence. Let those who
+question this find another such mathematical basis of music; there is
+none.
+
+>From this system different selections of tones and sub-systems of tones
+can be made (the modes, and the modal genera consisting of modes related
+to each other in the same way that the seven diatonic modes are
+related). As is well-known, each mode possesses a unique ethos, in the
+sense that the ionian differs in effect from the phrygian, and a melody
+transposed from ionian to phrygian sounds very different in its general
+spirit, but in a predictable way. But all these sub-systems are part of
+the original matrix of just intonation, or rather of that temperament,
+the 19-tone equal , which most closely corresponds to just intonation.
+
+The question arises: could one take Gb in the above example as a new
+jumping-off point for the voice and understanding? Indeed one can - but
+the memory of the original tonic fades, and the old tonal relationships
+give way to new ones ? on a different tonic, but still using the same
+consonances and tonal dissonances. Furthermore, because the voice and
+mind can reliably perceive only about 19 melodic pitch classes in the
+octave, we here involve ourselves in intervals (the 'atonal' disonances
+such as 6/5 x 6/5 x 6/5 = 216/125 or 3/2 x 3/2 x 3/2 = 27/16) which have
+no real melodic independence. 27/16 for example is confused with 5/3
+melodically ? it sounds like a mistuned 5/3, in harmony a horribly
+mistuned 5/3.
+
+There are many just intonations, but only this version describes with
+fair accuracy what a singer actually confronts when he tries to sing.
+
+Arthur Benade has some interesting passages on the acoustics of why
+singers can sing consonances with such surprising accuracy, but find
+disjunct dissonances harder to sing, and this not merely in harmony, but
+in melody as well.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carl Lumma <clumma@nni.com>
+Subject:  new web site
+PostedDate:  23-12-97 21:58:08
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  23-12-97 21:55:58-23-12-97 21:55:59,23-12-97 21:55:29-23-12-97 21:55:30
+DeliveredDate:  23-12-97 21:55:30
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256576.0072F99F; Tue, 23 Dec 1997 21:57:46 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24656; Tue, 23 Dec 1997 21:58:08 +0100
+Date: Tue, 23 Dec 1997 21:58:08 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA24624
+Received: (qmail 1309 invoked from network); 23 Dec 1997 12:58:05 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Dec 1997 12:58:05 -0800
+Message-Id: <19971223205639390.AAA224@ascend550.nni.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

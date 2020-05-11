@@ -1,0 +1,62 @@
+source file: mills2.txt
+Date: Mon, 25 Sep 1995 08:21:28 -0700
+
+Subject: Bach's Tuning
+
+From: Johnny Reinhard <reinhard@styx.ios.com>
+
+Re: Kirnberger's saying to Marpaug that "Bach tune each of his major 
+thirds sharp."  This is true in both equal temperament _and_ Werckmeister 
+III.  The Werckmeister III contains 4 sizes of major third, one of which 
+is equivilent to 402 cents, one that is Pythagorian at 408 cents, 
+one at 396 cents, and the smallest one at 390 - all sharper than the just 
+386 cents.
+
+Further, Kirnberger himself gave directions for the tempered fifth whose 
+ratio (10935:16384) is almost exactly 1/12 of a comma smaller than the 
+pure fifth in several publications, including his *Von der Temperatur*.  
+The method by which he arrived was to take seven pure fifths in 
+succession plus one pure major third.  This gives the tempered fourth 
+8192:10935, which is larger than the pure fourth by 1/12 of a comma, its 
+inversion is the tempered fifth 10935:16384.  
+
+According to Kirnberger he 
+showed this discovery to Leonhard Euler in 1766 and remarked to him that 
+this fifth could be used to determine all ratios of equal temperament, 
+an idea subsequently developed by Johann Heinrich Lambert and published 
+in the *Memoires de l'academie royale des sciences et belle lettres* 
+(Berlin 1774) and used by Marpaug against Kirnberger.  (see p. 20 of the 
+*Art of Strict Musical Composition* by Kirnberger, Yale University Press)
+
+There is great bitterness against Kirnberger, chief violinist and 
+keyboardist at the court in Berlin by Marpaug, the Lottery King Of Berlin.
+
+Clearly, this argument of fifths over thirds is an aesthetic battle of 
+historic proportions.  Politics enters at every level and success is oft 
+measured by clout.  What intrigues me most about Prof. Rasch's 
+perspective is that the Netherlands has been a leader in performing 
+"early music" in historic intonation and as its main musical intellectual 
+in this area, Rasch bucked the trend.  Perhaps if he were in any one of 
+the other countries that had been resistant to historic intonation 
+systems, he might have headed the other way.  
+
+Johnny Reinhard
+American Festival of Microtonal Music
+318 East 70th Street, Suite 5FW
+New York, New York  10021  USA
+(212)517-3550/fax (212) 517-5495
+reinhard@ios.com
+
+
+p.s. Manuel please forward as appropriate.  Thank you.
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 25 Sep 1995 23:48 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA25337; Mon, 25 Sep 1995 14:48:01 -0700
+Date: Mon, 25 Sep 1995 14:48:01 -0700
+Message-Id: <v01530500ac8cd33ea31a@[204.157.237.63]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

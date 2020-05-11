@@ -1,0 +1,298 @@
+source file: mills2.txt
+Date: Fri, 29 Sep 1995 09:24:03 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & Psychoacoustics - Post 6 of 25
+---
+MYTH: THE OPERATION OF THE EAR CAN BE
+EXPLAINED AS THAT OF A FOURIER ANALYZER,
+WITH SOME SLIGHT MODIFICATIONS.
+FACT:  Today there are 3 competing models which
+explain how the ear/brain system operates, and 
+some experimental data supports each hypothesis
+and contradicts the others.  Each theory has enjoyed
+proponents for more than 100 years, primarily
+because many aspects of the ear's behaviour cannot 
+be explained by means of Fourier analysis.
+---
+During the late 19th and early 20th
+century, rapid advances in technology allowed
+scientists to subject both the place theory
+and the periodicity theory of hearing
+to ever-more-sophisticated tests.
+"On the basis of these different methods,
+the fact is now well established that the
+stimulated region of the basilar membrane
+shifts for decreasing frequency from the
+basal to the apical end." [Plomp, 1966,
+pg. 108; see also Cioco, 1934; Crow et al,
+1934, Oda, 1938; Stevens et al., 1935;
+Walzl and Bordley, 1942; Schuknecht,
+1960; Kemp, 1935, 1936, Smith, 1947,
+Smith and Wever, 1949; Davis et al.
+1953; Culler, 1935, Culler et al. 1937,
+1943; and particularly von Bekesy,
+1944, 1955, 1957.]  von Bekesy
+constructed a large and simplified
+physical replica of the cochlea which used
+the tactile sense of the arm to 
+stimulate the organ of Corti and the 
+auditory pathway.  He proved that
+even in the case of a very broad
+maximum of the pattern of vibration,
+only a small section was felt
+subjectively to vibrate. This lent
+strong suport to the view that
+the place of maximal stimulation
+along  the basilar membrane 
+corresponds to pitch.  (That is,
+to Helmholtz's theory, with a good
+deal of updating; Helmholtz's idea
+of "resonators" had to be abandoned,
+and many of the details of his theory
+modified, to explain experimental
+results, as we've seen.)
+While von Bekesy's experiments 
+provided strong confirmation for
+some of the place theory's prediction,
+they contradicted other aspects 
+of the place theory.   There
+remained unresolved, for instance,
+the question of how to account
+for the ear's extraordinary
+sensitivity to tuning differences
+of individual partials and of
+the fundamental frequency of
+the sound wave itself.  WIth only
+3000 hair cells each spaced 9 microns apart,
+this was difficult to explain. Known pitch
+discrimination would demand sensitivity to
+stimulation on the basilar membrane measured
+in fractions of a micron,  even though the measured
+width of the travelling wave on the basilar membrane
+is many times that width. (This objection
+was originally raised to Helmholtz's 
+now-obsolete hypotheses of the
+1860s, and it still bedevils advocates
+of the modern place theory.) Moreover,
+if pitch sensitivity were due solely to the hairs
+ lining the basilar membrane, and not to neural
+processing, there would have to be far more
+hairs than the known 3000 inner hair cells 
+(electron microscopy has shown that
+the remaining 12,000 outer hair cells serve 
+an ancillary function, rather than a direct 
+freqency-detection role.  This is also supported
+by data from the action potentials of the
+two classes of stereocilia as obtained by
+microelectrodes.) "The two types of coupling can
+therefore be associated with the different
+roles of the two types of hair cell in cochlear
+function, inner hair cells detecting the movement
+of the [basilar] membrane, and the outer hair cells
+helping to generate it." [Pickles, James O., "An
+Introduction to the Physiology of Hearing," Academic
+Press, 1988, 2nd ed., pp. 158-159] 
+It is also difficult to explain pitch perception of
+sounds with low but missing fundamentals: 
+"Suppose high harmonics generate the low pitch.
+They wil be relatively closely spaced and will not
+be resolved by the auditory stytem. Recognition of
+the psectral pattern will not therefore be possible,
+but hte harmonics wil eb able to interact in the
+nervous system to produce periodically varying
+activity.  Temporal theories are therefore supported."
+[Pickles, James O., "An Introduction to the Physiology
+of Hearing," Academic Press, 1988, pg. 273]
+However, Pickles points out that "This is again an
+area which is controversial, and over the years
+opinions have swayed in favour of one hypothesis
+or the other." (I.e., periodicity or place theory.)
+Both theories suffer from the limits imposed 
+mathematically by their proposed mechanisms
+of action, which are in each case  different
+from those observewd: "The lower limit for the place 
+principle is believed to be about 150 Hz becuase 
+the excitation pattern on the basilar membrane does 
+not change with frequencies lower than this limit.
+Some investigators think that the temporal principle
+codes ptich for the very low frequencies and supplements
+the place principle over the midrange frequencies. The
+upper frequency limit of the applicability of the temporal
+principle is uncertain. Some investigators put this limit
+as low as 300 to 400 hz, and others put it as high as
+4000 to 5000 Hz." [Gulick, W. Lawrence,
+George A. Geschneider and Robert D. Frisina, "Hearing:
+Phsyiological Acoustics, Neural Coding, and
+Psychoacoustics," Oxford University Press,
+1989, pg. 261]
+Equally troubling for advocates of the place
+theory is the fact when sine tones are used,
+the ear displays a completely different consonance/
+dissonance curve than that produced by complex
+tones--instead of a series of peaks and troughs, a
+smooth shifted-bell-curve-like response is seen 
+for sine tones.  The Ohm/Helmholtz Fourier theory 
+of hearing fails to explain this result.
+Moreover, von Bekesy found that
+contrary to Helmholtz's presumption,
+"it appeared that combination tones
+are not due to nonlinear vibration of 
+[the timpanic] membrane. Furthermore
+he discovered that the introduction
+of a negative or positive static
+pressure into the external meatus
+changed the loudness of difference
+tones. This would imply that these tones
+are produced in the middle ear." [Plomp,
+1966, pg. 111]
+"However Wever et al, 1941, conducted
+experiments which contradicted von
+Bekesy's findings just mentioned. ...
+Further investigations...suggested that
+the main source of combination tones
+must be sought in the sensory 
+processes, where the microphonic
+potential is evoked, and not in the
+mechanical part of the inner ear (Wever
+and Lawrence, 1954)" [ Plomp, 1966, 
+pg. 111] 
+In addition, the experiments of von Bekesy,
+who did more than any other researcher to
+put the place theory of hearing on a modern
+scientific basis, were also open to considerable
+doubt. " Von Bekesy's observations
+have been questioned on two grounds. Visual
+observations mean that the vibration amplitude
+had to tbe at least of the order of the wavelength
+of light, and the high intensities (130 dB SPL) 
+necesssary make extrapolation to a more 
+physiological range unjustified. Secondly, his
+measurements were performed on cadavers. It is
+now known that not only does the experimental
+animal have to be alive, but the cochlea has to be
+in extremely good phisological condition, to
+show a satisfactory mechanical response."
+[Pickles, James O., "An Introduction to the 
+Physiology of Hearing," Academic Press, 1988,
+end ed., pg. 40]
+In short, investigations began
+to suggest that many important 
+auditory phenomena could only be
+explained by the software, not the
+hardware, of the ear/brain system--
+that is, by the brain itself. "[For] the
+phenomenon...once called "periodicity
+pitch" [there are] alternative explanations...
+known as "pattern" theories.  They suppose that
+the auditory system, by recognizing that the tones
+sounded are the upper harmonics of a low tones, 
+supplies the missing fundamental that would have
+generated them. This is again an area which is
+controversial, and over the years opinions have swayed
+in favor of one hypothesis or the other." [Pickles, James
+O., "An Introduction to the Physiology of Hearing," 
+Academic Press, 1988, 2nd. ed., 1988, pg. 273]
+Clearly by the 1980s much of the  support for the
+place  theory of hearing had crumbled.  In 1984 Pierce
+writes: "Helmholtz accomplished a great deal despite the 
+limitations of the technology available to him.
+Yet he reached false conclusions. He believed the perception 
+of musical pitch depends on the presence of the fundamental 
+frequency. This is not true for low keys on the piano keyboard,
+ or for orchestra chimes, or for bells. HIs other false conclusion
+was that the relative phases of sinusoidal components do not 
+affect the timbre of  a sound." ["The Science of Musical Sound,"
+Pierce, J.R. , 1992, pg. 185; see also "Tone Segregation by Phase: 
+On the Phase  Sensitivity of the single ear," Kubovy and
+Jordan, JASA, Vol. 66, No. 1, 1979, pp.  100-106]
+Still, the place hypothesis accounts very convincingly for 
+at least a few  characteristics of the ear/brain 
+system: it explains how the ear can resolve complex sounds into
+separate pitches, explains the function and structure of some
+of the mechanical components of the inner ear, it explains 
+elegantly the near-logarithmic nature of pitch, and it explains why
+very close tones are heard as being identical in pitch.
+On the other hand, the place theory does *not* explain why stretched 
+intervals significantly larger than those predicted
+by the small whole number ratios (or numerological, essentially
+Kabalistic) theory of  consonance are universally preferred to 
+so-called "pure" intervals (which in psychoacoustic tests
+are consistently heard as "flat" or "too narrow").  Nor does the modern 
+place theory explain combination tones, (as mentioned above), or 
+the fact that two inharmonic-series tones matched to an inharmonic-
+series scale sound strongly consonant (Risset, 1978, 1984, 1985; 
+Sethares, 1992; Geary, 1980; Pierce, 1966; Carlos, 1987; Plomp and
+Levelt, 1965, Kameoka and Kuriyagawa, 1969); nor does the 
+place theory explain (or predict)  modern auditory illusions--
+Shephard's tones,  Risset's tone containing ten 1180-cent
+intervals which when transposed UP an octave DROPS 
+in audible pitch by a perceived 20 cents, etc.
+All of these phenomena *can* be explained by the periodicity 
+theory of hearing as emergent  properties of an autocorrelation
+system.
+However, the periodicity theory itself has a number of problems.
+It does not explain the universal human preference for stretched
+octaves, fifths and thirds, a preference found in the earliest
+experiments performed on measured intervals and in all 
+double-blind psychoacoustic tests performed for 150 years 
+since;  the periodicity theory of hearing cannot account for the 
+fact that pitches very close together create a "chorus" effect 
+instead of massive dissonance. By contrast, the broad region
+of general stimulation of the basilar membrane around the
+much narrow region of maximal stimulation--one of the hallmarks
+of the place theory--explains this effect simply and clearly.
+The phenomenon of combination tones is poorly explained by *both*
+competing hypotheses. As Plomp points out, "This problem applies
+both to place pitch and periodicity pitch. If pitch is based on the place
+of maximal vibration, it is essential for hearing a combination tone that
+the corresonding place of the basilar membrane is stimulated. Then the
+question may be asked of how this can be accomplished by sensory
+processes of hair cells at a distant place of the cochlea. The ascertainment
+of Six (1956) that cochlear microphonics correponding to combinationg tones have their maximum at the same place as the primary tones, contradicts this possibility.
+If, on the other hand, pitch is based on the periodicity of nerve impulses, 
+the problem arises how impulses that  are synchronous with the frequency of combination tones can be initiated when the waveform of cochlear
+michrophonics is flattened (the common form of distortion)" [Plomp, 1966, pg. 121]
+Summing up, James Pickles points out that "Frequency difference limens
+are very much smaller than cirtical bands. Two mechanisms are possible.
+For instance, the subject may detect shifts in the place of excitation
+in the cochlea. This is called the "place theory." Or he may used temporal
+information.  We know that the firing int he auditory nerve is phase-locked
+to the stimulus waveform up to about 5 khz. In this theory, called the
+"temporal" [or "periodicity] theory, the subject discriminates the
+ two tones by using the tme interval between the neural firings. It is not
+clear which of the two mechanisms is used.  Indeed the controversy has been
+active for more than 100 years, and the fact that it is not yet settled shows
+that we still do not have adequate evidence.  Auditory physiolgoists divide
+into three groups, namely those that think only temporal information is used, those that think only place information is used, and an eclectic
+group, who suppose that temporal information is used at low frequencies,
+and only place information at high." [Pickles, James O., "An Introduction
+To the Physiology of Hearing," Academic Press, 2nd ed., 1988, pg. 271]
+The implications for musical tuning are mixed.  Because no clear evidence
+has emerged in favor of any of the three major theories of hearing, 
+no single tuning can be considered to "privileged" or uniquely suited
+to the human ear.  On the other hand, because of the mixed results
+from pscyhoacoustic experiments, the data examined so far would
+tend to support the use of any of the major categories of musical
+tuning: namely, just intonation, equal temperament, or non-just non-
+equal-tempered scales.
+The next post will discuss several modern experiments which provide
+evidence for the third "pattern recognition" hypothesis of hearing,
+ and the implications of all 3 of these hypothetical auditory mechanisms 
+for music & tuning.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 29 Sep 1995 19:07 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA23266; Fri, 29 Sep 1995 10:07:19 -0700
+Date: Fri, 29 Sep 1995 10:07:19 -0700
+Message-Id:  <9509291007.aa21406@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

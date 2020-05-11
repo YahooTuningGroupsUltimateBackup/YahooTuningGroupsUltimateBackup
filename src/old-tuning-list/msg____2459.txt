@@ -1,0 +1,67 @@
+source file: mills2.txt
+Date: Tue, 16 Jan 1996 10:00:57 -0800
+
+Subject: Sine Mod ET's
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+The Tuning List has been rather inactive recently so I 
+thought I'd post some recent studies of mine. Just before last Xmas, 
+Brian Thomson posted some examples of sine-modulated equal temperaments. 
+SMET's are ETs in which the interval width is periodically varied to 
+improve the consonance of certain intervals, at least in the mode 
+starting on the note 0. Brian used the formula A*sin(pi*F*N/ET) where F is 
+the frequency (restricted to even numbers in this case), A is the 
+amplitude, N is the note index and ET is the number of notes per octave). 
+The phase is 0 at tone #0.
+	I wrote a simple 1-D search program BASIC program and minimized 
+the sum of the abolute values of the errors between the closest SMET 
+notes and the JI intervals 3/2, 4/3, 5/4, 6/5, 5/3 and  8/5, a somewhat
+ different set than BT used. The summed absolute error, squared error, 
+mean deviation, variance  and standard deviations were computed in cents 
+for each SMET. Other evaluation and statistical functions could have beed 
+used, but these seemed appropriate to me.
+	Results were obtained for the 12,15,17,19, 22, 24, and 31-tets. 
+The errors of some unmodulated ET's are small enough that "improvement" 
+is scarcely necessary and others are so inharmonic there is little point 
+as even drastic amounts of modulation do not really make much difference. 
+ 
+ET		F		A		STD 	Un-MOD STD
+ 
+12		10		 0.132579	5.29859	12.05267	
+ 
+15		8		-0.240234 	4.69927	13.31584	
+ 
+17		10		 0.502893	5.53674	27.30851
+ 
+19		8		 0.1136078	0.48389	5.95502
+ 
+22		20		 0.1699097	2.94625	8.92950 
+ 
+24		10		 0.265158	5.29859	12.05267
+		
+31		18		 0.133739	1.467844 4.58336 
+ 
+A few caveats: the search program was somewhat sensitive to initial
+conditions and although I set the acceptable summed error to be less 
+than 10 exp -7, even in double precision mode, I would not trust the
+numbers past the 6th figure. In a few cases, the best solutions had
+A's greater than 0.5, which would imply overlapping notes, except
+that in some cases two or 3 adjacent intervals varied sufficiently that
+no inconsistencies arose. These cases have been omitted from the table
+above except for 17. My solution for 19 is very similar to Brian's, the 
+differences in the amplitude are probably due to my use of a different 
+interval set and round-off in my computer.
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 16 Jan 1996 19:02 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA03635; Tue, 16 Jan 1996 10:02:48 -0800
+Date: Tue, 16 Jan 1996 10:02:48 -0800
+Message-Id: <199601132256.OAA11434@netcom13.netcom.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

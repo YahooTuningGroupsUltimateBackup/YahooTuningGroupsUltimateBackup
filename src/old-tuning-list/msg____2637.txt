@@ -1,0 +1,36 @@
+source file: mills2.txt
+Date: Fri, 8 Mar 1996 07:36:36 -0800
+
+Subject: Micro tuning, MIDI and Pitch Bend
+
+From: thierry.rochebois@ief-paris-sud.fr (Thierry Rochebois)
+
+For a few days, I attempt to achieve microtuning using
+an Atari and a D5.
+
+I use the pitch bend to affect the pitch.
+
+The problem is that when a note is off... it is not really off:
+the release of the note is not actually finished.
+
+The solution consists in using half MIDI channels.
+For each "virtual" channel, I will use 2 real channels so that
+release part and pitch bend wouldn't overlap (I will play half the
+notes on one real and the other half on the other real channel).
+
+So, I will only be able to use 4 channels rather than 8...
+
+I think that it will be enough for a start!
+
+Thierry Rochebois
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 8 Mar 1996 16:49 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA09877; Fri, 8 Mar 1996 07:48:36 -0800
+Date: Fri, 8 Mar 1996 07:48:36 -0800
+Message-Id: <9603081533.AA00374@zeus.ief-paris-sud.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

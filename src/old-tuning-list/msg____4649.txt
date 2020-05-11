@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Sun, 19 Jan 1997 13:12:39 -0800
+
+Subject: Re: digest 961, topic 1 - .AU and .WAV files
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+Hi Gary,
+
+In Tuning Digest 961, topic 1, you wrote:
+>   I hear say that ".AU" files, which I THINK is a file format that Sun
+>invented, are (losslessly) compressed.  Anybody know if helper apps for .AU
+>files are common, or does pretty much everybody use .WAV in web pages?  
+
+I was looking for an application to convert .WAV files to .AU myself.  It
+seems like .AU works better with web browsers, but I don't know how to
+create .AU files from my Windows-based system.
+
+>   Also, I heard from a not-so-authoritative authority that .WAV files
+>encode ONLY the raw audio data, and do NOT encode sample size, sample rate,
+>nor number of channels.  Anybody know if that's true?  
+
+The "Sound Recorder" accessory supplied with Windows (SOUNDREC.EXE) provides
+no way to specify properties such as sample rate, nor does it let you view
+what the properties are for a given file.  ".WAV" files DO contain info such
+as sample rate, though.
+
+I just ran some tests to verify this, using an accessory supplied with my
+sound card (Audio Recorder by ESS Technology).  It allowed me to specify
+sampling rates from 5.5 kHz to 44 kHz.  Windows' accessory appears to record
+everything as 16 bit samples at 22 kHz Mono, but is capable of playing the
+other formats.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Jan 1997 20:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08084; Sat, 18 Jan 1997 16:01:27 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA08103
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA01887; Sat, 18 Jan 1997 07:01:24 -0800
+Date: Sat, 18 Jan 1997 07:01:24 -0800
+Message-Id: <199701180958_MC1-E81-51FD@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

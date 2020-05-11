@@ -1,0 +1,94 @@
+source file: mills3.txt
+Date: Tue, 4 Nov 1997 19:45:00 +0100
+
+Subject: RE: Erlich's Theory
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Fans of Paul Erlich will no doubt already have read his paper available
+through http://www-math.cudenver.edu/~jstarret/microtone.html .  A
+brave attempt at a theory of diatonic, 7-limit harmony.
+
+Now, back to picking his posts apart paragraph by paragraph:
+
+>The harmonic entropy curve, like the Plomp-Levelt roughness curve for tones
+>with harmonic partials, has local minima at small-integer ratios. It is
+>standard in physics (and justified by calculus) to approximate any local
+>minimum with a parabola. Therefore, near a just ratio, the change in
+>dissonance is proportional to the squared detuning.
+
+I don't have Plomp & Levelt's curve to hand, but I do have Kameoka &
+Kuriyagawa's.  The minima don't look much like parabolas to me.  I
+question this generalisation for physics as well, but that needn't
+bother the rest of you.
+
+
+A Farey series would be like a Partch even limit, right?
+
+> These curves look remarkably like many of
+> the Helmholtz/Plomp curves that were derived from completely different
+> assumptions,
+
+I'd guess any function that bears some relation to the overtone series
+would produce a qualitatively equivalent curve.  The entropy method
+then looks like a good way of going from functions of integer ratios
+to a continuous curve.  There are lots of the former, of course -- the
+Partch limit, LCM, generalised harmonic distances, or counting the
+"filled" partials of the virtual pitch.
+
+> How to
+> weigh the various subsets' contributions to the probabilities of
+> particular fundamentals in an overall analysis is unclear. Even without
+> the consideration of subsets, there appears to be no mathematical theory
+> of ratios of three of more numbers analogous to Farey theory, and no
+> easy way to create one. Unlike roughness, tonalness is not merely
+> concerned with pairwise interactions of tones but three-way and higher
+> interactions as well. A mathematical model for it is out of my grasp at
+> the moment.
+
+It's crucial that a concordance theory be made to work for more than
+dyads.  I think here that the entropy method will become rapidly
+computationally intensive the more notes are involved.  I would try
+this myself, but I've got software to write, and I might get a job
+soon, so I don't really have the time ...
+
+As a composer, I feel a theory of chords is more useful than one of
+dyads.  Most useful of all, though, is a theory of chord sequences.
+This is where lattices come into their own.  As a programmer, speed
+and memory are important, so I'm planning to go for harmonic
+distances if I ever get around to dynamic tuning.  I think a
+Euclidian distance on a parallelogram lattice should include
+approximations to both Partch limits and LCMs.
+
+
+BTW, I had a flanger on when I did my listening experiment before,
+which explains the unpleasentness of the 31TET 4:6:7.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  William Sethares <sethares@eceserv0.ece.wisc.edu>
+Subject:  consonance calculations
+PostedDate:  04-11-97 21:11:56
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  04-11-97 21:10:56-04-11-97 21:10:57,04-11-97 20:11:20-04-11-97 20:11:21
+DeliveredDate:  04-11-97 20:11:21
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256545.006ED8BB; Tue, 4 Nov 1997 21:10:44 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02476; Tue, 4 Nov 1997 21:11:56 +0100
+Date: Tue, 4 Nov 1997 21:11:56 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02474
+Received: (qmail 29649 invoked from network); 4 Nov 1997 12:11:51 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 4 Nov 1997 12:11:51 -0800
+Message-Id: <199711042008.AA10088@eceserv0.ece.wisc.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

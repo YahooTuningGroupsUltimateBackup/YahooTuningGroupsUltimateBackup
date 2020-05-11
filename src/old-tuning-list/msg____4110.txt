@@ -1,0 +1,56 @@
+source file: mills2.txt
+Date: Fri, 22 Nov 1996 15:56:31 -0800
+
+Subject: 13th harmonic just intonation
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+When I visited Johnny last weekend, he played me some very beautiful music 
+his wife had composed and the couple had performed together. He couldn't 
+tell me offhand what the tuning was, except that it used the number 13 
+predominantly.
+
+Let me assume that the scales Mayumi used were entirely built on cycles of 
+13:8 plus all octave equivalents. There would be no 13:6's or any prime 
+numbers besides 2 and 13, and thus no possible perfect fifths. A cycle of 
+seven 13:8s would produce the scale
+
+0 121.6 359.5 481.1 718.9 840.5 962.1 (1200)
+
+which resembles a neutral diatonic scale and has quite a few usable 
+harmonies, unlike a cycle of seven 11:8s
+
+0 97.4 454.0 551.3 648.7 1005.3 1102.6 (1200), (sounds like 13-tET)
+
+seven 9:8s
+
+0 203.9 407.8 611.7 792.2 815.6 996.1 (1200), (sounds like 6-tET)
+
+seven 7:4s
+
+0 231.2 275.3 462.3 506.5 737.7 968.8 (1200),
+
+
+or seven 5:4s
+
+0 345.3 386.3 427.4 772.6 813.7 1158.9 (1200).
+
+
+Johnny, I wonder if this has anything to do with what you were saying about 
+the 13th harmonic at the Japanese restaurant. If so, I would decribe this as 
+a "number-theoretic fluke" (to quote Manfred Schroeder) rather than anything 
+intrinsic to the sound of 13:8 itself.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 23 Nov 1996 01:59 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04432; Sat, 23 Nov 1996 02:00:48 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04748
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id RAA06887; Fri, 22 Nov 1996 17:00:45 -0800
+Date: Fri, 22 Nov 1996 17:00:45 -0800
+Message-Id: <Pine.SOL.3.91.961122061108.2001C-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

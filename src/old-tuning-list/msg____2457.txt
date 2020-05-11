@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Tue, 16 Jan 1996 09:58:22 -0800
+
+Subject: A wish list for microtonal synthesizers
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+>Hello!
+>Ensoniq?
+>Are you there?
+
+Yo.
+
+>Q: What's the most important part of any
+>synthesizer?
+>A: Envelopes, envelopes, envelopes!
+>The complexity of the synthesizer's envelopes
+>ENTIRELY determines how complex and subtle its
+>sounds can be.
+
+Don't forget the Buchla MARF, which stood for "Multiple Arbitrary Function
+Generator", which allowed for envelopes with any number of breakpoints and
+looping control based on real-time input.  The 300 series analog and Touche
+and series 400 digital synths used these to great effect.  The ADSR's time
+is long past.  It's handy that our envelopes are loopable so you can use an
+envelope generator as a parametric-shape LFO.
+
+(forgive the topic drift)
+
+regards,
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 16 Jan 1996 18:59 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA02448; Tue, 16 Jan 1996 09:59:38 -0800
+Date: Tue, 16 Jan 1996 09:59:38 -0800
+Message-Id: <960113035035_71670.2576_HHB53-7@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

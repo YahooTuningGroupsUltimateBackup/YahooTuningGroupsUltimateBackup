@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Fri, 15 Nov 1996 10:54:47 -0800
+
+Subject: RE: Pitch Bend Tuning
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Andrew Souter writes:
+> I do not have acces to any soft of hardware frequency counter, and
+> currently I work on an 68040 Mac and do not know of any software counters.
+
+Well the ethnomusicologists of the last century used a grammophone and glass
+plates with soot to measure frequency, be inventive!
+I'm kidding, but perhaps you could use a monochord to find out the nature
+of the relation between pitch bend numbers and frequency.
+
+> using an external sequencer to produce every possible value in step size of
+> 1 unit (0,1,2,3...   ...8189,8190,8191) from 0 to 8191, how many unique
+> pitch values will the K2000 produce?  Is it capable of producing 8192
+> unique values?
+
+If you put the sound through an echoing device with feedback (tape loop,
+effects processor, etc.) then you can hear the sound beat with its echo 
+if there is an actual change with one unit step.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 15 Nov 1996 20:38 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12924; Fri, 15 Nov 1996 20:39:54 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA13421
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA26576; Fri, 15 Nov 1996 11:39:51 -0800
+Date: Fri, 15 Nov 1996 11:39:51 -0800
+Message-Id: <73961115193637/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

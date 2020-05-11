@@ -1,0 +1,59 @@
+source file: m1400.txt
+Date: Thu, 30 Apr 1998 10:10:20 -0500 (CDT)
+
+Subject: Re: Synthesizer Resolution
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Tue, 28 Apr 1998, Fred Kohler wrote:
+> Because of the digital circuitry involved, synthesizer manufacturers will be
+> inclined to select a number of steps per octave in which powers of 2 are a
+> majority.  Is there some mathematical reason that such numbers as 768, 864,
+> 1024, 1152 and 1280 have poor consistency? [snip]
+
+I don't have any deep or rigorous explanation for it, but whenever one
+finds a ET number with high consistency for its size (like 12) its
+multiples tend to drop off rapidly in consistency level.
+
+> Is there a number that is mostly powers of 2 that would qualify as having
+> high consistency that would make the synth manufacturers happy?
+
+Here's how Fred's suggested numbers look:
+
+(limit) 3   5   7   9
+---------------------
+ 768|   .   .   .
+ 864|   .   .
+1024| 312   .   .
+1152|   4   3   2   .
+1280|   2   .
+
+(1152 looks the best of those, although 1024 is a power of 2 and has
+great 3/2s--level 312 is a bit of overkill, though. 8-)> )
+
+Of the multiple-of-12 numbers in my first list, their prime
+factorizations are:
+
+612 = 17 * 3^2 * 2^2
+624 = 13 * 3   * 2^4
+684 = 19 * 3^2 * 2^2
+
+Compare these to the numbers in Fred's list:
+
+ 768 = 3   * 2^8
+ 864 = 3^3 * 2^5
+1024 =       2^10
+1152 = 3^2 * 2^7
+1280 = 5   * 2^8
+
+1200, BTW, is 5^2 * 3 * 2^4.
+
+I don't have time just at the moment (maybe this weekend) to do a more
+thorough search, but others are welcome to look through my consist.txt
+table and suggest better compromises.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Thu, 2 Nov 1995 07:28:43 -0800
+
+Subject: Scale generators and ASR/OTTO tuning resolution
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+>Marion tells us:
+>There are matrix methods, which multiply sets of frequency
+>ratios, and there are cycle methods which multiply a single ratio
+>iteratively.  All of them quickly generate a lot of scales, but
+>they are, for the greater part, scales that can not be accurately
+>reproduced on contemporary instruments.  Also, these methods are
+>mostly indifferent to the consonance of the scales they produce.
+
+Sad but true.  The especially odd part is that oscillator chips have pretty
+good resolution but making them represent ET scales cuts this down
+significantly.  
+
+For instance, The OTTO chip in the ASR-10 has an 11-bit fractional phase
+accumulator.  This means that a sample from unity up to an octave can
+resolve 2048 different intervals.  An octave above that this number doubles
+for each octave, and each octave below this is halved.  
+
+The tuning tables are represented as 7 bits between semitones, which is 1524
+steps or .78 cents.  However, the exponential table used to convert linear
+frequency isn't long enough, which is why you really only get 768 steps or
+the 1.5 cent resolution measured by Carter Scholz a number of years ago. 
+(Thanks to Bill Mauchly for this info) 
+
+What's needed is some kind of 'ratio mode' which calculates this directly
+and sets up integer ratios between different voices.  Don't look for this in
+any sort of product from us any time soon, though.  If you have a Soundscape
+card it is possible to hit the OTTO chip directly from the PC and put in
+your own ratios.  Writing some Forth code to do this and implement Marion's
+variable loop length tuning method has been on my project stack for a while.
+The only big problem is that the Soundscape waveforms are in ROM, but you
+could possibly find different waveforms of different lengths and match them up.
+
+regards,
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 2 Nov 1995 18:38 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA28879; Thu, 2 Nov 1995 08:38:00 -0800
+Date: Thu, 2 Nov 1995 08:38:00 -0800
+Message-Id:  <9511020837.aa10239@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

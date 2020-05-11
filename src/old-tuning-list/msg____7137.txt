@@ -1,0 +1,73 @@
+source file: mills3.txt
+Date: Mon, 16 Feb 1998 16:20:06 +0100
+
+Subject: seminar announcement in Ithaca NY
+
+From: William Sethares <sethares@eceserv0.ece.wisc.edu>
+
+In case any of you are going to be in the Ithaca area
+this week, I am giving a talk at Cornell University that discusses
+various aspects of "Tuning, Timbre, Spectrum, Scale."
+It'll be interesting to see how engineers and tuning theory
+react to each other...
+
+Date:     Feb 20 1:30 pm, Phillips Hall
+
+Title:    Perception-Based Audio Signal Processing
+
+Speaker:  Bill Sethares
+
+Abstract:
+
+At the intersection of signal processing, music, and psychology lies
+perception-based audio processing, which investigates the
+relationships between the structure of sounds, the structure of music,
+and the underlying biological/perceptual aspects of the human
+auditory system.
+
+The talk begins by showing how to build a device that can measure
+the "sensory" consonance and/or dissonance of a sound in its musical
+context. As shown in my recent book "Tuning, Timbre, Spectrum,
+Scale", such a "dissonance meter'' has implications in music theory, in
+synthesizer design, in the construction of musical scales and tunings,
+and in the design of musical instruments.
+
+The talk then examines some of the signal processing problems that
+arise when trying to manipulate sounds so as to remain faithful to
+psychoacoustic principles. These involve complex (and sometimes ill-
+posed) optimization problems, as well as (nonlinear and/or time
+varying) algorithms designed to decrease (or increase!) the
+dissonance of a sound. In particular, we discuss various "spectral
+mapping" algorithms that try to move the partials of a sound without
+changing its "character".
+
+Sound examples are present throughout.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Xou Oxno <xouoxno@virtulink.com>
+Subject:  Newband & the Last Laugh
+PostedDate:  16-02-98 19:25:17
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  16-02-98 19:24:23-16-02-98 19:24:24,16-02-98 19:22:15-16-02-98 19:22:15
+DeliveredDate:  16-02-98 19:22:15
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C12565AD.006517D7; Mon, 16 Feb 1998 19:24:12 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04232; Mon, 16 Feb 1998 19:25:17 +0100
+Date: Mon, 16 Feb 1998 19:25:17 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA04225
+Received: (qmail 1288 invoked from network); 16 Feb 1998 10:24:19 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 Feb 1998 10:24:19 -0800
+Message-Id: <34E8ADFC.3DD6@virtulink.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

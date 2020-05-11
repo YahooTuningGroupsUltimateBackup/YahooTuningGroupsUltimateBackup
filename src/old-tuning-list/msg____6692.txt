@@ -1,0 +1,256 @@
+source file: mills3.txt
+Date: Thu, 18 Dec 1997 05:43:58 +0100
+
+Subject: Melodic Limen and Definition of Pitch Classes
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+I have now spoken enough of the melodic limen as a general phenomenon.
+There remains the question of how the melodic limen interacts with the
+particular intervals of music to produce the actual pitch classes of
+melody.
+
+The seven consonances and twelve tonal dissonances constitute points
+within the octave, each at the center of its own melodic region. Taking
+these regions at +/- 30 cents (the 60-cent melodic limen) we have the
+following regions:
+
+-30 ? 30		prime 1:1
+41 ? 101 		chromatic semitone 25:24
+82 ? 142		diatonic semitone 16:15
+152 ? 212		minor tone 10:9
+174 ? 234		major tone 9:8
+286 ? 346		minor third 6:5
+356 ? 416		major third 5:4
+397 ? 457		diminished fourth 32:25
+468 ? 528		fourth 4:3
+539 ? 599		augmented fourth 25:18
+601 ? 661		diminished fifth 36:25
+672 ? 732		fifth 3:2
+743 ? 803		augmented fifth 25:16
+784 ? 844		minor sixth 8:5
+854 ? 914		major sixth 5:3
+966 ? 1026		lesser minor seventh 16:9
+988 ? 1048 	greater minor seventh 9:5
+1058 ? 1118 	major seventh 15:8
+1099 ? 1159	diminished octave 48:25
+1170 ? 1230	octave 2:1
+
+Remember that I am here considering melody, not harmony; obviously an
+octave of 1230 cents would be something terrible in harmony.
+
+The minor and major tones greatly overlap, and so do the lesser and
+greater minor sevenths; as far as melody is concerned these pairs merge.
+
+At the other extreme, the prime is absolutely distinct from the
+chromatic semitone, the diatonic semitone is clearly distinct from the
+minor tone, the minor third is very easily distinguished from both the
+major tone and the major third, the perfect fourth is quite distinct
+melodically from both the diminished and augmented fourths, the
+augmented fourth is distinct from the diminished fifth, the perfect
+fifth is highly distinct melodically from the diminished and augmented
+fifths, the minor sixth is quite distinct from the major sixth, the
+major sixth is quite distinct from the lesser minor seventh, the greater
+minor seventh is distinct from the major seventh, and the diminished
+octave is distinct from the perfect octave.
+
+To my own ears at least, all the above predictions of theory are
+correct. The augmented fourth and diminished fifth, for example, are as
+different in character as the locrian and lydian modes (when sung just),
+the former melancholy and 'minor', the latter weirdly major and
+hilarious. But in the 12-tone equal, where these modes must use the same
+600-cent interval, this difference in character is far less pronounced.
+
+A third class of justly-intoned interval-pairs would be predicted to be
+but little distinct when played on instruments; singers must either
+exaggerate the difference between these intervals in order to sing them,
+as in 19-tone equal, or else merge them altogether, as in 12-tone equal.
+These are:
+
+chromatic semitone & diatonic semitone (faintly distinct to my ears,
+although with great effort; perhaps the very conjunct nature of these
+intervals permits their separation by sheer 'dead-reckoning'.)
+
+major third and diminished fourth (not distinct to my ears)
+
+augmented fifth & minor sixth (distinct to my ears with great effort,
+the former slightly expansive and 'major', the latter slightly
+contractive and 'minor')
+
+major seventh & diminished octave (not distinct to my ears)
+
+Finally, there are two "holes" in the octave big enough to definitely
+escape from the melodic orbits of the consonances and tonal dissonances.
+These are 234 ?286 cents (center: 260 cents) and 914 ? 966 cents
+(center: 940 cents). Like faint stars that come out at night while the
+sun no longer shines (forgive the poetaster), the atonal dissonances
+that occupy these two "black holes" enter into prominence. The augmented
+second/diminished third "hole" has three atonal dissonances, of which
+125:108 at 253 cents is nearest the center. 7:6 is at 267 cents, so may
+exert some influence. The augmented sixth/diminished seventh "hole" has
+likewise three atonal dissonances (necessarily so, since these two
+"holes" are complements of each other), of which 216:125, the complement
+of 125:108, is nearest the center. 7:4, at 969 cents, is not part of
+this "hole", and moves definitely within the tonal orbit of 16:9.
+
+It is to be noted also, that 7:4 is very disjunct, and this further
+increases the difficulty in singing it. 7:4 is in fact the very type of
+the interval that when sung "just" sounds badly mistuned; indeed, the
+effect of 7:4 when played just, very well corresponds to the typical
+Western notion of a singer unable to carry a tune. The third septimal
+interval, 7:5, is swallowed up by 25:18, which it closely resembles in
+melodic effect; the latter is however even more intensely weird, cool,
+laid-back, etc.
+
+If we now insert 125:108 and 216:125, merge the two pairs 10:9/9:8 &
+16:9/9:5,  divide the narrow 10-cent gaps remaining between some of the
+pitch classes, and divide the narrow overlaps equally, we have the
+following division of the octave:
+
+-30 ? 35 		perfect prime
+36 ? 91		augmented prime/diminished second (chromatic semitone)
+92 ? 147		minor second (diatonic semitone)
+148 ? 228		major second
+229 ? 285		augmented second/diminished third
+286 ? 351		minor third
+352 ? 406		major third
+407 ? 462		diminished fourth
+463 ? 533		perfect fourth
+534 ? 600 		augmented fourth
+601 ? 666		diminished fifth
+667 ? 738		perfect fifth
+739 ? 793		augmented fifth
+794 ? 849		minor sixth
+850 ? 915		major sixth
+916 ? 971		augmented sixth/diminished seventh
+972 ? 1052		minor seventh
+1053 ? 1109	major seventh
+1110 ? 1164 	diminished octave
+1165 ? 1230 	octave
+
+The major second and minor seventh pitch classes are predicted to be
+much wider than the average width, whereas ten other pitch classes are
+slightly narrower than average, and seven pitch classes about average in
+width.
+I do not want to make too much of this, for there is evidence to the
+contrary, but it is a common observation that the major second and minor
+seventh are the most variable in widths of the intervals, and not only
+in Western music...
+
+The pitch class comprising the consonances may however well be slightly
+narrower than those of the disjunct tonal dissonances, and especially
+the atonal disjunct dissonances, for it is well-proven that singers can
+sing consonances much more accurately than disjunct dissonances, and
+audiences may be more able to hear errors.
+
+These tables are nothing more than the roughest of estimates;
+nevertheless they do permit us to predict quite well the melodic
+character of the several degrees of the usual temperaments. The nearer
+the degree of a temperament to the centers of the 19 pitch classes, the
+more surely will that degree sound melodically distinct, and possessed
+of a unique character, for the more perfectly will its degrees reproduce
+the tonal fabric of just intonation, without however the intonational
+flaws of just intonation (namely the inconsistency of the three
+consonant cycles), which a good temperament resolves.
+
+There is however, another most important point to be made. As has been
+seen, ten of the pitch classes of just intonation may be but roughly 55
+cents wide, and my own ears at least find that at least a few of the
+just intervals require some considerable attention to keep distinct from
+adjacent tones in melody. One would expect that two tones as 25:24 and
+16:15, separated by only 41 cents, would be far less melodically
+distinct than 25:18 and 36:25, separated by 63 cents. In fact, whatever
+may be the corrections which greater study may make to the above tables,
+it is quite certain that the 19-tone equal, which equalizes the
+intervals at 63.3 cents (63.16 cents without a stretched octave) is
+melodically richer than just intonation itself, because in this
+temperament almost all the last instances of melodic confusion of
+adjacent intervals are removed, a fact that becomes apparent on the most
+cursory examination of this temperament. In the 19-tone equal four
+interval pairs that are susceptible of being melodically confused in
+just intonation (chromatic vs. diatonic semitone, etc) become quite
+distinct.
+
+It is instructive to use the above determination of the melodic pitch
+classes of just intonation to analyze the intervals of 12-tone equal,
+which are widely known.
+
+The 12-tone equal has, melodically considered, excellent fourths and
+fifths, and its major seconds and minor sevenths also are not bad,
+becasue they are relatively near the center of the just ranges for these
+intervals. Much less satisfactory are the minor seconds, minor thirds,
+major thirds, minor ixths, major sixths and major seventh. Although
+highly imaginative persons very often _try_ to hear additional intervals
+in the 12-tone equal, this temperament has no chromatic semitone,
+augmented tone, diminished fourth, tritone, diminished fifth, augmented
+fifth, augmented sixth or diminished octave. Consequently, it is these
+intervals of the 19-tone equal, or of just intonation for that matter,
+that are likely to sound strangest to the typical Western musician. But
+they sound strangely beautiful, not merely strange.
+
+Perhaps the most atonal of the 12-tone intervals is its 600-cent
+interval, which has neither the even-more-than-septimal weirdness of the
+augmented fourth nor the intensely menacing quality of the true
+diminished fifth, but rather an utterly neutral, colorless ethos.
+19-tone equal has two atonal intervals, its augmented second/diminished
+third and its augmented sixth/diminished seventh, of which the former is
+far less objectionable than the 600-cent atonal interval of 12-tone
+equal, but the latter even more so.
+
+Finally, I give the centers of the 19 melodic pitch classes, together
+with the degrees of the 19-tone equal:
+
+Just		19-tone Equal (with octave stretch)
+64			63.3
+119			126.6
+188			189.9
+257			253.2
+319			316.5
+379			379.8
+435			443.1
+502			506.4
+567			569.7
+633			633.0
+702			696.3
+766			759.6
+822			822.9
+884			886.2
+943			949.5
+1012		1012.8
+1081		1076.1
+1137		1139.4
+1200		1202.7
+
+Here is as good as anywhere to announce that I am in the habit of
+calling enneadecaphony (19-tone equal temperament) with an octave
+stretch of 2.7 cents 'eumely', from the Greek for
+'sweetly-sounding'.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  Comments to Andrew Kaye
+PostedDate:  18-12-97 06:18:55
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-12-97 06:16:54-18-12-97 06:16:55,18-12-97 06:16:32-18-12-97 06:16:32
+DeliveredDate:  18-12-97 06:16:32
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256571.001CFF7F; Thu, 18 Dec 1997 06:18:40 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18674; Thu, 18 Dec 1997 06:18:55 +0100
+Date: Thu, 18 Dec 1997 06:18:55 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18673
+Received: (qmail 20422 invoked from network); 17 Dec 1997 21:18:52 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Dec 1997 21:18:52 -0800
+Message-Id: <34991428.1F0C@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

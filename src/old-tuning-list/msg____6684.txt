@@ -1,0 +1,124 @@
+source file: mills3.txt
+Date: Wed, 17 Dec 1997 23:58:14 +0100
+
+Subject: 19-tone Fret Lengths
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+Bobby Lee said:
+> After reading in this group about 19TET (I'd never heard of it until a week
+> ago!), I've come to realize that it would be fairly easy to retune my
+> diatonic steel to it.  I'd have to paint myself a 19 tone fretboard - that
+> sounds like fun, actually.  Tuning the strings, pedals and knee levers would
+> be a snap with my Korg tuner.
+
+I'm afraid I'm very ignorant about the pedal steel. However, here are
+the 19-tone equal fret lengths for a guitar with a scale length of 25
+inches. These frets give a stretched octave of 1202.7 cents, which is
+what I recommend for the best harmony. These figures do not include the
+necessary compensation (necessary on guitars at any rate) which would
+_decrease_ these values by something on the order of 0.07 inches (more
+for the bass strings, less for the treble). I give only the first 19
+frets, since the little-used higher frets would perhaps be too close
+together to play easily, and are, as I understand, less used in any
+event. However, I'm not a guitar player, so someone else on the list who
+has actually built a guitar or other stringed instrument will probably
+be a better source of info. However, I can comment on fret placement and
+compensation, if you have questions.
+
+Fret number from nut		Fret distance from nut in inches
+1							0.90
+2							1.76
+3							2.60
+4							3.40
+5 (minor third)				4.18
+6 (major third)				4.92
+7							5.65
+8 (fourth)					6.34
+9							7.01
+10							7.66
+11 (fifth)					8.28
+12							8.88
+13 (minor sixth)			9.46
+14 (major sixth)			10.02
+15							10.55
+16							11.07
+17							11.57
+18							12.05
+19 (octave)					12.52
+
+I apologize to those to whom what follows is elementary. Here is how to
+find fret lengths in any temperament you may desire:
+1. Convert from the cents of the interval you're interested in, to the
+equivalent power of 10, that is to say to the logarithm (this is what a
+logarithm is, a power of 10; for example the log of 100 is 2, because we
+must raise 10 to the second power, i. e. 10 squared, to get 100)
+2. Raise 10 to this power to get the decimal ratio of the cent interval
+3. Divide total string length (or scale length, i.e. the length of
+string from nut to bridge) by this decimal ratio; this will give you the
+part of the string that will sound the desired interval, i.e. that will
+sound the note above the note of the open string. I wish I could give a
+diagram here...
+4. Finally, to find the distance from the nut, subtract the distance
+from the bridge from the total length of the string from nut to bridge
+
+For example, to find the fret sounding the pitch 696.3 cents above the
+note sounded by an open string of length 25 inches:
+1.   696.3/(1200/log(2))     (divide 1200 by the log of 2, then take the
+result and divide 1200 by that result)     = .174672654984
+2.   10^.174672654984     (raise 10 to the .174672654984 power)   =
+1.49510830872
+3.    25 inches/1.49510830872    (divide the scale length 25 inches by
+the result)
+    =16.7211966212 inches from the bridge
+4.  25 inches - 16.7211966212 inches = 8.27880337882 inches from nut,
+which we can round to 8.28 inches, as in the above table
+
+These are not difficult calculations, and anyone with a pocket
+calculator can perform them.
+
+This does _not_ take into account compensation however, which typically
+requires that the scale length be lengthened by 1 to 5 millimeters
+(according to Fletcher & Rossing: Physics of Musical Instruments, p.
+228). The bass strings particularly require to be lengthened, hence the
+angled bridge concept. Electric basses are said to require even more
+compensation. If this compensation is not made, fretted notes will be
+sharper than open ones. Perhaps I should do a post on compensation, and
+see if someone with more experience than I have (I'm not a guitar player
+or maker) has some more thoughts on the subject. But there are some
+makers, I am told, including even some professional guitar-makers, who
+do not properly compensate, so their instruments do not give terribly
+accurate results. Some of the compensation techniques are patented, I
+believe.
+
+The log of 2 refers to the definition of the cent, and is not to be
+changed merely because we have stretched the octave.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  Szende not Szasz
+PostedDate:  18-12-97 01:54:49
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-12-97 01:52:44-18-12-97 01:52:44,18-12-97 01:52:21-18-12-97 01:52:22
+DeliveredDate:  18-12-97 01:52:22
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256571.0004D1BA; Thu, 18 Dec 1997 01:54:34 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18266; Thu, 18 Dec 1997 01:54:49 +0100
+Date: Thu, 18 Dec 1997 01:54:49 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18545
+Received: (qmail 812 invoked from network); 17 Dec 1997 16:54:46 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Dec 1997 16:54:46 -0800
+Message-Id: <3498D678.3D51@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

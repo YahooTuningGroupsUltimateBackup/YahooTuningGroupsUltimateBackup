@@ -1,0 +1,107 @@
+source file: m1569.txt
+Date: Fri, 30 Oct 1998 15:52:22 -0800 (PST)
+
+Subject: Re: Consonance and spiral of fifths/fourths
+
+From: "M. Schulter" <mschulter@value.net>
+
+Hello, there.
+
+Recently people have been raising some interesting questions about
+consonance and the spiral of fifths or fourths. It's easy to show that
+the location of an interval on this spiral does not always determine
+its perceived degree of concord or discord, and somewhat more delicate
+a matter to delve into the intricacies of an issue such as 81:64
+vis-a-vis 5:4.
+
+For example, one interesting facet of Western European harmonic
+evolution not so often considered is that 81:64 (the Pythagorean
+ditone equal to four fifths minus two octaves, about 408 cents) is
+ranked as relatively concordant by most 13th-14th century theorists,
+but as "dissonant" by some 16th-17th century theorists. I suggest a
+possible explanation below which seems intuitively appealing at first
+blush.
+
+While judgments of this kind may differ from listener to listener, and
+certainly from era to era or culture to culture, it's easy to show (as
+has already been done) that degrees of consonance do not necessarily
+follow the sequence of the spiral of fifths or fourths. For example,
+let's consider the ranking schemes common among 13th-century European
+theorists:
+
+             Stable       Relatively      Relatively       Strong
+             concord      concordant        tense          discord
+
+1 fifth 3:2    x
+
+2  M2   9:8                                   x
+
+3. M6  27:16                                  x
+
+4. M3  81:64                  x
+
+5. M7 128:81                                                   x
+
+6. A4 729:512                                                  x
+
+It's generally agreed among 13th-century theorists that M2 and M6,
+which come before M3 on the spiral of fifths, are nevertheless _less_
+rather than more concordant, although they have some "compatibility"
+also, and might be placed in a middle region of "unstable but
+compatible."
+
+While moving further along this spiral of harmonic intervals requires
+entering the realm of accidental alterations and augmented and
+diminished spellings, the results might be even more striking.
+
+Within European and related traditions of composition, most people now
+as in the 13th century would agree that a major seventh (fifth #5) is
+a strong discord in itself. Yet fifth #10 gives us a Pythagorean
+augmented second (19683:16384, about 318 cents), a more complex ratio
+and also a much more concordant interval to most modern listeners,
+being only about 2 cents from an m3 at a pure 6:5.
+
+Similarly, a Pythagorean comma (fifth #12) at 531441:524288 (about
+23.46 cents) would be strongly dissonant to just about any listener in
+this tradition. Yet a doubly diminished fourth (fifth #16, e.g. d#-gb)
+of about 271 cents is only about 3.8 cents from a pure 7:6, which I
+suspect many people on this list would regard as more concordant than
+a comma (fifth #12) or even a major seventh (fifth #5).[1]
+
+As for 81:64 and 5:4, I'd say that it's a choice a bit like carob
+vis-a-vis a very sweet chocolate. Both of them are relatively "sweet"
+or "concordant," but the flavor you aren't expecting can seem
+remarkably "bitter" (or "out of tune").
+
+In a Gothic setting, 81:64 is treated as relatively concordant in
+practice and theory, although in practice, of course, intonation would
+vary except on fixed-pitch instruments. It's like carob, with somewhat
+more tense intervals like M2 and m7 serving as "spice," and the fifth
+and fourth providing rich and stable concord. This raises some curious
+questions: might be there be any correlation between liking carob (one
+of my favorites) and liking medieval polyphony, or do these thirds
+have a higher concentration of complex carbohydrates <grin>?
+
+In a Renaissance setting, however, 5:4 is the new staple: sometimes I
+get the "meantone munchies," and can't resist the chocolate-like
+flavor of those pure thirds.
+
+To Renaissance musicians for whom 5:4 was the essence of sweetness,
+it's easy to imagine how the carob flavor of an 81:64 may have seemed
+positively bitter (or "dissonant").
+
+Another way of looking at it is that an M3 at 81:64 or an m7 at 9:5
+represents a sonority in motion, while a 5:4 or a 7:4 is more likely
+to serve as a point of rest. To my ears, either form of M3 seems
+relatively blending while either form of m7 seems relatively tense,
+but the microtonal shading can make a difference (along with the
+style, of course).
+
+It seems to me that at least one tenable modern approach is to enjoy
+each of these intervals in their stylistic settings, and maybe invent
+some new ones (intervals and styles alike).
+
+Most respectfully,
+
+Margo Schulter
+mschulter@value.net

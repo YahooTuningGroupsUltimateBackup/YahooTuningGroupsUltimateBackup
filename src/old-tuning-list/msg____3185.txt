@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Tue, 9 Jul 1996 13:50:48 -0700
+
+Subject: Max Meyer
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Two comments made here about Max Meyer should be addressed:
+
+There is indeed a tonality diamond on p. 22 of "The Musician's Arithmetic." 
+It gives cents values for all 16 seven-limit intervals, transposed to within 
+one octave. Of course, four of these intervals are 0 cents. So Partch most 
+likely did get the idea from Meyer, but he rotated it 90 degrees 
+counterclockwise.
+
+Someone said in effect that Meyer's system of using numbers rather that 
+ratios limited him to a small subset of just scales. This is not the case. 
+Meyer explicitly ignores powers of 2, and multiplies all ratios by whatever 
+factor is necessary to leave only powers of two in the denominator. This is 
+no different from Brian McLaren's representation of Wilson CPS scales, where 
+Brian leaves only powers of 2 (which Meyer would ignore) in the 
+denominators. Any just scale can be represented in this way. Meyer may have 
+deceived himself in many matters, but his mathematics was sound.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 10 Jul 1996 00:03 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA17716; Tue, 9 Jul 1996 15:03:20 -0700
+Date: Tue, 9 Jul 1996 15:03:20 -0700
+Message-Id: <199607092202.PAA17623@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

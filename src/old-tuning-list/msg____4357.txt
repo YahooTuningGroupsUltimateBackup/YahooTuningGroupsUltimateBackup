@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Wed, 18 Dec 1996 13:13:00 -0800
+
+Subject: New version of JIET
+
+From: alves@osiris.ac.hmc.edu (Bill Alves)
+
+I've posted new versions of the Just Intonation Ear Trainer to the ftp site
+at mills (ftp://ella.mills.edu/ccm/tuning/software/mac) and my home page
+(URL below): version 1.1 for non-QuickTime users and 2.3 for users with
+QuickTime. I've decided to remove the protection from the program so that
+the HyperCard hackers among you can customize it if you like. I've also
+resized it for the Classic and SE users among you, added a home button, and
+fixed an incompatibility with HyperCard Player versions before 2.2. Thanks
+to those of you who have given me feedback. If there are more problems or
+if you have any suggestions, please contact me.
+
+By the way, I found a somewhat related shareware ($20) program called Pitch
+Perfect, which tests your ability to tune triads or pieces to a just or
+equal tempered standard. It is a Mac program available as a HyperCard stack
+(ftp://harmony-central.mit.edu/~ftp/software/mac/misc/pitch-perfect-stack-1.
+sit.hqx) or as an application
+(ftp://harmony-central.mit.edu/~ftp/software/mac/misc/pitch-perfect-app-1.si
+t.hqx). It requires MIDI. It is written by:
+
+Bruce Dalby
+7719 Leah Dr. NE
+Albuquerque, NM  87110
+505/293-6597
+dalby@unm.edu
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)621-8360 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Dec 1996 23:01 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02755; Wed, 18 Dec 1996 23:03:34 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02753
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA22062; Wed, 18 Dec 1996 14:03:31 -0800
+Date: Wed, 18 Dec 1996 14:03:31 -0800
+Message-Id: <Pine.SCO.3.91.961218132022.7376B-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

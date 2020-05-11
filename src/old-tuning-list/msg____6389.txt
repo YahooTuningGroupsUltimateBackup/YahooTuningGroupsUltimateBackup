@@ -1,0 +1,58 @@
+source file: mills3.txt
+Date: Wed, 5 Nov 1997 22:31:31 +0100
+
+Subject: RE: Dare to Square
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>>Does this mean that you're going to go over to squared detuning?
+>
+>Go over from where? I used squared error as the loss function to calculate
+>optimal meantone temperaments and the quality of equal-tempered
+>approximations in many posts here. When I said that the maximum error was 20
+>cents, would it have made any difference to say that the maximum squared
+>error is 400 cents squared? No, it would have just made me sound silly.
+>
+>>Are you
+>>sure we should be squaring logorithmic measures of detuning?
+>
+>Since the amount of detuning is small, it doesn't matter (calculus again).
+>But ultimately, yes, our perception of pitch intervals is logarithmic, and
+>any valid model should reflect that.
+>
+>>Even if you don't agree there's a difference between 300 and 19/16, it
+>>doesn't make the 19/16 worse than the 300.  But there must be more-better
+>>examples.  Maybe: the 12TET minor 7th is 18 cents flat of a 9/5, and 22
+>>cents south of the 9/5 we have 16/9.
+>
+>You lost me. What are you trying to say/ask?
+>
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  RE: Erlich's Theory
+PostedDate:  05-11-97 22:34:54
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  05-11-97 22:33:50-05-11-97 22:33:50,05-11-97 21:34:12-05-11-97 21:34:13
+DeliveredDate:  05-11-97 21:34:13
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256546.007670B2; Wed, 5 Nov 1997 22:33:41 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03872; Wed, 5 Nov 1997 22:34:54 +0100
+Date: Wed, 5 Nov 1997 22:34:54 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03870
+Received: (qmail 19778 invoked from network); 5 Nov 1997 13:34:50 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 5 Nov 1997 13:34:50 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971105212442Z-1823@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

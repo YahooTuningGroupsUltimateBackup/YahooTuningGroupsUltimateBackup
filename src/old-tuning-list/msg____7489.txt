@@ -1,0 +1,62 @@
+source file: m1389.txt
+Date: Sat, 18 Apr 1998 07:13:26 -0500 (CDT)
+
+Subject: RE: delurking (synthesizer tuning capabilities)
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>You're forgetting the 4 pitch table selection limit.
+
+   There are ways around that of course.  Somebody suggested using what
+might be called "instantaneous crossfades" between layers with the
+mod-wheel.
+
+
+
+
+>Matching octave boundaries for
+>scales over 12 notes would make things easier, in my opinion.
+
+   I'll tell you sir, I'm with you on this one.  But I think you'll find
+that - mind-bogglingly if you ask me - we're pretty darned near alone.
+Among the people who map(ped) tunings linearly, mismatching octave
+boundaries in the tuning with octave boundaries on the keyboard, are,
+Easley Blackwood, Ivor Darreg, Jonathan Glasier, Harry Partch (on the
+Chromelodeon), Brian McLaren, Bill Sethares, and my K2500-playing friend
+Bill Meadows.  And speaking of whom...
+
+
+
+
+>(K2500):  nTET and nCET scales can be
+>created at the program level by adjusting a few parameters, and are
+>unlimited in step size.  Resolution is 1 cent or better if done correctly
+
+   Perhaps you can provide some insight for Bill Meadows here:  He wants to
+map 19TET linearly across the keyboard, which means that you have to set
+the step size between keys to about 63.1579 cents.  Keymaps are
+12-tone-per-octave-based, so you can't use them.  The other available
+tuning facility was to state a step size between keys, consistent across
+all of the keyboard, but the resolution of the step-size between keys was 2
+cents.  Obviously then setting that to 64 would make the octave sharp by
+about 16 cents.
+
+   He and one of the techies at Kurzweil concluded initially that the K2500
+had no means of doing that, except by assigning a single (I don't know the
+Kurzweil terminology, but the Ensoniq-equivalent term would be
+"wavesample") to each individual key and setting its root pitch so that it
+works out right.  He says that he later heard of something I think he
+called a "function" that conceptually should make it possible.
+
+   Obviously though a general, arbitrary pitch table would be a lot easier.
+Do you know of an easier way to do that?
+
+
+
+
+
+>It's FM timbres make a good counterpoint to today's
+>wavetable synthesis.  The Yamaha TX802 has been out of production for quite
+>some time
+
+   Does it by chance allow resonant filters to manipulate FM-generated sounds?

@@ -1,0 +1,25 @@
+source file: mills3.txt
+Date: Mon, 2 Feb 1998 02:20:44 +0100
+
+Subject: Re: TUNING digest 1315
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+John Maxwell Hobbs asked
+Does anyone know if the AWE64 (or AWE32 for that matter) supports tuning
+tables?
+
+The short answer is no.  The EMU8000 processor operating system lacks a MIDI
+interpreter capable of handling the demands of tuning tables.  John Loffink
+has a list of sound modules and cards that do support retuning at
+http://freeweb.pdq.net/jloffink/ .
+
+The General MIDI instrument banks called Sound Fonts can be retuned,
+however, but it is a convoluted process.   Dave "Fisher" Rybarczyk, Graham
+Breed know more than I do about Sound Font retuning.  Dave has written a
+program in Visual Basic that does simple retuning.
+
+--Fred.
+---------------------------------------------------------
+ Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+ phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca

@@ -1,0 +1,58 @@
+source file: m1524.txt
+Date: Tue, 8 Sep 1998 13:02:48 EDT
+
+Subject: Re: MIDI  implementation & Yamaha XG
+
+From: DFinnamore@aol.com
+
+Hi Drew, thanks for the good info!
+
+Drew wrote:
+
+>Pitch bend, I checked with the range at 1-semitone and 
+>found no clear pattern in the data values that caused each successive
+>pitch change.
+>Graham Breed mentioned he does this and
+>David Finnamore posted a note cautioning about it, you HAVE to check 
+>the frequency of the bends against actual cent frequency equivalents.
+
+For those of us without a frequency meter, old-fashioned beats can be used.
+Here's my favorite trick for making sure I'm in tune when stretching the
+capabilities of my O5R/W, which, like Drew's Yamaha, uses some tuning-related
+SysEx implementations that seem to defy logic:
+
+First, select a tuning table that you are certain about for one channel, like
+Pythagorean or 12-tET.  Sound a long note on that channel, tuning it with the
+channel's Detune parameter to the target tuning's pitch for that note.
+Simultaneously, sound the same long note on another channel using the target
+tuning/transposition, and listen for beats between the two notes.  Using a
+pure sine wave on both channels is most helpful.
+
+A related method worked well this past week when I Just-tuned (mostly 5-cap
+sprinkled with 7-lim consonances) a MIDI file of an old 12-tET orchestral
+instrumental of mine, which modulates from Ab to C#m, back to Eb, and then,
+over the course of about a minute, through F and E to end in G#.  The G# is a
+double syntonic comma - nearly a quarter-tone - south of the original Ab!
+Kind of stretches the ear a bit, but it sure is nice to have all those pure,
+resonant vertical intervals.
+
+The bass line (almost all roots) was on Pythagorean-tuned channels, and stayed
+Pythagorean except at the points of the last two modulations, which were by
+15:16, and so needed to be shifted down about 21 cents each time.  After
+tuninging the bass tracks properly, I duplicated the bass line on a Just
+track, adjusted its channel Transpose and Detune parameters (first by "the
+numbers" and then fine tuning by ear) at each mod to keep it in tune with the
+Pythagorean track, then used trial and error to find the SysEx messages needed
+to set those parameters automatically during playback.
+
+Thankfully, Korg's pitch bend implementation seems to be perfectly consistent,
+allowing the use of the formula cents*8192/P.B.Range to tune individual notes
+on the fly on monophonic tracks.  It's surprising to me that Yamaha's
+implementation is less reliable.
+
+Those cheesy brass and wind samples that most of us have to put up with sound
+a lot more realistic when they're in tune!  Maybe that's a good place to start
+when demonstrating the value of tuning to other keyboard players.
+
+David J. Finnamore
+Just tune it!

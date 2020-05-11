@@ -1,0 +1,56 @@
+source file: mills2.txt
+Date: Sat, 23 Sep 1995 01:23:27 -0700
+
+Subject: 88CET #13:  Pragmatic Concerns 1
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+I'm going to move on to an all-new topic on this posting.  John Pusey once
+asked about this sort of question.  
+
+   88CET's nonoctave orientation poses a few logistical problems that we
+wouldn't normally think of from our experience with octave-based tunings.  
+
+
+Tuning Instruments to Each Other
+
+   One curious complication comes in tuning nonoctave instruments to one
+another.  The complication is that you have to find an exact common pitch
+instead of an entire pitch-class to which to tune them.  To illustrate this
+complication, think about the usual orchestral tuning procedure, wherein the
+principal oboe plays an 440Hz A, and the other instruments successively join in
+tuning to that pitch or octave equivalents to it.  Since there are no octaves in
+a nonoctave tuning, a 'cello would have to tune to exactly an 440Hz A, which
+does not correspond to an open-string, as would be preferable.
+
+   But this complication is not as big a deal as it might sound if the nonoctave
+tuning has a very accurate approximation to some other easily recognizable
+interval.  Such a procedure for 88CET would be somewhat more complex, but
+certainly not impractical.  Instruments could tune in pitch-range groups by
+unison, 7:6 subminor third, 3:2 perfect fifth, 7:4 subminor seventh, 5:2 major
+tenth, or 8:1 triple-octave below something like an 440Hz A.  (In the
+triple-octave case, they would have to "aim low" by 8 cents.)  
+
+   Ideally some sort of electronic tuner would be used for such a thing, but
+since no tuner that I know of will easily read out 88CET pitches, such a
+procedure becomes more practical than it might immediately seem.  Allowing each
+individual player in a large ensemble to see a tuner's display is certainly not
+without its complications either!  
+
+   A similar concern comes up in tuning the "wavesamples" within a single
+sampling synthesizer sound.  (Ensoniq uses the word "wavesample" for a digitally
+recorded sound assigned to a short segment of consecutive keys on the keyboard.)
+I have usually found tuning wavesamples to each other by matching 7:4s, 3:2s,
+and such, more practical than using a tuner.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 23 Sep 1995 10:24 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id BAA27941; Sat, 23 Sep 1995 01:24:41 -0700
+Date: Sat, 23 Sep 1995 01:24:41 -0700
+Message-Id: <950923081920_71670.2576_HHB23-6@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

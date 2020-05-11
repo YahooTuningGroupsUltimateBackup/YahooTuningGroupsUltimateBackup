@@ -1,0 +1,197 @@
+source file: mills2.txt
+Date: Mon, 16 Oct 1995 08:42:42 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning and psychoacoustics - post 21 of 25
+---
+Throughout this series of posts, we have seen that the ear/brain system 
+is not simple.
+As is now clear, the behavior of the auditory system when presented 
+with complex tones is different than that predicted by Ohm/Helmholtz: 
+"Helmholtz's working hypothesis has  been put aside by later 
+investigators, both those who worked in music and those who worked 
+in psychoacoustics.  Several reasons for this can be given.  First, 
+before the introduction of electroacoustic means of tone production 
+and control in the 1920s, it was not possible to carry out the 
+necessary psychoacuostical experiemnts, while Helmholtz's observations 
+proved insufficient in many ways. Second, it turned out that musical 
+theory has its own rules apart formm the perceptual relevance of the
+ characteristics of the sounds it makes." [Rasch, R. A., and Plomp, R.,
+ "The Perception of Musical Tones," in "The Psychology of Music," ed. 
+Diana Deutsch, 1982, pg. 21]
+But the behavior of the ear/brain system is also different from that 
+predicted by Seebeck, Stumpf and Schouten: 
+"It sounds obvious if we say that we hear a note a' if the fundamental 
+of the frequency is 440 c.p.s. But what happens if we remove this 
+fundamental by electrical means, leaving on ly the harmonics with 
+frequencies of 880, 1320, 1760 cps, etc?  Or if we take away the 
+fundamental 440 cps and the second harmonic 880 cps? 
+We learn from experiments that the perceived pitch level remains the 
+same: a'.  One may take away many of the lower harmonics without 
+altering this.  If this `mutilated' note is interrupted for only an 
+interval of a second, the sensation is completely altered. Instead of 
+the `residual tone' on a' we now hear another pitch which lies 
+approximately in the region of the strongest remaining harmonics and 
+is called `formant pitch.'" [Werner Meyer-Eppler, "Statistic and 
+Psychologic Problems of Sound," Die Reihe, Vol. 1, No.1, 1955, pg. 55 
+(English edition, 1957)]
+This is the simplest and most compelling example of the contradictory 
+behavior of the ear/brain system.
+The ability of the ear to extract an unambiguous fundamental frequency 
+from a complex tone argues strongly in favor of the Ohm/Helmholtz 
+hypothesis of the ear as a Fourier analyzer; but the ability of the 
+ear to still hear a "residual" fundamental even after the fundamental 
+and lower harmonics have been removed electronically cannot be 
+explained by the ear-as-Fourier-analyzer model of hearing. Instead, 
+"beats of mistuned consonances and periodicity pitch can be perceived 
+even if each component tone is fed dichotically to a different ear.  
+In such a case, of course, the complete vibration pattern never 
+arises--what must arise is a superposition or interaction of the 
+neural signals from both cochleas after they have been combined at 
+the medullar or midbrain levels. (...) The fundamental neural message 
+is given by the rate and the distribution in time with which 
+individual impulses are fired along the axon." [Roederer, Juan,
+"The Physics and Psychophysics of Music," 1973, pg. 45]
+Thus the ability to hear such residual pitch argues against the
+ Ohm/Helmholtz Fourier analyzer model of hearing, and for the 
+Seebeck/Stumpf model of the ear as time-domain autocorrelator in 
+which "the actual time distribution of [auditory nerve] impulses 
+codes the information on repetition rate or periodicity pitch (see 
+below)."  [Roederer, Juan, "The Physics and Psychophysics of 
+Music," 1973, pg. 45]
+However, the fact that after a brief interruption the ear hears 
+exactly the same tone from which fundamental and lower harmonics 
+have been electronically removed as having an entirely different 
+pitch argues strongly against BOTH the Ohm/Seebeck frequency-domain 
+and the Seebeck/Stumpf time-domain model of the ear, and instead 
+supports the Fetis/Burns/Ward model of the ear as an adaptive 
+system molded by learned responses.
+Thus in one simple experiment we have compelling evidence both 
+for and against all 3 major theories of hearing.
+Other compelling evidence for the "contextual" behaviour of the 
+ear/brain system abounds. 
+"...it is to be emphasized that sound elements which are juxtaposed 
+in time can have the effect that identical physical vibration 
+procedures give rise to totally different sensations.  The phenomenon 
+has been particularly observed in the case of synthetic explosive 
+sounds such as `p',`t', `k' which may be perceived in a totally 
+different manner, depending on the vowels which are juxtaposed 
+to them (3).  To explain this one cannot attribute it to masking 
+which has already been known for a long time becuase the 
+influencing is effected by the following vowel (regressive 
+dissimilation) as well as by the preceding." [Werner Meyer-Eppler, "
+Statistic and Psychologic Problems of Sound,"  Die Reihe, Vol. 1, 
+No.1, 1955, pg. 55 (English edition, 1957)]
+Further evidence of complex phenomena possibly produced by 
+interaction between the ear's frequency-domain and its 
+time-domain processing functions was brought forward by 
+Strong and Clark. "...in order to evaluate the  relative significance 
+of spectral and temporal envelopes, [they] resorted to an 
+interesting process: they exchanged the spectral and temporal 
+envelopes among the wind instruments and asked listeners to 
+attempt to identify these hybrid tones.  The results indicated 
+that the spectral envelope was dominant if it existed in a unique 
+way (as in the oboe, clarinet, bassoon, tube and trumpet); otherwise 
+(as in the flute, trombone, and French horn), the temporal envelope 
+was at least as important." [Risset, Jean-Claude, "Exploration of 
+Timbre by Analysis and Synthesis," in "The Psychology of Music," 
+ed. Diana Deutsch, 1982, pg. 36]
+Some results are simply inexlicable by any of the above models: 
+"Doughty and Garner (1948)...concluded that pitch was unchanging 
+for tones of 25 msec and longer, but that 12-msec and 6-msec 
+tones have a lower pitch.  However, Boomsliter et al., (1964) 
+emphasize that the transition from "click" to "tone" depends on 
+the intensity. Swigart (1964) has reported a perhaps related 
+phenomneon for repeated short bursts of tone.  If one presents 
+successive 8-msec bursts of 1000-Hz tone with 1-msec pauses  
+between (i.e., if one cuts out every ninth cycle), the pitch is 
+significantly lower than that of a continuous 1000-Hz tone.  
+Just why, however, is still unclear." [Ward, W.D., "Musical 
+Perception," in "Foundations of Modern Auditory Theory," ed. J.V. 
+Tobias, Vol. 1, pg. 429.]
+"An aspect of pitch perception that is still regarded as 
+somewhat mysterious despite a goodly amount of experimentation 
+is "aboslute" (or "perfect") pitch." [Ward, W.D., "Musical Perception," 
+in "Foundations of Modern Auditory Theory," ed. J.V. Tobias, Vol. 1, 
+pg. 429.]
+"In 1973 David M. Green published some interesting results on 
+temporal acuity. He measured the ear's ability to discriminate 
+between two signals that have different waveforms but the same 
+energy spectrum.  An example of such signals is any short waveform 
+and the same waveform reversed in time, such as those in figure 
+10-5.  Here Part A is a sound of decreasing frequency, Part B is a 
+sound of increasing frequency. Green found that the ear can tell the 
+difference between two such waveforms if their duration is greater 
+than 2 milliseconds." [Pierce, J.R., "The Science of Musical Sound," 
+2nd ed., 1992, pg. 149]
+"On the hypothesis that critical band filters can be identified with
+auditory nerve filters, the model of Zwicker and Scharf was tested by
+Pickles (1983). (...) The results agreed with the psychophysical data, in
+that the summed activity increased with stimulus bandwidth, for wider
+timulus bandwidths. (Fig. 9.13 B).  However, there was no clear sign
+of a flat portion in the function at narrow bandwidths. The reason for
+this is not known..." [Pickles, James O., "An Introduction to the 
+Physiology of Hearing," Academic Press, 2nd ed., 1988, pg. 283]
+No model of the ear/brain system convincingly explains any of 
+the above results, or for that matter one of the best-known 
+quirks in musical perception: perfect pitch. Musical aesthics is 
+yet another abyss which has swallowed many a psychoacoustic 
+researcher. 
+"Why some vibration patterns appear more "beautiful" than others 
+is not known.  A great deal of research (good and bad) has been 
+attempted, for instance, to find out what physical characteristics 
+make a Stradivarius violin a great instrument.  Many of these 
+characteristics are dynamic in character, and most of them seem 
+more related to the major or minor facility with which the player 
+can control the wanted tone "color" (timbre), than to a "passive" 
+effect on a listener.  To a large extent the impression on the listener 
+is based on learned experience..." [Roderer, Juan, "The Physics and 
+Psychophysics of Music," 1973, pg. 134] 
+But by far the most striking gaps in current knowledge of the 
+ear/brain system involve the  question of how the human auditory 
+performs 3-dimensional sound localization. 
+A Head-Related Transfer Function can be measured empircially for 
+each individual by means of microphones placed in the ear canals  
+and an extremely high-speed computing engine, but to date no one 
+has offered a general mathemtical model which predicts the HRTF, 
+or the location of a specific sound using that mathematically-
+modelled  HRTF.
+The best example of this complete gap in our psychoacoustic 
+knowledge is the inadequacy of current stereo speakers.  Even a 
+6-year-old child easily detects the difference between a recording 
+reproduced from digital media on high-quality stereo speakers, and 
+a live performance: but to date no one has succeeded in 
+formulating a mathematical model of hearing which details the 
+difference in hard numbers. [See Moeller, H. K., Soerenson, M. F.,
+ Hammershoei, D., and Jensen, C. B, "Head Related Transfer Functions 
+of Human Subjects," J. Audio Eng. Soc., 43(5), 1995 May, pp. 
+300-321; also see Appleton, J., "Machine Songs III: Music In the 
+Service of Science-- Science in the Service of Music," Computer 
+Music Journal, 16(3), 1992,pp. 17-21]
+Clearly, there remain many unexplained aspects in the behavior of 
+the ear/brain system.
+The next post examines the mass of evidence gleaned from
+the many psychoacoustics results confirmed and supported
+by a wealth of modern.  Although the modern psychoacoustic
+data is complex, it does support some conclusions.  These will
+be given in the next post, after which the various biases and
+prejudices of the psychoacoustic researchers themselves will
+be examined...with an eye to determining how much or how little
+their prejudices affected the conclusions each major researcher
+drew from hi/r research.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Oct 1995 01:35 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA13399; Mon, 16 Oct 1995 16:34:38 -0700
+Date: Mon, 16 Oct 1995 16:34:38 -0700
+Message-Id: <199510162332.AA046446328@athena.ptp.hp.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

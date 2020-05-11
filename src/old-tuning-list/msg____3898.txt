@@ -1,0 +1,64 @@
+source file: mills2.txt
+Date: Fri, 1 Nov 1996 16:29:47 -0800
+
+Subject: Re: Johnny's Lingua Franca Notation
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>History has done away with Savarts which are larger than cents
+>in favor a system which, thankfully, anchors on good old 12-tone ET (e.g.
+>100 cents is a semitone, 200 cents is a whole tone, etc.)  Dare we admit
+>that this is of value?
+
+Denying this would be cutting oneself from 99.99% of Western teaching and 
+performance practices.
+
+>Amazingly, most musicians do not realize that the ear does not hear
+>logarithmically.  It learns by rote.
+
+There seems to be plenty of psychoacoustical evidence that refutes the first 
+claim. We do indeed hear pitch logarithmically, where pitch is defined as 
+the "virtual pitch" that is assigned to any harmonic or near-harmonic set of 
+partials. However, due to beats and combination tones, we can detect much 
+finer deviations from an arithmetic or harmonic series in a chord than 
+deviations from a geometric (logarithmic) series in either a chord or a 
+melody. This leads talented performers to essentially mutate the 12-tone 
+grid to achieve 5-limit just intonation in sustained harmonies. It also 
+leads people to think of just intonation as representing the way we actually 
+hear, but it just ain't so.
+
+>For example, sing alound a 7/4 and
+>then try to find the logarithmic midpoint that bisects the interval.
+>Knowing this interval is made up of 969 cents, one can calculate a center.
+
+Knowing that it is 9 2/3 semitones (you can't hear a 2-cent discrepancy 
+under performance conditions), one can calculate a center even more easily: 
+4 5/6 semitones (beats won't help you tune this one!). Sixths of semitones 
+can be taught systematically, through 11-limit JI harmonies and Arabic and 
+Byzantine scales, while cents imply a lot of guesswork. (I'm thinking of how 
+to best educate, and notate music for, tomorrow's musicians, not necessarily 
+Johnny's highly-skilled ensemble).
+
+I suppose if Johnny wins out, I would recommend restricting the allowed 
+deviations to 17, 33, and 50 cents when first beginning a course of 
+microtonal education, so that certain points of reference can be 
+established. It's just that having to attach numbers like 17 and 33 to these 
+sounds seems like an unnecessary burden. For the extreme purists among the 
+JI advocates, I would say that really good performers of 11-limit vocal and 
+string music will intuitively mutate the 72-tone grid (by no more than 4 
+cents) in sustained harmonies to achieve absolute perfection; more accurate 
+notation would not be of any help to those with inferior ears.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 2 Nov 1996 02:52 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14123; Sat, 2 Nov 1996 02:53:26 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA12721
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id RAA25608; Fri, 1 Nov 1996 17:53:23 -0800
+Date: Fri, 1 Nov 1996 17:53:23 -0800
+Message-Id: <Pine.3.89.9611011948.A7983-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

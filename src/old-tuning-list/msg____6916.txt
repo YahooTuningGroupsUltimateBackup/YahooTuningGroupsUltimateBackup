@@ -1,0 +1,61 @@
+source file: mills3.txt
+Date: Sat, 3 Jan 1998 17:38:20 +0100
+
+Subject: Horizontal and vertical
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Melodic notes do take part in the harmony, whether you like it or
+not.  You may have lead and accompaniment using different pitch
+sets, but chords are everything.
+
+I also hold that harmony is as much about connecting chords as
+considering their properties in isolation.  I quantify the
+"dissonance" of a chord change from the dissonance of the two
+chords taken together.  If horizontal dissonance is too high, the
+harmony sounds arbitrary.  If too low, it sounds weak.  This is
+relevant to atonality, where you deliberately avoid both
+horizontal and vertical consonance.
+
+I don't agree that tempering resolves the conflict between melody
+and harmony.  Melody works fine in JI, it's horizontal harmony
+that's the problem.
+
+The structure of a diatonic key puts a limit on the dissonance of
+chord changes within it.  The prohibition against roots
+progressing by one scale step avoids the most dissonant changes.
+The idea of octave equivalence means you can't just keep playing
+inversions of the same chord, giving excessive consonance.
+
+Lots of people say that tonality is based on acoustic principles,
+but they never give you a full derivation.  I think this has got
+something to do with it.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "kris peck" <kpeck@wavetech.net>
+Subject:  Johnston, Schneider, Catler, tape swap
+PostedDate:  03-01-98 17:39:11
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  03-01-98 17:36:40-03-01-98 17:36:41,03-01-98 17:36:00-03-01-98 17:36:00
+DeliveredDate:  03-01-98 17:36:00
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256581.005B3EE3; Sat, 3 Jan 1998 17:38:35 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07323; Sat, 3 Jan 1998 17:39:11 +0100
+Date: Sat, 3 Jan 1998 17:39:11 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07365
+Received: (qmail 3325 invoked from network); 3 Jan 1998 08:38:14 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 3 Jan 1998 08:38:14 -0800
+Message-Id: <199801031634.KAA10878@riptide.wavetech.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

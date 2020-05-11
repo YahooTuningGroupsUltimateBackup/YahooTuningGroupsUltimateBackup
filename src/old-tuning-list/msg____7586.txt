@@ -1,0 +1,26 @@
+source file: m1399.txt
+Date: Tue, 28 Apr 1998 15:24:05 -0500 (CDT)
+
+Subject: Re: TUNING digest 1398
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Tue, 28 Apr 1998, Daniel Wolf wrote:
+> Thanks to Paul Hahn for his table. Too bad that Yamaha didn't put the TX81Z
+> into 612ET!
+
+You're welcome.  I should dig out my program and run it a little ways
+past 1200, just to make sure there isn't some awesome ET out there that
+would get us a lot more accuracy/consistency for not too much more
+resolution.  For example, I found this line in my consist2.txt table:
+
+1848|  46   5  5  5  4  .  .
+
+1848 has higher consistency at the 11-limit, where 612 stops, is also
+consistent at the 13- and 15-limits, and is divisible by 12 to boot!
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

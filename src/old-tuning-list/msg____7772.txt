@@ -1,0 +1,128 @@
+source file: m1415.txt
+Date: Wed, 13 May 1998 23:38:41 -0500
+
+Subject: Integer Ratios for 12tet Semitones at Variable Error Tolerance Levels
+
+From: "Benjamin Tubb" <brtubb@cybertron.com>
+
+For reference and interest to some who may not otherwise have the means to
+conveniently have access to such data, the following is provided. Anyone
+interested in any special tables of cents/ratios, feel free to contact me in
+private email. I'm fortunately using Mathematica.
+
+Integer Ratios for 12tet Semitones for Various Error Tolerances
+
+      Error Tolerance Levels
+Cents 10^-2  10^-3  10^-4  10^-5
+          1
+   0      -
+          1
+
+         18     18     89    196
+ _100     --     --     --    ---
+         17     17     84    185
+
+          9     55     55   1769
+ _200      -     --     --   ----
+          8     49     49   1576
+
+         25     44     44   1785
+ _300     --     --     --   ----
+         21     37     37   1501
+
+          5     34     63    349
+ _400      -     --     --    ---
+          4     27     50    277
+
+          4    295    295    295
+ _500      -    ---    ---    ---
+          3    221    221    221
+
+         17     41     99    577
+ _600     --     --     --    ---
+         12     29     70    408
+
+          3    442    442    442
+ _700      -    ---    ---    ---
+          2    295    295    295
+
+         27     27    100   1008
+ _800     --     --    ---   ----
+         17     17     63    635
+
+         37     37     37   3002
+ _900     --     --     --   ----
+         22     22     22   1785
+
+         16     57     98   1527
+1000     --     --     --   ----
+          9     32     55    857
+
+         17    185    185    185
+1100     --    ---    ---    ---
+          9     98     98     98
+
+          2
+1200      -
+          1
+
+For general info, the following 10-^5 error tolerance used for the cents range
+0-1 in increments of 0.1 cent is shown for which the error level is just small
+enough to distinguish each value to a different integer ratio.
+
+Cents  10^-5
+
+           1
+0          -
+           1
+
+       17313
+0.1    -----
+       17312
+
+        8657
+0.2     ----
+        8656
+
+        5771
+0.3     ----
+        5770
+
+        4329
+0.4     ----
+        4328
+
+        3463
+0.5     ----
+        3462
+
+        2886
+0.6     ----
+        2885
+
+        2474
+0.7     ----
+        2473
+
+        2165
+0.8     ----
+        2164
+
+        1924
+0.9     ----
+        1923
+
+        1732
+1.      ----
+        1731
+
+-------------
+Benjamin Tubb
+AIM: brtubb
+brtubb@cybertron.com
+http://home.cybertron.com/~brtubb/theory.html
+
+"Music creates order out of chaos; for rhythm imposes unanimity
+upon the divergent, melody imposes continuity upon the disjoin-
+ted, and harmony imposes compatibility upon the incongruous."
+       - Yehudi Menuhin, from "Theme and Variations"

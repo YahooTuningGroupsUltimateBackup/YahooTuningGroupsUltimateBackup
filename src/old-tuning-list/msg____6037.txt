@@ -1,0 +1,50 @@
+source file: mills3.txt
+Date: Sun, 31 Aug 1997 16:16:01 +0200
+
+Subject: RE: 5-limit in India?
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>If the sruti
+>scale is influenced by Pythagorean ideas, why no mention of
+>frequency ratios?
+
+The ancient Hindu texts mention 9- and 13-sruti intervals (perfect
+fourths and perfect fifths) as the only "consonant" intervals, and never
+deviated from octave equivalence. That's as Pythagorean as you need to
+get (Pythagoras had no idea about "frequency ratios," either!). Hindu
+theorists probably found that by tuning 21 consecutive "consonant"
+intervals, they could generate the existing scales with virtually no
+error (2 cents) and have a roughly consistent measure of size for scale
+steps (major tone = 4, minor tone = 3, semitone = 2). I do have one
+other model (in my forthcoming paper) for how 22 could have come to be
+used to describe their scales, but it is a little more far-fetched.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gphillip@senet.com.au
+Subject:  testing an experimental tuning program
+PostedDate:  31-08-97 13:47:53
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-09-97 17:09:26-01-09-97 17:38:03,01-09-97 17:37:46-01-09-97 17:37:50
+DeliveredDate:  01-09-97 17:37:50
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256505.00532BB9; Mon, 1 Sep 1997 17:08:26 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09681; Sun, 31 Aug 1997 13:47:53 +0200
+Date: Sun, 31 Aug 1997 13:47:53 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA09669
+Received: (qmail 22720 invoked from network); 31 Aug 1997 11:47:46 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 31 Aug 1997 11:47:46 -0000
+Message-Id: <340A42C0.368E@senet.com.au>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Sun, 21 Jan 1996 05:56:46 -0800
+
+Subject: Re: Manuel Op de Coul's list
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Bruce R. Gilson writes:
+
+> The notation seemed to imply it. When
+> you give only a "number of steps in an
+> octave" and the number of steps between
+> consecutive notes in the scale [as
+> 2 2 1 2 2 2 1 for a standard major
+> scale] you have something well-defined
+> only in ET.
+
+I wasn't aiming at them to be watertight definitions of scales. 
+Otherwise I could have listed them as such. To stay with your example,
+you can have a major scale in many different tunings.
+The utility of this notation is that it allows me to use it in
+combination with a computer program and for instance 
+
+- have a mode-fitting algorithm operate on a given scale and look
+if it's similar to a mode (of equal temperament) in the list,
+- create a new scale from a mode by entering a different interval for 
+each amount of steps,
+- select a subset from a given scale (not necessarily anyway near equal
+temperament) using the mode name.
+
+So rather than a set of exact scales it's meant to be an alternative
+notation that can be employed for different purposes. I you have other 
+ideas I would be very interested to hear them.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 21 Jan 1996 23:51 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA04266; Sun, 21 Jan 1996 14:51:23 -0800
+Date: Sun, 21 Jan 1996 14:51:23 -0800
+Message-Id:  <9601211447.aa10246@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

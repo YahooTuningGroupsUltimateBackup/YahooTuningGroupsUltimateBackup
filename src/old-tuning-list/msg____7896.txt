@@ -1,0 +1,41 @@
+source file: m1424.txt
+Date: Fri, 22 May 1998 14:17:55 -0400
+
+Subject: Reply to Graham Breed
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>>> For exactness, state the signed errors, and you can work
+>>> other intervals out from that.
+
+>> Isn't that what Carl Lumma said? But no, you guys are wrong, and that's
+>> the whole reason for the consistency concept. Wendy Carlos, Yunik and
+>> Swift, and others also seem to have missed out on the importance of
+>> consistency.
+
+>I think Carl Lumma (mistakes aside) takes the best
+>approximation for each interval, and tries to describe them in
+>terms of prime intervals.  I really _mean_ to take the best
+>approximations to prime intervals (not necessarily prime
+>numbers) and define the rest from this.  If the scale is
+>inconsistent, one of the intervals will have an error greater
+>than half the step size.  If that error is acceptable, so is
+>the scale.  I'm not wrong.
+
+Sure. I'm glad you think the prime intervals don't have to be prime
+numbers. It bears pointing out that depending on which "prime intervals"
+you choose, you will end up with different approximations to the rest.
+Different tunings will have different "prime intervals" which lead to an
+optimal set of compatible approximations -- for the 5-limit, for
+example, some ETs will yield greater accuracy if 5/4 and 3/2 are chosen
+as the prime intervals, some if 5/3 and 3/2 are chosen, and some if 5/4
+and 5/3 are chosen. Consistency simply means that all choices lead to
+the same result. That's how I interpreted your statement "For exactness
+ . ." above.
+
+>Consistency makes sense if you happen to be working within an
+>odd limit.  Expressing the consistency level as a fraction
+>[(step size) / (2 * worst error)] is more precise
+
+Of course that's only correct if the worst error is 1/3 of the step size
+or less (Paul Hahn originally pointed this out).

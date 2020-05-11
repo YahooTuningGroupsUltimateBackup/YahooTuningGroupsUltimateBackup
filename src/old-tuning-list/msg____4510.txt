@@ -1,0 +1,87 @@
+source file: mills2.txt
+Date: Sat, 4 Jan 1997 09:54:00 -0800
+
+Subject: Early Music, Temperaments, Logs
+
+From: John Chalmers <non12@deltanet.com>
+
+I saw this on rec.music.early. Does anyone know anything more about 
+this and the music played? (Johnny?). 
+
+rec.music.early #16829 (0 + 17 more)               
+From: mccomb@best.com (Todd Michel McComb)         
+[2] Re: alternative tunings in 16th century       
++   music
+Date: Fri Jan 03 13:49:47 PST 1997
+ 
+
+In article <2184@purr.demon.co.uk>, Jack Campin <jack@purr.demon.co.uk> 
+wrote:
+>A few years ago I heard an astonishing broadcast (on BBC Radio 3) of 16th
+>century Neapolitan harpsichord music written for microtonal insytruments -
+>the concert was part of an International Festival of Microtonal Music mainly
+>centred around contemporary works.  Does anybody out there know what I'm
+>talking about?  Who was the performer, and has he or she toured this stuff
+>or put it on a published recording?
+
+I don't know anything about this particular performance, but the repertory
+is fairly well-known to EM keyboardists.  Definitely, as far as recordings
+go, the one to hear is Alan Curtis' on Nuova Era 7177
+http://www.medieval.org/emfaq/cds/nuo7177.htm
+
+Todd McComb
+mccomb@medieval.org
+
+
+BTW, I was re-reading Bosanquet's 1876 book "An Elementary Treatist on 
+Musical Intervals and Temperament" in which he describes his famous
+generalized keyboard. What caught my attention was a section where he
+calculates musical logarithms, in this case the semitone measure of
+ratios (equivalent to cents divided by 100). Bosanquet computes his own
+logs from a series expansion approximation rather than using tables
+and implies that the proofs of such expansions were commonly given in
+19th century trig books. Anyway, a longer discussion which illuminated
+the method of Ellis, which I posted to the tuning list last Spring (or
+so). The method appears less to have been pulled out of thin air than
+it does in Ellis's exposition in Helmholtz.
+
+I, for one, would like to see David Feldman's table of "isotempered" 
+interval pairs. Alas, I have an old, small screen Mac and would need
+the reformatted or a hardcopy version.
+
+By using Brun's algorithm, it was easy to show that Feldman is correct
+in that the series of relations of the degrees of the fifth Q to those
+in the octave T: Q\T ~3\5, 4\7, 7\12, 10\17, 17\29, 24\41, 31\53,
+55\94 corresponds to the number of degrees of the 13/9 in the 
+equal divisions of the 15/8.
+
+One might describe this as series of compressed octaves which in
+which the relative size of the 13/9 corresponds to the relative
+size of the 3/2 in the original series of octaval ET's. 
+
+I also played around with another, but related, problem of finding 
+optimal ET's for sets of all 4 numbers, in this case 2/1, 15/8, 3/2 
+and 13/9.  Using Viggo Brun's version of the euclidean algorithm, I got 
+the  following N-tone ET's: 10, 19, 24, 43, 53, 72, 125, 178...(only 
+those which distinguish all 4 ratios are listed). Selmer's version 
+oscillates a bit, but finds 20, 21, 12, 26, 34, 46, 33, 41, 54, 75, 
+62, 87,  162. Pipping's ramified version gave erratic results, though 
+it works fine for 3 terms.
+
+
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 4 Jan 1997 20:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01169; Sat, 4 Jan 1997 20:13:52 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01167
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA12790; Sat, 4 Jan 1997 11:13:49 -0800
+Date: Sat, 4 Jan 1997 11:13:49 -0800
+Message-Id: <009ADE03C0567240.0557@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

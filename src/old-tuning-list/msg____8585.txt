@@ -1,0 +1,40 @@
+source file: m1546.txt
+Date: Tue, 6 Oct 1998 13:27:09 -0700 (PDT)
+
+Subject: Re: TUNING digest 1545
+
+From: bram <bram@gawth.com>
+
+On Tue, 6 Oct 1998, Kraig Grady wrote:
+
+> By the way the beat canceling idea kind of goes with stockhausen idea of
+> a "Sonic Trash can" a device that produces the inverse wave causing
+> silence! don't hold your breath!
+
+Ah yes, 'black noise'
+
+The fundamental problem with a black noise generator is that unless the
+wavelength of the sound being cancelled out in the air is significantly
+greater than the distance between the sound source and the black noise
+source, it produces an interference pattern rather than simply cancelling
+out.
+
+Cancelling beats has much the same problem, my solution is to play
+everything out of one speaker, in which case the distance between the
+cancelling source and the beating source is zero (unless you get into the
+distance between the woofer and the tweeter, which I'm *hoping* won't
+become a problem.) I suspect it's just plain impossible to get that sort
+of effect out of normal acoustic instruments. 
+
+I'm now buying the two books people mentioned, and will hopefully be able
+to work out some formulas after reading through them. The main thing I'm
+still unclear on at the moment is how to compute volume, although at the
+moment I suspect it's based on the integral of the square of the second
+derivative of f(x). Hopefully I'll know for sure after doing my homework.
+
+-Bram
+
+------------------------------
+
+End of TUNING Digest 1546
+*************************

@@ -1,0 +1,19 @@
+source file: m1444.txt
+Date: Thu, 11 Jun 1998 16:47:19 -0400
+
+Subject: Re: Fokker's Matrices
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>> What if you add the restriction that the resulting ET can have no
+better
+>> approximations of the just intervals than the ones represented by one
+>> step along the axes? I guess I had that in the back of my mind when I
+>> asked the above questions.
+
+>I'm having difficulty imagining an ET like this--can you give me an
+>example of such an ET, and then I'll try Fokker's method on it?
+
+In all the cases you've mentioned so far, it is the case that the ETs
+have no better approximations to the just intervals than the ones
+represented by one step along the axes.

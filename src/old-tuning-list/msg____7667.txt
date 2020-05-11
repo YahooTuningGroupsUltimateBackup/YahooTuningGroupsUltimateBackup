@@ -1,0 +1,715 @@
+source file: m1406.txt
+Date: Tue, 5 May 1998 16:36:46 -0400
+
+Subject: monochord
+
+From: Erik Nauman <ENauman@TrevorDaySchool.pvt.k12.ny.us>
+
+I built a monochord quickly and cheaply with an 18" pine 2x2, a
+nickel-wound guitar string (low E), 2 eye screws, an autoharp tuning
+peg, and a wood screw. You can sort of imagine how it all goes together,
+but some tips are that I threaded the guitar string through its own bead
+to creat a loop that went around the screw. I put the screw in the side
+angling down and the eye screws just in from the top (long) ends and
+angled out so that the string would have more or less 18" of resonating
+length. The autoharp peg was opposite the screw, also angled down. I
+divided and marked the board in 1/2, 1/3, 1/4, 1/5...1/9 lengths and
+when plucked on a table for resonance each of those nodes produces a
+very clear partial up through the 9th. WHen the board is held to my ear
+I can clearly hear through the 19th. Excellent project!
+Erik Nauman
+>----------
+>From: 	tuning@eartha.mills.edu[SMTP:tuning@eartha.mills.edu]
+>To: 	Erik Nauman
+>Subject: 	TUNING digest 1405
+>
+>			    TUNING Digest 1405
+>
+>Topics covered in this issue include:
+>
+>  1) Reply to Graham Breed
+>	by "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>  2) Reply to Paul Hahn
+>	by "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>  3) Frequency tolerance, limits (was Optimal Integer Ratios for 12et)
+>	by Steven  Rezsutek <steven.rezsutek@hq.nasa.gov>
+>  4) TransTrem
+>	by "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>  5) RE: Open letter to Ken Wauchope and Dave Hill
+>	by "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>  6) Re: Reply to Paul Hahn
+>	by Paul Hahn <Paul-Hahn@library.wustl.edu>
+>  7) re: Buzz and other tuning related stuff
+>	by Xou Oxno <xouoxno@virtulink.com>
+>  8) Re:  TUNING digest 1404
+>	by A440A <A440A@aol.com>
+>  9) Re:  Csound
+>	by     J P Fitch <jpff@maths.bath.ac.uk>
+> 10) Chaos, octave equivalence, and subharmonics
+>	by "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+> 11) Steve Vai in Guitar World. and other babbel...
+>	by Xou Oxno <xouoxno@virtulink.com>
+> 12) Monochord
+>	by         Allen Strange <STRANGE@SJSUVM1.sjsu.edu>
+>
+>----------------------------------------------------------------------
+>
+>Topic No. 1
+>
+>Date: Mon, 4 May 1998 15:50:17 -0400
+>From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>To: "'tuning@eartha.mills.edu'" <tuning@eartha.mills.edu>
+>Subject: Reply to Graham Breed
+>Message-ID:
+><c=3DUS%a=3D_%p=3DAcadian-Asset%l=3DMARS-980504195017Z-1800@mars.acadian=
+-asset.com>
+>
+>>I mentioned this business with conical tubes to show that there is
+>>a quantifiable physical origin for inharmonicity.
+>
+>I maintain that any systematic inharmonicity in brass instruments, =
+which
+>is either nonexistent or extremely small, has little or nothing to do
+>with the failure of the resonant modes of the instrument to form an
+>exact harmonic series.
+>
+>>The periodicity
+>>of the sounds presumably defaults to the player's ability to
+>>blow a raspberry.
+>
+>Right.
+>
+>>Does this mean the resulting overtone series
+>>is constructed from undertones of the original vibration?
+>
+>Can you rephrase/clarify this question?
+>
+>------------------------------
+>
+>Topic No. 2
+>
+>Date: Mon, 4 May 1998 16:08:37 -0400
+>From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>To: "'tuning@eartha.mills.edu'" <tuning@eartha.mills.edu>
+>Subject: Reply to Paul Hahn
+>Message-ID:
+><c=3DUS%a=3D_%p=3DAcadian-Asset%l=3DMARS-980504200837Z-1815@mars.acadian=
+-asset.com>
+>
+>>'Scuse me for butting in, but it was an open letter.  I certainly =
+agree.
+>>I'm not sure what I can contribute to such an effort, but I'm on your
+>>side at least.
+>
+>Well, I'm not sure what this effort will be or how best to focus it; =
+the
+>misunderstanding that needs to be combatted here is diffuse and
+>widespread. I almost wanted to include you, but your concept of
+>higher-level consistency seems to support the other side. For example,
+>insisting that the approximations to 3-limit intervals be level-2
+>consistent means that you care about approximating certain 9-limit
+>intervals. But I claim that in order for any 9-limit intervals become
+>relevant (that is, for any just 9-limit ratios become relevant in
+>describing the effect/affect of any tempered intervals), all 7-limit
+>ratios would already be considered consonant (by an acoustical, not
+>cultural, evaluation), and therefore should be consistently expressed.
+>So insisting on full 9-limit consistency in this case would be more
+>appropriate.
+>
+>Of course, you may simply want to exclude the number 7 from the
+>harmonies and include the number 9. I can understand if there is a
+>particular odd number that one wishes to exclude from the harmony and
+>therefore one does not need consistency for. Well, aside from my usual
+>consistency definition, which means all odd numbers up to the limit can
+>be included in ratios that are all consistent with one another, one can
+>concoct a more general definition based on any set of odd numbers. For
+>example, 22tET is consistent over the set of odd numbers
+>{3,5,7,9,11,15,17} -- 17-limit consistent if 13 is excluded.
+>
+>------------------------------
+>
+>Topic No. 3
+>
+>Date: Mon, 4 May 1998 16:11:01 -0400 (EDT)
+>From: Steven  Rezsutek <steven.rezsutek@hq.nasa.gov>
+>To: tuning@eartha.mills.edu
+>Subject: Frequency tolerance, limits (was Optimal Integer Ratios for =
+12et)
+>Message-ID: <199805042011.QAA26690@doghouse.hq.nasa.gov>
+>
+>"Benjamin Tubb" <brtubb@cybertron.com> writes:
+>
+>> Does anyone know what the physical "tolerance" of the human ear is
+>> to pitch/frequency/cents variations with the range of MIDI note
+>> (0-127) frequencies from 8.175 Hz to 12543.853?
+>
+>I can't recall the reference off hand, but I've seen an article which
+>gave this as a function of frequency.  From what I remember though, it
+>isn't exactly linear, with the greatest sensitivity being in the range
+>typical of human voices, as one might expect, and getting worse on the
+>extremes of the range. I suspect that in the 8 HZ region it may or may
+>not even exist (i.e. the frequency is too low to be perceived as a
+>distinct tone to begin with.), but I'll defer to those more
+>knowledgable.
+>
+>
+>This does, however, open the door to something I've been curious
+>about, but haven't felt important enough to ask: What do folks out
+>there consider as a useable lower limit in frequency?  IOW, "How low
+>do you go?" :-). =20
+>
+>Personally, I find the "D" below bass "E", (roughly 37HZ?) to be
+>rock-solid, the "C" below that to be just on the limit of what I
+>perceive as a distinct *musical* tone, and the "B" below that (typical
+>of most 5 string basses) to provide a nice rumble when it's supporting
+>something an octave up, but lacking something as a musical note on its
+>own.  [That's why my 5 stringers both have high Cs ;-)] By the time I =
+get
+>to the low "A" on a piano, it's pretty much a growl that happens to =
+have=20
+>some semblence of pitch to it.
+>
+>Granted, this certainly has as much to do with the method of
+>[re]production as the actual pitch and the limits of my particular set
+>of ears, but moving significant amounts of air in the 8-32 Hz range
+>can get pretty costly, not to mention heavy, if you have to cart it
+>around. :-(
+>
+>This is more "practice" than "theory", but as painfully few home
+>systems can do what pipe organs can, most PA speakers cut out around
+>60Hz, and even the boxes some of us bottom-dwellers schlep around lose
+>it below 35Hz, how do you all handle the bottom end in your music?  Do
+>you treat it differently for effect ("subsonics") and for melodic or
+>harmonic needs?
+>
+>Aspiring bassist wants to know...
+>
+>Steve
+>
+>------------------------------
+>
+>Topic No. 4
+>
+>Date: Mon, 4 May 1998 16:26:53 -0400
+>From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>To: "'tuning@eartha.mills.edu'" <tuning@eartha.mills.edu>
+>Subject: TransTrem
+>Message-ID:
+><c=3DUS%a=3D_%p=3DAcadian-Asset%l=3DMARS-980504202653Z-1823@mars.acadian=
+-asset.com>
+>
+>>Adjustment of the position of the fulcrum of the nut along the length=20
+>>of the string might assist in retuning out of tune thirds in common =
+barre=20
+>>chords. This is "the same" principle that Steinberger uses in their=20
+>>TransTrem whammy bar (by the way, I have always thought that a=20
+>>Steinberger guitar with a transtrem would make a great microtonal=20
+>>instrument, since you can adjust the pitch of each string separately =
+when=20
+>>modulating to one of five new key centers).=20
+>
+>Can you elaborate (I thought the TransTrem just bent all the strings =
+the
+>same amount)?
+>
+>------------------------------
+>
+>Topic No. 5
+>
+>Date: Mon, 4 May 1998 16:52:24 -0400
+>From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>To: "'tuning@eartha.mills.edu'" <tuning@eartha.mills.edu>
+>Subject: RE: Open letter to Ken Wauchope and Dave Hill
+>Message-ID:
+><c=3DUS%a=3D_%p=3DAcadian-Asset%l=3DMARS-980504205224Z-1846@mars.acadian=
+-asset.com>
+>
+>Ken wrote,
+>
+>>Another example is the pair of neighbors 24/13 - 13/7, which I heard
+>>as respectively "medium" - "easy" despite 24 being just an even
+>>multiple of 3.  So I would go a step beyond odd/prime and allow as how
+>>evenness can't be ignored in this either -- it all just seems to boil
+>>down to how many partials are involved and how faint and far out in =
+the
+>>spectrum they are.
+>
+>I have to agree. The "integer-limit" seems an even better
+>characterization of harmonic fusion. However, given the pervasiveness =
+of
+>octave equivalence on the level of musical composition, the
+>considerations that go into designing a tuning system should typically
+>consider all inversions and extensions of an interval to be an
+>equivalence class. Thus the odd-limit concept gains its practical
+>relevance.
+>
+>But see the "BUT" below.
+>
+>Gary wrote,
+>
+>>I personally am pretty much a fence-sitter on the prime vs. odd
+>>question, but perhaps it's worth asking:  Do you perceive that there's =
+any
+>>mechanism in our auditory system for detecting powers of two (i.e.,
+>>octaves)?  If so, then why not powers of three or five?
+>
+>There does seem to be a brain-based mechanism for detecting powers of
+>two, even in some animals exposed to pure sine waves. It may be that as
+>a way of efficiently processing auditory information, the factor of two
+>was chosen by evolution as a period of repetition; that way, (a) the
+>redundant information contained in the 2nd, 4th, 8th, etc. partials =
+need
+>not confuse the system; and (b) the pitch space is reduced from some 10
+>octaves down to one octave, feasible since any particular stimulus
+>(especially a given human voice) tends to stay within a one-octave =
+range
+>anyway.
+>
+>BUT, I read that the cochlea actually winds around once per octave. If
+>there is any cross-stimulation between one turn of the cochlea and
+>adjacent ones, then there is a mechanism for at least some degree of
+>octave equivalence even on the level of the auditory stimulus, which
+>would of course affect harmonic fusion as well as pitch recognition. If
+>such a phenomenon exists, then there is no reason to postulate a
+>brain-based mechanism for recognizing powers of two.
+>
+>Ken wrote,
+>
+>>However this was a very narrowly defined exercise concentrating only
+>>on beating, roughness and harmonic fusion, without addressing any
+>>other aspects of interval recognition, such as whether it's easier to
+>>tune a 15/8 than a 13/7 based on affect, and if so, why.  On the =
+prime/odd=20
+>>controversy, I'm still an agnostic.  I've certainly noticed how 7, 11 =
+and
+>>13 sound exotic to me and 9 and 15 sound familiar, but just why that =
+is,
+>>I haven't decided.
+>
+>Fair enough. I attribute this familiarity to the diatonic grammar with
+>which we were brought up. This grammar is very powerful and has some
+>amazing properties, as I point out in my paper. The psychological =
+effect
+>of these properties is profound. 7 and 11 are usually not =
+understandable
+>in terms of this grammar and so sound exotic, regardless of the degree
+>of harmonic fusion of these intervals.
+>
+>------------------------------
+>
+>Topic No. 6
+>
+>Date: Mon, 4 May 1998 16:56:34 -0500 (CDT)
+>From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+>To: tuning@eartha.mills.edu
+>Subject: Re: Reply to Paul Hahn
+>Message-ID: =
+<Pine.SOL.3.95q.980504163326.24285E-100000@library.wustl.edu>
+>
+>On Mon, 4 May 1998, Paul H. Erlich wrote:
+>>             I almost wanted to include you, but your concept of
+>> higher-level consistency seems to support the other side. For =
+example,
+>> insisting that the approximations to 3-limit intervals be level-2
+>> consistent means that you care about approximating certain 9-limit
+>> intervals.
+>
+>The implications of higher levels of consistency are varied, and I =
+don't
+>want to get into another flamewar about it at this point, but just let
+>me say this:
+>
+>(a) I wish to go beyond basic (level 1) consistency because it is
+>possible for an ET to be level 1 consistent and still err from a given
+>just ratio by nearly half the stepsize of the ET.  An extreme example:
+>18TET is consistent to the 7-limit, but its 11-step "fifth" is only
+>barely better as an approximation to the 3/2 than its 10-step interval.
+>One is over 31 cents high, the other more than 35 cents low; the
+>difference between the two errors is less than four cents!=20
+>
+>(b) There is no inconsistency ( 8-)> ) in supporting both higher-level
+>consistency and the use of odd limits over primes.  In fact, it would =
+be
+>rather difficult to adapt the idea of higher-level consistency to a
+>prime-limit paradigm.
+>
+>(c) (semi-serious) I said I was on your side; isn't that good enough =
+for
+>you?  Don't look a gift horse in the mouth.  8-)>
+>
+>--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+>    O
+>   /\        "Churchill? Can he run a hundred balls?"
+>  -\-\-- o                                                          =20
+>             NOTE: dehyphenate node to remove spamblock.          <*>
+>
+>------------------------------
+>
+>Topic No. 7
+>
+>Date: Mon, 04 May 1998 19:06:22 -0700
+>From: Xou Oxno <xouoxno@virtulink.com>
+>To: tuning@eartha.mills.edu
+>Subject: re: Buzz and other tuning related stuff
+>Message-ID: <354E741E.4A41@virtulink.com>
+>
+>Thee Eternal Hstick writes:
+>
+>>For Feiten to devise a system that helps working musicians=20
+>>sound better on a gig, I have only good feelings...again, though, I=20
+>>personally feel it's time that the music world begins to understand =
+what=20
+>>12 eq is, how and why it came into being, and that there are other=20
+>>options. Unfortunately, the magazine editors that I am in contact with =
+
+>>seem uninterested in pursuing the subject...and that does piss me off, =
+
+>>because they make it seem like 12eq is IT, and it surely is only one=20
+>>tuning out of zillions...Hstick
+>
+>They ARE editors of a GUITAR MAGAZINE. Come on!
+>
+>Instead of writing an article on theory try this...
+>
+>Write an article on John Schneider. He's been performing=20
+>the music of this centuries ground breaking microtonal
+>composers (Lou Harrison, Harrry Partch, La Monte Young)
+>for a couple of years now, has a few cd's out with plans
+>for more. Next cd he releases - write an article about
+>him and his guitars and shop it around. If you get more=20
+>room than a half page, a feature even! - maybe you can=20
+>convince them that you should also write a side bar on
+>the short history of tuning.
+>
+>You could even write about Rod Poole, hopefully=20
+>his next cd will come out this year. If GP still doesn't
+>go for it, try Musician magazine. They seem to be interested
+>in the educational aspect of magazine content. If it=20
+>goes that far, maybe the article should be written by somebody
+>else so that Neil Haverstick fellow (who?) can be included
+>with Jon Catler (that Birdhouse cd should be out this year),=20
+>John Schneider, Dan Stearns and other microtonal guitarists.
+>At that point - maybe, if it gets that far - Johnny
+>Reinhard or John Chalmers or some aspiring theorist
+>could write the side bar or even a full separate article.
+>
+>Don't forget to include URLs like: 1/1, Starrett's Tuning Links page,
+>The main Partch site - Corpreal Meadows,=20
+>the La Monte site - MELA Foundation,
+>info about joining the list.
+>
+>I know a bit about the magazine biz: I'm in it.
+>
+> "Now stop it. You've proved your point."
+>
+>        Jimmy Brown
+>        Guitar World/Maximum Guitar editor
+>        after I showed him how to tune a guitar=20
+>        to upper harmonics.
+>
+>
+>
+>Thee Eternal Hstick also wrote:
+>
+>>PS...Foote's accidental post about trolls was appreciated
+>>..this list is usually very peaceful; occasionally a=20
+>>personal dig surfaces, and it always says more about=20
+>>the digger than the digee...no need for personal=20
+>>attacks...HHH
+>
+>You're way too fragile for the net Neil!=20
+>
+>Maybe it would make you happy if you knew that=20
+>I finished writing this whole letter and Netscape=20
+>made my computer crash - I had to start all over.
+>
+>* * * * * * * * * * * * * *
+>
+>And some other things...
+>
+>If you (that means anyone reading this!) catch a microtonal
+>concert in your neighborhood, maybe you can sit down at
+>the computer and wack out an in depth review for us?
+>There was a concert in Southern California last month
+>and it was hardly mentioned. Neil Haverstick (aka Hstick,
+>HHH, Aline Surman, any more?) has to review his own concerts. Sheesh!
+>If 100 people came: not one of them is on this list and=20
+>they can't write a review???
+>
+>Before I step down off of my soap box...don't forget:
+>AFMM, this Thursday & Friday, Columbia U.,=20
+>Saint Paul's Chapel NY, NY 8pm.=20
+>
+>Be there or be out of town.    ;)
+>
+>=20
+>* D a v i d        B e a r d s l e y
+>*           xouoxnoREMOVE-THIS@virtulink.com
+>*
+>* J u x t a p o s i t i o n     E z i n e
+>* M E L A  v i r t u a l  d r e a m house monitor
+>*
+>* http://www.virtulink.com/immp/lookhere.htm
+>
+>------------------------------
+>
+>Topic No. 8
+>
+>Date: Mon, 4 May 1998 20:27:33 EDT
+>From: A440A <A440A@aol.com>
+>To: tuning@eartha.mills.edu
+>Subject: Re:  TUNING digest 1404
+>Message-ID: <b537d9fe.354e5cf6@aol.com>
+>
+>Bruce writes:
+>>Actually it seems to me that the fascination with polyphony along with
+>>12ET's somewhat universal simplicity, has caused the predominance of
+>>12TET-- it has taken 250-300 years to somewhat exhaust the rich =
+endowment
+>>of this tuning.=20
+>=20
+>    If I understand Bruce to mean that ET has been used for 250-300 =
+years, I
+>must respectfully disagree.  There is more than ample evidence to show =
+that,
+>while theorized about much earlier,  the use of 12 TET didn't actually =
+come
+>to
+>prominence before 1850.    =20
+>	True, we have evidence that lutes and viols were capable of ET shortly =
+after
+>the Mersenne ratios were published, (1636?), but Mersenne himself said =
+that
+>keyboards could not use the numbers because they must be tuned by ear, =
+not
+>linear measurements. =20
+>    I hope we are not on a semantic loggerhead here, but the tunings =
+that
+>evolved out of the restrictive meantone tunings were often called =
+"equal" for
+>their modulatory freedom, but there was distinct differences between =
+the
+>level
+>of tempering in the various keys. =20
+>Regards,=20
+>Ed Foote=20
+>Precision Piano Works
+>Nashville, Tn.=20
+>http://www.airtime.co.uk/forte/history/edfoote.html
+>   =20
+>
+>------------------------------
+>
+>Topic No. 9
+>
+>Date:     Tue, 5 May 98 12:06:59 BST
+>From:     J P Fitch <jpff@maths.bath.ac.uk>
+>To:       tuning@eartha.mills.edu
+>Subject: Re:  Csound
+>Message-ID: <E0yWfYq-0006jl-00@wallace.maths.bath.ac.uk>
+>
+>I think I fixed the bug with rounding for cpsxpch but I will check.
+>=3D=3DJohn
+>
+>------------------------------
+>
+>Topic No. 10
+>
+>Date: Tue, 5 May 1998 10:58:06 -0400
+>From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>To: "'tuning@eartha.mills.edu'" <tuning@eartha.mills.edu>
+>Subject: Chaos, octave equivalence, and subharmonics
+>Message-ID:
+><c=3DUS%a=3D_%p=3DAcadian-Asset%l=3DMARS-980505145806Z-2090@mars.acadian=
+-asset.com>
+>
+>One of the major results in chaos theory is the universality of certain
+>features of non-linear dynamical systems. In virtually all dynamical
+>systems which can behave chaotically, there is a phenomenon called
+>period-doubling which describes the transition from stable, periodic
+>behavior to chaotic behavior. As a relevant parameter of the system is
+>increased from a stable to a chaotic value, the system repeats itself
+>every 2, 4, 8, 16, . . . periods of the stable period. The transitions
+>from one power of two to the next occur closer and closer together; the
+>changes in parameter values required to produce each successive period
+>doubling approach a decreasing geometric sequence with scaling =
+parameter
+>equal to the Feigenbaum constant (4.6692016091029 . . . ). This means
+>that at a finite value of the parameter, the period will be infinite,
+>i.e., we have chaos.
+>
+>There may be many stages in the hearing process in which non-linear
+>dynamics come into play. It would probably be counterproductive to =
+allow
+>this non-linearity to be enough to lead to chaos, while a parallel
+>structure of processors with different, lesser degrees of non-linearity
+>might actually aid in the recognition of pitch. It is known that when a
+>(not too high) pitch is heard, there are neurons that fire at the same
+>rate as the vibration rate of the pitch itself. Other neurons in the
+>brain are known to have a non-linear response to their input from other
+>neurons. Since a response non-linear enough to lead to chaos would
+>essentially be destroying all frequency information, most of the =
+neurons
+>would oscillate at the input frequency or at octave equivalents below
+>that frequency. Perhaps a certain, low octave range is where pitch
+>judgments are actually made. Notice how very high tones seem ambiguous
+>in pitch.
+>
+>Whether this or the winding of the cochlea explains octave equivalence,
+>there may have been evolutionary advantages conferred by the ability to
+>reduce unimportant information and potential confusion from overtones =
+by
+>compressing pitch information to within one octave, which led to the
+>brain or ear being designed the way they are.
+>
+>As for the apparantly irregular "subharmonic" which Gary observed in =
+the
+>bassoon waveform, this can easily be explained by assuming some
+>parameter of non-linearity (perhaps lip pressure) was hovering around a
+>value at which an initial period doubling occurs. So the amplitude of
+>this period-2 subharmonic could have been changing, and it could cease
+>to exist for a while, returning again just as easily after either an =
+odd
+>or even number of period-1 oscillations.
+>
+>Here's an observation about instrument or vocal "subharmonics": Beyond
+>the onset of chaos, chaotic regions alternate (in a fractal pattern)
+>with regions whose periods are non-power-of-two multiples of the stable
+>period. The last of these subharmonic periods to occur, but the =
+broadest
+>in allowed parameter values, is period 3. So within a wide enough range
+>of highly chaotic parameter values, one is likely to stumble upon
+>period-3 behavior. Increasing the parameter value further leads to the
+>period doublings, which in this case means period-6, period-12,
+>period-24, . . . with the same Feigenbaum constant, and back to chaos.
+>But decreasing the parameter leads directly back to chaos, via a
+>phenomemon known as intermittency, where very nearly period-3 behavior
+>persists for stretches of time, unpredictably alternating with =
+stretches
+>of chaotic behavior. (The same thing is true for every odd number above
+>3, although the smallest parameter value needed to achieve a given odd
+>subharmonic, and the range of parameter values in which it persists, =
+are
+>decreasing functions of that odd number). Therefore, assuming the
+>parameter value varies smoothly with time, and at some times takes on
+>values corresponding to simple period-1 vibration, the only =
+subharmonics
+>which can exist without chaos ever occuring are the subharmonics
+>corresponding to powers of 2. Period-3 oscillation (or, to a lesser
+>extent, periods of higher odd numbers) can be relatively common but
+>cannot smoothly connect with simpler behavior.
+>
+>------------------------------
+>
+>Topic No. 11
+>
+>Date: Tue, 05 May 1998 11:10:24 -0700
+>From: Xou Oxno <xouoxno@virtulink.com>
+>To: tuning@eartha.mills.edu
+>Subject: Steve Vai in Guitar World. and other babbel...
+>Message-ID: <354F5610.1289@virtulink.com>
+>
+>In my ever ending quest to effectively waste
+>time more efficently, I found this program
+>this morning and have managed to waste 4 hours so far.
+>
+>Steve Vai in Guitar World.  http://www.guitarworld.com
+>
+>Here's the original text:
+>
+>VAI: I've done some kooky things that involved dividing=20
+>up the fretboard. I have a guitar that has 24 frets to=20
+>the octave and one that has 16 frets to the octave, so
+>they're untempered. They sound like divine=20
+>dissonance from Venus. And I'm working on a=20
+>new triple-neck that has a six-string, a fretless=20
+>and a 12-string. It has three individual outputs=20
+>for three different amps. I'm writing material where=20
+>I'll be using all three necks at the same time.
+>
+>
+>I then sent it through the The Altavista Language Transmorgrafier:=20
+>
+>http://www.archive.org/%7Eart/babelphone.html
+>
+>And came up with a couple of different translations:
+>
+>
+>VAI: I made some things kooky which implied to divide the fretboard.
+>I have a guitar which A 24 hoops with the octave and one which have
+>16 hoops with the octave, thus they are not soaked. They resemble
+>divine dissonance of dome. And I work with a new triple-neck which
+>has a six-chain of characters, a fretless and with a 12-string. It
+>has three various outputs for three different amps. I am material of
+>writing where I will use each of the three necks at the same time.
+>
+>VAI: I made some things kooky that implied to divide fretboard. I
+>have a guitar that the hoops of A 24 with eighth and one that they
+>have 16 hoops with eighth, therefore they do not soak themselves.
+>They are resembled come divine dissonance of. And work with a new
+>triple-neck that a six-linking of characters has, fretless and with
+>12-string. It has three several exits for three diverse amperes. I
+>am material of the writing where I will use each one of the three
+>necks in the same time.
+>
+>VAI: I formed some things kooky, those suggest, in order to divide
+>fretboard. I have a Guitarre, which the tapes of A 24 do not soak
+>themselves with eighth and one, which they have 16 tapes with
+>eighth, therefore them. They are resembled to come divine Dissonance
+>of. And work with a new three-fold beginning, which has six six
+>linking the characters, fretless and with 12-string. It has three
+>some outputs for three different ampere. I am material of the
+>writing, in which I use each of the three beginnings in the same
+>time.
+>
+>VAI: I have formed some things kooky, those I suggest, in order to
+>divide the fretboard. I have a Guitarre, than the tapes of To 24 not
+>inzuppareano same they in eighth and one, than 16 tapes with eighth,
+>therefore they. They are been similar in order coming dissonance
+>divine of. And job with a new triple beginning, that it has six six
+>to connect the characters, fretless and with 12-string. It has three
+>some escapes for three to amp=E8re different. They are material of the
+>writing, in which use everyone of the three inizii at the same time.
+>
+>--=20
+>* D a v i d        B e a r d s l e y
+>*           xouoxnoREMOVE-THIS@virtulink.com
+>*
+>* J u x t a p o s i t i o n     E z i n e
+>* M E L A  v i r t u a l  d r e a m house monitor
+>*
+>* http://www.virtulink.com/immp/lookhere.htm
+>
+>------------------------------
+>
+>Topic No. 12
+>
+>Date:         Tue, 05 May 98 09:08:34 PDT
+>From:         Allen Strange <STRANGE@SJSUVM1.sjsu.edu>
+>To:           Folks <tuning@eartha.mills.edu>
+>Subject: Monochord
+>
+>Folks:
+>
+>Here at San Jose State Univ. the first thing we teach our freshmen  =
+students
+>in
+> their theory courses are interval ratios. We need to build a monochord
+>(obviou
+>sly!) I am the type who can't hammer a nail in the side of a barn - is =
+there
+>an
+>yplace I can go (on the net or elsewhere) to find a kit, model, plans,
+>whatever
+>  My wife works in a violin shop so I can get pegs and bridges and such =
+with
+>n
+>o problem.  Thanks to anyone who can help.
+>
+>Allen Strange
+>
+>------------------------------
+>
+>End of TUNING Digest 1405
+>*************************
+>

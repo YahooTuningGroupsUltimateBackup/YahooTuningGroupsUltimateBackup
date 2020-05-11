@@ -1,0 +1,87 @@
+source file: mills2.txt
+Date: Tue, 4 Mar 1997 17:09:23 -0800
+
+Subject: Ancient Geeks and irrationals
+
+From: Jonathan Wild <jon@sound.music.mcgill.ca>
+
+This is a few days late, but there was some question of how much some  
+Greeks *really* minded irrational quantities... 
+
+
+"Repugnance" towards irrationals was strictly limited to disciplines  
+regarded as subordinate to mathematics. Look at the Greek quadrivium  
+to see how music fits in:
+
+        MATHEMATICS                    GEOMETRY
+          (number)                    (magnitude)
+
+           MUSIC                       ASTRONOMY
+    (number as embodied          (magnitude as embodied
+         in sound)                 in celestial motion)
+
+The schism between the sciences dealing with the discrete vs those  
+dealing with the continuous (number vs magnitude) was a huge factor  
+in the development of mathematical methods. It was precisely because  
+Greek geometry *could* deal with the continuous and the irrational  
+that it flourished, rather than Greek mathematics, which dealt only  
+with the discrete and the rational. So, for example, a proof of what  
+we think of today as a simple algebraic identity like 
+
+
+   (a-b)^2 (a-b)(a+b)
+
+had to be ingeniously couched in purely geometrical terms.  Eudoxus  
+(a contemporary of Plato) put forward a brilliant theory of  
+irrational proportions that could have incorporated them into Greek  
+mathematics, but unfortunately no-one really took him up on it till  
+the late 19th century. (By the way, Plato shouldn't be mentioned in  
+connection with hiding the fact that there are irrational numbers --  
+somewhere he says that any man unaware of their existence is no  
+better than a swine...)
+
+I guess if Pythagoreans could have construed music as *magnitude*  
+embodied in sound (i.e. subordinate to geometry) rather than *number*  
+embodied in sound, there would never have been a problem with  
+irrational proportions in music.  Don't jump to any conclusions and  
+think that Aristoxenus favoured such a switch in music's allegiance,  
+however: as mentioned already in this thread he places music  
+subordinate to nothing save perception, as exemplified in his  
+do-it-yourself investigation (he never called it a "proof") of  
+whether the fourth contains two and a half tones, which you can find  
+at the end of book II of the Elements of Harmonics. 
+
+
+Anyway, despite Greek geometry's perfectly adequate treatment of  
+irrational proportions, repugnance towards them in areas where  
+*number* was thought to matter was very real, and is evidenced in  
+many writings dealing with "mathematical" disciplines. One fantastic  
+example, mentioned by Aristides Quintilianus and also found in the  
+Hippocratic *Endemics*, tells physicians that diseases whose symptoms  
+appear in "concordant" ratios (like one day for every two they are  
+absent) are not dangerous, while those whose symptoms appear in  
+irrational or continuous proportions are "deadly, and to be feared".  
+Heck, even Aristotle thought that pleasant colours resulted from  
+elementary particles of black and white mixed in simple ratios,  
+whereas irrational proportions gave rise to unpleasant colours (this  
+is somewhere in *De Sensu*). And as far as musical thinking goes,  
+here's Barker's translation of Adrastus:
+
+      Under irrational relations noises are irrational
+      and unmelodic, and should not strictly even be called
+      notes, but only sounds; but under relations that place
+      them in certain relations to one another, they are
+      [...] strictly and properly notes.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 5 Mar 1997 05:17 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06286; Wed, 5 Mar 1997 05:17:10 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA06248
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id UAA16996; Tue, 4 Mar 1997 20:15:41 -0800
+Date: Tue, 4 Mar 1997 20:15:41 -0800
+Message-Id: <Pine.GSO.3.95.970304224511.17203A-100000@u3.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

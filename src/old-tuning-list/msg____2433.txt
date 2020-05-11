@@ -1,0 +1,93 @@
+source file: mills2.txt
+Date: Wed, 3 Jan 1996 19:13:46 -0800
+
+Subject: Free copies of my doctoral dissertation on expanded tunings
+
+From: eig@ccrma.stanford.edu (Enrique Moreno)
+
+Dear Friends of The Tuning Forum,
+
+	I'd be happy to send a copy of my recently completed doctoral dissertation (see abstract below) to any interested person on this list. It  
+consists of 113 sheets of paper (printed on both sides = 226 pages) and a cassette tape with examples. I'm giving it away free of charge, but I can  
+no longer afford to pay for the copying and the US mail. 
+
+Expenses are:  
+
+copying: 226 pags. x $ 0.05 = $ 11.30 + cassette tape + US snail = about $ 15 (add 2 or 3 $s if you want it wire-bound).
+    	
+If you're poverty-stricken but tuning-enthusiastic, just send me a check for whatever you can afford and I'll mail you my tractatus:
+
+Enrique Moreno
+724 Arastradero Rd. Apt. 206
+Palo Alto, California 94306
+
+*************   ABSTRACT:   ************************* 	
+
+EMBEDDING EQUAL PITCH SPACES AND THE QUESTION OF EXPANDED CHROMAS:
+AN EXPERIMENTAL APPROACH
+ 
+
+A DISSERTATION
+SUBMITTED TO THE DEPARTMENT OF MUSIC
+AND THE COMMITTEE ON GRADUATE STUDIES
+OF  STANFORD UNIVERSITY
+IN PARTIAL FULFILLMENT OF THE REQUIREMENTS
+FOR THE DEGREE OF
+DOCTOR OF PHILOSOPHY 
+
+
+By
+Enrique I.Moreno
+December 1995
+
+ABSTRACT 
+
+
+	One of the most intriguing characteristics of traditional tuning systems is that they are based on the assumption that tones separated by  
+one or more octaves (powers of two) belong to the same pitch class. In turn, octave similarity is the fundamental axiom of traditional Western tonal  
+and modal harmony and music theory. In previous work on new tuning systems by Bohlen and by Mathews, Pierce, et al., a new tuning was suggested in  
+which a basic exponential cycle k produces intervals given by k^(1/13), when k = 3. The concept of equal temperaments with intervals given by  
+k^(1/n) [where k = 3, 5,6,7...N, n and m, are natural numbers not equal to  x^y (where x, y = 1,2,3 ... N)] is generalized and elaborated upon. 
+
+	The resulting tunings, called "expanded tunings" are consequently organized according to the mathematical coherence given by the periodicity  
+of k. However, the *perceptual* organization of such tunings may seem unclear, since, in the absence of powers of two (octaves), perceptual  
+similarity would have to be elicited by k-type intervals (termed "morenoctaves" in the context of an expanded tuning), which, at first hand, seems  
+theoretically possible in light of the the various similitudes between octave and k-interval perception/repetition rate, similar patterns in  
+Terhardt's proposed Pitch Processor, and harmonic rate coincidence. Since neither Mathews, Pierce et al. nor any other researchers have investigated  
+the question of perceptual similarity when k > 2, precise definitions of the problems of chroma spaces and octave and perceptual similarity are  
+analyzed in the light of: 1) the newly proposed families of expanded tunings, 2) their practical meaning in terms of music composition, 3) current  
+research on related psychoacoustical-cognitive problems, 4) three experiments specifically designed to explore for the first time the plausibility  
+of cognitive coherence in all expanded tunings (expanded chromas). To accomplish these goals, the class of expanded tunings is explained as a class  
+of log-based equal tunings derived from the relationships implied in the harmonic series, and the main theoretical properties of these unexplored  
+musical tuning systems explained. 
+
+	A review of the literature reveals furthermore that, psychoacoustically, there is no reason to reject the similarity of morenoctaves  
+provided that certain conditions hold ± for example, that a tuning based on the similarity of morenoctaves does not contain close approximation to  
+octaves. In reference to composition with these systems, solutions to practical problems are proposed. A system to implement expanded tunings using  
+current technology is explained, and problems concerning the notation of music in expanded tunings are examined. The use of color, for example, is  
+proposed as a solution to the dissociation between pitch class and pitch name in tunings with more or less than twelve classes. 
+
+	In order to illustrate the practical meaning of expanded chromas in reference to music composition, and compositional problems, several  
+originally composed musical examples are examined, and related problems to composition discussed. The abstract dimensionality of pitch is next  
+discussed in the light of current models, and a new geometrical, basic three-dimensional model of pitch ± instead of the traditional two-dimensional  
+one ± is proposed as a better means to represent expanded chromas. 
+
+	A paradigm of empirical research, based on this model is explained in relation to the problem of obtaining experimental evidence for the  
+cognitive reality of expanded chroma, and the assumptions necessary for the specific design of a main experiment and two secondary ones are  
+examined. 
+
+	The results of three experiments (described herein) show that, among trained musicians, subjects have a spontaneous relative sense of  
+expanded chroma because statistically, they are capable of recognizing the similarity of harmonic functions of a fragment of music in expanded  
+tunings under the operation of rigid transposition and ± with much more difficulty ± under the operation of rigid chord inversion. This means that  
+perception of the dimension of chroma in music ± hitherto unexplored ± is a capability of the human mind, and that expanded tunings can be coherent.
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 4 Jan 1996 05:21 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id UAA06590; Wed, 3 Jan 1996 20:21:07 -0800
+Date: Wed, 3 Jan 1996 20:21:07 -0800
+Message-Id: <9601040419.AA18880@ ccrma.Stanford.EDU >
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,91 @@
+source file: mills2.txt
+Date: Wed, 17 Jul 1996 09:50:51 -0700
+
+Subject: Simulating Gamelan
+
+From: John Chalmers <non12@deltanet.com>
+
+The following appeared on the Gamelan list, but I think much is
+relevant to recent discusions on psychoacoustics, instrumental
+simulations, and "translating" music such as Harry Partch's for
+different orchestral forces. 
+
+
+Date:    Mon, 15 Jul 1996 12:12:56 -0800
+From:    Kenneth Newby <newby@SFU.CA>
+Subject: Electroacoustic Composition from Gamelan
+
+Al Nurbandana wrote:
+>I still do not know
+>what to do to find the appropriate 'kendang' sound especially the
+>'kendang batangan'.  I just cannot imagine how 'ciblon' can be played
+>in keyboards.
+
+Well, it's tough using samples of "other" instruments, although it sounds
+like you're exploring the processing part of your instruments.  With
+respect to the ciblon, one thinks of the cello parts sometimes heard in
+Kroncong, which mimic (quite effectively) pitch and rhythms similar to
+ciblonan.  With appropriate control of dynamic envelope you should be able
+to achieve a similar quality with a sampled cello.
+
+
+>A friend of mine
+>gave me an idea to use my computer - but I do not have the program. Do
+>you know what program I can use and where to find it ?
+
+You might consider using Max.  (By Opcode for the Macintosh)  It's a little
+more demanding than a conventional sequencer, but if you're interested in
+modelling musical behaviour like Karawitan (a very interesting challenge)
+Max is useful in that you can program variations into the individual parts
+and come up with something closer to the "dynamic steady state" that's
+essential to this music.  An interactive system like this provides
+compositional challenges and opportunities that point to some of the deeper
+levels of intercultural creativity discussed on the list in the last few
+days.
+
+With respect to tuning (embat);  Al's posting to the gamelan list in Bahasa
+Indonesia several months back elaborated on some of the possibilities
+inherent in the tuning of a gamelan:  (also check out Polansky on
+"Paratactical Tunings" and Wendy Carlos on "Tuning", both in past Computer
+Music Journals for more fruitful musings.)
+
+1. 'mbat Pleng: in which the tone an octave above agrees with the pitch
+below.  Usually used for dance with Mataraman-style pieces.
+
+2. 'mbat Larasati:  in which the tone an "octave" above is raised slightly
+higher than a "true" octave (more than 1200 cents).
+
+Actually this can be quite subjective and dependent on the nature of the
+timbres being tuned, as the problem of tuning the somewhat inharmonic low
+strings of the piano has shown.
+
+3. 'mbat Sundari:  where the tone an "octave" above is lowered slightly
+lower than a "true" octave (less than 1200 cents).
+
+Al mentions that the effect of this tuning is similar to that of 'mbat
+Larasati.  I haven't heard much mention of this type of "compressed" tuning
+in Karawitan, the stetched or spiral tuning seems to be more common.  (Our
+gamelans in Vancouver use 'mbat Larasati)  Does anyone know 'mbat Sundari
+is commonly used?
+
+________________________________________________________
+       Kenneth Newby, Vibrant Arts! newby@sfu.ca
+
+                 921 East 10th Avenue
+                   Vancouver, B.C.
+                   Canada V5T 2B3
+
+                    604 872-2864
+________________________________________________________
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 17 Jul 1996 18:51 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA05803; Wed, 17 Jul 1996 09:51:55 -0700
+Date: Wed, 17 Jul 1996 09:51:55 -0700
+Message-Id: <Pine.SCO.3.91.960717094740.9986E-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

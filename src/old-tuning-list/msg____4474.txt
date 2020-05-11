@@ -1,0 +1,70 @@
+source file: mills2.txt
+Date: Thu, 2 Jan 1997 14:19:31 -0800
+
+Subject: A Letter from David Feldman
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+I received the following mail from composer and mathematician
+David Feldman - one of our lurkers - who has allowed me to forward
+it to the list: 
+
+I had a tuning idea the other day which led me to some computations which
+I would be happy to share with you.  Here is the idea.  Suppose
+that you are primarily interested in two intervals.  Classically
+you might think of r11 and r22, but any pair will serve.  Then
+you might think of dividing one of these intevals into equal
+parts so as to produce a good approximation of the second.  To
+decide how many parts leads you to the irrational quantity
+qog r1)/(log r2) which you must then approximate by a rational
+number.  Continued fractions provide the best tool.
+
+All that is well known of course.  The new (?) idea which currently
+intrigues me is working with four intervals, r1, r2, r3 and r4
+with 
+            (log r1)/(log r2) (log r3)/(log r4) (approximately)
+With such a foursome you could transform a musical structure which
+depended on the first two intervals into one which depended on
+the last two.  For example 
+
+log (2/1)/log (3/2) 1.70951...
+
+while
+
+log (15/8)/log (13/9) 1.70945...
+
+so up to a point (5, 12, 41, 53, ...) subdivisions of the
+octave that produce good fifths corresponds to subdivisions
+of  a 15/8 that produce good 13/9 's.   I call the
+pairs (2/1,3/2) and (15/8,13/9) (mutually) isotempered.
+
+The table I used to learn this fact (and many others like it)
+I made as follows.  I computed qg(r1)/log(r2) for every
+r1 and r2 (in lowest terms) with denominator up to 10
+and numerator not more then 10 greater then denominator.
+Then I sorted the table by the magnitude of q.  Finally
+I computed the difference between consecutive lines in order
+to look for good isotempered pairs.  The table includes
+the continued fraction partial quotients of each q.  I made
+it all with a simple maple program.
+
+The format is very wide (it all fits on my new wide monitor screen)
+which may be inconvenient for you.  Let me know if you need
+it reformated.  I will send the table under separate cover.
+
+David
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 2 Jan 1997 23:29 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00913; Thu, 2 Jan 1997 23:32:28 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00911
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA13342; Thu, 2 Jan 1997 14:32:26 -0800
+Date: Thu, 2 Jan 1997 14:32:26 -0800
+Message-Id: <32CC376F.6E1B@sprynet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

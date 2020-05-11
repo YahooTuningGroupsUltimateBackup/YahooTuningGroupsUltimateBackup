@@ -1,0 +1,70 @@
+source file: m1452.txt
+Date: Sat, 20 Jun 1998 07:19:45 -0500 (CDT)
+
+Subject: Re: How to read lattice diagram
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Sat, 20 Jun 1998, Ed & Alita Morrison wrote:
+> A long time ago Paul Hahn wrote,
+> >    10/9 --- 5/3 --- 5/4
+> >     / \     / \10/7 / \
+> >    /   \   /   \   /   \
+> >   /14/9 \ / 7/6 \ / 7/4 \
+> >16/9 --- 4/3 --- 1/1 --- 3/2 --- 9/8
+> >           \ 8/7 / \12/7 / \ 9/7 /
+> >            \   /   \   /   \   /
+> >             \ / 7/5 \ /     \ /
+> >             8/5 --- 6/5 --- 9/5
+> 
+>    I am not familiar with lattices of this type.  Would you please explain
+> it for me?  The middle row is sequence of fifths but what is the meaning of
+> the other rows and the fractions between them?
+
+First, let me restore the brief explanation that originally accompanied
+this diagram:
+
+> >This is a projection of part of the 3D 7-limit lattice into a plane.
+> >The triangles are in the 3-5 plane, and the ratios inside the triads are
+> >either one layer above or below depending on whether they're inside
+> >major or minor triads.
+
+If that doesn't do it for you, I'll put it a little less tersely.
+
+The basic unit of this lattice is this tetrahedron which represents a
+4:5:6:7 tetrad in three-dimensional space:
+
+		    5/4
+		    / \
+		   /   \
+		  / 7/4 \
+		1/1 --- 3/2
+
+(Imagine the 7/4 corner of the tetra sticking up out of the plane of the
+screen towards you.)
+
+The six edges of the tetra represent the six interval classes by which
+the pitches of the tetrad are related.  Now, if you look again at the
+original diagram, you'll see that every pitch in it is related to the
+others around it by those same intervals, represented by the same
+relative spatial position.
+
+For example, the 8/7, 4/3, and 8/5 are each exactly opposite the 7/4,
+3/2, and 5/4 relative to the 1/1, and together with it they form a
+Utonal tetrad which is the inverse of the original Otonal tetrad.
+Similarly, the interval between the 7/4 and the 5/4 is a 7/5, and that
+same spatial relationship tells us where to place the 7/5 and 10/7 in
+the diagram.
+
+Does that help?
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>
+
+------------------------------
+
+End of TUNING Digest 1452
+*************************

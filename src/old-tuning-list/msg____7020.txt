@@ -1,0 +1,75 @@
+source file: mills3.txt
+Date: Tue, 13 Jan 1998 15:25:54 +0100
+
+Subject: Re: blues
+
+From: wauchope@AIC.NRL.Navy.Mil
+
+> Hstick wrote:
+> after all these years of playing it, I don't think I really
+> know the exact origin of the blues scale. Is it African (very likely)? As
+> I said, it is very Middle Eastern in many ways...does anyone out there
+> know for sure?
+
+I don't know for sure either, but back when I took ethnomusicology
+there was one particularly haunting African (Bambara) flute song that
+used a pentatonic scale containing a neutral third, augmented fourth
+and neutral seventh that sounded distinctly "bluesy" to me.  When I
+later tried to recreate the tuning from memory, this came close to
+capturing the remembered effect:
+
+	1/1  11/9  11/8  3/2  11/6  2/1
+
+To get this sound out of a Western instrument, an early African
+American would have had to approximate the elevenal ratios by bending
+adjacent notes of the Western scale: major-minor third for the 11/9,
+fourth-tritone for the 11/8 and major-minor seventh for the 11/6
+(blues pianists get the same effect by hitting both notes at once).
+These are the three "blue note" areas whose pitch fluctuates and bends
+in blues performance, and so could result from the effort to reconcile
+an African and Western tuning.
+
+The neutral thirds would also explain the resemblance to Middle
+Eastern music.  P.S. As Kathleen Schlesinger notes in _The Greek
+Aulos_, primitive flutes drilled simply with equally-spaced finger
+holes tend to produce undertonal scales, and it's been my experience
+that such flutes often contain a neutral third -- possibly from the
+undertonal sequence
+
+	11/10  11/9  11/8  11/7  11/6  11/5
+
+which might be closer to what that Bambara flute was actually up to.
+
+Anyway, this is just one speculation -- there are many theories about
+the origin of the blues scale and we'll probably never know for sure.
+
+-- Ken Wauchope
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk (Graham Breed) 
+Subject:  Re: MIDI/Audio wish list
+PostedDate:  13-01-98 19:47:59
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  13-01-98 19:47:37-13-01-98 19:47:37,13-01-98 19:47:25-13-01-98 19:47:26
+DeliveredDate:  13-01-98 19:47:26
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658B.0067389B; Tue, 13 Jan 1998 19:47:55 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06037; Tue, 13 Jan 1998 19:47:59 +0100
+Date: Tue, 13 Jan 1998 19:47:59 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA06036
+Received: (qmail 29224 invoked from network); 13 Jan 1998 10:47:45 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 13 Jan 1998 10:47:45 -0800
+Message-Id: <memo.193993@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

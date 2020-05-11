@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Tue, 19 Sep 1995 02:42:25 -0700
+
+Subject: All those numbers
+
+From: finer@easynet.co.uk (Jem Finer)
+
+Can you help me out here ?
+I'm very interested in all this tuning buisness but am rather flumoxed by
+the numbers, e.g.
+ >__Ascending forms__>Main notes are:
+>>
+>>(1) {C:[1/1] , G:3/2 , D:9/8, A:27/16 , E:81/64 , B:243/128 }
+>
+>Rewritting it out becomes:
+>      C-9/8-D-9/8-E-(16/15)-(F)-(10/9)-G-9/8-A-9/8-B-(16/15)-(C')
+>
+>     1/1   9/8  81/64     (27/20?)    3/2  27/16 243/128   (81/40?)
+ Can anyone explain how this all works and how ican set up such scales on
+my keyboard/sampler ?
+
+thanking you,
+
+Jem Finer
+Kentish Town
+London NW5
+
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Sep 1995 14:03 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA23603; Tue, 19 Sep 1995 05:03:47 -0700
+Date: Tue, 19 Sep 1995 05:03:47 -0700
+Message-Id: <Pine.SOL.3.91.950919065117.9581A-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

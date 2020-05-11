@@ -1,0 +1,347 @@
+source file: mills2.txt
+Date: Fri, 9 Aug 1996 10:33:20 -0700
+
+Subject: Post from Mclaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: algorithmic composition in non-12
+--
+Paul Turner asked about Markov processes applied
+to computer-controlled composition some 
+while back.  This is an interesting subject & it
+relates to microtonality with especial cogency 
+because as the number of pitches in a just or
+equal-tempered scale grows large, it's
+attractive (at least in theory)  for a computer to 
+handle at least some of them automatically.
+To date, the definitive article on the history of 
+algorithmic composition is "Composing With Computers:
+A Survey," by Gareth Loy, pp. 291-396 in the anthology 
+"Current Directions In Computer Music Research," 
+MIT Press,  1991, edied by Max V. Mathews & John R. 
+Pierce.
+Lejaren Hiller was the first to apply Markov
+methods to composition.  Hiller was a chemist
+by trade: apparently  Markov analysis is sometimes 
+applied to  the study of chemical reactions.  It is
+essentially a rule-based random number sieve.
+Markov analysis can be applied to note-groups
+of zero length (zeoth-order analysis), length 1
+(first-order analysis), length 2 (second-order
+analysis), etc. Statistical analysis of a composition
+as a first-order Markov process establishes the
+probability of a given note following another
+note-- for instance the probability that C will
+follow D.  A first-order analysis can be run for
+each of the 12 pitch-classes of 12-TET music,
+giving a list of probabilities derived from an input 
+composition (or group of compositions).  However,
+such analyses could just as easily be run for a non-12
+set of notes--31-TET, 15-TET, Partch 43-note JI,
+and so on.  Analyzing the composition as a second-
+order Markov process establishes the probability
+of a given note following two given previous notes;
+a third-order Markov analysis yields the probability
+of a given note following three previous notes--
+and so on.
+Thus "the process of composition consisted in
+sequentially applying each random number generated
+to the appropriate sets of rules. If the number
+chosen violated a rule, another number was selected
+from the random series until all rules were satisfied,
+and the successful number was appended to the end
+of the sample being generated." [Loy, G, "Composing
+With Computers: A Survey," pg. 310, in Current
+Directions Of Computer Music Research, 1991,
+ed. Max V. Mathews & John R. Pierce]
+Markov methods appear most useful at the level of
+the phrase.  At shorter time-scales the music sounds
+like sample-and-hold white noise, while at longer
+time-scales it sounds like a random bricolage of
+precomposed sections.
+Essentially the Markov analysis reduces the
+generation of musical notes & phrases to a single
+probability 0< x<1 plus a rule-set.  Thus, Markov 
+composition represents yet another example of the 20th
+century's love of extreme reductionism.  In
+this case, the conceit is that a musical composition
+can be reduced to a set of unsigned probabilities
+between 0 and 1 mated with some modus ponens
+logic tree.
+If this sounds ridiculous...well, so do many of the
+ideas that have proven popular in the 20th century.
+If someone told you that the world's 2 great 
+superpowers would go hog-wild for a nutty theory
+known as "mutual assured destruction," damn near
+bankrupt themselves building enough nuclear weapons 
+to vaporize the biophere and then tear all those bombs 
+apart and throw 'em out because they they finally 
+realized it was a terminally stupid idea to begin
+with...well, hey--
+Welcome to the 20th century, folks!
+Markov analysis basically establishes the size of the
+sieve through which random numbers will pass,
+given some rule-set (i.e., the rule that if notes
+X, Y, Z...U, V have already occurred, there is a
+probability Q that note W will occur subsequently.)
+The advantage of Markov compositional
+processes is that [A] they can be scaled
+up to the size of the entire composition (in
+which case there's a finite probability that
+the entire piece of music will occur) or down
+to the level of the individual note.  Thus,
+unlike many other compositional algorithms,
+Markov analysis gives the composer some control
+over the specific time-scale at which s/he works; 
+[B] Markov analyses of two radically different
+musical styles of composition can be used
+to "morph" from one compositional style
+to the next, producing striking effects;
+abnd [C] Markov analyses can prove useful in
+dating and authenticating compositions by
+generating a set of note and phrase probabilities
+unique to each composer.
+The disadvantages of Markov compositional
+algorithms are [A] the process does not even
+remotely model a composer's cognitive 
+functions;  I know of no composer who sets
+up a bunch of predetermined rules and then
+flips coins to see whether a note is  generated.  
+(Well--no worthwhile composer.  There's always
+Cage, of course.) This is so alien to the way humans
+compose that it's bound to produce musically
+unsatisfactory results; [B] The Markov algorithms
+remove control of all but continuous "chunks"
+from the composer.  To use an inapprropriate 
+term, Markov composition isn't random access--
+its strictly sequential.  The Markov composer
+never knows what's in measure 12 if it's
+on measure 2. In the real world, a composer
+will typically start by deciding what form
+s/he will use--rondo, variations, canon, 
+etc.  Markov methods make it impossible for
+the composer to control this highest level of
+compositional order.  At the other extreme,
+human composers will typically jump back and 
+forth in time, composing the end of piece
+before the middle, making sketches, inserting 
+"extraneous" notes in themes or passages or
+chord progressions--yet the theme or passage
+or chord progression remains to listeners recog-
+nizably thematic.  Markov processes are very brittle 
+in this regard.  Toss in one extraneous note, 
+require the analysis to jump discontinuously 
+in time from begining to end or vice versa and
+the rule-set breaks and the Markov analysis
+apart.  In particular, Markov processes cannot
+handle or model a method of composition in which
+the composer jumps discontinuosuly between
+various points in time, forward then back,
+&c. This is violently contradictory to both
+human perception of music (we instantly jump back
+in time via memory to the first appearance of
+a theme the second time we hear it), and to the way
+human composers handle themes and chord
+progressions.  The final problem is that [D]
+because Markov analysis operates only with
+pitch classes, Markov analysis is completely
+blind to the contour of a melody--yet this is
+clearly the most important characteristic
+of any melody.  Markov analysis is also utter
+blind to the "orchestration" of a chord and
+to the "contour" of the bass progression
+of the set of chords used--thus Markov analysis
+destroys the information of where the chord's 
+component notes are  distributed in the frequency 
+spectrum, and the specific melodic contour of
+the bass note in those chords.  Now,  Stravinsky
+clearly thought of one orchestration of a chord as 
+actually a different chord than another orchestration--
+thus he typically said "I was glad to discover that
+chord" when speaking of the Firebird.  Many composers
+think this way.  But Markov analysis destroys this
+information.
+This is another way in which Markov
+procedures are violently antithetical to the way
+humans think about composition.
+It's worth noting that the Markov algorithm is
+the earliest compositional method used on 
+an actual computer. Lejaren Hiller  employed 
+it in back in 1957 to produce the first computer-
+composed piece of music, The Illiac Quartet.
+Thus Markov processes represent an extremely
+early stab at computer composition.
+It's also worth noting that Hiller, in his book
+"Experimental Music," was careful never to
+make the claim that his computer programs
+composed actual music.  Instead, Hiller 
+described his efforts as attempts to probe
+the cognitive processes of the human mind.
+The idea (a typcally grandiose early computer
+dream) was that by modelling human music
+composition, a series of computer programs
+would gradually illuminate the process of
+human musical thought to a greater and
+greater degree, until finally the process
+of composition as a mental activity was
+fully understood.  At that point (it was fondly
+imagined back in 1956) computer programs
+could take over and produce music even
+more interesting, even more inspiring, and
+even more exotic and beautiful than any 
+human.
+Typically, just the opposite has actually
+happened.
+Instead of illuminating the operation of
+the human mind, computer composition
+has pointed up how complex and imponderable
+human compositional thought actually is.
+Thus, what has actually happened with
+computer composition is that a series of
+musically godawful results inspired researchers
+to grab a ragbag of mathematical procedures willy-
+willy from other disciplines and press 'em into 
+service as compositional algorithms.  All of these
+algorithms have so far *reduced* the composer's
+control over one or another vital aspect of the 
+musical composition, rather than enhancing it.
+The net result has typically been a series
+of computer compositions about which as Max
+Mathews remarked "the music tends to wander,
+and with it the listener's attention."
+--
+What does all this have to do with non-12
+tunings?
+Because Max Mathews' Music V acoustic
+compiler and its descendents allow
+total freedom to choose pitches, 
+xenharmonic composers face what Wendy
+Carlos calls "option paralysis."  You've
+got so many options you spend all your
+time trying to decide what to do, until
+you've no time left to actually worry
+about composing.
+Computer-controlled composition offers
+a way out of "option paralysis."  It's
+inherently attractive to let a computer
+handle all the Dedalaean complexities
+proferred by all those notes--thus one
+might well understand why a composer
+would prefer to have a computer handle
+composition (or some aspect of composition,
+such as, say, chordal accompaniment, or
+melodic episodes) in 53 tones or 171
+tones per octave.
+--
+Future generations will look back with wonder
+and astonishment at the peculiarly 20th-century
+conceit that computers could generate music
+even remotely as interesting as a composition
+written by a human.
+People used to drink coal tar in the 1870s as a 
+cancer cure because there was a lot of coal
+tar around, the oil business was glamorous, and
+nobody could think of much else to do with coal
+tar.  A lot of composers probably use computers
+to make music nowadays for the same reason--
+there are a lot of computers around, anything 
+connected with computers is automatically
+glamorous and hi-tech, and the composers likely
+can't think of anything better to do with their
+PCs. 
+Thus algorithmic composition is fashionably
+trendy nowadays, very chic, and highly "in,"
+and it's yet another example of the kind of
+musical tulipomania that has periodically deluded
+groups of otherwise sane composers since 1948:
+row-based serialism, pitch-class matrix methods,
+aleatoric composition, neo-dadaism, and so on.
+Algorithmic composition may well be another fad,
+like the miniskirts of the 60s and the men's 
+platform shoes of the 70s. 
+Time will tell.
+Because computer algorithms never permit the
+composer to simultaneously control  large
+and small time-scales of the composition,
+and systematically prevent composers from
+assigning emotional values to sets of chords
+or notes, algorithmic computer composition has
+never produced much music worth listening to.
+Typical computer compositions fade in from nowhere
+ and fade out after some indetermine length of time,
+giving the impression of sonic wallpaper.  Algorithmic
+compositions can work very effectively as background
+music, however.
+The net musical result is generally a very low-quality 
+Muzak, or a particularly dull & repetitive kind of 
+fusion jazz.  This applies with especial
+force to Tod Machover's computer-generated
+hyperinstrument noodlingsm, although the problem
+is endemic through the computer composition
+field.
+Why spend so many millions of man-hours and so
+many trillions of CPU cycles to generate sub-par
+Muzak and boring fusion jazz?  Well...why did so
+many composers spend so many millions of
+man-hours composing row-based serial music
+in the 1940s and 1950s? As Charles Mackay
+pointed out in his classic book "Extraordinary
+Popular Delusions and the Madness of Crowds"
+(1843): "Men, it has been said, think in herds,
+and they go mad in herds, while they only
+recover their senses slowly, and one by one."
+The essential problem is one of mapping.  All
+computer composition programs either sieve (from
+the top down) or generate (from the bottom up) 
+random noise, then assign values to that subset
+of random noise.  In the case of Markov-type and
+other top-down noise-sieve algorithms, the mapping
+is determined by the rule-set pre-entered by the
+composer.  In the case of cellular automata and
+MAX-type recursive shift-register  algorithms,
+the mapping is out of the composer's control and
+is determined by the emergent order of
+the cellular automaton or that paritcular
+ topology of feedback shift register.
+In both cases, the essential problem (other than the
+fact that composer loses control over either the
+very large or the very small time-scale in
+a piece of music) is that no one has yet determined
+how to meaningfully map a chord or note to an
+emotional affect.  Thus the mappings have to date
+been extra-musical and the results thus trivial.
+There is no sign that the mapping problem will be
+solved any time soon, since the same chord or note
+can have *many* different emotional affects 
+depending on its context.  To determine what emotional
+impact a chord or note will have, you have to *listen.*
+And this, computers can't do. Lejaren Hiller addressed
+this concern in his 1957 book "Experimental Music:"
+"The composer is traditionally thought of as guided in
+his choices not only by certain technical rules but
+also by his `aural sensibility,' while the computer
+would be dependent entirely upon a rationalization
+and codification of the `aural sensibility.'" [Hiller, L.,
+Experimental Music," 1957]  To date, no such 
+rationalization and codification has proven 
+musically successful.
+--mclaren
+
+ 
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 9 Aug 1996 21:06 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05065; Fri, 9 Aug 1996 21:06:38 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA05062
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA12890; Fri, 9 Aug 1996 12:06:36 -0700
+Date: Fri, 9 Aug 1996 12:06:36 -0700
+Message-Id: <009A69BF00630380.055B@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

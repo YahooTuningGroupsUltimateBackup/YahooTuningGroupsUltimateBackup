@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Mon, 25 Nov 1996 11:43:47 -0800
+
+Subject: McLaren on Fourier analysis
+
+From: Ben Denckla <bdenckla@media.mit.edu>
+
+> The problem with this way of thinking about music
+> and sound is that the method you're using (Fourier
+> analysis) is incapable of ever giving you *anything*
+> BUT a set of perfectly harmonic frequencies.  If you
+> Fourier-analyze a set of inharmonic frequencies, your
+> output will be a set of perfectly harmonic frequencies--
+> albeit an infinite number of 'em.
+
+I am not familiar with the works that Mr. McLaren is cricizing, but I
+feel that there are is some mathematical imprecision here.
+
+There are various types of Fourier analysis.  It seems that the type of
+analysis referred to here is Fourier series analysis.  McLaren claims
+that "If you Fourier-analyze a set of inharmonic frequencies, your
+output will be ..."  This is a somewhat nonsensical statement in that
+you cannot perform a Fourier series analysis on a non-periodic
+waveform.  The technique is only *defined* for periodic waveforms.  So
+McLaren's general point, that Fourier series analysis "limits the types
+of sounds which can be usefully analyzed" has the right spirit, but is
+in detail wrong.  In fact Fourier series analysis limits the types of
+sounds which can be analyzed at all, usefully or otherwise.
+
+My point is that there are no spurious results to the analysis, since it
+is only defined for periodic signals.  Periodic signals are those that
+can be expressed as a superposition of harmonically related signals.
+
+Other types of Fourier analysis can deal with aperiodic signals.  For
+instance, if you take a long-term FFT of a gong sound, you may be able
+to see its inharmonic structure quite nicely.  The tradeoff that you
+have made here is that you have very little time resolution with a
+long-term FFT, so you do not know much about how the spectrum
+dynamically evolves.
+
+Ben Denckla
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 26 Nov 1996 00:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07577; Tue, 26 Nov 1996 00:16:53 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA07644
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA08814; Mon, 25 Nov 1996 15:16:50 -0800
+Date: Mon, 25 Nov 1996 15:16:50 -0800
+Message-Id: <199611251528_MC1-C6D-45C1@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

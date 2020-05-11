@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Thu, 28 Nov 1996 12:51:56 -0800
+
+Subject: Lurker as Learner
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+Hello everyone,
+    Although I have posted here once or twice, I have never introduced
+myself.  I don't consider myself a lurker so much as a learner.
+ 
+    I first knew something was up when, as a teenager tuning my guitar,  I
+discovered that if I tuned the open strings' adjacent 5ths and 4th to my
+liking that the high an low open E strings would beat like mad.  Something
+wasn't adding up.  The search for why led me to learn a little music
+theory, a little acoustic theory and the basis of 12-TET.  I wasn't aware
+that anyone was attempting anything different until I stumbled across
+Partch's 'Genesis of a Music' at the Vancouver Public Library.  It was an
+awakening.  During the Seventies I built a few analog synth kits and tuned
+some of the oscillators so that I could hear 7/4 et al.  I decided 'normal'
+music was 'out of tune' and that JI was the only way to go.  After
+designing some circuitry to convert analog synths to JI, I concluded that
+it would be too difficult and expensive for me with my limited resources to
+pursue with the technology of the time.  I simply gave up for awhile.
+
+    Ten years later I wrote a program in Basic on my Amiga PC to input and
+playback JI with the ratios based on 3, 5, 7, 9, 15, 21, 25, 35, 49. Using
+these as both numerators and denominators in a tonal array, Partch style, I
+was able to play four part harmony using 256 point user defined waveforms
+(both limits of Amiga Basic.) Again, due to the limits of my tools, and the
+feeling that I was working in isolation, I lost interest.
+
+    Several more years passed. In 1994 in a book called 'The Musicians
+Guide to MIDI' by Christian Braut, I found out about the MIDI Tuning
+Standard and the Just Intonation Network.  Reading 'The Just Intonation
+Primer' by David Doty revealed that tunable synths had been around for a
+several years already!  When, in 1995, I started exploring the internet,
+one of the first things I checked out was the newly minted Just Intonation
+Network web page. That page mentioned this forum, so here I am.
+
+    Since coming here I have learned as much as I did in all those lonely
+years before.  I have learned that JI isn't necessarily 'the only way to
+go' and that there is a growing community of innovators pushing the
+boundaries of tuning into areas I never dreamed of.
+    I believe that, with ever-improving technology of music making and
+world wide communication, that the theories and techniques discussed here
+will increasingly move out of the province of academics and isolated
+visionaries and into the mainstream.
+
+    Thanks, and I hope I haven't taken too much of your time.
+    ---Fred.
+     
+--------------------------------------------------------
+ Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+ phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca
+---------------------------------------------------------
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 28 Nov 1996 22:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10725; Thu, 28 Nov 1996 22:18:30 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA11097
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA07246; Thu, 28 Nov 1996 13:18:27 -0800
+Date: Thu, 28 Nov 1996 13:18:27 -0800
+Message-Id: <009AC1022A9145A0.5578@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

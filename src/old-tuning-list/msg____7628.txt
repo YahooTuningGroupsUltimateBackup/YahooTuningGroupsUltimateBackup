@@ -1,0 +1,11 @@
+source file: m1402.txt
+Date: Fri, 1 May 1998 20:01:03 -0500 (CDT)
+
+Subject: Re: TUNING Resolution
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Does this mean you're using FFT windows much smaller than 0.7s?
+
+   I don't think that Dave's system is/was even based upon FFTs, but I
+probably ought to let him confirm that for sure.

@@ -1,0 +1,60 @@
+source file: mills2.txt
+Date: Tue, 17 Jun 1997 18:32:34 +0200
+
+Subject: Re: the 6th chord and odd-limit theory (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PErlich <AAM/AAM/PErlich%Acadian@mcimail.com>
+
+George Kahrimanis and I have been discussing tunings of the 6th chord (aka 
+the minor seventh chord). The two alternatives are 12:15:18:20 
+(15:1/12:1/10:1/9), and 14:18:21:24 (36:1/28:1/24:1/21). Kami Rousseau 
+suggested the latter on this list some time ago.
+
+>>213
+
+> In my experience, only "2" is (usually) an allowed factor in this
+> context, not "3"; that is, only inversions are "free"
+
+I would agree with you here. This motivates my adherence to the odd-number 
+definition of limits. However, as I demonstrated, every interval in Kami's 
+chord is within the 9-limit, which is also true of 12:15:18:20. So the 21 is 
+not really that bad. If we want to look at the full chord, Kami's is a 
+21-limit utonality or 21-limit otonality, which I agree is more complex than 
+the 12:15:18:20, which is only a 15-limit utonality or otonality.
+
+But psychoacoustically, and this should be evident to a listener, these 
+chords are no more dissonant that a 9-limit utonality. I believe that this is 
+because THE ONLY REASON UTONALITIES ARE CONSONANT IS BECAUSE THE INDIVIDUAL 
+INTERVALS ARE CONSONANT. The common overtone is there but doesn't make the 
+chord more consonant. Once again, I don't believe in dualism. So even though 
+the 6th chords above may seem to demand explanation in terms of the 15- and 
+21-limit, I would say, if you admit utonalities at all, then both those 
+chords are 9-limit chords, no higher.
+
+I wonder if there are any 7-limit analogues to these chords (i.e., chords in 
+which each interval is within the 7-limit but the chord as a whole is in a 
+higher limit). I think the answer is no. Anyone care to come up with a 
+counterexample?
+
+BTW, I don't think the 13-limit is inherently less consonant than the 15- or 
+17-limits. I think the 15-limit shows up a lot incidentally, due to combining 
+5- and 3-limit intervals, and I think the 17-limit was discovered in the 
+diatonic scale and so is very familiar. Ironically, my use of 22-equal 
+prevents me from exploring the 13-limit; leaving 13 out, everything through 
+the 17-limit is consistently expressed in 22-equal.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Jun 1997 18:05 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04415; Wed, 18 Jun 1997 18:05:21 +0200
+Date: Wed, 18 Jun 1997 18:05:21 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04437
+Received: (qmail 8071 invoked from network); 18 Jun 1997 15:53:15 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 18 Jun 1997 15:53:15 -0000
+Message-Id: <009B5F98B6983701.6896@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

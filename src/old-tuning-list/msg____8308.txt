@@ -1,0 +1,22 @@
+source file: m1494.txt
+Date: Tue, 04 Aug 1998 20:10:40 -0500
+
+Subject: Re: cents to frequency
+
+From: Gary Morrison <mr88cet@texas.net>
+
+> I'm looking for a formula which will let me convert from cents to hertz.
+
+   Well, that's a tricky question, because (unless you're talking about
+beat frequencies) Hertz is a unit of absolute pitch (or frequency to be
+more accurate), and cents are a unit of pitch change.  So that's a little
+bit like asking "what's the conversion formula between miles and the North
+Pole".  The North Pole defines a particular place (like a frequency in Hz),
+where as a mile defines a distance between two places (like a number of
+cents between two pitches).
+
+   But perhaps this is what you're looking for:  Given two frequencies, f1
+and f2, you can find the number of cents interval between them by the
+formula:
+
+                   n = 1200 * log (f1/f2) / log (2)

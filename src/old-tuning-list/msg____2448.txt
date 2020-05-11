@@ -1,0 +1,143 @@
+source file: mills2.txt
+Date: Sat, 6 Jan 1996 19:36:15 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject:  A wish list for microtonal
+ synthesizers
+---
+Let me tell you a story...
+The tale starts back in 1975, when Hal Alles
+at Bell Labs designs a spiffy board that 
+spits out 256 separate additive sine waves &
+uses it to build the Bell Labs DIgital
+Synthesizer.
+Fast forward to 1978:
+Crumar (then a big synth manufacturer, now
+defunct) decided to build a digital synthesizer
+based on Alles' board.
+4 years later, Crumar rolled out the Synergy.
+This instrument was controlled by (gasp!)
+two Z-80 chips.  Super hi-tech, eh?  Wow!
+A full eight bits of computing power! And
+running at the awesome speed of 4 Mhz!!!  
+Well, now that the laughter's over, here's
+a sobering thought:
+The Synergy STILL has, even TODAY, by far
+the most complex architecture of any digital
+synthesizer ever built.
+Hello!
+Ensoniq?
+Are you there?
+Q: What's the most important part of any
+synthesizer?
+A: Envelopes, envelopes, envelopes!
+The complexity of the synthesizer's envelopes
+ENTIRELY determines how complex and subtle its
+sounds can be.
+A synth with the world's most elaborate synthesis
+algorithm, the most exotic & beautiful wavetables
+ever designed, and the most sophisticated effects
+buss in christendom, still sounds like crap if it
+uses crude 4-stage ADSR envelopes for the 
+oscillators.
+It's shocking and alarming to me that the Synergy,
+designed in 1978, STILL has not been approached in
+the sophistication and flexibility of its envelopes.
+The Synergy allowed up to 16 envelope points
+for each oscillator. You could set any two of
+the points as loop points for sustain
+when the key was held down.  
+But wait!  There's more!
+You voiced each oscillator TWICE--one 16-point
+envelope for minimum key velocity, the other
+16-point envelope for maximum key velocity.
+Then the synth interpolated between those
+2 envelopes in real time for all other 
+key velocities.
+This gave the oscillators a remarkably subtle
+"lifelike" quality.
+But wait!  There's more!
+You also voiced each oscillator TWICE for
+the frequency envelopes--which could also
+contain up to 16 points, for both min and max
+key velocity.
+The synth gave you a pool of 32 oscillators.
+You could assign 'em any way you liked.
+You could add oscillators or use 'em to 
+modulate one another--MORE flexibility.  Not
+only that, but you could choose from 8 different
+waveforms--for each individual oscillator.
+But wait!  There's more!
+Lastly, the Synergy let you set the amplitude
+of each oscillator for each group of 3 keys--this
+was essentially what Yamaha now calls "fractional
+scaling."  
+In effect, a digital formant filter.
+The result?
+Unparallelled subtlety and complexity of sound.
+The Synergy has NEVER been equalled by ANY
+other digital synthesizer in this regard.
+It had aperiodic vibrato--that is, it allowed you
+to mix a controllable amount of digital noise
+with the LFO...again, giving the Synergy
+a remarkable lifelike vibrato or tremolo.
+Now, let's fast-forward 20 years...
+Desktop supercomputers...cheap 1 gig disk drives...
+magneto-optical storage...DSP chips cranking out
+hundreds of MIPs...Csound on desktop machines
+running at lightning speeds...
+And guess what?
+NO synthesizer manufacturer has YET implemented
+envelopes REMOTELY as flexible and complex
+as those on the antique 2-Z-80-controlled
+Synergy of 1978.
+C'mon, folks!
+The problem CAN'T be hardware!  We've got hardware
+up the wazoo.  We can handle such a synthesis 
+architecture with elan.  Today's synths could eat 
+those kinds of envelopes for breakfast.
+Yet no one, absolutely NO synthesizer manufacturer,
+has implemented such flexible envelopes.
+To its credit, Ensoniq has done slightly better
+than the rest of the synth manufacturers in this
+regard.
+Ensoniq's 8-point interpolating amplitude envelopes
+are the closest I've seen...but that ain't 
+too close.
+As a microtonal composer, my most basic need
+is for a synthesizer with complex, flexible envelopes
+each of whose oscillators can be precisely detuned.
+The ideal would be a synth that can do what my
+Csound instruments do: a synth that allows
+20-point frequency AND amplitude envelopes with
+30 to 60 oscillators at a time in real time.
+Offer me such a synth with a tuning table, and I'll
+fight through a nest of amphetamine-crazed
+echidnas to buy it.
+Until then, I gotta ask myself: why does the latest
+issue of Confuser Music Urinal make a big deal
+about an article that describes a chip with 127
+additive oscillators?
+C'mon, folks.  The Synergy offered 32 oscillators
+(2 banks of up to 16 each) back in 1978. 
+Gimme a break.
+It's time we moved up to the level of sophistication
+attained 20 years ago with a pair of 4 Mhz eight-
+bit Z-80s, don't you think?
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 8 Jan 1996 16:48 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA13530; Mon, 8 Jan 1996 07:48:32 -0800
+Date: Mon, 8 Jan 1996 07:48:32 -0800
+Message-Id:  <9601080749.aa17311@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

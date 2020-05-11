@@ -1,0 +1,79 @@
+source file: mills2.txt
+Date: Tue, 1 Jul 1997 12:19:33 +0200
+
+Subject: RE: the 6th chord and odd-limit theory
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Graham, I am puzzled by your statement that these two four note chords
+are complete chords of a nature which would seem to require them to be
+six-note chords. Somehow, you hid two notes under your sleeve. Therefore
+I will reserve judgment on your analysis until you clarify.
+
+The reason these chords (12:15:18:20 and 14:18:21:24, call them 3:5:9:15
+and 3:7:9:21 by octave equivalence)) are so interesting is that they are
+9-limit chords but are not subsets of either the 9-otonality or the
+9-utonality. I'm not sure if this finding directly contradicts anything
+Partch said, but it seems to differ from the usual Partchian thinking
+that for any odd limit, the corresponding otonal and utonal chords are
+the basic harmonic units.
+
+What are we to make of them? I think the best approach is to follow a
+suggestion made by Dan Wolf some time ago, which is to construct a
+lattice where 9 has its own axis and 3*3 will appear in a different
+place than 9. At first I did not like this idea because I thought every
+note should appear in only one place in the lattice, and although I saw
+the case where 3*3 and 9 might be represented differently in a
+temperament, such a temperament would not be consistent within the
+9-limit so I didn't see the point of trying to analyze it with a 9- (or
+higher) limit lattice. But these chords have convinced me that even in
+JI, there is a good reason to have 9 distinct from 3*3.
+
+If all the factors allowed in a consonant ratio are prime, then the
+triangular lattice with prime axes works nicely. The smallest line
+segments are the consonant intervals. For the 5-limit, the saturated
+consonant chords (major and minor triads) are represented by the
+smallest triangles, and are the supersets of all entities where every
+note is direcly connected to every other note. In the 7-limit, the
+saturated consonant chords (7-o and 7-u) are represented by the smallest
+tetrahedra (and Wilson hexanies are represented by the smallest
+octahedra . . .). If we want to continue to the 9-limit, 9-o and 9-u and
+their subsets certainly appear to be the only structures where every
+note is connected to every other note, but that ignores the equality of
+3*3 and 9.
+
+Taking this equality into account, the most obvious consequence is a
+consonant interval which appears as two different unit segments in the
+lattice: 3:1 appears as both 3:1 and 9:3. There are two ways of
+adjoining these segments so that the intervals cancel each other out.
+Therefore there are two structures in the lattice which appear to be
+dissonant triads but are in fact consonant dyads. Let us choose one of
+these structures, namely 9:3:3*3; looking at the other, 9:9*3:3*3, will
+simply lead to inverses of whatever we find using the first.
+
+Now to take advantage of the structure we need to find a note that is
+connected (by a unit segment) to 9 but not to 3*3, and another note that
+is connected to 3*3 but not to 9. In order for the resulting chord to be
+consonant, the notes must be consonant with each other as well as with
+3. This seems like a tall order, but either (5, 5*3) or (7, 7*3) are
+clearly found using the lattice. Thus we get the the two chords above.
+We promised to look at the inverses, but these chords are their own
+inverses, so nothing new is gained. Since 5 is not connected to 7*3 and
+3 is not connected to 7*5, nothing with more than 4 notes will be
+directly connected each to all others and exploit 3*3
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 1 Jul 1997 14:03 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04783; Tue, 1 Jul 1997 14:03:34 +0200
+Date: Tue, 1 Jul 1997 14:03:34 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04784
+Received: (qmail 9272 invoked from network); 1 Jul 1997 12:02:57 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Jul 1997 12:02:57 -0000
+Message-Id: <199707011213.IAA04860@ne02.northeast.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,311 @@
+source file: mills2.txt
+Date: Thu, 28 Sep 1995 10:31:12 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & Psychoacoustics - post 5 of 25
+--
+As mentioned in the previous post,
+the elements of the modern place
+theory of hearing are found in Helmholtz's
+19th-century model of the ear.  Thus it's
+worth taking some time to examine
+the implications of that model:
+"Helmholtz's hearing theory can be
+considered as an elaboration of three
+hypotheses. In general terms, the first
+one is:
+"Hypothesis I. The analysis of sound is
+accomplished in the inner ear by means
+of a large number of resonators tuned
+to different frequencies from low to 
+high." ["Experiments On Tone Perception,"
+Plomp, pg. 102, 1966]
+Helmholtz originally ascribed the
+"resonator" function to the arches
+of Corti but (as mentioned in the 
+last post) when he put his ideas down
+in his book he changed his mind
+and proposed that the transverse 
+fibres of the basilar membrane act
+as resonators. His arguments were:
+[1] In the cochlea of birds, no arches
+of Corti are found (Hasse, 1867); [2] 
+the width of the basilar membrane
+varies from about 0.04 mm at its 
+base up to 0.5 mm at the helicotrema
+(Hansen, 1863); [3] the membrane is
+much more tightly stretched transversely
+than longitudinally.
+"On the basis of these measurements,
+Helmholtz estimated the selectivity
+of the resonators, amounting to about
+4% of the resonance frequency, with
+bandwidth proportional to logarithmic
+frequency.
+"Hypothesis II. A particular tone-pitch
+corresponds to each of the numerous
+nerve fibers in such a way that pitch
+decreases gradually from the basal to
+the apical end of the organ of Corti."
+["Experiments On Tone Perception," 
+Plomp, R., pg. 103, 1966]
+While Helmholtz's hypotheses explained
+some aspects of human hearing, it
+did not explain others.   In particular,
+these hypotheses did not explain how 
+combination tones or beats
+of mistuned consonances occur.
+Thus Helmholtz proposed a third
+hypothesis:
+"Hypothesis III. The sound transmission
+of the ear is characterized by nonlinear
+distortion." ["Experiments On Tone
+Perception," Plomp, R., pg. 103, 1966]
+By means of these 3 hypotheses 
+Helmholtz was able to explain much
+of the experimental data available
+to him in 1863.  
+Other aspects of human hearing remained
+unexplained.  As Plomp points out, "The
+Achilles' heel of his conception was
+why periodic sound waves are always
+characterized by a pitch corresponding
+to the fundamental. ...  Even so, Helmholtz's
+theory became widely accepted soon
+after its publication under the names
+of resonance theory and place theory."
+[Plomp, R., 1966, pg. 104]
+There were other problems with
+Helmholtz's theory.  Whether in modern
+form as the "place" theory or in terms
+of Helmholtz's original conception, the
+pitch sensitivity of the human ear is
+significantly greater than the predictions
+made on the basis of the place theory.
+Moreover, if the ear is primarily  a Fourier 
+analyzer, why did it respond to the irregularly-
+spaced holes of Seebeck's siren (Seebeck,
+1846) with a sensation of definite
+pitch not present in any of  the
+Fourier components of the waveform
+generated when the siren rotated?  
+Stumpf, one of the proponents of a
+competing theory of hearing, pointed
+out these flaws in the original
+place theory:
+"The view that fibres of 0.5 mm length 
+should be tuned to low frequencies did 
+not sound very credible and we may
+suppose that many agreed with Stumpf's
+statement: `It remains wonderful,
+however, that so small particles can
+resonate even on the lowest tones
+that we produce by strings of enormous
+size and by which we can bring into
+resonance only strings of the same
+size.'" [Plomp, 1966, pg. 107; see also
+Stumpf, C., "Tonpsychologie," Vol. 2,
+Verlag S. Hirzel, Leipzig, 1890, pg. 92]
+Plomp points out: "Some investigators
+tried to save the resonance hypothesis
+by supposing that the resonators
+must be sought in other structures of
+the cochlea: the hair cells (Baer, 1872;
+Hermann, 1894; Myers, 1904; Specht,
+1926) or the tectorial membrane (Kishi,
+1907; Shambaugh, 1907, 1909, 1911; 
+Leiri, 1932). Others, however, rejected
+the resonance hypothesis entirely, 
+proposing new hearing theories in which
+the frequency-analyzing power of the
+hearing organ was approached in quite
+a different way (Meyer, 1896, 1898,
+1899, 1907; Ewald, 1899, 1903,
+Wrightson, 1918, and many others)."
+[Plomp, 1966, pp. 107-108]
+Because of the failure of Helmholtz's
+original hypothesis to explain many 
+auditory phenomena, many researchers
+cast about during the period from the
+1840s to the 1860s for another model
+of human hearing.  Many researchers
+seized upon Seebeck's 1843 proposal
+as the answer.
+Namely, that "Tones give rise to
+synchronous nerve impulses whose
+rate determines pitch.  Wundt tried
+to evade the difficulty that according
+to this hypothesis Bernstein's findings
+would suggest a pitch limit at about
+1600 cps. He explained that not the
+total duration of the nerve impulses
+but the much shorter duration of their
+peaks might determine the highest
+pitch audible..." [Plomp, 1966, pg. 105]
+In favor of this competing hypothesis,
+called the periodicity theory of hearing, 
+two pieces of early evidence were advanced
+by Seebeck, Wundt, Stumpf and others:
+"1. Binaural beats. Dove (1839) had
+pointed for the first time to the fact
+that stimulating the ears separately 
+with tones of slightly different frequencies
+gives rise to slow "binaural beats." Usually,
+they were explained as resulting from
+bone conduction between the ears (Seebeck,
+1846; Mach, 1875; Stumpf, 1890, p. 458;
+Schaefer, 1891). Thompson, who discovered
+the beats independently, found that they do
+not change over into a difference tone when
+the frequency difference is increased (1877,
+1878, 1881). Therefore, he suggested that
+binaural beats are caused by interference in
+a higher centre of the auditory pathway."
+[Plomp, 1966, pg. 105]
+This latter was the first suggestion that the brain was
+directly involved in the processing of musical
+sounds. Previous theories, like Helmholtz's, 
+assumed that the ear did all the processing
+required and that the auditory nerve simply
+acted as a conduit through which the preprocessed
+nerve impulses travelled.   Wundt's and Stumpf's
+observations made it clear, however, that the
+brain was *part* of the auditory system which
+determined pitch, spectral content, etc.--perhaps
+*the* crucial part (as subsequent late-20th-century
+"pattern transformation" hypotheses of hearing have
+stressed).
+The second piece of evidence supporting
+the Seebeck/Stumpf/Wundt periodicty theory was:
+"2. Direct stimulation of the auditory nerve.
+The sensational conclusion that the cochlea
+is not essential for obtaining an auditory
+sensation was drawn independently by
+Fano and Massini (1891) and by Ewald (1892).
+They based their opinion on the positive
+reactions on sound by pigeons with removed
+hearing organs. The conclusion was severely
+crticized by Matte (1894), Bernstein (1895),
+Strehl (1895), and Kuttner (1896), and
+defended by Ewald (1895) and Wundt (1895)"
+[Plomp, 1966, pg. 106]
+Plomp points out that although this second
+competing hearing theory could explain
+interruption tones and beats of mistuned
+consonances much better than Helmholtz's
+theory did, its influence was small, perhaps
+because Wundt did not work the theory out
+in nearly as much detail as did Helmholtz
+in the 2nd edition of "On The Sensation of Tone." 
+The whole later development of physiological
+acoustics can be regarded as an elaboration
+of these two competing and contradictory
+hypotheses, along with Fetis' 1843 learned-
+response theory of hearing. Like Seebeck's
+and Stumpf's periodcity theory--which was
+largely ignored until Schouten in 1935 performed
+a convincing series of experiments which clearly
+demonstrated the inadequacy of the place theory
+of hearing--Fetis' 1843 theory of learned response
+was likewise ignored for many years.  Starting in
+the 1950s,  Ward, Burns, Corso, Licklider, and others
+performed a series of experiments which cast profound
+doubt on many aspects of both the periodicity and
+place theory and strongly supported Fetis' 1843 
+hypothesis. 
+Recently, the auditory artifacts produced by 
+cochlear implants have provided strong evidence against
+the periodicity theory:  "If we believe the 
+extreme position that at low frequencies information is
+carried purely by the temporal pattern of nerve impulses,
+then periodic electrical stimulation should produce
+faithful auditory sensations and good discrimination
+of frequencies. The results of electrical stimulation have 
+on the whole been disappointing for such a prediction.
+In only a few cases to electrical stimuli seem to produce
+clear tonal sensations. A typical report is that tones
+sound like "comb and paper" (e.g., Fourcin et al., 1979).
+[Pickles, James. O., "An Introduction to the Physiology
+of Hearing," Academic Press, 2nd ed., 1988, pg. 316]
+On the other hand, the place theory also conflicts with
+experiment: "In a quasi-linear spectral analyzer such
+as the cochlea the physical limits of frequency resolution
+are limited by the duration of the stimulus, as a result
+of spectral splatter: stimulus duration x spectral line
+width = 1.  (..) Temporal theories are not so limited...
+(..) On the hypothesis that place and not temporal cues are
+used, we can calculate a lower limit for the frequency
+difference limen as a function of the length of the
+stimulus.  Moore (1973) showed that below 5 khz frequency
+discrimination for short stimulus was up to an order of
+magnitude better than expected on a place basis. " 
+Pickles, James. O., "An Introduction to the Physiology
+of Hearing," Academic Press, 2nd ed., 1988, pg. 273]
+As a result, "At the moment pattern hypotheses are
+dominant..." Pickles, James. O., "An Introduction to the Physiology
+of Hearing," Academic Press, 2nd ed., 1988, pg. 273]
+The phenomenon of forward and backward masking
+also directly contradicts the place theory.  In forward
+masking, a masking tone precedes the test tone by a
+small time period--in backward masking, the masking
+tone occurs *after* the test tone.  If Fourier analysis
+is occurring mechanically in the ear, it's difficult to
+explain how a second tone appearing *after* the test
+tone can interfere with the Fourier analysis.  And in
+any case, the fact that masking occurs is a fundamental
+problem for Fourier models of hearing. 
+"Masking is an example of limitations of the
+auditory system's ability to analyze individual frequency
+composnents in a complex sound. If the ear were a perfect 
+frequency analyzer, then one sound would never mask
+the detecability of another sound.  Instead, simultaneously
+presented sounds would be independently processed, and the
+perpcetion of one would not affect the perception of others.
+Masking demnstrates that this ideal state does not exist.
+Whenever masking occurs, frequency analysis fails.  When
+the presence of a sound of a particular frequency makes it
+difficult or impossible to hear another sound of a different
+frequency, the ear has failed to analyze and detect the
+individual frequency components of the complex sound
+created by simultaneous presentation of the two sounds."
+[Gulick, W. Lawrence and George A. Geschneider and
+Robert D. Frisina, "Hearing: Physiological Acoustics, Neural
+Coding, and Psychoacoustics," Oxford University Press,
+1988, pg. 300] 
+As a result of these pervasive problems with both the
+place and periodicity theories of hearing,
+ Fetis' model of the ear/brain system
+as a feedback path controlled primarily by software (viz.,
+learned response) has now gained great currency. 
+in part because of the inadequacy of current evidence
+In part this is also probably due to increasing use of computers 
+and  software in the congitive sciences and their consequent
+popularity as a conceptual model for neural systems.
+(As will be seen in a future post, a researcher's tools 
+exert a potent influence on the mental models he forms.)
+If accurate, the "pattern transformation" model of hearing
+implies that many different tuning systems and musical
+syntaxes are appropriate.  According to this theory of hearing,
+no particular complex of overtones has a privleged status
+in the ear, and no specific musical tuning is implied as
+superior on the basis of the structure of the ear.
+Because of the importance of this question for tuning and
+music, the next post will examine detailed evidence
+for and against the periodicity and place models of 
+pitch perception.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 29 Sep 1995 07:12 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA06397; Thu, 28 Sep 1995 22:12:35 -0700
+Date: Thu, 28 Sep 1995 22:12:35 -0700
+Message-Id: <Pine.SOL.3.91.950929001046.2688C-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

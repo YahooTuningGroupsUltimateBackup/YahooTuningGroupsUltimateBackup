@@ -1,0 +1,83 @@
+source file: mills2.txt
+Date: Tue, 3 Dec 1996 19:27:51 -0800
+
+Subject: Just Intonation in Csound
+
+From: Lydia Ayers <layers@cs.ust.hk>
+
+John ff, 
+
+In your earlier post you mentioned the problem of setting up just intonation 
+in Csound.  Actually, it's already easy and doesn't need anything new and 
+special to make it easier.  Here is a little example:
+
+A Just Major (Ptolemy's Syntonon Diatonic) Scale in Csound:
+
+;p1	p2	p3	p4	p5	p6	p7	p8, etc.
+;inst	start	dur	amp	num	den	oct	(other parameters)
+i2	1	1	10000	1	1	2
+i2	2	1	10000	9	8	2
+i2	3	1	10000	5	4	2
+i2	4	1	10000	4	3	2
+i2	5	1	10000	3	2	2
+i2	6	1	10000	5	3	2
+i2	7	1	10000	15	8	2
+i2	8	1	10000	1	1	4
+
+Usually I use a basic tuning frequency of G = 98 Hertz, but any frequency 
+will work.  The numerator goes in one field, the denominator in another,
+and the octave transposition in a third field.  One octave above the tuning
+frequency is the octave "2" and two octaves above the tuning frequency is
+the octave "4," etc.
+
+In the Csound orchestra can handle these parameters in one simple line 
+of code:
+
+ifreq = 98 * p5/p6 * p7		; tuning freq * num/den * oct
+
+The tuning frequency can even be set using a global variable, which can be
+reset during the piece, either to a specified frequency, or could even be
+multiplied by another ratio, which would allow wandering tonics, as in the
+following example, which multiplies the global tuning frequency by 3/2 at
+10 seconds into the piece, and then by another 3/2 but drops it back down 
+into the same octave by using the octave transposition ".5."  This is 
+effectively modulating to V and then to V/V.
+
+;p1	p2	p3	p4	p5	p6
+;inst	start	dur	num	den	oct
+i1	10	1	3	2	1
+i1	10	1	3	2	.5
+
+At the beginning of the orchestra, set the global tuning intially to 98:
+
+gituning = 98
+
+Within the instrument design (in this case, a special global switching 
+design which only changes the tuning frequency, it doesn't play any notes), 
+set the global tuning with the following line of code:
+
+gituning = gituning * p4/p5 * p6
+
+This gives a basic tuning frequency of 98 for 10 seconds, 147 for 10 seconds, and ending with 110.25 for the remainder of the piece.
+
+Then, in the instruments that play the notes, change the code to:
+
+ifreq = gituning * p5/p6 * p7	; global tuning freq * num/den * oct
+
+Happy tuning.
+
+Lydia Ayers
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Dec 1996 06:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21740; Thu, 5 Dec 1996 18:07:00 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA21706
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA24381; Thu, 5 Dec 1996 09:06:51 -0800
+Date: Thu, 5 Dec 1996 09:06:51 -0800
+Message-Id: <199612051202_MC1-CBB-E7EF@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

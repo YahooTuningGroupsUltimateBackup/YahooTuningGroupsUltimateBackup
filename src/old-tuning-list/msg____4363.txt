@@ -1,0 +1,66 @@
+source file: mills2.txt
+Date: Thu, 19 Dec 1996 10:22:20 -0800
+
+Subject: Re: post for Brian McLaren
+
+From: alves@osiris.ac.hmc.edu (Bill Alves)
+
+Brian brings up some good points about the practicality of using a large
+number of pitches per octave. As I don't usually use more than 12 pitches
+per octave myself (nor a seven octave range, for that matter), I'm not in a
+position to offer an experienced perspective on most of these issues.
+However, there is one of his assertions I would like to respond to:
+
+>As for using multitrack with SMPTE
+>sync to create a microtonal compostion
+>via multiple passes in the recording
+>studio, this is so harrowing and so
+>arduous and so difficult that no
+>microtonal composer has ever done
+>it. Thus it is so complex and so
+>tortuous that it is effectively
+>impossible.
+
+Well, I can't speak for other composers, but I don't find using SMPTE that
+arduous. It sure beats the heck out of FSK or other multitrack sync systems
+in use before SMPTE became widely available. And, yes, I wrote a piece in
+which I increased the number of available pitches per octave by
+multitracking (using FSK no less). It was on the Synclavier, which would
+only allow 12 just pitches per octave, and I needed 13. Since I was already
+multitracking the piece, it wasn't a big deal to me, and the process was
+made easier in that different parts of the piece used different tuning
+system subsets.
+
+I admit it would have been more difficult had I been trying to use a large
+number of pitches per octave all in a single melody, but sequencers have
+made this kind of note-to-note slight of hand accessible, if not
+falling-down simple.
+
+Is the process "harrowing" and "arduous"? Well, I guess that depends on the
+music, the person, and the equipment, but I don't think it approaches the
+difficulties of building your own instruments.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)621-8360 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Dec 1996 19:37 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08975; Thu, 19 Dec 1996 19:39:53 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA08973
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA25207; Thu, 19 Dec 1996 10:39:50 -0800
+Date: Thu, 19 Dec 1996 10:39:50 -0800
+Message-Id: <9612191837.AA08916@ ccrma.Stanford.EDU >
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

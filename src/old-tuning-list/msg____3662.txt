@@ -1,0 +1,102 @@
+source file: mills2.txt
+Date: Sun, 22 Sep 1996 06:29:17 -0700
+
+Subject: RE: Consistency generalized
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 20 Sep 1996, it was written:
+> >                               In particular, no tuning can fail to be level 
+> > 1 consistent according to your algorithm, and some tunings would be level 2 
+> > consistent according to this algorithm that wouldn't be according to your 
+> > original definition.
+> 
+> Er, pardon me but it _is_ correct; at least, it is cribbed directly from
+> the code that generated the table at
+> <http://library.wustl.edu/~manynote/consist.txt>, and I haven't
+> discovered any errors in that table yet.
+
+That, of course, was not the most convincing answer in the world.  Here
+then, a formal proof:
+
+Define Approx(N, P) on positive odd P and positive N as
+
+	Approx(N, P) = round(N * log2(P))
+
+Define Error(N, P) as
+
+	Error(N, P) = N * log2(P) - Approx(N, P)
+
+My algorithm searches for the values of P within a given limit having
+the least and greatest values of Error for a given N[-TET].  If the
+different between them is greater than 1/(2 * L), it declares N-TET to
+be level L inconsistent.
+
+It is fairly obvious that anything the algorithm rejects as level 1
+inconsistent is so.  Assume that Error(N, P1) - Error(P2) is greater
+than 1/2.  Now consider the triad formed by the root, P1, and P2.
+
+	round(N * (log2(P1) - log2(P2)))
+		=
+	round((Approx(N, P1) + Error(N, P1)) -
+	      (Approx(N, P2) + Error(N, P2)))
+		=
+	round((Approx(N, P1) - Approx(N, P2)) -
+	      (Error(N, P1) - Error(N, P2)))
+
+Approx is always integer.  Any integer plus a value greater than 1/2
+will not round to the original integer.  Thus, this triad is
+inconsistently represented.
+
+So, all the algorithm's rejects are inconsistent, but might some that it
+accepts also be inconsistent?  Let us examine an arbitrary triad P1, P2,
+P3 in a tuning which is accepted at level 1 by the algorithm.  If the
+algorithm accepted the tuning, then by the above,
+
+	abs(Error(N, P1) - Error(N, P2)) < 1/2
+	abs(Error(N, P1) - Error(N, P3)) < 1/2
+	abs(Error(N, P2) - Error(N, P3)) < 1/2
+
+Therefore, examining the interval P3/P1 = P2/P1 * P3/P2,
+
+	round((Approx(N, P3) + Error(N, P3)) -
+	      (Approx(N, P2) + Error(N, P2))
+		+
+	round((Approx(N, P2) + Error(N, P2)) -
+	      (Approx(N, P1) + Error(N, P1))
+
+		=
+
+	(Approx(N, P3) - Approx(N, P2)) +
+	(Approx(N, P2) - Approx(N, P1))
+
+		=
+
+	Approx(N, P3) - Approx(N, P1)
+
+		=
+
+	round((Approx(N, P3) + Error(N, P3)) -
+	      (Approx(N, P1) + Error(N, P1))
+
+therefore the triad P1, P2, P3 is consistent.
+
+The same reasoning can be extended to higher consistency levels.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Foul?  What the hell for?"
+     -\-\-- o        "Because you are chalking your cue with the 3-ball."
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 22 Sep 1996 19:34 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14568; Sun, 22 Sep 1996 19:36:17 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA17087
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA24590; Sun, 22 Sep 1996 10:36:15 -0700
+Date: Sun, 22 Sep 1996 10:36:15 -0700
+Message-Id: <960922173331_71670.2576_HHB59-3@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,138 @@
+source file: m1576.txt
+Date: Sat, 07 Nov 1998 14:49:58 +0530
+
+Subject: The Perils of Penelope Pitch Bend
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hi,
+
+John wrote :
+
+>>Then again, I suppose this to be a problem with just about any
+>>commercial sample-playback device. Can anyone confirm my suspicion
+>>that a synth that is actually a synth, synthesizing it's own waveforms
+>>(i.e., FM, PM, Additive, etc.) is much more reliable at delivering
+>>more stable/precise pitches.
+>>
+>Not necessarily.  Most synthesized waveforms in commercial synthesizers are
+>still based upon the phase accumulator oscillator just like sample playback
+>machines.  A waveform is read from a table and the phase increment adjusted
+>to change pitch.  It is the fractional part of the phase accumulator that
+>determines the pitch resolution.  
+
+
+By this you mean the following (oui ?) :
+
+1- A buffer stores a soundfile 
+2- the sound file is read by an oscillator
+3- the precision of the oscillator determines the precision of the pitch
+resolution
+
+The MSP tutorial (I have the run-time demo) shows the ability of MSP 
+oscillators to use floats upto 6 decimal places, so this would be a good 
+thing to achieve quite precise pitch bends, non ? Along with being
+able ot set the bend range to any range, even 1 cent.
+
+>It's a matter of how the oscillators are
+>implemented, and the current crop of of pseudo-analog synthesis really don't
+>provide any details on this.  Certainly the older Yamaha FM, Casio PM and
+>Kawai Additive synths have similar pitch limitations to the sample playback
+>machines.
+
+Regular Dick Dastardlys, are these synth manufacturers. I wonder how
+precise
+and stable the pitches and how thorough (using all 14-bits of Pitch bend
+data, etc.)
+some of the new higher end synths are. i.e., Nord, Yamaha's new FS-1R,
+Korg Z-1.
+
+Graham wrote :
+
+>I should have asked at the time, but how deviant are your results from a
+>linear response?  I've done some quick tests with my AWE64, and it seems to
+>be roughly 1 cent steps but not accurate to much more than a cent.  Also,
+>now I've had quite a lot of experience of playing with pitch bends, the
+>results do sound pretty good.  Certainly better than not using pitch bends.
+>
+
+I needed to try and make a proper chart (of pitch bend value equivalents
+for
+cent values 0 through 100) for the project I'm working on. 
+So I spent the entire evening playing with spreadsheets, a sequencer,
+frequency meter, MIDI data monitor, Yamaha PSR-530 XG compatible
+keyboard,
+& calculator. 
+
+Gotta tell you, I nearly lost it for a while. First of all, the
+Yamaha accepts bend data in the -8192 to +8191 range. Unfortunately, it
+ignores the MSB, so what you're left with is -64 to +63 (0-127).
+Setting the bend range at 1-semitone (the smallest possible), 
+that gives 63 different pitches within a semitone (100 cent) range. 
+
+It's pretty pointless paying too much attention to 
+the results, since it just returns cent approximations of
+63 out of the 100 possible values (and I don't mean 0-63 ,
+just all over the place). My solution : bugger it all, I'll use it
+only for semitone, quarter tone, and random bends. I'm working
+on a demo of somewhat commercial pop-rock material and for now, 
+the inaccuracies are acceptable.
+
+BTW, I used the "sine lead" sound, which happens to be about A =
+439.8Hz,
+not 440Hz. C is 261.6Hz, though. Most pitches are off by at least
+1-cent, and this
+for the sine wave sound, which means it's pretty much a crap shoot using
+the
+tuning tables to achieve good microtunings. All  slight discrepencies in
+the 
+std. 12-tET world, but IMHO quite unacceptable to make significant
+progress in the Xenharmonic. 
+
+>If you're doing _serious_ work, tuning tables are usually better than pitch
+>bends because you don't have slurring which can be a problem with some
+>synths.  The exception is where you want more notes than you can get into a
+>tuning table, so you stick in a small correction from the nearest note that
+>is in the table.  Or, of course, if you don't have tuning tables and you
+>want to choose the scales you hear.  Is assuming a linear response good
+>enough for these purposes from what you've measured?
+
+I am using the -64 to + 64 cent 12-note octave tuning tables
+in PSR-530. I use them to set up the base tuning for a given section of 
+music, for the present mainly just & 1/4 comma meantone.
+
+However, I've been playing with IRCAM's PatchWork program (soooort of
+like
+Max, but LISP, dull to look at (black and white) 
+not really real time, and not very MIDI savvy. It's better for writing
+Csound scores.
+
+Anyhow, what I did is put together a patch functioning as a sort of
+strange random-Xen arpeggiator, using pitch bends to randomly and
+constantly vary the intonation of each note within an approximate 
+(make that "very" approximate) +/- 5-cent range.
+
+The resolution in PatchWork is 1/100 second and I place the bend at "0" 
+and the note on 1/100th of a second later. 
+
+Just a wee little "trick" brings things to 
+life, animating dull and very artificial sounding step-sequenced lines. 
+I've used the patch to process "guitar solos" and it rocks ! 
+Also, works wonders on lead lines with a violin sound.  
+
+It works like the pitch equivalent of rhythmic quantization.
+
+Common Music might be a much better tool for this sort of thing,
+compared to PatchWork. And, CM is free.
+I haven't worked with CM yet, though.
+
+So, John L., how's your K2500 at handling pitch bends ?
+
+
+Later,
+Drew
+
+------------------------------
+
+End of TUNING Digest 1576
+*************************

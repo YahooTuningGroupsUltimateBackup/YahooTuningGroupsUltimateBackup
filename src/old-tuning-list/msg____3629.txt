@@ -1,0 +1,58 @@
+source file: mills2.txt
+Date: Wed, 18 Sep 1996 21:08:04 -0700
+
+Subject: JI Calc for PowerMac
+
+From: Carter Scholz <csz@well.com>
+
+In Tuning Digest 839, Adam Silverman writes:
+
+>Is anyone here in charge of JI Calc?  I have grown attatched to it, and 
+>have just upgraded my computer to a Power Mac, only to find that JI Calc 
+>doesn't work!  Will there be a Powermac version available soon?
+
+I guess that's me.  Robert Rich wrote the original Hypercard stack, 
+but I've been doing the recent upgrades.
+
+The PowerMac question has come up before, and I've looked into it.
+The short answer is: no.  I don't know how to do it, and I'm not 
+sure it can be done.
+
+Adam, I assume you're talking about the internal sound not working. 
+I believe all the calculation and MIDI functions still work, 
+but let me know if this is not so.
+
+JI Calc had to cheat quite a lot to get the 68K Apple hardware to retune.  
+(Thanks to K Romana Machado for writing this code.)  The PowerMacs lack 
+the hardware to support these hacks.  All sound calls are now routed 
+through Sound Manager 3, which specifies frequencies as 12-TET notes.  
+As far as I can tell, there's no way to cheat Sound Manager.  But then, 
+I'm not a hardcore hacker, and I don't have a PowerMac to experiment on.
+
+I know that applications like Tom Erbe's PitchFork and James McCartney's
+SuperCollider get non-12TET frequencies out of the PowerMac, but 
+JI Calc is that relict of an earlier age, a Hypercard stack.  I wrote
+some XCMDs in Pascal for it, but I suspect the whole thing would have
+to be ported to CodeWarrior to run on the PowerMac, and that surpasses
+my abilities and priorities right now.
+ 
+If anyone knows better -- knows a cool way to cheat Sound Manager, or
+some other insight to get non-12TET from Hypercard on a PowerMac -- 
+please contact me.
+
+
+Carter Scholz   csz@well.com
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Sep 1996 15:28 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03714; Thu, 19 Sep 1996 15:30:12 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA04500
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id GAA21513; Thu, 19 Sep 1996 06:30:09 -0700
+Date: Thu, 19 Sep 1996 06:30:09 -0700
+Message-Id: <9609191325.AA16141@sun6.aic.nrl.navy.mil>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

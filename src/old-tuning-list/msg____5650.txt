@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Tue, 17 Jun 1997 09:24:32 +0200
+
+Subject: Tuning the Dorian Mode
+
+From: Lydia Ayers <layers@cs.ust.hk>
+
+A couple of weeks ago, several people posted about the tuning of the 
+Dorian mode.  I don't think the tuning is absolute, but here's one way 
+to derive a tuning for it.
+
+Begin with a scale in just intonation:
+
+C        D        E        F        G        A        B         C
+1/1      9/8      5/4      4/3      3/2      5/3      15/8      2/1
+     9/8     10/9     16/15     9/8     10/9      9/8      16/15
+
+Start the Dorian scale on the second scale degree of the just scale, and 
+make the new starting pitch 1/1:
+
+         D        E        F        G        A        B         C        D
+         9/8      5/4      4/3      3/2      5/3      15/8      2/1      9/8
+becomes
+         1/1      10/9     32/27    4/3      40/27    5/3       16/9     2/1
+             10/9     16/15     9/8     10/9      9/8      16/15     9/8
+
+In this new scale, the fifth, minor third and major second are all flat, 
+so retune these pitches for this scale as follows:
+
+         D        E        F        G        A        B         C        D
+         1/1      9/8      6/5      4/3      3/2      5/3       16/9     2/1
+              9/8     16/15     10/9    10/9      9/8      16/15     9/8
+
+Using this tuning for the original scale (in case you can't move your 1/1) 
+gives the following pitches:
+
+C        D        E        F        G        A        B         C        D
+1/1      9/8      81/64    27/20    3/2      27/16    15/8      2/1      9/4
+     9/8      9/8     16/15     10/9    10/9      9/8      16/15     9/8
+
+Best,
+
+Lydia Ayers
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Jun 1997 09:39 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00822; Tue, 17 Jun 1997 09:39:25 +0200
+Date: Tue, 17 Jun 1997 09:39:25 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00820
+Received: (qmail 22176 invoked from network); 16 Jun 1997 09:33:58 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 Jun 1997 09:33:58 -0000
+Message-Id: <199706160530_MC2-188E-C2A6@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

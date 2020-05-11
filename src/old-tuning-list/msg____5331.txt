@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Thu, 24 Apr 1997 06:06:16 -0700
+
+Subject: Re: Rankin guitar tuning
+
+From: wauchope@AIC.NRL.Navy.Mil
+
+Brian Carlson wrote:
+
+> I live in Denver and play a 19 tone steel 
+> string acoustic guitar and another with the frets spaced at the following 
+> ratios - 21/20  9/8  7/6  6/5  5/4  21/16  4/3  7/5  35/24  3/2  14/9  
+> 8/5  5/3  7/4  9/5  15/8 and 35/18.   Mark Rankin worked out these ratios 
+> to include the 7 limit ratios and also keep the frets spaced far enough 
+> apart to be playable.
+
+Brian only listed 18 tones, I'm guessing that the one that got left out
+was a 35/32 between the 21/20 and 9/8.  If that's the case, the only
+irregularity in the resulting scale comes from the 21/16, which
+introduces a wide 21/20 and narrow 64/63.  If it were replaced by a
+35/27 you'd get a scale composed entirely of only three steps (36/35,
+28/27, 25/24).
+
+This scale and its ilk are very similar to the 19-tone Mandelbaum I
+also have on a (Tom Stone interchangeable fingerboard) guitar:
+
+1/1 25/24 15/14 9/8 7/6 6/5 5/4 9/7 4/3 7/5 36/35 3/2 14/9 8/5 5/3 7/4
+9/5 15/8 27/14 2/1
+
+which consists only of those three steps mentioned.  Like Mark's
+scale it extends the same set of 5-limit ratios with 7's, except that
+the 7's are distributed more or less evenly between otonal and utonal
+ratios.
+
+Ken Wauchope
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 24 Apr 1997 19:32 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30244; Thu, 24 Apr 1997 19:31:59 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA30261
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA00860; Thu, 24 Apr 1997 10:30:00 -0700
+Date: Thu, 24 Apr 1997 10:30:00 -0700
+Message-Id: <199704241703.KAA28551@ella.mills.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

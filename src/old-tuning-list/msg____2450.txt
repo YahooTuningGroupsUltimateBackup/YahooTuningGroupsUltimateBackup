@@ -1,0 +1,83 @@
+source file: mills2.txt
+Date: Mon, 8 Jan 1996 17:48:11 -0800
+
+Subject: Copyright on files in the ftp archive and MMPI
+
+From: ladins@ibm.net (L. Dunn)
+
+Hi,
+	I have been developing a shareware program called Microtonal MIDI 
+Performance Instrument for Atari computers (I should be porting it to 
+the Mac soon). As part of the hypertext documentation I would like to 
+include some files from this archive's FTP site, namely mclaren's 
+microtonal bibliography and discography. Is this OK?
+
+		WARNING- blatant plug follows
+
+	Some of the features of MMPI are:
+* designed for real-time performance
+* full graphical interface
+* can use either polyphonic aftertouch or pitch bend as the means of 
+pitch shifting
+* when using pitch bend, a dynamic channel allocation algorithm is 
+used i.e. polyphony is not limited to monophonic lines but the number 
+of MIDI channels you give it
+* uses tuning 'presets' that may be switched between using program 
+change messages
+* can have two different tuning systems being used simultaneously
+* 1-step generation of any ET scale (of course not limited to octaves)
+* all files are standard ascii text (full description of file formats 
+is provided)
+* tuning systems may be loaded as ratios, cents or frequencies, and 
+are extrapolated to either a) 128 notes, or b) the entire MIDI 
+frequency range).
+* a C library is provided for microtonal algorithmic composition with 
+full access to the 'preset' data structure so it can be modified in 
+real-time
+* ... :-)
+	The shareware fee will be Australian $35 + postage with the 
+hypertext manual. 
+
+	A Aussie dollar is about 75 US cents or 47 UK pence.
+
+	There is an old an buggy demo available at 
+ftp://micros.hensa.ac.uk/micros/atari/tos/q/q152/
+	This is going to be updated soon (after I've finished the 
+hypertext + a few more changes).
+	If you feel like digging out that old ST be warned that MMPI 
+requires a hi-res monitor.
+	There are currently atari emulators that re-direct the ST's
+internal MIDI port for both the Mac (MagiC Mac) and PC (Gemulator).
+Both can be bought from Toad Computers http://www.toad.net
+	MMPI _should_ work with both of these but it has not been tested.
+	There is a demo version of MagiCMac that doesn't re-direct 
+MIDI at ftp://micros.hensa.ac.uk/micros/atari/tos/p/p144/
+	There is also a freeware atari emulator for X-Windows 
+(including Linux) called STonX. This should be available from 
+ftp://micros.hensa.ac.uk/micros/atari/ (somewhere). I don't know it it 
+re-directs the ST's MIDI port though...
+
+	If you would like to speed up the port donations of power Macs 
+or Pentium PCs are welcome :-)
+
+	Please send suggestions/comments/info about compatability with 
+emulators to:
+	
+	Lorien Dunn
+	ladins@ibm.net (email address only valid until 23rd February 
+1996)
+
+	
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 9 Jan 1996 11:49 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id CAA24553; Tue, 9 Jan 1996 02:49:28 -0800
+Date: Tue, 9 Jan 1996 02:49:28 -0800
+Message-Id: <0099C210C8BD0D42.6A9E@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

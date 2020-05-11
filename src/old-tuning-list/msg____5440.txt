@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Sat, 10 May 1997 19:52:34 +0200
+
+Subject: Re: JI Puns
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Paul Hahn wrote:
+
+''This misses the point.  The above description would fit modulation or
+even a simple chord change.  I don't think anyone is served by using
+such an overbroad definition.''
+
+My definition is not overbroad, it is quite strict:
+
+A tonic is established from
+> within a collection of pitches, and a pun is a function not of a single
+> intervallic relationship but of a set of relationships.
+
+In the most familiar tonal repertoires, the fixed collection establishes
+tonic/dominant relationships clearly so that common tones between such
+chords will not be heard as puns. A pun will be heard when the ear requires
+some reorientation, that is when the membership in the collection has been
+altered in some way.
+
+Think of it this way: the collection consists of those (usually) closely
+related pitches accessable during a given time span in some music. A
+temporal pun occurs when a single pitch from an initial collection is now
+heard in terms of new collection. Expressed in of just intonation, _any_
+such pun will envolve collections upon the same lattice, and puns can be
+composed at _any_ distance on the lattice.
+
+It is true that when the collection is ignored the function I describe is
+identical for common tones in a tonic-dominant pair and for a more exotic
+interval pair, the function alone is insufficient to make a pun. A pun must
+be supported by some musical form of ''syntax'' that supports both
+interpretations, or it will not be heard as a pun. For that reason, it has
+to be framed in terms of distinct operative collections of pitches. I
+assume that I needn't note that the effectiveness of an intonational pun
+depends upon the identity of this function with that founds in familiar
+modulations or chord changes; the difference is not strictly one of degree
+- i.e. distance on the lattice - but of context.    
+
+This might be positively contrasted with a pitch-saturated music like
+Princetonian serialism, where 12 tone aggregates are the basic collections.
+In such a music, the lack of content distinctiveness among collections
+leads to a situation where all the puns fall flat. (Although intervallic
+diversity may create very different lines - or lynes, as they would have it
+- in the end all of them map onto the same set of pitches).    
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 12 May 1997 00:28 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09393; Mon, 12 May 1997 00:28:29 +0200
+Date: Mon, 12 May 1997 00:28:29 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA09407
+Received: (qmail 7740 invoked from network); 11 May 1997 22:28:19 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 11 May 1997 22:28:19 -0000
+Message-Id: <Pine.GSO.3.93.970512081159.20777A-100000@extro.ucc.su.OZ.AU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

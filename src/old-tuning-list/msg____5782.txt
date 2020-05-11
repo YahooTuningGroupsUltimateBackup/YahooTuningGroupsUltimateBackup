@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Tue, 8 Jul 1997 16:11:01 +0200
+
+Subject: Re: Octave invariance
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>>If you allow for the octave equivalence of intervals, all triadic
+>>inversions contain the same intervals.
+>How so?  The way I larnt it, a simple C major triad in root position consists
+>of a minor third stacked on top of a major third.  In first inversion, it
+>consists of a perfect fourth stacked on top of the minor third.
+
+   Well, this premise is certainly clear you instead think of a root
+position major triad as a P4 atop a m3 atop a M3, and first inversion an M3
+atop a P4 atop a m3, and so forth.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 8 Jul 1997 17:49 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01173; Tue, 8 Jul 1997 17:49:49 +0200
+Date: Tue, 8 Jul 1997 17:49:49 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA17512
+Received: (qmail 2869 invoked from network); 8 Jul 1997 15:49:39 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Jul 1997 15:49:39 -0000
+Message-Id: <c%ap¬adian-Asset%lRS-970708153659Z-599@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

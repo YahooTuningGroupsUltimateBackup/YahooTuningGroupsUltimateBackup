@@ -1,0 +1,65 @@
+source file: mills2.txt
+Date: Fri, 4 Jul 1997 21:46:56 +0200
+
+Subject: Octave equivalence
+
+From: DFinnamore@aol.com
+
+In digest #1119 I wrote:
+
+> Have you never seen pictures of
+>  waveforms?  E.g., given two waves, one of which has a frequency at a
+>  power-of-two of the other, the lower one will cross the zero point
+(volage-
+>  or SPL-wise) only at points at which the higher one is crossing as well.
+>   This is a unique property of frequencies related by powers-of-two; they
+>  have, then a special relationship of some kind, no?  The higher one is
+>  repeating at the same frequency as the lower one, as well as at its own
+>  nominal frequency.  They can, then, in a very real and physical sense, be
+>  considered to be the same note; i.e., the same "pitch" but in different
+>  registers.
+
+I was wrong.  8-)>  Graham Breed was gracious enough to point out my error to
+me off-list.  The above definition would apply to any whole-number multiple
+of the lower frequency, not just powers of two.  However, there is still a
+unique relationship if you consider that the lower one will cross the zero
+point only at points at which the higher one is also crossing _and completing
+an even number of cycles_.  It turns out that odd-number multiples cross in
+mid-cycle where the lower one crosses, and even ones cross at completed
+cycles.  I acknowlege that this weakens my argument considerably.
+
+Much more interesting was Marion's observation:
+
+>On octave invariance, it has just occurred to me that, in LCM
+>terms, the octave has a property that no other ratio shares. 
+>That is two notes that differ only by octaves can be mixed
+>without making the length of the resulting "interference" pattern
+>longer than the waveform of the lowest note.
+
+That's what I was picturing in my mind but stated rather poorly, using the
+wrong point of reference.  Thanks, Marion.  So for now I still maintain my
+conclusion that two pitches separated by the interval 2:1 are the same note
+in different registers.  That triad inversions sound different is the result
+of a different set of intervals within each inversion of the chord, and so
+does not seem to require throwing out the idea of octave equivalence.
+
+As to Gary M.'s comment that this argument would be distroyed by simply
+mistuning the octaves slightly, I think that since its proximity to 2:1
+causes the ear to treat it (musically) as if it were exactly 2:1, the theory
+is still valid.
+
+David
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 4 Jul 1997 22:36 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23054; Fri, 4 Jul 1997 22:36:44 +0200
+Date: Fri, 4 Jul 1997 22:36:44 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05115
+Received: (qmail 11467 invoked from network); 4 Jul 1997 20:36:38 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 4 Jul 1997 20:36:38 -0000
+Message-Id: <199707042031.PAA29119@kimserv>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

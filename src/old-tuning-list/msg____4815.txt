@@ -1,0 +1,163 @@
+source file: mills2.txt
+Date: Sun, 16 Feb 1997 23:15:22 -0800
+
+Subject: [Fwd: GhostTones   ?]
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Return-Path: <100702.2223@CompuServe.COM>
+Received: from dub-img-2.compuserve.com (dub-img-2.compuserve.com [149.174.206.132]) by ixmail5.ix.netcom.com (8.7.5/SMI-4.1/Netcom)
+	id VAA16974; Sun, 16 Feb 1997 21:58:19 -0800 (PST)
+Received: by dub-img-2.compuserve.com (8.6.10/5.950515)
+	id AAA12834; Mon, 17 Feb 1997 00:58:28 -0500
+Date: 17 Feb 97 00:56:38 EST
+From: Charles Lucy <100702.2223@CompuServe.COM>
+To: <mattn@ix.netcom.com>
+Subject: GhostTones   ?
+Message-ID: <970217055637_100702.2223_EHQ37-1@CompuServe.COM>
+X-Mozilla-Status: 0001
+
+Hi Matt;
+
+I attempted to post the following message in reply to your missive
+via cix.co.uk (my regisered address at mills.edu)
+When I tried to access bix by tymnet I got "site shut" message.
+I am therefore sending it to you with the hope that you will forward it to
+tuning list.
+(with this note to explain its origins)
+TIA
+Charles Lucy
+Matt wrote:
+ 
+>You say people wouldn't believe you (you assume) because you 
+>have a vested interest in having your model be accepted, so 
+>you are excused from posting your model. It's interesting 
+>that this logic doesn't also prevent you from posting claims 
+>that you have a model. 
+ 
+The model and mapping is very straight-forward and is (I hope clearly)
+explained at our website (www.wonderlandinorbit.com/projects/lullabies)
+in the download and techie areas, plus John Harrison's writings.
+ 
+I shall restate it, as briefly as possible.
+ 
+(complete with formulae and numbers)
+ 
+It seems that by taking steps of fourths and fifths, from a given pitch,
+all "harmonics" (ghosttones?) can be mapped in a continuous series.
+The interval between the fourth and the fifth is exactly [1200/(2*pi)190.9858 cents] . This interval Harrison called the "larger" interval.
+I have used the term "Large"(L).
+ 
+One octave (Ratio exactly 2) is 5 Large (L) plus 2 small (s) intervals.
+Harrison called the "small (s)" interval the "lesser" interval.
+ 
+Therefore the "small" interval (s) is {1200 - (5*L)}/2 122.5354 cents.
+ 
+ 
+To this basic formula, I have added some musical terms and
+further rules.
+ 
+ 
+440Hz is called A4.
+Steps of fourths produce flats and multiple flats.
+Steps of fifths produce sharps and multiple sharps.
+ 
+Scales may then be mapped as additions and subtractions of Large (L)
+and small (s) intervals.
+ 
+It seems that notes, which are closer on the spiral of fifths and 
+fourths are more consonant than those which are a greater number of
+steps apart..
+ 
+      
+ 
+ 
+>Actually it is theories, not laws, which compete.
+ 
+To my mind a theory becomes a "Law", when it becomes sufficiently widely
+accepted as a "scientific truth" to supersede all previous and 
+contradictory "Laws". At any one time there are often competing theories.
+ 
+Eg "Creationism v Darwinism".
+ 
+True, the theories do compete, and particularly successful theories
+eventually compete against the "Laws".
+ 
+Karl Popper "On the logic of scientific discovery" writes on the 
+shortcomings of this logic.
+ 
+I was looking for a better model for tunings and frequency analysis
+than Just Intonation provides. 
+ 
+ 
+ 
+>I keep seeing posts and cross posts which explain that the partials 
+>of real plucked or hammered strings are not exactly harmonic. I don't 
+>see anyone arguing what you call "prevailing law". I think this is
+>what's called a "strawman"--when you state an opposing argument 
+>noone actually holds, hoping that by then destroying that
+>argument you can indirectly prove your own argument. Unfortunately
+>it doesn't prove anything.
+ 
+Ask the JI advocates where the "harmonics" (ghosttones?) are.
+ 
+>None of the web sites which links you've posted have any
+>description of the mapping of partials. All your web sites 
+>describe (and not very clearly) is that one can build an 
+>extensible tuning system on 2 irrational intervals, neither 
+>of which is pi. I suspect that there are an indefinite number 
+>of such tuning systems using pairs of irrational intervals, 
+>all of which would produce beating sonorities.
+ 
+See above re. pi.
+ 
+Your suspicions may well be true, yet the obvious irrational and
+transcendental numbers are all related (pi, Phi, e, etc.)
+ 
+ 
+ 
+>It's one thing to work with materials artistically to get a 
+>pleasing result, it's another to investigate the physics
+>of acoustic bodies, the theoretical structures of tuning 
+>systems, and the psychoacoustics of human perception. 
+ 
+I suspect that there is more to Harrison's dogmatic insistence on
+this particular interval of 2^(1/(2*pi))
+(The two pi root of two) as the Large (larger) L interval),
+than merely convenient arithmetic. 
+ 
+The more I that learn about the current "science" of acoustics;
+the more I believe that it is built on shaky foundations. 
+ 
+If you read best selling biography "Longitude" by Dava Sobel
+Walker 1996, you will find that Harrison was a meticulous
+scientist and horologist.
+ 
+>I have no vested interest in any particular model; I'm 
+>curious about all of them--that's why I read this list. 
+>If you do indeed have a model, I suggest that this 
+>particular forum is the _ideal_ place to discuss it--if 
+>you would only begin to do so. 
+ 
+>Matt Nathan
+ 
+Good let's do that!
+ 
+Charles Lucy - Hawaii 15 Feb 97.
+ 
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 17 Feb 1997 10:29 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08390; Mon, 17 Feb 1997 10:29:05 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08382
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id BAA04252; Mon, 17 Feb 1997 01:26:44 -0800
+Date: Mon, 17 Feb 1997 01:26:44 -0800
+Message-Id: <33082220.3A14@ix.netcom.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

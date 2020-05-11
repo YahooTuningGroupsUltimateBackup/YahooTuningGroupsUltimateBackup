@@ -1,0 +1,25 @@
+source file: mills2.txt
+Date: Wed, 30 Oct 1996 14:16:31 -0800
+
+Subject: Your question
+
+From: Paul Rapoport <rapoport@mcmail.CIS.McMaster.CA>
+
+> Dr. Rapoport: have you seen the Neanderthal bone flute?
+No, I haven't!
+
+Paul Rapoport
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 31 Oct 1996 00:49 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04992; Thu, 31 Oct 1996 00:50:00 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA31873
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA00988; Wed, 30 Oct 1996 15:49:52 -0800
+Date: Wed, 30 Oct 1996 15:49:52 -0800
+Message-Id: <Pine.3.89.9610301829.A12432-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

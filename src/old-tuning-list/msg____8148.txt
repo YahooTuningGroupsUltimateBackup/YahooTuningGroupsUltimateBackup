@@ -1,0 +1,62 @@
+source file: m1453.txt
+Date: Sat, 20 Jun 1998 12:10:22 -0500
+
+Subject: Ratios, Cents, LucyTuning, Pi and E
+
+From: "Benjamin Tubb" <brtubb@cybertron.com>
+
+The following info is for anyone interested. Comments are welcome.
+
+:Lucy Tuning based on A=440 Hz
+:Chromatic/Enharmonic Scale  10^-4    10^-5
+:Note     Offset      Cents  Ratio
+0 A       0.000      0.0000  1/1      1/1
+1 A#    -31.550     68.4500  129/124  =
+1 Bb     22.535    122.5350  161/150  600/559
+2 B      -9.014    190.9860  67/60    584/523
+2 Cb     45.070    245.0700  250/217  =
+3 B#    -40.564    259.4360  115/99   194/167
+3 C      13.521    313.5210  163/136  =
+4 C#    -18.028    381.9720  101/81   298/239
+4 Db     36.057    436.0570  256/199  =
+5 D       4.507    504.5070  91/68    716/535
+6 D#    -27.042    572.9580  181/130  795/571
+6 Eb     27.042    627.0420  260/181  701/488
+7 E      -4.507    695.4930  133/89   535/358
+7 Fb     49.579    749.5790  387/251  =
+8 E#    -36.057    763.9430  199/128  =
+8 F      18.028    818.0280  239/149  =
+9 F#    -13.521    886.4790  272/163  =
+9 Gb     40.564    940.5640  167/97   1200/697
+10 G      9.014   1009.0140  120/67   593/292
+11 G#   -22.535   1077.4650  300/161  559/300
+11 Ab    31.550   1131.5500  248/129  967/503
+
+*Offsets are cents from 12tet "equivalents" scale steps
+
+Based on two intervals related to Pi:
+Large  2^(1/(2*Pi)) = 1.1166329 or 190.9859 cents
+Small  (2/(2^(1/(2*Pi)))^5)^(1/2) = 1.073344 or 122.5354 cents
+
+:                  Error Tolerance Levels for Ratios
+:Given   Value     10^-4    10^-7         10^-10
+:Pi      3.141593  355/113  104348/33215  312689/99532
+:E       2.718282  193/71   25946/9545    566827/208524
+:Pi^E   22.459158  2201/98  44267/1971    1474556/65655
+:E^Pi   23.140693  1481/64  10691/462     6324467/273305
+
+>From those values, to then reduce those ratios (to their lowest "octave" using
+powers of 2) to produce a "ratio" value between 1 and 2 for use in computing a
+cents conversion for 12tet, I get the following results:
+
+:                        Error Tolerance Levels for Cents
+:Given      Value        10^-4         10^-7         10^-10
+:Pi/2       1.05707963   781.7955024   781.7953555   781.7953553
+:E/2        1.3591409    531.2519013   531.2339789   531.2340491
+:(Pi^E)/16  1.4036974    587.0442215   587.078274    587.0783022
+:(E^Pi)/16  1.4462933    638.8174495   638.8321708   638.8321702
+
+-------------
+Benjamin Tubb
+brtubb@cybertron.com
+http://home.cybertron.com/~brtubb/theory.html

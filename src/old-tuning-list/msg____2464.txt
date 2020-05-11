@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Tue, 16 Jan 1996 11:14:59 -0800
+
+Subject: RE: Manuel Op de Coul's list
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Bruce,
+
+Your presumption that all of the modes in the list are selections from
+ET scales is wrong. Many of them can indeed be but for most it is
+not a requirement. If I have been vague about it, I apologise.
+Messiaen's modes work best in equal temperament. The Indian modes
+aren't necessarily used in just intonation, take the popular harmonium 
+for instance, which is tuned more or less equally.
+The Arabic 17-tone modes are to be taken from this scale:
+ 256/243 65536/59049 9/8 32/27 8192/6561 81/64 4/3 1024/729 262144/177147 3/2
+ 128/81 32768/19683 27/16 16/9 4096/2187 1048576/531441 2/1.
+The modes of the Indian shruti scale are also not for ET, though the
+theory of shrutis is not universally accepted among Indian
+musicologists and you see different proposals for the frequency
+ratios. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 17 Jan 1996 03:08 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA16202; Tue, 16 Jan 1996 18:08:34 -0800
+Date: Tue, 16 Jan 1996 18:08:34 -0800
+Message-Id: <960117020354_71670.2576_HHB41-6@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

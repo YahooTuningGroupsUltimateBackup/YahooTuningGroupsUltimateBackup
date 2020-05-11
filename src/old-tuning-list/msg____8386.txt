@@ -1,0 +1,47 @@
+source file: m1509.txt
+Date: Wed, 19 Aug 1998 22:04:21 -0500
+
+Subject: Native Instruments' Generator supports microtunings
+
+From: "John Loffink" <jloffink@pdq.net>
+
+I'm happy to add another software synthesizer to the microtuning category.
+Initially I thought Native Instruments' Generator could support only equal
+tempered scales, but they came up with a clever macro that allows 12 note
+per octave just intonation.  Using a similar approach to their macro, full
+keyboard microtuning scales are possible as well.
+
+Using "snapshots"  up to 128 scales are possible per instrument.  Using
+virtual switch modules in a custom macro an unlimited number of scales can
+be used.
+
+Perhaps the best news for some is that all operations are floating point,
+therefore virtually unlimited pitch resolution is possible, for those chords
+that beat once a year.  The interface would be a little cumbersome, as each
+knob or slider is limited to 128 steps of resolution.  You'd achieve better
+resolution by ganging knobs together.  For instance, one knob can tune in 1
+cent increments, the next can be 0.01 cent increments, and the next can be
+0.0001 cent increments.  So you'd need to adjust three knobs per note for
+0.0001 cent resolution.
+
+For those of you not familiar with Generator, it is a software emulation of
+an analog modular synthesizer than runs on Pentium MMX and Pentium II
+systems.  It has a user friendly interface, endlessly customizable controls
+and tons of modules that let you emulate almost any preset or modular analog
+synthesizer.  It plays samples as well.  Two warnings:  polyphony count is
+fairly low, around 8-20 notes for a 266 MHz PII, and latency is enough that
+realtime MIDI note playing is not very practical.  Use with a sequencer and
+add an offset to correct for this problem.  A Macintosh version is being
+prepared for the end of 1998.
+
+Price is US$298, putting this much closer in reach than a Kyma system.
+Native Instruments' web site is located at
+http://www.native-instruments.com/ .
+
+By the way, I am still investigating the claim in a recent Keyboard letter
+column that Emu's E-Synth has a user tuning table.  I am dubious at this
+point, but will check it out anyway.
+
+John Loffink
+jloffink@pdq.net
+http://freeweb.pdq.net/jloffink

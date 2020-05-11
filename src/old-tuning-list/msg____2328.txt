@@ -1,0 +1,73 @@
+source file: mills2.txt
+Date: Fri, 17 Nov 1995 09:42:38 -0800
+
+Subject: Approximation to Pierce-Bohlen
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+This is a "wet finger" approximation to the Pierce-Bohlen scale.
+The second column shows the difference in cents.
+
+  1:         12/11           4.332829 3/4-tone
+  2:         33/28          -8.161428
+  3:          9/7           -3.828599 septimal major third
+  4:          7/5           -2.704731 septimal diminished fifth
+  5:         32/21          -2.302062 wide fifth
+  6:          5/3            6.533331 major sixth
+  7:          9/5           -6.533331 just minor seventh
+  8:         63/32           2.302062 octave - septimal comma
+  9:         15/7            2.704731 major diatonic semitone + 1 octave
+ 10:          7/3            3.828599 minimal 10th
+ 11:         28/11           8.161428
+ 12:         11/4           -4.332829 harmonic augmented fourth + 1 octave
+ 13:          3/1           -0.000000 perfect 12th
+
+So a 3:5:7:9 chord involves pitch classes 0-6-10-13.
+
+
+Marcus writes:
+> I realize that we can do NonJust Equal Temperament, Just Non Equal Temperament
+> (what others are there?).
+
+All combinations are possible, Just Equal Temperament is rarely used, 
+an example is:
+
+  1:          9/8            203.9100 major whole tone
+  2:         81/64           407.8201 Pythagorean major third
+  3:        729/512          611.7302 Pythagorean tritone
+  4:       6561/4096         815.6403 Pythagorean augmented fifth
+  5:      59049/32768        1019.550 Pythagorean augmented sixth
+  6:     531441/262144       1223.460 Pythagorean comma + 1 octave
+
+And non-just non-equal-temperament is what Brian has been writing about a lot.
+
+> Would you (or anybody on the list) mind elaborating scale construction base on
+> partial frequency formulas?  i.e., Given the really neat partial freq ratios
+> that mclaren described, how do I construct a scale from them?
+
+You can just take the same frequencies, or a subset of them, or divide the
+larger ones by a power of 2 to octave reduce them.
+
+> For 12TET, did someone merely lay out the harmonic series to some order, 
+> octave transpose them, and then make a best fit to a 2^(n/12) scale 
+> (discarding partials 7,11,13 in this case)?
+
+It has been known for a very long time and there are different ways to
+structure 12-tET. It can be viewed as a cycle of tempered fifths, as the
+completion of the diatonic scale, which on its turn can be viewed as three
+triads a fifth apart, or as a shorter cycle of fifths, etc. So the
+third harmonic alone is enough to get 12-tET, by ignoring the Pythagorean
+comma.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 18 Nov 1995 02:46 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA10273; Fri, 17 Nov 1995 16:46:15 -0800
+Date: Fri, 17 Nov 1995 16:46:15 -0800
+Message-Id: <951118004332_71670.2576_HHB45-4@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

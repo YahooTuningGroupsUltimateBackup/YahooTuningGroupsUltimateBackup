@@ -1,0 +1,96 @@
+source file: mills2.txt
+Date: Thu, 27 Feb 1997 15:03:01 -0800
+
+Subject: More Meantones
+
+From: John Chalmers <non12@deltanet.com>
+
+Least Square Tunings: With somewhat simpler assumptions than Paul
+Erlich, I generated some linear temperaments designed to minimize
+the errors of the Fifth, Major Third, and Harmonic 7th (C-A#). 
+It seems to me that the 5/3 and 6/5 are not independent of the 5/4
+and 3/2 and not really necessary, though I believe Thomas Young
+included all the simple 5 limit consonances in 3 or 4 octaves to
+generate his temperaments (5/18, 11/40 comma, approximately 50-tet).
+
+Therefore, I have used only functions of the cent values of the
+intervals and X (as the temperament fifth) to construct error functions
+Thus (F-X) is the error of Fifth, (T-4*X-2*oct)the error of the Major 
+Third, and (S-10*X+5*oct) that of the natural 7th. These error functions 
+may be squared, summed, differentiated and set equal to zero as Paul 
+described. 
+
+Analogous functions may be written for positive systems where X
+is greater than 700 cents: (F-X), (T+8*X-5*oct), and (S+14*X-9*oct). 
+
+Finally, the terms may be weighted inversely as the magnitude of
+their primes. Thus the (F-X) term may be divided by 3, the Major
+Third term by 5, etc. after squaring.
+
+Negative Systems:
+
+1/4-comma Meantone, 5/4 Just696.5784 
+
+LST35696.8947 
+
+LST37696.9328 
+
+LST57 696.8406 
+
+LST357 696.8843 
+
+Just 7/4 NEG696.8826
+
+Weighted LST35  697.0857
+
+Weighted LST37  696.9982 
+
+Weighted LST57  696.8269 
+
+Weighted LST357 696.9229 
+
+LucyTuning 695.4930
+
+Wilson's Meta-Meantone 695.6304 
+
+Wilson's Meta-1/5-Comma Meantone 697.0676
+
+3 1/3-Comma, 6/5 Just 694.7862 
+
+3op5, 1/5-Comma, 15/8 Just 697.6537 
+
+Positive Systems:
+
+Pythagorean , 3/2 Just 701.9550  
+ 
+6/5 Just, 1/9-SKHISMA, 3 Sabat-Garibaldi 701.7379  
+ 
+15/8 Just, 1/7-SKHISMA, 3op5 701.6759
+ 
+5/4 Just, 1/8-SKHISMA, Helmholtzian 701.7108 
+ 
+7/4 Just 702.2267 
+ 
+LST35 701.71454 
+ 
+LST357 702.0992
+ 
+The unweighted negative Lst Square systems and those yielding certain
+ratios appeared in Xenharmonikon 2, 1974 along with a number of
+other tunings at the 11 limit not shown here.
+ 
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 28 Feb 1997 00:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA32330; Fri, 28 Feb 1997 00:06:15 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA32447
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id PAA11720; Thu, 27 Feb 1997 15:04:20 -0800
+Date: Thu, 27 Feb 1997 15:04:20 -0800
+Message-Id: <970227170944_1382852835@emout19.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

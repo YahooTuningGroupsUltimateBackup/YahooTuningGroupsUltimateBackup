@@ -1,0 +1,85 @@
+source file: mills2.txt
+Date: Wed, 12 Mar 1997 10:39:03 -0800
+
+Subject: Einstein, linear temps
+
+From: John Chalmers <non12@deltanet.com>
+
+I had forgotten Bose-Einstein statistics, which is strange
+because I had just read recently of the observation of interference
+between two Bose-Einstein condensates and an "atom" laser.
+
+I do believe that it is accepted that Einstein wasted the last
+years of his career on an attempt to unify electromagnetism and
+gravity while ignoring the strong and weak nuclear forces.
+
+Following up Paul Erlich's suggestion, I have computed
+the LST SQR positive tunings with 7/6 and 5/3 in addition
+to 3/2, 5/4, and 7/4. The error functions are (F-X), (T+8X-5oct), 
+(S+14X-9oct), (MS+9X-6oct) and (ts+15X-9oct). F2,
+T4, S4, MS3 and ts6. TFmpered fifth.
+
+
+LST Pos  3, 5, 7, 5/3, 7/6 702.0909887095729
+TF(2*F-16*T-28*S-30*ts-18*MS+710*OCT)/1134 
+E3.1359878                E321.849269E-02 
+E53.041624                E529.251473 
+E71.900252                E723.610956 
+E353.177611               E3529.269966 
+E372.036239               E3723.629449 
+E574.941875               E57212.86243 
+E3575.077863              E357212.88092 
+EFETEMS6.355223           EFETEMS219.36718 
+EFESEts3.800503           EFESEts26.742075 
+EFETESEMSEts10.01973812073231           EFETESEMSEts226.09076 
+
+ 
+LST Pos  3, 7, 7/6 702.216418782563 
+TF(2*F-28*S-30*ts+522*OCT)/844
+E3.2614179                E326.833933E-02 
+E54.045064                E5216.36254 
+E7.1442306                E722.080246E-02 
+E354.306482               E35216.43088 
+E37.4056485               E3728.914179E-02 
+E574.189295               E57216.38335 
+E3574.450713              E357216.45168 
+EFETEMS8.612964           EFETEMS234.97667 
+EFESEts.5228359           EFESEts2.1028747 
+EFETESEMSEts8.874382002202765           EFETESEMSEts235.01121 
+
+ 
+LST Pos  3, 5, 5/3 701.7275128284361 
+TF(2*F-16*T-18*MS+188*OCT)/292
+E3.227488                 E325.175081E-02 
+E5.1338165                E521.790685E-02 
+E76.988914                E7248.84492 
+E35.3613045               E3526.965766E-02 
+E377.216402               E37248.89667 
+E577.12273  E57248.86282 
+E3577.350218              E357248.91458 
+EFETEMS.4549761           EFETEMS27.843202E-02 
+EFESEts14.4328            EFESEts2100.9731 
+EFETESEMSEts14.66029197639307           EFETESEMSEts2100.9998 
+
+
+These tunings, like the rest of the singly-positive analogs, resemble
+53- or 41-tet. They might be practical as a 24-tone set on two keyboards.
+With more difficulty, tunings analogous to 22-, 34-, 46-tet may be 
+constructed.
+
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 12 Mar 1997 22:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04242; Wed, 12 Mar 1997 22:11:44 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA04244
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id NAA04158; Wed, 12 Mar 1997 13:09:36 -0800
+Date: Wed, 12 Mar 1997 13:09:36 -0800
+Message-Id: <33271AE7.46B9@dial.pipex.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

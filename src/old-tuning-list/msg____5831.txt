@@ -1,0 +1,153 @@
+source file: mills2.txt
+Date: Sat, 12 Jul 1997 17:35:47 +0200
+
+Subject: Basic dimensionality, and related issues
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Looking back at my notes on matrices, I see that, if you define
+the logarithms of prime numbers to be orthonormal vectors, scales
+can be written as a vector space using these vectors.  Then, the
+dimension of the vector space is the same as my definition of the
+dimension of the scale.  I can talk about the "basic dimension of
+the scale" if this will avoid confusion with other concepts of
+scale dimension.  The logic being that the dimension is the
+number of vectors that form a basis.
+
+This works until transcendental numbers come into it.  Then, the
+same basis can be defined using different primes:
+
+     (x) (x/log(2) 0)(log(2)) (x/log(2) 0      )(log(2))
+     (y)   (y/log(2) 0)(log(3))   (0        y/log(3)(log(3))
+
+To avoid this ambiguity, the matrix defining a scale from its
+basis must only contain integers -- or, at a stretch, rationals.
+I think this covers all musically meaningful situations.  Any
+counter examples?
+
+Are people understanding this matrix stuff?  There was one
+error a few posts back that John Chalmers spotted (I wrote a
+chromatic semitone instead of a diesis) which may have
+confused some of you.
+
+
+A discussion on the interval 9/1 has resurfaced.  Partly, this
+relates to scale dimensionality and partly to definitions of
+consonances.  I will concentrate on the former.
+
+To take Daniel Wolf's example:
+
+>(1) I compose a piece consisting only of chromatically planed (parallel)
+>Major ninth
+>chords without fifths in just intonation. If the orchestration is such thlog(9) can be taken as a basis here.  It doesn't affect the
+basic dimensionality.
+
+and another:
+
+>(4) Using a TX81Z (with a resolution of 1.56 cent deviations from 12tet),> I
+>perform
+>a melody based upon random walks over a lattice with two dimensions: 3s a>nd
+>9s. The
+>best approximation of 9 does not coincide with the best approximation of
+>3^2. For all practical purposes, 3 and 9, in this temperament, are
+>relatively prime.
+
+3*3is a universal theorem.  If you are using an interval that
+is not 2*log(3), that interval is not log(9).
+
+The TX81Z uses 768TET tuning tables.  Any such table will be 1-D.
+To what extent it approximates a higher dimensional scale is a
+matter of interpretation.  In this case, though, I strongly
+disagree with you.  On a TX81Z, 3/1 is 768*ln(3)/ln(2)17.2512
+steps, approximated to 1217/768 oct.  9/1 is 768*ln(9)/ln(2)2434.5024.  The closest approximation is 2435/768 oct, but 3*3
+gives 1217*2/768$34/768.  The latter is less accurate by
+0.0024/768 oct 3.1 mu-oct (0.0038 c*nts) --  surely negligible
+in comparison with the inaccuracy of both intervals.  I see no
+problem in making the two consistent.
+
+Daniel again:
+
+>It>is interesting to hear how certain structures survive radically different>mappings intact as well as to hear what features are projected differentl>y
+>under alternative intonations. Basic dimensionality is a precisely defined mathematical idea.
+Music being a subjective thing, it makes more sense to define an
+n-D scale in the abstract, and then approximate it for
+performance, than to take a real life scale and try to assign a
+dimension to it.
+
+Paul Erlich wrote:
+
+>Also, if 9/5 and 9/7 are to be used as distinctive harmonic entities (i.e.,
+>consonances), and not only arising from 3*3/5 and 3*3/7, then it is useful to-
+
+>include a 9-axis into the triangular lattice.
+
+If the dissonance of a composite number is independent of its
+factors, why use lattices at all?  If you do, though, this
+would introduce a concept of harmonic dimensionality different
+from scale dimensionality.  What I previously called "n-D
+harmony" can be renamed "n-D JI" to avoid confusion here.
+
+After introducing a term, I should define it.  A scale containing
+only integer frequency ratios is a JI.  An n-D JI is then a JI
+with a basic dimension of n.  This means a scale involving 11, but
+not 7, is still a 4-D JI although it is not 7-limit, so the two
+concepts are not equivalent.
+
+
+On the concept of the prime limit: this is useful because it
+states the resources available for scale construction.  Unlike
+the Partch limit, 5 prime limit intervals can never take you out
+of the 5 prime limit.  However, the prime limit is not a useful
+measure of dissonance or even scale complexity.  Any interval can
+be written as 3 prime limit, within the limits of human hearing.
+It may be a very complex 3 prime limit interval, but it can
+always be done.
+
+
+On dissonance of composites in general:  it is much easier to form
+consonant chords using composite numbers than prime numbers of
+about the same size.  As an octave invariant example, 1:3:5:15
+includes the interval 15/1.  Try finding an equally consonant 4
+note octave invariant chord including 13/1.  If the consonance of
+an interval reflects its propensity to form consonant chords, then
+composites are more consonant than primes and, in some
+circumstances, the metric should handicap high primes accordingly.
+This brings us one step closer to octave invariance.
+
+Paul also wrote:
+
+>The assumption of exact octave equivalence, though it has some
+>psychoacoustic basis, should be taken more as a conveniece than an exact
+>truth.
+
+Hey, he agrees with me!
+
+
+An unrelated (or is it) point.  Recently, Gary Morrison wrote:
+
+>   By fibonacci, what I'm referring to is J. Yasser's fibonacci-like
+>sequence of tunings (5 7 12 19 31 50 81...).  (By fibonacci-like I mean
+>that the next number in the sequence is the sum of the previous two.)  12
+
+Firstly, wasn't it Kornerup who first identified this sequence?
+
+Secondly, there are lots of Fibonacci-like scale sequences.
+Fibonacci+3, for a start.  The special thing about this
+sequence is that the number of steps in a tone and semitone, or
+tone and minor third, or minor third and perfect fourth, are
+neighbouring steps in the Fibonacci series.  Another meantone
+type ET is 43TET.  12+31C.  Hey ...
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 12 Jul 1997 18:47 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05299; Sat, 12 Jul 1997 18:47:34 +0200
+Date: Sat, 12 Jul 1997 18:47:34 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05138
+Received: (qmail 23690 invoked from network); 12 Jul 1997 16:46:57 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Jul 1997 16:46:57 -0000
+Message-Id: <33C7B374.B893DD9F@fast.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

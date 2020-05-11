@@ -1,0 +1,104 @@
+source file: mills2.txt
+Date: Tue, 19 Dec 1995 12:48:35 -0800
+
+Subject: Transcendental numbers
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Brian writes:
+> However, perhaps one could say that a transcendental
+> number is one which arises *only* as the
+> solution of an equation involving logarithms
+> or antilogarithms.  (Manuel and John Fitch may
+> jump on me for this one; it may not be 100%
+> true all the time.  Can you think of a counterexample?)
+
+That's probably very hard to prove.
+It's known that e and pi are transcendental, but not if e + pi is.
+I think it's known neither if for instance sin 1 is.
+
+> the most spectacular of which were 
+> discovered by Srinivasas Ramanujan.  
+
+My favourite equality of Ramanujan is so elegant I'll try to write it here:
+
+
+                                        2
+   a   2     ____                     -a
+  (  -x     V pi `                   e
+  | e   dx = ----  -  --------------------------------------------
+  )           2       2a + 1 / 
+ 0                            a + 2 /
+                                     2a + 3 /
+                                             a + 4 /
+                                                    2a + 5 / .....
+
+
+> Transcendental numbers also tend to arise when
+> the exponents of an algebraic equation are imaginary.
+
+Even if they are irrational as you write:
+
+> Transcendental irrationals arise when the
+> algebraic exponent, for example, is itself
+> an algebraic irrational--as in Hilbert's number,
+> 2^[sqrt(2)]. )
+
+This is Hilbert's Seventh problem which was proven to be true 
+partly in 1929 and 1930 and completely by Gelfond and Schneider 
+in 1934 independently.
+ b
+a  is transcendental if a and b are algebraic, a /= 0,1 and
+b is irrational.
+
+Transcendental numbers are always irrational as shown by
+Franz Kriftner.
+
+> Claude Shannon proved elegantly that the amount
+> of information required to generate (or parse) a
+> message is proportional to the log to the base 2
+> of the number of bits in the message.  
+
+That's not exactly true. But this is more the domain of
+computational complexity.
+
+> To my knowledge, there is as yet no known algorithm
+> by which the entire field of reals may be sieved 
+> and by which all transcendental numbers will
+> always be found.  
+
+There is, but you need an infinite amount of time.
+The set of all algebraic numbers is namely enumerable.
+All rational numbers are enumerable, so you can enumerate
+the coefficients of the algebraic equations whose solutions
+are the algebraic numbers, and therefore enumerate the algebraic 
+equations themselves if you do it cleverly.
+
+> Mathematicians widely believe the digits
+> in pi to be completely random.  
+
+I believe the first million digits of pi pass the chi-square
+test for randomness. I'm not sure what this means for the 
+colour of the spectrum of the digit values; it may be white or not.
+
+> Since information is logarithmically
+> proportional to energy (another of Shannon's theorems).
+
+I'm not sure exactly which theorem Brian means. But entropy in 
+information theory and entropy in physics are different concepts which
+-regrettably perhaps- share the same name. I remember my information
+theory professor saying he regretted it in any case since it's often
+a cause of confusion.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Dec 1995 23:32 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA04133; Tue, 19 Dec 1995 14:32:36 -0800
+Date: Tue, 19 Dec 1995 14:32:36 -0800
+Message-Id:  <9512191432.aa18813@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,70 @@
+source file: mills2.txt
+Date: Tue, 17 Jun 1997 12:20:25 +0200
+
+Subject: Thai scales
+
+From: John Chalmers <non12@deltanet.com>
+
+Re Thai Scales: Graham Breed raised a question about Thai scales and
+7-tone ET in TD 1104. I looked up the scale he posted in Helmholtz (p.518
+of the Dover edition) and noticed that Ellis himself was somewhat dubious 
+about it.
+
+Ellis (on p. 556 ) says that the King of Siam (sic) sent over his Court 
+Band with their instruments to the London Inventions Exhibition of 1885 
+and the he and Hipkins were allowed to "determine the musical scale." A 
+Prince Prisdang said "the intention was to divide the octave into 7 equal
+intervals." However, Ellis said he  found considerable deviation from the
+ideal. 
+
+Ellis went on to say that the Ranat_s were tuned with lumps of wax 
+containing a heavy material and that all of them had been removed from 
+#85 (p. 518) in his tables and "hence it was entirely out of tune." 
+
+Furthermore he stated that only 21 of 52 measured intervals were between 
+160 and 179 cents (nominally 171).
+
+Some "octaves" measured by Ellis:
+
+Ranat Ek, wooden "harmonicon", 3 octaves, last incomplete
+0 208 326 537 698 883 1048 1208
+0 200 359 537 711 883 1057 1222
+0 193 347 549 698 --  -- (two notes too high to measure)
+
+Ranat t'hong (brass harmonicon)
+0 200 340 537 699 881 1043 1207
+
+Ranat lek (steel harmonicon) 3 octaves
+0 --  327 519 679 856 1075 1202 (2nd bar missing)
+0 150 299 447 614 743 960 1179
+0 90 222 430 609 (incomplete octave)
+
+Tak'hay (crocodile, 3 string instrument with high frets)
+0 198 362 528 720 890 1080 1250
+
+Theoretical 7-tet
+0 171 343 514 686 857 1029 1200
+
+0 129 277 508 726 771 1029 1254 (#85, p. 518)
+
+As I recall, Thai music selects out 5 tone subscales from the
+7-tone gamut so the actual scales may be something quite far 
+from 7-tet. There seems to a tendency to stretch the octave,
+sharpen the fifth and possibly the first interval as well.
+
+
+--John 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Jun 1997 13:28 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04264; Tue, 17 Jun 1997 13:28:32 +0200
+Date: Tue, 17 Jun 1997 13:28:32 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04267
+Received: (qmail 4359 invoked from network); 17 Jun 1997 11:27:59 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Jun 1997 11:27:59 -0000
+Message-Id: <v01541106afcb3a3e133a@[207.207.2.58]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

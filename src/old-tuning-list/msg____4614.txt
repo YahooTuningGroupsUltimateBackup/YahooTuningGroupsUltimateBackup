@@ -1,0 +1,80 @@
+source file: mills2.txt
+Date: Wed, 15 Jan 1997 13:18:42 -0800
+
+Subject: More on the comma experiment
+
+From: Steven Rezsutek <steve@synapse.gsfc.nasa.gov>
+
+Gary M asked off-list if I had used V or V7 in my experiment,
+and what I actually did to deal with the comma problem in 22.
+
+I'm not sure if not using the V7 would alter things so far as the
+comma goes, but I left things as unadorned triads, and used only 3
+voices, mostly to keep things as simple as I could, seeing as how I'm
+still learning much of this. (So please excuse the less than artful
+voice leading :)
+
+I've appended some notation below which illustrates how I made the
+progressions in 22.  The source scale is 0-2-4-7-9-11-13-16-18-20,
+and the borrowed tone (deg 15) comes from the same scale on the
+dominant (13-15-17...)
+
+
+The "bad" version [ii "regular" minor triad]:
+
+				20
+			17
+	13				13
+	7	9			7
+	0	0	4	4	0
+8va ----------------------------------------------------
+		16	
+			10	13
+			 ^
+			 |
+		    comma shifts
+
+
+	I	IV	ii	V	I
+
+
+The "good" version [ii "diminished" triad with a subminor third]:
+
+				20
+			15
+	13				13
+	7	9			7
+	0	0	4	4	0
+8va ----------------------------------------------------
+		16	
+			9	13
+			^
+			| deg. 15 is borrowed tone
+
+
+Of course since then I think I've grokked a little more, so I'll 
+probably go back and try this or similar exercises using 4 voices
+(as long as the stretch on the keyboard doesn't get out of hand,
+that is :)
+
+Gary, I hope this answers your questions well enough.  I'm looking
+forward to your comments.
+
+
+Steve
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 15 Jan 1997 22:45 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04882; Wed, 15 Jan 1997 22:48:50 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04989
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA12193; Wed, 15 Jan 1997 13:48:48 -0800
+Date: Wed, 15 Jan 1997 13:48:48 -0800
+Message-Id: <199701152143.VAA01865@chiswick.globalnet.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

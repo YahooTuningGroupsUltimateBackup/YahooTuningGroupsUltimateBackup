@@ -1,0 +1,59 @@
+source file: mills3.txt
+Date: Thu, 29 Jan 1998 18:21:03 +0100
+
+Subject: 60 vs 45
+
+From: Carl Lumma <clumma@nni.com>
+
+Paul & All,
+
+While I agree that equilateral triangles work better than squares for
+modeling triads, I still feel much better with right angles in 3D
+(7-Limit).  For one thing, while both triangles and squares tile a plane,
+tetrahedrons aren't space-filling like cubes.  For another, one of my
+favorite 12-tone piano-mappable tunings doesn't work with 60 degree angles...
+
+1/1  21/20  35/32  6/5  5/4  21/16  7/5  3/2  8/5  105/64  7/4  15/8
+
+With squares, this looks like two rectangular prisms, one on top of the
+other.  With tetrahedrons, you wind up with a problem...
+
+     5/4-------15/8
+    /   \   .  /
+   /  .  \    /
+  /       \  /
+1/1-------3/2
+
+..The dots (7/4 and 21/16) are a 3/2 apart, but are not represented by the
+same length or direction as the other 3/2's in the diagram.  What to do?
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Paul Hahn <Paul-Hahn@library.wustl.edu>
+Subject:  Re: 60 vs 45
+PostedDate:  29-01-98 18:30:34
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  29-01-98 18:29:47-29-01-98 18:29:48,29-01-98 18:28:32-29-01-98 18:28:33
+DeliveredDate:  29-01-98 18:28:33
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125659B.006017B3; Thu, 29 Jan 1998 18:29:35 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01763; Thu, 29 Jan 1998 18:30:34 +0100
+Date: Thu, 29 Jan 1998 18:30:34 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01761
+Received: (qmail 21541 invoked from network); 29 Jan 1998 09:29:47 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 29 Jan 1998 09:29:47 -0800
+Message-Id: <Pine.SOL.3.95q.980129111557.6124A-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

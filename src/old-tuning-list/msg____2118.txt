@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Wed, 11 Oct 1995 04:01:14 -0700
+
+Subject: Re: temperament
+
+From: linusliu@hk.super.net (Linus Liu)
+
+>>Harpsichords and Related Topics <HPSCHD-L@CNSIBM.ALBANY.EDU>
+>>Tom Parsons <twp@PANIX.COM>
+>>Subject:  Re: temperaments
+>>
+>> I read somewhere once (in Barbour?) that e.t.
+>> was first worked out by a Chinese mathematician incredibly far back in
+>> the past.  And the author pointed out that in the Chinese musical
+>> system there was no need for it.
+>> (If someone knows more recent scholarship on this, I'd be interested
+>>   to hear of it.)
+> 
+In 5th century AD, a Chinese scholar found a string 9 feet long will not
+arrive at an octave of it multiple, but instead 8.88 feet. So he divide
+the error equally among the twelve fifths.
+
+In 1584, another Chinese scholar calculated the division of the octave
+with the RMS values and got the exact et scale to 25 decimal places.
+
+My reference is in Chinese, therefore no English translations here.
+
+Regards,
+Linus Liu.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 11 Oct 1995 15:37 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id GAA15932; Wed, 11 Oct 1995 06:36:58 -0700
+Date: Wed, 11 Oct 1995 06:36:58 -0700
+Message-Id: <951011133057_71670.2576_HHB72-4@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

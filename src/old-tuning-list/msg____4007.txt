@@ -1,0 +1,69 @@
+source file: mills2.txt
+Date: Thu, 14 Nov 1996 06:44:11 -0800
+
+Subject: Microtonal Web Searching
+
+From: "Jeude, James" <JeudeJ@mail.dnb.com>
+
+A piece of 'web searching' advice and a list to jumpstart your own
+searches ...
+
+My day job in advanced development with the world's largest
+business-to-business information database provider, Dun & Bradstreet,
+keeps me in close touch with the major players in the Internet
+infrastructure, including developers of  search engines and electronic
+directories.
+
+My personal impression is that yes, indeed, many web designers --
+particularly students or amateurs -- do not organize their information
+to make it searchable and add really awful background shades and colors.
+ This piece of design advice from Brian Mclaren is good and cannot be
+repeated too often.  Hooked to a high speed network this stuff is awful
+-- at home, it's intolerable.
+
+However, I strongly emphasize that until the Internet becomes searchable
+through author-provided keyword indices that are systematically defined
+and gathered, which is many years away, most searches to be meaningful
+must be combinations of important keywords and require some creative
+searching.
+
+I would suggest Digital's AltaVista.  You can get there either through
+	http://www.altavista.digital.com
+or get the "text only, advanced query" (my favorite -- death to
+unnecessary graphics!) at
+	http://www.altavista.digital.com/cgi-bin/query?pg=aq&text=yes
+
+Choose your keywords carefully.  For example, the word "microtonality"
+rarely shows up in that exact form in the TUNING list and cannot be a
+good predictor of web page content left on its own.  When I select the
+phrase
+	microtonal near music and tuning
+I receive 95 hits with a reasonable "goodness" density.  Yes, many of
+the hits are themselves pointers to other sites (Mills college and the
+South East Just Intonation center get frequent mention) and yes, the
+search engines should do a better job on the final bit of formatting,
+cleansing, and de-duplicating.  The phrase
+	"Just Intonation" and music
+gets 198 hits, a bit of a struggle but still manageable.
+
+Finally, without filling up too much space, I'd recommend the
+	http://www.justonic.com
+site for a good summary of just intonation and microtonal music, and
+their list of "other Just Intonation" sites.  The JI Network is linked
+from here.  My biggest complaint about the Justonic site is lack of
+prices and ordering information -- whatever it is they're selling sure
+sounds good.  But that is another post for another time.  Anybody used
+their products yet?
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 14 Nov 1996 16:12 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08815; Thu, 14 Nov 1996 16:13:38 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA08825
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA04144; Thu, 14 Nov 1996 07:13:35 -0800
+Date: Thu, 14 Nov 1996 07:13:35 -0800
+Message-Id: <961114150108_71670.2576_HHB71-15@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

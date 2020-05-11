@@ -1,0 +1,50 @@
+source file: m1546.txt
+Date: Tue, 6 Oct 1998 03:35:28 -0700 (PDT)
+
+Subject: Re: Just Intonation on the Trombone (digest 1529 topic 3)
+
+From: Mark Nowitzky <nowitzky@alum.mit.edu>
+
+Hey Joao (and rest of the TUNING gang),
+
+I've been thinking on and off about the idea of just intonation on a
+trombone, ever since your post a few weeks ago.
+
+At 03:54 PM 9/14/98 -0400, you wrote (TUNING Digest 1529, Topic 3):
+>From: Joao Leao <leao@gog.harvard.edu>
+>Subject: Just Intonation on the Trombone
+>...
+>I am searching for ANY information concerning techniques for playing in just 
+>intonation on a trombone. I am mostly interested in finding out whether 
+>so-called adaptive tuning techniques may be implemented on the trombone and
+>if so, whether anyone has worked them through and there is anything published
+>on the subject.
+>...
+
+To get a step closer to your goal, I worked out some of the math, and "Ta
+Da" - I just created a web page that calculates the frequency of the note a
+trombone will sound, based on the slide position and the harmonic:
+
+        http://www.pacificnet.net/~nowitzky/justint/bonefreq.htm
+
+The page uses "JavaScript", so hopefully it'll work with most web browsers.
+I welcome any and all comments on the page from the group, such as "It
+doesn't work", or "It gives the wrong answer".
+
+Maybe the next step would be to have a web page that provides the slide
+position and harmonic, based on the frequency?  (That's a little more
+tricky, due to the possibility of alternate positions for the same note.)
+
+Trombones rule, ...,
+
+--Mark
+
+P.S.:  Feel free to forward this along to "TROMBONE-L", or whatever other
+groups you posed your question to.
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu    AIM:  Nowitzky      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

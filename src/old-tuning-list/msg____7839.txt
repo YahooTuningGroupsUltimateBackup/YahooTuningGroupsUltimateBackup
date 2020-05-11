@@ -1,0 +1,129 @@
+source file: m1420.txt
+Date: Mon, 18 May 1998 18:59:39 -0400
+
+Subject: Reply to Graham Breed's Miscellany
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>LATTICES
+>--------
+
+>It would be more correct to say "Paul Erlich's Triangular
+>Lattice Diagram, which is of the type used by Breed".  Paul
+>was using them before me, definitely extended them to the
+>7-limit first, and drew them in ASCII first.  He also named
+>them "triangular".  As I say on my website (and have said
+>before on this list) _I_ would have called them hexagonal,
+>like I was taught in Condensed Matter Physics.
+
+>I don't know how much, if anything, is original to Paul.
+>He can speak for himself on that.
+
+My 7-limit lattice is of course a face-centered cubic lattice, distinct
+from the hexagonal lattice which packs space just as efficiently but is
+less symmetrical. I came up with the idea on my own, and while at first
+it perplexed John Chalmers, he later found it to be quite similar to
+what Erv Wilson had done (exactly the same, in fact, except that Wilson
+may (or may not) have simply seen the lattice as existing in two
+dimensions, while I definitely see the two-dimensional representation as
+being a projection of the three-dimensional one). In fact, my triangular
+lattices show Wilson's CPS scales as the most symmetrical arrangements
+of tones, while cubic lattices show Euler genera as more symmetrical.
+
+>PRIME VS ODD LIMIT
+>------------------
+
+>The most paradoxical chord from an odd limit perspective I
+>find is 4:6:9.  I think of it as extended 3-limit, because
+>it's the fifths that give it it's character.  It is also
+>highly octave specific.  It sounds more consonant
+>(concordant) than a major triad in root position, but
+>transpose it to 8:9:12 and it's clearly more dissonant.
+
+Well, I don't know if it really beats a major triad, but otherwise, I
+quite agree. Here's the interesting thing. When I worked out a model for
+harmonic entropy, which should also describe critical band roughness if
+the partials decrease in amplitude in some specific fashion, I derived
+that to a good approximation, the complexity of a just ratio is directly
+related to its DENOMINATOR. Later, imposing octave equivalence made me
+change this to ODD LIMIT, but I admit that it's possible that octave
+equivalence does not really come in to the "objective" dissonance of an
+interval.
+
+Now the chord 4:6:9 has three intervals: 3:2, 3:2, and 9:4. The highest
+denominator is 4. The chord 4:5:6 has a 3:2, a 5:4, and a 6:5. The
+highest denominator is 5. So judging from the intervals alone, you
+appear to be right that the 4:6:9 is more consonant. However, I think
+the chord as a whole has something that the intervals alone don't
+explain, as evidenced by the differing levels of consonance in otonal
+and utonal chords. On the whole-chord basis, which has proved
+impenetrable to the type of analysis that led me to the denominator rule
+for intervals, I think the major triad would win.
+
+The chord 8:9:12 has the intervals 3:2, 4:3, and 9:8. The highest
+denominator is 8 -- pretty dissonant!
+
+>There may be ways the ear relates to prime factors.  Different
+>overtones will be reinforced, and the difference tone pattern
+>may change.
+
+Can you give a concrete example?
+
+>The good intervals in equal temperaments don't usually
+>constitute anything like an odd limit.  It's generally more
+>efficient to say how well different primes are approximated.
+
+This may not work if consistency doesn't hold.
+
+>For exactness, state the signed errors, and you can work
+>other intervals out from that.
+
+Isn't that what Carl Lumma said? But no, you guys are wrong, and that's
+the whole reason for the consistency concept. Wendy Carlos, Yunik and
+Swift, and others also seem to have missed out on the importance of
+consistency.
+
+>Incidentally, it seems to me that the concept of level-n
+>consistency is closely related to the recently defined
+>radius of the scale.  If you want to use all the notes in
+>a radius 2 scale, it helps if it's level-2 consistent as well.
+
+I don't think it helps all that much. I think Paul Hahn would agree with
+you, though.
+
+>LUCYTUNING
+>----------
+
+>Gary Morrison wrote:
+
+>> The semitruth:  LucyTuning definitely can stack up more fifths above a
+tonic
+>>    before approximately closing the circle than either quarter-comma or
+third-
+>>    comma meantone.  Third-comma meantone comes "close enough" at 19 fifths,
+>>    and quarter-comma at 31 fifths.  LucyTuning doesn't get there until
+about
+>>    88 fifths.  But this is only a semitruth, because taken in absolutes,
+the
+>>    circle of fifths never closes in ANY typical meantone tuning.
+
+>The most irrational meantone in this respect is Kornerup's
+>phi based tuning.  Is that right?
+
+I think so. There are more "irrational" tunings with one generator, but
+they cannot be considered meantones.
+
+>I think of it as the
+>standard melodic meantone.
+
+I've thought about that too, but I don't know. It is awfully close to
+the harmonically optimal meantones in my paper.
+
+>GUITAR TUNING
+>-------------
+
+>Incidentally, having different notes on different strings is
+>a _good_ thing.  It means you get more chords than you would
+>otherwise.
+
+Huh? It definitely means fewer positions in which to play a given chord.

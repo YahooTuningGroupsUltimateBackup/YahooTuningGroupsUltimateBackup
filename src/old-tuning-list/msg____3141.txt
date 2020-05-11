@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Mon, 1 Jul 1996 16:11:38 -0700
+
+Subject: Tuning List Stats
+
+From: madole@ella.mills.edu (David Madole)
+
+Hey Tune-Towners,
+
+Every now and then (as long term members know) when I am doing list
+processor maintenance I like to procrastinate by taking stock of the
+Tuning List and reporting to its' members some of the vital statistics
+of the list.  There are currently about 350 subscribers, which is about
+average for the last year or so, "representing" the following
+nations/institutions/providers.  It is difficult to tell any more what
+the national affiliations of many subscribers are because of the large
+".com" contingent (suggesting... good things, I hope), but at least 24
+countries are represented.  One thing that has become evident as time
+has passed (29 months tomorrow) is the steadily decreasing predominance
+of US .edu subscribers (in fact, of US subscribers in general).
+
+Anyway, for what it is worth, here are current "institutional affiliations"
+of the list's members, based on the domain names in their email addresses:
+
+100 EDU US(?) Educational Institutions, 96 COM Commercial Providers
+(not necessarily US), 20 UK  United Kingdom, 19 NET "Network", 13 ORG
+"Non Profit Organization", 13 CA Canada, 12 AU Australia, 9 NL
+Netherlands, 7 DE Germany, 6 AT Austria, 5 FR France, 3 SG Singapore, 3
+SE Sweden, 3 NO Norway, 3 JP Japan, 2 MIL US Military, 2 HK Hong Kong,
+2 FI Finland, 2 DK Denmark, 2 CH Switzerland, 1 ZA South Africa, 1 MX
+Mexico, 1 IN India, 1 IL Israel, 1 HR Hungary, 1 GR Greece, 2 GOV US
+Government, 1 ES Spain, 1 BE Belgium.
+
+The list reports 3933 messages "on file".  The current archive contains
+about 10.7 megabytes of... in-for-mation.
+
+eartha is an SGI Indigo in a basement a hundred yards or so from the
+Hayward fault at Mills College in Oakland, California, USA.
+
+Some time later this summer the list processor will be moved to another
+workstation.  This should be transparent to users but may involve some
+downtime.  I will post a warning.
+
+Dave Madole
+Technical Director, Center for Contemporary Music
+Listserv Administrator
+
+Mills College
+Oakland, CA 94613
+510-430-2336
+
+madole@mills.edu
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 2 Jul 1996 17:02 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA04200; Tue, 2 Jul 1996 08:01:51 -0700
+Date: Tue, 2 Jul 1996 08:01:51 -0700
+Message-Id: <1.5.4b12.32.19950702145449.00676544@interlinx.qc.ca>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

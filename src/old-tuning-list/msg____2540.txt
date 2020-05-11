@@ -1,0 +1,73 @@
+source file: mills2.txt
+Date: Thu, 8 Feb 1996 13:08:18 -0800
+
+Subject: Mixed Non/Traditional Progression in 88CET
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+I was just doodling around a bit, and came up on an interesting choralish
+88CET chord progression some of you might find fun to doodle around with
+further.  It moves smoothly between traditional harmony, to thorougly
+nontraditional, and ends up nearly traditional.  
+
+   Unless otherwise noted, there are no large gaps between notes.  In other
+words, to reconstruct it, start at the soprano note, and proceed down to the
+next lower note of the letter name in the alto part, and so forth:
+
+----------------------------------------------------------------------
+Meas.  Beat      S   A   T   B     Notes:
+----------------------------------------------------------------------
+PkUp      4      D   D   D   E     Sop. D is second-line treble, 
+                                   Alto & Tenor D is space below staff
+1         1      C#  D   D   F
+          2      "   "   "   "
+          3      D   "   "   "
+          4      C#  "   "   "
+2         1      D   E   E   F
+          2      "   "   "   "
+          3      C#  D   D   F
+          4      "   "   "   "
+3         1      D   E   E   F
+          2      "   "   "   "
+          3      "   F   D   "
+          4      "   E   E   "
+4         1      D   F   D   F
+          2      "   "   "   "
+          3      D   F#  C#  F
+          4      "   "   "   "
+5         1      D   F   D   F
+          2      "   F#  C#  "
+          3      "   "   C   "
+          4      "   "   B   "
+6         1      D#  F#  Bb  C
+          2      "   "   "   "
+          3      "   G   "   "
+          4      "   A   "   "
+7         1      F   Bb  Bb  C#   Alto Bb is 3-line treble,
+                                  Tenor Bb is above the bass staff
+          2      "   "   "   "
+          3      "   "   "   "
+          4      "   "   "   "
+8         1      G   A   B   C
+          2      "   "   "   "
+          3      "   "   "   "
+          4      "   "   "   "
+----------------------------------------------------------------------
+
+    My kingdom (as if I had one) for an ASCII-text-capable notation system!
+(Gag!)  
+
+    If any of you aren't familiar with my 88CET note nomenclature, and are
+interested, lemme know and I'll explain it.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 12 Feb 1996 12:02 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id DAA22293; Mon, 12 Feb 1996 03:01:39 -0800
+Date: Mon, 12 Feb 1996 03:01:39 -0800
+Message-Id: <199602121100.TAA08194@csnt1.cs.ust.hk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,107 @@
+source file: mills2.txt
+Date: Wed, 17 Jul 1996 09:51:55 -0700
+
+Subject: from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Paul Turner's ideas on xenharmonic
+ theory & Geralrd G. Balzano's group theoretic
+ micrtonal ideas
+---
+The talented Australian composer Paul Turner
+recently wrote me a letter in which he described
+some provocative ideas about microtonality.
+Paul's ideas were based on group theory.  Because
+different equal temperaments exhibit different
+cyclic rotational properties, Paul pointed out that
+a number of different tunings which appear outwardly
+dissimilar share underlying structural properties.
+This idea is particularly interesting because Paul
+appears to have arrived at it independently.
+Gerald G. Balzano also came up with similar ideas
+about 15 years ago.  His best-known paper is
+his Computer Music Journal article "The Group
+Theoretic Structure of 12-fold and Microtonal
+Tunings."
+Balzano's CMJ paper is interesting insofar as it
+distills a number of properties which Balzano
+sees as definitive of the major mode in Western
+music.  He then goes on to show that tunings
+of the form (N)*(N+1) satisfy this criterion.
+Thus for  N = 3 Balzano's theory gives a
+12-TET scale; for N = 4 Balzano's theory gives
+a 20-TET scale; and for N = 5 Balzano derives
+a 30-TET scale. 
+He was able to show that all three scales 
+exhibit similar melodic properties.
+This is an interesting idea because it 
+proceeds solely from a consideration of
+the melodic properties of the scales in
+question.  To my knowledge, the only only
+microtonal theorists who have put forth
+theories of microtona scales based solely
+on the melodic properties of the tunings
+in question are R. Vermeulen,  Max Meyer
+and Boomsliter & Creel.
+The advantage of such a theory is that it
+reveals similarities between tunings which
+would otherwise appear to have nothing in
+common.  The disadvantage of such a theory
+is that--because it's solely concerned with
+the melodic properties of scales--the harmonic
+properties of the scales thus generated tend
+to be unpredictable.
+In the case of the 20-TET and 30-TET scales,
+neither one has fifths particularly close to
+the value of the third member of the harmonic
+series.  This is neither "good" nor "bad," of
+course, but it is certainly *different* from
+12-TET...which has a perfect fifth which
+falls within 1/600 of an octave of the third
+member of the harmonic series.
+Thus, while the 20- and 30-TET systems 
+will likely sound similar melodically to
+12, they will sound harmonically very
+different. 
+Paul Turner also recently sent me a number
+of piano pieces in 5, 7, 8 and 9 tones per
+octave.  
+Why is it that the most interesting music
+being done today always seems to arrive
+in the mail on someone's cassette?
+Maybe someone can explain this to me.  
+Whenever I buy a CD of the "latest" so-called
+"serious" contemporary music done in New
+York or Boston or some other high-powered
+place, the music usually sounds okay--it's
+generally performed with verve and gusto,
+and the acoustics are very nice.
+But the *really* interesting new music seems
+to come out of nowhere, from people I've
+scarcely heard of, on cassettes.
+There must be a good reason for this. Perhaps
+gobs of hard cash can't substitute for musical
+talent...?
+Nahhhhhh!  This America.  Gobs of hard cash
+can substitute for *anything.* 
+As Bill Wesley remarked when I asked why
+the French and Germans and Japanese had
+bullet trains when we in the U.S.A. didn't:
+"This is America.  We've got bullets, we
+don't need trains."
+--mclaren
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 17 Jul 1996 20:42 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA10266; Wed, 17 Jul 1996 11:42:05 -0700
+Date: Wed, 17 Jul 1996 11:42:05 -0700
+Message-Id: <v01510100ae12e0049bc0@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

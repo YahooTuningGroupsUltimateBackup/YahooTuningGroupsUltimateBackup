@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Tue, 25 Jun 1996 20:19:06 -0700
+
+Subject: Markov analysis
+
+From: Lindsay Shaw and Paul Turner <landp@adelaide.dialix.oz.au>
+
+In TUNING Digest 743, Brian McLaren mentions, among other things,
+"Markov-chain analysis": "...produces junk when you use it to analyze a
+piece of music and then compose an algorithmic piece. ... ."
+
+I don't question that there is something in his claim, but I would be
+grateful if someone could explain what Markov-chain analysis is. Are we
+perhaps talking about calculating the probabilities (relative
+frequencies) of the various melodic intervals in a sample piece?
+
+I'm attempting a study of mathematical applications in music, and this is
+one I hadn't heard of (at least by that name). Maybe someone can point me
+to a suitable reference or say who has used this technique.
+
+Paul Turner
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 26 Jun 1996 17:06 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA05491; Wed, 26 Jun 1996 08:06:26 -0700
+Date: Wed, 26 Jun 1996 08:06:26 -0700
+Message-Id: <v02130500adf6fa0e9aaf@[192.168.11.201]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,74 @@
+source file: mills3.txt
+Date: Fri, 9 Jan 1998 01:04:31 +0100
+
+Subject: Re: blues scale
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+I mentioned to Paul Erlich, and he encouraged me to post, this observation
+on his "blues scale" in 22TET:
+>
+>22TET   cents
+>
+>0       0
+>6       327
+>9       491
+>10      545
+>13      709
+>19      1036
+>
+>In just intonation, it would be
+>
+>Ratio   cents
+>
+>1/1     0
+>6/5     316
+>4/3     498
+>27/20   520
+>3/2     702
+>9/5     1018
+>
+Functionally, it may make sense to Paul to interpret the 22TET intervals as
+he has done above. However, I definitely hear the 10 step interval as being
+much more like an 11/8 (551 cents) than a 27/20. The 11/8 can have a
+beautiful blue-note quality, which I myself have exploited on occassion.
+The 19 step interval is almost dead-on a 20/11 (1035 cents), whose
+inversion, by the way, is a 5/4 down from the 11/8.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  A440A <A440A@aol.com>
+Subject:  Instruments
+PostedDate:  09-01-98 11:44:07
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  09-01-98 11:43:35-09-01-98 11:43:36,09-01-98 11:43:28-09-01-98 11:43:29
+DeliveredDate:  09-01-98 11:43:29
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256587.003AEB5D; Fri, 9 Jan 1998 11:44:02 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07543; Fri, 9 Jan 1998 11:44:07 +0100
+Date: Fri, 9 Jan 1998 11:44:07 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07570
+Received: (qmail 17557 invoked from network); 9 Jan 1998 02:44:02 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 9 Jan 1998 02:44:02 -0800
+Message-Id: <71eddefc.34b5feed@aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

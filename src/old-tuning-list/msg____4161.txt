@@ -1,0 +1,67 @@
+source file: mills2.txt
+Date: Tue, 26 Nov 1996 11:48:49 -0800
+
+Subject: RE: Lost Post, Miscellany
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Kraehenbuehl & Schmidt deal strictly with just intonation, but don't look at 
+any chords other than the otonal chord on the first degree of the scale. 
+Their ratios sometimes mysteriously change from one system to the next. 
+Although it is true that 22-equal and 41-equal are good 7-limit and 11-limit 
+tunings, respectively, continuing the K&S construction to the 13-limit gives 
+you 78 tones, and 78-equal is not a good 13-limit tuning. So interpreting 
+their ideas as applying to temperament just doesn't work.
+
+However, without intending to, their work argues for the virtues of 
+22-equal. Their 'simplest hyperchormatic system' is as follows, with all 
+'inflections' shown. When a ratio is more complex than all its inflections, 
+and its octave inversion is not present in K&S's list, the ratio is shown in 
+parentheses and given half weight in the reported mean. When K&S specified 
+an inflection of a ratio but did not include the octave inversion of the 
+inflection in their list, I have added the octave inversion as an inflection 
+of the octave inversion of the original ratio, unless this ratio turns out 
+to be more complex than all its inflections. These are shown in brackets and 
+contribute 1/2 weight to the reported mean:
+
+ratio=cents	   	    	    	    	    mean cents	    22-equal
+1/1=0	    	    	    	    	    	    0	   	    0
+25/24=71 (49/48=36) 36/35=49 [28/27=63]		    56	  	    55
+16/15=112 15/14=119 21/20=84	 	    	    105	 	    109
+35/32=155 [10/9=182]	    	    	    	    164	 	    164
+8/7=231 (9/8=204)	  	    	    	    222	 	    218
+7/6=267 (25/21=302)		    	    	    279	 	    273
+6/5=316 (128/105=343)	   	    	    	    325	 	    327
+5/4=386 (49/40=351)		    	    	    375	 	    382
+9/7=435	  	    	    	    	    	    435	 	    436
+4/3=498 21/16=471 (75/56=506)		    	    489	 	    491
+48/35=547 27/20=520		    	    	    533	 	    545
+10/7=617 7/5=583 (45/32=590)	 	    	    598	 	    600
+35/24=653		    	    	    	    653	 	    655
+3/2=702 32/21=729	  	    	    	    716	 	    709
+25/16=773 49/32=738 (54/35=751)* [14/9=765]	 756	 	    764
+8/5=814 45/28=821 (63/40=786)		    	    811	 	    818
+5/3=884 	 	    	    	    	    884	 	    873
+12/7=933 (27/16=906)	    	    	    	    924	 	    927
+7/4=969 (25/14=1004) [16/9=996]	   	    	    984	 	    982
+64/35=1045 9/5=1018 (175/96=1039)	 	    1033		    1036
+15/8=1088 40/21=1116 28/15=1081	   	    	    1095		    1091
+27/14=1137	    	    	    	    	    1137		    1145
+
+Close, huh?
+
+*originally 56/35 in text -- must have been a typo since 56/35=8/5.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 27 Nov 1996 01:26 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08917; Wed, 27 Nov 1996 01:27:52 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA09010
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA12082; Tue, 26 Nov 1996 16:27:49 -0800
+Date: Tue, 26 Nov 1996 16:27:49 -0800
+Message-Id: <961126191702_1453270569@emout11.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

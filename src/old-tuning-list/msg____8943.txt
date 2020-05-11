@@ -1,0 +1,329 @@
+source file: m1606.txt
+Date: Thu, 10 Dec 1998 15:54:37 -0500 (EST)
+
+Subject: Hypertones, counterset & other weird microanimals
+
+From: Stephen Soderberg <ssod@loc.gov>
+
+Been away for awhile, so I'll first print all of Paul Erlich's post that
+I'm replying to.  This is a long post, folks, but I promise you a very
+strange twist if you stick it out...
+
+[Soderberg:]
+> >So to
+> >malign 12tET (so I assume) is to malign its effects on the ear, not its
+> >12-space compositional-theoretic properties, which are quite potent
+> >regardless of how you tune it.  Likewise, arguments about how the
+> diatonic
+> >scale should *really* be tuned (for psycho-acoustic or historical or
+> any
+> >other reason) are mostly irrelevant to its basic 7-space
+> >(compositional-theoretic) properties which carry over to *any* tuning
+> that
+> >closes (or pretends to close) at the octave.  In the end, things like
+> >n-tone theory or ME theory or hyperdiatonic theory are abstract and
+> have
+> >nothing to do with tuning.
+
+[Erlich:]
+> And almost nothing to do with music. Stephen, I couldn't disagree with
+> this position more, but I have only the highest respect for your
+> intellectual rigor, and I appreciate the respect you've shown to mine.
+> As a starting point for some discussion, perhaps you could tell us how
+> far you'd go in defending the phrase "regardless of how you tune it" in
+> the first sentence above. I infer that some would require a Rothenberg
+> proper 12-tone scale; how about you, Stephen?
+
+	After re-reading my post after Paul's comment, I can answer his
+question "how far you'd go in defending the phrase 'regardless of how you
+tune it'" quite easily: not far at all.  I have to admit that it came off
+sounding like I don't believe that tuning "matters" at all, and this is
+certainly not true.  My position would have been better served if I would
+have approached it from this angle: once you choose a tuning -- ANY tuning
+-- what then?  You're in a new universe -- are the "rules" the same here
+or are they different?  What does "counterpoint" mean here?  How do you
+want to define a "chord" and what does this definition imply about
+voice-leading?  What's "consonant"? "dissonant"? "tonal"? "atonal"?  Does
+this universe offer more "degrees of compositional freedom" or less?  Are
+there formations, structures, transformations here that can't be found
+elsewhere, and, if so, how can you take advantage of them?  Etc. etc.  In
+7-scale diatonic (the language of the "Western canon"), these are all
+non-questions unless you want to sound like Bach or Bacharach, and I sense
+(with the possible exception of those legitimately interested in
+historical tunings) most on the list are headed in clearly different
+directions.  
+
+	What I'm trying to get across (and this is a follow up to my "why
+triads?" question) might best be seen through an example.  So let me use
+Paul's 10-scale (specifically, the non-ME "standard pentachordal major,"
+SPM).  The reason for this choice as an example is that Paul has offered
+one of the best attempts I've seen to confront _publicly_ many of the
+above questions in a decatonic environment.  And as Paul and a few others
+seem to have concluded, triads are not _necessarily_ the best or most
+logical choice for basic sonorities in synthetic mega-scales for a number
+of good reasons.
+
+	While I will be pointing out what might be termed some
+"difficulties" with Paul's SPM, the analysis to follow is NOT meant to
+"dis" this scale which has many interesting properties pointed out in
+Paul's article.  Looking on scale theory as a kind of "abstract geometry"
+compels me to hold that, first, no scale (like no geometry) is "wrong,"
+though it might be (compositionally) misused or misapplied, and second,
+scales (like geometries) can be related to one another via their invariant
+properties. This is not to say that the non-invariants of a given
+scale/tuning are unimportant (which is what my previous post may have
+implied); to the contrary, non-invariants give a specific scale its
+characteristic "flavor."  Thus, among 7-scales, the usual vanilla diatonic
+major and the paprika Hungarian minor share some important invariant
+properties, but no one is likely to confuse their non-invariant
+properties.
+
+	The SPM is based on the interval string <2232223222>.  While it is
+not maximally even, it is nevertheless symmetric, an important defining
+quality in chord formation.  So the SPM is: (0,2,4,7,9,11,13,16,18,20). To
+define/generate tetrachords, Paul uses the string <3322> -- again,
+symmetric but not ME -- which is to say that we are to form a chord by
+taking (generic) notes 1,4,7,9.  The result is the following set of 10
+basic tetrachords (to the left of the vertical line):
+
+	scale
+	step    tetra      string quality       tetra    name
+
+	I     0  7 13 18   <7654> Maj       |  0 3 6 8   0x
+	II    2  9 16 20   <7744> Aug       |  1 4 7 9   1x
+	III   4 11 18  0   <7744> Aug       |  2 5 8 0   2x
+	IV    7 13 20  2   <6745> Min       |  3 6 9 1   3x
+	V     9 16  0  4   <7645> Ma-mi     |  4 7 0 2   4x
+	VI   11 18  2  7   <7654> Maj       |  5 8 1 3   5x
+	VII  13 20  4  9   <7654> Maj       |  6 9 2 4   6x
+	VIII 16  0  7 11   <6745> Min       |  7 0 3 5   7x
+	IX   18  2  9 13   <6745> Min       |  8 1 4 6   8x
+	X    20  4 11 16   <6754> Mi-ma     |  9 2 5 7   9x
+
+	Now let's "reduce" the SPM to a chromatic 10-scale (call it 10X
+for reference) whose string is <1111111111> (this is pretty much the same
+as naming the diatonic scale steps):
+
+	0  2  4  7  9 11 13 16 18 20
+	|  |  |  |  |  |  |  |  |  |
+	V  V  V  V  V  V  V  V  V  V
+	0  1  2  3  4  5  6  7  8  9
+
+	Using the same chord-defining string as before, <3322>, we can
+generate 10 chords in 10X, each of which corresponds 1-to-1 to a chord in
+SPM (see above to the right of the vertical line -- each 10X chord is
+"named" for reference.)  Since each 10X chord is based on the same string,
+<3322>, there is no way (other than relative scale position) to
+distinguish and group them as there is with the chords in SPM.  Thus there
+is no invariance between these two "systems" WITH RESPECT TO chord
+"quality" -- and thus, since SPM and 10X are two ways to partition the
+octave (two distinct tunings), tuning matters for specific chord quality
+(but matters less, as we shall see, for _patterns_ of chord qualities).
+
+	Now, Paul gives some very logical functional names to SPM chords
+based on the identification of Q (3:2) with 13 chromatic steps.  We will
+isolate here what he identifies as the tonic (I), the subdominant (V), and
+the dominant (VII).  It's at this point that we can begin to see some very
+important differences between 10-scales and 7-scales.  First, unlike
+7-scales with <223> chords, 10-scales with <3322> chords only have one
+triple of chords that covers the scale.  In the SPM scale, a triple of
+_consecutive_ tetras will form a cover, but note that, although we might
+expect it of a quasi-diatonic system, the union of the tonic, dominant,
+and subdominant that Paul identifies is _not_ a cover of the scale.  In
+fact, consecutive triples are the only sets which can form a cover for
+SPM, and furthermore, due to "scale covariance" (described in my MTO
+article), this characteristic is shared by _any_ 10-scale system based on
+<3322> chords.  This can be checked with the simple 10X system given
+above, or by listing a random 10-string such as <1714539926> and listing
+its <3322> chords.  So the T-D-SD relationship doesn't provide "key
+coherence" as we might expect.
+
+	A second characteristic of all 10-scale/<3322> systems is that,
+unlike 7-scale/<223>&<2221> systems and others, they aren't saturated with
+what Eytan Agmon calls "efficient linear transformations."  In the usual
+diatonic, for example, any triad can be linked to any other triad by
+either a unison or a scale-step move.  In SPM/<3322> there are two
+fundamental progressions that don't connect smoothly: those whose roots
+are 4 and 6 scale steps apart, respectively, e.g.:
+
+	 I           V     I         VII
+
+	18--------->16    18-------->20
+	13-->(11)--> 9    13-------->13
+	 7---------> 4     7--------> 9
+	 0---------> 0     0-->(2)--> 4
+
+whereas, for example, I-VI describes a typical ELT (smooth voice-leading):
+
+	 I     VI
+
+	18---->18
+	13---->11
+	 7----> 7
+	 0----> 2
+
+Once again, this is true of all 10-scale/<3322> systems due to scale
+covariance.
+
+	Another interesting property that scale covariance carries through
+all 10-scale/<3322> systems is the common-tone pattern.  Starting with any
+chord in the list above, chord pairs n scale steps apart will have x tones
+in common:
+
+	n:   0 1 2 3 4 5 6 7 8 9
+	x:   4 0 2 2 1 2 1 2 2 0
+
+	Finally, the pattern of chord qualities is invariant for 10-scale
+systems based on a scale string <xxyxxxyxxx> (where x ne y are any
+integers) and generic string <3322> as above.  To illustrate, let Maj = a,
+Min= a', Ma-mi = b, Mi-ma = b', and Aug = c; then the quality pattern will
+always be some rotation of: a c c a' b a a a' a' b' (a skew-symmetric
+pattern generated by the interaction of the scale and generic strings).
+
+	The bottom line is, while scale tuning "matters" in many ways (not
+the least of which is vertical & horizontal quality/modality, imparting a
+defining "flavor" to a system), once you have chosen a scale, the real
+work is just beginning since most scales offer multiple "geometric"
+possibilities.  Let's now see what happens if we use a triad as a basic
+chord in SPM.
+
+	If we keep the demand for a 3:2 basis for a majority of chords (a
+possibly psychologically reasonable but not logically necessary
+condition), one plausible triad list uses the ME generic string <334>
+which in effect simply deletes the top note of Paul's tetras yielding
+triads:
+
+	I     0  7 13   Maj
+	II    2  9 16   Aug
+	III   4 11 18   Aug
+	IV    7 13 20   Min
+	V     9 16  0   Maj
+	VI   11 18  2   Maj
+	VII  13 20  4   Maj
+	VIII 16  0  7   Min
+	IX   18  2  9   Min
+	X    20  4 11   Min
+
+This reduces the 5 tetrachord qualities to 3 trichord qualities: <769>
+(Maj), <679> (Min), and <778> (Aug).
+
+	First, this tells us something interesting about minimal covers
+because it focuses attention on triads of identical quality.  We noted
+above that the only cover (with the usual criterion for a triple of
+chords) for tetras here was three consecutive tetras and therefore the
+"tonic" could not participate with the "dominant" and "subdominant" to
+form a cover. But the above list suggests that the cover principle works
+differently in this scale's universe.  Three consecutive triads won't
+cover the scale, but four consecutive triads will.  AND, by altering the
+cover principle in this way, we find other, more interesting covers which
+tend to alter the way we might envision the T-D relationship.  If we
+collect all the Maj chords (I,V,VI,VII), say, we disclose a second minimal
+cover which can be expanded to any four chords in that (root)
+relationship.  Furthermore, while ELT (smooth voice leading) is fairly
+depleted in this (triadic) interpretation, it is in full force for
+quadruples of chords in a cover: the progression I-V-VI-VII-I is
+ELT-saturated.  All of this suggests the interesting possibility that, in
+this universe, there are _three_ "dominant" functions -- "dominant" (VII),
+"subdominant" (V), and an auxiliary(?) "spanning dominant" (VI) since
+I-VII and I-V are naturals for voice-leading, but you can't easily lead V
+to VII without VI.
+
+	This then brings us back to the status of Paul's original tetra
+selection.  There are several ways to include triads here.  The obvious
+way is to declare the triad to be the scale's basic sonority.  This would
+then turn Paul's tetra into a "seventh" chord, and, while things would
+look somewhat strange, the building blocks would pretty much resemble our
+inhereted notions of chords.
+
+	A second interpretation holds, I think, much more promise -- and
+beside, it's more radical.  Here's where I jump off the high-dive and hope
+there's water in the pool when I reach bottom.  First, a preliminary
+exercise.  Take any typical 4-part harmonization of a hymn.  Play the
+soprano & alto lines up an octave and the tenor & bass parts down an
+octave.  Concentrate on hearing it, not as 4 lines and not as a succession
+of chords, but as 2 lines, each of which consists of 2 lines.
+
+	One of the questions I asked near the beginning concerned
+"counterpoint" in megascale systems.  Let's assume that the tetra
+described above is the basic harmonic sonority in our system analogous to
+the triad in common practice theory (CPT).  In CPT there's a hierarchy,
+
+	pitch (unad)
+	interval (doad)
+	triad
+	(7th chord)
+
+along with well-defined notions of consonance and dissonance, which taken
+together help shape the "rules" of CPT counterpoint.  Replacing the CPT
+triad with the SPM tetrachord, we now posit the following hierarchy:
+
+	pitch (unad)
+	interval (doad)
+	hyperinterval (triad)
+	tetrachord
+	("7th chord")
+
+	Ignoring the 7-th chord to keep the illustration simple, focus on
+the new structure, the triadic "hyperinterval" (HI).  Define a consonant
+HI as the intervallic complex formed by any three pitches in a (consonant)
+tetrachord (just as, ahistorically, we can define a consonant interval
+backward as formed by any two pitches in a consonant triad).  Call this
+set of 3 pitches a "hypertone" (HT).  We now have the basis for a
+generalization of traditional counterpoint which might be called
+"counterset."  Hypothetically, traditional counterpoint (in any historical
+version) should turn out to be a category of counterset.
+
+	What are the "rules" of counterset?  I haven't the foggiest idea.
+The reason is that their definition, in my opinion, must hinge on
+compositional praxis (if anyone decides to play with this idea -- and I
+won't hold my breath). But a random "2-part" exercise (with no
+"dissonance" allowed) might look like:
+
+Counterset:   { 7 13 18}  { 9 16  4}  {11  2  7}  {13 20  4}  { 0  7 13}
+
+CF:-)         { 0  7 18}  { 9 16  0}  {11 18  2}  {20  4  9}  { 0  7 18}
+
+                  (I)         (V)        (VI)        (VII)        (I)
+
+Set notation for HTs is retained to emphasize that the elements of any HT
+can appear compositionally in any order.  Cantus firmus and Counterset
+lines can be distinguished by tessitura, instrumentation, rhythm,
+repetition, leaps, etc.  Any HT can appear as a simultaneity or an
+arpeggiation.  At times the "lines" may not be aurally distinguishable at
+all.  Dissonance at the HI level can be introduced by passing or other
+non-chord HTs -- e.g., in VI above replace {11 2 7} with a HT belonging to
+another chord, such as {20 4 11} from chord X (the totality, {2 4 11 18
+20}, is not a consonant "chord" since it contains a foreign HT).
+
+	In the preparatory exercise above, the 4-part chorale setting was
+re-interpreted (in our new language) as a 2-part hypertonal setting.  If
+the original tessitura is now reinstated, the hypertonal interpretation of
+the setting, while not "incorrect," appears absurd -- it collapses into a
+mere paper theory. In other words, there is generally not much use for
+hypertonal theory in traditional musics, EVEN THOUGH they may be
+considered as "first-order" hypertonal... you just can't hear it, nor
+should you be able to, nor should you want to (IMHO). But when we get into
+megascales, CPT can't handle the increase in volume -- of the individual
+notes and of the new relationships that begin to appear (I know I'm into
+opinion-mongering here).  So the next thing to appear is (as above) a
+second-order hypertonal set of structures.  I've seen it occur time and
+again, not just with Paul's scales.  And each time, these second-order
+(and higher) structures bring with them a semblance of a very new (and
+strange) type of order.
+
+	(Two other lower-order hypertonal systems can also be posited --
+chord clusters and tone rows, but I won't muddy the waters with those
+right now (especially the latter which would lead to a deconstruction
+that denies the existence of "atonality"))
+
+	Returning to the original point, then, does tuning matter?  Yes,
+but as I've been trying to demonstrate, megascales tend to gravitate into
+"bundles" of megascales which are defined by the invariants shared by the
+bundle.  And one of the most universal invariants appears to me to be
+hypertonal ordering... the "laws" of counterpoint don't really change in
+other universes, they just get really weird.  And this leads to the final
+question which, for now, has to remain open: Can we hear it?  (Any
+composers out there like to take on the challenge?)
+
+
+Steve Soderberg

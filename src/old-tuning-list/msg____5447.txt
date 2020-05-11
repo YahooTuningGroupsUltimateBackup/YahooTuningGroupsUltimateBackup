@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Mon, 12 May 1997 18:04:19 +0200
+
+Subject: Re:  SCALA applications on channels
+
+From: <JLoffink@bangate.compaq.com>
+
+> Since GM instruments/cards accept tuning on different channels...
+> Is there a possibility to have different tunings on different MIDI
+> channels? i.e. a Turkish tuning on the first and Thai in the second?
+ 
+Only if you use each channel monophonically.  The tuning or pitch bend 
+effects each note on the MIDI channel equally.  
+
+The Roland Sound Canvas cards have 32 user programmable octave based scales,
+ but I don't know if these can be assigned individually to each MIDI 
+channel.
+
+John L.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 12 May 1997 18:55 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10054; Mon, 12 May 1997 18:55:37 +0200
+Date: Mon, 12 May 1997 18:55:37 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA07206
+Received: (qmail 19390 invoked from network); 12 May 1997 16:55:32 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 May 1997 16:55:32 -0000
+Message-Id: <970512125110_1954387127@emout03.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

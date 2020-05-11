@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Fri, 14 Mar 1997 02:30:17 -0800
+
+Subject: RE: Positive Linear Temperaments (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Finally, optimizing the dominant ninth chord (10 intervals) of the diatonic 
+scale with respect to a 4:5:6:7:9 tuning yields the fifth sizes
+
+(10+(2*log(3)+3*log(5)-3*log(7))/log(2))/20 octaves or
+702.8187 cents (equal-weighted)
+
+(2642+(810*log(3)+631*log(5)-863*log(7))/log(2))/5060 octaves or
+703.9231 cents (limit-weighted, 9:3 treated as 9-limit)
+
+(2714+(369*log(3)+631*log(5)-863*log(7))/log(2))/4988 octaves or
+703.9515 cents (limit-weighted, 9:3 treated as 3-limit)
+
+So these are good tunings for diatonic music that uses the dominant ninth 
+chord as a tonic. The subharmonic version of the diatonic dominant ninth 
+chord is a diatonic dominant ninth chord, so making it approximate 4:5:6:7:9 
+automatically makes it approximate 1/9:1/7:1/6:1/5:1/4 just as well. I think 
+it will tend to be heard as 4:5:6:7:9, though.
+
+Note that our optimized tunings have fifths spanning the range from just 
+over 696 cents to just under 704 cents. It appears that for the diatonic 
+scale, 12-equal is a nice central point from which other tunings can be 
+regarded as small deviations.
+
+ -Paul Erlich
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 14 Mar 1997 17:34 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17121; Fri, 14 Mar 1997 17:34:46 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA17115
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id IAA11347; Fri, 14 Mar 1997 08:24:21 -0800
+Date: Fri, 14 Mar 1997 08:24:21 -0800
+Message-Id: <33298E56.46DE@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

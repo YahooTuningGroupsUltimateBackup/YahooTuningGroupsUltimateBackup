@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Thu, 18 Jul 1996 17:09:41 -0700
+
+Subject: Non-octave scales; monkeys banging on ke
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Although I believe octave equivalence is universally perceived, I think a 
+lot of interesting music can be made without octaves. The Bohlen-Pierce 
+scale (13 notes per 3:1 ("tritave") or 8.2 notes/octave), whether or not 
+"tritave" intervals acquire an "equivalence" quality, is a fine tuning to 
+explore such music, as Randy Winchester's music proves. The consonant 
+intervals within one tritave here are 3:5 (6 steps), 3:7 (10 steps), and 5:7 
+(4 steps), and supposedly their "inversions", 9:5 (7 steps), 9:7 (3 steps), 
+and 15:7 (9 steps), plus the 3:1 itself (13 steps). The maximum error here 
+is 6.5 cents, for the 5:3 and 9:5 approximations.
+
+What if we wanted to extend this idea to 11-limit intervals? The first 
+really good solution is 39 notes per tritave, or 24.6 notes per octave: a 
+triplication of the Bohlen-Pierce scale. The largest error remains 6.5 
+cents, but we gain the 11:9 (7 steps), 11:7 (16 steps), and 11:5 (28 steps) 
+and their tritave inversions and extensions.
+
+How about 13-limit intervals? The Triple-Bohlen-Pierce scale still works, 
+without increasing the maximum error! 13:11 (6 steps), 13:9 (13 steps), 13:7 
+(22 steps), and 13:5 (34 steps) are the new intervals here. That gives us 1 
+5-limit, 2 7-limit, 3 11-limit, and 4 13-limit intervals, plus their 
+inversions, plus the tritave iteslf, for 21 consonant intervals out of 39. 
+These are 54% odds that two notes selected randomly by a monkey will be 
+consonant. The odds for the Pierce scale itself are the same, 
+7/13=21/39=54%.
+
+In the world of octave scales, the odds of finding a consonance in 12-note 
+tuning are slightly better, 7/12=58%, but out-of-tuneness should weigh 
+against it. Otherwise, we could even allow a 9-note tuning and get 78% odds! 
+Maybe that's why a lot of composers have been successful with 9tet (not to 
+suggest that they're monkeys, of course). Other octave scales have worse 
+odds: if all 7-limit intervals and their octave inversions are allowed, the 
+odds are 48% in 27 and 42% in 31. If all 9-limit intervals are allowed, the 
+odds are 46% in 41 and 41% in 46. A 58-note tuning gives the monkey 50% odds 
+of hitting an 11-limit interval or its inversion, dropping to 40% for 72 
+notes. With 87 notes to play with, the monkey would be within the 13-limit 
+47% of the time, dropping to 44% in a 94-note equal temperament.
+
+Phew. All the tuning-limit combinations considered in the last paragraph are 
+both consistent and unique including octave inversions, which seems fair 
+since the Pierce and triple-Pierce scales satisfy the corresponding 
+properties for tritaves. I read them off columns 5 and 7 of my table in TD 
+781 #2, which is mostly read off Manuel's new table. Anyway, I'm going to go 
+home and map some square waves (which have no 2nd, 4th, 6th, . . . 
+harmonics) to Pierce, and triple-Pierce scales, and monkey around.
+
+Other possibilities to explore would be including 2 but omitting 3, etc. 
+Just as square waves are a natural timbre for Pierce scales, so a waveform 
+that steps between three different levels (-1 0 1 -1 0 1 etc.) would be 
+appropriate for a tuning that omits ratios with the number 3. In fact, 
+quantizing a sawtooth wave to n levels eliminates all harmonics that are 
+multiples of n times the fundamental frequency. We have considered above the 
+ideal monkey tunings only for the special cases n=2 and n>24.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 19 Jul 1996 07:10 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA24925; Thu, 18 Jul 1996 22:09:59 -0700
+Date: Thu, 18 Jul 1996 22:09:59 -0700
+Message-Id: <199607190508.XAA13001@freenet.uchsc.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

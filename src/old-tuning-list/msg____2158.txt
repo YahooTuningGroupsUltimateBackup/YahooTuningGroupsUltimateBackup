@@ -1,0 +1,82 @@
+source file: mills2.txt
+Date: Wed, 18 Oct 1995 00:23:44 -0700
+
+Subject: 88CET #21:  Melodies and Voice-Leading
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Continuing with considerations for playing traditional harmony in 88CET...
+
+   The most important constraint to producing traditional harmony in 88CET is
+that the properties generally regarded as producing interesting melodies in any
+tuning, don't lend themselves to traditional harmonization.  In particular,
+arpeggios, or step-wise runs spanning more than a third, almost always require
+nontraditional chords or nontraditional progressions of traditional chords in
+their harmonizations.  These pose problems because they call out pitch
+relationships, notably thirds, other than the traditional diatonic ones.
+Obviously that makes convincing diatonic harmony very challenging.  
+
+   For example, let's suppose that you've established a certain C as the tonic,
+and built what I guess could be called a C-major chord around it:
+How do you harmonize the E a neutral third above it appearing right after it?
+Do you call it scale-degree traditional diatonic scale degree 3 or flat 3?
+Obviously this is not a problem for nontraditional harmony, but traditional
+harmony requires that it masquerade as some diatonic function.  
+
+   Audiences can be "tricked" into accepting this E as diatonic more easily than
+you might think, because of a phenomenon I jokingly call "relativistic
+voice-leading".  This is the perfect embodiment of the idea of functional
+harmony - the idea that how a pitch is perceived is based on how it moves within
+the counterpoint, more than its absolute pitch.  In another sense, it
+illustrates why modulation works:  You can convince people that some new pitch
+is now the tonic, if you make the step below it sound like a leading tone, and
+resolve that pitch up to the new tonic in a well-understood way.  
+
+   But in 88CET's relativistic voice-leading requirement, a given pitch is ONLY
+understandable as a particular traditional diatonic role in terms how it relates
+to the previous chord.  Since that E falls between two diatonic roles, your
+audience will only be able to extrapolate a diatonic role for it by hearing that
+E's usage (or adjacent pitches) in the previous chord.  
+
+   This has a huge effect on the melodic harmonization process.  In traditional
+harmonization of a melody, you automatically know what function a given melodic
+pitch will have just by knowing its pitch.  In the key of C, a B has to be
+perceived as a leading tone (provided of course that it truly is B rather than a
+C-flat or an A-double-sharp).  In 88CET traditional harmony on the other hand,
+there is no way to know without filling in the intervening harmony what function
+a given pitch will perform.  
+
+   Arpeggiation in a melody, also good for making melodies sound interesting,
+causes problems because they usually outline close-triadic harmony.  Since
+88CET's close-triadic harmonies are inherently nontraditional, you can't
+harmonize those fragments traditionally.  
+
+   With rapid step-wise motion and arpeggiation unavailable, it seems like only
+uninteresting melodies that gravitate around a single pitch - can be harmonized
+traditionally.  Luckily that isn't true after all.  Here are some melodic
+formulas that get around these constraints:  
+1.  Leap upward by either sixth, followed by slow step-wise motion downward to
+    return to the tonic.  Leaps of a sixth, as Tamino's first aria in Die
+    Zauberflote illustrates so marvelously, have a debonair, poignant
+    demeanor.  
+2.  Leap upward by a perfect fifth, followed by slow step-wise resolution to
+    the tonic.  This has a much less poignant quality, but often works.  
+3.  Either of these in retrograde;  the latter in reverse seems more effective 
+    to my ears, probably because it outlines the tonic triad.  
+4.  Leap upward by tritone, followed by slow step-wise resolution to the
+    tonic.  This has a more mysterious effect.  
+5.  Any of the above in inversion.  
+6.  Hover around the tonic for a while, leap upward by a fifth or sixth and 
+    hover there for a while, leap back down to the tonic vicinity.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Oct 1995 12:52 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id DAA01710; Wed, 18 Oct 1995 03:51:38 -0700
+Date: Wed, 18 Oct 1995 03:51:38 -0700
+Message-Id: <009980E0B8F59336.5ABA@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

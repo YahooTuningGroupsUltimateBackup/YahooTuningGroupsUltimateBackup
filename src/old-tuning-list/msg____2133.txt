@@ -1,0 +1,143 @@
+source file: mills2.txt
+Date: Fri, 13 Oct 1995 08:00:23 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & psychoacoustics - post 19 of 25
+---
+We return to the parable of the three blind men and the elephant. Because of 
+the powerful prejudicial effect of mathematical and  physical models on 
+our perceptions and preconceptions, it's vital to understand some of the 
+drawbacks of those mathematical models--in particular, the Fourier 
+transform, far and away the most popular analysis technique for dealing 
+with sounds.  
+As it turns out, the complexity of the ear's behavior is mirrored by the 
+complexities and limitations which beset the Fourier transform. 
+"The measurement of sound spectra is complicated by the fact that the 
+spectra of almost all sounds change both rapidly and drastically as time 
+goes by.  This situation is worsened by the fact that the accuracy with 
+which we can measure a spectrum inherently decreases as we attempt to 
+measure it over smaller and smaller intervals of time.
+"The spectral content of any instant during the temporal evolution of a 
+waveform does not even exist; for example, we could scarcely tell anything 
+at all about the frequency comopnents of a digital signal by examining a 
+single sample!  We can measure what happens to the spectrum only on the 
+average over a short interval of a sound--perhaps a millisecond or so.  The 
+longer the interval, the more accurate our measurement of the average 
+spectral content during that interval, but the less we know of the variations 
+that occurred during that  interval.  Thus the problem of spectral 
+measurement may be see to be one of finding the best compromise between 
+the opposing goals.  Just how much accuracy is needed is still an open 
+question in the realm of musical psychoacoustics: in some cases  our ears 
+seem to be more toleraant of approximations than in others.  The historical 
+model of spectra as measured by Hermann Helmholtz (see References) is 
+clearly inadequate for believable resynthesis..." [Moore, F. R., "An 
+Introduction tothe Mathematics of Digital Signal Processing," Part II, 
+Computer Music Journal, Vol. 2, No. 2, pg. 43] 
+Claims of "perfect  reconstruction of the input signal" are often made for 
+Fourier transform analysis.   These claims are true only insofar as the 
+continuous Fourier transform is involved, a mathematical operation demanding  infinite amounts of data and infinite numbers of frequency
+ components. 
+Claims of "perfect reconstruction of the input signal" are *untrue* for the  discrete short-time Fourier transform applied to real-world signals.
+"The test of any analysis/synthesis system is how little it distorts the 
+signal.  The phase vocoder, or short-term Fourier system, as it is also 
+called, is capable of zero distortion. (...) Consequently, what comes out of 
+each channel is a pure sinusoid.  We can measure its frequency, phase, and 
+amplitude. Thus, we can recreate the signal exactly by producing a new 
+sunsoid of that frequency, phase, and amplitude.
+"In the electronic music literature this is called additive synthesis.  
+Needless to say, when the assumption is violated, and the input signal is 
+something like white noise, the output of each channel is not a sinusoid and 
+cannot be represented with only phase, frequency, and magnitude data. You 
+must use a different representation. But for harmonic sounds in which the 
+pitch and amplitude are not changing, categorizing the signal by these three 
+numbers yields a system which is an identity."[Moorer, J.A., "A Conversation 
+with James A. Moorer," Roads, C. in "The Music Machine," 1989, pg. 14]
+In the real world all sounds contain noise.  And not just one kind
+of noise: many different kinds of noise are present. There is 
+always some white noise, and always some 1/f noise represented by jitter 
+in the fundamental frequency, there is always a stochastic component in the 
+individual harmonic envelopes, and there is always some band-limited noise, 
+as for instance from the scrape of a violin bow or the background breath-
+noise in a flute. Thus the claim of "perfect reconstruction of the input 
+signal" is untrue for real-world Fourier analysis applied to real-world 
+sounds.   The exact amount of distortion introduced and the precise 
+amount of data lost by doing a real-world short-time Fourier analysis of a 
+real-world sound varies with the sound. 
+In some cases, the distortion and data loss is negligible, while in other 
+cases the short-time Fourier analysis renders the sound unrecognizable.
+So why do many people continue to act as though the Fourier perspective
+is the only valid one for dealing with acoustics?
+Because engineering courses are saturated with the Fourier perspective, it 
+is often assumed that frequency/time duality (or in optics, 
+contrast/periodicity) is the only possible way of looking at any physical 
+phenomenon--particularly acoustics.  
+This is often true, but by no means always.
+In fact multiple methods of sound analysis have long been suggested: in 
+1947 Denis Gabor suggested an alternative to the Fourier method of analysis 
+of sounds in his paper "Acoustical Quanta and the theory of hearing." [Gabor, 
+D, "Nature," Vol. 159, 1947, pg. 303.]
+Both Morlet and Daubechies wavelets have offered new paradigms for 
+analyzing sounds: see Kronland-Martinet et alii, "Grossman, A. and Kronalnd-
+Martinet, R., "Time-and-scale representation obtained through continuous 
+wavelet transforms," 1988, Signal Processing IV: theories and Applications, 
+Amsterdam: Elsevier Science Publishers. 
+The Fourier transform viewpoint is a linear parametric method of analysis.  
+Thus it is strictly limited by the assumptions inherent in parametrized 
+analysis, and by the assumption that input functions will obey the 
+superposition principle.
+Other non-linear non-parametric models for signal processing exist. See 
+Maragos, P., "Slope Transforms: Theory and Application to Nonlinear Signal 
+Processing," IEEE Trans.Sig. Proc., Vol. 43, No. 4, April 1995, pp. 864-877.
+Each of these mathematical analysis methods has its own unique drawbacks: 
+"Even though the Morlet wavelet analysis seems to compact information in a 
+way that is well suited to the characteristics of hearing, it does not work 
+as easily as the use of Gabor grains for altering independently frequency and 
+speed.  Hence the value of this or that method is contingent on the music 
+purpose. Indeed to realize various types of intimate sonic modification, one 
+may have to go out of the general framework and resort to more specific 
+methods." [Risset, J.C., "Timbre Analysis by Synthesis," in "The Music 
+Machine," 1992, pg. 37]
+Frequency-based mathematical models of analysis are not the only kind 
+possible: time-based autocorrelation methods of pitch detection have long 
+been implemented in computers. Both the Average-Mangitude Difference Function (a time-based autocorrelation) and the zero-crossing detection function (another time-based period-detection method) are typically used
+to extract a fundamental frequency track from a digitized  waveform prior to employing a Fourier transform to dissect the sound into sinusoids. 
+Thus, ironically, the best-known frequency-domain algorithm for analyzing 
+musical sounds is crucially dependent on a *prior    time-domain    
+autocorrelation    algorithm * when we want to apply it in the real 
+world. Given this incestuous connection between frequency- and time-
+domain methods of analysis in the real world, it is not clear why one 
+viewpoint (the Fourier transform) ought to dominate the discourse of signal 
+processing.
+The progressive discovery of the many limitations of the Fourier transform 
+as a tool for analyzing real-world sounds has led to a search for alternative 
+methods of analysis: Jean-Claude Risset, the pioneer of analysis-by-
+synthesis in 1965 on mainframe computers at Bell Labs, states: "From these 
+studies I draw two conclusions: first, there does not seem to be any general 
+and optimal paradigm to either analyze or synthesize any type of sound.  One 
+has to scrutinize the structure of the sound--quasiperiodic, sum of 
+inharmonic components, noisy, quickly or slowly evolving--and also 
+investigate to find out which features of sound are relevant to the ear." 
+[Risset, Jean-Claude, "Timbre Analysis by Synthesis," in "The Psychology of 
+Music," ed. Diana Deutsch, 1982, pg. 18]
+Because the Fourier mindset dominates and shapes so much
+of the discourse of Western music, it's important to point
+out *all* of its limitations and inaccuracies.  Thus the
+next post will continue the discussion of the many conditions
+under which the Fourier viewpoint is inappropriate for
+real music in the real world.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 13 Oct 1995 17:07 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA05441; Fri, 13 Oct 1995 08:07:19 -0700
+Date: Fri, 13 Oct 1995 08:07:19 -0700
+Message-Id: <Pine.SOL.3.91.951013095946.18776B-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,98 @@
+source file: mills2.txt
+Date: Tue, 19 Dec 1995 14:32:36 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: A window of opportunity for synth
+  manufacturers
+---
+Csound allows users to generate csound
+timbres in real time from MIDI input.  At
+present, this capability is limited.  But as
+time passes and massively parallel
+P7 desktop machines become typical,
+ this will change.
+This means that synthesizer manufacturers
+have a limited window of opportunity.  They
+can either get off their rear ends and start
+building *real* synthesizers--instead of digital
+sample playback boxes full of canned sounds
+burned into ROM--or they can go the way of
+the dinosaurs.
+Within 5-10 years, the average computer
+user will be able to generate complex
+and interesting csound timbres in real
+time via MIDI using a standard desktop
+computer.
+This brings up the issue of Csound's support
+for real-time microtonality.
+There isn't any.
+Having mentioned this to John Fitch, and
+have received no reply, it seems appropriate
+to bring it to the attention of the rest of the
+forum subscribers.  If you examine the source
+code for Csound, you'll discover that Csound
+translates MIDI note input into real-time
+frequencies by using a 2^N/12  function.
+Yes, having thrown off the shackles of
+the piano keyboard and all limitations on
+scale and tuning, Csound now makes it
+possible for us to...play in 12 tones per
+octave via MIDI.
+Unbelievable.  Disgusting.  Outlandish.
+Yet true. 
+Csound is locked into 12-TET for MIDI
+playback until someone, somewhere
+changes the source code.  Naturally, since
+this is the prime venue for non-12
+computer applications in musical tuning,
+not a single person on this forum has
+ventured to deal with the problem.
+Thus, as always, we head forward into
+the past at the speed of light!  Soon,
+extraordinary sounds will issue from
+our desktop computers...sounds locked 
+into 12-TET, thanks to the crippled
+artifically limited MIDI-to-Csound
+routines frozen into the current
+generation of Csound.
+There's another issue of concern to
+microtonalists:
+Has anyone noticed that frequencies
+in the HETRO output are specified as
+16-bit integers?  With a frequency
+range of 20 Khz, this gives a precision
+of 20000/32768, not adequate to
+describe the fine frequency shifts
+that take place within individual
+partials during the course of real-
+world musical notes.  2/3 of a cent,
+for instance, is 4% of a 72-TET scale
+step.  While this kind of tuning accuracy
+is perfectly acceptable for the overall
+musical scale-step, it is surely INadequate
+for specifying the fine frequency shifts that
+give each changing overtone its "lifelike"
+sound during resynthesis, especially when
+the resynthesized timbre plays in a microtonal
+tuning.
+Naturally, no one has bothered to mention this
+and naturally, no one has bothered to correct it.
+More neglect of microtonality in the very field
+(computer music) which ought to be most
+congenial to new tunings & new scales.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Dec 1995 23:36 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA04729; Tue, 19 Dec 1995 14:36:47 -0800
+Date: Tue, 19 Dec 1995 14:36:47 -0800
+Message-Id:  <9512191434.aa18824@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

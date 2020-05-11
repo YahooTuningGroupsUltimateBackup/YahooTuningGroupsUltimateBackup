@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Tue, 19 Sep 1995 05:03:47 -0700
+
+Subject: Re: Was Bach Equal-tempered?
+
+From: Paul Hahn <manynote@library.wustl.edu>
+
+On 18 Sep 1995, Dick Wisan wrote:
+> In article <199509180332.XAA07038@svcs1.digex.net>, candlerg@CPCUG.ORG 
+> (George Candler) writes:
+> >                                                     ...I believe he was
+> > "extolling the virtues" of well temperament with its different "flavors" for
+> > each key."
+> 
+> How similar were those differences from temperament to temperament?  Surely,
+> they were different for ill-tempered tunings, but perhaps you never used
+> one of those except for the keys it wasn't ill for.  But well-but-not-
+> equal temperament tunings must also have given the same keys different 
+> flavors.  Or would the criterion for well-temperedness be precisely that
+> these differences would be trivial?
+> 
+> What bothers me --and this goes beyond WTC-- is this: Since composers
+> had no control over the tuning of anybody else's instrument, how could
+> they have counted on the flavor of a key?  
+
+Actually, virtually all the circulating or "well" temperaments I've
+worked with have some fairly significant characteristics in common:
+
+ 1.  The best available major third is always between C and E, or, if
+     there are more than one "best" third, C-E is invariably one of them.
+
+ 2.  The _worst_ available major third (or one of them if there are
+     more than one) is directly opposite C-E on the circle of fifths, or
+     nearly so; usually F#-A#/Bb or C#/Db-F.
+
+ 3.  Between these two extrema, the quality of the thirds progresses
+     without backtracking; i.e. on the sharp side, any particular major
+     triad will have as good a third, or better, than its dominant, and
+     on the flat side, the reverse is true.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Foul?  What the hell for?"
+     -\-\-- o        "Because you are chalking your cue with the 3-ball."
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Sep 1995 14:33 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA24334; Tue, 19 Sep 1995 05:33:46 -0700
+Date: Tue, 19 Sep 1995 05:33:46 -0700
+Message-Id: <00996A253C7F6F88.1A7C@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

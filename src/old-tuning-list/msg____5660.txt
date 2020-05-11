@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Wed, 18 Jun 1997 18:05:21 +0200
+
+Subject: RE: Tuning of Phrygian Mode (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+John Chalmers wrote:
+
+>Of course in ET's such as 12, 17, 19, 22, and 31 that do not articulate
+>the syntonic comma, the melodic pattern T S T T T S T is readily available.
+
+Correction: 22 does articulate the syntonic comma (it's one degree of the
+tuning), so triadic diatonic scales are problematic in 22. In 17 the syntonic
+comma is not even well-defined, since 17 is not consistent within the
+5-limit. Both 22 and 17 have perfectly fine "Pythagorean" diatonic scales,
+though.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Jun 1997 06:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA20188; Thu, 19 Jun 1997 05:41:46 +0200
+Date: Thu, 19 Jun 1997 05:41:46 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA20212
+Received: (qmail 20403 invoked from network); 19 Jun 1997 03:41:38 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 Jun 1997 03:41:38 -0000
+Message-Id: <Pine.SCO.3.96.970618204404.6437C-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

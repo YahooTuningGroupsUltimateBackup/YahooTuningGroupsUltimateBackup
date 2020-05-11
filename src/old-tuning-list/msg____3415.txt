@@ -1,0 +1,25 @@
+source file: mills2.txt
+Date: Wed, 14 Aug 1996 14:59:32 -0700
+
+Subject: archive of old tuning digests?
+
+From: Lindsay Shaw and Paul Turner <landp@adelaide.dialix.oz.au>
+
+Is there a generally accessible archive of old TUNINGs? I've been reading 
+since #741 and have often encountered references to earlier articles which 
+would shed light on some current discussions.
+
+Paul Turner
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 15 Aug 1996 01:11 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11698; Thu, 15 Aug 1996 01:11:40 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA11732
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA00240; Wed, 14 Aug 1996 16:11:38 -0700
+Date: Wed, 14 Aug 1996 16:11:38 -0700
+Message-Id: <v0213050bae37fc05648e@[192.168.11.207]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

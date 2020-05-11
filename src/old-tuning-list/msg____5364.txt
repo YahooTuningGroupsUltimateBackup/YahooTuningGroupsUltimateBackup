@@ -1,0 +1,72 @@
+source file: mills2.txt
+Date: Tue, 29 Apr 1997 17:31:00 -0700
+
+Subject: Post: Reply to Paul Rapoport on srutis a
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%0005695065@MCIMAIL.COM>
+
+Paul R,
+
+I would like to see your acquaintance's work on srutis. I have recently 
+scoured the entire Harvard music library for every speculation and shred of 
+evidence on their tuning, for my paper on 22-tone temperament. I was pleased 
+to find some of my original speculations, such as the tempered tuning of the 
+sruti representing kakali-ni in sa-grama and antara-ga in ma-grama, to be 
+repeated by several authors and evidenced in the construction of ancient 
+instruments. I would be pleased to offer comments on your acquaintance's 
+paper. I did not respond originally because I figured someone would be more 
+of an expert in this area than I.
+
+Paul Erlich
+145 College Ave #2
+Somerville, MA 02144
+
+Now for the other issue:
+
+>If only the 81:80 is a syntonic comma, then only the 3:2 is a (perfect)
+>fifth. We don't restrict the latter that way; there's no reason I can see
+>to restrict the former either. But of course it's necessary to specify
+>whether you mean just (as in 81:80) or not. The context usually
+>determines; in any ET, it's obvious.
+
+NO, IT'S NOT OBVIOUS AT ALL! In any ET, we would agree that the perfect 
+fifth is the closest approximation to the 3:2. We would also agree that the 
+syntonic comma is NOT necessarily the closest approximation to the 81:80 -- 
+for example, in 22-tET the closest step size to an 81:80 is 0 steps, and yet 
+we would both call 1 step the syntonic comma. Why? Because the syntonic 
+comma is defined as interval obtained by tuning several successive CONSONANT 
+intervals. The two important definitions are as follows:
+
+(1) Tune up three perfect fourths, down an octave, and down a minor third. 
+You are now a syntonic comma lower than where you began. In 22-tET, this is 
+1 step.
+
+(2) Tune up four perfect fifths, down two octaves, and down a major third. 
+You are now a syntonic comma higher than where you began. In 22-tET, this is 
+1 step.
+
+So the syntonic comma is 1 step in 22-tET, even though 0 steps would be 
+closer in size to the JI syntonic comma. This situation would never occur 
+for a basic consonace like the perfect fifth. Thus the "pseudo" terminology 
+is warranted.
+
+Now there are tunings where (1) and (2) give different answers! For example, 
+in 21-tET, definition (1) gives a syntonic comma of 0 steps, while 
+definition (2) gives an syntonic comma of -1 (that's minus 1) steps. Another 
+example is 20-tET, where definition (1) gives a syntonic comma of 1 step, 
+while definition (2) gives a syntonic comma of 2 steps. So I would argue 
+that if an ET is not consistent within the 5-limit, the syntonic comma is 
+undefined in that tuning.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 30 Apr 1997 02:34 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00941; Wed, 30 Apr 1997 02:34:51 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00935
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id RAA13583; Tue, 29 Apr 1997 17:33:09 -0700
+Date: Tue, 29 Apr 1997 17:33:09 -0700
+Message-Id: <199704292150.RAA30852@phyleus.interlinx.qc.ca>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Thu, 19 Sep 1996 09:32:07 -0700
+
+Subject: Re: consistency
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Thu, 19 Sep 1996, John Chalmers wrote:
+> Re Consistency: I may have missed part of this discussion, but I don't
+> quite grasph how fractional consistency can be defined on a closed,
+> cyclic, and equally-tempered tuning system. Or am I just humor-impaired
+> this AM (in general, perhaps,  as I'm sweltering in the Texas heat and
+> humidity preparing to become homeless <g> if and when my house sale
+> closes next week).
+
+Well, here's the algorithm for calculating consistency level (perhaps I
+should say _an_ algorithm):
+
+consistency_level(ET_number, limit):
+	max <- 0
+	min <- 0
+	FOR loop <- 3 TO limit BY 2
+		exact_steps <- ET_number * log2(loop)
+		error <- exact_steps - round(exact_steps)
+		IF error > max THEN
+			max <- err
+		ELSEIF error < min THEN
+			min <- err
+		ENDIF
+	ENDFOR
+	RETURN integer_part(0.5 / (max - min))
+
+Roughly speaking, find the interval within the limit which has the
+greatest error, divide that error into half the stepsize, and truncate
+to get consistency level.  If you simply leave off that last step of
+truncation, you get what might be considered a fractional consistency
+level.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Foul?  What the hell for?"
+     -\-\-- o        "Because you are chalking your cue with the 3-ball."
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Sep 1996 19:15 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA25472; Thu, 19 Sep 1996 19:17:15 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA25240
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA01998; Thu, 19 Sep 1996 10:17:14 -0700
+Date: Thu, 19 Sep 1996 10:17:14 -0700
+Message-Id: <Pine.A32.3.95.960919125520.47290C-100000@freenet2.afn.org>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

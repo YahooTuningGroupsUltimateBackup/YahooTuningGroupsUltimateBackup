@@ -1,0 +1,74 @@
+source file: mills2.txt
+Date: Thu, 5 Dec 1996 14:12:30 -0800
+
+Subject: CPS
+
+From: "Adam B. Silverman" <adam.silverman@yale.edu>
+
+<fontfamily><param>Geneva</param>I have been fooling around with some
+scale and would like to ask you if I am correct; I don't quite
+unerstand the concept of CPS scales as explained in the Warren Burt
+articles in 1/1.
+
+
+However, I have been looking at the scales described by Johnny Reinhard
+recently on the tuning forum, as used by his wife under the name
+"Harmonic 13."  This scale in its non-abbreviated form (Mayumi R.
+leaves out several notes and adds a couple of others, if I recall
+correctly) includes only pitches with a numerary nexus of 13.  This
+scale might be better described as the 13-Plane Scale, since all of its
+tones are found on the "13-plane" of a multi-dimensional lattice
+containing ratios of all primes less than 13, inclusive.
+
+
+The 13-Plane Scale is easily divided into two subsets.  The first
+always has 13 in its numerator, and its pitches are:
+
+ratio	1/1 (13/13)	13/12	13/11	13/10	13/9	13/8	13/7
+
+cents	0		139	289	454	637	841	1072
+
+
+The second always contains 13 in its denominator, and is the inversion
+of the previous subset.
+
+ratio	1/1 (13/13)	14/13	16/13	18/13	20/13	22/13	24/13
+
+cents	0		128	359	563	746	811	1061
+
+
+My question: is this simply another way to find CPS pitches?  Am I
+completely misguided about these two concepts?
+
+
+Yours,
+
+Adam</fontfamily>
+
+_________________
+
+Adam B. Silverman
+
+153 Cold Spring Street; A3
+
+New Haven, CT 06511
+
+(203) 782-1765
+
+
+abs22@pantheon.yale.edu
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 5 Dec 1996 23:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA16684; Wed, 4 Dec 1996 07:31:37 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA20741
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id WAA20846; Tue, 3 Dec 1996 22:31:34 -0800
+Date: Tue, 3 Dec 1996 22:31:34 -0800
+Message-Id: <v01540701aecaca116a33@[165.227.35.74]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

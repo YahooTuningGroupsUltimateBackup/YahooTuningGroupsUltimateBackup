@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Wed, 9 Jul 1997 19:52:40 +0200
+
+Subject: Re: Fokker
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+John Chalmers wrote:
+
+>BTW, Fokker used the idea of defining intervals in 2 and 3-D tones spaces
+>in a somewhat different way. He chose sets of "unison vectors," which he
+>set to 0, in 3x5 and 3x5x7 tone spaces to define temperaments as
+>"periodicity blocks" in the space. For example, the diesis and the syntonic
+>comma define a repeating block of 12 pitches as the area defined by the
+>absolute value of the cross product of the vectors describing these
+>intervals. (The box product is used for 3 intervals in 3-D space.) I
+>believe the concept can be extended to higher dimensions  by computing the
+>absolute values of the determinants of the square matrices whose row
+>vectors are the defining intervals. 
+
+12tet is the temperament where octaves are perfect, and both the
+syntonic comma (-4 4 -1)H and the diesis (0 -1 2)H are zero.  In
+my matrix representation, these conditions can be written:
+
+                 ( 1 0  0)     (1 0 0) 
+                 ( 7 0 -3)H' (0 0 0)H
+                 (-4 4 -1)     (0 0 0)
+
+Where H is the metric of pitch space, and H' is its approximation
+in 12tet.  To get H', you multiply the right hand side of the
+equation by the inverse of the matrix on the left.  This general
+method works for all ETs that approximate some kind of JI.  For
+the perfect octave case, you only need the left hand column of
+the inverted matrix and the number of steps in an octave is +/-
+the determinant of the original matrix.  This will also be one
+dimension of the cross product of the two zeroed intervals. It is
+also the determinant of the square matrix formed by the zeroed
+intervals without the octave column, and this will work for any
+dimension.  So, it looks like I was thinking along the same lines
+as Fokker.  Did he come up with any other stuff like this?  Is
+there a book I can read?
+
+                      Graham
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 9 Jul 1997 19:54 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30908; Wed, 9 Jul 1997 19:55:26 +0200
+Date: Wed, 9 Jul 1997 19:55:26 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA30898
+Received: (qmail 13822 invoked from network); 9 Jul 1997 17:54:07 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 9 Jul 1997 17:54:07 -0000
+Message-Id: <memo.295123@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

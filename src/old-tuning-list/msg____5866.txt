@@ -1,0 +1,42 @@
+source file: mills3.txt
+
+
+Subject:  Diminished scales
+
+From:  kami@InterLinx.qc.ca
+
+In 12tET, there are 2 patterns available : hW hW hW hW and Wh Wh Wh Wh. In
+8tET, there is only one diminished scale. Blackwood said that a possible
+16tET diminished scale would be 0 1 4 5 8 9 12 13 16. All these scales have
+a two note pattern that fills a minor third. The pattern is repeated 4
+times in an octave.
+
+All diminished scales contain the interval of a tempered minor third, but
+the also contain a 4tET diminished triad. In fact, they all contain 2
+diminished chords, separated by an interval of delta cents. Any scale can
+be identified with its delta or the relative size of the 2 steps.
+Ex : delta = 100 cents => scale is hW hW... in 12-equal.
+delta=75 cents => scale is 0 1 4... in 16TET.
+(3,2) -- which means 3 steps followed by 2 steps in a minor third. => The
+scale is a subset of 20TET, 0 3 5 8 10...
+
+So the diminished scale is a 100% ET scale, that can not contain any just
+intervals (No just interval except 2/1 and its multiples, can be expressed
+exactly in ET.)
+Any 4n-TET chromatic scale can have diminished subsets. There are n-1
+subsets in the chromatic scale.
+Ex : 12/oct = 4*3, n=3, so there are 2 subsets, hW and Wh
+4/oct and 1/oct could be considered limit cases. in 4/oct, delta=0 cents.
+
+Is this the first exemple of a significant ET chord or structure? (Beside
+the well accepted fact that ET scales allow complex chord progressions.)
+Could it be possible, in a composition,  to move from tuning A to tuning B,
+using a diminished scale?
+Are any pseudo-diminished scales used in JI and odd-ET's?
+
+
+-Kami
+
+
+
+$AdditionalHeaders:  Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id C12564DA.000712BD; Sun, 20 Jul 1997 03:17:15 +0200

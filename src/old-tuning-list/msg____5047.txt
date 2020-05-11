@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Tue, 11 Mar 1997 00:15:26 -0800
+
+Subject: Re: TUNING digest 1008
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Andrew Milne wrote:
+
+''If the 7th in a dominant 7th chord is tuned to 7/4, then it loses its
+dissonance and instability. Indeed such a chord can function as a tonic
+(as it does, quite exceptionally for the time, in Chopin's 22nd
+Prelude).''
+
+The category ''dissonance'' is, ultmately, contextual, and may not always
+be the most useful arbitrator of musical functions. James Tenney's _A
+History of Consonance and Dissonance_ is very useful in beginning to sort
+out how variously such terms have been used. 
+
+The most striking characteristics of a dominant seventh chord within an
+otherwise triadic environment are - for me - the density of the chord (a
+triad contains three interval classes, a tetrad six)  and the appearance of
+a new (even ''xenharmonic'') interval. These features are enhancements of
+the dominant/tonic voice leading relationship: root movement by fifth, and
+stepwise ''resolution'' in the remaining voices. The introduction of a
+raised third in the minor dominant illustrates the classical emphasis on
+acoustical contrast between the chords.  When a dominant seventh chord is
+suspended for a classical cadenza, it suffers little when tuned as 4:5:6:7
+and indeed, the stability of the chord enhances its contrast with the tonic
+triad. On the other hand, the suspension of a 16/9 (or 9/5) as the seventh
+introduces a tone dissonant to the rest of the chord, but not foreign to
+the scale. 
+
+One often-raised objection to the septimal tuning is the narrow semitone
+(21/20) voice leading from the seventh to the third of the tonic. I find
+this line of argumentation more compelling, but the interval itself is not
+difficult to sing - and if melodically ''strange'', it does maximize the
+contrast function.
+
+Readers might have some fun investigating the traditional rule of thumb for
+the relative density of the chords in V7 - I cadences: In four voices, if
+the voice leading is correct, then one of the two chords has to be
+incomplete (that is with a doubled pc). (Why this should be so I will leave
+as a kind of ''Puzzler'').
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 11 Mar 1997 10:48 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01762; Tue, 11 Mar 1997 10:48:26 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01760
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id BAA06874; Tue, 11 Mar 1997 01:46:33 -0800
+Date: Tue, 11 Mar 1997 01:46:33 -0800
+Message-Id: <Pine.SUN.3.91.970311012614.1350B-100000@si.UCSC.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

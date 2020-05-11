@@ -1,0 +1,528 @@
+source file: m1513.txt
+Date: Sun, 23 Aug 1998 20:26:56 -0700 (PDT)
+
+Subject: Re: XH 17: n-tet's and harmony
+
+From: "M. Schulter" <mschulter@value.net>
+
+----------------------------------
+                        Harmonic styles and n-tet's:
+                        A multidimensional approach
+                     ----------------------------------
+
+---------------
+1. Introduction
+---------------
+
+This paper grows out of two germinal articles in _Xenharmonikon_ 17:
+Paul Erlich's far-ranging presentation on scale theory and 22-tone
+equal temperament (22-tet) [1], and Brian McLaren's sweeping
+chronicles of microtonalism in the 20th century [2].
+
+Both articles, in different ways, raise the question of how one might
+go about evaluating the harmonic possibilities of a given tuning
+dividing the octave into n number of equal parts -- that is, an n-tone
+equal temperament (n-tet).
+
+While the term "harmonic" can mean many things to many people, I use
+it here basically in the sense of the "vertical" dimension of music:
+that is, the aspect of music concerned with sonorities of two or more
+simultaneous tones, and progressions involving such sonorities.
+
+Thus while both 13th-century and 18th-century Western European music
+are harmonically oriented, they are "harmonic" in very different ways,
+differing in their historical tunings, stable and unstable interval
+categories, and directed cadences. Curiously, certain scales such as
+53-tet can provide an excellent fit with _either_ harmonic system.
+
+In evaluating the harmonic possibilities of n-tet's, we need ways of
+mapping both the scales themselves and the harmonic systems they might
+realize in whole or part. This paper represents one approach to this
+multidimensional perspective.
+
+Section 2 considers conceptual maps for n-tet scales themselves, while
+Section 3 focuses on maps for some harmonic systems, and presents some
+tentative observations about a few n-tet's including Erlich's
+intriguing 22-tet. Section 4 proposes directions for further
+analysis.
+
+At the outset, I should offer a vital disclaimer: this paper focuses
+mainly on Western European tunings and harmonic systems from around
+1200 to the present, and thus presents at best a very partial and
+biased sample of the musical possibilities. Other systems, for example
+gamelan tunings approximating 5-tet or 7-tet, deserve equal
+consideration, very possibly calling for a modification of the models
+which follow. Being aware of the dangers of "universal" models of
+language or music which prove to be more provincial than their authors
+suspect, I would strongly caution that this paper is not exempt from
+such dangers.
+
+
+-------------------------------------------------------
+2. Maps for scales: just intervals and meantone tunings
+-------------------------------------------------------
+
+In orienting ourselves to a given n-tet, there are at least two
+familiar conceptual maps available. One approach is to compare the
+intervals of an n-tet with those of a just intonation system based on
+integer ratios, such as Pythagorean tuning or Zarlino's tuning for
+vocal music. Another is to compare an n-tet with meantone systems
+where all fifths (except possibly one) are tempered by the same
+amount.
+
+Both approaches have a long history. Using the just intonation
+approach, for example, we can say that 53-tet offers excellent
+approximations both for the true Pythagorean major third of 81:64 and
+the Zarlinan major third of 5:4. Using the meantone approach, we can
+say that 19-tet has a close kinship to 1/3-comma meantone, and 31-tet
+to 1/4-comma meantone.[3]
+
+
+---------------------------------------------------------
+2.1. Intonational justice: limits, mixes, and curiosities  
+---------------------------------------------------------
+
+In describing just intonation systems, it is common to refer to the
+most complex prime number used in generating the intervals of a given
+system as its "n-limit."
+
+Thus in a 3-limit or quintal just intonation system -- often known as
+Pythagorean tuning -- all interval ratios are derived from multiples
+of 2 and 3, with the pure fifth (3:2) as the generating interval. In a
+5-limit system such as Zarlino's, the pure major third (5:4) also
+becomes a generative ratio. In a 7-limit system, the septimal minor
+seventh (7:4) also becomes literally and figuratively a "prime factor"
+in defining the scale, and so on.
+
+In doing "intonational justice" to these systems, it is very important
+to recognize that the prime limit of a given system is not necessarily
+the "limit" of intervals perceived by users of the tuning to be
+"concordant" or musically valuable. This point is of crucial
+importance to the analysis which follows, so illustrations may be
+helpful.
+
+Thus in the complex 3-limit system of Gothic polyphony, the major
+third (81:64) and minor third (32:27) are ranked as relatively
+concordant in theory, and in practice play a vital role as mildly
+unstable intervals in various sonorities. The just 9-based intervals
+of the major second (9:8), minor seventh (16:9), and major ninth
+(9:4), although regarded as somewhat more tense, are also credited
+with some "compatibility" or "concord," adding harmonic color and
+action to the music. Around 1400, the even more complex schismatic
+form of major third (8192:6561) plays a pivotal role in keyboard
+tuning systems and compositions.
+
+While the 5-limit just intonation of the Renaissance tends to
+correlate with less subtly shaded theoretical schemes of concord and
+discord, nevertheless authors such as Zarlino recognize the vital role
+of intervals such as the major second (9:8 or 10:9), minor seventh
+(9:5), and major seventh (15:8) in gracing a music based mainly on
+5-limit consonances. Composers of the Manneristic epoch around 1600
+such as Monteverdi and Gesualdo exploit such intervals more boldly, as
+well as the diminished fifth (45:32) already endorsed by Zarlino as
+pleasing when aptly resolved.
+
+Much 20th-century music intended for 12-tet provides an even more
+dramatic example, where stable sonorities involving mixtures of thirds
+and minor sevenths may suggest a "7-limit" concept, although the
+tuning system offers no close approximation of a 7:4 ratio.[4]
+
+Further, with just intonation systems as with others, the very
+_deviations_ of certain intervals from the simplest or "purest"
+possible ratios can have a musical value all its own. For example, the
+complexity of a 3-limit major third (81:64) nicely fits the Gothic
+concept of "imperfect concord," while the analogous tension of a
+5-limit minor seventh (9:5) adds an edge to Renaissance suspensions
+and the bolder formations of a Monteverdi. A just appraisal should
+strive to recognize such intervals as features, not as the "flaws"
+they might well be in the context of a different system.
+
+Having considered some complications of the "n-limit" concept itself,
+we face the further complication that a given n-tet may approximate a
+mixture of intervals from various n-limit systems, sometimes a
+curiously selective one.
+
+For example, 53-tet has excellent 3-limit, 5-limit, and 7-limit
+approximations, so that it might be used for any style of harmony from
+Gothic to 7-limit just.. While 12-tet also offers a very good 3-limit
+approximation, it fits 5-limit intervals rather less accurately, and
+7-limit intervals still less so.
+
+Other scales, however, may offer a "mixed bag" of approximations not
+so easily described. Thus 19-tet and 22-tet offer fair approximations
+of 3-limit intervals (with the fifth in either case about 7 cents from
+a just 3:2), but much closer approaches to just 5-limit intervals. In
+17-tet, we have a good 3-limit approximation of 3:2 and 4:3, and also
+major and minor thirds not too far from 9:7 and 7:6 respectively --
+but no real equivalents for 5-limit intervals.
+
+Even more intriguingly, 11-tet has no real equivalents for 3-limit
+fifths or fourths, but reasonable approximations for the 5-limit minor
+third (5:4) and major sixth (5:3), as well as the 7-limit or 9-limit
+major third (9:7) and minor seventh (7:4).
+
+Brian McLaren notes that in scales such as 13-tet, 18-tet, and 23-tet,
+"the thirds are reasonably good but there is nothing like a perfect
+fifth."[5] Such scales are in fact an opportunity to realize
+traditional harmonic systems in new ways, or indeed to construct new
+systems, an opportunity which, as McLaren urges, should not be missed.
+
+
+--------------------------
+2.2. The meantone spectrum
+--------------------------
+
+A different paradigm for mapping n-tet's is the meantone spectrum,
+ranging in historical terms from Pythagorean tuning (0-comma meantone)
+to around 1/3-comma of tempering. This spectrum may be expanded in
+both directions to embrace regular tunings with fifths wider than a
+just 3:2, or narrower than just by more than 1/3 syntonic comma.
+
+Certain points on the meantone spectrum coincide with just tunings.
+Thus Pythagorean tuning is both a just intonation system and a
+meantone tuning, although not a meantone _temperament_. Curiously, the
+5-limit just tuning with a fifth equal to 16384:10935 (precisely a
+schisma narrower than 3:2) very closely approximates 1/11-comma
+meantone and 12-tet. Other points offer just ratios for certain
+intervals: thus 1/4-comma meantone has pure 5-limit major thirds (5:4)
+and minor sixths (8:5), while 1/3-comma has pure minor thirds (6:5)
+and major sixths (5:3).
+
+At first blush, it might seem both intuitive and easy to place a range
+of n-tet's on the meantone spectrum based on the size of fifth. Thus
+19-tet is much like 1/3-comma temperament with its quite narrow fifths
+and pure minor thirds, and 31-tet like 1/4-comma with its somewhat
+more moderate tempering of the fifth and pure major thirds. Less
+familiarly, for example, 91-tet approximates 1/7-comma meantone, with
+somewhat restful thirds (vis-a-vis Pythagorean or 12-tet).
+
+This kind of orientation based on fifth size can work even for certain
+tunings beyond the historically familiar range. Thus 17-tet, with a
+fifth of around 705.88 cents, seems to behave as we might expect,
+serving as a kind of "ultra-Pythagorean" tuning with "superactive"
+thirds and sixths urgently inviting resolution to stable 3-limit
+intervals.[6] Even here, however, the novel element of the neutral
+third cautions that new systems are more than stimulating variations
+on old ones.
+
+A reading of Erlich's insightful article, even if one has (like
+myself) only begun to digest the riches there offered, neatly reveals
+how misleading it can be to judge a tuning in this way on the basis of
+its fifth size. In 22-tet, the fifth at 709.09 cents is more than 7.13
+cents wide, yet the scale offers nice approximations of 5-limit thirds
+and sixths, as well as the 7-limit and 9-limit intervals present in
+11-tet (a subset).[7]
+
+In short, the meantone model is a "map" which works fairly well for
+some n-tet's, but not for others. In this area as in others, 22-tet is
+a tuning with lots of musical and conceptual surprises to upset such
+models (at least when applied overbroadly) in a delightful way.
+
+
+--------------------------------------------------------
+3. Harmonic systems: trines, triads, tetrads, and beyond
+--------------------------------------------------------
+
+During the long interval of Western European composition from around
+1200 to 1900, interestingly enough, harmonic systems were based on two
+structures requiring a mininum of three voices: the medieval 3-limit
+trine (string ratio 12:8:6, frequency ratio 2:3:4); and the
+Renaissance to Romantic 5-limit triad (string ratio 15:12:10,
+frequency ratio 4:5:6). Both threefold sonorities have inspired poetic
+and even theological allegory.[8]
+
+Since the time of Debussy, more complex sonorities have been accepted
+as stable: for example, tetrads such as the "added sixth" (12:15:18:20
+in one possible 5-limit tuning) and "minor seventh" (12:14:18:21 in a
+9-limit tuning).
+
+One obvious requisite of realizing a given harmonic system with a
+given n-tet is that "reasonable" approximations of the intervals
+involved in such stable structures be available. Thus 53-tet seems a
+superb choice for either trinic or triadic harmony. While 12-tet
+likewise would be a reasonable choice for either system, its almost
+pure fifths but rather active thirds might make it more apt for trinic
+than for triadic styles.
+
+In contrast, 17-tet has good fifths and fourths for trinic sonorities,
+but no intervals close enough to 5:4 or 6:5 to support a conventional
+triadic system. With 11-tet, we have fair approximations for the
+triadic concords of the minor third (6:5) and major sixth (5:3) -- but
+no fifths or fourths of the kind required for either trinic or triadic
+sonorities of a historical kind.[9]
+
+With 22-tet, as Erlich rightly emphasizes, we have a set of intervals
+which may not fit this or that specific integer ratio as well as some
+other n-tet's, but which covers all bases, as it were, supporting a
+very diverse range of trines, triads, and tetrads.[10]
+
+
+-------------------------------------------------------
+3.2. Broader views: quintal/quartal, tertian, and other
+-------------------------------------------------------
+
+To make our map of harmonic systems more inclusive, and thus more
+accommodating to the special potentials of a variety of n-tet's, we
+must note that the trinic-triadic-tetradic paradigm of composed
+Western European and related music is only one possible approach.
+
+More generally, we might view Gothic trinicism as one subset of
+_quintal/quartal_ harmony where fifths and fourths serve as the most
+euphonious simple intervals, and Renaissance-Romantic triadicism
+likewise as a subset of _tertian_ harmony based on thirds and sixths
+as the most favored intervals. A given n-tet might support some of
+these intervals but not others, as in the case of 11-tet. We should
+not ignore the tertian possibilities of this scale because it happens
+not to have anything like a triadic fifth.
+
+
+--------------------------------------------
+3.3. Instability, system, and expressiveness
+--------------------------------------------
+
+Also, even in focusing on the historical trinic and triadic systems,
+we should note the vital role of _unstable_ sonorities in defining the
+qualities of a system. For example, in Gothic style, complex 3-limit
+sonorities such as 4:6:9 or 9:12:16 may have a rather concordant
+quality; in traditional 5-limit harmony, as Erlich notes [11], these
+sonorites serve as "suspended" dissonances; and in 20th-century
+quartal/quintal harmony they may form stable chords of the fifth and
+fourth.
+
+Similarly, in Gothic style, a combination of three superimposed thirds
+(e.g. e-g-b-d') may resolve to a stable 3-limit sonority (e.g. f-c');
+in triadic harmony, it may resolve to a 5-limit sonority; in 7-limit
+harmony, it may serve as a stable tetrad.
+
+Looking _only_ at the stable intervals of a given harmonic system, we
+might overlook some crucial ways in which a "kindred" n-tet can alter
+and distort the subtle "balance of power" between the intervals,
+possibly in creative ways.
+
+For example, while I have referred to 17-tet as a "neo-Gothic" tuning,
+its distortions of the Gothic harmonic spectrum might well warrant, at
+the least, an accent upon the _neo-_ portion of this description. In
+theory and practice, Gothic music is premised on a tuning system where
+major and minor thirds (81:64, 32:27) are somewhat more concordant
+than bare major seconds and minor sevenths (9:8, 16:9) -- although
+these intervals alike are often regarded as neither stable nor sharply
+discordant.
+
+In 17-tet, with its major thirds of around 423.53 cents, this order is
+arguably reversed, altering the harmonic color of the system radically
+although many of the standard trinic resolutions (e.g. those involving
+M3-5 and M6-8 by stepwise contrary motion) remain quite practical. In
+fact, these progressions may take on an extra quantum of force from
+the increased level of harmonic tension and the "supernarrow"
+70.59-cent leading tone; but we have moved into the realm of
+Xeno-Gothic as opposed to Gothic style.[12]
+
+If our purpose is a more or less faithful approximation of the actual
+Gothic interval system, then Pythagorean just intonation would be
+ideal, and 53-tet -- or, yes, 12-tet -- a wiser choice than 17-tet.
+
+If our purpose is instead a _really_ novel distortion of the modified
+Pythagorean system in vogue around 1400, with its prominent mixture of
+regular and schismatic thirds and sixths, then Erlich's 22-tet has
+some unique possibilities. While the fifth -- or "perfect seventh" in
+Erlich's decatonic system -- is about 7.14 cents wide of 3:2, it is
+closer to just than in 1/3-comma meantone or 19-tet, and might lend an
+interesting flavor to stable trines.
+
+The striking "neo-late-Gothic" feature of 22-tet is its drastically
+contrasting versions of intervals I will here call in traditional
+fashion thirds and sixths, although Erlich's decatonic nomenclature is
+well worth studying and may give a better insight into the scale's
+structure[13]:
+
+---------------------------------------------------------------------
+    Late Gothic keyboard tuning                   22-tet
+---------------------------------------------------------------------
+  interval       ratio      cents          steps   cents  approx
+m3 (regular)     32:27     294.13            5    272.73   ~7:6      
+m3 (schisma)  19683:16384  317.60            6    327.27   ~6:5
+
+M3 (schisma)   8192:6561   384.36            7    381.82   ~5:4
+M3 (regular)     81:64     407.82            8    436.36   ~9:7
+
+m6 (regular)    128:81     792.18           14    763.64  ~14:9
+m6 (schisma)   6561:4096   815.64           15    818.18   ~8:5
+
+M6 (schisma)  32768:19683  882.40           16    872.73   ~5:3
+M6 (regular)     27:16     905.87           17    936.95  ~12:7
+_____________________________________________________________________
+---------------------------------------------------------------------
+
+In either system, we have contrasting pairs of more active and more
+blending thirds and sixths -- but with the "active" forms much more
+dramatically so in 22-tet, to say the least. One attraction of n-tet's
+is their ability to transform the familiar into the new, and Erlich's
+tuning does so in ways a musician might especially relish.
+
+
+-----------------------------
+4. Conclusions and directions
+-----------------------------
+
+The above analysis should not invalidate any of the historically
+realized harmonic possibilities, nor the xenharmonic possibilities
+already being realized in practice and theory. For example, McLaren's
+engaging chronicles sum up one outlook on n-tet's:
+
+       "Scales without fifths -- viz., 9, 11, or 13 tones per
+        octave -- favor a fast-paced contrapuntal style with
+        brisk percussive timbres, while scales with excellent
+        fifths, like 31, 41, 53, or 118 tones per octave, favor
+        a triadic homophonic style of composition."[14]
+
+The concepts I have sketched might lead us to take this conventional
+wisdom -- if one can use this term in such an experimental context --
+and season it with some further questions. For example, does "triadic"
+here mean specifically "5-limit" or "tertian," or might it have
+Partch's wider sense of any three-tone combination (e.g. 1:3:9)? A
+tuning such as 53-tet can nicely support trinic, triadic (in the
+tertian sense), or tetradic harmony, and all these potentials merit
+exploration.
+
+Also, where would a tuning such as 17-tet fall in such a dichotomy? It
+has an "excellent" fifth, closer to a just 3:2 than 31-tet, for
+example -- but is hardly ideal for "triadic" harmony, at least in a
+tertian sense. However, it might nicely support a "homophonic style
+of composition" based on Xeno-Gothic progressions from unstable
+7-limit or 9-limit sonorities for three or more voices to stable
+3-limit sonorities -- and possibly "reverse suspensions" where a third
+resolves to a fourth or a major second.[15]
+
+Finally, although this may be a curious comment for one of Pythagorean
+inclinations, I would like to join McLaren in questioning whether the
+fifth need be treated as the only generative interval for scales or
+harmonic systems.[16] If a tuning such as 11-tet or 13-tet happens not
+to have any equivalent of 3:2, why not focus on the various 5-limit,
+7-limit, 9-limit, and other intervals it _does_ approximate, and
+develop a concept of harmonic style -- possibly in some cases
+"homophonic" -- from there?
+
+As McLaren shows in this and other portions of his history, timbre is
+indeed a crucial factor. Personally, I have found that intervals near
+9:7, for example, can take on a pleasant effect if given a certain
+kind of "choirlike" voicing available on some synthesizers, lending
+themselves to slower textures with resolutions to fifths in a
+Gothic-like fashion.
+
+Of course, one might add that "a fast-paced contrapuntal style" can
+suit a wide variety of n-tet's, as it has often suited composers
+of the Gothic, Renaissance, and Baroque traditions based more or less
+on the ideal of some kind of just intonation.
+
+Both McLaren and Erlich have helped show the way to new realms of
+theory and practice, while very fruitfully inviting more open
+questions.
+
+
+                                -----
+                                Notes
+                                -----
+
+1. Paul Erlich, "Tuning, Tonality and Twenty-Two Tone Temperament,"
+_Xenharmonikon_ 17 (Spring 1998), 12-40.
+
+2. Brian McLaren, "A Brief History of Microtonality in the Twentieth
+Century," _Xenharmonikon_ 17 (Spring 1998), 57-110.
+
+3. Here it may be wise to explain that meantone tunings are commonly
+described by specifying the fraction of a syntonic comma (81:80, about
+21.51 cents) by which 11 of the 12 fifths of a familiar 12-tone
+chromatic scale are tempered. Conventionally, it is assumed that this
+tempering is in the _narrow_ direction. Thus in 1/4-comma meantone,
+each fifth is narrowed by 1/4 syntonic comma or about 5.38 cents,
+being reduced from a just 3:2 (about 701.955 cents) to around 697.58
+cents. In the special case of 12-tet, the 12th fifth (traditionally
+often g#-eb, for example) is tempered (in theory) by precisely the
+same amount as the other 11, all being equal to 700 cents.
+
+4. Not so surprisingly, given its affinities to Pythagorean tuning,
+12-tet offers a better approximation of just intonation for sonorities
+built in fourths or fifths (e.g. d-g-c' or d-a-e', calling ideally for
+3:2, 4:3, 16:9, 9:4, etc.) than for sonorities built with 5-limit or
+higher thirds; 20th-century harmony draws on both possibilities.
+
+5. McLaren, see n. 2 above, at p. 87.
+
+6. Of course, such expectations assume a familiarity with the Gothic
+harmonic styles of the 13th and 14th centuries.
+
+7. Erlich, see n. 1 above, explores the potentials of 22-tet vis-a-vis
+other n-tet's at some length; see especially pp. 13-22.
+
+8. Thus the trine (outer octave, lower fifth, upper fourth) for
+Johannes de Grocheio (c. 1300), and likewise the triad for later
+theorists such as Johannes Lippius, Johannes Kepler, and Andreas
+Werckmeister, was a "perfect harmony" representing in music the
+harmony of the Trinity. In traditional theories based on string
+ratios, these two sonorities represent the harmonic divisions of the
+octave (12:8:6) and fifth (15:12:10) respectively. From the
+perspective of frequency ratios, each presents three adjacent tones in
+the harmonic series (2:3:4, 4:5:6) beginning with a tone equal to 2^n
+of the fundamental. 
+
+9. For McLaren's comments on other n-tet's presenting a similar
+situation of "no fifths but good thirds," see n. 7 above. Systems with
+fifths varying from a just 3:2 by as much as around 7 cents on the
+narrow side (1/3-comma meantone, 19-tet) or the wide side (22-tet) can
+clearly support a "triadic" style of harmony; some systems of unequal
+well-temperament narrow certain fifths in a triadic context by as much
+as 1/3 Pythagorean comma, or about 7.82 cents.
+
+10. Erlich, see n. 1 above, at p. 25, offers a very handy table
+showing the intervals of 22-tet and the many integer ratios nicely
+approximated by the tuning.
+
+11. Ibid., at pp. 12-13 and 26. 
+
+12. "Xeno-Gothic" can refer to a specific just tuning based on a chain
+of 23 pure fifths generating a 24-note octave, or to a set of Gothic
+and "Gothic-like" progressions supported by this scale, or to a
+general attitude. A Xeno-Gothic tuning includes the medieval 12-note
+chromatic Pythagorean scale as a subset, but additionally introduces
+new forms of unstable intervals a Pythagorean comma wider or narrower
+than usual. The "Xeno-" aspect may relate especially to such
+intervals, which for example can form unstable combinations resembling
+7-limit or 9-limit tetrads (e.g. ~12:14:18:21) resolving to stable
+3-limit trinic harmonies. A scale such as 17-tet or 22-tet, which
+includes both reasonable approximations of 3:2 and 4:3 and intervals
+resembling 9:7, 12:7, or 7:4, for example, can therefore elicit a
+"Xeno-Gothic" response: "Let's try having that near-9:7 expand to a
+fifth, and that near-12:7 to an octave -- or having that near-7:4
+contract to a fifth, etc."
+
+13. Erlich, see n. 1 above, e.g. at p. 25, Table 1. This scheme is
+indeed a radically different "map" for the intervals: thus 17 steps is
+a "minor 9th" (about 927.3 cents), while 18 steps is a "major ninth"
+(about 981.8 cents). Much of the surrounding analysis is breathtaking,
+the musical equivalent of walking around in some higher-level
+geometry. Interestingly, as discussed in recent Tuning List posts,
+22-tet with its decatonic scale may invite some Jewish allegories,
+adding another view to the metaphors discussed in n. 8 above.
+
+14. McLaren, see n. 2 above, at p. 81. Here the author's emphasis is
+on the realization that "_all_ equal temperaments are equally useful
+for composing beautiful music" (emphasis in original).
+
+15. Here I am warmly indebted to John Chalmers, Jr. and Gary Morrison
+for many discussions about the possibilities of systems such as
+17-tet, but of course any dubious conclusions expressed in this paper
+are solely my responsibility.
+
+16. McLaren, see n. 2 above, at pp. 86-87, specifically raises
+questions about models of "diatonicism" presented in classic works of
+Joseph Yasser and Easley Blackwood as the best basis for approaching
+tunings such as 13-tet, 18-tet, and 23-tet -- and also many of the
+5*n-tet's (e.g. 10-tet, 15-tet, etc.)  which violate Blackwood's
+requirements for a "recognizable diatonic" tuning. It seems to me that
+such questioning is in the best tradition of these two theorists.
+
+
+Most respectfully,
+
+Margo Schulter
+mschulter@value.net

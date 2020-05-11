@@ -1,0 +1,40 @@
+source file: m1543.txt
+Date: Sat, 3 Oct 1998 16:56:18 -0700 (PDT)
+
+Subject: Re: beats me
+
+From: bram <bram@gawth.com>
+
+On Sat, 3 Oct 1998, William Sethares wrote:
+
+> There are really two kinds of "beats" being discussed: one is a 
+> physical wave phenomenon and the other is a psycho-acoustic 
+> phenomenon.
+
+Yes, I've been thinking about the physical wave phenomenon. I was
+previously unaware of the other one.
+
+> I see no theoretical reason why Bram's suggestion shouldn't be do-
+> able. But whether you can actually measure the waves, do the 
+> calculations, and output the appropriate beat-cancelling sound in real 
+> time -- may be tricky. 
+
+Oh, that sort of effect is beyond my ambitions at the moment. :)
+
+Right now I'm just trying to make computer-generated sound files of pure
+harmonics with the beats fixed. 
+
+I think any ratio can actually have an infinite number of beats,
+corresponding to the numbers in it's continued fraction expansion,
+although they get much more subtle after the first. An illustration is at
+
+http://gawth.com/~bram/sound/secondary_beat.wav
+
+That file alternates between 6/5 (continued fraction expansion 1 5) and
+31/26 (continued fraction expansion 1 5 5) It's playable as a loop (I
+*think* I lined up the phases correctly.) The second beat, to my ear,
+produces a sound with an obvious relationship to the first one but much
+more solemn, possibly corresponding to the adding of a single beat with a
+much lower frequency.
+
+-Bram

@@ -1,0 +1,38 @@
+source file: mills2.txt
+Date: Wed, 9 Jul 1997 21:10:54 +0200
+
+Subject: Modulating dekanies by hexanies (was RE: Meantone, Partch)
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Wed, 9 Jul 1997, Daniel Wolf wrote:
+> Paul Hahn wrote:
+>>  How do you
+>> modulate a dekany by a hexany?
+> 
+> Taken any dekany, treat one degree as 1/1. Take any hexany, treat one
+> degree as 1/1. Now transpose (multiply) the entire dekany by each remaining
+> pitch in the hexany.
+
+Hmm, sounds more like modulation in the signal-processing sense than in
+the musical sense of the word.  Also, the result has, potentially, up to
+sixty pitches!  Isn't that rather overwhelming, cognitively speaking?
+
+--pH <manynote@library.wustl.edu> http://library.wustl.edu/~manynote <*>
+    O
+   /\        "Foul?  What the hell for?"
+  -\-\-- o   "Because you are chalking your cue with the 3-ball."
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 9 Jul 1997 21:14 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13719; Wed, 9 Jul 1997 21:15:21 +0200
+Date: Wed, 9 Jul 1997 21:15:21 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA19261
+Received: (qmail 21822 invoked from network); 9 Jul 1997 19:15:17 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 9 Jul 1997 19:15:17 -0000
+Message-Id: <Pine.SOL.3.95q.970709140606.22316B-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

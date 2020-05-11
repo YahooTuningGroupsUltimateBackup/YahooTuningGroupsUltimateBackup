@@ -1,0 +1,103 @@
+source file: mills2.txt
+Date: Fri, 20 Sep 1996 11:41:17 -0700
+
+Subject: RE: RE: Consistency generalized
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>> Paul H.,
+>>
+>> 	     I believe your original definition leads to consistency for level
+>> N>1.5. For 1<N<1.5, there is no guarantee that the approximating 
+intervals
+>> will be consistent with one another.
+
+>Yes, I noted that in my "erratum" followup message.  However, the
+>algorithm I just posted in response to John Chalmers is correct.
+
+Your new algorithm is not correct either -- at least it does not reproduce 
+my definition of consistency. In particular, no tuning can fail to be level 
+1 consistent according to your algorithm, and some tunings would be level 2 
+consistent according to this algorithm that wouldn't be according to your 
+original definition. I will give the correct consistency algorithm if you 
+wish. John C., you are correct that "fractional consistency" is kind of 
+meaningless; I was using it in the sense of Paul H.'s original definition 
+with respect to the maximum error size.
+
+
+>> 	     I don't think the concept of consistency has much to do with 
+whether a
+>> particular JI interval is approximated well enough to be used as a 
+harmonic
+>> consonance.
+
+>I don't think that's exactly what I meant, or even what I said.
+
+I was responding to your assertion that common-practice harmony did not find 
+7-tET sufficient. Clearly, 7-tET would not provide the desired harmonic 
+effect when used for common-practice harmony. I believe the reasons lie not 
+with higher-level consistency but with accuracy.
+
+But the actual historical reasons for not adopting 7-tET lie not with 
+5-limit, but even earlier with 3-limit harmony, as practiced in Medieval 
+music. Although 7-tET may have a high level of consistency within the 
+3-limit, its accuracy in approximating 3-limit consonances is questionable. 
+Medieval musicians tuned fifths and fourths with enough accuracy that is was 
+clearly seen that the eighth note in a circle of fifths was different from 
+the first. Thus the process of chromatic alteration began that ultimately 
+led to 12-tET. In China, fifths and fourth were also the main harmonic 
+consonances, and China developed 12-tET before the West did. In Thailand, 
+however, the accuracy of the fifths and fourths was less important, since 
+their role was more melodic than harmonic and because most Thai instruments 
+do not have harmonic partials. Thus it is not surprising that Thailand did 
+develop 7-tET.
+
+[bigsnip]
+>> 	     What consistency offers is a supplement to considerations of how 
+good
+>> the approximations to JI are. Essentially, composing with a consistent
+>> tuning will be no more difficult than composing in JI, while in
+inconsistent
+>> tunings, complications may arise if one attempts to always use the best
+>> approximations to JI intervals.
+
+
+>Here's where we part company, I'm afraid.  I find level 1 consistency to
+>be far too low a standard.  Very weird things can happen in level 1
+>consistent tunings.  A simple example: 5TET is consistent at the
+>5-limit.  A 16/15, represented as a 4/3 less a 5/4, becomes 2-2=0 steps,
+>or a unison.  However, a 25/24, represented as a 5/4 less a 6/5, becomes
+>2-1=1 step.  In other words, a larger interval becomes a unison while a
+>smaller interval does not.  Maybe this doesn't bother you, but for me it
+>causes cognitive dissonance.
+
+Well, the idea of using 5-tET for 5-limit harmony bothers me. Didn't you 
+read my post? I explained why, even though 7-tET is consistent at the 
+5-limit, it is not a good tuning for 5-limit harmony. The same goes for 
+5-tET. If a tuning is both consistent and has good approximations to JI 
+however, then I will admit it, even if the second-order intervals do not 
+behave as in JI. I think 22-tET is marginally good enough for 9-limit 
+harmony, if the texture doen't get too thin, but observe:  64/63, an 8/7 
+less a 9/8, is 4-4=0 steps, while 81/80, a 9/8 less a 10/9, is 4-3=1 step. 
+"In other words, a larger interval becomes a unison while a smaller interval 
+does not." This doesn't bother me in the slightest -- in fact I like it.
+
+The ear does not have a pre-defined map of JI; it does, however, perceive 
+consonance, dissonance, and scale structures. Sometimes the most effective 
+scale structures for consonance differ significantly from JI, but I think 
+these differences can be just fine, even necessary, unless they violate 
+simple consistency.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Sep 1996 21:51 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29365; Fri, 20 Sep 1996 21:53:15 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA31963
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA13137; Fri, 20 Sep 1996 12:53:13 -0700
+Date: Fri, 20 Sep 1996 12:53:13 -0700
+Message-Id: <55960920195155/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

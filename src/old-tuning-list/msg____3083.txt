@@ -1,0 +1,51 @@
+source file: mills2.txt
+Date: Mon, 17 Jun 1996 17:17:09 -0700
+
+Subject: Diary of a CD-R Novice
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+Ladies and Gentlemen-
+	This begins a series of short posts on the trials and 
+tribulations of a physicist-musician-inventor learning to use CD 
+recordable technology. CD-R allows you to record your own CDs on a 
+desktop unit onto $6 discs. The recorders are currently available for 
+approximately $700 (in a couple of months all of the big names--Sony, 
+Phillips,... will be available for under $700). 
+	First let me clear up a couple of mistakes from my last post (I'm 
+a novice, so I get to make a few). I stated that my expert source (a CD 
+professional) said to avoid JVC units. He did not say that they were no 
+good, simply that in his opinion Sony seemed sturdier. Further, I stated 
+that CD-R had a conservative lifespan of 10 years, and that standard CDs 
+outlasted this. My other expert source strenuously 
+disagrees, stating that CD-R will outlast standard CD media, as the 
+aluminum is subject to oxidation from oxygen dissolved in the 
+polycarbonate, while the gold reflective surfaces of CD-R discs is not. 
+Further, she states, unless the CD-R disc is exposed to extremely bright 
+light (much brighter than sunlight) for long periods, say days or weeks, 
+the information will not likely degrade.
+	Last night I installed the SCSI board and CDR unit in my machine, 
+a Gateway 2000 75MHz Pentium, and fired it up. The system could not 
+locate the CD-R drive, and the software supplied with the SCSI board had 
+a faulty #2 disk, so I couldn't run the diagnostic. Well, that's what you 
+get for using a DOS system. I will try to download some new software from 
+the net and get this thing up and running so I will have something a 
+little more heartening to relate next post.
+	On a more upbeat note, Denver's Microstock festival is being 
+organized for the 19th of October, and we are presenting a day of 
+lectures and demonstrations on the 18th at the University of Colorado at 
+Denver on the Science of Sound and Music in conjunction with the 
+festival. Any microtonalists who will be in Denver October the 18th are 
+urged to contact me if they wish to present a 25 minute talk or demo.
+John Starrett
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 18 Jun 1996 15:06 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id GAA10830; Tue, 18 Jun 1996 06:05:48 -0700
+Date: Tue, 18 Jun 1996 06:05:48 -0700
+Message-Id: <960618130235_71670.2576_HHB54-10@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

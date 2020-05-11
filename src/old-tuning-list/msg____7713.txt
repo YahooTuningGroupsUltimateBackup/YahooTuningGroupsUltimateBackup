@@ -1,0 +1,40 @@
+source file: m1410.txt
+Date: Sat, 9 May 1998 01:38:43 -1000 (HST)
+
+Subject: Remarks in Tuning List (fwd)
+
+From: Charles Lucy <lucy@ilhawaii.net>
+
+---------- Forwarded message ----------
+Date: Sat, 9 May 1998 12:03:39 +0100
+From: Harmonics Inc. <harmonic@globalnet.co.uk>
+To: brtubb@cybertron.com
+Cc: lucy@hour.com
+Subject: Remarks in Tuning List
+
+Thank you for the tuning list plug Ben.;-) (Copy of this note will also be
+posted to tuning list)
+It is amusing to see the confusion amongst the JI and tuning newbies there.
+They seem to have yet to realise that they are attempting the impossible.
+The contradictions and the paradoxes of JI logic are effectively demonstrated by
+the Tantrum temperament toy program.
+Tantrum was written by Stephen Malinowski. (510) 235-7478
+smalin@well.com.
+It runs on Mac and can be found from a link on the LucyTuning homepage at
+http://www.ilhawaii.net/~lucy.
+
+Instead of making any further comments about JI, nowadays my interests are
+more concerned with producing music and attempting to find an effective way
+to generate greater tuning precision, using the MIDI tuning dump.
+
+BTW We have also been looking at EMagic and putting LucyTunings into the
+environments for that program. At present we are again running up against
+the
+1/64th of a semitone tuning resolution problem, as it uses pitchbend.
+
+If anyone has found an effective way to get the MIDI tuning dump to
+generate better playback pitch resolution, please let us all know.
+
+
+lucy@hour.com
+http;//www.ilhawaii.net/~lucy

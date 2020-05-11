@@ -1,0 +1,47 @@
+source file: mills2.txt
+Date: Fri, 5 Jan 1996 07:53:21 -0800
+
+Subject: Notation of Equal Temperaments
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Brian writes:
+
+> But how many live acoustic xenharmonic concerts did
+> YOU attend last year?  
+
+Five.
+
+> And didn't ALL of 'em use one-of-a-kind exotic homebuilt acoustic 
+> microtonal instruments?
+
+None of them did. All five used ordinary acoustic instruments, 
+except perhaps the 31-tone organ, but that's hardly an exotic or 
+one-of-a-kind instrument.
+
+>  --say, H and I (NOT to be confused with the German H for "B flat").
+
+The German B is "B flat", H is "B". It's already confusing.
+
+> (How about it, Manuel?  Any chance of your writing a computer
+> program to find & list all the 5-, 6-, 7-, 8-, and 9-note modes of
+> every relatively prime ET with fifths less than 21 cents away from
+> 3/2, from 5/oct through 53/oct?) 
+
+Ok, I'll think about it. Some restrictions may be necessary.
+In any case those ET's are:
+5, 7, 12, 17, 19, 22, 26, 27, 29, 31, 32, 33, 37, 39, 40, 41, 42, 43, 
+45, 46, 47, 49, 50 and 53.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 5 Jan 1996 20:44 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA10796; Fri, 5 Jan 1996 11:44:25 -0800
+Date: Fri, 5 Jan 1996 11:44:25 -0800
+Message-Id: <v01510101ad131efaa50a@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

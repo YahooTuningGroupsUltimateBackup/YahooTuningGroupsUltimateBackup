@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Mon, 10 Mar 1997 09:57:56 -0800
+
+Subject: RE: Meaner Tones (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+John Chalmers has derived some meantone tunings using the augmented sixth as 
+the approximation to the harmonic seventh. But what if, more relevant to 
+modern practice, the minor seventh must approximate the harmonic seventh, 
+the minor third must approximate the 7:6, and the diminished fifth must 
+approximate the 7:5? Add terms for these to the usual 5-limit terms, and the 
+following "optimal" tunings are found:
+
+Equal-weighted:
+Fifth3+(log(3)+13*log(5)-11*log(7))/log(2))/75 octaves, or
+702.2260 cents
+
+Limit-weighted:
+Fifth075+(81*log(3)+469*log(5)-539*log(7))/log(2))/3035 octaves, or
+703.4736 cents
+
+So if one wants a diatonic system with optimal dominant seventh (and 
+half-diminished seventh, if you subscribe to some form of duality) chords, 
+one must use fifths slightly _larger_ than pure.
+
+ -Paul
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 10 Mar 1997 19:29 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00782; Mon, 10 Mar 1997 19:29:46 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA00780
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA04727; Mon, 10 Mar 1997 10:27:52 -0800
+Date: Mon, 10 Mar 1997 10:27:52 -0800
+Message-Id: <Pine.SOL.3.91.970310181739.10603A-100000@kali>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

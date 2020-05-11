@@ -1,0 +1,81 @@
+source file: mills2.txt
+Date: Mon, 17 Feb 1997 01:26:44 -0800
+
+Subject: Re: GhostTones   ?
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Hi Charles,
+
+> The model and mapping is very straight-forward and is (I hope clearly)
+> explained at our website (www.wonderlandinorbit.com/projects/lullabies)
+> in the download and techie areas, plus John Harrison's writings.
+
+Actually, it's www.wonderlandinorbit.com/projects/lullaby/
+
+BTW, if you type it with the http part included, those viewing 
+it in the most common browsers can click on in directly as a 
+link rather than copying and pasting it into the browser's 
+location thingy; like so: 
+
+http://www.wonderlandinorbit.com/projects/lullaby/
+
+> It seems that by taking steps of fourths and fifths, from a given pitch,
+> all "harmonics" (ghosttones?) can be mapped in a continuous series.
+
+You're returning to an ambiguous use of the word "harmonics". 
+Please utilize these defined terms instead:
+
+Partials
+Harmonic Partials
+Inharmonic Partials
+Flageolet tones 
+Ghosttones (I can accept this term since you have defined it)
+Complex Tones
+Simple Tones
+
+Since you wrote **"harmonics" (ghosttones?)**, I'll
+proceed with the assumption that you're talking about
+the tones you get when you lightly touch a string in
+various places and pluck it. I'll also give you the 
+benefit of the doubt and assume that you're talking 
+about the lowest audible simple tone (sine wave) for 
+each ghosttone, and not the complete timbre of each 
+ghosttone with its many partials. 
+
+You're saying that the various tones you get by 
+lightly touching an open string in various places 
+form a continuous series separated by intervals of 
+fourths and fifths. I doubt that this is so.
+
+Please write out this series of fourths and fifths 
+(in cents, or Hz, or multiplication factors
+of the original open string frequency) along with 
+a corresponding list of places on the string you'll have 
+to touch in order to produce each of the pitches
+in that series of fourths and fifths (in inches 
+from bridge or nut, or portion of string length, or 
+some other measure). Please explain why some positions 
+in the series of fourths and fifths are skipped (do
+not have a corresponding touch position), if any. I'm 
+assuming the initial pitch at the beginning of the
+series of is the untouched, open string. Please 
+explain if this is different.
+
+I've saved the rest of your message; let's discuss this 
+much first.
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 17 Feb 1997 16:31 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09596; Mon, 17 Feb 1997 16:31:45 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09598
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id HAA21449; Mon, 17 Feb 1997 07:28:37 -0800
+Date: Mon, 17 Feb 1997 07:28:37 -0800
+Message-Id: <Pine.SOL.3.91.970217092741.3388A-100000@library>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

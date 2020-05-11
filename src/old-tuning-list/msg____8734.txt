@@ -1,0 +1,45 @@
+source file: m1569.txt
+Date: Sat, 31 Oct 1998 12:55:18 +0530
+
+Subject: Yamaha XG pitch bend specs
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Sometime ago, I reported the following :
+
+"Pitch bend, I checked with the range at 1-semitone and 
+found no clear pattern in the data values that caused each successive
+pitch change.
+etc"
+
+Well, I just came upon this in Yamha's XG Guidebook (available on their
+web site) :
+"XG-compatible instruments follow all GM guidelines as described above,
+ and are also capable of receiving Polyphonic Key Pressure.
+The shift curve used for pitch bend is defined as linear by cents, 
+ensuring pitch bend compatibility between XG instruments. 
+The XG Specification also states that Pitch bend can be used to affect
+rhythm 
+channels as well as melody voices."
+
+So, I'm somewhat annoyed/confused, since the anomaly means it is 
+not possible to enter precise pitch bend values into a sequencer without 
+using ye old frequency meter.
+
+Then again, I suppose this to be a problem with just about any 
+commercial sample-playback device. Can anyone confirm my suspicion
+that a synth that is actually a synth, synthesizing it's own waveforms
+(i.e., FM, PM, Additive, etc.) is much more reliable at delivering 
+more stable/precise pitches.
+
+Later,
+Drew
+
+----------------------------------------------------------------------------
+"Out of the ash
+I rise with my red hair
+And I eat men like air."-Sylvia Plath
+
+"Ricka-racka-firecracker,Sis-boom-bah,Bugs Bunny,Bugs Bunny,Rah Rah Rah
+!
+----------------------------------------------------------------------------

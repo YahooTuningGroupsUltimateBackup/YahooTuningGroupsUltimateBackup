@@ -1,0 +1,66 @@
+source file: m1383.txt
+Date: Sun, 12 Apr 1998 11:55:32 -0500
+
+Subject: Re: delurking
+
+From: "jloffink" <jloffink@pdq.net>
+
+> From: mr88cet@texas.net (Gary Morrison)
+> Subject: Re: delurking
+> 
+> >So if you were me, what
+> >synth would give me the most bang for the buck?
+> 
+>    Just generally speaking, Ensoniq probably has the best microtonal
+> provisions.  As far as the most musical capability is concerned, it seems
+> like the K2500 could be your best bet, but its microtonal capabilities
+> aren't as flexible or intuitive as Ensoniq's.
+> 
+>    I have lots of Ensoniq gear, but my K2500 information is based upon a
+> friend trying to use his microtonally.  He describes it as "designed by
+> Martians", but very powerful.
+> 
+
+I can't agree that Ensoniq has the best microtonal provisions.  It depends
+on your application.
+
+If 12 note per octave scales are sufficient and you don't mind working in
+MIDI sysex codes, then Roland GS instruments are very affordable and
+available in just about any format:  sound card, sound module, keyboard,
+digital piano, stand alone sequencer, etc.  Instruments like the XP-60 and
+XP-80 provide very complete workstations (sequencer, synthesis, effects and
+mixing bus) and front panel microtonal scale editing as well.
+
+Ensoniq synths and samples are good if you need 1-4 full keyboard scales
+with any number of notes per octave.  The samplers are good workstations,
+but the ASR-10/88 are weak in the sampling department compared to other
+current samplers.  The ASR-X is an updated sampler/synth that looks like a
+good value if you don't need a piano style keyboard.
+
+I could not disagree more about the Kurzweil's being non-intuitive.  Unlike
+every other synth I've used, all parameters are in REAL values, not decimal
+coded binary.  Filter cutoff frequencies are given in notes and cents,
+amplifiers are calibrated in dB, etc.  The architecture is more like a
+modular analog synthesizer than a fixed one, so it is correspondingly more
+powerful.  A Kurzweil K2000 or K2500 is especially adept at modulating just
+intonation scales since it has 255 user programmable intonation tables that
+can be switched in real time.  These scales are limited to 12 notes per
+octave.  However, nTET scales can be easily created at the program level.  
+
+Another consideration is sound quality.  Ensoniq samplers and all wavetable
+synthesizers (just about everything else) use linear interpolation for
+frequency shifting.  This introduces distortion in the form of inharmonic
+overtones when a note is transposed from its sampled pitch.  While it may
+not be as important for nTET, it makes a big difference for just
+intonation, where the inharmonic overtones stick out like a sore thumb. 
+The K2000 and K2500 use an improved interpolation scheme that greatly
+reduces the transposition distortion.  Recent Emu samplers are the only
+ones to exceed the Kurzweils in that department, which is a good enough
+reason to lobby Emu to add microtonal capability to their samplers.
+
+If you want the maximum sound sculpting capability and frequency
+resolution, then CSOUND on a fast MAC or Pentium PC system, or Kyma with a
+Starr Labs Microzone keyboard would be excellent.
+
+John Loffink
+jloffink@pdq.net

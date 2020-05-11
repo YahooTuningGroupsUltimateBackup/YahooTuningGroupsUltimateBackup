@@ -1,0 +1,34 @@
+source file: mills2.txt
+
+
+Subject: Equal temperaments
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Manuel has just put some wonderful tables on equal temperaments on the 
+tuning site. To summarize the results for tunings with an integer number of 
+notes per octave:
+
+	    (1)	 (2)	 (3)	 (4)	 (5)	 (6)	 (7)
+harm-	    first	    first	    first	    first	    first	    second	   second
+onic	tuning	   tuning	   tuning	   tuning	   tuning	   tuning	   tuning
+limit	    with	with	with	meeting	  meeting	  meeting	  meeting
+	    consis-	  unique	   unique	   (1)&(2)	  (1)&(3)	  (1)&(2)	  (1)&(3)
+	    tent	repre-	   repre-
+	    repre-	   senta-	   senta-
+	    senta-	   tions	    tions
+	    tions	    	    inclu-
+	    	    	    ding
+	    	    	    octave
+	    	    	    inver-
+	    	    	    sions
+
+4	   2	   3	   3	   3	   3	   5	   5
+5	   3	   7	   9	   7	   9	   9	   12
+6	   3	   9	   9	   9	   9	   12	  12
+7	   4	   14	  21	  15	  27	  18	  31
+8	   4	   18	  21	  18	  27	  22	  31
+9	   5	   25	  35	  26	  41	  31	  46
+10	  5	   34	  35	  41	  41	  46	  46
+11	  22	  39	  57	  46	  58	  58	  72
+12	  22	  56	  57	  58	  58	  72	  72

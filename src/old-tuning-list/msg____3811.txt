@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Tue, 22 Oct 1996 11:00:27 -0700
+
+Subject: Re: EB again
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Mon, 21 Oct 1996, John Chalmers wrote:
+> While experimenting with EB tunings, I came across a septimal
+> komma that is apparently not well-known. It is the difference between 
+> 10 Fifths up - 5 octaves and the 7/4 and is 59049/57344 or 3^10/(7*2^13) 
+> or 50.72+ cents.It plays the same role the syntonic comma 81/80 does 
+> in defining meantone tunings -- the tempered fifth which yields a 
+> beatless 7/4 is the 10th root of 56 (compare the 4th root of 5 for 
+> 1/4-comma meantone or the cube root of 10/3 for the 1/3 comma). This
+> fifth is tempered flat by 10th root of 59049/5734 or 696.88259 cents.
+> Whether this komma is useful notationally remains to be seen.
+
+I use a related comma in my work: the difference between the sum
+(product) of a 9/8 and two 5/4s, and a 7/4, or 225/224.  The two are
+equivalent in tunings where the syntonic comma vanishes, such as 19TET
+or 31TET.  In 41TET, though, where the 81/80 does _not_ vanish, the
+225/224 still vanishes even though the 59049/57344 does not.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "A three-cushion player doesn't need to be married.
+     -\-\-- o               He already has enough aggravation."
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 23 Oct 1996 00:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09298; Wed, 23 Oct 1996 00:05:58 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA09302
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA23242; Tue, 22 Oct 1996 15:05:56 -0700
+Date: Tue, 22 Oct 1996 15:05:56 -0700
+Message-Id: <Pine.SCO.3.91.961022144726.8677B-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

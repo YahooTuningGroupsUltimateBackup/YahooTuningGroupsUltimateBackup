@@ -1,0 +1,137 @@
+source file: mills2.txt
+Date: Wed, 21 May 1997 22:40:07 +0200
+
+Subject: Re: JI modes
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+>Daniel Wolf wrote:
+>>Even if you intend to limit the definition of the church modes to their
+>>treatment under species counterpoint, then you must account for the fact
+>>that composing in various modes has been a continuous and central part of
+>>musical training in the western classical tradition.
+>
+Gordon Collins replied:
+>By the 18th century, the theorists had caught up with the composers in
+>accepting the consolidation of several modes into the major and minor keys.
+>I don't see how you can claim that the church modes continued to be
+>"central" to that music.  One does not see references to a "Chopin Etude in
+>the Dorian Mode", for instance.  Some people do refer to the major
+>and minor keys as "modes", but that is misleading.
+>
+I have to agree with Dan, who, after all, said that "church" modes
+continued to be central to music _education_. But even so, diatonic modes
+other than major or minor return most obviously to art music in France in
+the late nineteenth century, as in pieces by Chabrier, Debussy, Satie,
+Faure, and in the twentieth century by many composers, including Ravel,
+Bartok, Copland, Vaughan Williams and so on. And as Dan points out, many
+European folk songs are in diatonic modes other than major or minor.
+
+I don't see why refering to major and minor as modes is misleading. In my
+definition of modes in the European tradition, they include at least the
+following defining characteristics:
+
+1) A tuning system, though it may be somewhat flexible as long as the
+general pattern of intervals (below) remains recognizable.
+
+2) A subset of pitches from that tuning system, or, put another way, a
+pattern of intervals. (In the European tradition this means the diatonic
+set.)
+
+3) A tonal center within that subset.
+
+Given that there are seven pitches in the diatonic set, there are thus
+seven possible diatonic modes, of which major and minor are only two. I
+don't see how they are different than the other diatonic modes. (Well, the
+existence of multiple "minor scales" is a rather arbitrary theoretical
+construction that has more to do with harmony and counterpoint than modes
+per se. I don't think the altered scale degrees fundamentally change the
+impression of diatonicism -- see below.)
+
+In other non-European (or earlier European) traditions, there are
+theoretical pitch constructions that roughly correspond to "mode," but they
+often involve further defining characteristics. Thus, you can either
+jettison the term "mode" (as many do), or augment the definition with some
+of these other defining characteristics:
+
+4) A range.
+
+5) Characteristic melodic motives.
+
+6) Characteristic methods of ornamentation ("ornamentation" here defined
+broadly).
+
+7) A further hierarchy of pitches or other categorization of pitch
+functionality.
+
+8) Extramusical associations.
+
+As long as we're on the subject:
+
+Some modes have what I would call "auxiliary tones" (though they are not
+usually part of what defines a mode as I see it). I think of them as tones
+that lie outside of the pitch set that are used more or less as occasional
+passing tones or temporary substitutes for notes in the pitch set for
+various musical reasons (such as the sharpened leading tone in minor). I
+sometimes compare the pitch sets of various modes using a shorthand
+notation:
+
+Number of pitches in the tuning system/number of pitches in the
+subset/number of commonly used auxiliary tones.
+
+(Note: I should qualify the below numbers with the statement that the
+distinction between auxiliary tones and other pitch inflections is not
+always clear, that when a pitch is within or outside of the pitch set is
+likewise sometimes a subjective judgment, and that the use of modes
+depends, of course, on the music itself, so understand that these are
+generalizations.)
+
+Thus traditional diatonic modes are:
+
+12/7/0
+
+Minor with sometimes a raised seventh or sixth scale degree:
+
+12/7/2
+
+Pelog patet:
+
+7/5/1
+
+Slendro patet (most of the time):
+
+5/5/0
+
+Chinese pentatonic modes (according to some theoretical sources):
+
+12/5/2
+
+Defining raga this way gets tricky, depending if you think of a 12 or 22
+pitch tuning system and which tones are "auxiliary." (In the North Indian
+tradition, Bhatkande has already made these judgments for us.) Here's my
+take on Hindustani raga des:
+
+12/7/1
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 21 May 1997 22:47 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07163; Wed, 21 May 1997 22:47:28 +0200
+Date: Wed, 21 May 1997 22:47:28 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA07156
+Received: (qmail 6931 invoked from network); 21 May 1997 20:47:24 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 21 May 1997 20:47:24 -0000
+Message-Id: <009B49C0F192833F.296B@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

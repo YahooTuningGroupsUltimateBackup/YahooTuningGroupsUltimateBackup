@@ -1,0 +1,15 @@
+source file: m1450.txt
+Date: Thu, 18 Jun 1998 05:41:14 +0000
+
+Subject: Re: Vocal Synth,Synth tuning things,...
+
+From: Gary Morrison <mr88cet@texas.net>
+
+Drew Skyfyre wrote:
+> >> Ensoniqs do 0.4 [cents]
+> >Do they?  Have you tested the accuracy, or is this merely the precision
+> >of the tuning table?
+> Just the stated specs, "256 steps per semitone resolution".
+
+   At some point I seem to recall that somebody found out that this spec
+was misstated, and it was really 256 steps per octave.

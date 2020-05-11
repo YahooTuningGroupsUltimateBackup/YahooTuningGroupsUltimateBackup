@@ -1,0 +1,58 @@
+source file: mills2.txt
+Date: Wed, 2 Jul 1997 08:35:05 +0200
+
+Subject: Re: Lattice, LCM, and Aliquot Parts
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+On Tue, 1 Jul 1997 Mckyyy@aol.com typed:
+
+>On octave invariance, it has just occurred to me that, in LCM
+>terms, the octave has a property that no other ratio shares. 
+>That is two notes that differ only by octaves can be mixed
+>without making the length of the resulting "interference" pattern
+>longer than the waveform of the lowest note.
+
+>If you mix two notes of wavelength 1 and 8, the wavelength of the
+>resulting pattern is still 8, but if you mix two notes of
+>wavelength 2 and 3, the resulting pattern has a wavelength of 6.
+
+Marion, it is not so.  You can equally well say that 1, 3 and 9 mix
+without making the wavelength any longer but that putting a 2 in there
+results in it being longer.  It is the mix of primes that does.
+
+I think that the reason that a ratio of 2 is more fundamental than any
+other is that 2 is a smaller number than any other (OK 1 is better!).
+In my opinion the simplicity of a prime ratio is inversely proportional
+to p*ln(p) where p is the prime.  For the first few primes this gives:
+
+p         2      3      5       7      11      13
+p*in(p) 1.386  3.296  8.047  13.621  26.376  33.344
+
+Also, I think that a ratio of 1:12 is more concordant than one of 1:16.
+So it is not totally correct to just cast out all the 2s and saying that
+a D is a D and a G is a G.  The octave is relevant.
+
+>Aliquot parts are simply a list of all the possible numbers that
+>can be derived by multiplying subsets of the prime factors of a
+>given number.  For example, here is a list of the aliquot parts
+>of 2880:
+
+Ah!  My second most favourite number (after 34560).
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+     http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 2 Jul 1997 16:09 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10557; Wed, 2 Jul 1997 16:10:12 +0200
+Date: Wed, 2 Jul 1997 16:10:12 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA10503
+Received: (qmail 3737 invoked from network); 2 Jul 1997 14:09:16 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 2 Jul 1997 14:09:16 -0000
+Message-Id: <970702100521_-1494809854@emout17.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

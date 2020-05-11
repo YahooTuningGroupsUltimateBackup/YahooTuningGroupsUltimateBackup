@@ -1,0 +1,25 @@
+source file: m1445.txt
+Date: Fri, 12 Jun 1998 13:27:20 EDT
+
+Subject: Microtunable wishlist
+
+From: <DFinnamore@aol.com>
+
+Patrick Ozzard-Low wrote:
+>5. Measurements in Cents and/or Hz and/or *Ratios*(?).  To the 
+>What-Limit?
+
+Measurement in ratios would likely be difficult to implement unless the tuning
+were set up by ratio, and really not necessary for non-rational tunings.
+Though it would be interesting, it's really not the purpose of a synth tuning
+table.  There are probably programs available to do the calculations for those
+who want to know that information.  Actually, I think the Hypercard JICalc,
+downloadable for free from the Mills site, can do that; only for Mac, though.
+(BTW, if you have access to a Mac and haven't yet gotten the JICalc, do it
+now!)
+
+What might be nice is the ability to enter tunings into a synth table via
+ratios of up to a certain limit - 4095? (one less than 2^12).  Heck, most
+software today is 32-bit, why not ask for 4,294,967,295?  Maybe that's
+overkill - OK, a 16-bit calculation would yield 65,535-limit ratios; that'd do
+for me. :-)

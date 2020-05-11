@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Tue, 4 Feb 1997 22:42:39 -0800
+
+Subject: Re: LucyTuning clarifications
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Hello Charles,
+
+We met in Los Angeles a number of years ago and I showed you
+the graphics for a tuning-generation program I was designing 
+on the Amiga computer.
+
+> As I see/hear it "harmonics" beat. 
+
+By definition, "harmonics" don't beat. 
+
+The more inclusive term "partials" is now used to describe
+the sine wave components of timbre, whether those partials
+are harmonic (relating in whole numbers) or inharmonic.
+
+> To hear and appreciate this beating, it is crucial that
+> instruments should be tuned as precisely as possible.
+
+You seem to be confusing the beating within a single
+note due to inharmonicity of partials with the beating
+between two or more notes in various intervalic
+relationships. To hear appreciate the former, no tuning 
+is needed. 
+
+> Unfortunately tuned samplers and synthesisers, which are
+> currently available, fail to provide the accuracy
+> necessary to hear these subtle, yet significant, beat
+> frequencies.
+
+If an acoustic instrument can produce a beating timbre,
+a sampler can--simply sample the instrument. 
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 5 Feb 1997 08:22 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24779; Wed, 5 Feb 1997 08:22:47 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA24624
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id XAA07111; Tue, 4 Feb 1997 23:21:16 -0800
+Date: Tue, 4 Feb 1997 23:21:16 -0800
+Message-Id: <memo.73204@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

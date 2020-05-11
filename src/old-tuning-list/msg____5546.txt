@@ -1,0 +1,114 @@
+source file: mills2.txt
+Date: Sun, 25 May 1997 23:07:14 +0200
+
+Subject: Re: modes vs keys (was: JI modes)
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+>Bill Alves wrote:
+>
+>>I don't see why refering to major and minor as modes is misleading. In my
+>>definition of modes in the European tradition, they include at least the
+>>following defining characteristics:
+>>[...snip...]
+>>3) A tonal center within that subset.
+>
+Gordon Collins replied:
+
+>Are you just referring to the _final_ of the mode, or do you really mean
+>"tonal center" defined harmonically?  Because that is the defining
+>distinction between modes and keys.  A key is not just a set of notes - it is
+>determined by chordal structure rather than melodic formulae.
+>
+Well then, clearly we have different definitions of modes or keys. To me a
+tonal center is a psychological tendency to hear a certain pitch within the
+system as a home base, a gravitational center, however you want to say it.
+This tendency is operative in most music whether it has harmony or not. The
+tonal center is very often the _finalis_, but not necessarily.
+
+The use of the term "modal" in most theory textbooks as in the distinction
+between "modal" and "tonal" counterpoint, is misleading I believe (also
+"tonal").
+
+>While there has been a fairly strict intonational standard at most times and
+>places, "somewhat flexible" here is a considerable understatement.  The
+>distinction between n-limit JI, x-comma meantone, well-temperament, and
+>12TET is *totally irrelevant* to the definition of modes and scales!
+>
+Well, right now I have my synth tuned in a very interesting 11-limit
+lattice, and when I play the white keys from C to C it certainly doesn't
+sound like any kind of major scale I would recognize.
+
+>Look at a music theory book and its description of musical resources.  Where
+>is there any discussion of pitch or tuning?  It just doesn't matter.  The
+>only thing that rules out applying JI or meantone is the circle of fifths
+>with its enharmonic equivalence of notes.
+
+This is one real problem with most theory books (by which I assume you
+primarily mean harmony books) but I won't get into that. The reason that
+they don't go into it is because 12TET is assumed as a standard now. They
+don't go into a lot of the "why's," not because they aren't important, but
+just because they want to take a lot of things as given in order to get on
+to the business of augmented sixth chord arcana. However, in many theory
+books of pre-12TET period, tuning is discussed as a prerequisite to the
+study of harmony.
+
+>>2) A subset of pitches from that tuning system, or, put another way, a
+>>pattern of intervals. (In the European tradition this means the diatonic
+>>set.)
+>
+>But the notes of the modes were not taken from a larger set.  They WERE all
+>the defined notes.  Others were *added* to the set as necessary for
+>polyphony.  They were initially considered as intonational inflections, only
+>later being accepted as separate notes in their own right as sharps and flats.
+>
+Historically, this is true. However, pitch systems change over time. I have
+no problem with defining pitch systems in Guido's time as 8/7/0, but I
+think it's obvious that diatonic European music since at least the 15th
+century has been 12/7/0. Yes, perhaps accepting enharmonic equivalence was
+an important step in European music. Personally, I think it was a step
+conceptually taken long before the 18th century and the use of 12TET, but
+in any case, once made, the definition of a diatonic mode as a 12-tone
+subset became a valid one.
+
+>I agree with Daniel that modes and scales can only be defined in terms of
+>whole tones and "half" tones, as a pattern of approximate intervals.  I don't
+>think that those patterns can be described as pitches selected from a
+>predefined tuning system.
+>
+This works for the diatonic set (though I think this definition has come to
+be equivalent with a 12-tone tuning system subset). However, there are
+other tuning systems that simply are not defined in terms of whole and half
+steps. Pelog is one that comes to mind. (Though some have posited a 9TET
+superset for pelog, I have yet to see any convincing evidence for this
+hypothesis, and much that contradicts it.)
+
+The tuning system that I mentioned I'm working with now has 9 different
+sized steps in the octave, ranging from 27 to 204 cents. Perhaps you can
+hear some sort of generalized half and whole steps defining a "pattern of
+approximate intervals" in such a system. I can't. However, the ability to
+do so in a system is part of what I meant by "recognizably diatonic" when
+refering to the flexibility of tuning systems in defining modes.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 26 May 1997 18:46 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00507; Mon, 26 May 1997 18:46:52 +0200
+Date: Mon, 26 May 1997 18:46:52 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00505
+Received: (qmail 749 invoked from network); 26 May 1997 16:46:44 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 26 May 1997 16:46:44 -0000
+Message-Id: <009B4D796A13F387.262D@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

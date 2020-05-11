@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Sat, 20 Jul 1996 06:26:08 -0700
+
+Subject: Scala help
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Peter Brewis wrote:
+> ... and still shudder when I recall overhearing someone in 
+> the audience ask his neighbour, 'Have they finished tuning up yet?' (As a 
+> matter of fact _I_ wasn't sure whether they had or not.)
+
+There's the famous anecdote that someone from the East was at a
+concert of Western classical music, and when he was asked how he liked
+it he said he especially liked the first part. So his hosts asked
+whether it was the first movement that he liked, he said "no, before
+that!" I think it was emperor Hirohito but am not sure.
+
+> I'm trying to get to grips with Scala and I wondered if someone might be 
+> able to tell me why, when I type 'help' it says, 'Help is available for 
+> the following items:' That's all it says. There _are_ no following items. 
+> I've also tried 'help append', 'help intersect' and so on. What am I 
+> doing wrong? What a terrific piece of work Scala is, by the way.
+
+Glad you like it. Two things can be wrong. Either you are missing the
+file 'help.par' which should be in the same directory as the program,
+or you are starting the program up from another directory than the
+one it's in. The program namely looks only in the working directory
+for its datafiles: help.par, intnam.par, modenam.par, harmon.par, etc.
+The working directory can be changed from within Scala with 'cd'.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 20 Jul 1996 20:50 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA23890; Sat, 20 Jul 1996 11:50:13 -0700
+Date: Sat, 20 Jul 1996 11:50:13 -0700
+Message-Id: <Pine.SCO.3.91.960720114619.4846A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,31 @@
+source file: mills2.txt
+Date: Sun, 3 Mar 1996 04:46:49 -0800
+
+Subject: Re: MIDI pitch bend
+
+From: bf250@freenet.carleton.ca (John Sankey)
+
+"On playback, though, I keep hearing the "bending" between each 
+note.  How do I get it to attack each pitch without these 
+little glissandi?"
+
+You have to leave a small time delay between the bend command 
+and the note you want to play bent. It varies between systems, 
+but my PC/SoundBlaster 32 needs 20 ms. I assume that this is 
+simply the processing time required by the microcode in the 
+synth/soundcard. At present I tune 11 channels at the 
+beginning of each recording and simply put a 1/16th note rest 
+at the beginning, which seems to be adequate for all systems. 
+It sure complicates the programming for tuning each note in 
+real time!
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 3 Mar 1996 16:12 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA07861; Sun, 3 Mar 1996 07:12:20 -0800
+Date: Sun, 3 Mar 1996 07:12:20 -0800
+Message-Id: <960303101100_158767181@mail02.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

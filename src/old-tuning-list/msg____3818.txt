@@ -1,0 +1,68 @@
+source file: mills2.txt
+Date: Wed, 23 Oct 1996 15:38:33 -0700
+
+Subject: K2000/K2500 Intonation opinions requested
+
+From: john_loffink@ycrdi.com
+
+I am seeking input from tuning list subscribers on a new feature for the
+Kurzweil K2000/K2500 synthesizer/samplers.  The current operating systems for
+these instruments does not change the pitch of currently sounding notes when
+the intonation table is changed.  A forthcoming operating system upgrade may
+change this to instantaneously change the pitch of all sustaining and
+released notes when the intonation table is changed.  My questions are:
+
+1.  How many members would like all notes to instantaneouly change in pitch?
+2.  How many members would prefer to have the operating system remain as is
+so that only new notes use the newly selected intonation table?
+
+I have versed this as an either/or question because the K2000/K2500 User
+Interface does not have space to select between the two options.  A feature
+to select between instantaneous/new note only tuning would have to be a
+"hidden function" and will take more time to implement.  In other words, if
+the change IS implemented then current users who need the new notes only
+version would not be able to upgrade their operating system.  Also, since the
+K2000 is ROM based, it is unlikely that more than one operating system
+upgrade will be released.  This is not an issue for the K2500 Flash ROM based
+O.S.  No other aspects of the intonation handling will be changed with the
+next upgrade.  It will still be limited to one system level intonation table
+at a time.
+
+I've used many intonation capable MIDI instruments, including the TX81Z,
+DX7IIFD+E!, EPS, EPS-16 Plus and the K2500.  I believe the K2000/K2500 to be
+one of the most flexible in this regard, and hope to help it continue to
+evolve in its intonation capabilities.
+
+If you have other requests for Kurzweil intonation features, I can't really
+process them at this time but hope to do so at a future date.
+
+Important:  If you send email directly to me, please use my Compuserve
+account:  75023.2426@compuserve.com.  I will be moving in a few weeks from
+Kurzweil in Massachusetts to a new job in  the southern U.S. and will not
+receive any mail for the ycrdi.com address after that time.  I could be
+offline as long as 3 or 4 weeks but hopefully will not lose any messages.  I
+will still remain in contact with the Kurzweil group in regards to intonation
+issues.
+
+John Loffink
+Senior Hardware Engineer
+Young Chang Research & Development Institute
+(Kurzweil Music Systems)
+75023.2426@compuserve.com
+
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 24 Oct 1996 00:40 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11123; Thu, 24 Oct 1996 00:42:30 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA10959
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA08554; Wed, 23 Oct 1996 15:42:27 -0700
+Date: Wed, 23 Oct 1996 15:42:27 -0700
+Message-Id: <Pine.3.89.9610231830.A7733-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,83 @@
+source file: mills2.txt
+Date: Thu, 5 Dec 1996 08:37:55 -0800
+
+Subject: From Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: An amazing achievement
+--
+Congratulations to Manuel Op de Coul on
+a magnificent achievement.  His latest
+upgrade of the tuning program SCALA
+more than fulfills the promise of the
+earlier versions of the program.
+As some of you may know, SCALA is
+a program which allows users to
+design, alter, combine, stretch,
+and transmute tunings in a variety
+of ways.  SCALA includes a vast
+cornucopia of scale generation 
+methods: cyclic, equal-tempered
+(octave and non-octave), polynomial,
+Wilson CPS permutation, Pythagorean,
+and many others.
+However, SCALA is not merely a tuning
+program.  It includes an entire programming
+language which allows you to write command
+scripts which execute automatically and
+write huge numbers to disk.  So it's not
+really accurate to call SCALA a "program"--
+it's an entire tuning programming language.
+Nothing like SCALA has ever existed before.
+Prior attempts, like the excellent JiCalc,
+forced users to enter each scale-step one
+at a time, and shackled users with severe
+constraints: only 60 scale-steps could
+be entered, all steps had to be specified
+as just ratios (a very bizarre requirement
+if your scale in a non-just non-equal-tempered
+tuning!), and so on.
+However, Manuel Op de Coul's SCALA overcomes
+all these limitations.
+I must admit that previous versions of SCALA did
+not work with any of my MIDI cards.  Perhaps it
+was my setup, or perhaps my cards, or perhaps
+it was the older versions of the program--but I
+had never succeeded in transmitting a tuning
+to any of my synthesizers.
+However, the latest version of SCALA transmits
+tunings to my synthesizers quickly and easily.
+The program works with perfect transparency:
+you simply follow Manuel's command script,
+the synth is retuned...it's that simple.  SCALA
+is even *easier* to use than the Mac application
+JiCalc. (Alas, those of you who own Macintoshes
+now know why Apple Computer will go bankrupt.
+None of the useful programs on the old 680X0
+Macintoshes run on the garbage Power Macs.
+If you want to run JiCalc, here's a piece of 
+advice: buy an old Mac Plus cheap at a swap
+meet and use it run JiCalc.  Otherwise, you're
+out of luck.)
+SCALA is a remarkable accomplishment. It
+is one of the most important developments in
+the post-1983 modern era of retunable MIDI
+synthesizers.
+Congratulations on a job well done, Manuel.
+--mclaren
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 5 Dec 1996 23:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21775; Thu, 5 Dec 1996 18:52:22 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA20944
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA25865; Thu, 5 Dec 1996 09:52:13 -0800
+Date: Thu, 5 Dec 1996 09:52:13 -0800
+Message-Id: <v01510103aecc46e37710@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

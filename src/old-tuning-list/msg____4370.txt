@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Thu, 19 Dec 1996 17:48:08 -0800
+
+Subject: Triadic or tetradic infill?
+
+From: Heinz Bohlen <Heinz.Bohlen@mptp.cpii.com>
+
+On Dec. 11, Daniel Wolf (sorry for being slow again, Daniel) said that he
+was curious why a triadic infill should be preferred to a tetradic one.
+I believe this is simply due  to reasons of practicality.
+
+Let me show this at two examples. To leave the well-trodden tracks a
+little bit behind us, lets design an 11-limit scale (thank you, Manuel Op de
+Coul, for introducing me into these parameters) within a twelfth, based
+on the tetrad 5/7/9/11. A short way into the attempt we encounter the
+interval between two important members of the new scale, 7/5 and
+15/11. They are only 45.56 Cent apart. If we do not want to destroy the
+harmonic context, we have to use this interval as one of the building
+blocks of the scale. Thus we end up with a 39JT version within the
+twelfth, containing such nice intervals like 11/9, 9/7, 15/11, 7/5, 11/7, 5/3,
+9/5, 15/7, and 11/5, but also a lot of 'ballast intervals" and a variety of 4
+different steps between 42.11 and 66.74 Cent. The corresponding ET
+with 39 steps of 48.77 Cent is not too bad, but the whole process is
+cumbersome, and the result not very inviting to a practical application.
+
+However, if we restrict ourselves to using a triad instead, then we can
+be bold and even attempt a 13-limit scale within the twelfth, based on
+5/9/13. Our basic building block in this case appears between 9/5 and
+15/9, has 133.24 Cent and leads us with little effort to a 15JT scale
+within the twelfth, having only two different steps, 114.5 Cent and
+133.24 Cent, respectively. The "defect" of the scale's ET (with 126.80
+Cent per step) is not larger than the one of the 39-step version above,
+despite the much larger step distance, and this is really an inviting scale,
+containing in its just version 15/13,13/9, 5/3, 9/5, 13/5 and, if we are not
+too puristic, also 4/3 (325/243) and 9/4 (729/325).
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Dec 1996 03:09 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09396; Fri, 20 Dec 1996 03:12:02 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA10828
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id SAA09292; Thu, 19 Dec 1996 18:11:59 -0800
+Date: Thu, 19 Dec 1996 18:11:59 -0800
+Message-Id: <199612200208.VAA24966@copland.udel.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

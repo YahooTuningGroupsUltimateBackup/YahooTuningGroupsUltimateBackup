@@ -1,0 +1,76 @@
+source file: mills3.txt
+Date: Thu, 25 Sep 1997 22:20:24 +0200
+
+Subject: Reply to Peter Blasser and Carl Lumma
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Peter Blasser wrote,
+
+>Why does everyone use 22tet instead of 24tet frets on their instruments?
+
+Everyone? Wow, I thought I was the only one! (I did see a few in
+Experimental Musical Instruments once). Considering the amount of
+electric Arabic pop music I hear these days, I suspect there are a lot
+more 24-tet guitars than 22-tet. Actually, I did inspire a guy (Steven
+Rezsutek) on this list to refret his guitar to 22-tet, after he
+independently came up with a lot of the same ideas as I did.
+
+Let's say you're trying to play a 4:5:6:7 chord. In cents this is 0 386
+702 969. In 24-tet, you'd start with 0 400 700. If you used 1000 (as in
+12-tet) for the top note, your 7:6 would be 33 cents out-of-tune. If you
+used 950, your 7:5 would be 33 cents out-of-tune. Both are pretty bad.
+In 22-tet, using 0 382 709 982 has a maximum error of 17 cents (in the
+7:5). That's about the same as the maximum error of a triad in 12-tet
+(16 cents). Not too bad! (The same goes for 1/7:1/6:1/5:1/4).
+
+Another reason I like 22-tet is certain scales it contains. The
+pentatonic scale is a nice source for 3-limit harmony and is OK in 7-tet
+but almost perfect in 12-tet. The meantone diatonic scale is a nice
+source for 5-limit harmony and is OK in 12-tet but better in 19, 31, or
+50-tet. I discovered/invented some nice scales for 7-limit harmony and
+their optimal tuning is very close to a subset of 22-tet.
+
+Carl Lumma wrote,
+
+>If we can agree that there is a difference between re-tuning music made for
+>100 cent equal, as powerful a model and good-sounding a tuning as it is, and
+>playing music made for 7+ limit Just Intonation, however embellished,
+
+I agree! That's why I'm more interested in 22-tet than 19, 31, or
+50-tet.
+
+>then
+>maybe we can be free to appreciate the excellent musicianship that thrives
+>in every idiom the world over.
+
+Whoops! I lost your train of thought.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Peter.Blasser@oberlin.edu
+Subject:  Re: 22tet and 24tet
+PostedDate:  25-09-97 23:14:29
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  25-09-97 23:14:16-25-09-97 23:14:17,25-09-97 23:13:20-25-09-97 23:13:20
+DeliveredDate:  25-09-97 23:13:20
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C125651D.0074A551; Thu, 25 Sep 1997 23:14:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31195; Thu, 25 Sep 1997 23:14:29 +0200
+Date: Thu, 25 Sep 1997 23:14:29 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA31185
+Received: (qmail 6974 invoked from network); 25 Sep 1997 14:14:27 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 25 Sep 1997 14:14:27 -0700
+Message-Id: <Pine.PMDF.3.95.970925164900.843779A-100000@OBERLIN.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

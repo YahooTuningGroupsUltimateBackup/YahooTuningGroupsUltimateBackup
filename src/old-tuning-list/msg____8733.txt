@@ -1,0 +1,157 @@
+source file: m1570.txt
+Date: Sat, 31 Oct 1998 21:49:36 -0800 (PST)
+
+Subject: Re: Consonance: self-correction and further discussion
+
+From: "M. Schulter" <mschulter@value.net>
+
+Hello, there, and this is a post first to ask pardon for my public
+display of innumeracy in Tuning List Digest #1569 in an article on the
+"Spiral of Fifths/Fourths," and secondly to respond to some very
+interesting remarks on consonance concepts, JI, and 12-tet.
+
+First, my blooper duly confessed and corrected:
+
+> Yet a doubly diminished fourth (fifth #16, e.g. d#-gb) of about 271
+> cents is only about 3.8 cents from a pure 7:6, which I suspect many
+> people on this list would regard as more concordant than a comma
+> (fifth #12) or even a major seventh (fifth #5)...
+
+In fact, the first quoted line should have said "fourth #15," which
+does yield an interval very close to 7:6. My twofold error was think
+in terms of 16 _notes_ (actually 15 tuning intervals), and to write
+"fifth" when "fourth" is correct (i.e. 15 fourths up or fifths down).
+
+Now we move to a much more delicate question of definition and taste
+raised in a post on "Mathematical explanation of consonance" from
+monz@juno.com:
+
+> How does one explain the fact that so many musicians who are less
+> "well tuned" than us will find 12-equal "3rd"s to be consonant, for
+> instance?  Most of us on this List wouldn't say that, but lots of
+> other listeners would.
+
+Personally, I might rephrase this a bit: "How does one explain the
+fact that so many musicians ... apparently assume that 12-tet 3rds are
+the 'ideal' and 'natural' versions of these intervals to use for all
+periods and styles of music, as if no other tunings were known?"
+
+This whole question could lead into lots of areas, and here I'll just
+try to address a few.
+
+First of all, as someone working mainly with just (3-based or
+Pythagorean) and "semi-just" (1/4-comma meantone) tunings, and also
+with 17-tet, I'd say that 12-tet 3rds can and do serve as full
+consonances in triadic or post-triadic music, and have done so at
+least since the middle of the 16th century, when 12-tet was already
+being described as a standard tuning for the lute.
+
+This doesn't mean that 16th-century musicians, who were likely _not_
+generally accustomed to 12-tet but rather to 5-based just intonation
+for voices and meantone approximations of it on keyboard, found a
+12-tet third _ideally_ "concordant." Vincenzo Galilei, in his
+_Fronimo_, speaks as both an accomplished lutenist and a tuning
+theorist when he recognizes that major thirds with the standard 12-tet
+fretting _are_ larger than the Renaissance ideal of 5:4, but
+nevertheless finds them acceptably concordant.
+
+Interestingly, he explains this acceptability by pointing to the
+quality of the lute's strings, which tend to "soften" the sharpness of
+these thirds. I don't know if this means a new trend with people
+wearing t-shirts saying: _Vincenzo Galilei was a proto-Setharian_, but
+he did distinguish between the timbre of a lute and a harpsichord
+(customarily tuned in meantone), the latter being more intonationally
+sensitive.
+
+At the same time, he pokes a bit of fun at people who add _tastini_ or
+"little frets" to the lute in order to get more just thirds. His
+argument is basically: (1) These people often in practice wind up
+playing intolerably out-of-tune fifths when the system gets too
+complicated; and (2) A true virtuoso (like Galilei himself) doesn't
+need such extra gadgets to impress an audience.
+
+What we're dealing with, then, is what has been called "categorical
+perception": in music, as in natural language, a vowel, consonant, or
+harmonic consonance for that matter may vary somewhat in its
+pronunciation or size and still be recognizable to the listener.
+
+Differences between dialects of various languages might be analogous
+to variations in tuning a "major 3rd," for example: it might be 386
+cents in 5-based JI or 1/4-comma meantone, 379 cents in 1/3-comma
+meantone or 19-tet (proposed in the 16th-century), 400 cents in
+12-tet, or shift depending on the key between values ranging anywhere
+from 386 cents to around 408 cents in the various well-temperaments
+standard for harpsichords and soon also pianos during the era of about
+1680-1880.
+
+For a major third that the listener is expected to recognize as fully
+concordant or stable in a Renaissance-Romantic setting, there do seem
+to be outer tolerances. One line of demarcation is that an interval
+much larger than the regular Pythagorean M3 (81:64 or 408 cents) may
+be heard as a quite "dissonant" or "Wolvish" interval obviously "out
+of tune." Another line, proposed by Easley Blackwood, is around 406
+cents, the point where he feels that major thirds are just subdued
+enough to form stable triads. By his standard, 12-tet is clearly
+within this range.
+
+However, "acceptable" and "ideal" are two different questions. For
+16th-century music, I'd agree with Mark Lindley and _lots_ of attuned
+listeners that 12-tet on an organ-like or harpsichord-like keyboard
+would be a very serious compromise; which doesn't mean that one
+couldn't enjoy the music, only that it would be an arrangement of
+necessity rather than ideal beauty. In fact, I'd tend to stick pretty
+much with 1/4-comma meantone (or 1/3-comma/19-tet for at least one
+chanson by Costeley where it is explicitly indicated, and maybe
+Zarlino's 2/7-comma for certain kinds of pieces), going to 13 notes
+per octave or 15 or even 17 or 19 where required. Such are the
+advantages of microtunable synthesizers.
+
+Also, as has been pointed out by others in this thread, consonance is
+a complex matter of stylistic expectations and "acclimatization" as
+well as tuning ratios. In 13th-14th century European music, major
+thirds are stylistically treated as "partial concords," and
+Pythagorean tuning does a nice job of putting a bit of an accent on
+the _partial_ in that statement. However, even if I played Perotin in
+1/4-comma meantone with pure 5:4 major thirds, these intervals would
+sound "_relatively_ concordant but unstable" to me, because this is
+the musical definition of the language around 1200.
+
+While I'd agree with 16th-century theorists that 5:4 and 6:5 are ideal
+ratios for thirds in a style based on concordant triads, maybe a view
+fitting my preference for Renaissance and Manneristic music as my
+favorite triadic styles, lots of other approaches are possible. For
+example, as Ed Foote has discussed, well-temperaments with their "key
+color" exploit a subtle scale of microtonal consonance and dissonance,
+and one I might add which seems based both on categorical recognition
+(even a triad in one of the most remote keys is still recognizable as
+a triad) and on tangible distinctions.
+
+Having become acquainted with the experiments of Gary Morrison with
+88-cet, for example, where even his "supermajor" thirds of 440 cents
+(roughly 9:7) may successfully be treated as "consonant," I'd say that
+there is indeed a xenharmonic continuum, and that 400 cents is just
+one point on that continuum, neither especially bad nor necessarily
+the best.
+
+There are circumstances where 400 cents might be an ideal choice,
+specifically late Romantic pieces which seem to assume a close
+equivalence of all transpositions on the circle of fifths, and also
+12-tone serialist works (yes, 11-tet serialism is a viable
+alternative, too). Maybe this just goes to prove what I'd call
+Darreg's Law: _all_ n-tet's offer a basis for beautiful music.
+
+Anyway, I'd say that musical grammar, categorical perception, and
+custom can explain a lot about why perceptions of consonance are fluid
+and flexible, as well as often a matter of some divergence in views,
+among n-limit JI and n-tet and "non-just, non-equal" enthusiasts on
+this list as well as among other people.
+
+Most respectfully,
+
+Margo Schulter
+mschulter@value.net
+
+------------------------------
+
+End of TUNING Digest 1570
+*************************

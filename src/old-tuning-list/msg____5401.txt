@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Sun, 4 May 1997 17:42:20 -0700
+
+Subject: equal temperament
+
+From: James Kukula <kukula@synopsys.com>
+
+A fundamental property of an equal tempered scale is symmetry. The intervals
+available at any note are the same as those from any other note in the
+scale. This property really defines equal temperament. 
+
+This property impacts the design of multi-stringed fretted instruments. As
+long as each string is tuned to a note in the scale, the frets will need to
+be in essentially the same place for each of the strings. (Ignoring effects
+due to string diameter etc.)
+
+But the symmetry property has far vaster impact than instrument design. I
+think I picked this up from Danielou. Mainstream European music is built on
+modulation, key changes. The tonal center moves around. So the function of a
+note is always shifting, it depends on the current key context. Since every
+note can play every role as the context shifts, then the uniform availability
+of intervals at each note is required. So modulation pushes one to equal
+temperament. 
+
+If one gives up modulation, if each note has a constant and specific
+function, then the intervals available at that note can reflect that specific
+function, hence equal temperament becomes actually inappropriate. Danielou
+argues that by holding the context fixed and building it up over the course
+of a whole piece of music, then subtle differences of meaning can be given to
+each note - a single note can express rich meaning - whereas the constant
+context shifting of modulated music implies that the meaning of a note is
+ambiguous. One needs several notes to express a clear meaning.
+
+Of course, that very ambiguity can be used artfully, creating puns etc. See
+the analysis in Blackwood's THE STRUCTURE OF REGULAR DIATONIC TUNINGS.
+
+Jim
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 5 May 1997 02:55 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04625; Mon, 5 May 1997 02:55:38 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04630
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id RAA13514; Sun, 4 May 1997 17:45:58 -0700
+Date: Sun, 4 May 1997 17:45:58 -0700
+Message-Id: <Pine.GSO.3.95.970504203719.1254A-100000@u1.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

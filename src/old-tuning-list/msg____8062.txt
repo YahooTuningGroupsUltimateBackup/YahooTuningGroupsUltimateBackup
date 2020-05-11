@@ -1,0 +1,98 @@
+source file: m1445.txt
+Date: Fri, 12 Jun 1998 19:45:31 +0000
+
+Subject: Microtunable wish-list
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+POL wrote:
+
+> > Will the Ensoniq extrapolate an arbitrary-number-division
+> > *non-equally- tempered* non-octave scale? 
+
+John Loffink replied:
+
+> Yes, but if you extrapolate from key A to key B and the desired
+> interval is not an exact integer cents division you might get some
+> small error (1 cent per range) in the extrapolation.  Normally, you
+> define a full octave and extrapolate that.
+
+Excellent. Thanks.
+
+Also, I'm basically in agreement with all your responses to my 
+comments on the wishlist.  Of course, as you'lI understand, I treat
+the list as a place to spark ideas rather a place to define what goes
+out to anyone off-list.        
+
+> The idea is to keep this as simple as possible, thereby raising the
+> probability that these ideas 
+>will  be implemented.
+
+Yes.  At the same time its worth saying (here) what you really *do*
+want - in case someone here thinks of a way of simplifying it and
+making it more likely to happen.  
+
+> > 3. I'm unclear how far the last line of your high-end  spec
+> > addresses the question of adaptive tunings  ("real-time updates of
+> > note pitches is selectable per note as instant pitch correction or
+> > new note only").   Could this be made clearer/ elaborated upon? 
+> > An option to invoke built-in, user-configurable adaptivity should
+> > indeed be a requirement - at least in an ideal high-end machine. 
+> > How best to provide *user configurability* for real-time
+> > adaptivit(ies) is not my area - but others might like to suggest?
+> 
+> I'm open to any ideas on this.  I got the idea from the Justonic
+> folks.  I use new note only updates myself.  They were more inclined
+> to real-time updates, giving as an example barbershop quartets where
+> a pitch swoop wouldn't be out of place.  The MIDI Tuning standard
+> also requests real-time updates.  Do we really need both types
+> available simultaneously?
+
+Pass.  Is Bill (Sethares) on the list these days? any feelings on
+this?  Neither is something I use at all, currently, but the option 
+would be hugely advantageous, and I'm sure I would were it 
+convenient.  Two major problems are (a) defining the logic (b) 
+making that logic configurable. One thought: personally, I think I 
+would be more or less content if this could be implemented as a 
+convenient 'post-production' technique.  But people who are 
+interested in using these machines for live performance would 
+presumably want more than this?  
+
+> > 5. Measurements in Cents and/or Hz and/or *Ratios*(?).  To the
+> > What-Limit?
+> 
+> Again, we need to keep things simple for the manufacturers. 
+> Measurements in cents is all we need to define any scale.
+
+Personally, I'm perfectly happy with cents only.  The idea of having a
+unit that tunes in terms of ratios is, I think, rather interesting. 
+
+> > As regards interface: 
+> 
+> It's a good idea to give something like this as an example, but
+> phrase them as being options.
+
+Yes indeed: my example was meant to be just a suggestion to bounce
+around. 
+
+> It's important to break away the things that make
+> microtuning convenient from those that make it possible.
+
+As an ex database programmer I guess I thought the interface I 
+described very simple.  Maybe not for a synth/sampler?  But yes, I
+agree.  
+
+> I'd really like to see any possible simplifications to the wishlist.
+
+That might be acheieved by aiming a wish-list at a particular 
+forthcoming model from a particular manufacturer - choosing one 
+option only (from your three) and saying what you think is both 
+realistic and as near to ideal as will not be considered crazy for
+that particular model.  I guess the thing may be carved in stone by
+the time one hears of new models (?) but it seems worth a try.  No?   
+
+I have drafted a letters to Roland/Akai but not happy with it yet.  
+By the way, how would you feel if I referred to your wishlist URL 
+in it?
+
+Patrick O-L

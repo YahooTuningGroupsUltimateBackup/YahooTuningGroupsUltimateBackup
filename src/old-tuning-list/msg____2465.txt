@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Tue, 16 Jan 1996 18:08:34 -0800
+
+Subject: Re: Manuel Op de Coul's list
+
+From: Gary <71670.2576@compuserve.com>
+
+Bruce Gilson asked:
+>  my question is how precisely the given ET scale had to match the interval.
+
+   The pretty much accepted definition of precise just intonation - at least by
+the readers of this list (more on that in the last paragraph) - is that all
+notes must exactly match simple whole-number ratios.  Simplicity of the ratio,
+and accuracy of the match are the ideals, not any particular limit, as with
+5-limit Ptolemaic historical tunings.  
+
+   To me, it seems likely that in the 13th century (if memory serves, that's
+roughly when 5-based harmony began to be accepted as harmonious rather than
+dissonant) anything but those specific ratios recognized at the time, would have
+been considered inaccurate renditions of the accepted ones.  So, for example,
+I'd almost bet money that even an exactly precise 9:7 third would have been
+considered an off 5:4.  Time have changed though.  Every modern Just
+Intonationalist I know of views 9:7 as an ideal in its own right.  
+
+   Now an absolute, 100% exactly perfect match is almost always impossible, but
+therein lies the distinction between inidealities in the performance, and an
+accurate rendition of a tempered (nonjust) tuning.  
+
+   So to present a degenerate example, consider a performance by instruments
+tuned to equal-temperament and intended to produce 400-cent thirds, but wherein
+the performers consistently produced exactly precise 5:4 thirds.  In my book
+that would be failed performance in equal-temperament more than a successful
+performance in just intonation, although by default, it would be that as well.
+
+   My caveat to the "pretty much accepted definition", stems from the rather
+puzzling definition presented in the otherwise quite authoritative Harvard
+Dictionary of Music.  Best I recall, none of us on the list could make head nor
+tail of that definition.  Feel free to check the archives for more on that.  And
+a kind ambassador from the list sent (or at least attempted to send) a message
+to the Harvard folks.  The message read, to summarize down to a single a word,
+"huh?!".  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 17 Jan 1996 10:02 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id BAA18126; Wed, 17 Jan 1996 01:02:13 -0800
+Date: Wed, 17 Jan 1996 01:02:13 -0800
+Message-Id: <960117020359_71670.2576_HHB41-7@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

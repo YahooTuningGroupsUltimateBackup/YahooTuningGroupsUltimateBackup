@@ -1,0 +1,58 @@
+source file: mills2.txt
+Date: Wed, 9 Oct 1996 09:27:41 -0700
+
+Subject: Reply to Daniel Wolf
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+I think the disagreement/agreement between the fundamental bass and the 
+actual bass is a very important source of tension/resolution in music by any 
+of the composers you mentioned.
+
+>2) In that only pairs of tones will share harmonic series in a subharmonic
+>chord, the masking will be at a lower amplitude than for a harmonic chord
+>where all tones share a single series.
+
+Then you must be talking about a type of masking different from that which 
+is only a function of pitch proximity. I thought you weren't, which is why I 
+pointed out that subharmonic series will, ceteris paribus, lead to more 
+masking, due to the ubiquitous combination tones. However, you must be 
+talking about a phenomenon related to the virtual pitch phenomenon, wherein 
+partials in a harmonic relationship are subsumed into a single perception, 
+making the components difficult to hear. This phenomenon is quite easy to 
+
+demonstrate, it is what distinguishes harmonic series harmonies of sine 
+waves, and what makes harmonic-series chords easier for the brain to 
+understand than subharmonic series chords.
+
+>3) A division of a string into aliquot parts (subharmonic) is finite.
+>Successive harmonic divisions are not.  Example: the division of the string
+>into four equal parts yields four pitches of the subharmonic sequence 1/1,
+>4/3, 2/1, 4/1 and no more.
+
+This is because you have defined the string as the lowest possible pitch. 
+Clearly a series that proceeds downwards will reach a limit when you have 
+this constraint in place, while a series proceeding upwards will not.
+
+But you can always get a longer string to see what 5/4 or 55/4 of the 
+original string length sounds like. However, you will eventually reach 
+impossibly microscopic string lengths with a harmonic division. This 
+argument is going nowhere.
+
+>4) The period (for example, one second) is a function of our notation.
+
+And what isn't?
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 9 Oct 1996 18:28 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01802; Wed, 9 Oct 1996 18:29:36 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA01795
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA10071; Wed, 9 Oct 1996 09:29:28 -0700
+Date: Wed, 9 Oct 1996 09:29:28 -0700
+Message-Id: <31961009161113/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

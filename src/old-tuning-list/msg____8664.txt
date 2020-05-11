@@ -1,0 +1,50 @@
+source file: m1561.txt
+Date: Fri, 23 Oct 1998 12:21:06 +0200
+
+Subject: Re: Septimal schisma as xenharmonic bridge?
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+The interval 33554432/33480783 has also been named by Eduardo Sa'bat,
+Beta 2. Septimal schisma seems a good name to me.
+The bridges from Margo's post are easily found with Scala. It can take
+all the combinations of two intervals and check whether a given
+interval (some comma for example) is a sum or difference of them. The
+list of interval names intnam.par that is provided can be used for
+that. So do:
+
+load intnam.par
+show combination 33554432/33480783
+
+In this case, only differences are found:
+
+5120/5103 - 32805/32768
+Beta 5 - schisma
+64/63 - 531441/524288
+septimal comma - Pythagorean comma
+15625/15309 - 34171875/33554432
+great BP diesis - Ampersand's comma
+134217728/129140163 - 28/27
+Pythagorean double diminished third - 1/3-tone
+8/7 - 4782969/4194304
+septimal whole tone - Pythagorean double augmented prime
+16777216/14348907 - 7/6
+Pythagorean double diminished fourth - septimal minor third
+9/7 - 43046721/33554432
+septimal major third - Pythagorean double augmented second
+2097152/1594323 - 21/16
+Pythagorean double diminished fifth - narrow fourth
+32/21 - 1594323/1048576
+wide fifth - Pythagorean double augmented fourth
+67108864/43046721 - 14/9
+Pythagorean double diminished seventh - septimal minor sixth
+12/7 - 14348907/8388608
+septimal major sixth - Pythagorean double augmented fifth
+8388608/4782969 - 7/4
+Pythagorean double diminished octave - harmonic seventh
+27/14 - 129140163/67108864
+septimal major seventh - Pythagorean double augmented sixth
+1048576/531441 - 63/32
+Pythagorean diminished ninth - octave - septimal comma
+
+Manuel Op de Coul    coul@ezh.nl

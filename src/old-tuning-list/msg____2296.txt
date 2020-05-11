@@ -1,0 +1,123 @@
+source file: mills2.txt
+Date: Thu, 9 Nov 1995 19:44:05 -0800
+
+Subject: Re: guitars, slides & harmonics - simple help wanted
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+The situation you described when you play both sides of a string while moving
+the partition (slide) between the two strings, is what is called a "monochord",
+obviously meaning "one string", but clearly implying split into two vibrating
+sections.  
+
+   As for the relationship of the pitches in this situation, here's the scoop:
+As we know from how frets work, ONE of the two vibrating sections of the string
+ALONE while moving the slide can illustrate simple harmonic relationships.  If
+you don't play both sides of the string, you have a definite nut and bridge, the
+sound you're considering vibrating between the bridge and the slide (that would
+define the bridge).  
+
+   As you perhaps know, the frequency of a vibrating string is inversely
+proportional to its length.  So if you place the slide half-way up the string,
+you will have a string half the length, and thus twice the frequency of the
+pitch of the open string (i.e., no slide on the string at all).  If you were to
+place the slide 1/3 of the entire string's length from the bridge, the vibrating
+length of the string would be 1/3, so the frequency would be 3 times that of the
+string if you remove the slide from the string completely.  Similarly for 1/4 of
+the open string length, and so forth.  
+
+   But what if you DO sound the other side as well.  Let's place the slide in
+those same places and see what happens to the other part of the string.  Well,
+if you place the slide in the middle, you have 1/2 on one side, and 1/2 on the
+other, so the pitches are the same, as you correctly pointed out.  If you place
+the slide 1/3 of the way to one side as before, one part of the string will be
+at 3-times the open-string frequency.  What about the other side?  Well, it has
+2/3 of the open-string length, so it will sound at 3/2 of the open-string
+frequency.  
+
+   So, if you place the slide 1/3 of the open string length from one end, you
+will have pitches at 3 times and 3/2 times the frequency of the string if the
+slide were removed completely.  Clearly, 3 is two times 3/2, so the two
+frequencies are octaves apart.  
+
+   Similarly, if you place the slide at 1/4 of the open string length from one
+end, you will have string lengths of 1/4 and 3/4.  Those will then sound at
+frequencies of 4 and 4/3 times the frequency of the open string.  Clearly 4 is 3
+times 4/3, so the two frequencies will be a factor of three apart.  
+
+   But you asked what are the relationships between all of these frequencies?
+Well, let's look at those three cases:
+
+In terms of lengths:       In terms of frequency:     In terms of Pitch:
+
+           1/1                        1/1                        P1
+|-----------------------|  |-----------------------|  |-----------------------|
+
+     1/2         1/2            2/1         2/1             P8         P8
+|-----------0-----------|  |-----------0-----------|  |-----------0-----------|
+
+   1/3        2/3              3/1         3/2           P12          P5
+|-------0---------------|  |-------0---------------|  |-------0---------------|
+
+  1/4         3/4            4/1         4/3          dbl 8va       P4
+|-----0-----------------|  |-----0-----------------|  |-----0-----------------|
+                                                      (Note:  P1 = perfect uni.
+                                                              P8 = perf. octave
+                                                              P12 = perf. 12th
+                                                              P5 = perf. fifth
+                                                              (etc.)   )
+
+   The frequencies of the shorter parts of the strings are harmonics (1 times, 2
+times, 3 times, and 4 times) of the frequency of the open string.  The others
+are somewhat more complexly related to the each other and to the open string.
+If I recall correctly, they are called "superparticulars".  
+
+   But here's what's neat about the frequencies sounded by the larger parts of
+the string when you make the play harmonics on the smaller parts:  The are as
+far above the common open-string root pitch as the current harmonic is above the
+previous harmonic.  
+
+   So first time around, on the shorter half (left) of the string, we went from
+1/1 times whatever the frequency of the open string may be, to 2/1 times that
+frequency, a jump of an octave, which is as far above the open-string root pitch
+as the harmonic side jumped up.  The next time around, the pitch of the harmonic
+side jumped from an octave above the root pitch to a twelfth above the root
+pitch, an increase of a perfect fifth, and by golly, the longer end is a perfect
+fifth above that common root pitch.  Similarly, the third time, the pitch of the
+harmonic side went from a twelfth above the root pitch to a double-octave above
+that root pitch, a pitch change of a fourth.  And by golly, the pitch of the
+longer side is a perfect forth above the root pitch.  
+
+   This relationship occurs only if you stick with the "sweet spots" - the
+shorter side sticking with 1/2, 1/3, 1/4, 1/5, and so forth of the open string
+length.  
+
+   As for the other topic - other fingering patterns to pick out on your
+jumbush's fretless fingerboard - you might want to try subharmonic pitch
+relationships.  You can get them by placing imaginary frets at exactly equal
+distances apart all the way up the neck.  That rather than the usual
+ever-decreasing distance as you move your way up the neck toward the bridge.
+These subharmonic frequencies are 1/2, 1/3, 1/4, 1/5, 1/6, and so forth of a
+very high fret position.  
+
+   But there's a very important constraint here:  You must split the open string
+length into a whole-number of equal-sized pieces!  As I vaguely recall from Ivor
+Darreg's jumbush, the open string length is about 13 inches long.  You can
+therefore split that up into 13 uniform 1-inch long imaginary fret positions.
+But if your open string length is 13 and a half inches long, DON'T use a 1-inch
+sized imaginary fret spacing!, leaving a 1/2-inch piece at the end (especially
+not at the bridge end!).  Lengthen this uniform distance between your imaginary
+frets slightly so that you've segmented that 13.5-inch distance into an even 13
+pieces, or shorten it slightly into an even 14 pieces.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 10 Nov 1995 18:52 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA06750; Fri, 10 Nov 1995 08:52:32 -0800
+Date: Fri, 10 Nov 1995 08:52:32 -0800
+Message-Id: <Pine.A32.3.91.951110114011.141378A-100000@freenet2.freenet.ufl.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

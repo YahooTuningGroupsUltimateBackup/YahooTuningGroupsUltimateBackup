@@ -1,0 +1,60 @@
+source file: mills2.txt
+Date: Mon, 24 Feb 1997 09:46:07 -0800
+
+Subject: RE: Reply to Neil from Paul
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Gary wrote,
+
+>>>I probably ought to let Neil speak for himself, but I suspect that he 
+meant
+>>>less specifically than the harmonic series itself, but JI in general.
+
+I wrote,
+
+>>I see no difference here. I could say, "19 consistenly represents 9-limit 
+JI
+>>and 34 consistenly represents 5-limit JI," but I didn't want to start the
+>>odd vs. prime debate on the definition of "limit" again.
+
+Gary wrote,
+
+>I'm not sure about 19 or 34 right off the top of my head, but there is a
+>difference:
+
+>Approximating the harmonic series itself forces them to be represented
+>relative to the fundamental of that series.  Two harmonic approximations in
+>some equal-temperament could, for example, be way flat of the harmonics
+>they are closest to, but if they are nearly equally flat, then that tuning
+>will have a pretty good approximation to that frequency ratio, but not of
+
+>either of those harmonics.
+
+Gary,
+Yes, you are correct. There is a difference. My comments are meaningless 
+with respect to a "relations between the fundamental and other members of 
+the harmonic series" viewpoint, but they do apply to a "small-integer-ratio" 
+viewpoint. So why your comment above (first quote above)?
+
+By the way, the difference between the two viewpoints leads to two different 
+JI lattice constructions. The RBFAOMOHS view leads to rectangular lattices, 
+while the SIR viewpoint leads to triangular lattices. Exploring the 
+relationship between these views in 5-dimensional lattices led me to some 
+interesting discoveries about the tiling of 5-dimensional space with regular 
+hyperpolyhedra (which happen to be various Wilson CPSs from [1,3,5,7,11]).
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 24 Feb 1997 18:49 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17776; Mon, 24 Feb 1997 18:49:41 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA17772
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id JAA10291; Mon, 24 Feb 1997 09:47:37 -0800
+Date: Mon, 24 Feb 1997 09:47:37 -0800
+Message-Id: <009B060B13FE003D.3465@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

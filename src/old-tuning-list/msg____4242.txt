@@ -1,0 +1,292 @@
+source file: mills2.txt
+Date: Wed, 4 Dec 1996 08:30:30 -0800
+
+Subject: From McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Paul Erlich's "tonalness" algorithm
+and the purported "central pitch processor" - 2 of 2
+[slightly edited for style --JC]
+My previous post discussed some of the strong evidence
+against Terhardt's, Wightman's and Goldstein's theories
+of pitch perception, upon which Paul Erlich might have
+relied too heavily in developing his "tonalness"
+algorithm.
+Paul Erlich is surely correct if he is stating that "there
+can be no doubt" about the existence of *some* kind
+of higher-level pitch detection mechanism deep inside
+the brain.  Dichotic-harmonic virtual pitch experiments
+have proven that conclusively.  However, while we now
+know that *all* pitch perception does *not* occur
+entirely in the basilar membrane *or* along the eighth
+nerve, we do *not* know for certain the specific
+higher-level brain mechanism which produces pitch
+detection form dichotic inputs.  Nor are we at all
+clear on the exact nature of the contribution from
+the 8th nerve, except that it must be significant--since
+deaf people can hear *something* when auditory nerves
+are stimulated cyclically.
+Summing up these problems with all available theories
+of human audition in 1988, James O. Pickles states:
+"Frequency difference limens are very much smaller
+than critical bands. Two mechanisms are possible.
+For instance, the subject may detect shifts in the
+place of excitation of the cochlea.  This is called the
+'place theory.'  Or he may use temporal information. We
+know that the firing in the auditory nerve is phase-locked 
+to the stimulus waveform up to about 5 khz. In this 
+theory, called the 'temporal' [that is, 'periodicity'] theory,
+the subject discriminates the two tones by using the
+time interval between the neural firings. It is not clear
+which of the two mechanisms is used. Indeed the controversy
+has been active for more than 100 years, and the fact
+that it is not yet settled shows that we still do not
+have adequate evidence.  Auditory physiologists
+divide into three groups, namely those that think
+only temporal information is used, thouse that think
+only place information is used, and an eclectic group, 
+who suppose that temporal information is used at
+low frequencies, and only place information at high."
+[Pickles, J. O., "An Introduction to the Physiology of
+Hearing," Academic Press, 2nd ed., 1988, pg. 271]
+--
+By placing perhaps excessive reliance on Terhardt's 
+theory--which systematically contradicts the
+psychoacoustic data in a number of cases--Paul
+Erlich may have prematurely narrowed his
+options too greatly.  Terhardt's theory is a
+good one, in particular because it is able to explain
+stretched partials heard as a "pure" harmonic series--
+but even so, Terhardt's theory has problems because
+it ignores the apparently important role of temporal
+information in human hearing below 500 Hz, and
+also because it has problems with the minor mode
+in western music, and it systematically produces the
+wrong predictions for inharmonic tone complexes.
+One of the biggest problems with current place
+theories of hearing is that they are still largely
+empirical.  The reason for this is that existing 3-D
+hydroelastic models for the human cochlea
+are fiendishly difficult to evaluate mathematically.
+In order to "determine the solution for the 
+displacement of the basilar membrane, it is 
+necessary to solve a nonlinear eigenvalue problem 
+for the local inviscid wavenumber k zero." [Holmes, 
+Mark A., "Frequency Discrimination in the Mammalian
+Cochlea: Theory versus Experiment," J. Acoust.
+Soc. Am., 81(1), Jan. 1987, pg. 110]
+Solving a nonlinear eigenvalue problem is no
+walk in the park.  The way you do this is: guess 
+the solution, input it, let the computer
+churn until the solution begins to diverge out
+of bounds, then do it over again. And over. And 
+over...  There's a large element of black magic
+and intuition to this kind of thing--there's
+an enormous premium on being a good
+guesser.  Alas, when the p.d.e. is non-linear,
+predictor-corrector methods like Runge-Kutta
+don't help much.  Your solution diverges to 
+infinity long before the corrector can kick
+in to save it. Point-and-shoot methods like
+Newton's and variations on the steepest descent
+theme are even worse: they fly off to infinity
+almost immediately. Adaptive methods don't
+help because when the solution starts to diverge
+the adaptive loop cranks the iteration
+increment down to such a small value that the 
+CPU bogs down and memory blows out.
+So the bottom line is that we need a *lot*
+more data and *much* better
+mathematical models of the inner structures
+of the human ear before we can hope to get
+at the truth of the human auditory apparatus.
+At present, the best guess is that both
+place and periodicity mechanisms appear
+to be involved in pitch perception, and some
+sort of neural net *may* be involved.
+--
+Paul Erlich mentions specific "central pitch
+processor" theories by Wightman and 
+Goldstein.   These are hybrid theories which
+became fashionable about 25 years ago
+in a number of guises. Goldstein offers
+one version, Wightman another, more recently
+(in 1991) Meddis and Hewitt: "Virtual Pitch
+and Phase sensitivity of a computer model
+of the auditory periphery," I & II, 1991, J.
+Acoust. Soc. Am., Vol. 89., pp. 2866-2894.
+Wightman's pattern transformation theory
+suffered a severe blow in 1979--see A. J. M.
+Houtsma, "Musical pitch of 2-tone complexes
+and predictions by modern pitch theories,"
+J. Acoust. Soc. Am., Vol. 66, No. 1, July 1979,
+ppg. 87-98.
+"Among the three popular pitch theories only
+the optimum processor theory [Goldstein's]
+ is able to account for most of the data
+is a quantitative sense.  The virtua pitch theory,
+which in its original formulation can account for
+most phenomena only in a qualitative sense, can
+be brought into quantitative agreement with most
+experimental results through some modifications
+which make it yield results very similar to the 
+optimal processor theory.  The pattern transformation
+theory was found to be significantly less supported
+by empirical results, especially by results obtained
+with successive harmonic two-tone complexes that
+were already available in the literature. Attempts to
+find a suitable modification of this theory that would
+bring its predicitions and experimental results in
+closer agreement were not successful. None of the
+theories presently accounts in a quantitative way
+for the apparent constatn rivalry between analytic
+and synthetic mode pitch perception which is always
+present in experiments that use complex tones."
+[Houstmas, A. J. M., op cit., 1979, pg. 98]
+And so Wightman's and Goldstein's models have been
+supplanted in the 1980s and 1990s by spatio-temporal
+theories most of which are non-deterministic--
+that is to say they use a form of Boltzmann
+machine (AKA neural net) rather than a set
+of deterministic algorithms to extract
+pitch.  (Note: Goldstein's model is also
+non-deterministic, but to the best of my
+knowledge it's not a neural net.) 
+For example:  see "A Spectral Network
+Model of Pitch Perception," by Cohen, M. A.,
+Grossberg, S., and Wyse, L. L., J. Acoust. Soc.
+Am., 98 (2), August 1995, pp. 862-879.
+This last model appears to be the best one
+yet, far superior to the Wightman or Goldstein
+models.  For one thing the Cohen et al. "Spectral
+network" model produces reasonable output
+from Shepard tone input and also from Deutsch
+tritone-paradox input *without* the use of
+ad hoc attentional mechanisms.
+Wightman's or Goldstein's model both require
+external ad hoc constraints to reproduce the
+Deutsch results for tritone stimuli.
+Serious problems remain with the hypothesis of
+a *specific* central pitch processor.  To date, no 
+specific (today, neural-ent spatio-temporal) central
+processor model can account for the Zwicker
+tone, for the effects cited in "The influence
+of duration on the perception of pitch in single
+and simulatneous complex tones," Beerends, J.
+G., J. Acoust. Soc. Am., 86(5), 1989, pg. 1835-
+1844 ("subjects tend to switch to the
+analytic mode of pitch perception when when
+complex tones are shortened--i.e., they tend
+to hear the psectral pitches instead of the
+virtual ones"), or in Cross, West and Howell's
+"Pitch Rleations and the Formation of Scalar
+Structure," Music Perception, 1985, 2(3),
+pp. 329-344 ("Experimental results indicate
+that important aspects of musical judgment
+are well accounted for by logical consequences
+of such formal definitions, without the necessity
+of invoking either simplicity of frequency ratios
+or musical 'well-formedness.'"),  or the effects
+noted in "Brightness and Octave Position: Are Changes
+in Spectral Envelope and In Tone Height
+Perceptually Equivalent?" Contemporary Music
+Review, 1993, 9(1&2), pp. 83-95, ("Rapid changes
+in spectral envelope have been reported to 
+influence estimation of octave position by
+musically trained listeners"), or Jan Nordmark's
+points in "Mechanisms of Frequency Discrimination,"
+J. Acoust. Soc. Am., 44(6), 1968, pp. 1533-
+1539 ("the main difficulties of the place theory:
+why a well-defined pitch could be heard corresponding
+to the fundamental of a complex sound even when
+the fundamental was wek or absent, and why one
+coudl be heard also for very short tones. (..) The
+second difficult of the place throy arises from 
+the fact that the pitch dscirimination of which 
+human beings are capable seems to indicate a sharp
+resonance and consequently a very low degree of
+damping on the basilar membrane. The short
+time required for a clear tonal impresison, on the other
+hand, pointed to a high degree of damping"), or some
+of Irwin Pollack's results in "Ohm's Acoustical Law
+and Short-Term Auditory Memory,' J. Acoust. Soc.
+Am., 36(12), 1964, pp. 2340-2345 ("Contrary to the
+expectation of Ohm's acoustical law, listeners were
+relatively unable to accurately 'extract' components
+from nonharmonicaly related tone combinations")
+or the many papers dealing with changes in virtual
+pitch associated with detuning a single or a group
+of harmonics in a strictly harmonic computer-generated
+timbre.
+In particular, slightly inharmonic tone complexes are
+the Achilles' heel of central processor theories, which
+violently conflict with the results of William Sethares'
+mapped timbre experiments in which inharmonic
+overtones are specifically algorithmically mapped
+to a the sensory dissonance curve of a given non-12
+scale.
+--
+The bottom line?
+Before settling on Terhardt's thery (which the first
+two papers cited in the previos post punched full of holes)
+or the Wightman or Goldstein central processor theories
+(also badly damaged by the 2nd and 3rd papers cited here),
+At the start, circa 400 B.C., Empedocle's theory of
+"implanted air" assumed that all pitch perception
+took place directly in the ear; by the 1840s, Helmholtz
+thought pitch perception took place entirely in the
+cochlea.  By the 1940s Schouten et al. thought pitch
+perception took place entirely in the 8th nerve,
+and by the 1970s Wightman, Goldstein, et al. thought
+pitch perception took place much farther inside
+the brain via a computer-like mathematical
+algorithm.  The most recent (1991, 1995) pitch
+perception theories assume that hearing takes
+place in a complex neural net distributed throughout
+the higher brain loci.  Instead of an algorithmic loop,
+these spectral network theories have more of the
+flavor of a cake being baked--you can specify
+pretty precisely the ingredients and procedures
+required  to bake a cake with the required 
+characteristics, but the math of baking a cake
+molecule-by-molecule is imponderable--it's a 
+highly parallel and highly non-linear process
+in which the main events are thermodynamic rather
+than algorithmic (as in neural nets, whose distribution
+of nodal weights is more usefully viewed from the
+point of view of entropy than of algorithms).
+Notice, first, that successive investigators have
+chased the "location" of pitch perception farther
+and farther up the inner ear and into the brain,
+until today there's no "location" at all other
+than a large set of ganglia spread throughout
+the Sylvian fissure.
+Second, notice that each era described pitch
+perception in terms of the highest technology
+then available: in 400 B.C., a vibrating
+drum, in the 1840s a mechanical Fourier
+transformer, in the 1940s a time-based
+electronic autocorrelator, in the 1970s
+a complex computer program operating as
+a "central processor," in the 1990s a highly
+parallel neural net.
+
+--mclaren
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Dec 1996 01:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22013; Thu, 5 Dec 1996 16:02:55 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA21950
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA21562; Thu, 5 Dec 1996 07:02:51 -0800
+Date: Thu, 5 Dec 1996 07:02:51 -0800
+Message-Id: <961205145941_71670.2576_HHB56-3@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

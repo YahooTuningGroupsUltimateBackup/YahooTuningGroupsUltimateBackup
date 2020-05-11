@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Sun, 10 Dec 1995 05:45:30 -0800
+
+Subject: recent Apple hardware and sound problems
+
+From: Paul Rapoport <rapoport@mcmail.cis.mcmaster.ca>
+
+On the subject of Carter Scholz's point re Apple hardware and sound 
+production:
+
+The lab here bought several Performa 5200s over the summer. Initially,
+Lime would not launch. According to the Lime people, Apple created a
+machine that did not work with its own MIDI manager. 
+
+Most recent versions of Lime use QuickTime instead, thus enabling the
+program to run most of its functions, but it may be impossible to use MIDI
+with the current version of QuickTime. (I am unsure: the problem may lie
+only with Apple's MIDI manager.) The Lime people responded immediately to
+our problem, but they cannot fix what seems to be Apple's mistake. 
+
+I'd be interested in anyone else's experience with MIDI on a Performa 
+5200, using any music software.
+
+==========================      =================================
+Dr. Paul Rapoport               e-mail:	rapoport@mcmaster.ca
+SADM (Music)	                   tel: 905 529 7070, ext. 2 4217
+McMaster University                fax: 905 527 6793
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 14 Dec 1995 02:15 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA12025; Wed, 13 Dec 1995 17:15:13 -0800
+Date: Wed, 13 Dec 1995 17:15:13 -0800
+Message-Id: <Pine.SUN.3.91.951213170834.13585A-100000@equinox>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

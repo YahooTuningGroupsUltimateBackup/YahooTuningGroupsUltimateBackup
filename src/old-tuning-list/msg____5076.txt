@@ -1,0 +1,51 @@
+source file: mills2.txt
+Date: Thu, 13 Mar 1997 13:10:47 -0800
+
+Subject: Re: the Moon
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Thu, 13 Mar 1997, Aline Surman wrote:
+> So, here's a question I've always wanted to ask some physicist sort, and 
+> since a lot of the great tuning theorists are exactly that, now's the 
+> time to ask. Why is it that the Moon always keeps one face turned to us? 
+> I've long thought that seemed sort of odd. What sort of math is at work, 
+> on a very basic level, to make that happen, and why? Is that common with 
+> Moons in general, or is Earth an exception? It seems to me that it makes 
+> more sense if the two spheres were off a bit, so to speak, and that the 
+> Moon would gradually show all of it's surface. Any ideas?
+
+This is a fairly basic phenomenon called "Tidal locking".  Ask an
+astrophysicist if you want a really good explanation, but basically:
+the near side of the moon is closer to the earth than the far side, so
+the earth's gravity pulls harder on it.  This exerts a radial stretching
+force on the moon.  As the moon turns (turned, early in its history),
+the tidal force stretches it in different directions.  This constant
+distortion creates friction which dissipates the rotational energy of
+the moon.  Eventually it's all gone, so the same face of the moon ends
+up oriented toward Earth all the time.
+
+Before you get too caught up exploring the mystical significance of
+ultra-high harmonics of the period of the moon, though, I'd point out
+Carl Sagan's refutation of astrology: the gravitational force of the
+obstetrician is greater than that of a moon or planet, at the moment of
+your birth. 8-)>
+
+--pH <manynote@library.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "'Jever take'n try to give an ironclad leave to
+  -\-\-- o    yourself from a three-rail billiard shot?"
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 13 Mar 1997 22:30 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11442; Thu, 13 Mar 1997 22:29:59 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA11433
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id NAA08867; Thu, 13 Mar 1997 13:28:02 -0800
+Date: Thu, 13 Mar 1997 13:28:02 -0800
+Message-Id: <33c2d338.1100033738@kcbbs.gen.nz>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

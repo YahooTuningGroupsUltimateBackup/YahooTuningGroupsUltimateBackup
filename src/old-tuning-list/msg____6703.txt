@@ -1,0 +1,90 @@
+source file: mills3.txt
+Date: Thu, 18 Dec 1997 16:32:13 +0100
+
+Subject: My melodic lemon
+
+From: Steven  Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+
+[Bill Sethares -- I don't mean to cop your pun, I came up with it
+quite independently on the way to work this morning.  Honest. ;-)
+Steve]
+
+The recent discussion re melodic limits of preception have caused me
+to look a bit more in depth at an experience I had a month or so ago.
+At the time, I simply accepted it as the "fruit of my labor" in
+working with micro-tunings starting to pay off, but I'm wondering if
+theres more.  As provocative as it may seem, my question here isn't
+merely rhetorical, and I'd like to have some opinions from the field.
+
+I had gone to see a guitarist that I admired, and hadn't seen for a
+good many years (Ellen McIlwaine), and was rather suprised when she
+introduced a piece dedicated to Usted Ali Akbar Khan.  During this
+piece, a particular interval continually sounded wrong to me, and I
+concluded that it might have had something to do with the fact that
+I had spent that entire afternoon listening to Arabian and Moroccan
+music.
+
+So far as I could tell, she was hitting a 12TET major third, but it
+sounded far too "bright" for the piece.  A minor wouldn't have done
+right either -- it would have been flat.  This wasn't a subtle
+"something's not quite right", either.  It stuck out like a sore
+thumb throughout the piece.
+
+To get to the meat of the matter, I looked in what references I have
+last night, to try and find an explanation.  What I came up with
+as likely intervals were:
+
+	1) 408 cents
+	2) 384 cents
+	3) 355 cents
+
+I think I can discount #1 right off -- even if I could have noticed
+the 8 cent difference, it would have been even "brighter".  So that
+leaves #2 & #3.  I seriously doubt that I was hearing a comma, as I
+have to work at it to hear it in some of the JI recordings I have
+where it is being demonstrated.  #3 then seems likely.  I'm not too
+familiar with this music yet, but there does seem to sometimes be a
+"neutral" sounding third, neither major nor minor, that crops up in
+some of the melodies.
+
+I cross-checked with 19, 22 and 24 tet as well.  Neither 19 nor 22
+offer an interval that has that sort of sound, and the closest
+approximations involve differences on the order of 20 or 30 cents, and
+they display majorness or minorness, and while I don't have anything
+set up to give 24, it does have a 350 cent "quartertone" derived
+neutral third.
+
+So, was I clearly hearing an out of tune rendition of a neutral third,
+and hence a melodic difference of 45 cents, and that under "real"
+conditions?  Inquiring minds want to know...
+
+Steve
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  19-tone Equal Octave Stretch
+PostedDate:  18-12-97 16:47:36
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-12-97 16:45:27-18-12-97 16:45:28,18-12-97 16:45:04-18-12-97 16:45:05
+DeliveredDate:  18-12-97 16:45:05
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256571.00568E28; Thu, 18 Dec 1997 16:47:21 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29406; Thu, 18 Dec 1997 16:47:36 +0100
+Date: Thu, 18 Dec 1997 16:47:36 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29401
+Received: (qmail 22822 invoked from network); 18 Dec 1997 07:47:33 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 18 Dec 1997 07:47:33 -0800
+Message-Id: <3499A7ED.7BFE@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

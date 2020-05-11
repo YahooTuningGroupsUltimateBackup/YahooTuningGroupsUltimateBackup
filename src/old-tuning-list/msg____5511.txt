@@ -1,0 +1,108 @@
+source file: mills2.txt
+Date: Tue, 20 May 1997 16:03:28 +0200
+
+Subject: Equal Divisions -- of What?
+
+From: PErlich <AAM/AAM/PErlich%Acadian@mcimail.com>
+
+David wrote,
+
+> Lost ya there.  Doesn't "quantization" denote equal divisions?  E.g., in 
+what
+> sense are the two spaces in 1:1, 9:8, 5:4 equal, or based on equal 
+divisions
+> of linear frequeny space, whatever that means?  Strange as it might seem,
+> after years of picturing frequency space logarithmically, I can't get 
+myself
+> to visualize it linearally - it doesn't seem to make any sense that way.
+> 
+The short answer is that 1:1, 9:8, 5:4 means, say, 800, 900, and 1000 Hz 
+(cycles per second), so that the "equal divisions" are of 100 Hz each. 
+Couldn't be simpler. Picturing frequency space linearly is typical when 
+working with Fourier transforms, etc.
+
+However, pitch space is not the same as frequency space. In fact, pitch 
+space most closely resembles log-frequency space. An example where this is 
+important is in distinguishing between _true_ or _physical_ white noise and
+_psychoacoustic_ white noise. The two are very different. White noise has 
+equal power in any constant intervals in a linear frequency scale. To quote
+Manfred Schroeder,
+
+"Pink noise, also called 1/f noise, has equal power in octave frequency 
+bands or any constant intervals on a _logarithmic_ frequency scale. This is
+a desirable attribute in many applications. For example, pink noise is a 
+favorite test signal in hearing research and acoustics in general because 
+it approximates many naturally occuring noises. Pink noise also has the 
+approximate property of exciting equal-length portions of the basilar 
+membrane in our inner ears to equal-amplitude vibrations, thus simulating a
+constant density of the acoustic nerve endings that report sounds to the 
+brain. Pink noise is therefore the _psychoacoustic_ equivalent of white 
+noise."
+
+David seems to be right that picturing frequency space logarithmically 
+makes more sense. Indeed, it is more natural, given that nature gave us 
+basilar membranes on which equal lengths correspond to equal portions of 
+log-frequency space. So it is odd that David asks,
+
+>I'm working on the assumtion that a tuning which correlates to the way we 
+and
+>our world are made would, *by virtue of that fact*, provide a more solid
+>foundation for more meaningful and profound compositions.  That would seem
+to
+>be a foregone conclusion, at least through the window of my world-view.  
+If
+>any of you disagrees with that assumption and can cite anything other than
+>purely circumstantial evidence against it, please shoot me down.  Please! 
+:-)
+
+with JI in mind as the most natural tuning. David, care to reconsider?
+
+Now for the long answer. In mathematics we have harmonic series as 
+contrasted with arithmetic series as well as geometric series. The harmonic
+series is named after the musical harmonic series, since when looking at 
+the length of a string, or wavelength of the sound wave, or repetition time
+of the waveform, the partials of a perfect string go as
+
+1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, 1/9, 1/10, . . .
+
+So that is the harmonic series as known to mathematicians. This certainly 
+does not appear equally spaced in terms of human quantities like length and
+time. So what is? What is the musical equivalent of the mathematical 
+arithmetic series
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10?
+
+The answer: the subharmonic series! Subharmonics are integer multiples of 
+the string length, wavelength, or repetition time of the "fundamental." 
+(Note that I am not ascribing any musical significance to this fact).
+
+Finally, consider the geometric series
+
+ . .x^-9, x^-8, x^-7, x^-6, x^-5, x^-4, x^-3, x^-2, x^-1, x, x^2, x^3, 
+x^4, x^5, x^6, x^7, x^8, x^9, . . .
+
+where x>0 and x does not equal 1. Whether the units of measurement are 
+string length or wavelength or time period, as above, or frequency, as in 
+the 800:900:1000 Hz example, the result is the same: equal temperament! 
+Conversely, if you take the log of the above series, you get the integers, 
+so you can see that an equal temperament is equally spaced in log-frequency
+or even log-length or log-time space.
+
+Anyhow, it appears that from a physical point of view, the subharmonic 
+series is what most people would describe as "equally spaced," while 
+psychologically, since we hear pitch in log-frequency space, an equal 
+temperament is the tuning most likely to be heard as equally spaced.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 20 May 1997 16:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06132; Tue, 20 May 1997 16:04:27 +0200
+Date: Tue, 20 May 1997 16:04:27 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA06133
+Received: (qmail 394 invoked from network); 20 May 1997 14:04:21 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 20 May 1997 14:04:21 -0000
+Message-Id: <97051923410702/0005695065PK2EM@mcimail.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

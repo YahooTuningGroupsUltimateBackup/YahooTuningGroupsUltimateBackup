@@ -1,0 +1,163 @@
+source file: m1474.txt
+Date: Mon, 13 Jul 1998 21:58:26 -0700 (PDT)
+
+Subject: Positive tunings and adjectives
+
+From: "M. Schulter" <mschulter@value.net>
+
+Hello, there, everyone, and thank you all for making such a valuable
+forum possible. Already, some of you have offered me invaluable
+assistance and dialogue, and in fact this hospitality is one factor
+drawing me here.
+
+As a curious topic for a first post, why don't I focus on a question
+of language and stereotyping -- happily not of people, but of a
+somewhat undervalued group of intervals: Pythagorean thirds and
+sixths. Also, as a kind of coda, I suggest that Ludmila Ulehla's
+concept of "dual-purpose" sonorities as a third category somewhere
+between full concord and urgent discord might enrich discussions of
+various tunings and their characteristic intervals.
+
+
+--------------------------------------------
+1. Gothic and neo-Gothic interval aesthetics
+--------------------------------------------
+
+While it is generally agreed that a "just" major third has a ratio of
+5:4, and that a "pure" major third likewise implies this simplest
+ratio, how about some friendly adjectives for the Pythagorean major
+third of 81:64, or for that matter the major sixth of 27:16?
+
+Here my special interest is Pythagorean tuning in the context of the
+Gothic polyphony of the 13th and 14th centuries in Europe, where these
+Pythagorean intervals play an integral role in the harmonic
+style. Carl Dahlhaus and Mark Lindley, for example, have written
+eloquently on this point.
+
+In a Gothic setting an M3 of 81:64 (about 407.82 cents) or an M6
+of 27:16 (about 905.87 cents) have the virtue of expanding very
+efficiently to the stable goal of a fifth and octave respectively.
+How can we express the positive qualities of these intervals in a
+medieval setting while making clear their differences from the 5:4 and
+5:3 forms favored in tertian styles of harmony?
+
+These same issues may apply with even more force to tuning systems
+such as 17-tet, which offer major thirds and sixths _wider_ than
+Pythagorean, which expand even more efficiently to the fifth and
+octave with diatonic semitones even keener than the usual 90-cent
+limma of 256:243.
+
+Marchettus of Padua (c. 1318) advocates cadential leading tones of
+only around 1/5-tone or 2/9-tone (depending on one's interpretation of
+his unorthodox division of the whole-tone) for the M6-8 and M3-5
+resolution. While a literal reading would produce a cadential M3 at
+around 450 cents, and M6 at around 950 cents, we might take him more
+freely to recommend a cadential tuning of these intervals somewhat
+wider than there usual Pythagorean forms, possibly comparable to those
+of 17-tet (about 423.53 cents and 917.64 cents).
+
+The following standard Gothic cadence, tuned in regular Pythagorean
+and in 17-tet, may illustrate these points, with apologies for slight
+rounding discrepancies. Numbers in parentheses represent vertical
+intervals above the lowest voice, and other numbers represent the
+melodic motion of each part up or down, all measured in cents.
+
+   Classic Pythagorean                            17-tet
+
+    e'--  +90.22 -- f'                      e'--  +70.59 -- f'
+ (905.87)        (1200.00)               (917.64)        (1200.00)
+    b --  +90.22 -- c'                      b --  +70.59 -- c'
+ (407.82)        (701.96)                (423.53)        (705.88)
+    g -- -203.91    f                       g -- -211.76    f
+
+   M6               8                       M6               8
+   M3               5                       M3               5
+
+In our classic Pythagorean example, and even more dramatically in
+17-tet, the active M3 and M6 expansively seek the fifth and octave,
+The generous whole-tone motions and keen semitonal motions of the
+parts contribute to the total harmonic effect of active tension very
+efficiently resolved. We arrive at the ideally concordant three-voice
+combination of the Gothic with outer octave, lower fifth, and upper
+fourth (string-ratio 6:4:3, frequency ratio 4:3:2).
+
+
+-------------------------------------------
+2. Positive adjectives for positive tunings 
+-------------------------------------------
+
+Here I would like to suggest that Pythagorean thirds and sixths in a
+Gothic context may felicitously be described as "active," "vibrant," 
+"bright," and "dynamic." They are also, of course, "unstable," but at the
+same time regarded in theory and practice as _relatively_ blending. They
+are points of motion, or of diversion, not points of arrival. 
+
+In contrast, pure thirds and sixths in a Renaissance context might be
+described as "restful," "optimally blending," "smooth," "tranquil."
+
+This kind of contrast applies not only to these intervals, but to
+others whose _musical_ uses change along with stylistic developments,
+and thus also, quite possibly, their optimal tuning for a given
+purpose.
+
+One interesting reflection of a Gothic viewpoint, possibly relevant to
+lines of experimentation with 17-tet and other positive tunings (my
+special interest), is that a major third or sixth of full Pythagorean
+proportions is said to be "perfected," because it approaches as
+closely as possible its cadential goal of the fifth or octave. This
+"striving" to expand to stability is an element of the Gothic musical
+language which maybe might be emphasized more often in discussions
+about the Pythagorean intervals and their aesthetic qualities.
+
+
+-----------------------------------------------------
+3. Dual-purpose sonorities: a xenharmonic perspective
+-----------------------------------------------------
+
+Finally, an aside which might apply to many musical styles, but I
+suspect especially to contemporary just intonation (Pythagorean or
+otherwise) and xenharmonic settings.
+
+Often there is a tendency to divide intervals and combinations into
+two categories: consonance/dissonance. However, whether we are
+analysing Gothic or impending 21st-century music, a middle category
+might go far to increase the subtlety of the discussion.
+
+Ludmila Ulehla has proposed the term "dual-purpose" sonority to
+describe an interval or combination which may be somewhere between
+stable concord and urgent discord; the medieval concept of "imperfect
+concord" or "imperfect discord" ("imperfect" meaning "partial, semi-")
+seems to convey a similar concept. Although Ulehla focuses on the era
+from around 1750 to the 20th century, her approach may nicely fit
+earlier practice and theory as well as new xenharmonic developments.
+
+In a 13th-century setting, for example, a interval such as 81:64 or
+three-voice combination such as 9:6:4 seems to be regarded as
+relatively blending and euphonious, but unstable; and the same
+category might fit many of the sonorities of extended just intonation
+or xenharmonics in certain settings. To describe such sonorities
+simply as "concordant" may not convey their instability, while the
+adjective "discordant" may not convey their perceived level of
+independent euphony or "coloristic" appeal apart from any immediate
+resolution. Of course, both dual-purpose sonorities and stronger
+"discords"
+
+In these terms, the apparent transition during the 15th century from
+Pythagorean to meantone keyboard tunings reflects a shift in the role
+of M3 and M6 from active dual-purpose sonorities (81:64, 27:16) to
+more restful concords (5:4, 5:3). Similarly, the possible tunings of
+the minor seventh at 16:9, 9:5, and 7:4 may represent different levels
+of tension desired in divergent styles, as well the exigencies of
+fitting m7 into a larger scheme of things.
+
+In conclusion, I should emphasize that 17-tet, for example, is by no
+means limited to "neo-Gothic" applications, but might be very
+congenial to such applications. Also, 81:64 might have xenharmonic
+applications quite different from those obtaining in medieval
+polyphony, which suggest only one very effective use of this
+interval.
+
+Most respectively,
+
+Margo Schulter
+mschulter@value.net

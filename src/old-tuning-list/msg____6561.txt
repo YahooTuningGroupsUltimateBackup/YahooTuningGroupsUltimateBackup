@@ -1,0 +1,66 @@
+source file: mills3.txt
+Date: Mon, 8 Dec 1997 22:24:01 +0100
+
+Subject: repeating patterns
+
+From: James Kukula <kukula@synopsys.com>
+
+Here's something I've wanted to try, maybe someone already has. Suppose I
+took two 12TET scales separated by 80/81. Then one would have both nice
+sounding thirds and a wide open modulation horizon.
+
+One idea I had for a keyboard setup was to use the left hand on one 12TET and
+the right hand on the other. Then to play a simple diatonic scale one might
+have a pattern like RRLRRLLR.
+
+Equal tempered scales have the property that each note has the same set of
+intervals available. With other scales, notes will fall into some set of
+classes based on what precise intervals are available. Most non-ET scales
+repeat on an octave cycle, so a typical 12 note per octave scale would have
+12 distinct classes of notes.
+
+The scale I propose above would have 24 notes per octave, but break into just
+two classes.
+
+Conventional ET is not the only system with interval symmetry. One can have
+multiple generating intervals instead of just one. For example if one takes
+the set of pitches (2**n)(3**m) then every note has the same intervals
+available.
+
+If I understand how the "k-limit" term is used, it might be useful to make a
+finer distinction. Suppose I take a set of notes (2**n)(3**m)(5**p) where n
+and m are unbounded but p is constrained to be 0 or 1. My understanding is
+that this scale would be called 5-limit. The scale where p is also allowed
+unbounded values would also be 5-limit. Perhaps the case of unbounded
+exponents is not of sufficient interest to merit a new term?
+
+Jim   
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  Reply to Gregg Gibson
+PostedDate:  08-12-97 23:35:10
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  08-12-97 23:33:24-08-12-97 23:33:25,08-12-97 23:33:12-08-12-97 23:33:12
+DeliveredDate:  08-12-97 23:33:12
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256567.007BE3EF; Mon, 8 Dec 1997 23:33:12 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10006; Mon, 8 Dec 1997 23:35:10 +0100
+Date: Mon, 8 Dec 1997 23:35:10 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09922
+Received: (qmail 13460 invoked from network); 8 Dec 1997 14:35:07 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Dec 1997 14:35:07 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971208221545Z-466@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

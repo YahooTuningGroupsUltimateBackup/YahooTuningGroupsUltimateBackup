@@ -1,0 +1,141 @@
+source file: m1386.txt
+Date: Wed, 15 Apr 1998 12:35:44 -0500
+
+Subject: RE: delurking (synthesizer tuning capabilities)
+
+From: "Loffink, John" <John.Loffink@COMPAQ.com>
+
+> From: mr88cet@texas.net (Gary Morrison)
+> 
+	...And the MR series, and apparently
+	the ASR-X, comply with the MIDI tuning standard which, as I
+understand it,
+	has well-defined provisions for dynamic intonation.
+
+I recommend the Ensoniq ASR-X over the ASR-10 because of improvements other
+than the microtonal features.  Currently it is the best (keyboardless)
+workstation for full keyboard scales, with the Korg Trinity series as a
+strong second choice.  But I recall someone mentioning that the dynamic
+intonation feature was not implemented in the MR Rack.
+
+>     Now that is of course assuming that you're restricting yourself to
+> matching octave boundaries on the keyboard with octave boundaries in the
+> tuning.  I'll be hornswaggled if I can tell how on Earth people do this,
+> but the apparent truth of the matter is that the most common way to map
+> more than 12 steps per octave to a keyboard is mapping them linearly,
+> successive steps in the tuning to successive keys on the keyboard.
+> 
+>    But anyway, if you're willing to admit that possibility, you can, for
+> example map a dynamic JI scheme to 19-toned subsets rather than 12-toned
+> subsets, you might be able to get by with 8 tables even with fairly exotic
+> harmony.
+> 
+You're forgetting the 4 pitch table selection limit.  Anyway, since I don't
+have a generalized keyboard it is easier for me to match the 12 note per
+octave limit of my keyboard to my just intonation scales, and then switch
+between scales if I need some new intervals.  Matching octave boundaries for
+scales over 12 notes would make things easier, in my opinion.  I was never
+able to visualize a linear mapping properly.  The limit here is our
+interface to the piano keyboard, not the intonation tables.
+
+> >The most flexible microtonal architecture I've seen in a commercial
+> >synthesizer is the Yamaha TX802.  You can define up to 64 keyboard scales
+> on
+> >a cartridge, and then assign each part to any of the scales.
+> 
+>    That sounds interesting.  Are those "keyboard scales" completely
+> arbitrary though? 
+> 
+>    If so, then I'd say you're right that they've got Ensoniq beat, and I
+> think I have some product investigation to do!  If not, then I'd have to
+> see what are the restrictions.  If for example, all Cs (for example) must
+> be exact octaves apart, or if the step size between all pairs of adjacent
+> keys has to be the same or of limited resolution, I'm not terribly
+> interested.  (Those are, as I understand it anyway, the limitations that
+> the K2500 puts on you.  Although they apparently have something or other
+> to
+> at least partly get around that;  I think it's called a "function".)
+> 
+>    Oh, is the TX802 still a current-produced product?
+> 
+Each note is tunable over the full MIDI range (uses same programs and pitch
+tables as DX7IIFD).  It's FM timbres make a good counterpoint to today's
+wavetable synthesis.  The Yamaha TX802 has been out of production for quite
+some time, but you can pick up used units fairly easily for $300-$400.  You
+need a memory cartridge to do the 64 tuning tables, however, so make sure it
+comes with one as those are difficult to find these days.
+
+K2000/K2500 octave-based intonation tables allow retuning over the entire
+MIDI range for each note.  Even the tonic can be retuned, which is why it
+makes modulation in just intonation so easy.  nTET and nCET scales can be
+created at the program level by adjusting a few parameters, and are
+unlimited in step size.  Resolution is 1 cent or better if done correctly
+(see my web site).
+
+> From: sethares@eceserv0.ece.wisc.edu (William Sethares)
+> 
+> >The other problem is that the Ensoniq pitch table sysex codes were 
+> never fixed through 3 generations of samplers (EPS, EPS-16 Plus and 
+> ASR-10). 
+> 
+> This is somewhat misleading. It is possible to store the Ensoniq 
+> tuning tables in your computer. I know since I wrote a program 
+> several years ago to do just this. (Unfortunately, it was on an Atari 
+> computer, so it will be of limited usefullness to most). Thus - the 
+> problem is not with the "Ensoniq pitch table sysex codes", but rather 
+> that the authors of the software did not bother to implement the 
+> Ensoniq pitch tables. As far as I know, though, you cannot update 
+> them except by sending a whole pitch table, that is, you cnnot retune 
+> "one note" at a time. 
+> 
+You are correct.  I was mistaken on the Ensoniq SysEx codes -- chalk it up
+to faulty memory.  Only the individual note SysEx codes (realtime updates)
+are broken, not the pitch table SysEx dump.  In fact, 5-6 years ago I worked
+on a patch editing template for EPS and EPS-16 Plus Pitch Tables for Sound
+Quest's "MIDIQuest" generic MIDI patch editor, available for most computer
+platforms.  It shows all the pitch adjustments at once.  But it updates the
+table by dumping the entire thing, rather than just changing each parameter.
+As I recall it only worked on the first pitch table, but I could probably
+fix that if anyone is interested in it.  I also had working instrument and
+layer templates.  The wavesample template was never completed due to several
+obstacles, the worst being that wavesample "all" editing SysEx did not work.
+These SysEx problems were eventually acknowledged by Ensoniq, after much
+arm-twisting on my part. 
+
+> From: Xou Oxno <xouoxno@virtulink.com>
+> 
+> I own a 05R/W. 12 note scales, +/- 99 cents range per note. 
+> One user tuning. I'm 99% sure the whole family has those specs. 
+> I know the Trinity does. I think the X5DR has twice as many voices - 64.
+> 
+Older Korg equipment has the +-50 cents limitation.  I'm not sure where the
+cutoff date/line is.  I'm dependent on user feedback to keep the Microtonal
+Synthesis Web Site up to date since I cannot possibly get access to all
+those instruments.
+
+	From: "Andrew L. Kaye" <androsky@fast.net>
+
+	I'm actually looking for a module that is
+	not limited to 12-note scales.  Thanks, Andrew Kaye
+
+In that case I recommend Ensoniq's MR Rack or ASR-X, Korg's Trinity series
+or an Emu module.  If price is an issue then used Yamaha FM synthesizers and
+Ensoniq samplers can usually be found for less than $600, but then you give
+up the internal effects buses of the current units.
+
+> From: mr88cet@texas.net (Gary Morrison)
+> 
+>    I don't claim to have used much SysEx stuff to my Ensoniq gear, but I
+> seem to recall that it implements a "virtual keypad" interface, meaning
+> that SysEx messages simulate fingers hitting keys of the keypad.  If so,
+> then in concept I would think that you could retune some note by virtual
+> keystrokes, then extrapolate (duplicate in all octaves, or whatever
+> interval) it.
+> 
+The EPS SysEx virtual keypad interface had problems that kept it from being
+useful.  As I recall I tried to use it to select pitch tables to get past
+the 4 pitch table selection limit, and it kept switching back to the
+instrument parameter page instead of the layer page that I needed to access.
+
+John Loffink
+jloffink@pdq.net

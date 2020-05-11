@@ -1,0 +1,55 @@
+source file: m1400.txt
+Date: Wed, 29 Apr 1998 15:39:19 -0400
+
+Subject: RE: Difficulties in Piano Construction
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Gary wrote,
+
+>I have heard that too, from Ivor Darreg, who did a lot of piano tuning
+>in his day.  If I remember correctly, he said that it would tend to go out
+>of tune more quickly in anything other than equal-temperament.
+
+If the total tension of the strings were held constant, then there is no
+reason that tuning to an unequal tuning would lead to less tuning
+stability than one had in equal temperament.
+
+Daniel wrote,
+
+>There are arguments about ET and the piano based upon
+>the stretched intonation of the partials of the
+>rigid piano wire. I have great trouble in supporting
+>these arguments historically, however, because the
+>early pianos were wired at a much lower tension
+>than modern instruments and were considerably less
+>stretched. (La Monte Young's _Well Tuned Piano_ =
+
+>deliberately uses a lower tension to reduce, but not
+>eliminate the stretching.
+
+That seems contrary to the evidence as well as scientific theory. Check
+out
+
+_Change in the Characteristics of Piano Tones under Different Concert
+Pitches_
+by
+Tomoyasu Taguti and Osamu Tokuyama 
+Konan University, Higashinada, Kobe, Japan
+
+presented at
+
+University of Edinburgh
+INTERNATIONAL SYMPOSIUM ON MUSICAL ACOUSTICS
+19-22 August 1997:
+
+"This paper reports an acoustical measurement and a listening experiment
+on the tones of a piano where A4 is tuned to 436Hz(L:low),
+442Hz(N:normal), and 445Hz(H:high)"
+
+"Physically, . . . the inharmonicity of single piano strings . . .
+becomes decreased as the pitch is raised. ([This] is implied in fact by
+the formula of inharmonicity by Fletcher.)"
+
+"the inharmonicities in cents were {20(L), 17(N), 10(H)} at the 10th
+partial, and {45(L), 42(N), 35(H)} at the 20th partial."

@@ -1,0 +1,30 @@
+source file: m1400.txt
+Date: Wed, 29 Apr 1998 21:12:27 -0500 (CDT)
+
+Subject: Orchestral-Instrument Aperiodicty Yet Again
+
+From: mr88cet@texas.net (Gary Morrison)
+
+I looked over a variety of sounds in the sound library I used for
+testing the sound analysis program I worked on for a few years several
+years ago.  I'm now willing to accept that this effect of little peaks and
+troughs in a sound bobbing up and down in a tone is not nearly as common as
+I recalled it to have been.  In fact when I picked out that example tone to
+post as that GIF file, I'm amazed that I chanced upon a sound file that
+shows that effect on just my second try.
+
+   Just now I looked at 20 or so fundamental-mode waves, and only noticed 2
+that showed apparently systematic aperiodicities.  There were plenty of
+random fluctuations though, not surprisingly.
+
+   So until I now in this discussion, I was willing to accept Paul E's
+theoretical model predicting exact periodicity was probably a good model,
+but not a completely infallible one.  I assumed from having seen systematic
+aperiodicities that it was valid for the basic variables, but that there
+apparently was some smaller consideration that it didn't take into account.
+
+   But looking over quite a few applicable waveforms just now, has
+increased up my confidence in Paul's model by a factor of 10 or so.
+Systematic aperiodicities of the sort that seem to suggest not-quite
+completely harmonic partials in typical orchestral instrument sounds do
+indeed seem to be quite rare.

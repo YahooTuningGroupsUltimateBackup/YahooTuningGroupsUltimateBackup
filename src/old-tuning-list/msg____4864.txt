@@ -1,0 +1,124 @@
+source file: mills2.txt
+Date: Sun, 23 Feb 1997 14:54:07 -0800
+
+Subject: Ghosttone test reply to Matt's questions.
+
+From: clucy@cix.compulink.co.uk (Charles Lucy)
+
+>Even allowing for some in measurement, this is definitely 
+>nowhere near the the series of fourths and fifths you 
+>predicted! Will you admit this?
+ 
+Patience Matt! This is only the first stage.
+I see that you expect everything to be laid out on a plate for you.
+Let's add the note names to this simple table of results. 
+ 
+Original was:
+> Ghostones
+> Finger position
+> Percent                   Approx.  Hz of ghosttone
+> 50                                220
+> 41                                550
+> 33                                330
+> 25                                440
+> 20                                550
+> 17                                660
+ 
+More info. added to above:
+ 
+The values below are from A2 string (110Hz.)
+                                                          !
+          Approx       Fret's      Heard                Heard
+ Finger   Note played  Scale       Approx.   Note heard Scale  
+ Percent  at near fret Position    Hz                   Position
+ 50       A3   220 (Hz) VIII       220         A3       VIII * 1
+ 41       F#3  184        VI       550         C#5      III * 4
+ 33       E3   164         V       330         E4       V   * 2
+ 25       D3   147        IV       440         A4       VIII * 2
+ 20       C#3  137       III       550         C#5      III  * 4
+ 17       C3   132      bIII       660         E5       V    * 4
+ 
+ 
+! NB. The * represents multiplied by frequency 
+(i.e to give indication of octave)
+ 
+ 
+So the notes which we produce produce from this are
+A, C#, and E.
+ 
+The Spiral of fourths and fifths runs:
+ 
+A E B F# C# in one direction (Vths)
+A D G C F Bb in the other.   (IVths).
+ 
+ 
+So the ghosttones give us two new pitches in the fifths
+direction E Vth and its octaves and
+          C# III two ocatves higher.
+ 
+Remember A-C#-E  I-III-V (a major chord).
+Now all we need to do is ascertain the "exact" value
+of either the III or the Vth interval and we have the
+tuning defined.
+ 
+By now resetting the string pitch we can generate all the
+other notes that we need, and we find that the fret positions
+match the touching positions as closely as we can measure.
+ 
+Hence as we know that IVth plus Vth equals an octave,
+we can generate any number of steps of fourths and fifths.
+ 
+ 
+ 
+ 
+>Last post you said you could measure the frequencies of 
+>ghosttones without a tuner, using a metronome and a 
+>second string. Will you outline the exact procedure for 
+>doing this so I can proof your method? 
+ 
+I need to get myself or build a metronome to reconstruct
+the second part of these experiments, and when done will
+complete it.
+BTW A stable reference tone is also required (eg. tuning fork)
+    to complete the experiment.
+ 
+>> The principle of this is explained in my spreadsheet which I
+>> posted last week
+ 
+>I just reread it. You only posted the spreadsheet data 
+>with no explanation of the principle of beat frequencies.
+>Be sure to include it in the next post. Thanks.
+ 
+ 
+The figures for metronome readings represent the beat frequencies,
+as beats per minute (i.e. tempo of the beating).
+ 
+I may need to reset the reference frequency on the
+spreadsheet to get the bpm values for each stage and each
+frequency,as I work through each new note that I wish to examine.
+(That's the easy part)
+ 
+ 
+ 
+lucy Sunday morning - perfect Hawaiian sunshine with breeze.
+I'm outta here for a while to search for a metronome.
+ 
+Does the posting about the Waldorf schools mean that jk,
+(my four-year old) is being indoctrinated with JI at the 
+local Kinderhale? (Is that the school near Stroud in
+the Cotswolds?)
+ 
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 24 Feb 1997 07:08 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA15683; Mon, 24 Feb 1997 07:08:45 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA15679
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id WAA06812; Sun, 23 Feb 1997 22:07:09 -0800
+Date: Sun, 23 Feb 1997 22:07:09 -0800
+Message-Id: <331144A4.50DA@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

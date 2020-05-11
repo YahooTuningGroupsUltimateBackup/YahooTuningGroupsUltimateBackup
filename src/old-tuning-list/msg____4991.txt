@@ -1,0 +1,88 @@
+source file: mills2.txt
+Date: Tue, 4 Mar 1997 16:57:00 -0800
+
+Subject: 5/4 vs 81/64 etc
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+The subject of 81/64 tuning vs 5/4 has appeared in several posts in the
+short time that I have been here.  There are several examples of very
+near matches in harmonic ratios.  They centre around the near equality
+of the numbers 81 and 80, 64 and 63 and some other lesser ones.  These
+numbers are all important in my view because they are all numbers with
+many ways to be factorised and so have many harmonic relationships.
+Changes in the relative importance of notes come into play when we shift
+around in the multidimensional world of tonality.
+
+The 81/80 shift is the easiest one to get to happen and is no doubt
+familiar to all, but I repeat it just to set the scene.  If we have a
+Just Intonation scale of 24 27 30 32 36 40 45 48 and move by a fifth
+then we multiply all these by 3/2 and get 36 40.5 45 48 54 67.5 72 which
+when brought back into the original range is 24 27 33.75 36 40.5 45 48.
+So we dropped 30 and added 33.75 which is our sharp coming in, and
+replaced 40 by 40.5 or an 81/80 shift.  Of course if we repeat this 12
+times they will all shift and we get Pythagoras comma problem.
+
+If we accept the ratios 28 and 42 as being the minor 3rd and minor 6th
+(please excuse my lack of proper musical jargon) then we can see that
+these will become 42 and 63 (or 31.5) when we transpose by a fifth.
+
+This 63 introduces another near miss with a difference of 63/64.
+There are other more subtle near misses.
+
+It is also possible to shift key by a major third and so we can multiply
+the JI scale by 5/4 to get 30 33.75 37.5 40 45 50 56.25 60 which in the
+original range is 25 28.125 30 33.75 37.5 40 45 and so lots of notes
+have gone wandering.  The 28.125 value is however very close to 28 and
+the ratio of 225/224 is one of the many lesser near misses.
+
+When I used my little BASIC program to calculate all the strong
+harmonics according to the factorisations of each number (which is a
+measure of their total number of musical relationships) then I found a
+couple of interesting things happening as I went to higher numbers.
+Sometimes as I compared the pattern as I went up octaves one harmonic
+would gradually fade and a nearby one would come in.  This happens with
+both 81/80 and 64/63 ratios.  In fact, if we consider a tonic as 1 then
+although 6 octaves above is 64 alright, after a few more octaves the
+most dominant note is 63*2^n not 64*2^n.  There is evidence of this type
+of thing in the Indian musical scale although I don't know enough about
+the music to say whether it happens in the music itself.
+
+Does anyone else have thoughts on whether there might reasonably be such
+a funny scale used which had the tonic tuned at successive octaves to
+say 16 32 64 126 252?  This would be most likely to occur when the 
+.. oh bugger, my musical knowledge doesn't allow me to express myself
+(HELP) let me go back a bit.  Say we are in C major and we have Cs at
+frequency 16 32 64 126 252 with this funny discontinuity between 64 and
+126.  In parctice 63 wants to exist also and 128, but we don't have
+enough keys.  ... anyway, to resume, this is likely to happen when we
+are also using Eb and Bb in our music because these have the ratios 28
+and 42 already, which want the 63 and 126 rather than 64 and 128.  Does
+this make sense?  I am suggesting that the emphasis might change between
+the low and the high octaves.
+
+Here is a grand chord that demonstrates the simultaneous use of such
+"out of tune" octave notes:  8 12 16 20 24 28 32 42 56 84 126
+
+Similar examples can be found that want both a 5/4 and 81/80 tuning in
+different octaves.  Is this something that has ever been suggested
+before?
+
+Of course you realise that there is a secret plot.  I have come here to
+drive you all mad HA HA HEE HEE ...
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 5 Mar 1997 02:12 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06191; Wed, 5 Mar 1997 02:12:16 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA06250
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id RAA05992; Tue, 4 Mar 1997 17:09:23 -0800
+Date: Tue, 4 Mar 1997 17:09:23 -0800
+Message-Id: <199703050100.UAA26357@sound.music.mcgill.ca>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

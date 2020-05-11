@@ -1,0 +1,31 @@
+source file: mills2.txt
+Date: Tue, 15 Oct 1996 14:18:32 -0700
+
+Subject: Pitch Bend for Tuning
+
+From: Lindsay Shaw and Paul Turner <landp@adelaide.DIALix.oz.au>
+
+A process such as Manuel Op de Coul suggests seems feasible, but surely 
+it is easier to simply retune the standard twelve pitches available in 
+whichever channel(s) one needs to use, by means of sysex messages, for 
+example.
+
+Can anyone explain why this should be less easy than retuning by pitch 
+bend? The only situation that springs to my mind where pitch bend would 
+be the method of choice, is when the tuning system is irregular and 
+changes from moment to moment.
+
+Paul Turner
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 15 Oct 1996 23:39 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19789; Tue, 15 Oct 1996 23:40:49 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA06308
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA06903; Tue, 15 Oct 1996 14:40:46 -0700
+Date: Tue, 15 Oct 1996 14:40:46 -0700
+Message-Id: <Pine.SOL.3.91.961015164033.23780E-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

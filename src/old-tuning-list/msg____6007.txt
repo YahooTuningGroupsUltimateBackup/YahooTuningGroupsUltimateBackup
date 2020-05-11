@@ -1,0 +1,57 @@
+source file: mills3.txt
+Date: Sat, 23 Aug 1997 17:20:10 +0200
+
+Subject: Re: Nomenclature
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+James Kukula wrote:
+
+> For the phonemic analogy - well, phonemes are really language specific. There
+> is no universal set of phonemes. For an overarching theory of the musical
+> analogue of phonemes, probably some kind of mathematical system might
+> work. Group theory would work if every interval could be combined with every
+> other interval to form another legal interval. But this strong a rule drives
+> one to equal temperament. Category theory is like group theory, but it
+> restricts what elements can be combined with what other elements. But it
+> probably wouldn't work for music.
+
+I don't know the specifics of either group or category theory, but
+this is definitely something like what I do with matrices.  You can
+define scale "families" by a basis (primitive group?) and define a
+practical scale as a finite subset, usually octave repeating.  This
+works for ETs, linear temperaments and JIs.  Beyond that, you just
+have to specify all the intervals in cents.
+
+The matrices are used to convert between bases.  Beyond that,
+scales really aren't complicated enough to justify bringing in
+standard mathematical theory.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  rapoport@mcmail.CIS.McMaster.CA
+Subject:  Re: TUNING digest 1162
+PostedDate:  24-08-97 03:44:53
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  28-08-97 09:57:27-28-08-97 09:57:28,28-08-97 09:55:01-28-08-97 09:55:01
+DeliveredDate:  28-08-97 09:55:01
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564FD.000997BA; Sun, 24 Aug 1997 03:44:46 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA20311; Sun, 24 Aug 1997 03:44:53 +0200
+Date: Sun, 24 Aug 1997 03:44:53 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA20323
+Received: (qmail 7963 invoked from network); 24 Aug 1997 01:44:49 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 24 Aug 1997 01:44:49 -0000
+Message-Id: <Pine.SOL.3.96.970823213555.21314C-100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

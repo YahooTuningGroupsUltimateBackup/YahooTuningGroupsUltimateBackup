@@ -1,0 +1,60 @@
+source file: mills2.txt
+Date: Thu, 25 Jul 1996 18:41:28 -0700
+
+Subject: Scala help
+
+From: pbrewis@cix.compulink.co.uk (Peter Brewis)
+
+In-Reply-To: <009A5CDBD0BAD6BA.18EA@ezh.nl>
+Thanks for responding so quickly, Manuel. Still can't get Help to work 
+though.
+
+> Maybe you have insufficient "files" or "buffers" in CONFIG.SYS.
+
+I had...
+  BUFFERS=10,0
+  FILES=40
+..and I've tried increasing them just in case, but still no Help.
+
+> Or perhaps help.par was somehow corrupted. Try to edit it and see if
+> there are these lines at the beginning of the file:
+> ! Number of topics:
+> 89
+> If the number isn't there you get the behaviour you described.
+
+It doesn't look corrupted. These lines are there. I even downloaded the 
+whole zip file again.
+
+> Another possibility, but I think an unlikely one, that you have 
+> insufficient memory.
+
+I'm confident it's not that. I'm not running Windows, or anything much, 
+at the same time as Scala.
+
+> You can also check if the other datafiles were seen by doing
+> MODE/ALL, this should give all the mode names, CALC 8/7, this should
+> say "septimal whole tone" at the last line, and SHOW SYNTH should 
+> present the names in synth.par.
+
+All these work perfectly. In fact I think _everything_  is working except 
+for Help. And my printer. If my printer was working I could print out the 
+help file :-(
+
+> The new version 1.1 is coming very soon now.
+
+Maybe I should wait for that! I'm really enjoying using your program and 
+have been filling my S760 with re-tuned samples.
+
+Peter
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 26 Jul 1996 04:34 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id TAA21559; Thu, 25 Jul 1996 19:34:45 -0700
+Date: Thu, 25 Jul 1996 19:34:45 -0700
+Message-Id: <960725223637_442220357@emout12.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

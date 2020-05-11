@@ -1,0 +1,123 @@
+source file: mills2.txt
+Date: Fri, 23 Aug 1996 09:46:39 -0700
+
+Subject: Scala command script example
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+In this post I shall give a short lesson of how to create a Scala command
+file that calculates a scale as a function of some parameters.
+
+Bela Bartok has devised an axis-system of notes. It consists of steps of 
+subdominant-tonica-dominant triplets. 
+There is a main step (Dutch: hoofdtrap):
+
+f   c   g
+S   T   D
+
+and secondary steps (Dutch: neventrappen) where the mediant of the previous
+step becomes the dominant:
+
+d   a   e         b   f#  c#         ab  eb  bb
+S   T   D         S   T   D          S   T   D
+
+Arranged in axis crosses (assenkruis, Achsenkreuz):
+
+    S                    T                    D
+
+    f                    c                    g
+
+ d     ab             a     eb             e     bb
+
+    b                    f#                   c#
+
+
+The middle cross is used for instance for the global tonality structure of
+Music for Strings, Percussion and Celesta.
+Reference:
+E. Lendvai: Einfu"hrung in die Formen- und Harmoniewelt Barto'ks, 1957.
+
+We can (ab)use this system to create scales with, by taking the size of
+dominant and mediant as parameters. The subdominant will be the octave 
+inversion of the dominant.
+So if we for instance start with the major triad 4:5:6 we get the scale
+ 25/24 10/9 125/108 5/4 4/3 25/18 3/2 125/81 5/3 125/72 50/27 2/1
+which ratios have lattice structure (to the right: 3, upwards: 5, 
+the zero is C):
+
+ * * *
+   * * *
+     * * *
+       * 0 *
+
+This is sort of a slanting version of Euler's genus bichromaticum [33555].
+Here comes a solution for the command file:
+
+   clear 0
+   echo enter the mediant
+   append ?
+   echo enter the dominant
+   append ?
+
+First we have to enter the values for mediant and dominant. A question mark
+is substituted with what the user enters. The working scale is cleared and
+the two notes entered into it.
+
+   calculate/noout 2-%2
+   append $0
+
+The value of the subdominant is calculated by subtracting the second note
+(referenced with a % sign) from the octave. That value, which is stored in
+pitch memory number 0 (referenced with a $ sign), is added to the scale.
+
+   calculate/noout 2+%1-%2
+   delete 1
+   copy 0 1
+
+Now we calculate what the shift must be to get the next step. It is O+M-D,
+or S+M (from C to A). This value is now in pitch memory 0.
+The mediant is deleted so the working scale contains now T-D-S. This scale
+is saved in scale memory number 1.
+
+   equaltemp 1 $0 3
+   product 1
+
+A cycle of three steps (so four notes) of the shift value is created. 
+The 1 indicates it is undivided (division of 1).
+Now comes the trick: the Carthesian product of this is taken with the 
+saved T-D-S triplet, giving the 3 x 4 = 12 notes at once.
+
+   clear 1
+   reduce 2/1
+   sort
+   append 2/1
+
+Scale memory 1 is no longer needed and cleared. All the notes are octave 
+reduced and sorted in order and the octave is added to the resulting scale.
+So instead of having to write expressions for each separate note, we make
+use of the structure of the scale and use the proper Scala command that can
+make it.
+
+Taking a quarter-comma fifth for the dominant (Scala expression: 3/2-$k\4 )
+and 5/4 for mediant gives us a regular mean-tone scale in the key of B-flat.
+
+All the command files supplied with Scala may serve as other examples.
+In particular the ones for creating tritriadic, tetratriadic, tritetradic,
+etc. scales, for creating Fokker's single- and double-tied circular 
+mirrorings of triads and tetrads, for creating duodenes, straight and
+reversed triadic diamonds, hexany diamonds and mean-tone scales.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 23 Aug 1996 19:56 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30103; Fri, 23 Aug 1996 19:57:36 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA30170
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA21820; Fri, 23 Aug 1996 10:57:34 -0700
+Date: Fri, 23 Aug 1996 10:57:34 -0700
+Message-Id: <199608231744.AA04918@felix.dircon.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

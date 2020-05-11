@@ -1,0 +1,73 @@
+source file: mills2.txt
+Date: Sat, 16 Sep 1995 09:45:27 -0700
+
+Subject: 88CET #10:  Note Doubling
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Probably the easiest way in a traditional tuning to extend a chord is by
+doubling one or more notes in octaves from its basic position.  One of the main
+goals of Sethares' 88CET-optimized partial mappings is to create a pseudo-octave
+with a pitch-duplicating sensation kind of like the real octave's.  That 14-step
+pseudo-octave works great for doubling on these mapped timbres.  On
+approximately harmonic timbres however, this and the other false perfect
+consonances don't work at all for doubling.  The rest of this posting addresses
+doubling in reference to the usual unmapped timbres.  
+ 
+   Can the octave-doubling principle be extended to tunings that don't even have
+an octave, by doubling by an interval other than an octave?  Brian McLaren, who
+has worked with a variety of nonoctave tunings, believes that whatever your
+cycle-interval may be can produce a doubling effect.  He reports, for example,
+that doubling notes in 3:1 perfect twelfths in Pierce-Bohlen tuning works just
+great.  
+
+   What exactly the cycle interval is in 88CET, or in Carlos' alpha and beta
+tunings for that matter, is not immediately apparent.  The step size for these
+tunings, unlike Pierce-Bohlen, are not based on making any particular interval
+exactly just.  They are instead based upon making several target intervals as
+accurate as possible.  
+
+   To my way of thinking, for a tone added to a chord to be thought of as a
+double, that tone should not have much effect on the underlying character of the
+entire chord.  If it changes the character of the chord, then it clearly has a
+significant function in the new chord, so it doesn't make sense to think of it
+as a functionally equivalent double of a another chord tone.  
+
+   The idea of nonoctave doubling then has meaning provided that: 
+1.  The interval by which you double a note is more "bland" than the intervals 
+    in the chord itself.  Consider for example the traditional 4:5:6 close-
+    voiced, root-position, major triad.  Doubling the root an octave higher 
+    does not significantly change the underlying character of the resultant 
+    chord from its undoubled form.  The octave added into that chord is 
+    comparatively bland; doesn't attract our ears' attention like the thirds.  
+    On the other hand, if we were to instead to try to double its root a 7:4 
+    ratio higher, the underlying character of the chord does significantly 
+    change.  It becomes a dominant seventh chord.  The subminor seventh 
+    attracts attention as much as the thirds in the chord, if not more.  
+2.  No other resultant interval is more interesting than the intervals in the 
+    undoubled chord.  Using the above example of doubling the root of 4:5:6 
+    major triad up an octave, the resultant chord has the ratio 4:5:6:8.  That 
+    clearly creates the interval of an octave between the root and its double 
+    (4:8), but it also creates a perfect fourth (6:8), and a minor sixth (5:8).
+    The underlying character of the chord does not change also because those 
+    intervals are no more attention-getting than the major and minor thirds 
+    already in the undoubled chord.  Obviously you would get a very different 
+    sensation if you were to start with a 3:4:5 second-inversion triad, and 
+    attempt to double the bass up a perfect fifth.  Although the interval of 
+    doubling, the fifth, is bland in comparison with the other intervals in the
+    original chord, this also produces a 9:8 major second, which is clearly 
+    anything but bland, so it definitely attracts attention away from the 
+    constituents of the original chord.  It changes the chord's underlying 
+    character.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 16 Sep 1995 20:23 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA26065; Sat, 16 Sep 1995 11:23:55 -0700
+Date: Sat, 16 Sep 1995 11:23:55 -0700
+Message-Id: <950916182135_71670.2576_HHB42-7@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

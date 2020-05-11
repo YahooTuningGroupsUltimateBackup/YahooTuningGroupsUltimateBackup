@@ -1,0 +1,116 @@
+source file: m1399.txt
+Date: Wed, 29 Apr 1998 03:21:29 -0700 (PDT)
+
+Subject: Re: "Numbers Separated by Colons" - Sequel
+
+From: Mark Nowitzky <nowitzky@alum.mit.edu>
+
+To: steele@bom2.vsnl.net.in
+Cc: tuning@eartha.mills.edu, quasar@wco.com
+
+Hi Drew,
+
+Thanks for your questions.
+
+At 11:58 PM 4/18/98 -0700, you wrote (Digest 1389, Topic 7):
+>From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+>Subject: "Numbers Separated by Colons" - Sequel
+>
+>I could use some clarification about the following :
+>
+>>    C full diminished seventh (192:225:270:320)=(4*16/15:5:6:4*16/9):
+>>        Cdim7:  C (4/5)     D# (15/8)   F# (9/8)    A (4/3)
+>>
+>I do not understand how one arrives at those figures.
+>Since the chord in question is a stack of minor 2nds,
+>(using 6/5s) - 6/5, 36/25, 216/125.
+>How does one go about notating these in colon form ?
+
+(you meant a stack of "minor 3rds")
+
+First I gotta correct myself.  As I looked at the letter names I used above,
+and flashed back to childhood piano lessons and music theory, I realized I
+should've called the chord a "D#dim7" (in first inversion).  Mea culpa or
+whatever...
+
+Okay, so here's the chord, properly named, and rearranged to be in root
+position.  The same ratios are shown (they are based on E = 1/1):
+
+        D#dim7:  D# (15/8)   F# (9/8)    A (4/3)    C (4/5)
+
+As stated above, a full diminished seventh chord is a stack of minor 3rds,
+but there's more than one "flavor" of minor 3rd in just intonation.  I chose
+the 6/5 flavor for D#:F# and for A:C, but I used 32/27 for F#:A.  Here's a
+table the intervals involved:
+
+        From    To      Ratio   Interval name*
+        ----    --      -----   -----------------------
+        D#      F#      6/5     Just minor Third
+        F#      A       32/27   Pythagorean minor Third
+        A       C       6/5     Just minor Third
+        C       D#      75/64   augmented Tone
+
+*Interval names shown are from the Table of Intervals in Ellis' additions to
+Helmholtz' "On the Sensations of Tone".  (Yeah, you gotta buy the book if
+you haven't already.  Or you have to live in one of those comfy chairs at a
+Crown & Noble bookstore.)
+
+Note that the interval C:D# is actually not a minor 3rd, but an augmented
+2nd (because of it's "spelling").
+
+>>The values line up as follows:
+>>
+>>  note name     whole number    small (possibly fractional) number
+>>  ---------     ------------    ----------------------------------
+>>  C             192             4*16/15 (= 64/15)
+>>  D#            225             5
+>>  F#            270             6
+>>  A             320             4*16/9 (= 64/9)
+>>
+>>The "whole numbers" are the smallest numbers I could find that were not
+>>fractions.  Unfortunately, the more notes there are in the chord, the bigger
+>>these numbers tend to get.  That's why I showed the alternative, "small
+>>(possibly fractional) numbers".
+>How do these single large numbers represent those notes ?
+
+The numbers were used in the "numbers separated by colons" notation; viz.,
+"192:225:270:320".  The numbers only have meaning relative to each other.
+For example:
+
+        A/F# = 320/270 = 32/27
+
+A "tuning lattice" may be used to help visualize intervals and chords.
+Graham Breed describes "Tuning Lattices" at:
+        http://www.cix.co.uk/~gbreed/lattice.htm
+
+Here's my tuning of the D#dim7 chord, represented in a tuning lattice:
+
+                  D#
+                 / \
+        A--(E)-(B)--F#
+         \ /
+          C
+
+It shows how the "Pythagorean minor Third" from A to F# is a more "remote"
+interval than the "Just minor Thirds" (from A to C, and from D# to F#).  You
+can also see that you can get to the F# by traversing the "cycle of 5ths"
+from A, to E, to B, to F#.
+
+That's probably more than enough for now.  Thanks again,
+--Mark
+
+P.S.:  If you respond to this, you might want to send a copy to both
+tuning@eartha.mills.edu and my email address (nowitzky@alum.mit.edu), to
+make sure I don't miss it.  (It's easy to get left "in the dust" on the
+information superhighway.)
+
+P.P.S.:  Now I can go check out those "Continued Fractions" web pages you
+mentioned in other posts (around 4/17/98).  I'll catch up, as long as I
+never sleep...
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu                        |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Sat, 4 Jan 1997 14:21:24 -0800
+
+Subject: Nonuniform Strings and More!
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+(1) Implicit in Gary's prepared string, is the idea of systematically
+modifing a string (adding or removing weight from nodal points etc) so that
+the partials are stretched or shrunk in particular ways; this becomes a
+very interesting resource: for example, these could then be made to
+correspond (or not) with the tuning used for the fundamentals.  
+
+(2) I am going to do my best to persuade David Feldman to stop lurking. He
+has done some work involving synthesizing the sounds of n-dimensional
+bells, which really takes us into the heights (depths, widths, ....nths) of
+"inharmonicity".
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 4 Jan 1997 23:45 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01282; Sat, 4 Jan 1997 23:48:19 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01280
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA17043; Sat, 4 Jan 1997 14:48:10 -0800
+Date: Sat, 4 Jan 1997 14:48:10 -0800
+Message-Id: <Pine.SUN.3.95.970104173753.18574A-100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

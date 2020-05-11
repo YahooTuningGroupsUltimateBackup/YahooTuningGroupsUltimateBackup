@@ -1,0 +1,66 @@
+source file: mills3.txt
+Date: Sun, 28 Sep 1997 18:08:10 +0200
+
+Subject: Re: All the music is microtonal
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>   The real answer is 13, because they are 12 plus 1, such of the Octave. ...
+>8 means total notes and 12 means note-names (or structural notes if we
+>like).So to equalize concepts if we use 8/Oct we must use 13/Oct, and if we
+>use 12/Oct we must use 7/Oct.
+
+   At the risk of being presumptuous, I think I can probably speak for most
+tuning enthusiasts when I say that you're far better off using 12 and 7
+than 13 and 8.  In summary, you're asking for trouble when you count both
+beginning and ending notes (e.g., both upper and lower Cs in a C scale)
+when you also admit the possibility of repeating that pattern - using the
+upper C as the root of that same scale in the next octave.
+
+   Ideally fifths would have been called fourths, unisons called zeros,
+octaves sevenths, thirds seconds, and so forth.  That would ensure that
+intervals "add" correctly, like in the case of a fourth plus a third coming
+out to a sixth.  Clearly 4+3=7 rather than 6.  If, historically speaking,
+we had recognized the (perfect) unison as a pitch difference of zero (which
+is after all exactly what it is) then fourths would have been called
+thirds, thirds called seconds, and sixths called fifths, and the result
+would have been correct:  3+2=5.
+
+   But in the end our only option is to accept that the damage is done.  We
+just use traditional interval nomenclatures as formal, conventional names,
+and attribute only very limited numerical meaning to them.  Fourths,
+thirds, and sixths are just names;  they could just as appropriately have
+been called johns, sarahs, and franks.
+
+   So the fact that the etymology of the word octave suggests the number 8
+most of us view as largely inconsequential, because it really suggests 7
+diatonic steps, or 12, 19, or whatever chromatic steps.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net
+Subject:  Re: Well thankyou
+PostedDate:  28-09-97 18:09:05
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  28-09-97 18:08:40-28-09-97 18:08:42,28-09-97 18:07:41-28-09-97 18:07:42
+DeliveredDate:  28-09-97 18:07:42
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256520.0058ADAD; Sun, 28 Sep 1997 18:08:36 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00524; Sun, 28 Sep 1997 18:09:05 +0200
+Date: Sun, 28 Sep 1997 18:09:05 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00538
+Received: (qmail 21466 invoked from network); 28 Sep 1997 09:08:15 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 28 Sep 1997 09:08:15 -0700
+Message-Id: <v01541107b053ea6027d9@[207.207.3.122]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

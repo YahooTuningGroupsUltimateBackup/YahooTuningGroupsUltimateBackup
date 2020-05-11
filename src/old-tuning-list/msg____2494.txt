@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Wed, 24 Jan 1996 11:29:43 -0800
+
+Subject: Tuning reading
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+>>SMART IDEA #4:
+>>Erv Wilson's notion of augmenting with permutation
+>>techniques the conventional Partchian organization
+>>by harmonic and subharmonic series (viz., the tonality
+>>diamond).   Erv's technique offers a more tonally
+>>efficient  alternative to Partch's tonality diamond,
+>>and it has proven  exceptionally useful to just intonation
+>>composers.
+>
+>Where can I read about this?
+>
+
+Computer Music Journal vol. 11, #1 is a special issue on microtonality,
+including Carlos' "Tuning: at the crossroads", Larry Polansky's article on
+Paratactical tuning, and a review of Xenharmonic keyboards by Doug Kieslar,
+then at CCRMA, currently at MuscleFish.  Kieslar's article mentions the
+tonality diamond and JI matrices, although not Wilson's extentions to it
+specifically.  The cover has a computer-generated drawing of a lush garden,
+very appropriate for the subject of tuning.  I'd also like a reference to
+Erv's augmentation- possibly a back issue of 1/1 or Interval?
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 24 Jan 1996 21:37 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA22348; Wed, 24 Jan 1996 12:37:06 -0800
+Date: Wed, 24 Jan 1996 12:37:06 -0800
+Message-Id: <960124001208_71670.2576_HHB40-3@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

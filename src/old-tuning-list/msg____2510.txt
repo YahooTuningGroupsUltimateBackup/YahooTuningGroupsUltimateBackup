@@ -1,0 +1,97 @@
+source file: mills2.txt
+Date: Mon, 29 Jan 1996 21:24:33 -0800
+
+Subject: RE:  Optomizing synthesizer tuning
+
+From: Mmcky@aol.com
+
+In order to optimize tuning you must know the tuning
+characteristics of the target instrument.  This is a practical
+impossibility with wavetable synthesis, since manufacturers's
+won't release the specs.
+
+However the specs for FM synthesis as implemented in the Sound
+Blaster are readily available.  The output frequency in
+proportional to a number written into a tuning register, and this
+number can be any integer up to 1024.
+
+With this information, it is relatively simple to determine
+whether a JI scale can be exactly represented on the Sound
+Blaster.  You just have to convert the scale to a multi-level
+fraction.  To do that, just find the least common multiple of the
+numerators of the fractions that make up the scale.  If that
+number is less than or equal to 1/2 the highest integer you can
+user to program the hardware, then your scale can be exactly
+represented.  Otherwise it can't.  That procedure will work for
+most systems using frequency linear tuning.  The notable
+exception to this is the Amiga, which uses wavelength linear
+tuning.  In that case you need to find the LCM of the
+denominators of the fractions of your scales.
+
+What Manuel suggested in his post was letting the fundamental of
+the scale vary in order to maximize the tuning accuracy for the
+whole scale.  That is also the basis of the technique discussed
+above.
+
+It is also possible to use this technique to find best fits for
+scales that cannot be represented exactly.  For example, let's
+find a couple of them for Agricola's Monochord posted on this
+forum some time ago by John Chalmer's.
+
+Agricola's Monochord
+
+LCM:   2^14*3^7*5
+
+ 12       17496         243/       128
+ 11       16384          16/         9  Grave Minor Seventh
+ 10       15552          27/        16  Pyth Major Sixth
+  9       14580         405/       256
+  8       13824           3/         2  Perfect Fifth
+  7       12960          45/        32  Augmented Fourth
+  6       12288           4/         3  Perfect Fourth
+  5       11664          81/        64  Pyth Major Third
+  4       10935        1215/      1024
+  3       10368           9/         8  Major Tone
+  2        9720         135/       128
+  1        9216           1/         1  Unison
+
+The fundamental, 9216, factors into:  9216 = 2^10*3^2
+
+It's easy to see from this that if we want to have the
+fundamental be one of the notes represented exactly, we are
+limited to numbers with factors of 2 and 3.  18 and 24 provide
+some pretty good approximations, as show below.
+
+                        18       24
+
+       b    17496      972      729
+      a#    16384 910.2222 682.6666
+       a    15552      864      648
+      g#    14580      810    607.5
+       g    13824      768      576
+      f#    12960      720      540
+       f    12288 682.6666      512
+       e    11664      648      486
+      d#    10935    607.5  455.625
+       d    10368      576      432
+      c#     9720      540      405
+       c     9216      512      384
+
+Since all scales can be represented as collections of rational
+fractions to any desired degree of accuracy, this technique is
+theoretically extensible to all scales, although fractions with
+numerators having large prime factors make it rapidly more
+difficult.
+
+Marion
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 30 Jan 1996 08:02 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id XAA16527; Mon, 29 Jan 1996 23:02:31 -0800
+Date: Mon, 29 Jan 1996 23:02:31 -0800
+Message-Id: <960130064739_71670.2576_HHB45-8@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

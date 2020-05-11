@@ -1,0 +1,80 @@
+source file: mills3.txt
+Date: Wed, 14 Jan 1998 12:35:37 +0100
+
+Subject: JI approximation to 22ET
+
+From: Mckyyy <Mckyyy@aol.com>
+
+LCM:   2^9*3^4*5^2*7^2*11*13*19*31^2
+
+ 22     3935295   31/16
+ 21     3808350   15/8  Major Seventh
+ 20     3656016    9/5  Minor Seventh
+ 19     3554460    7/4  Harmonic Minor Seventh
+ 18     3481920   12/7
+ 17     3385200    5/3  Major Sixth
+ 16     3249792    8/5  Minor Sixth
+ 15     3159520   14/9
+ 14     3046680    3/2  Perfect Fifth
+ 13     2968560   19/13
+ 12     2843568    7/5
+ 11     2792790   11/8
+ 10     2708160    4/3  Perfect Fourth
+  9     2611440    9/7
+  8     2538900    5/4  Major Third
+  7     2437344    6/5  Minor Third
+  6     2369640    7/6
+  5     2321280    8/7
+  4     2234232   11/10
+  3     2166528   16/15 Semitone
+  2     2096640   32/31
+  1     2031120    1/1  Unison
+
+Minimum Chords:
+
+   1   60   3:   4:   5    1- 10- 17
+   2   60   4:   5:   6    1-  8- 14
+   3   60   4:   5:   6    3- 10- 16
+   4   60   4:   5:   6    7- 14- 20
+   5   60  10:  12:  15    6- 12- 19
+   6   60  10:  12:  15    8- 14- 21
+   7   72   6:   8:   9    6- 15- 19
+   8   72   8:   9:  12    5-  9- 18
+   9  264   8:  11:  12    1- 11- 14
+  10  330  10:  11:  15    1-  4- 14
+  11 1482  26:  38:  39    1- 13- 14
+  12 1488  16:  24:  31    1- 14- 22
+  13 1860  60:  62:  93    2-  3- 16
+
+Marion
+
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Manuel.Op.de.Coul@ezh.nl
+Subject:  JI approximation to 22ET
+PostedDate:  14-01-98 17:22:21
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  14-01-98 17:21:48-14-01-98 17:21:49,14-01-98 17:21:36-14-01-98 17:21:36
+DeliveredDate:  14-01-98 17:21:36
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658C.0059DFEB; Wed, 14 Jan 1998 17:22:09 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA27106; Wed, 14 Jan 1998 17:22:21 +0100
+Date: Wed, 14 Jan 1998 17:22:21 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA27081
+Received: (qmail 9125 invoked from network); 14 Jan 1998 08:22:18 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Jan 1998 08:22:18 -0800
+Message-Id: <C125658C.00597F16.00@notesrv2.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

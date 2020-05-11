@@ -1,0 +1,114 @@
+source file: mills2.txt
+Date: Sat, 8 Mar 1997 05:11:16 -0800
+
+Subject: Re: New Paper
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+Robert Asmussen <robert@terraworld.net> wrote:
+
+>As to some specific details, I believe you are incorporating intervals
+>in your Mozart example that are not in keeping with the classical style.
+>For example, you use octave equivalents of 7/4 as some of your frequency
+>ratios. I challenge you or anyone to create a dominant seventh chord,
+>using the number seven as a multiple in the denominator of the chord’s
+>seventh, that would not sound out of place in a piece of chamber music
+>by Mozart.
+
+And yet if you look at the derived fundamental frequency (defined below)
+for the three bars I think that the "correct" interpretation is
+undoubtedly F for the 1st and 3rd bars and C for the second.  This fits
+quite naturally with the 7 ratios but not with your interpretation.
+See http://www.kcbbs.gen.nz/users/rtomes/aji-xmpl.htm for this Mozart
+example and the Beethoven example mentioned below.
+
+>I would suggest giving it the acid test, which would be to make a WAV
+>sound file of your Mozart score using Csound. With the tempo nice and
+>slow, try 7/4, then 16/9 as the relative frequency for the seventh of
+>your dominant chord.
+
+I certainly don't know enough about music history to argue on that score
+and anyway accept that 16/9 is sometimes the correct value for that
+note.  However I would argue on the basis of logic.  If you have a
+dominant 7th chord and the other notes have frequency ratios of 4:5:6:8
+why should the extra note be 64/9 in that ratio scheme when 63/9 would
+cancel down nicely to 7 and make an elegant 4:5:6:7:8?   Whatever was
+actually played historically I still feel that the intention or meaning
+of such a chord is 4:5:6:7:8.
+
+>You state, ”Some intervals such as a minor sixth may be interpreted as
+>7/4, 16/9 or 9/8 depending on circumstances.”
+
+>Without going into the potential merits of your statistical approach to
+>pitch selection, I must point out that 7/4 is approximately a minor
+>seventh; 16/9 is an in-tune minor seventh; and 9/8 is a major second.
+>Certainly none of these ratios is a minor sixth. I assume this is just a
+>grammatical error.
+
+Oops, I really went to sleep on that one didn't I?  Two typos.
+What I meant to say was that a minor 7th could be 7/4, 16/9 or 9/5.
+
+>When I stated in my paper that pieces of traditional tonal music could
+>not be translated without modification from traditional notation into
+>integer ratios, I could have elaborated further with the following two
+>points:
+
+>1. Often, such as when employing chromatic scales, the composer is
+>simply filling in the space from point A to point B with notes. Such
+>passages do not need to be translated, nor often can they be, into
+>ratios. One might even argue that such passages are not really music,
+>but rather more like dust on a mirror.
+
+>2. Composers of the past wrote their music using limited instruments and
+>tuning systems that were available at the time. We should not expect to
+>translate their imperfect creations into a purely mathematical
+>framework; in fact, we should be surprised when it is possible to do so.
+
+I have to agree at the surprise, but believe that the results often tell
+us more than we expected to find.
+
+Have a look at my second example, Beethoven's "Romance".
+
+The melody goes b c d g g g b g a b b g b c d but the fundamental
+frequency       b c d g g g b c d g g g b c d is calculated.
+
+(I define fundamental frequency as the frequency which has ratio 1 when
+all the ratios are reduced to integers, so it divides all the played
+frequencies).  To me it seems certain that the part with melody b g a
+has been correctly interpreted because the fundamental frequency echoes
+the other parts that go b c d.  Notice that the ratio 7 occurs in this
+short passage several times and is necessary to give this beautiful
+structure.
+
+Actually I cheated a wee bit, because one of those b's is actually an
+incidental b/a.
+
+Thanks for the information about Csound.  I will access this.
+
+>Regarding the problems you are having with the graphics in my paper,
+>would you please contact me if you experience additional difficulties? I
+>have reloaded all ten HTML files off my server quite easily using only 8
+>megs of RAM while running a minimum of applications and windows.
+
+I accessed all your pages and there was only one missing graphic.
+Unfortunately when I went to gets its name I hit the wrong key and lost
+it all.  You already saw above how butterfingered I was that night from
+my typing :-)   If I find this again I will let you know.
+
+Robert, thanks for the interesting comments, Ray.
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 8 Mar 1997 14:14 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09568; Sat, 8 Mar 1997 14:14:21 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09520
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id FAA04164; Sat, 8 Mar 1997 05:10:04 -0800
+Date: Sat, 8 Mar 1997 05:10:04 -0800
+Message-Id: <33374f5e.672998538@kcbbs.gen.nz>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

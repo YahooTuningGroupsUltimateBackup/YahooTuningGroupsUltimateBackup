@@ -1,0 +1,68 @@
+source file: m1356.txt
+Date: Mon, 16 Mar 1998 12:30:48 -1000 (HST)
+
+Subject: failure notice (fwd)
+
+From: Charles Lucy <lucy@ilhawaii.net>
+
+---------- Forwarded message ----------
+Date: 16 Mar 1998 15:38:41 +0000
+From: MAILER-DAEMON@ella.mills.edu
+To: lucy@ilhawaii.net
+Subject: failure notice
+
+Hi. This is the qmail-send program at ella.mills.edu.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<tunig@eartha.mills.edu>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <lucy@ilhawaii.net>
+Received: (qmail 21212 invoked from network); 16 Mar 1998 07:30:49 -0800
+Received: from lehua.ilhawaii.net (206.127.242.100)
+  by ella.mills.edu with SMTP; 16 Mar 1998 07:30:49 -0800
+Received: (lucy@localhost) by lehua.ilhawaii.net (8.8.7/8.6.5) id FAA09558; Mon, 16 Mar 1998 05:30:00 -1000 (HST)
+Date: Mon, 16 Mar 1998 05:29:59 -1000 (HST)
+From: Charles Lucy <lucy@ilhawaii.net>
+To: tunig@eartha.mills.edu
+Subject: Scale naming ???
+Message-ID: <Pine.BSI.3.91.980316052812.9475A-100000@lehua.ilhawaii.net>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+Thank you John C. , Joseph L. Monzo and Charlie Jordan, 
+who posed the original query.
+So to summarise (and for all practical modern purposes), 
+we have the following result:
+
+Scale of          Ecclesiastical    Ancient            Indian         
+ScaleCoding
+"white" notes   Name              Greek Name    Name
+
+C-C               Ionian              Lydian              Bilaval         
+6/0/2
+D-D               Dorian             Phrygian            Kafi            
+6/0/4
+E-E                Phrygian          Dorian               Bhairavi      6/0/6
+F-F                Lydian             Hypolydian        Kalyan       6/0/1
+G-G               Mixolydian      Hypophrygian    Khamaj      6/0/3
+A-A               Aoelian           Hypodorian        Asavari      6/0/5
+B-B                Locrian           Mixolydian             ???        6/0/7
+
+or in order of fifths:
+
+F-F                Lydian             Hypolydian        Kalyan       6/0/1
+C-C               Ionian              Lydian               Bilaval        
+6/0/2
+G-G               Mixolydian      Hypophrygian     Khamaj      6/0/3
+D-D               Dorian             Phrygian             Kafi           
+6/0/4
+A-A               Aoelian           Hypodorian         Asavari      6/0/5
+E-E                Phrygian          Dorian                Bhairavi     6/0/6
+B-B                Locrian           Mixolydian              ???       6/0/7
+
+Lucy@hour.com
+http://www.ilhawaii.net/~lucy

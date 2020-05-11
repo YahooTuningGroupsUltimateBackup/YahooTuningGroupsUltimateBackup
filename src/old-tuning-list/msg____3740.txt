@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Mon, 7 Oct 1996 03:44:16 -0700
+
+Subject: Synths
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+If one wants extreme accuracy and is willing to get out of the MIDI
+environment, the synthesizers made by David Rayna remain very interesting.
+I drive my double-precision Rayna synth-in-a-box through the parallel port
+of my old Atari ST, and get 20 voice polyphony in frequency units of
+.0000044139 Herz (the level of accuracy depends upon the number of voices).
+I happen only to use sine waves, which the Rayna produces beautifully
+(unlike any of the commercial products which are also so noisy that I am
+hesitant to describe what I hear as _in tune_ or not); for those interested
+in more complex waveforms, Rayna has a wave table send up so that relative
+amplitudes of 16 partials selected from the first 64 can be fixed. For the
+very nostalgic, Rayna has also made a modular synthesizer emulator program
+for his synthesizer, where patches can be drawn on the screen to simulate
+the cables we used in the good old days. I control the synth. either
+through software sequences or through assignment of computer keys which are
+played in realtime, but it would probably not be difficult at all to assign
+midi keyboard commands to the Rayna, although they are significantly slower
+than the Rayna.
+
+I do not know about the present availability of Rayna´s products, but the
+machines seem to appear for sale regularly among the new music community.
+If anyone is seriously interested, I have some possible contacts.
+
+Daniel Wolf
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 7 Oct 1996 15:47 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02929; Mon, 7 Oct 1996 14:49:16 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02928
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id GAA25036; Mon, 7 Oct 1996 06:49:07 -0700
+Date: Mon, 7 Oct 1996 06:49:07 -0700
+Message-Id: <199610071342.JAA06211@cerberus2.Ensoniq.Com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

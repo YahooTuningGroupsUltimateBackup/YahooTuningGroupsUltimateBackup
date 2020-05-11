@@ -1,0 +1,26 @@
+source file: m1545.txt
+Date: Mon, 5 Oct 1998 10:15:10 -0500 (CDT)
+
+Subject: Re: Canceling out beats
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 2 Oct 1998, Paul H. Erlich wrote:
+> Paul H., the nonlinear processing that the ear does actually increases
+> the frequency resolution over what the standard uncertainty relation
+> would give for an analyzer with the ear's temporal resolution, thus
+> decreasing (rather than creating) the incidence of beats.
+
+?? I must be misunderstanding something.  If you analyze the signal
+using a process which decomposes it linearly, such as a Fourier
+transform, no energy is detected at the beat frequency.  What is a
+decrease from nothing?  I think this is what Gary Morrison was talking
+about when he said (talking about bram's beat-canceling idea):
+
+>    It certainly doesn't make sens viewed in the frequency domain.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

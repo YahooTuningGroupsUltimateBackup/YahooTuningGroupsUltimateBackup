@@ -1,0 +1,73 @@
+source file: mills2.txt
+Date: Tue, 12 Nov 1996 07:10:24 -0800
+
+Subject: Re: TUNING digest 888
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> I THINK I heard on the list a few weeks ago that the Kurzweil 2500
+> couldn't be programmed into 19 TET unless each key was setup to playback a
+> tuned sample.  
+
+   I'm the one who posted that conclusion by my K2500-owner friend.  That
+conclusion has the potential to be true provided that you're trying to map
+linearly across the keyboard, mismatching octave boundaries in the tuning with
+octave boundaries in the white/black structure of the keyboard).  
+
+   (An aside:  Speaking for myself, I'm very impressed by people who are capable
+of ignoring the 7+5 white/black structure of the traditional keyboard.  Although
+I have always found it very difficult to ignore, there can be no doubt that the
+majority of people exploring 19 and many other microtonal ETs on keyboard map it
+that way, and see nothing particularly problematic about it.)
+
+   I say "has the potential to be true" because somebody down in the bowels of
+Kurzweil responded saying that that's not true.  The K2x00 apparently has four
+basic capabilities useful for unusual tunings, as I understand it anyway:
+1.  You can tune all C-C octaves identically to just about any conceivable 
+    pitch.  The limitation is that it must be on C-C (or A-A or whatever) 
+    boundaries, and the pattern must repeat in octaves.  Apparently you can 
+    have quite a few of this sort of table loaded and can switch off between
+    them with a SysEx message.  So you can certainly map 19 into two, three,
+    or more 12-toned subsets.  One way that strikes me as reasonable for doing
+    this is a tuning table with naturals and sharps, one with naturals and 
+    flats, and another with the more common nonnaturals (e.g., F# instead of
+    Gb, and Bb instead of A#) and also containing B#/Cb and E#/Fb notes.  You
+    can also create 19 tables for each of the 19 possible key signatures.  
+2.  You can tune the interval between adjacent keys to a consistent cent 
+    distance identical between all adjacent key pairs.  The limitation is that
+    you have only 2-cent resolution.  So using this mechanism alone, 19 mapped
+    linearly across the keyboard (instead of in 12-toned subsets) turns out 
+    way off by the time you reach the 19th key in the sequence.  
+3.  The fellow at Kurzweil, who apparently prefers the 12-tone subset approach
+    or perhaps doesn't do much with microtonal ETs, says that you can refine 
+    this 2-cent resolution using something I think he called a "function".  I 
+    don't know the details, nor do I personally know anybody who's 
+    successfully implemented this suggestion (not to suggest for a moment that
+    I have any reason to think that this Kurzweil fellow is misleading us, of 
+    course).
+4.  James McCartney, whose address I don't recall, uses a K2000 microtonally
+    by using what I suppose might be called a "memorizing controller".  Ap-
+    parently the K2x00 has at least one controller which, when you set it to
+    some value, it remembers that value.  You can then use it kind of like a 
+    pitch-bend by applying it to pitch calculations, and it does NOT affect 
+    notes currently playing.  
+
+   Without a doubt, in my mind and many others', Ensoniq's pitch-table approach
+is FAR more intuitive and easier to work with.  But certainly in many ways the
+K2x00 instruments are more powerful at a purely synthesizer-capability level
+than the ASR.  Apparently their effects processor isn't as capable as the ASR's
+though.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 13 Nov 1996 05:12 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02384; Wed, 13 Nov 1996 05:13:48 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02390
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id UAA13865; Tue, 12 Nov 1996 20:13:45 -0800
+Date: Tue, 12 Nov 1996 20:13:45 -0800
+Message-Id: <Pine.A32.3.91.961112210813.35472A-100000@tiger.cudenver.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

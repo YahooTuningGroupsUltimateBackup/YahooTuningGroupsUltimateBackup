@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Thu, 27 Jun 1996 15:23:41 -0700
+
+Subject: Reply to Doren Garcia
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>I am unfamiliar with the aesthetic of the school of 'New Complexity'. Can
+>someone offer a synopsis of their ideas?
+
+I don't know much about this, but I don't think it is so much a "school" as 
+a style defined from without. Perhaps the music journalists concieved of it 
+a a dialectical antithesis to minimalism, i.e., the "new simplicity." Nor is 
+it all that new, as a Frank Zappa book from the early 80's said that Steve 
+Vai's painstaking transcriptions of Zappa's improvisations "look like 
+something out of the new complexity." One defining feature is a metric and 
+rhythmic complexity that would scare away most MIDI programmers, let alone 
+live performers. Some writers have claimed complexity as a coherent movement 
+in recent thought, lumping the musical style in with choas theory in 
+physics, etc. Sounds like hogwash to me.
+
+>Can anyone recommend
+>a book that will explain concepts such as, Wilson CPS scales, subharmonics
+>and the associated mathematical principles involved?
+
+Subharmonics are just upside-down harmonics. The literature on subharmonics 
+is vast; the opinions on their applicability to music theory range from not 
+at all to "a useful construct" to an equivalent status with harmonics. I 
+take the middle view -- the only two ways to arrange consonant intervals 
+into chords are according to the harmonic or subharmonic series, but the 
+consonance of the intervals in both cases is due only to harmonics. The 
+harmonics coincide more often in subharmonic chords, so there is not really 
+an equivalence here. As soon as roots and combination tones enter the 
+picture, harmonic configurations become acoustically simpler than 
+subharmonic ones.
+
+As for Wilson CPS scales, Brian McLaren has recently explained them 
+adequately, although he confuses the issue by sometimes adding an extraneous 
+1/1 and calculating ratios from there. In their simplest and (I believe) 
+originally intended form, an m)n CPS scale takes all possible products of m 
+out of n specified factors, and interprets the products as frequencies. 
+(Transposing by octaves is done freely.) The resulting frequency ratios can 
+often be simplified considerably by renaming one of the notes as 1/1, which 
+Brian does not do. The concept is more powerful than appears at first 
+glance. For example, a 1)3 [1,3,5] scale is a just major triad, and a 2)3 
+[1,3,5] is a just minor triad.  Represented as triangles in (3,5) space, 
+these two triads tile the plane. I recently discovered, in communication 
+with John Chalmers, that this concept extends to n dimensions, where n 
+different CPS scales (represented as hyperpolyhedra with triangular faces) 
+join together to tile n-space. I don't think there's a book on CPS scales, 
+though I believe Erv Wilson has written articles on them for Xenharmonikon.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 28 Jun 1996 02:33 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA15153; Thu, 27 Jun 1996 17:32:57 -0700
+Date: Thu, 27 Jun 1996 17:32:57 -0700
+Message-Id: <Pine.SCO.3.91.960627173136.29329C-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

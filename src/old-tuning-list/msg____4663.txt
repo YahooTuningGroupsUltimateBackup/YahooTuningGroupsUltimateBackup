@@ -1,0 +1,81 @@
+source file: mills2.txt
+Date: Wed, 22 Jan 1997 12:54:16 -0800
+
+Subject: FW: Subharmonic chords
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+Paul:
+
+(1) You wrote:
+
+''So what were your errors in cents?''
+
+Playing a standing just minor triad from 200 hz in sine waves on the Rayna,
+I tuned the following pitches by ear with the tuning knob of an HP
+oscillator initially set at 200 hz, each tone coming out of a separate
+channel and loudspeaker, the four loudspeakers bunched together and lined
+up two metres in front of me. I allowed myself 20 seconds per trial. A
+neighbor recorded the frequencies I chose to three decimal places, and I
+have calculated my accuracy in cents:
+
+Target pitch relative to lowest tone of triad -  Average Cent Deviation
+after 10 trials
+
+  17/10                                                                    
+            +1.6
+  17/20                                                                    
+            +3.3
+  12/7                                                                     
+              -1.8
+  12/14                                                                    
+             +0.1
+
+You can eat another hat if you like, but as far as I am concerned, all this
+test measures are the facts that I have overpracticed tuning and singing
+harmonic and subharmonic series with factors of 2 in the tonic (harmonic)
+or guiding tone (subharmonic) position, and that factors of seven are more
+secure than those of seventeen. I have to work on my inversions!  In any
+case, with a longer trial period the accuracy of all intervals improves
+tremendously, the first and fourth chords showing virtually no error..     
+     
+   
+How did _you_ do? (Send it privately - this is too much schoolyard bragging
+for me).
+
+(2) You wrote:
+
+''But do you really hear it (the just minor triad) as originating from the 
+fifth rather than the conventionally considered "root"?''
+
+''Originating'' is not the best word. For me, in singing or tuning the
+tones of a minor triad, the third is always more secure when tuned as a
+descending 5/4 rather than as an ascending 6/5. When I want to tune a
+pythagorean minor, however, the ascending 32/27 is easier. As far as
+''rootedness'' is concerned, I will emind you that I am an absolute Fuxian
+and not Rameauvian, in that the sounding bass is more important to me than
+a theoretical fundamental bass. (That's one reason why Satie and Stravinsky
+were able to so smoothly disassociate the bass line from what went on up
+above!).
+
+(3) I responded to my own deficits as a musician by training myself to hear
+and tune specific rational intervals. I started back in High School, while
+working with Erv Wilson, and have been doing it for 19 years now. Had I
+decided, at the same time, to invest as much in 19tet or 31tet, I reckon
+that I would probably have reached some comparable ability in those
+systems. So, such a test is only a measure of the current state of my
+conditioning. 
+  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 22 Jan 1997 23:12 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12052; Wed, 22 Jan 1997 23:11:59 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA12077
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA19055; Wed, 22 Jan 1997 14:11:45 -0800
+Date: Wed, 22 Jan 1997 14:11:45 -0800
+Message-Id: <32E5128D.6892@interlinx.qc.ca>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,32 @@
+source file: m1440.txt
+Date: Sun, 7 Jun 1998 09:36:19 -0500 (CDT)
+
+Subject: Sound-from-Scratch Microtunable Synth Recommendation?
+
+From: mr88cet@texas.net (Gary Morrison)
+
+This general topic has come up many times, but I'd like to pose the
+question again in a manner most directly applicable to my immediate task at
+hand.
+
+   Do any of you folks have recommendations for your favorite synthesizer
+capable of building sounds from scratch, and also having at least one
+user-specifiable completely arbitrary tuning table?
+
+   By "building sounds from scratch", I mean something like FM, or the ol'
+Moog-style analog, as opposed to minor tweaks on sampled sounds.  Or even
+better would be something that lets me do Moog-analog style filtering
+(etc.) on FM-generated sounds.  Now if it has a set of samples to build
+from as well, then that's all the better, but the scratch-building
+capabilities are especially interesting for what I have in mind.
+
+   And by completely "arbitrary tuning table" I mean one that lets you
+assign any pitch within the range and resolution of the instrument to any
+key, completely without regard to what pitch you assign to any of the other
+keys (e.g., no requirement that they pitches be consistently the same
+distance apart, or that there be any octave repetition).  Not surprisingly,
+it would be vastly preferable if the machine had a means of storing away
+these tables as well (i.e., that I don't have to send it SysEx messages to
+regenerate the table everytime I power it up).
+
+   Suggestions?  Thanks!

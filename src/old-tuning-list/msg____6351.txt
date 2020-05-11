@@ -1,0 +1,72 @@
+source file: mills3.txt
+Date: Mon, 27 Oct 1997 21:51:25 +0100
+
+Subject: Reply to Carl Lumma
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+I've posted at length on definitions of consonance and dissonance (as
+well as discussions of melody and modulation) in previous Tuning
+Digests. The issue is complicated but that is no reason to retreat to a
+simpler, less useful definition. Your definition makes no sense, because
+you'll never come up with an answer for irrational intervals. How do you
+propose to "measure [the mistuning of an equal temperament] in cents
+deviation _and_ consonance* deviation" when you can't define the
+consonance of an irrational interval? Presumably, you want to use
+rational approximations, but how do you decide whether to use 25/21,
+44/37, 1785/1501, 10754/9043, or 19723/16585? You seem to like the
+latter, but if you really go to that level of accuracy, you face a very
+large danger that some of your so-called JI perfect fifths will turn out
+to be closer to 30001/20001, in which case you'll have to call the
+equal-tempered minor third more consonant that the just perfect fifth!
+
+
+Actually, if you want to get into silly mathematical discussions, the
+probability that two physical strings are tuned to a rational inteval is
+zero, as Cantor showed that the cardinality of the reals is greater than
+that of the rationals. The probability that the strings are tuned to an
+n-tone-equal-tempered interval is also zero, since the algebraic numbers
+have the same cardinality as the rationals (which have the same
+cardinality as the integers).
+
+The only definition I care about is one with a psychoacoustic
+correlative. Otherwise we're not talking about music, we're talking
+about abstract marks on a piece of paper or computer screen. My
+calculation of beat rates was an attempt to show that the one
+psychoacoustic correlate you did mention does not lead to a first-order
+qualitative difference between 19/16 and 2^(1/4). Personally I think
+19/16 in a high register has a peculiar stability due to its denominator
+being octave-equivalent with the fundamental (the brain often fills in
+the missing fundamental with a "virtual pitch" and any combination tones
+will only be in agreement with the virtual pitch in the case of JI).
+
+Oh, I finally saw that cream cheese commercial.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  Inharmonicity (again!)
+PostedDate:  27-10-97 22:23:36
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  27-10-97 22:22:38-27-10-97 22:22:39,27-10-97 21:23:14-27-10-97 21:23:14
+DeliveredDate:  27-10-97 21:23:14
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125653D.00756B9B; Mon, 27 Oct 1997 22:22:32 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28317; Mon, 27 Oct 1997 22:23:36 +0100
+Date: Mon, 27 Oct 1997 22:23:36 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29009
+Received: (qmail 10540 invoked from network); 27 Oct 1997 13:23:27 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 27 Oct 1997 13:23:27 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971027204736Z-2662@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

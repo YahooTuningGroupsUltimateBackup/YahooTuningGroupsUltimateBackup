@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Fri, 20 Dec 1996 07:02:13 -0800
+
+Subject: post for Brian McLaren
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Brian M. points out:
+
+> To get more pitches per octave than
+> this, you must either [1] reduce the
+> range of your instrument from 7 octaves
+> down to some smaller ambitus; [2] use
+> multitracking with SMPTE sync and 
+> create multiple MIDI files which break
+> up portions of your composition into
+> different keyboard ranges, and then
+> build up the entire composition out
+> of multiple passes via multitrack
+> recordings;
+
+   Interesting!  Therein lies the difference between a fellow with a piano
+background (Brian), and, for lack of a better word, a solo-instrument
+background (me).  In my life, I have played (mostly) viola, bassoon,
+classical guitar, and now soprano saxophone, rather than piano, organ, or
+harpsichord for example.  That being the case, the idea of having the
+entire musical pitch range laying out in front of me simultaneously is
+alien to me.  
+
+   Limited range on an instrument is, on the face of it, a limitation, but
+in another sense it's something of a liberator in that lack of range on a
+single instrument never even would have occured to me as being problematic.
+ I've just always assumed that if I'm writing something for the entire
+musical pitch range, that I'll have to think in terms of a larger ensemble
+than a single instrument.  Or driving it the other direction, devise the
+ensemble that makes sense for a particular impression I'm trying to get
+across, and let the range fall as it might for that particular ensemble.  
+
+   But along the lines of piano overdubbing Brian mentioned, I suppose
+there is one fairly natural way to approach that, which is the old "piano
+four hands" approach.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Dec 1996 16:04 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14702; Fri, 20 Dec 1996 16:06:59 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA14700
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA20855; Fri, 20 Dec 1996 07:06:56 -0800
+Date: Fri, 20 Dec 1996 07:06:56 -0800
+Message-Id: <009AD21733A3E1E0.DF58@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

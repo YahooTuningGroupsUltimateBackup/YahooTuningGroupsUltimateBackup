@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Sun, 17 Nov 1996 23:46:57 -0800
+
+Subject: K2000 PB Resolution
+
+From: asouter@scf.usc.edu (Andrew Souter)
+
+Friends,
+
+        Well I took your advice and tested the K2000's PB Frequency
+response manually.  I used Performer 5.0 to send PB Data to two separate
+tracks which played sine waves a various frequencies.  The two tracks were
+each given different pitch bend values, and the resulting beats were
+observed and recorded manually.  It was a rather involved experiment which
+took most of the day, so I will not go into detail, instead I will simply
+present the conclusions:
+
+        1.)  The K2000 responses to pitch bend messages in a logarithmic
+fashion.  2.)  Unfortunately, regardless of the pitch bend range specified
+under the "Commons" page, the maximum tuning resolution obtained by using
+the pitch bend method is approximately (or possibly exactly?) 1 cent.  3.)
+This fact proves this method to be of little advantage over the Global cent
+based method.
+
+        I invite, anyone to challenge these findings;  I certainly would
+not be upset to be proven wrong. I hope, in fact, that I may be proven
+wrong...
+
+        -andrew
+
+Safe Journey...
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 18 Nov 1996 14:05 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA16027; Mon, 18 Nov 1996 14:06:49 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA15815
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id FAA28384; Mon, 18 Nov 1996 05:06:43 -0800
+Date: Mon, 18 Nov 1996 05:06:43 -0800
+Message-Id: <961118080423_1217325076@emout10.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

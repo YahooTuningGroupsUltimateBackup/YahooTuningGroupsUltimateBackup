@@ -1,0 +1,64 @@
+source file: mills2.txt
+Date: Sat, 7 Dec 1996 18:06:09 -0800
+
+Subject: Crying "wolf".
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> Do we really want to use the same term "wolf" for these two very 
+> different intervals? 
+
+   (And, as you very appropriately pointed out, different sources of tuning
+errors.)  
+
+   I tend to use "wolf" to mean either of two meanings:  A note that is
+conceptually correct in the tuning system but nevertheless has a systematic
+pitch error from whatever source, and also the more specific case of the
+break in the circle of fifths to make a diminished sixth.  
+
+   I don't know whether to think that it's a good idea to use the same term
+for those two meanings, but this sort of general/specific dual word usage
+is certainly not unprecedented.  For example:
+Equal temperament:
+   General:  A tuning based on single, consistent step size.
+   Specific: 12TET
+Meantone:
+   General:  A tuning based up on circle of a fixed size P5 wrapping within
+an
+             octave.
+   Specific: Quarter-comma meantone.
+Comma:
+   General:  A pitch error between two systematically valid formulations of
+
+             what are conceptually the same pitch.
+   Specific: Syntonic comma.
+
+   I suppose one could take either of two camps in this question:
+1.  Music is not, and perhaps shouldn't become, an exact science.  This
+sort 
+    of dual-meaning word is common, and it is poetic license, if not poetic
+
+    justice, that it should be accepted in the case of "wolf" as well.
+2.  Look, let's not make the same mistake for the ... what? ... sixth
+time?!
+
+   Dan Wolf was, I think, insightful to point out that historically, "wolf"
+has been used to describe far more divergent effects, like a note on an
+instrument that, just by the acoustomechanics of the instrument itself,
+tends to "stick out".  I've even heard some violinists describe the open E
+string on a "wolf".  
+
+   So, the clear lesson here is that context is key.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 9 Dec 1996 23:01 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00454; Mon, 9 Dec 1996 23:04:00 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00452
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA17132; Mon, 9 Dec 1996 14:03:57 -0800
+Date: Mon, 9 Dec 1996 14:03:57 -0800
+Message-Id: <32AC8C41.6777@ix.netcom.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

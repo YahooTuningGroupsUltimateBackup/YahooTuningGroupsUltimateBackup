@@ -1,0 +1,87 @@
+source file: mills2.txt
+Date: Fri, 4 Jul 1997 08:37:16 +0200
+
+Subject: Re: Definitions
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>1. Tempering initially referred to how one deviated about the system of
+>Pythagorean tuning
+>Nowadays, however, temperament and tuning seem to be synonymous.
+
+   At least among most tuning buffs, "temperament" is pretty much
+synonymous with "deviation from just intonation".  And that is to say JI of
+whatever sort, although the Ptolemaic tuning of 1:1 9:8 5:4 4:3 3:2 5:3
+15:8 2:1 is probably generally regarded as the most basic reference point
+for a major scale anyway.
+
+   That is NOT to suggest, however, that Pythagorean tuning (1:1 9:8 81:64
+4:3 3:2 27:16 243:128 2:1) is regarded as a temperament of that Ptolemaic
+tuning.  Pythagorean is another JI point of reference.
+
+
+
+
+>3. Mean Temperament has two general meanings. First it means a system of
+>tuning by fifths such that four ascending fifths and two descending
+>octaves make up a perfect third. It also means any one of many slight
+>variations about this basic system.
+
+   Meantone temperament is a tuning system based upon a consistent size of
+perfect fifth, that fifth being tempered downward to make other intervals
+Just, or at least a lot closer to just.  Now in 99% of the cases they
+involved a "wolf fifth" at the point where the circle was broken,
+frequently between G# and Eb.  That does not violate the
+single-size-of-fifth rule, because G# to Eb is clearly a diminished sixth
+instead of a P5.
+
+   The system you described above is called "quarter-comma meantone",
+because its fifth is tempered flat by a quarter of a syntonic comma (81:80)
+so that four of them stacked atop on another, adjusting downward by octaves
+as needed, arrives at an exact, just 5:4.  (Zikes!  Please don't say
+"perfect third";  fifths can be perfect, but not thirds;  that's what the
+word "just" is for.)
+
+   Notice that I said in 99% of the cases it involved a wolf fifth.  There
+are historically rare, but well-documented, cases of two meantone systems
+being completed by carrying them beyond 12 (or occasionally 13-14) tones
+per octave.  The two systems that this works for a third-comma meantone, in
+which the fifth is flatted by a third of an 81:80 syntonic comma to produce
+a just 5:3 major sixth, and in quarter-comma meantone.
+
+   When 19 third-comma flat fifths are stacked atop one another, you arrive
+at a pitch that is astoundingly close to exactly 11 octaves above where you
+started - only about 1 cent off!  That means that "complete" third-comma
+meantone is so close to 19-tone-per-octave equal-temperament (called
+"19TET") that there's no real-world point in distinguishing between the
+two.  And the analogous situation occurs with quarter-comma meantone and
+31TET.  Christian Huygens and others noticed this during the reign of
+quarter-comma meantone.
+
+
+
+
+>4. Bachís WTC refers to a mean tempered clavichord; in particular,
+>well-tempered means mean tempered.
+
+   I am personally aware of no evidence of that.  All evidence I've heard
+suggests that he wrote it for several of the Werkmeister well temperaments,
+which were used by the organs in the area.
+
+   To the best of my knowledge "klavier" conceptually refers to any
+keyboard instrument, although it's astoundingly unlikely that it would be
+applied to the organ.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 4 Jul 1997 08:38 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04784; Fri, 4 Jul 1997 08:38:37 +0200
+Date: Fri, 4 Jul 1997 08:38:37 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04758
+Received: (qmail 21446 invoked from network); 4 Jul 1997 06:37:25 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 4 Jul 1997 06:37:25 -0000
+Message-Id: <v01541103afe203e56ff6@[207.207.3.151]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

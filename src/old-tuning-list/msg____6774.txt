@@ -1,0 +1,295 @@
+source file: mills3.txt
+Date: Tue, 23 Dec 1997 14:43:21 +0100
+
+Subject: RE: Gibson digest 1274
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>
+>}Gregg Gibson said:
+>}> >>The ideal value for the octave itself is of course 1200/19 =3D =
+63.16 ;
+>}> >>here are the values for the other six consonances.
+>}> >>3:2     701.96/11 =3D 63.82
+>}> >>4:3     498.04/8 =3D 62.26
+>}> >>5:4     386.31/6 =3D 64.39
+>}> >>5:3     884.36/14 =3D 63.17
+>}> >>6:5     315.64/5 =3D 63.13
+>}> >>8:5     813.69/13 =3D 62.59
+>}> >
+>}> >>If one considers the consonances to be all of equal importance, =
+one can
+>}> >>simply take the average of the above seven figures, which is =
+63.22, to
+>}> >>arrive at a figure for the octave of 1201.2.
+>
+>}Paul Ehrlich said:
+>}> >Gregg, this is not correct. You are not giving equal importance to =
+the
+>}> >intervals above. Since whatever compromise is made in taking the =
+average
+>will
+>}> >be multiplied 14-fold for the 8:5 but only 5-fold for the 6:5, you =
+are
+>being
+>}> >more permissive for tuning errors in the larger intervals. I am =
+certain
+>}> >Fokker would not have made this mistake, being a brilliant =
+physicist. I
+>know
+>}> >you will probably gloss over this post the way you have dismissed, =
+with
+>total
+>}> >lack of understanding, my other comments. But if you are =
+interested, I
+>will
+>}> >tell you the other things wrong with your calculations here, and =
+how I
+>}> >arrived at an optimal octave of 1202.7 cents for 19-equal.
+>
+>}you presume to assert that I have "glossed over"
+>
+>You have -- for instance, what is your response to my question as to =
+why
+>26-equal shouldn't be considered as a diatonically usable temperament? =
+What
+>is your response to my question as to why just intonation is far =
+superior to
+>53-equal?
+>
+>}and dismissed
+>}your posts with "total lack of understanding"
+>
+>You have and continue to do so -- here's evidence:
+>
+>}I advise you to study the cycle of 22-tone equal consonant fifths. See
+>}if you can find a consonant third, four fifths above the tonic. If you
+>}cannot (and you cannot) your arguments fall to the ground. I repeat =
+that
+>}when I was a beginner, I made the same mistake you are making.=20
+>
+>which proves that you don't have an inkling of what my "arguments" are,
+>although I have evidently presented them with enough clarity so that =
+Graham
+>Breed, Paul Hahn, and Steven Rezsutek have understood them.
+>
+>}1. Fokker's method is as I have stated. Read the references for
+>}yourself. If you do not have access to Fokker's original texts, use
+>}Mandelbaum.
+>
+>I have not been able to gain access to Mandelbaum's writings, or to the
+>particular ones of Fokker in question. Believe me I have tried to read =
+every
+>shred of tuning-related literature, including the Yale, Harvard, NYU, =
+and NY
+>Public libraries, partly in an attempt to see if anyone had discovered =
+the
+>decatonic scales before me. Surprisingly, no one has, as far as I know.
+>However, since the issue is mathematical, not historical, we need not =
+appeal
+>to the literature. If Fokker was using a convenient approximation to
+>illustrate a point, so be it, but we can still do better. I have other
+>disagreements with Fokker, such as his use of square rather than =
+triangular
+>lattices, as well as his use of 31-equal to represent ratios of odd =
+numbers
+>(such as 13) that are not consistently expressed by the tuning.
+>=20
+>}2. Fokker could have used _no_ method to achieve equal weighting of
+>}deviations of the consonances.
+>
+>Excuse me, but did you not say in the above that you were treating the
+>consonances as equally important, and therefore taking an average of =
+the
+>figures?
+>
+>}The most _basic_ principle of
+>}temperament, which is taught to all _beginners_ in this discipline, is
+>}that there can be _no_ temperament which compromises the consonances
+>}equally.
+>
+>Of course, one cannot make all the errors equal, but one can make them
+>equally important in determining a temperament.
+>
+>}This arises from the mathematics of the case. _Learn_
+>}mathematics before you make such statements, which again, only show =
+your
+>}ignorance.
+>
+>}Now that I have administered the bitter pill, let me add a large
+>}tablespoon of sugar. You are quite bright. You were led into this =
+faulty
+>}conclusion by assuming that the consonances are independent, and so,
+>}vary independently when tempered. I use non-mathematical language here
+>}deliberately. But in fact the consonances consist of three pairs, 5:4 =
+&
+>}8:5, 6:5 & 5:3, and 3:2 & 4:3, each of which pair varies as if it were =
+a
+>}single interval, so far as temperaments are concerned. Therefore, to
+>}seek some system which shall weight deviations from the consonances
+>}equally, even in the case in which the octave is itself tempered, is =
+the
+>}classic pons asinorum of temperament, for no such system can exist.
+>
+>Again, _you_ were the one who attempted to weight the deviations =
+equally,
+>which is a perfectly fine thing to attempt to do. I simply pointed out =
+that
+>you did not do so correctly. If you wish, I will go through the math =
+and show
+>that you did not find the optimal octave for your initial example. Your =
+error
+>propagates through your other refinements and the fact that we arrive =
+at a
+>similar value for the optimal 19-tone octave (1202.7 cents) is either =
+sheer
+>coincidence or evidence that both of us were listening.
+>
+>}Finally, let me observe that the value of 1202.7 cents for the octave,
+>}while apparently very precise, and possibly indicative that one person
+>}may have copied the other without acknowledgement,
+>
+>That is so absurd as to be laughable. I calculated that number for the =
+first
+>time just before I posted it, and I clearly indicated its derivation, =
+which
+>again is quite different than yours.=20
+>
+>}> > Gregg Gibson is posting such a lot of highly opinionated material,
+>}> > it is difficult not to join in the argument.
+>bil said:
+>}> Or wish my mailer had a filter function -- such a flood of junk.
+>
+>}For those who have been eager to attack me as uncivil, I give this as =
+an
+>}example of true incivility. It is not uncivil to say a tuning is =
+without
+>}value.
+>
+>Imagine telling an oboist that the oboe is a worthless instrument. If =
+that
+>were a civil thing to say, you wouldn't need to protect yourself from =
+an
+>incoming double reed. To describe yourslef as "meekly humble" only =
+shows that
+>you are hiding behind the impersonal screen of the Internet while =
+firing off
+>your insulting material. Evidently you find my tone objectionable as =
+well --
+>I'd be happy to just discuss tuning and not make personal remarks, if =
+only
+>you'd attempt to understand, rather than dismiss as beneath your
+>consideration, the counterarguments that I and others offer.
+>
+>}As I have abundantly shown in previous posts, this temperament (and
+>}analogous ones such as 29- 41- & 53-tone equal,) is impossible for the
+>}diatonic, as well as for the chromatic modes (see the four chromatic
+>}modal genera or scales I have contributed; these include several of =
+the
+>}forms of the 'minor' of the West) which obviously require thirds and
+>}sixths vis-=E0-vis the tonic, it being granted that the fifth and/or
+>}fourth must also be present.=20
+>
+>On the contrary, you have not shown anything, while I have shown that =
+three
+>of your four "chromatic" genera are indeed adequately represented in
+>non-meantone temperaments.
+>
+>}The case of the enharmonic is less clear-cut, and requires more =
+detailed
+>}consideration. For after all, one might ask, surely the divers
+>}enharmonic modes have fewer thirds or sixths vis-=E0-vis the tonic, =
+and so
+>}the inconsistency between the fifth cycle and those of the thirds =
+would
+>}appear to be less troublesome; in certain enharmonic modes it might
+>}never arise at all.=20
+>
+>That's right -- just as it never arises in three of your four =
+"chromatic"
+>genera.
+>
+>}For example, take one form of the enharmonic:
+>}C  C#  Db  F  G  G#  Ab  C  (not the 22-tone equal notation)
+>}or in 22-tone equal:
+>}0  55  109  491  709  764  818  1200
+>
+>}There is a consonant major third between Db & F, and another between =
+Ab
+>}& C, and a consonant minor third between F & Ab.=20
+>
+>}In reality, of course, the notation of the 22-tone differs from the
+>}above notation:
+>}C  Db  B#  F  G  Ab  Fx  C
+>}which BTW is not a mere artefact of notation, but on the contrary
+>}explains very succinctly the utterly non-diatonic and non-chromatic
+>}nature of this system,
+>
+>Which is why I would use a decatonic rather than heptatonic notation =
+for
+>22-equal.
+>
+>}The effect of this particular Greek enharmonic mode - the most famous =
+of
+>}them as I recollect - is in 22-tone not wholly dissimilar to its =
+effect
+>}in 19-tone equal, except that the latter is much more singable because
+>}of the wider 63.3 cent interval.
+>
+>But which is closer to the ancient Greek tuning of this mode?
+>
+>}Other enharmonic modes in 22-tone equal such as:
+>}C  D  D#  F  G  G#  Ab  C    (not 22-tone equal notation)
+>}0  218  273  491  709  764  818  1200
+>}have problems however. Here D-F is dissonant, and this would tend to
+>}disagregate the already weak tonality of the enharmonic. If D is =
+lowered
+>}to make D-F consonant, D-G becomes dissonant. This is similar to the
+>}break in the fifths that besets just intonation itself. This is not a
+>}trivial matter; it is very noticeable to the ear.
+>
+>Does this mode have any practical or theoretical importance?
+>
+>}The difference of 9 cents between
+>}54.5 and 63.3 cents is very important, because it occurs near the
+>}melodic threshold or limen of perception.
+>
+>So if you go down 54 cents, and then up 63 cents, you've gone down an
+>imperceptible interval, and then up a perceptible interval, so you're =
+up a
+>perceptible interval. Therefore, 9 cents is a perceptible melodic =
+interval by
+>your logic. You see why we don't think your limen makes much sense? =
+Context
+>and training are far more important for what can or cannot be =
+distinguished
+>in melody than any precise cents value.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  Reply to Bob Lee
+PostedDate:  23-12-97 14:45:34
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  23-12-97 14:43:21-23-12-97 14:43:22,23-12-97 14:42:53-23-12-97 14:42:53
+DeliveredDate:  23-12-97 14:42:53
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256576.004B5F64; Tue, 23 Dec 1997 14:45:12 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24159; Tue, 23 Dec 1997 14:45:34 +0100
+Date: Tue, 23 Dec 1997 14:45:34 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA24312
+Received: (qmail 9976 invoked from network); 23 Dec 1997 05:44:33 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Dec 1997 05:44:33 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971223003221Z-545@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

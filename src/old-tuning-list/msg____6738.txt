@@ -1,0 +1,103 @@
+source file: mills3.txt
+Date: Sat, 20 Dec 1997 10:23:50 +0100
+
+Subject: 22-tone Equal and the Genera
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+As I have abundantly shown in previous posts, this temperament (and
+analogous ones such as 29- 41- & 53-tone equal,) is impossible for the
+diatonic, as well as for the chromatic modes (see the four chromatic
+modal genera or scales I have contributed; these include several of the
+forms of the 'minor' of the West) which obviously require thirds and
+sixths vis-?-vis the tonic, it being granted that the fifth and/or
+fourth must also be present.
+
+The case of the enharmonic is less clear-cut, and requires more detailed
+consideration. For after all, one might ask, surely the divers
+enharmonic modes have fewer thirds or sixths vis-?-vis the tonic, and so
+the inconsistency between the fifth cycle and those of the thirds would
+appear to be less troublesome; in certain enharmonic modes it might
+never arise at all.
+
+For example, take one form of the enharmonic:
+C  C#  Db  F  G  G#  Ab  C  (not the 22-tone equal notation)
+or in 22-tone equal:
+0  55  109  491  709  764  818  1200
+
+There is a consonant major third between Db & F, and another between Ab
+& C, and a consonant minor third between F & Ab.
+
+In reality, of course, the notation of the 22-tone differs from the
+above notation:
+C  Db  B#  F  G  Ab  Fx  C
+which BTW is not a mere artefact of notation, but on the contrary
+explains very succinctly the utterly non-diatonic and non-chromatic
+nature of this system, but that is beside the point.
+
+The effect of this particular Greek enharmonic mode - the most famous of
+them as I recollect - is in 22-tone not wholly dissimilar to its effect
+in 19-tone equal, except that the latter is much more singable because
+of the wider 63.3 cent interval.
+
+Other enharmonic modes in 22-tone equal such as:
+C  D  D#  F  G  G#  Ab  C    (not 22-tone equal notation)
+0  218  273  491  709  764  818  1200
+have problems however. Here D-F is dissonant, and this would tend to
+disagregate the already weak tonality of the enharmonic. If D is lowered
+to make D-F consonant, D-G becomes dissonant. This is similar to the
+break in the fifths that besets just intonation itself. This is not a
+trivial matter; it is very noticeable to the ear.
+
+Therefore ? and I am very glad to be able to give Paul Ehrlich some
+reason for at least toying with the 22-tone equal ? some of its
+enharmonic modes seem usable, so long as modulation, harmony, or the
+drone are rigidly forbidden. As soon as these enter, the enharmonic
+itself evolves toward the chromatic or the diatonic, with 1/3 tones used
+not as basic modal members, but only as occasional ornaments. (And then,
+in the diatonic and chromatic, the 22-tone equal becomes unusable).
+
+And this indeed has always seemed to me ultimately the most valuable
+r?le for the enharmonic; not as a fully independent genus, but as an
+adjunct ? a very important adjunct ? to the chromatic and diatonic.
+
+But I here hesitate, and have long hesitated, to pronounce with any kind
+of certainty; if the Greeks used the enharmonic as a fully independent
+genus, and they appear to have done so, there may well be a way to avoid
+the difficulty, only I do not see it.
+
+In fine, observe that _all_ enharmonic modes, whether infiltrated by the
+chromatic or diatonic or kept pure, are available in the 19-tone equal,
+and because of the 63.3 cent interval are much more easily sung in the
+therein than in the 22-tone equal. The difference of 9 cents between
+54.5 and 63.3 cents is very important, because it occurs near the
+melodic threshold or limen of perception.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  A Higher-Level Comment on Gregg Gibson's Limen
+PostedDate:  20-12-97 11:00:20
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  20-12-97 10:58:15-20-12-97 10:58:16,20-12-97 10:57:50-20-12-97 10:57:51
+DeliveredDate:  20-12-97 10:57:51
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256573.0036C231; Sat, 20 Dec 1997 11:00:02 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22593; Sat, 20 Dec 1997 11:00:20 +0100
+Date: Sat, 20 Dec 1997 11:00:20 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA22544
+Received: (qmail 18997 invoked from network); 20 Dec 1997 02:00:13 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 20 Dec 1997 02:00:13 -0800
+Message-Id: <v01541107b0c0b8a73d97@[207.207.2.115]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

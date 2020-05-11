@@ -1,0 +1,74 @@
+source file: mills3.txt
+Date: Tue, 25 Nov 1997 10:36:45 +0100
+
+Subject: valves 12tet?
+
+From: jon wild <jon@sound.music.mcgill.ca>
+
+On Sun, 23 Nov 1997 tuning@eartha.mills.edu wrote:
+> This is not quite right. Three-valved brass instruments are
+> actually seven natural horns sharing a bell and a mouthpiece. The valves
+> are usually tuned to lower the open horn by multiples of
+> equal-tempered semitones (1st valve by 2 semitones, 2nd by 1, third by 3;
+> actually it might have been more flexible if the third valve lowered by 4
+> but this seems to place horns below the optimal diameter to length ratio
+> - the more valves added, the weaker the sound). So the fundmentals of the
+> tones produced by all combinations of valves are set to 12tet.
+
+Not quite true either ... it's impossible for all combinations of valves
+to be tuned exactly to 12tet, because when they are used together they
+have to add tubing to different horn lengths. Thus if the semitone valve
+added a length exactly equal to 2^(1/12) of that of the open horn, then
+when added to the horn *plus* the second or third valve it would no longer
+lengthen the tube by as large a ratio, since the tube would be longer to
+begin with (not a very good sentence but hopefully you get the point). The
+third valve by itself lengthens the tube by more than the combination of
+the first and second, because it's designed to be used only in tandem with
+the other valves. That's why you use valves 1 + 2 to go down a minor
+third, instead of valve 3. Seven independently tunable natural horns would
+be a great thing in one instrument, but it can't be done with three
+valves.
+
+One exaggerated example to show why instrument makers have to compromise
+on tube-lengths for the various valves: say your horn is 5 feet long, and
+you want valve #1 to lower the pitch by a just minor third (5:6), then you
+need one extra foot of tubing, right? If you want valve #2 to lower the
+pitch of the open horn by a just minor sixth (5:8), then that valve should
+have 3 feet of tubing... Problem is, if valve #2 is depressed, your "minor
+third" valve now adds its foot of tubing to an 8-foot horn, so only lowers
+the pitch by an 8:9 tone. Same sort of problems (but with messier, albeit
+smaller numbers) apply to real-world "12tet" valves. So if you want to be
+able to combine valves, you have to compromise on accuracy so they can be
+used across the board. (Of course, players can and do correct for the
+inaccuracy - it doesn't mean valved instruments can't play in 12tet, just
+that the fundamentals of each valve combination aren't in *exact* 12tet
+relationships.) 
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+Subject:  Re: TUNING digest 1246
+PostedDate:  25-11-97 10:40:09
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  25-11-97 10:38:36-25-11-97 10:38:37,25-11-97 10:38:38-25-11-97 10:38:38
+DeliveredDate:  25-11-97 10:38:38
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125655A.0034F6CD; Tue, 25 Nov 1997 10:38:30 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00511; Tue, 25 Nov 1997 10:40:09 +0100
+Date: Tue, 25 Nov 1997 10:40:09 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA00509
+Received: (qmail 17376 invoked from network); 24 Nov 1997 12:13:24 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 24 Nov 1997 12:13:24 -0800
+Message-Id: <01bcf914$612afa80$LocalHost@a1a05977>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

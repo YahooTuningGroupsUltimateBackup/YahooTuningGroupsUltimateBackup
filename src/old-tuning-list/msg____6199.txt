@@ -1,0 +1,55 @@
+source file: mills3.txt
+Date: Wed, 1 Oct 1997 18:02:57 +0200
+
+Subject: Re: Cakewalk CAL language, etc.
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+All-
+        I just posted an article by Paul Erlich on 22TET on my web page at
+http://www-math.cudenver.edu/~jstarret/microtone.html
+Look under "Notes on Microtonality". Be advised that Paul has not had a
+chance to review the HTML document as posted, so any weird formatting or
+missing .gifs are my fault. I encourage you to submit reviews,
+articles, rants, etc. and I will be glad to post them. I believe Paul used a
+"convert to HTML" utility in his word processor, which is necessary in an
+article such as his with lots of figures and tables, but should your
+submission be simple text, it is not too difficult for me to add a few
+HTML formatting commands.
+        Also, I recently purchased Cakewalk Pro Audio and a Soundblaster
+64 AWE soundcard. It seems that Cakewalk may be programmed to have some
+rudimentary microtonal capability with its CAL programming language. Does
+anyone on this list have any experience with CAL? My first efforts to
+insert pitch bends with CAL based on note number were failures, but from the
+few code samples included it looks as if it should be possible.
+
+John Starrett
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  alves@orion.ac.hmc.edu (Bill Alves) 
+Subject:  Re: Re MIDI Tuning Spec
+PostedDate:  01-10-97 18:12:50
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-10-97 18:12:28-01-10-97 18:12:29,01-10-97 18:11:24-01-10-97 18:11:24
+DeliveredDate:  01-10-97 18:11:24
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256523.00590486; Wed, 1 Oct 1997 18:12:18 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03972; Wed, 1 Oct 1997 18:12:50 +0200
+Date: Wed, 1 Oct 1997 18:12:50 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03984
+Received: (qmail 11168 invoked from network); 1 Oct 1997 09:12:48 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Oct 1997 09:12:48 -0700
+Message-Id: <v01510100b057c39a4a09@[134.173.37.15]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

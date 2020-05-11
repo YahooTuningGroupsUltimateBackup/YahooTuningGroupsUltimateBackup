@@ -1,0 +1,806 @@
+source file: mills2.txt
+Date: Wed, 12 Mar 1997 06:15:33 -0800
+
+Subject: pitch bend units?
+
+From: "Kami Rousseau" <kami@InterLinx.qc.ca>
+
+4096 is 100 cents
+2048 is 50 cents
+1024 is 25 cents, 
+-4096 is -100 cents, etc.
+
+It's that simple
+
+
+-Kami
+
+** I am a peach tree, 
+** Blossoming in a deep pit.
+
+----------
+> De : tuning@ella.mills.edu
+> A : Multiple recipients of list <tuning@ella.mills.edu>
+> Objet : TUNING digest 1010
+> Date : 10 mars, 1997 18:49
+> 
+> 			    TUNING Digest 1010
+> 
+> Topics covered in this issue include:
+> 
+>   1) Re:  A=443 ?
+> 	by rtomes@kcbbs.gen.nz (Ray Tomes)
+>   2) Dominant 7th chord = 4:5:6:7:8?
+> 	by rtomes@kcbbs.gen.nz (Ray Tomes)
+>   3) Re: Universe and Sound
+> 	by rtomes@kcbbs.gen.nz (Ray Tomes)
+>   4) Re: TUNING digest 1009
+> 	by Johnny Reinhard <reinhard@IDT.NET>
+>   5) pitch bend units?
+> 	by Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+>   6) RE: pitch bend units?
+> 	by Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+>   7) C# and Db:I said KEYS, not PITCHES
+> 	by kollos@cavehill.dnet.co.uk (Jonathan Walker)
+>   8) Re: Ancient Geeks and irrationals
+> 	by kollos@cavehill.dnet.co.uk (Jonathan Walker)
+>   9) Re: winding down on ET
+> 	by kollos@cavehill.dnet.co.uk (Jonathan Walker)
+>  10) mapping spectra
+> 	by William Sethares <sethares@eceserv0.ece.wisc.edu>
+>  11) RE: Meaner Tones (Paul E)
+> 	by Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+>  12) Danielou = bugger
+> 	by TONY SALINAS <salinas@lgu.ac.uk>
+>  13) Re: Danielou = bugger
+> 	by kollos@cavehill.dnet.co.uk (Jonathan Walker)
+>  14) Auditory Display Conference
+> 	by John Chalmers <non12@deltanet.com>
+>  15) Dynamic Timbres with MIDI and DSP.
+> 	by Stephen Alexander Ruthmann <sruthman@umich.edu>
+> 
+> ----------------------------------------------------------------------
+> 
+> Topic No. 1
+> 
+> Date: Mon, 10 Mar 1997 00:29:46 GMT
+> From: rtomes@kcbbs.gen.nz (Ray Tomes)
+> To: tuning
+> Subject: Re:  A=443 ?
+> Message-ID: <336b49f1.802701832@kcbbs.gen.nz>
+> 
+> Gary Morrison <MorriSonics@compuserve.com> wrote:
+> 
+> >   Speaking for myself personally, I find this sort of "cosmic =
+> resonance"
+> >argument worthless, for two reasons:
+> 
+> >1.  You can almost certainly come up with other equally valid cosmic
+> >resonances.  For example Lyndon LaRouch's followers claim that
+C=3D256Hz=
+> =20
+> >tuning is natural because the Earth rotates around its axis at a =
+> frequency=20
+> >equal to a (very very low) G in that tuning.  (Actually that claim is =
+> not=20
+> >true, but it does suggest a lower tuning than A=3D440Hz.)
+> 
+> Agreed that there are multiple cosmic influences and we don't in all
+> cases know which ones are insignificant and which ones aren't.
+> 
+> >2.  There is almost certainly no way (zippo!) that our ears and minds =
+> could
+> >possibly be sensitive to such a thing. =20
+> 
+> Wrong!
+> 
+> Our brains have a variety of different frequencies depending on
+> conditions, but it is now recognised that theses frequencies are related
+> to the Schumann resonance.  Also, experiments show when we are subjected
+> to ELF (extra low frequency) waves which are a little slower or faster
+> than the typical Schumann resonance frequency our reaction times are
+> either slowed or speeded up.  Also, strong natural 3 Hz ELF waves have
+> been shown to correlate strongly with accidents (confirming that our
+> reactions are too slow).  So you see, our brains can be entrained by
+> natural ELF waves near the normal brain frequencies.
+> 
+> When a chord is played in a key then there is also present in our brains
+> a frequency which is the HCF (highest common factor) of the notes
+> played.  This frequency will often be in the ELF range and will
+> generally match either the key or the subdominant.
+> 
+> So you see, given that both e/m and sound can entrain the brain, it is
+> quite possible that our brains would also feel whether these two
+> frequencies are in tune.
+> 
+> I accept the previous comments about the variations in natural
+> frequencies and so it is necessary to say that there is no hard and fast
+> absolute rule but the relationships at a moment in time will be
+> important.
+> 
+> -- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+> http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+> 
+> ------------------------------
+> 
+> Topic No. 2
+> 
+> Date: Mon, 10 Mar 1997 00:29:49 GMT
+> From: rtomes@kcbbs.gen.nz (Ray Tomes)
+> To: tuning
+> Subject: Dominant 7th chord = 4:5:6:7:8?
+> Message-ID: <336c4f90.804140894@kcbbs.gen.nz>
+> 
+> Andrew Milne <andymilne@dial.pipex.com> wrote:
+> 
+> >If the 7th in a dominant 7th chord is tuned to 7/4, then it loses its
+> >dissonance and instability. Indeed such a chord can function as a tonic
+> >(as it does, quite exceptionally for the time, in Chopin's 22nd
+> >Prelude).
+> 
+> Even if perfectly tuned, the 4:5:6:7:8 chord is more tense than the
+> 4:5:6:8 chord.  Certainly it is still more so if the 7 is something
+> else, as you say.  I acknowledge that sometimes composers want "out of
+> tune" chords for effect.
+> 
+> These are not good reasons to deny ourselves the possibility of the
+> 4:5:6:7:8 chord however and I like the idea of it being available.
+> 
+> -- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+> http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+> 
+> ------------------------------
+> 
+> Topic No. 3
+> 
+> Date: Mon, 10 Mar 1997 00:29:52 GMT
+> From: rtomes@kcbbs.gen.nz (Ray Tomes)
+> To: tuning
+> Subject: Re: Universe and Sound
+> Message-ID: <336e5402.805278802@kcbbs.gen.nz>
+> 
+> Gary Morrison <MorriSonics@compuserve.com> wrote:
+> 
+> >   Interesting...  It would be curious to hear the chords produced by =
+> the
+> >absorption patterns of various chemical elements and compounds, after
+> >transposing them down some enormous number of octaves. =20
+> 
+> >   Were I to guess though, it would be little more than a curiosity.  I
+> >personally doubt if they would have any particularly significant
+meaning=
+>  to
+> >our ears.  The two physical/physiological mechanisms are far too =
+> unrelated
+> >for there to be much correlation. =20
+> 
+> =46or the simple part of the Hydrogen spectrum explained by Rydberg etc,
+> the frequency ratios are 1:4:9:16... which would be quite pleasant and
+> under some circumstances the differences between these frequencies also
+> (3, 7, 9, 12, etc) which is still quite tolerable.
+> 
+> =46or heavier elements like Iron which have many many more frequencies I
+> suspect that it would sound like heavy metal :-)
+> 
+> Hey, I got to crack that joke twice in 3 days (I used at the anvil
+> chorus on Saturday).  There was a big concert for the opening of a large
+> new stadium near here (mainly for rugby).  The highlight of the night
+> (which was all very spectacular) was when they did the "Dance of the
+> Diggers" to honour the people who worked on the project.  This consisted
+> of two large digging machines, lit by an erie light against the dark
+> sky, doing a wonderfully elegant dance to the music of Swan Lake.  They
+> did an amazing job and at the end the digger operaters took a bow in
+> full evening dress.  They got an ovation.
+> 
+> In another post in this thread, based on my statement:=20
+> >" If the substance of the universe, the aether, is taken as a
+> >medium then the speed of sound in the aether is what we know as light
+> >The aether is very high tensile stuff).  So these two statements are in
+> >agreement."
+> 
+> Gary Morrison <MorriSonics@compuserve.com> wrote:
+> >   I suppose there's not much point in getting into the well-accepted =
+> fact
+> >that the aether has been found not to exist in any physical sense, or at
+> >least not as the medium that light "makes waves in" as it was originally
+> >theorized. =20
+> 
+> It is only well accepted by people who don't understand it.  The people
+> who made the dicoveries that are supposed to have discredited the ether,
+> namely Einstein, Michelson, Lorentz etc, all continued to believe in an
+> ether.  If you doubt this, read Einstein's speech on the subject
+> delivered in 1920.  It is on the WWW, just search for "einstein ether".
+> There is no reason not to believe in an ether (except fashion).
+> 
+> -- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+> http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+> 
+> ------------------------------
+> 
+> Topic No. 4
+> 
+> Date: Sun, 9 Mar 1997 19:34:41 -0500 (EST)
+> From: Johnny Reinhard <reinhard@IDT.NET>
+> To: Multiple recipients of list <tuning>
+> Subject: Re: TUNING digest 1009
+> Message-ID: <Pine.GSO.3.95.970309193246.6647A-100000@u3.farm.idt.net>
+> 
+> There is no concept of absolute pitch in Bach's time.  Ellis discovereda
+> myriad of pitch diversity as a result of collecting Baroque-era tuning
+> forks.  Arthur Mendel spent his lifetime trying to discern the basis of
+> pitch in Bach's music, only to realize there was none at all.
+> 
+> Johnny Reinhard
+> American Festival of Microtonal Music
+> 318 East 70th Street, Suite 5FW
+> New York, New York  10021  USA
+> (212)517-3550/fax (212) 517-5495
+> reinhard@ios.com
+> 
+> 
+> ------------------------------
+> 
+> Topic No. 5
+> 
+> Date: Mon, 10 Mar 1997 02:13:26 -0500
+> From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+> To: "INTERNET:tuning@eartha.m" <tuning>
+> Subject: pitch bend units?
+> Message-ID: <199703100213_MC2-1257-EC6B@compuserve.com>
+> 
+> Are MIDI pitch bend units for soundcards standardized? If so, what is the
+> value, if not, what is the Soundblaster value?
+> 
+> Thanks! 
+> 
+> ------------------------------
+> 
+> Topic No. 6
+> 
+> Date:     Mon, 10 Mar 1997 11:36 +0100
+> From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+> To: tuning@eartha
+> Subject: RE: pitch bend units?
+> Message-ID: <009B10CFC1888FA2.6236@vbv40.ezh.nl>
+> 
+> Yes, the default pitch bend range is standardised to +- 200 cents.
+> Many instruments allow this range to be changed, but the way to do that
+> is not specified in the MIDI standard. 
+> The allowed values are 0 .. 16383 or, if you take the offset of 8192 into
+> account, -8192 .. 8191. A change of 100 cents corresponds to 4096.
+> The Soundblaster conforms to this range.
+> If you give the command SET ATTRIBUTE PITCH_BEND to Scala, it gives the
+> relative pitch bends for the nearest semitone, in the range 
+> -2048..2047.
+> 
+> Manuel Op de Coul    coul@ezh.nl
+> 
+> ------------------------------
+> 
+> Topic No. 7
+> 
+> Date: Mon, 10 Mar 1997 11:28:31 +0000
+> From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+> To: tuning
+> Subject: C# and Db:I said KEYS, not PITCHES
+> Message-ID: <3323F05F.27E0@cavehill.dnet.co.uk>
+> 
+> Gary Morrison wrote:
+> > 
+> >    I'm jumping into this conversation in mid-course, so I may well be
+> > missing the context.  If so, my apologies.
+> 
+> I'm afraid you are; but this isn't the only problem. 
+> 
+> > A previous writer, quoted by Gary Morrison, wrote:
+> > 
+> > "ergo, the distinction between C# and Db makes sense
+> > _only_ in well temperament. But of course, you can't
+> > set two different temperaments at once, at least not
+> > on a piano."
+> 
+> In what we earthlings call "well-temperament", there is no possible 
+> distinction between C# and Db -- everyone knows this on our planet. The 
+> well-tempered systems were specifically designed for a 12-note per 
+> octave keyboard; they were WELL-tempered specifically because they 
+> removed the wolf of the meantone temperaments, and this was by means of 
+> closing the "circle" of fifths. No closed temperament offering only 12 
+> pitch classes can possibly distinguish between and C# and Db -- this is 
+> a bland truism on planet earth.
+> 
+> 
+> Then Gary Morrison himself:
+> 
+> >    Welll...
+> > 
+> >    Certainly C# and Db are different in meantone temperaments and just
+> > intonation as well as in well temperaments.  And also in 17TET, 19TET 
+> > and 31TET as well.
+> 
+> Meantone, yup.
+> 
+> Just intonation, sure thing. Pythagorean too.
+> 
+> 19TET and 31TET, if you treat them as closures of 1/3-comma and 
+> 1/4-comma meantone, yessir. 17TET, I suppose, can also be regarded as 
+> the closure of a chain of fifths.
+> 
+> But well-temperament? NO! (in 72-point Gothic font)
+> 
+> What's going on here? Has someone just devised an all new well-tempered 
+> scheme for >12 pitch classes?
+> 
+> >    But even if they are tuned exactly the same as they are in 12TET or
+> > 24TET, the two notes are functionally different.  C# is nominally the
+> > leading tone in the key of D, and Db ... well, Db could be a number of
+> > formulations, like the seventh of a dominant seventh in the key of Ab, 
+> > or the root of a Neapolitan in C.
+>  
+> For the record, when I introduced this Beethoven example, I said that he 
+> was talking about KEYS and not single pitches. I was saying that 
+> Beethoven distinguished various keys, assigning them characteristics of 
+> their own, and that we might be tempted to guess that well-temperament 
+> was the main or sole cause of Beethoven's distinctions. But then I said 
+> that we cannot simply ignore one of his distinctions, namely between C# 
+> major and Db major; since this distinction cannot arise in any 
+> well-temperament, Beethoven's thinking must have been motivated, at 
+> least in part by less concrete considerations, such as the accumulated 
+> associations of certain keys with certain pieces, or the association of 
+> certain instruments with their most congenial keys, or relational 
+> associations depending on the difference between modulating in a 
+> flat-wards direction and in a sharp-wards direction. This is only a 
+> paraphrase of what I said in two earlier messages.
+> 
+> -- 
+> Jonathan Walker
+> Queen's University Belfast
+> mailto:kollos@cavehill.dnet.co.uk
+> http://www.music.qub.ac.uk/~walker/
+> 
+> 
+> 
+> ------------------------------
+> 
+> Topic No. 8
+> 
+> Date: Mon, 10 Mar 1997 12:06:24 +0000
+> From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+> To: tuning
+> Subject: Re: Ancient Geeks and irrationals
+> Message-ID: <3323F940.D9C@cavehill.dnet.co.uk>
+> 
+> Jonathan Wild wrote:
+> 
+> > "Repugnance" towards irrationals was strictly limited to disciplines
+> > regarded as subordinate to mathematics. Look at the Greek quadrivium
+> > to see how music fits in:
+> > 
+> >         MATHEMATICS                    GEOMETRY
+> >           (number)                    (magnitude)
+> > 
+> >            MUSIC                       ASTRONOMY
+> >     (number as embodied          (magnitude as embodied
+> >          in sound)                 in celestial motion)
+> > 
+> > The schism between the sciences dealing with the discrete vs those
+> > dealing with the continuous (number vs magnitude) was a huge factor
+> > in the development of mathematical methods.[etc.]
+> 
+> Many thanks to Jonathan Wild for such a fine posting, which has brought 
+> the thread, I would imagine, near to a consensual close. I'll confess I 
+> was feeling a little guilty at having addressed only Paul Erlich's 
+> general statement about Greeks and irrationals, without moving on to 
+> their treatment of music, where, for the reasons Jonathan has given, 
+> irrationals were indeed shunned. I would still maintain, of course, that 
+> if the Greeks had broken their quadrivial constraints, and tried to 
+> reinterpret Aristoxenus in terms of irrational equal divisions, the 30th 
+> root of 4/3 would have been by far the most likely choice of a basic 
+> unit. The fact that when this break was eventually made, in the 16th 
+> century, Aristoxenus was taken to be the father of 12TET, reflects the 
+> needs of Renaissance theorists, and not those of Greek antiquity. 
+> Aristoxenus was needed as a precedent, to justify the abandonment of 
+> numerus sonorus dogma; without citing a precedent, these ideas could, in 
+> the intellectual environment of the times, have been summarily 
+> dismissed. Renaissance theorists were therefore primarily interested in 
+> the use that could be made of Aristoxenus to serve their purposes; the 
+> truth of their interpretation of Aristoxenus was only a secondary 
+> consideration.
+> 
+> -- 
+> Jonathan Walker
+> Queen's University Belfast
+> mailto:kollos@cavehill.dnet.co.uk
+> http://www.music.qub.ac.uk/~walker/
+> 
+> 
+> 
+> ------------------------------
+> 
+> Topic No. 9
+> 
+> Date: Mon, 10 Mar 1997 13:39:25 +0000
+> From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+> To: tuning
+> Subject: Re: winding down on ET
+> Message-ID: <33240F0D.27CE@cavehill.dnet.co.uk>
+> 
+> Ed Foote (A440A@aol.com) wrote:
+> 
+> >      Hmmmm.  I am a lot less interested in winning an argument than I 
+> > am in learning all I can about the history and application of tuning. 
+> > I would hope that the nature of these interchanges doesn't become so 
+> > adversarial as to limit that.
+> 
+> Sorry if you misunderstood academic manners -- an "adversarial" stance 
+> is adopted only in order to sharpen arguments (granted, the temperature 
+> can rise somewhat if a lucidly stated argument is distorted). 
+> Furthermore, I've strongly hinted before that I'm playing devil's 
+> advocate -- I'm not against what you say, but I want to hear the best 
+> possible arguments for the case, so that even the most dogged and 
+> sceptical supporter of the 18th-century ET thesis will be convinced.
+> 
+> > > Walker asks;
+> > > if ET was well-nigh impossible in the 18th century,  as you
+> > >argue, how come it was in popular use for lutes and viols during the
+> > >16th century?
+> >     The placement of frets, by linear measurement, is a piece of cake
+> > compared to tuning by string tension.  According to Jorgenson,  this 
+> > was mentioned by Mersenne, in his Harmonie Universelle, when he states 
+> > that the equal division of the octave could not be formed on spinets, 
+> > as the string tension had to be judged by ear.
+> 
+> Here's an example, I think, of the adversarial game drawing out a better 
+> argument. In reply, I suppose one might ask why a fretted string 
+> instrument could not then be used as a point of reference by the 
+> keyboard tuner. But otherwise I'm satisfied on this matter.
+> 
+> >    However,  to say that I am trying  to "label anything with 
+> > noticeable differences a well-temperament" does something of a 
+> > disservice to my intentions.  These well-temperaments were very 
+> > specific constructions,  I use my term "Harmonic Toolbox" to describe.
+> >  what they were offering composersThis supposes that the levels of 
+> > tempering were carefully selected, not just a helter-skelter of missed
+> > thirds.
+> 
+> So what you would want to establish is that 18th-century keyboard tuners 
+> considered the achievement of ET, accurate beyond audible margins of 
+> error, considered such a hopeless task that it was not worth attempting. 
+> If so, I trust that we would eventually be able to find some recorded 
+> statements to this effect.
+> 
+> > >[JW] forgive me if I'm disinclined to
+> > >accept any far-reaching thesis purely on the grounds that the ears of
+> > >some (no doubt able) musician have convinced him of its truth.
+> > 
+> >     This thesis is not, in all fairness, based purely on the the ears. 
+
+> > The opinions formed by listening have a substantial amount of 
+> > historical support, do they not? I was originally listening to well 
+> > temperaments with the skepticism of one who had heard and tuned 
+> > nothing but ET for many years, but could find no reasons to disbelieve 
+> > the temperaments, ( Schubert too!)
+> > 
+> > >[JW again] What of the converse: would you like to say that anyone 
+> > >whose stomach doesn't churn at the sound of Beethoven in ET lacks 
+> > some essentials of when I first heard Beethoven played in
+>musicianship?
+> > 
+> >     Yes, I would like to say that, but I can't.  Churn is too strong a 
+> > word. What I can say is that after pianists that I work with have 
+> > become acquainted with the difference in temperament for Beethoven,   
+> > they all prefer something other than ET.
+> 
+> I'm afraid that this, and much else that you've said, goes no further 
+> than to say that well-temperament was a possibility for this music. But 
+> I never argued with this. What I was asking you to do, rather, was to 
+> back up your categorical statement that equal temperament was _not_ used 
+> at all (as a keyboard tuning) in Germany/Austria c.1800. I suspect by 
+> now that you said all you can on this matter, and I thank you for this. 
+> 
+> My concern is simply that there is not so far any case which would 
+> withstand scrutiny as an academic paper; since your interests are 
+> practical rather than academic, you may not be worried by this. But it 
+> will prove a difficult task, since at present revisionists such as 
+> Rudolf Rasch, are (as Manuel Op de Coul reminded us) prepared even to 
+> say that Bach might indeed have intended the WTK for equal temperament, 
+> notwithstanding all that has been argued to the contrary. If respected 
+> academics are still prepared to place ET (as a keyboard tuning) back 
+> even as far as the 1720s, there is a great deal to be done before we can 
+> hope to establish the counter-thesis that ET didn't begin to emerge as a 
+> practical possibility (for keyboards) until at least a century later. 
+> Whatever the merits of Rasch's case, there is a very long way to go 
+> before the historical case for the prevalence of well-temperament into 
+> the 19th century has been established. There are two routes by which we 
+> can attack the consensual thesis that ET was well-nigh universal in 
+> Germany/Austria by 1800: one is to provide convincing documentary 
+> evidence to the contrary from contemporary sources (I've still seen 
+> nothing in this respect); the other is to shift the burden of proof onto 
+> those following the consensual thesis, by demonstrating that ET was so 
+> far beyond the capabilities of 18th-century tuners that its supposed 
+> establishment by 1800 is most improbable (you have said a couple of 
+> things which move in this direction). Does anyone know of more material, 
+> or can anyone suggest further arguments which would contribute to either 
+> of these possible lines of attack? 
+> 
+> > >Was Chopin (advocate of ET, as I've said before) less than
+> > >a true musician?
+> >       No, but Chopin was not composing music in the time of Mozart and
+> > Beethoven, I assume he cut his teeth on a lot less meantone than 
+> > Beethoven, or Mozart.
+> 
+> Meantone? Yes, probably 1/6-comma from good string players, and on some 
+> keyboards (it was Silbermann's choice), but I thought we were talking 
+> about well temperament. Was this a typo?
+> 
+> In any case, would you agree then that for music which modulates freely, 
+> but which remains locally diatonic in most passages (as in Beethoven), 
+> well-temperaments are best, but where local chromaticism becomes more 
+> prevalent (as in later Chopin), then equal temperament is more 
+> satisfactory?
+> 
+> > (For a real treat, listen to his Opus 28 
+> > preludes performed on a DeMorgan temperament. It is a very different 
+> > music indeed,  and it could have happened!)
+> 
+> Definitely a typo here (op. 39 Preludes "durch alle Tonarten"). The date 
+> of composition is thought to have been 1789 -- certainly a later Bonn 
+> work -- so the opus number, 39, is misleading in this respect. In this 
+> case, even if (contrary to your view) ET was prevalent by 1800, there is 
+> still a fairly high probability that in relatively provincial Bonn, well 
+> temperament would still have been much in evidence at this date. Tuning 
+> matters aside, I find it particularly interesting that the two preludes 
+> traverse the circuit of keys in different ways: the first reaches C# 
+> major by fifths, then manages to reverse all of this and more in a 
+> wonderful chromatic passage to arrive on a genuine Db major (genuine in 
+> the sense that it is not just a notational convenience), whereupon the 
+> fifths sequence resumes until the final (genuine) C major is reached. 
+> The second prelude, maintains the fifths sequence throughout, and passes 
+> through the cycle twice, so removing changes due to notational 
+> convenience, we pass from C major to A*# major. The first prelude even 
+> manages to maintain a high level of inventiveness, and deserves to be 
+> heard more often on the concert platform.
+> 
+> -- 
+> Jonathan Walker
+> Queen's University Belfast
+> mailto:kollos@cavehill.dnet.co.uk
+> http://www.music.qub.ac.uk/~walker/
+> 
+> 
+> 
+> ------------------------------
+> 
+> Topic No. 10
+> 
+> Date: Mon, 10 Mar 1997 11:26:20 -0600
+> From: William Sethares <sethares@eceserv0.ece.wisc.edu>
+> To: tuning
+> Subject: mapping spectra
+> Message-ID: <199703101726.AA06357@eceserv0.ece.wisc.edu>
+> 
+> 
+> A recent thread reads:
+> 
+> " Each chemical element is uniquely identifiable in the 
+> electromagnetic spectrum by its special set of unique frequencies.  
+> These frequency sets interact to produce more complexly unique 
+> cycle frequencies, which are unheard by human ear but which 
+> resonate just as do humanly hearable musical chords or dissonances."
+> 
+> to which Gary M. replied...
+> 
+>    Interesting...  It would be curious to hear the chords produced by 
+> the absorption patterns of various chemical elements and 
+> compounds, after transposing them down some enormous number of 
+> octaves. Were I to guess though, it would be little more than a 
+> curiosity.  I personally doubt if they would have any particularly 
+> significant meaning to our ears.  The two physical/physiological 
+> mechanisms are far too unrelated for there to be much correlation.  
+> 
+> A few years ago, Tom Staley and I wrote an article called "Sounds of 
+> Crystals" in Experimental Musical Instruments (EMI) that did 
+> something very similar (ref. below). We looked at x-ray diffraction 
+> patterns (spectra) and mapped them into the audio spectra. Many of 
+> the resulting sounds were exceedingly complex (*very* many 
+> nonharmonic partials), but there were some real standouts. One of 
+> our favorites was the sound of the morphine crystal, which we used 
+> for a piece titled "Duet for Morphine and Crystal" that appeared in 
+> the EMI compilation cassette that year. 
+> 
+> Though it can be an interesting way of generating "new" sounds, I 
+> would agree with Gary's assessment that there is nothing inherently 
+> significant about the sounds - for instance - the effects of listening to
+
+> the morphine derived sounds in no way have the same effects as 
+> consumption of the material itself. 
+> 
+> In the same issue of EMI, there is also an article by Susan Alejander 
+> called DNA tunings that uses data from DNA sequences to generate 
+> interesting tunings that she then plays on a synth.
+> 
+> W. A. Sethares and T. Staley, ``Sounds of crystals,'' Experimental 
+> Musical Instruments, Vol. VIII, No. 2, Sept. (1992). 
+> 
+> and 
+> 
+> S. Alexjander, ``DNA tunings,'' Experimental Musical Instruments, Vol. 
+> VIII, No. 2, Sept. (1992). 
+> 
+> ------------------------------
+> 
+> Topic No. 11
+> 
+> Date:     Mon, 10 Mar 1997 18:55 +0100
+> From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+> To: tuning@eartha
+> Subject: RE: Meaner Tones (Paul E)
+> Message-ID: <009B110D18CFE75F.6887@vbv40.ezh.nl>
+> 
+> From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+> 
+> John Chalmers has derived some meantone tunings using the augmented sixth
+as 
+> the approximation to the harmonic seventh. But what if, more relevant to 
+> modern practice, the minor seventh must approximate the harmonic seventh,
+
+> the minor third must approximate the 7:6, and the diminished fifth must 
+> approximate the 7:5? Add terms for these to the usual 5-limit terms, and
+the 
+> following "optimal" tunings are found:
+> 
+> Equal-weighted:
+> Fifth=(43+(log(3)+13*log(5)-11*log(7))/log(2))/75 octaves, or
+> 702.2260 cents
+> 
+> Limit-weighted:
+> Fifth=(2075+(81*log(3)+469*log(5)-539*log(7))/log(2))/3035 octaves, or
+> 703.4736 cents
+> 
+> So if one wants a diatonic system with optimal dominant seventh (and 
+> half-diminished seventh, if you subscribe to some form of duality)
+chords, 
+> one must use fifths slightly _larger_ than pure.
+> 
+>  -Paul
+> 
+> ------------------------------
+> 
+> Topic No. 12
+> 
+> Date: Mon, 10 Mar 1997 18:24:14 +0000 (GMT)
+> From: TONY SALINAS <salinas@lgu.ac.uk>
+> To: EARTHA <tuning@eartha>
+> Subject: Danielou = bugger
+> Message-ID: <Pine.SOL.3.91.970310181739.10603A-100000@kali>
+> 
+> With all the respect for all his work done, his assumptions
+> are considered an offence for some Indian music theorists.
+> 
+> Tony Salinas
+> 
+> ------------------------------
+> 
+> Topic No. 13
+> 
+> Date: Mon, 10 Mar 1997 18:43:42 +0000
+> From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+> To: tuning
+> Subject: Re: Danielou = bugger
+> Message-ID: <3324565E.4C33@cavehill.dnet.co.uk>
+> 
+> TONY SALINAS wrote:
+> > 
+> > With all the respect for all his work done, his assumptions
+> > are considered an offence for some Indian music theorists.
+> 
+> On what grounds?
+> 
+> -- 
+> Jonathan Walker
+> Queen's University Belfast
+> mailto:kollos@cavehill.dnet.co.uk
+> http://www.music.qub.ac.uk/~walker/
+> 
+> ------------------------------
+> 
+> Topic No. 14
+> 
+> Date: Mon, 10 Mar 1997 10:51:42 -0800 (PST)
+> From: John Chalmers <non12@deltanet.com>
+> To: tuning
+> Subject: Auditory Display Conference
+> Message-ID: <Pine.SCO.3.91.970310105026.7481A-100000@delta1.deltanet.com>
+> 
+>         International Community for Auditory Display
+> 
+> This might be of interest to Tuning List'ers as sonification,
+> aka Auditory Display, is a possible commercial application of
+> the type of material we work with. For example, converting mass
+> spec or IR spectra to sound sometimes makes recognition easier
+> as some people's acoustic pattern recognition ability is superior
+> to their visual. The resulting sounds when presented seriatim become
+> non-just, non-ET scales and when presented simultaneously, non-harmonic
+> timbres.
+> 
+> 
+> The notice (forwarded I think from the IMCA mailing list):
+> 
+> ICAD '97, is a program of the International Community for Auditory
+> Display. ICAD is a not-for-profit corporation created to support
+> research, education and community formation in the emerging field of
+> auditory display. The primary projects of ICAD are the conferences, the
+> listserve (icad-request@santafe.edu) and the ICAD Web site
+> (http://www.santafe.edu/~icad). Since auditory display researchers come
+> from a wide variety of disciplinary, professional, and geographical
+> backgrounds, ICAD seeks, above all, to facilitate communication across
+> boundaries. A membership organization founded in 1996, ICAD welcomes
+> participation in its programs and governance. For more information
+> about ICAD please contact Gregory Kramer at kramer@listen.com.
+> 
+> about ICAD please contact Gregory Kramer at kramer@listen.com.
+>                   CALL FOR PARTICIPATION
+>                           ICAD '97:
+>                          The Fourth
+>          International Conference on Auditory Display
+>                     Palo Alto, California
+>                   Dates: November 2-5, 1997
+> 
+>                         Sponsored by:
+>               Xerox Palo Alto Research Center
+> 
+> 
+> --John
+> 
+> 
+> 
+> ------------------------------
+> 
+> Topic No. 15
+> 
+> Date: Mon, 10 Mar 1997 18:09:45 -0500 (EST)
+> From: Stephen Alexander Ruthmann <sruthman@umich.edu>
+> To: Multiple recipients of list <tuning>
+> Subject: Dynamic Timbres with MIDI and DSP.
+> Message-ID:
+<Pine.SOL.3.95.970310180227.465B-100000@tempest.rs.itd.umich.edu>
+> 
+>  Hi.  Does anyone on the list know of any research into dynamic timbral
+> changes of an electronic sound fed by continuous controls generated by
+> an acoustic instrument in real time?  I've been interested in achieving
+> this on the French Horn and wondered if anyone had heard of this before?
+> I realize the physical problems with tis but I think DSP might provide
+the
+> answer.  Any help would be appreciated.
+> -Alex Ruthmann
+> 
+> *************************************************************************
+> *                          * "Some Scientists claim that hydrogen,     *
+> * Alex Ruthmann            *  because it is so plentiful, is the basic *
+> * sruthman@umich.edu       *  building block of the universe. I dispute*
+> * http://www-personal.umich*  that. I say there is more stupidity than *
+> * .edu/~sruthman           *  hydrogen, and that is the basic building *
+> *                          *  block of the universe."    -Frank Zappa  *
+> *************************************************************************
+> * -> Horn Performance and Engineering Major                     	*
+> * -> Undergraduate Research Assistant in Frank Zappology  and Schlepping*
+> * University of Michigan-Ann Arbor -- Schools of Music and Engineering *
+> *************************************************************************
+> 
+> 
+> ------------------------------
+> 
+> End of TUNING Digest 1010
+> *************************
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 12 Mar 1997 18:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03263; Wed, 12 Mar 1997 18:06:11 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03261
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id JAA13729; Wed, 12 Mar 1997 09:04:40 -0800
+Date: Wed, 12 Mar 1997 09:04:40 -0800
+Message-Id: <009B129761E537D5.6B91@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

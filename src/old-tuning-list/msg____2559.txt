@@ -1,0 +1,130 @@
+source file: mills2.txt
+Date: Wed, 21 Feb 1996 04:51:09 -0800
+
+Subject: All proper modes of ET
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+On Brian's request I have written a computer program for finding 5-,
+6-, 7-, 8-, and 9-note modes of equal temperaments with fifths less
+than 21 cents away from 3/2 and the fifth degree relatively prime to
+the number of notes. 
+I have restricted the list to proper and strictly proper modes and
+didn't go beyond 31- to 53-tET as Brian wanted, because that would
+yield a very very long list. The ET's are: 5, 7, 12, 17, 19, 22, 26,
+27, 29 and 31. 
+Most of the cyclic and inversely identical modes were left out, but
+not all because otherwise the program would need to run a fortnight. 
+This is the file, compressed by 83% to 84 Kb:
+ftp://ella.mills.edu/ccm/tuning/papers/modes5-9.zip
+
+These are the results of 7 and 12. The strictly proper modes are
+indicated with an asterisk. 
+A mode is called proper when all intervals of an interval class are
+not smaller than those of lower interval classes. It is called 
+strictly proper when all intervals of an interval class are larger 
+than the ones of lower classes.
+
+Number of notes: 7
+ Selection of 5:
+   1 1 2 1 2
+ Selection of 6:
+   1 1 1 1 1 2
+ Selection of 7:
+ * 1 1 1 1 1 1 1
+
+Number of notes: 12
+ Selection of 5:
+   1 2 3 3 3
+   1 3 2 2 4
+   1 3 2 3 3
+   1 3 3 1 4
+   1 3 3 2 3
+   1 3 3 3 2
+   1 4 1 3 3
+   1 4 2 2 3
+   2 1 3 3 3
+   2 2 2 2 4
+   2 2 2 3 3
+   2 2 2 4 2
+   2 2 3 1 4
+ * 2 2 3 2 3
+   2 2 3 3 2
+   2 2 4 1 3
+   2 2 4 2 2
+   2 3 1 3 3
+   2 3 1 4 2
+ * 2 3 2 2 3
+ * 2 3 2 3 2
+   2 3 3 1 3
+   2 3 3 2 2
+ Selection of 6:
+   1 2 2 2 2 3
+   1 2 2 2 3 2
+   1 2 2 3 1 3
+   1 2 2 3 2 2
+   1 2 3 1 2 3
+   1 2 3 1 3 2
+   1 2 3 2 1 3
+   1 2 3 2 2 2
+   1 3 1 2 2 3
+   1 3 1 2 3 2
+ * 1 3 1 3 1 3
+   1 3 1 3 2 2
+   1 3 2 1 2 3
+   1 3 2 1 3 2
+   1 3 2 2 1 3
+   1 3 2 2 2 2
+   2 1 2 2 2 3
+   2 1 2 2 3 2
+   2 1 2 3 1 3
+   2 1 2 3 2 2
+   2 1 3 1 2 3
+   2 1 3 1 3 2
+   2 1 3 2 1 3
+   2 1 3 2 2 2
+   2 2 1 2 2 3
+   2 2 1 2 3 2
+   2 2 1 3 1 3
+   2 2 1 3 2 2
+   2 2 2 1 2 3
+   2 2 2 1 3 2
+   2 2 2 2 1 3
+ * 2 2 2 2 2 2
+ Selection of 7:
+   1 1 2 2 2 2 2
+   1 2 1 2 2 1 3
+   1 2 1 2 2 2 2
+   1 2 1 3 1 2 2
+   1 2 2 1 2 1 3
+   1 2 2 1 2 2 2
+   1 2 2 1 3 1 2
+   1 2 2 2 1 2 2
+   1 2 2 2 2 1 2
+ Selection of 8:
+   1 1 2 1 2 1 2 2
+   1 1 2 1 2 2 1 2
+   1 1 2 2 1 1 2 2
+   1 1 2 2 1 2 1 2
+   1 2 1 1 2 1 2 2
+   1 2 1 1 2 2 1 2
+   1 2 1 2 1 1 2 2
+ * 1 2 1 2 1 2 1 2
+ Selection of 9:
+   1 1 1 2 1 1 2 1 2
+   1 1 1 2 1 2 1 1 2
+   1 1 2 1 1 1 2 1 2
+   1 1 2 1 1 2 1 1 2
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 21 Feb 1996 15:49 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id GAA24713; Wed, 21 Feb 1996 06:48:28 -0800
+Date: Wed, 21 Feb 1996 06:48:28 -0800
+Message-Id: <Pine.SOL.3.91.960221094228.4400A-100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

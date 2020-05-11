@@ -1,0 +1,29 @@
+source file: m1442.txt
+Date: Tue, 9 Jun 1998 15:01:00 -0400
+
+Subject: Re: Sound-from-Scratch Microtunable Synth Recommendation?
+
+From: wauchope@AIC.NRL.Navy.Mil
+
+> Do any of you folks have recommendations for your favorite synthesizer
+> capable of building sounds from scratch, and also having at least one
+> user-specifiable completely arbitrary tuning table?
+
+> jloffink:
+> The only other real alternative is Yamaha's discontinued SY77, TG77 or SY99
+> which featured their final and most powerful version of FM synthesis
+> coupled with resonant filters. They had 2 global tables, floppy disk and
+> cartridge storage.  I haven't demoed these keyboards, though.
+
+I can vouch for the extreme versatility of the SY99, which I haven't
+come close to fully exploring yet: 6-operator FM, 45 algorithms, 16 raw 
+waveforms, independent envelopes on each operator; two resonant filters
+and good effects unit; also sample playback and the interesting option
+of being able to use a sampled sound as an FM modulator.
+
+The cheaper SY/TG77 are basically the same but with fewer effects and
+no sample RAM, along with a few other differences.  Used instruments
+turn up regularly, in fact an SY77 was just advertised yesterday on
+rec.music.makers.synth, which is where I found my '99 a year or so ago.
+
+--Ken W.

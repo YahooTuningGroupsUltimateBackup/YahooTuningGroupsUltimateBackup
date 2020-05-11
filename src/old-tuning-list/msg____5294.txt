@@ -1,0 +1,83 @@
+source file: mills2.txt
+
+
+Subject: temperament spreadsheet (Excel) available
+
+From: Bradley P Lehman <bpl@umich.edu>
+
+[snip]
+I have my own elaborate temperament spreadsheet that I developed while
+I was working on one of my doctoral projects a few years back. 
+This past New Year's Eve I finally got around to converting it from its
+original Quattro format over to Excel (Windows 3.1), and then over the
+next few days put in some new refinements.  (But no, it doesn't generate
+tones.)
+
+Features: this spreadsheet is designed to be both objective and subjective
+in temperament analysis.  The objective part: it makes complete beat rate
+charts for all thirds, fourth, fifths, sixths, and sevenths (including 7/6
+minor thirds and several types of minor sevenths) showing how far sharp or
+flat of pure (simple integer ratio) the interval is in the programmed
+temperament.  It also converts everything to both cents and Hz, and
+arranges its analyses both chromatically and in a circle of fifths.  Then,
+getting to the subjective part, I've tried to come up with formulas of
+subjective tolerability of the minor and major thirds and sevenths, and
+the fourths and fifths.  The triads and seventh-chords on all scale
+degrees get analyzed for usability, tension, etc., and displayed in
+tables.  These subjective formulas are based on my own tuning experience
+with many temperaments over the years, and reading historical and modern
+sources about what the ear finds tolerable (so it's not *completely*
+arbitrary!).  The formulas automatically choose the nearest simple ratio
+(for instance, choosing between the 9/5 and 7/4 minor sevenths, or the 6/5
+and 7/6 minor thirds), then look at the beat rates.
+
+The upshot of all this is that simply entering a temperament recipe in one
+place yields beat charts for actually setting it (from either a C or an A
+fork of any specified frequency), and charts that show which keys are the
+best/worst to play in, and how the ear might take it on all scale degrees
+of those keys.  For example, in a well temperament, it's easy to see how
+modulation around the circle of fifths increases/decreases tension in the
+triads and sevenths.  And in 1/4 comma meantone, the Bb-D-F-G# chord shows
+up sounding like an almost pure dominant seventh (that low pseudo-Ab and
+all).  The spreadsheet makes these features obvious without requiring one
+to go set the temperament first on an instrument...it could also help in
+planning an effective overall temperament for a recital, given the keys
+and modulatory depth of the pieces to be played.
+
+Temperaments are specified with superscript comma adjustments plus or
+minus, the familiar way the old Barbour book did it.  My old Quattro
+version had about 70 temperaments in it, including (I think) all the
+Barbour ones, some of Jorgensen's, plus others I made up as "what-if"
+scenarios.  I don't remember how many I've converted to the new Excel
+version, but in any case it's easy to enter new ones...takes only about a
+minute or two once ye get the hang of it.  Twelve notes per octave, and it
+determines automatically what the enharmonic name of a note is based on
+the superscript value.
+
+The parameters are:  start from either an A or C fork; frequency of that
+fork; temperament name; tuning recipe in fractions of commas; which
+comma is used; which temperament in the recipe library to display (index
+number).  Everything else is derived.  It's also easy to change the
+subjective formulas that analyze triads and seventh chords.
+
+V1.1 has several more temperaments in its library, and displays four
+more beat-rate intervals (such as the 7/4 minor seventh that a
+meantone Bb-G# almost is). 
+
+   http://www-personal.umich.edu/~bpl/temper.html
+
+-----------------------------------------------------------------------
+Bradley Lehman, bpl@umich.edu       http://www-personal.umich.edu/~bpl/
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 12 Apr 1997 23:25 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00411; Sat, 12 Apr 1997 23:25:38 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00409
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id OAA05668; Sat, 12 Apr 1997 14:23:42 -0700
+Date: Sat, 12 Apr 1997 14:23:42 -0700
+Message-Id: <Pine.GSO.3.95.970412170340.29509A-100000@u2.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

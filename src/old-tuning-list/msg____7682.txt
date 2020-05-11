@@ -1,0 +1,39 @@
+source file: m1408.txt
+Date: Thu, 7 May 1998 03:35:51 -0500
+
+Subject: Triple-Just Absolute Ratio and Cents Conversion
+
+From: "Benjamin Tubb" <brtubb@cybertron.com>
+
+Based on your info, this may further interest you. If you haven't already heard
+of it, I'd recommend Charles Lucy's "Lucy Tuning" which I find especially
+"rational" based on _Pi_ used in the writings of John Harrison. For more info,
+link to  http://www.ilhawaii.net/~lucy
+
+       Incremental Incremental  Absolute  Absolute
+Pitch  Ratios      Cents*       Cents*    Ratios*
+C      1/1            0            0      1/1
+C#     25/24         70.672       70.672  25/14
+D      16/15        111.731      182.404  10/9
+D#     81/80         21.506      203.910  9/8
+E      10/9         182.404      386.314  5/4
+F      16/15        111.731      498.045  4/3
+F#     25/24         70.672      568.717  25/18
+G      9/8          203.910      772.627  25/16
+G#     25/24         70.672      843.300  83/51
+A      16/15        111.731      955.031  33/19
+A#     16/15        111.731     1066.762  50/27
+B      135/128       92.179     1158.941  41/21
+
+*all results at 10^-3 error tolerance level.
+
+-------------
+Benjamin Tubb
+AIM: brtubb
+brtubb@cybertron.com
+http://home.cybertron.com/~brtubb
+
+"Music creates order out of chaos; for rhythm imposes unanimity
+upon the divergent, melody imposes continuity upon the disjoin-
+ted, and harmony imposes compatibility upon the incongruous."
+       - Yehudi Menuhin, from "Theme and Variations"

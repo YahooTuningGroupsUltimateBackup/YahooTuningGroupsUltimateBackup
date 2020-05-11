@@ -1,0 +1,25 @@
+source file: m1570.txt
+Date: Sat, 31 Oct 1998 17:00:15 -0600
+
+Subject: Re: Yamaha XG pitch bend specs
+
+From: "John Loffink" <jloffink@pdq.net>
+
+>Then again, I suppose this to be a problem with just about any
+>commercial sample-playback device. Can anyone confirm my suspicion
+>that a synth that is actually a synth, synthesizing it's own waveforms
+>(i.e., FM, PM, Additive, etc.) is much more reliable at delivering
+>more stable/precise pitches.
+>
+Not necessarily.  Most synthesized waveforms in commercial synthesizers are
+still based upon the phase accumulator oscillator just like sample playback
+machines.  A waveform is read from a table and the phase increment adjusted
+to change pitch.  It is the fractional part of the phase accumulator that
+determines the pitch resolution.  It's a matter of how the oscillators are
+implemented, and the current crop of of pseudo-analog synthesis really don't
+provide any details on this.  Certainly the older Yamaha FM, Casio PM and
+Kawai Additive synths have similar pitch limitations to the sample playback
+machines.
+
+John Loffink
+jloffink@pdq.net

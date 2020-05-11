@@ -1,0 +1,185 @@
+source file: mills3.txt
+Date: Wed, 27 Aug 1997 19:40:03 +0200
+
+Subject: Matrices for beginners
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+My first exposition of interval matrices was intended to be as
+brief as possible, in the hope that someone would say "Oh yes, so
+and so explained this in such and such a paper.  We all know that."
+It looks like this is new to everyone, though, so here's an
+explanation that requires the minimum of background knowledge.
+
+First, let's start with 7-limit JI.  What the hell!  A frequency
+ratio can be expressed as:
+
+                f = 2^i * 3^j * 5^k * 7^l.
+
+Where i, j, k and l are integers.  A pitch difference p=log(f) can
+be expressed:
+
+        p = i*log(2) + j*log(3) + k*log(5) + l*log(7).
+
+Some people may not understand logarithms but, don't worry, you
+may be able to pick up the thread later on.  Sums like this can
+be written using a matrix product as follows:
+
+               a*b + c*d + e*f = (a c e)(b)
+                                        (d)
+                                        (f)
+
+The b, d and f should all be enclosed in one big bracket, but I'm
+compromising with three little brackets in this medium.  If b, d
+and f aren't in the same column on your screen, choose a font so
+that they are.
+
+Matrices are arrays of numbers that can be added, multiplied and
+subtracted.  There should be books in your local library that can
+tell you about matrix arithmetic.  If you're at a University, you
+may have access to software like Maple or Mathematica.  If so,
+look up matrices in the Help index.
+
+A pitch difference can then be written in matrix form as follows:
+
+             p = (i j k l)(log(2)) = (i j k l)H
+                          (log(3))
+                          (log(5))
+                          (log(7))
+
+So H is a column matrix containing logarithms of prime numbers.
+The number of rows is ... as many as you need.  It could be
+described as the metric of pitch space.  If you set i, j, k and l
+to a 4-D lattice, a pitch difference is the vector pointing from
+one note to the other.  People who use ratio space are now on
+familiar ground.  As this is a general way of writing pitch, H has
+to be octave specific.  H can also be approximated as:
+
+                            (1200    )
+                        H = (1901.955) cents
+                            (2786.314)
+                            (3363.826)
+
+
+The next concept to introduce is that of the basis of a scale.
+This is one of the smallest sets of intervals that define a scale.
+A basis for 5-limit JI is H with 3 rows.  Another is:
+
+                       (t)   (1 -2  1)
+                       (s) = (4 -1 -1)H
+                       (p)   (-4 4 -1)
+
+This is a definition of three intervals using H.  The first is a
+minor tone t=(1 -2 1)H which has a frequency ratio 10/9.  We also
+have a diatonic semitone s=(4 -1 -1)H or 16/15 and a syntonic
+comma (-4 4 -1)H or 81/80.
+
+
+Now for some precise definitions.  A scale is defined on a basis
+using a matrix containing only integers.  Each note in a scale
+must have a unique definition in terms of the basis.  That means
+that no basis interval can be defined in terms of the other ones
+using rational multiples.  A scale by this definition is a
+discrete vector space.  Look up vector spaces to see how close the
+analogy is.  The concept of basis of a musical scale has been
+defined before, although not in terms of matrices.  This is all
+very similar to group theory.  I have defined the basic dimension
+of a scale as the number of intervals in its basis.  I think this
+is the same as the dimension of the vector space, but I didn't
+take good enough notes in my linear algebra classes to be sure.
+
+
+A C major scale (not the only one) can be defined using t, s and p
+as follows:
+
+                C   D   E   F   G   A   B   C
+                 t+p  t   s  t+p  t  p+t  s
+
+This can be written using matrices:
+
+                        (C)   (5 3 2)
+                        (B)   (5 3 1)
+                        (A)   (4 2 1)
+                        (G)   (3 2 1)(t)
+                        (F) = (2 1 1)(s)
+                        (E)   (2 0 1)(p)
+                        (D)   (1 0 1)
+                        (C)   (0 0 0)
+
+
+
+That covers JI.  For temperaments, the basis is defined on H using
+fractions.  By "temperament" I mean a scale that approximates JI
+using fewer notes.  Temperaments can be treated like JI if you
+use an approximate matrix H' that pretends to be H, but is slightly
+different.  As an example, 1/4 comma meantone can be defined as
+follows:
+
+                          (1 0 0   )    (1200)
+                     H' = (1 0 0.25)H = (1897) cents
+                          (0 0 1   )    (2786)
+
+You can then redefine t, s and p in terms of H':
+
+                   (t)   (1 -2  1)     (-1 0  0.5 )
+                   (s) = (4 -1 -1)H' = ( 3 0 -1.25)H
+                   (p)   (-4 4 -1)     ( 0 0  0   )
+
+You can get the last matrix using standard matrix arithmetic.
+
+Not surprisingly, the approximate syntonic comma comes out the
+same as a unison in 1/4 comma meantone.  As t, s and p constitute
+a basis for JI, t and s are a basis for a negative meantone.
+Hence a meantone, or linear temperament, is a 2-D scale.  The
+first two rows of H' also constitute a basis for a negative
+meantone, so the third row can be defined in terms of these:
+
+                                ( 1 0)
+                           H' = ( 0 1)H'
+                                (-4 4)
+
+I explained how to define this matrix back in TD1132 (the second
+of the digests numbered 1132).  Using it, you can approximate any
+5-limit interval as a Pythagorean interval.  Any negative meantone
+can be defined by the basis:
+
+                         (t) = (-3  2)H'
+                         (s)   ( 8 -5)
+
+
+
+Matrices can also be used to describe scales that are not even
+approximations of JI.  Charles Lucy assures us that LucyTuning is
+such a scale.  It uses the following basis:
+
+                   (L) = (      1/(2pi)) oct
+                   (s)   (1/2 - 5/(4pi))
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  adam.silverman@yale.edu
+Subject:  JI Reference
+PostedDate:  27-08-97 17:27:45
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  28-08-97 10:21:57-28-08-97 10:21:58,28-08-97 10:19:31-28-08-97 10:19:31
+DeliveredDate:  28-08-97 10:19:31
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256501.002DD747; Thu, 28 Aug 1997 10:20:42 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02326; Wed, 27 Aug 1997 17:27:45 +0200
+Date: Wed, 27 Aug 1997 17:27:45 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA02324
+Received: (qmail 20531 invoked from network); 27 Aug 1997 15:27:39 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 27 Aug 1997 15:27:39 -0000
+Message-Id: <Pine.GSO.3.94.970827112036.16260A-100000@minerva.cis.yale.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

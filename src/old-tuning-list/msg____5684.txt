@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Mon, 23 Jun 1997 23:01:23 +0200
+
+Subject: Octaves (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+The fact that octaves are often not equal to 2, but slightly more than 2,
+has nothing to do with harmonic series or inharmonic partials. The
+effect is most pronounced when sine waves are used; I believe a large
+experiment found that the average subject deemed two sine waves
+equivalent when they differed by 1209 cents. The typical 2nd harmonic of
+a piano string is more like 1203 cents.
+
+I recently saw an interesting statement on a pretty reputable web page,
+which I found by following links from John Starrett's page. It claimed
+that the cochlea winds around once per octave. If this is true, a
+stimulation at one point in the cochlea may have secondary effects on
+parallel coils, and octave equivalence becomes a purely psychophysical,
+not cultural, phenomenon. Those of us who have tried to appeal to the
+universality of octave equivalence across cultures have been unable
+convince others among us that octave equivalence is not mere
+brainwashing. This, if true, may be another quiver in our arrow. We
+would hope that the true coiling rate, or the interval of gretest
+cross-stimulation, is 1209 cents rather than 1200 cents, as it would
+provide a direct explanation for the results of most experiments on the
+truly "equivalent" octave.
+
+Anyone know any physiological evidence for or against this statement?
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 24 Jun 1997 09:05 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30790; Tue, 24 Jun 1997 09:05:44 +0200
+Date: Tue, 24 Jun 1997 09:05:44 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA30789
+Received: (qmail 24164 invoked from network); 24 Jun 1997 07:05:35 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 24 Jun 1997 07:05:35 -0000
+Message-Id: <33f73cd4.502064089@kcbbs.gen.nz>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

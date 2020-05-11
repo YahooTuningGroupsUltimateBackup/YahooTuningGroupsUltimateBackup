@@ -1,0 +1,70 @@
+source file: m1355.txt
+Date: Sun, 15 Mar 1998 14:19:11 -0800 (PST)
+
+Subject: More on modes
+
+From: John Chalmers <non12@deltanet.com>
+
+The relationship between the Greek and Ecclesiastical modal nomenclatures
+is a confusing topic and I think somewhat more complex than the result of
+simple intervallic inversion, though this is a good way to remember the
+orders.
+
+In the natural key (C major, no accidentals), the order of the Greek modes
+(ascending) is  Mixolydian (B), Lydian (c), Phrygian (d), Dorian (e),
+Hypolydian (f), Hypophrygian (g) and Hypodorian (a). The corresponding
+interval patterns (ascending) are (in generalized diatonic tuning):
+M 	S T T S T T T 
+L 	T T S T T T S
+P	T S T T T S T
+D	S T T T S T T
+HL	T T T S T T S
+HP	T T S T T S T
+HD	T S T T S T T
+
+Retrograding these interval patterns or doing the equivalent operation of
+inverting the scales around the octave yields the following pairs:
+M	HL
+L	D
+P	P
+D	L
+HL	M
+HP	HD
+HD	HP
+
+It is true that the order of the  M L P D HL modes is reversed to HL D P L
+M,
+but the HP and HD modes do not fit the pattern unless the HD mode is taken
+an octave lower to low A (on proslambanomenos). Then the inversion pattern
+fits exactly. However, I do not think this is the way the system developed
+historically, though I admit that the effect is the same.
+
+Although the modes may be thought of as sections of the diatonic scale
+starting on different notes, the Greeks actually transposed all their modes
+to the same register. Thus there developed a set of pitch keys named after
+the modes which they transposed into the central two octave range. The
+Dorian key and mode were the center point. The Phrygian key was a tone
+higher so that the sequence D-d now fell on the notes that formerly
+represented the E mode. The Hypolydian was a tone higher still (two tones
+in all) and the Mixolydian a semitone above this. Similarly, the Hypolydian
+key was a semitone below the Dorian (to bring the sequence f-f' into the
+center range), the Hypophrygian a tone and 1/2, and the Hypodorian a tone
+below this. 
+
+These pitch keys ran in the ascending order HD HP HL D P L M which
+corresponds to the Ecclesiastical modes Aeolian or Hypodorian (A),
+Hypophrygian (B), Ionian or Hypolydian (c), Dorian (d), Phrygian (e)
+Lydian (f), and Mixolydian (g). In other words, the ecclesiastical modes
+are in the order of the pitch keys, the Greek in the order of their
+starting notes.
+
+This is a simplified account as there was another series of late Greek
+pitch
+keys interleaved between these (so that keys stood at semitonal intervals)
+and the entire system was transposed so that the f mode (Hypolydian still)
+was
+the center rather than the e mode (Dorian). The topic is further
+complicated by there being more than one set of ecclesiastical names
+depending upon the writer and the period. 
+
+--John

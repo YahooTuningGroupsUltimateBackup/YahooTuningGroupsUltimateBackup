@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Mon, 9 Oct 1995 17:20:34 -0700
+
+Subject: 48KHz vs 44.1KHz and Pierce-Bohlen Tuning
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+I just noticed an amusing, although probably not-terribly-useful, 
+mathematical semicoincidence:  
+
+   If you were to record something at 48KHz on a DAT deck (many DAT 
+decks record analog sources only at 44.1KHz) and then play the result 
+back at 44.1KHz, you will end up almost exactly one Pierce-Bohlen chro-
+matic scale step flat.  The difference is only about 0.4 cents.  
+
+   Or to put it another way, 44.1KHz x 13th root of 3 = 47.98884KHz.  
+
+   Wild, eh?  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 10 Oct 1995 05:04 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id UAA14701; Mon, 9 Oct 1995 20:04:06 -0700
+Date: Mon, 9 Oct 1995 20:04:06 -0700
+Message-Id: <m0t2Ux2-000GiVC@frollo.fa.disney.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

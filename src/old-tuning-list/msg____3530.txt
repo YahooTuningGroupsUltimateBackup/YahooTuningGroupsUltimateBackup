@@ -1,0 +1,58 @@
+source file: mills2.txt
+Date: Wed, 4 Sep 1996 14:23:35 -0700
+
+Subject: An interesting series of tunings
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+I just happened to notice that in many of the tunings (equal temperaments, 
+to be precise) that I work with, seven steps gives you an interval where the 
+lower note sounds like the root. Let's see what happens if we formalize this 
+idea -- we want the lower note of the interval to correspond to a harmonic 
+that is a power of 2 (so it sounds like the root), and the upper note to be 
+the next higher harmonic:
+
+Interesting tuning #n = round(7/(log((2^n+1)/2^n)/log(2)))
+
+According to this formula, interesting tuning #0 is 7-tET, which is the 
+standard tuning of Thailand. Siamese compositions modulate, usually by 
+fifths, much like those in the West. As the only other culture that relies 
+on modulation, Thailand is the only other culture that uses equal 
+temperament (though I have heard that this practice extends into Cambodia).
+
+Interesting tuning #1 is 12-tET. Apparently, interesting enough to satisfy 
+the West for the last few centuries.
+
+Interesting tuning #2 is 22-tET. This is my main avenue of research; contact 
+me for more info. This is also the first equal tuning with consistent 
+representations of all harmonies through the 12th harmonic. See previous 
+digests for discussions of consistency.
+
+Interesting tuning #3 is 41-tET. Recommended by Paul van Jenko around the 
+turn of the century, this tuning is barely distinguishable from 9-limit just 
+intonation. Try a "ninth chord" tuned (in cents) 0 380.5 702.4 965.9 1404.9. 
+It also offers consistent representations through the 16th harmonic.
+
+Interesting tuning #4 is 80-tET. This is the first equal tuning with 
+consistent representations through the 20th harmonic. That pretty much 
+covers any harmonies I would consider musically useful, and then some.
+
+Interesting tuning #5 is 158-tET. Or it would be if there were anything 
+interesing about it. Like most numerological speculations, such as 
+Kornerup's and Yasser's, this one's luck runs out after a while. Then again, 
+who am I to say that some great composer won't come along and demonstrate 
+the wonderful properties of 158-tET?
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 5 Sep 1996 00:15 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19911; Thu, 5 Sep 1996 00:17:17 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA19764
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA15688; Wed, 4 Sep 1996 15:17:15 -0700
+Date: Wed, 4 Sep 1996 15:17:15 -0700
+Message-Id: <v02130500ae53bd3970d9@[192.168.11.203]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

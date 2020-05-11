@@ -1,0 +1,77 @@
+source file: mills2.txt
+Date: Sat, 28 Dec 1996 21:34:26 -0800
+
+Subject: Re: Pitch bend
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+> > > [Lionel Dotson]
+> > > Attached,find 2(two) midi files. One(annie.mid) is pitchbend tuned,the
+> > > other(annieun.mid) is untuned.
+> > [Matt Nathan]
+> > Great, thanks! Could you send them again and attach them as files rather than as
+> > coded text please?
+> 
+> Hey Matt,here they come directly to you. The tuning list converts them
+> to text,so if you have netscape they should arrive in midi format.
+
+Cool. Thank you very much. I can get these to play now. I like it, especially the tuned 7ths.
+There are some things I hear that I want to get in and see if I can try something else with,
+but I'm now not sure how to edit the midi file. I'm using my new PC compatible and don't have
+any midi editing software for it. All my midi stuff is on the Amiga, which is still packed
+away in a box from moving. I notice some of the voicings have slow beats in them, which is 
+probably due to the poor resolution of pitch bend on the Soundblaster card I have. I'm not
+sure what the specifications are on this thing but I can hear that it's not perfect. 
+
+> I have an AVM Summit tone generator with a
+> purported accuracy of 1/2 cent...but the vibrato(tremor) in the
+> steadiest instruments(trumpet and reed organ) causes beats in doubled
+> notes which are annoying.
+
+I haven't heard of that--would like to hear it and learn more about all the possible
+instruments or tools out there which are available.
+ 
+> Does the DX-7 have steady(unmodulated)tones?
+
+Sure. You can program your own voices starting with a pure sine wave and expanding from there
+using frequency modulation of sine wave by sine waves, stacked. When I'm tuning the DX7-II, I
+use a patch I made which is completely steady and has a brightness parameter that I can
+adjust manually using the modulation wheel (the modulation wheel doesn't have to produce actual
+modulation, or wobbling, it's a generic controller). I turn up the brightness to 
+hear the upper partials, which makes it easier to tune pitches relative to one another by 
+listening to the beats. The higher partials beat faster with small tuning deviations than the 
+lower ones, so provide a better cue for fine tuning.
+
+Before I had the DX7-II or the Amiga, I wrote a bunch of software for the Commodore 64 for
+my own use. It has a SID (Sound Interface Device I think) chip which can play 3 notes at
+the same time, each tunable to an exact partial in an humongous harmonic partial series
+(overtone, not undertone like the frequency-divider type chips) from partial 1 to partial
+65535. The frequency of the 1st partial was very low, like around .5 Hz or something. 
+This thing could produce completely steady tones and play them in perfectly 
+synced just intervals which would never beat in a million years. 
+
+One of the software things I wrote was an ear training program. I wanted to be sure I
+was one who could, as you wrote, DO it and not just talk about it. It quizzed me with
+simple just ratios and as I got better increased the complexity of the intervals. It
+also had a routine that would quiz me on random intervals (technically, they were just
+ratios because that's all the SID chip could play, but the resolution was fine enough
+that they can be considered approximations of any interval) for which it expected a 
+value in cents to be answered. It would keep track of my errors in guessing and show 
+me my average performance. On good days, I could identify random intervals with an 
+average of 5 cents error.
+
+Matt Nathan
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 29 Dec 1996 18:20 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04562; Sun, 29 Dec 1996 18:23:36 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04557
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA08455; Sun, 29 Dec 1996 09:23:33 -0800
+Date: Sun, 29 Dec 1996 09:23:33 -0800
+Message-Id: <Pine.A32.3.91.961229101248.22043B-100000@tiger.cudenver.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

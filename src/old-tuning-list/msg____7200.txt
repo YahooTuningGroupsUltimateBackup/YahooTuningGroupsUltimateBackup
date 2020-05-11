@@ -1,0 +1,62 @@
+source file: m1347.txt
+Date: Sat, 7 Mar 1998 12:26:14 -0600 (CST)
+
+Subject: Re: Meantone
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>My ignorant question: what does "1/4 comma" mean?  What's a comma?
+
+   Here's the history:  The earlier "pythagorean" major scale was defined
+by stacking exact 3:2-frequency-ratio perfect fifths:  one downward from
+the root to define the subdominant (e.g., F in the key of C), and then five
+upward to define, successively, the dominant (G), supertonic (D),
+submediant (A), mediant (E), and leading tone (B).
+
+   If you do that, you end up with an E defined as an 81:64 ratio (3:2 to
+the fourth power, divided by 4 to drop it down into the octave where we
+started) relative to the root.  81:64 however, beats against the more
+intuitive 5:4 (i.e., 80:64) major third.  The pitch difference between the
+two is the syntonic comma, a ratio of 81:80.
+
+   The premises behind quarter-comma meantone are that:
+1.  We want the mediant (the major third above the tonic) to be 5:4.
+2.  We want all (true) perfect fifths to be the same size.
+3.  We are willing to slightly compromise the ideality of the perfect fifth
+    to make 1 and 2 possible.
+So the quarter-comma meantone solution is to build a scale in a circle of
+identical fifths that are not the ideal 3:2 ratio, but flat of that ideal
+by 1/4 of that 81:80 comma.  That way, when you stack up each of four of
+those quarter-comma flat fifths, you drop the pitch by 1/4 comma for the G
+(in the key of C), 2/4 comma flat for the D, 3/4 flat for the A, and then
+when you get to the E, you are 4/4 (i.e., 1) of a comma flat of that 81:64
+major third, which is (by definition) the more ideal 5:4 major third.
+
+   All meantone tunings are based upon a circle of consistent-sized fifths
+(or more often a "broken" circle of fifths).  The difference between the
+various meantone tunings is the size (i.e., tempering) of that fifth.  That
+circle frequently starts on Eb, going on to Bb, F, C, G, etc., on to G#.
+The circle is frequently broken at the diminished sixth between G# and Eb.
+If that diminished sixth were treated as if it were a perfect fifth (e.g.,
+as if it were G# to D#, or Ab to Eb, rather than G# to Eb), then it would
+be perceived as the "wolf" fifth, because it's WAAAAYY out of tune from the
+ideal 3:2 perfect fifth.
+
+   The other solution is to continue the circle of fifths, allowing D# to
+be a different pitch from Eb, or, going the other way, Ab to be a different
+pitch from G#.  It turns out that, purely by mathematical luck, if you
+continue that to a total of 31 fifths (knocking the pitches down by an
+octave as needed to keep them within the original octave's span) you end up
+very close to where you started - only about 6 cents off.  (A cent is a
+unit of measurement for very small differences in pitch, one cent being
+100th of the usual 12TET half-step.)  That's another way of saying the
+31TET is extremely close to the completed quarter-comma meantone system.
+
+   The coincidence between third-comma meantone and 19TET is even closer
+still.  Third-comma meantone uses a fifth tempered down by 1/3 of a comma
+so that the submediant (e.g. A in the key of C) has a 5:3 ratio relative to
+the tonic rather than 27:16 as you would get if you were to use exact 3:2
+perfect fifths.  It turns out that if you stack up 19 third-comma-flat
+fifths (dropping pitches down by octaves as needed to keep the pitches in
+same the octave as where you started), you end up less than 1 cent from
+where you started!

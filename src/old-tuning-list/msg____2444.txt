@@ -1,0 +1,223 @@
+source file: mills2.txt
+Date: Sat, 6 Jan 1996 11:33:49 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: CLM, Linux, and microtonality
+---
+In graciously responding to some of my
+gripes about Csound, William
+Schottstaedt mentioned that his CLM
+emvironment runs under Linux.  
+This was news to me.  Since CLM is by all
+accounts one of the most deluxe composition/
+synthesis environments, it's welcome news
+indeed.
+This forum has, since its inception, served
+as hang-out for 2 kinds of subscribers:
+ordinary schmucks with IBM or Mac desktop
+systems and mostly MIDI synths and software,
+and the few, the rich, the tenured--who generally 
+use some flavor of UNIX (NeXTstep, typically) 
+to run software-based synthesis apps like CMix,
+CLM, or Csound.
+Relatively few of the ordinary yutzes (like,
+say, moi) compose much with software-based
+synthesis languages.  In part, this is because
+it's so much faster & more efficient to use MIDI.
+In part it's because the academic freeware
+is so damn hard to use and almost completely
+undocumented, but let's not beat *that* 
+dead horse.
+This leads to a huge echoing chasm twixt
+the academic microtonalists and their 
+dirt-poor scumsucker "just folks" counterparts.  
+The two groups literally speak different musical 
+languages.
+MIDI is a dumb, slow protocol that basically
+tells dedicated hardware when to goose-step.
+99% of MIDI's messages revolve around
+modulation--vibrato, filter cutoff, tremolo 
+settings, reverb depth, envelope bias, etc.
+There is no MIDI continuous controller
+dedicated, for example, to making a timbre
+more inharmonic or adjusting the Nyquist rate
+of the synth.
+MIDI commands reflect this concern
+with note start times. There's a note-on, but
+no message that tells the synth how long the
+note will be--a clear indication of MIDI's design
+as a real-time performance protocol. 90% of the
+parameters in all MIDI synth patches control
+real-time modulation--response to aftertouch,
+vibrato depth as a function of wheel position, 
+attack rate as a function of key velocity, etc.
+MIDI is a coarse-grained protocol.  If you 
+send more than 20 or 30 note-ons, you'll
+get arpeggios instead of chords.
+In contrast, the software synthesis languages
+like CLM, Csound and CMix are relatively smart
+and very finely granular.   While MIDI doesn't
+know or care how a synth responds to a note-on
+message, software instruments can change 
+their behaviour depending on the note's 
+pitch, its duration, the number and type of
+other notes playing at the same time, the
+location in space or in the overall composition
+at which the note appears, etc.
+Software synthesis instruments are typically
+specified at the level of the individual overtone
+and involve no real-time modulation parameters.
+Computer composers often write programs to
+explicitly generate dozens or even hundreds of
+parameters for each software-synthesized note
+outside of real time, so responsiveness to 
+real-time modulation parameters is a
+non-issue when composing in Csound or CLM
+or CMix.  The parameters are "built in" for each
+individual note and can be exquisitely fine-tuned.
+This has important consequences for microtonal
+composition.
+Software-synthesized xenharmonies tend to be
+very finely wrought, with layer upon layer of
+acoustic complexity.  Software-synthesis
+microtonality appears to be centered as much
+around timbre as around notes.  Even in the works
+of those composers notable for their contrapuntal
+skill (Paul Lansky, William Schottstaedt, Bill
+Alves, Jonathan Harvey) timbre remains uppermost
+as a factor in the "non-12" sound of the music.
+By contrast, MIDI microtonality centers almost
+entirely on harmony and melody. Timbre is of minimal
+concern, because commercial synthesizers offer
+nothing in the way of detailed fine-grained
+control over that parameter.
+Retuning individual overtones remains outside of
+the purview of the MIDI composer, *especially*
+during the course of the composition.  (William
+Sethares has written some custom FORTRAN 
+routines to read LEMUR analysis files and warp
+FFT'd sounds into a given tuning, but this is
+a rare exception, takes gobs of time, and demands
+a sampler with enormous amounts of  RAM.  Thus Bill
+Sethares remains the lone exception in this regard.)
+The very model of the MIDI microtonal composer
+is Warren Burt, whose compositions are essentially
+contrapuntal and harmonic.  Timbre is a non-
+issue.
+This gives an interesting 18th-century "gebrauchmusik"
+sound to Warren's compositions, even though they
+use rhythms, melodies and harmonies no 18th-century
+composer would ever contemplate, while it gives
+the compositions of someone like Paul Lansky an
+oddly modernistic sound--despite the fact that Lansky
+often uses conventional 12-tone equal temperament
+(as in the "idle chatter" series of compositions, all
+in g minor, whitebread 12/oct).
+ To date there's been little contact twixt the two
+camps of microtonalists.  Thus, many MIDI xenharmonists
+confidently make statements about timbre, consonance
+and dissonance which are simply untrue when software
+synthesis (allowing individual partials to be retuned)
+is involved.  In like manner, many academic microtonalists
+lose sight of the musical forest by exploring mathematical
+partition-function and pitch-class set/chaotic note generator 
+minutia, rather than asking the larger questions: What kind
+of intervals does this tuning have?  How does it "sound"?
+How can harmony and melody be used in this tuning in
+ways which differ productively from harmony and melody
+in 12/oct?
+Thus, the investigations of John Clough, Gerald Balzano
+and Carlton Gamer appear to have had much more impact 
+on MIDI microtonalists (for example) than on software
+synthesis composers.
+Meanwhile, the ideas of folks like William Sethares and
+James Dashow appear to have percolated more thoroughly
+into the software synthesis camp than the MIDI contingent.
+This has led to further confusion and miscommunication.
+Academics often write some of the most insightful
+discussions about the internal structure of non-12 tunings,
+while non-academics often write some of the most
+useful monographs on the "sound" of non-12 tunings
+and the interaction of tuning with timbre.
+NeXTStep might have bridged the gap twixt these two
+microtonal factions--but alas!  That operating system
+is now dead and buried.  It's been overpriced FAR out
+of reach both of academics *and* the rest of us, and is
+now essentially defunct except on antique legacy 
+machines like the NeXT cube. (A machine roughly
+25 times slower than the P6 @ 200 Mhz.)
+Recently, however, Linux appeared...and this
+operating system might finally offer a bridge twixt 
+the two worlds of microtonal composition. 
+Linux is extremely stable, according to my UNIX-
+guru friend. Under X Windows, it's reportedly easy
+to use.  The big stumbling block right now appears
+to be setting up Linux to run under X Windows
+with your particular monitor...  The process is
+more complex than superstring theory.
+(Do YOU know the "dot rate" of YOUR monitor?
+Not me!!)
+Only within the last 5 years have desktop
+IBM machines grown fast enough to fully shoulder
+the burden of software synthesis.  But now that
+it's happened, IBM PC prices have dropped so
+far so fast that it's hard to imagine anyone in or
+out of academia will be using NeXT cubes or  
+other legacy antique machines for very much longer.
+The InfoMagic  4-CD set of Linux with complete
+X Window support and all utilities now runs a
+whopping $20 down at your local software store.
+It's very hard for me to believe that NeXTStep-486,
+at a cost of 5 thousand dollars (yes, $5000.00),
+will survive the competition with the $20.00  Linux
+operating system.
+Linux can read DOS disks and apparently
+offers the user the option of setting aside one
+partition of the hard disk for DOS files.  This
+clearly would go quite a ways in bridging the
+gap between software and MIDI synthesis.  
+Ideally, as a microtonal composer, I want total
+control over EVERY asect of the composition--
+and reasonably easy, fast, efficient control.
+Combining Linux-based spectral modification
+programs with CMIX, a sampler, and MIDI sequencers
+might accomplish this.
+My ideal system would let me tear apart an
+acoustic sound, retune the individual partials,
+then generate real-time scores with the ease
+and simplicity of a MIDI sequencer.
+Obviously this goal lies some years in the future,
+but the Linux and DOS/Windows combo seems at
+least a step in that direction.
+Right now this kind of integration is essentially
+impossible.  Even the NeXT cube didn't offer
+MIDI sequencing with audio synchronization,
+nor analysis with real-time resynthesis.
+But now, with Linux, there might finally be a
+bridge between these two styles of microtonal
+composition.  Especially if & when someone
+produces a microtonal synthesis program like James
+McCartney's SuperCollider that runs in real
+time on an *affordable* computer (the Power Mac
+is not currentlfordable and probably never
+will be--everyone with $4000 to spend on
+a Power Mac raise your hand, please).
+Such a program would bode well for interactive
+real-time (those 90s buzz-words!) acoustic-and-
+digital microtonality.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 7 Jan 1996 00:16 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA00718; Sat, 6 Jan 1996 15:16:46 -0800
+Date: Sat, 6 Jan 1996 15:16:46 -0800
+Message-Id: <v01530501ad145f4f4c0b@[128.83.112.162]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

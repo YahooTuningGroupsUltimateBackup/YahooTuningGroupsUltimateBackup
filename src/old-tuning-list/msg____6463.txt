@@ -1,0 +1,74 @@
+source file: mills3.txt
+Date: Thu, 20 Nov 1997 22:38:11 +0100
+
+Subject: RE: Xenharmonic?
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+While I personally am in favor of as diverse as possible a plurality of
+tunings, polymicrotonality, omnimicrotonality, etc., as long as the
+results are musical, there is a history of attempts to identify "the
+next step" in Western tuning after 12-equal; here are some
+equal-tempered examples:
+
+8.2021: Bohlen, Pierce
+16: Goldsmith
+19: Salinas, Yasser
+20: Balzano
+24: Wychnegradsky
+31: Huygens, Fokker
+36: Gawel
+41: von Janko
+53: Mercator (did he strictly look at 3-limit? Who was the first to note
+the applicability of 53 to 5-limit?)
+72: Richter-Herf (Partch missed this in his list -- it would have
+disturbed him that an ET could come so close to 11-limit JI!)
+
+My paper is just another proposition along these lines, but it is, I
+feel, the strongest one. I do believe that composers must be given an
+alternate set of tools than 12-tone keyboards, guitars, etc. for
+xenharmonic music to have a chance to naturally evolve. If the goal is
+to ditch diatonicism but preserve the principles behind Western tonality
+with minimal alteration, I believe 22 is the best way to go. And
+harmonically, if JI is your goal, and if you believe the basic harmonies
+of the diatonic scale in classical compositions can be "bent" by
+variable-pitch instrumentalists to achieve just 5-limit triads, then the
+basic harmonies of my 10-tone scales in 22 can be bent by about the same
+amount to achieve just 7-limit tetrads. 22 also happens to be an
+important number in describing ancient Indian tuning and if modern
+accounts of that tuning (basically 5-limit JI) are correct, a 22-tone
+"well-temperament" can be constructed which combines very close
+approximations of the ancient Indian scales with a few keys of my
+7-limit decatonic scales. This is analogous to a 12-tone
+well-temperament with 6 pure fifths in a row and 6 fifths diminished by
+1/6 pyth. comma, which contains both a pythagorean scale (in 1 key) and
+a meantone scale (in 1 key).
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Johnny Reinhard <reinhard@IDT.NET>
+Subject:  Re: Woodwind etc
+PostedDate:  21-11-97 03:15:17
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  21-11-97 03:13:52-21-11-97 03:13:52,21-11-97 03:13:58-21-11-97 03:13:59
+DeliveredDate:  21-11-97 03:13:59
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256556.000C3E4F; Fri, 21 Nov 1997 03:13:43 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04535; Fri, 21 Nov 1997 03:15:17 +0100
+Date: Fri, 21 Nov 1997 03:15:17 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA04532
+Received: (qmail 26967 invoked from network); 20 Nov 1997 18:15:08 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 20 Nov 1997 18:15:08 -0800
+Message-Id: <Pine.GSO.3.95.971120210234.24762A-100000@u1.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

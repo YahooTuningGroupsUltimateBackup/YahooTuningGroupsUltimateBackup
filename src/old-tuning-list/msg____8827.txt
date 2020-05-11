@@ -1,0 +1,98 @@
+source file: m1582.txt
+Date: Sun, 15 Nov 1998 09:42:18 +1000
+
+Subject: A strange 9-limit temperament
+
+From: Dave Keenan <d.keenan@uq.net.au>
+
+Paul Erlich's "contest" has led me into some strange regions of tuning space, but none stranger than this one. This is my best and final attempt to find a tuning with 12 notes per octave or less, that approaches the proportion of 7-limit harmonies of his 10 of 22-tET (or twin chains of similar sized fifths). Unfortunately it fails his melodic criteria for being a generalised diatonic, but harmonically I am almost certain that the tuning I am about to present is the best possible.
+
+It has 12 notes, and while it only gives 8 complete 7-limit tetrads, no better than any 12 note tuning with twin chains of meantone-sized fifths, it has 4 additional 7-limit triads (5:6:7 and 1/7:1/6:1/5) and 4 additional 5-limit triads. What's more, 4 of the 8 tetrads and all of the 7-limit triads can be extended to 9-limit pentads and tetrads respectively.
+
+So from a 9-limit perspective what we really have is 4 complete 9-limit pentads, 4 complete 7-limit tetrads, 4 9-limit tetrads (5:6:7:9 and 1/9:1/7:1/6:1/5) and 4 5-limit triads. There are equal numbers of majors and minors in all cases.
+
+The errors in all intervals are 12 cents or less, except for the 5:7 which has a 17.5 cent error since it is approximated by the half octave as usual.
+
+The tuning has three sizes of fifth:
+Small  665.186  a -37 cent wolf
+Medium 705.214  very good at +3.3 cents
+Large  713.957  a +12 cent semi-wolf
+
+Is there general agreement on how small the error in a fifth has to be, to not be considered a wolf? One can reduce those semi-wolves a little at the expense of the 7:4's and 9:5's. Full error list shown below.
+
+As a cycle of 12 fifths it goes:
+M M S M M L M M S M M L
+\_____________________/
+
+As offsets from 12-tET it is
+C	+12.19
+C#	+17.41
+D	-17.41
+D#	-12.19
+E	-6.98
+F	+6.98
+F#	+12.19
+G	+17.41
+G#	-17.41
+A	-12.19
+A#	-6.98
+B	+6.98
+
+The accurate chords are:
+4	5	6	7	9
+------------------------------
+
+Topic No. 5
+G	B	D	F
+C	E	G	Bb	D
+	A	C	Eb	G
+C#	E#	G#	B
+F#	A#	C#	E	G#
+	D#	F#	A	C#
+
+1/9	1/7	1/6	1/5	1/4
+-------------------------------
+	F#	A	C	E
+A	C#	E	G	B
+E	G#	B	D
+	C	Eb	Gb	Bb
+Eb	G	Bb	Db	F
+Bb	D	F	Ab
+
+4	5	6
+-----------------
+F	A	C
+B	D#	F#
+
+1/6	1/5	1/4
+-----------------
+F	Ab	C
+B	D	F#
+
+Errors in the intervals of the 12 pentads and tetrads are:
+
+2:3	4:5	5:6	4:7	5:7	6:7	4:9	5:9	6:9	7:9
+3.26	-5.48	8.74	12.00	17.49	8.74	6.52	12.00	3.26	-5.48
+
+Errors in the intervals of the 4 triads are:
+
+2:3	4:5	5:6
+12.00	3.26	8.74
+
+The main price paid for all this is the two wolves D-A and G#-D#.
+
+Ever seen anything like this before? Care to check my calculations?
+
+Melodically it's not terribly interesting (as a 12 tone scale) and what I expect would happen is that one would use various diatonic or blues or jazz scales as subsets of the 12.
+
+The smallest ET that this wierd tuning has any relation to is 126-tET. A reasonable approximation to the tuning would be obtained by 11,11,7,11,11,12,11,11,7,11,11,12 steps of 126-tET and the max error (apart from the 7:5's) would only go up to 12.33 cents (unfortunately in the semi-wolf fifths). 
+
+It has a vague resemblance to a maximally even 12 of 34-tET but this has only two sizes of fifth and the max error is 19.4 cents (in the 7:4) with 15.5 in the 7:6. So we can see that the major benefit of semi-wolfing those two other fifths is to improve the 7:4's and 7:6's (on chords which don't involve those semi-wolves) to acceptable errors.
+
+This seems to be a tuning that falls in the gaps between n of m-tET's, justs, well-temperaments and meantone. I don't know what to call its "kind" of tuning. Do you? What it is is a 3 dimensional lattice 2 x 2 x 3 where one dimension is a 2-cycle and the other two dimensions are open.
+
+It's interesting that it gets its large number of accurate 7-limit intervals by approximating fifths and major thirds in two different ways.
+
+Regards
+-- Dave Keenan
+http://uq.net.au/~zzdkeena

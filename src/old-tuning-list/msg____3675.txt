@@ -1,0 +1,68 @@
+source file: mills2.txt
+Date: Tue, 24 Sep 1996 00:45:07 -0700
+
+Subject: More on spacing
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+Responding to Paul´s comments:
+
+(1) Your modification of my timbre restriction to "generic harmonic timbres
+played at a reasonably loud volume" is fine. My own practical work has been
+with sine waves, however, (Rayna synthesizer) and I probably should have
+identified the subharmonic by lowest (theoretical) summation tone. (Your
+phrase has the virtue of sparing me a summation tone controversy; but the
+use of (theoretical) summation tones has been useful to me in the past in
+describing aspects of a significant repertoire of real music (Wagner,
+Debussy, Varese, Partch,  Young, among others).  
+
+(2) I am interested in evaluating as many algorithms as possible. I am
+especially interested in the possibility of a sequential processing of
+intervals, from most simple to most complex, allowing for re-evaluation of
+the complex with the addition of each new interval. 
+
+(3) I have deliberately avoided the issue of temperaments which contain
+_puns_ of just intervals (being hearable as approximations of two or more
+distinctive rational intervals), because that is an issue best determined
+by diachronic context. (I must add my disagreement to your statement that
+an interpretation of a pitch complex as 10/12/15 or 16/19/32 (and, I may
+add, 54/64/81) makes "no musical difference". In terms of diachronic
+relationships, these difference are profound. Consider, for example, a
+progression from a tonic minor triad to the Major triad on the flat sixth
+degree (i to bVI, or c minor to Ab Major): each of the above
+interpretations of the minor triad suggests an alternative tuning for the
+second chord, and each 
+progression is part of a very different scalar environment (resp. triadic
+just, extended just or harmonic, and pythagorean), each of which implies
+very different possibilities for going on further (try it for yourself:
+continue the progression by descending fifths to _return_ to the _tonic_.))
+ 
+
+(4) From this pitch spacing perspective, the "optimal frequency range" may
+be more relevantly identified with the perceived fundamental of a complex
+when mapped onto a harmonic series. The most profound musical conditions
+seem to be determined by the lower limit to _pitch_ perception. When a
+fundamental falls below this boundary, perception is made more difficult
+(although work with standing waves played for very long durations suggests
+that it is not impossible when additional _listening_ techniques (the sense
+of touch, for example) are called into play),  
+
+(5) My comment on emotional effect should not be taken too literally. I am
+aware of research on "happiness" and low electrical activity in the brain;
+the calculation hypothesis is my own; ascribing quantum effects to the
+infintessimal is not without controversy.
+
+Daniel Wolf
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 25 Sep 1996 10:55 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19875; Mon, 23 Sep 1996 19:37:13 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA22816
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA11301; Mon, 23 Sep 1996 10:36:08 -0700
+Date: Mon, 23 Sep 1996 10:36:08 -0700
+Message-Id: <94960923173349/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

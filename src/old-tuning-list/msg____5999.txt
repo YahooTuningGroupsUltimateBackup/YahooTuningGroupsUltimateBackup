@@ -1,0 +1,66 @@
+source file: mills3.txt
+Date: Fri, 22 Aug 1997 11:01:44 +0200
+
+Subject: Re: Semitones etc.
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>What we need to do is join in an organized
+>endeavor to identify and name all the possible intervals that are
+>actually used by human beings.
+
+   I have seen two renditions of a huge list of historically-significant
+intervals.  One was from my late mentor in the field, Ivor Darreg.  The
+other I suspect although I may be mistaken, was posted on the list by
+Manuel Op de Coul.
+
+   Do I remember correctly, Manuel?
+
+
+   This discussion, however, suggests the need for more than one general
+type of term:
+1.  Terms for intervals with exact values, like what Ivor Darreg and I
+    personally think to be the preferable definition of a syntonic comma, which
+    is 81:80.
+2.  Terms for intervals by ... "mechanism" for lack of a better word, like what
+    Paul Rapoport feels to be the best definition a syntonic comma:  The pitch
+    difference between dominant of the dominant and the submediant of the
+    subdominant (or other equivalent formulations).  The point here being that
+    many different tuning systems will each have their own values for syntonic
+    commas.
+3.  Terms for intervals by approximate pitch range, like "subminor third",
+    meaning a third that is roughly mid-way between a minor third and a
+    diminished third.  Some feel that semitone and quartertone fit in this
+    category rather than the first.
+4.  A special case, but an important one, of #3:  Terms for intervals ideal
+    intervals and their approximations, the obvious example being "perfect
+    fifth", meaning 3:2 and its various historically-significant approximations.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net
+Subject:  Not Tuning Related, but Perhaps Tuning-List Related
+PostedDate:  22-08-97 11:02:50
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  22-08-97 11:02:55-22-08-97 11:02:56,22-08-97 11:00:49-22-08-97 11:00:50
+DeliveredDate:  22-08-97 11:00:50
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564FB.0031B154; Fri, 22 Aug 1997 11:02:46 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19113; Fri, 22 Aug 1997 11:02:50 +0200
+Date: Fri, 22 Aug 1997 11:02:50 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA19117
+Received: (qmail 22533 invoked from network); 22 Aug 1997 09:02:04 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 22 Aug 1997 09:02:04 -0000
+Message-Id: <v01541102b022605ae394@[207.207.3.86]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,44 @@
+source file: m1461.txt
+Date: Sun, 28 Jun 1998 23:51:34 -0500
+
+Subject: Re: adaptive tunings
+
+From: "jloffink" <jloffink@pdq.net>
+
+> I think its fair to say that there's a real "chicken and egg" problem 
+> with adaptive tunings. It's hard to compose or perform with adaptive 
+> tunings because there's no nice implementation - and there's no nice 
+> implementation because no-one is composing/performing that way. 
+> 
+> I went to Ensoniq and gave a presentation about various tuning 
+> issues, with a heavy emphasis on adaptive tunings, and they thought 
+> it was all very interesting, and thank you for coming. Given that their 
+> tuning expert (Steve Curtin) has moved on to other places, I don't 
+> they're a likely source for something like this at the current time 
+> (though I'd love to be proven wrong). 
+> 
+> All of my adative tuning work has been "off-line". I make a standard 
+> MIDI file, read it into my adaptive algorithm, wait a while, and then 
+> check out how it did. This is a very awkward way to work, and is 
+> essentially a kind of 'post-production' method as you describe. I 
+> think adaptive tunings will only be really useful when you can sit 
+> down and play as if it were a musical instrument. Such 'post-
+> production' methods are fine for demonstrating the concepts, but not 
+> for exploring the technique fully. 
+> 
+> I'm currently attempting a 'real-time' version using Max, though its 
+> unclear at the present time how many simplifications are going to be 
+> needed before it will actually run in real time. Of course, this is for 
+> MIDI instruments only. A far more interesting thought is the idea of 
+> operating on acoustic sounds...
+> 
+> Bill Sethares
+
+I think Justonic's Pitch Palette is a good solution for adaptive tuning or
+modulation in just intonation.  Before this came along you needed a
+synthesizer with a large number of tuning tables.  This meant you needed a
+Yamaha TX802, DX7IIFD or Kurzweil K2000/K2500, and a computer sequencer to
+change the tuning tables.
+
+John Loffink
+jloffink@pdq.net

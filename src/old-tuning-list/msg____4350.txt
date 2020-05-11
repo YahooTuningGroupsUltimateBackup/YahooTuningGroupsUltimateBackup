@@ -1,0 +1,92 @@
+source file: mills2.txt
+Date: Tue, 17 Dec 1996 16:28:49 -0800
+
+Subject: Re: Genesis of a Music question
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+> From: malkin@iwaynet.net (David Malkin)
+> Subject: Genesis of a Music question
+>
+> I am confused with Harry Partch's description of the 5 limit in Chapter 7
+> of "Genesis of a Music." What is a 5 limit (or any "n" limit for that
+> matter)? Is it a scale that only includes ratios with a 5 in numerator or
+> denominator? Is the highest prime 5 that any number in numerator or
+> denominator can be divided into?
+> He uses a scale as follows: 1/1   6/5   5/4   4/3   3/2   8/5   5/3   2/1
+> on page 109.
+>         What about 16/15. This ratio's numerator and denominator are
+> divisible by primes that are 5 or less. Does he choose his scale based on
+> what sounded good, on how close to just he could get?
+
+I'm responding only on memory, not having Partch's "Genesis of a Music" here to refer to. I'm sure others will 
+pipe in with refinements if needed.
+
+Partch used the idea of "identities" which are odd numbers in either the overnumber or undernumber position of 
+the ratios which describe pitches ignoring octave transposition. A limit sets the highest identity he might 
+use to generate a pitch set (ignoring octave transpositions). Identities are not factored together as in 3*5, 
+so 16/15 is not in 5-limit, but requires 15-limit or higher. 
+ 
+In my idiolect, a limit is different. A limit is the highest prime factor needed to analyse a given just pitch 
+set. In this meaning, the interval 16/15 is a 5-limit interval, as is 243/125, etc. 
+
+>        On page 110 he speaks of the coexistence of Major and Minor and
+> draws the first Tonality diamond in the book. Why do these major and minor
+> sounds (ie Otonalites and Utonalities) result. It seems like they just
+> appear out of thin air.
+>        What is a Numerary Nexus? His definition on page 72 is confusing to me.
+
+A Numerary Nexus is the number you keep the same in either the undernumber or over number while iterating the 
+identities in the other position to generate a tonality. 
+ 
+For instance, to generate the Otonality of 3, iterate the identities in the overnumber position while keeping 
+3 as the Numerary Nexus like so: 1/3, 3/3, 5/3, 7/3, etc. up to your limit. 
+
+An Otonality is so called to match with "o"vernumber, since it is the set of overnumber identities which share 
+a Numerary Nexus. All Otonalities follow the form 1/n, 3/n, 5/n, etc. (n being the numerary nexus). 
+ 
+An Otonality is roughly analogous to major tonality, but may be closer to major chord quality, since we 
+usually think of a major tonality as including the various diatonic chords available from a major scale, 
+whereas Partch's tonalities move around with the individual chords, so to speak. The analogies drift apart 
+rapidly with higher ratios. The septimal dominant (or whatever you want to call it) 4:5:6:7 would be a purely 
+otonal chord, but would probably not be thought of by most as "major". Otonality is really an unique term 
+which must be savored for its own theoretical functionality.
+ 
+Otonality is distinct from the overtone series, with which it is sometimes confused. The o in Otonality does 
+not stand for overtone. An overtone series includes all positive integers in the numerator but does not 
+include all octave transpositions of those pitches, while an Otonality includes only the odd overnumbers, but 
+implicitely generates all octave transpositions of those pitches.
+ 
+An Utonality (u for "u"ndernumber) is the set of pitches you get from iterating the identities in the 
+undernumber position, while keeping the same Numerary Nexus in the overnumber, of form n/1, n/3, n/5, etc. 
+ 
+For example, the Utonality of 5 with 11 limit is: 5/1, 5/3, 5/5, 5/7, 5/9, 5/11.
+
+Utonality is roughly analogous to minor tonality or minor chord quality. Utonality is distinct from the 
+undertone series.
+
+The pitch set you quoted 1/1   6/5   5/4   4/3   3/2   8/5   5/3   2/1 is what you get when you permute the 
+identities in both the overnumber and the undernumber up to a limit of 5, remove the redundant instances, and 
+express them in smallest ascending form (6/5 instead of 3/5 for instance), then throw in a 2/1 for the sake of 
+"scaleness". The raw set would be:
+ 
+1/1 3/1 5/1
+1/3 3/3 5/3
+1/5 3/5 5/5
+ 
+The raw set may be what a tonality diamond is; I don't remember.
+ 
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Dec 1996 09:41 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01133; Wed, 18 Dec 1996 09:43:24 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01131
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id AAA03779; Wed, 18 Dec 1996 00:43:21 -0800
+Date: Wed, 18 Dec 1996 00:43:21 -0800
+Message-Id: <memo.665044@cix.compulink.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

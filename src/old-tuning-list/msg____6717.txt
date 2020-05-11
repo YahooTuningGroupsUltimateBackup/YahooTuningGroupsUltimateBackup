@@ -1,0 +1,339 @@
+source file: mills3.txt
+Date: Fri, 19 Dec 1997 19:07:22 +0100
+
+Subject: RE: 22-tone equal & chromaticism
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>}Gregg Gibson said:
+>}> >}but 22-tone
+>}> >}equal is not a temperament at all, but a mere tuning artefact that
+>}> >}reproduces the worst defects of just intonation.
+>
+>}Paul Ehrlich replied;
+>}> >But these "defects" (the non-vanishing of the syntonic comma) can only be
+>}> >seen as such in the context of diatonicism! Since we are speaking of
+>escaping
+>}> >diatonicism, the relevant properties of a tuning system will be quite
+>}> >different.
+>
+>}The failure of 22-tone equal to provide both consonant thirds and fifths
+>}has nothing to do with diatonicism; the presence of consonant melody and
+>}harmony is no less vital for the use of chromatic modes than for the use
+>}of diatonic ones; I assume you will agree if you consider the matter. If
+>}anything, because chromatic modes have but four (at most), not six
+>}degrees (as in the diatonic modes) on which consonant triads are
+>}erigible, chromatic modes in 22-tone equal would be even more
+>}disorganized than diatonic ones. For enharmonic modes the matter is less
+>}clear-cut, I concede.
+>
+>OK folks, switch to a constant-width font -- it's ASCII diagram time!
+>
+>We will represent the 3:2 ratio ("perfect fifths") by lines running left to
+>right.
+>We will represent the 5:4 ratio ("major thirds") by lines running from lower
+>left to upper right.
+>We will represent the 6:5 ratio ("minor thirds") by lines running from upper
+>left to lower right.
+>
+>Consonant triads will therefore be represented by isosceles triangles. Major
+>triads have the base of the triangle on the bottom; minor triads have the
+>base on top.
+>
+>First of all, let's look at the diatonic scale -- the white keys on a piano.
+>It has six consonant triads:
+>
+>
+>D---------A---------E---------B
+> \       / \       / \       / \
+>  \     /   \     /   \     /   \
+>   \   /     \   /     \   /     \
+>    \ /       \ /       \ /       \
+>     F---------C---------G---------D
+>
+>Notice that "D" occurs twice.
+>
+>In 19-equal, the 3:2 is 11 steps, the 5:4 is 6 steps, and the 6:5 is 5 steps.
+>Setting the leftmost D=0, the diatonic scale is then
+>
+>0---------11--------3---------14
+> \       / \       / \       / \
+>  \     /   \     /   \     /   \
+>   \   /     \   /     \   /     \
+>    \ /       \ /       \ /       \
+>     5---------16--------8---------0
+>
+>Both instances of "D" are represented by "0." The diatonic scale "works" in
+>19-equal.
+>
+>In 22-equal, the 3:2 is 13 steps, the 5:4 is 7 steps, and the 6:5 is 6 steps.
+>Again setting the leftmost D=0, the diatonic scale becomes
+>
+>0---------13--------4---------17
+> \       / \       / \       / \
+>  \     /   \     /   \     /   \
+>   \   /     \   /     \   /     \
+>    \ /       \ /       \ /       \
+>     6---------19--------10--------1
+>
+>"D" is now represented by both "0" and "1". As most classical composers made
+>use of the fact that "D" or its equivalent in keys other that C major is one
+>and only one pitch, 22-equal is unusable for most classical music. Other
+>tunings unusable for most classical music are 15, 27, 34, 41, 53TET, and JI
+>-- these are the tunings where the syntonic comma (representing 81:80) does
+>not vanish, causing two different "D"s to arise at a very small interval from
+>one another. Tunings that are usable at least for the early stuff are 12, 19,
+>26, 31, 43, 50, and 55TET, as well as meantone tunings such as Kornerup's
+>Golden Tuning, LucyTuning, 1/4-comma meantone, 2/7-comma meantone, 3/14-comma
+>meantone, etc.
+>
+>Now let's look at Gregg Gibson's four "new" scales. They each contain four
+>consonant triads:
+>
+>D melodic minor ascending:
+>
+>     C#
+>    / \
+>   /   \
+>  /     \
+> /       \
+>A---------E---------B
+>           \       / \
+>            \     /   \
+>             \   /     \
+>              \ /       \
+>               G---------D---------A
+>                          \       /
+>                           \     /
+>                            \   /
+>                             \ /
+>                              F
+>
+>This scale has the same step sizes as the diatonic scale. Gregg has made a
+>big deal about 12-equal not really representing the "chromatic" scales
+>adequately, since the minor third is conflated with the augmented second in
+>12-equal. This scale has no augmented second or any other non-diatonic steps,
+>so I presume the term "chromatic" applies to the other three:
+>
+>A harmonic minor:
+>
+>                         G#
+>                        / \
+>                       /   \
+>                      /     \
+>                     /       \
+>D---------A---------E---------B
+> \       / \       /
+>  \     /   \     /
+>   \   /     \   /
+>    \ /       \ /
+>     F---------C
+>
+>
+>C harmonic major:
+>
+>               E---------B
+>              / \       / \
+>             /   \     /   \
+>            /     \   /     \
+>           /       \ /       \
+>F---------C---------G---------D
+> \       /
+>  \     /
+>   \   /
+>    \ /
+>     Ab
+>
+>E major Gypsy:
+>
+>                    G#--------D#
+>                   / \       /
+>                  /   \     /
+>                 /     \   /
+>                /       \ /
+>     A---------E---------B
+>    / \       /
+>   /   \     /
+>  /     \   /
+> /       \ /
+>F---------C
+>
+>The reader is encouraged to work out these diagrams in 19- and 22-equal. Note
+>that in these last three scales, there are no notes that appear twice in the
+>diagram, and thus no potential for the scales not to "work" in any tuning
+>that has good 5-limit approximations, including 22-equal. The harmonic major
+>and harmonic minor scales have four step sizes in 22-equal but three in 12-
+>and 19-equal; if any tuning is avoiding "conflations" within these scales it
+>is 22-equal, though I prefer the greater uniformity of step sizes in 12- and
+>19-equal. For the last of these scales, the number of different step sizes is
+>the same in all three tunings (12, 19, 22) so it is really, really hard to
+>claim that it "works" in some but not all of these tunings.
+>
+>My interest in 22-equal has nothing to do with these scales. I use these
+>scales all the time in 12-equal (the last one is great for surf music) and
+>see no great advantage to justify the expense of moving to 19-equal (though
+>I'd be the first to pick up a 19-tone guitar, keyboard, and bass if they were
+>commercially available). In fact, two of my favorite scales do not work in
+>19-equal at all:
+>
+>C augmented (six consonant triads):
+>
+>               G#--------D#
+>              / \       /
+>             /   \     /
+>            /     \   /
+>           /       \ /
+>          E---------B
+>         / \       /
+>        /   \     /
+>       /     \   /
+>      /       \ /
+>     C---------G
+>    / \       /
+>   /   \     /
+>  /     \   /
+> /       \ /
+>Ab--------Eb
+>
+>This is like the diatonic scale turned on its side. In 12-equal Ab and G# are
+>the same and Eb and D# are the same. In almost any other tuning, this scale
+>doesn't work; you get eight instead of six tones and some really small
+>intervals. 27-equal is a rare counterexample, but 27-equal does not support
+>the diatonic scale.
+>
+>C diminished (eight consonant triads):
+>
+>F#--------C#
+> \       / \
+>  \     /   \
+>   \   /     \
+>    \ /       \
+>     A---------E
+>      \       / \
+>       \     /   \
+>        \   /     \
+>         \ /       \
+>          C---------G
+>           \       / \
+>            \     /   \
+>             \   /     \
+>              \ /       \
+>               Eb--------Bb
+>                \       / \
+>                 \     /   \
+>                  \   /     \
+>                   \ /       \
+>                    Gb--------Db
+>
+>This scale doesn't work unless F#=Gb and C#=Db, i.e., in almost any tuning
+>other than 12-equal. 28-equal is a rare counterexample which doesn't,
+>however, support the diatonic scale.
+>
+>So far all the scales discussed are well-represented in 12-equal. No other
+>tuning can represent them all, expect maybe one with a vast number of notes.
+>However, my interest was to see if one could expand consonant harmony to
+>include the 7-limit (Partch seemed confident that at least the 11-limit could
+>possess some measure of consonance) while maintaining a diatonic-like
+>structure. This entails throwing out the diatonic scale and all concepts
+>associated with it, such as classifying the consonances as "major thirds",
+>"perfect fifths", etc. -- the 3:2 is now a "perfect seventh" and the 5:4 and
+>6:5 are major and minor "fourths."
+>
+>To add the 7-limit to these diagrams, a note in the center of a major triad
+>will signify a 7 added to the 4:5:6 major triad to yield a 4:5:6:7 otonal
+>tetrad, and a note in the center of a minor triad will signify a 1/7 added to
+>the 1/6:1/5:1/4 minor triad to yield a 1/7:1/6:1/5:1/4 utonal tetrad. In
+>22-equal, the 7:4 is 18 steps, the 7:5 is 11 steps, and the 7:6 is 5 steps.
+>Here are the two decatonic scales in 22-equal:
+>
+>Symmetrical decatonic scale (8 consonant tetrads):
+>
+>     13--------4---------17
+>    / \       / \       /
+>   /   \  8  /   \  21 /
+>  /  2---------15--------6
+> /  / \  \ /  / \  \ /  /
+>6--/---\--19-/---\--10 /
+>  /  13 \   /  4  \   /
+> /       \ /       \ /
+>17--------8---------21
+>
+>
+>Pentachordal decatonic scale (6 consonant tetrads):
+>
+>          2
+>         / \
+>        /   \
+>0---------13--------4
+> \    /  / \  \    / \
+>  \  17-/---\--8  /   \
+>   \   /  2---------15 \
+>    \ /    \  \ /  /    \
+>     6------\--19-/------10
+>             \   /
+>              \ /
+>               8
+>
+>These scales have 10 tones and 2 step sizes, and many, many important
+>properties in common with the diatonic scale (see my paper). In most any
+>other tuning with good 7-limit approximations, such as 27-, 31-equal, and JI,
+>there will be more than 10 tones and more than 2 step sizes, including some
+>really small steps. These steps represent what are known in JI as the
+>septimal sixth-tone (49:48) and, in the case of the symmetrical decatonic
+>scale, the septimal comma (64:63). That these intervals vanish in 22-equal is
+>as essential for the functioning of the decatonic scales as the vanishing of
+>the syntonic comma is for the functioning of the diatonic scale.
+>
+>In 26-equal the septimal comma does not vanish but the septimal sixth-tone
+>does. So the pentachordal decatonic scale does have 10 tones:
+>
+>          2
+>         / \
+>        /   \
+>0---------15--------4
+> \    /  / \  \    / \
+>  \  20-/---\--9  /   \
+>   \   /  2---------17 \
+>    \ /    \  \ /  /    \
+>     7------\--22-/------11
+>             \   /
+>              \ /
+>               9
+>
+>However, there are three step sizes instead of two. Besides making it
+>melodically awkward, this fact makes modulation difficult. An interval which
+>is a "second" in one key can become a "third" in a neigboring key (3:2 away)
+>-- which is disturbing when one considers that the "thirds" are supposed to
+>represent consonances: a major "third" is 7:6, and a minor "third" is 8:7.
+>The scalar grammar falls apart. So even for the pentachordal decatonic scale,
+>both the septimal sixth-tone and the septimal comma must vanish. For neither
+>of the decatonic scales must the syntonic comma vanish, however.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  Error in "Stretching the 19-tone Equal"
+PostedDate:  19-12-97 19:08:15
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  19-12-97 19:06:06-19-12-97 19:06:06,19-12-97 19:05:42-19-12-97 19:05:42
+DeliveredDate:  19-12-97 19:05:42
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256572.00636E38; Fri, 19 Dec 1997 19:07:59 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19711; Fri, 19 Dec 1997 19:08:15 +0100
+Date: Fri, 19 Dec 1997 19:08:15 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA19737
+Received: (qmail 12252 invoked from network); 19 Dec 1997 09:52:52 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 Dec 1997 09:52:52 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971218190202Z-151@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

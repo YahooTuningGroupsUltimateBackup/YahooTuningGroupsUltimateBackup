@@ -1,0 +1,28 @@
+source file: mills2.txt
+Date: Tue, 5 Dec 1995 19:16:29 -0800
+
+Subject: WAV to MIDI
+
+From: Mmcky@aol.com
+
+I received a phone call from Basim Daoud, who is into microtuning with a
+Middle Eastern spin.  He has a 12 string acoustic instrument that he plays
+monophonically.  He would like to record his music in a .WAV file and have it
+translated to MIDI.
+
+Does anyone know of a software package that will do this?
+
+Thanks,
+
+Marion
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 6 Dec 1995 21:09 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA02222; Wed, 6 Dec 1995 11:09:28 -0800
+Date: Wed, 6 Dec 1995 11:09:28 -0800
+Message-Id: <v01530500aceb736e738a@[194.137.64.41]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

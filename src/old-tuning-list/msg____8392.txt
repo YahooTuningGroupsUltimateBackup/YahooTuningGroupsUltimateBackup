@@ -1,0 +1,38 @@
+source file: m1510.txt
+Date: Fri, 21 Aug 1998 11:47:11 +0100 (British Summer Time)
+
+Subject: Re: tuning on synths
+
+From: David Griffel <D.Griffel@bristol.ac.uk>
+
+> On Wed, 19 Aug 1998 20:38:32 +0100 (BST) tuning@eartha.mills.edu 
+wrote:
+> 
+> 
+> [snip]
+> 
+> A third way, requiring less knowledge of technicalities, may 
+> be to use Graham Breed's "Midi Relay" software, 
+> 
+> http://www.cix.co.uk/~gbreed/software.htm
+> 
+>  which sits between the 
+> keyboard and the PC's sound system, and makes the kboard play in any 
+> temperament you like.  I'm in the process of getting midi setup on my 
+
+
+Have now got this going, and it seems an excellent solution for 
+PC-owning midi ignoramuses.  It can read tunings in the SCALA format, 
+of which there is a huge library available, so I've had the experience 
+of listening to my keyboard play in all sorts of strange temperaments.  
+The file format for the tunings looks very simple, so it'll be easy to 
+set up any other temperament one likes, as long as one can calculate 
+the frequencies.  Definitely recommended.  Thanks to Graham Breed for 
+making it available
+
+David Griffel
+-------------
+School of Mathematics,    email d.griffel@bris.ac.uk
+University Walk,          Tel. 0117 928 7983
+Bristol, BS8 1TW,         Fax  0117 928 7999
+England.

@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Fri, 9 Aug 1996 10:10:04 -0700
+
+Subject: Problems with scales.zip
+
+From: Pat Missin <patm@globalnet.co.uk>
+
+I recently downloaded the scales.zip file from the archives. Because of the
+limitations on name length, when I unzip the files, my machine reads
+xxx-xxxx2.scl  as being the same file as xxx-xxxx.scl. It gives me the
+option of overwriting, or renaming. I started renaming them, unil I realised
+just how many scales are listed in here! Anyone got a convenient way around
+this problem?
+
+
+Pat Missin.
+
+"...my music's a lot better than it sounds!" (with apologies to Mark Twain)
+---------------------------------------------------------------------------
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 9 Aug 1996 19:33 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04926; Fri, 9 Aug 1996 19:33:22 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA04915
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA08591; Fri, 9 Aug 1996 10:33:20 -0700
+Date: Fri, 9 Aug 1996 10:33:20 -0700
+Message-Id: <Pine.SCO.3.91.960809102312.22658B-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

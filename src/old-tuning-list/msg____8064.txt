@@ -1,0 +1,29 @@
+source file: m1445.txt
+Date: Fri, 12 Jun 1998 15:47:47 -0400
+
+Subject: RE: VFX vs. SY77/SY99
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>Paul, you must be confusing the SY77/SY99 with some other Yamaha SY
+synths.
+>Not all of them were FM based, some were wavetable only like the VFX.
+Any
+>wavetable synth is timbrally quantized.  They're limited to filtering
+and
+>mixing of the prerecorded timbres, while FM synthesis creates
+harmonically
+>rich spectra by frequency modulation of sine or more complex waves.
+
+The Yamaha (the one at Yale's CSMT, Adam Silverman should be able to
+tell us which one) did have FM capabilities. However, I didn't think of
+that as "synthesis from scratch." Looking back at Gary's query, however,
+I see that he would indeed qualify it.
+
+>The sample playback side of the Yamaha does include a bunch of
+>synthetic waveforms, but Gary was more interested in the FM synthesis
+>side, which uses oscillators (sine wave and variants) as raw material
+>for cooking up much more complex sounds.
+
+Yamaha's synthetic waveforms are themselves FM-based, and can be used to
+FM one another.

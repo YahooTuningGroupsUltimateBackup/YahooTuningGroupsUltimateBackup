@@ -1,0 +1,67 @@
+source file: mills3.txt
+Date: Tue, 6 Jan 1998 17:40:17 +0100
+
+Subject: RE: PMA
+
+From: "Loffink, John" <John.Loffink@COMPAQ.com>
+
+>Roland's PMA-5 has been out for more than a year.  It supports Roland"s GS
+>specification, an extension of General MIDI.  My understanding is that all
+>Roland GS instruments have one octave based microtuning per part, or MIDI
+>channel, but that they may only be accessible through MIDI System Exclusive
+>codes.  If the sequencer in the PMA-5 allows the user to define and embed
+>Sysex, then the unit would be capable of self-contained microtonal music,
+>otherwise an external sequencer would be needed to generate the microtonal
+>parts.  Worst case, it ought to be possible to generate the Sysex microtuning
+>file on your computer, record it on the PMA-5, then use that setup file as
+>the basis for any compositions.
+>
+>The PMA-5 is listed at my Microtonal Synthesis web site, located at:
+>http://freeweb.pdq.net/jloffink/
+>
+>John Loffink
+>john.loffink@compaq.com
+>
+>
+>
+>   I just heard that Roland recently released what they call a "Personal
+>Music Assistant".  It is, essentially, a music-oriented PDA (Personal
+>Digital Assistant, like the Newton).  Apparently it lets you do some pretty
+>typical (ooo, that might be a problem right there!) compositional tasks
+>with a pen-based interface, and play the results over MIDI, presumably
+>General MIDI.  I hear it sells for a few hundred US$.
+>
+>   Anybody know if this beastie has any microtonal capability, or any other
+>info or thoughts on it?  I suppose microtonal capability would be too much
+>to ask.
+>
+>
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Prent Rodgers <prodgers@us.ibm.com>
+Subject:  Our instruments
+PostedDate:  06-01-98 18:02:23
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  06-01-98 18:01:59-06-01-98 18:02:00,06-01-98 18:01:55-06-01-98 18:01:56
+DeliveredDate:  06-01-98 18:01:56
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256584.005D8EA1; Tue, 6 Jan 1998 18:01:53 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07413; Tue, 6 Jan 1998 18:02:23 +0100
+Date: Tue, 6 Jan 1998 18:02:23 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA05075
+Received: (qmail 17083 invoked from network); 6 Jan 1998 09:02:19 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 6 Jan 1998 09:02:19 -0800
+Message-Id: <5030050002606435000002L552*@MHS>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

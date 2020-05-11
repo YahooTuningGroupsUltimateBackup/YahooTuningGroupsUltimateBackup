@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Sat, 12 Jul 1997 07:20:15 +0200
+
+Subject: Correlation of Partch Limit with LCM
+
+From: Mckyyy@aol.com
+
+Since Paul E finds Partch's limit to be superior to LCM as a
+predictor of consonance, I have again made an attempt to find a
+definition of this concept in his book without much success.  
+
+Having made at least some effort to wade through Partch's polemic
+pronouncements, I feel I might be entitled to ask a question: 
+Would it be fair to say that the Partch's limit for a given ratio
+is derived by enforcing octave equivalence and then taking the
+largest odd number.
+
+Assuming that might be true, the Partch limit of 3:4:5 would be
+taken by octave inverting it to 4:5:6 and then calling the limit
+5?
+
+Is a given Partch musical space defined by just one limit, or are
+more required?
+
+I would like to determine this exactly, so I can determine the
+degree of correlation between LCM and the Partch Limit.
+
+Marion
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 12 Jul 1997 09:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23102; Sat, 12 Jul 1997 09:05:10 +0200
+Date: Sat, 12 Jul 1997 09:05:10 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA23148
+Received: (qmail 1869 invoked from network); 12 Jul 1997 07:04:41 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Jul 1997 07:04:41 -0000
+Message-Id: <Pine.BSI.3.91.970711205515.16667A-100000@lehua.ilhawaii.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

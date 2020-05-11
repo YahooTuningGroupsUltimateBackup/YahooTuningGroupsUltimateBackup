@@ -1,0 +1,47 @@
+source file: mills2.txt
+Date: Fri, 17 Jan 1997 19:35:58 -0800
+
+Subject: Re: from Gary Morrison
+
+From: Lionel Dotson <ldotson@sprynet.com>
+
+> John Chalmers wrote:
+> >
+> > Date: Fri, 17 Jan 97 10:13:56 CST
+> > From: Gary Morrison <garym@rex.sps.mot.com>
+> > To: non12@deltanet.com
+> > Subject: Web-Page Space
+> >
+> >    I'm FINALLY kinda-sorta starting to look into (generic) internet
+> > suppliers now.  One that seems to be around here provides 1Meg of
+> > space for personal web pages and ftp space, and does not "sell disk
+> > space" (i.e., they don't have any policy for paying more to get more).
+> >    They claim that that's a lot, and if you need more space on a
+> > temporary basis, (e.g., to ftp a big file, download it, and then
+> > toss it) they'll let you go a little over over for a short time.  But
+> > with sound files being a definite possibility for my web pages, I would
+> > think that 1Meg would go bye-bye pretty quickly.
+> >
+> >    Waddaya folks think?
+ 
+Sprynet gives you 5megs...but a WAV file at 44,100hz/16bit/stereo takes
+about 10megs/min. If you go mono@22,050hz and save in ADPCM you reduce
+the size to about 0.8megs/min.
+
+
+Ed Dotson
+ldotson@sprynet.com
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Jan 1997 14:01 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09457; Mon, 20 Jan 1997 14:04:29 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09514
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id FAA18784; Mon, 20 Jan 1997 05:04:26 -0800
+Date: Mon, 20 Jan 1997 05:04:26 -0800
+Message-Id: <199701201301.FAA18719@ella.mills.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

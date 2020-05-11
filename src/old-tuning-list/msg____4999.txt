@@ -1,0 +1,87 @@
+source file: mills2.txt
+Date: Wed, 5 Mar 1997 15:26:16 -0800
+
+Subject: Meaner tones
+
+From: John Chalmers <non12@deltanet.com>
+
+Paul Erlich's and my last posts may have crossed on the Net, but
+I will try to answer his question in TD #1005.
+
+He suggested a tuning with Major Thirds (TM) of 372 cents,
+Fifths (F) of 720 and minor thirds (tm) of 348 and asks that I
+compare this to 15-tet. I can't tune up the triads easily today, but
+I did calculate the following:
+
+		Fifth	Major T 	minor t (in cents)
+PE's tuning	720	372		348
+15-tet		720	400		320
+
+720-F 18.05 		(720-F)^2	325.62 
+T-372 14.3137 	(T-372)^2 204.88
+400-T		13.683		(400-T)^2 187.31
+348-tm 32.36		(348-tm)^2 1047.09
+320-tm 4.36		(320-tm)^2 19.0
+
+Now let us sum the squared errors of the fifth and the Major
+Third for both tunings:
+15-tet 325.62 + 187.31 512.93
+PE's  325.62 + 204.88 530.5
+
+15-tet is the more consonant tuning by this test, though not by much.
+
+Now let us add the squared error of the minor third to each.
+15-tet 512.93 +19531.93
+PE's 530.5 + 1047.09	77.59
+
+I will stipulate that this is a very large difference, but we already 
+knew that 15 tet was the more consonant. Whether the subjective
+difference is proportional to the difference in the summed squares
+is something to be determined experimentally.
+
+After I did this (to put off doing my taxes, alas), I decided to
+look for a tuning that would equalize the errors in major/minor triads
+with fifths of 720 cents. I solved these two equations: X + Y 720 
+(X, Y are the Major and minor thirds) and X-386.3137 Y-315.6413  
+(errors in TM, tm). By substituting in, one gets 395.3362 for X, 
+324.6638 for Y, 9.0225 for the absolute differences and 488.43 for 
+the total squared  error as (9.0225^2 x 2 + 325.62), 407.03 without 
+the tm. This is also the unweighted least squares minimum error solution 
+as well. [(TM-X)^2 + (tm-720+X)^2, differentiate wrt X, set equal to
+zero, solve for X.] As both thirds are on the sharp side, this should
+be a pretty good tuning. (Essentially what I did was to take the 
+error in the Fifth and split it between the two thirds.)
+
+For comparison, the corresponding values for 10-tet with its neutral
+third of 360 cents are 1018.03 and 2985.72. Ten fails by both tests
+again.
+
+Paul is correct that 15-tet is the more consonant of the two tunings he 
+suggested and he is certainly correct that adding in the minor third 
+(or Major Sixth) shows the differences dramatically. My point (in case
+someone forgot what we are discussing) is that in this case using just 
+the 
+fifth and major third is sufficient to demonstrate the difference in
+consonance, on the assumption that squared errors from JI is a good
+proxy measure consonance. 
+
+In the meantone cases, I think it would be very difficult to hear the 
+differences between the various tunings we've suggested, but Paul could
+be right.
+
+--John
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 6 Mar 1997 01:05 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07210; Thu, 6 Mar 1997 01:05:32 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07202
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id QAA14942; Wed, 5 Mar 1997 16:02:13 -0800
+Date: Wed, 5 Mar 1997 16:02:13 -0800
+Message-Id: <Pine.SUN.3.91.970305154922.23970B-100000@si.UCSC.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

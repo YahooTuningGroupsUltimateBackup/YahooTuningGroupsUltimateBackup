@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Sat, 23 Sep 1995 05:45:12 -0700
+
+Subject: Re: FWD: Bach's Tuning
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 22 Sep 1995, Aleksander Frosztega wrote:
+>It is dangerous to cite Kirnberger as a paradigm of J.S. Bach's compositional
+>practice; it is even more dangerous to cite Kirnberger's thoughts on
+>temperament as being those of J.S. Bach's.
+
+And it is yet _more_ dangerous to take Marpurg's spin on Kirnberger's
+statements as being those of Bach.  See below.
+
+>                                            Kirnberger's temperaments
+>(there are 5 altogether) were attempts to reconcile just intonation with free
+>modulation.
+
+Er--isn't this what _all_ temperaments are?
+
+>             The most famous of Kirnberger's temperaments is what we call
+>"Kirnberger II."  This temperament is a modified multi-linear temperament.  As
+>pointed out by Prof. Rasch, Kirnberger admitted several times to Marpurg that
+>Bach tuned each one of  his fifths a bit flat.  This outright eliminates all
+>forms of multi-linear temperaments, which have (several) rows of just fifths
+>connected by just conduit intervals (principally the ditone). [snip]
+
+The passage in question would seem to be this (Rasch quoting Marpurg):
+:Several times Kirnberger himself told me and others how the famous J.S.
+:Bach (during the time of the former's musical instruction under the
+:latter) made over to him the tuning of his keyboard, and how that master
+:expressly desired him to make all major thirds sharp.  In a tuning with
+:all major thirds sharp, no pure major third can occur, but as soon as no
+:pure major thirds are found, so too no major third can be found [which
+:is] a comma (81/80) sharp.  J.S. Bach, whose hearing was not impaired by
+:bad arithmetic, must have heard that a major third a comma sharp is a
+:disgusting interval.  Why else did he entitle his collection of preludes
+:and fugues in all twenty-four keys the Art of Temperament?
+
+The problem with this is that Marpurg is simply wrong.  A temperament
+with all major thirds sharper than pure (which is _all_ that we really
+know about Bach's tuning from evidence like this) is by no means
+required to have all fifths flat; that is a much, much stricter
+requirement.  It is triviality itself to think of lots of tunings in
+which all thirds are wide but many fifths are just.  Barnes, Vallotti,
+Werckmeister III, and any number of Neidhardt's tunings all fulfill
+these conditions, just to start with.
+
+If you know of any documents in which Kirnberger himself, not filtered
+through his rhetorical adversary Marpurg, admits that Bach tuned all
+fifths flat, please cite it.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Do you like to gamble, Eddie?
+     -\-\-- o         Gamble money on pool games?"
+
+P.S. to tuning list: Oh no, it's the 81/64 flamewar!  Goes back longer
+than we realized. 8-)>
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 23 Sep 1995 14:50 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA00891; Sat, 23 Sep 1995 05:50:27 -0700
+Date: Sat, 23 Sep 1995 05:50:27 -0700
+Message-Id: <Pine.SOL.3.91.950923075016.26965C-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

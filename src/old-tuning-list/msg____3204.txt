@@ -1,0 +1,531 @@
+source file: mills2.txt
+Date: Tue, 16 Jul 1996 07:27:30 -0700
+
+Subject: Post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Paul Erlich's points about inharmonic
+ tone complexes - post 1 of 2
+--
+John Chalmers informs me that some folks
+object to the idea of matching inharmonic 
+timbres to inharmonically-derived tunings.
+Apparently, your contention is that the
+inharmonic tone complexes tones will be heard
+as having a virtual pitch entirely different
+from that of their component inharmonic
+partials.  Paul Erlich seems typical in
+these respects.
+On the surface, this sounds like a good
+argument.  More: Erlich apparently claims
+that  inharmonic tone complex will fail
+to exhibit spectral fusion and will fall apart
+into a set of discrete partials if they're highly
+inharmonic.  Thus it would seem pointless
+to attempt to match a non-just non-equal-
+tempered tuning to a n-j n-e-t timbre, since
+the resultant inharmonic timbre will never
+be heard as having a fundamental pitch
+related to the pitches of the n-j n-e-t scale
+from which it is drawn.
+Is this claim correct?
+It turns out that it isn't.
+Paul Erlich strikes me as a smart fellow with
+some knowledge of acoustics and pyschoacoustics.
+Alas, as a newly-minted graduate much of Paul's
+knowledge is book learning only.   And, as it turns
+out, much of what has been written about complexes
+of inharmonic tones is either wrong, irrelevant
+to xenharmonic composition, or the result of 
+peculiar and non-musical experimental conditions.
+This issue is important.  James Dashow, Jean-Claude
+Risset, William Sethares, myself, and a number of
+other composers have produced a substantial body
+of compositional work in which non-just non-equal-
+tempered timbres and tunings are used.  If Paul's
+claims (and some of the available psychoacoustic
+literature about inharmonic tones) are correct,
+then the theoretical and musical justification for
+much of this compositional work collapses.
+As will be seen, however, there is a great deal
+of evidence *against* Paul Erlich's view, and
+many of the psychoacoustic papers which purport
+to "prove" that inharmonic tone complexes do not
+audibly fuse are lethally flawed.
+Let us begin with the alleged evidence *against* the 
+coherent audibility of inharmonic tone complexes:
+Rayleigh, in his 1876 2-volume text "Acoustics," points
+out that the fundamental pitch of orchestral timpani
+is a frequency not present in the partials produced
+by this instrument.  Rayleigh explained this by
+pointing out that the ear hears some of the upper
+partials of timpani as belonging to a fragment of
+an harmonic series; the ear extrapolates from
+this harmonic-series fragment a lower pitch
+which is heard as the fundamental though not
+physically present.  Other partials, which are
+physically present, are heard as "hum" notes
+which do not contribute to the sense of musical
+pitch of the note.
+Rayleigh noted the same phenomenon with regard
+to bells: here again, the lowest several inharmonic
+partials are heard as "hum" notes, but do not make
+musical contribution to the sense of pitch of
+the bell.
+65 years later Schouten demonstrated in
+an elegant experiment that the human ear often
+heard a fundamental pitch not physically present in
+a musical sound.  "He had constructed a sort
+of optical siren (Figure 6-4) by means of which
+he could produce sounds with various waveforms.
+Using this, he produced sounds with harmonically
+related partials. (..) Then, by proper adjustments,
+he could cancel out the fundamental frequency...
+I could hear this fundamental frequency come and
+go, but the pitch of the sound did not change at 
+all.  In some way, my ear inferred the proper 
+pitch form the harmonics..." [Pierce, J. R., "The
+Science of Musical Sound," 2nd ed., 1992, pg. 92]
+The paper "Pitch of the residue," by J. F. Schouten,
+R. J. Ritsma and B. L. Cardozo, J. Acoust. Soc. Am.,
+Vol. 34, pp. 1418-1424, 1962, presents these
+results concisely. "Whenever a sound consists
+of a small number of frequencies, spaced
+sufficiently widely, subjective sound analysis
+allows us to hear each Fourier component as a
+separate pure tone with corresponding pitch
+(Ohm's acoustical law).  If, however, the
+frequencies are narrowly spaced, the ear
+fails partly or completely to analyze the
+Fourier components into corresponding pure
+tones and, instead, hears one single percept
+of sharp timbre.  If, moreover, the frequencies
+are harmonics of one fundamental frequency,
+the percept may have a decidedly low pitch."
+[Schouten, J. R., J. Ritsman, B. Lopes Cardozo,
+"Pitch of the Residue," J. Acoust. Soc. Am.,
+Vol. 34, No. 8, September 1962, pg. 1418.]
+Schouten et al. go on to point out that "The
+phenomenon of the reside necessarily leads
+to a hypothetical pitch extractor different
+from and subsequent to the analyzer. As a
+consequence of the pitch shifts, the operation
+of the pitch extraction in the frequency
+domain is highly improbable. Therefore, the
+hypothetical pitch extractor probably 
+operates in the time domain (e.g., with
+delay-line tehcniques)." [ibid., pg. 1424]
+Further evidence for the existence of
+periodicity (or "virtual") pitch is found
+in "Periodicity Pitch for Interrupted White
+Noise--Fact or Artifact?" by Irwin Pollack,
+J. Acoust. Soc. Am., Vol 45, no. 1, 1969,
+pp. 237-238.  The author concludes that
+switching transients cannot provide a
+reasonable explanation for the perceived
+ability of listeners to accurately match
+the pitch of the interrupted noise despite
+the fact that "The long-term spectrum of 
+an interrupted white noise shows no 
+sepctral peaks at the frequency of 
+interruption."  Consequently "The results,
+therefore, suggest that the periodicity pitch
+of interrupted noise is factual, no artifactual."
+[Ibid., pg. 238]
+The book "Frequency Analysis and Periodicity
+Detection in Hearing," ed. R. Plomp and G. F.
+SMoorenburg, A. W. Sithoff, Leiden, 1970,
+adduced further evidence in favor of virtual
+pitch as the primary pitch extractor in the
+human auditory system. Franz Bilsen 
+concludes "The perceptual similarity between
+a sound with its repetition and a pure periodic
+signal can be represented in a general model
+for the perceptibility of pitch and timbre. Like
+the explanation of repteition pitch, time 
+separation pitch, and peridocity pitch, the model
+finds its description in the time domain." [Bilsen,
+F., "Repetition Pitch: Its Implications for Hearing
+Theory and Room Acoustics," Frequency Analysis
+and Periodicity Detection In Hearing--Ed. R. Plomp
+and G. F. SMoorenburg, A. W. Sithoff, Leiden, 1970,
+pp. 291-299]
+Schouten himself points that the earlier (Helmholtz)
+explanation of fundamental perception by nonlinear
+production of difference tones between higher 
+harmonics fails: "The case of the missing fundamental
+was solved for the time being (the 1860s-1920s)
+by a modelmaker's brainwave that the nonlinearity 
+of the ear could produce the missing fundamental as
+a difference tone between the higher harmonics. Both
+Fletcher (1929) and von Bekesy (1934), now as
+observers, proved this point by the method of best 
+beats. Sadly enough, the method of best beats is
+unreliable unless one knows "who beats whom."
+(..) In a way the discovery of the residue confirmed 
+Seebeck's "wider interpretation" that the high 
+harmonics might contribute somehow to the 
+fundamental tone, except that it is not the
+fundamental tone itself which is enhanced but a
+different subject component: the residue.
+"As a modelmaker, the author (Schouten) ascribed
+the low pitch of the residue to the *period* in the 
+time pattern of the joint harmonics striking a
+particular area of the basilar membrane (Schouten,
+1940s). This amounted to a revival of many older
+assumptions, except that the initial quasi-Fourier
+analysis was left standing in full glory.
+"If a set of harmonics is shifted collectively over
+a small distance in the frequency scale, the pitch
+of the residue shifts *in proportion* to the 
+constituent frequencies (Schouten, 1940c). This
+crucial experiment (now called the first effect
+of pitch shift) kills two birds with one stone. It
+implies that pitch is determined neither by the
+*spacing* of the harmonics, nor by the *time*
+envelope of the wave pattern since both remain 
+invariant.  Hence, in the realm of modelmaking, 
+it must be anouther form of periodicity detection
+in the time domain.  This notion goes back to some
+etent to Seebeck's (1844a) idea of 'the periodic
+recurrence of an equal or similar state of movement'
+and to Hermann's (1912) 'intermittence tones.'"
+[Schouten, J., "The Residue Revisited," Frequency
+Analysis and Periodicity Detection in Hearing, Ed.
+R. Plomp and G. F. Smoorenburg, A. W. Sithoff, 
+Leiden, 1970, pp. 41-58]
+These papers provided apparently convincing
+proof of the residue's primacy in determining
+perceived pitch.  Such was the power of the
+residue pitch hypothesis that, from the late
+ 1960s to the present, Ernst Terhardt
+produced an influential series of papers based
+on his model of virtual pitch detection: "Zur
+Tonho"henwarnehmung von Kla"ngen I. 
+Psykoakustische Grundlagen" [Concerning the
+perceived pitch height of sounds: I. Psychoacoustic
+Foundations]" Acustica, Vol. 26, No. 4, 1972, pp. 
+175-186] and "Zur Tonho"henwarnehmung von 
+Kla"ngen II. Ein Funktionschema," Acustica,
+Vol. 26, No. 4.,  [Concerning the perceived pitch
+height of sounds: II. A functional model].
+Terhardt's theory essentially relegates the
+residue or "virtual" pitch to the role of a
+"secondary sensation," ascribing the primary
+mechanism of pitch detetction to the well-worn
+place theory, which accords the operation of
+the basilar membrane primacy in determining
+pitch. "The pitch of simple tones and the
+"residue" pitch of complex tones exhibit quite
+different properties. The pitch of simple tones
+may be xplained by the principles of the 'classical'
+place theory. The 'residue' pitch is closely related 
+to the pure tone pitches of partials. It is
+concluded that the 'residue' pitch may be regarded
+as a 'seondary sensation,' derived from the pure
+tone pitches of dominant partials." [Terhardt, E.,
+op. cit., pg. 174]
+Terhardt went on publish a series of papers in
+which he elaborated the "residue" pitch as a 
+secondary sensation: "Pitch consonacne, and
+harmony," J. Acoust. Soc. Am., 1974, Vol. 55, 
+pp. 1061-1069; "On the perception of periodoic 
+slund fluctations (roughenss)," Acustica, 1974,
+vol. 30, pp. 201-213. "Ein psychoakusitche 
+begru"ndetes Konzept der Kusikalisches 
+Konsonanz," Acustica, 1976, Vol. 36, pp. 121-
+137, "The two-component theory of musical 
+consonance, in "Psychophysics and physiology
+of hearing," ed. E. F. Evans & J. P. Wilson,
+London: Academic press, 1977; "Psychoacoustic
+evaluation of musical sounds," Perception &
+Psychophysics, Vol. 23, pp. 483-492;  "Algorithm
+for extraction of pitch and pitch salience from
+complex tonal signals," J. Acoust. Soc. Am.,
+J. Acoust. Soc. Am., Vol. 71, No. 3, March 1982,
+pp. 679-688; Terhardt, E., Stoll, G. and Seewann,
+M., "Pitch of complex signals according to virtual-
+pitch theory: tests, examples, and predictions,"
+J. Acoust. Soc. Am. Vol. 71, pp. 671-678, 1982.
+This would all seem to be very convincing. 
+Clearly Erlich *must* be correct...right?
+Inharmonic tones complexes exhibit either
+a virtual pitch which has nothing to do with
+the frequencies of their component partials,
+or the inharmonic tone simply falls apart and
+fails to fuse into a single acoustic percept...
+don't they?
+As it turns out, not so.
+The first cracks in apparently impregnable 
+facade of the residue pitch hypothesis began
+to appear during de Boer's research. In 1976, 
+de Boer's monumental study (he calls it "a
+textbook inside a book") of the residue pitch
+defined the field: "On the 'Residue' and Auditory Pitch
+Perception," in Handbook of Sensory Physiology,
+Volume 5, No. 3, Springer-Verlag, Berlin-Heidelberg-
+New York, 1976, pp. 481-583]
+This survey of the residue pitch phenomenon drew
+on de Boer's doctoral dissertation and provided an
+unparalleled overview: from Seebeck's acoustic
+siren to Schouten's and Ritsma's work, to the
+evidence from chopped noise (Pollock, op. cit.),
+to Smoorenburg's own work.
+Here, however, doubt begins to creep in about
+the universal validity of the residue hypothesis
+as the basis of pitch detection. "Must we say
+goodbye to the 'residue'? We might be inclined
+to say: yes. In the course of this treatise, we
+witnessed the gradual change of meaning of
+tjhe term 'resideu,' a change that finally led
+to a new and less restrictive definition (see e.g.,
+Section E. 10). At the same time the musical
+aspects of 'residue pitch' grew more and more 
+important. (..) What is also new is the
+ambiguity involved in residue pitch. This was 
+recognized rather reluctantly at first (Section 
+E. 6); later, it was considered an essential feature
+of the mechanism (Section E 14). How essential
+it is did not become completely clear before the
+work on two-tone complexes and musical intervals
+(Section H. 2). In last instance, even the harmonic
+number n of the lower partial appeared to be
+esentially ambiguous (Section H. 6). The ambiguity
+involves one other concept that is, in the opinion of
+the present reviewer, of the greatest importance. (..)
+When we listen to a sound, we do not perceive this or 
+that aspect of the sound all the time; what we perceive
+depends completely on our training. (..) Hence,
+the fact that the result of a particular experiment 
+turns out to be extremely clear-cut does not 
+necessarily imply that ever naive listener is able 
+to perceive the signals in the same way. It is not too 
+difficult to associate a residue pitch with a two-
+tone complex presented monaurally. But to do the 
+same with a two-tone complex presented dichotically
+is quite anotehr matter. (..) We may conclude that we
+must be extremely cautious in our conclusions."
+[de Boer, E., "On the 'Residue' and Auditory Pitch
+Perception," Handbook of Sensory Physiology, Vol. 5,
+No. 3, Springer-Verlag, New York, 1976, pp. 572-574]
+R. J. Ritsma admits as much when he points out
+"The pitch behaviour of inharmonic complexes cannot
+be described precisely by P = f/n or by the concept
+of subharmonics of a dominant frequency
+component predicting a pitch P according to equation
+1. " [Ritsma, R. J., "Periodicity Detection," in 
+Frequency Analysis and Periodicity Detection in 
+Hearing, ed. R. Plomp and G. F. Smoorenburg, A. W. 
+Sithoff, Leiden, 1970, pp. 251-266]
+Further doubts about the validity of the results
+of tests on residue pitch were created by Elizabeth
+Cohen's and Mathews' and Pierce's work in the
+late 1970s and early 1908s.
+"In fact, in single tones stretched A = 2.4, one
+tended to hear the partials as separated sounds
+rather than as fused into a tone of a single
+pitch. We believe that such fusion depends on
+the phenomenon of residue or periodicity pitch. 
+This has been noted by Cohen. She has observed
+further than the degree of fusion of a stretched
+tone depends on the envelope of the tone, and is
+greatest for an exponentially decreasing amplitude 
+which gives a 'struck' quality." [Mathews, M., and
+Pierce, J. R., "Harmony and Inhamonic Partials,"
+Rapports IRCAM No. 28, 1980, pg. 12]
+These results are at first glance mixed: some
+of Mathews and Pierce's results appear to 
+support the residue pitch hypothesis, while
+other results--the fact that inharmonic sounds
+*can* be made to fuse with the right amplitude
+envelope--tend to contravene Erlich's claim.
+However, further on the paper strikes a profound
+blow to the residue hypothesis:
+"Subjects can identify keys of both stretched
+and unstretched matierals in an XMXMt test."
+The significance of this fact should not be
+underestimated.
+"If we can detect 'keys' and some form of finality
+within a cadence or progressions within inharmonic
+tones, then some of the theories of harmony in the
+past must not have been as cogent as some of
+their proponents have thought them to be."
+[Roads, C., "An Interview WIth Max Mathews,"
+Computer Music Journal, Vol. 4, No. 4, 1980,
+pp. 21-22]
+It is impossible to explain key sense and
+a sense of finality in harmonic progressions
+using inharmonic tones with the residue
+pitch hypothesis.  Clearly, other auditory
+mechanisms must be at work.
+This should not be surprising: many other
+researchers have run into a brick wall when
+they tried to explain all ear/brain phenomena
+on the basis of a single proposed mechanism
+of pitch detection.
+Elizabeth Cohen found similarly mixed results,
+and raised even further doubts about the purported
+"uselessness" of inharmonic tones for harmony
+in her series of experiments.
+For one thing, Cohen notes that "Throughout 
+history musical isntrument ave included not 
+only sources with integral multiple partials
+but also thouse sources with inharmonic partials.
+Examples of the latter are stiff strings, bars,
+and bells. (..) We already possess convincing 
+musical examples illustrating that sources with
+inharmonic partials have musical potential
+outside the confines of western harmony. The
+musical legacy of the Balinese gamelan is an
+outstanding example. In addition, recent
+compositions such as Inharmonique (Jean Claude
+Risset) and Stria (John Chowning) have
+demonstrated that inharmonic materials can
+render musical ideas with exquisite sensitivity
+within a more "western" context." [COhen, E.,
+"Some Effects of Inharmonic Partials On
+Interval Perpcetion," Music Perception, VOl. 
+1, No. 3, Spring 1984, pp. 323-349]
+Cohen searched for a mechanism which could
+explain why "Inharmonic tones are not 
+conventionally part of the infra-structure
+of western harmony, but may be used in
+the same manner as harmonic tones 
+under certain conditions." 
+Cohen notes that a number of her test
+subjects had no difficulty perceiving
+harmonic progressions in inharmonic
+tones, and perceives as "octaves" intervals
+far from the 2:1..."Subject GWM shows no
+desire to cling to an octave based on a
+learned or innate preference for a physical
+ratio of 2:1." [op. cit., pg. 337]
+She found similar results for inharmonic
+"fifths": "The data suggests that GWM, JWG
+and JMS tune by matching partials."
+Cohen concludes that "The nature of an
+instrument having noninteger partials suggests
+a need to develop an interval sense on something
+other than simple integer ratios or fundamental
+doubling.  It is suggested here that GWM relied
+on an interval sense that was based on 
+recognizing the consonance determined by
+coincident partials and associating this 
+sound as a particular interval."
+Cohen further points out that "If the composer
+fuses the sound by controlling the temporal
+evolution of the partials, then the composer 
+can be assured that conventional relationships
+and impressions can be made to hold. If the
+composer wishes to exploit the inharmonicity
+of the stretched tones, yet maintain certain
+consonance relations, then the knowledge
+that interaction of the partials can successfully 
+determine interval size will surely be a useful
+tool." [op. cit., pg. 347]
+This would appear to strike the death blow for
+Paul Erlich's argument.
+We are now in a position to see why earlier
+experiments with inharmonic tones failed to
+produce a sense of spectral fusion, and why
+earlier experiments (pre-1970s) with
+inharmonic tones usually exhibited a residue
+pitch unrelated to the frequencies of the
+partials:
+[1] Early experiments with inharmonic tones
+used crude analog electronic tone production
+circuits which generated a set of unrelated
+iharmonic partials.  Typically, FM or AM
+was used, or digital counter circuits.
+By contrast, the use of digital computers 
+to generate inharmonic tone-complexes in
+the 1970s allowed researchers to generate
+inharmonic tones all of whose partials were
+related.  Clearly this had a profound audible
+effect on test subjects.
+[2] Early experiments used extremely "electronc-
+sounding" lifeless inharmonic tones with very
+simple amplitude envelopes.  As John Chowning
+has pointed out (and as can be heard clearly
+in his composition Phone), even perfectly 
+harmonic sounds often fail to fuse into
+a single percept if the envelopes of the 
+different partials do not share a common
+vibrato and tremolo.  The effect can be 
+vividly heard in Chowning's composition:
+a set of partials appears from silence and
+while harmonic, sounds like an unrelated set
+of partials: but when each partials slowly
+begins to exhibit common vibrato, the 
+set of "unrelated" tones gradually fuse into
+the unified percept of a human voice.
+The same effect was clearly at work in
+early experiments with inharmonic tones.
+Later experiments, like Cohen's, use
+common amplitude and frequency
+information "built into" the envelopes
+of each inharmonic partial to encourage
+the tones to audibly fuse--and experiments
+from the 1970s onward show that such
+inharmonic tones, so modified, do indeed fuse.
+[3] Early experiments with inharmonic tones
+use arbitrarily stretched partials.  Later,
+more sophisticated experiments, (as we
+shall see) use sets of partials which 
+exhibit the properties of an "inharmonic
+series" of tones which are related to some
+coherent generating method.  The ear can
+hear this and places the inharmonic partials
+within the inharmonic series, producing
+a complete and convincing sense of finality
+in inharmonic cadences.
+As the final nail in the coffin of Terhardt's
+apparently all-embracing theory, note the
+article "Reivsion of Terhardt's Psychoacoustical
+Model of the Root(s) Of a Musical Chord," R.
+Parncutt, Music Perception, Vol. 6, No. 1, Fall 
+1988, pp. 65-94:
+"The predictions of Terhardt's octave-
+generalized model of the root of a musical
+chord occasionally disagree with music theory
+(notably, in the case of the minor triad.)"
+Thus Terhardt's theory (like so many others
+which purported to give 'all the answers'
+about how the ear hears) is now crumbling,
+and various desperate attempts are being
+made to shore it up. 
+This tells us (as we should have known all along)
+that the ear uses more than the virtual
+pitch mechanism to ascertain fundamental
+pitch of real-world musical sounds. It also
+tells us that the operation of the ear is complex
+and context-sensitive, and that therefore an
+inharmonic tone progression which offers the
+ear alternate cues can and often will be heard
+as an inharmonic progression within a coherent
+yet inharmonic series of timbres.
+The second and final post in this series will
+discuss the overwhelming evidence *against*
+Erlich's claim, and *in favor of* the ability of even
+the most naive listener to hear inharmonic
+progressions of inharmonic tones as
+exhibiting a sense of harmonic closure,
+and a fundamental pitch related to the
+fundamental of the inharmonic tone complex..
+Ideas fundamental to the extension of microtonality
+into the realm of timbre.
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 16 Jul 1996 16:31 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA00444; Tue, 16 Jul 1996 07:30:58 -0700
+Date: Tue, 16 Jul 1996 07:30:58 -0700
+Message-Id: <Pine.SUN.3.91.960716072806.7804F-100000@garcia.efn.org>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

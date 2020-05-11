@@ -1,0 +1,38 @@
+source file: mills2.txt
+Date: Wed, 20 Dec 1995 13:56:54 -0800
+
+Subject: Re: A window of opportunity for synth manufacturers
+
+From: james@astro.as.utexas.edu (James McCartney)
+
+>This brings up the issue of Csound's support
+>for real-time microtonality.
+>There isn't any.
+
+CAUTION: plug follows.
+
+My program SuperCollider which is a real time synthesis program for
+PowerMacs using a Scheme-like programming language DOES support
+real-time microtonality. Pitches can be specified in Hertz or
+converted from floating point MIDI note numbers. i.e. 63.86 is a
+5/4 above C 60. Several of the demo files use Just pitches. The demo
+is available from:
+
+ftp://kahless.isca.uiowa.edu/pub/algo-comp/SuperColliderDemo.sea.hqx
+
+
+
+   --- james mccartney     james@astro.as.utexas.edu
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 21 Dec 1995 03:13 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA28696; Wed, 20 Dec 1995 18:13:43 -0800
+Date: Wed, 20 Dec 1995 18:13:43 -0800
+Message-Id: <199512210212.AA02516@interlock.wdni.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

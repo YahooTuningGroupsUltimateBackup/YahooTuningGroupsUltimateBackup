@@ -1,0 +1,43 @@
+source file: m1441.txt
+Date: Mon, 8 Jun 1998 22:38:02 -0500
+
+Subject: Re: Sound-from-Scratch Microtunable Synth Recommendation?
+
+From: "jloffink" <jloffink@pdq.net>
+
+>    Do any of you folks have recommendations for your favorite synthesizer
+> capable of building sounds from scratch, and also having at least one
+> user-specifiable completely arbitrary tuning table?
+> 
+IMHO the best sounding of the new DSP type synthesizers is the Korg
+Prophecy.  In many cases I think it sounds better than the old analog
+synthesizers they're trying to emulate.  The Prophecy is monophonic, but
+Korg now has the Z1 which is 12 note polyphonic, expandable to 18 notes,
+and fairly expensive.  It has only one full keyboard tuning table, but you
+can save global settings to a PCMCIA card.
+
+The only other real alternative is Yamaha's discontinued SY77, TG77 or SY99
+which featured their final and most powerful version of FM synthesis
+coupled with resonant filters.  They had 2 global tables, floppy disk and
+cartridge storage.  I haven't demoed these keyboards, though.
+
+There isn't anything else that fits your criteria.  Yamaha's VL series are
+mono or duophonic.  Kyma is more of a computer synthesis workstation than a
+traditional synthesizer.
+
+If realtime control is not an issue I recommend one of the many computer
+synthesis programs that can generate files for your sampler.  I personally
+use Synthia Pro on my Amiga to generate sounds that couldn't be done any
+other way.
+
+>    I'd like to verify something though:  If I understand your definitions
+> correctly, John, "keyboard scales" mean completely arbitrary tunings
+> key-for-key (within the resolution and range of the instrument), right? 
+I
+> think I must have misread that definition the last time I looked at your
+> web page.)
+> 
+Right.
+
+John Loffink
+jloffink@pdq.net

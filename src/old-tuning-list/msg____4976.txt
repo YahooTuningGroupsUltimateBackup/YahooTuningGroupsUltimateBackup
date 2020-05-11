@@ -1,0 +1,76 @@
+source file: mills2.txt
+Date: Mon, 3 Mar 1997 23:07:27 -0800
+
+Subject: Fretting and non12 mentioning 12tET guitars ;-)
+
+From: clucy@cix.compulink.co.uk (Charles Lucy)
+
+Apologies for earlier part-message. I was having telnet
+delays between Hawaii and London, and answering on-line live.
+ 
+This first fret change seems to me to be a desperate attempt to 
+compensate for the most obvious error on conventional 
+guitar fretting.
+ 
+It seems as though even the LA music retaillers are beginning to 
+get the point about 12et problems.
+ 
+Does this mean that the whole planet is about to accept,
+that 12et will soon be moribund?
+ 
+It was this error, (which is particularly noticeable, on the third 
+string, when playing E Major as an "open" chord,) which was one of 
+the earliest things that I noticed causing problems with 
+12ET guitars.
+I used to retune my 12ET guitars dependent upon what key I was 
+playing in.
+ 
+I have dozens of different programs and spreadsheets to calculate 
+the frettings for various different tunings mostly done on Amiga. 
+So let me know whatever anyone may need.
+ 
+Mark Rankin's system is quite clever, as it prints a paper template,
+which can be used to mark out the fret positions.
+ 
+There is a guitar workshop on Sunset in Venice CA, about five blocks
+from the ocean, which had set up a milling machine to cut a
+variety of necks, heads, and fretting some seven years ago.
+ 
+John Carruthers 346 Sunset Ave. Venice CA 90291 (213) 392-3910
+ 
+The deflection of the string, from my experience, is a "red-herring".
+This first fret, because of its large distance to the nut is 
+larger in millimeters than any of the other errors despite the
+integer ratio method of calculating fret positions.
+ 
+When adjusting the bridge position on guitars, it is usual to fret
+at the octave, and compare to the "ghostone" above the same fret.
+The bridge is then moved nearer or further from the nut until the
+pitches co-incide.
+ 
+So if JC is right about the fractional fretting arithmetic, 
+the octaves will be correct and everything else will be out of 12tet.
+ 
+ 
+ 
+For more info. on microtonal guitars, fretting, and retuning
+see our website at:
+ 
+http://www.wonderlandinorbit.com/projects/lullaby 
+ 
+ 
+lucy@hour.com
+ 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 4 Mar 1997 14:56 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04022; Tue, 4 Mar 1997 14:56:26 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA04074
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id FAA18778; Tue, 4 Mar 1997 05:53:59 -0800
+Date: Tue, 4 Mar 1997 05:53:59 -0800
+Message-Id: <331C28A1.6D2B@top.monad.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

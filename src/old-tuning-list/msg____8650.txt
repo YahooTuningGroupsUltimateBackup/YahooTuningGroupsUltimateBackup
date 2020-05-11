@@ -1,0 +1,67 @@
+source file: m1559.txt
+Date: Wed, 21 Oct 1998 13:12:14 +0530
+
+Subject: Re: Cancelling out beats
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+HI,
+
+Sorry for the delay with my 2 cents. I haven't had access to the
+internet for over a week,
+and when I did yesterday I had to do it on Windows, an absurd program
+called
+Explorer, and an absolutely idiotic-unintuitive mail (apparently)
+program called Outlook (which managed to destroy some of my mail). 
+Coincidentally all 3 apps are made by the same obscure North-West
+American company.
+
+I don't know much about all this yet, but might what Brad is talking
+about and Sethares' approach be achieved using additive synthesis ?
+
+It just seems the logical solution.
+
+There's bound to be a lot of info on the mighty mighty infobahn about
+additive. Greg Sandell's  SHARC Timbre database also (I think) has some
+info
+that is of use, since there's been mention on the Sharc list about
+people using
+the data to build sounds in the Kawai K-5000 additive synths (I wonder
+if they 
+have any microtuning capability) <http://www.parmly.luc.edu/sandell/>.
+
+If you don't have access to any real-time additive synthesis system
+(Kyma, 
+K-5000, MSP,etc.) , there's always building samples in any of the free
+software 
+synthesis systems  (Csound, Syd, etc.) and loading them
+into a sampler like Vsamp<http://www.kagi.com/smaug/vsamp> 
+(on a PowerMac).
+
+BTW, Kyma is now just $3300 for the base unit (four 80 MHz dsps, 96 MB
+RAM
+, digital i/o) and it's new and improved:
+"Based on the new Motorola DSP-56309 chip running at 80 MHz, the
+Capybara 
+320 base unit is now available for US$3300 and provides a minimum of
+four DSPs 
+(expandable to 28) with multi-channel I/O, synchronization to external
+clocks, and 
+96 MB of sample RAM (expandable to 672 Mb) in a low-noise,
+rack-mountable package 
+connected to a desktop or laptop Macintosh or Windows PC."
+<http://www.symbolicsound.com> This beaut is getting more and more 
+affordable (compared to many of the commercial synths and samplers
+around,it's
+actually cheap !) and powerful......
+
+-Drew
+
+----------------------------------------------------------------------------
+"Out of the ash
+I rise with my red hair
+And I eat men like air."-Sylvia Plath
+
+"Ricka-racka-firecracker,Sis-boom-bah. 
+ Bugs Bunny,Bugs Bunny,Rah Rah Rah !"
+----------------------------------------------------------------------------

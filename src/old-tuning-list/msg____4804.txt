@@ -1,0 +1,67 @@
+source file: mills2.txt
+Date: Sat, 15 Feb 1997 20:10:29 -0800
+
+Subject: can anyone explain these "ghosttones"?
+
+From: clucy@cix.compulink.co.uk (Charles Lucy)
+
+I posted the following in alt.sci.physics.acoustics a few days ago
+and got the following reply.
+Can any of our maths people give me more pointers please?
+Does this give anyone new ideas of how to explain the "ghosttones"?
+lucy (posting and reply follows:
+ 
+[;H[2Jalt.sci.physics.acoustics #5245 (0 + 10 more)                   
+      (1)--[7m[1][m
+From: sirius@dca.net (Michael Anderson)
+ 
+[m[A
+ 
+[m[A
+[7m[1][m [4mRe: Proof of Harmonic Series?[m
+Organization: NSL
+X-Newsreader: WinVN 0.92.6+
+NNTP-Posting-Host: phl-6007.dca.net
+Date: Sat Feb 15 17:27:37 GMT 1997
+Lines: 32
+ 
+In article <E5MFE6.5yw@cix.compulink.co.uk>,
+clucy@cix.compulink.co.uk ("Charles
+ Lucy") says:
+>
+>
+>Can anyone point me to conclusive physical proof that harmonics
+>(i,e, the sounds that you hear) are only to be found at
+>integer frequency ratios.
+>I am seriously questioning this "hallowed" rule, and would
+>appreciate pointers from the acousticians.
+>(My experience and intuition tells me that harmonics beat)
+>Does anyone have firm experimental data to validate the
+>integer ratio mapping of harmonics on vibrating strings?
+>TIA
+>Charles Lucy
+ 
+ 
+  No, harmonics from physical sources such as flutes and oboes and
+bells are not integrally separated.  Generally one solves families
+of solutions to Bessel or Legendre type equations, and these are not
+simple integer multiples.
+ 
+  Michael L Anderson
+  North Star Laboratory
+  Ultrasonics consulting and instruments
+  (610) 326-8425
+[7mEnd of article 5245 (of 5246)--what next? [npqh][m [;H[2J
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 16 Feb 1997 14:13 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07678; Sun, 16 Feb 1997 14:13:05 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07671
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id FAA01042; Sun, 16 Feb 1997 05:07:28 -0800
+Date: Sun, 16 Feb 1997 05:07:28 -0800
+Message-Id: <009AFF9AC013F2A3.2D45@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,72 @@
+source file: mills2.txt
+Date: Mon, 10 Feb 1997 19:07:16 -0800
+
+Subject: Harmonics
+
+From: Gary Morrison <MorriSonics@compuserve.com>
+
+> In nature, there are no physical 
+> objects that vibrate with a pure harmonic series of partials above the 
+> fundamental. The harmonic series is a construct of our mathematical 
+> minds, modeling a phenomenon first observed with our nonlinear hearing 
+> mechanism, and later with lab instruments. 
+
+   I personally think that that, although essentially correct, is a bit of
+an exaggeration.  
+
+   First of all, a topic that made its rounds on the list recently:  To say
+that (for example) guitars, orchestral strings, almost all woodwind tones,
+and most brass tones, have exactly harmonic partials, is only slight
+oversimplification.  The biggest departures from harmonic partials are
+high- and mid-frequency noise components, from rosiny scrapes or breath
+blowing through the tube.  
+
+   If you force partials from those sorts of instruments to exact
+harmonics, they take on a very clearly audible, but usually fairly subtle,
+"robotic" crustiness.  To say that most orchestral instruments have exactly
+harmonic partials is definitely not pure 100% unadulterated truth, but the
+amount those instruments deviate from pure harmonic partials is FAR too
+small to have any significant effect upon tuning considerations.  
+
+   But that's not really a point I want to get too much into, and perhaps
+it wasn't really John's main issue either.  
+
+   I think it's worth pointing out that whatever framework you build your
+compositional or psychoacoustical model of musical psychology upon, how you
+defy that framework is every bit as important as how you use it.  
+
+   I personally believe that Neil is mostly correct in at least one sense: 
+Aside from some very important exceptions (e.g., very low pitch range),
+simple whole-number ratios usually predict quite accurately what our ears
+view as significant.  They are the navigational bouys in the sea of tuning
+possibilities.  
+
+   BUuuuut...  I don't believe that pitch relationship being significant to
+our ears means that we must ideally use it, any more than we should sail
+into collision course with navigation bouys!  For example, intentionally
+missing a 3:2 P5 by about 5 cents produces quarter-comma meantone, which to
+my ears and those of many others, sounds really fantastic!  And it sounds
+great not (only) because it hits a 5:4 right on, but even more so because
+of the specific way that it misses 3:2.  
+
+   Obeying well-known ground rules sows the seeds of expectation in your
+audience's minds, but defying those rules is what makes your audience
+listen!  Really brilliant music comes from cleverly and emotionally using
+both expectation and defiance of expectation.  Simple whole-number ratios,
+being a pretty good model of what is fundamentally meaningful to our ears,
+are one example of such a means of using and defying expectation.  Regular
+structures in a tuning system (like circles of fifths) are another, as are
+consistency of meter and rhythm.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 11 Feb 1997 05:24 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01951; Tue, 11 Feb 1997 05:24:06 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01949
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id UAA20393; Mon, 10 Feb 1997 20:22:29 -0800
+Date: Mon, 10 Feb 1997 20:22:29 -0800
+Message-Id: <Pine.A32.3.91.970210210957.33691A-100000@tiger.cudenver.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

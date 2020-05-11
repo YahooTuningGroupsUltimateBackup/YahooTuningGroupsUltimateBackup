@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Sat, 28 Jun 1997 20:18:44 +0200
+
+Subject: Re: the 6th chord and odd-limit theory (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Thank you, Graham, for the nice proof of my conjecture, that aside from
+the otonal and utonal 7-limit tetrads, and subsets thereof, there are no
+chords with only 7-limit intervals. Thank you also for explaining why
+things go astray in the >7 limit case. Now, can we come up with a
+complete enumeration of "saturated" chords; i.e., chords which consist
+only of n-limit intervals but cannot retain this property if any note is
+added to them? For the 5-limit, the major and minor triads are the only
+examples. 7-limit, it's just the two tetrads. For the 9-limit, the
+otonal and utonal pentads work, as well the two 6th chords discussed in
+this thread, so there are at least 4 saturated 9-limit chords. A
+complete enumeration through the 11-limit, at least, should be of great
+interest to users of Partch-type JI.
+
+-Paul Erlich
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 29 Jun 1997 01:14 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31885; Sun, 29 Jun 1997 01:14:32 +0200
+Date: Sun, 29 Jun 1997 01:14:32 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA31803
+Received: (qmail 12966 invoked from network); 28 Jun 1997 23:14:26 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 28 Jun 1997 23:14:26 -0000
+Message-Id: <3.0.2.32.19970628160839.00699f0c@adnc.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

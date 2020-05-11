@@ -1,0 +1,106 @@
+source file: mills3.txt
+Date: Wed, 10 Dec 1997 01:06:59 +0100
+
+Subject: Reply to Paul Ehrlich
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+Your point regarding the 3/4 tone of Arabic music is at least debatable;
+in highly conjunct music the voice and the musical understanding are
+appreciably more sensitive than in more disjunct music. Nevertheless
+most researchers have found Arab singers quite unable to reliably
+reproduce these very narrow intervals, much less anything so esoteric as
+the neutral third, which usually amounts to nothing more than a slightly
+inaccurate minor third.
+
+You are incorrect that 31-tone equal has more usable melody than 19-tone
+equal. Between C and D, for example the 31-tone equal has Dbb, C#, Db
+and Cx ascending. The first of these is melodically confounded with C,
+the second two are melodically confounded with each other, and the last
+is confounded with D. The 31-tone equal is in fact a monstrously
+complex, inefficient way of returning us to our melodic starting-point
+of 12-tone equal. It is much smoother indeed, but melodically it is a
+dead-end. There is one exception; as I intimated, the augmented tone in
+this system does seem to be distinct from the minor third, perhaps
+because the former is both conjunct and dissonant, while the latter is
+consonant and at least putatively disjunct.
+
+I appreciate that even worthless systems are worthy of extensive study -
+else how would we know them to be worthless? I also have studied the 22
+system. It enjoys extensive advocacy by those who associate it with
+Indian music, which is certainly worth some attention!
+
+The 22-tone equal suffers from two grave defects however, either one of
+which would be sufficient to condemn it to the category of a curiosity.
+Its tuning degree is at the outermost limit of what can be reliably
+distinguished in melody. By this I mean if one flats or sharps a note by
+55 cents that note will sometimes be interpreted as having essentially
+changed the melody, but sometimes not - and more often not. Musicians do
+not write for exceptionally acute listeners, but for the masses. The
+second defect of the 22-tone equal involves its failure to close the
+cycle of fifths. I am aware that some will say to themselves - so what?
+But a musical system that does not close the cycle of fifths has at a
+stroke isolated itself from 99% of the music not merely of the western
+19th century, but from virtually the whole of the western tradition, and
+from many other musical traditions as well. Such musical systems, like
+just intonation, are mere curiosities, and are far more impoverished in
+usable, aurally distinct resources even than the 12-tone equal.
+
+The four scales I gave have consonant triads (major or minor) available
+on four of their seven degrees. For example:
+
+C D E F G Ab B
+
+has consonant triads on C, E, F & G, but not on D, Ab or B. I hope this
+clarifies the matter.
+
+Your refer to the 7 and 11 limits.  The latter is a mere fantasm of the
+just intonationists, and is not audible to the ear as anything other
+than dissonance. The septimal limit is more interesting. But it is
+dissonant, however this may trouble those who aspire to forever extend
+the boundaries of consonance, until someday I presume, we shall find
+everything consonant, and music need trouble itself no longer with any
+rules or constraints whatever... It will also no longer need to trouble
+itself with pleasing an audience, for it will have none. Actually
+however, the 19-tone equal is the _only_ temperament that gives the
+septimal intervals in such a form that they can be melodically
+distinguished from adjacent intervals. This is a consequence of the fact
+that in this system only are the septimal intervals far enough away from
+adjacent intervals to preserve their own unique melodic character.
+
+Your reference to individuals being trained to reliably distinguish
+melodic intervals as close as 10 cents is the most fantastic piece of
+information I have ever been privileged to encounter. Presumably such
+monsters would no longer recognize "Mary Had a Little Lamb" as a single
+melody, but would distinguish several hundred million essentially
+different melodies instead! You will forgive me if I remain skeptical of
+this possibility.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carl Lumma <clumma@nni.com>
+Subject:  Misc 3
+PostedDate:  10-12-97 01:43:29
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-12-97 01:41:33-10-12-97 01:41:34,10-12-97 01:41:20-10-12-97 01:41:21
+DeliveredDate:  10-12-97 01:41:21
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256569.0003CCCD; Wed, 10 Dec 1997 01:41:30 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11107; Wed, 10 Dec 1997 01:43:29 +0100
+Date: Wed, 10 Dec 1997 01:43:29 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA11114
+Received: (qmail 29147 invoked from network); 9 Dec 1997 16:43:25 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 9 Dec 1997 16:43:25 -0800
+Message-Id: <19971210004239812.AAA309@NIETZSCHE>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

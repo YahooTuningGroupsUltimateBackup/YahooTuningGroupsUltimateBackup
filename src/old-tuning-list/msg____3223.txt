@@ -1,0 +1,388 @@
+source file: mills2.txt
+
+
+Subject: FW: A Summary of "Theory of Intonation"
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+I dug this up; it's kind of interesting:
+ ----------
+From: rom
+To: paule
+Subject: mail
+Date: Wednesday, March 08, 1995 7:32PM
+
+Received: from PACIFIC-CARRIER-ANNEX.MIT.EDU by po5.MIT.EDU (5.61/4.7) id
+AA09023; Sun, 4 Dec 94 06:22:34 EST
+Received: from is1.hk.super.net by MIT.EDU with SMTP
+	    id AB22123; Sun, 4 Dec 94 06:21:46 EST
+Received: by is1.hk.super.net id AA24415
+  (5.67b/IDA-1.5 for rom@mit.edu); Sun, 4 Dec 1994 19:21:22 +0800
+Date: Sun, 4 Dec 1994 19:21:21 +0800 (HKT)
+From: "Mr. Linus ChiFai Liu" <linusliu@HK.Super.NET>
+To: rom@MIT.EDU
+Subject: One Correct Tuning System
+Message-Id: <Pine.SUN.3.91.941204191256.24116A-100000@is1.hk.super.net>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+Hello,
+
+Please do not feel offended my sending you this message. Forgive me if
+you are not interested, but I think you might.
+
+
+The "One Correct Tuning" is not what I called it. I do not know who did.
+It is just one that seem to be used by all major composers in the
+mainstream traditional.
+
+
+               A Summary of "Theory of Intonation"
+               ===================================
+
+                               by
+                            Linus Liu
+                               of
+                            Hong Kong
+
+1. Scale
+
+Below is the interval arrangements in a MAJOR SCALE, as the
+writer has correctly found and identified:
+
+DO    RE    ME    FA    SO    LA    TE    DO'
+  10/9  10/9  27/25  9/8  10/9  10/9  27/25
+
+There are two sizes of whole tone, the smaller 10/9 and the
+larger 9/8. Their sum is major third (10/9 times 9/8 = 5/4).
+
+Therefore, it is seen in the above string that between DO and
+ME in a SCALE, there is NOT a major third interval (10/9 times
+10/9 is 100/81 and not 5/4).
+
+2. Chord
+
+In a tonic major triad, the bass in root position is lowered by
+the necessary interval (81/80, syntonic comma) so as to become a
+major third beneath the median, which is a VERY IMPORTANT phenominon
+in music. The dominant must similarily be lowered, unless this
+dominant is in soprano.
+
+Be surprised, therefore, that the octave between BASS and SOPRANO
+in an SATB chord is not an octave, but an interval sized 81/40.
+
+    The Tonic Major Chord
+    =====================
+
+        Perfect 5th
+     __________________
+    |                  |
+    |                  |
+   DO ------ ME ------ SO        DO
+     maj 3rd   min 3rd
+    |                            |
+    |____________________________|
+
+    This is 81/40,  not an octave, but bigger!
+
+   DO and ME in Scale = 10/9 times 10/9  = 100/81  # Major 3rd
+   DO and ME in Chord =  9/8 times 10/9  =  5 / 4  = Major 3rd
+   (DO lowered by 81/80)
+
+   ME and SO in Scale = 27/25 times  9/8 = 243/200 # Minor 3rd
+   ME and SO in Chord = 27/25 times 10/9 =  6 / 5  = Minor 3rd
+   (SO lowered by 81/80)
+
+When DO happens to be in the alto, and ME in the Soprano: this
+ME will not tolerate being comparatively so much lower (relative
+to each other, or to the averaged pitch on the piano) than alto's
+DO - when the major third is already small, now even smaller by a
+comma.
+
+Hence the soprano ME is adjusted upwards by the same sytonic
+comma (81/80). For this reason, alto remains instead of being
+lowered like the bass would have to. Now alto and soprano are in
+tune as major third.
+
+3. Cadence
+
+It is eaily seen that in a subdominant chord of a major key, all
+its component notes are already in tune. The tonic in the bass
+need not be lowered as in the case of the tonic chord.
+
+The DO in the subdominant chord need not be lowered. The DO in
+the bass in a tonic chord must be.
+
+Hence in the Plagal Cadence, the DO will contradict if remain in
+a same lower part through both chords (unless this DO is in the
+alto AND also the soprano is ME, which is raised).
+
+This explains a very basic rule learned by every student studying
+Harmony.
+
+There are many other rules in traditional Harmony and Counterpoint
+that may be similarly explained.
+
+4. Modulation
+
+When a major key modulates to its dominant, the fourth note raises
+by a chromatic semitone of 25/24 becoming the seventh note.
+
+The third note now becomes a bigger whole tone from the sharpened
+fourth note than the required smaller whole tone needed between
+the new sixth and seventh notes. It has to be raised by a comma
+(81/80). So does the second note in becoming the fifth.
+
+Hence in modulation of a major key to its dominant, three, not one,
+notes need be adjusted in pitch.
+
+5. Keys
+
+The intonation of different keys is such that the largest
+number of notes on the open strings of the violin can be
+played in tune on the scale/chords.
+
+Observe the following sequence that is derived from the major scale:
+
+ME     TE     RE     FA     LA     DO     SO
+   P5     mr3    mr3    Mj3    mr3     P5
+
+P5 = Perfect 5th
+mr3= Minor 3rd
+Mj3= Major 3rd
+
+Because perfect fifths and minor thirds are larger than averaged
+intervals (as on piano), notes on the right are also relatively
+higher than those on their left (except FA and LA which is major
+third).
+
+Hence we have more chances of finding in performance the dominant,
+tonic and subdominant notes out of tune sounding too flat.
+
+In particular, if the note SO is tuned accurately to, say, A 440,
+which is the D major, all the other notes on the violin will
+become lower than those corresponding notes on the piano. Hence
+the D major is obviously a low key.
+
+Brahms made an exception in his violin concerto. By going through
+the D minor, he caused the subsequent D major to raise by a comma
+in pitch. By doing so correctly one should find no trouble with the
+subsequent double stops, nor passages in the second movement when
+it modulates.
+
+When A 440 become the LA as in C major, the open E string is
+higher than required inside the scale, but good in the soprano of
+a tonic major chord.
+
+The F major is a dilemma. If A 440 and E 660 are in tune as
+respectively the ME and TE, the whole F major is high and the
+open strings G 195.56 is too low for RE, and open D 293.33 too
+low for LA.
+
+Or the G and D may be followed, leaving the A and E strings too
+high.
+
+As performing musicians commonly know, the F major IS high.
+
+Beethoven made some exceptions. When the violin and piano swapped
+their respective roles of soloist and accompaniment in the opening
+of the Spring Sonata, the violin played in the lower pitch in
+the lower string. If this has not happened, the Spring Sonata may
+probably not sound like spring. Nor will it sound like spring if
+a violinist does not observe such fact.
+
+Unit used below is 1 / 4096 of a half-tone. Or, octave is divided
+into 12 x 4096 equal divisions. The figures shows deviations from
+a equally divided scale, or keyboard. A negative value indicates
+that the note when compared to a equally tempered keyboard would
+be comparatively flat, positive would mean sharp.
+
+These figures can be applied directly to the PitchWheel command in
+MIDI music.
+
+KEY A-maj C-maj D-maj E-maj F-maj G-maj Bb-maj Eb-maj Ab-maj
+
+SO    80e  720      0a  160  1520   800  1440   1360   1280      x s
+ME  -560    80e  -640  -480   880   160e  800    720    640    *
+DO     0a  640    -80d   80e 1440   720  1360   1280   1200  + *   s
+LA  -640     0a  -720  -560   800    80a  720    640    560        s
+FA   -80d  560   -160g    0a 1360   640  1280   1200   1120        s
+RE  -720   -80d  -800  -640   720     0d  640    560    480        s
+TE -1360  -720  -1440 -1280    80e -640     0a   -80d  -160g       s
+SO  -800  -160G  -880  -720   640   -80g  560    480    400  +
+ME -1440  -800  -1520 -1360     0a -720   -80d  -160g  -240  + * x s
+DO  -880  -240   -960  -800   560  -160   480    400    320  + * x
+
+                        Two ways of a tonic major chord______|_| | |
+                              and one tonic major triad _________| |
+                          Notes played in a major scale____________|
+
+F major is therefore the sharpest key, and D major, lowest.
+
+The keys C, G, D and F major use all the four notes on the open
+strings of the violin.
+
+The D major can be modulated to A major quite easily, seen above,
+the open A string being the note SO in D major becomes the DO in
+the new key, A major. The same goes for A major to E major.
+
+On the violin, the player only need to shift the fingering pattern
+on each violin string up an adjacent string.
+
+However, this is not true for G major going to D major, nor F major
+to C major.
+
+                     ===============
+
+The following analysis of excerpts from the Beethoven Violin
+Concerto shows how Beethoven adhere closely to the above scheme
+of intonation in relation to the different keys.
+
+A. ---------
+
+In bar 224 of the first movement, the last note played by the
+soloist is A. This A is a high note in the key of A major.
+
+
+The orchestra takes over this note and plays it as the third note,
+a low note in the key of F major.
+
+What is apparently an abrupt modulation achieved modulation to
+F major which is to be played in the manner "commonly practiced",
+as above table.
+
+B. ---------
+
+The key of C major can end up one of three ways:
+
+1. As the dominant key of F major, the note E in the scale is in
+   tune on the open E string.
+
+2. As the subdominant key of G major, the notes D and A in the
+   scale are in tune on these open strings.
+
+3. As the subdominant of the subdominant key of D major, the note
+   G is in tune on the open G string.
+
+The following analysis shows how Beethoven manipulated such
+modulation:
+
+At bar 239 of the first movement of the Violin Concerto, the
+music is A major. At bar 247, it modulates to its simple A minor.
+At bar 258, the note E in the chord C major is held by five
+instruments. As previously explained, this top note being the
+third of the (tonic) major chord, must be a comma higher.
+However, this note is sustained from previously, and is not
+possible to the open E string. The low E is in tune to the open G
+string.
+
+At bar 260, these two notes remain unchanged. The low E is then
+sustained in the second violin until bar 264. Here, the chord
+becomes a C major seventh. All notes must be in tune. The note C
+in the bass is in tune with the sustained low E in the second
+violin, and is also in tune to the open G string. This C is
+sustained in the bass until bar 268. The chord becomes tonic C
+major. The top note C must be higher than the C in the bass by a
+comma. Hence the tonic C major is the one named (2) above, where
+the note C is in tune to the open E string.
+
+C. ---------
+
+When proceeding from the first movement, ending in D major,
+into the second movement, in G major, Beethoven took the necessary
+steps to manipulated the intonation of his notes so that the
+second movement will be played in adherence to the above table,
+and when going back from G major to D major from the second to
+the third movement.
+
+Beethoven violin concerto 2nd mvt chord and melody analysis,
+Bar 89 to 91.
+     __________     ___________     _________                ______
+ G / Dim5 36/25 C#/chr.st 25/24 D / xn3 32/27 F \ ______ G#/ chr.st  A
+ |              |               |             |  mj6 5/3 |    25/24  |
+B.otv 81/80    dim5 36/25     B.mj6 27/16   mn3 6/5  dim5 36/25   B.mn6 
+81/50
+ |   __________ |               |             |          |           |
+ G /B.otv 81/80 G \ ___________ F \ _________ D --------- \ _______  C#
+ |              |   big wt 9/8  |   mn3  6/5  |       semitone 27/25 |
+unison         mn3 6/5         mn3 6/5       otv 2/1                mj6 5/3
+ |   __________ |               |             |    ________________  |
+ G /B.mj6 27/16 E \ ___________ D \ _________ D  /          wt 10/9  E
+ |              |     B.wt 9/8  |   otv  2/1  |                      |
+mj6 5/3        P5 3/2          mj3 5/4       mj3 5/4                P5 3/2
+ |              |   ___________ |             |                      |
+ Bb \__________ A / mn2  16/15  Bb ---------- Bb \ _________________ A
+     mn2  16/15                    remain             semitone 27/25
+
+The chords put in their "up-right" positions reveal the intervals
+required:
+         1.         2.                 3.            4.                5.
+
+         G          G                  D            (G#)               A
+   B.mj6<       mn3<           big mn3<          mn3<             Big4<
+         Bb         E                  F             F                 E
+     mn3<       mn3<               mn3<          mn3<              mn3<
+         G          C#                 D             D                 C#
+  unison<       mj3<               mj3<          mj3<              mj3<
+         G          A                  Bb           Bb                 A
+
+Note:
+
+1. In the end, the note A on the soprano is lowered by the targeted
+interval of a comma, 81/80.
+
+Since the started note G on soprano is per above table, tonic in G
+major scale, a comma higher than the open G string, the final A on
+the soprano is 36/25 x 25/24 x 32/27 / 5/3 x 25/24 = 10/9. This A
+is the same on the open A string, satisfying the D major key on the
+above table.
+
+2. The soprano melody when singing from the third into the fourth
+chord, need to sing the interval marked "xn3", an interval small
+than the minor third by a comma. The F on the fourth chord may
+therefore has a temptation of getting resolved, i.e., sung a comma
+higher, and the "Big octave" formed. Beethoven lessens the tendency
+of this happening by having the F (3rd) doubled. The F cannot be
+played as resolved, since there is a G#, which participates as the
+seventh of the chord, on top of the soprano F forming a minor third
+interval.
+
+                     ===============
+
+Re-written on 4 Dec, 1994
+
+The writer can be reached at e-mail <linusliu@hk.super.Net>, or
+fax +852 471 7557
+
+BTW, my sister, Dilys Liu, is also an MBA from MIT.
+
+Regards,
+Linus Liu
+
+
+
+
+
+------------------------------
+
+Topic No. 2
+
+Date: Fri, 12 Jul 96 14:38 EST
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+To: tuning <tuning>
+Subject: FW: Darreg Disc Error: track 3 mislabell
+Message-ID: <12960712193821/0005695065PK4EM@MCIMAIL.COM>
+
+
+A second attempt at posting this message:
+ ----------
+I wrote:
+
+>The lower note of the minor
+>third is about a middle d#, and a little calculation shows that the beat
+>frequency for a 22-tet minor third in this register is 2.5 Hz.
+
+A little erroneous calculation, that is. The mystery deepens! Could Ivor 
+have been using 17 unequally-spaced tones? (He's laughing at us from the 
+beyond.) I just got a micro-tunable synth so I'm going to try to solve this 
+mystery.

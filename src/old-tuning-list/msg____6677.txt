@@ -1,0 +1,93 @@
+source file: mills3.txt
+Date: Wed, 17 Dec 1997 20:30:33 +0100
+
+Subject: Re: 22-tone exhortations
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+I wrote:
+
+>}I haven't investigated Paul Erlich's decatonic
+>}modes enough to decide if they can be treated as 10 pitch classes.
+>}I don't like the theory because it clings to the idea of diatonic
+>}harmony -- that all notes used in harmony must belong to the same key.
+>}I'd rather work out a chord sequence, and fit a melody to it.  Or,
+>}define a melodic mode, write a tune in it, and harmonise it
+>}chromatically.
+
+and Paul replied:
+
+>You can't deny that most Western music derives much of its beauty and
+>contrapuntal versatility from having both vertical and horizontal sonorities
+>taken from the same pitch set. These pitch sets have characteristic dissonant
+>intervals which allow a "tonic" to be defined and when the pitch set changes,
+>so does the tonic. In this way non-diatonic notes can anticipate a change of
+>tonality before that tonality also arrives.
+
+Actually, my statement looks stronger than I intended.  There are
+a number of reasons for which I like Paul's theory, and some for
+which I don't.  I mentioned diatonic harmony (is there a better
+term that doesn't imply a 7-note scale?) because it's an assumption
+that isn't explicitly justified in the paper.  I'm no expert on
+Western classical music, but I don't feel full blown tonality is
+for me.  There are a number of personal reasons for this.  I like
+the idea of decentered harmony in a post-relativistic world.  I
+feel that harmony, which grew out of modality, is mature enough to
+stand on it's own.
+
+Now I've been put on the spot, I suppose I'll have to justify my
+other objections, so here goes ...
+
+The criteria under "scale structure" are dispensable, but do have
+some value.
+
+I'd rather the scale worked with triads, as even just 4:5:6:7
+chords aren't consonant enough for me to use as a tonic.  This
+means the tonic has to be a 5-limit chord, as septimal diminished
+triads don't work that well either, and other 7-limit chords
+will tend to share their root with a 5-limit one.
+
+I don't like more than 7 notes in a key.  I can accept additional
+chromatic notes, but 10 is too many for me as the reference against
+which the chromaticism is added.
+
+I expect the scale, in its consonant limit, to be significantly
+_better_ than 12 equal in the 5-limit.  To my ears, a 5-limit
+chord progressing to a 7-limit one will almost always sound like
+an increase in dissonance in 22 equal, although the 7-limit chords
+are still tuned well enough to be contrasted against stronger
+dissonances.
+
+With these restrictions, I don't think 7-limit tonality will work.
+The best theory we have is that of the decatonic modes, and there
+is the potential for some great music to be written using it.
+It just won't be written by me.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk (Graham Breed) 
+Subject:  Reply to Gregg Gibson
+PostedDate:  17-12-97 20:31:49
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  17-12-97 20:29:49-17-12-97 20:29:50,17-12-97 20:29:27-17-12-97 20:29:28
+DeliveredDate:  17-12-97 20:29:28
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256570.006B15B9; Wed, 17 Dec 1997 20:31:35 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18328; Wed, 17 Dec 1997 20:31:49 +0100
+Date: Wed, 17 Dec 1997 20:31:49 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18333
+Received: (qmail 3548 invoked from network); 17 Dec 1997 10:42:58 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Dec 1997 10:42:58 -0800
+Message-Id: <memo.484619@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

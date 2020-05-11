@@ -1,0 +1,67 @@
+source file: mills3.txt
+Date: Fri, 30 Jan 1998 21:16:44 +0100
+
+Subject: Mixed-Mode
+
+From: Carl Lumma <clumma@nni.com>
+
+John Starrett wrote...
+
+>I don't know how easy it is, but I know it is possible to
+>place CDROM data on an audio CD. If there is a little room left over on the
+>tuning forum CD, it would be cool to include scores, photos, bio
+>material, etc. Does anyone here have experience creating mixed media CDs?
+
+It's no problem.  I do it all the time with my Cd-r.  It's all part of the
+standard, and any good Cd burning house should be able to do it.  And yes,
+I do think this is a good idea (although I am not a part of the project),
+since quite a bit of info could be fit on without taking up much music
+time, if it was done carefully.
+
+Paul Hahn wrote...
+
+>?? What do you mean by "regular" in this case?  And in what sense does
+>the rhombic docecahedron have "too many" vertices?
+
+By regular I meant just that the units in the tessellation are all the
+same.  Sometimes, the units themselves must be regular, which restricts us
+to the Platonic and Kepler-Poinsot solids (of which only the cube fills
+space), but I didn't mean that.
+
+I had a strange desire for the lattice to contain only one shape, like what
+is possible cubes or rectangular prisms.  If we make the 7-limit lattice
+out of rh-dodecs, then it doesn't make sense any more (at least not to me).
+ But you didn't mean to make the lattice out of rh-dodecs, you just thought
+that the fact that the lattice defines a bunch of space-filling rh-dodecs
+would pacify me.
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Alex <enkerli@iname.com>
+Subject:  Just sax
+PostedDate:  31-01-98 00:45:04
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  31-01-98 00:44:09-31-01-98 00:44:10,31-01-98 00:42:53-31-01-98 00:42:54
+DeliveredDate:  31-01-98 00:42:54
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125659C.00826021; Sat, 31 Jan 1998 00:44:02 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03028; Sat, 31 Jan 1998 00:45:04 +0100
+Date: Sat, 31 Jan 1998 00:45:04 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03026
+Received: (qmail 7996 invoked from network); 30 Jan 1998 15:44:17 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 Jan 1998 15:44:17 -0800
+Message-Id: <199801302341.SAA17850@ulys.POSTE.UMontreal.CA>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

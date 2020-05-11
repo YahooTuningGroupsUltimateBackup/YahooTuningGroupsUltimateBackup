@@ -1,0 +1,23 @@
+source file: m1484.txt
+Date: Fri, 24 Jul 1998 15:44:08 -0500
+
+Subject: Re: TUNING digest 1481
+
+From: Gary Morrison <mr88cet@texas.net>
+
+Dr_Orient wrote:
+
+> You're on the right track. The simplest acoustic timbre (to my knowledge) is that
+> of the flute, which approaches a pure sine wave (fundamental).
+
+   That is a widely-held misconception.  Almost all flute tones have a LOT of
+overtone content.  As with most winds, they have more overtone content in their
+lower register, and less in higher registers.  I'll attempt to ftp to where anybody
+who's interested can find it, a GIF file of a spectral decomposition of a flute
+tone.
+
+   A tuning fork is however, indeed pretty much a sinewave, which means that a
+"Rhodes"-style electric piano should be too.  After the attack transient, a
+vibraphone and glockenspiel have almost all of their energy in just two or three
+overtones, but they have a huge amount of wildly nonharmonic overtone content during
+the attack transient.

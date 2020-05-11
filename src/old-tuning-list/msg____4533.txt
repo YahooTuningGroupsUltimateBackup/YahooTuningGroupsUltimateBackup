@@ -1,0 +1,101 @@
+source file: mills2.txt
+Date: Sun, 5 Jan 1997 16:39:10 -0800
+
+Subject: Re: mod groups & rhythm
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+[I think I misfiled this and forgot to send it. If I already sent it, please ignore and forgive.]
+
+PAULE wrote:
+>
+> Gary wrote,
+>
+> >I suspect though that pitch and rhythm are fundamentally different when
+> >it comes to temperament.  Tempering pitches is meaningful because our ears
+> >hear in a manner that could perhaps be described as simultaneously in
+> >linear and logarithmic frequency scales.
+>
+> During my month away from the list, I too came up with the idea of rhythmic
+> temperament, and so was pleasantly suprised to find that it had been
+> discussed in my absence.
+>
+> Although Gary's point has some merit, perhaps he is forgetting that
+> logarthmic relationships arise from application of a given multiplicative
+> factor, in this case a ratio, several times. There is nothing in the nature
+> of rhythm that prevents this from having significance.
+>
+> For example, one can, in the course of a piece, reinterpret triplets as
+> quarter-notes, a rhythmic modulation by a factor of 3/2. Repeat this three
+> more times, and you will have accelerated by a factor of 81/16. Now
+> interpret every fifth note as the basic pulse, and you will be at 81/80 of
+> the original tempo.
+
+Check out a book by composer Henry Cowell titled, I think, _New Musical Resources_.
+He goes into metric modulation, and stacked polyrhythms or rhythmic chords, based
+on whole numbers.
+ 
+> Of course, no one will notice that you have not returned to the original
+> tempo.
+
+I disagree. Play anything you know to a metronome which is marking 80 beats per
+minute, then play it again at 81. Notice the difference in feel? I think the
+audience would as well. I forget which of the mainstream music newsmagazines
+lists the tempos of the most popular dance tracks in fractions of beats per
+minute, like mm 125.2, so other musicians, and DJ's, etc. can tune in to the
+narrow bands of most-fashionable tempos that people are responding to. A
+tempo difference of 125/124 can apparently affect the popularity of a tune.
+
+> But what if you had left the original tempo in place through the
+> entire process, in one voice or a drumbeat? You would want to come back to
+> it at the end. The polyrhythms in the middle of the process would be too
+> complex to hear mathematically, anyway, so why not "temper" them, so that
+> the 81/80 becomes a 1/1? Each time the triplets are introduced, they could
+> be played a tiny bit too slow, the exact amount of tempering being identical
+> to that of meantone tuning.
+
+The problem with tempered rhythms is in their combination. Tempered triplets say
+would drift if played against quarter notes; they wouldn't line up at the
+measure length. If this is what you want, then cool. An irrationally related
+duration set could give a nice effect of non-groundedness while retaining
+self consistency.
+
+If you want to do a series of metric modulations which end up at the same tempo,
+without having to temper them, make sure the same numbers which occur in the
+numerators also occur in the denominators.
+
+    2   3   2   1
+t * - * - * - * - t
+    1   2   3   2
+
+To make the progression not retrace the same steps, shuffle the order of numerators or
+denominators or both (without exchanging numerator with denominator):
+
+    2   2   1   3
+t * - * - * - * - t
+    1   3   2   2
+
+I wrote a piece which did something like this for The Martin Dancers here in Los Angeles.
+It repeated a "rhythmic progression" of meters related by common pulses.
+
+Something I wish to do with tempos and with pitch is to write progressions which
+repeat their link pattern but do not end up at the same place (using whole
+numbers, not tempered). I think this would sound neat. The simplest example is
+the "spiral" of continuous 3/2 fifth root motion, but nicer ones must be waiting
+out there too.
+
+Matt Nathan
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 6 Jan 1997 03:55 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02375; Mon, 6 Jan 1997 03:58:22 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02373
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id SAA01242; Sun, 5 Jan 1997 18:58:19 -0800
+Date: Sun, 5 Jan 1997 18:58:19 -0800
+Message-Id: <Pine.SCO.3.91.970105185237.26313D-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

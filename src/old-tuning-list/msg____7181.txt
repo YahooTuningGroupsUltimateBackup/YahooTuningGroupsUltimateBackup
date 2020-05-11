@@ -1,0 +1,24 @@
+source file: m1345.txt
+Date: Thu, 5 Mar 1998 17:27:14 -0500 (EST)
+
+Subject: Irix version of Scala up on ella.mills.edu
+
+From: Steven  Rezsutek <steven.rezsutek@hq.nasa.gov>
+
+I just plopped a version of Manuel Op de Couls Scala program 
+compiled or SGI machines on the mills ftp site in:
+
+   .../ccm/tuning/software/other/scala-1.41-IRIX5.3-binary.tar.gz
+
+(Yeah, I finally got one of those little beasts of my own. :-)
+
+It contains the same files as in the PC distribution, with the
+exception of the Irix executable.  Testing has been minimal,
+but I believe everything should work OK.  You'll need some
+external program to do tuning dumps [I'm still working on 
+getting something going myself], and will have to edit the .cmd
+files appropriately.
+
+Have fun.
+
+Steve

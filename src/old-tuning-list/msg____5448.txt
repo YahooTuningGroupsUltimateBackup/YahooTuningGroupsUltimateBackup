@@ -1,0 +1,98 @@
+source file: mills2.txt
+Date: Mon, 12 May 1997 18:55:37 +0200
+
+Subject: RE: Why x-ET?
+
+From: DFinnamore@aol.com
+
+Hello, Graham,
+
+Thanks for joining the fray!  This is good stuff.  Great sense of humor, too!
+
+You wrote:
+
+>It seems that a lot of people take it for granted that ETs will
+>be used to approximate JI intervals.  Hence this idea that ET
+>scales are the more mathematically complex.
+>...
+>On a frequency scale, an nTET interval will be a ratio of 2^(1/n).
+>No transcendental numbers and no logarithms.
+
+Huh?  I'm not sure Marion literally meant transcendental numbers; I took it
+to be a bit of tongue-in-cheek overstatement.  In any event, it seems evident
+to me that the math of roots and exponents is more complex than that of
+whole-number ratios.  If you can solve for the nth root of x in your head,
+and multiply it by the factor of the previous note of the scale in your head,
+you really do have some mathematical skills to show off!  And if I'm not
+mistaken, that math is necessary for ETs whether or not you're trying to
+approximate a JI tuning.
+
+>I consider small number ETs to be the less valuable
+>because the natural order, which can be made audible by
+>playing equal intervals in series, sounds pretty boring.
+
+This sounds like interesting analysis but I'm not sure what it means.  Do you
+mean that the larger the number of equal divisions of a given interval, the
+more musically useful the resulting scale?  If so, why?  If not, how small is
+small?  And why should a scale played in order be boring?  "Joy to the world"
+by G. F. Handel is a good example of musically interesting and effective use
+of scale tones in their "natural" order.  I must be missing your point.
+
+>If you're ignoring
+>JI, there's no reason why you can't take the logarithm of
+>frequency as your fundamental scale, because this is nearer to
+>human perception.  Then, ETs are a simple quantisation of this
+>space.
+
+This makes logical sense.  It is true that human perception of audio
+phenomena, pitch included, is essentially logarithmic.  But why does it make
+musical sense to simply quantize this logarithmic space?  I'm not saying it
+doesn't.  But I don't yet know of any reason that it should, either
+theoretically or experientially.
+
+>>nature is the best basis of judging any tuning
+>>system.
+
+>    doesn't hold unless you consider ETs to be less natural
+>than JIs.
+
+I do. :-) Sort of.  At least at this point I suspect that they are.  Part of
+my purpose in lighting this fire was to learn what relationships exist, if
+any, between ET tunings, musical acoustics, and psychoacoustics.  Some seem
+to be beginning to emerge on the list, in bits and pieces, and I'm compiling
+and summarizing them as we go.  I'll probably post my summary soon.
+
+If you haven't yet seen Ray Tomes' web site on Cycles in the Universe and
+Harmonics Theory - http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm - it
+explains much better than I could what I mean by "natural."  The whole cosmos
+apparently can be explained (scientifically, that is, not philosophically) in
+terms of harmonic overtones, and might even be thought of as a giant
+vibrating string.  This is traditional science, not metaphysics.  Talk about
+the music of the spheres!  The Big Twang.  I like his idea of AE0 Hz being
+quite literally "in tune with the earth," and the idea of "tuning" tempi to
+musical keys.
+
+And finally,
+
+>There's no reason why puns can't be implemented on a continuous
+>pitch model.  I'm thinking about software to do this.
+
+That's only if you can get some semblance of agreement on what the term "pun"
+means!  :-D  Good luck!
+
+David J. Finnamore
+Just tune it!
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 12 May 1997 19:15 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10037; Mon, 12 May 1997 19:15:34 +0200
+Date: Mon, 12 May 1997 19:15:34 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA10058
+Received: (qmail 22938 invoked from network); 12 May 1997 17:15:22 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 May 1997 17:15:22 -0000
+Message-Id: <970512130920_54059243@emout03.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

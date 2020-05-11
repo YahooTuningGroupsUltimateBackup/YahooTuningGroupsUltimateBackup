@@ -1,0 +1,128 @@
+source file: m1410.txt
+Date: Sat, 9 May 1998 14:56 +0100 (BST)
+
+Subject: More on instrument aperiodicity
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Paul Erlich wrote:
+
+> I'm not getting equivocal at all. The "simplified models", as Gary
+> observed, seem to handle the vast majority of cases. Dave Hill did
+find
+> specific values for the inharmonicities, which I would ascribe to
+> methodological errors, etc. But even if you don't believe me, and take
+> Dave's values for the inharmonicities, they are clearly of a different
+> order of magnitude (typically < 1 cent) than the departures of the
+> series of resonant frequencies from a harmonic series (typically
+dozens
+> of cents). That's what I've been trying to say.
+
+Hang on.  In TD 1392, Gary Morrison started the discussion with:
+
+>   Another consideration that deserves some thought along these lines
+is
+> that very few acoustic instruments have their overtones within 1 cent
+of
+> exact harmonics.
+
+Then you said
+
+> Last time we had this discussion, we agreed (I thought) that bowed
+> strings, winds, and brass instruments had exact integer harmonics for
+as
+> long as they sustain a consistent tone. That is a physical fact, true
+of
+> any system with a 1-component driver, which oscillates periodically
+and
+
+Firstly, I took "exact" to mean an integer to an infinite number of
+decimal places.  "How can anyone assert such accuracy?"  I thought.
+Also, the implication is obviously of far _higher_ accuracy than the <1
+cent previously suggested.  I also queried how you could be so sure that
+a reed or whatever is exactly a 1-component driver, but Gary made the
+point for me.
+
+You replied with a model for the operation of reeds/lips that assumed
+laminar airflow, and concluded with:
+
+> Hence the amplitude of
+> the partials can vary, sometimes wildly, rendering the waveform
+> aperiodic. However, for the time domains relevant for the ear's
+> analysis, this does not lead to any relevant alterations in the
+> frequencies of the partials.
+
+So, you're presumably still with exact integer ratios.  Maybe, though,
+you mean that pitch fluctuations place a lower limit on the pitch
+precision that is meaningful, and that inharmonicity is below this
+threshold.  It isn't clear.
+
+I presumed, with all the uncertainties in the construction of the reed,
+that resonance with the air column was the main factor governing
+inharmonicity, and was corrected on that point.
+
+If you're now saying that inharmonicities of a fraction of a cent are
+not physically impossible, I'm happy to concur with that.  My guess
+would be less than 0.1 cents, although I have no proof of that, and
+would like some.  Hopefully, we can stop theorising and wait for some
+more data.
+
+This is interesting, though:
+
+>>Any noise in the input will cause peaks at the resonant modes.
+
+> They are not really "peaks" so much as "hills" since there are no
+> constructively interfering standing waves to sharpen them. While the
+> noise energy will be spread throughout the spectrum, the energy from
+the
+> driver (reed, lips, bow) will manifest in Dirac-delta-function-like
+> peaks at harmonic overtones in the spectrum.
+
+Why couldn't they be reinforced by standing waves?  If the noise
+provides a constant impulse at all frequencies, that should lead to
+peaks at the resonances like with a flute, maybe still corrected by an
+order of magnitude towards harmonicity.  Whether this means two peaks
+occur close together, or the original peak is shifted slightly, I don't
+know.  Definitely smaller than the 0.1 cents for most instruments,
+though, because of the low noise level.  Maybe not even the only source
+of inharmonicity, but the easiest one to quantify.
+
+I'm not deliberately causing trouble here, only I usually agree with you
+and it distresses me when I don't.  Hopefully, this was just a problem
+of expression, and we can put it all behind us, marching defiantly
+towards a better future.
+
+
+> Listen, Gary and I have been defining systematic inharmonicity as
+cases
+> where, after the noise is removed, the partials deviate from a
+harmonic
+> series. Since noise doesn't exhibit interference effects, the only
+> inharmonicity relevant to JI is systematic inharmonicity.
+
+I can't find this definition anywhere.  I was assuming "systematic"
+meant the deviation from integers had to be constant from one cycle to
+the next.
+
+>>The resonances of flutes were also given relative to 12-equal.  They
+were
+>>up to 20 cents out!  It's only the flautist's skill that adjusts them
+to
+>>the desired scale.
+
+>The standard fingerings take this into account, in case you didn't know
+>that already. So, if knowing the standard fingerings is considered part
+>of "skill", then you are right.
+
+I can't go back and check now, but I think both cases were covered.
+Harmonics played by the performer were out by less than however else
+they were measured.  There is still a deviation with the usual
+fingerings, though, of quite a few cents.  Enough to scupper the
+difference between 12-equal and meantone.  Instrument manufacture may
+have improved since then, of course.
+
+The inharmonicity in the resonances is caused by the holes being there,
+and there's some complex relationship between this and the holes
+producing slightly the wrong pitches.  I didn't read it for long enough
+to be sure. I usually ignore acoustic instruments, but thought I'd
+better clue up for this discussion.

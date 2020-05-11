@@ -1,0 +1,278 @@
+source file: mills2.txt
+Date: Wed, 19 Jun 1996 09:45:41 -0700
+
+Subject: Post from Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: a possible misunderstanding of the psychoacoustic data
+---
+In Tuning Digest 708, Marion McCoskey stated:
+"[mclaren's] assertion that people don't prefer small whole number 
+ratios seems to me to rest on a somewhat shaky basis.  Upon watching
+archers shooting a targets, do we assume from the distribution of
+their arrows that they don't prefer hitting the bull's eye?"
+
+I'd like to point out why Marion's analogy is out of kilter.
+First, Marion's analogy presumes that the psychoacoustic test
+results for interval preference are distributed like arrows that
+miss a bull's eye.
+This is incorrect.
+Arrows that miss a bull's eye have a symmetric radical 
+distribution centered around the bull's eye.  The mean 
+value of the arrows' distribution is thus the center of 
+the bull's eye.
+But all the psychoacoustic tests done over the last 130
+years consistently show that the mean value for melodic
+interval preference is skewed much higher than the target
+small integer ratios--even though test subjects consistently
+*hear the intervals as "pure" and "just."*
+Vertical interval preference mean values are skewed slightly
+less high, but still significantly higher than the values predicted
+ by the small integer ratio theory of consonance.
+So let's change Marion McCoskey's analogy to reflect the actual 
+facts.
+In that case, all the arrows would always be grouped toward the
+top half of the bull's eye--but when the archers looked at them,
+they would see *all* the arrows as being exactly dead center in the
+bull's eye.   The archers could walk up, examine the arrows closely,
+and they'd still report all the arrows as being dead center of
+the bull's eye.
+This correct analogy is bizarre and counterintuitive enough that
+it captures the striking nature of the psychoacoustic results.
+
+But these are not the only problems with the theory of consonance
+according to small integer ratios.  J. Murray Barbour has pointed
+out other evidence against the small integer theory in his 1938 
+paper "Just Intonation Confuted," in Music and Letters,
+Vol. 19, 1938, pp. 48-60, when he adduces evidence that the
+tonal fusion of which Helmholtz spoke does not occur in the
+way or for the small integer ratios Helmholtz's theory predicts:
+"This extraordinary conclusion received complete and necessary
+confirmation through experiments conducted by Guthrie and Morrill 
+at the University of Washington.  They used the impressive number
+of 753 student observers and tested a far greater number
+of intervals--forty-four within an interval slightly larger than
+a fifth. The averages of such an array of judgments compel
+respect.  The best fused of all intervals tested was a major third,
+approximately the third of equal temperament, 2/3 comma sharper 
+than the just third. The preferred values for fifth and minor third
+were similarly sharp. This report states emphatically that no
+preference whatever was shown for just or for equally temered
+intervals, and that slight resemblance exists between curves of
+consonance and Helmholtz's theoretical curves.
+"These experiments prove conclusively that Helmholtz and his
+followers are wrong, that singers have no predeliction for the so-
+called natural or just intervals, not even the major third (5/4), the 
+interval which most surely distinguishes just intonation from equal
+temperament or the Pythagorean tuning."  [J. Murray Barbour, "Just
+Intonation Confuted," Music and Letters, Vol. 19, 1938, pp.  58-63] 
+Further on, Barbour points out:
+"Singers show no natural preference for these [just] intervals. They 
+are likely to overleap a desired pitch by a comma or more, after
+having swooped up to it from a whole tone below.  They are
+very fond of portamento.
+"Athough the great lack of accuracy revealed in artistic singing
+is mentioned here to destroy the myth that signers do use or
+can use just intonation, it by no means follows that the
+popular antithesis 'singers and musicians' is a truism. It is pointed
+out in [Carl Stumpf's] Iowa study that although 'singers in the 
+physical sense are never on pitch, in another sense, the 
+perceptual, they are heard as on pitch.'" [J. Murray Barbour, "Just
+Intonation Confuted," Music and Letters, Vol. 19, 1938, pp.  58-63] 
+Other  experiments from the 1990s show that "waves with the same
+period can lead to average octave judgments that differ 
+consistently by more than half an octave, and that a substantial
+component of many timbre differences is actually a tone-height
+difference." [Patterson, R. D., Robert Milroy and Michael Allerhand,
+"What is the octave of a harmonically rich note?" Contemporary
+Music Review, 1993, Vol. 9, parts I & 2, pp. 69-81]
+This flagrantly violates the small-integer doctrine.
+You can try some simple experiments that destroy the credibility
+of the theory of consonance according to small integer ratios
+on your own if you have a  precise tunable synthesizer or Csound:
+[1] Tune up the dyad 1: (sqrt(3/2)  i.e., the ratio
+1: 1.2247449   
+Starting at 320 Hz this would give a dyad with note
+frequencies of 320 Hz, 391.91836 Hz.
+Now tune up the dyad 45/32 and compare the two.
+(Starting at 450 Hz this would give a dyad with note
+frequencies of 320 Hz, 450 Hz.)
+Because the ratio 45/32 is a much smaller ratio than
+the irrational number (anathema to the mystic
+numerology of small whole numbers) square root of 3/2,
+the small-number consonance myth  predicts that 
+the  just intonation 45/32 tritone will sound more consonant
+than the geometric-mean neutral third.
+However, the irrational-ratio neutral third clearly sounds
+much more consonant.
+[2] Tune up 11/9 and compare it to 9/8.  Which sounds more
+consonant?
+The 9/8 uses smaller numbers and should please the ear more,
+according to the smaller integer theory of consonance.  But
+the 11/9 is clearly a more consonant interval. (Various forum
+subscribers will predictably claim that the ear hears the 11/9
+as a 5/4 or a 6/5 in this context.  That conflicts drastically
+with Harry Partch's experience and prescriptions--namely, that
+11-limit odentities and udentities are clearly and unmistakably
+heard as unique intervals with distinctive sonic characteristics
+entirely apart from the 5-limit odentities and udentities. Anyone
+who has listened to Partch's music knows this to be true. If you
+want to argue with Partch, you've got a real problem, because
+you're now arguing against the acoustic reality of limits higher
+than the 5-limit.)
+[3] Tune up a second inversion 4:5:6 chord--that is, a just major
+chord with a 4/3 in the bass, i.e., a 9:12:15 triad. Now compare it
+with a 10:12:15 minor chord.
+The 9:12:15 chord clearly wants to resolve to *something* because
+the 4/3 in the bass sounds discordant, whereas the 10:12:15 triad
+sits happily where it is, not requiring any resolution.
+Harmonic theory for more than four hundred years has recognized
+that a second inversion chord demands resolution--and yet 
+the progression of a 10:12:15 triad to a 9:12:15 triad clearly
+sounds like a progression from consonance to dissonance, while
+the progression of a 9:12:15 to a 10:12:15 triad clearly 
+sounds like a progression from dissonance to consonance.
+Yet this violates the myth of consonance by small integer
+ratios.
+(If you want to *really* blow away the small whole number theory,
+resolve a 9:12:15 second inversion major triad to an 18:22:27 
+root-position neutral triad. Again, a dissonance audibly
+goes to a consonance--yet the numbers go from small to
+pretty damn large.)
+[4] Tune up the ratio 3:5:7 and then tune up the ratio 18:22:27.
+Which one sounds more consonant?
+Clearly the neutral triad 18:22:27 sounds quite consonant, while
+the 3:5:7  just  triad sounds quite dissonant. Again,
+however, this violates the theory of consonance by small 
+integer ratios.
+[5] Tune up the 7:5 and then tune up the ratio 11:9.  Which
+dyad sounds more consonant?
+Clearly the 7:5 tritone sounds much less consonant than the
+11:9 neutral third, yet this too violates the theory of 
+consonance by small integers.
+Many forum subscribers will claim that the ear approximates large
+ratios by smaller ones automatically--this does NOT solve the
+problem, for it simply puts us on the slippery slope.    What's
+a "large" ratio?  And why doesn't the ear reduce ad infinitum?
+Where does the process of reductive approximation stop, 
+and why?
+This also sidesteps the dilemma of the just perfect fourth.
+In fact, the ratio 4/3 has bedeviled music theorists for thousands
+of years.  Lippius and Zarlino classed the just perfect fourth
+as a vertical consonance, while Marchettus of Padua classed it
+as a vertical dissonance.  Franco of Cologne, along with Boethius, 
+classed the diatessaron (perfect fourth) as a consonance--yet 
+Rameau and Mersenne classed it as a dissonance.
+Even today the disagreement continues, with the perfect fourth
+sometimes classed as a consonance, sometimes as a dissonance.
+My own music teacher told us "it depends on the circumstances,
+and it's very complicated."  Basically he threw his hands up 
+in the air.
+Yet according to the consonance theory of small whole numbers,
+the perfect just fourth should always be the third most
+consonant interval (2:1 first, then 3/2, then 4/3).
+Worse yet, Boomsliter and Creel reported in 1970 that
+"Incidentally, all of them [i.e., the test subjects] find the misnamed
+true [i.e., just intonation] scale to be dull and lifeless for all
+melodies.  They find it inferior to the tempered scale, while the
+tuning chosen for each melody sounded better than the tempered
+scale." [Boomsliter, Paul C. and Warren Creel, "Hearing With Ears
+Instead of Instruments," Journal of the Audio Engineering Society,
+August 9170, 18(4), pg. 407]
+Yet Boomsliter and Creel's referential search organ produced
+"preferred" pitches with far more complex ratios than the 
+simple small whole numbers of the natural (that is, JI) scale.
+Again, this violates (for melodies, rather than for
+vertical harmonies) the theory of consonance according
+to small integer ratios.
+So what have we got?
+Over and over again, small integer ratios are heard as dissonant
+both melodically and harmonically when the theory of
+small whole numbers predicts that they should be heard
+as consonant.
+Too, as Norman Cazden points out:
+"Traditional rules of harmony and counterpoint explicitly
+proscribe parallel successions of perfect intervals, though
+with the unaccountable excpetion of that same troublesome
+fourth when it is not in the lowest placement.  That this
+notorious ruling relates to some more abstract quality than
+is presented concretely in sonorous events is plain from its
+inapplicability to unison or octave parallels used `merely' 
+for 'doublings.' It is difficult to reconcile the standing 
+proscription with the purportedly superior 'consonant' 
+status of favored combinations.
+"The traditional rules for harmony and counterpoint alike
+regularly  proscribe that dissonances be resolved, and
+further that they be resolved wherever possible to imperfect
+consonances [i.e., triads], rather than to the supposedly 'better'
+perfect combinations.  Now the Law of Nature seems quite
+unable to account either for the permissibility of dissonance
+in music, or, if it be permitted, the need for such dissonances
+to be resolved. That such resolution is then best satisfied by
+second-rank or imperfect consonances therefore compounds
+the difficulties extremely.
+"Indeed, the recognized need for resolution appears thus to
+arise independetly of that Natural Law. At the least, it
+indicates that that Law cannot stand as the sole determinant
+of auditory judgment. The resolution relation also flatly 
+contradicts the Law's evaluation of the relative status
+of desirable intervals.  Thus at least some of the fundamental
+instructions for musical procedures, all of them
+demonstrably derived from the practices of leading 
+composers over many centuries, contravene the 
+premise of an inherently superior status for those 
+special relationships expressible in the simplest number
+ratios. " [Cazden, Norman, "The Definition  of Consonance 
+and Dissonance," International Review of the  Aesthetics 
+and Sociology of Music, 1980, Vol. 2, pp. 123-168]
+Worse yet, the small whole number theory of consonance
+has an shady and very unsavory past. 
+"In its most general axiomatic form, the Natural Law
+theory states that consonance results from the ratios
+of small whole numbers.
+"Crystallization of that axiom was ascribed by his
+disciples to Pythagoras, though undoubtedly its basis
+has been widely known to acient civilizations.  However,
+inseparably from the strictly musical relevance of the
+principles, the magic of 'numbers come to life as music'
+has long been linked more to the marvels of mystic
+cosmologies and numerological speculations
+than to any indications bearing on the practice of music
+as an art. It is accordingly noteworthy that for the purposes
+of speculative ventures devoted to wonderment over the 
+'harmony of the spheres,' the musical relevance tends ever
+to remain remote and elementary. Typically their relevations
+have applied more to the raw ingredients that are later
+transformed into music, to tuning formulas or to the derivation 
+and naming of scale degrees, than to musical relationships
+proper.  So tenuous and curiously pre-musical a handling is
+retained down to the present day in the fanciful use of musical
+metaphor that inspires the still extensive literature of
+number mysticism, such as occasionally also entices 
+students with musical training and experience." [Cazden, Norman,
+"The Definition of Consonance and Dissonance," International
+Review of the Aesthetics and Sociology of Music, 1980, Vol. 2,
+pp. 123-168] 
+As J. Murray Barbour put it, the theory of small whole number
+ratios "has always been a beautiful theory. Its devotees have been
+drawn chiefly from the ranks of mystics and philosophers--
+mathematicians who knew no music and musicians who knew 
+no mathematics." [Barbour, J. M., "Just Intonation Confuted,"
+Music and Letters, Vol. 19, 1938, pg. 60]
+--mclaren
+
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 19 Jun 1996 21:33 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA03772; Wed, 19 Jun 1996 12:33:45 -0700
+Date: Wed, 19 Jun 1996 12:33:45 -0700
+Message-Id: <v01510102adedec772f63@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

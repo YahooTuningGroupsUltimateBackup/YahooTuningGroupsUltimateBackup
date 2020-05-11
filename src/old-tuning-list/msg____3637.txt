@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Thu, 19 Sep 1996 12:55:13 -0700
+
+Subject: RE: Consistency generalized
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Thu, 19 Sep 1996, PAULE wrote:
+> Paul H.,
+> 
+> 	    I believe your original definition leads to consistency for level 
+> N>1.5. For 1<N<1.5, there is no guarantee that the approximating intervals 
+> will be consistent with one another.
+
+Yes, I noted that in my "erratum" followup message.  However, the
+algorithm I just posted in response to John Chalmers is correct.
+
+> 	    I don't think the concept of consistency has much to do with whether a 
+> particular JI interval is approximated well enough to be used as a harmonic 
+> consonance.
+
+I don't think that's exactly what I meant, or even what I said.  But
+anyway, see below.
+
+[bigsnip]
+> 	    What consistency offers is a supplement to considerations of how good 
+> the approximations to JI are. Essentially, composing with a consistent 
+> tuning will be no more difficult than composing in JI, while in inconsistent 
+> tunings, complications may arise if one attempts to always use the best 
+> approximations to JI intervals.
+
+Here's where we part company, I'm afraid.  I find level 1 consistency to
+be far too low a standard.  Very weird things can happen in level 1
+consistent tunings.  A simple example: 5TET is consistent at the
+5-limit.  A 16/15, represented as a 4/3 less a 5/4, becomes 2-2=0 steps,
+or a unison.  However, a 25/24, represented as a 5/4 less a 6/5, becomes
+2-1=1 step.  In other words, a larger interval becomes a unison while a
+smaller interval does not.  Maybe this doesn't bother you, but for me it
+causes cognitive dissonance.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Foul?  What the hell for?"
+     -\-\-- o        "Because you are chalking your cue with the 3-ball."
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Sep 1996 00:03 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30420; Fri, 20 Sep 1996 00:04:34 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA30369
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA09332; Thu, 19 Sep 1996 15:04:32 -0700
+Date: Thu, 19 Sep 1996 15:04:32 -0700
+Message-Id: <960919180214_105979133@emout07.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

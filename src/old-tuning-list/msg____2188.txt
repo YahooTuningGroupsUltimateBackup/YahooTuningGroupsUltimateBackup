@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Mon, 23 Oct 1995 10:59:33 -0700
+
+Subject: microtonal MIDI
+
+From: bf250@freenet.carleton.ca (John Sankey)
+
+I've used the method Brian described, of distributing music 
+across multiple channels according to note value, for some 
+time now to tune my MIDI harpsichord. It works perfectly for 
+me. In addition, if you use a modern computer and sound card, 
+you don't need a hard disk recorder - a 386 with Cubase and a 
+SoundBlaster 32 keeps up with 16 channels simultaneously in 
+real-time playback.
+
+--
+John Sankey              bf250@freenet.carleton.ca
+Music is Beauty, Beauty is Truth, Truth is Freedom
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 24 Oct 1995 03:39 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA26702; Mon, 23 Oct 1995 18:39:06 -0700
+Date: Mon, 23 Oct 1995 18:39:06 -0700
+Message-Id: <v01530500acb1f1ff9b82@[194.137.64.32]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

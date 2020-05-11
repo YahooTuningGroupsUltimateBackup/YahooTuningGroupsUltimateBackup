@@ -1,0 +1,64 @@
+source file: mills2.txt
+Date: Sat, 21 Sep 1996 14:45:50 -0700
+
+Subject: Misc. Comments
+
+From: John Chalmers <non12@deltanet.com>
+
+Kudos to Jonathan Walker for his very clear response to Scott's questions.
+I have had a similar experience when I once gave a lecture on microtonal
+music to a group of pathology residents and staff when I was on the
+faculty of Baylor College of Medicine in Houston. Attendance at path. 
+department seminars was really abysmal, so the organizer, who was also 
+my boss (we were studying the immunogenetics of retrovirus-induced 
+cancer remission in chickens , a lateral step for me from the fungi I 
+usually worked with) decided on SOMETHING COMPLETELY DIFFERENT to stir up 
+interest. Well, it worked and I had a large audience, but about a 1/5 the 
+way through, just after playing excerpts of Carrillo's Preludio a Colon 
+and some samples of  Harry Partch, the dept. chairman stood up asked what 
+all these numbers were. I then realized  that most people know very 
+little music theory and even many musicians are unfamiliar with the type 
+of 
+theory we discuss on this list. So, since then I've made a point of 
+starting with the basics whenever I speak to an audience.
+
+Re Complexity: I've tried both Erlich's and Hahn's complexity 
+algorithms (translated into BASIC) and have found them to agree for
+level 1 complexity in all cases I've tried. Perhaps it would be helpful 
+if Pauls E and H would repost their definitions of consistency. 
+
+BTW, back in the 60's, Erv Wilson defined "efficiency" a tuning for 
+an interval as the fractional accuracy, i.e., the  difference between 
+the best ET degree and the JI value divided by the step size. While using 
+the absolute value of the error is convenient, the sign of the efficiency 
+tells one if the approximation is sharp or flat of the JI value.
+
+I might also mention that Manuel's "pipedum" routine, presumably based
+on Fokker's concept of periodicity blocks in prime factor spaces (tonal
+lattices) illustrates the type of "weird" behavior described in your
+discussion. Various ET's are defined by the inter
+ which span 0 
+degrees of the temperament. For example, 5-tet is defined by the 16/15
+and 81/80, 7-tet by 25/24 and 81/80, and 12-tet by 128/125 and 81/80, 
+though other sets of kommata will also yield these temperaments (at 
+least in the case of 12; I haven't looked at the other two tets).
+
+Dan: I think your project is very interesting. Can you post some 
+references to studies of the relationship between brain electrical 
+activity and exposure to concordant and discordant musical intervals?
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 22 Sep 1996 02:54 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28280; Sun, 22 Sep 1996 02:55:42 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA26480
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id RAA15620; Sat, 21 Sep 1996 17:55:40 -0700
+Date: Sat, 21 Sep 1996 17:55:40 -0700
+Message-Id: <32448EE2.1BB9@sfo.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

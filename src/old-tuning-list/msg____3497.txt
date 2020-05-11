@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Fri, 30 Aug 1996 07:34:22 -0700
+
+Subject: RE: Re: TUNING digest 819
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Ed,
+
+>> If it is tuned "in frequency ratios of 4x:5x:6x:7x where x=some 
+fundamental
+>>frequency," then it is consonant. If it is tuned according to
+>>a diatonic scale with six consonant triads, it is dissonant.
+> Paul, the diatonic scale I use has many more than six consonant triads,
+>I don't understand....I tune according to a "root" not a scale. Please
+>elaborate on "dissonant".
+
+I don't know what you mean. Can you elaborate? This is what I mean. Take C 
+major, a common diatonic scale. As usually defined, it has six consonant 
+triads: C, Dm, Em, F, G, Am. These triads are in fact consonant when 12-, 
+19-, 31-tET, or meantone temperament is used to tune the scale. In all of 
+these cases, G B D F will be dissonant, and in meantone or 31-tET, a closer 
+approximation to a 4:5:6:7 chord built on G can be found than that which 
+arises from the diatonic scale. That chord is notatod G B D E#. However, 
+this chord will not sound correct in C major, despite its acoustical purity: 
+the note "F" is expected, and an out-of-tune version is put in its place. In 
+addition, the "clash" in G B D F is essential to the feeling that it needs 
+to resolve to the tonic chord, C E G.
+
+ -Paul
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 30 Aug 1996 19:06 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04083; Fri, 30 Aug 1996 19:07:50 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA09859
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA08099; Fri, 30 Aug 1996 10:07:48 -0700
+Date: Fri, 30 Aug 1996 10:07:48 -0700
+Message-Id: <199608301706.SAA10131@gollum.globalnet.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

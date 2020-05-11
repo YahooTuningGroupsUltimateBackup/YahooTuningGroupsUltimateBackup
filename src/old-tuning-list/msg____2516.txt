@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Wed, 31 Jan 1996 17:52:14 -0800
+
+Subject: guitar tuning
+
+From: "Adam B. Silverman" <Adam.B.Silverman@students.Miami.EDU>
+
+About Erik's query on guitar open tunings:
+
+I recently wrote a piece using elecric guitar tuned in a nearly-just 
+fashion.  The open strings were not-quite a G chord:
+
+I:   D     3/2
+II:  G     1/1
+III: C     4/3
+IV:  F7+   7/4
+V:   B     5/4
+VI:  C7+   21/16
+
+By accepting that 12TET fifths are pretty good, I could fret whole tones 
+(never semitones), fourths and fifths to get good vertical 
+sonorities in the 7-limit.  I kept modulations within these same rules, 
+but I guess that you don't have to do that depending on how critical your 
+ear and attitude is.
+
+The VI string is nice, because it allowed modulation to the key of "7", 
+although only "open" chords without thirds.  It also made for great 
+voice-leading down to the V string, straight across the neck.
+
+If you're interested, I'll send you a fretting chart for the whole neck.
+
+Adam
+asilverm@email.ir.miami.edu
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 1 Feb 1996 06:57 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id VAA20662; Wed, 31 Jan 1996 21:57:41 -0800
+Date: Wed, 31 Jan 1996 21:57:41 -0800
+Message-Id: <960201055234_71670.2576_HHB49-8@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

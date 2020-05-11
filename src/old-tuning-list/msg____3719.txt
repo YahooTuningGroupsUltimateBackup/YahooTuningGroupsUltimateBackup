@@ -1,0 +1,73 @@
+source file: mills2.txt
+Date: Thu, 3 Oct 1996 02:11:55 -0700
+
+Subject: More response to Paul
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+(1) Please read more carefully, my approach is independent of combination
+tones, and is not affected one way or another by their presence. This
+choice of independence - like the choice of just intonation as a mode - was
+made to streamline matters, including the avoidance of pitch  masking by
+spectra of pitches belonging to a harmonic series. My use of subharmonic
+characterization is strictly to identify a class of complexes that are more
+_efficiently_ (I am momentarily at a loss for a more precise word) heard
+not a part of a harmonic series. I know, for example, that I can hear,
+identify, and reproduce the sine wave complex 500, 600, 750 Hz. I hear it
+distinctly as a "minor" triad and neither as a mistuned harmonic series
+segment where 500Hz = 2^n nor as a harmonic series segment over the
+fundamental of 50Hz. 
+
+(2) Phase differences can have dramatic effects on pitch perception. With
+long duration sound installations, the relative phase positions are
+apparent in physical space. I recently heard an extraordinary installation
+by Hauke Harder in Copenhagen, where phase relationships were essentially
+the only dynamic element in the work. When phases were locked this entire
+quality disappeared. Young has worked with _drifting_ phases and has made
+some interesting psychoacoustical conjectures. (I have had similar - but
+not precisely so - experiences in recording sine wave complexes from my
+Rayna synthesize onto CD or DAT, where differences in sampling speed all
+but destroyed entire works). 
+
+(3) A spacing theory would be a method of analysis and not a theory of
+composition, although the information obtained might be useful to
+composers. Last time I checked, composers were free to proceed with or
+without a theory.
+
+(4) I believe your procedure is closely tied to western musical materials
+(I try to be a bit more global in my approach, but the simple matter is
+that the number of repertoires with pitch complexes of three or more
+members is limited; a parallel project of mine involves harmonization
+procedures for repertoires with melodic properties distinctive from the
+German folksongs upon which classical chorale harmonization is based); for
+this reason, a coupling of your algorithm with an approach to chord
+progression is worthwhile if not necessary, since your procedure demands
+parameters only close to those offered by traditional western classical and
+vernacular musics. In this (broadly defined) repertoire, contrast between
+harmonic structures is a (if not THE) defining feature.
+
+(5) For the Boomsliter and Creel example, I should have said harmonic
+_progressions_, for the choice of 224/128 over 7/4 was aopparently made in
+reference to position in a larger network of relationships, and not to a
+stretching preference (although Linus Liu recently sent me an example of a
+scale for Chinese music - which is primarily melodic - where a sequence of
+just melodic intervals leads to an octave stretched by 81/80).
+
+(6) I would appreciate it if some other readers would let me know if this
+material is interesting or whether we should take the colloquy private; I
+do not want this to burden anybody-s email facilities.
+
+Daniel Wolf, Frankfurt
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 4 Oct 1996 13:41 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00376; Fri, 4 Oct 1996 12:43:08 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00374
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id EAA01836; Fri, 4 Oct 1996 04:43:00 -0700
+Date: Fri, 4 Oct 1996 04:43:00 -0700
+Message-Id: <961004114052_71670.2576_HHB38-3@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

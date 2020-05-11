@@ -1,0 +1,67 @@
+source file: m1513.txt
+Date: Mon, 24 Aug 1998 02:18:10 -0700 (PDT)
+
+Subject: Re: Promenade tuning examples
+
+From: Mark Nowitzky <nowitzky@alum.mit.edu>
+
+Hi David; thanks for your email!
+
+At 03:03 PM 8/20/98 EDT, you wrote:
+>About a year ago I listened to these Moussorgsky examples and picked the
+>12-tET one.  Since then, I've learned that SoundBlasters respond to MIDI
+>pitchbend commands in unconventional ways.  This means that I was hearing the
+>ET one correctly, but the JI version was out of tune.  No wonder it sucked!
+
+When I pieced together the Moussorgsky MIDI files, along with other MIDI
+files reachable via http://www.pacificnet.net/~nowitzky/justint, I also
+found out that "pitch bend" did not seem to have a standardized
+implementation.  At the time, I was hoping I found the most-commonly-used
+implementation.  It seemed to be most often implemented as follows (where
+100 cents = an equal tempered semitone):
+
+        bend -8192 means "bend flat 200 cents
+        bend -4096 means "bend flat 100 cents
+        bend +0 means "don't bend it"
+        bend +4096 means "bend sharp 100 cents
+        bend +8192 means "bend sharp 200 cents
+
+In other words, I hoped it was 4096 per half-step, and that it was "linear".
+
+I haven't experimented with different sound cards too much, but so far I
+found out that some will completely ignore pitch bend commands, and others
+will bend the notes to some amount other than a half-step for a value of
+4096.  I even heard that the amount it bends for value 4096 can be some sort
+of user-changeable parameter, which might be okay for some sort of live
+performance machine with a real pitch wheel on it, but would give all sorts
+of weird sounds when trying to playback a MIDI file on a different PC.
+
+>Having now heard it on a Mac, which does respond to PBs in the standard way, I
+>must certainly retract my previous vote and cast it in favor of the 5-lim JI
+>version.
+
+I'm still rooting for 5-limit JI myself!
+
+I was considering having some sort of "test your sound-card" web page, to
+see if the user's sound card reacted the way it needed to get the desired
+tuning.  I stumbled across someone else's page that had some microtonal
+examples, that didn't work on my PC.  Instead of using "pitch bend"
+commands, it was using some sort of "system exclusive" commands, which I
+guess only worked on a particular manufacturer's sound card (It might have
+been for a Roland keyboard in this case).  Anyway, that page did have a
+"testing" option, which helped me see that I didn't have the right
+equipment.  It kept playing a note, saying that the note should be changing
+(and it didn't change on my lousy sound card).
+
+>Thanks for a fun and informative page!
+
+Thank you for the fun and informative email!
+
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu    AIM:  Nowitzky      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

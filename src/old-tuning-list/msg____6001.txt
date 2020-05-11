@@ -1,0 +1,44 @@
+source file: mills3.txt
+Date: Fri, 22 Aug 1997 18:39:24 +0200
+
+Subject: Re: Semitones etc.
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+Yes, that would have been me. It's not really a list of
+historically significant intervals but of intervals that have an
+exact ratio. One can find it under
+ftp://ella.mills.edu/ccm/tuning/papers/int_names.txt .
+There's also a Dutch and French version and one with a handful
+of Latin names.
+
+Manuel Op de Coul    coul@ezh.nl
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Denis.Atadan@mvs.udel.edu
+Subject:  Tape Swap Participants (ammended)
+PostedDate:  22-08-97 21:27:01
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  22-08-97 21:27:04-22-08-97 21:27:04,22-08-97 21:24:57-22-08-97 21:24:58
+DeliveredDate:  22-08-97 21:24:58
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564FB.006AD5EE; Fri, 22 Aug 1997 21:26:55 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19612; Fri, 22 Aug 1997 21:27:01 +0200
+Date: Fri, 22 Aug 1997 21:27:01 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA19620
+Received: (qmail 576 invoked from network); 22 Aug 1997 19:07:47 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 22 Aug 1997 19:07:47 -0000
+Message-Id: <199708221902.PAA12152@copland.udel.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

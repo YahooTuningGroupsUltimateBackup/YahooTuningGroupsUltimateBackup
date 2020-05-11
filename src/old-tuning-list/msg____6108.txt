@@ -1,0 +1,66 @@
+source file: mills3.txt
+Date: Thu, 18 Sep 1997 12:53:47 +0200
+
+Subject: Re: Writing Csound from Scala1.3
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+Hi Greg and everyone else!
+
+At 11:22 PM 9/17/97 -0700, Greg wrote (Digest 1182, Topic 2):
+>Date: Thu, 18 Sep 1997 10:09:18 +1000 (EST)
+>From: Greg Schiemer <gregs@mail.usyd.edu.au>
+>
+>Scala1.3 has a wonderful addition which I requested from Manuel Op de Coul
+>over the past few months. Thanks to him, my students are now using this
+>Scala command file to try out a musical passage in Csound with any of the
+>tunings in the Scales archive.
+>...
+>Mark, I think these examples are now ready to leave on your ... site.
+>They're my gift to everyone for everything I have got from the tuning
+>group. And a special thanks to Manuel for a great effort.
+
+Courtesy of Greg (and myself for staying up half the night to set it up),
+the aforementioned examples are now available at:
+
+        http://www.pacificnet.net/~nowitzky/justint/greg.htm
+
+As always, comments are welcome.  Thanks Greg!  Thanks Manuel!
+
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@pacificnet.net                      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  A440A@aol.com
+Subject:  Pianos, weather,temper
+PostedDate:  18-09-97 16:46:21
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-09-97 16:46:10-18-09-97 16:46:11,18-09-97 16:45:24-18-09-97 16:45:25
+DeliveredDate:  18-09-97 16:45:25
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256516.00511FBE; Thu, 18 Sep 1997 16:46:05 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06463; Thu, 18 Sep 1997 16:46:21 +0200
+Date: Thu, 18 Sep 1997 16:46:21 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA06555
+Received: (qmail 23650 invoked from network); 18 Sep 1997 14:44:11 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 18 Sep 1997 14:44:11 -0000
+Message-Id: <970918103720_1629153796@emout06.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

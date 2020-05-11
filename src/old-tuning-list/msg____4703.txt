@@ -1,0 +1,209 @@
+source file: mills2.txt
+Date: Thu, 30 Jan 1997 12:03:01 -0800
+
+Subject: Fretless Guitars.
+
+From: clucy@cix.compulink.co.uk (Charles Lucy)
+
+I appreciate the freedom that you have without frets, yet playing
+any sort of fretted chord becomes almost impossible.
+ 
+Fret positions for LucyTuned 19 & 31 frets per octave instruments.
+Intervals >      Large        small
+Ratios    >     1.116633     1.073344 
+cents     >   190.9858     122.5354
+ 
+Distance of Nut to Bridge 650   (Inches or millimetres)
+Fifth
+Guitar
+String            FIRST OCTAVE        IntervalSECOND OCTAVE
+NoteName Scale    Distance  Fret  Fret (L&s)  Distance  Fret  Fret
+Marks@ * Position NutToFret of 19 of 31 from  NutToFret of 19 of 31
+A     ** I        0.0000     0     0    Nut   325.0000  19    31
+Bbb      bbII    19.9923     -     1  (2s-L)  334.9962   -    32
+A#       #I      25.1987     1     2   (L-s)  337.5994  20    33
+Bb       bII     44.4160     2     3     s    347.2080  21    34
+Ax       xI      49.4205     -     4  (2L-2s) 349.7103   -    35
+B        II      67.8928     3     5     L    358.9464  22    36
+Cb       bbIII   85.7970     -     6    2s    367.8985   -    37
+B#       #II     90.4595     4     7  (2L-s)  370.2298  23    38
+C      * bIII   107.6696     5     8   (L+s)  378.8348  24    39
+Dbb      bbIV   124.3503     -     9    3s    387.1751   -    40
+C#       III    128.6942     6    10    2L    389.3471  25    41
+Db       bIV    144.7283     7    11  (L+2s)  397.3641  26    42
+Cx       #III   148.9038     -    12  (3L-s)  399.4519   -    43
+D      * IV     164.3163     8    13  (2L+s)  407.1581  27    44
+Ebb      bbV    179.2546     -    14  (L+3s)  414.6273   -    45
+D#       #IV    183.1449     9    15    3L    416.5724  28    46
+Eb       bV     197.5042    10    16  (2L+2s) 423.7521  29    47
+Dx       xIV    201.2436     -    17  (4L-s)  425.6218   -    48
+E      * V      215.0462    11    18  (3L+s)  432.5231  30    49
+Fb       bbVI   228.4242     -    19  (2L+3s) 439.2121   -    50
+E#       #V     231.9081    12    20    4L    440.9541  31    51
+F        bVI    244.7676    13    21  (3L+2s) 447.3838  32    52
+Ex       xV     248.1164     -    22  (5L-s)  449.0582   -    53
+F#     * VI     260.4773    14    23  (4L+s)  455.2387  33    54
+Gb       bbVII  272.4580    15    24  (3L+3s) 461.2290  34    55
+Fx       #VI    275.5781     -    25    5L    462.7890   -    56
+G        bVII   287.0943    16    26  (4L+2s) 468.5472  35    57
+Abb      bbVIII 298.2564     -    27  (3L+4s) 474.1282   -    58
+G#       VII    301.1632    17    28  (5L+s)  475.5816  36    59
+Ab       bVIII  311.8925    18    29  (4L+3s) 480.9462  37    60
+Gx       #VII   314.6866     -    30    6L    482.3433   -    61
+A     ** VIII   325.0000    19    31  (5L+2s) 487.5000  38    62
+The following list may trigger some useful ideas re:
+ 
+Alternative Guitar Tunings.
+ 
+The following alternative open and "slack-key" guitar tunings 
+are intended for use on LucyTuned Guitars.
+ 
+The same notenames may be used for 12 and other et systems, 
+plus meantone tuned guitars, (Pythagorean etc.), and will work 
+within the limitations of those tuning systems.
+ 
+[To achieve the unique LucyTuned harmonics and intervals, you will
+need a LucyTuned guitar, or to refret your instrument.]
+ 
+The open strings should be tuned to the frequencies assigned to
+the notenames in the corresponding tuning system.
+ 
+[eg for LucyTuned guitars with conventional notenames - 
+strings 6&1 (E) are tuned 4.5 cents flatter than 12et E; 
+4th string (D) 4.5 cents sharper than 12 et D;
+3rd string (G) 9.0 cents sharper than 12et G; and 
+2nd string (B) 9.0 cents flatter than 12et B.]
+ 
+* Notes marked * will be sharper than conventional tuning name.
+ 
+String numbers/  MegaMode
+& Notenames        Code         Open Chord             Name
+6  5  4  3  2  1
+ 
+E  A  E* E  A  E   1/0           A (no III)
+C  G  C  G  C* G*  1/0           C (no III)
+D  A  D  D  A  D   1/0           D (no III)       DadDad
+C  Bb*C  F  Bb F*  2/0      Fsus4 or Bb9 (no bVII or III)
+D  G  C  G  C* D   2/0      Gsus4 or C9 (no bVII or III)
+D  A  D  E  A  D   2/0      Asus4 or D9 (no bVII or III)
+D  A  E* E  A  A*  2/0      Asus4 or D9 (no bVII or III)
+E  A  D  E  A  E   2/0      Asus4 or D9 (no bVII or III)
+E  B* E* F# B  E   2/0      Bsus4 or E9 (no bVII or III)
+C  G  C  G  C* F*  2/0      Csus4 or F9 (no bVII or III)
+D  G  D  D  A  D   2/0      Dsus4 or G9 (no bVII or III)
+D  A  D  G  A  D   2/0   Dsus4 or G9 (no bVII or III) DadGad
+D  A  D  G  D* G*  2/0      Dsus4 or G9 (no bVII or III)
+D  G  D  G  A  D   2/0      Dsus4 or G9 (no bVII or III)
+C  G  D  G  A  D   2/0      Dsus4 or G9 (no bVII or III)
+C  G  D  F  G  C   3/0            Dm7 (noV) sus4
+B  F# B  E  A  E   3/0            F#m7 (noV) sus4
+D  A  D  E  A  B   3/0 E7 sus4 or A9 (no bVII) sus4 or D6&9 (no III)
+D  G  D  E  A  D   3/0 A7 sus4 or D9 (no bVII) sus4 or G6&9 (no III)
+E  G  D  G  A  D   3/0 A7 sus4 or D9 (no bVII) sus4 or G6&9 (no III)
+E  G  D  E  A  E   3/0 A7 sus4 or D9 (no bVII) sus4 or G6&9 (no III)
+D  A  D  A* C* D   3/2              D7 (no III)
+ 
+C  G  Bb Eb F  Bb  4/0            Cm7sus4
+C  G  D  D  A  E   4/0            D9 sus4 (no III)
+C  G  D  A* E* G*  4/0       D9 sus4 (noIII) (Robert Fripp)
+D  A  C  G  C* E   4/0            D9 sus4 (no III)
+D  A  D  G  C* E   4/0            D9 sus4 (no III)
+D  A  C  D  E* G*  4/0            D9 sus4 (no III)
+E  B* E* F# A  D   4/0            E9 sus4 (no III)
+D  A  D  F# B  E   4/0     E9 sus4 (no III) & D6&9 (no VII)
+E  A  D  F# B  E   4/0           E9 sus4 (no III) Lute
+D  A  D  G  B  E   4/0        A9 sus4 (no III) Em7 & G6 (Drop D)
+D  A  E* G  C* E   4/0             Am7 sus4 or C6&9
+E  A  D  G  B  E   4/0        Em7 sus4 or G6&9 (Standard Tuning)
+E  B* D  G  A  D   4/0            Em7 sus4 or G6&9 
+E  B* E* G  A  D   4/0            Em7 sus4 or G6&9 
+E  A  E* G  B  E   4/2          Em sus4 or A9 (no III) 
+E  B* E* G  A  E   4/2          Em sus4 or A9 (no III)
+D  Bb*D  G  Bb D   4/23            G minor
+D  G  D  G  Bb D   4/23            G minor
+E  A  C  E  A  E   4/23            A minor
+E  A  E* A* C* E   4/23            A minor
+E  B* E* G  B  E   4/23            E minor
+C# G# C# G#*C#*E   4/23            C# minor
+F#*A  C# A* A  E   4/3             F#m7 & A6
+C  G  C  G  A  E   4/3             Am7 & C6
+C  A  C  G  C* E   4/3             Am7 & C6
+Eb Bb*Eb*G  C* Eb  4/3             Cm7 & Eb6
+D  A  D  F  C* F*  4/3             Dm7 & F6
+D  G  D  G  B  E   4/3             Em7 & G6
+F* Ab C  Eb Ab Eb  4/3             Fm7 & Ab6
+E  A  C# A* C#*E   4/34             A Major
+E  A  E* A* C#*E   4/34         A Major (Open Blues)
+C  G  E* G  C* E   4/34          C Major (Cyail C)
+C  G  C  G  C* E   4/34           C Major (Open C)
+D  A  D  F# A  D   4/34           D Major (Open D)
+E  G# E* G#*B  E   4/34         E Major (Slide Blues)
+E  B* E* G#*B  E   4/34             E Major
+D  G  D  G  B  D   4/34      G Major (Taro Patch) (Open G)
+D  A  E  F# A  D   4/4              D9 (no bVII)
+E  C  E* G  C* D   4/4              C9 (no bVII)
+D  G  D  G  C* E   4/4              C9 (no bVII)
+C  A  D  G  B  E   5/0              C Maj9 + 6
+E  A  D  G  C* F*  5/0         F Maj9 + 6 (Chain of IVths)
+G* B* E* F# A  D   5/0              G Maj9 + 6
+B  F# C# D  A  D   5/3              D Maj7 + 6
+E  A  E* G#*C#*E   5/34             A Maj7
+C# A  C# G#*A  E   5/34             A Maj7
+D  A  D  F  Bb F*  5/34             Bb Maj7
+C  G  E* G  B  E   5/34         C Maj7 (Gabby C) Emb6
+E  B* E* G  C* E   5/34             C Maj7
+G* C* E* G  B  E   5/34             C Maj7
+D  A  D  F# A  C#  5/34             D Maj7
+D  A  C# F# A  E   5/4              F#m7b6
+D  A  C# E  A  E   5/45             A sus 4
+E  B* E* G#*B  D#  5/45             E Maj7
+D  G  D  F# B  D   5/45             G Maj7
+C  G  D  G  B  E   5/45             C Maj9
+F* Bb*C  F  A  D   5/45       Bb Maj9 (Wahine) Dm7b9
+C  D? G? G  B  E   5/45         C Maj9 (no III)
+C  G  D  G  B  C   5/45         C Maj9 (no III)
+C  G  D  G  B  D   5/45      C Maj9 (no III) Em7b6
+C  G  C  F  C* E   5/45         F Maj9 (no III)
+D  A  D  G  A  F#* 5/45         G Maj9 (no III)
+F* A  C  A* Bb F*  5/45              F sus 4
+Eb Bb*C  F  C* D   5/45            Bb9 sus4 (no VII)
+C  G  D  F  C  E   5/5            C9 (no bVII) sus 4
+F* A  D  G  B  E   6/2               Dm + Em
+D  A  D  G  C* Eb  6/236           Cm6+9 (no VII)
+E  A  C# G  C#*E   6/256               A7
+F#*A  C# A* A  D#  6/256              F#m6
+D  A  D  F# C* D   6/256               D7
+E  G# D  G#*B  E   6/26                E7
+E  B* D  G#*B  F#* 6/26                E9
+E  B* C# G  A  E   6/2                 A9
+E  A  C  G#*C* E   8/23678           Am Maj7
+D  A  D  F  C#*F*  8/2368            Dm Maj7
+E  B* E* G  B  D#  8/23678           Em Maj7
+Eb Ab E* F  B  Eb  9/35678        Fm7 Maj7 Aug 4 (no V)
+ 
+Charles Lucy 8th Feb 1995. (with new additions)
+for more info. see our website at
+ 
+http//:ourworld.compuserve.com/homepages/lullaby
+ 
+Replies, comments etc. to lucy@hour.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 31 Jan 1997 13:08 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA20745; Fri, 31 Jan 1997 13:08:36 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA20728
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id EAA27584; Fri, 31 Jan 1997 04:07:15 -0800
+Date: Fri, 31 Jan 1997 04:07:15 -0800
+Message-Id: <009AF2FFD68DCB96.1744@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

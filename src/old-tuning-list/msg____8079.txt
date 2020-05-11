@@ -1,0 +1,49 @@
+source file: m1447.txt
+Date: Sun, 14 Jun 1998 17:56 +0100 (BST)
+
+Subject: Re: Microtunable wishlist
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+John Loffink wrote:
+
+>Sorry, but it's true.  Writing some new code is one thing, but
+>manufacturers are not going to order their sound development groups to
+tune
+>everything to 0.1 cent accuracy just for us microtonalist's benefit.
+That
+>would be a huge labor effort on their part.  The idea is to keep this as
+>simple as possible, thereby raising the probability that these ideas
+will
+>be implemented.
+
+What difference does it make how the samples are tuned?  So long as you
+correct for mistuning, there shouldn't be problem.  That is, record a
+sample as being Eb, 0.32 cents sharp of equal temperament, or whatever.
+It's really easy to work out the pitch of a sample: count the number of
+bytes in the loop.  Anyway, give us a sampler and we can tune the samples
+ourselves.  And a lot of voices will use square or sawtooth waves which
+can be tuned accurately.  This isn't a good argument for poor tuning
+precision, even if it is the argument they give.
+
+Drew Skyfyre wrote:
+
+> Hate to be a wet blanket, but how many commercial synth co.s do you
+> think are actually ever going to implement realistic microtuning
+> capabilities ?
+
+Well, we can but ask.  Most manufacturers seem to be ignorant that we
+_want_ higher precision.  I prefer to focus my efforts on encouraging
+people to use the tuning capability they already have.  Hence my website
+-- now with an equal temperament page!
+
+There we are, had to get the plug in.
+
+> Ensoniqs do 0.4 [cents]
+
+Do they?  Have you tested the accuracy, or is this merely the precision
+of the tuning table?
+
+
+                     Graham Breed
+     gbreed@cix.co.uk            www.cix.co.uk/~gbreed

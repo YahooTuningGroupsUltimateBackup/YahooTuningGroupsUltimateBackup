@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Thu, 21 Dec 1995 13:18:36 -0800
+
+Subject: Re: The collapse of innovation
+
+From: czesanne@mail.hh.provi.de (Andre Ch. Schnoor)
+
+>Thus, for many microtonal applications, Ensoniq
+>synths remain the only real choice.
+>--mclaren
+
+I suggest considering the unique Waldorf WAVE and MicroWave synthesizers
+also. These fantastic devices allow very expressive and subtle sound
+programming (Wavetable synthesis, like the legendary PPG in the 80s). And
+they are great for microtuning. While the WAVE is a luxury device (>
+$8500), the MicroWave is affordable (about $2100) and sounds nearly the
+same (but is a rack mounting device instead of a fully equiped instrument).
+
+I use a MicroWave with the SoundDiver (Emagic) editing software and create
+microtuning tables with my own composing system "Leviathan" written in
+Objectworks\Smalltalk (similar to Symbolic Composer).
+
+I really *love* the clear and distinct, crisp sound of the Waldorf synth.
+
+Andy
+
+
+
+
+Andre "Czesanne" Schnoor
+Composer & Vocalist, Informatics (AI)
+Audioland International GmbH
+Hamburg (Germany)
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 22 Dec 1995 01:00 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA17037; Thu, 21 Dec 1995 16:00:01 -0800
+Date: Thu, 21 Dec 1995 16:00:01 -0800
+Message-Id:  <9512211559.aa14047@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

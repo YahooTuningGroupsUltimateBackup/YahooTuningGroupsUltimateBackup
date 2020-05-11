@@ -1,0 +1,29 @@
+source file: m1436.txt
+Date: Wed, 3 Jun 1998 14:37:35 -0400
+
+Subject: magic chord
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+I was playing around with a harmonica sound on my Ensoniq VFX-SD tuned
+as close as possible to JI (the scale being the JI version of the
+pentachordal decatonic scale of my paper, hence 12 notes per octave with
+two 50:49 "commas"). Playing the chord 1/1 5/4 3/2 7/4, and dropping the
+3/2 down to 7/5, I didn't hear much of an increase in dissonance. After
+some confusion, I realized that the only potentially dissonant interval
+in this chord is the 28:25 (196 cents) between 5/4 and 7/5. Now the
+Ensoniq's tuning tables allow cents values for each note, and I had
+approximated the other intervals in such a way that the 28:25 was
+nominally represented by 199 cents. Since the true tuning resolution of
+the Ensoniq VFX-SD is 512 notes per octave, this interval was probably
+represented by 85/512 octave, or 199.2 cents. This is only 4.7 cents off
+a just 9/8, which explains the relative consonance of the chord. It is a
+near miss to a saturated 9-limit chord. A true 28/25 would be 7.7 cents
+off a just 9/8, which would be quite a bit more dissonant.
+
+The difference between 28/25 and 9/8 is 225/224, a fundamental
+comma-like interval in Fokker's writings. So the magic chord 1/1 5/4 7/5
+7/4 will be possible in any temperament where the 225/224 vanishes. The
+simplest ET that sounds like 9-limit JI is 41tET, and the 225/224 does
+vanish in 41. The chord is 0 13 20 33 in 41. In 72tET, which sounds like
+11-limit JI, the 225/224 also vanishes. The chord is 0 23 35 58 in 72.

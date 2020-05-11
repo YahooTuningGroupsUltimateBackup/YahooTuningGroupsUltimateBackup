@@ -1,0 +1,36 @@
+source file: m1560.txt
+Date: Wed, 21 Oct 1998 18:31:51 -0400
+
+Subject: Re: Cancelling out beats
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Bram wrote,
+
+>I have a somewhat better idea of what I mean by 'beats' now. If take
+the
+>volume of a sound wave (I forget the three letter acronym off the top
+of
+>my head)
+
+RMS?
+
+>and express it as the sum of a bunch of volumes of individual
+>sine waves, (no, I don't know a simple way of doing that
+transformation)
+
+Is it unique?
+
+>the beats are the waves in the resulting summation which weren't added
+>together to get the original waveform.
+
+Sounds like you're talking about interference, which is a much more
+general phenomenon than beating.
+
+>I think making a sound whose timbre is a bunch of pure tones is even
+>easier - just take the derivative of the square root of the sum of
+their
+>squares, but that just seems *too* easy.
+
+I don't understand what you mean by that, but any sound can be expressed
+as a (possibly infinite) bunch of pure tones.

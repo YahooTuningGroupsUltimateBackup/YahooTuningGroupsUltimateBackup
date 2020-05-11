@@ -1,0 +1,56 @@
+source file: mills2.txt
+Date: Tue, 31 Oct 1995 19:20:49 -0800
+
+Subject: Scale generators
+
+From: Mmcky@aol.com
+
+Traditional JI scale generating methods are not suitable for
+generating exact JI scales to be played on current musical
+instruments.
+
+There are matrix methods, which multiply sets of frequency
+ratios, and there are cycle methods which multiply a single ratio
+iteratively.  All of them quickly generate a lot of scales, but
+they are, for the greater part, scales that can not be accurately
+reproduced on contemporary instruments.  Also, these methods are
+mostly indifferent to the consonance of the scales they produce.
+
+I use three methods which produce scales that will actually play
+on a given instrument, and which tend to select consonant scales.
+
+One obvious ploy, is to design an algorithm that only considers
+scales that can be represented on some target hardware.  My
+lcm60, filscal, and fil5 utilities fall into this category. 
+lcm60 searches through all the 5 limit scales that can be played
+on the sound blaster and picks out those with more than a given
+number of lcm60 chords.  In order to do this in a reasonable
+length of time, I had to resort to an exotic form of arithmetic,
+adding and subtracting factors instead of multiplying and
+dividing.  That is the reason I have only so far done this for 5-
+limit scales.  Going to 7-limit would expand the search space and
+make the programming more difficult.
+
+The fill method, starts with some arbitrary number, or numbers,
+and then searches through all the possible remaining notes, and
+selects the one which has the smallest LCM's with the existing
+notes.  This procedure is iteratively applied until the scale is
+filled.  fil5 restricts possible choices to 5-limit candidates.
+
+The lcmscal, and nulcm utilities select scales with lower LCMs. 
+While it is true that a scale with a low LCM may not necessarily
+produce chords with a low LCM, there seems to be enough
+correlation to make the method useful.
+
+Marion
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 1 Nov 1995 18:33 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA07446; Wed, 1 Nov 1995 08:33:41 -0800
+Date: Wed, 1 Nov 1995 08:33:41 -0800
+Message-Id: <00998C10A2A9F048.0A2B@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

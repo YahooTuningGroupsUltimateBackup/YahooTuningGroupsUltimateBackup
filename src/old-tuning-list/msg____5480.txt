@@ -1,0 +1,69 @@
+source file: mills2.txt
+Date: Fri, 16 May 1997 13:12:59 +0200
+
+Subject: JI Composition
+
+From: Mckyyy@aol.com
+
+Someone asked if there is a general method of composition in JI. 
+I'm going to be lazy this morning and not look up the specific
+quote.
+
+Considering that JI composition has been going on for at least
+centuries, probably millennia, and if you consider birdsongs and
+such to be compositions, perhaps aeons, I would imagine there are
+several established methods.
+
+I have used a method based on least common multiples.  Broadly
+speaking, the smaller the least common multiple of a chord, the
+more harmonious it sounds.  The LCM of a diad with the ratio of
+3:2 is 6.  The LCM of major/minor triads is 60, etc.
+
+My theory was that chords with smaller LCM's create patterns that
+repeat in a shorter time.  Paul E was kind enough to point out
+that theory was not exactly accurate, in the way I was using it,
+nevertheless, it seems to be of some use.
+
+So now there is the 'pure LCM' theory and the 'modified LCM'
+theory.  I wrote a music sequencer, FasTrak, which uses the 'pure
+LCM' theory.  I hope to write another someday that uses both.
+
+I believe FasTrak can still be downloaded by FTP from mmcky on
+AOL.  It requires an IBM pc and a basic sound blaster.  It needs
+to be run in DOS.
+
+FasTrak comes with a bunch of utilities for analyzing JI scales
+and creating chord sets that are useful for JI compositions. 
+These can be useful to someone studying JI no matter what the
+composition environment.
+
+On the subject of sampling and JI.
+
+As sampling is usually implemented, the tuning accuracy of an
+instrument may vary according to the particular sound being
+reproduced.  That is because samples of different lengths are
+used for different instruments.  In the world of
+'transcendental/irrational' tunings, where approximations are all
+that are available, this makes little difference, but for exact
+JI, it is a severe drawback, IMHO.
+
+The lack of tuning accuracy among current instruments, and the
+lack of disclosure by synth manufacturer's of tuning accuracy
+specs, makes the whole tuning discussion much more difficult than
+it needs to be.
+
+Marion
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 16 May 1997 14:08 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03692; Fri, 16 May 1997 14:08:13 +0200
+Date: Fri, 16 May 1997 14:08:13 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03690
+Received: (qmail 12467 invoked from network); 16 May 1997 12:08:09 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 May 1997 12:08:09 -0000
+Message-Id: <970516080614_88054208@emout16.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,47 @@
+source file: mills2.txt
+Date: Mon, 20 Jan 1997 12:47:30 -0800
+
+Subject: Re: TUNING digest 961
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+In 961 Gary Morrison wrote
+
+>    Also, I heard from a not-so-authoritative authority that .WAV files
+> encode ONLY the raw audio data, and do NOT encode sample size, sample rate,
+> nor number of channels.  Anybody know if that's true?  
+
+.wav files include
+Format (8 or 16 bit pcm)
+Sampling rate (11025, 22050, 44100 Hz)
+Number of samples
+Format (8 or 16 bit pcm, adpcm, etc.)
+Channels (mono, stereo)
+File size (total megs)
+
+I prefer .wav to .au, but for my taste they take to long to download.
+I have been impressed with Shockwave audio streaming. The player software 
+is a Netscape plug-in, and after a couple of seconds wait while the 
+buffer loads, real time digital audio begins. Although it is not .wav 
+quality, it sounds better than Real Audio. The speed of download may 
+make it suitable for musical "thumbnail" sketches. The Shockwave sample 
+site is
+
+http://www.macromedia.com/shockwave/new/vanguard/
+
+
+John Starrett
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 21 Jan 1997 02:52 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09974; Tue, 21 Jan 1997 02:55:57 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09994
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id RAA17657; Mon, 20 Jan 1997 17:55:53 -0800
+Date: Mon, 20 Jan 1997 17:55:53 -0800
+Message-Id: <Pine.A32.3.91.970120184646.30738B-100000@tiger.cudenver.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,58 @@
+source file: mills3.txt
+Date: Sat, 31 Jan 1998 02:02:21 +0100
+
+Subject: Re: Neil's Tuning CD Project
+
+From: "jloffink" <jloffink@pdq.net>
+
+> All-
+> 	I don't know how easy it is, but I know it is possible to
+> place CDROM data on an audio CD. If there is a little room left over on
+the
+> tuning forum CD, it would be cool to include scores, photos, bio
+> material, etc. Does anyone here have experience creating mixed media CDs?
+>
+> John Starrett
+
+This is the Blue Book standard which specifies the CD Extra standard, also
+known as enhanced CD.  It is a multisession CD with audio recorded on the
+first session and a data track recorded on the second session.  Early
+enhanced CDs had problems with the data track being playable by the CD
+audio players, creating horrible static noises if you inadvertantly
+selected that track.  The Blue Book standard fixes this problem.  However,
+some CD-ROM drives will not read multisession disks.  I don't have a CD
+Recorder myself and have no idea how much this would cost or how many audio
+mastering studios support it.  This could also eat into our allotted track
+times if we try to store bit map graphic files of a few scores or a lot of
+photos.
+
+John Loffink
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Andrew L. Kaye" <androsky@fast.net>
+Subject:  Re: West African Tunings TD 1314
+PostedDate:  01-02-98 00:10:05
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-02-98 00:09:10-01-02-98 00:09:10,01-02-98 00:07:52-01-02-98 00:07:53
+DeliveredDate:  01-02-98 00:07:53
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125659D.007F2D72; Sun, 1 Feb 1998 00:09:07 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03732; Sun, 1 Feb 1998 00:10:05 +0100
+Date: Sun, 1 Feb 1998 00:10:05 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03730
+Received: (qmail 10301 invoked from network); 31 Jan 1998 15:09:16 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 31 Jan 1998 15:09:16 -0800
+Message-Id: <34D3AE5D.FA40D176@fast.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

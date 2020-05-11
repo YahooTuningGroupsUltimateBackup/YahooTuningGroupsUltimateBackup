@@ -1,0 +1,250 @@
+source file: mills3.txt
+Date: Fri, 9 Jan 1998 19:32:06 +0100
+
+Subject: 22TET
+
+From: Carl Lumma <clumma@nni.com>
+
+>>"Special Way?" You are a Yes fan, you must be a Genesis fan too :)
+
+Actually, I haven't really heard much Genesis.  Since the 70's were before
+my time, I kinda miss the flow of stuff.  I got the YES and ELP down, tho...
+
+>>Wow, I strongly disagree. Virtually every music theorist who does not care
+>>about tuning issues understands harmony in terms of the diatonic scale and
+>>tonal functions. "Functional harmony" -- ring a bell? Unfortunately,
+>>virtually every alternative-tuning theorist does not so understand harmony.
+>>This is unfortunate. It seems that "music theory" is divided into two
+>>schools, and Carl is perhaps only familiar with the alternative-tuning
+>>school. There is much of value in the other school, Carl.
+
+I guess what I meant is, the idea of generalizing the rules for use outside
+of the diatonic scale is new.  I had one semester of High School and three
+semesters of Conservatory music theory, and one semester of Conservatory
+composition.  The composition class was all about wacky stuff, since the
+prof was into wacky stuff.  In the theory classes, we did learn the rules
+of functional harmony, and maybe there is an analog for most criteria in
+your "generalized" functional harmony...
+
+>>}The root of 2 part is understandable, considering that we need strong low
+>>}identies for our 7's to work.  This seems contradictory to the rule that
+>>}the higher identities are more sensitive to mistuning, since there are more
+>>}low-numbered fractions near them.
+>>
+>>I don't see any contradiction.
+
+There are apparently two ideas at work here...
+
+A) That higher limit intervals are more sensistive to mis-tuning "since
+they are more apt to be confused with other intervals".
+
+B) What I call Tonality, and what Partch calls "Observation One".  An
+effect created by the harmonic series, such that the number of pitches a
+given pitch will harmonize with is inversely proportional to the odd limit
+of the given pitch.
+
+Idea "A" seems to suggest that we temper the octave the most, the fifth the
+next most, and so on up.  But we can't do this without wrecking tonality,
+since the low identities provide that, as explained in idea "B".
+
+Both A and B are really one idea, in that they're both caused by the way
+superparticular fractions get closer to eachother, so there's no
+"contradiction", true.  But when tempering, it presents a trade-off
+situation, one which can't be well-addressed by just making the de-tuning
+inversely proportional to limit.
+
+>>}Paul's paper addresses this by making the standard deviation in
+log->>}frequency detuning inversely proportional to the limit of >>}the
+interval.
+>>
+>>That is not correct. I do offer this as an alternative model, but the first
+>>model, in which the standard deviation is constant for all intervals, is the
+>>one which yield the candidate tunings:
+
+I don't have the charts!  But it says that the candidate tunings are the
+same, except that 22 & 26 are no longer better than 12 at the 5-limit.
+Nowhere do you say your candidates must be better than 12 at the 5-limit.
+
+>>}So the list of scales comes down to 22, 26, 27, and 31 tone equal
+>>temperament.
+>>
+>>Can you suggest a way to make the paper less confusing on this point?
+
+On the point of what scales are in the candidate list?
+
+>>}The example of the diminished 5th is given, but why it should be
+>>}considered a type of 5th, or why the P5 should not be considered a
+>>}7th is not made clear.
+>>
+>>Are you serious? Count scale steps. Anyone in a traditional theory class
+>>could answer this blinfolded; perhaps I presumed too much of the traditional
+>>theory background when writing this paper.
+
+1) Conventional theory is full of holes.  The tritone is spelled as an
+augmented forth in certain contexts, and as a diminished fifth in others,
+but it's the same pitch.  All the enharmonics should be thrown out in 12.
+But that's just my opinion.  Why you consider it a type of fifth in your
+example was, in any case, not clear to me.
+
+2) The smallest step in 12 is the semitone.  Counting semitones, the
+tritone and P5 do not share the same number of steps.  Thus, the tritone is
+not a characteristic dissonance of the 5th in semitones.  So what kind of
+step did you mean?  I would expect a definition of "step" that would be
+good for all the temperaments the paper was looking at.
+
+Funny enough, I actually understand what you were trying to do with these
+characteristic dissonances in your criteria, but the lack of a robust
+definition from the beginning really hurt me.
+
+>>By the way, all the numbering and lettering in my paper is screwed up,
+thanks
+>>to Microsoft.
+
+I noticed that.  But why is it Microsoft's fault?  Did you used some
+automatic numbering scheme?  I hate that trend in software nowadays!  It's
+not already so easy that you can't do it yourself?
+
+>>I think 11TET would work much better for dissonant serialism than
+>>12TET, since 11TET is the most effective tuning for random >>dissonance,
+and 11TET is a subset of 22TET.
+
+You just had to get that in :~)
+
+>>}Far out avant garde music is certainly lacking of Special Way, if >>}not
+other things.
+>>
+>>And I do love far-out avant garde music like Henry Cow, when I'm in the
+mood for it. I love Phish when they go far out...
+
+I actually had written that there's a time and a place for far out stuff,
+but I deleted it for style considerations.  Do you mean Henry Cowell?  I
+got a great Cd with Set of Five, Four Combinations for Three Instruments,
+Hymn and Fuguing Tune #9, and Trio in Nine Short Movements.  Great stuff.
+And Junta!
+
+>>I think 22TET can take you a lot farther out than 12TET.
+
+Some of the far out music being done at Conservatories nowadays (like what
+the prof of my composition class and his graduate students were doing)
+really doesn't tune at all...
+
+>>You did not address the rest of my paper, such as my demonstration that
+22TET
+>>is virtually the best tuning for the decatonic scales. It may seem circular
+>>since I found the scales in 22TET, but one might have hoped for a better way
+>>of tuning them, which (perhaps unfortunately) does not exist.
+
+When I looked at the clock, I knew it was time to send.
+
+>>Modulatory effects only possible in JI -- can you give a specific example?
+
+I'm not the best person to ask, since the only JI I've done is on the
+Cosmolyra (everything in root position) and on an conventional organ tuned
+justly (only one key).  It just stands to reason that there are all kinds
+of effects, probably most of them un-discovered, based on the "anomalies"
+of JI.
+
+The Ben Johnston thing does come to mind, this quote of his appearing in
+one of your ancient posts...
+
+"I asked myself, suppose in writing some of the really very intense slow
+movements that he did, Beethoven had not had the tempered scale to work
+with, but had instead just intonation, what might that music have been?
+Then I tried to write that piece, as an exercise for myself. It's actually
+part of a piece--I liked it well enough that I put it into a piece. But at
+first of course it's just to find out. The richness is one thing, the
+flexibility is another. The typical Beethoven progression, for example will
+cause you to drop by a microtonal amount every time the progression repeats
+itself. What I did was to work it out that the pitch would drop, gradually,
+until the whole thing drops almost a half step, and then I force it to come
+back up by working out progressions that would make it do that. That is, of
+course, quite different from what Beethoven was dealing with."
+
+I've not heard the results of his efforts.
+
+Probably the greatest expert on modulation in JI who ever lived was Partch,
+and I'm sure I've heard effects not possible in temperament in Rotate the
+Body and Delusion.
+
+Bill Alves has said...
+
+>Functionally, it may make sense to Paul to interpret the 22TET intervals as
+>he has done above. However, I definitely hear the 10 step interval as being
+>much more like an 11/8 (551 cents) than a 27/20. The 11/8 can have a
+>beautiful blue-note quality, which I myself have exploited on occassion.
+>The 19 step interval is almost dead-on a 20/11 (1035 cents), whose
+>inversion, by the way, is a 5/4 down from the 11/8.
+
+Here I publish an analysis of 22TET from a larger work of mine, still in
+progress.  It lists low-numbered rational approximations of 22TET
+intervals, all within 7 cents deviation or better.  The number of steps is
+listed on the left, with the cents between that step and the tonic, rounded
+to the nearest whole cent, appearing to the right....
+
+ 1- 55
+ 2- 109
+ 3- 164 11/10 (1)
+ 4- 218 17/15 (1)
+ 5- 273 7/6 (6)
+ 6- 327 23/19 (4)
+ 7- 382 5/4 (4)
+ 8- 436 9/7 (1)
+ 9- 491
+10- 545 11/8 (6)
+11- 600 31/22 (6)
+12- 655
+13- 709 3/2 (7)
+14- 764
+15- 818
+16- 873
+17- 927
+18- 982
+19- 1036
+20- 1091 15/8 (3)
+21- 1145 31/16 (0)
+22- 1200
+
+..Even more to the right appear the rational approximations, with
+intervals listed only once (as otonality or utonality), so as to reveal the
+structure of the scale, if there is any.  The cent deviations are in () to
+the most right, and are of course the same for the inversions.  I used my
+own judgement for balancing cent deviation, prime limit, and odd limit when
+picking the rational approximations.
+
+Bill Alves assertion that the 11/10 is a 5/4 down from the 11/8 is
+confirmed by, and consistently represented in the above scheme.
+
+Please Note: How the intervals are heard depends on context!!!  I'm just
+throwing in my analysis here because sometimes a particular context seems
+to be assumed when giving rational approximations for the 22TET intervals...
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Prent Rodgers <prodgers@us.ibm.com>
+Subject:  MIDI/Audio wish list
+PostedDate:  09-01-98 20:36:03
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  09-01-98 20:35:37-09-01-98 20:35:38,09-01-98 20:35:30-09-01-98 20:35:30
+DeliveredDate:  09-01-98 20:35:30
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256587.006B9E9C; Fri, 9 Jan 1998 20:35:58 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17601; Fri, 9 Jan 1998 20:36:03 +0100
+Date: Fri, 9 Jan 1998 20:36:03 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA17551
+Received: (qmail 14386 invoked from network); 9 Jan 1998 11:35:52 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 9 Jan 1998 11:35:52 -0800
+Message-Id: <5030050002886855000002L552*@MHS>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,66 @@
+source file: mills2.txt
+Date: Thu, 2 Jan 1997 09:38:56 -0800
+
+Subject: RE: First Published Treatise in English
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>One phenomenon that I recall from trombone playing was the constant
+>correction of pitch (by lip and slide) so that the deficient harmonic
+>series of the tube would sound better. This may be taking place in vocal
+>performance as well.
+
+Daniel,
+	    Fourier proved that any periodic waveform can be expressed as the sum 
+of sine waves whose frequencies form an EXACT harmonic series. A brass 
+instrument is crafted so that its RESONANCES approximate a harmonic series, 
+but this relationship is not exact (a lot of further misconceptions surround 
+brass instrument physics). However, when playing a single note, the 
+resonances are DRIVEN by the lips of the player, which normally produce a 
+periodic waveform during the "sustained" part of the note. Therefore, an 
+EXACT harmonic series is available to drive the resonances of the 
+instrument. The closer these resonances are to harmonic, the more the 
+
+overtones will be amplified -- this is the principle behind successful brass 
+instrument design.
+Likewise, the human vocal cords, when employed in a steady, sustained 
+manner, produce a periodic waveform (though recently I have been able to 
+DOUBLE or occasionally TRIPLE the period of this waveform and sing an octave 
+or twelfth lower than would be normal -- undertone singing! I can then 
+emphasize different overtones of these really low notes for an amateur 
+version of throat singing). Overtone singing is just the process of shifting 
+the resonance to one or another of the harmonic overtones -- again, an exact 
+harmonic series results (of course, no one can maintain the pitch of the 
+fundamental perfectly, but that is a separate issue). Inharmonic series are 
+possible in large, essentially infinite-element vibrating systems like a 
+piano string, but brass and wind instruments and human voices are 
+essentially elaborate amplification devices for a single-element periodic 
+oscillator.
+
+>When ''overtone singing'' had its heydey, I recall
+>being disturbed by how unstable the fundamental was, and the constant
+>intrusion of beats, perhaps resulting from attempts to tune the harmonics
+>at the expense of the fundamentals.
+
+In light of the above, this doesn't really make sense.
+
+>La Monte
+>contends that one can sing Just intervals only through elimination of
+>beating
+
+Daniel, do you agree with LaMonte and if so, how do you justify doing JI 
+with beatless pure tones without invoking combination tones?
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 2 Jan 1997 19:26 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00810; Thu, 2 Jan 1997 19:29:23 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00808
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA09284; Thu, 2 Jan 1997 10:29:21 -0800
+Date: Thu, 2 Jan 1997 10:29:21 -0800
+Message-Id: <009ADC642B092160.0354@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

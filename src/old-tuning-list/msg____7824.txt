@@ -1,0 +1,81 @@
+source file: m1417.txt
+Date: Sat, 16 May 1998 13:11:14 -0400
+
+Subject: Re: TUNING digest 1416
+
+From: monz@juno.com (Joseph L Monzo)
+
+Paul Erlich wrote:
+
+> I think the fact that the tritone in major nearly forms a 4:5:6:7
+> with the dominant, and that the tritones in minor nearly form
+> an 8:10:12:14:17 with the dominant, were not inconsequential
+> for the development of tonal harmony.
+
+I don't think the fact that the tritones are close to septimal
+consonances has anything to do with the development of
+tonal harmony.  Tonal harmony, as used during the so-called
+"common practice" period 1600-1900, developed mainly out of
+the fixing of pitches as absolute values (especially in notation),
+the recognition of 5-limit ratios as consonances, and the intuitive
+realization that because ratios have two terms, they are
+related to other ratios in two different ways (Partch's
+"Basic Monophonic Concept #2": "every ratio of a Monophonic
+system is at least a dual identity"; "Genesis", p. 88), giving
+rise to the major/ minor system.
+
+In fact, assuming a tuning in 5-limit JI (or a meantone
+which approximates 5-ratios well), the tritone could be one
+of four ratios, all of which, while much less dissonant than
+the Pythagorean tritones:
+3^6		729/512		6.12	aug 4th
+3^-6		1024/729	5.88	dim 5th
+were pretty much at, if not beyond, the limit of what could
+be considered consonant:
+3^2 * 5^-2	36/25	6.31	dim 5th
+3^-2 * 5^-1	64/45	6.10	dim 5th
+3^2 * 5^1	45/32	5.90	aug 4th
+3^-2 * 5^2	25/18	5.69	aug 4th
+
+The 64/45 would normally be considered the tritone which appears
+in the 5-limit Dominant 7th chord of 36:45:54:64.  4:5:6:7 is the
+same as 36:45:54:63.
+---------------------------------------------------------
+> [Monzo:]
+>> (I'd really like to see more feedback about microtonality in
+>> the blues.)
+
+> [Erlich:]
+> I think this is a great topic, but I don't think ratios of large
+numbers
+> have much to do with it. I do think that many blues performers do
+> distinguish between 6/5 and 7/6, however, as well as approaching a
+> pentatonic scale in 7tET.
+
+I'm certain that some blues vocalists distinguish between 6/5 and
+7/6, and in Robert Johnson's vocals, I've heard a "sharp 9th" which
+sounds to me like it starts as a 7/6 then slides upward to a 19/16 -
+exactly the pitches we debated in the "Hendrix Chord", so my ears
+are especially sensitive to this distinction.  Johnson in particular
+exhibits
+such minute pitch discrimination in his vocals that I'm sure his "odd
+limit"
+is _well_  above 7 or 9.
+======================================
+Mark Nowitzky wrote:
+
+> P.S.:  Bassoons, on a sustained low note, also sometimes
+> sound to me like some sort of electrical problem.
+
+You should hear some of the sounds Johnny Reinhard
+gets out of his axe!  I've dubbed him the "Hendrix of
+the Bassoon".
+ 
+   Joseph L. Monzo
+    monz@juno.com
+   
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

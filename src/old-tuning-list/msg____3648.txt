@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Fri, 20 Sep 1996 08:26:18 -0700
+
+Subject: Pipedum
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+I regret having to announce that I encountered a serious bug in
+command "pipedum" in Scala causing often a wrong result. This command
+creates a JI scale from a set of independent defining intervals. So
+don't use it unless you are able to verify the result. The next Scala 
+version will have it fixed.
+"Pipedum" comes from the Dutch word parallellepipedum, in English:
+parallelepiped.
+I was trying to create a scale with the diaschisma and kleisma as 
+defining intervals and discovered it didn't have 34 notes as expected
+(in 34-tET the diaschisma and kleisma vanish).
+See also the posting of mine of 1 August 1995.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Sep 1996 20:39 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18638; Fri, 20 Sep 1996 20:41:28 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA16878
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA12071; Fri, 20 Sep 1996 11:41:17 -0700
+Date: Fri, 20 Sep 1996 11:41:17 -0700
+Message-Id: <20960920183902/0005695065PK1EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

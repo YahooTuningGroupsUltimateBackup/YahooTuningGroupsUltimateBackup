@@ -1,0 +1,88 @@
+source file: mills2.txt
+Date: Mon, 4 Nov 1996 07:03:18 -0800
+
+Subject: Re: notation
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> If more than a few cents variations are put in front of a performer, I'd
+> guess that either it wouldn't make any difference, or it would be
+> difficult, unless you want only gross approximations.
+
+   Actually you might be surprised, because there are patterns you can use to
+derive, and more importantly to remember, them.  One easy example is forked
+fingerings on woodwinds.  This is a little bit of an overgeneralization but it's
+mostly true:  The more toneholes you close below the highest opened tonehole the
+flatter that note gets.  Similarly on brasses, there are certain valve
+combinations that are known to tend to be sharp or flat.  So the problem is
+essentially one of quantifying and memorizing.  
+
+
+
+> > ...  Which scale step is this note relative to that tonic?
+> > How much sharp or flat is that 17TET note from the 12TET value that my
+> > instrument is designed to play?"  
+> 
+> I don't think so. In JI in particular, the relationships are important,
+> and you may not have to have a score, ... so that memorizing a relationship
+sign
+> isn't difficult, and no more so than a cents value.
+
+   Not too difficult you think eh?  Perhaps this isn't saying much, but I know
+that I couldn't do it.  
+
+   Let's assume that you have notation system that can augment each note-head
+with information for both frequency-ratio relative to a tonic, and with the
+choice of tonic itself (it would be pretty hopeless otherwise).  Let's also
+assume that tonics don't wander (without cent-based notation that would utterly
+hopeless although pretty feasible with it).
+
+   The composition is notated in C Major.  Two bars back you saw a notated
+tonic-shift to A, and somehow the notation somehow prescribes that to be a 5:3 A
+relative to the C of the key signature.  You encounter a sequence of four
+quarters in 4-4 time at 120bpm (a moderate pace of notes).  The notes are:
+
+                C# with an 11 over it (meaning 11th harmonic of the A),
+                D with a 4 over it (meaning the usual 4:3 to A),
+                B with a 10 over it (meaning 10:9 to the A),
+                F# with a 5 over it (meaning 5:3 to the A).
+
+OK, let's play it now.  Here's what you think:
+
+  "The shift to the A tonic happened four seconds ago, you got that, right?  It
+was an A right, or was it D like the last time?  Yeah, A.  OK the first beat of
+the is coming up measure;  better get the first note out.  A.  Let's see that's
+a comma-shift upward.  No downward.  Downward, right.  Everything is shifted a
+comma down from what the harmonics tell me.  First note C# as 11th harmonic.
+11the harmonic is pretty much right on a quarter tone.  So does that mean that I
+play a quartertone sharp or flat of a C#?  Flat, right flat; that's our
+convention.  Wowwy, this half-second-long beat sure has gone by fast!  
+
+   Whoah, that clarinet just played a real klinker on the half-beat there!
+Should I adjust my pitch?  No, that's OK, that's pretty much what it sounded
+like in our one-and-only rehearsal.  Never mind that; time's a-wastin';  I'd
+better get back to get this C# out!  OK so we've got a quartertone flat of a C#,
+so that's this fingering.  No wait, this is all relative to A, not C, so I have
+to go down a comma from there.  I guess that would be this fingering instead.
+Right.  OK ready to roll...  Now where's the beat?  Ooooookay, right ... NOW!
+Switch fingerings.  
+
+   How does it sound?  Ooop, a little flat.  Probably better lip it up a tad."
+
+   That's a pretty full half-second of your life!  Those extra steps of
+remembering how an 11th harmonic is tuned, and then offsetting that by how much
+an A is tuned relative to a C sure would be great not to have to work out!  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 4 Nov 1996 19:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04848; Sat, 2 Nov 1996 23:04:12 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA07099
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA03806; Sat, 2 Nov 1996 14:04:08 -0800
+Date: Sat, 2 Nov 1996 14:04:08 -0800
+Message-Id: <Pine.3.89.9611021709.A7069-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

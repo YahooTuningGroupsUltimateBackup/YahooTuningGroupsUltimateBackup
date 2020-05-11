@@ -1,0 +1,41 @@
+source file: m1446.txt
+Date: Sun, 14 Jun 1998 07:34:37 EDT
+
+Subject: A pitch for making synthesizers tunable to an accuracy of at least 0.1 cent
+
+From: <Ascend11@aol.com>
+
+I've worked in the area of computer music synthesis for a number of years and
+have had the experience of being somewhat limited in the tuning accuracy which
+I could achieve.  I believe that the difference between being able to set a
+pitch to within plus or minus 1 cent and being able to set that pitch to
+within plus or minus 0.1 cent could in some cases spell the difference between
+achieving a really powerful musical effect - a striking clarity of harmony,
+for example, and being "just on the edge" of achieving that effect but being
+unable to fully take advantage of it.  In fact, I suspect that many musicians
+would find themselves frequently frustrated by a limitation in tuning accuracy
+to plus or minus 1 cent, and actually prevented from being able to fully
+realize in actual music the real potential in their musical ideas.
+
+There is a paper in the Journal of the Acoustical Society of America Vol. 24
+No. 6 published in November 1952 by J. Donald Harris entitled: "Pitch
+Discrimination".  He tested three subjects with great numbers of repetitions
+and found that for sine tones at 2000 Hz the minimum frequency changes for
+which the subjects, with extensive practice, could distinguish between a step
+up in frequency and a step down in frequency were 2.4 cents for subject 1, 1.7
+cents for subject 2, and 1.3 cents for subject 3.  For sine tones at 1000 Hz
+and 500 Hz, the sensitivity was lower.
+
+These are results for pure sine tones.  For musical timbres and especially
+when notes are playing together and there may be beating effects which a
+musician would want to control accurately in order to produce the best
+possible sound, it would stand to reason that changing note frequencies by
+very small amounts - well under one cent - could in some cases greatly affect
+the effect created by the combination of musical tones sounding together.
+
+Dave Hill   La Mesa, CA
+
+------------------------------
+
+End of TUNING Digest 1446
+*************************

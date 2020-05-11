@@ -1,0 +1,157 @@
+source file: mills2.txt
+Date: Fri, 7 Jun 1996 16:41:00 -0700
+
+Subject: Post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Several more worthwhile papers
+--
+The journal "Music Perception" , Winter 1984, 2(2),
+pp. 131-165, carried the article "Tonal Schemata
+in the Perception of Music in Bali and in the West,"
+It's an interesting paper, but not nearly as useful as
+you'd imagine from the title--alas.
+The authors confined themselves to extremely
+low-level questions as: How well can Balinese
+listeners identify the place of a missing western
+pitch in a western scale as opposed to how well
+a western listenre can identify the place of a 
+missing gamelan pitch in a gamelan scale?
+The Balinese audience memebrs tested were
+reportedly members of a remote village with
+no previous exposure to western music.  This
+sounds unlikely on the face of it, and one is
+inclined to question the study on that basis.
+Nonetheless it's worth reading.
+>From Music Perception, Winter 1984 , 2 (2),
+pp. 245-264, the article "Studies in Musical
+Cognition: Comments from a Music Theorist"
+offer some enlightening criticisms of current
+higher-level experiments designed to elucidate
+elements of  human melodic and harmonic
+audition.  
+"A great many of the difficulties in psychology
+experiments have come from an ignorance of or
+naivete wth regard to tonality.  Four examples 
+will be given.
+"First, length was assumed until recently to
+be an important factor in both the `memorable-ness'
+and the `tonal-ness' of tunes; longer tunes carried
+more information than short ones.  This has been
+shown to be a false assumption."  
+You'd think this was obvious.  Yet it seems to have
+come as a revelation to music cognition researchers.
+C'mon, guys!  Obviously Mozart's 41st symphony 1st
+movement theme, while *long*, is *easy* to remember,
+whereas the much *shorter* theme of the first 
+movement of Webern's symphony is obviously vastly
+*harder* to remember.  Has anyone heard of the words
+"implied harmonic cues" and "tonal landmarks"?
+Jeez.  
+"Second, so called `tonal' tunes have thus far for
+the most part been defined simply as those 
+consisting of pitches drawn from some major-
+mode diatonic collection, whereas `atonal' tunes
+are obtained by drawing random pitches from the
+12-tone chromatic collection.  The notions that
+tunes could be diatonic but only weakly tonal
+or chromatic but also tonal have only begun to
+be articulated and refined."
+Yow.
+You'd think this  would be obvious.  
+Listening--that's the key, folks.  Ya gotta *listen* to those
+psychoacoustic test melodies before you use 'em...
+"Third, in music the relationship between frequency
+(pitch) distance and function distance is a 
+complex one..."  Again, a very clearly obvious
+point--pitches a 12-TET semitone apart represent
+opposing harmonies even though the notes are
+melodically close, while pitches 7 12-TET semitones
+apart represent harmonies close together even
+though the notes are melodically distant.
+Duh.
+Yet researchers are only now catching onto this...?
+"Fourth, tunes in the psychological literature,
+whether tonal or atonal, are still all too often
+characterized as sequences of signed note-to-note
+intervals.  Few notions of melodic structure 
+(certainly none based on a well-founded theory
+of implicit harmonic structure) have emerged."
+[Hantz, E., "Studies in Musical Cognition: Comments
+from a Music Theorist," Music Perception, Winter
+1984, 2(2), pp. 245-264.]
+These objections seem to explain very clearly why
+much of the current psychoacoustic and psychological
+and music cognition research in microtonality has
+failed so miserably to produce results as revelatory or
+enlightening as simply LISTENING TO NON-12 MUSIC.  
+In study after study, otherwise reliable reserachers
+like Carol Krumhansl come to obviously wacky 
+conclusions about such tunings as 48-TET, 19-TET,
+36-TET, etc.
+The reason for these obviously wrong concusions is
+that the researchers assume [1] that melodies in
+other tunings must exhibit the same melodic 
+structure as 12-TET; and [2] melodies in other
+tunings msut exhibit the same implied harmonic
+structure as 12-TET, with identical modes,
+etc. etc.
+Ivor Darreg pointed out long ago, as did Easley
+Blackwood, that other tunings often turn the
+rules of western harmony *upside-down.* Some
+tunings require that major thirds be treated as
+unstable dissonances which resolve DOWN until
+major seconds (17-TET) or UP into perfect
+fourths (Pythagorean ji).  Some tunings require
+that the fifth be treated as a dissonance (13-TET,
+18-TET, 23-TET, many of Erv Wilson's higher-order CPSs),
+while other tunings require that the fifth be treated
+as a consonance (22-TET, standard-limit ji arrays).
+In some tunings root progression by fifths produce
+the most powerful and convincing cadences (19-TET,
+7-limit ji) while in other tunings root progressions
+by other intervals produce the most powerful and
+convincing cadences (some of Erv Wilson's higher-
+level CPSs, 15-TET,  varius non-just non-equal
+tunings like the metal tube scale or the free-free
+metal bar scale).
+This explains why Krumhansl and other respected
+researchers keep "discovering" that 12-TET is "the
+best tuning" for melodies.   When you measure everything
+by a 12-TET yardstick, 12 looks best.
+You'd think that none of this would be controversial
+or astonishing, yet these ideas seem to wallop
+the psychoacoustics community with the force of
+divine revelation.  These folks are only now
+slowwwwwwwwwwwwwwwwwwwly awakening
+to the idea that you can't usefully measure non-12
+melodic or harmonic properties according to 12-TET
+melodic and harmonic standards.
+Wow.
+What a surprise, eh?
+Incidentally, these same considerations explain why
+Markov-chain analysis produces junk when you use it
+to analyze a piece of music and then compose an
+algorithmic piece.  Markov chains are blind to the
+the melodic contour, the implied harmonies, the
+sense of balance and unbalance, of parry and riposte
+in a melody. In this regard Larry Polansky's morphological
+metrics represent a major advance--so, naturally, no
+psychoacoustical researcher has yet employed Larry's
+breakthrough concept in any tests of microtonal melodic
+perception.
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 8 Jun 1996 19:50 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA11435; Sat, 8 Jun 1996 10:50:50 -0700
+Date: Sat, 8 Jun 1996 10:50:50 -0700
+Message-Id: <960608134834_322162012@emout13.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,63 @@
+source file: m1452.txt
+Date: Fri, 19 Jun 1998 18:16 +0100 (BST)
+
+Subject: Re: Prima Sound
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Paul Erlich wrote:
+
+>The text is a little bit ambiguous
+>as to the exact tuning. Can anyone decipher it from the .wav or .mid
+>files at the site? My guess is that it is based on a chain of four 7/4s:
+
+>Ratio		Cents
+>1/1		0
+>2401/2048	275
+>343/256		506
+>49/32		738
+>7/4		969
+
+Theory is apparently explained at http://www.primasounds.com/prima.html,
+but I can't retireve the page.  Maybe this is like the instructions to
+Mornington Crescent (to choose an analogy most people won't understand).
+
+>(although the page does suggest that "very little tempering" is used to
+>adjust these frequencies for some reason).
+
+With tuning to exact 7/4s, intervals between adjacent notes will be 8/7,
+except for one that is 44 cents sharper.  Tempering would be to make it
+more like 5-equal.  Analysing one of the .au files, this seems to be the
+case.  I make the scale this:
+
+                        1  8  64     7  2
+                        -  -  --  x  -  -
+                        1  7  49     4  1
+
+(They should look like fractions if you're in monospaced mode.)
+
+The note x is tempered midway between the two adjacent notes.  So, those
+intervals are 22 cents sharp of 8/7.  I measured this accurately enough
+that it can't be 5-equal.
+
+It is particularly difficult to count the cycles of the tempered note, but
+I think I've got it right now.  The answer I get is spot on to the nearest
+millioctave.  It may be they've done something clever like play the two
+just notes together.
+
+Gary Morrison wrote:
+
+>   Ever since I discovered 10TET's decent approximation to 7:4 (10TET
+>was my first microtonal tuning), I've found 7:4 a very nifty-sounding
+>interval.  But I really don't see any call for mysticizing it.
+
+To quote from the site:
+
+>The frequency and harmonics of the acoustic seventh interval are
+>dissonant with all of the other basic fractions. For this reason it is
+>said to have no place in Music.
+
+With friends like that does it really need enemies?
+
+                     Graham Breed
+     gbreed@cix.co.uk            www.cix.co.uk/~gbreed

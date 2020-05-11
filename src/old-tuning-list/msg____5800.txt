@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Wed, 9 Jul 1997 21:58:34 +0200
+
+Subject: Modulating dekanies by hexanies (was RE: Meantone, Partch)
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Paul Hahn wrote:
+
+''Hmm, sounds more like modulation in the signal-processing sense than inthe musical sense of the word.  Also, the result has, potentially, up to
+sixty pitches!  Isn't that rather overwhelming, cognitively speaking?''
+
+In fact, modulation of this sort is a primary resource in 20th century
+composition. Stravinsky's tonal resources included playing the octotonic
+collection against each diatonic transposition (and vice versa); Partch and
+Schoenberg multiplied a set of tone by their inversion (the row box and
+diamond are remarkably strange bedfellows); Boulez's ''multiplication''
+technique is another species of the same.
+
+As to the number of pitches, all of the tones of a hexany multiplied by adexany fit onto a stellate eikosany (which adds the pitches needed to fill
+out all of the hexads of an eikosany). Wilson has done some impressive work
+with the 70 tone, 4(8 ''Hebdomekontany'', including construction of a
+metallophone with all pitches; using similar kinds of transposition, I find
+it easy the tonal relationships easy hear, if difficult to play. Of course,
+any of these might be mapped onto closed temperaments...  As to the cognitive digestibility of such transpositions, it is entirely a
+compositional problem - to compose in such a way that the tonal
+relationships are projected audibly. I would venture that it is easier with
+a dekany and a hexany based on simple harmonic ratios than with any
+non-trivial 12 tone row.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 9 Jul 1997 23:32 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07913; Wed, 9 Jul 1997 23:32:49 +0200
+Received: from ns.NL.net by ns (smtpxd); id XA07896
+Received: from ella.mills.edu by ns.NL.net (5.65b/NLnet1.3)
+	id AA09483; Wed, 9 Jul 1997 23:32:46 +0200
+Date: Wed, 9 Jul 1997 23:32:46 +0200
+Received: (qmail 4655 invoked from network); 9 Jul 1997 21:19:26 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 9 Jul 1997 21:19:26 -0000
+Message-Id: <Pine.SOL.3.95q.970709161132.28443B-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

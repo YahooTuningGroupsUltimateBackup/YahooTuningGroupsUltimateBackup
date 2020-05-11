@@ -1,0 +1,92 @@
+source file: mills3.txt
+Date: Fri, 31 Oct 1997 16:24:12 +0100
+
+Subject: Erlich's Theory
+
+From: Carl Lumma <clumma@nni.com>
+
+>To recap some of my earlier postings and e-mails to J. Kukula:
+>
+>I do believe that the place and periodicity mechanisms are both at play.
+>I also believe that Plomp's model gives a fine account of the
+>place-related component of dissonance, which I like to call roughness.
+>Combination tones complicate the matter but with a knowledge of the
+>amplitudes and frequencies of all combination tone components, Plomp's
+>algorithm can be still applied. But a phenomenon called "virtual pitch"
+>or "fundamental tracking" is central to Parncutt's treatment of
+>dissonance and does represent, I believe, an additional factor besides
+>critical band roughness. This phenomenon is clearly distinct from the
+>combination tone phenomenon, but it may have a lot to do with
+>periodicity mechanisms. There is a very strong propensity for the ear to
+>try to fit what it hears into one or a small number of harmonic series,
+>and the fundamentals of these series, even if not physically present,
+>are either heard outright, or provide a more subtle sense of overall
+>pitch known to musicians as the "root". As a component of consonance,
+>the ease with which the ear/brain system can resolve the fundamental is
+>known as "tonalness." I have proposed a concept called "relative
+>harmonic entropy" to model this component of dissonance. The harmonic
+>entropy is based on the concept that the critical band represents a
+>certain degree of uncertainty in the perception of pitch, and for any
+>"true" interval, the auditory system will perceive a range of intervals
+>spanning a number of simple-integer ratios. Simple-integer ratios come
+>into the picture because if the heard tones are to be understood as
+>harmonic overtones of some missing fundamental or root, they must form a
+>simple-integer ratio with one another. The range is a sort of
+>probability distribution, and a certain amount of probability is
+>associated with each of the simple-integer ratios.
+>
+/...snip.../
+>
+>It's amazing I get any work done around here . . .
+
+
+But your work around here is very much appreciated.  It is due to my
+attending High School that my background in math is poor and/or
+non-existent.  High School physics had a similar effect on my understanding
+of acoustics, and I have had no prior exposure to the Plomp work outside of
+this digest since issue 1190 or so.
+
+However, I think I get the gyst of this.  I will have to go over it some
+more to be sure.  It seems that if you wrote a short book to explain this
+and other things about acoustics to the average musician, you'd be doing a
+service to mankind.
+
+So correct me if I'm wrong, but doesn't this tend to support that measuring
+the cent detuning of Just intervals does not messure change in dissonance?
+Wouldn't it also tend to support that a 2 cent detuning of the 19/16 could
+produce "a first-order qualitative difference"?
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  88CET Ear Training Tape Article
+PostedDate:  03-11-97 12:04:44
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  03-11-97 19:19:16-03-11-97 19:19:18,03-11-97 18:19:42-03-11-97 18:19:43
+DeliveredDate:  03-11-97 18:19:43
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256544.0064A1DF; Mon, 3 Nov 1997 19:19:10 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00737; Mon, 3 Nov 1997 19:20:21 +0100
+Received: from ns.NL.net by ns (smtpxd); id XA00735
+Received: by ns.NL.net (5.65b/NLnet1.3)
+	id AA18462; Mon, 3 Nov 1997 12:04:44 +0100
+Date: Mon, 3 Nov 1997 12:04:44 +0100
+Received: from ella.mills.edu by ns.NL.net (5.65b/NLnet1.3)
+	id AA15557; Sun, 2 Nov 1997 21:49:02 +0100
+Received: (qmail 28752 invoked from network); 2 Nov 1997 12:47:49 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 2 Nov 1997 12:47:49 -0800
+Message-Id: <v01541100b0824246248a@[207.207.2.124]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

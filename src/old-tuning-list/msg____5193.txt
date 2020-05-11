@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Tue, 25 Mar 1997 13:43:39 -0800
+
+Subject: RE: Indian music (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com> to John Clough
+
+Are you the Clough who co-wrote with Rowell the article on early Indian 
+scales and recent diatonic theory in _Music Theory Spectrum_? The article 
+showed that "second-order-maximal-evenness," along with one other property, 
+was sufficient to define the four rotationally distinct gramas of early 
+Indian theory. Well, I accidentally discovered that a slightly different 
+(but no more complex) definition of second-order-maximal-evenness is 
+sufficient to give you the gramas without invoking any additional 
+properties. If you are interested, I will discuss this definition.
+
+Incidentally, I believe the gramas resulted from tuning pure thirds and 
+fifths, which were then reckoned in terms of 22 degrees, which can be 
+explained in many ways. I don't find plausible the argument that the 22 
+degrees were a "universe" from which the scales were chosen. Nonetheless, if 
+one goes down that path, there is an easier derivation of the gramas than 
+that in your paper.
+
+ -Paul E.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 25 Mar 1997 22:46 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA16858; Tue, 25 Mar 1997 22:46:07 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03373
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id NAA06203; Tue, 25 Mar 1997 13:43:11 -0800
+Date: Tue, 25 Mar 1997 13:43:11 -0800
+Message-Id: <009B1CF40E3F1432.8A33@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

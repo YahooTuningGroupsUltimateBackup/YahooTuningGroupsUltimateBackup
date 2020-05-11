@@ -1,0 +1,81 @@
+source file: mills2.txt
+Date: Sat, 22 Feb 1997 06:58:01 -0800
+
+Subject: Diatonic Analysis Insufficient
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+> > [Matt Nathan]
+> > " The fact that
+> > the third of this chord lies close to the tonic of the key
+> > should not be taken to mean that they are both tonics of
+> > the key, one being "wandered", any more than the leading
+> > tone should be considered a "wandered" tonic, or the major
+> > third of the V of ii (near C# in C) should be considered a
+> > "wandered" tonic. "
+>
+> [Gary Morrison]
+> Frankly I wouldn't buy that. If the harmony makes clear
+> that you're playing a vi chord, then its third is the tonic.
+> That's built into the definition of diatonic triads.
+
+Sure, but definitions are not music. I say let the
+music make the definitions, not the reverse. Harmony
+can "make clear" at least two different chords which
+a simple diatonic analysis would be incapable of
+distinguishing. This leaves the analyser with a false
+dilemna of deciding which one is the correct chord.
+Either is correct, depending on the harmonic context.
+Here are the quickest progressions which get you to these
+two distinct chords while keeping one or more common
+tones between successive chords:
+
+1/1 5/4 3/2  (major triad built on 1/1 root)
+5/3 1/1 5/4  (minor triad on 5/3 root)
+
+and
+
+1/1 5/4 3/2  (major on 1/1)
+3/2 15/8 9/8  (major on 3/2)
+9/8 27/20 27/16  (minor on 9/8)
+27/16 81/80 81/64  (minor on 27/16)
+
+The first example sends us directly to the relative minor.
+The second example leaves us in a place that is distant
+from the original key and which sets up some tension to
+be unwound on the way home. It's a shame that these two
+chords are confounded by a diatonic assumption.
+
+If you decide "there are only 7 notes, so I will only
+use 7 notes", then you're going to have to use tuning
+systems which purposely incorporate distributed errors
+to consolidate (confound by single representation) the
+many pitch classes which would normally result from
+various (JI) root motions.
+
+> If the harmony is ambiguous enough to confuse a leading
+> tone with a tonic, then that would not fall within the
+> realm of diatonic harmony.
+
+If a diatonic analysis is crippled enough to confuse 81/80
+with 1/1, then it doesn't fall within the realm of usefulness.
+
+The wonderful ability of harmony to carry us into new areas
+is hobbled by having to reuse pitches from a previous context.
+As any jazz player knows, you "blow over the changes", you
+don't just keep playing the same scale.
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 22 Feb 1997 16:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14643; Sat, 22 Feb 1997 16:06:52 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA14648
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id HAA10363; Sat, 22 Feb 1997 07:05:03 -0800
+Date: Sat, 22 Feb 1997 07:05:03 -0800
+Message-Id: <009B04627D97D76F.3733@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

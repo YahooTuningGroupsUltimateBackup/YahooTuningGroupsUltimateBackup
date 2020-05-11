@@ -1,0 +1,28 @@
+source file: m1429.txt
+Date: Wed, 27 May 1998 16:56:54 -0500
+
+Subject: Re: Basic Just Intervals
+
+From: "Benjamin Tubb" <brtubb@cybertron.com>
+
+In reference to your original chart, I've revised and filled in the "blanks"
+with results from Mathematica. More accuracy is available <g>.
+
+   12TET       Just
+   Semitones   Ratio   Common Name      Cents Value
+
+    7           3/2    Perfect Fifth     701.955
+    5           4/3    Perfect Fourth    498.045
+    8           8/5    Minor Sixth       813.686
+    4           5/4    Major Third       386.314
+    9           5/3    Major Sixth       884.359
+    3           6/5    Minor Third       315.641
+   10          16/9    Minor Seventh     996.09
+    2           9/8    Major Second      203.91
+   11          15/8    Major Seventh    1088.27
+    1          16/15   Minor Second      111.731
+    6          45/32   Tritone           590.224
+
+-------------
+Benjamin Tubb
+brtubb@cybertron.com

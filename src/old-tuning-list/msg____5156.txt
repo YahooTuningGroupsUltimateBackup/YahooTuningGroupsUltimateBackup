@@ -1,0 +1,64 @@
+source file: mills2.txt
+Date: Thu, 20 Mar 1997 17:44:53 -0800
+
+Subject: RE: Prime/Odd-limits; omega functions
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Jonathan Walker writes:
+> Perhaps it would be better to use the Euler-Fokker notation, and simply 
+> list all the primes [p_1,p_2,...p_n] (according to the small-omega 
+> criterion) that are used in a given composition. 
+
+That's an interesting suggestion, but an indication would be needed for
+the case when an incomplete genus is used, to avoid confusion with
+complete Euler-Fokker genera.
+
+> OK, now I'd like someone to do me a small favour: could you give me the 
+> source in Euler for the specification of prime factors in musical 
+> contexts. Is there a brief English-language account of the Euler-Fokker 
+> notation? 
+
+- Euler, Leonhard. _Tentamen novae theoriae musicae_. Sint Petersburg,
+  1739. In _Opera Omnia_ series III volumen I, Teubner, Leipzig, 1926.
+- Rasch, Rudolf A. (ed.) _Adriaan Daniël Fokker - Selected Compositions,
+  with introduction by Rudolf Rasch_. Corpus Microtonale vol. 1, Diapason
+  Press, Utrecht, 1987, 217 pages.
+- Mandelbaum, Joel. _Multiple Division of the Octave and the Tonal Resources
+  of the 19-Tone Equal Temperament_. PhD Thesis, University of Indiana, 1961,
+  460 pages.
+But there are more sources in German, French and Dutch; see the bibliography.
+
+> For instance, is the convention to omit 
+> 2 from the list of primes, or to include it? Thanks. 
+
+An Euler-Fokker genus is what results if the tones of what Euler calls
+a "complete chord" are reduced within one octave. So the prime 2 is
+always omitted. Each prime is listed as many times as its
+multiplicity. A complete chord or genus musicum contains all the
+harmonics (including the first) of its fundamental, which are also
+subharmonics of its guide tone (i.e. the lowest common multiple of all
+tones). So for example the chord 1:3:5:15 is complete and 3:5:15 is
+not. If a lattice diagram is drawn of a complete chord it is always
+rectangular if you take one dimension for each prime.
+In a genus, any tone may be taken as the tonic. Genus [335] could be: 
+
+    A - E - B         C - G - D
+    |   |   |    or   |   |   |     etc.
+    F - C - G         Ab- Eb- Bb
+
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 21 Mar 1997 04:57 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07546; Fri, 21 Mar 1997 04:57:45 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07549
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id TAA21931; Thu, 20 Mar 1997 19:56:19 -0800
+Date: Thu, 20 Mar 1997 19:56:19 -0800
+Message-Id: <Pine.GSO.3.95.970320223835.2864B-100000@u3.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

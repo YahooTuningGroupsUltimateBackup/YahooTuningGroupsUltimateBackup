@@ -1,0 +1,58 @@
+source file: mills2.txt
+Date: Mon, 14 Jul 1997 21:48:40 +0200
+
+Subject: Re: Historical temperaments
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 11 Jul 1997, Joseph  Downing wrote:
+> It is true that there are a lot of people today who can tune a passable
+> 12TET with no more reference than a starting pitch.  But Jorgensen (thanks
+> for the name) and others point out that this technique was not known until
+> late in the nineteenth century.  There are no early  references to
+> counting beats per second, etc.  One of the feature of Meantone tunings
+> (and well-tempered tunings are a sub-category of mean-tone) is that they
+> depend upon finding the 'mean' pitch.  A common 18th century technique
+> would have you tune several intervals purely, then advise: Tune D to Bb
+> purely.  Now sharpen the D until Bb/D beats at the same rate as D/F#.
+> Most anyone without too much experience can do this.  It takes a LOT of
+> practice to hear 12TET thirds and fifths.
+
+1.  A fair number of writers were advocating 12TET by the mid-1700s.
+Most of them had plenty of experience tuning (and in some cases
+building) keyboard instruments.  Why shouldn't some of them have had
+sufficient practise to hear 12TET thirds and fifths?  (Someone once
+posted a quote from Werckmeister to this list in which he describes
+distributing the comma equally among all 12 fifths, then says that a
+circulating temperament sufficed for a local church, but only ET was
+suitable for a court.)  To be sure, having an exact scheme would make
+things much easier, but I don't see why someone with a good ear couldn't
+make a passable ET with enough fiddling.
+
+2.  A big problem with Jorgensen (many think) is that he makes too much
+of equal beating.  If you look at most surviving tuning instructions,
+they're worded far too vaguely for one to confidently presume that they
+actually refer to intervals beating _at the same rate_.  It's quite
+plausible that the language merely refers to the fact that tempered
+intervals beat, and that two intervals are tempered about the same
+distance from just.  It doesn't take Helmholtz to figure out that
+equally tempered intervals beat faster the higher they are in pitch.
+
+--pH <manynote@library.wustl.edu> http://library.wustl.edu/~manynote <*>
+    O
+   /\        "Foul?  What the hell for?"
+  -\-\-- o   "Because you are chalking your cue with the 3-ball."
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 14 Jul 1997 21:52 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12041; Mon, 14 Jul 1997 21:53:31 +0200
+Date: Mon, 14 Jul 1997 21:53:31 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA11889
+Received: (qmail 1156 invoked from network); 14 Jul 1997 18:53:15 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Jul 1997 18:53:15 -0000
+Message-Id: <Pine.SOL.3.95q.970714124257.17312C-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

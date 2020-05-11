@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Fri, 8 Mar 1996 07:48:36 -0800
+
+Subject: Paradoxical tones and circular scales
+
+From: thierry.rochebois@ief-paris-sud.fr (Thierry Rochebois)
+
+A circular scale consists in a set of spectra with defined tonal
+pitch (ie notes) and steady spectral envelope.
+
+So, when you play a melody like CDEFABC, the last C is the same as the first!
+
+you can find further information on my Web page at:
+
+http://www.ief.u-psud.fr/~thierry/welcome.html
+(select paradoxical sounds)
+There's also the schematics for a paradoxical tone generator!
+
+
+
+Thierry Rochebois
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 8 Mar 1996 17:38 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA11325; Fri, 8 Mar 1996 08:38:10 -0800
+Date: Fri, 8 Mar 1996 08:38:10 -0800
+Message-Id: <9603081536.AA00378@zeus.ief-paris-sud.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,25 @@
+source file: m1426.txt
+Date: Sun, 24 May 1998 21:40:53 -0500
+
+Subject: Re: Yamaha Tuning Info
+
+From: "jloffink" <jloffink@pdq.net>
+
+> From: gbreed@cix.compulink.co.uk (Graham Breed)
+> 
+> Contrary to what was stated previously, you _can_ set the carrier
+> on the TX81Z to a Hz value.  The precision depends on the register,
+> and is 1Hz at best.  This may correspond to the internal frequency
+> representation, in which case the tuning should be accurate.
+> Choose the right fundamental and it should work for JI ... except
+> the way it's set up I don't think it's any use.  Stick to tuning
+> tables, and put up with the imprecision.
+> 
+If the carrier is set to fixed frequency mode then it doesn't track MIDI,
+so it would be useful only for drones since the program only plays one
+note.  A non-multitimbral Yamaha FM synth wouldn't even be able to play a
+chord this way.  Besides, the frequency resolution is still less than the
+tuning tables.
+
+John Loffink
+jloffink@pdq.net

@@ -1,0 +1,69 @@
+source file: mills3.txt
+Date: Thu, 28 Aug 1997 19:23:47 +0200
+
+Subject: RE: Srutis
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Graham Breed wrote,
+>
+>>Incidentally, I had Ma-grama as 4 3 2 4 3 4 2.  Apologies to
+>>anyone who received perplexing e-mails from me based on this error.
+>
+>Actually, this is the correct description of Ma-grama starting on Sa (the
+>Hindu system tonic). Bill Alves' description (4 3 4 2 4 3 2) begins on Ma, or
+>sruti 0. In the ancient texts, Ma-grama is derived from Sa-grama (4 3 2 4 4 3
+>2, starting on sruti 0, called Sa) by raising the fourth note of the latter
+>by two srutis, and then rotating the note names (Sa -> Ma, etc.) so that Sa
+>remains what we would consider the tonic of a "major scale." Bill Alves'
+>description reflects the intermediate step in this derivation, and when the
+>two scales are compared side-by-side, they can be considered as subsets of a
+>single sruti system. However, when Graham's descriptions are placed
+>side-by-side, the fact that a single comma alteration was considered as one
+>sruti is clearly seen.
+>
+>The evidence that temperament was used lies in the fact that sruti 2 served
+>as a recognized chromatic alterations in both scales. It likely functioned as
+>16/15 in sa-grama and as 135/128 in ma-grama. Early instruments seemed to
+>have placed the fret for sruti 2 exactly halfway between the open position
+>and sruti 4. This indicates that a compromise was likely adopted so that
+>these two notes a diaschisma apart could be represented by one note. Graham,
+>I'm not sure whether you were trying to say that the specification comma=1,
+>diaschisma=0, leads unambiguously to 22 tones while your previous
+>specification comma=diesis could lead to 12, 22, 34, or 46. If this is what
+>you were saying, can you guide us through the math?
+>
+>In the 4th century texts, all 7 note names were shifted by one from their
+>modern definitions (I used the modern names above). Sa was the second note of
+>the "major scale," rather than the first note. Some have interpreted this
+>fact to imply that the archetypal modes for the two gramas were actually what
+>we would now call the "dorian modes" of those scales.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Paul-Hahn@library.wustl.edu
+Subject:  Re: J Carrillo
+PostedDate:  28-08-97 20:04:29
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  28-08-97 20:04:46-28-08-97 20:04:46,28-08-97 20:04:35-28-08-97 20:04:35
+DeliveredDate:  28-08-97 20:04:35
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256501.00634B86; Thu, 28 Aug 1997 20:04:34 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04310; Thu, 28 Aug 1997 20:04:29 +0200
+Date: Thu, 28 Aug 1997 20:04:29 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04303
+Received: (qmail 2990 invoked from network); 28 Aug 1997 18:04:21 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 28 Aug 1997 18:04:21 -0000
+Message-Id: <Pine.SOL.3.95q.970828125410.8795B-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

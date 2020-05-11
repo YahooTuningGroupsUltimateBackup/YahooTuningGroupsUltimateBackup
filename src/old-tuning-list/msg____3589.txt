@@ -1,0 +1,36 @@
+source file: mills2.txt
+Date: Tue, 10 Sep 1996 06:58:29 -0700
+
+Subject: Re: Babies and tuning
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> I find it interesting that tunners on this list cannot tell when music
+> is out of tune.
+
+   I'd say that it's not so much a matter of telling when a note is out of tune
+as devising a strict mathematically rigorous definition - or even a general
+qualitative definition - of what constitutes being in-tune.  Every careful
+studies I'm aware of suggests that singers players of indefinite-pitch
+instruments don't consistently follow any one particular standard.  
+
+   And then you have to answer the question of whether an exactly perfect 9:7
+third (for example) should be considered in-tune or out-of-tune.  It's out of
+tune if 2^4/12 or 5:4 is your basis for deciding, but, by definition, it's
+exactly in-tune if 9:7 is your goal.  
+
+   We probably need a few more words or phrases to describe these new concepts.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 10 Sep 1996 17:52 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07876; Tue, 10 Sep 1996 17:54:20 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA07813
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA02211; Tue, 10 Sep 1996 08:54:13 -0700
+Date: Tue, 10 Sep 1996 08:54:13 -0700
+Message-Id: <199609101551.XAA13289@hk.super.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

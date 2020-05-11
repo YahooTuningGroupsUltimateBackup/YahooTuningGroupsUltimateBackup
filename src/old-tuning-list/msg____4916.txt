@@ -1,0 +1,93 @@
+source file: mills2.txt
+Date: Thu, 27 Feb 1997 11:04:21 -0800
+
+Subject: Re: Meantone Explanation
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Gary Morrison wrote (2/2/97):
+
+>    Or relative to the tonic anyway; 15:8 is of course is mediant 
+> of the dominant, so perhaps one could argue it that way.  Perhaps 
+> one could argue that fifth comma meantone was devised to make the 
+> third of V-chord just in the same sense that third-comma meantone 
+> makes the IV-chord just.  That combined with the fact that the 
+> total error between the third of I (the mediant) and the third of  
+> V (the leading tone) is smaller that way.  In the quarter-comma 
+> meantone case, the mediant's error is 0 and the leading tone's is 
+> 1/4 comma, whereas in fifth-comma meantone a total error of 1/4 
+> comma, the mediant's is 1/5 comma, and the leading tone's is 0, a
+> total of 1/5 comma.
+
+I've been trying to catch up with a lot of list messages, and among 
+them I noticed the above passage; I've looked for a subsequent 
+retraction/correction but can't find any; I've also tried squinting 
+at it in various ways in the hope that the words will somehow make 
+sense, but with no success.
+
+First, an ad hoc definition: let's call any key (or mode) that is 
+in keeping with the chosen set of pitch classes in a meantone 
+system an "available" key (or mode). In this context, I am 
+excluding the notion of enharmonic equivalence from  "pitch class". 
+On a keyboard of twelve notes to the octave, for example, the most 
+common choice of pitch classes (in the 15th/16th centuries) was:
+
+            C, C#, D, Eb, E, F, F#, G, G#, A Bb, B
+
+Given this choice, the major keys of Bb, F, C, G, D and A are all 
+"available", in the given sense (I am speaking only of the 
+availability of pitch classes for precisely these keys -- of course 
+even a simple piece in Bb is likely at some stage to require an Ab, 
+and similarly for the rest). No other major keys are available, 
+since they must utilise wolf intervals, e.g. the dominant triad of 
+E major will consist of a diminished fourth plus an augmented 
+second in the given meantone tuning, rather than a major third plus 
+minor third. I know perfectly well that this is all common 
+knowledge, but I have to get the issue of enharmonic equivalence 
+out of the way to avoid confusion.
+
+Now in any available key, thus defined, a given interval type is 
+uniform in size, not only in this key, but also in all other 
+available keys. Thus, in a given meantone tuning, the third from C 
+to E will be the same as the third from F to A and the third from G 
+to B. In 1/4-comma meantone, all these major thirds will be just, 
+as will any major third in any available key. In any other meantone 
+tuning, the major thirds in available keys will not, of course, be 
+just; for any meantone tuning based on a rational power of the 
+syntonic comma, there will, of course, be at least one just 
+interval class, but aside from 1/4-comma, where maj. thirds and 
+min. sixths are just, the only other meantone which was chosen (in 
+the period from 15th - 17th centuries) to produce just intervals of 
+musical interest  was 1/3-comma, with just min. thirds and maj. 
+sixths.
+
+What on earth, then, is the meaning of the passage quoted at the 
+top?  The fact that 1/5-comma meantone has just, i.e. 15/8, major 
+sevenths in no way distinguishes the tuning of the dominant chord 
+in an available key from the tuning of the tonic chord; likewise, 
+1/3-comma doesn't distinguish between the tuning of subdominants 
+and tonics in available keys.
+
+In any available key, a given meantone system will no more favour 
+one triad over another than it will favour one presidential 
+candidate over another.
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 27 Feb 1997 21:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA32146; Thu, 27 Feb 1997 21:06:38 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA32241
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id MAA26696; Thu, 27 Feb 1997 12:04:28 -0800
+Date: Thu, 27 Feb 1997 12:04:28 -0800
+Message-Id: <v02130505af3b931e4813@[192.168.11.206]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,68 @@
+source file: mills2.txt
+Date: Sun, 21 Jan 1996 04:53:03 -0800
+
+Subject: Re: Manuel Op de Coul's list
+
+From: brg@netcom.com (Bruce R. Gilson)
+
+COUL@ezh.nl (Manuel Op de Coul) wrote:
+
+
+>Your presumption that all of the modes in the list are selections from
+>ET scales is wrong. Many of them can indeed be but for most it is
+>not a requirement. If I have been vague about it, I apologise.
+
+The notation seemed to imply it. When
+you give only a "number of steps in an
+octave" and the number of steps between
+consecutive notes in the scale [as
+2 2 1 2 2 2 1 for a standard major
+scale] you have something well-defined
+only in ET.
+
+>Messiaen's modes work best in equal temperament. The Indian modes
+>aren't necessarily used in just intonation, take the popular harmonium 
+>for instance, which is tuned more or less equally.
+>The Arabic 17-tone modes are to be taken from this scale:
+> 256/243 65536/59049 9/8 32/27 8192/6561 81/64 4/3 1024/729 262144/177147 3/2
+> 128/81 32768/19683 27/16 16/9 4096/2187 1048576/531441 2/1.
+
+All the scales that are based on ration-
+al frequency ratios need such a chart
+in addition to the list you provide in
+order to be useful.
+
+>The modes of the Indian shruti scale are also not for ET, though the
+>theory of shrutis is not universally accepted among Indian
+>musicologists and you see different proposals for the frequency
+>ratios. 
+
+I suppose that what I'm looking for is
+something that would enable me to re-
+liably reproduce any scale that has a
+name. Your chart, for equal-tempered
+scales, does that (for the ones you
+provide, but obviously any you've
+missed can be added). But for non-equal
+scales, it still misses the one thing
+that makes it useful to my purpose, the
+precise ratios that the 12, or 14, or
+however many, steps are supposed to
+mean.
+
+I like your format, and I'd like a
+table such as yours to serve as a base
+for what I'm trying to do.
+                     Bruce R. Gilson
+                     brg@netcom.com
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 21 Jan 1996 14:56 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA01181; Sun, 21 Jan 1996 05:56:46 -0800
+Date: Sun, 21 Jan 1996 05:56:46 -0800
+Message-Id: <0099CB98E5E81BF1.7ED2@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

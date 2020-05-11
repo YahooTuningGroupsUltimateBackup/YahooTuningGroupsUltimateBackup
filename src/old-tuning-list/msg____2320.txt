@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Wed, 15 Nov 1995 05:15:22 -0800
+
+Subject: Tritriadics, etc.
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+Re Tritriadics :The idea for tritriadics is from A. J. Ellis's 
+appendix to Helmholtz's On the Sensations of Tone in which he derives 
+56 tonal 7-tone "trichordal" modes in 5-limit JI by allowing the tonic, 
+dominant and subdominant triads to either major or minor and then 
+circularly permuting each scale (8 x 7 = 56). The concept goes back to 
+Rameau. What I did was to generalize the type of triad and apply the
+idea to MOS and similar scales in ET as well. 
+ 
+One is not limited to only 3 triads or to triads. Some scales are 
+best chorded with 5  triads, 4 tetrads, etc.
+ 
+Max Mathews, Linda Roberts and John R. Pierce have also experimented
+with this kind of scale, especially those based on 3:5:7 and 5:7:9.
+The Pierce-Bohlen scale in based on 3:5:7:9 triads mapped into the
+13th root of 3/1 (This ET has also been proposed by Enrique Moreno).
+Unfortunately, none of their published papers actually give the
+ratios or notes of the 4 scales they discovered. Does anyone have
+the M357a, M357b (the P-B scale in JI?), M579 and P3579a scales? 
+ 
+JI: One of the major themes of Brian's recent posts on psychoacoustics
+was that subjects tested in the laboratory prefer sharp to JI intervals.
+While there is considerable data supporting this idea for single voice 
+melodic intervals, it is not necessarily true for intervals in chords. 
+Roberts and Mathews (1984) found that for the middle tone of various 
+triads (major, minor,  5:7:9 and 3:5:7) some listeners preferred JI and 
+some preferred intervals either sharp or flat by about 15 cents. 
+Preference correlated with musical experience, violinists, cellists and tympanists preferred JI, untrained musicians, singers and pianists 
+preferred the "rich" non-JI intonation. In these experiments the outer 
+tones were tuned pure and the inner tones varied. In the case of minor 
+triads, the "rich" intonationists preferred the flat 300 cent interval 
+to the JI value. 
+ 
+Similar results were obtained for chords in I IV I progressions.
+The roots of the triads were 262 hz. In the case of the progressions,
+the subdominant was taken from a major or natural minor scale on 
+262 hz. The 3:5:7 and 5:7:9 progressions appear to be taken from the corresponding tritriadics, but I have not been able to verify this
+yet.
+ 
+The point is that while musical experience has a strong effect
+on preference, though how one separates musical experience clearly
+from musical talent has never been clear to me, some listeners not 
+only prefer JI for major and minor chords, they also do so for 7-limit
+chords as well. Secondly, while some listeners prefer sharp
+intervals, others prefer flat ones or have no preference for the
+direction of mistuning. They just like beats. These data imply that 
+JI has a distinct "mood" which many, but not all, listeners prefer.
+ 
+The principal reference is Linda A. Roberts and Max V.Mathews. 1984.
+Intonation Sensitivity for traditional and nontraditional chords.
+J Acoust. Soc. Am. 75(3): 952-959.
+ 
+--John
+ 
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 15 Nov 1995 20:29 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA16182; Wed, 15 Nov 1995 10:28:52 -0800
+Date: Wed, 15 Nov 1995 10:28:52 -0800
+Message-Id: <9511151028.ZM28007@frollo>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,27 @@
+source file: mills2.txt
+Date: Fri, 13 Oct 1995 23:36:34 -0700
+
+Subject: RE: 12-tet in China
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> most 
+> of the fascination with the twelfth root of two was <rooted> in the problem
+> of actually calculating these numbers.  It was a considerable task that 
+> required strange algorithms to give approximations. 
+
+   Of course, all you need to calculate these things to arbitrary precision is
+ln(x), e^x, multiplication, and division.  Anybody know when the Chinese
+discovered the Taylor series (or the equivalent) for ln(x) and e^x?  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 14 Oct 1995 16:39 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA18779; Sat, 14 Oct 1995 07:39:20 -0700
+Date: Sat, 14 Oct 1995 07:39:20 -0700
+Message-Id:  <9510140738.aa01629@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

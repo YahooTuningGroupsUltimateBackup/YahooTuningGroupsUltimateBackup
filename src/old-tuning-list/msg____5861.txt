@@ -1,0 +1,58 @@
+source file: mills3.txt
+
+
+Subject:  RE: Basic dimensionality, and related issues
+
+From:  PErlich@Acadian-Asset.com
+
+Dan Wolf wrote,
+
+>>(4) Using a TX81Z (with a resolution of 1.56 cent deviations from 12tet),=
+>> I
+>>perform
+>>a melody based upon random walks over a lattice with two dimensions: 3s a=
+>>nd
+>>9s. The
+>>best approximation of 9 does not coincide with the best approximation of
+>>3^2. For all practical purposes, 3 and 9, in this temperament, are
+>>relatively prime.
+
+Graham replied,
+
+>3*3=9 is a universal theorem.  If you are using an interval that
+>is not 2*log(3), that interval is not log(9).
+
+Sorry, I agree with Dan here. What is true for rationals may not be true
+for their best approximations in a set of irrationals. 768tET is a poor
+example because you're likely to treat that many notes as a continuous
+pitch spectrum. 18tET (Busoni's third-tone system) is a much better
+example. By far the best and most consonant approximation of 9/4 is 21
+steps. This can only be construed as 3/2*3/2 if two different values of
+3/2 are used! In other words, the factorization of 9 into primes is at
+best irrelevant and at worst counterproductive in some cases.
+
+>Paul Erlich wrote:
+
+>>Also, if 9/5 and 9/7 are to be used as distinctive harmonic entities (i.e.,
+>>consonances), and not only arising from 3*3/5 and 3*3/7, then it is useful
+to-
+
+>>include a 9-axis into the triangular lattice.
+
+>If the dissonance of a composite number is independent of its
+>factors, why use lattices at all?
+
+What an odd question! What could you possibly mean by it?
+
+>If you do, though, this
+>would introduce a concept of harmonic dimensionality different
+>from scale dimensionality.  What I previously called "n-D
+>harmony" can be renamed "n-D JI" to avoid confusion here.
+
+Yes, there are these different and equally valid concepts of
+dimensionality. In my previous posts in which I talk about dimensions I
+am more concerned with harmonic dimensionality.
+
+
+
+$AdditionalHeaders:  Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id C12564DA.00071273; Sun, 20 Jul 1997 03:17:14 +0200

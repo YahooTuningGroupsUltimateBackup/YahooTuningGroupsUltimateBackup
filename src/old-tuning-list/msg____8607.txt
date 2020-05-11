@@ -1,0 +1,18 @@
+source file: m1551.txt
+Date: Tue, 13 Oct 1998 12:23:00 -0400
+
+Subject: RE: TUNING digest 1549
+
+From: Lewis_Jimmy@hq.navsea.navy.mil
+
+I use Wavmaker and find that it meets my requirements.  My African musician
+friends compose using general midi instruments. During the render to wav process
+the tuning is modified using a tabled based on their native scale which uses haf
+tones.
+
+If they want to play their native instruments with GM instruments during the
+recording process, I use another of Polyhedric's products called Mellosoftron, a
+software synthesizer which enables one to developed their own instruments. So
+during the recording process everything is in tune.
+
+Lewis

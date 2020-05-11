@@ -1,0 +1,34 @@
+source file: mills2.txt
+Date: Fri, 17 Jan 1997 13:09:44 -0800
+
+Subject: Consistency
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+Paul wrote:
+
+''I wonder, in Brian's scheme of mapping real harmonic series to equal 
+temperaments in the quest for "better" timbres, what happens when you reach
+
+a harmonic that is inconsistent with the temperament, e.g. the 11th
+harmonic 
+in 12-equal?''
+
+You don't have to go as high as the 11th harmonic to find one example of
+what others have tried. The Hammond organ simply skipped the seventh
+harmonic in the series of sliders for added diapasons (the 1-2-3-4-5-6-8
+diapasons were tuned to match the Hammond approximation of ET).
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Jan 1997 16:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07744; Sun, 19 Jan 1997 18:51:13 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08695
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA18315; Sun, 19 Jan 1997 09:50:57 -0800
+Date: Sun, 19 Jan 1997 09:50:57 -0800
+Message-Id: <199701191748.JAA18253@ella.mills.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

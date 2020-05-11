@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Mon, 28 Apr 1997 07:51:51 -0700
+
+Subject: introductions---Rusty
+
+From: Michael.Saunders@astro.cf.ac.uk (Michael Saunders)
+
+I joined the list last week, so I thought it's about time I introduced myself.
+I'm a graduate student in the physics department of the University of
+Wales, Cardiff (but I'm American).  It's the physics department, but I'm in 
+the computer music section---my thesis project is called Rusty.  It's a 
+graphical computer language (the graphical interface is actually written by
+a colleague) which looks like a modular syntesizer on the screen---you can
+plug subprogram-units together to exchange data.  The difference is, instead
+of the signals being simple voltages, they can be all sorts of complex 
+musical objects.  Most of my work involves writing the class library which 
+describes these objects---the classes are very natural (e.g., meter, 
+harmony, chord, scale, pulse, etc.)  Lately I've been working on the classes
+for pitch, scale and tuning.  The tuning technique I use allows you to 
+define arbitrary scales as networks of intervals between scale degrees and, 
+since the intervals are defined with fuzzy logic, optimal temperaments are
+found automatically.  I'm also doing work on extending the tuning of a scale
+to tuning all the notes of a score individually, and more exotic things, 
+like altering the spectra of sounds to fit a scale.  Although it won't be 
+ready for download for quite a while, it's written in Java, so, when it runs,
+it will run on nearly everthing. 
+----------------------------------------------------------------michael
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 28 Apr 1997 20:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA32619; Mon, 28 Apr 1997 20:17:03 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA32584
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id LAA17915; Mon, 28 Apr 1997 11:14:39 -0700
+Date: Mon, 28 Apr 1997 11:14:39 -0700
+Message-Id: <199704281341_MC2-158C-5A15@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

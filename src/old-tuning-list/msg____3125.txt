@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Thu, 27 Jun 1996 10:12:48 -0700
+
+Subject: RE: Kawai K11
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>And/or could anyone recomend a keyboard under $1000 that is
+>micro-programmable and complies to the MIDI tuning-dump standard?
+
+>Jason Glover
+
+I've been interested in exactly the same question, except for the 
+tuning-dump aspect. Apparantly, the Ensoniq EPS would qualify, but it's been 
+out of production for a couple of years. I went to a music store, and the 
+salespeople I talked to pointed me to Korg, which makes marvelous 
+synthesizers with amazingly realistic timbres (it's been a long time since I 
+played with synthesizers). It has only one programmable tuning, where each 
+of the twelve notes can be detuned  100 cents. The meager selection of 
+internal tunings does not even include meantone.
+
+However, I found a way to get the $700 Korg to do 22tet in the store. I set 
+the programmable tuning to a "pythagorean tuning" based on 709-cent fifths. 
+I then split the five-octave keyboard in the middle, and transposed the 
+bottom half up two and a half acoustical octaves. This gave me two and a 
+half octaves of 22tet, with a few redundant notes. I bet the next people who 
+tried out the keyboard were annoyed! Hopefully, I can hook up my roommate's 
+Yamaha DX as a slave via MIDI and have five octaves of 22tet. (?)
+
+I want to hear what others have to say on this question before I make the 
+purchase. Although 22tet is my main interest, and should be easily 
+realizable on a guitar (my main instrument), I'd love to be able to play 
+with tunings more freely than the Korg allows, if at all possible.
+
+Thanks,
+Paul Erlich
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 27 Jun 1996 19:56 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA29228; Thu, 27 Jun 1996 10:56:00 -0700
+Date: Thu, 27 Jun 1996 10:56:00 -0700
+Message-Id: <199606271754.NAA13092@cerberus2.Ensoniq.Com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

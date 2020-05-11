@@ -1,0 +1,100 @@
+source file: mills2.txt
+Date: Wed, 20 Nov 1996 13:14:15 -0800
+
+Subject: Replies to P.H., D.B., B.McL., G.M., J.C
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Paul Hahn wrote,
+
+>> Of course the major mode was not one
+>> of the favorite modes of the diatonic scale until triadic harmony had 
+been
+>> in use for some time -- the tritone resolves to the tonic triad only in 
+the
+>> major and minor modes.
+
+>A minor quibble--this is true if the voices are led in contrary motion,
+>but using oblique motion the tritones in the Phrygian and Lydian modes
+>resolve to the tonic fifth.
+
+I would contend that in a homophonic style, any note in the scale may appear 
+(if only in passing) with any chord, and this can create a tritone unless 
+the chord is the tonic chord of either the major or minor mode. Hence the 
+"resolution" of interest is where both voices move. The Mixolydian and 
+Dorian modes are common in jazz, where the tritone blends with the tonic 
+triad to form approximate 7-limit tetrads (often with added notes). The 
+behavior of the tritone here is more "static" as opposed to its "dynamic" 
+behavior in the major and minor modes (the harmonic minor has two dynamic 
+tritones). No, this has nothing to do with "dynamic just intonation."
+
+David Beardsley wrote
+>he who only calls himself "PAULE" writes:
+I know I must come across as pretentious sometimes, but my name is Paul 
+Erlich, and my e-mail address it not a clever attempt to conceal it but an 
+unfortunate creation of my co-workers in the systems department.
+
+Brian -- I tried to include all the world music tuning systems I was 
+acquainted with (not many) in my proposed curriculum, and would certainly 
+think well over 5 hours could be devoted to those and others without 
+changing the outline. (I conceived it as a 30-, not 15-, hour course). The 
+history and diversity of tuning theory is of course very interesting, but 
+would be outside the scope of this course; ideas such as 31-tet and JI have 
+arisen again and again from many highly incompatible theories and so should 
+be included despite their "theoretical" nature. As long as you're mentioning 
+55-tet (1/6-comma meantone), don't forget 43-tet (1/5-comma meantone), which 
+was also discussed in the 18th century, I believe. I'm not aware of 34 
+having been discussed in the Renaissance, but 53 was (Mercator was 16th 
+century?) so 34 could have been. As for non-octave scales, etc., the field 
+at this point has very little that can be "taught" as "this is the way it 
+is," but certainly the intent of putting it last is to say, "This is the 
+avant garde, you can throw away the presumptions of all the previous lessons 
+if you want to." Those interested can use the remaining free-form weeks to 
+explore these ideas if they wish, and go on to take an advanced course in 
+the subject taught by Prof. McLaren. :)
+
+Gary wrote,
+
+>That brings to mind a curious question:  How many underlying bases (as in
+>plural of basis), structurally speaking, are there for the major scale,
+>historical or not?  I can think of three right off the top of my head:
+>1.  Identical upper and lower tetrachords
+>2.  Circle of fifths (one down and five up)
+>3.  Primary triads
+
+I'd add
+4. Maximal evenness (this works only in 12-tet and 19-tet)
+5. Unique interval vector (this only works in 12-tet); Balzano liked this 
+one.
+6-infinity. Lots of other 12-tet set theory garbage; Xenakis has some 
+construction in the appendix of his book "Formalized Music" that looks more 
+complicated than just saying what all the notes are!
+
+John Chalmers wrote,
+
+>It seems
+>therefore, that the major-minor system presupposes some sort of tuning
+>with acceptable thirds that ignores the syntonic comma. Meantone, ET
+>and various irregular systems do just this.
+>(Redfield's just scale does have this property as it consists of three
+>minor triads on 1/1, 4/3 and 3/2. Every mode of this scale contains a
+>note differing by a comma from a Ptolemaic mode. The generating tetrachord
+>is 10/9 x 9/8 x16/15 rather than the Greek 16/15 x 9/8 x 10/9. )
+
+But this scale has only two major triads, so by your definition of a major 
+scale, it is not a satisfactory tuning for the major-minor system. Or am I 
+missing something?
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 20 Nov 1996 22:21 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01171; Wed, 20 Nov 1996 22:22:42 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01174
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA15129; Wed, 20 Nov 1996 13:22:39 -0800
+Date: Wed, 20 Nov 1996 13:22:39 -0800
+Message-Id: <Pine.SOL.3.91.961120151636.7775B-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

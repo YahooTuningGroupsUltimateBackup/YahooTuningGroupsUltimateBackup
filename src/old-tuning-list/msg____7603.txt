@@ -1,0 +1,96 @@
+source file: m1400.txt
+Date: Wed, 29 Apr 1998 19:54:20 +0000
+
+Subject: Re: JI Tuning Resolution
+
+From: david first <d1st@earthlink.net>
+
+Paul H. Erlich says:
+> 
+> For an interval in perfect just intontation, whatever phase difference
+> was present at the beginning of the sound would persist for the duration
+> of the sound. Let's say two instruments are producing tones, both of
+> which have an equally loud partial at 1000Hz. For someone standing in a
+> particular location with respect to the two instruments, there is some
+> delay time between the beginning times of the two instruments for which
+> the 1000Hz components will interefere constructively, resulting in four
+> times the energy at that frequency than what one instrument alone would
+> produce. For a delay time just 1/2000 of a second longer, you get
+> destructive interference, or no energy at that frequency. Obviously no
+> human instrumentalist can control their onset time to within 1/2000 of a
+> second relative to the onset time of another instrument. So you end up
+> with a random number between zero and four to describe the energy of the
+> 1000Hz component -- probably not the musical effect you were looking
+> for. Even an individual performer playing both instruments can't do it
+> -- try tuning two synth keys to the same note and notice how repeatedly
+> playing both keys "simultaneously" leads to random fluctuations in the
+> loudness.
+> 
+> Now if the onset times are controlled really accurately by MIDI, and
+> let's say a 90-degree phase shift is chosen so that the energy at 1000Hz
+> is twice that from one instrument, then you're doing okay, right? But
+> for someone standing in a different location in the room, though, the
+> differece in the path lengths from the two instruments, and thus the
+> phase, will be different. There are nodes of destructive interference
+> and antinodes of constructive interference in the room no matter what
+> the original phase shift was. So some members of the audience may be
+> receiving no energy at 1000Hz, while others may be receiving four times
+> what they would from one instrument. Again, probably not the effect you
+> were looking for.
+> 
+> If both instruments are electronic, and their signals are mixed into one
+> speaker, there will be no spatial nodes or antinodes. So finally you can
+> control the musical effect. But other than monophonic electronic
+> MIDI-sequenced music, perfect JI can lead to big problems. In the real
+> world, thankfully, acoustic instruments are slightly out-of-tune with
+> each other, so that whatever the onset delay and whatever the position
+> in the room, one gets a signal that frequencies common to both tones
+> have an average energy twice that of one instrument. There will not be
+> noticeable, let alone startling, differences in the musical effect
+> depending on minute variations in the onset delay or position in the
+> room.
+> 
+
+In addition, it has been my experience that when creating JI related sample
+loops, that it is not enough that the frequency relationships be exact - the
+period of the wave cycles involved all must have a simple divisible integer
+relation with one common compound period/sample length. Further, I believe
+that it is best to have a simple divisible relationship with the sampling rate
+one is employing. As an example, for a recent set of 21 JI pitch relationships
+I developed, I used a common 1/1 period number/sample base length of 21870. I
+then doubled this number to achieve the sampling rate of 43740.
+
+21870 divided by 1/1 = 21870
+21870 "   "    " 9/8 = 19440
+21870 "   "    " 6/5 = 18225
+21870 "   "    " 5/4 = 17496
+21870 "   "    " 27/20 = 16200
+21870 "   "    " 45/32 = 15552
+21870 "   "    " 3/2 = 14580
+21870 "   "    " 27/16 = 12960
+21870 "   "    " 9/5 = 12150
+21870 "   "    " 15/8 = 11664
+21870 "   "    " 81/40 = 10800  
+21870 "   "    " 135/64 = 10368
+21870 "   "    " 729/320 = 9600
+21870 "   "    " 1215/512 = 9216
+21870 "   "    " 81/32 = 8640
+21870 "   "    " 729/256 = 7680
+21870 "   "    " 243/80 = 7200
+21870 "   "    " 405/128 = 6912
+21870 "   "    " 2187/640 = 6400
+21870 "   "    " 3645/1024 = 6144
+21870 "   "    " 243/64 = 5760
+
+Obviously, this base number gets larger with each added interval and can very
+quickly go out of bounds even when one is using the simplest of source
+materials. I, myself, have found it most unwieldy, if not impossible, to
+create viable samples using anything besides sawtooth, square, etc. More
+complex waveforms, or anything remotely resembling the physical model of an
+acoustic instrument would take more sample RAM than I,for one, currently have!
+
+At any rate, if I read (the slightly truncated) explanation above correctly,
+JI is an impossible goal in the real, 3D/air based world we reside in. That
+makes perfect sense to me, but one can only try...
+
+David F.

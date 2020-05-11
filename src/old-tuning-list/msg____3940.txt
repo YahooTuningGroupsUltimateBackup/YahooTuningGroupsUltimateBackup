@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Wed, 6 Nov 1996 12:27:34 -0800
+
+Subject: Re: Consonance coefficient
+
+From: bf250@freenet.carleton.ca (John Sankey)
+
+Lorenzo
+Check Bill Sethares' paper, "Local consonance and the 
+relationship between timbre and scale" J.A.S.A. 
+94(3):1218-1228. It deals precisely with your question of a 
+consonance measure. BTW, consonance is frequency dependent, so 
+an inversion of a chord will not normally have the same 
+consonance as the root position. We've applied the technique 
+to historical harpsichord tunings and our paper should be 
+accepted for publication in JASA any day now.
+John
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 6 Nov 1996 23:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06031; Wed, 6 Nov 1996 23:07:00 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06027
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA13888; Wed, 6 Nov 1996 14:06:58 -0800
+Date: Wed, 6 Nov 1996 14:06:58 -0800
+Message-Id: <73961106214537/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

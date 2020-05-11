@@ -1,0 +1,276 @@
+source file: mills2.txt
+Date: Tue, 26 Nov 1996 08:09:20 -0800
+
+Subject: From Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: sensory versus musical consonance
+--
+Kami Rousseau has suggested stretching just
+intonation scales so that the octaves will be
+heard as perceptual octaves, the fifths as
+perceptually "pure" fifths, and so on.  This
+idea is interesting and innovative.  However,
+it's important to point out a source of 
+possible confusion here.
+My posts on pyschoacoustics have described
+in detail the fact that the mathematical and
+perceptual octave are different entities,
+especially when the octave is heard as an
+isolated interval.  Psychoacoustic experiments
+do indeed show that isolated intervals are
+heard as "too flat" and "too narrow" and "impure"
+when they are tuned to a precise 2:1 ratio,
+whereas an interval of approximately 1208-1215
+cents is heard as "pure" and "in tune" and "just."
+However, what we are discussing here is
+*sensory consonance.*  This is consonance
+as measured by psychoacoustic experiments.
+It is the consonance perceived by observers
+under experimental conditions.  It is consonance
+of isolated intervals in a non-musical setting.
+This is not necessarily the same thing 
+ as *musical consonance.*
+Musical consonance is dependent on *context*.
+It is judged in a musical setting.  Musical
+consonance is dependent not only on timbre
+and beats and the width of the critical band,
+it is also dependent on the preceding harmonies,
+the nature of the music's melodic stucture,
+and most importantly it is determined by the
+intonation itself.
+It is very important to make this distinction
+between *sensory consonance* and *musical
+consonance* because the two are not generally
+distinguished in music theory.  In fact Hermann
+Helmholtz intentionally and purposely conflated
+the two--Helmholtz claimed that sensory 
+consonance was completely equivalent to
+musical consonance.  
+Yet it is clear that this is often not the case.
+One of the best examples is the stretched Balinese
+octave. Heard as an isolated interval, this 1215-cent
+octave  can sound questionable.  But it is never
+played in isolation in Balinese music.
+When a Balinese gamelan plays, there's a constant
+tinkling shimmering gonging interplay of partials
+that make the partials seem to sizzle in the air,
+and the beats thus produced are integral to the
+musical effect.  Individual intervals sound quite
+different in terms of their consonance from the
+same intervals played in rhythmic counterpoint
+with mass masses of other notes, whose timbre
+blends into one huge shimmering klangfarbenmelodie.
+Indonesian gamelan tuners know this so well that
+they point out that an individual metallophone cannot
+be fully tuned until the entire gamelan has been
+rough-tuned; the entire timbral wash is needed
+to fine-tune any one metallophone in the 
+ensemble.
+This is a *very* important point.  
+Our ears have a remarkable ability to
+pick up on the structure embedded within
+an intonation and to fit various harmonic
+and melodic progressions into that 
+embedded structure.  A great deal of
+subconscious processing goes on when
+we listen to music; our ear/brain system
+is extraordinarily sophisticated at 
+extracting and recognizing patterns
+buried in the intonation of the music
+to which we listen.
+The net result is that we must be careful
+not to pursue sensory consonance at the
+expense of musical consonance.  While
+as Johan Sundberg points out it is vital
+not to mistake mathematical for perceptual
+intervals, it is even more vital *not* to
+give up musical consonance in the pursuit
+of sensory consonance.
+Thus Kami's suggestion of stretching just
+intonation tunings makes good sense as 
+far as increasing the sensory consonance
+of the intervals.  However, stretching the
+intervals in a just array disarranges most
+of the mathematical relationships between
+the octave and the component just intervals.
+This can be a significant loss if those
+relationships are used musically.  Moreover,
+this is not just a matter of mathematics;
+the ear can hear the musical structure
+embedded with a just intonation scale.  
+Disjointing this structure for the sake of
+improving sensory consonance might prove
+musically successful--or it might not.  My
+guess is that it will depend on the musical
+context.
+--
+On another point:
+An extremely superficial understanding of
+my criticisms of theories of just intonation
+on this forum leads to the false conclusion
+that I am out to debunk just intonation.  
+Nothing could be further from the truth.  If
+this is what people have come away with
+by reading my posts on psychoacoustics
+then they have completely misunderstood
+my point.
+Instead, my point is that the arguments used
+by JI advocates in favor of just intonation do
+not hold water.  Hermann  Helmholtz and
+Partch (following Helmholtz's lead) both
+tried to claim that western music was based
+on the harmonic series, and that therefore
+sensory consonance could be directly equated
+to musical consonance, and that therefore
+just intonation is musically superior and
+musically preferable to any other system
+because just intonation offers maximal
+sensory consonance and direct use of the
+harmonic series in music.
+These arguments in favor of just intonation
+have actually been extremely damaging to
+the cause of JI.  As psychoacoustics and
+digital synthesis have progressed by leaps
+and bounds, it has become increasingly
+clear over the last 100 years that sensory
+consonance is not at all necessarily the same
+thing as musical consonance, and that as a
+result many exotic and beuatiful yet 
+inharmonic timbres and intonations can
+be developed which nonetheless sound
+musically effective and very beautiful.
+The problem with the Helmholtz/Partch/
+Johnston/Doty argument in favor of just
+intonation is that it creates a Manichean
+dichotomy: once we accept the premise that
+the harmonic series is the end-and and the
+be-all of music, all musical structures not
+based on the harmonic/subharmonic series
+must be regarded as musically inferior, to
+be purged, expurgated, reviled, cast down
+into darkness.
+This is a big problem because it immediately
+puts the listener in the position of having to
+revile and abjure all the music s/he has
+heard over a lifetime...since virtually all of
+the music all of us hear while we grow up
+is, of course, 12 tone equal temperament.
+Yet anyone interested enough to spend years
+studying music theory must love 12-tet music
+dearly indeed.  So this creates a huge problem
+for the just intonation advocate: you are now
+in the position to having to convince your
+audience that all the music they love is
+a debased abomination, a falling-away from
+the true faith of the harmonic series.
+This is not a good way to attract converts
+and gain followers.
+The sensory consonance argument for JI
+is also lethally flawed, because anyone
+with a reasonable knowledge of pyschoacoustics
+can destroy it by citing the experimental
+evidence.  For that matter, you can utterly
+annihilate the Helmholtz/Partch sensory
+consonance argument simply by playing
+pieces of music by Risset, Chowning, 
+Dashow, Harvey, et al. which use extremely
+inharmonic timbres but which nonetheless
+sounds beautiful.
+Inharmonic digitally-generated timbres and
+computer-produced and -controlled inharmonic
+series could not be heard prior to the mid-1970s.
+The computer power to produce such music was
+simply not available.  Now that everyone can hear
+and experiment with such musical timbres and
+inharmonic series tunings, it has become starkly
+apparent that arguments for just intonation on
+the basis of sensory consonance do *not*
+necessarily lead to the harmonic series, and
+(conversely) that the harmonic series does *not*
+necessarily lead to sensory consonance.  (Inharmonic
+timbres with harmonic series chords produce musical
+effects completely *unlike* those of just intonation.
+John R. Pierce, Max Mathews, William Sethares,
+myself and many others have produced demonstation
+tapes showing this effect.)
+The point of all this is that my systematic
+demolition of the sensory consonance argument
+for just intonation is in fact necessary to create
+a firm foundation for the musical use of JI.  
+Otherwise, we are building on a foundation of
+quicksand. As for the the claim that the harmonic
+series is the basis of all consonance intervals 
+and timbres, and that sensory consonance can 
+best be obtained from the members of the
+harmonic series, and that therefore JI is
+the most musical intonation because it
+maximizes sensory consonance...  Well, as
+we have seen, all of these arguments are
+incorrect because all of the premises are
+false.  And so, to use these lethally flawed
+arguments for just intonation is merely to
+create a wonderful oportunity for those
+hostile to new music to shoot down just
+intonation wthout even hearing it.
+A much more powerful argument for just
+intonation is the "Mount Everest" argument.
+Like Everest, just intonation is there--
+why not explore it?
+While it's extremely easy for any narrow-
+minded conservative hater of new music
+like the abysmally ignorant Paul Griffiths
+(current music critic for the New Yorker)
+to demolish the "natural interval" or
+"harmonic series" or "sensory consonance"
+justification of JI, it's extremely hard
+for even the most narrow-minded musical
+reactionary to convince anyone that we'd
+all be better off if we didn't open our
+ears and explore potentially beautiful new
+JI harmonies and melodies.
+This argument for JI puts the shoe on the
+other foot--reactionaries like Griffiths must 
+now show their true colors and argue against open-
+mindedness if they want to prevent anyone
+from trying JI on this basis.
+--
+To return to the original point, then, Kami's
+idea of stretching JI scales is an interesting
+one.  However, it's important not to confuse
+sensory consonance with musical consonance,
+and not to confuse either of those with
+musical concordance.
+Stretching a JI scale might heighten the
+perceptual purity of intervals while lowering
+the musical utility of those intervals.  If
+stretching the scale warps or destroys the
+internal structure of the intonation, 
+sensory consonance might be enhanced at
+the price of creating musical discordance.
+As always, all three quantities must be
+balanced, and they are inextricably bound
+up with the musical context in which 
+this occurs.
+It would be nice to give a simpler or shorter
+evaluation of Kami's idea...but given the
+complexity of human hearing and the subtlety
+of even the simplest-sounding intonation,
+that just isn't possible.
+--mclaren 
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 26 Nov 1996 17:27 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08530; Tue, 26 Nov 1996 17:29:21 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA08622
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA27803; Tue, 26 Nov 1996 08:29:18 -0800
+Date: Tue, 26 Nov 1996 08:29:18 -0800
+Message-Id: <Pine.A32.3.91.961126085212.48420A-100000@tiger.cudenver.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

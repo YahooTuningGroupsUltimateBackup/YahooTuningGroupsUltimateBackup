@@ -1,0 +1,33 @@
+source file: m1409.txt
+Date: Fri, 8 May 1998 12:47:33 -0600 (MDT)
+
+Subject: Re: chaos in the ear
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+All-
+
+a snip from an exchange between Breed & Erlich
+>> Therefore, assuming the
+>> parameter value varies smoothly with time, and at some times takes on
+>> values corresponding to simple period-1 vibration, the only subharmonics
+>> which can exist without chaos ever occuring are the subharmonics
+>> corresponding to powers of 2. Period-3 oscillation (or, to a lesser
+>> extent, periods of higher odd numbers) can be relatively common but
+>> cannot smoothly connect with simpler behavior.
+>
+>It's unlikely that a period 3 cascade could be picked out from a chaotic
+>region with one parameter.  In the Mandelbrot set, though, there is a
+>fairly large period 3 region.  Similar things might occur with
+>differential equations of 2 parameters for all I'd know.  I think there
+>might even be a period 3, 9, 27, ... cascade in the Mandelbrot set.
+
+Remember, Li and Yorke's "Period Three Implies Chaos" results, like those 
+of Feigenbaum, only apply to unimodal maps of the interval. The "Feigenbaum 
+constant" is not the same for all systems, and there are maps and ODEs that 
+period triple from simple behavior. In fact, just a couple of weeks ago, one 
+of my students found a period tripling sequence in a physical parametrically 
+driven pendulum.
+
+John Starrett
+http://www-math.cudenver.edu/~jstarret

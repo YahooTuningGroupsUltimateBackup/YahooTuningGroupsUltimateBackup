@@ -1,0 +1,143 @@
+source file: mills2.txt
+Date: Wed, 19 Jun 1996 12:33:45 -0700
+
+Subject: Re: Post from Brian McLaren
+
+From: alves@osiris.ac.hmc.edu (Bill Alves)
+
+I would like to respond to some of Brian's good points about just
+intervals, but before getting into specifics, I would like to talk about
+the musical applicability of these studies. I would imagine that if you
+asked subjects to state their "preference" between minor seconds and major
+thirds, the thirds would be a near unanimous choice. Does this mean that
+minor seconds should never be used in music?
+
+Also, I don't think many people since the time of Helmholtz have claimed
+that small-number ratios are the only criterion of consonance. Certainly I
+have not. Consonance, in a musical sense as well as a strictly
+psychoacoustic sense (if there is such a thing) is a very complex
+phenomenon that depends on the ratio, on its relationship to the critical
+bandwidth, on the relative timbres, the absolute frequencies, the loudness,
+and, not least of all, the musical context.
+
+Finally, as John Chalmers has pointed out, these studies are not without
+their cultural biases. Though such biases difficult to test, given the
+current ubiquity of twelve-tone equal temperament through radio and
+television, I think that one is bound to show a "preference" for the
+familiar. Some evidence for this comes from the article Brian quoted
+earlier: Kessler, Hansen, and Shepard, "Tonal Schemata in the Perception of
+Music in Bali and the West" (Music Perception, Winter 1984 V2/2, 131-165).
+
+>[1] [Comparison of sqrt(3/2) to 45/32]
+
+I personally find 45/32 much too high a ratio to be called "consonant," and
+I don't really hear it as just. To take a fairer comparison, I do find 7/5
+more consonant than a neutral third.
+
+>[2] Tune up 11/9 and compare it to 9/8.  Which sounds more
+>consonant?
+
+This is true and illustrates my problem with a reliance on LCM analysis.
+Because 9/8 is small and, depending on the absolute frequency, may lie
+within the critical bandwidth, I find it relatively dissonant. I don't
+think that the relative simplicity of the ratios are as much of an issue.
+
+>[3] Tune up a second inversion 4:5:6 chord--that is, a just major
+>chord with a 4/3 in the bass, i.e., a 9:12:15 triad. Now compare it
+>with a 10:12:15 minor chord.
+
+If one resolves the numbers here you have 4/3 and 5/3 in the first and 6/5
+and 3/2 in the second. Based only on the ratios, I find 5/3 and 6/5
+equivalent -- they are inversions of each other. That leaves 4/3 and 3/2.
+Clearly 3/2 is the more stable because it lies lower in the harmonic
+series.
+
+>[4] Tune up the ratio 3:5:7 and then tune up the ratio 18:22:27.
+>Which one sounds more consonant?
+
+Here I have to disagree. While they both have distinctive sounds, I find
+the 3/5 and 5/7 intervals more consonant than the 11/9 interval of the
+second triad.
+
+>This also sidesteps the dilemma of the just perfect fourth.
+
+The dilemma of the perfect fourth is in part a historical artifact of
+producing counterpoint by counting intervals relative to the lowest sound
+voice (which for simplicity I'll call the bass). Thus the apparent
+consonance of the perfect fourth and perfect fifth sounding together if one
+only looks at them relative to the bass is taken care of by considering the
+fourth dissonant. As is obvious to anyone looking at all the interval
+combinations, the dissonance is not so much the fourth as the second
+between the two upper voices.
+
+The second reason for considering the fourth relative to the bass a
+"dissonance" is to explain the need for the second inversion triad to
+resolve. To me, this need for resolution is not so much because the 9:12:15
+is "dissonant" as the simplest interval lies higher in the harmonic series
+than either the octave or the perfect fifth. Therefore the chord sounds
+less stable than one based on a 3/2. Also, some medieval musicians were not
+bothered by this relative instability.
+
+>Too, as Norman Cazden points out:
+>"Traditional rules of harmony and counterpoint explicitly
+>proscribe parallel successions of perfect intervals, though
+>with the unaccountable excpetion of that same troublesome
+>fourth when it is not in the lowest placement.
+
+Using the stylistic conventions of one musical culture during one period of
+history is a weak justification at best. The main reason behind the
+prohibition of parallel perfect intervals was to maintain the independence
+of the voices sought by European polyphonic composers of the 15th to 19th
+centuries.
+
+Parallel octaves causes the texture to suddenly thin because the octave
+lies so low in the harmonic series -- which is why we tend to consider men
+and women singing in parallel octaves virtually the same as monophony. Put
+another way, the upper voices are doubling a harmonic already present in
+the lower voices.
+
+So, do we prohibit all parallel intervals, since they must be found in the
+same harmonic series of some fundamental somewhere? Of course not. As we
+move further up the harmonic series the impression of the two voices
+operating "as a single unit" becomes less and less prominent. So where does
+one draw the line? Perfect unison? Perfect octave? Perfect fifth? Perfect
+fourth? Major third? Minor third? Well, composers of the 15th century chose
+the draw the line between the perfect fifth and the perfect fourth.
+Incidentally, it is interesting to note that 13th century motet composers
+quite intentionally avoided parallel thirds, though parallel fifths and
+fourths are often found.
+
+I have nothing against composers who prefer the musical usefulness of equal
+temperament or any other type of temperament. Nazir Jairazhboy, the Indian
+music master quoted by Brian earlier, points out that he finds that
+tempered intervals can give extra tension to a melody in need of
+resolution. As Brian has pointed out as well, the Javanese find perfect 2/1
+octaves rather lifeless and usually try to compress or expand them.
+
+However, to say that there is some natural predilection for just,
+equal-tempered, or any other kind of scale is, I think, to misunderstand
+the relationship between nature and art. Certainly one would think Brian
+would understand this, having composed in JI himself, according to John.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)621-8360 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 19 Jun 1996 23:49 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA04807; Wed, 19 Jun 1996 14:49:04 -0700
+Date: Wed, 19 Jun 1996 14:49:04 -0700
+Message-Id: <v01540b00adee25dd355c@[204.74.9.166]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

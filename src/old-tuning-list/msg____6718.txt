@@ -1,0 +1,70 @@
+source file: mills3.txt
+Date: Fri, 19 Dec 1997 19:08:15 +0100
+
+Subject: Error in "Stretching the 19-tone Equal"
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>>I shall perform a similar operation here for the 19-tone equal.
+>
+>>The ideal value for the octave itself is of course 1200/19 = 63.16 ;
+>>here are the values for the other six consonances.
+>>3:2     701.96/11 = 63.82
+>>4:3     498.04/8 = 62.26
+>>5:4     386.31/6 = 64.39
+>>5:3     884.36/14 = 63.17
+>>6:5     315.64/5 = 63.13
+>>8:5     813.69/13 = 62.59
+>
+>>If one considers the consonances to be all of equal importance, one can
+>>simply take the average of the above seven figures, which is 63.22, to
+>>arrive at a figure for the octave of 1201.2.
+>
+>Gregg, this is not correct. You are not giving equal importance to the
+>intervals above. Since whatever compromise is made in taking the average will
+>be multiplied 14-fold for the 8:5 but only 5-fold for the 6:5, you are being
+>more permissive for tuning errors in the larger intervals. I am certain
+>Fokker would not have made this mistake, being a brilliant physicist. I know
+>you will probably gloss over this post the way you have dismissed, with total
+>lack of understanding, my other comments. But if you are interested, I will
+>tell you the other things wrong with your calculations here, and how I
+>arrived at an optimal octave of 1202.7 cents for 19-equal.
+>
+>>However, it seems to me
+>>that some weighting in called for, because the smoother a consonance,
+>>>the more susceptible it is to mistuning. If one weights the octave at 7,
+>>the fifth at 6, the fourth at 5, the major third at 4, the major sixth
+>>at 3, the minor third at 2, and the minor sixth at 1, one arrives at a
+>>tuning degree of 63.29 cents, giving an octave of 1202.5 cents.
+>
+>Disregarding the previous error, that's fine, though I would weight things
+>differently, and also put some weight on the octave and double octave, etc.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  RE: 22-tone exhortations
+PostedDate:  19-12-97 19:09:06
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  19-12-97 19:06:58-19-12-97 19:06:58,19-12-97 19:06:34-19-12-97 19:06:34
+DeliveredDate:  19-12-97 19:06:34
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256572.006381E5; Fri, 19 Dec 1997 19:08:49 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19778; Fri, 19 Dec 1997 19:09:06 +0100
+Date: Fri, 19 Dec 1997 19:09:06 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA19573
+Received: (qmail 12361 invoked from network); 19 Dec 1997 09:53:14 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 Dec 1997 09:53:14 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971218184724Z-147@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

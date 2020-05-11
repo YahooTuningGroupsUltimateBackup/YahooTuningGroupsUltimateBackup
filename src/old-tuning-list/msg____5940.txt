@@ -1,0 +1,86 @@
+source file: mills3.txt
+Date: Fri, 8 Aug 1997 03:48:28 +0200
+
+Subject: Notation for 19 and 31tET proposals
+
+From: Charles Lucy <lucy@ilhawaii.net>
+
+In response to the query about notation for 19 and 31 tET.
+
+I propose the following method.  Notation for 19 and 31 tET is really
+simple.
+
+If you use the Large (L) and small (s) interval patterns.
+
+One octave is 5 large plus 2 small = 5L+2s
+
+In 19 equal Large interval (L) is 3/19ths of an octave
+and small interval (s) is 2/19ths.
+Therefore 5 Large (*3)= 15/19ths plus 2 small (*2) = 4/19ths = One
+Octave.
+
+In 31 equal Large interval is 5/31sts of an octave and small interval is
+3/31sts.
+Therefore 5 Large (*5)= 25/31sts plus 2 small (*3) = 6/31sts = One
+Octave.
+
+So just like LucyTuning, you can now use conventional notation to
+describe your music, except that as ET's are circular (instead of
+spiral),
+and therefore in 19tET Fb and E#: and Cb and B# will play the same note.
+
+So in 19tET, the available notes will be:
+C C# Db D D# Eb E (Fb/E#) F F# Gb G G# Ab A A# Bb B (Cb/B#)
+and in 31tET, the available notes will be:
+
+C Dbb C# Db Cx D Ebb D# Eb Dx E Fb E# F Gbb F# Gb Fx
+G Abb G# Ab Gx A Bbb A# Bb Ax B Cb B#
+I suggest that you use A4 = 440 Hz as your reference pitch.
+For more info. see one of our websites
+http://www.ilhawaii.net/~lucy
+http://www.wonderlandinorbit.com/projects/lullaby
+or http://www.harmonics.com
+(which is under development)
+
+They have lotsa
+LucyTuning info. including free downloadable sample loops.
+
+lucy@hour.com
+P.S.  I have examined many of the new notation systems, and have come to
+the conclusion that the best suggestions to date come from Anne and Bill
+Collins.
+Bill is the ASCAP writer of "Without You".
+They solve many of the
+shortcomings of conventional notation by using close and wide line spacing
+on the staves, plus lotsa other "neat" ideas, which enable their system to
+be "music" rather than instrument biased fingering systems like
+klavier(sp?).
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  lucy@ilhawaii.net
+Subject:  http://www.newscientist.com/ns/970809/features.html
+PostedDate:  08-08-97 04:10:09
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  08-08-97 04:10:12-08-08-97 04:10:12,08-08-97 04:08:41-08-08-97 04:08:42
+DeliveredDate:  08-08-97 04:08:42
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564ED.000BE8BD; Fri, 8 Aug 1997 04:10:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05854; Fri, 8 Aug 1997 04:10:09 +0200
+Date: Fri, 8 Aug 1997 04:10:09 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05842
+Received: (qmail 27353 invoked from network); 8 Aug 1997 02:10:01 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Aug 1997 02:10:01 -0000
+Message-Id: <Pine.BSI.3.91.970807160317.7428A-100000@lehua.ilhawaii.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,78 @@
+source file: mills3.txt
+Date: Wed, 1 Oct 1997 12:17:27 +0200
+
+Subject: Ben Denckla's Masters Thesis
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+Hey Ben (fellow MIT alum!),
+
+Thank you for "shamelessly plugging" your thesis, "Dynamic Intonation for
+Synthesizer Performance", at:
+
+  http://theremin.media.mit.edu/~bdenckla/thesis/main.html
+
+I started reading it, and "couldn't put it down" (the laptop PC, that is).
+It got to be 2:00 am, so I added a link to it from one of my pages
+(http://www.pacificnet.net/~nowitzky/justint), so I wouldn't lose it among
+my thirteen gazillion bookmarks.
+
+I did get as far as the name of your computer program, "Helm".  I take it
+that stood for "Helmholtz" (My hero!).
+
+Easley Blackwood's book, "The Structure of Recognizable Diatonic Tunings",
+is on my list of things to read too, but it ain't machine-readable, so it'll
+have to wait.
+
+About your 30 Sep 1997 post to the TUNING list - As far as the idea that a
+lot of music relies on the "blurring provided by temperament" (courtesy
+James Kukula's phraseology), I'm still not convinced.
+
+Here's my line of thought:  What if you "blurred" the distinctions between
+pitches even more?  Suppose, as an example, a melody, first played in major,
+then in minor.  (It happens a lot in those "variations on a theme".)  You
+could blur this melody into a "7tET" (7 equal intervals per octave), which
+would wipe away the distinction between major and minor.  But you'd
+definitely lose something in the translation.  In simplistic terms, you
+would no longer have that "happy the first time, sad the second" feel to it.
+
+That's all for now (since it's now past 3:00 am).  I look forward to reading
+the rest of your thesis.
+
+--Mark Albin Nowitzky (MIT BS EECS '79)
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@pacificnet.net                      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Manuel.Op.de.Coul@ezh.nl
+Subject:  dynamic JI
+PostedDate:  01-10-97 17:17:26
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-10-97 17:17:03-01-10-97 17:17:04,01-10-97 17:15:59-01-10-97 17:16:00
+DeliveredDate:  01-10-97 17:16:00
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256523.0053F220; Wed, 1 Oct 1997 17:16:54 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03857; Wed, 1 Oct 1997 17:17:26 +0200
+Date: Wed, 1 Oct 1997 17:17:26 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03852
+Received: (qmail 4437 invoked from network); 1 Oct 1997 08:17:24 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Oct 1997 08:17:24 -0700
+Message-Id: <C1256523.0053BD48.00@notesrv2.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,185 @@
+source file: m1409.txt
+Date: Fri, 8 May 1998 17:34:51 -0400
+
+Subject: Replies to Graham Breed
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>> I maintain that any systematic inharmonicity in brass instruments, which
+>> is either nonexistent or extremely small, has little or nothing to do
+>> with the failure of the resonant modes of the instrument to form an
+>> exact harmonic series.
+
+>Now you're getting suitably equivocal.  Before you were saying that no
+>inharmonicity could possibly occur, which places too much faith in the
+>simplified models.  Ideally, we should develop more complicated models to
+>give a quantitative estimate of the (upper limit of the) inharmonicity.
+
+I'm not getting equivocal at all. The "simplified models", as Gary
+observed, seem to handle the vast majority of cases. Dave Hill did find
+specific values for the inharmonicities, which I would ascribe to
+methodological errors, etc. But even if you don't believe me, and take
+Dave's values for the inharmonicities, they are clearly of a different
+order of magnitude (typically < 1 cent) than the departures of the
+series of resonant frequencies from a harmonic series (typically dozens
+of cents). That's what I've been trying to say.
+
+>Any noise in the input will cause peaks at the resonant modes.
+
+They are not really "peaks" so much as "hills" since there are no
+constructively interfering standing waves to sharpen them. While the
+noise energy will be spread throughout the spectrum, the energy from the
+driver (reed, lips, bow) will manifest in Dirac-delta-function-like
+peaks at harmonic overtones in the spectrum.
+
+>Inharmonicity will cause problems with JI whether or not it's systematic.
+>Any noise in the input will cause peaks at the resonant modes.  The result
+>will be inharmonicity.
+
+Listen, Gary and I have been defining systematic inharmonicity as cases
+where, after the noise is removed, the partials deviate from a harmonic
+series. Since noise doesn't exhibit interference effects, the only
+inharmonicity relevant to JI is systematic inharmonicity.
+
+>If the overtones are not centered at the resonant peaks, the amplitude of
+>each overtone on output will depend on it's pitch.
+
+Good point. I don't know about the rest, but you said it isn't
+important, so . . .
+
+>Examples of recorded resonances were
+>given for a range of wind instruments, and they're all significantly off
+>from the integer ratios.
+
+Yes indeed!
+
+>The resonances of flutes were also given relative to 12-equal.  They were
+>up to 20 cents out!  It's only the flautist's skill that adjusts them to
+>the desired scale.
+
+The standard fingerings take this into account, in case you didn't know
+that already. So, if knowing the standard fingerings is considered part
+of "skill", then you are right.
+
+>Yes, chaos would be counterproductive.  There are plenty of nonlinear
+>equations that produce stable subharmonics without being chaotic, though.
+>These would probably be more efficient than one that could suddenly lapse
+>into chaotic behaviour.
+
+>Jordan & Smith give the following example of a stable order 1/3
+>subharmonic:
+
+>x'' + x - x^3 / 6 = 1.5*cos(2.85*t)
+
+>Where the '' means differentiate twice with respect to t.
+
+While most physical nonlinearities are characterized by a quadratic
+fixed point, this appears to be one with a zero-slope cubic nonlinearity
+(inflection point). Instead of a period-doubling cascade, changes in the
+parameter value for this type of system lead to a Fibonacci sequence of
+period lengths. So changing the parameter in this case could decrease
+the period to 2 or increase it to 5. I don't see how this is more
+"stable" that a typical order 1/n^2 subharmonic for a
+quadratic-fixed-point nonlinearity.
+
+>> It is known that when a
+>> (not too high) pitch is heard, there are neurons that fire at the same
+>> rate as the vibration rate of the pitch itself.
+
+>Your theory suggests that neurons should fire at a 1/2^n subharmonic of
+>higher pitches.  Has this been observed?
+
+I don't know, but this would be at a higher processing level than the
+neurons forming the auditory nerve, which is what is typically probed.
+In any case, Gary was asking for a mechanism by which powers of two
+would be distinguished from powers of any other number. Chaos theory
+presents a very clear reason to think that such distinctions are often
+made in nature.
+
+>> Other neurons in the
+>> brain are known to have a non-linear response to their input from other
+>> neurons. Since a response non-linear enough to lead to chaos would
+>> essentially be destroying all frequency information, most of the neurons
+>> would oscillate at the input frequency or at octave equivalents below
+>> that frequency. Perhaps a certain, low octave range is where pitch
+>> judgments are actually made. Notice how very high tones seem ambiguous
+>> in pitch.
+
+>I would question whether neurons can react at such high frequencies at
+>all.
+
+What are "such high frequencies"? I did say "not too high" above! 
+
+>I don't have experimental data to hand, but I remember evidence that
+>low frequencies are perceived in a different way to high ones, probably
+>because of this.
+
+The actual frequency at which periodicity pitch gives up is about 5-6
+kHz. Really high!
+
+>The latest book's I've read --
+>which, as they came from libraries, are a decade or three old -- say that
+>the original experiments showing octave invariance were performed on
+>musically literate subjects.
+
+Are white rats musically literate?
+
+>More specifically, literate in Western
+>Classical Music, where the notation is octave based.
+
+Many other cultures use octave-based notation.
+
+>> As for the apparantly irregular "subharmonic" which Gary observed in the
+>> bassoon waveform, this can easily be explained by assuming some
+>> parameter of non-linearity (perhaps lip pressure) was hovering around a
+>> value at which an initial period doubling occurs. So the amplitude of
+>> this period-2 subharmonic could have been changing, and it could cease
+>> to exist for a while, returning again just as easily after either an odd
+>> or even number of period-1 oscillations.
+
+>This assumes the system is teetering in a bifurcation point, which is
+>actually very unlikely.
+
+Not unlikely at all! Look again at a bifurcation diagram -- there is
+quite a large range of values where the period-2 behavior has a
+relatively constant amplitude, but at one end of this range the
+amplitude suddenly decreases and period-1 behavior ensues. If the
+bassoonist is trying to keep within this range, say because he is trying
+to play as loud as he can and octave subharmonics don't bother him but
+chaos does, the parameter will likely take on just such a range of
+values.
+
+>I'd guess the amplitude of the subharmonic is
+>chaotic.  Or, the subharmonic is entirely chaotic but appears to be order
+>1/2 at certain times
+
+>A period doubling cascade can be
+>linked to amplitude, though.
+
+These don't sound like examples of real-world dynamics.
+
+>It's unlikely that a period 3 cascade could be picked out from a chaotic
+>region with one parameter.
+
+Not unlikely at all, I've done it with my vocal cords.
+
+>In the Mandelbrot set, though, there is a
+>fairly large period 3 region.  Similar things might occur with
+>differential equations of 2 parameters for all I'd know.
+
+Actually, a differential equation needs to have at least 3 parameters
+for chaos to occur. However, the picture along whichever of the
+parameters is responsible for chaos will be the good old bifurcation
+diagram. The Mandelbrot set represents a discrete (not continuous)
+dynamical system, which only needs one parameter to exhibit chaos. If
+you restrict yourself to the real line, you see the usual bifurcation
+diagram again (proceeding from right to left). 
+
+>I think there
+>might even be a period 3, 9, 27, ... cascade in the Mandelbrot set.
+
+Naah, the Mandelbrot set is clearly all about period doubling; the
+iteration of a point on the set's boundary doubles the angle the point
+makes on the unit circle (to which the boundary can be conformally
+mapped). Although you could probably find some contorted path in the
+complex plane to support your guess.

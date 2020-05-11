@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Sat, 16 Nov 1996 07:04:53 -0800
+
+Subject: Re: Video or Virtual Keyboard
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> I hesitate to contribute...Has anyone proposed a horizontal touch screen
+monitor
+> that would marry the fingering layout to the scale in real time?
+
+   (Why do you hesitate to contribute?)
+
+   The fact that such a thing would, as you astutely pointed out, allow you to
+change the key layout as easily as changing a computer-generated image.  Two
+potential challenges come to mind though.
+
+   First, computer screens are nearly square as opposed to the extremely long
+and narrow, horizontal format of most any keyboard scheme.  Can we come up with
+key layouts that make sense on a nearly-square format?
+
+   I have thought of another type of controller than a keyboard (it would
+probably be too difficult to describe in words) but it does have one problem in
+common with this sort of thing:  It would be kinda tough to make velocity
+sensitivity detectable.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 16 Nov 1996 19:29 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11694; Sat, 16 Nov 1996 19:31:03 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA14378
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA11275; Sat, 16 Nov 1996 10:31:00 -0800
+Date: Sat, 16 Nov 1996 10:31:00 -0800
+Message-Id: <v01540b00aeb3b525e1aa@[204.74.9.166]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

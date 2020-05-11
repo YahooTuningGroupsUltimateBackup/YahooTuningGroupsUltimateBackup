@@ -1,0 +1,27 @@
+source file: mills2.txt
+Date: Tue, 19 Dec 1995 12:42:58 -0800
+
+Subject: RE: A program for the optimization of 12 tone tunings
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Jeff Welty <jwelty@wdni.com> writes:
+
+> Anyone interested?
+
+Sure. Maybe you can tell us how your program works, what is the
+expression you are optimising. Is it linear or nonlinear?
+What are the 12 note weights you mentioned?
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Dec 1995 21:48 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA03090; Tue, 19 Dec 1995 12:48:35 -0800
+Date: Tue, 19 Dec 1995 12:48:35 -0800
+Message-Id: <0099B1E361BED53A.4D16@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

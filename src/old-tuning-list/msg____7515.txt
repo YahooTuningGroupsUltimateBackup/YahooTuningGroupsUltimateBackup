@@ -1,0 +1,46 @@
+source file: m1391.txt
+Date: Mon, 20 Apr 1998 12:30:46 +0000
+
+Subject: Re: TUNING digest 1390
+
+From: david first <d1st@earthlink.net>
+
+Dear List:
+
+I have been receiving mail from this list for a couple of months now and felt
+it was time I leaped into the fray...
+
+As someone who has been de-tuning digital synthesizers - Casios (CZ's&VZ's),
+Yamahas (DX7II & TG77), and Kurzweil (K2000) - for twelve years, I am
+constantly surprised by what is considered acceptable pitch resolution for
+just tunings. Its been my experience that even the simplest of pitch arrays
+can be frustratingly arbitrary on any of the above named instruments. Of
+course, this would clearly be the case on the Casios and Yamahas which all had
+resolutions larger than one cent, but what finally opened my eyes was my
+initial experience with the k2000 which has a fine tuning resolution of one
+cent. The Kurzweil had less pure intervals available than the others! Upon
+reflection I realized that due to the larger than one cent tuning res. of the
+Casios (CZ - 1.667 ct res./VZ - 1.5625 ct res.) & the Yamahas (1.171875 ct
+res.), at least once in a while one could stumble upon a relationship that
+came somewhat close to a purely tuned inverval. On the other hand, the K2000,
+with its 1200 parts per octave was in essence a type of "equal temperament"
+with no possiblity of even accidentally coming close to the decimals needed
+for seriously just tunings. 
+
+Since this experience  (in 1992) I had the realization that the only way to
+achieve pure ratio derived tunings on a digital synth was to make my own
+samples at the desired frequencies and import them into my K2000. Perhaps some
+acceptable fudging can be done with the above instruments if one is composing
+percussive/pianistic types of music, but make no mistake - one is still only
+approximating just intonation when using ANY commercial hardware synth's
+tuning table.
+
+David First
+
+
+> >> >(K2500):  nTET and nCET scales can be
+> >> >created at the program level by adjusting a few parameters
+> >>    Perhaps you can provide some insight for Bill Meadows here:
+> >Achieving nTET and nCET scales of any degree on K2000/K2500s is explained
+> >in detail at my web site:
+> t

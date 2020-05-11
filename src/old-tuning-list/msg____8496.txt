@@ -1,0 +1,69 @@
+source file: m1531.txt
+Date: Sun, 20 Sep 1998 13:34:12 PDT
+
+Subject: scale derived by intersection of sets
+
+From: "Robin Perry" <jinto83@hotmail.com>
+
+Hello,
+
+I am new to the list and am enjoying the info swapping and dialougue
+very much.
+
+I have developed a scale you might find neat.
+
+It involves generating two sets of ratios (as outlined below) then
+finding the intersection of the two.
+
+In this case, the set to the right is exactly 3/2 of the set to the
+left.  I stopped where I have because I have not found any more common
+ratios beyond this point.
+
+  1/2:1/1:2/1         3/4:3/2:3/1
+  2/3:1/1:3/2         1/1:3/2:9/4
+  3/4:1/1:4/3         9/8:3/2:2/1
+  4/5:1/1:5/4         6/5:3/2:15/8
+  5/6:1/1:6/5         5/4:3/2:9/5
+  6/7:1/1:7/6         9/7:3/2:7/4
+  7/8:1/1:8/7       21/16:3/2:12/7
+  8/9:1/1:9/8         4/3:3/2:27/16 
+ 9/10:1/1:10/9      27/20:3/2:5/3
+10/11:1/1:11/10     15/11:3/2:33/20
+11/12:1/1:12/11     33/24:3/2:18/11
+12/13:1/1:13/12     18/13:3/2:13/8
+13/14:1/1:14/13     39/28:3/2:21/13
+14/15:1/1:15/14       7/5:3/2:45/28
+15/16:1/1:16/15     45/32:3/2:8/5
+
+The intersection of these two is:
+
+1/1  9/8  6/5  5/4  4/3  3/2  8/5  5/3  12/7  7/4  9/5  15/8  2/1
+
+or, if you're like me, you might prefer more conventional notation:
+
+A  B  C+  C#-  D  E  F+  F#-  F#++  G--  G+  G#- A
+
+The pluses and minuses represent 15 cents each, and are a modification
+to the standard 12 note equal temperament.  I use this system on a 
+guitar I had re-fretted (more about the guitar another time.)
+
+thanks,
+
+Robin Perry (jinto83@hotmail.com)
+2022 N. 10th St.
+Phoenix, AZ  85006  USA
+(602) 252-3961
+
+Oh, by the way... is anyone living in the area of Phoenix?
+I would be very interested in getting together.
+
+
+
+
+
+
+
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com

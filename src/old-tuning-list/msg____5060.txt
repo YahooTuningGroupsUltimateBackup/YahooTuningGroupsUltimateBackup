@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Wed, 12 Mar 1997 09:04:40 -0800
+
+Subject: Reply to John Chalmers (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>As for your more complex psychoacoustic model, what meantone-like
+>tuning(s) does it generate?
+
+If you are referring to the normal curve model I proposed, the answer is, 
+the same ones! It's a monotonic decreasing function of the sum of the 
+squared errors, so minimizing the latter is the same as maximizing the 
+former. If nothing else, the function is nice because is gives all tunings a 
+rating between zero and one.
+
+>As for "expressive unisons," they can be very poignant. I believe
+>Wyschnegradsky made considerable use of them.
+
+What is this referring to?
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 12 Mar 1997 19:18 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03417; Wed, 12 Mar 1997 19:18:02 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03415
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA20139; Wed, 12 Mar 1997 10:16:33 -0800
+Date: Wed, 12 Mar 1997 10:16:33 -0800
+Message-Id: <009B12A1F682E230.6D2A@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

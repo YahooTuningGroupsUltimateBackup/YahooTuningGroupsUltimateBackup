@@ -1,0 +1,98 @@
+source file: mills2.txt
+Date: Fri, 7 Feb 1997 21:17:45 -0800
+
+Subject: pitch specification in CET
+
+From: Gary Morrison <MorriSonics@compuserve.com>
+
+Bill Alves raised a very meaningful question about 88CET or other
+tunings that don't boil down to some number of steps per so-and-so
+interval:  
+
+> if you're using a tuning system that does not replicate any particular 
+> interval, how do you specify pitches?  Do you just pick one pitch as the 
+> starting point and number them?  That seems rather awkward.
+
+   Well, Bill posed that question in a very general way, but certainly not
+an inappropriate way.  I'll suggest though that a better way to approach it
+is to assume that you'll devise some sort of organization for the tuning. 
+Without some sort of organizational principle, it's chaos.  You have no
+framework in which to compose.  
+
+   Some would suggest that establishing a framework or underlying
+organization is too restrictive for the freedom needed to compose
+innovative new music.  I personally find the alternative too difficult a
+nut to crack - there are too many possibilities for creativity to flourish.
+ I find that I have to break the problem down to something simpler before I
+can get anything done.  
+
+   So, generally speaking, I recommend organizing the notes not into spans
+of octaves but into spans of something else.  For example, in the case of
+88CET or Carlos' Alpha (78CET), you have good approximations to a 3:2 P5. 
+So, you in either of those tunings, you can organize their pitches into
+patterns that repeat in fifths.  
+
+   Were I working (so far I haven't yet) with my viola in 88CET, I would
+almost certainly build music from the scale pattern 2 1 2 2 1 (i.e.,
+whole-step, half-step, whole-step...) repeating in fifths.  That's very
+convenient on the viola or violin since their open strings are fifths
+apart.  (It's a little trickier on a 'cello since you run out of fingers.)
+
+   But for most of my work, I instead organize 88CET pitches by a "cycle"
+of perfect fifths wrapping within a subminor seventh (7:4 approximation). 
+That works out to a seven-step-per-cycle scale with the pattern 2 1 2 2 1 2
+1, and I give them traditional letter names, in this case A B C D E F G A. 
+Any note and the next higher or lower tone of the same note name is a
+subminor seventh apart rather than an octave apart.  There's an
+inconvenience that G-A is a half-step, but I learned my way around it
+pretty quickly.  I simply omit the G#/Ab key from the system.  
+
+   After you do that, you have a complete system of pseudokeys and
+pseudokey signatures.  Fifths look like what we normally think of as
+sixths, so sharps add in the order of C# A# F# D# B#..., and flats add in
+the order of Eb, Gb, Bb, Db, Fb...  So some of the pseudokeys work out to:
+
+Gb: Gb A  Bb C  D  Eb F  Gb
+Eb: Eb F  Gb A  B  C  D  Eb
+C:  C  D  Eb F  G  A  B  C
+A:  A  B  C  D  E  F  G  A
+F:  F  G  A  B  C# D  E  F
+D:  D  E  F  G  A# B  C# D
+B:  B  C# D  E  F# G  A# B
+
+   From that point you learn things analogously with how you'd learn things
+in an octave-based tuning (pretty much rote but with auditory reinforcement
+and memory), for example:
+Intervals:  
+   - Subminor third (~7:6) above the root is the third step in the scale,
+   - Supramajor third (~9:7) is the fourth step in the scale,
+   - The perfect fifth is the sixth step in the scale,
+   - The major tenth is the fifth step in the second cycle of the scale,
+etc.
+Chords:
+   - A supramajor third-stack triad is scale steps 1, 4, and 7.
+   - A harmonic-series fragment (4:6:7:9:10:11:15) approximation can be
+found 
+     at scale steps 
+     First cycle:  1, 6, 
+     Second cycle: 1, 4, 5, #6, 
+     Third cycle:  #3.  
+
+   It becomes its own new world of its own with all new nomenclature,
+possibly new notation, new harmony rules, and such.  But once you get to
+know it, it makes as much sense as the traditional system.  In some cases
+it's a similar kind of sense, and others it's a very different kind of
+logic.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 8 Feb 1997 06:23 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29649; Sat, 8 Feb 1997 06:23:36 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29702
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id VAA15686; Fri, 7 Feb 1997 21:22:03 -0800
+Date: Fri, 7 Feb 1997 21:22:03 -0800
+Message-Id: <199702080015_MC2-10FE-B3F4@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

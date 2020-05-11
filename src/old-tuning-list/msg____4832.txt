@@ -1,0 +1,66 @@
+source file: mills2.txt
+Date: Wed, 19 Feb 1997 00:35:27 -0800
+
+Subject: Re: Classifying Tunings
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+TONY SALINAS wrote:
+> 
+> I can see two clear groups of tunings:
+> 
+> A) The ones using fractions as ratios
+> 
+> B) The ones using roots to determine the ratio
+
+It's interesting to note the the ones using roots
+still use ratios as the interval for which a root
+is found. Most often, the ratio for which roots
+are found is 2:1, but not always.
+
+I think there are more categories. 
+
+What about equal temperaments of transcendental numbers (the most 
+abundant numbers), which are neither ratios nor roots of ratios?
+
+What about "modulated equal temperaments"? These would be
+pitch sets which are sort of like equal temperaments but 
+which vary in step size along the "scale" according to a given
+curve. For example, using a sine curve, the widths would 
+cycle from narrow to wide and back again as you move up the 
+"scale". I think either a slanted line or a log scale applied 
+to a modulated equal temperament would produce an harmonic 
+series.
+
+What about sets of "found" pitches--pitches which are determined 
+randomly or from some natural data (like stock prices). I read
+a neat post in the archives, but lost it again, which described
+how someone would find the most comfortable finger positions for
+a wood flute before drilling the holes. That determined the 
+pitch set for the instrument, for which music was then composed.
+
+There are conceivably as many pitch set categories as there are
+categories of numbers and number sets. I suspect, as John Starret 
+here wrote, that "...we may be hardwired for mathematical 
+understanding of all that we can understand mathematically, and 
+that may spill over into musical understanding...". I think we
+can perceive different qualities in pitch sets derived by 
+different mathematical means, given that the instrument has 
+good enough resolution to distinguish them and that the actual 
+pitch differences are large enough to fall above the threshold 
+of perception.
+ 
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 19 Feb 1997 10:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11275; Wed, 19 Feb 1997 10:15:04 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA11272
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id BAA05320; Wed, 19 Feb 1997 01:13:21 -0800
+Date: Wed, 19 Feb 1997 01:13:21 -0800
+Message-Id: <330AC216.1551@ix.netcom.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

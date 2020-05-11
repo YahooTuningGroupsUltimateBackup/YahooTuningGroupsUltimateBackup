@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Wed, 12 Mar 1997 15:02:45 -0800
+
+Subject: RE: Meaner tones again (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+John C. wrote,
+
+>Somewhat to my surprise, using the ABS function did not generate
+>any tunings different from the ones I got by the lst squares
+>technique or simply setting the errors equal or opposite. The
+>exact solution depended upon whether I minimized the abs(sum)
+>or sum of ABS (errors) as expected, but the results were still
+>tunings I already had.
+
+Uh, abs(sum) seems like a bad idea, since pos. and neg. errors cancel out in 
+the sum. As for sum of abs(errors), you certinaly get different results from 
+least squares. Using the three intervals in the 5-limit triad, the best 
+meantone tunings according to absolute error have fifths of 696.57842466 
+cents (unweighted) and 696.57841680 cents (limit-weighted). I normally don't 
+use so many decimal places but you need to to see the difference between 
+these two! Maybe you only thought you got tunings you already had!
+
+ -Paul E.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 13 Mar 1997 06:00 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06689; Thu, 13 Mar 1997 06:00:26 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA06685
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id UAA10749; Wed, 12 Mar 1997 20:58:57 -0800
+Date: Wed, 12 Mar 1997 20:58:57 -0800
+Message-Id: <33279CD4.1381@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

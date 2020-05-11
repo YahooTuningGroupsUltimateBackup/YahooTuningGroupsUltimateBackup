@@ -1,0 +1,27 @@
+source file: m1544.txt
+Date: Sun, 04 Oct 1998 07:33:30 -0500
+
+Subject: Re: beats me
+
+From: Gary Morrison <mr88cet@texas.net>
+
+> Thus (for example) a sine with frequency 100 Hz and another with
+> frequency 101 Hz when sounded together appear to be a single wave
+> at frequency 100.5 Hz with a beat rate (amplitude modulation) of 1
+> Hz. This is the kind of beating that Bram is (I think) trying to cancel
+> by adding back in appropriately chosen waves.
+
+> I see no theoretical reason why Bram's suggestion shouldn't be do-
+> able.
+
+   I probably didn't follow Bram's suggestion then.  In the case of Bill's
+example, Bram, were you suggesting to add a wave at 100.5Hz whose amplitude
+is a constant minus the amplitude of the composite waveform?  If so, then
+as Bill said, yes, it seems like that ought to work.  It would seem pretty
+involved when you get into nonsinusoidal waveforms, though.
+
+   I was thinking, apparently incorrectly, that (again using Bill's
+example) you expected to be able to remove the beating phenomenon by adding
+a 1Hz sinewave to the 100Hz & 101Hz composite wave.  That didn't seem
+likely to work auditorially, and certainly doesn't mean anything in terms
+of the objective tones.

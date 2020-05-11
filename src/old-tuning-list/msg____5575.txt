@@ -1,0 +1,59 @@
+source file: mills2.txt
+Date: Sun, 1 Jun 1997 22:35:32 +0200
+
+Subject: My +/- 2 cents-worth
+
+From: DFinnamore@aol.com
+
+In a post from digest #1089 Daniel Wolf suggested:
+
+
+>  [A] discussion of the benefits and disadvantages of out-of-tuneness might
+be
+>  worthwhile for this list.
+
+Sounds good to me.  Here's my 2 cents-worth, if you will.
+
+1)  When everything in a piece is justly tuned within 2 cents or so, the
+blend is so thorough that individual melodic lines are in danger of losing
+their identity.  Too much homogeneity.  This can be remedied to a certain
+extent by carefully using contrasting timbres between parts.  However, a more
+musically useful solution can be to give the melody instrument, and any other
+part where its movement is melodically important, the freedom to use pitch
+inflections so that the attack phase is "out of tune" enough to provide the
+distinction of its part, then falls back into just tune.  Psychologically,
+the listener can continue to "hear" the distinct note and its timbre even
+after its tone has blended into the harmony.
+
+2)  On a related note (oops!), when too many tones are representing too many
+partials of a given fundamental at once, the parts can completely lose their
+identity.  I tried making a chord once that used the first 32 partials of a
+fundamental tone (my synth is 32-note polyphonic, so there ya go).  It didn't
+sound like a chord at all - it sounded like one humongous note.  A very
+powerful sound in its own right, like an orch hit in a way, but not providing
+any possibility of polyphonic function of the individual parts.  Reminded of
+the Borg on Star Track (g).  This technique appears to be an excellent
+sound-design tool, by the way.  Try it with "wide" sounds (pitch-wise) like
+string-section or choir samples.  Soundtrack city!
+
+To summarize, the choice between just and non-just tuning could be seen as an
+opportunity to strike a balance between the individual freedom of each part,
+and a sense of "community" and cooperation between the parts.  Not trying to
+start any political arguments here!
+
+David J. Finnamore
+Just tune it!
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 1 Jun 1997 23:08 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06148; Sun, 1 Jun 1997 23:08:08 +0200
+Date: Sun, 1 Jun 1997 23:08:08 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA06141
+Received: (qmail 24945 invoked from network); 1 Jun 1997 21:07:58 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Jun 1997 21:07:58 -0000
+Message-Id: <Pine.GSO.3.95.970601170052.6924A-100000@u2.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

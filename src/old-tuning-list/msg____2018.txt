@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Wed, 20 Sep 1995 21:29:46 -0700
+
+Subject: 88CET #12:  Experimental Chord-Finding
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Probably the easiest and most productive, but least predictable, way to find
+new chords in 88CET is simply by experimentation.  Most of the really surprising
+chords I've located thus far have come from mere experimentation, and really
+don't match any of the above formulas, except in fragments.  
+
+   As in traditional tunings, an easy way to locate potentially interesting
+88CET chords is to start with a chord from a known formula and change a few
+intervals around.  One scenario that often produces interesting results is
+turning a perfect fifth within a chord to tritone or a minor sixth.  That also
+often produces interesting chord variants in traditional tuning, but 88CET has
+subtly different-sounding tritones and minor sixths from most traditional
+tunings.  
+
+   When locating 88CET chords from scratch, you often have to work with what I
+jokingly refer to as "landmines".  This again refers to the problem of avoiding
+those false perfect consonances.  Consider the task of experimentally choosing a
+chord in isolation, without regard to voice-leading with the chords around it.
+Before you choose any chord tones, all pitches are available.  As soon as you
+choose one pitch, that pitch lays down landmines at pitches 13, 14, 22, and 27
+88c steps above and below that pitch.  If the resultant chord steps on those
+pitches, it's dead!  So you have to choose pitches other than those.  As soon as
+you choose another such pitch, it too lays down its own landmines.  
+
+   One of the most important aspects to bear in mind from this regards
+chord-tones thirds apart, and the landmines for the false twelfth and
+double-octave, and to a lesser degree the sharp false-octave.  With the
+landmines for each single tone a fourth and a fifth apart, and those between
+notes thirds apart, the choices available for tones in those pitch ranges
+dwindle rapidly.  This can often lead to widely-spaced chords.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 21 Sep 1995 23:46 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA28609; Thu, 21 Sep 1995 14:46:45 -0700
+Date: Thu, 21 Sep 1995 14:46:45 -0700
+Message-Id: <Pine.SOL.3.91.950921164627.7772D-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

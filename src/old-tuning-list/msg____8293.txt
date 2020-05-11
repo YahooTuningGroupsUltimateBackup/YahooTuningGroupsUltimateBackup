@@ -1,0 +1,308 @@
+source file: m1489.txt
+Date: Wed, 29 Jul 1998 23:55:02 -0700 (PDT)
+
+Subject: Re: Meantone nanotemperament chart
+
+From: "M. Schulter" <mschulter@value.net>
+
+-------------------------------------
+                       Meantone nanotemperament chart:
+                        Some options for synthesizers 
+                    -------------------------------------
+
+Meantone, strictly speaking, denotes tunings where all fifths (except
+possibly one) are tempered by an identical amount. In practice, the
+term refers to tunings where these fifths have "essentially" the same
+size. In the 16th or 18th century, the technical and human limitations
+of organ and harpsichord tuning dictated this pragmatic qualification
+of the ideal definition. Today, the limitations of digital synthe-
+sizers have the same result.
+
+Here I would like to focus on the range of meantone tunings for such
+synthesizers offering 512, 768, or 1024 tuning steps per octave. Since
+these synthesizers approximate the scales of 512-tone, 768-tone, and
+1024-tone equal temperament (512-tet, 768-tet, 1024-tet), we may refer
+to them as "512-tet," "768-tet," and "1024-tet" devices. Optimizing
+the flexibility of these instruments for exploring the meantone
+spectrum involves a process which I call _nanotemperament_.
+
+Nanotemperament is the technique of mixing interval sizes that may
+vary by one tuning unit in order to correct for cumulative errors or
+to realize an _average_ interval size falling somewhere between the
+available steps.[1]
+
+An example may help both to explain the technique and to make the
+chart appearing below more comprehensible.
+
+Beginning with a choice example indeed, let us suppose that we wish to
+tune Ervin Wilson's "metameantone" temperament, where each fifth is
+equal to 695.6304372 cents -- a tempering of 6.324563665 cents. For
+the following comparisons, let us use a rounded size of 695.63 cents.
+
+Unfortunately, our best approximations of this metameantone fifth in
+512-tet, 768-tet, 1024-tet are indeed quite approximate:
+
+      512-tet                 768-tet                  1024-tet
+steps  cents  var+/-    steps  cents  var+/-     steps   cents  var+/-
+296   693.75   -1.88     445   695.31  -0.32      593   694.92  -0.71
+297   696.09   +0.46     446   696.87  +1.24      594   696.09  +0.46    
+
+In strict meantone tuning, each regular major third is derived from
+four fifths of identical size. Thus if we must use a single size of
+fifth, our major thirds will vary from their intended size of about
+382.52 cents by four times the indicated variance. These thirds will
+be about 1.28 cents narrow in 768-tet using our best approximation of
+a 445-step fifth, and 1.84 cents wide in 512-tet or 1024-tet using a
+297-step fifth or 594-step fifth respectively.
+
+Fortunately, we can get considerably more accurate results than these
+by a process of nanotempering, or mixing the two sizes of fifths most
+closely approximating our desired interval size in order to balance
+out some of the differences. Here is a nanotemperament table for the
+the same metameantone tuning, with 512-tet and 1024-tet temperaments
+listed in the same column, since the former are a subset of the
+latter. A dashed line between the columns shows that a 768-tet and
+1024-tet tuning share the same average size for the fifth, ditto marks
+(") show that a 512-tet tuning (marked with an * symbol) is equivalent
+to the 1024-tet tuning on the previous line of the chart:
+
+              768-tet                         512-tet/1024-tet
+                                             (* = 512-tet steps)
+    steps      cents    var+/-           steps       cents    var+/-
+444(1)-445(3)  694.92    -0.71 --------  593         694.92    -0.71
+                                    *296(2)-297(2)     "         "
+                                     593(3)-594(1)   695.21    -0.42
+     445       695.31    -0.32 
+                                     593(2)-594(2)   695.51    -0.12
+                                    *296(1)-297(3)     "         "
+445(3)-445(1)  695.70    +0.07        
+                                     593(1)-594(3)   695.80    +0.17
+445(2)-446(2)  696.09    +0.46 -------    594        696.09    +0.46       
+                                         *297          "         "
+                                     594(3)-595(1)   696.39    +0.76
+445(1)-446(3)  696.48    +0.85
+                                     594(2)-595(2)   696.68    +1.05
+                                    *297(3)-298(1)     "         "
+     446       696.87    +1.24
+
+Here the notation in the 768-tet column of "445(1)-446(3)" translates:
+"Tune one fifth of 445 steps and three fifths of 446 steps in each
+chain of four generating a major third." As it turns out, this tuning
+produces an _average_ fifth of 695.70 cents, only 0.07 cents wider
+than the ideal metameantone fifth.
+
+In 1024-tet, similarly, tuning two 593-step fifths and two 594-step
+fifths yields an average fifth of 695.51 cents, only 0.12 cents
+narrower than our goal. We get the same average size of fifth in
+512-tet by tuning one 296-step fifth and three 297-step fifths.
+
+What follows is a very tentative adumbration of the meantone spectrum
+as realized by these devices, or actually the portion of the spectrum
+beginning around 1/3 syntonic comma of temperament, moving through
+characteristic Renaissance and Baroque tunings (1/3-1/6 comma) and the
+"well-tempered" zone surrounding 12-tet (1/7-1/14 comma) to
+Pythagorean intonation ("0-comma meantone") and beyond, taking our
+survey a bit further than the region of 17-tet (roughly 5/27-comma of
+tempering in the _wide_ direction).
+
+Note that 512-tet, 768-tet, and 1024-tet share some nanotemperaments,
+an expected result since these numbers of steps are all divisible by
+256.[2] A dashed line in the middle of the chart shows points where
+768-tet and 1024-tet options coincide. One 1024-tet nanotemperament
+out of two has a 512-tet equivalent, which is listed immediately below
+it with ditto (") marks to show this equivalence.[3]
+
+At various points in the chart, historical and recent meantone
+temperaments of interest are indicated as landmarks or points of
+reference; my warm thanks to John Chalmers for lists including some of
+these temperaments and many others of interest from the viewpoint of
+just intonation systems and xenharmonics.
+
+
+----------------------------------------------------------------------
+                 Meantone nanotemperaments for synthesizers
+----------------------------------------------------------------------
+               768-tet                         512-tet/1024-tet
+                                             (* = 512-tet steps)
+Nanopattern    cents     temp+/-       Nanopattern    cents     temp+/-
+     444       693.75     -8.21 -------     592       693.75     -8.21
+                                           *296         "          "
+                                       592(3)-593(1)  694.04     -7.91
+444(3)-445(1)  694.14     -7.81
+                                       592(2)-593(2)  694.34     -7.62  
+                                      *296(3)-297(1)    "          "
+444(2)-445(2)  694.53     -7.42
+                                       592(1)-593(3)  694.63     -7.33
+----------------------------------------------------------------------
+        Salinas 1/3-comma meantone = 694.59 cents = -7.17 cents
+----------------------------------------------------------------------
+444(1)-445(3)  694.92     -7.03 -------     593       694.92     -7.03
+                                      *296(2)-297(2)    "          "
+                                       593(3)-594(1)  695.74     -6.74
+     445       695.31     -6.64
+----------------------------------------------------------------------
+ Harrison/LucyTuning (M3 1200/pi cents) = 695.49 cents = -6.46 cents
+----------------------------------------------------------------------
+                                       593(2)-594(2)  695.51     -6.45
+                                      *296(1)-297(3)    "          "
+----------------------------------------------------------------------
+           Wilson metameantone = 695.63 cents = -6.32 cents
+----------------------------------------------------------------------
+445(3)-446(1)  695.70     -6.25
+                                       593(1)-594(3)  695.80     -6.15
+----------------------------------------------------------------------
+            Zarlino 2/7-comma = 695.81 cents = -6.14 cents
+----------------------------------------------------------------------
+445(2)-446(2)  696.09     -5.86 --------    594       696.09     -5.86
+                                           *297         "          "
+                                       594(3)-595(1)  696.39     -5.57
+445(1)-446(3)  696.48     -5.47
+----------------------------------------------------------------------
+                 1/4-comma = 696.58 cents = -5.38 cents
+----------------------------------------------------------------------
+                                       594(2)-595(2)  696.68     -5.28
+                                      *297(3)-298(1)    "          "
+                                      (Erlich's 1/4-comma for 512-tet)
+     446       696.88     -5.08
+                                       594(1)-595(3)  696.97     -4.98
+446(3)-447(1)  697.27     -4.69 -------     595       697.27     -4.69
+                                      *297(2)-298(2)    "          "
+                                       595(3)-596(1)  697.56     -4.40
+446(2)-447(2)  697.66     -4.30 
+----------------------------------------------------------------------
+                 1/5-comma = 697.65 cents = -4.30 cents
+----------------------------------------------------------------------
+                                       595(2)-596(2)  697.85     -4.10
+                                      *297(1)-298(3)    "          "
+446(1)-447(3)  698.05     -3.91
+                                       595(1)-596(3)  698.14     -3.81
+----------------------------------------------------------------------
+                 1/6-comma = 698.37 cents = -3.58 cents
+----------------------------------------------------------------------
+     447       698.44     -3.52 --------    596       698.44     -3.52
+                                           *298         "          "
+                                       596(3)-597(1)  698.73     -3.22
+447(3)-448(1)  698.83     -3.13
+----------------------------------------------------------------------
+                 1/7 comma = 698.88 cents = -3.07 cents
+----------------------------------------------------------------------
+                                       596(2)-597(2)  699.02     -2.93
+                                      *298(3)-299(1)    "          "
+----------------------------------------------------------------------
+     "New Temp" (listed by Chalmers) = 699.14 cents = -2.82 cents
+----------------------------------------------------------------------
+447(2)-448(2)  699.22     -2.74
+----------------------------------------------------------------------
+                 1/8 comma = 699.27 cents = -2.69 cents
+----------------------------------------------------------------------
+                                       596(1)-597(3)  699.32     -2.64
+----------------------------------------------------------------------
+                 1/9 comma = 699.57 cents = -2.38 cents
+----------------------------------------------------------------------
+447(1)-448(3)  699.61     -2.35 --------    597       699.61     -2.35
+                                      *298(2)-299(2)    "          "
+----------------------------------------------------------------------
+Twelfth 5th pure = 1/11 Pythagorean comma = 699.82 cents = -2.13 cents
+                1/10 comma = 699.80 cents = -2.15 cents
+----------------------------------------------------------------------
+                                       597(3)-598(1)  699.90     -2.05
+     448       700.00     -1.96  
+       (12-tet, ~1/11 comma)
+                                       597(2)-598(2)  700.20     -1.76
+                                      *298(1)-299(3)    "          "
+448(3)-449(1)  700.39     -1.56
+                                       597(1)-598(3)  700.49     -1.47
+448(2)-449(2)  700.78     -1.17 --------    598       700.78     -1.17
+                                           *299         "          "
+                                       598(3)-599(1)  701.07     -0.88
+448(1)-449(3)  701.17     -0.78
+                                       598(2)-599(2)  701.37     -0.59
+                                      *299(3)-300(1)    "          "
+     449       701.56     -0.39
+                                       598(1)-599(3)  701.66     -0.29
+----------------------------------------------------------------------
+Helmholtz 1/8 schisma (pure schisma M3) = 701.71 cents = -0.24 cents       
+          1/9 schisma (pure schisma m3) = 701.74 cents = -0.22 cents
+----------------------------------------------------------------------
+449(3)-450(1)  701.95   -0.0019 --------    599       701.95   -0.0019
+                                      *299(2)-300(2)    "          "
+----------------------------------------------------------------------
+              Pythagorean just intonation = 701.955 cents
+----------------------------------------------------------------------
+                                       599(3)-600(1)  702.24     +0.29
+----------------------------------------------------------------------
+   Positive Lucy (schisma M3 1200/pi) = 702.25 cents = +0.30 cents
+----------------------------------------------------------------------
+449(2)-450(2)  702.34     +0.39
+                                       599(2)-600(2)  702.54     +0.58
+                                      *299(1)-300(3)    "          "
+449(1)-450(3)  702.73     +0.78
+                                       599(1)-600(3)  702.83     +0.88
+     450       703.13     +1.17 --------    600       703.13     +1.17
+                                           *300         "          "     
+                                       600(3)-601(1)  703.42     +1.46
+450(3)-451(1)  703.52     +1.56
+                                       600(2)-601(2)  703.71     +1.76
+                                      *300(3)-301(1)    "          "
+450(2)-451(2)  703.91     +1.95
+                                       600(1)-601(3)  704.00     +2.04
+450(1)-451(3)  704.30     +2.34 --------    601       704.30     +2.34
+                                      *300(2)-301(2)    "          "
+                                       601(3)-602(1)  704.59     +2.63
+     451       704.69     +2.73
+                                       601(2)-602(2)  704.88     +2.93
+                                      *300(1)-301(3)    "          "
+451(3)-452(1)  705.08     +3.12
+                                       601(1)-602(3)  705.18     +3.22
+451(2)-452(2)  705.47     +3.51 --------    602       705.47     +3.51 
+                                           *301         "          "
+                                       602(3)-603(1)  705.76     +3.81  
+451(1)-452(3)  705.86     +3.90
+----------------------------------------------------------------------
+                     17-tet = 705.88 cents = +3.93 cents       
+----------------------------------------------------------------------
+                                       602(2)-603(2)  706.05     +4.10
+                                      *301(3)-302(1)    "          "
+     452       706.25     +4.29
+                                       602(1)-603(3)  706.35     +4.39
+452(3)-453(1)  706.64     +4.69 --------    603       706.64     +4.69
+                                      *301(2)-302(2)    "          "
+                                       603(3)-604(1)  706.93     +4.98
+452(2)-453(2)  707.03     +5.08
+                                       603(2)-604(2)  707.23     +5.27
+452(1)-453(3)  707.42     +5.47
+                                       603(1)-604(3)  707.52     +5.56
+     453       707.81     +5.86 --------    604       707.81     +5.86
+                                           *302         "          "
+______________________________________________________________________
+----------------------------------------------------------------------
+
+
+                         ----------------
+                              Notes
+                         ----------------
+
+1. While the term "nanotemperament" or "nano-temperament" _may_ be
+new, the process itself and its applications to meantone tunings for
+synthesizers have been documented by Paul Ehrlich for some time. I
+would like warmly to thank this microtonalist and scholar for his
+generous encouragement, and for his many contributions to this and
+other areas of tuning theory and xenharmonics.
+
+2. This pattern reminds me a bit of late 14th-century European
+compositions combining melodic lines in duple and triple meters, with
+the rhythmic units converging every so often.
+
+3. The "equivalence" here is not exact: the _average_ size of the
+fifths, and thus the size of the regular major thirds, are indeed
+shared by our "equivalent" tunings, but sizes both of specific fifths
+and of other intervals will vary.
+
+Margo Schulter
+mschulter@value.net
+29 July 1998
+
+------------------------------
+
+End of TUNING Digest 1489
+*************************

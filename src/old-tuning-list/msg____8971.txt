@@ -1,0 +1,77 @@
+source file: m1607.txt
+Date: Fri, 18 Dec 1998 17:52:07 -0500
+
+Subject: Re: steel bar tunings by Rick Sanford
+
+From: "Darren Burgess" <dburgess@acceleration.net>
+
+Rick Sanford writes:
+
+>>>
+Question number one is - How are the bars suspended
+thus where are the nodes?
+
+( are they held only at one end 
+        or are they drilled at two (or more) points
+        and suspended there)
+>>>
+ Darren Replies:
+
+Rather than approach this one question at a time, I have included below all
+of the characteristics of the bars.  The main problem I have encountered
+with tuning them is that grinding between the nodes causes a phase or
+beating effect.  I want to tune the bars, but preserve their timbre.  I
+have tried a few things which are detailed below.  Any ideas you have,
+Rick, or any one else on the list, would be greatly appreciated.
+
+These bars comprise 1961 bell instrument that attempts to mimic cast bell
+carillons.  Characteristics of the bars:
+
+1.  Each has two solenoid strikers.  One primarily emphasizes the
+fundamental (placed at the end of the bar), the other the second harmonic
+(place just inside the vibrational node).  This creates an overlap
+ofoctaves between the adjacent octave racks of bars. (5 racks of bars)
+
+2.  The bars are varying lengths from about 20 cm to about 56 cm.  4 mm
+square at the end (3/16th")
+
+3.   the bars each have 3 brass (or bronze?) collars firmly attached along
+predictable but somewhat
+inconsistent places between the vibrational nodes.  They follow a general
+pattern but are not in exactly the same relative postion from bar to bar. 
+It is my theory that these collars are used to tune and/or supress the
+inharmonic partials.   The Collars are larger on the longest bars 5/16th"
+wide, 3/32" wide on the shorter bars
+I have experimented a little with moving them and
+have found doing so creates significant changes in the timbre of the bar. 
+I have also noted that moving one collar further from its original position
+causes a "beating" effect -- the further from original, the faster the
+beating.  This is not a very predicable, consistent effect.
+
+4.  Tuning of the bar by grinding metal from between the
+vibrational nodes lowers the fundamental frequency as expected.  It has the
+unfortunate effect of causing a slight phasing of about 2 cycles/second,
+and significant loss of the original timbre of the bar.
+****What is the cause of this effect?****  This effect is somewhat
+corrected by moveing the brass collars, but not perfectly. 
+Placing weight on the end of bar also lowers the frequency, but that also
+causes a phase effect. 
+I am experimenting with various tuning methods to determine how tune
+without causing a phase effect.  
+
+5.  There are five octaves of bars.
+
+6.  There is a notch cut away on either side of each bar at the vibrational
+nodes (20% of the length of the bar) effectively making the bars thinner at
+the nodes. About 1/16th" thick at the nodes.
+
+7.  The bars are suspended with string.  On one end the suspension point is
+close to the vibrational node.  On the other end, it is at bit further from
+the node, and closer to the end of the bar.  The suspension points are
+consistent, relative to the total length of each bar.  The longest bar is
+56.6 cm. Each of the nodes are at 11.6 cm (20%).  The suspension point on
+the "magnet" end is at 7.5 cm (13% of the total length).  The suspension
+point on the "solenoid" end is at 10.6 cm (18%)
+
+8.  Each bar has a small but strong magnet one end that pokes up thru a
+coil of magnet wire.

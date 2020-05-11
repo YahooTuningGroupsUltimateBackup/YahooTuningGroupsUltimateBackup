@@ -1,0 +1,51 @@
+source file: mills3.txt
+Date: Fri, 9 Jan 1998 17:31:27 +0100
+
+Subject: Re: TUNING digest 1293 jloffink
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+In  TUNING digest 1293 John Loffink asked
+"Do you want octave based tables?
+Do you want keyboard based tables? (Remember, these are virtually
+impossible to retune note by note on the fly, ala Justonic Pitch Palette,
+because of the limited MIDI bandwidth)
+How many tables do you need?
+Are the tables assigned globally or per MIDI channel?
+Do you need to switch between tables or notes in realtime, and if so should
+notes be updated immediately or on new notes only?
+Is the MIDI Tuning Dump Standard supported?"
+
+I'm sure those that are exploring the non-octave based tunings such as Wendy
+Carlos' Alpha and 88CET would prefer at least having an option other than
+octave based tables.  The fastest and easiest but most proprietary way of
+switching tunings is to have multiple "banks" resident in synth memory and
+switch them with a simple bank number.  Up to 128 "banks" would be nice,
+that way you could specify them with a single character in the MIDI stream.
+
+If you are using a tuning with a lot of pitches such as more than 31TET your
+range of octaves becomes limited (128 note numbers divided by the number of
+pitches) so you would want separate channels to have different tuning
+ranges.  Global tunings are handy when you have multiple synths and you want
+them to be in tune.
+
+We've covered the realtime versus next note on the list before and I think
+the consensus was that most people would like to have the option.  Perhaps
+it should be part of the "bank" specification.  Starting note number could
+go here also.
+
+Here's an idea.  How about having some "banks" predifined as tunings that
+are in common use such as 19 and 31 TET Valotti+Young and others specified
+as "user".
+
+You should be able to set up a "bank" or "banks"  to receive a MIDI Tuning
+Standard dump prior to a performance and switch between the "banks" in real
+time.  I use the term "bank" in quotes because it is a term much used with
+slightly different meanings by synth players.
+
+---Fred.
+
+
+---------------------------------------------------------
+ Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+ phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca

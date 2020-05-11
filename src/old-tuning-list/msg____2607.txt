@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Fri, 1 Mar 1996 13:08:07 -0800
+
+Subject: Re: TUNING digest 640
+
+From: Andrew Milne <andymilne@dial.pipex.com>
+
+>Date:     Wed, 21 Feb 1996 13:50 +0100
+>From: COUL@ezh.nl (Manuel Op de Coul)
+>To: tuning
+>Subject: All proper modes of ET
+>Message-ID: <0099E3EC0A785B46.B7B1@ezh.nl>
+>
+>On Brian's request I have written a computer program for finding 5-,
+>6-, 7-, 8-, and 9-note modes of equal temperaments with fifths less
+>than 21 cents away from 3/2 and the fifth degree relatively prime to
+>the number of notes.
+>I have restricted the list to proper and strictly proper modes 
+
+I missed the original request made by Brian, but I am interested to know exactly why proper and 
+strictly proper modes ("A mode is called proper when all intervals of an interval class are not 
+smaller than those of lower interval classes. It is called strictly proper when all intervals of 
+an interval class are larger than the ones of lower classes" - Manuel Op de Coul) are considered 
+to have more validity, or be more interesting than modes which are not proper?
+
+Is there a theoretical justification for this position?
+
+				Andy
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 1 Mar 1996 22:22 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA12053; Fri, 1 Mar 1996 13:21:40 -0800
+Date: Fri, 1 Mar 1996 13:21:40 -0800
+Message-Id: <9603012120.AA27083@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,61 @@
+source file: mills3.txt
+Date: Wed, 1 Oct 1997 21:10:48 +0200
+
+Subject: Re: CAL language
+
+From: Peter.Blasser@oberlin.edu
+
+Yeah, I usedthe cakewalk cal language for a while, until I decided to get
+into designing my own program.  I made a nice little tonality diamond that
+inserted notes into the sequencer at the time that the cursor was on.  As
+I remember (as I do not have the program with me right now, but might be
+able to send it later), there is no ability to create universal variables,
+only instance variables.  This means that you must use the only three
+universal variables available to you- now, thru and from.  The now should
+not be changed, as it is the position that the cursor is at- you should
+access this for the time of your event.  I used either from or thru to set
+the duration of the note.  I did it thus:  I made buttons that represented
+quarter, eigth, etc. notes, and in these I think the only operation was
+thru = 120; for a quarter note, thru = 60; for an eighth, and so on.
+Then, thru would be used by each of my diamond buttons as the length
+value.  It's really a simple evaluation; as I don't remember the code, i
+can't give an example, but remember to multiply cents value by 41.6 or so
+in order to get the correct pitch bend amount.  Good luck, but remember
+that cal is not designed for programs that large, and they are therefore
+slow and awkward.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[Peter Blasser
+[Oberlin College Mailroom Box #277, 135 W.Lorain St.,
+[Oberlin, Ohio, 44074-1081.
+[Peter.Blasser@Oberlin.edu       .             .            .           .
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Peter.Blasser@oberlin.edu
+Subject:  Sorry, Cal emendation
+PostedDate:  01-10-97 23:21:08
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-10-97 23:20:48-01-10-97 23:20:49,01-10-97 23:19:44-01-10-97 23:19:45
+DeliveredDate:  01-10-97 23:19:45
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256523.00753E30; Wed, 1 Oct 1997 23:20:36 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04335; Wed, 1 Oct 1997 23:21:08 +0200
+Date: Wed, 1 Oct 1997 23:21:08 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04330
+Received: (qmail 1513 invoked from network); 1 Oct 1997 14:21:05 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Oct 1997 14:21:05 -0700
+Message-Id: <Pine.PMDF.3.95.971001171903.162964A-100000@OBERLIN.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

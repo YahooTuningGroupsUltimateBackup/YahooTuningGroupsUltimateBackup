@@ -1,0 +1,71 @@
+source file: m1420.txt
+Date: Tue, 19 May 1998 06:28:10 -0700 (PDT)
+
+Subject: Tuning Digest research tips
+
+From: Mark Nowitzky <nowitzky@alum.mit.edu>
+
+FYI, there's an "automatic" way to handle stuff like this:
+
+In Digest 1419 Topic 10, Graham replied to Joe:
+>From: gbreed@cix.compulink.co.uk (Graham Breed)
+>Subject: Reply to Joseph Monzo, mostly on Schoenberg
+>
+>> Who's Gregg Gibson?  I've been receiving the Tuning Digest since
+>> # 1314.  (Email me something -- I'd like to see it).
+>
+>He had "a strong presence" on the list between digests 1260 and
+>1278.
+>...
+>that clutch of digests take up over 600Kb, and it isn't practicable
+>for me to forward them with the hardware I'm using at the moment.
+
+The so-called "list processor" can get you this stuff automatically.  What
+you do is send emails to listproc@eartha.mills.edu, telling the machine what
+you want in the text of the message.
+
+For example, to find references to Gregg Gibson, send an email to
+listproc@eartha.mills.edu, with the following in the text of the message:
+
+        search tuning gregg&gibson
+
+This'll return to you (in a couple of minutes) an email containing the names
+of all files in the archive containing "gregg" and "gibson".  Then, you can
+send another email, a "view" request, to listproc@eartha.mills.edu to get
+the file(s) you want.
+
+This mechanism also handles the "lost digest" problem:
+
+In Digest 1417 Topic 5, Drew wrote:
+>From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+>Subject: Archive for current digests? I lost one
+>
+>I just lost Tuning Digest 1416 (today). Is there an archive for current 
+>digests ?
+
+Send an email to listproc@eartha.mills.edu, with the following in the text
+of the message:
+
+        view tuning digest.1416
+
+Notes:
+
+1)  Be sure to send the requests to "listproc@eartha.mills.edu".  Do NOT
+send them to "tuning@eartha.mills.edu", since they'll end up just being a
+meaningless post.
+
+2)  You might want to copy whatever text you're sending into the "Subject"
+line as well, to help you rummage through them at a later date.
+
+3)  Turn "off" any "signature" you might have on outgoing emails, 'cuz the
+list processor will try to process the signature as more requests.  (If you
+don't know what I'm talking about, don't worry about it - neither do I.)
+
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu    AIM:  Nowitzky      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

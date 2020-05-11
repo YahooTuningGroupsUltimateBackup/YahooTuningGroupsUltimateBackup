@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Mon, 10 Feb 1997 20:22:29 -0800
+
+Subject: Re: PAULE,s email
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+Dave Madole and Tuning List-
+	Paul Erlich's email system does not work right, and the MCI mail 
+sysadmin is completely oblivious to the world. I have experimented a lot, 
+and when I can get through to him, it is only with this specific address
+
+PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+John Starrett
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 11 Feb 1997 06:35 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02003; Tue, 11 Feb 1997 06:35:15 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02001
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id VAA24675; Mon, 10 Feb 1997 21:33:35 -0800
+Date: Mon, 10 Feb 1997 21:33:35 -0800
+Message-Id: <3.0.32.19970210193621.0068e640@adnc.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

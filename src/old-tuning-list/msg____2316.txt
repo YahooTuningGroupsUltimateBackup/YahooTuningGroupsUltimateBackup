@@ -1,0 +1,69 @@
+source file: mills2.txt
+Date: Tue, 14 Nov 1995 08:54:57 -0800
+
+Subject: How common was the quasi-pythagorean `intonation'
+
+From: Lars Frandsen <lafrance@musik.auc.dk>
+
+The quasi-pythagorean `intonation' (note the quote-marks) is not
+really an intonation, but more the formation of certain chords, scales
+etc. within the usual pythagorean intonation.
+
+Tuning twelve pure fifths from Gb to H one has acces to four
+close-to-pure major thirds:
+
+     Gb   Db   Ab   Eb   Bb    F    C    G    D    A    E   B
+    (F#) (C#) (G#) (D#)                       |    |    |   |
+     |_____|____|____|________________________|    |    |   |
+           |____|____|_____________________________|    |   |
+                |____|__________________________________|   |
+                     |______________________________________|
+
+These thirds (actualy diminished fourths) differ from the 5/4-thirds
+by a skisma, that is the ratio pyth. vs. synth. comma, which is a very
+small interval, less than 2 ct.
+
+So when the need/heed for consonant triads evolved, and the pure pythagorean 
+intonation still governed, one may expect to find certain scales and
+chords more `in use' than others.
+
+Now, according to Mark Lindley, there is `coroboration musical
+evidence, mostly from the first half of the [15.] century', that
+`exploit the especially resonant triads of the F#><B-disposition'
+(shown above).
+
+This quote is from The New Grove Dict. of Music and Musicians, in his
+article on the pythagorean intonation. Lindley also mentions this
+`intonation' in the book `Mathematical models of musical scales'
+(Verlag f\"ur systematische Musikwissenschaft GmbH., Bonn 1993), but
+none of these resources seems to cover, how common this choice of
+tonality (which the evidence must show) was.
+
+Lindley diplays some examples, but it is not clear, to what extend
+there is statistical inference on the matter. So I would like some
+feedback on:
+
+ -   Was it a `well-known phenomenon' by then, and
+ -   just how common was this practice among composers and musicians?
+
+Sincerely,
+
+Lars Frandsen.
+lafrance@musik.auc.dk
+
+Institut for Musik og Musikterapi
+Kroghstraede 6
+DK-9220 Aalborg Ost
+Tlf. +45 98 15 42 11 - lokal 3111
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 15 Nov 1995 02:36 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA28455; Tue, 14 Nov 1995 16:36:46 -0800
+Date: Tue, 14 Nov 1995 16:36:46 -0800
+Message-Id: <951115003324_71670.2576_HHB68-3@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

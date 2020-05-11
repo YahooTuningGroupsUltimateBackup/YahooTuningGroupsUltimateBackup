@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Tue, 8 Oct 1996 07:47:39 -0700
+
+Subject: Last answer to Paul
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+1) I have three degrees in music, so perhaps you can bear with a bit of the
+history of theory. In western tonal theory, there are two major lines of
+thought one, which we will call _voice leading theory_ and identified with
+Fux, and continuing through Shenkerian and other methods, bases analyses
+upon the existing chord structure, described from the sounding bass tone;
+the other we can call _fundamental bass_ theory, identified with Rameau, is
+based upon the discovery of roots that my or may not be present. In the
+first model, rule systems are based primarily on melodic movement within
+single voices and then between them in counterpoint, while the second model
+is based upon a harmonic relationships. (Your example of a Rameau rule
+about seconds in the Fundamental bass is not present in all versions of his
+theories, which he changed periodically). In practice the division between
+these models is not entirely straightforward, but comparing the work of a
+voice leading composer like Brahms with a fundamental bass composer like
+D-Indy or Faure is instructive. It is interesting that the both the Riemann
+chord classification scheme - an essentially just intonation model, perhaps
+familiar to those who know the work of Vogel - and Schoenbergs functional
+harmony hedge their bets by making it clear that voice leading (via species
+counterpoint) is prior to harmonic theory. 
+
+My attempt to locate your work within this theoretical framework is an
+attempt to locate its utility for musical analysis. 
+
+2) In that only pairs of tones will share harmonic series in a subharmonic
+chord, the masking will be at a lower amplitude than for a harmonic chord
+where all tones share a single series. 
+
+3) A division of a string into aliquot parts (subharmonic) is finite.
+Successive harmonic divisions are not.  Example: the division of the string
+into four equal parts yields four pitches of the subharmonic sequence 1/1,
+4/3, 2/1, 4/1 and no more. 
+
+4) The period (for example, one second) is a function of our notation. If
+you have an alternative notion please describe it.
+
+5) Huygens was the founder of wave theory and arguably the first modern
+physicist; his methods were truly counterintuitive for his time and remains
+so. (I am not saying that he was wrong, just that the physics and the
+cognition of music are different and depend upon different apprehensions -
+hence my attraction to intutionist models where temporal perception is
+prior to spatial, and computation is placed in temporal sequence).  
+
+Daniel Wolf
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 8 Oct 1996 18:39 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00558; Tue, 8 Oct 1996 18:40:56 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA00551
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA01761; Tue, 8 Oct 1996 09:40:37 -0700
+Date: Tue, 8 Oct 1996 09:40:37 -0700
+Message-Id: <Pine.SOL.3.91.961008123831.21625p-100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

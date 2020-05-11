@@ -1,0 +1,105 @@
+source file: m1406.txt
+Date: Tue, 5 May 1998 17:25:40 -0500
+
+Subject: Update to Optimal Integer Ratios for 12et
+
+From: "Benjamin Tubb" <brtubb@cybertron.com>
+
+12tet Optimal Ratio Equivalents
+at variable Tolerance Levels
+===============================
+(i.e. 2^((x*100)/1200) for x=0 to 12)
+and where of course at 0 the ratio is 1/1,
+and for 12 it is 2/1.
+
+All output values "curtesy" of Mathematica v3.0.1's 'Rationalize[]' function
+which I just "discovered" <g>.
+
+     10^-1 Tolerance Level
+----------
+1    1 <g>
+2    9/8
+3    6/5
+4    5/4
+5    4/3
+6    3/2
+7    3/2 <g>
+8    3/2 <g>
+9    5/3
+10   9/5
+11   17/9
+
+     10^-2 Tolerance Level
+----------
+1    18/17
+2    9/8
+3    25/21
+4    5/4
+5    4/3
+6    17/12
+7    3/2
+8    27/17
+9    37/22
+10   16/9
+11   17/9
+
+     10^-3 Tolerance Level
+----------
+1    18/17
+2    55/49
+3    44/37
+4    34/27
+5    295/221
+6    41/29
+7    442/295
+8    27/17
+9    37/22
+10   57/32
+11   185/98
+
+     10^-4 Tolerance Level
+----------
+1    89/84
+2    55/49
+3    44/37
+4    63/50
+5    295/221
+6    99/70
+7    442/295
+8    100/63
+9    37/22
+10   98/55
+11   185/98
+
+    10^-5 Tolerance Level
+---------
+1   196/185
+2   1769/1576
+3   1785/1501
+4   349/277
+5   295/221
+6   577/408
+7   442/295
+8   1008/635
+9   3002/1785
+10  1527/857
+11  185/98
+
+    10^-6 Tolerance Level
+---------
+1   1657/1564
+2   1769/1576
+3   1785/1501
+4   635/504
+5   3544/2655
+6   1393/985
+7   2655/1772
+8   1008/635
+9   3002/1785
+10  1527/857
+11  2943/1559
+
+-------------
+Benjamin Tubb
+brtubb@cybertron.com
+http://home.cybertron.com/~brtubb

@@ -1,0 +1,83 @@
+source file: mills2.txt
+Date: Mon, 28 Oct 1996 10:26:14 -0800
+
+Subject: Re: TUNING digest 876
+
+From: john_loffink@ycrdi.com
+
+Gary Morrison writes:
+
+>   As I recall, and I'm quoting this from a friend who owns a K2500, the
+>limitations are:
+>1.  You can tune "any" equal-temperament across all keys linearly (that is
+some
+>    completely consistent number of cents between each adjacent key up the 
+>    keyboard).  The problem is that you only can do that to 2-cent
+resolution.
+>    Quartertones (50 cents per step) therefore work fine, but 19TET (approx.
+>    63.16 cents per step) doesn't.
+
+You can do any equal tempered scale including Carlos style alpha, beta and
+gamma  non-octave repeating scales by using KEYMAP tuning in combination with
+finer PITCH modulation.  For 19 tone equal temperament, set the KEYMAP Key
+tracking to 64 cents per key.  That leaves an additional -.84 cents per step
+to be detuned.  Go to the PITCH menu page, set source 1 to BKeyNum (a
+parameter that tracks the MIDI key number from -1 at MIDI key #0 to 0 at MIDI
+key #64 to +1 at MIDI key #127) and set the depth to -.84 x 128 steps =
+-107.52.  The closest value you can select is -110 cents on the K2x00.  This
+gives a tuning accuracy of (110 - 107.52) / 2 = 1.24 cents over the entire
+MIDI note range.  Finer accuracy can be achieved by using modulation source 2
+or one of the four functions available per layer.
+
+Actually, the key tracking resolution for KEYMAP varies, from 1 cent near 100
+cent/key tracking to 5 cents and worse the further you get away from 12TET. 
+But using additional pitch modulation can overcome that limitation.
+
+>2.  You can retune the notes of the keyboard to arbitrary pitches with a
+key-
+>    map.  The problem is that you're limited to 12-tone-per-octave tunings. 
+
+>    Again 19TET in the frequently-used "linear" mapping of 63.16 cents
+between
+>    adjacent key is not possible.  That limitation does make it possible to 
+>    map it into two-or-more 12-toned subsets, like I did in my EPS
+Xenharmonic
+>    Scales Disk (one with naturals and flats, one with naturals and sharps,
+and
+>    a third with the most common accidentals (e.g., F# instead of Gb, and Bb
+>    instead of A#) along with E#/Fb and B#/Cb).  I don't know if the K2x00 
+>    provides any means like the EPS/ASR's patch-select buttons of 
+>    interactively switching between tuning tables though.
+
+You can interactively select the intonation tables by using the Data Entry
+Alpha Wheel or the Plus/Minus buttons while you have the Master Page
+Intonation Table selection parameter highlighted.  This works realtime
+without glitching.  It's also a short 9 byte sysex message to achieve this
+from your sequencer.   These changes would take effect globally rather than
+per instrument as on the EPS series.
+
+>   The rather cumbersome solution is to turn each key into its own
+individual
+>sample playback, and adjust the pitch of each accordingly.  There is
+apparently
+>a program that helps you do that.  
+
+I've never heard of such a beast.  It wouldn't work on the K2500 which has
+different sysex than the K2000.  I agree, by the way, this method is VERY
+cumbersome.
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 28 Oct 1996 19:47 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA20542; Mon, 28 Oct 1996 19:47:52 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA19956
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA23613; Mon, 28 Oct 1996 10:47:49 -0800
+Date: Mon, 28 Oct 1996 10:47:49 -0800
+Message-Id: <11961028184711/0005695065PK1EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

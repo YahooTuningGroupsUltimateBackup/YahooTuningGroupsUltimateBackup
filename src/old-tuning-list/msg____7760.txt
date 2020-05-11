@@ -1,0 +1,109 @@
+source file: m1413.txt
+Date: Tue, 12 May 1998 12:40:46 +0000
+
+Subject: Fletcher on Sethares: TTSS "should be studied by all lecturers i
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+Dear All,  
+
+at the risk of making Bill Sethares blush, here is a recent review 
+by Neville Fletcher (co-author of "The Physics of Musical 
+Instruments") of Bill's recent book : 
+
+Tuning, Timbre, Spectrum, Scale
+by William A. Sethares
+Springer-Verlag, London 1998
+ISBN 3-540-76173-X
+345 pp. plus CD. 
+
+(sorry, I left the review reference at home, but can post it if 
+anyone wants to know - it's in an Australian Journal).
+
+***********BEGIN REVIEW***********
+
+To most people, the 12-note scale of the piano keyboard, and with it
+the hierarchy of consonant intervals =BE the octave, fifth, fourth and
+third =BE  is the basis of all music.  Some may be aware that the modern
+system of equal temperament, in which all semitone intervals have
+precisely the same frequency ratio, is a compromise that sacrifices
+the purity of tuning of the consonant intervals (except that of the
+octave) for the ability to play equally in all keys, but that is about
+where most knowledge stops.
+
+ But what is the basis of these musical principles?  Take the octave,
+ for example.  Its importance as a concord derives from the fact that
+ ordinary Western musical instruments have harmonic spectra, in which
+ the overtone frequencies are integral multiples of that of the
+ fundamental.  If two notes an octave apart (frequency ratio 2:1) are
+ sounded simultaneously, then many of the overtones coincide and the
+ result is a pleasant smooth sound, while any mistuning leads to
+ unpleasant beats and tonal roughness.  But what if the individual
+ notes have inharmonic spectra?  A recorded example shows that if the
+ spectra of the two notes are stretched, then the "octave" must be
+ similarly stretched to give a concordant sound.  It is also possible
+ to divide either the genuine 2:1 octave or a stretched octave into a
+ number of equal "semitones" other than 12 =BE both 11-note and 10-note
+ divisions can sound very pleasant =BE provided that the overtone
+ spectra of the component notes are adjusted appropriately.  And this
+ is despite the fact that the traditional "concords" have now
+ disappeared!
+
+ Non-Western musical traditions based upon non-harmonic percussion
+ instruments, such as the  gamelan of Indonesia, have faced similar
+ problems and have developed pleasant-sounding scales with 5 or 7
+ notes in a slightly stretched octave, but with tunings very different
+ from simply playing selected notes on a piano.
+
+ This excellent book, written by a musically minded electrical
+ engineer and computer scientist, examines the basis of our whole
+ concept of melody and harmony and presents compelling recorded
+ demonstrations using computer-synthesised sounds.  The presentation
+ requires no mathematical background, though the relevant mathematics
+ and computer programs are given concisely in a series of appendixes
+ for those who want to follow them further.  As well as stretched
+ octaves, stretched spectra and non-12-tone scales, the author shows
+ in detail how to construct a synthetic instrument spectrum to match
+ an arbitrary scale, and conversely how to design a scale to fit a
+ given instrument spectrum.  There is a detailed treatment of the
+ gamelan, and then, as a virtuoso exercise, he designs a scale and
+ presents musical examples to match the sounds of a small bell, a
+ piece of resonant stone, and the pattern of an x-ray diffraction
+ spectrum!    He also shows how a computer can adaptively tune the
+ notes of a scale so that the result is concordant irrespective of key
+ changes =BE an aim that is only imperfectly fulfilled by equal
+ temperament and that leads to disaster in just intonation =BE and
+ outlines a treatment of music theory for an equal-tempered 10-tone
+ scale.
+
+ The writing throughout is admirably clear and straightforward, the
+ book production is up to Springer's usual high standards, and the
+ recorded passages on the CD, which comprise both short examples and
+ longer compositions in unusual scales on peculiar synthetic
+ instruments, admirably illustrate the points made in the text.  They
+ also demonstrate that the author is a very competent and persuasive
+ composer in this new idiom.
+
+ This book, which is destined to become a classic, is essential
+ reading for anyone concerned with computer music, or with the study
+ of non-Western music.  It should be bought and studied by all
+ lecturers (and read by all students!) in musicology, and should be in
+ the library of every institution teaching music at an advanced level.
+ Perceptual psychologists should also include it high on their
+ reading lists, and I am sure that engineers, mathematicians and
+ physicists will enjoy it.  I found it absorbing reading (and
+ listening!), and I can recommend it to anyone with an interest in the
+ fundamental psychological or acoustic basis of music.
+
+Neville Fletcher
+
+********END OF REVIEW QUOTE**************
+
+The last paragraph is 200% right.  High praise indeed, and, having 
+read the book cover-to-cover twice (and more) I've absolutely no 
+doubt it is deserved.
+
+Thought you'd all like to see this....... Hope you didn't mind me 
+blowing your 10-ET trumpet Bill ! 
+
+Patrick O-L

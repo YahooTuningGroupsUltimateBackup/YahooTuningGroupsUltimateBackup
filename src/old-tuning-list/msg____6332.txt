@@ -1,0 +1,137 @@
+source file: mills3.txt
+Date: Thu, 23 Oct 1997 19:20:01 +0200
+
+Subject: The limits of the ear
+
+From: Carl Lumma <clumma@nni.com>
+
+I hope I haven't generated any harsh feelings with these flaming posts.  I
+just enjoy 'em.  Mr. Erlich can rest assured that I have nothing but the
+highest respect for his work.  His was one of my favorite cuts on the tape
+swap and has got me wanting more.
+
+He also may or may not wish to know that one of the first tunings I'm going
+to map to my generalized keyboard (when I get it) will be 22 equal.
+
+>Today is my last day as a full-time employee of an investment company. I
+>already spend almost all my free time playing music...
+
+So how is that working out?  Are you able to resist the temptation of
+playing with your 12 tone friends enough to go home and be microtonal?
+
+Lastly, I will say again that altough I used a posting of Mr. Erlich's as an
+example, I was addressing the community at large with an issue at large.
+Anyway, here's my response...
+
+>Now these intervals are getting closer and closer to 3/2, and after just
+>a few of them even the best ear can't tell the difference between them
+>and 3/2. Yet according to Carl, 3/2 is more consonant than any of these
+>ratios. Thus we must conclude that Carl's definition of consonance has
+>little to do with anything you can actually hear.
+
+The idea of defining Consonance as a product of the sizes of the numbers in
+a ratio wasn't Just something I dreamt up.  It is littered all over the
+literature, especially the JI Primer.  But there's always something vague
+like "strong implied preference" involved.
+
+It is told straight in Denny Genovese's thesis "The Harmonic Series as a
+Practical Approach to Just Intonation", in chapter 2, "Quantification of
+Dissonance and an Acoustic Definition of Consonance".
+
+To paraphrase: If you've got two frequencies represented by a ratio in
+lowest terms whose decimal value is between 1 and 2, then the period of the
+composite waveform of these two frequencies is the product of the two
+numbers in the ratio.  I believe this makes a more useful definition of
+Consonance than any other I've ever heard.  If somebody's got one they think
+I havn't heard, please share.
+
+This definition is independent of what a person may or may not hear, and it
+is independent of how they might like or dislike what they hear.  For those
+of you who do not view these as assets, don't use this definition.
+
+The ear has a limit of resolution, just like anything else.  That the one
+example given by Mr. Erlich is beyond the ear's resolution does not mean
+that this definition has no practical application.  Clorox is poison but
+lots of folk find it useful to chlorinate their water.  I think the
+practical usefulness of the definition is obvious.
+
+While I can't hear the difference between a 3/2 and a 300001/200001, I can
+hear the difference between a 19/16 and a 19723/16565.  I'm listening to it
+right now.  But I've been told that an error of 2 cents is not significant
+when comparing tempered intervals to just ones.
+
+Working within the practical limits of human hearing, the perception of
+subtle mis-tuning is very sensitive to the timbres used, the voicing of the
+intervals, how high the identities are, and how they are used in combination
+with other intervals.
+
+If your timbres have a high degree of inharmonicity, you'll loose
+resolution.  Don't use bowed strings for high resolution work.  If your
+interval is down in the lowest octave of the piano, don't expect to hear a
+10 cent difference.  You're much less likely to notice a 3/2 2 cents off
+than a 11/7 mistuned by 2 cents.  You can't hear the difference between a
+3/2 and 700 cents in a melody, but in an otherwise just triad, it sticks out
+like a sore thumb.
+
+So my original point was:  When comparing an equal-step tuning to a just
+tuning on a broad, theoretical level, define Consonance on a broad
+theoretical level.
+
+My other original point was: Equal step tunings have nothing to apologize
+for.  I don't view them as imitating just tunings.  They're a different
+breed of cat.  The kind of music that makes sense in an equal temperament
+doesn't make sense in JI and vice versa.  It's like apples and oranges.
+
+I used to think that an equal step tuning was like having all the pitches
+that you needed to modulate in every key of a just tuning, except you used a
+single average pitch instead of two or three or four just ones.  So you
+could make music on this huge matrix of a just tuning with less notes and
+worse sound.  But the difference is much deeper than that.  I can't explain
+it.  The Pauls (Erlich and Hahn) turned me on to this, and their ideas on
+this matter are much farther along than mine.
+
+
+And I never said dissonance was bad,
+
+Carl
+
+
+Aline Surman writes...
+
+>I always enjoy the discussions about ratios and eq temps. It is true
+>that being "in tune" is a mathematical phenomenon of frequencies matching
+>up perfectly...I agree that when we say eq temps approximate a pure
+>ratio, it doesn't correlate in a way because as soon as you are off of
+>the ratio, the new note is NOT the ratio, so it IS something else.
+
+Thanks for the support!  I know writing these posts is beneficial for me.
+It's nice to know they are of interest to others as well.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk (Graham Breed) 
+Subject:  fourth based keyboard mapping
+PostedDate:  23-10-97 19:23:27
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  23-10-97 19:22:38-23-10-97 19:22:38,23-10-97 18:23:18-23-10-97 18:23:18
+DeliveredDate:  23-10-97 18:23:18
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256539.005F7132; Thu, 23 Oct 1997 19:22:29 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA25485; Thu, 23 Oct 1997 19:23:27 +0200
+Date: Thu, 23 Oct 1997 19:23:27 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA25473
+Received: (qmail 25782 invoked from network); 23 Oct 1997 10:23:22 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Oct 1997 10:23:22 -0700
+Message-Id: <memo.641887@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

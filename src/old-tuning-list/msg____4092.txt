@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Wed, 20 Nov 1996 14:15:59 -0800
+
+Subject: Kami's midi files
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Kami Rousseau deserves our kudos for creating two 31-tone midi files
+and putting them in his directory of microtonal example midi files.
+http://www.interlinx.qc.ca/~kami/music/ 
+
+It is "Preludium chromaticum" by Adriaan Fokker in the 8-tone 
+genus [357] (genus sextum), file: imp31.mid. The tempo of this one
+is too quick for the indicated largo.
+The other is "Improvisando" by Jan van Dijk in the 6-tone genus [557] 
+(genus septimum), file: pre31.mid.
+
+These and other little pieces serve as musical examples to their
+both article "Expe'riences musicales avec les genres musicaux de
+Leonhard Euler contenant la septie`me harmonique", 1949.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 21 Nov 1996 01:29 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01425; Thu, 21 Nov 1996 01:30:49 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01406
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA17169; Wed, 20 Nov 1996 16:30:46 -0800
+Date: Wed, 20 Nov 1996 16:30:46 -0800
+Message-Id: <v02130502aeb9530255fa@[128.125.224.144]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

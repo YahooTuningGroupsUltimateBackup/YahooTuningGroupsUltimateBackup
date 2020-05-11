@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Tue, 3 Jun 1997 02:40:27 +0200
+
+Subject: RE: Help!!!
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+The intervals in this list of modes are expressed in number of degrees
+
+1 1 2 1 2       Thai mode 1
+1 2 1 2 1       ,,    ,,  2
+2 1 1 2 1       ,,    ,,  6
+
+So in this case of the Thai equal tempered heptatonic scale a 1 means
+one tone of 171 cents, a 2 means two of those: 343 cents, etc.
+These are the intervals between consecutive tones.
+To find out which degrees are used, add the numbers from left to right:
+
+ 1 1 2 1 2 
+0 1 2 4 5 7
+
+These Thai modes I found I think in the New Grove music dictionary under
+"mode".
+
+Another example:
+ 1  1 3 2 1  1 3       Chromatic Dorian
+C Db D F G Ab A C
+
+For 12-tone scales each number is a semitone, for 19-tone scales a third
+tone, etc. But for unequal scales like the 17-tone Arabic Pythagorean scale
+it's just the number of tones of the "parent scale" if you like between
+two consecutive tones of the mode.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 3 Jun 1997 02:41 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14214; Tue, 3 Jun 1997 02:41:48 +0200
+Date: Tue, 3 Jun 1997 02:41:48 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA14202
+Received: (qmail 10386 invoked from network); 3 Jun 1997 00:41:12 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 3 Jun 1997 00:41:12 -0000
+Message-Id: <v03007801afb902000eb7@[170.140.240.208]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

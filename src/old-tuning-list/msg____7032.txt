@@ -1,0 +1,70 @@
+source file: mills3.txt
+Date: Wed, 14 Jan 1998 19:53:56 +0100
+
+Subject: Midi Plea
+
+From: curley@ucla.edu (Doren Garcia)
+
+Hi all you groovy tuners,
+
+I've been slaving at the design lab at UCLA so I havn't been paying
+attention to the
+forum, bummer. However, I have succeeded in inculcating many of the young pups
+about this tuning thing! DeTwelvulate!
+
+Anyhoo, I need some advice from my learned colleges.
+
+I wish to experiment using 11tet or 13tet and transitionalizing to 12tet.
+(hope I have the terminology right, I'm really not very good at this, and
+it's probably changed by now)
+
+I have access to a Kurtzweil 2000. I don't believe it has the capability to
+do what I want. I believe it translates samples into 12 automatically.
+
+Can anyone clarify? or suggest software?
+
+I have decided it would be worth my while to learn midi. I believe Ensonic
+keyboards have the ability to be retuned so I think I will begin to search for
+an inexpensive used keyboard.
+
+Can youse guys and gals suggest an inexpensive model? I have a PowerMac 8500,
+and I am decent at software. Also have access to Protools, SoundEdit, and
+Cubase.
+
+Darreg Lives!
+
+I love you folks, really,
+
+Doren
+curley@ucla.edu
+213 780 8664
+Los Angeles
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+Subject:  MIDI/Audio wish list
+PostedDate:  14-01-98 21:06:13
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  14-01-98 21:05:39-14-01-98 21:05:40,14-01-98 21:05:26-14-01-98 21:05:27
+DeliveredDate:  14-01-98 21:05:27
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658C.006E5EFA; Wed, 14 Jan 1998 21:06:01 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31217; Wed, 14 Jan 1998 21:06:13 +0100
+Date: Wed, 14 Jan 1998 21:06:13 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA30286
+Received: (qmail 2190 invoked from network); 14 Jan 1998 12:06:11 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Jan 1998 12:06:11 -0800
+Message-Id: <199801141959.TAA09634@imail.norfolk.gov.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,42 @@
+source file: m1559.txt
+Date: Wed, 21 Oct 1998 13:02:22 -0500 (CDT)
+
+Subject: Re: Septimal schisma as xenharmonic bridge?
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Wed, 21 Oct 1998, M. Schulter wrote:
+> Possibly less well known, the septimal schisma of 33554432:33480783 or
+> about 3.80 cents is a bridge to a quasi-7-based world of
+> "superefficient" cadences and third-tone steps. It is the difference
+> between the Pythagorean comma and the septimal comma (64:63, about
+> 27.26 cents) which separates basic Pythagorean intervals from their
+> 7-based counterparts.
+
+Oddly enough, I was just poking around in some old tuning list messages
+today, and guess what I found:
+
+| Date: Mon, 13 Mar 95 08:52:11 -0800
+| From: Manuel Op de Coul <COUL@ezh.nl>
+| Reply-To: tuning@eartha.mills.edu
+| To: manynote@library.wustl.edu
+| Subject: Other harmonic 7th comma
+| 
+| Bosanquet has written that 14 fifths downwards (the Pythagorean double
+| diminished octave) is very close to the harmonic seventh. Is the
+| comma belonging to it, 33554432/33480783 = 2^25 * 3^-14 * 7^-1 =
+| 3.8041 cents ever called Bosanquet's comma, does anyone know?
+| 
+| Manuel Op de Coul    coul@ezh.nl
+
+Another interval that might be a candidate for the name "septimal
+schisma" is the 2401/2400, about .72 cents.  It is the difference
+between the 50/49 and the 49/48, both intervals which result fairly
+directly from septimal voice-leading.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Foul?  What the hell for?"
+  -\-\-- o   "Because you are chalking your cue with the 3-ball."
+
+             NOTE: dehyphenate node to remove spamblock.          <*>

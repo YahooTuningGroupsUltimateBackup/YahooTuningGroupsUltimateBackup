@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Fri, 1 Nov 1996 14:15:14 -0800
+
+Subject: Re: TUNING digest 882
+
+From: john_loffink@ycrdi.com
+
+tuning@eartha.mills.edu,Internet writes:
+>Friends,
+>        This is a rather basic question I know, but does anyone know what
+>the tuning resolution of the K2000?  How many steps are possible between a
+>semitone, and if this number is something like 2048 or hopefully 4096, how
+>are translations made between this number and cent values?  Thanks in
+>advance.
+
+If you're speaking in terms of the intonation tables, resolution is limited
+to 1 cent steps by software.  The value set in software is truncated, not
+rounded, to the next lowest hardware resolution, which is on the order of
+1/20 cent.  Transposing samples downwards 4-5 octaves or more reduces the
+tuning resolution.
+
+Changing pitch by other means such was the pitch wheel will usually be more
+limited by the controller than the K2000 internals.  Most if not all of the
+pitch wheels of current synthesizers have a resolution of only 7-8 bits, even
+though the MIDI parameter has a resolution to 14 bits.
+
+John Loffink
+Senior Hardware Engineer
+Kurzweil Music Systems
+
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 1 Nov 1996 23:21 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23146; Fri, 1 Nov 1996 23:22:05 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA22649
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA15920; Fri, 1 Nov 1996 14:22:02 -0800
+Date: Fri, 1 Nov 1996 14:22:02 -0800
+Message-Id: <Pine.3.89.9611011732.A26888-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

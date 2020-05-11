@@ -1,0 +1,92 @@
+source file: mills2.txt
+Date: Fri, 1 Mar 1996 16:52:05 -0800
+
+Subject: Timbre Archive
+
+From: non12@delta1.deltanet.com (John Chalmers)
+
+This might be of interest to members of this list, especially those 
+with samplers and  Csound or other programs which generate timbres by
+additive synthesis. Some of these could be tweaked to improve the 
+consonance of non-harmonic tunings (by using Bill Sethares's
+algorithms).
+ 
+--John
+ 
+ 
+Date: Fri, 01 Mar 1996 12:01:53 -0600 (CST)
+From: "Gregory J. Sandell" <sandell@sparky.parmly.luc.edu>
+Subject: SHARC Timbre Database
+To: to_smt-list post-messages <smt-list@boethius.music.ucsb.edu>,
+        Sound Special_interest_group <SOUND@acm.org>,
+        auditory <auditory@vm1.mcgill.ca>
+Errors-To: owner-sound@ACM.ORG
+Message-Id: <199603011801.MAA21523@sparky.parmly.luc.edu>
+Mime-Version: 1.0
+X-Mailer: ELM [version 2.4 PL24]
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Status: R
+ 
+ 
+                                 Announcing the
+                             SHARC TIMBRE DATABASE
+               and invitation to join a Timbre Discussion email list
+ 
+   SHARC is a public domain database of musical timbre information by
+   Gregory Sandell. It stands for "Sandell Harmonic Archive." People for
+   whom this dataset may be useful are Acousticians, Psychoacousticians,
+   researchers in Music Percepion and Cognition, researchers in Digital
+   Signal Processing, Music Theorists, and Musicologists.
+ 
+   Over 1300 different notes have been analysed. Complete chromatic runs
+   from the standard playing range of essentially all the non-percussive
+   instruments of the modern orchestra have been included; for example,
+   individual analyses of 32 different oboe notes (the chromatic scale
+   from the pitches a#3 to f6) are available.
+ 
+   A WWW front end for SHARC is available at:
+ 
+   http://www.parmly.luc.edu/sharc/
+ 
+This page contains links to explanations of what SHARC is, how the
+database can be downloaded, as well as a number of graphic plots of
+various aspects of the data.  Of special note is the ability to plot the
+spectra for individual notes in various ways, and to hear syntheses of
+the spectra over the web (if your computer is suitably set up for
+audio).
+ 
+I have a Listserver, or distributed email list, set up to keep people
+informed about changes I make to SHARC.  I am now also inviting all
+timbre researchers to join to the list and use it as a forum for
+general discussions of issues of musical timbre.  If postings
+become suitably frequent, and the dialogues lively, I am open to the
+idea of starting an independent listserv devoted to the topic.  But for
+now, it will serve the dual purpose of being devoted to both SHARC and
+timbre discussion in general.  The list currently has 50 members.  Please
+join the list and tell us about your research interests in musical
+timbre!
+ 
+You can actually join SHARCLIST through a web page!  (Many times less
+painless than the usual way of joining by sending obscure commands
+through email!)  Simple connect to
+    http://www.parmly.luc.edu/lwgate/SHARCLIST/SHARCLIST.html
+..and follow the instructions.  (Note:  your web browser has to support
+"Forms".)
+ 
+Have fun!
+- Greg Sandell
+ 
+(* SHARC is unrelated to the DSP chip of the same name. )
+--
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 2 Mar 1996 14:51 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA25161; Sat, 2 Mar 1996 05:51:19 -0800
+Date: Sat, 2 Mar 1996 05:51:19 -0800
+Message-Id: <0099EBD002FDC49C.D1C0@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

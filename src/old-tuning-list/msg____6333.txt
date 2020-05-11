@@ -1,0 +1,106 @@
+source file: mills3.txt
+Date: Thu, 23 Oct 1997 19:23:27 +0200
+
+Subject: fourth based keyboard mapping
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+I've been working for a while now with a keyboard mapping with 12
+schismic intervals to a perfect fourth.  I have mentioned it to a
+few people off list, and no-one's been fantastically excited,
+but then no-one said they'd heard of it before either.  It's far
+too obvious to be original, but I'll present it to the list
+anyway...
+
+If you aren't familiar with schismic temperaments, well, I can't
+be bothered to explain them now.  The intervals can all be defined
+in terms of an octave and a fifth.  At the moment I'm using a
+just octave and a fifth of exactly 702 cents.  This scale is good
+for 7-limit harmony (maximum error 5.5 cents for 7/5).
+
+You could define the scale with any basis of 2 notes, though.
+Here's an example:
+
+        (rho) = (  8 -5)H'
+        (pi)    (-19 12)
+
+for the tuning above, rho=90 cents and pi=24 cents.
+
+Now, you fit the scale to the keyboard as follows:
+
+C     D         E      F         G     A         B      C
+ pi pi rho-pi pi rho-pi pi rho-pi pi pi rho-pi pi rho-pi
+
+The letters A to G here, and for the whole of this post, refer
+to keys and not notes.  The scale repeats over this fourth.
+The keys are tuned as follows in cents:
+
+              C     0000  0498  0996  1494  1992
+              C#    0024  0522  1020  1518
+              D     0048  0546  1044  1542
+              Eb    0114  0612  1110  1608
+              E     0138  0636  1134  1632
+              F     0204  0702  1200  1698
+              F#    0228  0726  1224  1722
+              G     0294  0792  1290  1788
+              GA    0318  0816  1314  1812
+              A     0342  0840  1338  0836
+              Bb    0408  0906  1404  1902
+              B     0432  0930  1428  1926
+
+I think these are right anyway: I don't usually use cents.  That
+gives you a full 4 octave keyboard, which is enough for most of
+us.  Most synths will allow you to tune up and down in octaves
+so that you can choose the right register.
+
+
+Now, there are 12 black notes to an octave in his mapping.  I
+think of these as being the base scale, whith the white notes
+as alterations.  If you worry about absolute pitch, set one
+of the Bb keys to 440 Hz.  You could retune to a 17 note scale
+on the white notes, but I prefer to hit black notes with these
+extended mappings.
+
+This has all the same diatonic logic as a 12 note meantone
+octave.  I find it really liberating to be able to try out
+comma shifts so easily.  Anyway, see what you think.
+
+A fifth is 17, a major third 9 and a minor third 8 notes.
+A triad formed from these intervals will be in tune provided
+no more than one note is white.
+
+7/6 covers 6 notes.  For this to be in tune, the lower note
+must be either the C#, D, E, F#, A or B key.  You can work
+out 7-limit chords from that.
+
+Seriously folks, if you've got full keyboard tuning, try this
+out.  It's the next best thing to a generalized keyboard.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  William Sethares <sethares@eceserv0.ece.wisc.edu>
+Subject:  13th root of 3
+PostedDate:  23-10-97 22:22:38
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  23-10-97 22:21:50-23-10-97 22:21:50,23-10-97 21:22:29-23-10-97 21:22:30
+DeliveredDate:  23-10-97 21:22:30
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256539.006FD8B3; Thu, 23 Oct 1997 22:21:39 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA25709; Thu, 23 Oct 1997 22:22:38 +0200
+Date: Thu, 23 Oct 1997 22:22:38 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA25504
+Received: (qmail 2541 invoked from network); 23 Oct 1997 13:22:34 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Oct 1997 13:22:34 -0700
+Message-Id: <199710232021.AA20171@eceserv0.ece.wisc.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

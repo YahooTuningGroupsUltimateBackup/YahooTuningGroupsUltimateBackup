@@ -1,0 +1,60 @@
+source file: mills3.txt
+Date: Tue, 4 Nov 1997 18:10:32 +0100
+
+Subject: Dare to Square
+
+From: Carl Lumma <clumma@nni.com>
+
+>>The harmonic entropy curve, like the Plomp-Levelt roughness curve for tones
+>>with harmonic partials, has local minima at small-integer ratios. It is
+>>standard in physics (and justified by calculus) to approximate any local
+>>minimum with a parabola. Therefore, near a just ratio, the change in
+>>dissonance is proportional to the squared detuning.
+
+Does this mean that you're going to go over to squared detuning?  Are you
+sure we should be squaring logorithmic measures of detuning?
+
+Parabolas aside, my original warning regarding cent-detuning was that you
+can bump into other low-number ratios without knowing it.  We got into this
+19/16 thing because I said that 16 cents flat of a 6/5 we have old 300, and
+18 cents flat we have 19/16.  By cents-detuning, the 19/16 is worse than the
+300 cent interval.  By cents detuning squared it'd still be worse.
+
+Even if you don't agree there's a difference between 300 and 19/16, it
+doesn't make the 19/16 worse than the 300.  But there must be more-better
+examples.  Maybe: the 12TET minor 7th is 18 cents flat of a 9/5, and 22
+cents south of the 9/5 we have 16/9.
+
+|-----------------------------------------|
+| Carl Lumma                              |
+| http://users.nni.com/source_of_goodness |
+|-----------------------------------------|
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carl Lumma <clumma@nni.com>
+Subject:  Misc 2
+PostedDate:  04-11-97 18:16:48
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  04-11-97 18:15:43-04-11-97 18:15:44,04-11-97 17:16:07-04-11-97 17:16:08
+DeliveredDate:  04-11-97 17:16:08
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256545.005ED042; Tue, 4 Nov 1997 18:15:37 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02374; Tue, 4 Nov 1997 18:16:48 +0100
+Date: Tue, 4 Nov 1997 18:16:48 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02372
+Received: (qmail 2033 invoked from network); 4 Nov 1997 09:16:44 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 4 Nov 1997 09:16:44 -0800
+Message-Id: <19971104171940500.AAA335@NIETZSCHE>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Wed, 30 Oct 1996 07:03:42 -0800
+
+Subject: Re: K2x00 Tuning Utility
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> >   The rather cumbersome solution is to turn each key into its own
+individual
+> >sample playback, and adjust the pitch of each accordingly.  There is
+apparently
+> >a program that helps you do that.  
+> I've never heard of such a beast.  It wouldn't work on the K2500 which has
+> different sysex than the K2000.  I agree, by the way, this method is VERY
+> cumbersome.
+
+   I remember reading about this program on the tuning list;  do any of you
+remember the title and originator of the program?  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 30 Oct 1996 22:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03851; Wed, 30 Oct 1996 04:12:32 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00409
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id TAA09665; Tue, 29 Oct 1996 19:12:29 -0800
+Date: Tue, 29 Oct 1996 19:12:29 -0800
+Message-Id: <v03007800ae9c8595d975@[130.132.159.55]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,72 @@
+source file: mills2.txt
+Date: Tue, 31 Dec 1996 14:35:07 -0800
+
+Subject: Microtone
+
+From: hajdu@uni-muenster.de (Georg Hajdu)
+
+I have uploaded an updated MAX patch named "microtone" to the following sites:
+
+128.255.208.37
+ella.mills.edu
+(I also tried the IRCAM server in vain.)
+
+microtone is a MAX notation patch that uses the Finale Tamburo font to
+display microtonal music in real-time.
+
+For further information I am including a modified version of the "about"
+subpatch that's part of microtone (there's also a manual included in the
+self-extracting archive file "microtone.sea.hqx"):
+
+max v2;
+#N vpatcher 5 40 626 398;
+#P hidden inlet 1 -15 15 0;
+#P comment 30 106 561 1048588 The chords can be displayed in virtually
+every notational system: standard 12-note system or user-defined systems.
+µtone uses the Finale Tamburo font containing a set of accidentals that can
+be used for the notation of microtonal tuning systems. If loudness
+information is provided \, the dynamic of the individual pitches will be
+displayed as well.;
+#P comment 30 46 561 1048588 µtone - is a MAX patch that allows the user to
+display notes and chords in musical notation. You can enter data using
+three different units of measurement for pitch and loudness (Hz \,
+Midicents \, Key Numbers or Amplitude \, dB \, Key Velocity \, resp.). For
+this \, you can choose the appropriate unit from the special input menu.;
+#P comment 30 169 561 1048588 The four inputs to µtone are: 1. pitch \, 2.
+loudness \, 3. a comment and 4. slot number (of the chord on the display).
+The maximum number of slots can be set with the "sectors" option in
+"Settings". Copy the modified Finale Screen Fonts suitcase into the fonts
+folder inside the system folder before you load µtone. You can also display
+pitches on screen by pointing and clicking while holding a number key. The
+numbers 1 through 8 correspond to the 8 eighth-tone accidentals in
+increasing order.;
+#P comment 30 243 561 1048588 You can toggle between the special menu and
+the MAX menu by pressing "m" (special menu) or "n" (MAX menu). Use the
+space bar to refresh the screen or the return key to clear the window.;
+#P comment 405 281 186 1048588 Georg Hajdu \, December 26 \, 1996.;
+#P comment 300 1 53 1048594 µtone;
+#P comment 163 425 390 196617 e-mail: hajdu@uni-muenster.de;
+#
+P comment 163 437 390 196617 Internet:
+http://www.uni-muenster.de/Musikhochschule/Dozenten/Hajdu/home.html;
+#P pop;
+
+Happy New Year to the interactive music and tuning communities!
+
+Georg Hajdu
+Currently in Kenwood, CA
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 1 Jan 1997 02:35 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06092; Wed, 1 Jan 1997 02:37:49 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06094
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id RAA20826; Tue, 31 Dec 1996 17:37:47 -0800
+Date: Tue, 31 Dec 1996 17:37:47 -0800
+Message-Id: <01IDO8Q17KHK90O26W@EMUVAX.EMICH.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,29 @@
+source file: m1386.txt
+Date: Wed, 15 Apr 1998 10:26:12 -0700
+
+Subject: Re: TUNING digest 1385
+
+From: Marcus Hobbs <marcus@fa.disney.com>
+
+tuning@eartha.mills.edu wrote:
+
+> >Jeff Lofflink wrote:
+> >Ensoniq pitch tables. As far as I know, though, you cannot update
+> >them except by sending a whole pitch table, that is, you cnnot retune
+> >"one note" at a time.
+>
+
+i've written a tuning tool in kyma that sends the bulk tuning dump to the
+Emu proteuses and the ensoniq mr-rack.  the tuning dump conforms to the
+midi bulk tuning dump spec.  it takes about a second to update the entire tuning table,
+so i don't bother retuning in real time.  i have not tried to do the real time tuning
+adjustment.
+
+i use the mr-rack and kyma to do all my microtonal music because they're
+the only commercially available products that i'm aware of that let you
+have non-12 arbitrary tunings.  when i first started reading this thread, i became very
+excited because i was hoping that someone out there would reveal another
+synth that i hadn't considered that let you do arbitrary tunings.   i sure would like
+to have more sounds!
+
+marcus

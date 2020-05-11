@@ -1,0 +1,120 @@
+source file: m1491.txt
+Date: Fri, 31 Jul 1998 05:56:26 -0500
+
+Subject: Re: Tuning Spectra program.
+
+From: Gary Morrison <mr88cet@texas.net>
+
+Somebody asked me a question stemming from a discussion of the instrument
+spectra I posted a few days ago.  I suspect that some of the rest of you
+might want to ponder the following comments as well.
+
+
+
+>  Differences in timbre are accounted for by the attack transient (which is
+> what makes realtime pitch detection such a bear) and the relative
+> strengths of harmonics in the sound.  Correct?
+
+   For a given tone from that instrument, yes, those are definitely the main
+factors.
+
+   But I think that there are two factors that are equally important:  The
+patterns of timbres (as defined by those attributes) across the entire
+instrument, and how the instrument is performed.
+
+   Along the first lines - or perhaps both lines - I have recently become
+aware of a curious consideration with regard to synthesizing purely "fantasy"
+timbres - timbres not intended to resemble anything we're particularly
+familiar with:  It's a whole lot more difficult to do than most of us
+realize.  Synthesizer programmers tend to think of the various instrumental
+timbres as pillars of recognizability in a vast sea of timbral possibilities.
+
+   I've found that the opposite is much closer to the truth:  Viewed as
+individual tones, instrumental timbres are *anything but* narrow pillars in
+timbral space.  There is instead a huge amount of variation in what we would
+call, for example, a clarinet tone, and that varied gamut overlaps profusely
+with flute, saxophone, trumpet, and even oboe tones.
+
+   So our ears use several other cues to identify an instrument, not the
+least of which is its timbral register content.  As an example, the fact that
+saxophones have an especially prominent dulling of its timbre upon crossing
+from notated C# to D (second space to second line) is a very big clue to our
+ears that we're hearing a saxophone.  An instrument losing high-harmonic
+content in their upper registers is a pretty strong clue that you're more
+likely listening to a wind instrument than a string instrument.
+
+   A closely-related, but probably even more important characteristic in
+identifying an instrument, is its range.  Probably the deadest of giveaways
+to suggest that you're listening to an electronic simulation of an instrument
+rather than the proverbial real thing is playing a note out of its range,
+especially below its range, since the lower-end of most instruments' range is
+more clearly defined than the upper end.  This is one of the very few places
+where a pianist actually has a disadvantage in composition:  They're used to
+a continuous gamut spanning almost our entire range of hearing.  Instrumental
+range limitations seem difficult to accept, whereas to performers of
+orchestral instruments, that's just a normal fact of life.
+
+   Another related rare case where pianists seem to be at a disadvantage in
+composition, is in the concept of transposing instruments.  I remember it
+once taking about five minutes to explain the concept to one of the best
+musicians - a lifetime pianist - in one of my ear-training classes.  In her
+defense, I should point out that she understood what I was describing almost
+immediately, but promptly dismissed that idea as almost surely a
+misunderstanding.  When she finally realized that she did indeed understand
+my suggestion correctly the first time, she spent a few minutes convinced
+that I kidding.
+
+   Thankfully only occasionally, I sometimes hear another rather amusing dead
+giveaway that you're actually using a sampled simulation of an instrument:
+Failure to stick to a fixed complement of instrument parts.  I have heard, in
+what was intended as an orchestral or small-ensemble simulation, duet of ...
+flutes, say ... suddenly blossom into four or five just for couple notes or
+so.  You can semiarbitrarily add notes to fill in harmony at will on a
+keyboard instrument, but there's just no way that a symphony orchestra, or
+most other ensembles, will hire three or four extra flutists just to play a
+note or two here and there!  You have to think in terms of a predefined
+combination of monophonic parts from the start.
+
+   But anyway, another consideration that can make a lot of difference in
+deciding what instrument we're listening to is how we play the instrument.
+An extreme case of this is perhaps the Rhodes-style electric piano.  At its
+theoretical basis, there's no reason at all why it should sound even mildly
+reminiscent of a real piano:  As I understand it, they use - essentially -
+tuning forks, whereas real pianos of course use courses of strings.  But even
+though piano strings produce very complex overtone structures and tuning
+forks put out almost exact sinewaves, the fact that it's being played
+stylistically similarly with a piano reminds us so much of a piano that we're
+fooled into thinking that it sounds kind of like a real piano.
+
+   Granted, another big part of that electric piano illusion is due to the
+fact that the two instruments' attack and envelope characteristics are
+similar.  Even still though, a surprising amount of what we identify as
+characteristic of a particular instrument are embodied in playing style.
+Often these are things that go easily unnoticed:  As another example,
+classical brass playing style doesn't allow for much vibrato.  The same is
+true for classical clarinet style, but vibrato is fine for other woodwinds.
+The result is that a saxophone can sound surprisingly brass-like by simply
+playing a bright tone with no vibrato.  Since saxophone technique normally
+uses plenty of vibrato, when you forego it, the effect starts to remind us
+more of a brass instrument.
+
+   The really unfortunate part of all this is that there's not very much room
+for interpretation in our audience's ears.  You might be tempted to say,
+"hey, I don't have to stick with exact simulations of acoustic instruments;
+I'd like to instead use slight variations on them, like a violin without
+vibrato so as not to pollute the beatlessness of just intonation".  I
+reeeeeeally don't recommend that approach!  People are extremely picky about
+such things.  If a tone you create sounds sufficiently like a violin, they'll
+immediately say "AAAAACCCCK, where's the vibrato?!", and the result will be
+something that they don't like.
+
+   In summary then, I've found that, in coming up with electronic "fantasy
+sounds" it's a lot more difficult than it might seem to *NOT* give people the
+impression of it being a well-known instrument.  And if you invoke that
+impression, you pretty much need to "go all the way" and reproduce that
+instrument sound perfectly, or some people will get upset.
+
+------------------------------
+
+End of TUNING Digest 1491
+*************************

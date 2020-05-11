@@ -1,0 +1,46 @@
+source file: mills3.txt
+Date: Fri, 16 Jan 1998 13:11:08 +0100
+
+Subject: RE: JI approximation to 22ET
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+> The number of steps assigned to all these ratios in both tunings agrees
+> with 22TET when displayed on a 7-limit lattice. Right, Manuel?
+
+That's correct. However if the tones of the Kraehenbuehl & Schmidt tuning
+are quantized to 22-tET then step 7 (49/40) and 15 (63/40) are off by one
+to 6 and 14 resp. If the factors 3, 5, 7 in these ratios are quantized
+independently then they agree with step 7 and 15 (which is what Paul
+meant).
+
+Manuel Op de Coul    coul@ezh.nl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+Subject:  Negative IQ of sender (POL)
+PostedDate:  16-01-98 15:08:41
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  16-01-98 15:08:45-16-01-98 15:08:46,16-01-98 15:07:50-16-01-98 15:07:51
+DeliveredDate:  16-01-98 15:07:51
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658E.004DB21E; Fri, 16 Jan 1998 15:08:38 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03233; Fri, 16 Jan 1998 15:08:41 +0100
+Date: Fri, 16 Jan 1998 15:08:41 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA00205
+Received: (qmail 28336 invoked from network); 16 Jan 1998 06:08:21 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 Jan 1998 06:08:21 -0800
+Message-Id: <199801161400.OAA09490@imail.norfolk.gov.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Fri, 22 Dec 1995 11:46:16 -0800
+
+Subject: Re: TUNING digest 592
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+>I use MIDI controller 20 into a sample and hold that samples per voice on
+>note on. That controller is used to modulate pitch over one semitone
+>giving 128 steps per semitone. I use MAX to send a MIDI controller 20
+>as a fine tuning before each note on.
+
+This sounds like the Midi Tuning Standard note-change message, which is
+supported in the MR-Rack.  Note Change lets you set a different key and
+offset for each note, on the fly.
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 22 Dec 1995 21:03 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA00662; Fri, 22 Dec 1995 12:03:33 -0800
+Date: Fri, 22 Dec 1995 12:03:33 -0800
+Message-Id: <951222200009_71670.2576_HHB51-11@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

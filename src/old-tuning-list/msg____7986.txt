@@ -1,0 +1,26 @@
+source file: m1438.txt
+Date: Fri, 5 Jun 1998 13:40:20 EDT
+
+Subject: re: Patrick/Roland future sent around collectively?
+
+From: <DFinnamore@aol.com>
+
+Rick Sanford wrote:
+
+<<Has there, in the past, ever been a "wish list"
+sent around collectively?>>
+
+I think there was talk of it about 8 months ago or so.  Anyway, in addition to
+the two items you mentioned, I'd like to add two more
+
+1)  The ability to use several different tuning tables at once, perhaps as
+many as 16 but at least 4, with table assignment on a per-MIDI-channel basis.
+
+2)  Sample assignment (in the case of sample-based synthesis) by nearest-to-
+sampled-pitch rather than by note number.  This is the most sever problem with
+using Proteuses for tunings that don't map 12-tones-per-octave.  For example,
+31-tET on a Proteus causes the lower tones to be pitch-shifted way above their
+sampled pitch, and higher tones to be shifted way below their sampled pitch,
+making most sounds totally unusable for most musical purposes - they just
+sound too bad for anything but getting a rough idea of what the tunings sound
+like.  There.  I've ranted.

@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Sun, 23 Feb 1997 04:57:04 -0800
+
+Subject: Diatonic Analysis Insufficient, from Gary
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: Gary Morrison <MorriSonics@compuserve.com>
+
+> > > ...tone should be considered a "wandered" tonic, or the major
+> > > third of the V of ii (near C# in C) should be considered a
+> > > "wandered" tonic. "
+> > Frankly I wouldn't buy that. If the harmony makes clear
+> > that you're playing a vi chord, then its third is the tonic.
+> > That's built into the definition of diatonic triads.
+> Sure, but definitions are not music. I say let the
+> music make the definitions, not the reverse. ...
+> If a diatonic analysis is crippled enough to confuse 81/80
+> with 1/1, then it doesn't fall within the realm of usefulness.
+
+   Well, then I recommend you avoid diatonic-triad nomenclature and
+concepts (e.g., "V", "ii", or "vi") if you're not interested in diatonic
+harmony!  
+
+   Yes, you're certainly right that definitions don't make music;  they
+make models for music.  How much heed a composer chooses to give to those
+model structures is largely a different matter entirely.  
+
+   It's easy for students and instructors, composers and performers to get
+the impression, after writing their 629th SATB part-writing exercise, that
+those annoying voice-leading rules from Freshman and Sophomore Theory
+classes aren't meaningful to "real" music.  I really disagree.  Anybody who
+feels that way needs to listen to Mozart's "Ave Verum Corpus", or the
+"Agnus Dei" of his Requiem.  
+
+   I'm certainly not suggesting by any means that that is the only valid or
+useful mindset from which to write music.  But it's far from useless just
+because it doesn't comprehend the idea of a comma.  
+
+   The ideas of traditional harmony has value applied to certain microtonal
+systems - as much or as little value as it has in 12TET.  Traditional
+theory is based upon triadic harmony, but it's most basic emphasis is
+functional harmony:  
+* Leading tones want to go up, 
+* Sevenths want to go down, 
+* Dominant seventh chords want to resolve to tonic chords, etc.
+
+   Functional harmony is also the basis behind wandering tonics:  If you
+can convince an audience that some pitch is the leading tone, and you
+resolve it upward by half-step, then they'll believe that the pitch you
+land on is the tonic, even if it's not the tonic you started on.  Taken out
+of the framework of functional harmony, and of tonality, the idea of
+wandering tonics is no longer meaningful.  
+
+   So it's certainly not unreasonable to think that the tonic could wander
+down to the original pitch of the leading tone, for example.  But if it
+does, it's still functionally the tonic, because that's how our ears will
+perceive it.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 23 Feb 1997 14:02 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA15122; Sun, 23 Feb 1997 14:02:27 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA15115
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id FAA02395; Sun, 23 Feb 1997 05:00:31 -0800
+Date: Sun, 23 Feb 1997 05:00:31 -0800
+Message-Id: <33103EB4.712@ix.netcom.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

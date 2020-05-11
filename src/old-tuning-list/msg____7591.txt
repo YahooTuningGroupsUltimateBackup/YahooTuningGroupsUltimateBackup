@@ -1,0 +1,29 @@
+source file: m1399.txt
+Date: Tue, 28 Apr 1998 19:28:46 -0700
+
+Subject: Synthesizer Resolution
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+In digest 1398 from Paul Hahn,
+>I went through my big consistency table and picked out some of the ETs
+>between 600 and 1200 that looked good for this purpose.
+
+Because of the digital circuitry involved, synthesizer manufacturers will be
+inclined to select a number of steps per octave in which powers of 2 are a
+majority.  Is there some mathematical reason that such numbers as 768, 864,
+1024, 1152 and 1280 have poor consistency?  (I took these numbers, by the
+way, from the video modes my computer's video card supports, but they are
+typical of the kinds of numbers that come up time and again in connection
+with digital circuitry.)
+
+Is there a number that is mostly powers of 2 that would qualify as having
+high consistency that would make the synth manufacturers happy?
+
+Just my 2 bits worth,
+Fred.
+
+---------------------------------------------------------
+ Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+ phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca
+---------------------------------------------------------

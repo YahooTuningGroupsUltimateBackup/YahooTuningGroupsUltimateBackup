@@ -1,0 +1,55 @@
+source file: mills3.txt
+
+
+Subject:  Kopie von: harmonic metrics
+
+From:  DJWOLF_MATERIAL@compuserve.com
+
+---------- Weitergeleitete Nachricht ----------
+
+Von:    Daniel Wolf, 106232.3266
+An:     INTERNET:tuning@eartha.mills.edu, INTERNET:tuning@eartha.mills.ed=
+u
+Datum:  15.07.97 11:31
+
+Betreff:Kopie von: harmonic metrics
+
+Thanks to Carter Scholz for an excellent, focused posting. I agree
+wholeheartedly that the greater the variety of metrics (among many other
+tools), the more useful they will be for a greater variety of composers
+with different sensibilities, be they innate, or cultivated.
+
+Carter wrote:
+
+<2) Non-integers/approximations.  Small-number-ratio metrics fail with
+<irrationals.  E.g. 300001/200000 is much more "dissonant" than 3/2;
+<indeed, the closer the approximation, the more distant it's ranked by
+<any small-number metric.  The ear has a much more adaptable threshold. =
+
+<Some metric that describes near-misses could be quite useful.  (Again,
+<by incorporating critical bandwidth, Sethares's metric avoids this
+<particular pitfall.  Tenney alludes to, but does not incorporate, a
+<"tolerance range" in his harmonic distance metric.)
+
+Closely related to this - and to the question of making the graphs octave=
+
+equivalent or not - is the inclusion of raw interval size, independent of=
+
+its factorization. Since my own orientation as a musician includes a stro=
+ng
+vocal sensibility, there is a real sense that the larger the interval, th=
+e
+greater the effort to produce it, thus sometimes reducing or neutralizing=
+
+the effect of harmonic distance when derived from factoring alone. =
+
+
+I can well imagine harmonic situations where 5/3 and 15/8 represents
+equivalent levels of harmonic distance from a given tonic, both
+horizontally and vertically, but singing these intervals melodically will=
+,
+in most cases, override the equivalence. =
+
+
+
+$AdditionalHeaders:  Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id C12564DA.00071180; Sun, 20 Jul 1997 03:17:12 +0200

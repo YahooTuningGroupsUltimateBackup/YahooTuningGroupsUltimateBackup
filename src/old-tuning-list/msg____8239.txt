@@ -1,0 +1,28 @@
+source file: m1471.txt
+Date: Fri, 10 Jul 1998 22:19:35 -0700
+
+Subject: Re:microtuning software for Macs (oops !)
+
+From: "Mr. Touchless" <touchles@sirius.com>
+
+Graham Breed wrote
+> I don't have full details of Java Sound, but I bet it won't allow
+> low-level access to the MIDI ports.  I wrote my Windows program in C++.  I
+
+Java is an evolving environment. Today's Java API only plays mono, 8K AU
+files. The Java sound API has been proposed but not released. It is supposed
+to be released sometime after JDK 1.2. The current JDK is at version 1.1. It
+takes another year or so for each new version of the JDK to be incorporated
+into the most popular browsers.
+
+You can read more about the Java Sound API from the following URL. I believe
+that it will handle most of your sound card tuning needs.
+
+http://java.sun.com/marketing/collateral/java_sound_ds.html
+
+Mr. Touchless
+
+------------------------------
+
+End of TUNING Digest 1471
+*************************

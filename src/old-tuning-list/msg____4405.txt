@@ -1,0 +1,108 @@
+source file: mills2.txt
+Date: Tue, 24 Dec 1996 15:41:42 -0800
+
+Subject: Re: TUNING digest 935
+
+From: malkin@iwaynet.net (David Malkin)
+
+Hey yall,
+I've been experimenting (with what limited computer knowledge i have) with
+playing microtones with my computer keyboard with Chipmunk Basic
+
+5 rem partch's 5-limit scale (13 tones, no tritone)
+7 rem imagine z to be note a (concert a)
+10 a$ inkey$
+20 print a$
+30 if a$ "z" then goto 40 else goto 130
+40 sound 440,0.1,10
+130 if a$ "s" then goto 140 else goto 230
+140 sound 440*(16/15),0.1,10
+230 if a$ "e" then goto 240 else goto 250
+240 sound 440*(27/25),0.1,10
+250 if a$ "d" then goto 260 else goto 270
+260 sound 440*(9/8),0.1,10
+270 if a$ "c" then goto 280 else goto 290
+280 sound 528,0.1,10
+290 if a$ "f" then goto 300 else goto 310
+300 sound 528*(16/15),0.1,10
+310 if a$ "t" then goto 320 else goto 330
+320 sound (528*10/9),0.1,10
+330 if a$ "v" then goto 340 else goto 350
+340 sound (528*9/8),0.1,10
+350 if a$ "g" then goto 360 else goto 370
+360 sound (528*6/5),0.1,10
+370 if a$ "b" then goto 380 else goto 390
+380 sound (528*5/4),0.1,10
+390 if a$ "n" then goto 400 else goto 410
+400 sound (528*4/3),0.1,10
+410 if a$ "m" then goto 420 else goto 430
+420 sound (528*3/2),0.1,10
+430 if a$ "k" then goto 440 else goto 450
+440 sound (528*8/5),0.1,10
+450 if a$ "," then goto 460 else goto 470
+460 sound (528*5/3),0.1,10
+470 if a$ "l" then goto 480 else goto 490
+480 sound (528*16/9),0.1,10
+490 if a$ "p" then goto 500 else goto 510
+500 sound (528*9/5),0.1,10
+510 if a$ ";" then goto 520 else goto 530
+>520 sound (528*15/8),0.1,10
+>530 if a$ "/" then goto 540 else goto 550
+>540 sound (528*2),0.1,10
+>550 goto 10
+
+This puts the mac into an infinite standby mode (if only I could figure out
+how to get case statements to work). Well, the wheels started grinding and
+I thought wouldn't it be great if midi was based on hz instead of it's
+limiting protocol. Also, those dudes back about 200 years ago had it right
+(if there's such a thing as right) when they rebuilt keyboards that had
+more than 2 levels. Hell on any standard computer keyboard, one can use the
+"zxcvbnm,./" level as a base and put small gradations going up diagonally
+up to the "1234567890-level, not to mention octave transpositions
+possible with the shift key. Is it possible to buy such a keyboard? Also, I
+ran into the problem of not being able to play more than one note at a time
+(bummer). Is it possible without MIDI and several channels? Just curious.
+
+As an aside, I really think it's interesting how people in the microtuning
+community are upset about Kronus doing Partchs works. It's funny how some
+rare shining intellect comes along and tells the codifiers of knowledge
+that they've gotton stuck in their reality system to the point where it is
+almost like a straitjacket; and then after his death, people codify him. If
+Kronus were all 7 years old, I'm positive that the "parents" (be they
+"12TET is right for everyone" professors or caretakers of the Partch
+legacy) would physically prevent those "upstart brats" from "vandalizing"
+our religion. Partch made his own instruments because it was right for him,
+he didn't want to create another entrenched system (he states this ethic
+time and time again in his "Genesis.."). Sure he had certain ideas in mind
+for the sound he wanted, but if someone can put a new spin on it using
+shovels and drumsticks on an upside down porcelein toilet seat:  MORE POWER
+TO YOU.  Partch constantly encouraged us to get off our "ahem" and make our
+own music, our own instruments, our own scales, our own REALITY SYSTEMS.
+Who really OWNS anything. I respect other people's work and don't plagurize
+because I think life is full of so many infinite combinations of
+expressions that it would be absurd to "steal" anothers ideas. I would feel
+very pathetic if I had to copy the way I talk and walk from someone else.
+At any rate, the universe is dynamic not static, all the sounds we hear
+influence everything we do, a river can't be dammed up by sticks. Music is
+part of that river. Why dam it up? Kronus will get thousands to hear music
+they might never hear. And it's Kronus's interpretation, just like
+everything in life is an interpretation. I think it's supremely BEAUTIFUL
+that Partch's instruments will rot away in no time. I feel it is part of
+his sense of humor in a sense for if his instruments would have been made
+to be more permenant, then he would face the legacy of becoming another
+dogmatic system.
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 25 Dec 1996 15:44 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02800; Wed, 25 Dec 1996 15:47:17 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02799
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id GAA08413; Wed, 25 Dec 1996 06:47:14 -0800
+Date: Wed, 25 Dec 1996 06:47:14 -0800
+Message-Id: <Pine.SUN.3.95.961225093514.6059A-100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

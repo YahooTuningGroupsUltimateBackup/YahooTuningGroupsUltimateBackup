@@ -1,0 +1,46 @@
+source file: mills3.txt
+Date: Thu, 9 Oct 1997 16:01:49 +0200
+
+Subject: Re: Prime neighborhood
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>All of us have no doubt noticed that the strangeness/poignancy/difficulty of
+>intervals increases as higher primes are introduced into ratios, up to and
+>including 13.  After that, 17 and 19 are fairly tame/consonant sounding and
+>relatively easy to work into the rational scale fabric, then with 23 it
+>starts getting pretty bizarre-sounding again.
+
+   Another explanation for this is that 17 and 19 also provide some close
+approximations to 12TET intervals.  So they might sound comparatively
+ordinary in part merely because we're used to them.  That and because
+they're pretty close to 3- and 5-based intervals, so 3 and 5 "win".
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Re: dynamic JI
+PostedDate:  09-10-97 16:02:57
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  09-10-97 16:02:30-09-10-97 16:02:30,09-10-97 15:01:01-09-10-97 15:01:02
+DeliveredDate:  09-10-97 15:01:02
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125652B.004D1F42; Thu, 9 Oct 1997 16:02:22 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12330; Thu, 9 Oct 1997 16:02:57 +0200
+Date: Thu, 9 Oct 1997 16:02:57 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA12320
+Received: (qmail 2028 invoked from network); 9 Oct 1997 07:02:53 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 9 Oct 1997 07:02:53 -0700
+Message-Id: <v0154110cb0622ca98553@[207.207.2.21]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

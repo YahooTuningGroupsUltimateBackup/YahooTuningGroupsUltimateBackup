@@ -1,0 +1,32 @@
+source file: m1507.txt
+Date: Tue, 18 Aug 1998 09:37:43 +0100 (British Summer Time)
+
+Subject: Software for temperaments
+
+From: David Griffel <D.Griffel@bristol.ac.uk>
+
+Shortly after I asked a question here about software for playing a Midi 
+keyboard in temperaments, I found a discussion on hpschd-l about 
+exactly that:
+
+"The RealTime Tuner is a freeware Macintosh program for musicians       
+who are interested in alternative tunings, or who might become 
+interested in them if they had a convenient way of experimenting with 
+them. The use of tunings other than standard Equal Temperament adds a 
+fascinating extra dimension to the musical experience. 
+
+The program makes it possible to play a MIDI instrument in any 
+twelve-tone temperament. It also provides ways of shifting the         
+temperament to center on a different tonic key, and to do this instantly
+as the music progresses."
+
+http://socrates.berkeley.edu/~wcooper/realtimetuner.html
+
+If only there were a PC version ... 
+
+David Griffel
+-------------
+School of Mathematics,    email d.griffel@bris.ac.uk
+University Walk,          Tel. 0117 928 7983
+Bristol, BS8 1TW,         Fax  0117 928 7999
+England.

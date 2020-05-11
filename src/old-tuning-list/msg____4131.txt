@@ -1,0 +1,322 @@
+source file: mills2.txt
+Date: Sun, 24 Nov 1996 08:19:06 -0800
+
+Subject: New Post from Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Paul Hindemith & the harmonic series
+--
+Some while back Gary Morrison and others mentioned
+Paul Hindemith's view of the harmonic series.  This=20
+issue is a xenharmonically important one because=20
+Hindemith isn't the only composer with such odd
+ideas...so it's worth discussing a little further.
+From=20about 1880 through the 1940s it was popular
+for many music theorists to add a dash of harmonic
+series quasi-science to their teachings.  The guy who=20
+started this was Mersenne, followed by Rameau,
+but the fellow who really kicked the trend=20
+into high gear was Hermann Helmholtz, with help from=20
+the experimental work of  Michaelson, Lord Kelvin and=20
+above all Dayton C. Miller.
+Helmholtz proposed the notion that the human ear=20
+performs a Fourier analysis on incoming sounds.  This
+is now known to be partly true for frequencies above
+500 Hz, which leaves open the very daunting question:
+what does the ear do with sounds below 500 Hz?
+This question has still not been satisfactorily=20
+answered, though there is overwhelming evidence
+that more than one process is at work when the ear/
+brain system hears a sound.
+Helmholtz's theory, however, specifies *only* Fourier
+analysis.  This led several generations of researchers
+to build mechanical Fourier analysis/resynthesis
+systems: Lord Kelvin's tide predictor used 40 sine and
+cosine terms added mechanically to predict tides,
+while Michaelson's mechanical Fourier analyzer
+reduced spectroscopic measurements to Fourier
+coefficients.  Far and away the most elaborate of
+these systems, however, was Dayton C. Miller's
+mechanical Fourier analysis/resynthesis system=20
+operating on phonodeik-generated sound waveforms.
+A music theorist perusing the cutting-edge scientific
+literature on musical acoustics between 1900 and 1940
+would have "learned" that the harmonic series is=20
+fundamental to an understanding of music and=20
+acoustics.  The fact that the harmonic series was
+used to analyze music primarily because it it had
+the simplest and most straightforward mathematics=20
+never seemed to occur to anyone--with a few lone
+exceptions. See Llewellyn S. Lloyd's "Musical Theory
+In Retrospect" in JASA, 1941, for a cogent critique
+of the circular reasoning by which early 1900s musicians=20
+and physicists concluded that the harmonic series=20
+explained music, since all music when analyzed by=20
+the Fourier transform is turned into a set of perfectly
+harmonic frequencies.  And since Fourier analysis
+generates a set of perfectly harmonic frequencies,
+therefore the harmonic series explains all music.
+The problem with this way of thinking about music
+and sound is that the method you're using (Fourier
+analysis) is incapable of ever giving you *anything*
+BUT a set of perfectly harmonic frequencies.  If you
+Fourier-analyze a set of inharmonic frequencies, your
+output will be a set of perfectly harmonic frequencies--
+albeit an infinite number of 'em.  Fourier analysis,
+because it's incapable of generating any output
+other than a set of perfectly harmonic frequencies,
+automatically *limits the types of sounds which can
+be usefully analyzed*, and it also radically limits
+the kinds of output you get from your analysis.
+As a result, Fourier analysis drastically limits the kinds
+of  musical systems which can be usefully theorized
+about.  The problem here is that we've begun with an=20
+assumption and then proceeded to use evidence derived
+from it to prove that out-of-the-blue assumption, =20
+with the predictable  result that our logic is infallibly
+mathematically true  and thoroughly meaningless as
+a method of probing physical reality. =20
+Imagine it this way: you're a bee.  You have faceted eyes.
+You see the universe as facets.  You develop an elaborate
+theory which explains the universe in terms of facets.
+Have you learned anything basic about physical reality?
+Or are you merely the victim of your preconceptions,
+having assumed the truth of what you set out to prove?
+Appplying Fourier analysis to music produces the same
+conundrum.=20
+However, no music theorist realized this back at the start
+of this century.  (For a very telling early criticism of
+the entire Fourier picture of sound, timbre and music,
+see Danis Gabor's "Acoustical Quanta," 1947, Nature
+(British journal), V. 4044) As a result, in the early 1900s it=20
+was popular to "explain" exotic modern 12-TET  music by=20
+using the  harmonic series.  A typical example is Scriabin's
+"mystic chord," which supposedly approximates members=20
+11 and 13 of the harmonic series with a set of 12-tone
+equal-tempered pitches. (If memory serves, the complete
+"mystic chord" was 9:10:11:12:13.  I may be incorrect.)
+The fact that harmonics 11 and 13 were not well approximated
+in 12-TET (harmonic 11 is about 50 cents away from
+the nearest value available in 12) didn't seem to bother
+Scriabin or his supporters.  Such, apparently, was the
+power of the 12-TET mindset...
+"Hindemith's position may be classed with 'law of Nature'
+theories, which seek to derive the procedures of musical
+art from the objective properties of tone rather than from
+the musical activities of people.=20
+%=A0resulting natural
+'laws' are presented to us as scientifically valid and
+general enough to comprise the permanent and inevitable=20
+aspects of the art. Musicians hesitate to question such
+theories, first because it is unpopular to  oppose the=20
+claimed pronouncements of natural science, second
+because few of them today are sufficiently prepared in
+the relevant disciplines to be critical of details, and third
+because they do not readily distinguish between proper=20
+scientific forumlas and a species of mysticism dealing
+with magic numbers.
+"Hindemith's analysis begins with the familiar harmonic
+series of overtones from the fundamental C, but he
+discusses theoretical rather than actual overtones. (..)
+"For we can 'discover' and 'prove' in the fertile harmonics
+the natural origin of any musical relations whatsoever,=20
+not to mention all the unmusical ones, though there is an
+embarassing exception in the minor triad. (..)
+"The most severe of Hindemith's troubles with Nature
+occur in his account of the minor harmony, not so much=20
+because Nature is notoriously coy about the matter, as=20
+because Hindemith projects upon it a kind of reasoning
+that should make even his scholastic predecessors wince. (..)
+"Hindemith repeats some well-worn odes in praise of
+just intervals, but does not investigate the facts. His
+good ear notifies him of inflections, but he is not
+equipped to define them properly, so that he never suspects
+that Hindemith the violist plays quite normally in the=20
+'abominable' Pythagorean system. As with mere facts,
+so with logic, for our theorist first derides equal temp-
+ermants in the manner of the least informed fiddle
+teacher and elsewhere claims that we can hear only
+in equal temperament. A pretty muddle is reached when
+we learn that enharmonic differences in notation are
+meaningless and futile and that these same enharmonic
+differences in fact are also inesecapable and beautiful. (..)
+"Hindemith does not study the real nature of music,=20
+neither the nature of the material medium through which
+the art of music comes alive, nor the nature of the human
+purposes which have brought about every facet of the art.
+His concern is with non-human mechanics of a non-
+material world...=20
+"Thus Hindemith does not give us Nature but in her stead
+some more or less ingenious manipulations of cycles=20
+and epicycles, of triangulations and of cubes, of alternate
+multiplications and divisions...and above all the reflections
+thereof in that wondrous and capacious subconscious which=20
+is so convenient a repository, by definition, of everything
+we do not know or cannot answer. (..)
+"Hindemith prestends to be modern and scientific, and at every
+turn he dazzles the unwary with thel anguage of mathematics,
+of astronomy and of physics, and he even talks about=20
+experiments. Yet he is not concerned with Nature but with
+a revival of medieval speculation about magic numbers.
+"Hindemith's 'experiments' consist of his private contemplation
+of triangles and syllogisms, and he should not therefore hint to
+us that his results come directly from the laboratory. (..)
+"For the sake of clarity, the olden myths of musica mundana
+should not be hidden in jargon taken from the natural=20
+sciences." [Cazden, Norman,  abstract of the paper "Hindemith
+and Nature," read in Iowa City on April 18 1954; Journal
+of the American Musicologycal Society, Vol. 7, Summer
+1954, pp. 161-164]=20
+An even weirder twist on this strange notion that=20
+high members of the harmonic series could somehow
+be "represented" by 12-TET pitches is the idea that
+the harmonic series pitches were "out of tune"--rather
+than the 12-tone equal tempered scale pitches!
+Paul Hindemith uses both of these ideas in his derivation
+of the 12 tone equal temperament.  He then proceeds to
+dismiss harmonic-series-based tunings as "out of tune"
+because they deviate from the tuning of 12 tone equal
+temperament (though as Cazden points out Hindemith
+also praises the harmonic series effusively at other
+points.)=20
+In his 1931 doctoral thesis (republished as "Tuning and
+Temperament in 1950) J. Murray Barbour commits the
+same error--meantone and JI are "musically inferior"
+because they contain large "errors"--errors measured
+by comparing them with 12-tet!!!
+This sounds incredible, but it was a common way of
+theorizing about music between 1900 and 1940.  Back
+then, ethnomusicology hadn't really gotten off the
+ground and there was very little understanding of the
+deeply non-twelvular nature of  non-western  musics
+throughout the world.  Other cultures were presumed
+to be "primitive" and their tuning systems were
+assumed to be "crude approximations" either of
+12 tone equal temperament, or some even simpler system
+like 5-TET or 7-TET (which, most music theorists
+assumed, were merely "precursors" of 12-TET). =20
+It never seemed to occur to anyone between 1900 and
+1940 that other cultures often performed music using
+instruments which had inharmonic timbres and
+therefore did not need tunings based on the harmonic
+series.  It never seemed to occur to anyone in
+the beginning of this century that other cultures
+might make music which was *more* sophisticated
+than ours in certain ways, while our music was
+more sophisticated than that of other cultures
+in different ways.  (For example, the idea that
+African music was far more rhythmically complex
+than western music seems to have been alien to
+music theorists of the early part of this century.
+Ditto the notion that other cultures often didn't break
+up a 2:1 interval into small whole number ratios,
+but instead added non-just non-equal-tempered=20
+intervals cumulatively, producing scales which
+are best analyzed as blocks of constant numbers=20
+of Herz, rather than cents.  See Ellis, C., "Pre-
+Instrumental Scales," J. Ethnomusiology,
+1962.)
+The idea that higher harmonics above 6 might
+somehow be "represented" by pitches in common
+12-TET chords sounds very strange to us today,
+but it was an extremely common idea in the
+early part of this century. =20
+Two currently-cited references which date from
+the period 1900-1940 still contain these weird
+ideas:  J. Murray Barbour's "Tuning and
+Temperament" and Joseph Yasser's "Theory of
+Evolving Tonality."  Barbour's book was published=20
+in hardback in the 1950s, but was actually a
+PhD thesis from the 1930s. =20
+Joseph Yasser's "Theory of Evolving Temperament"
+from 1932 also propounds this weird notion of
+12-TET "containing" or "representing" high members
+of the harmonic series like 13.  Yasser mentions=20
+Scriabin's "mystic chord" approvingly,  & proposes an odd-
+sounding and very dissonant hexad as the fundamental
+"consonant" chord of 19-tone equal temperment:
+the hexad consists of the 19-tone pitches
+most closely approximating harmonics 8, 9, 10,
+11, 13, 14 (if memory serves). Harmonic 12
+was deliberately left out because it's 3 octaves
+plus a perfect fifth, and since the perfect fifth
+is 1/170 of an octave off from the harmonic-series
+value in 19-tone equal temperament, Yasser
+proscribed the use of that 19-tone interval.
+(Yasser never explained how 9 could be obtained
+if the harmonic 3 was proscribed. This, as Ivor
+Darreg remarked, was one of the sacred Mysteries
+of the Yasser religion.)
+Today, of course, this all sounds incredibly weird.
+No one to my knowledge composes in 19-tone
+equal temperament according to Yasser's
+strange hexad system, or his "supra-diatonic"
+12-out-of-19 pitches. No one to my knowledge
+who has heard and performed in 19-tet thinks
+that Yasser's dissonant hexads are the most
+consonant chords in 19-tet. (M. Joel Mandelbaum
+did once compose a serial piece using 12-of-19=20
+purely as a showpiece--a serial composition which
+is atonal yet which *modulates.*  Try *that,*
+Schoenberg!)  As Ivor Darreg and Easley
+Blackwood have both pointed out, 19-TET
+major and minor triads  sound smoother
+than the equivalent structures in 12-TET...
+the 19-TET minor triad particularly so.=20
+Why Yasser chose to categorize the 19-tet
+perfect fifth as "dissonant" is simply
+inexplicable...unless you look at the=20
+era he came out of.=20
+It's impossible to understand the strange
+reasoning behind Yasser's, Barbour's, Hindemith's
+and Scriabin's theories of intonation and=20
+musical harmony without realizing that to
+music theorists in the early part of this
+century, the harmonic series was a mistuned
+approximation of 12-tone equal temperament.
+Seen from that standpoint, it's obvious why
+the harmonic series is "useless" above the
+6th harmonic--at that point the harmonic
+series begins to sound extremely "out of tune"=20
+with 12-TET.=20
+To us, in the 1990s, this sounds incredibly
+odd--as though someone were to explain
+that clean air is a badly degraded form of smog.
+Yet such musical-theoretic notions were common=20
+from 1900 until 1948,  when serialism took=20
+over academia like an epidemic of Tulipomania.
+--
+Incidentally, you might think that modern music
+theorists have put behind them the weird delusion
+that harmonic series members are "out of tune"
+12-TET pitches. Alas, such strange statements
+are *still* being made in contemporary music=20
+textbooks. The most glaring example I have found
+recently is page 27 of "Materials and Structure
+of Music, Vol. 1," 3rd edition, by Christ, DeLone,
+Kliewer, Lowell and Thompson., 1988. On that page, ex.
+2-10 shows "harmonic series on D."  But the harmonic
+series members 1-10 are depicted as 12-TET notes
+with no indication that that the pitches of the 12-TET
+are any different from the pitches of the  "Natural=20
+harmonic series"(!!!)
+When William Alves suggested teaching music
+theory by introducing the harmonic series, this
+is probably *not* what he had in mind.
+--mclaren
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 24 Nov 1996 17:21 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05999; Sun, 24 Nov 1996 17:22:47 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA05935
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA19527; Sun, 24 Nov 1996 08:22:44 -0800
+Date: Sun, 24 Nov 1996 08:22:44 -0800
+Message-Id: <Pine.SCO.3.91.961124075830.10035C-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

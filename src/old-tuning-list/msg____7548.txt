@@ -1,0 +1,100 @@
+source file: m1396.txt
+Date: Sat, 25 Apr 1998 16:45:35 -0400
+
+Subject: RE: JI Tuning Resolution
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Gary,
+
+>If you zoom it in on a single period of the tone, you see the peaks and
+>troughs of the vibration bobbing up and down, and sometimes moving around
+>too.  Regardless of what you attribute that to, it's certainly not a
+>strictly periodic wave.  But if you change the time per division so as to
+>zoom out to show 10 or so cycles, you can see that the bobbing up and >down
+>of the peaks and troughs follows a regular progression from one cycle to
+>the next.  Sometimes you can even actually see a peak moving through the
+>lower frequency components.
+
+I grant you that typically the wave will not be strictly periodic,
+because the player's bowing, lipping, or blowing will not be entirely
+steady.
+
+The problem is that if one of the harmonic partials is changing in
+amplitude due to this unsteadiness, and you do a Fourier analysis on a
+segment of time in which these changes are significant, the Fourier
+transform will only be allowed to assign one amplitude to each
+frequency. Therefore, the result of the analysis will be that the
+frequencies are slightly altered, usually both upwards and downwards
+simultaneously, so that interference can simulate the changes in
+amplitude. (Try it!) However, as the ear can only resolve one pitch
+within each critical bandwidth (and there are nerve-firing periodicities
+which supplement the cochlear mechanisms), it will indeed be able to
+interpret the signal as having harmonic partials of changing amplitudes.
+I'm not saying that one interpretation or the other is more correct; the
+problem of describing a waveform as a sum of frequencies each of whose
+amplitude changes over time has many equally valid solutions. I'm saying
+that the solution relevant for how we hear the tones and how dissonance
+might arise with other tones is, in most cases, one where the partials
+are harmonic and of changing amplitude. (Looking at peaks and troughs
+can be misleading. The way we hear a wave has surprisingly little
+correlation with how the wave looks.)
+
+Add the variablity of the overall pitch level and you have another
+complication for a traditional Fourier analysis.
+
+If there are indeed overtones of constant amplitude that do not fall
+within the harmonic series of the fundamental, there must be an
+independent source of energy producing them. I don't think this occurs
+too often in any significant proportion in the types of instruments
+we're talking about.
+
+>>If you study the mechanics of
+>>a 1-component driver, such as a bow, reed, or lips, you will understand
+>>that regardless of the extent to which the resonant modes of vibration
+>>of the instrument deviate from a harmonic series, the driving mechanism
+>>will force the waveform to become periodic,
+
+>Would you apply that to a flute, for example?
+
+I don't think the turbulent airflow that drives a flute is well enough
+understood to make this characterization. However, this airflow does
+appear to be characterised by "periodic" and "chaotic" regimes of
+behavior.
+
+>It sounds like you're suggesting that lips, or a reed for example, can
+>only vibrate periodically.  I personally am aware of no evidence to that
+>effect.  They certainly don't have the physical characteristics of a system
+>that vibrates only in harmonics, notably a mechanical transmission line.
+
+Under a steady airflow, the Bernoulli effect that explains their motion
+predicts a periodic behavior. Even without the rest of the instrument to
+dictate where the fundamental will resonate with a minimum of input
+energy, the mouthpieces of these instruments can be used to create a
+musical tone with harmonic overtones (albeit highly variable overall
+pitch). The timbre of instruments, as I'm sure you know, is highly
+dependent on the ability of the instrument to resonate at harmonic
+overtones of a given resonance. This is becuase the lips/reed are highly
+non-linear, creating a host of harmonic overtones along with the
+sinusoudal fundamental that a simple Bernoulli model would predict. Now
+the extent of this non-linearity is dependent on the physical
+characteristics of the reed/lips, which can be constantly altered by the
+player, even if he/she is not meaning to do so. Hence the amplitude of
+the partials can vary, sometimes wildly, rendering the waveform
+aperiodic. However, for the time domains relevant for the ear's
+analysis, this does not lead to any relevant alterations in the
+frequencies of the partials.
+
+>>> . . . JI does what it does more in the lower harmonics
+>>>than the upper ones
+>>I think Harry Partch would disagree with you there.
+
+>That of course is why I said "to the degree that JI does what it
+>does...":  To include the possibility that that degree might be zero.  Or
+>very high.
+
+>In other words, I was not expressing an opinion along those lines;  just
+>stating that if that were true, then the fact that the lower harmonics are
+>closer to harmonic than the would be relevant.
+
+>Boy, am I confused!

@@ -1,0 +1,87 @@
+source file: mills3.txt
+Date: Wed, 24 Sep 1997 17:45:58 +0200
+
+Subject: Writing Csound from Scala1.3
+
+From: Greg Schiemer <gregs@mail.usyd.edu.au>
+
+Oops. Here is the attachment to my previous post - in a readable form.
+
+Greg S
+_____________________________________________________
+
+! CS-DEMO.CMD
+!
+!  by Greg Schiemer '97
+!
+!  Creates Csound .SCO and .ORC files using data tuned from Scala.
+!  Before running this program, select Scale (.SCL file) from Scales
+!  archive and load it into SCALA directory. Lexical functions of
+!  the ECHO command write tuning data straight into .ORC file.
+!
+set pause off
+load *.scl 0
+set pause on
+!  show/frequency
+!
+!  writes 1st Csound file in the user's directory
+!
+file c:From Mckyyy@aol.com Wed Sep 24 04:03:08 1997
+Received: (qmail 18726 invoked from network); 24 Sep 1997 04:03:07 -0000
+Received: from emout37.mx.aol.com (HELO emin25.mail.aol.com) (198.81.11.29)
+  by ella.mills.edu with SMTP; 24 Sep 1997 04:03:07 -0000
+Received: (from root@localhost)
+	  by emin25.mail.aol.com (8.7.6/8.7.3/AOL-2.0.0)
+	  id AAA03796 for tuning@ella.mills.edu;
+	  Wed, 24 Sep 1997 00:02:36 -0400 (EDT)
+Date: Wed, 24 Sep 1997 00:02:36 -0400 (EDT)
+From: Mckyyy@aol.com
+Message-ID: <970923232217_2031383645@emout17.mail.aol.com>
+To: tuning@ella.mills.edu
+Subject: Popular Microtuning
+
+I would like to put myself on record as supporting the
+"microtuning in pop" theory.
+
+And when you think about it, why limit it to pop?  The principle
+instruments of a symphony orchestra are violin, viola, and string
+base--no frets!  Almost every other instrument in an orchestra is
+capable of some real-time microtuning by skilled musicians.
+
+12ET is a theory that is honored largely in the breach.
+
+Mostly the 12 is really some subset, and the ET is squeezed
+toward JI as much as possible.
+
+Just listen.
+
+Marion
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  scot@csuhayward.edu
+Subject:  Re: TUNING digest 1188
+PostedDate:  24-09-97 21:28:47
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  25-09-97 12:19:29-25-09-97 12:19:31,25-09-97 12:18:35-25-09-97 12:18:36
+DeliveredDate:  25-09-97 12:18:36
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C125651D.0038982D; Thu, 25 Sep 1997 12:18:09 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29214; Wed, 24 Sep 1997 21:28:47 +0200
+Date: Wed, 24 Sep 1997 21:28:47 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA29207
+Received: (qmail 14906 invoked from network); 24 Sep 1997 18:59:18 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 24 Sep 1997 18:59:18 -0000
+Message-Id: <3.0.3.32.19970924110439.007cc100@pmail1.csuhayward.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

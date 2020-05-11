@@ -1,0 +1,121 @@
+source file: mills2.txt
+Date: Thu, 6 Mar 1997 21:21:30 -0800
+
+Subject: Re: New Paper
+
+From: "Asmussen, Robert" <robert@terraworld.net>
+
+Dear Mr. Tomes, 
+
+Thank you for your comments regarding my paper. I have in turn been
+reading your paper on just intonation, which is located at:
+
+http://www.kcbbs.gen.nz/users/rtomes/aji-main.htm
+
+
+I think you have many fine ideas, such as translating passages of
+traditionally notated music with variable pitch sets. I will take more
+time later to delve into the details.
+
+I have devised a mechanism similar to the keyboard system in your paper.
+In my translator, a Csound orchestra stores variable pitch sets (12
+members each) in wave tables, then looks them up as they are needed
+according to values stored in the score.
+
+For the purposes of pedagogy, especially at the introductory level, I
+try to avoid references to traditional tuning systems. Doing so
+eliminates the unnecessary step of translating from a limited, fixed
+system into an unlimited one. For this reason, I left comparisons and
+translations between equal temperament and just intonation out of the
+most recent version of my paper.
+
+As to some specific details, I believe you are incorporating intervals
+in your Mozart example that are not in keeping with the classical style.
+For example, you use octave equivalents of 7/4 as some of your frequency
+ratios. I challenge you or anyone to create a dominant seventh chord,
+using the number seven as a multiple in the denominator of the chord’s
+seventh, that would not sound out of place in a piece of chamber music
+by Mozart.
+
+I would suggest giving it the acid test, which would be to make a WAV
+sound file of your Mozart score using Csound. With the tempo nice and
+slow, try 7/4, then 16/9 as the relative frequency for the seventh of
+your dominant chord.
+
+Under such conditions, nearly everyone would agree the ratio 16/9 is a
+much better selection for music of this period. I cannot provide an
+airtight proof of why this is the case, but my ear and 30+ years
+experience as a musician tell me it is so. I can point out that from the
+major scale provided by Helmholtz in his book, “Sensations of a Tone”,
+the relationship of 16/9 for the seventh of a dominant seventh chord may
+be inferred.
+
+You state, ”Some intervals such as a minor sixth may be interpreted as
+7/4, 16/9 or 9/8 depending on circumstances.”
+
+Without going into the potential merits of your statistical approach to
+pitch selection, I must point out that 7/4 is approximately a minor
+seventh; 16/9 is an in-tune minor seventh; and 9/8 is a major second.
+Certainly none of these ratios is a minor sixth. I assume this is just a
+grammatical error.
+
+When I stated in my paper that pieces of traditional tonal music could
+not be translated without modification from traditional notation into
+integer ratios, I could have elaborated further with the following two
+points:
+
+1. Often, such as when employing chromatic scales, the composer is
+simply filling in the space from point A to point B with notes. Such
+passages do not need to be translated, nor often can they be, into
+ratios. One might even argue that such passages are not really music,
+but rather more like dust on a mirror.
+
+2. Composers of the past wrote their music using limited instruments and
+tuning systems that were available at the time. We should not expect to
+translate their imperfect creations into a purely mathematical
+framework; in fact, we should be surprised when it is possible to do so.
+
+In my paper, I have included one such surprise, complete with a WAV
+sound file generated in Csound. This entire two-part invention, a lovely
+gem by Bach, can be tuned according to the principles given 130 years
+ago by Hermann Helmholtz. The Csound orchestra, score and WAV file are
+located at:
+
+http://www.terraworld.net/users/r/robert/htmlpap7.htm
+
+
+In the Csound score for this two-part invention, every interval is
+provided in the last two parameter fields, columns 5 and 6. The bars are
+numbered clearly to facilitate comparison with an actual score.
+
+Regarding the problems you are having with the graphics in my paper,
+would you please contact me if you experience additional difficulties? I
+have reloaded all ten HTML files off my server quite easily using only 8
+megs of RAM while running a minimum of applications and windows.
+
+I look forward to studying your paper, as well as examining your many
+other papers, in greater detail.
+
+Best regards,
+
+
+Robert Asmussen
+
+P.S.
+
+For those seeking information about Csound, a good starting point is:
+
+http://ccrma-www.stanford.edu/~tkunze/Csound/title.html
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 7 Mar 1997 23:58 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09033; Fri, 7 Mar 1997 23:58:38 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08926
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id OAA07256; Fri, 7 Mar 1997 14:56:07 -0800
+Date: Fri, 7 Mar 1997 14:56:07 -0800
+Message-Id: <199703071521.HAA22318@ella.mills.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

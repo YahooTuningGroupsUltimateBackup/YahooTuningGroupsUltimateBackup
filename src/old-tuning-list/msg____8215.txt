@@ -1,0 +1,131 @@
+source file: m1463.txt
+Date: Wed, 1 Jul 1998 15:57:10 +0000
+
+Subject: Adaptive Tunings
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+I wrote:
+
+>>One thought: personally, I think I
+>>would be more or less content if this could be implemented as a
+>>convenient 'post-production' technique.  But people who are 
+>>interested in using these machines for live performance would 
+>>presumably want more than this?  
+
+Bill Sethares wrote:
+
+>All of my adative tuning work has been "off-line". I make a standard 
+>MIDI file, read it into my adaptive algorithm, wait a while, and 
+>then check out how it did. This is a very awkward way to work, and 
+>is essentially a kind of 'post-production' method as you describe. I 
+>think adaptive tunings will only be really useful when you can sit 
+>down and play as if it were a musical instrument. Such 
+>'post->production' methods are fine for demonstrating the concepts, 
+>but not >for exploring the technique fully. 
+
+I agree with Bill that real-time adaptive tunings would be best.
+
+I guess quite a few people on the list will be familiar with 
+John S. Allen's Key Concepts prototype Notebender keyboard.  I only 
+know of it from reading JSA's web pages.  It allows variable 
+intonation for a keyboard by 'undercutting' the black keys, so that 
+both black and white keys can slide (with finger pressure) to and 
+from the player - these movements are then tranmitted as pitch 
+changes.  JSA says this arrangment is less easy to control than a 
+traditional keyboard, but easier than clavichordal intonations. 
+
+However, a configurable, automatic system, with can be modified or 
+overriden by physical input would be better.   
+
+>I'm currently attempting a 'real-time' version using Max, though its
+>unclear at the present time how many simplifications are going to be
+>needed before it will actually run in real time. Of course, this is
+>for MIDI instruments only. A far more interesting thought is the 
+>idea of operating on acoustic sounds...
+
+As regards acoustic instruments, I have been writing up a few ideas 
+on this in the 21C Orch Instrs paper - particularly my idea of 
+creating an instrument (woodwind or brass) which may switch at will 
+between adaptive (fixed-but-variable, its normal condition) or fixed 
+intonation; and conceivably, between a number of ATS.
+
+Firstly, I've mentioned before Giles Brindley's Logical Bassoon - a 
+purely acoustic instrument in which the 18/19th century keywork is 
+replaced by a system of solenoid driven tone-hole pads.  Professor 
+Brindley is still playing this instrument every week in an 
+amateur orchestra in London. (Brindley is a famous neurophysicist, 
+not an instrument maker).  I've spoken to him on the phone, but have 
+yet to see the instrument(s) - I think he built 3 of them.
+
+Lets take this a step further. Here's one of my crazy ideas - and a  
+short dump from the paper.  I'd certainly appreciate any feedback on 
+this idea. Would it work???!!!
+
+EXTRACT STARTS *********
+
+Concieve a 'logical' woodwind in which an internal electronic pitch 
+sensor provides feedback (via software) to a auto-corrective venting 
+mechanism in real-time.  The instrument would be 'self-correcting' 
+within certain configurable tuning limits; further, this might be 
+applied in a number of ways, for example, to achieve_ strict_ 
+temperament, or to achieve _strict_ just intonation in any key (at 
+will).  For large n-division systems the system could ensure that 
+the instrument is always at one pitch or another of a temperament, 
+making performance more reliable;  for JI systems, this would 
+function similarly, but an on-board switch would tell the software 
+which pitch is 1/1 at any given time.  
+
+Real-time (instantaneous) digital pitch correction for audio has been
+available for some years, for example, as part of the ProTools digital
+audio processing suite (recently released in rack-mount form as the
+Antares Auto-Tune).  [Anyone have good/bad experience of this??] 
+A performance by a singer or instrumentalist can be instantaneously 
+'corrected' so that all inflections adhere strictly to a given tuning 
+system.  The Antares allows custom scales, but the typical 
+implementation is strict 12-ET.  This runs counter to the norm of 
+variable intonation (for singers, wind and brass etc.), but more 
+sophisticated realisations are clearly possible - for example, in its 
+current version the Antares is able to 'ignore' vibrato and 
+glissandi.
+
+The suggestion here is not to use such a mechanism to translate an
+acoustically produced sound into a digitally modulated one, but to
+feedback corrections of the electronically monitored pitch signal to
+the tone-hole closure system of the acoustic instrument.  The player
+would thus be in constant dialogue not only with the vibrations of the
+instrumental system, but with extremely fine adjustments of tone-hole
+closure being carried out independently by the corrective process. 
+This would require the finest possible balance of sensitivity and
+stability in terms of software interactivity, since unless pitch
+adjustments were fine, unwanted glissandi and suchlike would result;
+on the other hand, extreme subtleties of pitch inflection should not
+be overridden, and the player would need to be able to vary the
+sensitivity  of the device (from 0 -100% ) at the slightest touch of a
+key.
+
+EXTRACT ENDS ************
+
+If this could be made to work on a woodwind, it is conceivable it 
+could also work for brass too - this time the interactivity taking 
+place through a slide mechanism (maybe driven by a tiny stepper 
+motor??) 
+
+The important aspect of this is that the physical interface is 
+replaced by a virtual one.  (By the way, in the case of woodwind and 
+brass, the most important  (personal)  aspect of 'contact' with a 
+*keyed* (or valve) instrument is the mouth:  the performers of 
+'logical acoustic instruments' report no loss of 'feel' or 
+sensitivity). 
+
+In addition, an adaptive acoustic piano could be made by creating an 
+instrument with a very large number of unison string groups, and the 
+keyboard transmits via a Disklavier type piano action which is 
+controlled by 'adaptive' software.     
+
+Patrick O-L
+
+------------------------------
+
+End of TUNING Digest 1463
+*************************

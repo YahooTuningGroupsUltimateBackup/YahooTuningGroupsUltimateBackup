@@ -1,0 +1,78 @@
+source file: mills3.txt
+Date: Fri, 19 Dec 1997 19:12:35 +0100
+
+Subject: 9-limit JI -- playing with fire again
+
+From: Steven  Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+
+I was paper-noodling the other day, and came up with what to
+me looks like a useable scheme for dealing with, if you will,
+9 limit JI.  Keep in mind that I'm still learning this stuff
+so "usable" for me may mean "trivial" for some of you. ;-)
+
+What I came up with -- and it's hardly earth shattering being
+right out of Partch's diamonds -- were two tone clusters:
+
+	Utonality:  7/9 - 1/1 - 7/6 - 7/5 - 7/4
+	Otonality:  1/1 - 5/4 - 3/2 - 7/4 - 9/4
+
+What stuck out, and I was inspired to look at it this way both by
+something Paul Erlich wrote, and by seeing the changes in the
+Helmholtz consonance graph under the influence of multiple drones
+seperated by 3/2s, is that there are two tones which seem to be
+structurally significant.  For lack of better terms, I'm referring to
+them as "root" and "axis".  The "root" is the 1/1 in the Partchian
+sense, and the axis is a tone that has a 3/2 above and below.  In the
+Utonal, the root is 1/1 and the axis is 7/6, where in the Otonal the
+root is 1/1 and the axis is 3/2.
+
+As an isolated interval, I've for some time preferred the 7/6 to the
+6/5 to give a "minor" feel, so this is intriguing to me.  I started to
+play around with permutations, exchanging root and axis and such, and
+on paper it looks like there might something to work with here.  It
+also looks like one could think of it as a pair of 4:5:6 and 6:7:9
+chords, or their utonal counterparts.  [Polytonality?]
+
+I don't have any polyphonic instruments set up in JI at the moment,
+though I'm hoping to put some rough 22tet stuff (so I can practice
+other parts and refine it) to tape over the holidays, after which I'll
+probably be more motivated to retune my synth (retuning it is a pain).
+In the meantime, I tried the utonal chord on my 22tet guitar, playing
+it "stick style", and found it to be quite pleasing, even in its
+tempered form, though I haven't try doing anything with it yet (it was
+getting late :)
+
+Comments?  Advice?
+
+Thanks,
+
+Steve
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  jinetwk@dnai.com (Just Intonation Network) 
+Subject:  Re: TUNING digest 1272
+PostedDate:  20-12-97 01:31:55
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  20-12-97 01:29:49-20-12-97 01:29:50,20-12-97 01:29:25-20-12-97 01:29:26
+DeliveredDate:  20-12-97 01:29:26
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256573.0002DD82; Sat, 20 Dec 1997 01:31:38 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22378; Sat, 20 Dec 1997 01:31:55 +0100
+Date: Sat, 20 Dec 1997 01:31:55 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA22400
+Received: (qmail 1627 invoked from network); 19 Dec 1997 16:31:51 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 Dec 1997 16:31:51 -0800
+Message-Id: <199712200031.QAA29998@hopf.dnai.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

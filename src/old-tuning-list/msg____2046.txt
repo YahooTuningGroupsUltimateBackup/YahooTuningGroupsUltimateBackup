@@ -1,0 +1,248 @@
+source file: mills2.txt
+Date: Mon, 25 Sep 1995 08:19:24 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & psychoacoustics - post 2 of 25
+---
+Many and strange are the myths which
+afflict so-called "modern" music theory,
+particularly when it comes to the operation
+of the human ear.
+Most of these tall tales have been handed
+down to present-day musicians from the 19th
+century, although some of the myths date 
+from much earlier--as early as the number
+mysticism of Pythagoras, the Babylonians,
+the Egyptians, and of Hindu astrology.
+Shockingly, typical "modern" music theory
+texts cite Helmholtz, Rameau and Mersenne
+as the sole authorities on acoustics and 
+psychoacoustics--or they cite other 
+"modern" music theory texts which cite
+only these musty & antique sources.  
+This is comparable to a "modern" science
+text citing Lagrange, Hamilton and
+Newton as authorities on the nature of
+subatomic physics.   A physics professor
+who wrote such a book would be laughed 
+out the profession--but for some reason
+this practice is acceptable in music.
+Together, this antique trove of musical
+old wives' tales and acoustic "just-so stories" 
+constitutes a body of misinformation
+which has been handed down through 
+textbooks which thoughtlessly draw on
+older textbooks, until the chain of
+errors reaches back through 3 centuries
+or more.
+Partch has illuminated a few links in this
+monumental chain of fabulation and
+compounded error, but the amount of
+misinformation is far larger than
+even he could ever have suspected.
+---
+Every statement presented in this series 
+of posts as fact will be supported
+as far as possible by references from 
+the scientific literature.  When subscribers
+to this forum violently attack these
+posts--as no doubt they will--the interested reader 
+is  advised not to rely on *my* bare assertions
+*or* the unsupported claims of those 
+who say "it's [a lie/ignorant/wrong, etc]"
+Rather, the interested reader is
+advised to go to the original reference
+sources. Read them. Search out the audio
+tapes & CDs specified below. Listen to them. 
+And finally: perform your
+own experiments with Csound or a
+synthesizer, using your own ears and
+a computer.
+This last point is *crucial.*
+You will need to perform true double-
+blind tests on your own hearing to
+obtain valid conclusions.  If you concoct
+a set of test tones and listen to them
+*knowing* what they are, your ears
+will lie to you and you will literally
+not be able to hear the test tones
+and acoustic examples objectively.
+Only by using a true double-blind
+procedure can you reliably ascertain
+what your ears *actually* hear, as opposed
+to what you *think* you're hearing.
+This is why the most common
+objection to the facts of modern
+psychoacoustics--"I don't hear it that 
+way!"--is utterly meaningless.  Without
+A-B-X double-blind tests, none of you
+can tell what intervals you prefer (nor 
+can I) because the knowledge of what you
+*think* you're listening to and what
+you *expect* to hear  contaminates
+and alters what you hear.  
+---
+This point is so important that it is
+worth an example: 
+"The extent to which observers can persist
+in the same error of observation was shown
+to me by the following experiment. High-fidelity
+fans complained about the nonlinear distortion
+in a certain sound-transmission system. To test
+the maximal distortion these listeners would
+tolerate, an induction coil was made with an iron
+core that was highly overloaded and produced
+nonlinear hysteresis distortion.  A second coil
+containing no iron was combined with the first
+in such a way that only the pure distortion remained.
+Musicians were delighed with this system, which
+made tenors' voices sound metallic and heightened 
+the dynamics of the orchestra.  Their adjustments of
+the system to optimal sound had about 70% pure iron
+distortion." [von Bekesy, G., "Hearing Theories and 
+Complex Sounds," Journ. Acoust. Soc. Am, 35(4), 
+April 1963, pg. 589]
+Without an objective reference and
+an independent means of measurement,
+*we do not know what we hear.*
+Over the course of this series of posts,
+it will become clear that the ear sometimes
+adds to, sometimes subtracts from, and
+always changes the information that
+enters  our auditory system as 
+sound waves.  
+For example: 
+[1] Highly trained symphony orchestra
+musicians reglarly perform intervals as 
+small as 683 cents and as wide as 725 cents,
+yet hear them  as "perfect fifths;"
+["Some Aspects of Perception - I," Shackford,
+Journ. Mus. Theory, Vol. 5, 1961, pp. 13-26]
+[2] So-called "perfect" intervals, including
+the octave and 3/2, can sound dissonant
+or consonant depending on the range in
+which they sound, even if they use
+harmonic-series timbres; ["The Science
+of Musical Sound," Sundberg, 1992, pg. 73]
+[3] Pitches transposed up an octave can
+be heard by musically trained listeners
+as dropping slightly in pitch; ["The Science
+Of Musical Sounds," Pierce, 1992, pg.  214]
+[4] Tones of specific pitch can be heard
+by musically trained listeners when in
+fact no tones are physically present; and
+tones can disappear and become inaudible
+to the ear/brain system even though 
+they're presented to the ear at high
+amplitude; ["Psychoacoustics: Facts and
+Models," Zwicker & Fastl, 1993, pp. 91-135;
+"The Perception of Musical Tones," Rasch
+and Plomp, pp. 1-21, in "The Psychology
+of Music," ed. Diana Deutsch, 1982; "The
+Science of Musical Sounds," Sundberg,
+pp. 48-86.]
+[5] The ear/brain system can generate
+audible illusions which convince the
+listener that s/he is hearing paradoxical 
+and impossible sounds--sounds which
+simultaneously speed up and slow down,
+for instance, or sounds which simultaneously
+rise and fall in pitch; or sounds which
+rise endlessly in pitch, or fall endlessly
+in pitch; ["The Science of Musical Sounds,"
+Pierce, pg. 215; "Structural Representations
+of Musical Pitch," Shepard, in "The 
+Psychology of Music," Ed. Diana Deutsch,
+1982, pp. 334-373.]
+[6] There is a universal human craving for
+stretched intervals, which leads highly
+trained musicians to perform so-called
+"perfect" intervals consistently wider
+than the ratios by which "everyone knows" 
+these intervals are defined; ["The Science
+of Musical Sound," Sundberg, pp. 104-105,
+"Introduction to The Physics and 
+Psychophyics of Music," Roederer, pg. 155]
+[7] The ear/brain system detects pitch
+in a complex way still not fully understood, 
+with the result that the pitch of a complex
+sounds is perceived to change with
+the loudness of the sound, the amount
+and onset of noise masking the sound,
+the type other harmonic sound played
+simultaneously, the degree of harmonicity
+of the partials in the sound, the length
+of the sound being played, the spectral
+centroid of the sound, and the suddeness
+of onset of the sound; ["Experiments
+On Tone Sensation," Plomp, pp. 127-129;
+"Introduction to the Physics and 
+Psychophyics of Music," Roederer, pg.
+135; "Perception of Timbral Analogies,"
+Wessel & Ehresman, Rapports IRCAM 1978,
+pp. 1-29, Pickles, James O., "An Introduction
+to the Physiology of Hearing," Academic Press,
+1988, pp. 270 ff., etc.]
+[8] Many of the inner workings of the
+ear/brain system are still unknown, and
+each of the conflicting theories of how
+the ear/brain system hears is supported
+by some psychoacoustic evidence, but
+contradicted by the rest.
+["Experiments On Tones Sensation," Plomp,
+pp. 49-52; "The Science of Musical
+Sound," Sundberg, pp. 100, 186; "The Science
+of Musical Sounds," Pierce, pp. 101, 113-114;
+"Rapports IRCAM - Musical Acoustics,"
+Risset, 1978, pg. 8; "Introduction To the
+Physics and Psychophysics of Music,"
+Roederer, 1973, pp. 130-133]
+---
+All of which points to the conclusion that
+ the ear/brain system is *complex.*
+There is no simple explanation for how we
+hear.  The ear/brain system generates
+false information, destroys some of
+what comes into our ears, and transforms
+all of it, either subtly or grossly.
+Yet the single common thread that will run
+through all the so-called "rebuttals" and
+attacks on this series of posts will be:
+THE EAR IS SIMPLE. "Helmholtz explained it
+all," one person will yelp, while others will
+screech "Terhardt explained it all," or "Backus'
+book tells you everything you need to know!"
+The interested reader is advised, again,
+not to believe me *or* to believe those who
+attempt to rebut me.  Rather, the interested
+reader is advised to *study the psychoacoustic
+literature,* excerpts of which and references
+from which will be listed extensively in every
+post.
+Only by doing this can the objective reader
+get a real sense of the extraordinary complexity
+of human hearing, and the self-evident 
+falsity of claims that "the ear is simple"
+and "Helmholtz explained it all in 1863,"
+and "my 1939-vintage references don't say that."
+Do not lend your credence thoughtlessly to
+*any* statement without *testing for yourself*
+the evidence (or lack thereof) for that
+statement. Wisdom does not arise from
+credulity, but from doubt.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 25 Sep 1995 17:21 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA21245; Mon, 25 Sep 1995 08:21:28 -0700
+Date: Mon, 25 Sep 1995 08:21:28 -0700
+Message-Id: <Pine.3.89.9509251025.A18905-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

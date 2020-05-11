@@ -1,0 +1,109 @@
+source file: m1420.txt
+Date: Tue, 19 May 1998 02:30:56 -0400
+
+Subject: tuning Middle C; the "octave"
+
+From: monz@juno.com (Joseph L Monzo)
+
+[Drew Skyfyre:]
+
+> For 12-TET the std. is A 440Hz,which puts C at
+> 261.6255653006 Hz (Graphing Calc. at work->1 more
+> reason to love a Mac).
+
+A-440 is not just a tuning standard for 12-tET.
+It's the most universal tuning standard that's ever
+existed in the world, and, largely thanks to modern
+electronic tuning equipment being calibrated to it,
+is today used as a basis by lots of musicians
+everywhere.
+
+> Now what I need to know is, what do those of
+> you who have been at this for a while use as a
+> fundamental.Does anyone use 261.625......? ,it 
+> appears to me to be a poor choice.A whole no.
+> would be easier to deal with.Do some of you
+> use 'arbitrary' freqs ?.
+
+Many composers who work in JI make their Middle C
+the 5-limit just major 6th, or 5/3, below A-440,
+which makes it 264 Hz.
+
+I use a different tuning myself, with two alternative
+numerical representations.  I felt that the simplest
+way to handle this was:
+
+n^0 = 1/1 = 1 Hz
+
+This makes the lowest recognizable pitch somewhere
+around 2^5 = 32 Hz, and gives a "Middle C" of 2^8 = 256 Hz.
+
+Thus, the ratios of the octave "C"s in my system describe
+simultaneously the exact frequencies.
+
+However, I use a slighly different nomenclature more often:
+
+Because the range of musically useful pitches is roughly
+between 2^4 and 2^12, or 8 "octaves", I usually prefer
+to call my Middle C of 256 Hz the 2^0, giving the lower
+octave Cs (from the bottom up) as 2^-4, 2^-3, 2^-2, and
+2^-1, and giving the octave Cs above Middle C as 2^1,
+2^2, 2^3, and 2^4 -- a nice symmetrical layout of my
+whole pitch-range, centered on good ol' Middle C.
+
+La Monte Young, who frequently writes droning electronic
+pieces which consist of one chord played continuously
+for hours, days, or weeks at a time, came up with a very
+reasonable solution:
+
+All electrical current in the USA flows thru the lines at
+60 cycles per second, which produces the hum you
+hear in amplifiers, refrigerators, etc., and whose frequency
+happens to be (let me get my calculator...) 60 Hz.
+So Young tunes his 1/1 to 60 Hz and calculates all other
+ratios from that, thus sublimating the hum into his piece
+by masking it.
+
+(This 60 cycle hum is a 15/8 "major 7th" in my tuning.)
+
+> Also,since the term Octave is related to 12-TET,<snip>
+
+Actually, "octave" literally means "8th tone" in Latin and
+comes from the old Pythagorean diatonic minor scale.
+ETs are based on dividing the 2/1, or "octave", but
+the name is really much older.
+
+Though the ancient Chinese and Greeks recognized
+the similarities of the 2/1 from the earliest theoretical
+writings that still exist, the first theorist to recognize
+the 2/1 in any really meaningful way as far as scale
+structure is concerned is the Graeco-Roman Ptolemy
+(200s AD).  Before that, theory was all tetrachords
+or pentatonic scales.
+
+The Franks, beginning around 800, based their theory
+(at least in concept) on the ancient Greek, and gave
+the 2/1 the name "octave" because it was the 8th tone
+in the diatonic scale.  Our modern Eurocentric music
+theory follows in an unbroken line from the Franks.
+
+> <snip> is there a more approprite word to use ? 
+> This is just semantics,but it may help think along a different plane .
+
+For this very reason, Partch chose to call this basic
+interval simply 2/1.
+
+In my own work, manipulating prime factors and
+exponents, I don't really find it necessary to use any
+term for this interval.  Usually 2^n works fine.  If I must
+refer to it in the abstract, I just call it "octave", always
+with quotes, to distinguish it from the unquoted octave
+of regular theory.
+ 
+   Joseph L. Monzo
+    monz@juno.com
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

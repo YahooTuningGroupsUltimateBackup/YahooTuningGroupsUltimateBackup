@@ -1,0 +1,391 @@
+source file: mills2.txt
+Date: Tue, 3 Dec 1996 12:47:56 -0800
+
+Subject: From Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Paul Erlich's "tonalness"
+ algorithm, the purported "central
+ pitch processor," etc. - 1 of 2
+--
+In Topic 3 of Digest 848 Paul Erlich
+made some provocative general remarks about
+psychoacoustics.  "The central pitch 
+processor is the mechanism by which we
+perceive a set of harmonic partials as
+a signle note -- the virtual pitch -- with
+an associated pitch. (..) Whether this process
+is inborn or acquired, some claim prenatally,
+is a matter of debate. Its existence is
+not."
+Erlich's meaning is not entirely clear. He
+might be saying that the existence of
+the central pitch processor is not open to
+debate.  If so, he confutes the *process* of
+pitch perception with the *hypothesis*
+of a purported  "central pitch
+processor."  In this case his claim
+is naturally false.
+The existence of some centralized high-level
+mechanism of pitch detection far inside the
+brain has been demonstrated pretty conclusively.
+Houtsma and Goldstein conducted a series of
+experiments in which they showed that any
+of a set of the first 10 harmonics produced a
+virtual pitch even when each of a pair of those
+first 10 harmonics was presented dichotically
+(this is, one to each ear).  
+Since there was no opportunity for those
+two tones to interact except in the brain,
+some higher-level mechanism of pitch
+perception must have been at work for
+thos tones.
+If this is what Paul Erlich means when
+he says "there can be no doubt" about
+the existence of a central pitch processor,
+he is surely correct.
+However, if what Paul E. means is that
+"there can be no doubt of the existence
+of Goldstein's postulated mechanism of
+central processor pitch detection," alas,
+this is incorrect.
+While there is no doubt about the
+reality of the *observed effect*  (virtual
+pitch) there's strong doubt as to the hypothesized
+cause (Goldstein's specific "central processor")
+which might or might not exist in the human
+auditory system. In fact, Goldstein's and Wightman's
+theories are outmoded and have been supplanted
+by spectral network theories of pitch perception
+based on wetware neural nets.  Paul Erlich does
+not mention the latest spectral network models
+of pitch perception because he might not have
+the space to do so in his posts...or he might be unfamiliar
+with the full range of psychoacoustic literature.  
+Regardless, Erlich appears to have  based his discussion 
+and his posts on a small subset of the psychoacoustic 
+literature dating from the 1970s-early 1980s, some of
+which is outdated.  As it happens, there is strong
+evidence against Wightman's and Goldstein's specific
+"central processor" models, but Erlich does not
+mention it. This might be because Erlich may 
+be entirely conversant with the all the aspects
+of the psychoacoustic literature dealing with
+inharmonic tones.
+When Erlich states "there can be no debate" about
+this or that hypothetical auditory mechanism,
+he is not talking about psychoacoustics.
+*Almost all* aspects of modern psychoacoustics
+are subject to debate because most of the evidence
+is contradictory.  Some experiments strongly
+support certain hypotheses about how the ear/brain
+system works, while other psychoacoustic
+experiments strongly support *other* hypotheses.
+Some of the evidence contradicts *all* available
+hypotheses.
+Worst of all, the human ear/brain system is pretty
+much a black box.  We can't saw open someone's skull
+and start slicing out brain tissue and zapping the
+poor subject with electrical impulses because that
+would be unethical.  It might tell us a good deal about
+the precise wetware mechanisms which allow us to
+extract pitch, but at present we can only view the
+human brain as a sealed system and we can't muck
+around punching in wires and burning out parts of the
+brain to see what effect this has.  As a result, 
+psychoacoustics is more like astronomy than 
+acoustics: in astronomy you can look but you can't 
+touch.  It's impossible for an astronomer to arrange
+for galaxies to collide to  see what happens--
+the best you can do is try to find two galaxies that
+probably collided and figure out what might have
+happened.  The same is true in the human auditory
+system--deaf subjects and stroke victims have
+provided some of the most useful info about ear/brain
+wetware.
+This observation is nothing new. It's an old truism.  
+James Clerk Maxwell pointed out in his Rede Lecture 
+in 1878 that what we would now call
+psychoacoustics is "that untrodden wild between
+acoustics and music, that Serbonian bog where 
+whole armies of scientific musicians and musical
+men of science have sunk without filling it up."
+Unlike so many earlier microtonal theorists, 
+Paul Erlich knows some hard facts about psychoacoustics,
+and he has clearly gone to the trouble of looking up
+some of the actual literature.  This is important, 
+because (and I'm speaking to the rest of you) you *must*
+read the full text of the original papers to understand
+the full range of ambiguity of psychoacoustic results,
+and the full complexity of the human auditory system.
+However, Paul Erlich may rely to an unwarrented degree
+on the theories of a few researchers--Terhardt,
+Wightman, and Goldstein--whose theories conflict
+with the results a number of important psychoacoustic 
+experiments. 
+Terhardt has gained plenty of attention and a hefty
+rep by performing a lot of experiments which back
+up his mathematical place-theory model of human
+hearing.  This is fine as far as it goes, but the problem
+is that Terhardt has *not* bothered to mention the
+not-so-negligible  evidence which casts *doubt* on
+his place theory of hearing.
+In Terhardt's theory, the primary action of the human
+auditory system is  Fourier analysis of
+incoming sounds into sinusoids on the basilar 
+membrane of the inner ear.  Other effects--such as
+virtual pitch--are considered by Terhardt to
+constitute "secondary sensations" derived from
+the primary Fourier analysis.
+What are the problems with this theory?
+First, Terhardt's mathematical model gives predictions
+which conflict with a signifcant amount of psychoacoustic 
+data.
+For one thing, Terhardt's theory stumbles on the
+minor triad, as Richard Parncutt has pointed out.
+For another thing:
+ In "Hearing A Mistuned Harmonic In An
+Otherwise Periodic Complex Tone," William
+Morris Hartmann, Stephen McAdams and Bennett
+K. Smith point out that "The predictions of the
+algorithm, calculated from the formulas
+given in Terhardt et al. (1982), are shown in Fig.
+14.  The figure shows predictions for -4% and
++4% mistuning; the predictions for other values
+of mistuning actually used in our experiments lie
+ebtween the curves for -4% and +4%.  The algorithm
+predicts a shift for zero mistuning (harmonic 
+complex), approximately midway between curves for
+-4%R and +4%, although Peters et al. (1983) did not
+find such shifts.
+"Comparing the predicted shifts with the observed
+shifts shows that he algorithm correctly predicts
+the trends of the data when the mistuning is positive.
+When te mistuning is negative, however, the algorithm
+fails completely. Experimentally, negative mistuning
+usually leads to negative pitch shifts.  By contrast,
+the algorithm predicts positive pitch shifts for negative
+mistuning. (..)  The fact that [Terhardt's] algorithm fails 
+so badly for negative mistuning suggests that there is
+something quite wrong with the idea that pitch shifts
+are mainly determined by partial masking." [Hartmann,
+W. M., McAdamas, S., and Smith, B. K., "Hearing a Mistuned
+Harmonic In An Otherwise Periodic Complex Tone,"
+J. Acoust. Soc. Am., Vol. 88, No. 4, 1990, pg. 1722]
+--
+Partial masking is at the center of Terhardt's theory,
+and these data strike a serious blow at partial
+masking in pitch perception.  Paul Erlich does not mention
+this because he may not be aware of it: his grasp of
+the psychoacoustic literature might be incomplete, or
+perhaps he simply didn't space in his post.
+(For the other experiment in which Terhardt's
+theory failed to accurately predict results, see
+"Pitch of Components of a Complex Tone," Peters,
+R. W., Moore, B. C. J., and Glasberg, B.R., Journal of 
+the Acoustical Soc. Am., Vol. 73, 1983, pp. 924-929.)
+So not only does Terhardt's theory fail several basic
+psychoacoustic experiments  badly, the entire
+theory of virtual pitch as a secondary effect
+derived from the operation of the basilar membrane
+ignores a significant body of evidence pointing to
+the operation of temporal mechanisms of pitch
+perception and timbral resolution, as well as
+a large amount of evidence *against* the place
+theory throughout much of the musical range.
+--
+Why, for instance, doesn't the ear seem to use
+basilar membrane information to detect pitch
+below about 500 Herz?
+David M. Green pointed out in 1970 that "Pairs of
+waveforms having identical energy spectra were
+generated using a technique developed by Huffman.
+A pair of such waveform differ only in their
+phase spectra.  The discriminability of such
+waveforms was measured under various 
+conditions.  (..) The results of these experiments
+suggest that the ear can discriminate differences
+in temporal order as small as 2.5 msec." [Green,
+D. M. and Patterson J. H.,  "Discrimination of Transient 
+Signals Having Identical Energy Spectra,"  J. Acoust.
+Soc. Am., Vol. 48, No. 4, pp. 894-905]
+If the ear can reliably discriminate between a waveform
+and its inverse, clearly the ear is not in that frequency
+range operating according to spectral analysis--since
+a waveform and its inverse have exactly identical
+Fourier magnitude spectra.  See Pierce, J.R., "The
+Science of Musical Sound," 2nd ed., 1992, pg. 149.
+See also "Tone Segregation by Phase: On the Phase
+Sensitivity of the Single Ear," Kubovy and Jordan,
+J. Acoust. Soc. Am., Vol. 66, No. 1, 1979, pp. 100-
+106.  
+As Kubovy and Jordan point out, "This tone-segregation
+by phase raises doubts concerning several current
+theories of pitch perception. (..) Insofar as these
+results support temporal fine-structure theories
+of pitch perception, they are incompatible with
+the theories of pitch perception we cited
+at the beginning of this paper (Goldstein, 1973;
+Terhardt, 1973; Wightman 1973b)." [op cit., pp. 102-3]
+Notice that Kubovy and Martin*specifically* identify
+Terhardt's, Wightman's and Goldstein's models
+(the latter 2 are papers which conjecture the
+existence of a "central pitch processor") as
+*incompatible* with their experimental results.
+Other embarrassing problems include an unwonted
+sensivity to the phase of high harmonics in
+determining the virtual pitch of the tone complex.
+According to Terhardt's theory, the ear/brains system
+should ignore phase, but in fact phase is vitally
+important to determining fundamental pitch below
+500 Hz and above about 5000 Hz.
+--
+John R. Pierce points out in "Periodicity and Pitch
+Perception" that "Investigations of just noticeable
+differences (jnd's) of pitch continue to indicate the
+plausibility of two 'pitch mechanisms,' the first
+operating on resolved harmonics, and the second
+'periodicity pitch' mechanism on unresolved
+clusters of harmonics (Houtsma and Smurzynski, 1990)
+as discussed earlier by de Boer (1976). (..)
+"The shape of the curve of jnd versus pulse rate suggests
+a transition between two mechanisms between 62.5
+and 500 pulses per second. 
+"Such a transition is supported by experiments on 
+matches between periodic all-positive pulses and
+periodic patterns of positive and negative pulses,
+carried out by Flanagan and Guttman (1960), Guttman 
+et al. (1964), and Rosenberg (1966). At low frequencies
+the match is on pulse rate; at higher frequencies the '
+match is on fundamental frequency." [Pierce, J. R., 
+"Periodicity and Pitch Perception," J. Acoust. Soc.
+Am., 90 (4), October 1991, pg. 1989]
+The failure of the ear's Fourier analysis below
+500 Hz to account for observed pitch perception
+is a long-standing weakness of place theories of
+hearing, and Terhardt's theory does not solve
+this problem.  Terhardt's paper never mention
+or explain the results of Gutman & Newman's
+1960 experiments, but they're also crucial because
+they also provide hard evidence for periodicity 
+mechanisms of pitch perception.
+One of the most serious problems for a theory
+of place-type pitch perception like Terhart's
+(in which periodicity mechanisms of pitch
+perception are conjured away) is that while central
+processor models are forced on us by the finding that
+dichotic harmonics 3, 4 and 5 are most important to
+virtual pitch (Ritsma, R. J., "Frequencies Dominant in the
+Perception of the Pitch of Complex Sounds," J. Acoust. 
+Soc. Am., Vol. 42, 1967, pp. 191-198;  also Plomp, R.,
+"Pitch of Complx Tones, J. Acoust. Soc. Am., Vol. 41,
+ 1967, pp. 1526-1533) and particularly the finding
+by Houtsma and Goldstein (1972) that 2 successive
+simultaneous harmonics with frequencies nf[o] and
+(n+1)f[o] are presented to different ears they evoke
+a fundamental pitch percept equally as effect as
+a monotic or diotic presentation of the same two
+harmonics, *nonetheless* phase is crucially important
+to the perception of pitch below 500Hz and above
+5000 Hz.  Whenever phase becomes crucial in
+pitch perception, by definition the mechanism
+must be temporal and not spectral.
+Moreover, in an intriguing experiment in which "the
+perception of musical pitch was investigated in 
+postlinguistically deaf subjects with cochlear implants,"
+the pure periodicity theory of hearing received a shot
+in the arm.  "Within a range of low pulse rates, subjects
+defined the intervals mediated by electrical pulse
+rate by the same ratios which govern musical intervals
+of tonal frequencies in normal-hearing listeners.
+It may be concluded that tempral cues are sufficient
+for the mediation of musical pitch, at least for
+the lower half of the range of fundamental frequencies
+commonly used in music." [Pijl, S., and Schwartz, D. W. F.,
+"Melody Recognition and Musical Interval Perception by
+Deaf Subjects Stimulated with Electrical Pulse Trains
+Through Single Cochlear Implant Electrodes," J. Acoust.
+Soc. Am., 98(2), August 1995, pg. 886]
+This provides strong evidence in favor of a strictly
+temporal mechanism of pitch perception at frequencies
+below about 500 Hz and at least a plausible mechanism
+for temporal explanations of consonance throughout
+the auditory range (though there are also problems
+with purely temporal models of pitch perception above
+5 khz--nerve-coding theories shouldn't work at frequencies
+that high because the volley rate has topped out!)  As
+I mentioned, there is a lot of data for *and against*
+ALL the proposed models of pitch perception.
+As of 1993, most references on psychoacoustics considered
+UNRESOLVED the question of whether place or periodicity 
+mechanisms are primary in the human ear/brain system.
+ Despite Paul Erlich's emphasis on the theories of Terhardt,
+Goldstein and Wightman, there's vigorous & ongoing & unresolved
+debate between place theories of pitch perception like
+Terhardt's *and* temporal periodicity theories of pitch
+perception, *and* combination theories which seek to
+combine elements of both. "Several theories have been
+proposed to account for residue pitch. Theories prior 
+to 1980 may be divided into two broad classes. The first,
+spectral theories, propose that the perception of the
+pitch of a complex involves [Fourier analysis followed
+by] a pattern recognizer which determines the pitch
+of the complex from the frequencies of the unresolved
+components (Goldstein 1973; Terhardt 1974). (..)
+"The alternative, temporal theories, assume that pitch
+is based on the time pattern of the waveform at a 
+point on the basilar membrane responding to the higher
+harmonics.  (..) For these theories, the upper unresolved
+harmonics should determine the pitch that is heard.
+"Some recent theories (spectro-temporal theories)
+assume that both frequency analysis and time-pattern
+analysis are involved in pitch perception (Moore 1982,
+1989; Srulovicz and Goldstein 1983; Patterson 1987;
+Yost and Sheft, Chapter 6." [Yost, William A., Arthur N.
+Popper and Richard R. Fay, "Human Psychophysics," 
+Springer-Verlag, New York, 1993, pg. 98]
+The references for these more recent spectro-temporal
+theories of pitch perception are:
+Moore, B.C.J., "An Introduction to the Psychology of
+Hearing," 2nd Ed., London: Academic Press, 1982.
+Moore, B.C.J., ditto, 3rd edition, 1989.
+Srulovicz, P. and J. L. Goldstein, "A central spectrum
+model: A synthesis of auditory-nerve timing
+and place cues in monaural communication of 
+frequency spectrum," J. Acoust. Soc. Am., Vol.
+73, pp. 1266-1276, 1983
+Patterson, R.D., "A pulse ribbon model of monaural
+phase perception," J. ACoust. Soc. Am., Vol. 82, pp.
+1560-1586, 1987
+Hall, J. W., Haggard, M.P., and Fernandes, M. A., 
+"Detection in noise by spectro-temporal pattern
+analysis," J. Acoust. Soc. Am., Vol. 76, No. 1, July
+1984, pp. 50-56
+Cohen, M. A., Grossberg, S., and Wyse, L. L., "A 
+Spectral Network Model of Pitch Perception,"
+ J. Acoust. Soc. Am.,  Vol. 98, No. 2, August 1995, 
+pp. 862-879.
+--Notice that J. L. Goldstein is the same author
+Erlich quotes in the earlier "central processor"
+paper of 1973.  Goldstein cooked up his subsequent
+spectro-temporal theory to patch the glaring holes
+in his 1973 central processor theory--namely,
+its complete inability to explain experiments like
+those summarized in David M. Green's 1970 paper.
+--mclaren
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 3 Dec 1996 23:21 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA16009; Tue, 3 Dec 1996 23:23:18 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA16092
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA11879; Tue, 3 Dec 1996 14:23:15 -0800
+Date: Tue, 3 Dec 1996 14:23:15 -0800
+Message-Id: <v02130505aeca545da6b8@[192.168.11.203]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

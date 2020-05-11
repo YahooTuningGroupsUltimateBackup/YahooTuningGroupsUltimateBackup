@@ -1,0 +1,27 @@
+source file: m1401.txt
+Date: Thu, 30 Apr 98 19:57 BST-1
+
+Subject: Re: TUNING Resolution
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+At last, some hard data!  Some problems, though ...
+
+> advance.  For the first 10 partials I obtained over that .7 sec. time 
+> stretch cent values for the RMS instantaneous deviation from harmonic o
+> f: 3.20, 1.92, 1.08, 1.12, 1.72, 3.25, 4.08, 3.17, 2.58, and 1.95 respe
+> ctively.  I plotted the deviations from harmonic for some of the partia
+
+Does this mean you're using FFT windows much smaller than 0.7s?
+I think these values must be experimental artifacts.  Try analysing
+a sawtooth wave with equivalent vibrato and tremolo to calibrate
+the uncertainty.  Use an analog synth if you can.
+
+
+I mentioned this business with conical tubes to show that there is
+a quantifiable physical origin for inharmonicity.  The periodicity
+of the sounds presumably defaults to the player's ability to
+blow a raspberry.  Does this mean the resulting overtone series
+is constructed from undertones of the original vibration?  I think
+a slide trombone must be pretty near cylindrical, so analysis of a
+French horn or something would be more useful.

@@ -1,0 +1,206 @@
+source file: mills2.txt
+Date: Sun, 8 Oct 1995 08:12:29 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & psychoacoustics - post 15 of 25
+---
+MYTH:"In any given range of pitch the comparative consonance of an interval 
+is determined by the relative frequency of the wave  period in the sounding 
+of the interval." [Harry Partch, "Genesis of a Music,"  2nd. Ed., pg. 151.]
+FACT: "Systematic measurements show that people tend to find that an 
+interval traditionally classified as "consonant" sounds  progressively 
+dissonant the farther down in the bass it is  played...In the very low bass, 
+even the octave sounds dissonant!" [Johan Sundberg, "The Science of Musical 
+Sounds," pg. 73.] 
+"Even the *order* in which two instruments define a musical interval is 
+relevant.  For instance, if a clarinet and a violin sound a major third, with 
+the clarinet playing the lower note, the first dissonant pair of harmonics 
+will be the 7th harmonicof  the clarinet with the 6th harmonic of the violin 
+(because only  odd harmonics of the clarinet are present).  This interval 
+sounds smooth.  If, on the other hand, the clarinet is playing the upper tone, 
+the 3rd harmonic of the latter will collide with the 4th harmonic of the 
+violin tone, and the interval will sound  `harsh.'" [Roederer, J., "Introduction 
+to The Physics and  Psychophysics of Music," 1973, pg. 143.]
+In his 3-part article, "Some Aspects of Perception," Shackford reveals how 
+widely so-called "perfect" intervals can deviate when performed by trained 
+symphony-caliber performers from major orchestras--yet these intervals 
+are still heard as "perfect." Because Shackford's measurements offer such 
+remarkable proof of the ear/brain's categorical perception mechanism at 
+work, the article deserves an extended quote:
+"Mean Values (MV) and quartile deviations (QD) of interval sizes measured in 
+a string trio [composed of members of the New York Philharmonic] as 
+compared with just, equally tempered and Pythagorean tunings (J,ET and P):
+--------------------------------------
+          Dyads           
+Interval  	MV (cents)  QD (cents)
+Major 2nd    204              197-211
+minor 3rd    305              287-318
+Major 3rd    410              402-418
+Fifth        	707              699-714
+---------------------------------------
+          Melodic           
+Interval  	MV (cents)  QD (cents)
+Minor 2nd     93               86-101
+Major 2nd     204             199-209
+Fourth           501             408-510
+Fifth             701             692-708
+---------------------------------------
+[Shackford, "Some Aspects of Perceptions," Journ. Mus. Theory, Vol. 6, 1961]
+"Fifths and twelfths are shown in Examples 17 and 18; and then a statistical 
+analysis of the sizes of these intervals in performance is represented in 
+Example 19. The spread of 50 cents, a quarter tone, between the largest and 
+smallest fifths played is surprisingly large for the interval that is supposed 
+to be the most sensitive to inaccuracies of intonation." [Shackford, C. "Some 
+Aspects of Perception - I," Journ. Mus. Theory, Vol. 6, 1961, pg. 185]
+"Thirds and tenths are shown in Example 20 and are then analyzed in 
+Example 21. Major thirds and tenths have about the same spread [50 cents] 
+but the median and mean is larger for thirds. (...)  As with fifths, long-held 
+thirds and tenths show a narrower spread than those used in passing. Though 
+sizes approaching the "natural" value of 386 cents were used, the 
+Pythagorean interval of 408 cents appears to be the most representative of 
+actual practice." [Shackford, C., "Some Aspects of Perception - I," Journ. Mus. 
+Theory, Vol. 6, 1961, pg. 189]
+"For barbershop quartets, a Major 3rd of 403 cents was preferred, while a 
+fourth of 493 cents and a fifths of 705 cents was preferred." [Sundberg, J. 
+"The Science of Musical Sounds," 1992, pg. 100]
+"It is quite remarkable that musicians seem to prefer too wide or 'stretched' 
+invervals in many cases. Above we have seen several examples of interval 
+stretching: the barbershop singers' fifth and just minor seventh; string trio 
+players' melodic  major and minor thirds and fifths; music listeners 
+preferred sizes of fifth and octave; and a professional musician's settings 
+of melodic intervals that contain  ascending fifths. In the case of octaves, 
+the craving for stretching has been noticed for both dyads and melodic 
+intervals. The amount of stretching preferred depends on the mid frequency 
+of the interval, among other things. The average for synthetic, vibrato-free 
+octave tones has been found to be about 15 cents. Thus, subjects found a 
+just octave too flat but an octave of 1215 cents just. (...) A German 
+acoustician, Ernst Terhardt, developed an interesting theory that proposes 
+an explanation for why  we are so eager to stretch octaves. He departed 
+from the fact that the pitch of a sine tone is changed if another sine tone 
+starts to sound simuntaneously. The net result is that both tones push the 
+pitch of the other tone away from its own pitch to increase the distance 
+between the two. In this way, the pitch interval between the first partials 
+in a harmonic stpectrum becomes a bit stretched. (...) Terhardt believes that 
+this stretched octave follows us from cradle to casketand that is is this 
+octave that musicians model when they play." [Sundberg, J. "The Science of 
+Musical Sounds," 1992, pp. 103-105]
+Additional papers which adduce evidence for the universal preference for 
+stretched octaves include Terhardt, E., "Pitch, Consonance and harmony," 
+JASA, Vol. 55, 1970, pg. 410. He didn't cite Terhardt, E., "On the perception 
+of periodic sound fluctuations (roughness)." Acustica, Voll. 30, 1974, pg. 
+201. Nor does he cite Terhardt, E. and Zick, M., "Evaluation of the Tempered 
+Tone Scale in Normal, Stretched and Contracted Intonation," Acustica, Vol. 
+32, 1975, pp. 269-276, in which Terhardt points out: "Therefore it must be 
+concluded that even just or Pythagorean intoantion cannot be considered as 
+ideal. Rather, optimum intonation of a diatonic scale probably depends on 
+the structure of the actual sound in the same manner as has been previously 
+discussed with respect to tempered pianos." [Terhardt, E. and Zick, M., op 
+cit.]
+Terhardt goes on to conclude: "It is remarkable, however, that stretched 
+intonation is distinctly preferred to contracted intonation. Probably, the 
+pitch interval established by the simultaneous complex tones fits better 
+with the mentally stored octave interval in stretched intonation than in 
+contracted intonation.  This is well in line with the psychoacoustic 
+phenomenon of octave enlargement." [Terhardt, E. and Zick, M. , op cit.]
+Various musicians who find these results inconvenient have claimed that 
+the preference for stretched intervals occurs not because Western 
+musicians "prefer" non-just sharp intervals, but because they learn to play 
+them; a wealth of evidence disproves this claim.  
+In "Octave adjustment by non-western musicians," Edward M. Burns 
+states "The results were essentially the same as found with Western
+ musicians, that is, small intrasubject variability, large intersubject
+ variability, and a small but statistically signficant frequency-dependent
+ "stretch" of the physical octave when adjusting the subjective octave. 
+(...) As suggested by Terhardt, they do seem to rule out the explanation 
+that this stretched is learned from the "stretched" tuning of the piano 
+to which Western musicians are universally exposed. This stretched 
+tuning of the piano is due to certain physical characteristics of the 
+piano strings and is not found in most instruments to which the Indian
+ musicians are exposed." [Burns. E. M, op cit., Session M: Musical acoustics,
+ 88th meeting of the  Acoustical Society of America; in JASA, vol. 56,
+ Supplement, pg. S 26]
+In the same session, Burns' paper "In Search of the Shruti," cites evidence 
+from Indian musicians confirming "earlier experiments [which] indicate 
+that the phenomenon of "categorical perception" is present in the 
+perception  of musical intervals." [Burns, op cit, in JASA, Vol. 56, Supplement, pg. S 26]
+This explains why various just intonation fans hear the perceptually 
+non-octave 2:1 ratio as being a "pure" octave while listeners not indoctrinated by constant exposure to just intonation accurately
+perceive the distorted 2:1 ratio  as smaller than the perceptual octave.
+  Exactly the same effect is at work among Javanese musicians who 
+hear many different gamelan as being tuned to "pelog" even though "the majority of large Balinese gamelan are tuned with five pitches to the octave, having some intervals larger than others, in a general pattern 
+that has come to be called pelog: but no two gamelan have exactly the 
+same pattern of intervallic structure.  This is not for want of skill.  
+It is because the tuning pattern has been composed." [Erickson, Robert,  "Timbre and the Tuning of the Balinese Gamelan," Soundings, pg. 98, 1984]
+Categorical perception also explains why equal tempered intervals are 
+accepted with such equanimity by listeners; a wide variety of different 
+intervals are perceived as "thirds" and "fifths" and "fourths" and "sixths" 
+in an actual musical peformance setting:  a psychological mechanism is 
+at work whereby listeners unconsiously process the sounds they hear 
+and fit unfamiliar intervals into familiar categories.  Listeners 
+literally *hear what they expect to hear*--regardless of what is 
+*actually played.* 
+More evidence for this phenomenon comes from "Categorical Perception--
+Phenomenon or epiphenomenon: Evidence from experiments in the perception 
+of melodic musical intervals," Burns, E. M. and Ward, W.D., JASA vol. 63, No. 
+2, Feb. 1978, pg. 456.
+"In marked contrast to the extreme accuracy of musical-interval judgments 
+in the experimental situations cited above is the large variability found in 
+measurements of intonation in musical performance.  The results of several 
+studies on intonation in performance of western classical music have been 
+summarized by Ward (1970). They show large variations in the tuning of 
+individual intervals (ranges of almost a semitone) in a given performance.  
+Similar variability has been found in measurements of intonation in 
+nonclassical western music (Stauffer, 1954; Fransson, Sundberg and 
+Tjernland, 1970; Owens, 1974) and in nonwestern music (Jhairazbhoy and 
+Stone, 1963; Callow and Shepherd, 1972; Spector, 1966).  Of course this 
+large variability is not in itself surprising since variability in production of 
+tones is involved. The important point, however, is that in the above-cited 
+studies, all listeners, including the performing musicians, agreed that the 
+compositions were performed correctly and the large variability in 
+intontion was not detected. 
+"This apparent inability to detect large variations in interval size in certain 
+situations suggests that a phenomenon associated with the perception of 
+speech tokens, "categorical perception," may be involved." [Burns, E., and 
+Ward, W.D., "Categorical Perception--Phenomenon or epiphenomenon: 
+Evidence from experiments in the perception of melodic musical intervals," 
+JASA vol. 63, No. 2, Feb. 1978, pg. 456.]
+Again, in "Categorical Perception of Musical Intervals," Burns and Ward point 
+out "A body of evidence indicates that certain speech units are perceived in 
+in a special mode called `categorical perception,' the characteristics of 
+which are (1) the existence of well-defined identification functions and (2) 
+the ability to predict precisely the discrimination functions from the 
+identification functions, based on the  assumption that the subjects can 
+discriminate two stimuli better than they can differentially identify them.  
+(...) A study of the perception of musical intervals by experienced musicians 
+was performed using the procedures associated with categorical perception 
+experiments;...the results show that the musicians exhibit categorical 
+perception, some to a degree approaching that shown in the perception of 
+stop consonants." [Burns, E. and Ward W., "Categorical Preception of Musical 
+Intervals," JASA, Vol. 55, No. 2, Feb. 1974]
+The powerful evidence for categorical perception in listeners and 
+performers alike lends equal support to just, equal-tempered and non-just 
+non-equal-tempered  tunings.  Because listeners unwittingly brainwash 
+themselves to hear the intervals they expect regardless of what intervals 
+are actually performed,  all three tunings should prove equally acceptable to 
+listeners.
+Of course there is more evidence for a difference between the stretched
+intervals heard as "pure" and the perceptually-distorted intervals
+characterized by small whole numbers, and universally heard as
+"too narrow" and "flat."  The next post will examine some more
+of this enormous body of evidence.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 8 Oct 1995 20:46 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA28440; Sun, 8 Oct 1995 11:45:50 -0700
+Date: Sun, 8 Oct 1995 11:45:50 -0700
+Message-Id: <951008184423_71670.2576_HHB28-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

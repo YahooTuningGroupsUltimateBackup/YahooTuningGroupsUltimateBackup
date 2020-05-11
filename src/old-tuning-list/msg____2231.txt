@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Thu, 2 Nov 1995 05:14:17 -0800
+
+Subject: RE: Herbert Anton Kellner's Bach tuning
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Kellner's numbers are accurate within one tenth of a cent.
+
+A            1/1 
+Bes        104.301 cents    104.3010
+B          199.218 cents    94.91704
+C          308.211 cents    108.9930
+Cis        398.436 cents    90.22505
+D          502.737 cents    104.3010
+Es         602.346 cents    99.60905
+E          697.263 cents    94.91703
+F          806.256 cents    108.9930
+Fis        896.481 cents    90.22508
+G         1005.474 cents    108.9930
+As        1100.391 cents    94.91703
+A            2/1            99.60905
+
+Five fifths are tempered by 1/5 of a Pythagorean comma, in this order:
+
+   1/5 - 0 - 1/5 - 0 - 0 - 0 - 0 - 0 - 0 - 1/5 - 1/5 - 1/5
+ A     E   B     F#  C#  Ab  Eb  Bb  F   C     G     D     A
+
+One third, C-E is very close to pure. Five more are smaller than equal
+tempered. Two minor thirds are halfway between pure and equal tempered.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 2 Nov 1995 15:17 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA14948; Thu, 2 Nov 1995 05:17:03 -0800
+Date: Thu, 2 Nov 1995 05:17:03 -0800
+Message-Id: <00998CBE6988F35E.0ADC@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

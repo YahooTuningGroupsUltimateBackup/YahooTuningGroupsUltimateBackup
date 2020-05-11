@@ -1,0 +1,235 @@
+source file: mills2.txt
+Date: Wed, 4 Dec 1996 08:41:08 -0800
+
+Subject: From Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: "experimental" music
+--
+In sharp contrast with the dismal pseudo-
+science and incoherent reasoning employed
+by a minority of forum subscribers in a
+remarkably feeble effort  to  "disprove" my 
+criticism of the misuse of the term "experimental" 
+in modern music, Steve Curtin made some cogent 
+points about the term.
+"Experimental music" was used according to its 
+correct dictionary meaning by Lejaren Hiller.  If you
+read Hiller's 1956 text "Experimental Music,"
+you discover that Hiller employed the term
+carefully.  He called the output of his 
+stochastic composition programs "Experiment 1,"
+"Experiment 2," etc.  Notably, Hiller was careful
+*not* to call the output of his computer programs
+"music."
+Rather, he viewed these experiments (which formed
+the movements of the Illiac Quartet) as systematic
+investigations of mathematical models of human
+musical cognition.
+I did some research on Markov analysis and it turns
+out that it was originally used in chemistry to 
+measure mean free paths of molecules in chemical
+reactions between collisions.  Thus it's obvious why
+Markov analysis failed miserably as a music 
+composition tool: a hydrogen atom is a hydrogen
+atom no matter where it occurs, but a JI minor third
+played in the deep bass is a grinding sensory dissonance
+while a JI minor third played in the high treble is
+a smooth sensory consonance.  Atoms
+are interchangeable and identical; musical intervals 
+are not.
+If you read Hiller's 1956 book carefully, you will 
+realize that Hiller himself understood that his
+experiments demonstrated the failure of his
+mathematical model of human musical cognition.
+Hiller claims that he was not interested in the
+aesthetic result of his "experiments," but if you
+read between his lines you can detect the clear
+disappointment he felt in not producing more
+human-sounding music (or, to put it another way,
+the ease with which listeners could tell that
+the music went nowhere).
+Little has been remarked on Hiller's subsequent
+efforts in this area; however, HIller's own writings
+about his subsquent "Computer Cantata" (and a
+listen to the work in question) prove enlightening
+even today.
+Unlike John Cage, Lejaren Hiller understood and 
+respected the meaning of the term "experimental."
+Unlike John Cage, Hiller recognized that science
+demands hard numbers in order for an experiment
+to be meaningfully called an experiment.  Unlike
+John Cage, Lejaren Hiller formulated a mental 
+model of a physical process (composition as 
+filtered noise subjected to modus ponens
+logic in the form of a rule-set); unlike Cage,
+Hiller reduced his mental model to mathematics
+(encapsulated in a computer program); unlike
+Cage, HIller generated a testable hypothesis
+from his mathematical equations (composition
+can be generated using such a computer program
+which is both statistically and perceptually
+indistinguishable  from compositions produced
+by humans); unlike Cage, Hiller tested his
+hypothesis (set up a quartet to perform the
+composition, and recorded the reactions of
+people who listened to it); unlike Cage, Hiller's
+music could therefore be meaningfully called
+"experimental."
+--
+By the way, no doubt some of you will object
+to my use of the term "computer composition"
+in a recent post critical of that genre.
+Many of you will claim that my post denies
+the validity of all "computer compositions,"
+and since many "computer composers" (Larry
+Polansky, Carter Scholz, John Bischoff, etc.)
+have produced interesting and worthwhile
+music, my post is purportedly incorrect.
+In fact this boils down to a controversy over
+the meaning of the phrase "computer 
+composition."
+What is a "computer composition"?  
+Is a string quartet written out by hand and
+using a computer only to print the score an
+"computer composition"?  Since the
+composer did not specify the exact number of 
+1/300ths of an inch border around the staves,  
+these  proportions were generated outside of the
+composer's direct control, by means of
+algorithms.  Is such a quartet score therefore
+an example of "computer composition"? 
+Clearly not.
+Let us then consider a rock band whose
+manager schedules performances using
+a computer (with scheduling algorithms).
+Is this "computer composition"?
+Clearly not.
+How about a keyboardist who performs 
+from written scores and uses a computer
+to load different timbres into hi/r synthesizer
+during the performance?  Is this an example
+of "computer composition"?
+Clearly not.
+Let us then move on to consider a composer who
+uses elaborate mathematics to generate timbres
+and chords during the course of a composition.
+Over his shoulder, the composer has an idiot
+savant watching who observes which notes
+the composer plays and calculates rapidly in 
+hi/r head the resulting notes and timbres 
+according to the composer's mathematical
+procedures.  (One such prodigy, Johan Zacharias
+Dase, boasted such astounding powers of 
+mental calculation that he calculated pi in
+his head to 400 decimal places over the course
+of 2 months. Thus it is humanly possible, while
+rare, to perform such elaborate mental
+calculations.)
+Is this an "algorithmic computer composition"? 
+I would say not, since it can be performed by
+a human.  To think of it another way, the elaborate
+mathematics of the composer can surely be 
+boiled down to a set of charts and tables which
+can be memorized.  Now if we observe that the
+elaborate mathematics of which I speak might
+well be figured bass notation of the Baroque
+period (which, if reduced to a computer program,
+would require a great deal of calculation to 
+interpret correctly in any key signature as the
+ music modulates), we realize that this
+is a pretty standard human musical operation
+couched in deliberately arcane terminology.
+Obviously, it's not "computer composition"
+if humans were performing it in the 18th century
+as a matter of routine musical practice.
+Now suppose we have a computer program like
+Lejaren Hiller's which performs many millions
+of calculations to obtain each note.  The mathematics
+recirculate, requiring some of the output to feed
+back into the input.  Many millions of numbers must
+be multiplied by weights, sieved with thousands
+of rules, and random numbers must be generated
+by multiple 32-bit numbers by one another to
+obtain overflow and then shifting them right or
+left by some larger number of bits.
+This seems a clear case of "computer
+composition" because the process is too elaborate
+to be performed by any conceivable human in any
+reasonable amount of time.
+--
+What do all these cases have in common?
+Clearly, we make distinctions here depending
+on the proportion of the computer's input to
+the process of composition.  
+If the proportion is very high, we can speak
+meaningfully of "computer 
+composition."  If the proportion of computer
+input is low, clearly we are talking
+only about computer-aided composition.
+Thus, true "computer composition" occurs only
+when the process of composition *demands*
+a computer and *exclusively* a computer. If a
+human can perform the same operations, this
+is not "algorithmic computer composition," it's
+merely ordinary composition *aided by computer.*
+This leads us to a clear distinction between 
+*computer-aided composition* and *algorithmic
+computer composition.*
+"Algorithmic computer composition" only occurs
+when the overwhelming bulk of the compositional
+process takes place in the computer.  
+If most of the compositional process is human,
+and the computer is used merely to keep track
+of vectors in ratio space, or display morphological
+shapes, etc., then we are clearly speaking of 
+"computer-aided composition."
+My comments in my recent post referred *only* to 
+computer composition--that is, to composition in
+which the composer sets up a computer program,
+lets it go, and walks away.
+Computer-aided composition is a whole different
+kettle of fish, since it is de facto human composition
+in which the computer is used as a convenient aid.
+The line between the two is of course blurry; as
+the proportion of human effort to computer
+interpretation approaches 1:1, it becomes hard
+to say whether the computer or the human is
+composing.
+My earlier comments should therefore not
+be taken as an argument against the validity of
+all composition involving computers, but rather
+against the validity of compositions produced mainly
+by unaided computer operations.  To put it bluntly,
+winding up a computer and letting it spit out music
+on its own didn't work in 1956 and has failed miserably 
+to produce any interesting musical results in the 
+ensuing 40 years.  Changing the number of tones per
+octave does not promise to improve that track record.
+However, computer-aided microtonal composition is
+a wide-open field, and promises many fascinating
+and aesthetically worthwhile results as new
+approaches are tried and new algorithms developed.
+In particular, computer *aided* composition might
+prove very helpful in harmonizing a melody line in
+an exotic microtonal intonation with too many notes
+per octave for humans to navigate easily.
+--mclaren 
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Dec 1996 04:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22244; Thu, 5 Dec 1996 15:49:44 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA22105
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id GAA21370; Thu, 5 Dec 1996 06:49:35 -0800
+Date: Thu, 5 Dec 1996 06:49:35 -0800
+Message-Id: <199612050946_MC1-CBC-A5EC@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Sun, 1 Dec 1996 11:31:28 -0800
+
+Subject: Indigestion
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+Since at least two people have asked, I looked up the command I sent to the
+tuning list processor a while back to get each individual message rather than
+the digests:
+                           set tuning mail ack
+
+   That'll give you every message including you own.  If I recall correctly, you
+can also have it exclude the messages you send by using "noack" instead of
+"ack".  
+
+   Be sure to send this command to "listproc@eartha.mills.edu", and NOT to where
+you post tuning-list messages.  Put the command on the first message-content
+line, and NOT in the subject line.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 1 Dec 1996 20:32 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13606; Sun, 1 Dec 1996 20:34:06 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA13478
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA28456; Sun, 1 Dec 1996 11:34:03 -0800
+Date: Sun, 1 Dec 1996 11:34:03 -0800
+Message-Id: <961201193008_71670.2576_HHB45-10@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

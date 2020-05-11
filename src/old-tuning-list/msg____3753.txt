@@ -1,0 +1,31 @@
+source file: mills2.txt
+Date: Tue, 8 Oct 1996 12:15:27 -0700
+
+Subject: skips in sound and video
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+All-
+	In response to my own post on mysterious glitches in playback of 
+.wav files, video or animation, if you experience this problem in windows 
+3.x or windows 95, try disabling auto insert notification for the CD and 
+CDR drives. In windows 95 (I forget where it is in windows 3.x) go to 
+control panel, system, device manager, CDROM, settings, and there it is, 
+the offending checked box. All auto insert notification does (besides 
+screw up your audio playback) is allow your CD player to automatically 
+play audio CDs upon insertion, and allow automatic start for some CDROMs 
+upon insertion.
+John Starrett
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 9 Oct 1996 05:15 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01128; Wed, 9 Oct 1996 05:16:21 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA01126
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id UAA25370; Tue, 8 Oct 1996 20:16:18 -0700
+Date: Tue, 8 Oct 1996 20:16:18 -0700
+Message-Id: <199610090315.UAA17537@mail.cdsnet.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

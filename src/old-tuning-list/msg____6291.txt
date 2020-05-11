@@ -1,0 +1,55 @@
+source file: mills3.txt
+Date: Fri, 17 Oct 1997 13:37:38 +0200
+
+Subject: Re: Music Notation Software & Synth query
+
+From: jpff@maths.bath.ac.uk
+
+Message written at 17 Oct 1997 09:34:42 +0100
+In-reply-to: <344611F4.1EC48801@fast.net> (androsky@fast.net)
+References:  <344611F4.1EC48801@fast.net>
+
+>>>>> "Andrew" == Andrew L Kaye <androsky@fast.net> writes:
+
+ Andrew> Can anyone out there recommend
+
+ Andrew> 2) a synth module and/or synth keyboard that is microtonally-friendly
+ Andrew> (eg., can make 31-TET or 59-TET scales...)
+
+Personally I would rather use a software synthesis system than fight a
+hardware module.  I use csound, which has opcodes to allow for any ET
+scale, octave based or otherwise, as well as scales of ones own
+invention.  The JI people seem to find that easy as well.
+
+But then I am a computer-based person.
+
+==John ff
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Manuel.Op.de.Coul@ezh.nl
+Subject:  Vicentino enharmonic madrigal
+PostedDate:  17-10-97 14:55:57
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  17-10-97 14:55:13-17-10-97 14:55:13,17-10-97 13:55:56-17-10-97 13:55:57
+DeliveredDate:  17-10-97 13:55:57
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256533.0046F72B; Fri, 17 Oct 1997 14:55:08 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19727; Fri, 17 Oct 1997 14:55:57 +0200
+Date: Fri, 17 Oct 1997 14:55:57 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA19703
+Received: (qmail 24798 invoked from network); 17 Oct 1997 05:55:48 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Oct 1997 05:55:48 -0700
+Message-Id: <C1256533.004108B7.00@notesrv2.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

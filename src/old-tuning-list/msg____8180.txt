@@ -1,0 +1,40 @@
+source file: m1456.txt
+Date: Tue, 23 Jun 1998 15:58:35 -0500
+
+Subject: Re: Double Equal Temperament
+
+From: "Benjamin Tubb" <brtubb@cybertron.com>
+
+On Mon, 22 Jun 1998 14:21:02 -0400, Paul H. Erlich <PErlich@Acadian-Asset.com>
+wrote:
+
+>Double Equal Temperament, or 144-tET, does not provide for anything
+resembling traditional "mean temperament" (presumably meaning meantone
+temperament). The fifths of meantone temperament are typically around
+696-698 cents, while 144-tET contains no intervals between 692 and 700
+cents. 288-tET would be required to unify meantone with these other
+systems of tuning.
+
+The tuning scale steps in Double Equal Temperament available for around the 5th
+are:
+
+Name  Ratio       Cents
+G-    2^(83/144)  691.667
+G     2^(7/12)    700
+G+    2^(85/144)  708.333
+
+In "On the Sensations of Tone" by Helmholtz, page 484, meantone temperament
+"specimens of tuning" ranges for G are 697-733 cents. Likewise for Just
+Intonation, on page 486, G is usually tuned to 702 cents (a ratio of 3/2). In
+either case, Schillinger only claims that "the micro-units are the best
+averages for
+all differences between units of the 12th root of 2 and just intonation
+(natural scale)". There are further comments in "Tuning" by Owen Jorgensen
+concerning the tuners used by Alexander Ellis (the editor of Helmhotz' work)
+which indicate their minor innacuracies but they are still within the above
+cents constraints of "best averages".
+
+-------------
+Benjamin Tubb
+brtubb@cybertron.com
+http://home.cybertron.com/~brtubb

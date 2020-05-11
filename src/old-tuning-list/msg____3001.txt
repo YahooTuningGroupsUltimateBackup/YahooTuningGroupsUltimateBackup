@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Tue, 4 Jun 1996 10:25:21 -0700
+
+Subject: Refretting guitars
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+Ladies and Gentlemen-
+	Common practice in guitar building is to fret the neck as if no 
+string stretching would take place and compensate at the bridge for the 
+stretching that takes place when the guitar is fretted at the octave 
+(12th fret, 31st fret, whatever determines the octave for any particular 
+instrument). This is a compromise between accurate tuning over the 
+whole neck and ease of setting the bridge piece (comparing the pitch of 
+the open string or octave harmonic to that of the string fretted at 
+the octave can be done by ear). I know of no realistic way to build a guitar 
+that has 
+correct stretching compensation over the whole neck, but if you lay the 
+frets out with no compensation for stretching and adjust the bridge to 
+give correct pitch in the area you expect to play in most (rather that 
+at the octave), you will probably be quite satisfied with the results. 
+	There are a few builders working on computerized retunable guitars, 
+so that the artist can quickly change string tension, but these are not 
+currently operating well enough for discriminating users. Certainly a 
+guitar could be built in which the position of the bridge pieces were 
+quickly adjustable to account for stretching at different locations on 
+the neck (servo or stepper motor control or some mechanical linkage), but 
+this seems like overkill for a relatively small problem. When a guitar is 
+well set up (proper neck relief, nut height, bridge height, string guages,
+etc), the standard octave compensation is surprisingly good. 
+	Also, please do not consider movable nut pieces to compensate for 
+string stretch. The nut should have the same function as a zero fret, and 
+if it is accurately placed and set it will act as a zero fret.  
+	In short, put the frets where they should be assuming no string 
+stretch from fretting, set the guitar up properly and then adjust the 
+bridge to compensate in the middle of the most played area. 
+John Starrett
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 5 Jun 1996 00:05 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA27709; Tue, 4 Jun 1996 15:05:06 -0700
+Date: Tue, 4 Jun 1996 15:05:06 -0700
+Message-Id: <12960604215721/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

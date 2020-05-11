@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Wed, 12 Mar 1997 15:01:37 -0800
+
+Subject: RE: Positive Linear Temperaments
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+John C.,
+	    Perhaps you didn't see what I was trying to do with the optimal 
+positive temperaments I proposed. The idea is that we are optimizing the 
+_diatonic_ dominant seventh chord with respect to a tuning of 4:5:6:7 by 
+minimizing the weighted or unweighted mean of the squared errors of all six 
+intervals in that chord. No schismatic thirds, augmented sixths, etc. are 
+used.
+	    There is a discussion currently about whether the 4:5:6:7 is the 
+classical dominant seventh chord and whether it is too consonant. In most 
+cases I would say that 4:5:6:7 should not be used for the dominant seventh 
+and therefore a negative tuning such as meantone is best, as only the triads 
+should be rendered as consonant as possible. But there are other styles for 
+which diatonic dominant sevenths or minor 6th (that means minor with an 
+added major 6th) chords are tonics, and should be tuned accordingly. My 
+results indicate that mildly positive tunings are better for such styles. 
+12-tET is a compromise that leans slightly toward the latter; in fact I 
+think it unlikely that mixolydian and dorian would have achieved their 
+current popularity had a negative system become standard in Western music.
+ -Paul E.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 13 Mar 1997 00:03 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04955; Thu, 13 Mar 1997 00:03:56 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA04952
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id PAA15168; Wed, 12 Mar 1997 15:02:17 -0800
+Date: Wed, 12 Mar 1997 15:02:17 -0800
+Message-Id: <009B12C606EBAEF3.6A55@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

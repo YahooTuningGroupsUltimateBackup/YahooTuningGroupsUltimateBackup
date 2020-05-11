@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Sat, 14 Oct 1995 10:11:58 -0700
+
+Subject: Re: Computing Nth Roots
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+As John (C) briefly aluded here, graphical methods can place frets,
+toneholes, lengths of bars, or most any other physical dimension to pretty
+decent precision.  
+
+   In the case of 12TET, once you precisely calculate whatever dimensions you're
+interested in for the square root (tritone), the square root of that (minor
+third), and the product of the two (minor sixth), you've got a 4TET scale.  You
+can graph those points and "french curve" in the rest of the notes' dimensions
+to pretty decent accuracy.  Certainly far greater accuracy than the "lipping"
+range of a wind instrument.  
+
+   Fixed pitch instruments like the bells mentioned here would have a little
+error here and there, but not a whole lot more than you get from typical
+well-temperament schemes.  (Now of course the "error" from ET in well
+temperament schemes are intentional and desirable, but I'm sure you get my
+point.)  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 15 Oct 1995 17:00 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA26733; Sun, 15 Oct 1995 07:59:42 -0700
+Date: Sun, 15 Oct 1995 07:59:42 -0700
+Message-Id:  <9510150758.aa10492@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

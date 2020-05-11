@@ -1,0 +1,73 @@
+source file: mills2.txt
+Date: Tue, 28 Jan 1997 08:47:51 -0800
+
+Subject: Cheap Explorations -- the Temporary Guitar
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Steven's temporary fretting scheme struck me as interesting.  Moveable
+or removable frets can certainly be a benefit. 
+
+   But once you've found a tuning you want to explore for a while, a really
+good permanent refretting job, is also very gratifying.  I recently had the
+pleasure of using the official luthiers' tools for the first time in a
+refretting job.  I learned two lessons in the process:  Refretting with the
+right equipment makes the process a lot easier, and the right tools don't
+really cost a whole lot.  
+
+   The proper tools are available from the Luthiers Merchatile (800)
+477-4437.
+
+   Another comment:  It's easy to precisely calculate fret positions,
+especially for equal temperaments.  We've been over this on the list
+before, but here's here it goes again:
+
+   BASICALLY fret positions can be calculated best measure from the bridge.
+ The first thing to do is measure the open string length.  That varies from
+guitar to guitar, but it's typically about 65cm.  Next calculate the
+frequency multiplier for adjacent steps in your tuning.  That is given by
+the Nth root of 2, or the 22nd root of 2 for 22TET for example.  (That is
+also the same as 2 raised to the 1/22 power, by the way, if your calculator
+doesn't have a root key.)  The first fret position, again measured from the
+bridge, is the open string length divided by that frequency multiplier. 
+The second fret position is the first fret position divided by that same
+number.  The third fret is the second-fret position divided by that number,
+and so forth all the way up the neck.  
+
+   There is an important complicating factor though:  When you press a
+string down to the fingerboard, you add tension to it, and that added
+tension is greater for higher fret positions, meaning that you get sharper
+as go up the neck.  To compensate for this, the usual procedure is to
+adjust the bridge a little away from the nut.  This ensures that higher
+frets endure a greater percentage lengthening, and thus flattening, than
+lower frets.  This has two important ramifications:  
+1.  You can't use the distance from nut to bridge for the open string
+length.
+    You instead have to measure from nut to octave fret and double that to 
+    get the theoretical open-string length.  
+2.  Although it's easiest to CALCULATE the fret positions from the bridge, 
+    you're better off MEASURING them from the nut, since the bridge
+position
+    isn't trustable.  To measure them from the nut instead of from the
+bridge,
+    just subtract them from the open-string length.  
+
+   A footnote to #1 above:  If you find that the octave fret mismatches the
+octave-fret harmonic by much, you may want to compensate for that so get a
+more ideal octave-fret position.  If the octave fret plays a little sharp
+of the octave harmonic, you need to move the ideal octave-fret position
+toward the nut.  But be VERY careful of moving it too much, you rarely need
+to move it more than a millimeter or two.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 28 Jan 1997 18:02 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17678; Tue, 28 Jan 1997 18:02:36 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA17641
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA01413; Tue, 28 Jan 1997 09:02:29 -0800
+Date: Tue, 28 Jan 1997 09:02:29 -0800
+Message-Id: <199701280908_MC2-104A-4D81@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

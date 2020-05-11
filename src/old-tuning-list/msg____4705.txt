@@ -1,0 +1,25 @@
+source file: mills2.txt
+Date: Fri, 31 Jan 1997 04:54:10 -0800
+
+Subject: Chalmers Quadratic corners
+
+From: Franck Jedrzejewski <franck@arthaud.saclay.cea.fr>
+
+Could you explain what are "quadratic corners" and how they could
+be used in scale generation ?
+Thanks,
+
+--franck
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 31 Jan 1997 19:38 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21206; Fri, 31 Jan 1997 19:38:11 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA21288
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA14368; Fri, 31 Jan 1997 10:32:37 -0800
+Date: Fri, 31 Jan 1997 10:32:37 -0800
+Message-Id: <Pine.SCO.3.91.970131102314.3471A-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

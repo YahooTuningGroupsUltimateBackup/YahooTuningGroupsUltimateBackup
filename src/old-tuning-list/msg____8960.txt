@@ -1,0 +1,46 @@
+source file: m1607.txt
+Date: Fri, 18 Dec 1998 03:24:47 -0800 (PST)
+
+Subject: Re: Tuning List Down (Digest 1606 Topic 11)
+
+From: Mark Nowitzky <nowitzky@alum.mit.edu>
+
+Hi Dave,
+
+Thanks for repairing the list.
+
+At 01:59 AM 12/18/98 -0500, you wrote (Digest 1606 Topic 11):
+>From: "David Madole" <madole@ella.mills.edu>
+>Subject: Tuning List Down
+>
+>My successor at Mills is not interested in continuing with the listserver.
+>
+>It is time to start to arrange to move the list.  I will provide all of 
+>the support I possibly can to whomever decides to take it over - it would
+>be best to be moved to another list server running listproc 6.0, or listserv,
+>if possible.  I will even help get the listserver compiled and running  (but
+>not maintain it) if that is necessary.
+>
+>If you have any ideas, please send the mail to my new address, madole@dnai.com.
+
+I don't know of another server to move to, but I'd be willing to try
+maintaining it at its current location at Mills.  Here's some issues:
+
+1)  Can the list be maintained remotely (e.g., via telnet from Los Angeles)?
+
+2)  Is the TUNING list the only list in jeopardy, or are there a bunch of
+lists, at listproc@eartha.mills.edu, that need to be moved?
+
+3)  There'd be some learning curve involved (I've been away from Unix, doing
+mostly IBM Mainframe stuff these days.)
+
+That's all I have for now.  Thanks again,
+
+--Mark Nowitzky
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu    AIM:  Nowitzky      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

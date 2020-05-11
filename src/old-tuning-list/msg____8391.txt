@@ -1,0 +1,53 @@
+source file: m1509.txt
+Date: Thu, 20 Aug 1998 10:18:26 -0500 (CDT)
+
+Subject: "JI-like" ETs
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Tue, 26 May 1998, I wrote:
+>                                       . . . an ET having a diameter less
+> than or equal to its consistency level is a desirable property in my
+> book.  I think of it being "quasi-JI-like", in a way.
+
+I've generated a separate table of all such tunings up through 300TET.
+There aren't many.  The chart is available at
+
+<http://library.wustl.edu/~manynote/complete2.txt>
+
+but actually it's small enough to include here:
+
+   |    3       5       7       9      11
+---|---------------------------------------
+  2|  2/  1 
+  3|  2/  1   2/  1 
+  4|          1/  1   1/  1 
+  5|  6/  2   1/  1   1/  1   1/  1 
+  6|                  1/  1 
+  7|  5/  3         
+ 12| 25/  6   3/  2                 
+ 15|          2/  2         
+ 17|  8/  8 
+ 19|          4/  3                 
+ 31|                  3/  2                 
+ 34|          4/  4 
+ 41| 30/ 20                   2/  2                         
+ 53|165/ 26   8/  5                 
+ 65|          5/  5 
+ 72|                                  2/  2
+118|         13/  7                         
+171|         10/ 10   8/  5   8/  4                 
+
+(For each relevant combination of ET-number and limit, an entry x/y
+means a consistency level of x and a diameter of y.)
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>
+
+------------------------------
+
+End of TUNING Digest 1509
+*************************

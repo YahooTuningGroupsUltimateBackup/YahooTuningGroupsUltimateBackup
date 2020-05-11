@@ -1,0 +1,49 @@
+source file: mills3.txt
+Date: Fri, 21 Nov 1997 11:51:19 +0100
+
+Subject: Windows tuning program
+
+From: greg phillips <gphillip@senet.com.au>
+
+Hi everyone,
+
+I've written a little tuning program for windows (similar to a DOS
+program some people have already tried). It uses a sound blaster
+compatible card - or PC speaker to produce notes. Its main purpose is to
+help people make wind chimes and tune homemade instruments. The accuracy
+is not perfect, but some people might find it of use - perhaps even fun.
+It comes with a selection of about 80 different tunings, but you can add
+more if you want. I'm looking for a place to leave the program, so that
+people can grab a copy without my assistance. Any suggestions?
+
+thanks,
+Greg Phillips.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Re: Pair-of-Dimes lost
+PostedDate:  21-11-97 13:38:53
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  21-11-97 13:37:25-21-11-97 13:37:26,21-11-97 13:37:31-21-11-97 13:37:32
+DeliveredDate:  21-11-97 13:37:32
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256556.004555B0; Fri, 21 Nov 1997 13:37:19 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04947; Fri, 21 Nov 1997 13:38:53 +0100
+Date: Fri, 21 Nov 1997 13:38:53 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA04948
+Received: (qmail 21759 invoked from network); 21 Nov 1997 04:36:56 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 21 Nov 1997 04:36:56 -0800
+Message-Id: <v01541106b09ad60e286a@[207.207.2.45]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

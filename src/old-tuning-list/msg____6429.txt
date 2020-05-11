@@ -1,0 +1,84 @@
+source file: mills3.txt
+Date: Mon, 17 Nov 1997 17:40:58 +0100
+
+Subject: Update and correction re Cheap Xen Keyboard
+
+From: Steven  Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+
+After having several other things get in the way, I finally got to
+finish my 22TET-oriented keyboard yesterday.  It's now 100% complete,
+and all buttoned up, but I ran into a snag or two that I want to pass
+on as as an addendum.
+
+One correction to my previous article:  The "C & E" 2 key subassemblies
+*are* the ones I used (along with a single key (D?) to build the
+white keys up, with one exception noted below.  [Should have labelled
+the piles "use" and "don't" I guess. :-) ]
+
+After getting the "metalwork" [trimming the little tabs on the key
+frame] taken care of, and proceeding to tighten everything down, I
+found that the "slop" caused by the slightly non-uniform spacing of
+the key mechanism when laid out for 12, necessitated a minor design
+change at one end of the keyboard, and a little whittling of a couple
+of keys to allow them to move freely.  No big deal, but it did add
+some additional trips to the workshop.  The design change involved
+using a "G-B" 2 key assembly on the end where the full width C-key is.
+I also had to redrill a couple of mounting holes in the assemblies to
+accomodate the realignment.
+
+So, "how does it work?"...
+
+Well, not being a keyboard player, I can't be too much of a judge, but
+overall it is at least as playable to these fingers as it was before I
+put it under the knife.  The resistance of the keys is somewhat
+uneven, which would probably bother the more skilled among you, but
+we're talking low end plastic here -- I don't expect too much,
+especially from a "proof of concept" piece.  The resistance issue
+could probably have been solved by pulling and rearranging the little
+plunger switches, but I didn't go that far this time around.
+
+As it was, I had to fiddle with one problematic key/plunger
+combination to make it work correctly.  I was getting multiple
+triggers from that key (it would be neat if there was a switch to make
+that happen instrument wide).  As it turned out, the realignment
+coupled with that particular membranes physical disposition was just
+enough to cause some kind of bounce.  THe problem was solved by
+removing the problematic keygroup and one of its neighbors, doing a
+bit more whittling, and then reassembling with the unit ON and hooked
+up.  I twisted and torqued things until it all worked, and then
+tightened up.
+
+So far, so good.  Now all I have to do is learn to play the thing. :-)
+As Paul noted earlier, the stretch is still pretty wide, but at least
+now I can span a "3/2" (13o22) with one hand.
+
+Steve
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+Subject:  Woodwinds for ATS
+PostedDate:  17-11-97 20:26:32
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  17-11-97 20:25:06-17-11-97 20:25:06,17-11-97 20:25:16-17-11-97 20:25:16
+DeliveredDate:  17-11-97 20:25:16
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256552.006AA9F6; Mon, 17 Nov 1997 20:25:03 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01029; Mon, 17 Nov 1997 20:26:32 +0100
+Date: Mon, 17 Nov 1997 20:26:32 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01024
+Received: (qmail 23060 invoked from network); 17 Nov 1997 11:26:16 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Nov 1997 11:26:16 -0800
+Message-Id: <199711171915.TAA10012@imail.norfolk.gov.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

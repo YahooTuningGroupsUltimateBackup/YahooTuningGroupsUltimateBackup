@@ -1,0 +1,89 @@
+source file: mills2.txt
+Date: Sun, 4 May 1997 07:45:40 -0700
+
+Subject: Re: Request.Info just- and pythagorian tuning
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Would somebody help me in explaining the differences between playing in
+>Justatonic mode and Pythagorean mode?
+
+   Sure.
+
+   First of all, "Justonic" is a trade name of Justonic Tuning, Inc., in
+Canada.  Their name comes from the idea of "Just Intonation", which is the
+general concept you're undoubtedly asking about.
+
+   Just Intonation is not any single tuning really, but instead a general
+principle for choosing pitches, based upon making their sound-wave
+frequencies in simple whole-number relations to one another, like 2:1 for
+octaves, 3:2 for perfect fifths, 5:4 for major thirds, and many others.
+
+   As with "equal temperament" and "meantone", "just intonation" also
+carries a historical meaning, which is a subset of the more recent,
+generalized meaning.  The major-scale tuning for the historical subset
+meaning (example in C):
+
+      C      D      E      F      G      A      B      C
+     1:1    9:8    5:4    4:3    3:2    5:3   15:8    2:1
+
+   This tuning came later, in Western culture anyway, than the
+"pythagorean" tuning of:
+
+      C      D      E      F      G      A      B      C
+     1:1    9:8   81:64   4:3    3:2   27:16 243:128  2:1
+
+   So that is the distinction between "pythagorean" and "just", even though
+pythagorean is in fact just, since it's built upon whole-number ratios,
+although 243:128 would hardly qualify as a "simple" whole-number ratio,
+which is of course part of the reason why it evolved into 15:8 in most
+scenarios.
+
+
+
+
+
+
+>How can one learn to play in these modes without using electronic
+>equipment?
+>Is there any valid models used in learning how to use your ear to
+>recognise these different modes?
+
+   It doesn't take a huge amount of effort for most competent and motivated
+musicians to learn to hear new whole-number pitch relationships, although
+it's deadly critical to bear in mind that how easy it is to hear them
+depends greatly on how they're used.  Well, it depends on the same factors
+that playing in tune in any tuning depends upon:  whether you're paying the
+notes melodically or harmonically, how fast the notes are going by, and
+such.
+
+   Probably the best way to get used to hearing these new pitch
+relationships is a combination of mimicking pitch relationships from
+recordings or electronic aids of whatever sort, and then try them out for
+yourself, listening to beat rates in sustained chords.  As you get a feel
+for those beat rates, you simultaneously will get an increasingly more
+secure feel for recognizing those intervals by their melodic pitch
+distance.
+
+   Johnny Reinhard and his "AFFM" troopers routinely play a wide variety of
+tunings on traditional acoustic instruments, Johnny himself mostly on
+bassoon, using alternate fingerings.
+
+   Also with regard to nonelectronic instruments, lots of people
+investigate new tunings by refretting guitars and other strings.  That
+works really well for a lot of people, and for certain styles of music.
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 4 May 1997 16:54 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04233; Sun, 4 May 1997 16:54:15 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04146
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id HAA23230; Sun, 4 May 1997 07:52:28 -0700
+Date: Sun, 4 May 1997 07:52:28 -0700
+Message-Id: <v01541106af920c880116@[207.207.3.174]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Tue, 16 Jul 1996 10:15:12 -0700
+
+Subject: RE: Scale database?
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+The scale database is either one of:
+
+http://www.cs.ruu.nl/pub/MIDI/DOC/scales.zip
+ftp://ftp.cs.ruu.nl/pub/MIDI/DOC/scales.zip  (binary)
+
+and the listing
+
+http://www.cs.ruu.nl/pub/MIDI/DOC/scales.doc
+ftp://ftp.cs.ruu.nl/pub/MIDI/DOC/scales.doc  (ASCII)
+
+If you are using MSDOS the filenames will be truncated to 8 characters,
+but can be renamed during unzipping.
+
+Under Windows 95 or NT the filenames retain their full length if the 
+proper unzip program is used, download:
+http://quest.jpl.nasa.gov/Info-ZIP/pub/WIN32/unz520xN.exe .
+
+On an Apple Macintosh they can also be unzipped, download:
+http://quest.jpl.nasa.gov/Info-ZIP/pub/MAC/unz512x.hqx .
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 16 Jul 1996 21:05 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA10617; Tue, 16 Jul 1996 12:05:49 -0700
+Date: Tue, 16 Jul 1996 12:05:49 -0700
+Message-Id: <Pine.SCO.3.91.960716120344.8263C-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

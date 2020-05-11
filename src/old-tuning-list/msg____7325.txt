@@ -1,0 +1,35 @@
+source file: m1369.txt
+Date: Mon, 30 Mar 1998 09:23:12 -0500
+
+Subject: Re: when truncated
+
+From: wauchope@AIC.NRL.Navy.Mil
+
+By "higher bits" I meant the higher precision (finer tuning) bits, so
+all but one of the remaining bits will always be correct after truncation.
+It's that highest bit that can be compromised if you don't round off,
+putting you one tuning step away from the closest possible value.
+
+For example tuning an 8/5 calls for a pitch bend of +561 (13.7c) which
+QT would truncate to +544 (32*17), giving you 13.28c.  If you rounded
+the bend up to +576 (32*18) yourself, you'd get 14.06c which is slightly
+closer to your goal.  So the worst that truncation can do to you is one
+tuning step, or 0.78c in QT.
+
+I don't bother rounding off bends in MIDI files since they're intended
+to be played on different machines with different PB precisions, but
+if you're targeting one particular synthesizer it might be useful.
+
+Ken Wauchope
+
+
+>>I'm not a MAX user, but assuming that xbendouts are the same as MIDI
+>>pitch bend messages (+-8192 = 14 bits), you can round off to the
+>>nearest multiple of 32 for best results since I imagine QT just
+>>truncates the higher bits.
+
+>You mean I have to recalculate by myself?
+>Or does QT automatically take me to the nearest value?
+>In other word ... does higher bit does the 'more' fine tunings?...I mean 
+>when 5 bits truncated ... the remaining 9 is not "not correct" but just 
+>robust?...hope so...

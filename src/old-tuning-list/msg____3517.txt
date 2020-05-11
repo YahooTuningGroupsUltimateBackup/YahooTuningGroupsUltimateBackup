@@ -1,0 +1,68 @@
+source file: mills2.txt
+Date: Tue, 3 Sep 1996 10:31:06 -0700
+
+Subject: Diary of a CDR novice
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+Ladies and Gentlemen-
+	I finally have my CDR up and running. I gave in and bought my own 
+unit from Media Source- a package from Smart & Friendly with a 2x Sony 
+drive Adaptec SCSI Lite card, and EZCDPro software. I installed the software 
+and it worked perfectly as soon as I rebooted. I proceeded to back up all my 
+floppy software and the contents of my hard drive. I checked the discs, 
+and they all read perfectly (I have used media by TDK, Verbatim and Sony 
+so far). The one spooky thing is that until you close the disk, you get 
+an "error reading disk" message several times before the disk will read. 
+This is because, until the disc is closed, the CD reader checks 
+each track separately and doesn't see the CD as being there until it 
+checks the last track (& other stuff about which I know not).
+	Then came the real test - recording music. I used my Windat 
+recorder to maked .wav files from some of my old cassettes (I even found 
+a usable recording of my high school band, and I'm 44 years old) and 
+created an archive the CDR. Success! All the files read properly. I 
+created several archives with no problems, and chose the ones I wanted to 
+place on an audio CD. These cuts I placed in a directory on my hard 
+drive. I then fired up EZCDPro and dragged and dropped the .wav file 
+icons into the window. I pressed record, and the machine whirred and 
+clicked away for about an hour(half an hour to do a test record, and half 
+an hour to record at double speed). I now have a perfectly functioning 
+and worthless CD chronicalling my musical development. Who wants to 
+hear my high school band back to back with noise music? 
+	I have since made a couple of collections of favorite cuts for my 
+wife and have experienced no problems. I am currently preparing the .wav 
+files from last year's Microstock festival, and should have CDs ready in 
+a couple of weeks.
+
+	As to Brian M's concerns with the state of the art, I am in no 
+position to rebut his quoted experts as my personal sample size is too 
+small, but I believe he is being overly pessimistic. I can quote other 
+experts (no less expert than his) who will give a higher success rate for 
+CDR audio recordings. (If you want the quotes and sources, ask me and 
+I'll be glad to post them). 
+	Although CDR technology is not perfect (which one is?) it is 
+constantly being improved, and who cares if you burn a bad CD? Drop the 
+$7.00 and burn another one!! The point I am trying to make is that I can 
+now make my own CDs for an investment of $617.00 and $7.00 per disk. When 
+I send my music to a radio station they can play it on the air with no 
+hassle. When I give a CD to a friend, it won't jam in the cassette player 
+and wrap arount the spindle.
+	Check out my web site at http://www-math.cudenver.edu/~jstarret/ 
+for .wav file excerpts from Microstock 1. They will be posted sometime 
+this week, and will have been recorded on an old scratched Sony CDR disc 
+before transfer to the web files.  
+
+John Starrett
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 3 Sep 1996 19:40 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17249; Tue, 3 Sep 1996 19:41:21 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA17225
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA27742; Tue, 3 Sep 1996 10:41:19 -0700
+Date: Tue, 3 Sep 1996 10:41:19 -0700
+Message-Id: <v01510102ae5219d80be5@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

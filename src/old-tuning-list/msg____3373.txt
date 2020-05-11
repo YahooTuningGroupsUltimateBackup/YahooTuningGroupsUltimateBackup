@@ -1,0 +1,82 @@
+source file: mills2.txt
+Date: Wed, 7 Aug 1996 21:44:17 -0700
+
+Subject: Re: Newbie
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Here are my answers to Scott Perman's questions.  
+
+   Your XP-50 appears to retune by what would generally be described as setting
+a number of "cents" between adjacent keys.  A cent is 1/100 of the traditional
+half step, so indeed 200 cents/step would give you a wholetone scale, 50 would
+give you a quartone scale, and so forth.  
+
+   The formula for how to set your XP-50 for a "N"TET ("N" Tone-per-octave
+Equal-Temperament) scale is 1200/N.  That comes from the fact that, since there
+are 100 cents per half step, and 12 half-steps per octave, you get 1200 cents
+per octave.  So if you want to split that octave up into 17 equal parts instead
+of 12, you'll get 1200/17 = 70.6 (approx).  
+
+   That much you appear to have figured out.  What you appear to be looking for
+- how far off the resultant octaves will be - is pretty easy to figure out by
+reversing that formula.  If you do 17TET for example as 70-cent steps, your
+octave will have a size of 70 cents/step times 17 steps per near-octave, which
+works out to 1190 cents per near-octave.  That then puts your near-octave 10
+cents flat of the precise 1200-cent octave.  That's not great.  
+
+   As for microtonal equal-temperaments to try, you correctly identified
+several:  17TET, 24TET, and 31TET.  Most microtonal equal-temperament folks
+agree though that the easiest equal-temperament to break into from our common
+12TET heritage is 19TET.  As luck would have it, tuning 19TET as 63 cents per
+step will give you a 1197-cent near-octave, which you'll probably close enough.
+You can play a fairly traditional-sounding major scale in 19TET by making each
+whole step span 3 19TET steps, and a half-step span 2 19TET steps.  
+
+   Others you can try that are known to sound interesting 9TET (133 cents per
+step), 7TET (171c), 22TET (54c, which unfortunately will give you a dreadfully
+false octave), 34TET (35c), and 41 (29c, also a mediocre off octave).
+(Curiously, 9TET and 7TET will give you that exact same 1197-cent near-octave
+you'll get with a 63-cent approximation of 19TET.)
+
+   Or if you want to try out the really strange stuff, you can try some of Wendy
+Carlos' nonoctave tunings, notably "Alpha" at 78 cents per step, and "Beta" at
+64 cents per step.  My current fascination is a nonoctave tuning of 88 cents per
+step, which is the "88CET" tuning I keep droning on and on endlessly about.  I
+don't recommend 88CET for beginners though;  I suspect you'll find it a very
+difficult tuning to make sense of.  
+
+   As for recordings to get a hold of, I definitely recommend three among many
+others:
+* Easley Blackwood's CD of 19 Etudes in equal-temperaments 13-24.
+* If you're into popular genres, Neil Haverstick's album (cassette only left) 
+  of roughly 2/3 19TET, mostly R&B guitar.
+* If you're into ambientish music, Ivor Darreg's CD has a good survey of various
+  equal-temperaments.  
+
+   And finally, as for microtonal guitar work, it turns out that the guitar is
+an excellent instrument for exploring unusual tunings.  Not only is it a
+versatile instrument as a whole, with a (frequently anyway) easy-going aura, but
+your basic playing technique alters FAR less than keyboards when you switch from
+one tuning to the next.  Although Neil Haverstick is one of the most virtuosic -
+possibly THE most - microtonal guitarists out there (Jon Catler is certain
+exceptionally good as well), many others use guitars as well.  Ivor Darreg had
+guitars fretted to ever equal-temperament from 10 to 24 if I recall correctly.
+I've used them as well, and Tom Stone even ran a (barely) for-profit company
+that produced interchangeable-fingerboard guitars for many hears.  Unfortunately
+they are defunct now, but ... aaargh I can't remember his name ... kinda-sorta
+took it over.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 8 Aug 1996 08:03 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17240; Thu, 8 Aug 1996 08:02:26 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA17407
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id XAA28078; Wed, 7 Aug 1996 23:03:13 -0700
+Date: Wed, 7 Aug 1996 23:03:13 -0700
+Message-Id: <199608080600.AAA03838@freenet.uchsc.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

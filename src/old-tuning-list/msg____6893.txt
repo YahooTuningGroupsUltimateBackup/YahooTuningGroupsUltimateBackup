@@ -1,0 +1,112 @@
+source file: mills3.txt
+Date: Wed, 31 Dec 1997 22:33:09 +0100
+
+Subject: Stretching, beating, dissonance, and perfect JI
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+}Also, regarding Gregg Gibson's assertion that the octave should be
+stretched
+}a few cents, wouldn't this be a problem for guitar players (and steel
+}guitarists) who are accustomed to sounding harmonics to get an octave
+above
+}the note they are fingering (or barring)?
+
+Guitarists commonly sound the 5th harmonic, even though it is 13.7 cents
+off 12TET. The 2nd harmonic being 2.7 cents off will not be a problem.
+
+}I also suspect that there would
+}be a lot of beats happening around double- and triple-octave pairs.  If
+the
+}bass player plays an A, and my A three octaves higher adds 10 cents to
+the
+}equation, I wouldn't expect it to sound good.
+
+An 8:1 off by 10 cents would be no worse than a 5:1 off by 14 cents, and
+we accept the latter. Certainly a 7:1 off by 31 cents is much worse, and
+yet the harmonic seventh has been used as a consonance even in 12TET.
+Gamelan orchestras purposely detune octaves by far more than 2.7 cents;
+although their instruments have inharmonic partials, they can tune pure
+octaves using second-order beating and difference tones, and yet they
+choose highly distorted (usually stretched) octaves. They even tune
+their unisons so that they produce beating.
+
+Beating is not the same as dissonance. Beating occurs when two pure
+tones are so close in pitch that they are perceived as one tone of
+changing amplitude. Roughness, one contributor to dissonance, occurs
+when the two pure tones are partially resolved from one another but are
+less than the critical bandwidth apart. Beating may be incidental to
+roughness, but changes in amplitude are not what constitutes dissonance
+(or else we would consider a tremolo effect dissonant).
+
+For an interval in perfect just intontation, whatever phase difference
+was present at the beginning of the sound would persist for the duration
+of the sound. Let's say two instruments are producing tones, both of
+which have an equally loud partial at 1000Hz. For someone standing in a
+particular location with respect to the two instruments, there is some
+delay time between the beginning times of the two instruments for which
+the 1000Hz components will interefere constructively, resulting in four
+times the energy at that frequency than what one instrument alone would
+produce. For a delay time just 1/2000 of a second longer, you get
+destructive interference, or no energy at that frequency. Obviously no
+human instrumentalist can control their onset time to within 1/2000 of a
+second relative to the onset time of another instrument. So you end up
+with a random number between zero and four to describe the energy of the
+1000Hz component -- probably not the musical effect you were looking
+for. Even an individual performer playing both instruments can't do it
+-- try tuning two synth keys to the same note and notice how repeatedly
+playing both keys "simultaneously" leads to random fluctuations in the
+loudness.
+
+Now if the onset times are controlled really accurately by MIDI, and
+let's say a 90-degree phase shift is chosen so that the energy at 1000Hz
+is twice that from one instrument, then you're doing okay, right? But
+for someone standing in a different location in the room, though, the
+differece in the path lengths from the two instruments, and thus the
+phase, will be different. There are nodes of destructive interference
+and antinodes of constructive interference in the room no matter what
+the original phase shift was. So some members of the audience may be
+receiving no energy at 1000Hz, while others may be receiving four times
+what they would from one instrument. Again, probably not the effect you
+were looking for.
+
+If both instruments are electronic, and their signals are mixed into one
+speaker, there will be no spatial nodes or antinodes. So finally you can
+control the musical effect. But other than monophonic electronic
+MIDI-sequenced music, perfect JI can lead to big problems. In the real
+world, thankfully, acoustic instruments are slightly out-of-tune with
+each other, so that whatever the onset delay and whatever the position
+in the room, one gets a signal that frequencies common to both tones
+have an average energy twice that of one instrument. There will not be
+noticeable, let alone startling, differences in the musical effect
+depending on minute variations in the onset delay or position in the
+room.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Brian M. Ames" <bmames@apk.net>
+Subject:  Semiconductor analog to phonons
+PostedDate:  01-01-98 08:42:01
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-01-98 08:39:33-01-01-98 08:39:34,01-01-98 08:38:55-01-01-98 08:38:56
+DeliveredDate:  01-01-98 08:38:56
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125657F.002A1202; Thu, 1 Jan 1998 08:41:27 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17731; Thu, 1 Jan 1998 08:42:01 +0100
+Date: Thu, 1 Jan 1998 08:42:01 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18203
+Received: (qmail 2417 invoked from network); 31 Dec 1997 23:41:58 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 31 Dec 1997 23:41:58 -0800
+Message-Id: <199801010740.CAA01958@junior.apk.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

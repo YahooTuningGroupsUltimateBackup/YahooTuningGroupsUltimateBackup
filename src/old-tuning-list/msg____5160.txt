@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Thu, 20 Mar 1997 23:37:47 -0800
+
+Subject: Re: Tuning archives
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+Hi John,
+
+At 06:34 AM 3/20/97 -0800, you wrote (TUNING Digest 1020, Topic 6):
+>I have a program which is intended for inclusion in the Tuning program
+>archives.  Any suggestions as how I go about submitting it?
+
+One way you could make a program or any other file available would be:
+1) Put a reference to the file on your own home page (or another web page).
+2) Mention the web page address ("URL") in an email to the tuning list.
+
+This way, you can put some explanatory notes on the web page that refers to
+the file.  This is how MIDI files are commonly distributed.  You can see
+http://www.pacificnet.net/~nowitzky/justint as an example.
+
+I look forward to seeing whatever you're submitting!
+
+--Mark Nowitzky
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@pacificnet.net                      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 21 Mar 1997 09:22 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07620; Fri, 21 Mar 1997 09:22:01 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07616
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id AAA03198; Fri, 21 Mar 1997 00:20:35 -0800
+Date: Fri, 21 Mar 1997 00:20:35 -0800
+Message-Id: <199703210316_MC2-12E6-AB9F@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,285 @@
+source file: mills2.txt
+Date: Thu, 2 Nov 1995 08:38:00 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: The Gelfond-Schneider Theorem and
+ non-just non-equal-tempered scales
+---
+It occurs to me that n-j n-e-t scales undoubtedly
+seem more mysterious than either just or equal
+tempered tunings because the mathematical
+basis of n-j n-e-t scales is not as obvious.
+This post attempts to clarify that mathematical
+basis.
+First, a word about traditional tunings:
+If we describe the scale steps of any given
+tuning as a number between 0 and 1, the
+mathematical basis of just tunings is simple
+and straightforward:  k[n] = A/B  where both
+A and B are integers.  The only ambiguity here
+is the question of whether or not A and B are
+"small."  This is clearly a matter of personal
+taste.  John Chalmers and Your Humble E-Mail
+Correspondent consider many of Erv Wilson's
+CPS  tuning to be examples of just intonation, and
+thus made up of the ratio of "small" integers:
+however, many of those integers are not small
+in the usual sense defined by Partch, Doty,
+Johnston, et al.  For example, the [1,7, 19, 37]
+hexany consists of ratios of numbers to the
+generator 7*19*37 = 4921.  This number is
+"small" compared to a googol, or to the 
+number of atoms in the Local Cluster of
+galaxies: but it is large compared to, say,
+31 or 43.  Thus, some tuning theorists 
+would consider this Wilson CPS tuning *not*
+to be a just tuning, while others *would.*
+It is a matter of taste.
+For equal-tempered tunings, the scale-
+step is described with equal simplicity:
+k[n] = 2^[n/M]
+In this case every scale-step of every
+equal-tempered tuning is described by
+an irrational number.
+So far, so good.   Just tunings have scale
+steps described by ratios of integers: 
+equal-tempered tunings have scale steps
+described by irrational numbers. 
+An irrational number is a real solution of an
+algebraic equation.  An integer is the
+real solution of an ordinal arithmetic 
+equation.
+Thus tunings can be defined by the class
+of equations to which the ratios which define
+the scale-steps of the tuning form solutions.
+For example: 
+Algebraic equations involve a finite
+number of integers raised to integer
+powers:  say, X = A + By^2 + Cy^5.
+Ordinal arithmetic equations involve integers:
+X = A/C + D or X = A*B, etc.
+(You might have noticed that my definition
+of integers is circular.  This is because the
+question of what an integer is happens to
+be a very deep one.  It is indeed very,
+*very* difficult to define an integer in
+abstract terms without using an equation
+which involves integers.  If memory serves,
+the Bourbaki collective devoted an entire
+volume to the definition of an integer.)
+This gives us a handle on what is meant
+by a "non-just non-equal-tempered scale."
+Clearly, if the scale-steps of a just scale
+are *integers* and if the scale-steps of
+an equal-tempered scale are *irrationals,*
+then the scale-steps of a non-just non-
+equal-tempered scale must be given by
+transcendental numbers.
+What is a transcendental number?
+How is such a number defined?
+Is there a general mathematical procedure
+for obtaining transcendental numbers?
+This, as it happens, is also a deep question.
+In fact it is often *VERY* difficult to *prove*
+mathematically that a given number is
+transcendental.
+For instance, e^pi is known to be 
+transcendental--but pi^e has never
+been proven transcendental (though most
+mathematicians believe it to be).
+In fact the number pi itself was not
+proven transcendental until 1882. 
+(F. Lindemann, in the paper "Ueber die
+Zahl Pi," took that honor.)
+One of the perplexities which attend
+transcendental numbers is the fact
+that while there is a general criterion
+for determining whether a number is an
+integer (Does it satisfy an ordinal arithmetic
+equation?) and for determining whether
+a number is irrational (Does it *NOT*
+satisfy an ordinary arithmetic equation and is it 
+a real root ofan algebraic equation?) there 
+appears to be NO general criterion for 
+determining whether a number is 
+transcendental.
+Consequently, many different (non-obvious,
+counterintuitive) equations generate
+transcendental numbers.
+For example, the number i^i is 
+transcendental--in fact it is equal to
+e^[-pi/2] = 0.2078795.   ("i" here refers 
+to the square root of -1.)
+This sounds absolutely insane, but it
+happens to be true...and provable!
+Like quantum mechanics, many of
+the results of mathematics follow
+the rule: "If it makes intuitive sense
+to you, then you don't really understand it."
+The real part of log(i) is also
+transcendental: log(i) = i*pi/2.
+Thus, while there's no general
+formula or method for generating
+transcenedental numbers, quite a
+few transcendental numbers have
+been discovered over the last few
+milennia...mainly by chance.
+Here are few:
+Liouville numbers have been
+proven transcendental. They were
+discovered in 1851 (much later
+than pi or e) and are given by the
+formula: Sum from k = 1 to
+infinity over a[k]*r^[-k!] where
+"!" means "factorial" and a[k]
+is an integer twixt 0 and r.   
+There are infinitely many
+Liouville numbers.  For instance,
+if all a[k] = 1 and base r = 10,
+we get 1/10 + 1/(10^[1*2]) +
+1/(10^[1*2*3]) + ...  =
+0.1100010000000000000000001000...
+Depending on how the a[k] are
+chosen, many different Liouville
+numbers arise. One might pick the
+a[k] as the fractional part of the 
+decimal expansion of e, or pi, 
+or of an irrational number such
+as 2^[1/3], etc. 
+Euler's constant gamma is transcendental.
+It's given by the limit for n = - infinity
+of the series 1 + 1/2 + 1/3 + 1/4 + ...+ 
+1/n - ln(n)
+Gamma = 0.577215...
+Catlan's constant is another lesser-known
+number. It has not yet been proven 
+transcendental, but mathematicians
+widely believe it to be. It's given by
+the formula G = sum of (-1)^k/(2k+ 1)^2
+= 1 - 1/9 + 1/25 - 1/49...
+Chapernowne's number is also generally
+believed transcendental.  It is constructed
+by concatenating the digits of the
+positive integers: C = 
+0.1234567891011121314151617181920...
+As mentioned in my series of posts on
+generating non-just non-equal-tempered
+scales last year, the zeta function also yields
+transcendental numbers.  However, my
+post did not specify that the zeta function
+must be evaluated at rational points: zeta(K)
+can be either real or imaginary, since K can
+be either real or imaginary.  For K not equal
+to a real integer, zeta(K) is in general not
+transcendental.  However this still leaves us
+with zeta(2), zeta(3), zeta(5), etc., all
+trascendental.
+Of particular interest in the construction
+of non-just non-equal-tempered scales is
+the Gelfond-Schneider theorem.  According
+to this theorem, any number of the form a^b is 
+trascendental where a and b are algebraic (a
+<> 0, a <> 1) and b is not a rational number.
+This formula spews out an infinite number
+of transcendental numbers, since (for example)
+Hilbert's number, 2^[sqrt(2)] is clearly
+transcendental, ditto 2^[sqrt(5)], 3^[fifth root of 7],
+etc.
+Feigenbaum numbers are also transcendental.
+These numbers arise from chaos theory and
+are related to properties of dynamical systems
+which exhibit period-doubling and other chaotic
+behaviour.  The Feigenbaum number is
+4.66920160910299067185320382046620161725...
+Alas, equations involving transcendental numbers
+do not necessarily produce solutions which are
+transcendental.  e^[i*pi] = 1, an integer, while (e^[i*pi]) + 
+2*phi = sqrt(5), an irrational number.
+Clearly phi, the Golden Ratio, is not transcendental
+since it is the solution of an algebraic equation:
+phi = [sqrt(5) - 1]/2 = (5^[1/2] - 1)/2
+One of my own amateur mathematical discoveries
+(I've not seen it published elsewhere, at any rate)
+is an infinite number series given by the iterated absolute 
+log of K, where K is an integer.  I believe (but cannot
+prove) that the scale-steps given by the terms of
+this series form a non-just non-equal-tempered
+scale.
+This is a peculiar and interesting series of numbers
+since the terms oscillate between 0 and 1.  The first
+term is transcendental, but I have not been able to
+prove that the succeeding terms are (or are not)
+transcendental.
+For instance, the first 10 terms of the iterated 
+abs log of 2 are:
+i[1] = abs(log(2)) = 0.30103...
+i[2] = abs(log(i[1])) = 0.5213902...
+i[3] = abs(log(i[2])) = 0.2828372...
+i[4] = abs(log(i[3])) = 0.5484636...
+i[5] = abs(log(i[4])) = 0.2608521...
+i[6] = abs(log(i[5])) = 0.2338806...
+i[7] = abs(log(i[6])) = 0.6310057...
+i[8] = abs(log(i[7])) = 0.1999666...
+i[9] = abs(log(i[8])) = 0.6990424...
+i[10] = abs(log(i[9])) = 0.1554964...
+and so on.
+There does not appear to be an obvious
+pattern to the terms.
+If one were so inclined, one might call
+this the McLaren series: this is surely
+the first post on this tuning forum to
+feature an original mathematical
+discovery, albeit a trivial one.
+As can be seen, all of the above methods
+for generating transcendental numbers
+can produce an infinite variety of 'em.
+Depending on the pattern of generators
+(the numbers you plug into the various
+equations to produce transcendental
+numbers), you get an endless variety of
+non-just non-equal-tempered scales.
+The choice of whether to terminate the
+series with a 2/1 or not is a matter
+of taste.  (One might call it "terminating
+the series with extreme prejudice.")
+In that case, one obtains a non-just
+non-equal-tempered scale which repeats
+at the octave.  Choosing another termination
+integer (or irrational) would produce a
+non-just non-equal-tempered scale without
+octaves.
+As can readily be seen, these are the obverse
+of the equal tempered class of octave and
+non-octave scales.  My limited experiments
+with non-just non-equal-tempered octave
+and n-j n-e-t non-octave scales appear to
+show that there is a marked  difference in "sound"
+between the two classes of tunings.  As Gary
+Morrison so aptly put it, "non-octave scales
+sound like rich thick chocolate milk shakes."
+They are very exotic and harmonically rich,
+and seem to have a sonic colouration which
+lends an eldritch quality to the compositions
+one produces in such scales.  
+For n-j n-e-t non-octave scales, the same
+appears to be true, only more so.  They are
+among the most exotic and sonically luxuriant
+of all tunings in my experience, and an
+extraordinary realm for new music exploration.
+--mclaren
+ 
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 2 Nov 1995 18:40 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA29513; Thu, 2 Nov 1995 08:40:23 -0800
+Date: Thu, 2 Nov 1995 08:40:23 -0800
+Message-Id:  <9511020838.aa10245@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,87 @@
+source file: mills3.txt
+Date: Sun, 27 Jul 1997 11:40:01 +0200
+
+Subject: Blueprint for World Domination
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+What with all the theoretical stuff I've been putting up here
+lately, some of you may like to know what it's all working
+towards.  As well as dabbling with theory and composition,
+I'm working on various pieces of software that could be of use
+to the microtuning community . . .
+
+Firstly, I've got a Windows program that can relay notes from
+a keyboard to a synth module, adding pitch bends to produce
+the desired scale.  I've also got a program that can convert
+from my own 31tet files into standard MIDI files.  I plan to
+add a GUI to this, so that normal people can use it, and
+generalise it to work with any scales.  Plus I've got a MIDI
+to MIDI file convertor.  All these can/will work with the
+same tuning files.
+
+When I get around to writing the routines for editing tunings,
+they will be based on my matrix ideas.  Each note will be
+specified as a number of steps on the chosen basis -- which
+could be tones and semitones, ratio space axes, or an
+orthonormal basis defined on either.  This is the simplest
+way I can think of of getting just or tempered scales into the
+computer.  As much of the maths as possible will be hidden
+from the user.
+
+As there doesn't seem to be a standard way of notating note
+matrices, I'll use my own H notation.
+
+The editing program will be able to work out the note name
+from its definition.  This will be more useful if I can get
+it to work with a staff view, but that sounds difficult.
+I also plan to add functionality for real-time retuning.
+This means, firstly, that the computer will need to have a
+dissonance function to minimise.  Secondly, there will have
+to be a facility for retuning a scale.  A 2-D scale
+approximating a 4-D scale can be defined by 2 intervals and
+2 commas -- that is, intervals equal to a unison in this
+scale.  You can then define the scale in terms of these
+intervals, and allow the computer to add or subtract a specific
+number of commas to get the tuning right.  All this can be
+put in the tuning files.
+
+This general method includes meantone scales as a subset.  I'll
+add routines for generating these with minimum fuss.  Scales
+can also be defined in terms of millioctaves/c*nts/etc, with
+note names also specified in the tuning file, but these scales
+will not work with the automatic retuning functions.
+
+That's my plan, then.  I'm not making much progress at the
+moment, partly because I'm far more interested in the theory.
+I'll get back to it before long, though, and most of the stuff
+I'm thinking about will be shockingly relevant.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Denis.Atadan@mvs.udel.edu
+Subject:  More Tape Swap Stuff
+PostedDate:  27-07-97 20:55:29
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  27-07-97 20:55:28-27-07-97 20:55:29,27-07-97 20:54:30-27-07-97 20:54:30
+DeliveredDate:  27-07-97 20:54:30
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564E1.0067F2C1; Sun, 27 Jul 1997 20:55:23 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA20873; Sun, 27 Jul 1997 20:55:29 +0200
+Date: Sun, 27 Jul 1997 20:55:29 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA20866
+Received: (qmail 13553 invoked from network); 27 Jul 1997 18:55:13 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 27 Jul 1997 18:55:13 -0000
+Message-Id: <199707271853.OAA23194@copland.udel.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

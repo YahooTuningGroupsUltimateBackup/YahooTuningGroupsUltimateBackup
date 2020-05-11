@@ -1,0 +1,120 @@
+source file: mills3.txt
+Date: Fri, 14 Nov 1997 10:49:05 +0100
+
+Subject: Cheap Xen Keyboard (was Bucking the System]
+
+From: Steven  Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+
+[CCed to the list, as I think it may of some general interest]
+
+World Harmony Project Inc. writes:
+ > I must have missed the posts leading up to your announcement of creating a
+ > 22 tone MIDI keyboard.
+
+There really weren't any, only the "Bucking the System" post, and the
+brief errata.  It was, quite literally, a spur of the moment thing.
+
+ > I am very interested though. It sounds like a project
+ > I have thought of for just intonation, but not yet produced. Would you tell
+ > me about it, please?
+ >
+
+Gladly. :-)
+
+To get a mental picture of the key layout, see Paul Erlichs post in
+digest 1234. [Thank you Paul, for enduring the tedium of ASCII
+painting. :-)] This is essentially 'it', with the exception of a gapped
+tooth effect between every second set of concecutive white keys.
+
+Note that I intended this keyboard to fit Pauls theories of 22TET,
+which I've been exploring.  Other arrangements of the parts may well
+be possible, but I didn't try to work any out, as I got what I was
+after.
+
+Like Paul said, it doesn't help much in terms of stretching
+the fingers, but it does "break the thought mold", which was my
+primary goal.  Not being a keyboard player, I'm not used to finding
+arbitrary patterns on the digitals, and need all the help I can
+get to break the 7 of 12 mental conditioning.
+
+As to the details:
+
+I'm using a cheap chinese import "keyboard for computer music" MK4902.
+They are currently being sold as "Kay Sound" around here, but the
+box is brandless.
+
+Upon dismantling the beast(s), I found it to be constructed of three
+different configurations of all-white or all-black keys tied to a
+strip of plastic at the back, used for mounting.  All of the strips
+will have some obvious point at which the strip can be "snapped"
+apart.  I snappend 'em all, and it is also necessary to trim off
+the little alignment pins on the underside, since they won't be
+reassembled in the same order.
+
+The white subassemblies that would be the C and E keys aren't used at
+all.  The white keys are constucted from the remaining singletons,
+and other keys, and form subgroups of 3 white keys, with gaps for
+the black ones.  I've forgotten the exact nature of the pieces at
+the moment, but it'll be pretty obvious once you start playing with
+the parts.  The stacking order is important if you want the thing
+to fit together correctly.
+
+The black key pieces require some additional modification.  The two
+key subassemblies have to be trimmed on the right so that the mounting
+tab stops at the key boundary.  Then they will fit next to the three
+key asssemblies.
+
+The next step (which I haven't finished yet) involves the guide
+fingers and the lubricated pads which fit up into the plastic key, and
+which come in several sizes.  The first thing to do is snip apart the
+strip with scissors and rearrange them so that you have a continous
+strip with the fingers in the same order as they keys.  This is the
+easy part.
+
+The harder part is to trim the metal tabs on the base of the keyboard
+with tin snips so that all of the fingers fit correctly vertically.
+This is necessary as the tabs for the black keys are taller and will
+interfere with white key movement.  I don't yet know if the horizontal
+size will make a big difference, but I have a tube of silicone
+adhesive handy for just such emergencies.
+
+That pretty much covers it.  I've worked out the tuning table
+necessary, and only await the motivation to sit in front of the
+synth and "push and twirl" the front panel to load it up.
+
+I suppose that other "generic" keyboards are made in a similar manner,
+so this should be useful as a general guideline.  Ones made where
+there are seperate keys that pivot on a rod should be easy enough
+to do, though if there are weighting mechanisms under the keys, that
+may cause some complications.  Caveat tinkerer!
+
+Steve
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Re: Bucking the system
+PostedDate:  14-11-97 11:00:38
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  14-11-97 10:59:18-14-11-97 10:59:19,14-11-97 10:59:32-14-11-97 10:59:33
+DeliveredDate:  14-11-97 10:59:33
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125654F.0036DC60; Fri, 14 Nov 1997 10:59:13 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00562; Fri, 14 Nov 1997 11:00:38 +0100
+Date: Fri, 14 Nov 1997 11:00:38 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA00560
+Received: (qmail 11360 invoked from network); 14 Nov 1997 02:00:35 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Nov 1997 02:00:35 -0800
+Message-Id: <v01541102b0910d3411b7@[207.207.2.116]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

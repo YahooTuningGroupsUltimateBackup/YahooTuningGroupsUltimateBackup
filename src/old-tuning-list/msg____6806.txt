@@ -1,0 +1,106 @@
+source file: mills3.txt
+Date: Thu, 25 Dec 1997 14:29:03 +0100
+
+Subject: Re: More on Just Intonation 2
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Gregg Gibson wrote:
+
+> To pretend that a singer can
+> accurately produce an interval four or five perfect fifths above the
+> tonic is nonsense; this is a commatic disjunct dissonance, and not
+> accurately singable.
+
+There's an assumtion Gregg makes here that goes to the heart
+of his argument, and I hope I won't be accused of carping by
+pointing it out.  It is that temperament has something to do
+with singing.  Certainly, singers temper intervals.
+However, they do not require an explicit system to do so.
+
+Actually, four fifths octave reduce to two major tones.  I
+wouldn't be at all surprised if it were possible to sing them
+both accurately.  9/8 functions as a melodic consonance, but
+this is lost in 19 equal.  However, this is not worth arguing
+about.  More to the point, I would not expect the average singer
+to produce accurate intervals from an equal temperament.
+It is not unreasonable, however, to expect a guitarist to
+tune her five strings to five just fifths.  A temperament
+that takes this into account does have advantages.
+
+Now, to get to the heart of the matter.  What difference
+does it make to a singer if I play a chord sequence on my
+keyboard in schismic temperament, comma shifts and all?  I
+wouldn't expect any variable pitch instrument to follow
+instructions to more precision than 12 pitch classes.  If
+the harmony makes sense, it shouldn't be too difficult to
+sing in tune with it.  As the commas are well below the
+melodic limen, they shouldn't cause any confusion.
+
+> These matters are widely known ? they are also widely ignored or denied
+> or imperfectly known. The ignorant very typically imagine that We Clever
+> Moderns have invented a new music in which all the Stupid Old Ideas of
+> the dead past don't matter.
+
+Firstly, Gregg, there's a character there that comes out
+as a filled in rectangle on my screen.  Can you try keeping
+to strict ASCII?
+
+Secondly, I consider myself to be post-modern.
+
+Thirdly, the important point.  No musician before the 1950s
+had a digital computer.  Theorists before this date, therefore,
+did not need to consider the tuning of an instrument that can
+produce a very large number of notes to a high degree of
+precision, but that nevertheless requires each pitch to be
+specified numerically.  You can bet singers in the 16th century
+produced an enormous variety of intervals, but there was neither
+a reason to write them all down, nor the ability to do so.
+Despite all this, schismic temperament is at least implicit in
+medieval Islamic theory, which is where I got the idea from.
+So, there's nothing new there.
+
+It is in no way arrogant to say that I have an instrument of
+hitherto undreamt of resources.  I intend to use those resources
+to the utmost of my abilities, in order to make up for it's
+deficiencies relative to an acoustic instrument.  Part of that
+means explicitly specifying intervals of less than 50 cents.
+Also, using septimal harmony.
+
+The advantages of using meantone (or mesotonic -- a better
+word, but I'm not used to it) need not be stated, as anyone
+who subscribes to this mailing list must be aware of them.  I
+expect most people will tune fixed pitch instruments to such
+a temperament, if they wish to play harmonic music, and they
+will be missing very little.  That doesn't stop me using any
+tuning I feel like using.  I can't be held responsible for a
+whole culture.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Aline Surman <stick@dnvr.uswest.net>
+Subject:  misc
+PostedDate:  25-12-97 17:37:14
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  25-12-97 17:34:59-25-12-97 17:34:59,25-12-97 17:34:28-25-12-97 17:34:28
+DeliveredDate:  25-12-97 17:34:29
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256578.005B15EE; Thu, 25 Dec 1997 17:36:50 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA25559; Thu, 25 Dec 1997 17:37:14 +0100
+Date: Thu, 25 Dec 1997 17:37:14 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA25564
+Received: (qmail 22219 invoked from network); 25 Dec 1997 08:37:11 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 25 Dec 1997 08:37:11 -0800
+Message-Id: <34A29460.4E79@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

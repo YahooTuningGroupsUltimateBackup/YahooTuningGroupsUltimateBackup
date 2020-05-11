@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Sun, 29 Jun 1997 22:20:05 +0200
+
+Subject: Limits, Octave equivalence
+
+From: DFinnamore@aol.com
+
+Two things recently discussed on the list have taken me by surprise, and I'd
+like to see more general discussion of them (or perhaps someone could point
+me to an earlier thread or two?).
+
+First, it seems that some prefer odd-limits while others prefer only prime
+limits.  Is there some controversy here?  Both ideas strike me as equally
+valid and useful concepts- simply different.
+
+Second, some of us evidently don't believe that octave equivalence (2:1, give
+or take a few cents :-) should be taken for granted, but is a merely
+culturally-instilled idea.   Holy cow!  Have you never seen pictures of
+waveforms?  E.g., given two waves, one of which has a frequency at a
+power-of-two of the other, the lower one will cross the zero point (volage-
+or SPL-wise) only at points at which the higher one is crossing as well.
+ This is a unique property of frequencies related by powers-of-two; they
+have, then a special relationship of some kind, no?  The higher one is
+repeating at the same frequency as the lower one, as well as at its own
+nominal frequency.  They can, then, in a very real and physical sense, be
+considered to be the same note; i.e., the same "pitch" but in different
+registers.
+
+David J. Finnamore
+Just tune it!
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 30 Jun 1997 07:16 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30425; Mon, 30 Jun 1997 07:16:25 +0200
+Date: Mon, 30 Jun 1997 07:16:25 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA30514
+Received: (qmail 18125 invoked from network); 30 Jun 1997 04:49:10 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 Jun 1997 04:49:10 -0000
+Message-Id: <33B70320.620@erols.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

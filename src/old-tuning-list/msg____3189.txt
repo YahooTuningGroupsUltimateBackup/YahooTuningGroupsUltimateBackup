@@ -1,0 +1,47 @@
+source file: mills2.txt
+Date: Wed, 10 Jul 1996 09:05:20 -0700
+
+Subject: Darreg Disc Error: track 3 mislabelled
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Gary M. wrote:
+>But anyway, I just listened to the track Paul mentioned, and I think he's
+>right!  I suspect that it's 19TET though.  The final chord pretty much 
+seems
+>to
+>rule out 17.  But I think I'll have to ... "tenuously" I'll say ... 
+disagree
+>with his assessment of the opening minor third.  I definitely know what he
+>means
+>by it sounding a little "off", but I suspect that that's an aberation of 
+the
+>carbon-arc-lamp brightness timbre of that particular Korg patch.  I suspect 
+
+>that
+>it's 19 because, unless I've gone deaf, I don't hear a shred of beating in 
+it.
+>And with that much high-harmonic content I would expect it to sound like
+>phase-shift city if it were off by any appreciable amount from just.
+
+Not only does that minor third sound wide from just, but it also beats just 
+under 3 times per second. Gary, maybe you should listen to it on a different 
+stereo system, this beating is not hard to hear. The lower note of the minor 
+third is about a middle d#, and a little calculation shows that the beat 
+frequency for a 22-tet minor third in this register is 2.5 Hz. Considering 
+that this was a Korg, the disrepancy is forgivable -- when the minor third 
+moves down a semitone, the beat frequency falls to just over 2 Hz. Another 
+clue that the piece is in 22 is the melodic division of the major third into 
+two almost-but-not-quite-equal parts, which is impossible in 19.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 10 Jul 1996 23:05 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA04641; Wed, 10 Jul 1996 14:05:54 -0700
+Date: Wed, 10 Jul 1996 14:05:54 -0700
+Message-Id: <Pine.SCO.3.91.960710140237.20783A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Thu, 2 Jan 1997 11:20:33 -0800
+
+Subject: RE: Indian music
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Kami wrote,
+>My question is : When playing a note in a given raga, which note, of the
+>two shrutis separated by a comma, is the "right" one? There are many
+>raga listings, but they dont seem to take this subtlety into
+>consideration.
+
+A good reference for ancient shruti and raga stuff is
+
+Rowell, Lewis. 1992. Music and Musical Thought in Early India. University of 
+Chicago Press.
+
+The modes and alterations thereof described here lead to various scales with 
+steps of 4, 3, and 2 shruti. The "just" interpretation of the shruti scale 
+makes these intervals unequivocally 9/8, 10/9, and 16/15, respectively. The 
+22 shruti have often been interpreted as 22-tet. Using 12-tet works better 
+than 22-tet for these modes, though, since the difference between the 4- and 
+3- shruti steps is large enough to disturb the melodic beauty of the scales 
+in 22-tet (as Rowell points out). However, interpolating chromatic notes 
+into these modes so that the three 4-shruti intervals become 2+2 in 22-tet 
+leads to melodically satisfying 10-note scales that can form the basis for 
+7-limit harmony and tonality. (See my upcoming paper in Xenharmonikon 17). 
+Two of these three interpolations indeed correspond to the two recognized 
+altered notes of ancient Indian music theory.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 2 Jan 1997 22:29 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00871; Thu, 2 Jan 1997 22:32:11 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00869
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA11996; Thu, 2 Jan 1997 13:32:08 -0800
+Date: Thu, 2 Jan 1997 13:32:08 -0800
+Message-Id: <199701022229.WAA32033@teaser.teaser.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

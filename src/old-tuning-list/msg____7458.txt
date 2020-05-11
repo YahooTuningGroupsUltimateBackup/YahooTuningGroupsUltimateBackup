@@ -1,0 +1,30 @@
+source file: m1385.txt
+Date: Tue, 14 Apr 1998 20:15:47 -0500 (CDT)
+
+Subject: Re: tuning tables
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Jeff Lofflink wrote:
+>Ensoniq pitch tables. As far as I know, though, you cannot update
+>them except by sending a whole pitch table, that is, you cnnot retune
+>"one note" at a time.
+
+   I don't claim to have used much SysEx stuff to my Ensoniq gear, but I
+seem to recall that it implements a "virtual keypad" interface, meaning
+that SysEx messages simulate fingers hitting keys of the keypad.  If so,
+then in concept I would think that you could retune some note by virtual
+keystrokes, then extrapolate (duplicate in all octaves, or whatever
+interval) it.
+
+
+
+
+
+>Since most of my pieces are in non-12 based tunings, I have found
+>the Korg and Roland synths almost useless. The Yamaha's (like the
+>TX81Z), the Emu's (like the Proteus modules) and the Ensoniq
+>samplers are all roughly equally capable.
+
+   So then they to have completely arbitrary pitch tables (any key may be
+assigned any pitch without regard to how any other is assigned)?

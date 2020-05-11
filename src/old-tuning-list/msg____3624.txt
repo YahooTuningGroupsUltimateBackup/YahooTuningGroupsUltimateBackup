@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Wed, 18 Sep 1996 09:02:02 -0700
+
+Subject: Re: JI Calc
+
+From: alves@osiris.ac.hmc.edu (Bill Alves)
+
+>Is anyone here in charge of JI Calc?  I have grown attatched to it, and
+>have just upgraded my computer to a Power Mac, only to find that JI Calc
+>doesn't work!  Will there be a Powermac version available soon?
+
+Adam -
+
+The problem is the same with the JI Ear Trainer. Both rely on an external
+command written by K. Romana Machado (http://www.fqa.com/romana/) that
+effected polyphonic microtones by bypassing the Mac Sound Manager.
+Unfortunately, when the hardware changed on the PowerMac, it no longer
+worked. Robert Rich tells me Romana has no plans to write new code for the
+PowerMac. If someone out there would like to take the time to write such
+code, it would be a simple matter to drop it into JICalc and the JI Ear
+Trainer. Any takers?
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)621-8360 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Sep 1996 00:35 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28736; Thu, 19 Sep 1996 00:37:43 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA27555
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA29145; Wed, 18 Sep 1996 15:37:36 -0700
+Date: Wed, 18 Sep 1996 15:37:36 -0700
+Message-Id: <199609182236.PAA22296@ella.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

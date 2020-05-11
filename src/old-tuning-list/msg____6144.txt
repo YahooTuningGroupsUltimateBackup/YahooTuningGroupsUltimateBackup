@@ -1,0 +1,68 @@
+source file: mills3.txt
+Date: Wed, 24 Sep 1997 17:43:49 +0200
+
+Subject: RE: pop in microtones
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Distortion creates a massive spectrum of combination tones, which will
+converge to minimum density when they form a harmonic series, which
+happens if the notes being played have a small integer frequency ratio.
+Open fifths and fourths and even major ninths are common in distorted
+guitar music since their 12-tet approximations are close to just. 12-tet
+thirds sound quite ugly through distortion and so require careful
+bending (in the absence of crazy Jon Catler JI fingerboards), a fact
+clearly understood (though perhaps not consciously) by good blues and
+rock musicians, including David Gilmour. A typical move is to bend the
+lower note of a perfect fourth or major third up until the interval
+reaches a just minor third (usually functioning as the third and fifth
+of a major chord or the fifth and seventh of a minor seventh). When
+playing blues, I also like to bend a minor third below the root up to an
+8/7 below the root while holding the root (or major second!) on the next
+higher string. When the interval in exactly in JI, the root (several
+octaves lower) materializes out of the noise of the distortion.
+
+All distorted chords sound better on my 22-tet guitar than my 12-tet
+guitar, except for open fifths, especially when stacked to form major
+ninths. Distorted dominant seventh and ninth chords on the 22-tet guitar
+remind me of Jon Catler and not of anything else I've ever heard (Neil
+Haverstick tends to use the diatonic rather than harmonic seventh on his
+19-tet guitar), aural proof that 22-tet is a very significantly better
+approximation of 7-or 9-limit JI than 12-tet.
+
+However, if we're talking melody rather than harmony, blues scales seem
+to sound best to me in 7-tet (playing blues on an Ensoniq harmonica
+patch in 7-tet, no one thought it sounded out-of-tune, just bluesy).
+
+Can anyone give me any advice towards formulating 22-tet fingerings for
+flute? I don't play flute myself, and none of my flute-playing friends
+have any microtonal experience.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gregs@mail.usyd.edu.au
+Subject:  Writing Csound from Scala1.3
+PostedDate:  24-09-97 17:45:58
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  24-09-97 17:45:38-24-09-97 17:45:39,24-09-97 17:44:44-24-09-97 17:44:44
+DeliveredDate:  24-09-97 17:44:44
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C125651C.0056920F; Wed, 24 Sep 1997 17:45:34 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28878; Wed, 24 Sep 1997 17:45:58 +0200
+Date: Wed, 24 Sep 1997 17:45:58 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA28871
+Received: (qmail 7857 invoked from network); 24 Sep 1997 15:45:15 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 24 Sep 1997 15:45:15 -0000
+Message-Id: <Pine.GSO.3.93.970918182832.4157A-100000@extro.ucc.su.OZ.AU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

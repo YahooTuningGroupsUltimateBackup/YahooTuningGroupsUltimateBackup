@@ -1,0 +1,89 @@
+source file: mills2.txt
+Date: Wed, 19 Feb 1997 01:13:21 -0800
+
+Subject: Re: Replies - "ghosttones"
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Charles Lucy wrote:
+
+> Please can we get some definitions of these terms for me,
+> and also for others who might like to use them with minimal
+> ambiguity.
+
+timbre tone quality, the way a note sounds (as determined by its partials) 
+simple tone sine wave, also called pure tone, (a timbre with one partial)
+complex tone a timbre with multiple partials
+partials the simple-tone or sine-wave components of a timbre
+harmonic partials partials whose frequencies relate in whole numbers
+inharmonic partials partials whose frequencies do not relate in
+                      whole numbers 
+flageolet tone a sound you get when you lightly touch a string
+                 while exciting it
+ghosttones (same as flageolet tone)
+
+> >You're saying that the various tones you get by
+> >lightly touching an open string in various places
+> >form a continuous series separated by intervals of
+> >fourths and fifths. 
+>
+> >Please write out this series of fourths and fifths
+>
+> It is easiest to do this by posting the guitar fretting
+> positions as a start.
+
+Fretting positions say nothing about ghosttones. A 
+fretted string is effectively an open string with shorter 
+length. One can place frets at arbitrary positions and 
+produce equally strong sounds. Please explain the 
+sequence of ghosttones which occur in a series of fourths 
+and fifths.
+
+> "Ghosttones" can be found at frets close in the cycle 
+> of fourths and fifths.
+> i.e. Through fifths   E, B, F#, C#, G#, etc.
+>      Through fourths  D, G, C, F, Bb, Eb etc.
+
+What are the frequencies of these ghosttones (rather
+than the frequencies of the fretted tones at the same 
+locations (which is what your charts show))?
+
+When you say "at fret...B" do you mean only a single
+fret or all the frets which produce B's? 
+
+> The volume is lower the further you move away from A.
+
+I'm plucking my violin as I write this. I notice that 
+the strongest ghosttone is the one I get when I touch
+the string near the middle. Does your sequence include
+this ghosttone?
+
+Are you saying that there are no ghosttones at places
+other than these fret positions?
+
+Are you sure that the volumes of the ghosttones in your
+series are in the same order as the series (in other
+words that no ghosttone is louder than one earlier 
+in the series)?
+
+Are you saying that the volume of a ghosttone some
+number of fretted-fifths along the series is as 
+loud as the volume of a ghosttone the same number 
+of fretted-fourths along the series (for instance 
+ghosttone at fret for C# as loud as ghosttone at 
+fret for F)?
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 19 Feb 1997 12:14 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11371; Wed, 19 Feb 1997 12:14:34 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA11366
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id DAA10386; Wed, 19 Feb 1997 03:11:42 -0800
+Date: Wed, 19 Feb 1997 03:11:42 -0800
+Message-Id: <330ADDFE.11F5@ix.netcom.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

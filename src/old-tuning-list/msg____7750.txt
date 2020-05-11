@@ -1,0 +1,101 @@
+source file: m1412.txt
+Date: Mon, 11 May 1998 17:32:58 -0400
+
+Subject: RE: More on instrument aperiodicity
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>> Hence the amplitude of
+>> the partials can vary, sometimes wildly, rendering the waveform
+>> aperiodic. However, for the time domains relevant for the ear's
+>> analysis, this does not lead to any relevant alterations in the
+>> frequencies of the partials.
+
+>So, you're presumably still with exact integer ratios.  Maybe, though,
+>you mean that pitch fluctuations place a lower limit on the pitch
+>precision that is meaningful, and that inharmonicity is below this
+>threshold.  It isn't clear.
+
+Put it this way: although analysis of a signal into frequency components
+with constant amplitude has a unique solution, analysis of a signal into
+frequency components with varying amplitude doesn't. In the typical case
+the variations in amplitude will be slow enough so that any inharmonic
+frequencies that might come up in the latter, non-unique mode of
+analysis would be too close together to be resolved by the ear. What I'm
+suggesting is that the ear in fact does the latter and hears a harmonic
+series with changing amplitudes, rather than inharmonicity.
+
+>If you're now saying that inharmonicities of a fraction of a cent are
+>not physically impossible, I'm happy to concur with that.  My guess
+>would be less than 0.1 cents, although I have no proof of that, and
+>would like some.  Hopefully, we can stop theorising and wait for some
+>more data.
+
+Again, with the amplitude fluctuations, you can't pin the frequencies
+down in a well-defined way. However, I'm saying that for wind, brass,
+and bowed string instruments, it would be consistent to assume that you
+have exact integer overtones with a particular amplitude spectrum for
+each one (plus noise). Such an assumption would not differ from the
+ear's own interpretation in any meaningful way.
+
+>>>Any noise in the input will cause peaks at the resonant modes.
+
+>> They are not really "peaks" so much as "hills" since there are no
+>> constructively interfering standing waves to sharpen them. While the
+>> noise energy will be spread throughout the spectrum, the energy from
+the
+>> driver (reed, lips, bow) will manifest in Dirac-delta-function-like
+>> peaks at harmonic overtones in the spectrum.
+
+>Why couldn't they be reinforced by standing waves?
+
+The driving force has to be in phase with the reflected wave for a
+resonant standing pattern to develop. In noise, there is no phase
+regularity whatsoever.
+
+>If the noise
+>provides a constant impulse at all frequencies, that should lead to
+>peaks at the resonances
+
+Hills, yes.
+
+>like with a flute, maybe still corrected by an
+>order of magnitude towards harmonicity.
+
+No, not like a flute. A flute tone is not just selectively amplified
+noise. The turbulent airflow that is responsible for the driving force
+of a flute is not fully understood, but is definitely more regular than
+just noise.
+
+>Whether this means two peaks
+>occur close together, or the original peak is shifted slightly, I don't
+>know.
+
+In the ideal of an infinitely long sampling time, the original peaks are
+Dirac delta functions, while the hills of noise remain hills, so the
+former are not shifted at all.
+
+>I'm not deliberately causing trouble here, only I usually agree with you
+>and it distresses me when I don't.  Hopefully, this was just a problem
+>of expression, and we can put it all behind us, marching defiantly
+>towards a better future.
+
+Yes!
+
+>> Listen, Gary and I have been defining systematic inharmonicity as
+cases
+>> where, after the noise is removed, the partials deviate from a
+harmonic
+>> series. Since noise doesn't exhibit interference effects, the only
+>> inharmonicity relevant to JI is systematic inharmonicity.
+
+>I can't find this definition anywhere.  I was assuming "systematic"
+>meant the deviation from integers had to be constant from one cycle to
+>the next.
+
+Well, we both mentioned noise as an extraneous factor at various points
+in the discussion. So the definition was implicit.
+
+>The inharmonicity in the resonances is caused by the holes being there
+
+As well as end effects even when all the holes are closed.

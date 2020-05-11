@@ -1,0 +1,74 @@
+source file: mills2.txt
+Date: Wed, 20 Dec 1995 18:13:43 -0800
+
+Subject: Re: TUNING digest 590
+
+From: Jeff Welty <jwelty@wdni.com>
+
+> Sure. Maybe you can tell us how your program works, what is the
+> expression you are optimising. Is it linear or nonlinear?
+> What are the 12 note weights you mentioned?
+> 
+> Manuel Op de Coul    coul@ezh.nl
+
+The objective function I minimize the sum of squared errors of
+actual interval values minus desired interval values.
+
+	errsum = 0 ;
+	for n = 0 to 11 {
+	    v1 = note_cents[n] ;
+	    w1 = note_weight[n] ;
+	    for i = 0 to 6 {
+		int n2 = n+i+1 ;
+		if (n2 < 12) {
+		    v2 = note_cents[n2] ;
+		    w2 = note_weight[n2] ;
+		} else {
+		    v2 = note_cents[n2-12]+1200. ;
+		    w2 = note_weight[n2-12] ;
+		}
+		err = interval_weight[i]*w1*w2*((v2-v1) - desired_interval[i]) ;
+		errsum = errsum + err*err ;
+	    }
+	}
+
+
+The "parameters" to be fit for this function are in the note_cents array
+which contains the cents values for the 12 notes in the scale (i.e. 0,100,
+200,...,1100) for equal spaced half steps.
+
+The optimization routine doesn't really know if the function is linear or
+nonlinear, and, frankly, I don't either (haven't had time to think it
+through entirely.)  The optimization will converge, and seems to produce
+reasonable values.
+
+The weights are entirely arbitrary.  For example use a weight of 1 for all
+12 notes and 7 intervals and you'd get the equivalent of an unweighted fit.
+
+On the other hand you could give C,D,E,F,G,A and B weights of 100 and leave
+C#,D#,F#,G#,A# with weights of 1 and you'd get an optimized set of note values
+for the C tonic scale.
+
+Similarly you can weight the intervals so the fifths are nearly perfect, but
+the minor 3rds get pretty bad, or whatever.
+
+I gotta go do a christmas party (best excuse I've had all year to cut a
+mail message short).
+
+More on this later.  I'll attempt to get the code and sample data out to
+anyone who requests.
+
+Jeff
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 21 Dec 1995 11:31 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id CAA06564; Thu, 21 Dec 1995 02:31:24 -0800
+Date: Thu, 21 Dec 1995 02:31:24 -0800
+Message-Id: <199512211030.CAA06456@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

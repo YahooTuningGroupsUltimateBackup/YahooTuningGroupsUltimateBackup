@@ -1,0 +1,28 @@
+source file: m1400.txt
+Date: Wed, 29 Apr 1998 16:57:05 -0400
+
+Subject: RE: JI Tuning Resolution
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+I wrote,
+
+>Now if the onset times are controlled really accurately by MIDI, and
+>let's say a 90-degree phase shift is chosen so that the energy at 1000Hz
+>is twice that from one instrument, then you're doing okay, right?
+
+>If both instruments are electronic, and their signals are mixed into one
+>speaker, there will be no spatial nodes or antinodes.
+
+Note, however, that if the two tones have the same relative phases of
+their partials, then their 2000Hz harmonics will have a 180-degree phase
+shift and potentially cancel each other out. This is another probably
+undesirable musical effect. Add more tones to the chord and the
+potential for cancellations increases. Thus I must conclude that under
+no circumstances is exact JI desirable, unless all tones are played
+through one loudspeaker and one exerts full control of the phases of all
+partials of all tones so as to eliminate anomalous interference. (Tones
+sound quite similar, but not exactly the same, when the relative phases
+of the partials are messed with; the characteristic "brassiness" of
+brass instruments is due in some part to the sharp spikes in the
+waveform which Gary mentioned.)

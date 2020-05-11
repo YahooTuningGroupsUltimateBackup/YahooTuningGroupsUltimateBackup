@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Sat, 3 May 1997 04:33:39 -0700
+
+Subject: Rusty vs. Max
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Date: Wed, 30 Apr 1997 16:57:18 +0100
+>From: Michael.Saunders@astro.cf.ac.uk (Michael Saunders)
+>To: mr88cet@texas.net
+>Subject: Rusty vs. Max
+>X-Sun-Charset: US-ASCII
+>
+>
+>Gary,
+>
+>>Rusty sounds interesting.  How would you compare it to OpCode's Max?
+>
+>Well, the Grid graphical interface, which Rusty uses, is being developed
+>right now (Max is ~10 years old, I think) in Java.
+>1. It looks a lot nicer on the screen (and the upcoming version is especially
+>dazzling)
+>2. It runs on just about anything made today.
+>3. It's (I think) a lot more flexible, since you can write unit generators
+>yourself, popup control panels and all.
+>4. It can run across networks, since it's in Java.
+>5. Where Max supports (I think) just a few simple data types, like midi &c.,
+>Rusty unit generators can exchange many very complex musical objects---
+>in fact, most of my work is in writing a big, complicated oo library for
+>music and music theory.  but it's only complicated for me!---what users see
+>are just a lot of very natural classes with a lot of power behind them,
+>e.g., scales that know how to tune themselves.
+>you can check out Grid's homepage:
+>http://www.astro.cf.ac.uk/pub/Ian.taylor/Grid
+>which even includes a link to Rusty's homepage.  Ian, Grid's author,
+>could probably tell you more about the advantages Grid has over Max.
+>In fact, I think he might be working on some midi and synthesis unit
+>generators soon.
+>
+>thanks for your interest!
+>----------------------------------------------------------------michael
+>
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 3 May 1997 13:35 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12885; Sat, 3 May 1997 13:35:46 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03441
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id EAA24833; Sat, 3 May 1997 04:34:11 -0700
+Date: Sat, 3 May 1997 04:34:11 -0700
+Message-Id: <v01541106af908a1d67e8@[207.207.3.154]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

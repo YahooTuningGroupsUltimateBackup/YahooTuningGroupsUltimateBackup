@@ -1,0 +1,74 @@
+source file: mills3.txt
+Date: Sun, 7 Dec 1997 11:02:02 +0100
+
+Subject: Re: Problems in Notation
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Why not use a darker line (instead of the space) -- or colored one(s).
+
+   A darker line instead of a blank one sounds like an intriguing
+alternative.  My immediate guess would be that the missing line would stand
+out more, and would have a lower possibility of changing half-notes on the
+line into quarter notes!  But still that thought is well worth exploring.
+
+   Colored lines would almost certainly stand out better than missing or
+dark ones.  The drawbacks:  I would think would be that it's a bit more
+difficult to copy colored lines than purely black-and-white images, and
+that far more people are color-blind than most of us realize (luckily I'm
+not).
+
+
+
+
+>It should be easier to train the brain
+>to follow the position of the ref line than to find a pitch on an extended
+>staff. ...
+
+   Without a doubt you're right there.  Making one staff line distinctive
+in some way (e.g., colored or missing) makes the clef you're in a lot
+easier to remember than having to look back to the beginning of the line.
+It's kind of like painting the clef throughout the entire staff line!
+
+
+   Along similar lines to both of these, I have often wished for a computer
+sequencer that allows me to view and print instrument transpositions by
+staff-line color.  For example, Bb instruments could be given ... brown say
+.. staff lines, Eb instruments, perhaps green, and so forth.  And on top
+of that, having the note-head colors suggest entire octave displacements.
+So, for example, a guitar (since it transposes down an octave) would have,
+say blue notes (octave down transposition) on a black staff (no sub-octave
+transposition).  Or a bass clarinet or tenor saxophone would have blue
+notes (octave down transposition) on brown staff lines (Bb transposition).
+That makes it a lot easier, as you're thumbing through an orchestra or band
+score, to quickly figure out what the concert pitches are among the sea of
+lines and notes.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Johnny Reinhard <reinhard@IDT.NET>
+Subject:  Re: Bach's Tuning
+PostedDate:  07-12-97 17:12:42
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  07-12-97 17:10:55-07-12-97 17:10:56,07-12-97 17:10:45-07-12-97 17:10:46
+DeliveredDate:  07-12-97 17:10:46
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256566.0058E06F; Sun, 7 Dec 1997 17:10:46 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08622; Sun, 7 Dec 1997 17:12:42 +0100
+Date: Sun, 7 Dec 1997 17:12:42 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08627
+Received: (qmail 5521 invoked from network); 7 Dec 1997 08:12:32 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 7 Dec 1997 08:12:32 -0800
+Message-Id: <Pine.GSO.3.95.971207103356.11841A-100000@u1.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

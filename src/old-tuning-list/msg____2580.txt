@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Sun, 25 Feb 1996 19:31:07 -0800
+
+Subject: Error in Burt Scale
+
+From: non12@delta1.deltanet.com (John Chalmers)
+
+Everybody: I found an error in the A#/Bb entry which in my
+archive (JiCalc JCB, W. Burt's 13enhsub #2) is 13/11. It
+should be 52/33 (not 13/9 either). The correct JiCalc file
+is below and may read into the stack if made into a separate
+ascii file or the correction may be entered manually. Sorry
+about this, I'm not quite sure how it happened.
+ 
+--John
+ 
+JI Calc tuning file
+W. Burt's 13enhsub #2
+C,C#/Db,D,D#/Eb,E,F,F#/Gb,G,G#/Ab,A,A#/Bb,B,
+60 261.63
+R12
+1/1
+104/103
+52/51
+104/101
+26/25
+13/10
+104/79
+4/3
+104/77
+26/19
+52/33
+13/7
+2/1
+See Warren Burt's post 3/30/94 in Tuning Digest #57.
+#
+EOF
+ 
+-------------------------------------------------------------------
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 26 Feb 1996 21:48 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA17360; Mon, 26 Feb 1996 12:47:34 -0800
+Date: Mon, 26 Feb 1996 12:47:34 -0800
+Message-Id: <1.5.4b11.32.19960226203927.0067b700@login.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

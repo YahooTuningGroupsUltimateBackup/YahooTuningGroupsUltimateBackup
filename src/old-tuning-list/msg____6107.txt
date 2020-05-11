@@ -1,0 +1,83 @@
+source file: mills3.txt
+Date: Thu, 18 Sep 1997 02:43:07 +0200
+
+Subject: Iggy Pop and the One-Footed Bride
+
+From: "Jonathan M. Szanto" <jszanto@adnc.com>
+
+Yesterday, I mentioned:
+
+>I like what a lot of these people are doing (Neil, Catler and the lot), but
+>let's get a grip: we are talking one *veeerrrryyy* long evolutionary curve
+>here...
+
+And Gary Morrison asked:
+
+>   I thought I followed your train of thought until this sentence.  Perhaps
+>I'm just being dense!  Couldja elaborate a bit?
+
+
+First off, if Gary could follow my train of thought, he's doing better than
+me! What I meant was that any kind of 'sea change' that would lead to the
+widespread adoption of non-12tet in a large pop idiom would have to occur
+over a very long time, and could probably only occur with concurrent
+changes in culture, etc.
+
+The other point I wanted to make, but my train of thought left me at the
+station, was that we must be careful to not carry too much of a Western or
+Euro-centric view on all of this. While the bulk of the consumers may be in
+the developed 'Western' world, I have heard pop bands in Madagascar that
+have stretched things, mostly owing to offshoots of vocal music.
+Additionally, aren't there quite a few popular artists in the arabic world
+utilizing non-12tet instruments (along with obviously non12 vocals)? Not an
+area of expertise for me, but I was under that impression.
+
+Just seems to me we (those of us here) are in a pretty subtle niche. Now,
+back to my Spring 1997 issue of 1/1, which just (no pun intended) arrived
+today.
+
+Or was it arrived just today...
+
+Cheers,
+Jon
+
+BTW, I won't waste bandwidth here, but a dear musician friend sent me a
+hilarious posting on "How To Sing The Blues" -- if you want an email of it,
+let me know off-list.
+
+
+
+*------------------------------------------------------------------*
+ Jonathan M. Szanto  |  Nearly one year old, Partch's place online
+ Corporeal  Meadows  |  is really showing signs of urbane sprawl...
+  jszanto@adnc.com   |  http://www.adnc.com/web/jszanto/welcome.html
+*------------------------------------------------------------------*
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  nowitzky@pacificnet.net
+Subject:  Re: Writing Csound from Scala1.3
+PostedDate:  18-09-97 12:53:47
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-09-97 12:53:38-18-09-97 12:53:39,18-09-97 12:52:52-18-09-97 12:52:53
+DeliveredDate:  18-09-97 12:52:53
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256516.003BD4F3; Thu, 18 Sep 1997 12:53:31 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06224; Thu, 18 Sep 1997 12:53:47 +0200
+Date: Thu, 18 Sep 1997 12:53:47 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA06204
+Received: (qmail 9098 invoked from network); 18 Sep 1997 10:53:43 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 18 Sep 1997 10:53:43 -0000
+Message-Id: <2.2.16.19970918035038.0a074074@pacificnet.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,191 @@
+source file: m1421.txt
+Date: Tue, 19 May 1998 14:20:49 -0400
+
+Subject: more on Schoenberg and rational implications
+
+From: monz@juno.com (Joseph L Monzo)
+
+I was resisting saying any more today about this, but
+Patrick's response to Graham really got me going.
+(There will be a lot about Schoenberg in my forthcoming
+"JustMusic" book, but I've written so much on him
+specifically that there will ultimately be a another whole
+book: "Rational Implications in Schoenberg's Harmonic
+Theories").
+
+[Graham Breed:]
+>> ... I see no need to explain [Schoenberg's]
+>> general style as anything but an _avoidance_ of
+>> integer ratios.
+
+[Patrick Ozzard-Low:]
+> But a greater 'avoidance' (say, using 11- or 13-ET) would
+> never have provided Schoenberg with the language he
+> neeeded.  So it surely can't be as simple as that (?)    
+
+[Monzo:]
+Touché!  Great reply, Patrick!
+
+In fact, Schoenberg intended to represent loads and
+loads of ratios, and to explore the ambiguities between
+them which he felt he had available by making use of
+the approximations to ratios in the 12-eq scale.
+ 
+[Schoenberg, from "Problems of Harmony" [1934], in
+_Style and Idea_, p. 284:]
+> "...interrelationship of all tones exists...because of
+> their derivation from the first 13 overtones of the
+> three fundamental tones [1/1, 3/2, and 4/3]..."
+
+[Monzo:]
+Schoenberg had already illustrated a partially-chromatic
+scale which implied overtones thru the first 12 (i.e., an
+11-limit) back in 1911 in _Harmonielehre_.
+
+[Schoenberg,  _Theory of Harmony_ [1911], p. 21:]
+> "...the tempered system [meaning 12-eq], which is only
+> an expedient for overcoming the difficulties of the material,
+> has indeed only a limited similarity to nature.  This is perhaps
+> an advantage, but hardly a mark of superiority."
+
+[Monzo:]
+Throughout his _Harmonielehre_, Schoenberg postulates
+an extreme fluidity of proportional implication in the 12-eq
+scale, explaining all the traditional harmonic concepts in
+terms of 5-limit, then progressing to higher odds/ primes
+(but without further mathematical explanation) as his
+interpretations of harmonic practice became more
+adventurous in the chapters on "Non-Harmonic" Tones,
+the Whole-Tone Scale, Chords Constructed in 4ths, and
+finally Chords With Six or More Tones.
+
+By "difficulties of the material", Schoenberg was
+referring to the difficulty of accomodating the vastly
+expanded pitch resources offered by an 11- or
+13-limit to the practical concerns of scale size,
+hand/ finger size and other instrumental limitations,
+notation, etc.
+
+The 12-eq scale is the smallest ET which gives even
+an adequate approximation of 3-limit ratios, and  6-eq
+and 9-eq give the same deviation from 5-limit ratios
+as 12-eq, so 12-eq is the smallest ET that gives tolerably
+good approximations to the ratios which are implied
+in the (theoretically 5-limit) musical repertoire
+Schoenberg knew. 
+
+Without using any numbers (these are my interpretation),
+he stated in one of his articles that the music being
+composed by he and his pupils was intended to make
+use of the rational harmonic relations which were as yet
+unfamiliar to listeners, that is, ratios with prime factors
+higher than 5.  He said that those in his circle were
+focussing specifically on these new relations and
+avoiding the old ones:
+
+[Schoenberg,  "Twelve-Tone Composition" [1923], in
+_Style and Idea_, p. 207:]
+> "In twelve-tone composition consonances (major and
+> minor triads) and also the simpler dissonances (diminished
+> triads and seventh chords) -- in fact almost everything
+> that used to make up the ebb and flow of harmony --
+> are, as far as possible, avoided."
+
+[Monzo:]
+He then immediately defended this statement:
+
+[Schoenberg, same page:]
+> "...this is not becasue of any natural law of the new art.
+>  It is, presumably, just one manifestation of a reaction,
+> one that does not have its own special causes but derives
+> from another manifestation -- which it tries to contradict,
+> and whose laws are therefore the same, basically, as its
+> own."
+
+[Monzo:]
+I believe what Schoenberg meant here was that the
+higher-prime or higher-odd relationships follow the same
+compositional procedures as the lower numbers, but
+that _because they are different_, try to "contradict"
+the tonal implications of the lower primes/ odds.
+
+In other words, for example, the septimal "major 3rd"
+of 9/7 embodies vastly different _harmonic_  relationships
+than the 5-limit "major 3rd" of 5/4.
+
+He then explains this "manifestation of a reaction":
+
+[Schoenberg, same page:]
+> "...At the root of all this is the unconscious urge to
+> try out the new resources independently, to wrest
+> from them possibilities of constructing forms, to produce
+> with them alone all the effects of a clear style, of a
+> compact, lucid and comprehensive presentation of
+> the musical idea.  To use here the old resources in
+> the old sense saves trouble -- the trouble of cultivating
+> the new -- but also means passing up the chance of
+> enjoying whatever can *only* be attained by new
+> resources when the old ones are excluded!"
+
+[Monzo:]
+Taking this literally says to me that he  _should_  have
+been willing to consider other ETs which represent
+these higher-prime ratios better than 12-eq, even if
+their approximations of 3 and 5 aren't good.  11-eq
+gives a decent approximation of 7/4 and and a good
+one of 11/8, with nothing resembling a 3/2 or a 5/4.
+13-eq gives an even better approximation of 11/8,
+and one of 13/8 which is quite good, with an OK 5/4
+but lousy 3/2 and even worse 7/4.  So both of these
+small ETs (which Ozzard-Low probably picked pretty
+arbitrarily from the possibilities available) would have
+been a good choice for Schoenberg if his practice
+was true to the letter of his description.
+
+He went on to say that "a later time will perhaps"
+allow composers a harmonic language which would
+mix the old 3- and 5-limit relationships with the newer
+ones of 7, 9, and 11. (I'm not certain if Schoenberg had as
+yet included 13 in his rational implications -- there's no
+evidence of this until 1934).
+
+However, Schoenberg was a complicated man whose
+writings and compositions frequently embody paradoxes.
+He stipulated many times that he was "evolutionary,
+not revolutionary" -- in other words, that his musical
+advances were not a break with the past, but on the
+contrary, the logical outgrowth of what had come
+before (in the Austro-German tradition).  It's been pointed
+out by many writers that Schoenberg's actual music
+retained far more of Brahms's influence than that of
+his "more radical" pupil Webern (although I disagree with
+the assessment of Webern as such a radical).
+
+Schoenberg was clearly interested in expansion,
+not replacement.  This would seem to argue in favor
+of his retention of 12-eq, as he certainly did not want
+to eliminate completely the 3- and 5-limit rational implications
+which were so important to so-called "tonal" music, and
+which would have happened had he accepted 11- or
+13-eq.  A favorite quote from his old age is "there is still
+plenty of good music to be written in C major".
+
+Also worth examing is Schoenberg's self-appellation
+"pantonal", which he coined in angry opposition  to
+ the popularly-accepted epithet "atonal".  His
+argument was that since any sounds giving
+recognizable pitches exhibited numerical
+relationships, some kind of tonality (defined as a
+mathematical centricity around a certain tone) was
+automatically built in to any collection of pitches.  He
+preferred to think of his style as making use of all
+tonalities at once, rather than as making use of no
+tonality at all.
+
+   Joseph L. Monzo
+    monz@juno.com
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

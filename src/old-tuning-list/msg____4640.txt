@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Sat, 18 Jan 1997 07:01:24 -0800
+
+Subject: Commas, voice leading and pitch memory
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> It looks
+> like in each case one tone makes a comma [is pseudo-comma the more
+> accurate term here?] shift, 
+
+   I'll address Steve's other thoughts shortly, but I just wanted to
+address this terminological question quickly.  
+
+   Although this tuning ... "discrepancy" I suppose it could be called ...
+arrives from the same sort of mechanism as a (syntonic) comma error in JI,
+Ivor Darreg, and probably others, referred to this it as a "pseudocomma"
+for two reasons:  
+1.  The size of the discrepancy is much larger, especially in the case of 
+    22TET (somewhat less so in the case of same effect in 34TET), than a
+21.5c
+    real syntonic comma.  In 53TET, however, this is not the case at all.  
+2.  A real comma scenario can give rise to an (theoretically) indefinitely
+    large sequence of pitch changes.  That is easiest to see in the
+wandering
+    tonic case:  If in the JI scenario you let the tonic drop by a syntonic
+    comma and repeat that progression over and over each time dropping by 
+    81:80, you'll never quite creep down to precisely any pitch within the 
+    original "source scale" (as Steve aptly called it).  In the case of
+22TET
+    or 34TET on the other hand, you'll never create any pitches that are
+not
+    already in within your original set of 22 or 34 pitch classes.  
+I personally agree that these important-enough reasons to merit using the
+term "pseudocomma" instead of comma.  Others may disagree or maybe not.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Jan 1997 21:38 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09795; Mon, 20 Jan 1997 21:41:42 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09808
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA03150; Mon, 20 Jan 1997 12:41:39 -0800
+Date: Mon, 20 Jan 1997 12:41:39 -0800
+Message-Id: <Pine.A32.3.91.970120133404.29406A-100000@tiger.cudenver.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

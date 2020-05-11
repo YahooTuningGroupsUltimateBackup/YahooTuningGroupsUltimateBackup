@@ -1,0 +1,86 @@
+source file: mills2.txt
+Date: Thu, 10 Oct 1996 10:27:29 -0700
+
+Subject: WireWorks in Concert
+
+From: hajdu@uni-muenster.de (Georg Hajdu)
+
+Concert with microtonal and interactive computer music
+******************************************************
+
+Ensemble WireWorks will perfom a program with microtonal and interactive music
+by Georg Hajdu, Belinda Reynolds, Karlheinz Stockhausen, Manfred Stahnke
+and Frederic Rzewski
+
+on October 24, 1996
+at 8.00 PM
+
+Concert hall:
+C.u.b.a
+Achtermannstr. 10-12
+48143 Muenster
+Germany
+
+The program includes:
+
+Two Cartoons
+for synthesizer and computer by Georg Hajdu (in 17 TET).
+
+Multitudinous Voices
+for mezzo-soprano, keyboard and interactive computer by Belinda Reynolds
+(software written in MAX)
+
+Intermezzo
+for narrator, synthetic choir, keyboards and interactive computer by Georg
+Hajdu.
+(The harmonic and melodic material is based on an FFT of telephone hiss.
+The extracted pseudo-harmonic spectra have a random set of microtones that
+don't match any just or tempered scale).
+
+Studie II by Karlheinz Stockhausen.
+This piece was recreated by students of the Muenster School of Music with
+modern computer technology based on Stockhausen's instructions given in the
+preface of his score. This piece represents an early attempt to unify
+spectral and tonal principles. For this, Stockhausen used a tempered scale
+with a step size of pow(5, 1/25).
+
+Partch Harp for harp and microtonal synthesizer by Manfred Stahnke.
+Manfred Stahnke, professor of composition at the Hamburg School of Music,
+uses  a tempered scale with pow(1.9560685, 1/12) for the synthesizer that
+approximates just 5/4 and just 7/4. Lacking the interval of the octave,
+this scale is characterized by a constant "tonal shift." The harp in turn
+has stable octaves and just major thirds and minor sevenths as well.
+
+Coming Together by Frederic Rzewski was originally scored for ensemble with
+narrator and varied instruments that pick notes in an improvisatory fashion
+from a pentatonic sequence of notes. In our version for keyboard and
+interactive electronics, the sequence is performed by the keyboard player
+while the computer--following the Rzewski score--simulates the actions of
+the improvising instrumentalists.
+
+The performers are:
+Georg Hajdu, electronics
+Jennifer Hymer, keyboard
+Annette Kleine-Rademacher, mezzo-soprano
+Christiane Steffens, harp
+Bettina Stucky, narration
+
+More information on WireWorks will soon be available at
+http://www.uni-muenster.de/Musikhochschule/Dozenten/Hajdu/WireWorks.html
+
+Send questions to: hajdu@uni-muenster.de
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 12 Oct 1996 01:56 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14900; Sat, 12 Oct 1996 01:58:02 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA14902
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA09869; Fri, 11 Oct 1996 16:57:58 -0700
+Date: Fri, 11 Oct 1996 16:57:58 -0700
+Message-Id: <Pine.A32.3.95.961007114541.21376C-100000@freenet3.afn.org>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

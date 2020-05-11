@@ -1,0 +1,71 @@
+source file: m1429.txt
+Date: Wed, 27 May 1998 22:16:41 -0500
+
+Subject: Synth Tuning info requested
+
+From: "jloffink" <jloffink@pdq.net>
+
+Dear Tuning List members,
+
+Many of you have visited my web site at http://freeweb.pdq.net/jloffink . 
+At the Microtonal Synthesis Web Site I attempt to list every electronic
+instrument capable of user programmable microtonal scales, from theremins
+to software synthesizers.  This is no easy task so I am asking your
+assistance in filling in the holes on the following instruments.  If you
+use any of the following instruments then please help.  In some cases I
+need only 1 or 2 parts of the following information, but supplying all of
+it would give me a sanity check on what I already have.  The information
+requested is:
+	# of user programmable octave scales
+	# of user programmable full keyboard scales
+	scale resolution in cents (or Hertz)
+	tuning range per note (in cents or notes)
+	scale user interface (digital front panel, sysex, etc.)
+	other features (scale utilities, OSs required, etc.)
+
+Digital Keyboards
+	Synergy, Synergy II+
+Fairlight
+	CMI I, II, IIx, III
+General Music
+	S2, S3, S2R Turbo, S2 Turbo, S3 Turbo
+	SX2, SX3
+	PRO1, PRO2, PRO Expander
+	AS-1 Arabic Scale Converter
+Korg
+	PS-3100, PS-3200, PS-3300
+	i1, i2, i3, i4, i4s, i5s, i5M, ix300
+	Concert C-900
+Kurzweil
+	250, 250RMX
+Marion Systems
+	MSR-2, Prosynth
+MIT Media Lab
+	CSOUND
+Motorola
+	Scalatron
+MuLogix
+	Slave 32
+Native Instruments
+	Generator
+Sound Transform Systems
+	Serge Modular
+Syntauri
+	alphaSyntauri
+Technics 
+	SX-WSA1, SX-WSA1R
+U&I Software
+	Metasynth
+Yamaha
+	PSR4000, PSR7000
+	Clavinova CLP-124, CLP611, CLP811
+	TG300
+	EX5, EX5R, EX7
+
+I also need more information on any models of portable keyboards and
+digital pianos with user programmable scales.
+
+Please respond to me directly, not to the list.  Thank you.
+
+John Loffink
+jloffink@pdq.net

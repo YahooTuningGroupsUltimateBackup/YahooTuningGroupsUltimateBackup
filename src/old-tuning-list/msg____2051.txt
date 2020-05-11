@@ -1,0 +1,118 @@
+source file: mills2.txt
+Date: Tue, 26 Sep 1995 04:01:22 -0700
+
+Subject: FWD: Re: Bach's tuning
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Date:         Mon, 25 Sep 1995 18:28:51 +0000
+Sender:       Harpsichords and Related Topics <HPSCHD-L@CNSIBM.ALBANY.EDU>
+From:         Aleksander Frosztega <Froszteg@POPD.IX.NETCOM.COM>
+Subject:      Re: FWD: Bach's tuning
+
+On Mon, 25 Sep 1995 08:21:28 -0700
+Johnny Reinhard <reinhard@styx.ios.com> wrote:
+
+>Re: Kirnberger's saying to Marpurg that "Bach tune each of his major
+>thirds sharp."  This is true in both equal temperament _and_
+>Werckmeister III.  The Werckmeister III contains 4 sizes of major third,
+>one of which is equivalent to 402 cents, one that is Pythagorean at 408
+>cents,one at 396 cents, and the smallest one at 390 - all sharper than
+>the just 386 cents.
+
+Yes, you can argue it that way.  And yes, you are correct in saying that
+both Wm III and ET have major thirds that are larger than just.  But the
+quote in question still refers to equal temperament.  Why?  Because of the
+context: Most ear-tuning instructions for Circular temperaments in 18th-
+century Germany relied on setting the *fifths* in order to temper the scale.
+I have never seen (I don't think) 18th-century German ear tuning
+instruction that use fifths as a tempering device for Equal Temperament.
+They all used rows of MAJOR THIRDS which were to be made wide!
+(Sorge gave explicit instructions that each successive third should be
+made somewhat *wider* than the last.)  Several rows of three successive
+major thirds completed the temperament (the idea was to temper the
+thirds wide to close the lesser diesis; several of these "third-rows" closed
+the Ditonic Comma). On the issue of tuning, C.P.E. Bach even
+recommends that his readers buy Barthold Fritz's _Zuverlaessige
+Anweisung._, which gives instruction for EQUAL TEMPERAMENT.
+
+Get over it.  Bach probably wrote (at least his harpsichord works) for Equal
+Temperament or something darn close to it.  Not all the revisionism in the
+world can alter the *evidence.*
+
+
+>Further, Kirnberger himself gave directions for the tempered fifth whose
+>ratio (10935:16384) is almost exactly 1/12 of a comma smaller than the
+>pure fifth in several publications, including his *Von der Temperatur*.
+
+Kirnberger never wrote a book called "Von der Temperatur."
+
+
+>The method by which he arrived was to take seven pure fifths in
+>succession plus one pure major third.  This gives the tempered fourth
+>8192:10935, which is larger than the pure fourth by 1/12 of a comma, its
+>inversion is the tempered fifth 10935:16384.
+
+Yes, this is the F#-C# fifth in Kirnberger I though III.  However, it is not
+tempered by 1/12 Pythagorean comma; it is tempered by the *schisma.*
+Kirnberger was not the best mathematician in the world and Marpurg, in
+fact, corrects Kirnberger's calculations in Marpurg's _Versuch._
+
+>According to Kirnberger he showed this discovery to Leonhard Euler in
+>1766 and remarked to him that this fifth could be used to determine all
+>ratios of equal temperament, an idea subsequently developed by Johann
+>Heinrich Lambert and published in the *Memoires de l'academie royale
+>des sciences et belle lettres* (Berlin 1774) and used by Marpurg against
+>Kirnberger.  (See p. 20 of the *Art of Strict Musical Composition* by
+>Kirnberger, Yale University Press)
+
+>There is great bitterness against Kirnberger, chief violinist and
+>keyboardist at the court in Berlin by Marpurg, the Lottery King Of Berlin.
+
+This is correct.  Though I believe that Kirnberger was employed by
+Princess Amalie, the sister of Frederick, not Frederick himself, as you
+*might* have been implying.  If you were not implying this, ignore the last
+sentence.
+
+
+>Clearly, this argument of fifths over thirds is an aesthetic battle of
+>historic proportions.  Politics enters at every level and success is oft
+>measured by clout.  What intrigues me most about Prof. Rasch's
+>perspective is that the Netherlands has been a leader in performing
+>"early music" in historic intonation and as its main musical intellectual
+>in this area, Rasch bucked the trend.  Perhaps if he were in any one of
+>the other countries that had been resistant to historic intonation
+>systems, he might have headed the other way.
+
+(1) Dutch HIP players continue to play in historical intonations (although,
+frequently without regard to historical framework of period and region);
+
+(2) I find it distressing that historical evidence continues to be ignored and
+that the "temperament revisionists," standing on the shakiest of grounds
+and often without being really read in the subject, continue to disseminate
+disinformation that misleads people and results in performances of
+dubious historical accuracy.
+
+
+Aleksander Frosztega
+<Who hates equal temperament just as much as the next person but can't
+ignore the evidence>
+
+
+
+-------------------------------------------------------
+Aleksander Frosztega     "Odi summusos; proinde aperte
+University of Utrecht     dice quid sit quod times."
+The Netherlands
+-------------------------------------------------------
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 26 Sep 1995 13:52 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id EAA04531; Tue, 26 Sep 1995 04:51:59 -0700
+Date: Tue, 26 Sep 1995 04:51:59 -0700
+Message-Id: <950926053059_70461.10_IHD50-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

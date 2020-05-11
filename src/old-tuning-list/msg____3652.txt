@@ -1,0 +1,75 @@
+source file: mills2.txt
+Date: Fri, 20 Sep 1996 14:17:37 -0700
+
+Subject: RE: RE: Consistency generalized
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 20 Sep 1996, PAULE wrote:
+> Your new algorithm is not correct either -- at least it does not reproduce 
+> my definition of consistency. In particular, no tuning can fail to be level 
+> 1 consistent according to your algorithm, and some tunings would be level 2 
+> consistent according to this algorithm that wouldn't be according to your 
+> original definition.
+
+Er, pardon me but it _is_ correct; at least, it is cribbed directly from
+the code that generated the table at
+<http://library.wustl.edu/~manynote/consist.txt>, and I haven't
+discovered any errors in that table yet.  (And that table _doesn't_
+claim that all tunings are level 1 consistent.  Code it up and run it
+yourself if you don't believe me.)  Don't be misled by the natural
+language paraphrase that I followed it with--the paraphrase is not
+exact, but I couldn't think of a concise and non-technical way to say it
+precisely.
+
+[another bigsnip of stuff I have no disagreement with]
+
+> >                            Very weird things can happen in level 1
+> >consistent tunings.  A simple example: 5TET is consistent at the
+> >5-limit.  A 16/15, represented as a 4/3 less a 5/4, becomes 2-2=0 steps,
+> >or a unison.  However, a 25/24, represented as a 5/4 less a 6/5, becomes
+> >2-1=1 step.  In other words, a larger interval becomes a unison while a
+> >smaller interval does not.  Maybe this doesn't bother you, but for me it
+> >causes cognitive dissonance.
+> 
+> Well, the idea of using 5-tET for 5-limit harmony bothers me. Didn't you 
+> read my post? I explained why, even though 7-tET is consistent at the 
+> 5-limit, it is not a good tuning for 5-limit harmony. The same goes for 
+> 5-tET. [snip]
+
+Holy cow, it was just an example.  The point is that such discrepancies
+will occur in any tuning that is level 1 but not level 2 consistent, as
+you demonstrated with 22TET.
+
+> "In other words, a larger interval becomes a unison while a smaller interval 
+> does not." This doesn't bother me in the slightest -- in fact I like it.
+
+That's absolutely fine with me.  More than fine, it's great.  Odd
+structural artifacts like this in low-consistency tunings are features
+of, for example, several of Easley Blackwood's 12 Microtonal Etudes, and
+massively cool pieces I think they are.  It's just a different path than
+that which I am attempting to follow.
+
+Please understand that I am not trying to talk you out of composing in
+22TET or whatever tuning you please; I am simple trying to explain that
+my preference for higher consistency is _not_ "arbitrary", but justified
+given certain assumptions which you may not share.  I respect your
+compositional choices; please do me the same courtesy.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Foul?  What the hell for?"
+     -\-\-- o        "Because you are chalking your cue with the 3-ball."
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 21 Sep 1996 03:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21302; Sat, 21 Sep 1996 03:06:09 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA20209
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id SAA19747; Fri, 20 Sep 1996 18:06:07 -0700
+Date: Fri, 20 Sep 1996 18:06:07 -0700
+Message-Id: <960920210400_482611093@emout20.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

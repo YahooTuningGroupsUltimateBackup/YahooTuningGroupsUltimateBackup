@@ -1,0 +1,72 @@
+source file: mills2.txt
+Date: Mon, 3 Mar 1997 04:02:51 -0800
+
+Subject: Re: Ed Foote's ET remarks
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Will Grant wrote:
+
+> ... Each time I tuned, I tried to find appropriate
+> little personalities for each key. E and A were usually brilliant,
+> and G and E-flat were usually sweet; but it was a game pursued
+> for fun, and it was different every time.
+
+Do you mean, perhaps, that the major thirds of the tonic triads in E 
+and A were closer to 81/64, whereas those in G and Eb were closer to 
+5/4? Or something along these lines?
+
+> I think it is simply true that the well temperaments are
+> attractive variations on ET, and they are indeed improvements
+> upon ET.
+
+The comparative merits of different tunings systems are relative to 
+the music you wish to play in them. 12TET would never have been 
+adopted as the normal keyboard tuning if well temperaments were 
+thought to be as suitable for Chopin as they were for Bach (I choose 
+Chopin because he explicitly demanded 12TET). Likewise, in the early 
+18th century, well-temperament would not have been adopted as a 
+keyboard norm if meantone temperaments answered all the needs of 
+musicians and composers at this time. No tuning is superior 
+simpliciter, but only superior (if at all) in relation to a specified 
+musical repertoire.
+
+> ... in practice
+> a well temperament is better even for serialism than a blank
+> ET. It is true that one might want to retune keyboards in serial
+> pieces from section to section, or even phrase to phrase, but
+> that is no insurmountable problem with electronic instruments.
+
+How so? What advantages could any well-temperament possibly offer for 
+serial music? Well-temperaments took the form they did because in the 
+period 1700-50 "white-notes" keys predominated, and modulations were 
+mainly local and not very far reaching, but the exceptions were 
+frequent enough for some compromise to be desirable (a compromise not 
+available within meantone systems, even given a couple of split keys). 
+Thus C major receives good (i.e. 5/4 or close) major thirds, while F# 
+major has to make do with near Pythagorean major thirds. 
+Well-temperaments were thus designed entirely to cope best with the 
+characteristics of the music of this period. Serial music shares none 
+of these characteristics; playing it on a well-tempered keyboard is no 
+doubt harmless fun, but to make claims that it _ought_ to be played 
+thus seem quite baseless.
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 3 Mar 1997 13:08 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02827; Mon, 3 Mar 1997 13:08:03 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02852
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id EAA19419; Mon, 3 Mar 1997 04:06:21 -0800
+Date: Mon, 3 Mar 1997 04:06:21 -0800
+Message-Id: <Pine.SOL.3.91.970303060646.18729B-100000@library>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

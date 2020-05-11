@@ -1,0 +1,67 @@
+source file: mills3.txt
+Date: Tue, 2 Sep 1997 10:25:35 +0200
+
+Subject: Re: testing an experimental tuning program
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+Hi Greg,
+
+At 04:21 PM 8/31/97 -0700, you wrote (Digest 1170, Topic No. 2):
+>From: greg phillips <gphillip@senet.com.au>
+>Subject: testing an experimental tuning program
+>
+>Hi everyone,
+>I've written a little MSDOS program that allows people to experiment
+>with tunings (and do a few other things). It requires a sound blaster
+>card (although it can actually use the PC's speaker - but it doesn't
+>sound as nice). If anyone out there has a sound blaster card and is
+>interested in helping me test the program - let me know. I need to
+>verify that it works on a range of sound cards.
+
+I'd be happy to try out the thing.  I don't specifically have a "Creative
+Labs" brand Sound Blaster card, but my laptop machine uses an "ESS
+Technology" sound card (whatever that is) and my machine is IBM compatible
+(for your MSDOS requirement).  Feel free to email it to me as an "attached
+file" or whatever.
+
+Thanks!  (and "Happy Tuning", "Stay Tuned", "Just Tune It", "Looney Toons",
+etc.)
+
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@pacificnet.net                      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  PErlich@Acadian-Asset.com
+Subject:  RE: Demisemitones
+PostedDate:  02-09-97 18:22:44
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  02-09-97 18:22:49-02-09-97 18:22:50,02-09-97 18:22:31-02-09-97 18:22:32
+DeliveredDate:  02-09-97 18:22:32
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256506.0059F71F; Tue, 2 Sep 1997 18:22:44 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11791; Tue, 2 Sep 1997 18:22:44 +0200
+Date: Tue, 2 Sep 1997 18:22:44 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA11793
+Received: (qmail 9237 invoked from network); 2 Sep 1997 16:22:35 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 2 Sep 1997 16:22:35 -0000
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-970902155530Z-1961@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

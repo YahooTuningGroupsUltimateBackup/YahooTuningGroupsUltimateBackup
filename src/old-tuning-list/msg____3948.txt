@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Thu, 7 Nov 1996 07:04:40 -0800
+
+Subject: Re: TUNING digest 886
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+>         One nice way of using dynamic just intonation in performance is 
+> to use a set of organ bass pedals that retune the synth to the key center 
+> of the pedal currently being pressed.
+
+   That is of course assuming that you have a synth that can respond to organ
+pedals that way.  I would imagine that one way to do that would be the K2x00's
+apparent ability to switch off between several 12-toned tuning tables via SysEx
+messages, combined with a Max patch to translate pedal depressions into those
+SysEx messages.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 7 Nov 1996 16:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06914; Thu, 7 Nov 1996 16:07:54 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06915
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA24230; Thu, 7 Nov 1996 07:07:51 -0800
+Date: Thu, 7 Nov 1996 07:07:51 -0800
+Message-Id: <961107150053_71670.2576_HHB68-10@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

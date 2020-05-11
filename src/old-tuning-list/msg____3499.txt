@@ -1,0 +1,80 @@
+source file: mills2.txt
+Date: Fri, 30 Aug 1996 16:02:49 -0700
+
+Subject: Another from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Kyma upgrade
+--
+>From time to time, your humble e-mail
+correspondent has bitched and whined about
+the lack of syntesizers offering real-time
+granular synthesis, flexible FM, AM, digital
+additive synthesis, blah-blah, woof-woof,
+awww, put a sock in it, mclaren.
+The Kyma multiprocessor synthesis system
+is a fairly expensive piece of hardware whose
+capabilities have been systematically upgraded
+over the years. This synthesizer (combination
+of hardware and very sophisticated object-
+oriented software running on a host computer)
+*does* allow the user to do real-time granular
+synthesis, totally flexible FM, AM and digital
+additive synthesis.
+Kyma is unique because it's software-controlled.
+The instrument has MIDI IN and MIDI OUT ports 
+as well as A/D INs and D/A OUTs. The system is
+capable of responding either to MIDI messages or
+to acoustic sounds, and it can modify both of 'em
+in astonishing ways in real time.
+Several years ago, Kyma used 10 MHz Motorola
+56001 DSP chips--you could add up to 8 boards
+to increase the parallel processing power of the
+system.  In effect, this meant you could get more
+sounds at once, or a single more complex sound
+in real time.
+Since then, Carla Scaletti and Kurt Hebel have
+systematically upgraded the Kyma until it now
+features 8 56001 DSP chips operating at 66 MHz.
+This makes the system significantly more powerful
+than the ridiculously overpriced  $15,000 Ircam Signal
+Processsing Workstation, or ISPW (most of us
+always thought ISPW stood for "Insanely Sick 
+Plutocratic Wank-off.")
+At less than a third of a price of the outdated
+and obsolete ISPW, the Kyma system doesn't 
+require an exotic UNIX workstation to run the
+system software--an up-to-date Mac (with
+NuBus slot) or PC will do.  Moreover, Carla
+Scaletti is constantly updating the software
+and adding new capabilities...  The current
+release of KYMA includes phase vocoder
+resynthesis *in real time* (given a prior non-
+real-time LEMUR analysis file as input),
+cellular automata algorithmic composition,
+real-time "morphing" between resynthesized
+timbres, and much much more.
+Because the system is completely under
+software control, tuning is totally flexible.
+Any kind of microtonal scale can be defined
+and played in real-time or as an event-list.
+The system's expensive, but nothing else comes
+close to Kyma's capabilties, especially for
+the computer-music microtonalist.
+--mclaren
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 31 Aug 1996 06:41 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10513; Sat, 31 Aug 1996 06:43:02 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA10535
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id VAA21831; Fri, 30 Aug 1996 21:42:59 -0700
+Date: Fri, 30 Aug 1996 21:42:59 -0700
+Message-Id: <199608310442.WAA02277@freenet.uchsc.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

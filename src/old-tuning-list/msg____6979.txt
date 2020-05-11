@@ -1,0 +1,73 @@
+source file: mills3.txt
+Date: Thu, 8 Jan 1998 19:18:02 +0100
+
+Subject: microtonal instruments
+
+From: Marcus Hobbs <marcus@fa.disney.com>
+
+tuning@eartha.mills.edu wrote:
+> Topic No. 1
+>
+> Date: Wed, 7 Jan 98 14:45 EST
+> From: Denis.Atadan@mvs.udel.edu
+> To: tuning@eartha.mills.edu
+> Subject: Microtonal instruments
+> Message-ID: <199801071948.OAA15581@copland.udel.edu>
+>
+> It's been pretty interesting to see who plays what so here's my 2 cents-
+
+i create my own instruments on the kyma system.  i mostly use midi as
+the
+control, but am now building analog sequencers in kyma.
+the instruments range from sample processing/pitching to additive
+synthesis
+to processing other sounds from other synths.
+i've written a tuning tool in kyma, which implements many of erv
+wilson's tunings
+and rhythms.  this tool changes the tunings of all of my instruments in
+real
+time.
+
+it is tough to build expressive digital instruments.  i don't think i've
+been
+particularly successful just yet, but i believe that in the long run,
+digital
+is the way to go.  sample rates will improve, and so will the software
+technology for controlling the instruments.
+
+marcus
+
+___________________________________________________________________
+  Marcus Hobbs  |    marcus@fa.disney.com     |  (818) 560-8332
+              Atlantis Look Development & Lighting
+                 Walt Disney Feature Animation
+___________________________________________________________________
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  RE: Special Way
+PostedDate:  08-01-98 22:34:50
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  08-01-98 22:34:23-08-01-98 22:34:23,08-01-98 22:34:17-08-01-98 22:34:17
+DeliveredDate:  08-01-98 22:34:18
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256586.00767F07; Thu, 8 Jan 1998 22:34:46 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29511; Thu, 8 Jan 1998 22:34:50 +0100
+Date: Thu, 8 Jan 1998 22:34:50 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29549
+Received: (qmail 4035 invoked from network); 8 Jan 1998 13:34:47 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Jan 1998 13:34:47 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-980108212527Z-4934@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Fri, 17 Nov 1995 16:48:41 -0800
+
+Subject: Re: minimum chords
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> Thanks for the explanation of LCMs, but why is this important musically?
+
+   I thought I mentioned that in the message before my last one on that topic,
+but perhaps not.  
+
+   Marion McCoskey views the LCM of the numbers in the extended ratio for a
+chord as a good indicator of the harmonic complexity of the chord.  So the LCM
+of 60 for either 4:5:6 major or 10:12:15 minor chords is a fairly low LCM,
+implying that it's a fairly simple chord, harmonically speaking.  
+
+   If you turn that into a septimal dominant seventh chord (4:5:6:7), the LCM
+goes up by a factor of seven to 420, suggesting that it's a much more
+harmonically complex - tense - chord.  If you tune the upper interval of that to
+the usual 6:5 minor third instead, the LCM goes way up again 20:25:30:36 to 900,
+again, correctly predicting that that chord has a yet more complex sonority.  
+
+   Some people on the list have questioned whether LCM is the best choice of
+harmonic complexity, which is after all, a somewhat subjective thing.  But I get
+the impression that most listers accept it as a reasonable model.  
+
+   Speaking for myself, it strikes me as reasonable, but I suspect that it might
+be the numbers might be a little more appropriate if they were the log of the
+LCM.  Using the common log for example, the 4:5:6 would have a complexity of
+1.8, the 4:5:6:7 a complexity of 2.62, and the 20:25:30:36 dominant seventh
+chord a harmonic complexity of 2.95.  That strikes me as a little more in
+proportion to the complexity as I hear them.  Or perhaps even better would be
+the square root: 7.75, 20.5, and 30 respectively.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 18 Nov 1995 03:23 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA11674; Fri, 17 Nov 1995 17:23:26 -0800
+Date: Fri, 17 Nov 1995 17:23:26 -0800
+Message-Id: <199511180122.JAA18942@csnt1.cs.ust.hk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

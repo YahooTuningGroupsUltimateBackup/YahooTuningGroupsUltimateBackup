@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Thu, 6 Jun 1996 09:18:36 -0700
+
+Subject: Misc.
+
+From: Paul Rapoport <rapoport@mcmail.cis.mcmaster.ca>
+
+A few random notes for anyone or no one:
+
+1. On the origin of the word "jazz." This is uncertain; the story 
+recently circulated is a popular one, but not necessarily correct.
+
+2. On Hindemith. Having never studied with him, I can only report his book
+Unterweisung im Tonsatz, translated as The Craft of Musical Composition.
+This is the book in which he builds up a new harmonic theory based on the
+harmonic series and then treats everything as 12-tET. Hindemith discussed
+the 7th harmonic at some length but did not, as far as I can tell,
+understand it. His book is to me a historical curiosity: it almost did
+something right, perceived something of an abyss at really paying
+attention to the harmonic series, and then retreated into the familiar. 
+
+I'd be interested in others' opinions.
+
+3. Guitar tuning. Mark Rankin believes that the best way to take into
+account the flex of the strings at the frets is to include in the
+calculations something known as Gilbert scaling. I have had two 
+fretboards built this way. Anyone else want to explain Gilbert scaling? I 
+don't have the theory readily available.
+
+==========================      =================================
+Dr. Paul Rapoport               e-mail:	rapoport@mcmaster.ca
+SADM (Music)	                   tel: (+1) 905 529 7070, ext. 2 4217
+McMaster University                fax: (+1) 905 527 6793
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 6 Jun 1996 19:08 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA11333; Thu, 6 Jun 1996 10:08:38 -0700
+Date: Thu, 6 Jun 1996 10:08:38 -0700
+Message-Id: <v01510101addcbadc7332@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

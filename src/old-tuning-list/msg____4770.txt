@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Tue, 11 Feb 1997 06:52:18 -0800
+
+Subject: Re: PAULE,s email
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+>         Paul Erlich's email system does not work right, and the MCI mail
+> sysadmin is completely oblivious to the world. I have experimented a lot,
+> and when I can get through to him, it is only with this specific address
+
+It's much more likely that there is a badly configured internet node 
+somewhere (or more than one). I never had any problems sending mail to 
+Paul from this side of the water.
+For the time being I shall act as e-mail intermediary.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 11 Feb 1997 19:19 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02700; Tue, 11 Feb 1997 19:19:23 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02698
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA04579; Tue, 11 Feb 1997 10:16:59 -0800
+Date: Tue, 11 Feb 1997 10:16:59 -0800
+Message-Id: <9702111814.AA14421@tcm.mit.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

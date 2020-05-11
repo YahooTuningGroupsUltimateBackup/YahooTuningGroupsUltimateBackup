@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Sun, 19 Jan 1997 07:19:47 -0800
+
+Subject: Re: from Gary Morrison
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> Sprynet gives you 5megs...but a WAV file at 44,100hz/16bit/stereo takes
+> about 10megs/min. If you go mono@22,050hz and save in ADPCM you reduce
+> the size to about 0.8megs/min.
+
+   Or I suppose you could go telephone quality 8 bit, 8KHz.  Bleah...
+
+   I hear say that ".AU" files, which I THINK is a file format that Sun
+invented, are (losslessly) compressed.  Anybody know if helper apps for .AU
+files are common, or does pretty much everybody use .WAV in web pages?  
+
+   Also, I heard from a not-so-authoritative authority that .WAV files
+encode ONLY the raw audio data, and do NOT encode sample size, sample rate,
+nor number of channels.  Anybody know if that's true?  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Jan 1997 14:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07998; Sat, 18 Jan 1997 09:09:56 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA07991
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id AAA29445; Sat, 18 Jan 1997 00:09:53 -0800
+Date: Sat, 18 Jan 1997 00:09:53 -0800
+Message-Id: <199701180307_MC2-F90-EE6A@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

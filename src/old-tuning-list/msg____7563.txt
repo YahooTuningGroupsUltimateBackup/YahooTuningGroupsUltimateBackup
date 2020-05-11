@@ -1,0 +1,37 @@
+source file: m1398.txt
+Date: Mon, 27 Apr 1998 14:08:04 -0400
+
+Subject: Re: JI Tuning Resolution
+
+From: wauchope@AIC.NRL.Navy.Mil
+
+David First wrote:
+> Ultimately, you have to use your ears. If you hear beating/phasing
+> between a given pair of frequencies, then something's off. 
+
+My approach is that if you can hear a beat of about 0.5 Hz, then you
+can in fact hear the underlying pure interval which is doing the phase
+shifting, so the harmonic objective has not been compromised.  Indeed,
+synth players sometimes intentionally detune a pair of oscillators so
+they'd slowly phase shift and create a "fat" sound that is richer and
+less boring than a single oscillator.  Beating faster than 0.5 Hz
+becomes less desirable, however, and beyond vibrato rates begins
+introducing actual dissonance.
+
+Some time back I did some audio experiments to determine the extent to
+which I could actually discriminate beating in just intervals.
+Listening to rather loud synthesized sawtooth waves through headphones
+at about 440Hz, I found that the limit of my discrimination was at the
+19 limit -- for example I could manage to tune a 19/13 by eliminating
+beats, but not a 21/13.  So to my ear, a 21/13 a few tenths of a cent
+sharp or flat makes no distinguishable difference in terms of consonance,
+but does (just barely) for a 19/13.
+
+Figuring that the 19th partial of A440 will beat at 0.5 Hz if detuned
+by 0.1 cent, that becomes my desired accuracy for the goal of avoiding
+audible dissonance in a conventional pitch range.  I can imagine
+musics that would want precision beyond that for particular effects
+such as very sustained chords with rock-solid lack of phase shifting,
+but that's another issue than dissonance.
+
+Ken Wauchope

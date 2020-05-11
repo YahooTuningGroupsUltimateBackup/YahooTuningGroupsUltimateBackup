@@ -1,0 +1,117 @@
+source file: mills2.txt
+Date: Wed, 15 Nov 1995 05:12:51 -0800
+
+Subject: Partch progressions
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+Adam et al. in re Partch:  I don't think anyone should take his 
+statements on the "magnetic" tendencies of prime identities too 
+literally, but only as a general guide. HP often separated his theory 
+from his practice. One might imagine upon reading about Monophony that 
+it would be applied to sustained tones with harmonic spectra and
+vocal texts, however, HP used plucked string and inharmonic percussion
+timbres primarily and except in Oedipus and some other early works, seldom
+wrote extended lyrical vocal lines, instead preferring short aphoristic phrases, nonsense syllables, interjections, etc.
+ 
+So, I think we can justifiably divorce his chordal progressions from 
+his theoretical 43-tone  scale and even add extra tones whenever 
+necessary to make the harmony less static.
+ 
+For the benefit of those without access to a copy of _Genesis of a Music_,
+I've translated some of HP's progressions into ratios which show the 
+voicing better: (The page #'s are from the first edition of Genesis.)  
+The O's and U's refer to Otonality and Utonality, HP's terms for harmonic 
+and subharmonic as applied to chords. O and U come from Over and Under.
+ 
+p185:	3/1	->	3/1
+	21/8	->	5/2
+	9/4	->	2/1
+	15/8	->	2/1
+	3/2 	->	1/1
+ 
+	3/2 O		1/1 O (V7 to I)
+ 
+p.186, Diagram 13:
+	11/8	->	11/8 (both voices to 11/8)
+	27/20	->
+	 
+	33/32	->	11/10
+		->	11/12 (11/6 in lower octave)
+ 
+	11/8  O?	11/8 U (HP admits that the first chord is
+			not easily analysed and not very tonal.)
+ 
+p. 186:
+	33/16	-> 	2/1
+ 
+	27/16	->	7/4
+	21/16	->	5/4
+	9/8	->	9/8
+ 
+	15/16	->	1/1
+	3/4	->	3/4 (3/2 in lowest octave)
+ 
+	3/2 O		1/1 O
+ 
+p. 187:
+	8/3	->	8/3
+	32/15	->	2/1
+ 
+	16/9	->	16/9
+	32/31	->	8/5
+	32/27	->	8/7
+ 
+	32/33	->	1/1 (64/32 in lowest octave)
+ 
+	4/3 U		1/1 U (plagal cadence)
+ 
+p. 188, Diagram 14:
+	12/7	->	7/4
+	10/7	->	7/5
+	8/7	->	7/6
+ 
+	8/7 O		7/4 U (example of "tonality flux"
+ 
+p. 188, Diagram 15:
+	11/5	->	24/11	
+ 
+	11/6	->	20/11
+	11/8	->	16/11
+ 
+	11/8 U		16/11 O (the other example)
+ 
+My class notes state that the homework for the Nov 9, 1967 class was 
+to choose any two hexads which resolve by small intervals and to also 
+write 3 lines of counterpoint in any scale that can be played on the 
+Chromelodeon.  The progression HP gave us in class was from 11/8 U to 
+8/5 O in which the 11/6 moved to 8/5 in the bass, 11/9 to 6/5, 11/7 
+to 9/5, 2/1 and 11/5 were held,  and 11/4 resolved to 14/5.
+	
+Other examples I have in my notes are 5/4 U to 1/1 O, 8/7 O
+to 4/3 O, and 8/5 O to 4/3 O. I suspect these were my own 
+solutions.
+ 
+What I can't seem to find are any examples of the strongly beating
+progressions that I recall HP played for us, unless the second
+one from the top (above) is one of them one. My question to Allen about 
+the class notes was partly rhetorical and partly because mine are 
+very incomplete, especially about the chordal sequences we studied. 
+Most of what HP taught us was in Genesis, save for the beating 
+progressions. I'm sure I've seen a score of them somewhere, but I can't 
+find it now, even though I am back in Texas in my own house at the 
+moment.
+ 
+--John
+ 
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 15 Nov 1995 15:15 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA09311; Wed, 15 Nov 1995 05:15:22 -0800
+Date: Wed, 15 Nov 1995 05:15:22 -0800
+Message-Id:  <9511150512.aa23790@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

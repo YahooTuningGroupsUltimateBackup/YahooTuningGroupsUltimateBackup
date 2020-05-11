@@ -1,0 +1,55 @@
+source file: m1500.txt
+Date: Tue, 11 Aug 1998 05:57:02 -0500 (CDT)
+
+Subject: Re: Numbers and a new tuning
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Mon, 10 Aug 1998, Johnny Reinhard wrote:
+> Thanks to Didier for pointing out that the last note of the Harmonic-17
+> scale is 32/17 (not 34/17).
+
+I missed that--I'd wondered why there were only 16 pitches instead of
+17.  Adding that to my original diagram gives this:
+
+                                             31/17
+                                        28/17
+                                   26/17
+                              24/17
+                         22/17
+                    20/17
+               19/17
+17/16     18/17
+     17/17
+32/17     17/10
+               17/11
+                    17/13
+                         17/14
+                              17/15
+                                   34/31
+
+> Paul Hahn is right to point out a Perfect Fifth from 17/10, but I hadn't
+> included this interval in my original list, though it is certainly implied
+> by my 20/17.
+
+Umm, Johnny, here's your original list:
+
+On Thu, 6 Aug 1998, Johnny Reinhard wrote:
+>The Harmonic-17 tuning I'm working with for my new work _Trespass_ uses
+>the following notes, based on a 1/1 fundamental:
+>
+>	1/1	17/18	17/16	34/31	19/17	17/15	20/17	17/14	22/17
+>cents:	0	99	105	160	193	217	281	336     447
+>
+>17/13	24/17	26/17	17/11	28/17	34/20	62/34	34/17	
+>464	597	735	754	864	919	1040	1095
+
+34/20 reduces to 17/10, and 62/34 reduces to 31/17.  I mentioned this in
+my first message on this thread.  (Also, for those coming in late, the
+17/18 should be 18/17, and the 34/17 should be 32/17.)
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

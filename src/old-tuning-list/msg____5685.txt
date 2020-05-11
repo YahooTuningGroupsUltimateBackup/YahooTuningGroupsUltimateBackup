@@ -1,0 +1,62 @@
+source file: mills2.txt
+Date: Tue, 24 Jun 1997 09:05:44 +0200
+
+Subject: Re: Octaves (Paul E)
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+On Mon, 23 Jun 1997, Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul) wrote:
+
+>The fact that octaves are often not equal to 2, but slightly more than 2,
+>has nothing to do with harmonic series or inharmonic partials. The
+>effect is most pronounced when sine waves are used; I believe a large
+>experiment found that the average subject deemed two sine waves
+>equivalent when they differed by 1209 cents. The typical 2nd harmonic of
+>a piano string is more like 1203 cents.
+
+I don't know about the structure of the ear, but that is an interesting
+idea.  However I do believe that in nature there are definite
+frequencies at ratios near to but not exactly equal to 2.
+
+One particularly interesting example is found in the periods of
+revolution of 3 of the 4 Galilean satellites of Jupiter.  They are all
+being repelled by the action of tidal forces, with the strongest action
+on the innermost.  However as they get near to exact 1:2 ratios it sets
+up a strong resonance which forces the next outer one away from an exact
+1:2 resonance.  The result is as follows:
+
+Jupiter Satellite       I               II              III
+
+Period (days)       1.76913780      3.55118108      7.15455312
+Frequency (nHz)     6542.21173      3259.21822      1617.72145
+
+                             I - 2xII       II - 2xIII
+Beat frequency (nHz)         23.77530        23.77531
+
+Ratio II/beat                137.0842        137.0841
+
+The interesting thing is that not only are the beats between each
+adjacent pair of satellites the same, but the ratio of these to the
+middle satellite period of 137.0841 is very similar to a number found in
+atomic physics called the fine structure constant which is 1/137.0360.
+
+The two ratios II/I and III/II are 1206.3 and 1212.7 cents respectively.
+It rather seems that nature likes to operate at a little distance from
+exact resonance.
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+     http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 24 Jun 1997 12:55 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23415; Tue, 24 Jun 1997 12:55:34 +0200
+Date: Tue, 24 Jun 1997 12:55:34 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA23429
+Received: (qmail 26704 invoked from network); 24 Jun 1997 10:55:12 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 24 Jun 1997 10:55:12 -0000
+Message-Id: <199706240652_MC2-191F-7480@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

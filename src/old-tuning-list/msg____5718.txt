@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Tue, 1 Jul 1997 15:10:43 +0200
+
+Subject: Re: Limits, Octave equivalence
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Second, some of us evidently don't believe that octave equivalence (2:1, give
+>or take a few cents :-) should be taken for granted ...   Holy cow!  ...
+>one of which has a frequency at a power-of-two of the other, the lower one
+>will cross the zero point only at points at which the higher one is crossing
+>as well.
+
+   Hmmm...  Well, certainly you can phase them so that the zero-crossings
+never correspond, or microscopically detune them, by 1/5Hz for example,
+they will not correspond very closely for very long, and yet we recognize
+both as octaves.
+
+   Here's another curious observation to throw into this line of inquiry.
+I suppose it could be just me, but I'd be surprised if so:
+
+   I have found there to be something interesting about ratios of the form
+(N+1):N.  I've noticed that if I listen to a narrow range of small,
+adjacent Ns for long enough, they start masquerading as one another.
+
+   An easy example to hear occurs when I practice singing the distinction
+between 6:5 and 7:6 thirds.  After I sing and think about nothing but those
+two intervals for five minutes or so, I find that the 6:5 starts having the
+sensation I normally associate with 5:4.  "Sensation" in the sense that I'm
+inclined to momentarily misidentify 6:5 as 5:4 - an auditory illusion in
+essence.  And further, when I suddenly toss into the mix a 5:4, it starts
+seeming like a 4:3, and 3:2 seems like an octave.
+
+   I'd be curious as to whether anybody else has noticed this effect too.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 1 Jul 1997 16:22 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17143; Tue, 1 Jul 1997 16:22:25 +0200
+Date: Tue, 1 Jul 1997 16:22:25 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA17136
+Received: (qmail 12362 invoked from network); 1 Jul 1997 14:17:28 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Jul 1997 14:17:28 -0000
+Message-Id: <c%ap¬adian-Asset%lRS-970701140750Z-969@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

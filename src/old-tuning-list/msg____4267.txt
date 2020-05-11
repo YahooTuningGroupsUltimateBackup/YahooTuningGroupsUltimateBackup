@@ -1,0 +1,112 @@
+source file: mills2.txt
+Date: Fri, 6 Dec 1996 00:57:00 -0800
+
+Subject: CPS
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+Adam:
+
+What you have described is a subset of a (1,3,5,7,9,11,13 diamond (or cross
+set), and more specifically the 13 and /13 heptads. (Similar pairs of X-ads
+from the diamond can be very interesting, Partch liked to contrast 8/7
+Otonality with 7/4 Utonality (The Letter, and in Oedipus) as well as 16/11
+O and 11/8 U. And of course the pair 1/1 O and 1/1 U makes an authentic
+cadence - which HP also used: The Hell With It, I'm Going To Walk!)). Cross
+sets can be made by multiplying any set of numbers by any other set of
+numbers, and Partchian cross sets multiply a set (e.g. (1,3,5,7,9,11)  by
+its inversion (/1,/3,/5,/7,/9,/11). Cross sets like this are monotonal, in
+that one central tone dominates, because the sets meet at 1 = 3/3 = 5/5 =
+7/7 etc.. 
+
+A CPS is a related way of working, but without having the central tone of
+the diamond, instead, every tone of a CPS is the tonic of an implied
+diamond.
+
+Given a set of n factors, (1, .... n), all combinations of p factors yields
+the CPS p(n  - read as P out of N CPS. For example:
+
+The set of 1 factor, taken in all combinations of 1 (1 out of 1CPS) has one
+member, 1
+
+The set of 2 factors (1,3), taken in all combinations of 1 (1 out of 2 CPS)
+has two members, 1 and 3
+
+The set of 2 factors (1,3), taken in all combinations of 2 (2 out of 2 CPS)
+has one member, 1*3 = 3
+
+Going on:
+
+1(1,3,5) has three members: 1,3,5
+2(1,3,5) has three members: 3,5,3*5
+3(1,3,5) has one member: 1*3*5
+
+
+So far, rather trivial, now try four factors:
+
+1(1,3,5,7) has four members: 1,3,5,7
+2(1,3,5,7) has six members; 1*3,1*5,1*7,3*5,3*7;5*7
+3(1,3,5,7) has four members: 1*3*5, 1*3*7, 1*5*7, 3*5*7
+4(1,3,5,7) has one member: 1*3*5*7
+
+Clearly, the 2(1,3,5,7) genus has the most musical potential. This is what
+Erv calls a HEXANY, and I recommend playing around with it closely, and
+trying it with other sets of factors.
+
+The next really useful CPS is the EIKOSANY which is a 3 out of 6 CPS with
+20 members, and following this is the monster HEBDOMEKONTANY with 4 out of
+8 factors and 70 members.
+
+I have often used the EIKOSANIES 3(1,3,5,7,9,11) and 3(1,3,7,9,11,15) - the
+latter gives a few more melodic possibilities without really diminishing
+the harmonic resources. I have also tried the all prime sets
+3(1,3,5,7,11,13) and 4(1,3,5,7,11,13,17,19) both of which are very
+interesting.
+
+The Eikosany 3(1,3, 5,7,9,11) I have used in the following arrangement,
+taking 1*9*11 as the tonic (to work with these materials, it is hand to
+write the scale out in terms of each possible tonic): (I am notating here
+with 32/33 indicated as arrow down)
+
+1*9*11 = 1/1 = C
+3*5*7 = 35/33 = arrow down -7D
+1*3*9 = 12/11 = arrow down D
+1*5*11 = 10/9 = -D
+3*7*11 = 7/6 = 7Eb
+1*3*5 = 40/33 = arrow down -E
+5*9*11 = 5/4 = -E
+1*7*9 = 14/11 = arrow down 7F
+1*3*11 = 4/3 = F
+3*5*9 = 15/11 = arrow down -F#
+1*5*7= 140/99 = arrow down -7G
+3*9*11 = 3/2 = G
+1*7*11 = 14/9 = 7Ab
+5*7*9 = 35/22 = arrow down -7A
+3*5*11 = 5/3 = -A
+1*3*7 = 56/33 = arrow down 7Bb
+7*9*11 = 7/4 = 7Bb
+1*5*9 = 20/11 = arrow down -B
+3*7*9 = 21/11 = arrow down 7C
+5*7*11 = 35/18 = -7C
+
+What is great about these structures is that all of the possible subsets
+are musically interesting. There are plenty of hexanies embedded here, and
+I am fond of the Dekanies (for example all the pitches with factor X, or
+all the pitches without factor X).
+
+I hope that this helps. Have some fun,
+
+Dan  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Dec 1996 10:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21501; Thu, 5 Dec 1996 00:17:22 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA21551
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA09228; Wed, 4 Dec 1996 15:17:18 -0800
+Date: Wed, 4 Dec 1996 15:17:18 -0800
+Message-Id: <199612042316.PAA09175@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Sun, 1 Jun 1997 20:01:20 +0200
+
+Subject: Re: millenium
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Gary:
+
+The problem is that we count passing time in two ways. One way is for
+birthdays - we count years completed as discreet units (except as children
+when we enthusiastically noted the half year completed as well). The other
+way of counting applies to calendars. Days, months, and years are
+identified in terms of periods of time, and any moment within each of these
+periods recieves that identification. By your birthday-style counting,
+today would be 31 May 1996 (as I write it is 1 June 1997) because these are
+the last full day, month, and year completed. Would you even go further and
+call this the first millenium - because we have not yet completed the
+second? Your interval-counting example is a good one. The common pitch class
+notation with numbers does use 0, however, as the value for unisons, so
+that intervals in the system can be added without subtracting 1. 0 in this
+case is exactly like that moment when years 1 BC and AD met - it has no
+magnitude. The value 0 is not always meaningful for musical purposes, however.
+Consider a harmonic series over the fundamental n. The series goes: (1n,
+2n, 3n ...). In terms of frequency, 0n (Zero n) is undefined.
+Unfortunately, one notation frequently used by practicing musicians
+considers 2n to be the ''first flageolet'' - in effect, your birthday
+notation - which leads to real confusion in reading scores where the actual
+pitch is not notated.  Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 1 Jun 1997 20:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06094; Sun, 1 Jun 1997 20:17:11 +0200
+Date: Sun, 1 Jun 1997 20:17:11 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA06099
+Received: (qmail 18443 invoked from network); 1 Jun 1997 18:17:03 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Jun 1997 18:17:03 -0000
+Message-Id: <v01541102afb7228a82f6@[207.207.2.38]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

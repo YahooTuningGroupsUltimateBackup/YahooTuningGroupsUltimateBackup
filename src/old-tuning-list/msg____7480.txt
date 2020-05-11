@@ -1,0 +1,22 @@
+source file: m1388.txt
+Date: Fri, 17 Apr 1998 14:50:04 -0400
+
+Subject: Re: Over-/Undertone series
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>>The controversy is over the concept of the undertone series _as an
+>>acoustical phenomenon_ -- and this is something that, as Max Meyer
+>>pointed out clearly, cannot exist.
+
+>I should point out a couple of exceptions. In overblown winds, the
+>fundamental can softly sound and affect the timbre. Likewise in string
+>harmonics (flageolet tones).
+
+These are not examples of undertone series but of overtone series where
+a note other than the fundamental functions as the pitch due to the
+relative amplitutes of the partials. The waveform in these cases is
+periodic, having a frequency equal to that of the true fundamental, and
+therefore only integer multiples of that fundamental are present in the
+spectrum. At best, the tone can be said to have one "undertone", but
+nothing like an "undertone series".

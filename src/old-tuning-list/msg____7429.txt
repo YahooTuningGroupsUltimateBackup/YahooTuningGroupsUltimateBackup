@@ -1,0 +1,16 @@
+source file: m1381.txt
+Date: Fri, 10 Apr 1998 20:48:41 -0500 (CDT)
+
+Subject: Re: Telephone Touch Tones
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Note that the tones were specifically designed to avoid harmonics.
+
+   Ivor Darreg claimed that "DTMF" pitches coincided *fairly* well with 14TET.
+
+   Also, there is a tone for each row and a tone for each column.  Each
+button sounds two (ideally) sine waves, and one of the two tones is
+identical for each button on the same row, or on the same column.
+
+   Military phones have a fourth column, by way.

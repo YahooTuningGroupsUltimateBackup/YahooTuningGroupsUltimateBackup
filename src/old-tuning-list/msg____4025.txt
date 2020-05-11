@@ -1,0 +1,312 @@
+source file: mills2.txt
+Date: Fri, 15 Nov 1996 08:28:51 -0800
+
+Subject: Post from Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: technology and intonation
+--
+A tenth century text on organ building laid
+out the rules for pipe length exactly as
+Pythagoras would have in the Greek era.
+Start with a pipe and call it C. Divide it
+into 4 parts, remove one and you have the
+pipe for the low F. Divide the C pipe into
+3, throw away one part, and the resulting
+pipe sounds a G above C. Divide the G
+pipe into three, add one part to it, and 
+the result is D below G.  The instructions
+continue in the same way, producing
+a completely standard Pythagorean scale
+that effectively translates the tuning
+of a monochord into fixed ratios of
+pipe length.
+This is a typical reaction to new 
+technology.  As Marshall McLuhan
+pointed out, new forms of technology
+typically start by taking on the modes
+and habits of older forms of tehcnology.
+Only gradually does the new technology
+start to develop unique and novel
+modes of use.
+For example, early printing presses
+used type designed to fool its readers
+into thinking the letters had been
+written by hand.  Each letter was 
+carefully designed to imitate the 
+shape of a letter written in ink with
+a square-nibbed pen; printers of the 1490s
+even used multiple typesets with
+different inks to produce the effect
+of illumination by scribes with red
+ink for special words, etc.
+Early television programs imitated
+plays; early Internet applications
+imitate magazines--for example,
+this tuning forum.  The world wide
+web is not limited to ASCII text,
+as is this tuning forum, and soon
+sounds will be sent attached to
+graphics and text as a matter of
+course (this still takes too much
+bandwidth today--a 44.1 khz stereo
+soundfiles demands 10.5 megs of
+data per minute). 
+In the 1450s Duke Philip's organ
+designer Henri Arnaut came up with
+the idea of modifying the Pythagorean
+system to keep as many fifths pure as
+possible while still making as many
+keys as possible listenable (i.e., triads
+without excessive beats).  This was
+in retrospect a failed attempt to
+use the new technology of the modern
+organ for polyphonic music; meantone
+tuning did the opposite of Arnaut's
+procedure, keeping thirds just while 
+shaving bits off each fifth.
+Meantone proved so successful that,
+according to Alexander J. Ellis and
+others, it remained the dominant form
+of tuning through the 1840s.
+In between the 1500s and the 1840s,
+many different peculiar variants of
+meantone were tried.  
+Example: an organ at Bucksburg, build around
+1615, boasts 14 keys per octave.  Handel's
+harpsichord also uses 14 keys to the 
+octave.  I have pictures in my files of many
+peculiar-looking keyboards which have as
+many as three tiers of keys--one set of
+ordinary white keys, a second set of 
+black keys with some extra smaller keys
+*in between* B and C, and a third tier of
+keys, also blac keys, which reproduce the
+conventional black keys but translated
+by a comma up.  Mersenne's Harmonie 
+Universelle is full of such illustrations,
+but many such keyboards were actually
+built.  Between 1500 and 1800 there was
+no such thing as "a standard keyboard
+instrument keyboard"--there were a lot
+of different types of keyboards, since 
+all musical instruments throughout that
+period were hand-made.
+Such extended meantone keyboards flourished
+during the 17th and 18th century, a period
+when standardization was not the norm,
+and when musical tuning--like spelling!--
+was considered a matter of individual
+taste within the overall limits of the
+meantone system. (It's important to 
+remember that because meantone is
+a general method in which fifths are
+altered to preserve just thirds, there
+are *many* different flavors of meantone.
+1/3 comma, 1/4-comma, 1/6 comma,
+1/11 comma--known as 12-TET--and
+variants such as the irregular circulating
+temperaments of Marpurg and Werckmeister
+and Kirnberger.)
+The next great technological leap was made
+by Henry Maudslay, who worked at the
+smithy in Woolwich Royal Arsenal in the
+early late 1700s.
+Joseph Brahma, an entrepeneur who wanted
+to build an unpickable lock to cash in on
+a highly-publicized series of robberies in
+London, hired Maudslay as an apprentice
+locksmith. By 1797, Maudslay asked for
+a raise of thirty shillings a week (to
+support his wife and children) and Brahma
+refused, so Maudslay walked out and
+started his own workshop on Oxford street
+in London.
+Maudslay's first product was a new lathe
+he had designed. 
+A lathe is basically a machine which
+uses a screw as a moving base for a knife;
+the knife can cut wood, or if made of
+tempered steel, iron or copper.
+The 1800 Maudslay lathe was far larger
+than any of its predecessors (which were
+mainly used for ornamental work on small
+gewgaws) and his sliding tool-rest
+was perfectly mounted on accurately
+planed triangular bars.  Because Maudslay
+was a fanatic for accuracy, he built his
+lathes to extraordinarily fine tolerances
+for the era; but the big suprise was not
+that Maudslay's lathe could turn out more 
+accurate work faster than any other lathe.
+The real shock came when people realized
+that they could use Maudslay lathes to
+machine extremely accurate and regular
+screws and bars for use in *other*
+lathes, which in turn could produce
+*other* machine tools...  Starting with
+extremely accurate screws, it is 
+possible to build a huge variety of
+precision machine tools.  These tools
+in turn make possible the creation
+of even more precise machine tools.
+The process builds on itself in much
+the same way as the development of
+ever-more-powerful silicon chips has
+led to silicon compilers which in turn
+allow the construction of even more
+powerful computer chips by automated
+methods.
+The end result of Maudslay's lathe was
+that woodworking, metalworking,
+manufacture, toolmaking, and factories
+were all revolutionized.  Maudslay's
+lathe changed the nature of warfare
+and it made Britain the greatest sea
+power in the world.  It also made possible
+the modern orchestra and the modern
+piano.
+How so?
+Napoleonic warfare depended on the fact
+that rifles were inaccurate.  They were
+inaccurate because there was no way
+to rifle barrels with precise accuracy or
+to turn out standardized gun parts with 
+high precision at high speed.  This meant
+that if you shot at an enemy more than
+a few score yards away, your shot probably
+wouldn't hit.  So Napoleonic warfare depended
+on masses of infantry marching in lockstep
+toward one another until they got close enough
+to mow each other down.
+Britain became a great sea power when it built
+and equipped enough ships to rule the seas; but
+this wasn't possible without turning out more
+than 1400 block-and-tackle units to haul sails
+up and down *on each and every ship* (and that's
+only on 3rd-class ships.  First-line ships used 
+> 2000 blocks!).  These blocks and winches and
+pulleys were made of wood by hand.  There 
+weren't enough carpenters in Britain (or in
+Europe) for all the blocks the British navy
+needed, and you couldn't run a ship without
+'em.
+Marc Isambard Brunel came to Maudslay
+in 1800 with an idea to turn out these blocks
+for the Royal Navy using his new lathe; by 1808,
+the first large-scale mass production 
+facility in the world, Maudslay's factory,
+was turning them out by the truckload.
+To string a piano you need huge amounts of
+wire, and--even more important--you need
+precision machines to build the die through
+to draw the wire, and more precision machines
+to loop the wire at the ends, and even *more*
+precision machines to wind the lower strings.
+Maudslay's lathes made it possible to build
+such precision machinery, and as a result the piano
+rapidly evolved from a relatively thin-voiced
+instrument strung at low tension in the 1830s
+to a robust instrument with three wires per
+note at high tension and wound strings on the
+lower octaves by the 1880s--all due to
+the tidal wave of change produced in
+manufacturing by Madslay's lathe.
+Woodwind instrument had always been 
+nortoriously dicey in their intonation, in large
+part due to the problems of precisely boring
+amd machining wood (essentially the same 
+problem as rifling a musket barrel). By the 1880s
+woodwinds had reached high standards of
+precision (though they still depended crucially
+on those temperamental reeds).  Moreover,
+woodwinds plummeted in price along with brass
+instruments as precision machine tools 
+proliferated. 
+The valves of brass instrument benefited
+most of all from Maudslay's lathe because 
+of the precision tools built to bend and seal
+them.
+Eventually, wire strings became so common
+that they replaced gut strings in the string
+instruments, leading to the godawful 
+screeching-train sound of modern string
+instruments and a corresponding increase
+in sheer volume (and a precipitous drop
+in listenability--the average violin solo
+noawdays sounds like a cat being castrated).
+--
+The upshot of these precision machine tools
+was the 12 tone equal tempered scale. Musical
+instruments built by mass production could not
+be economically individualized so as to accomodate
+dozens of different meantone variants.  To make
+money turning out modern musical instruments,
+you must *standardize*--all exactly alike. When you
+build only one or two harpischords per year, you
+can easliy afford to use exotic three-tier keyboards
+fitted to special custom meantone tuning schemes...
+but when you build 100 pianos a year you must 
+settle on a single rigid standard keyboard. As
+soon as musical instruments became mass-market
+commodities, their tuning also had to be standardized
+to make a profit for the manufacturer.
+The result--as Ivor Darreg pointed out for many
+years--was that 12-TET was foisted on the
+musical world by musical instrument manufacturers,
+rather than by musical theorists, performers,
+or composers.  As Lou Harrison has pointed out, the
+advantages of 12-tet are "almost entirely economic."
+In fact Ellis reports that meantone "sounds by far 
+the sweetest" of all the intonations he tried; 
+clearly *technology* forced 12 equal tones on
+musicians, and they went along *reluctantly.*
+With the advent of the digitial synthesizer the
+iron fist of 12 made itself manifest in the velvet
+glove of digital technology.  As Ivor pointed out,
+once people started to hear pure unadulterated
+exactly precise 12, they fled from it in droves.
+Pianos and string instruments strayed gracefully from
+12, especially in the upper and lower registers--
+the octaves on a piano are systematically stretched,
+and vioinists tend to bend pitches whenever 
+they possibly can.  
+But with the earliest digital synthesizers, there
+was no choice--the intonation was burned into
+the ROMs and listeners and composers and
+performers were stuck with pure perfect 12.
+And the beats drove them crazy, so they slathered
+on hockey-rink reverb, they used phase shifting
+and multitrack tape and echo...  And as soon as
+retunable synths appeared, a mass exodus from
+12 began in earnest.
+Today we're in the middle of that intonational
+diaspora.  It has been created and supported by
+the technology used in our instruments.  As 
+computers move ever closer to real-time MIDI
+generation of Csound-type timbres, it will
+become easier and easier to specify with precision
+*both* tuning and timbre--and to control the 
+interaction of the two. 
+This will produce the next revolution in tuning,
+probably within the next generation or two, based
+on the ideas of William Sethares, John R. Pierce,
+Jean Clause Risset, J. M. Geary and James Dashow.
+Hot diggity!
+--mclaren
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 15 Nov 1996 18:32 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11636; Fri, 15 Nov 1996 18:34:02 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA13342
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA24326; Fri, 15 Nov 1996 09:33:55 -0800
+Date: Fri, 15 Nov 1996 09:33:55 -0800
+Message-Id: <v01510102aeb1e535318e@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

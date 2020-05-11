@@ -1,0 +1,59 @@
+source file: mills3.txt
+Date: Tue, 12 Aug 1997 02:28:23 +0200
+
+Subject: Re: TUNING digest 1150
+
+From: Paul Rapoport <rapoport@mcmail.CIS.McMaster.CA>
+
+Could we please avoid the term *quartertone* for anything but the unit of
+24-tET? As soon as you say a quartertone is the unit of 31-tET, you might
+as well use the term to describe any small interval, with the result
+becoming terminologically chaotic. If desired, the 31 unit could be called
+a fifthtone, as long as we realize there's a diesis lurking. In other
+words, a 31-tone scale has 6 whole tones divided into fifths plus a
+diesis. (6 x 5 + 1 = 31.) Each of the fiftones is of course the diesis
+itself. (Not a JI diesis, needless to add...)
+
+I am reminded of a story Easley Blackwood often told. When he mentioned to
+a student that he was working on his project involving all the ETs between
+13 and 24, the student replied, "Oh, you mean quartertones."
+
+(Don't take the story too literally--maybe E B was talking about
+microtonality in general. I don't remember.)
+
+The notation pithily described by Paul Erlich has been used for 19 and 31
+for a long time. There is no reason to change it for tonal/modal (centric)
+music that I know of. The symbols + and - have a long history too and are
+thoroughly annoying on a five-line staff. I suggested some time ago
+changing them to / and \ or shorter variants thereof.
+
+Paul Rapoport
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net
+Subject:  Re: TUNING digest 1150
+PostedDate:  12-08-97 16:02:28
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-08-97 16:02:28-12-08-97 16:02:29,12-08-97 16:00:52-12-08-97 16:00:53
+DeliveredDate:  12-08-97 16:00:53
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564F1.004D1E74; Tue, 12 Aug 1997 16:02:20 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08857; Tue, 12 Aug 1997 16:02:28 +0200
+Date: Tue, 12 Aug 1997 16:02:28 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA08461
+Received: (qmail 18463 invoked from network); 12 Aug 1997 14:00:08 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Aug 1997 14:00:08 -0000
+Message-Id: <v01541100b0166a2c72fb@DialupEudora>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

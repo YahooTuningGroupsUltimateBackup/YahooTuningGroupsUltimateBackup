@@ -1,0 +1,74 @@
+source file: m1514.txt
+Date: Tue, 25 Aug 1998 03:29:16 -0700 (PDT)
+
+Subject: Re: geometrical mean (Digest 1513 Topic 4)
+
+From: Mark Nowitzky <nowitzky@alum.mit.edu>
+
+Hi Jan (et al),
+
+At 04:01 PM 8/24/98 -0400, you wrote (in Digest 1513 Topic 4):
+>From: Jan Haluska <jhaluska@mail.saske.sk>
+>Subject: geometrical mean
+>
+>if  X , Y  are two tone frequencies, 
+>how to tune the  value  Z=sqrt(X*Y)  acousticaly
+>( sqrt(X*Y)  denotes the geometrical mean of the tones  X  and  Y )? 
+>Demonstrate the method on   X = 1,   Y =   5/4 .
+
+I'll give it a try (while I have insomnia).
+
+It's easy if you're in an Equal Temperament.  Take 12tET on a conventionally
+tuned piano.  If you number the piano keys left to right from 1 to 88, you
+can just take the average (AKA the "arithmetic mean") of the two key numbers
+to get the tone in question.
+
+For example, take the C and E at the bottom (left) of a piano.  The C is the
+4th key, and the E is the 8th key.  The "answer" becomes (4+8)/2, = 6.  The
+6th note is D.
+
+The geometric mean of the frequencies is the arithmetic mean of the note
+numbers.  It works this way because as you go up from note to note, the
+frequencies go up exponentially.  The math is kind of indirectly relying on
+this property:
+        S^(M+N) = S^M * S^N
+where "*" means "times", and "^" means "to the (power of)".
+
+Z is the "midpoint" between X and Y, in the sense that you want the interval
+from X to Z to equal the interval from Z to Y.  As long as there is an even
+number of semitones between X and Y, the Z will also be an integer.  But if
+they're an odd number apart, Z will lie on a "quarter tone".  Examples:
+
+  X            Y                                Z
+  -   --------------------   --------------------------------------
+  C   C (an octave higher)   F# (between the C's)
+  C   G (a "fifth" higher)   E half-flat (halfway between E and Eb)
+
+With Just Intonation it's the same math, but...  If you're using "justly
+intoned" notes, it's less likely that the resultant "average" note will also
+be justly intoned.  Examples:
+
+  X (1/1)             Y                            Z
+  -------   ---------------------   ---------------------------------
+     C      G# (25/16, two "major   sqrt(25/16), = 5/4, = E
+                thirds" higher)     (one "major third" up from the C)
+
+     C      E (5/4, as in           sqrt(5/4), approx 1.118, approx D
+               your example)
+
+As long as the interval from X to Y amounts to two of the same just interval
+side by side, the result is just one of that interval.  But if the result of
+the square root is irrational, then you're departing from Just Intonation,
+since it's based on ratios (AKA "rational" numbers).
+
+I hope this info leads you to what you're looking for (and I hope all this
+makes sense in the daytime).
+
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu    AIM:  Nowitzky      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

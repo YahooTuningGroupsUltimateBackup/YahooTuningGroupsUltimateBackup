@@ -1,0 +1,139 @@
+source file: mills2.txt
+Date: Fri, 6 Dec 1996 06:50:45 -0800
+
+Subject: Three views on the fourth
+
+From: Eric Lyon <eric@cmlab.sfc.keio.ac.jp>
+
+I finally got around to Bill Alves's excellent response to my
+Bach Italian Concerto post which I repost here as it definitely 
+bears re-reading.
+
+I wrote:
+
+>>If we flip to the last four bars of the first movement of
+>>JS Bach's Italian Concerto,we are presented with a big fat I(6/4) chord
+>>on the downbeat. Question: do you hear this simultaneity as
+>>a consonance or a dissonance? I can only speak for myself;
+>>I hear it as a flaming dissonance which Bach briefly savors
+>>by abruptly slowing the rhythm after 12 bars of steady 16th notes.
+
+Bill Alves wrote:
+
+>I'm afraid that I do not hear it as a dissonance. There are several
+>historical reasons why the fourth was treated as a dissonance, but I think
+>one is that the systems of common-practice counterpoint used "dissonance"
+>interchangeably with "tension." Certainly this is not the case, and
+>something Babbitt I think fails to represent accurately in his zeal to
+>expose the arbitrary nature of common-practice counterpoint rules.
+
+>Can you have tension in tonal music without dissonance? Clearly so.
+>Dunstable and some other early 15th century composers wrote very beautiful
+>music with few or no dissonances, yet the music seems to me to have tension
+>and release about it.
+
+There are some important points here which I strongly second. 
+Although I believe we do hear the passage differently in subtle
+ways, I suspect our structural hearing is similar with greater
+differences in terminology than concept. 
+
+In particular we both agree that there needs to be greater
+precision in using the word "dissonance" and that there needs
+to be a very clear distinction between dissonance due to
+the spectral, intervallic, and overtone complexity of a 
+given chord or time-slice, and tension (as Bill uses the term)
+owing to contextual factors such as syntax, stylistic norms,
+rhythm, density, etc. 
+
+The fourth is an especially interesting interval since it is treated as a 
+"switch-hitter" in traditional tonal music theory - it's not considered a 
+dissonance in a 6/3 (first inversion) triad, but is considered
+a dissonance in certain contrapuntal contexts. In this case
+I think Bill's description of it in the 4-3 suspension as a non-dissonance
+is in conflict with the traditional contrapuntal labelling
+(of course not all suspensions contain dissonance, eg 6-5s), but
+is consistent with the more specialized, sonority-local use
+of "dissonance" described above which seems to be more commonly
+adopted in discussions of consonance and dissonance with
+respect to tuning systems. The issue of "correctness" is of course
+much less important than bringing us to closer understanding of
+musical phenomena and Bill's remarks certainly add clarity and
+perspective to both the specific Bach example and the more general
+issue of treatment of fourths in tonal music.
+
+In that spirit, let me introduce one more way of viewing the fourth -
+Heinrich Schenker's, which as I recall from "The Will of the Tone",
+is based on an abstract view of the triad as the foundation of
+both linear and harmonic motion. Schenker interprets the
+overtone series as a "hint" to the artist who takes the triad
+and discards the rest of the inconvenient (to his theory) overtones. 
+The triad and the facility to move in tonal space as defined
+by the triad becomes the composer's "a priori". I can't recall
+the example Schenker gives for tonal space, but the opening
+melody for Bach's Brandenburg #3 is an excellent example:
+despite neighboring notes everywhere, it is evident that the
+melody is unambiguously outlining a tonic triad. 
+
+>From Schenker's point of view, a fourth might be heard as dissonant 
+owing to its melodic status as a passing tone in the interval
+sequence 5-4-3, since the reference tonal space is 5-3, i.e. the
+upper half of the triad outlined over the bass. It's difficult to discuss
+hierarchies of tone without being tempted to say that some notes
+are more "important" than others, which is subtly different from
+saying that some notes have more structural weight, or different
+syntactic function. So rather than call the fourth in the above
+context "dissonant" it is perhaps better to call it
+"unstable" in the same way that a sentence like
+"I walked my ..." is unstable at the point I broke it off.
+
+>Because the fifth of the chord is on the bottom, the 6/4 chord is not as
+>stable as the 5/3. Some theorists say this is because the 3rd harmonic of
+>the lowest note forms a dissonance with the other two notes of the triad.
+>There may be something to that, but of course Bach never thought of it that
+>way. It is easier to think of it as 6/4 "resolving" to 5/3, the same way
+>5/4 would resolve to 5/3.
+
+Agreed. I would add to this that in a tonal context, the I(6/4) chord takes on
+considerable tension, since it does not in fact function as a I chord
+at all (despite contain containing precisely the full set of pitches from the
+tonic chord). Instead the driving feature of this chord is its bass note, degree V,
+and the chord functions as a precursor to V. Therefore through purely syntactic function,
+the chord, despite being consonant takes on a double instability: it is
+a stand-in for the dominant - a tonally unstable region, but made even more unstable
+by the fact that the dominant has not yet arrived but is imminent.
+
+This to me is a beginning of an explanation as to how two sonorities,
+one clearly more inherently dissonant than the other, can have their inherent dissonant
+properties overridden by other contextual features of the music, such that the
+less dissonant sonority takes on a high degree of tension in the music, and the
+considerably more dissonant sonority takes on a less tense position.
+
+As Bill concisely states:
+
+>Musical styles are created as a way of manipulating the physics and
+>perception of sound towards artistic ends.
+
+
+It occurs to me that technical discussions of compositional deployment
+of contrapuntal principles push the bandwidth boundaries of email groups.
+Perhaps for that reason we haven't seen too many such discussions, although
+I recall a few enlightening posts on the interaction between tunings and
+voice leading by Gary Morrison quite awhile ago. Nonetheless, I'm a counterpoint 
+nut and would be very happy to see more such postings by other members.
+
+Eric Lyon
+eric@iamas.ac.jp
+http://www.iamas.ac.jp/~eric
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Dec 1996 16:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21771; Thu, 5 Dec 1996 11:03:14 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA21259
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id CAA18013; Thu, 5 Dec 1996 02:03:12 -0800
+Date: Thu, 5 Dec 1996 02:03:12 -0800
+Message-Id: <961205100108_71670.2576_HHB21-12@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

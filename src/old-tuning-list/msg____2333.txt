@@ -1,0 +1,82 @@
+source file: mills2.txt
+Date: Fri, 17 Nov 1995 22:55:46 -0800
+
+Subject: RE: LCMs and minimum chords
+
+From: Mmcky@aol.com
+
+Many on this list are teachers, and therefore much better
+qualified to explain Least Common Multiple than I, but, since I
+am the one who constantly uses the concept, I will make an
+attempt.  Any help would be appreciated.
+
+The reason I think LCM is important to music, is that it
+describes a physical reality.  If A single tone is a repeating
+waveform, the  period of the signal is simply the inverse of its
+frequency.  When you mix two or more tones, you get a signal
+whose period is the least common multiple of the periods of the
+individual tones.
+
+There are at least two fairly simple ways of computing the least
+common multiple of a set of integers.  One is to factor the
+integers, and take the highest power of any single prime.  For
+example to find the LCM of 12, 15, and 20, we factor the three
+numbers into 2^2*3=12, 3*5=15, and 2^2*5=20.  The result is
+2^2*3*5, or 60.  This may be the simplest method when computing
+LCM's by hand for small numbers with small prime factors.
+
+The other method is better for dealing with large numbers with
+large prime factors, and is much faster for these problems, but
+it is a little more difficult to program.  One applies Euclid's
+algorithm to two of the numbers, and finds the greatest common
+divisor.  Then apply the same method to the LCM just calculated
+and the next number.  Iteration of this method gives the LMC of a
+large set of number fairly rapidly.
+
+Here's a brief description of Euclid's Algorithm.  Divide the
+smallest number into the larger, throw away the answer and keep
+the remainder.  Divide the remainder you just calculated into the
+smaller of the original numbers.  Keep doing this until you reach
+a zero remainder.  The last number you generated before you
+reached the zero divisor is the greatest common divisor.
+
+For 12 and 15: 12/15 = 1 remainder 3
+               12/3  = 4 remainder 0
+
+The gcd is 3.  Then take (12*15)/3=60.  The LCM of 12 and 15 is
+60.  Now we need to find the LCM of 60 and 20.
+
+For 20 and 60: 60/20 = 3 remainder 0
+
+The gcd of 60 and 20 is 20. (20*60)/20=60.  The LMC of 60 and 20
+is 60.
+
+A minimum chord set is one that has the lowest LCM's and spans
+the octave.  It requires computing the LCM's for all the possible
+chords of interest in a scale, (I use triads.), and then sorting
+the chords according to their LCM's.  I also sort according to
+the smallest numbers in the triad, and then according to the
+notes in the scales on which the triad is built.  This gives me
+an unambiguous definition of the minimum chord set, but it is not
+really clear to me that this actually produces the best minimum
+chord set.
+
+It might be interesting to sort all possible minimum chord sets
+according to a composite, or sum, of their LCMs.
+
+I hope this helps those of you who want to learn more about this
+approach to scale analysis.
+
+Marion
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Nov 1995 14:54 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id EAA01093; Mon, 20 Nov 1995 04:54:29 -0800
+Date: Mon, 20 Nov 1995 04:54:29 -0800
+Message-Id:  <9511200453.aa11876@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

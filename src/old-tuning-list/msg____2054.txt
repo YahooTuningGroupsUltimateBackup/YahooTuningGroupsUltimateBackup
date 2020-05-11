@@ -1,0 +1,267 @@
+source file: mills2.txt
+Date: Tue, 26 Sep 1995 10:34:05 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & psychoacoustics - Post 3 of 25
+---
+The psychoacoustic literature overwhelmingly points to the conclusion that, 
+first and foremost, the ear/brain system is *complex.*
+There is no one simple explanation for how we hear.  The ear/brain system 
+generates false information, throws away some of the sound waves 
+physically received by the ear, and transforms the rest, either subtly or 
+grossly, in the process first of encoding the physical rarefactions and 
+compressions of air into neural impulses, and subsequently processing the 
+neural information in higher brain centers.
+While the physical process by which the organ of Corti responds to incoming 
+sound waves and the impulses produced in the auditory nerve are known facts,  the arguments among various investigators arise from the *interpretations* of these facts. Some psychoacoustic 
+researchers claim a primary role for the physical acoustic transduction of 
+ others claim that the operation of higher brain functions on the encoded nerve impulses is most important (the theory of tuning as a  learned response). 
+Because of the extraordinary variation in reliability and competence among 
+the various authors of psychoacoustic texts over the last century, and 
+because of the rapid progress in the field (which has rendered many earlier 
+texts obsolete), the interested reader is advised *not* to unquestioningly 
+believe *any* references dated earlier than 1970.
+Rather, the reader is advised to *study as much of the 
+psychoacoustic literature as possible*, excerpts of which and references to 
+which are listen extensively in this article.
+Only in this way can the objective reader get a real sense of the 
+extraordinary complexity of human hearing, and the provable falsity of 
+claims that "the ear is simple," "Helmholtz explained it all," or "so-and-so's 
+book on musical acoustics written in the 1950s tells us everything we need 
+to know about human hearing."
+Reading is not enough.  Since the subject is what we hear and how, the 
+reader must also listen and make up hi/r own mind.
+After perusing this post, the reader is strongly advised to listen to the 
+following tapes/CDs and study the following references: 
+[1] "Auditory Perception: An Audio Training Course," by F. Alton Everest. This 
+is the best single audio-tape set of examples of classic experiments  
+demonstrating the complexity of the hearing process. At $159 this 104-page 
+manual and 4 audio cassette set isn't cheap. However, if you read the manual 
+and listen to the tapes, you'll quickly learn the basics of how we *actually* 
+hear (as opposed to how most musical theory textbooks and all too many 
+outdated acoustics and psychology texts *claim* we hear).
+[2] "The Science of Musical Sound," by John R. Pierce, 2nd edition, 1992, with 
+accompanying audio cassette, covers the simplest elements of 
+psychoacoustics.
+The cassette is useful for elementary phenomena--binaural beats, 
+"streaming," the critical band, consonance of simple vs. complex tones, etc., 
+but it cannot subsitute for Everest's far more complete set of 
+demonstrations.
+[3] Houstma, Rossing and Wagenaars, 1987, "Auditory Demonstrations," 
+Philips 1126-061. An 80-track CD compendium of psychoacoustic 
+demonstrations of many psychoacoustic phenomena.
+[4] Mathews, ed., "Sound Examples: Current Directions In Computer Music," 
+MIT Press, 1989.  A disc with a wider range of synthesized psychoacoustic 
+examples than the original cassette companion [2] above. 
+[5]  "Introduction To the Physics and Psychophysics of Music," 2nd ed. 1973 
+and 3rd ed. 1995 by Juan Roederer contains one of the best general 
+discussions of the psychoacoustic literature up to that time (1973).  
+Roederer covers a wide range of surprising characteristics of the ear/brain 
+system which are entirely ignored by less complete, and sometimes 
+completely misinformed or out-of-date texts published around the same 
+period.  
+[6] "The Science of Music Sounds" by Johan Sundberg (1992) is one of the 
+best general references on modern psychoacoustics to date. It contains more 
+up-to-date citations than any text other than Zwicker and Fastl, and it 
+quotes a wider ranger range of sources than any other text but Sundberg 
+(1992) and Deutsch (1982).
+[7] "The Psychology of Music," ed. Diana Deutsch, 1982, contains an excellent 
+cross-section of definitive summaries of various psychoacoustic phenomena 
+by the leaders in the field.
+[8] "Psychoacoustics: Facts and Models," by Zwicker and Fastly, 1993, is the 
+best in-depth discussion of experimental psychoacoustics. It does not 
+discuss the various theoretical models of the ear/brain system and does not 
+cover streaming, nor does it consider the musical implications of 
+psychoacoustics.  Within its limits, however, it's the best reference on the 
+experimental side of the field for the specialist.
+[9] "Audition" by Pierre Buser and Michael Imbert (translated by R.H. Kay), 
+1995, is the most detailed book on the physical structure of the ear/brain 
+system to date.  It also offers the most complete picture to date of the 
+neural structure of the ear/brain pathway, along with a micrometric
+discussion of the various kinds of neurons which repond to
+different frequencies, amplitudes, frequency differences, etc. passed along 
+the auditory nerve.  This book also does not discuss large-scale theoretical 
+models of the ear/brain system, nor does it concern itself with such high-
+level phenomena as categorical perception or auditory illusions; but on the 
+level of the physical neural structure of the ear/brain pathway it is 
+unmatched.
+Lastly, readers should *avoid* the statements about psychoacoustics 
+contained in many of the following well-meaning but outdated or simply 
+erroneous texts:
+"The Acoustical Foundations of Music" by Backus, 1969, contains accurate 
+information on acoustics and the physics of some musical instruments.  
+Unfortunately, almost all of Backus' statements about psychoacoustics had 
+been proven incomplete or incorrect by the time of publication of his book 
+(1969).
+For example:
+"The sense of pitch (related to vibration frequency) is thus partly 
+determined by the place along the basilar membrane where the vibration 
+amplitude is largest. There must be other factors also, since for sounds 
+close together in frequency, especially at low frequencies, the difference in 
+motion of the basilar membrane does not appear great enough to account for 
+the pitch discrimination of a good musician." [Backus, 1969, pg. 81]
+This statement is correct but incomplete: the periodicity theory of hearing 
+can explain pitch discrimination at low fundamental frequencies but Backus 
+never mentions it. In fact the word "periodicity" does not appear in the index 
+of his book.
+Again:
+"Complex tones may also be built up out of harmonics but with the 
+fundamental omitted. The ear generally hears such tones as having the 
+fundamental frequency, even though there is no actual vibration of that 
+frequency present in the sound.  This missing fundamental effect is 
+explained on the basis of difference tones, since any two adjacent 
+harmonics will have a difference tones of the fundamental frequency." 
+[Backus, 1969, pg. 106]
+This explanation dates from Helmholtz's time (1860s) and is known to be 
+incorrect. "One of the experimental results in Chapter 3 was that the 
+detectability threshold for combination tones is significantly lower for 
+small than for large frequency differences between the primary tones.  From 
+this, the conclusion was drawn that the ear's distortion cannot be 
+represented by a frequnecy-independent nonlinear characteristic." [Plomp, 
+1966, pg. 121]
+"Helmholtz's belief that summation tones and difference tones are the most 
+prominent aural combination tones has become very widespread. However, 
+recent psychophysical and physiological experiments have revealed that this 
+belief is unjustified (Zwicker, 1955; Holdstein, 1970). Evidence for aural 
+summation tones has never been found, and difference tones arise only for 
+stimuli of relatively high intensity." [Houtsma, Adrian, "What Determines 
+Musical Pitch?" Journal of Music Theory, Vol. 17, No. 1, 1973, pp. 139-158] 
+Clearly Backus is misinformed and is passing that misinformation along to 
+his readers.
+Other inaccuraies abound in Backus' text.
+Jean-Claude Risset and Max Mathews, two of the most important pioneers in 
+analyzing real-world musical timbres, found in 1969 that instrument sounds 
+synthesized using fixed harmonic overtones sounded lifeless and artificial. 
+"Attempts of synthesis show how grossly inadequate it is to describe the 
+tone quality by a simple frequency spectrum."  [Pierce, J.R. , Mathews, M.  
+and Risset J-C., "Further Experiments on the Use of the Computer in 
+Connection with Music," Grasvener Blaetter, no. 27/28, pg. 93, 1965] 
+In 1963--when Backus was still writing his text--Max Mathews pointed out: 
+"Our experience has shown how little we now know about relation of the 
+quality of sound to various features of waveform." [Mathews, M., "The Digital 
+Computer As a Musical Instrument," Science, Vol., 142, November, 1963, pg. 
+554]
+Risset describes the state of ignorance which prevailed in the field of 
+musical acoustics through 1969 (the year in which Backus' text was 
+published): "Despite the considerable skill and ingenuity of scientists such 
+as Hermann Helmholtz or Dayton C. Miller, early analyses of musical-
+instrument tones have not given satisfactory results. (...)  For a long time 
+physicists have performed analyses of musical-instrument tones, to find 
+out the physical correlates of their tone quality.  Many results of such 
+analyses have been published. (...) Computer sound synthesis makes it 
+possible to synthesize virtually any sound from a physical description of 
+that sound.
+"This technique provides a way to check sound analyses: a successful 
+analysis should yield a physical description of the sound from which one 
+could synthesizer a sound that, to a listener, is nearly indistinguishable 
+from the original.
+"We have tried to use the results of analyses of musical-instrument tones 
+that are to be found in musical-acoustic treatises as input data for 
+computer sound synthesis.  In most cases we have obtained sounds that bear 
+very little resemblance to the actual tones produced by the instrument 
+chosen; in almost all cases the available descriptions of musical-
+instrument tones fail the fool-proof synthesis test.  Hence the descriptions 
+must be considered inadequate." [Risset, J.C. and Mathews, Max, "Analysis of 
+Musical-Instrument Tones," Physics Today, Volo. 22, No. 2, February 1969, 
+pp. 23-24.]
+By Backus' own admission, his text was based on a series of lectures 
+developed over 10 years--which means that his psychoacoustic references 
+date from the 1930s, 1940s and 1950s during a critical period of upheaval 
+in psychoacoustics caused by the application of computers to music. 
+Backus does not mention computer analysis of sound: "The mechanical 
+method of analyzing sounds was cumbersome, slow and inaccurate; much 
+better equipment is available now for this kind of work.  This equipment is 
+electronically operated and therefore much faster; an oscillogram can be 
+obtained in one cycle of sound and analysis of the sound wave can be made in 
+one second or less." [Backus, 1969, pg. 101]
+As Risset points out, the use the oscillograms prevents researchers from 
+following the evolution of a sound's spectrum throughout a long time period.  
+Thus Backus' techniques are by definition inadequate and out of date.
+None of Backus' references hint at the then-unpublished results of 
+Guttman, Shepard, Risset and Mathews, which changed the entire field of psychoacoustics.
+Thus Backus' book is full of errors and misconceptions about the ear/brain system and should be ignored. 
+"Genesis of a Music" by Harry Partch, (1947, 2nd ed. 1974) contains much 
+valuable information about just intonation, acoustic instrument-building 
+and the fundamentals of musical acoustics.  Alas, virtually all of Partch's 
+statements about consonance, dissonance, human hearing and the ear/brain 
+system are claptrap.  He cites no psychoacoustic literature dated later than 
+1945: Partch was simply unfamiliar with modern experimental evidence 
+about the ear/brain system.
+"Musical Engineering," by Harry F. Olson is an excellent introduction to the 
+physics of sound production in musical  instruments.  The statements about 
+musical timbre, the ear/brain system and consonance/dissonance embodied 
+the best knowledge up to that time (1957).  Unfortunately, most of what 
+Olson says about musical timbre, consonance,  hearing, etc., was disproven 
+by the experiments of Wessel, Risset, Ward, and many others in the 1960s 
+and early 70s.
+""[On] my arrival in the States in 1964...I elected to focus on timbre.  The 
+palette  of computer sound, potentially boundless, was in fact quite 
+restricted, and one did not know how to generate certain sounds. In 
+particular, brassy sounds resisted synthesis efforts. I had to convince 
+myself that the recipes of respected acoustics treatises (like H. F. Olson's) 
+did not work.  As one may judge, from tones synthesized from such recipes, 
+they did not." [Risset, Jean-Claude, "Computer Music Experiments 1964...", 
+Computer Music Journal, Vol. 9, No. 1, Spring 1985, pg. 11]
+"Fundamentals of Musical Acoustics," by Arthur Benade (1976) contains 
+reliable details on acoustics, but some of  Benade's information on sound 
+production in various instruments has now been proven incorrect--
+particularly, Benade's theory of "regimes of oscillation" for brass 
+instruments. 
+Benade's text, like Backus, does not contain the word "periodicity" in its 
+index. And many of Benade's statements on psychoacoustics contradict the 
+results of modern research,  although to his credit Benade himself admits 
+this: "The foregoing remarks disagree somewhat with the conclusions drawn 
+by the authors of the following thoughtfully written papers:
+J.E. F. Sundberg & J. Lindqvist, "Musical Octaves and Pitch," JASA, Vol. 54, 
+1973, pp. 922-929," and so on.   
+Benade's references on psychoacoustics show strange gaps and a peculiar 
+selectivity.  Ohm, Stumpf, Seebeck, Schouten, Plomp, von Bekesy, Sundberg, 
+Ward and Burns are not cited in the biolography at the end of the chapter 
+"The Acoutical phenomena governing the musical relationships of pitch," 
+while Pierce, Mathews, Shepard, Risset, Sundberg, Ward and Burns are not cited in the chapter "Successive Tones: Reverberation, Melodic Relationships, and Musical Scales." 
+Instead an article by Steven and Volkman dating from 1940 is cited, 
+along with Helmholtz--whose work dates from the 1860s--and "The 
+Collected papers of Wallace Sabine," another 19th-century figure. 
+For a researcher in the 1970s to write a text whose primary psychoacoustic 
+citations hail from the 1860s-1880s is peculiar, to say the least. Like Hall, 
+Benade is a physical acoustician whose bibliography and reference lists 
+betrays a scanty knowledge of modern psychoacoustics, and an unsavory 
+penchant for discarding results with which his simplistic mathematical 
+models disagree.
+Rossing, "The Physics of Music," 1993, is a comprehensive discussion of the 
+physical basis of acoustic instrument timbre, but it contains very little 
+information about psychoacoustics.  To be fair, that was not Rossing's focus.  
+Still, the text contains nary a mention of Wessel's streaming phenomenon, 
+no reference to Ward, Corso, Pikler, Sundberg and Terhardt's findings  on the 
+universal preference for stretched octaves, fifths and thirds; no information 
+on how pitch perception is affected by masking, context, tone length, etc.; 
+no distinction twixt physical and perceptual pitch or physical and 
+perceptual loudness, etc.
+Other texts may prove popular.  Before believing any reference on 
+psychoacoustics, be sure to check its date. Many pre-1970 acoustics text 
+either lack important psychoacoustic data, are outdated, or contain a wealth 
+of outright misinformation parrotted from Rameau, Mersenne and Helmholtz.
+Check the bibliographies of these suspect texts--notice how few post-1945 
+papers are cited, and how often the authors take issue with well-known and 
+accepted results from the 60s, 70s, 80s and 90s verified independently by 
+many reserachers in psychoacoustics on 4 continents.  Lastly, simply 
+compare what you hear on F. Alton Everest's tapes and the Houtsma, Rossing 
+and Wagenaars disc and the Mathews "Sound Examples: Current Directions in 
+Computer Music" disc with claims made by the author in question.
+--mclaren 
+ 
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 26 Sep 1995 21:23 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA17646; Tue, 26 Sep 1995 12:22:26 -0700
+Date: Tue, 26 Sep 1995 12:22:26 -0700
+Message-Id: <199509261918.AA04185@net4you.co.at>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,47 @@
+source file: m1404.txt
+Date: Mon, 4 May 1998 05:14:58 -0500
+
+Subject: Optimal Integer Ratios for 12et
+
+From: "Benjamin Tubb" <brtubb@cybertron.com>
+
+For those who might be interested, the following info was determined within the
+"constraint" of using a divisor of 2048 or less. Its usefullness is in being
+able to compare cents to ratios and vice versa for tuning evaluations and
+applications in such programs as "Pitch Palette" <http://www.justonic.com>. A
+simple BASIC program was used to tackle these optimisations with a "brute
+force" approach, inelegant but effective <g>.
+
+Integer Ratio Equivalents to 12et Tunings
+within a tolerance of .001 of a Cent:
+
+Cents  Ratio
+-----  -----
+0000   1/1
+ 0100   1080/1019
+ 0200   575/512
+ 0300   1217/1023
+ 0400   2580/2047
+ 0500   1366/1023
+ 0600   2896/2047
+ 0700   3068/2047
+ 0800   813/512
+ 0900   1721/1023
+1000   1825/1024
+1100   3867/2048
+1200   2/1
+
+Does anyone know what the physical "tolerance" of the human ear is to
+pitch/frequency/cents variations with the range of MIDI note (0-127)
+frequencies from 8.175 Hz to 12543.853?
+
+-------------
+Benjamin Tubb
+AIM: brtubb
+brtubb@cybertron.com
+http://home.cybertron.com/~brtubb
+
+"Music creates order out of chaos; for rhythm imposes unanimity
+upon the divergent, melody imposes continuity upon the disjoin-
+ted, and harmony imposes compatibility upon the incongruous."
+       - Yehudi Menuhin, from "Theme and Variations"

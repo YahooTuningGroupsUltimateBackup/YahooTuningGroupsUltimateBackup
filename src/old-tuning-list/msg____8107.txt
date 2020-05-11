@@ -1,0 +1,22 @@
+source file: m1449.txt
+Date: Tue, 16 Jun 1998 17:35:01 -0400
+
+Subject: RE: Sixth comma meantone temperament: "per comune opinione perfet
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Thanks for the interesting experiences. I posted some time ago to the
+effect that the optimal meantone tuning for triadic harmony was
+something very close to 3/11-comma meantone, but for diatonic dominant
+sevenths something close to Pythagorean is optimal, and for diatonic
+dominant ninths an even larger fifth is preferable. I don't remember the
+exact numbers but I can dig it up if you wish (or check the archives). I
+do think 12tET effectively mediates between these different options.
+
+Late last night I tuned my Ensoniq to an approximation of quarter-comma
+meantone by alternating 697 and 696 cent fifths in the tuning tables. So
+the good major thirds are all represented by 386 cents in the tables.
+Since the true tuning resolution of the Ensoniq is 512 notes/octave,
+these come out as 165/512 octave or 386.7 cents, comparing well enough
+with the just value of 386.3 cents that it really sounds like true QC
+meantone.

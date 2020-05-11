@@ -1,0 +1,24 @@
+source file: m1450.txt
+Date: Wed, 17 Jun 1998 18:05:07 +0000
+
+Subject: Sample looping
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+Drew wrote:
+
+> What's up with the "(remotely?)" bit ? Someone please correct me if I've 
+> got something  wrong.
+
+Drew, as I say, I'm not sure if I understood you correctly, but some 
+samplers (eg., Roland S770 series, Akai S1000 series) keep sample 
+looping parameters in ROM.  On the Roland, for example, up to 512 
+samples (ie, the total number of samples that can be loaded at one 
+time) can be looped any which way you like and it will make no 
+difference at all to the amount of RAM that is available.  I'm sorry, 
+I can't tell you if this is the same on the EMU units, but I suspect 
+that, on these, as you say, looping may eat into RAM.  
+
+This is all I was referring to, not questions of detuning.
+
+Patrick O-L

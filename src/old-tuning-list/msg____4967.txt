@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Mon, 3 Mar 1997 14:54:50 -0800
+
+Subject: Buzz Feiten Tuning System
+
+From: John Chalmers <non12@deltanet.com>
+
+I recently received some email and an informational packet from the
+Buzz Feiten Design Company, a company founded by Buzz Feiten to
+commercialize the patented Buzz Feiten Tuning System. Reviewers in 
+Guitar Player and Guitar Shop have been enthusiastic about the sound.
+
+The BF Tuning system is a set of corrections to put 12-tet guitars 
+in better tune by moving the nut two millimeters nearer the bridge and
+making small unspecified adjustments for each string. The point of
+these corrections is primarily to compensate for the increase in string
+tension due to stopping, particularly near the net, and secondarily
+for the traditional fret placement according to the "Rule of 18."
+I was somewhat surprised to learn that the "Rule of 18" is still
+used as it virtually guarantees that the octave will be off by 
+about 12 cents (The frets are placed at successive distances of 17/18; 
+18/17 is about 99 cents.)
+
+I've queried their rep David Marcus about applying it to non-12.
+I would think the nut movement itself and a linear interpolation based 
+on the positions of the nearest 12-tet frets would work adequately, but 
+I don't know. 
+
+Buzz Feiten's email address is BuzzInTune@aol.com.  Apparently a number 
+of guitar repair shops and manufacturers, mostly in So. California, have 
+been licensed to use this system. 
+
+Eduardo Sabat-Garibaldi published a set of complex and comprehensive
+BASIC programs in his book "Principios de la Gama Dina'mica to fret 
+guitars to his 53-tone 1/9th skhisma system. I should think they 
+could be easily modified for any other tuning as well. 
+
+Mark Rankin also has a computer program to calculate fret positions,
+but I don't know if it makes these types of corrections.
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 4 Mar 1997 00:41 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03521; Tue, 4 Mar 1997 00:41:55 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03571
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id PAA01336; Mon, 3 Mar 1997 15:30:09 -0800
+Date: Mon, 3 Mar 1997 15:30:09 -0800
+Message-Id: <199703032328.IAA22162@inetnif.niftyserve.or.jp>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

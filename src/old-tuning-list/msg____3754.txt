@@ -1,0 +1,38 @@
+source file: mills2.txt
+Date: Tue, 8 Oct 1996 20:16:18 -0700
+
+Subject: marion tuning resolution
+
+From: ice777@cdsnet.net (Michael Vannice)
+
+When I posted that the tuning resolution of Marion Systems MSR-2 and
+ProSynth was 1/512 of a semitone, I was taking the word of my owner's manual
+and also of Jim Aikin's review of the MSR-2 in Keyboard, February, 1995,
+pp.124-125, in which he writes: 
+   "We can recommend the MSR highly to musicians who want to make use of
+alternate tunings. Each ASM module stores four complete 128-note tuning
+tables. Each patch is stored with one of the tables already selected (or
+with equal temperament). The tuning resolution is an astonishing 512
+increments per half-step, or about .2 cent.
+   "Just as astonishing: In tests with a stripped-down test tone patch, we
+could hear that that fine resolution really existed, and was stable from one
+hardware voice to another. When we played a two-note interval and adjusted
+the intonation of one of the notes, we could hear the rate of beating
+between overtones increasing very gradually." 
+   I haven't done any testing of my own. But regardless of the actual
+resolution, I do enjoy having four user-tuning tables in an analog sound module.
+   
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 9 Oct 1996 07:24 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01208; Wed, 9 Oct 1996 07:26:11 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA01197
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id WAA28197; Tue, 8 Oct 1996 22:26:08 -0700
+Date: Tue, 8 Oct 1996 22:26:08 -0700
+Message-Id: <v01540b12ae80e4bd60e5@[131.172.160.53]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

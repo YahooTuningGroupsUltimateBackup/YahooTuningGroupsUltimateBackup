@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Wed, 19 Feb 1997 07:47:50 -0800
+
+Subject: RE: Ghosttones and LucyTuning
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+An error in my post:
+
+I wrote
+
+>If you use a weighted mean, with weights inversely
+>proportional to the limit (following Partch who said higher-limit intervals 
+>need to be tuned more accurately in proportion to their limit), you get a
+>perfect fifth of 696.019 cents.
+
+"Inversely proportional to the limit" should be "proportional to the square 
+of the limit," the square being used since we are dealing with squared 
+error. Notice how close this result is to the equal-weighted result, 
+696.165, even though the assumptions seem quite different. One can imagine 
+many different criteria between these two weighting schemes would lead to 
+results within this very narrow range.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 19 Feb 1997 23:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11865; Wed, 19 Feb 1997 23:15:47 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA11857
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id OAA27935; Wed, 19 Feb 1997 14:09:13 -0800
+Date: Wed, 19 Feb 1997 14:09:13 -0800
+Message-Id: <memo.604810@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

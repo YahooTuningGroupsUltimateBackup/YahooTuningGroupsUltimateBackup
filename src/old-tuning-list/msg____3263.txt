@@ -1,0 +1,70 @@
+source file: mills2.txt
+Date: Thu, 18 Jul 1996 13:33:31 -0700
+
+Subject: RE: No Scales!
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Harold,
+
+You wrote:
+
+>IMPORTANT: I am NOT proposing a way to integrate the 7LIAs into any 
+particular
+>scale. I believe many xenharmonicists are too obsessed with scales, and the
+>correlating melodic-harmonic consistency.  Recall those irascible 2nd, 3rd, 
+
+>6th,
+>and 7th degrees of the minor scale, and remember how JS Bach, that titan of
+>tonality, handled them!  In any case, the style contexts I am considering 
+are
+>those which could be described in their most extreme state as tonal
+>chromaticism
+>a la Wagner or Richard Strauss.
+
+OK, I don't think there's anything wrong with this, although my particular 
+work does propose a way to integrate the 7LIA, or more accurately the 
+7-limit chord approximations, into a scale. However, I believe this approach 
+has more validity that you may give it credit for. The "correlating 
+melodic-harmonic consistency" is what makes polyphonic music as we know it 
+possible.
+
+In analyzing Bach, we use a heptatonic framework, i.e., the intervals are 
+described not in terms of the tuning system but in terms of a scale, however 
+ficticious this scale may be in practice. The reason is that the 
+preponderance of heptatonic (diatonic) melodic patterns, out of which the 
+harmony materializes, causes the listener to conceptualize harmonic as well 
+as melodic relationships in those terms. Motivically, a major second can be 
+re-interpreted as an augmented second, but never as a minor third, even 
+though the latter two intervals may sound the same. The reason is the 
+overarching heptatonic framework; moreover, whatever coloristic alterations 
+may occur to the "canonical" scale formation will preserve or enhance the 
+harmonic consonance-dissonance relationships embodied in the scale. When 
+these relationships are not preserved, e.g., when a perfect fifth becomes a 
+diminished fifth, we upset the prevailing heptatonic hierarchy. Thankfully, 
+because of the special place of the diminished fifth within the "canonical" 
+heptatonic scale, a new hierarchy, i.e., a new key center, is immediately 
+established.
+
+Of course, it wouldn't be if Bach's music didn't follow through with this 
+logic. Wagner's music, although based on (almost) the same tuning system, 
+may not observe this heptatonic logic, and so it is not always useful for 
+analyzing his music. A framework such as Vogel's may then be more 
+appropriate (he analyses some Wagner in terms of 7LCAs), and/or a framework 
+which recognizes 12 distinct pitch-classes. If your music leans more towards 
+microtonal Wagner than microtonal Bach, then I would agree that talk of 
+scales may not be too relevant.
+
+ -Paul
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 18 Jul 1996 23:32 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA20888; Thu, 18 Jul 1996 14:32:00 -0700
+Date: Thu, 18 Jul 1996 14:32:00 -0700
+Message-Id: <Pine.SOL.3.91.960718171642.25631C-100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

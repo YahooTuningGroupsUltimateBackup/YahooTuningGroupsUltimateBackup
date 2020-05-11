@@ -1,0 +1,37 @@
+source file: m1419.txt
+Date: Sun, 17 May 1998 17:01:04 -0500
+
+Subject: Re: Microtuning Yamaha FM synths
+
+From: "jloffink" <jloffink@pdq.net>
+
+> From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+> I've been racking my brains and searching the net for a solution to my 
+> quest for an accurate  real-time microtuning synth.I use software 
+> synthesis to finally realise a composition,but for the initial  process 
+> of  composing,I need a real-time  system. 
+> 
+> One possibility I thought of follows.I don't know if it will work as I 
+> have never used a Yamaha FM synth,so I'm hoping someone can shed some 
+> light.
+> 
+> -Since the carrier frequency can be specified in hertz (I hope it can, 
+> along with floating point no.s,anyone here know ?)
+> , it should be possible to tune one accurate note per MIDI 
+> channel,thereby giving 16 notes on a 16-part synth like the SY/TG-77 & 
+> SY-99.then depending on how fast these synths respond to program change 
+> messages ( anyone here know how fast in ms ?) ,it could be possible to 
+> obtain all neccessary pitches/notes.
+> 
+
+Carriers on Yamaha FM synths are specified in decimal ratios relative to
+the tonic, 0.50 to 61.69 on a Yamaha DX7IIFD, for instance.  Since the
+ratios only have 2 decimal points of resolution and the resolution worsens
+as you go higher, you'll actually get worse frequency resolution using this
+method instead of the built-in tuning tables (1024 steps per octave).
+
+If you need better than 0.2 cent resolution your only current option is a
+Kyma system or CSOUND.
+
+John Loffink
+jloffink@pdq.net

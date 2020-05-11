@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Mon, 11 Nov 1996 08:44:37 -0800
+
+Subject: RE: New Post from Brian
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Mon, 11 Nov 1996, PAULE wrote:
+> I don't know how playable the 1796 31-tone instrument really was, but 
+> Fokker's keyboard certainly solves the problem of making a 31-tone keyboard 
+> as playable, nay, more playable, than the standard 12-tone keyboard, while 
+> retaining familiar fingering patterns for diatonic scales. Everyone should 
+> have one of these keyboards, yet I don't think a single one exists outside 
+> the Netherlands. What a backwards world we live in.
+
+Actually there's an arcifoon here in St. Louis, thanks to the efforts of
+Leigh Gerdine and his connection with the Netherlands 31-tone
+contingent.  I've played on it some, and while workable it's not the
+greatest--the keys are electric-typewriter keys, blech.  I'd much prefer
+something like the generalized keyboard that Wendy Carlos diagrams in
+the 1988 _Computer Music Journal_ Microtonality issue, with keys roughly
+the size and shape of standard piano black keys.
+
+In that issue, Wendy mentioned the (pipe-dreamish) possibility of
+pressuring some manufacturer to make such a keyboard that could be used
+as a front-end to drive MIDI instruments.  I'd love it if it could
+actually happen, but as far as I've seen the xenharmonic community has
+yet to accumulate sufficient clout.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Well, so far, every time I break he runs out.
+     -\-\-- o        But he's gotta slip up sometime . . . "
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 11 Nov 1996 18:08 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04362; Mon, 11 Nov 1996 18:09:37 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04374
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA12411; Mon, 11 Nov 1996 09:09:33 -0800
+Date: Mon, 11 Nov 1996 09:09:33 -0800
+Message-Id: <199611111206_MC1-BD1-58E8@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

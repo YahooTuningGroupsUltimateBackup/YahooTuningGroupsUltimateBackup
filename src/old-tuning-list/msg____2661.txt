@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Tue, 12 Mar 1996 06:05:12 -0800
+
+Subject: Scala on MacOS
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+>Any plans to port the software to MacOS?
+>
+>90% of the MIDI studios in the U.S. are Macintosh based so it would seem to
+>be more widely applicable if yur program was available on the Mac OS.
+>
+>I'm afraid there are no plans to port the software to MacOS. Scala is
+>written in Ada, which makes the program very easily portable, but sad
+>enough there is no decent Ada compiler for the Macintosh, at least not
+>at the moment. So, the more people tell to Apple to fund and support
+>development of an Ada compiler, like it funded porting of Linux, the
+>better.
+
+There is a possible intermediate solution- certain PowerMacs are "DOS
+compatible", meaning they have a card with a 486 of unknown speed running in
+parallel to the PowerPC.  You can switch from DOS/Windows mode to Mac mode
+and back with command-enter, and in fact start a job running under DOS and
+switch back to the Mac while it's running.  My Dad has one of these machines
+and we managed to get a Windows-based mapping program and the Ensoniq ESP2
+assembler working on it just fine.  Scala should work too since its I/O is
+pretty generic.  Of course if you don't happen to have a Mac with this
+option it wouldn't do you any good, but from what I hear it's a not uncommon
+machine around academic computing centers and studios.
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 12 Mar 1996 16:15 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA21325; Tue, 12 Mar 1996 07:14:07 -0800
+Date: Tue, 12 Mar 1996 07:14:07 -0800
+Message-Id: <v01510100ad6b4398799e@[206.119.10.100]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

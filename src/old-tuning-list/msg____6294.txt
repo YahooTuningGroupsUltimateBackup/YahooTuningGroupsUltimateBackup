@@ -1,0 +1,134 @@
+source file: mills3.txt
+Date: Fri, 17 Oct 1997 21:36:09 +0200
+
+Subject: Re: stray thoughts
+
+From: "Collins, Gordon" <CollinG@f3groups3.fsd.jhuapl.edu>
+
+Johnny Reinhard mused:
+
+>If I played Mary Had A Little Lamb a quartertone sharp from convention's
+>A=440, then each and every tone I advanced would be a microtone.  By
+>virtue of the tortured fingerings in sometimes embarrassing postures,
+>these lambs were microtones.  Why is it no one listening to my
+>Mary... rendition on the bassoon would notice and remain
+>convinced that there were absolutely no "microtones" at play (the
+>rare perfect pitchers aside).
+
+(You mean that they *would* remain so convinced, right?)
+
+Because there aren't any microtones at play.  A=440 is far from a
+universal convention.  Correct me if I'm wrong, but I believe the
+international pitch standard is still 435, and most major orchestras play
+higher, upwards of 448.  (The string players think they sound better
+there - it drives the wind players nuts.)  Early music players tune to
+A=415 ... or 392 ... or 460 ...  because 250 years ago reference pitches
+varied considerably, with choirs and chamber ensembles often having
+different (by a third or more) reference pitches at the same time and
+place!  Even if you didn't travel, you had to be good at transposition,
+and there are Bach cantatas where the recorder parts are written in a
+different key so the instruments would end up playing at the same pitch.
+ Perfect pitch may be more curse than gift!
+
+Is this not why folks on this list use ratios and cents to describe
+intervals from an arbitrary reference, notated 1/1?
+
+So no matter what your reference pitch, if all the intervals in your
+performance are powers of the twelfth root of 2, you're playing in 12TET.
+ Thus a "microtone", whatever it is, is an interval, not a pitch.
+
+
+>A tone can be an interval of major and minor size, of numerous
+variations,
+>actually.  It is also the blend of harmonicities and inharmonicities
+>of a plethora of amplitudes which all make up the klangfarben of vivid
+>color in musical tone.
+
+Well, this is throwing in a completely different definition of the word
+"tone", meaning "timbre"....
+
+
+>Could a microtone be an interval that bridges to another microtone, or
+>not?  Must its pedigree be the remainder of real time arithmetical
+>calculations ....
+
+I suspect that the problem with the word "microtone" is that it has been
+applied to tunings far removed from the context of its invention.  Didn't
+the word come out of early 20th-century experiments with 24TET, 96TET,
+and other tunings that were derived by subdividing 12TET?  Its meaning
+seems clear in that context.
+
+Now it gets applied to things like 7TET, the intervals of which are
+barely smaller than a tone, far from "micro".  It seems to be no more
+specific than a cue word to indicate a non-12TET interval.  In that
+sense, sure, an interval between two microtones is another microtone,
+however wide, as long as it is not 2^(n/12).  But this strips the word of
+almost all meaning.
+
+
+>"Microtonal" is the personal sensibility one achieves when making the
+>acquaintence of a progressive number of powerful sound
+>angles...skipping stones on the sound continuum one moment,
+>placing stones to cross a river in the next, knocking on
+>familiar doors all along the way.
+
+Hmm - "microtonal" essentially meaning "unfamiliar" - a good place for
+the word "xenharmonic".  Would someone brought up listening to Indian
+music get the same sensation on hearing 12TET?
+
+How far away must one get from the familiar doors to produce the
+microtonal sensation?  If you played "Mary Had a Little Lamb" in
+Pythagorian tuning, who would consider that microtonal?
+
+The predominance of the equal-tempered piano and fretted guitar has
+evidently led many to overlook that, to this day, good musicians who can
+produce arbitrary pitches do not consider C# and Db to be the same pitch.
+ (They may say otherwise, but one must judge from their performance!)  Is
+the music they produce microtonal?
+
+The exclusion of music thought to be 12TET by the speaker or writer but
+never actually *performed* in 12TET strips "microtone" and "microtonal"
+of the rest of their meaning.
+
+
+I think it would be best to restrict the word "microtone" to "an interval
+significantly smaller than a 12TET semitone", and "microtonal" to "making
+explicit use of microtones".  Then we need other words to describe the
+scope of the AFMM.  Since I'm not sure what exactly is excluded, I'm not
+sure what to suggest.  ("The American Festival of Nonquasiequidodecatonic
+Music" - ruling out "sort-of-12TET" music ???)
+
+
+Musing further,
+
+Gordon Collins
+gordon_collins@jhuapl.edu
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Aline Surman <stick@dnvr.uswest.net>
+Subject:  Microstock 3 and various
+PostedDate:  18-10-97 00:10:15
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-10-97 00:09:28-18-10-97 00:09:28,17-10-97 23:10:10-17-10-97 23:10:11
+DeliveredDate:  17-10-97 23:10:11
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256533.0079B642; Sat, 18 Oct 1997 00:09:25 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA20145; Sat, 18 Oct 1997 00:10:15 +0200
+Date: Sat, 18 Oct 1997 00:10:15 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA20107
+Received: (qmail 18050 invoked from network); 17 Oct 1997 15:10:05 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Oct 1997 15:10:05 -0700
+Message-Id: <3447DF97.4840@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

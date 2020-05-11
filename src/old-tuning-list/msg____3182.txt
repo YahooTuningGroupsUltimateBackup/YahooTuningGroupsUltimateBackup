@@ -1,0 +1,312 @@
+source file: mills2.txt
+Date: Tue, 9 Jul 1996 12:13:58 -0700
+
+Subject: Another post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Another book review
+--
+In 1993 Martin Vogel's "Orpheus" publishing
+house released a book titled "Mathematical
+Models of Musical Scales: A New Approach" by
+Mark Lindley and Ronald Turner-Smith.
+Orpheus is the same publishing house that released
+Leigh Gerdine's superlative english translation of
+Adriaan Fokker's "New Music With 31 Tones," and
+since Lindley/Turner-Smith's book was also in english, I
+read it with great anticipation.
+Let me preface my remarks by pointing out that Mark
+Lindley is one of the most knowledgeable and respected
+scholars of historical intonation.   He has written articles
+on 16th- and 17th-century intonation which qualify as
+definitive, and he's written a book which stands alone
+as a reference on the tuning of lutes & other antique
+fretted instruments.
+Alas, this book is a disappointment in several respects,
+though it has much to recommend it.
+The problems with "Mathematical Models of Musical
+Scales" are many and varied.
+To summarize:
+[1] The book starts with a distinctly polemical slant
+and never lets up.
+[2] Instead of using the standard measurement of cents,
+Lindley and Turner-Smith inexplicably choose to use
+millioctaves (1/1000 of an octave).  Worse, they
+introduce confusing and bizarre temrinology: "flog," 
+set membership symbols, Boolean logic symbols, etc.
+Such symbology and terrinology would prove dense
+but reasonable reading for a mathematics paper--
+but for a music paper, this kind of mathematical 
+arcana is damned hard to read and extract any 
+musical meaning from.
+In particular, it's almost impossible to shift gears
+from sentences like "A mapping which is both 1-1 *and*
+onto is called a bijection or a 1-1 correspondence. A
+bijection of a set X *to itself* is called a 
+permutation of X." to sentences like "In 18th century
+French keyboard tuning, one or two major thirds (Db-F,
+Ab-C) were larger than pure by a little more than 2% of
+an octave, although people at the time said these 
+particular 3rd were harsh and in fact meantone
+temperaments had originally come into use because 15th-
+century organists considered unacceptable a major 3rd
+(comprising two 9:8 whole tones) which is larger than
+pure by a little *less* than 2% of an octave."
+[3] Throughout the book, Lindley and Turner-Smith
+consistently disparage and belittle non-12 
+divisions of the octave.  Typical is the following:
+"However in the 1550s a talented French composer,
+Costeley, wrote a song for the 19 divisions, and in 
+1577 a Spanish theorist, Salinas, showed how to 
+tune it on a keyboard instrument by using the pure
+major 6ths and minor 3rd of 1/3-comma meantone
+temperament.  Experimentation went on in the 17th
+century and since, but posterity has judged the
+system unsatisfactory."  This will come as a
+surprise to many of the members of this tuning
+forum, who are at present engaged in composing 
+and performing music in the 19-tone equal
+temperament.  In fact 19-TET is the most common,
+almost the closest in sound to 12-TET of the "teen"
+temperaments (22-TET is closer), and perhaps the 
+easiest to use of the < 20 TET equal temperaments. 
+[4] Despite the title, the overwhelming thrust
+of this book is a consideration of general mathematical
+models of the musical scales used from the 15th through
+the 18th centuries.  Lindley and Turner-Smith do not,
+despite the implication of their title, consider
+the musical ramifications of systems such as 
+Harry Partch's extended just intonation, Enrique
+Moreno's non-octave scales, Mandelbaum's multiple
+divisions of the octave, or my own non-just non-
+equal-tempered tunings.
+To dilate on these points:
+[1] The polemical slant.  The reader gets hit between
+the eyes with the first sentence of the introduction:
+"We reject the ancient Pythagorean idea that music
+somehow 'is' number, and we show how to design
+mathematical models for musical scales and
+systems according to some more modern principles."
+[Lindley, Mark, and Ronald Turner-Smith, "Mathematical
+Models of Musical Scales," Orpheus, Bonn 1993,
+Page 7]
+This passage contains two statements which are
+open to serious debate.  First, the authors reject
+categorically the Pythagorean idea of "numerus
+sonorus" in favor of an emprical Aristoxenian 
+definition of intervals and of music. 
+But the debate twixt Pythagorean and Aristoxenian
+views on the nature of music has raged since the
+beginning of Western music and no one has *ever*
+succeeded in resolving the question.
+Despite Lindley/Turner-Smith's efforts to paint
+the Pythagorean viewpoint as "mystical" and
+"unscientific," the fact remains that the Pythagorean
+view is the basis of Western theoretical science.
+In fact the Pytahgorean view ought to be called
+the "theoretical science" view, since it encapsulates
+and perfectly expresses all the ideals held by
+scientific pure theorists: in the view of the pure
+theorist, an infallible test of whether a mathematical
+theory accurately models the real world is the
+degree of mathematical beauty and "elegance" which
+the theory exhibits.  Pure theorists typically reject
+a scientific model of reality whose mathematics are
+ugly and messy yet whose predictions are in good
+accord with experiment, in favor of a scientific model
+of reality whose mathematics are elegant and gorgeous
+yet whose predicitions have not been tested yet, or
+don't fall quite as close to experimental numbers.
+There is good precedent for this.  The final elaboration
+of the Potelamic epicycle model of the universe in
+the 16th century produced excellent agreement with
+astronomical observations of the movements of the
+planets.  But scientists rejected the model of 
+Ptolemaic epicycles in favor of the Copernican 
+model largely on the basis of the mathematical
+ugliness and complexity of the Ptolemaic system,
+versus the simplicity and elegance of the 
+Copernican.
+In modern times the best expression of the pure
+theoretical (AKA Pythagorean) viewpoint is
+given by Einstein: he was once asked what he would
+have done if a phsyical experiment had contradicted
+his theory of special relativity, and he answered
+by saying that he would have felt sorry for the
+dear Lord.
+"Time and again the passion for understanding has
+led to the illusion that man is able to comprehend
+the objective world rationally, by pure thought,
+without any empirical foundations--in short, by
+metaphysics. I believe that every true theorist is a 
+kind of tamed metaphysicist, no matter how pure
+a 'positivist' he may fancy himself.  The metaphysicist
+believes that the logically simple is also the real.
+The tamed metaphysicist believes that not all that
+is logically simple is embodied in experienced
+relatiy, but tha the totality of all sensory experience
+can be 'comprehended' on the basis of a conceptual
+system built on premises of great simplicity.
+The skeptic will say that this is a 'miracle creed.'
+Admittedly so, but it is a miracle creed which has
+been borne out to an amazing extent by the
+development of science." [Einstein, Albert,
+"Ideas and Opinions, Pg. 333: originally from
+"Scientific American," Vol. 182, No. 4, April, 1950]
+This strain of Western thought is so fundamental
+to rational inquiry that it is untenable to dismiss
+the Pythagorean viewpoint as cavalierly as Lindley
+and Turner-Smith have, just as it untenable to
+cavalierly define *all* of music in terms of
+the Pythagorean viewpoint that intervals
+are numbers, thus numbers are simple ratios and
+thus the simplest ratios are the most audibly
+consonant, quod erat demonstrandum (yet dead
+wrong).
+As I've pointed out in prior posts, the strict
+extreme hard-line Pythagorean viewpoint
+fails when it encounters reality, since
+the 3:5:7 triad demonstrably sounds less
+consonant than the 4:5:6 triad--yet the
+integers of the 3:5:7 triad are obviously
+smaller.  A cadence which ends with a 4/3
+in the bass is universally proscribed in all
+Western harmony texts as a dissonance
+to be avoided in favor of a 4:5:6 triad in
+root position as the preferred final chord--
+yet the 4/3 is clearly a smaller interval
+than the 3/2.  And so on.
+The Pythagorean hard-line view on musical
+consonance and auditory perception also
+fails the test of experiment, since 130
+years of psychoacoustic tests have shown
+no evidence of small-integer-ratio detectors
+in the human auditory system, and  systematic
+evidence that intervals not described in
+terms of small whole number ratios are
+heard as "pure" and "perfect consonances,"
+while the purportedly "true" and "natural"
+small-integer ratio intervals are universally
+heard as "impure," "too narrow," "out of tune,"
+and "flat."
+The debate twixt Pythagorean (pure theorist)
+and Aristoxenian (applied experimental science)
+viewpoints is ongoing.  It represents a fundamental
+dichotomy at the heart of Western culture.  It 
+cannot be resolved.
+For Lindley and Turner-Smith to dismiss this
+fundamental dichotomy at the heart of Western
+culture with a wave of their hands is astonishing.
+One would have thought a scholar of Lindley's 
+range and depth would recognize that 
+this ongoing debate twixt two schools of thought
+is essential to the health of Western music.
+Over the centuries the debate has shifted from
+one side to the other, then back again, as new
+evidence and new mathematics come to the fore.
+At present the pendulum is swinging toward the
+Aristoxenian extreme with the discovery that
+even the most linear physical laws exhibit
+unpredictably chaotic behavior.  However, recently
+Ed Witten and others succeeded in demonstrating
+that all of the five competing models of superstring
+theory are subsumed under one overarching model.
+If Witten and company can find a way to generate
+actual numbers from superstring theory, the
+pendulum may swing back to the Pyhagorean 
+extremum.
+And so it goes in music.  With the collapse of
+Helmholtz's theory and the findings of Ward,
+Corso, Pikler, Sundberg and many others, grave
+doubts have been cast on the advisability of
+viewing music in terms of small whole numbers
+as an adequate explanation of how we hear and
+how we compose.  However, future experimental
+evidence or future mathematical results might
+shift the burden of proof back onto the Fetis-Ward-
+Burns-Corso contingent who view harmony as
+mostly a matter of brainwashing and "consonance"
+and "dissonance" are largely learned habits.
+The point is that the musical and cultural debate
+is ongoing and never-ending, and it *cannot* be
+prestidigitated away as Lindley and Turner-Smith
+have sought to do.
+The second problem with Lindley's and Turner-
+Smith's argument is the implication that "modern"
+methods of analyzing and generating musical scales
+somehow equals "better." There is no evidence
+for this.  Newer musical methods are not necessarily 
+"better" than older music.  Moreover,
+the entire notion of the musical utility of *this* or
+*that* mathematical method is cyclic.  Just intonation
+and equal temperament periodically come into
+and go out of fashion.  This has happened throughout
+the history of Western music, and will doubtless
+happen again. 
+[2] John Chalmers has already expressed doubts
+about the wisdom of using non-standard units of
+musical measurement such as the millioctave.
+For my part, let me point out that it is as confusing
+as encountering speed limit signs which give
+numbers of furlongs per fortnight when
+your speedometer is calibrated in miles per hour.
+It is simply incomprehensible to me why Lindley
+and Turner-Smith would choose to use a non-
+standard unit of musical interval measurement.
+[3] Lindley's and Turner-Smith's negative attitude 
+toward musical intonations with more than 12
+pitch classes must be understood in context.
+They are probably simply saying that there is
+little historical precedent for such usage; but
+this is mainly a question of technology, rather
+than aesthetics or musicality.  In the era of
+wooden machines (viz., the piano, the harpsichord)
+it would have been impossibly difficult &
+expensive to build a 5-octave instrument with
+31 equal tones to the octave.  If such an instrument
+could have been built, its keys would have been
+too narrow to be fingered; and the instrument
+itself would have been too mechanically complex
+and too fragile to survive an actual performance.
+Today, however, with digital tehcnology, other
+intonations than 12 equal tones to the octave
+can easily be had.  
+Since Lindley and Turner-Smith's book is largely
+an historical study (despite the title), its
+dismissive attitude toward > 12 pitch classes
+constitutes a judgment of practicality rather
+than intrinsic worth, and so ought not to be taken 
+as the final word musical composition in 
+non-12 tunings--especially for *modern* 
+composers with access to retunable
+digital instruments.
+[4] The title of the book is probably overly
+ambitious.  It would be better if the book had
+been called "Mathematical Models of Musical
+Scales from the Common Practice Period of
+Western Music."  Within that context, the book 
+works very well.  In particular, the footnotes
+and musical examples are superb.  Lindley
+reveals the true range of his scholarship in
+the footnotes and appendices--which make
+more interesting reading than the rest of 
+the text.
+All in all, this is a book recommended for those
+interested in historical intonation with a
+heavily partisan bias (toward emprical
+science, away from pure theory). 
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 9 Jul 1996 22:30 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA14751; Tue, 9 Jul 1996 13:30:35 -0700
+Date: Tue, 9 Jul 1996 13:30:35 -0700
+Message-Id: <960709202707_101655.321_IHN235-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

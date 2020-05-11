@@ -1,0 +1,41 @@
+source file: m1588.txt
+Date: Fri, 20 Nov 1998 18:57:38 -0500
+
+Subject: re: Carillon Retuning
+
+From: "Darren Burgess" <dburgess@acceleration.net>
+
+Paul Erlich wrote:
+>>One of the most important things to consider, if you are trying to
+>>achieve consonance on the carillon, is that bells have completely
+>>inharmonic partials. If constructing an optimal tuning for the bells, I
+>>would need to know the frequencies of the partial tones of the bells. JI
+>>maximizes consonance only for instruments with harmonic partials, such
+>>as human voices, bowed strings, brass, and reed instruments, and
+>>periodic synthesized tones (and even then there are some chords where JI
+>>is not necessarily best).
+
+Yikes! I had not even considered this in the tuning that I developed.  I
+would be happy to share what I have developed so far.  It is currently in
+Quattro pro 8.0, but can be easily converted to many other formats.  Name a
+format and I will upload the file (80K) and its accompanying documentation
+directly to your email. (not the list).
+
+I will begin to measure the partials.  Any suggestions as to how to do so? 
+I have an old HP frequency generator that I have used for tuning.  It has a
+1/10th hertz resolution.  I also have access to a occilliscope (sp?).
+
+The bells are composed of steel bars that have 2-3 brass collars fixed
+along different places in their length.  I assume that the collars are
+supressing or enhancing certain partials.  The highest octave does not have
+collars.
+
+I have developed the tuning so that almost all the bars will be slightly
+flatted, not more that 8%.  4 will be sharpened slightly. 
+
+Would changing the fundamental frequency of the bar change the effect of
+the collars?  What do list members believe the effect of the collars are?
+
+Thanks for the input so far -- its has been extremely helpful.
+
+Darren Burgess, Gainesville, FL

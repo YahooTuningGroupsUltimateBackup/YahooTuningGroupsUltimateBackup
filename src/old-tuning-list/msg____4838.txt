@@ -1,0 +1,134 @@
+source file: mills2.txt
+Date: Wed, 19 Feb 1997 14:09:13 -0800
+
+Subject: Reply to Matt "ghosttones" on violin?
+
+From: clucy@cix.compulink.co.uk (Charles Lucy)
+
+This is in response to Matt Nathan's posting 19 Feb re. 
+"ghosttones", which he calls "flageolet tones"
+ 
+>Fretting positions say nothing about ghosttones. A 
+>fretted string is effectively an open string with shorter 
+>length. One can place frets at arbitrary positions and 
+>produce equally strong sounds. Please explain the 
+>sequence of ghosttones which occur in a series of fourths 
+>and fifths.
+ 
+The reason that I listed the fretting positions is that these fret
+positions give you the positions at which you will find the 
+flageolet tones. (By touching the string lightly above the fret,
+without depressing it.)
+Use the fret positions as a guide. 
+ 
+>> "Ghosttones" can be found at frets close in the cycle 
+>> of fourths and fifths.
+>> i.e. Through fifths   E, B, F#, C#, G#, etc.
+>>      Through fourths  D, G, C, F, Bb, Eb etc.
+ 
+I am assuming that you are calling the open string A
+(i.e. guitar fifth for example).
+This is the way in which I had compiled the spreadsheet for 
+the fretting. The note names that I used refer to positions 
+on this same string.
+Obviously you could tune any string to any note, call the open
+A, and the principle and fret positions would still be valid.
+If 650 mm [usual guitar "scale" (the term usually used by UK
+guitar makers)] is inconvenient for your violin or monochord;
+send me the nut to bridge distance and I'll send the amended 
+spreadsheet output for any length you like.
+ 
+ 
+ 
+>What are the frequencies of these ghosttones (rather
+>than the frequencies of the fretted tones at the same 
+>locations (which is what your charts show))?
+ 
+They are usually related to the pitch found at the corresponding 
+fret when it is played.  (as a fifth and an octave above) or 
+close on the chain of fourths and fifths.
+ 
+I need to get a LucyTuned guitar and find the notenames and 
+pitches for you. Or you could try it, test what you get and tell us. 
+I'll get to it this week. (We're away from home without LucyTuned 
+guitar, at present.)
+ 
+ 
+>When you say "at fret...B" do you mean only a single
+>fret or all the frets which produce B's? 
+ 
+I was initially referring to the fret in the first octave
+i.e. II fret on your 'A' string.
+ 
+      >> The volume is lower the further you move away from A.
+ 
+On the spiral of fourths and fifths.
+As far as I recall (retest needed) on 'A' string.
+Loudest is at octave (midpoint of string); 
+and octave above (2nd octave fret); 3/4 of distance nut to bridge:
+next at first octave E fret (approx. 1/3 of distance nut to bridge)
+etc. etc.
+I shall give fret numbers and positions as soon as I have had a
+chance to check this.
+ 
+ 
+>I'm plucking my violin as I write this. I notice that 
+>the strongest ghosttone is the one I get when I touch
+>the string near the middle. Does your sequence include
+>this ghosttone?
+ 
+That is the first octave (see comment above)
+ 
+>Are you saying that there are no ghosttones at places
+>other than these fret positions?
+ 
+For clearly heard ones, yes, that seems to be the case.
+except beyond the end of the fretboard. (Ocatves etc.)
+ 
+>Are you sure that the volumes of the ghosttones in your
+>series are in the same order as the series (in other
+>words that no ghosttone is louder than one earlier 
+>in the series)?
+ 
+Within an octave that seems to be the case.
+Applying this in higher octaves, produces quieter ghosttones.
+If someone has a high quality tuner, and a way to measure amplitude,
+we could test this, with a "constant" pluck.
+Also by tuning an adjacent string to the "expected" result, and
+watching for sympathetic vibrations.
+One way that I have tried this is by placing a tiny piece of paper 
+on the "sympathetic" string, and watching it for the "ghosttone/fret" 
+
+positions which cause the paper to jump off the string..
+ 
+>Are you saying that the volume of a ghosttone some
+>number of fretted-fifths along the series is as 
+>loud as the volume of a ghosttone the same number 
+>of fretted-fourths along the series (for instance 
+>ghosttone at fret for C# as loud as ghosttone at 
+>fret for F)?
+ 
+I need to test for the answer to this question.
+My problem with this experiment will be to measure volume, 
+and allow for frequency differences (hence the decision is 
+listener subjective at this time).
+Perhaps we could arrange some sort of adjustable "mechanical finger"
+to do the light touching, and test it with high quality equipment.
+ 
+lucy&jk (house-sitting for 24 hours in Hilo).
+ 
+ 
+ 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 20 Feb 1997 01:14 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12028; Thu, 20 Feb 1997 01:14:52 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA12025
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id QAA08746; Wed, 19 Feb 1997 16:13:05 -0800
+Date: Wed, 19 Feb 1997 16:13:05 -0800
+Message-Id: <Pine.3.07.9702191837.A24468-c100000@login>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

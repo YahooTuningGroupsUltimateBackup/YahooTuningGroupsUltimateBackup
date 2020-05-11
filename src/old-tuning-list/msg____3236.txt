@@ -1,0 +1,314 @@
+source file: mills2.txt
+Date: Tue, 16 Jul 1996 12:05:49 -0700
+
+Subject: Next Post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: the audility and audible coherence
+of inharmonic progressions of inharmonic tones
+ Part 2 of 2
+--
+Inharmonic timbres are the final frontier of
+microtonality.  Thus it's important to be
+clear on whether they are musically useful
+or not.
+We have seen why experiments on inharmonic
+tones gave deceptive results prior to the 1970s.
+Before the wide availability of computers,
+it was not practical for most auditory researchers
+to generate inharmonic tones digitally.  Thus,
+most early experiments with inharmonic tones
+were done with analog circuits.  These circuits
+offered early researchers almost no control at
+all over the fine structure of the inharmonic tones
+thus produced.  In particular, researchers couldn't specify
+detailed amplitude or frequency envelopes for each
+inharmonic partial, nor did early researchers have even
+crude control over the exact frequencies of the
+inharmonic partials used.  
+Typically,  FM or AM techniques were used to
+generate inharmonic timbres.  These methods
+generated large sets of audibly unrelated and
+individually uncontrollable partials from an input 
+periodic waveform.  Prior to the use of computers,
+there was thus no scale-like relationship twixt
+adjacent inharmonic partials, as is found (say)
+in an inharmonic tone produced by setting each
+partial to the closest value in 19-tone equal
+temperament.
+By the 1980s the notion that inharmonic sounds
+necessarily failed to fuse into a single percept, or
+necessarily exhibited a fundamental pitch 
+unrelated to the pitches of the partials, had
+been disproven.  Geary, for example, points
+out that "This paper examines the hypothesis
+that pairs of strongly inharmonic sounds can
+also cause the perception of a kind of consonance
+if the two have frequency components in common,
+and dissonance if components at each make
+near misses. This hypothesis is verified by
+experiments in which subjects were asked
+to choose which of two inharmonic sound
+pairs seemed more consonant. The data show
+significant agreement with predictions based 
+ont he missing and matching of spectral
+components." [Geary, J. M., "Consonance and 
+dissonance of pairs of inharmonic sounds,"
+J. Acoust. Soc. Am., Vol. 67, No. 5, May 1980,
+pg. 1785]
+Geary goes on to conclude: "Clearly, it cannot
+be claimed that the perceptions are exactly
+the same, since inharmonic and harmonic
+tones themselves sound different to the ear.
+However, the experiments do establish a
+similarity between the consonance-dissonance
+phenomenon in harmonic and inharmonic sounds.
+Most of the subjects had prior familiarity with
+the conventional meanings of the words consonant
+and dissonant (especially the latter) and 
+conventional harmonic intervals were played and
+identified for each subjec before the experiment.
+Consequently one would expect the subjects'
+judgments to be made according to the conventional
+sensations of consonance and dissonance. The
+similarity of perceptions in the harmonic and
+inharmonic cases is further established by the
+high scores of people with substantial musical
+experience. (..) That such people chose the 
+predicted dyads in spite of their conventionally
+dissonant relationships between their 
+fundamentals, and rejected other dyads with
+conventionally consonant fundamental
+relationships, is strong confirmation of
+the hypothesis of this paper." [op. cit., pg. 1788]
+Geary further mentions that "the concept of
+inharmonic consonance and dissonance raises
+intriguing possibilities for experimentation
+in electronic and computer music. Consonance
+and dissonance are responsible for much of 
+the structure of conventional music, such as
+that in scales, chords, and harmonic practice.
+If this structure is due to the configuration
+of spectral components of harmonic sounds,
+then it might be possible to alter such 
+structure by electornically relocating the
+spectral components to  inharmonic positions.
+New intervals, scales, and chords might be
+possible, as well as timbres unobtainable
+with harmonic spectra." [op cit., pg. 1789]
+By the mid-1980s, with many computer-generated
+ inharmonic progressions in many different
+compositions as audible examples, it had
+become clear that inharmonic tones could
+and did exhibit consonance, dissonance,
+modes and cadences akin to those found
+in harmonic-series-based compositions.
+Examples include James Dashow's compositions
+--take your pick: Whispers Out Of Time,
+Sequence Symbols, etc.,; Risset's compositions,
+against take your pick: Mutations II, Inharmonique,
+Songes, etc.  Jonathan Harvey's Mortuos Plango
+Vivos Voco, and so on and so on.
+Slaymaker, in 1970, described some perceptual &
+musical characteristics of harmony and melody
+which uses inharmonic tunings and inharmonic
+timbres: "Not all musical instruments [use
+harmonic series timbres], however. The cast
+bell carillon and tubular chimes, for example,
+have tones that are not made up of harmonics.
+Many of the intervals traditionally defined
+as consonant sound quite dissonant on these
+instruments; therefore, true chords are 
+seldom played on either of them, and chimes
+are usually used in the orchestra only for
+special effects. Conversely--a situation
+seldom realized--some of the intervals
+that have been classed as dissonant can
+sound quite smooth on these inharmonic
+instruments. Consonant sounds can also
+be produced from synthetic tones having
+partials that are spaced by  a constant
+ratio, as long as the partials appearing
+in a chord are not spaced closer than
+the critical bandwidth of the ear." 
+[Slaymaker, F. H., "Chords From Tones
+Having Stretched Partials," J. Acoust.
+Soc. Am., Vol. 47, No. 6, 1970, pg. 1569]
+Slaymaker goes on to describe the effect
+of increasing timbral inharmonicity while
+playing a traditional chord sequence:
+"The impression of traditional predictability
+still persisted, though the tone quality
+gradually became more chime-like and the
+intervals of the scale became more noticeably
+different from the familiar tempered scale;
+i.e., the sequence began to sound 'out-of-
+tune.' The change in the S value from 1.083333
+to 1.261839 resulted in a completely 
+different impression for the chord sequence,
+compared to tfe impression for the values of
+S nearer unity.  All of the traditional
+predictability was gone.  The chords sounded
+smooth and nondissonant but strange and 
+somewhat eerie. The effect was so different
+from the tempered scale that there was no
+tendency to judge in-tuneness and out-of-
+tuneness.  It seemed like a peek into a new and
+unfamiliar musical world, in which none of the
+old rules applied and the new ones, if any, were
+yet undiscovered." [ op. cit., pg. 1569]
+With the advent of William Sethares' landmark
+paper "Local consonance and the relationship
+between timbre and scale," J. Acoust. Soc. Am.,
+Vol. 94, No. 3, 1993, pp. 218-1228, those
+rules became clear.
+Demonstrations like Slaymaker's sounded 
+"out-of-tune" as the inharmonicity of the
+timbres increased, because the chord
+progressions were based on traditional
+Western musical intervals...which are 
+themselves closely related to low members
+of the harmonic series.
+If instead the chord progressions of inharmonic
+tones are based on an *inharmonic series* (and
+not simply a set of arbitrarily stretched
+members of the harmnic series, but rather
+a coherent self-contained inharmonic series-
+viz., the vibrational modes of the free-free
+metal bar, or of the free metal tube) then
+the inharmonic chord progressions will
+produce a sense of finality and cadence.
+This is also the reason why Mathews and
+Pierce reported that extreme values of
+partial stretch resulted in a destruction of
+the finality of the cadences--Mathews and
+Pierce were also using cadences whose triadic
+root movements were based on
+*harmonic-series-related* intervals.
+However, I have used the commercial resynthesis
+package FdSoft to analyze and resynthesize
+sampled sounds.  Although this package is
+greatly inferior to the LEMUR Fourier analysis/
+resynthesis software available for the Macintosh
+(which I cannot run since I have only a Mac Plus),
+FdSoft does analyze and resynthesize some
+timbres relatively well.  For instance, solo 
+brass instruments, strong (not whispered)
+vocal timbres, and some solo woodwinds and
+double reed instruments retain their identity
+well upon Fourier analysis/resynthesis without
+modification.  
+Using FdSoft, I have determined that most timbres
+retain their identity well when resynthesized with
+slightly inharmonic partials--for example, setting
+the partials of a resynthesized trumpet or trombone
+or clarinet or english horn note to the closest
+values available in 41-TET produces an inharmonic
+sound which is virtually unchanged perceptually
+from the original sampled sound, yet exhibits 
+subtly increased sensory consonance when used
+in 41-TET triads.
+Warping the partial frequencies by larger values
+(for instance, setting them to the nearest 
+approximations available in 11-TET or 13-TET)
+produces a slight perceptual distortion of the
+trumpet or trombone or clarinet or english horn
+note upon resynthesis...  The effect is somewhat
+similar to very slight ring modulation.  These
+timbres, however, exhibit greatly increased
+sensory consonance upon resynthesis.
+Pushing this method to its uttermost extreme,
+I have determined that some sounds even retain
+their identity well upon radical timbre-mapping.
+For example, a trombone note retains its identity
+very well even when mapped into the closest
+partials of the free-free metal bar scale (with
+all partials not close to members of the metal
+bar scale deleted).  The resulting timbre sounds
+slightly denatured and empty because large numbers
+of partials have been deleted, but the sound is
+still recognizably a trombone--but, weirdly,
+it sounds like a trombone crossed with a chime.
+The effect is very strnage--as though you could
+somehow put a mouthpiece on a metal bar and
+instead of striking the bar, produce sound
+by blowing through the mouthpiece. (A perceptual
+paradox I've also  heard in the Yamaha series
+of physical modelling synthesizers, which allow
+you to "put a mouthpiece" on a bowed string
+instrument and "blow" instead of bow a violin
+or cello or viola.)
+Most sounds do not retain their iden
+	  well
+when their component partials are mapped into
+such a radical non-just non-equal-tempered scale,
+but *all* such resynthesized sounds retain the
+sense of spectral fusion--no doubt because all
+the original auditory cues are still present: 
+synchronous fluctuations of amplitude envelope in 
+each partial, the slight trajectory in frequency for
+each partial, the initial identical "blip" of the attack 
+of all the partials, the overall synchrony of 
+the partial envelopes and the ensemble effect
+produced by their synchronized decay, etc.
+My experiments in this area, however, pale
+before William Sethares' investigations.
+William Sethares has produced many musical
+examples using inharmonic timbres and
+inharmonic tunings.  The tunings sound
+convincing, consonance and dissonant are
+present, and cadences exist--yet they are
+unlike those present in harmonic-series-
+based music.
+With typical clarity, Sethares points out
+that "One subtlety that arises when 
+dealing with nonharmonic partials is
+that it is important for the partials to
+fuse, to be perceived holistically as
+a single entity rather than as a collection
+of oddly placed sine waves. Fusing is
+greatly helped by commonalities in the
+partials: similar pitch vibrato, similar
+amplitude fluctuations, similar onset
+times and similar envelopes." [Sethares,
+W., "Local Consonance and the Relationship
+between Timbre and Scale," J. Acoust. Soc.
+Am., Vol. 94, No3., Sept. 1993, pg. 1227]
+William Sethares' music is the most 
+convincing example yet of the falsity of
+Erlich's contention.  From now on,  people,
+please read the literature before making
+these kind of claims.  Please get the facts
+straight, and do the reserach.  Let
+us hear no more of verifiably false claims that 
+inharmonic timbres cannot spectrally
+fuse, or that they necessarily produce 
+(via virtual pitch) unrelated and bizarre 
+fundamental pitches: anyone who doubts that
+inharmonic timbres can be used to
+produce convincing and entirely
+musical cadences & harmonies
+need only  e-mail William Sethares
+and ask for a copy of his demonstration
+tapes.  Or, if you prefer, simply persue the
+article "Applying Psychoacoustics
+in Composition: `Harmonic' Progressions
+of `Nonharmonic' Sonorities," Parncutt, R.
+and H. Strasburger, Perspectives of New 
+Music, Vol. 39, Nos. 1-2, 1995, pp.
+88-127
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 16 Jul 1996 22:48 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA14010; Tue, 16 Jul 1996 13:48:19 -0700
+Date: Tue, 16 Jul 1996 13:48:19 -0700
+Message-Id: <199607162047.VAA12564@gollum.globalnet.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

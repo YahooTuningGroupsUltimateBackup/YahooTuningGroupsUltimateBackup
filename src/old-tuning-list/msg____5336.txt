@@ -1,0 +1,101 @@
+source file: mills2.txt
+Date: Thu, 24 Apr 1997 15:45:10 -0700
+
+Subject: Guitar fretting
+
+From: clucy@cix.compulink.co.uk (Charles Lucy)
+
+As the tuning discussion seems to have turned to guitar fretting,
+you may be interested to see how I tackled this question.
+My intention was to make converting from 12tET as easy as possible
+for
+experienced guitarists. (Hence the dots etc.)
+I propose that newbies first fret their instrument with 19, and later
+(when ready) add another 12 to give a total of 31 frets per octave.
+ 
+The second octave works better using mandolin fretting wire.
+The close frets are activated by playing ON the pair, to sound the 
+sharper note; and BELOW the pair for the flatter.
+You'll notice that the sharper of the pair is always a sharp, and
+the flatter of the pair always a flat.
+ 
+Fret positions for LucyTuned 19 & 31 frets per octave instruments.
+Intervals >      Large        small
+Ratios    >     1.116633     1.073344 
+cents     >   190.9858     122.5354
+ 
+Distance of Nut to Bridge 650   (Inches or millimetres)
+Fifth
+Guitar
+String            FIRST OCTAVE        IntervalSECOND OCTAVE
+NoteName Scale    Distance  Fret  Fret (L&s)  Distance  Fret  Fret
+Marks@ * Position NutToFret of 19 of 31 from  NutToFret of 19 of 31
+A     ** I        0.0000     0     0    Nut   325.0000  19    31
+Bbb      bbII    19.9923     -     1  (2s-L)  334.9962   -    32
+A#       #I      25.1987     1     2   (L-s)  337.5994  20    33
+Bb       bII     44.4160     2     3     s    347.2080  21    34
+Ax       xI      49.4205     -     4  (2L-2s) 349.7103   -    35
+B        II      67.8928     3     5     L    358.9464  22    36
+Cb       bbIII   85.7970     -     6    2s    367.8985   -    37
+B#       #II     90.4595     4     7  (2L-s)  370.2298  23    38
+C      * bIII   107.6696     5     8   (L+s)  378.8348  24    39
+Dbb      bbIV   124.3503     -     9    3s    387.1751   -    40
+C#       III    128.6942     6    10    2L    389.3471  25    41
+Db       bIV    144.7283     7    11  (L+2s)  397.3641  26    42
+Cx       #III   148.9038     -    12  (3L-s)  399.4519   -    43
+D      * IV     164.3163     8    13  (2L+s)  407.1581  27    44
+Ebb      bbV    179.2546     -    14  (L+3s)  414.6273   -    45
+D#       #IV    183.1449     9    15    3L    416.5724  28    46
+Eb       bV     197.5042    10    16  (2L+2s) 423.7521  29    47
+Dx       xIV    201.2436     -    17  (4L-s)  425.6218   -    48
+E      * V      215.0462    11    18  (3L+s)  432.5231  30    49
+Fb       bbVI   228.4242     -    19  (2L+3s) 439.2121   -    50
+E#       #V     231.9081    12    20    4L    440.9541  31    51
+F        bVI    244.7676    13    21  (3L+2s) 447.3838  32    52
+Ex       xV     248.1164     -    22  (5L-s)  449.0582   -    53
+F#     * VI     260.4773    14    23  (4L+s)  455.2387  33    54
+Gb       bbVII  272.4580    15    24  (3L+3s) 461.2290  34    55
+Fx       #VI    275.5781     -    25    5L    462.7890   -    56
+G        bVII   287.0943    16    26  (4L+2s) 468.5472  35    57
+Abb      bbVIII 298.2564     -    27  (3L+4s) 474.1282   -    58
+G#       VII    301.1632    17    28  (5L+s)  475.5816  36    59
+Ab       bVIII  311.8925    18    29  (4L+3s) 480.9462  37    60
+Gx       #VII   314.6866     -    30    6L    482.3433   -    61
+A     ** VIII   325.0000    19    31  (5L+2s) 487.5000  38    62
+ 
+copyright 1994
+ 
+This information may be used to produce instruments for personal use.
+ 
+For manufacturing and patent licensing please contact.
+ 
+LucyScaleDevelopments.
+PO Box 2108,
+Pahoa,
+Hawaii,
+96778-2108
+USA
+Voice & Fax US (808) 965-0170
+ 
+For further details, questions, feedback, MIDI tuning sysex, 
+scale coding, harmonic mapping, LucyTuned Lullabies etc.
+contact:
+Charles Lucy, LucyScaleDevelopments,
+EMail: lucy@hour.com
+ 
+LucyTuning website for tech downloads:
+http://www.wonderlandinorbit.com/projects/lullaby
+ 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 25 Apr 1997 10:07 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30738; Fri, 25 Apr 1997 10:07:42 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA30729
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id BAA02258; Fri, 25 Apr 1997 01:06:01 -0700
+Date: Fri, 25 Apr 1997 01:06:01 -0700
+Message-Id: <199704250404_MC2-1561-CB94@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

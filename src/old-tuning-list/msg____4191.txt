@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Sat, 30 Nov 1996 08:36:55 -0800
+
+Subject: Error in Tuning and Temperament
+
+From: John Chalmers <non12@deltanet.com>
+
+I've found another error in J. Murray Barbour's "Tuning and Temperament."
+Table 3 on page 16 is labelled "Eratosthenes' Enharmonic," though the
+ratios are those of Ptolemy's enharmonic genus (in the Dorian mode).
+I have just noticed that the decimal-fraction sexagesimal string
+lengths in the first line are also wrong. They are, in fact, those
+of Didymos's enharmonic, 1/1 32/31 16/15 4/3 3/2 48/31 8/5 2/1, though
+it is stated on page 21 that "Didymus' enharmonic is not included in
+the above tables." As Barbour states on p.21 elsewhere that the
+pyknon of Didymos's tuning was "resulting from an arithmetical
+division of the 16:15 semitone," this would seem to be a production
+error. 
+
+The correct decimal-fraction sexagesimal string lengths for
+Ptolemy's enharmonic, 1/1 46/45 16/15 4/3 3/2 23/15 8/5 2/1,
+are 120.00 117.39 112.50 90.00 80.00 78.26 75.00 60.00 to two
+decimal places.
+
+There is another error on p.21, Table 21 where the name of Ptolemy's
+Diatonic Homalon is given as Hemiolion.
+
+BTW, the text Harry Partch used was Barbour's dissertation upon which
+this book is based.
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 30 Nov 1996 17:47 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12633; Sat, 30 Nov 1996 17:49:06 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA12844
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA20615; Sat, 30 Nov 1996 08:49:03 -0800
+Date: Sat, 30 Nov 1996 08:49:03 -0800
+Message-Id: <961130114634_1784789785@emout17.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

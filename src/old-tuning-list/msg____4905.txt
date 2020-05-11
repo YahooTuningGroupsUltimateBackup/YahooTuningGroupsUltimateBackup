@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Thu, 27 Feb 1997 01:51:16 -0800
+
+Subject: Re: Reply to Matt Nathan
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+> From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+> 
+> > > ...Deriving the
+> > > diatonic scale from the tonic, subdominant, and dominant 
+> > > triads is utterly inaccurate, in my opinion. There are too 
+> > > many pieces in major that focus on I-ii-I progressions, 
+> > > and pieces in minor (aeolian, to be more academic)
+> > > that focus on i-VII-i progressions, for this to be an 
+> > > accurate explanation, for not even the tuning of the chords 
+> > > will be correctly specified by such an explanation.
+> 
+> > Here would be cases, like I-ii-I, which I would say are
+> > implying more than 7 pitches,
+> 
+> A severe violation of Occam's razor!
+
+Haha, yes it involves only 6 pitches! This is amusing but
+a misunderstanding. The diatonic symbol IV pretty
+assuredly reflects the rational structure 4/n 5/n 6/n
+where n is 3. The diatonic symbol ii is a case of 
+confounded rational structures however. There are at 
+least two distinct rational structures which suffer 
+lossy compression in a diatonic assumption and get
+lumped under "ii". You can sometimes tell by context which 
+of these is being implied. The ii chord can function
+in context as either the relative minor of IV, which comes 
+from the rational structure n/4 n/5 n/6 where n is 5/3, 
+or as the secondary v (minor) of V, which comes from the
+rational structure n/4 n/5 n/6 where n is 27/16.
+
+A diatonic piece which uses both I-(v of V)-I and
+I-IV-I (no I didn't mean I-V-I) implies at least 
+the 8-pitch set 1/1 9/8 5/4 4/3 27/20 3/2 5/3 27/16.
+
+In vector notation, this is (using fixed-width font):
+
+cell:
+
+5
+|
+1 - 3
+
+pitch set (C tonic):
+
+A,- E
+|   |
+F - C - G - D - A
+                |
+                F'
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 27 Feb 1997 11:56 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29740; Thu, 27 Feb 1997 11:56:14 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29759
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id CAA15800; Thu, 27 Feb 1997 02:53:33 -0800
+Date: Thu, 27 Feb 1997 02:53:33 -0800
+Message-Id: <331566DF.682C@ix.netcom.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

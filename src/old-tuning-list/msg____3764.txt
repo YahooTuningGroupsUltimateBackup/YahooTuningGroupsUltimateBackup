@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Sat, 12 Oct 1996 17:53:32 -0700
+
+Subject: Re: Pitch Bend for tuning
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+>      So, HOW CAN PITCH BEND BE USED EFFECTIVELY FOR MICROTUNING?
+> ANSWER: Use a program to enter the appropriate Pitch Bend message BEFORE
+> the note. This is simple, easy and convenient to do in real time with full
+> polyphony, using MICROTONAL MIDI TERMINAL, available for $60 at the below
+> address.
+
+   That's certainly a start, but that still doesn't work in a slurred, or legato
+note transition.  You'll bend the pitch of the trailing end of the previous note
+in that scenario.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 14 Oct 1996 17:57 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00278; Mon, 14 Oct 1996 17:58:51 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA00199
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA27167; Mon, 14 Oct 1996 08:58:36 -0700
+Date: Mon, 14 Oct 1996 08:58:36 -0700
+Message-Id: <v01530505ae881f33931c@[194.82.100.7]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

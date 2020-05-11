@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Wed, 3 Jan 1996 18:43:14 -0800
+
+Subject: Re: K2000 and ASR-10
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Probably the main consideration when it comes to choosing between the K2000
+and the ASR-10 especially for unusual tunings, based upon a collegue's
+experience, is power vs. ease of use.  The K2000 is very powerful, but it's not
+very easy to do exotic things on.  The ASR-10 is not as capable as the K2000
+(although certainly not to be underestimated), but is FAR easier to use than the
+K2000.  
+
+   When it comes to using traditional keyboards for nontraditional tunings,
+that's a big question.  As I think I've mentioned before, most people just map a
+tuning to the keyboard linearly (adjacent keys on the keyboard going to adjacent
+pitches in the tuning), mismatching octave boundaries of the keyboard to the
+octave boundaries of the tuning.  I am in awe of people who can function that
+way, because I just can't imagine being able to ignore the 7 ivory/5 ebony
+structure that keyboard imposes.  Then again, I never claimed to be such a great
+keyboardist;  I've done a lot more with woodwinds and guitar than keyboards.
+But a lot of people do that quite well.  
+
+   I prefer, personally, to map the keyboard so that (somehow) octave boundaries
+in the tuning match octave boundaries on the keyboard, preferably in some
+meaningful way.  (This sort of thing is very easy to do on the ASR-10, but
+somewhat more difficult on the K2000, according to my informant.)  For example,
+in 10TET, I map the keyboard so that adjacent Es and Fs play the same pitch, and
+similarly with adjacent Bs and Cs.  That effectively gives the keyboard a 5
+ivory/5 ebony structure, which is very natural for 10TET.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 4 Jan 1996 03:45 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA04297; Wed, 3 Jan 1996 18:45:09 -0800
+Date: Wed, 3 Jan 1996 18:45:09 -0800
+Message-Id: <960104024051_71670.2576_HHB84-5@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

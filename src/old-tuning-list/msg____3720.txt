@@ -1,0 +1,91 @@
+source file: mills2.txt
+Date: Fri, 4 Oct 1996 01:59:12 -0700
+
+Subject: TUNING digest 854: further response to Paul
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+(1) I think that my musical examples are sufficient to demonstrate that
+unless the harmonic situation is static (which is indeed the case for some
+repertoires, but I sense that your algorithm is geared to more traditional
+western materials) your description will not be musically useful, and
+within a static scenario, is is probably meaningless, as any values set by
+your algorithm are only in comparison to sonorities external to the music
+at hand. "Rootedness" I find to be extremely problematic musically, in the
+same way that the Fuxian bass line is simply more convincing musically than
+the Rameau basse generale (why is it that all of those dead, white male
+composers read Fux and ignored Rameau?). The idea of hearing a single chord
+outside of its contrapuntal (voice-leading) context is strikingly 
+_unmusical_.
+
+(2) I assume that combination tones will have significantly lower
+amplitudes than the instrumental tones played. (By the way, I would be
+interested in learning how one can calculate the amplitudes of combination
+tones if anyone knows). Thus, only pitch complexes constructed from (lower)
+harmonic series members will be significantly affected by masking, such
+that difficulties in discerning individual tones from the entire complex
+occur. (Anyone who has ever tried to dictate ensemble musics has
+experienced the masking problem).
+
+(3) I assume that pitch information is mentally processed as frequency
+rather than wave length (the ear functioning like a AD transformer): I may
+of course be entirely wrong about this, but it is a reasonable assumption.
+(An intutionist approach will takes temporal perception over spatial as the
+basis of the initial construction (cf Brouwer _Cambridge Lectures_); the
+spatial interpretations only follow.) The classical harmonics approach does
+not contradict this, as the first visual observation was of different
+strings (of different tension or thickness) moving faster and slower and
+yielding different pitches (this is immediately observable in gut or wire
+strings throughout the frequency ranges presumably used in ancient music),
+and then the compared lengths of a single string were then used to quantify
+this observation. Oscillatory periods and wave lengths are not observable
+as such without special apparati (this is not completely true, but the
+perception of wave lengths as physical distances depends on instrumentation
+and conditions generally outside of contemporary concert music and well
+outside of the ancient setting).   
+
+(3a) This is a weak argument, but I give it anyways: why is it that
+microtonal music theorist structure their discourse almost universally in
+terms of frequency ratios and not stringlengths, wavelengths, or periods?
+Either this is just a convention (which I doubt because each individual
+theorist seems to like building from first principles), or there is indeed
+an intuitive quality to frequency ratios not shared by _alternative_
+descriptions. 
+
+(4) Indeed, classical harmonics had no definitive _musical_ preference for
+subharmonic or harmonic divisions, and their results gave stringlength
+measurements for scales constructed in both ways (with preference for the
+least cumbersome numerically, and possibly using the physical _boundary_
+problem of not being able in practice to divide the string into many parts
+as a determinant of their preference), the issue being the prefered
+intonation of those (melodic) scales, not their analysis as harmonic
+complexes. _Mathematically_, however, the arithmetic divisions (subhamonic)
+were recognized as closed segments of the harmonic division; each
+individual arithmetic division yielded a finite number of pitches and was
+exhausted, while the harmonic division was continuable indefinitely. In
+this sense (a kind of set theory), the subharmonic divisions were
+considered inferior to the harmonic. The issues we are dealing with -
+comparing different pitch complexes - are outside of the narrow framework
+of classical harmonics, but I see no contradiction between mine and the
+classical approach.
+
+(5) I haven4t a degree in physics but I do recognize that the region
+between the smallest particle (10^-33 or so) and the vacuum (null) is not
+precisely mirrored by its inversion.
+
+Daniel Wolf
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 4 Oct 1996 11:37 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01908; Fri, 4 Oct 1996 10:38:32 +0100
+Received: from sun4nl.NL.net by ns (smtpxd); id XA01906
+Received: from eartha.mills.edu by sun4nl.NL.net (5.65b/NLnet-3.4)
+	id AA18943; Fri, 4 Oct 1996 09:55:44 +0200
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id AAA21355; Fri, 4 Oct 1996 00:54:22 -0700
+Date: Fri, 4 Oct 1996 00:54:22 -0700
+Message-Id: <9610040753.AA08057@arthaud.saclay.cea.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

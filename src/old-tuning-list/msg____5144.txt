@@ -1,0 +1,59 @@
+source file: mills2.txt
+Date: Wed, 19 Mar 1997 04:50:26 -0800
+
+Subject: On the tuning of augmented sixth chord (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+No disrespect intended, but it is silly to try to calculate the "5-limit" 
+ratios of common-practice chromatically altered harmonies. I believe the 
+preponderance of this kind of numerology to hurt the case for alternative 
+tuning systems among the musical community.
+
+a) The diatonic system is only a 5-limit system insofar as the consonant 
+harmonies approximate ratios of odd numbers 5 or less. Even calculating the 
+ratios of a purely diatonic progression such as I-IV-ii-V-I is a futile 
+exercise; in any meantone temperament, including 12-equal, the musical 
+reality obliterates all distinctions between varying quantifications of the 
+above progression, and is more beautiful than any of them to boot. To claim 
+(as many would) that the arithmetical construction is more valid than the 
+musical reality is to cease to have any relevance for the realm of music and 
+to engage in a meta-musical game reminiscent of the worst excesses of 
+serialism.
+
+b) The fact is that certain chromatic alterations were chosen from a pool of 
+many possibilities that would satisfy the rules of melodic/contrapuntal 
+movement. The latter would dictate simply that two voices can be 
+chromatically altered in opposite directions if both resolve by step in the 
+direction of the alteration. But we don't have augmented thirds progressing 
+to perfect fifths, and instances of augmented seconds and augmented fourths 
+seem to be restricted to the case where at least one note is diatonic. The 
+augmented sixth distinguished itself from other possibilities for acoustical 
+reasons; namely, its proximity to a septimal ratio. If nothing else, 
+septimal ratios define a set of "not-too-dissonant" intervals outside the 
+5-limit system, and need not be taken as a foreign musical language.
+
+I would suggest that people using the limit terminology review Partch's 
+original definition since the "prime" definition seems to lead to a lot of 
+confusion and unneeded complexity while the "odd" or Partch definition seems 
+more suited to musical practice and acoustical theory. The "prime" 
+definition is sometimes useful in describing a tuning system or the practice 
+of tuning itself, but musical reality as concerns the listener is better 
+understood in terms of the "odd" definition.
+
+ -Paul E.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 20 Mar 1997 01:30 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06537; Thu, 20 Mar 1997 01:30:16 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA06538
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id QAA22767; Wed, 19 Mar 1997 16:28:14 -0800
+Date: Wed, 19 Mar 1997 16:28:14 -0800
+Message-Id: <009B181E69F47816.705F@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

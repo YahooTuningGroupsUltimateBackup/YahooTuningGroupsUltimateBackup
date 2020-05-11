@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Sun, 7 Jul 1996 16:07:26 -0700
+
+Subject: TUNING THE HARMONICA
+
+From: Pat Missin <patm@globalnet.co.uk>
+
+As a new subscriber to the tunings list, I guess I'd better introduce
+myself. My name is Pat Missin and I play several instruments, but my main
+weapon is the humble harmonica, or rather many different harmonicas, which I
+play in a variety of traditional and avant guarde styles. For the last ten
+years or so, I have also worked on the repair and modification (mostly of my
+own harps, for reasons of poverty and their ever-increasing price), but I
+also service them for other people.
+
+Most of my instruments are diatonic and I set them up in just, or slightly
+tempered tuning, but some of them pose a few problems. Like the harmonium
+that Helmholtz et al, used for their experiments, the harmonica produces
+very strong combinational tones, some of which can sound quite unpleasant,
+even on a well tuned harp. These tones are often unbearable on an equal
+tempered harmonica, such as the standard chromatic instrument.
+
+For those of you who do not know, the chromatic harmonica is based around
+repeating groups of four holes, each with a blow note and a draw note. The
+blow notes in each group are C, E, G, C and the draw notes are D, F, A, B.
+When a button is pressed, another set of reeds is brought into play, tuned a
+semitone above the first set, allowing a complete chromatic scale. (Actually
+there are a few duplicated notes in each octave E# as well as F; B# as well
+as C, but in equal temperament, these are to all intents and purposes F and
+C.) The blow notes seem to cry out for a just major triad (on C and C#), but
+the draw chord poses a bit more of a problem. D, F, A and B tuned as a G7
+without a root, sounds great as a full chord in the key of C, but the
+septimal seventh causes the individual intervals to sound horrible in, for
+example, the key of F.
+
+When the chromaatic is played in many different keys, I guess equal is an
+obvious choice, but many players (Irish folk players, for example) use it as
+a modal instrument, using the semitone button for ornamentations, but
+sticking to a few closely related keys (in the case of Irish music on a C
+harmonica, the favored modes would be C ionian, G ionian and mixolydian, D
+aeolian and dorian). The presence of the notes D, F and A in the draw chord
+suggest that it should be tuned towards D minor or F major. I've tried
+various meantone ideas, but I wondered if any of you out there have any
+other suggestions (other than "buy a synthesiser...").
+
+Also, if you play all the notes on a C chromatic,  you get the folowing
+sequence: C, C#, D, D#, E, E#, F, F#, G, G#, A, A#, B, B#, C and C#; the
+next octave starting again from C. That's sixteen notes to the octave - this
+must suggest some ideas to someone out there - please let me know.
+
+Pat Missin.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 8 Jul 1996 07:49 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA12559; Sun, 7 Jul 1996 22:49:44 -0700
+Date: Sun, 7 Jul 1996 22:49:44 -0700
+Message-Id: <01I6T9SX43KI8YG49L@delphi.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

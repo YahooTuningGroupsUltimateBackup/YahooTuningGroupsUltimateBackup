@@ -1,0 +1,58 @@
+source file: mills3.txt
+Date: Fri, 15 Aug 1997 23:44:59 +0200
+
+Subject: 1/4 tones and 1/n "comma" meantones - naming
+
+From: Charles Lucy <lucy@ilhawaii.net>
+
+I appreciate the historical use of the 1/n comma meantone term,
+yet propose that meantones could more universally be described by
+the interval between the fourth and the fifth (i.e. the Large interval).
+Although this would result in many tET patterns having more than one
+way of deriving and describing them, it would also emphasise their
+connection to meantone tunings, rather than giving only some meantones
+(another unfortunate term) an implied connection as a hybrid of
+Just Intonation.
+The other term which needs some definition is what I call the
+"Octave Ratio" (which needs definition if other that 2.00000000000...)
+
+Does anyone have a good generic term to describe these spiral or
+circular tuning arrangements, which are derived from steps of fourths
+in one direction and fifths in the other?
+(i.e. other than "meantones" and to include those with Large intervals
+greater than 2^(1/6): one of which is usually described as Pythagorean).
+
+TIA for your thoughts
+
+lucy
+
+
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  petalsinpetaluma@hotmail.com
+Subject:  gender (or such)
+PostedDate:  16-08-97 00:46:28
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  16-08-97 00:46:28-16-08-97 00:46:29,16-08-97 00:44:36-16-08-97 00:44:37
+DeliveredDate:  16-08-97 00:44:37
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564F4.007D1A05; Sat, 16 Aug 1997 00:46:26 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17511; Sat, 16 Aug 1997 00:46:28 +0200
+Date: Sat, 16 Aug 1997 00:46:28 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA17507
+Received: (qmail 22774 invoked from network); 15 Aug 1997 22:46:14 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 Aug 1997 22:46:14 -0000
+Message-Id: <19970815224351.4769.qmail@hotmail.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

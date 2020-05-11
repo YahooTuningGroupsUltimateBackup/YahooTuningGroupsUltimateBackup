@@ -1,0 +1,76 @@
+source file: m1411.txt
+Date: Sun, 10 May 98 06:03:37 -0000
+
+Subject: LiSa Sftwr Samplerw/microtuning,$250!
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hello Everyone,
+
+If you already know about this,please forgive the long post.It's just =
+so cool,I had to make sure everyone knows.
+
+LiSa (Live Sampling) by STEIM is a real-time audio manipulation =
+environment that runs on any
+Macintosh or Mac-compatible computer with a Power PC (PPC) processor.
+
+Upto 64 voices,depending on cpu speed.
+28 voice polyphony on an 8500/120,
+12 on a 6100/66,
+10 onq 5300/117PowerBook.
+
+No additional hardware required
+
+Handles 44.1k mono samples on ea.voice.
+Also does real-time mono sampling like a very fancy digital delay.
+
+How many samples it can hold is somewhat unusual ,essentially =
+unlimited 
+,and very flexible with direct & arbitrary access to any sample (or =
+portion thereof) that is in the buffer.
+
+OMS/MIDI manager compatible.
+
+Needs 4MB RAM for LiSa itself,plus user defined RAM for  samples.
+
+Each of the 128 MIDI notes can be tuned to any pitch in the range of =
+0-12000 cents, thus making it possible for each MIDI note to play at =
+any pitch within
+LiSa=B9s entire range.  These pitch tables are stored at the Preset =
+level, meaning that each Preset can hold 16 pitch tables, one for =
+each channel.
+
+ The file you load when you start up the program is called a Setup. =
+Every Setup is comprised of up to
+128 Presets. A Preset is what you are actually working with at any =
+one time when
+programming or performing with LiSa.
+
+So,you can have access to (16 * 128) 2048 arbitrary tunings at a time =
+!
+
+Plus,Pitch bend range of 0 to 60 semitones.
+
+It has a very full MIDI implementation,with access to numerous =
+parameters.
+
+
+Doesn't have much in the way of efx, has fuzz,a pseudo-resonator,and =
+elaborate control over the samples themselves.
+
+Cost :1392 French Francs.(@US $250)
+
+Steim Foundation ,The Netherlands, phone: (0)20-6228690, fax: =
+(0)20-6264262, email:
+tomd@xs4all.nl
+
+Don't know if STEIM sells direct,but I know IRCAM does :
+<http://www.ircam.fr>
+Vincent Puig - Marketing Director
+e.mail : puig@ircam.fr
+
+There is a save disabled free demo version (and a complete pdf =
+manual) at <ftp://ftp.ircam.fr>
+
+Cheers,
+Drew

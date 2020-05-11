@@ -1,0 +1,31 @@
+source file: m1543.txt
+Date: Sat, 3 Oct 1998 18:49:25 -0700 (PDT)
+
+Subject: Re: TUNING digest 1541
+
+From: bram <bram@gawth.com>
+
+On Fri, 2 Oct 1998, Andrew Bolce' wrote:
+
+> >From: bram <bram@gawth.com>
+> >
+> >Can someone verify for me whether sin(x) and
+> >a*sin(x/a) are of the same volume? If they are, I know how to make it
+> >exact.
+> 
+> they're not equal. a*sin(x/a) = a(sq.rt.((1-cosx)/a)) or
+> sq.rt.((a^2-a^2cosx)/(a))
+> i think. 0 would work however. and so would pi. (or would it be 0 and 1?)
+
+I'm not sure what you mean - how does that relate to volume?
+
+My guess is that the volume of a sound is based on the integral of the
+absolute value of it's derivative. The integrals of cos(x) and cos(x/a)
+(the respective derivatives) never differ by more than a constant amount.
+
+-Bram
+
+------------------------------
+
+End of TUNING Digest 1543
+*************************

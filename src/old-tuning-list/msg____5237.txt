@@ -1,0 +1,64 @@
+source file: mills2.txt
+Date: Tue, 1 Apr 1997 08:55:24 -0800
+
+Subject: Re: TUNING digest 1030
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+Hi John (and Mark),
+
+At 07:31 AM 3/30/97 -0800, you wrote (in TUNING Digest 1030):
+>Date: Sat, 29 Mar 1997 13:07:48 -0800 (PST)
+>From: John Chalmers <non12@deltanet.com>
+>Subject: Harmony Grid
+>
+>I just got a letter from Mark Rankin, who desires information about
+>a Mac program called "Harmony Grid," which dates from the 1988-91
+>epoch and was published by the HIP Software Company in Cambridge, MA.
+>Mark said that their old phone number and and street address are no
+>longer valid (117 Harvard Street, Suite 3, Cambridge, Ma 02139, (617) 
+>661-2HIP). If anyone knows anything about the company, or the program, 
+>please email me and I'll forward the information to Mark.
+
+I never heard of the program, but I'm interested in it (hopefully there's an
+IBMPC version of it as well).
+
+>Mark specifically asked whether this software used a bi-axial cartesian
+>Fifth x Major Third grid or the tri-axial one with the minor third as
+>well.
+
+Can you explain the "tri-axial" coordinate system?  Wouldn't you end up with
+a triangle, instead of a third dimension, if the third coordinate is a minor
+third?  E.g.:
+
+    G
+   / \
+  C---E
+
+(In case email reformats the above, it's supposed to be a triangle
+connecting C, E, and G of a C Major Triad.)
+
+Later,
+
+--Mark Nowitzky
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@pacificnet.net                      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 1 Apr 1997 20:53 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00737; Tue, 1 Apr 1997 21:53:47 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00735
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id LAA10546; Tue, 1 Apr 1997 11:52:21 -0800
+Date: Tue, 1 Apr 1997 11:52:21 -0800
+Message-Id: <9704011948.AA20422@tom.eng.mvision.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

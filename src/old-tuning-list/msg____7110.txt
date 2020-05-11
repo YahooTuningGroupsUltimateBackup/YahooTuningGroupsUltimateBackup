@@ -1,0 +1,142 @@
+source file: mills3.txt
+Date: Mon, 2 Feb 1998 19:28:15 +0100
+
+Subject: Decatonic tuning and 7-limit lattices
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Sure enough, Paul Erlich does describe decatonic modes in JI,
+but it's under the heading "History of 22-tone tunings" and
+so I overlooked it.  The text implies that lattice diagrams should
+be there, but I don't have them.  One should look like this:
+
+          9
+         / \
+        /   \
+8---------4---------0
+ \    /  / \  \    / \
+  \  6--/---\--2  /   \
+   \   /  9---------5  \
+    \ /    \  \ /  /    \
+     1------\--7--/------3
+             \   /
+              \ /
+               2
+
+The numbers show decatonic steps, hence there are 10 of them(!)
+This is the following mode:
+
+0  1  2  3  4  5  6  7  8  9  0
+  2  2  2  3  2  2  2  3  2  2  =22
+
+It doesn't seem to be any of the named scales, but no matter.
+If you bring 6-9-2-4 and 9-2-5-7 together, you get this:
+
+
+          9---------5
+         / \       /
+        /   \  7  /
+8---------4---------0
+ \    /  / \  \ /  / \
+  \  6--/---\--2  /   \
+   \   /  9  \   /  5  \
+    \ /       \ /       \
+     1---------7---------3
+
+This has some advantages with 5- or 15-limit harmony, but not
+really the strict 7-limit decatonic tonality.  I could pretend
+this is the 3 comma tuning I was thinking of, but actually I lost
+the bit of paper I originally worked it out on, and misremembered
+the number of commas I got.  I decided to post anyway, because I
+wanted to start a discussion on this.
+
+For the pentachordal modes, I reckon tuning to 53-equal is an
+option.  I think the 50/49 is only one step, and so comma sized.
+Crucially, 1/53 is smaller than half 1/22, so there's no ambiguity.
+The 7-limit chords are tuned significantly better than in 22-equal,
+so there is an advantage to offset the presence of the commas.
+
+My point about tuning tritones isn't quite covered in Paul's paper.
+To quote: "Since any perfect 6th10 in the scale is likely to
+represent 7:5 and 10:7 equally often, the interval achieves its
+greatest accuracy at exactly 600 cents."  No, at least 1 of the 4
+tritones in a pentachordal scale has only one interpretation.  My
+point is that, as at least two have to be ambiguous, these worst
+intervals in 22-equal can't be improved by any tempering.  A well
+temperament may improve the average tuning, though, and I haven't
+looked at this properly yet.
+
+The symmetrical modes require a lot more commas, and so there's
+no point in using more than the 10 notes unless you really know
+what you're doing.
+
+
+These 3-dimensional lattices are definitely fcc, aren't they?
+I thought they were hexagonal close packing before, but I was
+wrong.  There is a difference.
+
+In abstract terms, the point of fcc is that, along with hcp, it
+has the highest possible packing fraction for spheres.  That's why
+it's so common in crystals.  The musical relevance of the
+dodecahedra (which are apparently rhombic) is as follows.  Consider
+one point on a lattice.  That point is directly connected to 12
+other points.  These correspond to the 12 faces of the
+dodecahedron.  The lattice looks the same from each point and so
+is regular.  Furthermore, the 12 points correspond to the 12
+7-limit intervals within an octave:
+
+                       5/3-------5/4
+                       / \       / \
+                      /   \10/7 /   \
+   O   O             / 7/6 \   / 7/4 \
+     |              /       \ /       \
+   \___/          4/3-------1/1-------3/2
+                    \       / \       /
+                     \ 8/7 /   \12/7 /
+                      \   / 7/5 \   /
+                       \ /       \ /
+                       8/5-------6/5
+
+And there's probably a name for that structure, maybe 7-limit
+tonality diamond.
+
+I am of the opinion that these lattices are the best way of
+representing 7-limit octave invariant scales most of the time.
+When you bring the octaves into it, it makes more sense to use
+hypercubes.  Or, at least, matrices with a rectangular distance
+function.  I, for one, have difficulty in visualising four
+dimensions.
+
+In case people are getting deluged with all this theory, I'll
+highlight the point that these lattices are very useful for
+constructing 7-limit scales, and taking chords from them.  There,
+I've done it.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  RE: Decatonic tuning and 7-limit lattices
+PostedDate:  02-02-98 20:17:03
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  02-02-98 20:16:07-02-02-98 20:16:08,02-02-98 20:14:48-02-02-98 20:14:48
+DeliveredDate:  02-02-98 20:14:48
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125659F.0069D496; Mon, 2 Feb 1998 20:15:57 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04691; Mon, 2 Feb 1998 20:17:03 +0100
+Date: Mon, 2 Feb 1998 20:17:03 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA05857
+Received: (qmail 22941 invoked from network); 2 Feb 1998 11:07:29 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 2 Feb 1998 11:07:29 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-980202190527Z-4462@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

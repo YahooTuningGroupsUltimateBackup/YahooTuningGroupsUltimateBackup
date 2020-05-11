@@ -1,0 +1,44 @@
+source file: m1367.txt
+Date: Sat, 28 Mar 1998 13:58:46 +0000
+
+Subject: when truncated
+
+From: BUYO-BUYO-IGOR <igor@db3.so-net.or.jp>
+
+Hi! & Thanx for reply,
+
+Can I ask a bit more?
+Maybe this is just like asking how bits work in computer but.. 
+actually..I don't know how it goes..
+
+>QuickTime 2.5 (built-in Macintosh software synthesizer) uses 9 bits
+
+Oh my Buddah!
+Then...
+ 
+>I'm not a MAX user, but assuming that xbendouts are the same as MIDI
+>pitch bend messages (+-8192 = 14 bits), you can round off to the
+>nearest multiple of 32 for best results since I imagine QT just
+>truncates the higher bits.
+
+You mean I have to recalculate by myself?
+Or does QT automatically take me to the nearest value?
+In other word ... does higher bit does the 'more' fine tunings?...I mean 
+when 5 bits truncated ... the remaining 9 is not "not correct" but just 
+robust?...hope so...
+
+Thanx in advance...again
+
+-- 
+------------------8<-----------------------
+BUYO-BUYO-IGOR
+SaRiGaMa's Oil Vending Orchestra
+Japanese HomePage=http://come.to/sarigama
+International HomePage=http://www.mars.dti.ne.jp/~buyobuyo
+E-Mail=gianthead@bigfoot.com
+Jammin' on Mar29,May24
+Plans=http://www.mars.dti.ne.jp/~buyobuyo/sarisari/forsari.html 
+Also on Jun28
+Plans=http://www.mars.dti.ne.jp/~buyobuyo/gamagama/forgama.html
+Birth of "World Wide Deb" Jam (=non SaRiGaMa) on Apr26
+What?=http://www.mars.dti.ne.jp/~buyobuyo/bands/wwd.html

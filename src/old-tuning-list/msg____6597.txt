@@ -1,0 +1,51 @@
+source file: mills3.txt
+Date: Fri, 12 Dec 1997 14:41:37 +0100
+
+Subject: Gibson's modes
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Ironically, all 28 of Gibson's modes "work" in 22! In other words, each
+of his four basic scales can be expressed in 22TET with all four of its
+consonant triads sounding quite pure. I found this out while noodling on
+a 12-out-of-22 keyboard tuning last night. The usual diatonic scale can,
+of course, only have five out of its six consonant triads "in tune" in
+22, which is presumably what Gibson has in mind when he talks about the
+circle of fifths not closing.
+
+The other problem with diatonic scales in 22 is that they contain 3,
+instead of 2, step sizes. Three out of Gibson's four basic scales also
+have one more step size in 22 than in 12 or 19. But one, the non-western
+one, has 3 step sizes in all of these tunings, in addition to having
+four consonant triads in all of these tunings. Perhaps it is not
+surprising that I found myself gravitating to such non-western modes on
+my 22-tone guitar some time ago.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  RE: Oops... back to school for me
+PostedDate:  12-12-97 14:44:44
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-12-97 14:42:50-12-12-97 14:42:51,12-12-97 14:42:35-12-12-97 14:42:35
+DeliveredDate:  12-12-97 14:42:35
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656B.004B52B3; Fri, 12 Dec 1997 14:44:40 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12635; Fri, 12 Dec 1997 14:44:44 +0100
+Date: Fri, 12 Dec 1997 14:44:44 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA13692
+Received: (qmail 9848 invoked from network); 12 Dec 1997 05:43:04 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Dec 1997 05:43:04 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971211194139Z-1935@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Fri, 16 May 1997 01:59:04 +0200
+
+Subject: Re: Structure in JI
+
+From: Brian Lee <blee@dircon.co.uk>
+
+In answer to the question of how JI composers structure their music. The
+strength of JI as a system is that the rational relationships between the
+notes can be expressed in whole numbers whereas ET systems define the notes
+logarithmically.
+
+Please bear in mind that not all JI systems are the same. You can construct
+a JI scale by taking a chunk of the harmonic series (what Partch calls
+Otonality). You can take a mirror image of the harmonic series (what some
+would call the undertone series) and an octave chunk of that becomes your
+scale (Utonality in Partch's nomenclature). You can work in a tetrachordal
+system or you can as Lou Harrison sometimes does work in free JI where you
+just intuitively step around using a set of intervals rather than a fixed
+scale. 
+
+As there are various JI scales, there are various ways of structuring. For
+example, the higher the prime identity of the note (in relation to another
+note) the greater the potential dissonance. So by looking at the numbers and
+how they move you can get an idea of the relative dissonance or consonance
+of a pattern without mentally calculating the exact interval. Eventually one
+can develop a right-brained approach to number. 
+
+JI can't however let you play in anything like a key system (except that is
+for what Ray Tomes calls Dynamic JI where the intervals get automatically
+recalculated whenever you declare a new tonic). There are JI scales of more
+than 12 notes to an octave where you can take subsets of notes according
+their prime identity and these subsets (or spaces) have similar internal
+structure, so moving from one harmonic space to another can give that gear
+shift feel of changing key. But unlike ET you're not giving your spaces
+arbitrary labels from the letters of the alphabet, with JI your space has a
+numerical identity and that's what you call it. 
+
+Those are the sort of structural concerns that interest me at the moment.
+
+Brian Lee
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 16 May 1997 03:06 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03386; Fri, 16 May 1997 03:06:16 +0200
+Date: Fri, 16 May 1997 03:06:16 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03384
+Received: (qmail 26152 invoked from network); 16 May 1997 01:06:12 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 May 1997 01:06:12 -0000
+Message-Id: <v01541101afa114c0af4a@[207.207.3.171]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Thu, 29 Feb 1996 06:29:53 -0800
+
+Subject: MTS, tone deaf
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+I'm replying to two items in the digest at once here- sorry for the sudden
+topic shifts.
+
+>From: non12@delta1.deltanet.com (John Chalmers)
+>I just got a letter from Erv Wilson who has a question about
+>the new Ensoniq MR-Rack. Does it really support the new MIDI
+>Tuning Standard? Erv can easily hear a 2 cent interval and finds the 
+>current 1024 and 728 tone/octave M(pitch resolutions far too coarse 
+>for his work.
+> 
+>For my own information, is the new MIDI Tuning Standard really 
+>196,608 tones (1/(3x2^16)) per octave?
+
+The MR certainly supports MTS, both tuning dump and note change.  MTS does
+specify a 21-bit tuning code, which I think comes out to the number above.
+However, the fine print states that synth manufacturers don't have to live
+up to that in their hardware- in fact most interpolating oscillator chips
+can't resolve more than 2048 divisions of the octave.  Physical modelling
+and other DSP-oriented techniques may do better.  The ASR-10 has a
+resolution of 728 tones/octave and the MR-Rack doubles that with 1024.  
+
+For JI on current hardware what's really required are techniques such as
+Marion McCoskey's, in which interpolation parameters are combined with
+sample loop lengths to get beatless, essentially infinite resolution.  MTS
+doesn't really tell you what ratio a given frequency is supposed to be- any
+ideas out there on an extention?  Maybe the frequency triplet could be
+interpreted as octave, numerator, denominator?
+
+>From: Gary Morrison <71670.2576@compuserve.com>
+>Subject: Amusing Quote
+>   I can't recall which, but one of the generals of the American Civil War
+>readily admited that he was utterly and completely tonedeaf.  He was quoted as
+>saying that he recognized only two tunes:  One of them was Yankee Doodle, and
+>the other, he said, was not.  
+>   Sorry, I'm off the subject, but I thought that quote amusing.  I've met
+a few
+>people like that!  
+
+The members of the Residents also claim to be tone deaf.  Make of this what
+you will- it may have influenced their (what I consider to be) very
+interesting music!
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 29 Feb 1996 18:47 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA03807; Thu, 29 Feb 1996 09:47:08 -0800
+Date: Thu, 29 Feb 1996 09:47:08 -0800
+Message-Id: <199602291745.CAA14668@inetnif.niftyserve.or.jp>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

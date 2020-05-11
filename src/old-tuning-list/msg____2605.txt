@@ -1,0 +1,31 @@
+source file: mills2.txt
+Date: Fri, 1 Mar 1996 08:03:19 -0800
+
+Subject: Correction, Midi Tuning Standard
+
+From: non12@delta1.deltanet.com (John Chalmers)
+
+There were two errors in my last post: I should have written 768 not 
+728 tones per octave, but the second one M( is some strange software 
+error for MIDI as it looked fine on my screen. I noticed recently, since 
+I was moved to Deltanet, that corrections sometimes transmit differently 
+from what my screen shows. Sometimes saving the file and reopening it 
+helps, but not always.  
+ 
+>find the current 1024 and 728 tone/octave M(pitch resolutions far
+>too coarse for his work. 
+ 
+Anyway, thanks Steve, I'll transmit your reply to Erv today.
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 1 Mar 1996 21:21 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA10676; Fri, 1 Mar 1996 12:20:44 -0800
+Date: Fri, 1 Mar 1996 12:20:44 -0800
+Message-Id: <v01510100ad5ccd751322@[206.119.10.100]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,213 @@
+source file: mills2.txt
+Date: Tue, 17 Oct 1995 08:40:51 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & psychoacoustics - post 22 of 25
+ 
+---
+In the course of this series of posts much experimental evidence has been 
+reviewed.  Forum subscribers open-minded enough to have read the original 
+references now understand the degree of contradiction and complexity 
+which attends the human auditory system.
+As we've seen, the evidence offered by psychoacoustic research is not 
+simple and straightforward.  Some results conflict,  and others support 
+none of the three accepted models of human hearing.
+There is, however, a preponderance of evidence to support a number of basic 
+conclusions about the ear/brain system:
+The fact that different aspects of the ear/brain's sound processing function 
+are evoked by different experiments opens up the likelihood that at least 3 
+different ear/brain systems operate to process sound.  Wever (1964) was 
+the first to suggest that more than one mechanism exists to process sound; 
+von Bekesy strongly implies this conclusion in his 1966 paper. Plomp (1967) 
+strongly disagrees, but gives no basis for his objection. Pickles (1989) 
+points out that "the best support for [this] view is the rather negative
+one that the evidence in favour of either of the other two [place and
+periodicity] theories is not conclusive, and this may be a function of
+the quality of the evidence available, rather than of the acutal operation
+of the auditory system." [Pickles, James O., "An Introduction to the
+Phsyiology of Hearing," Academic Press, 2nd ed., 1988, pg. 277]
+The leading candidates for different mechanisms for detecting pitch and 
+processing sounds, they are: [1] the Fourier analyzer action of the 
+basilar membrane; [2] the  encoding of pitch and spectral content by 
+repetition rate of neurons firing  along the auditory nerve; [3] the 
+combination of received neural impulses in medullar and higher brain 
+areas and the consequent active feedback pathway between the Sylvian 
+fissure, the superior medial nucleus, and the different classes of neurons 
+in the primary, secondary and third- and fourth-order nerve fibers of 
+the auditory nerve.
+What does this imply?
+First, the role of learning and the possible conflict twixt periodicity and 
+Fourier analysis makes it clear that "the pitch of musical sounds is not 
+directly proportional to the logarithm of the frequency and is probably 
+complexly conditioned."  [Corso, J.F. "Scale Position and Performed Musical 
+Octaves," Journal of Psychology, Vol. 37, 1954] This renders suspect tuning 
+theories which ascribe absolute and invariant qualities to this or that 
+scale  degree or interval.  Instead, pitch and  intervallic quality appear 
+to be  storngly influenced by musical context, as well as by the overtone 
+content of the intervals.
+This conclusion would tend to support all three tunings equally, depending 
+on musical context, and learning: just intonation, equal temperament, and 
+non-just non-equal-tempered tunings are all equally supported by the 
+brain's learned sound processing capacities.
+With instruments using strictly harmonic spectra, this conclusion weakly 
+supports the use of just intonation tuning--weakly, because of the 
+important role of learned response in the ear/brain system.   For 
+instruments which do not use strictly harmonis spsectra, non-just non-
+equal-tempered systems are weakly supported: this conclusion does not 
+support use of equal temperament except insofar as education and 
+acculturation can sufficiently indoctrinate listeners into accepting that 
+tuning.
+Second, from Plomp and Levelt's and Kameoka and Kuriyagawa's work it is 
+clear that the roughness or sharpness of musical intervals is largely 
+determined by proximity of individual overtones with the critical band for 
+that frequency range.
+It is also clear from Mathews', Pierce's, Geary's, Sethares' and Dashow's 
+work that timbres can be matched to tunings using digital technology so as 
+to precisely control the degree of audible roughness or smoothness within 
+the intervals of the scale.
+However, it is less clear from the psychoacoustic evidence that audible 
+roughness and sharpness of musical intervals equates with "consonance" and 
+"dissonance," much less with the more sophisticated quality of 
+"concordance" and  "discordance" put forward by Easley Blackwood.
+Much of the music-theory literature on consonance and dissonance merely 
+redefines those terms to favor the author's chosen list of references. By 
+redefining consonance as "beats," just intonation emerges as the preferred 
+tuning; by redefining consonance as "roughness," the periodicity theory is 
+favored with the proviso that the partials of the overtones be warped to fit 
+the tuning (so that all the partials share sub- and super-multiples of the 
+same periodicity); and if consonance is redefined as "learned preference," or 
+"experimental results of interval preference," non-just non-equal-tempered 
+tuning emerges as the "best" tuning based on the empirical evidence of 
+preference for stretched non-just non-equal-tempered intervals.
+A good example of this process can be found in the following quote from 
+Plomp:
+"In conclusion, Helmholtz's theory, stating that the degree of dissonance is 
+determined by the roughness of rapid beats, is confirmed. It appears that 
+maximal and minimal roughness are related to critical bandwidth..." [Plomp, 
+"Experiments on the Tone Sensation," 1967, pg. 58] By discussing only 
+harmonic tones and by defining dissonance as "the roughness of rapid beats," 
+just intonation emerges as the de facto winner.
+A different set of assumptions produces an entirely different conclusion.  
+For example, Risset's composition Inharmonique is based on inharmonic 
+tones which also exhibit a lack of "roughness of rapid beats."  Thus Risset's 
+harmonic practices would appear to be equally acceptable according to 
+Plomp's definitions, yet Risset's composition does not employ small-integer 
+ratios--but the compositions still exhibits marked examples of dissonance 
+and consonance.
+Moreover, musical intervals are often not heard as isolated units: "there is 
+considerable evidence that melodies are perceived as *gestalts * or 
+patterns, rather than as a seuccession of individual intervals, and that 
+interval magnitude is only a small factor in the total percept." [Burns., 
+E.M.,  and Ward, W.D., "Intervals, Scales and Tuning," in "The Psychology 
+of Music," ed. Diana Deutsch, 1982, pg. 264] 
+As Plomp points out, "A clear relationship exists between these data, 
+justifying the conclusion that consonance is closely related to the absence 
+of (rapid) beats, as in Helmholtz's theory.  The critical-bandwidth curve 
+fits the data rather well." [Plomp, "Experiments In the Tone Sensation," 
+1967, pg. 58]
+Thus, while the psychoacoustic evidence on "roughness" and "smoothness" of 
+musical intervals is clear, the musical imlications are less 
+striaghtforward.  As von Bekesy points out, "...linearity can be assumed of 
+the mechanical part of the [auditory] stimulation; but from a physiological 
+point of view, the question of linearity in the nervous system is still  
+open to speculation." [von Bekesy, G., "Hearing Theories and Complex 
+Sounds," Journ. Acoust. Soc. Am., Vol. 35, No. 4, 1963, pg. 588]
+Although "beats" are castigated by one group of theorists and used as the 
+justification for one set of tuning theories, strong evidence exists that a 
+beat rate of 6 to 7 Hz adds to the perceived musicality of a performance.  
+This is true of both non-Western and Western music:  "Even a cursory 
+acquaintance with the sound of a Balinese gamelan uncovers some puzzling 
+aspects of musical timbre.  The beating complex that is the result of all 
+the beats produced in the gamelan, and especially dependent upon the beats 
+of paired metallophones, resembles in its effect the quality of a string, 
+woodwind or brass section in a Western orchestra.  (...) It appears that 
+some type of pulsation at rates between 6 and 7 times per second -- and 
+slightly irregular -- is musically desirable, both in Bali and in the West, 
+that the effects of beats and the effects of vibrato are similar so far as 
+the quality of richness is concerned, and that the unfiication of hte 
+sound (section sound) can be accomlished with either technique." [Erickson, 
+R., "Timbre and the Tuning of the Balinese Gamelan," Soundings, 1984, 
+pg. 100]
+In fact the argument for this or that tuning according to beat rate  is not 
+supported by the psychoacoustic data, except insofar as the data strongly 
+support a universal preference for low-level beats in the 6-7 Hz region.
+The ability of the ear to extract individual components from complex 
+sounds, however, argues strongly in favor of just intonation.
+JI tunings are the only tunings which accord with the ear's Fourier 
+analysis mechanism.
+It is, however, clear that Fourier analysis is only one method used by the 
+ear to process sounds, and in many situations it is the least important 
+system. Both Plomp & Levelt's and Kameoka and Kuriyagawa's findings strongly 
+support all three general kinds of tunings, provided that the overtones of 
+the individual partials of the notes are matched to the scale as suggested 
+by Sethares, Risset, Pierce and McLaren.
+We've seen from Shepard's and Risset's auditory illusions and from Wessel's 
+streaming phenomenon that all 3 ear/brain systems of pitch processing 
+interact; sometimes they conflict.  This provides opportunities for 
+composition using digital media, and tends to support non-just non-equal-
+tempered tunings (albeit weakly).
+At first glance, the surprising and universal human preference for stretched 
+intervals, including a stretched octave of between 1210 and 1215 cents on 
+average, strongly favors non-just non-equal-tempered scales. 
+However Terhardt has brought forth convincing evidence that much of this 
+effect is due to learning: and in that case, since any musical tuning can be 
+learned, all three tunings are supported by this body of evidence to the 
+degree that acculturation is involved.
+The wide variability of interval size in live concerts by expert performers 
+tends to support this concludion; however Terhardt's findings in comparing 
+stretched, compressed and equal-tempered tunings found a differential 
+preference for all three types of tunings--depending on context.
+This evidence gives superiority to either equal-tempered, stretched or 
+compressed tunings, depending on whether harmony or melody predominates.
+The body of psychoacoustic evidence as a whole clearly shows a difference 
+between the size of preferred melodic and harmonic intervals called by the 
+same name; this also provides strong evidence for categorical perception of 
+musical intervals, which in turn tends to vitiate the superiority of any 
+given tuning.  If, once learned, an interval can be recogtnized even though 
+significantly altered in size, then many different tunings should prove 
+equally musical and effective provided that Rothenberg's properiety criteria 
+are observed.
+The experiments also show a clear dichotomy between the preferred size of 
+vertical intervals and sequential intervals. Both preferred interval sizes 
+as measured in adjustment tests are significantly larger than small-integer 
+ratios predicted by conventional Western theory, but the sequential 
+intervals heard as "true thirds," "true fifths," "true octaves," etc. are 
+even wider than the already winder-than-just vertical intervals.  This body 
+of data strongly supports the use of non-just non-equal-tempered tunings, 
+inasmuch as the psychoacoustic data support neither a preference for 
+tempered nor just intervals. 
+Lastly, the limitations on the applicability of the Fourier transform do 
+not argue against just intoantion or for any other tuning, since the FFT is 
+entirely appropriate for strictly harmonic sounds; however an awareness of 
+the limitations of the FFT as a tool for explaining and analyzing musical 
+sounds serves as a warning against generalizing the results of this or that 
+psychoacoustic experiment beyond its proper range.  
+Thus the data is mixed and, as promised, there exists considerable 
+psychoacoustic evidence to support each major type of tuning, as well as a 
+significant body of findings which tend to *refute * the arguments for each 
+particular tuning.
+To date, the psychoacoustic data amassed by various researchers has been 
+considered as though it were a perfect array of unbiased results.  However, 
+all the major psychoacoustic researchers have exhibited strong biases 
+toward this or that particular tuning philosophy.  In some cases this 
+muiscal bias  had little effect on the conclusions they chose to draw from 
+their data; in other cases, these researchers deliberately buried or 
+ignored results which did not conform to their tuning prejudices.  
+The next post will examine in detail the biases of each major reseracher,
+and the degree to which it warped his conclusions.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Oct 1995 18:17 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA08685; Tue, 17 Oct 1995 09:16:38 -0700
+Date: Tue, 17 Oct 1995 09:16:38 -0700
+Message-Id: <Pine.SOL.3.91.951017110431.9413A-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

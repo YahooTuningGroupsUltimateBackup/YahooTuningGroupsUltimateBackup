@@ -1,0 +1,115 @@
+source file: mills2.txt
+Date: Mon, 13 Nov 1995 21:45:55 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: n-j n-e-t vertical structures - part 5
+---
+"The safety of life is this: to examine everything 
+all through, what is it of itself, what is its 
+nature, what is its form..." [Marcus Aurelius, 
+"Meditations"]
+Of the nature of vertical structures in a 
+typical subinharmonic series, some has
+been said: more remains.
+By analogy with just intonation, the subinharmonic
+series formed from the vibrational modes of
+an ideal vibrating cylinder are obtained 
+by inverting the values
+f0 = sqrt(4*9/5) = 2.68328/2.68328 = 1.0
+f1 = sqrt(9*64/10) = 7.58946/2.68328 = 2.82842
+f2 = sqrt(16*225/17) = 14.55197/2.68328 = 5.4320
+f3 = sqrt(25*576/26) = 23.5339/2.68328 = 8.77057
+f4 = sqrt(36*1225/37) = 34.5329/2.68328 = 12.8696
+f5 = sqrt(49*2304/50) = 47.5173/2.68328 = 17.7086
+f6 = sqrt(64*3969/65) = 62.5135/2.68328 = 23.297422
+f7 = sqrt(81*6400/82) = 79.510699/2.68328 = 29.631905
+f8 = sqrt(100*9801/101) = 98.508682/2.68328 = 36.71204
+f9 = sqrt(121*14400/120) = 120.00417/2.68328 = 44.72294
+f10 = sqrt(144*20449/143) = 143.49913/2.68328 = 53.47899
+&c.
+to obtain
+fsub0 = 1/sqrt(4*9/5) = 2.68328/2.68328 = 1.0
+fsub1 = 1/sqrt(9*64/10) = 7.58946/2.68328 = 0.353554
+fsub2 = 1/sqrt(16*225/17) = 14.55197/2.68328 = 0.1840942
+fsub3 = 1/sqrt(25*576/26) = 23.5339/2.68328 = 0.1140176
+fsub4 = 1/sqrt(36*1225/37) = 34.5329/2.68328 = 0.0777024
+fsub5 = 1/sqrt(49*2304/50) = 47.5173/2.68328 = 0.0564697
+fsub6 = 1/sqrt(64*3969/65) = 62.5135/2.68328 = 0.0429232
+fsub7 = 1/sqrt(81*6400/82) = 79.510699/2.68328 = 0.0337474
+fsub8 = 1/sqrt(100*9801/101) = 98.508682/2.68328 = 0.027239
+fsub9 = 1/sqrt(121*14400/120) = 120.00417/2.68328 = 0.0223598
+fsub10 = 1/sqrt(144*20449/143) = 143.49913/2.68328 = 0.0186989
+&c.
+Forming the subinharmonic series starting on inharmonic series
+member 10 produces:
+faleph    = 53.47899*0.027239    =  1.4567142
+fbeth     = 53.47899*0.0223598   =  1.1957795
+fgem      = 53.47899*0.0186989  =   1.0
+Reducing, this becomes
+faleph = 831.77662 cents
+fbeth  =  309.52791 cents
+fgem   =  0 cents
+Of particular interest here is the quasi-sixth formed by
+falph, which happens to identical with phi, the golden
+ratio.   This vertical complex is very similar to one discussed by
+Thorwald Kornerup, and it is particularly interesting
+in this context to observe that this one arises *naturally*
+out of an ordinary physical process--namely, a subinharmonic
+series based on the modes of an ideal vibrating cylinder.
+Since Kornerup's Golden Scale is well known and 
+discussed in detail in Mandelbaum's thesis (among other
+references), further discussion of this similar scale is
+of less interest than a consideration of general principles
+for organizing vertical progressions in n-j n-e-t scales.
+Thus, this example may serve to show the subtle
+links between relatively familiar non-just non-equal-tempered
+tunings and the purely mathematical derivation of n-j n-e-t
+scales from combinations of inharmonic and subinharmonic
+series.
+Clearly, both the inharmonic series vertical strucures *and* the
+subinharmonic series structures may be formed on any scale
+member.
+Equally clearly, one might imagine "modulating" between
+entirely different inharmonic or subinharmonic series.  
+In that case, one could bring along the vertical complexes
+derived from one inharmonic series into another, entirely
+different, inharmonic series. For example, a series of
+vertical structures derived from the inharmonic series
+of the clamped metal bar might be played first in
+the n-n n-e-t scale derived from the modes of the clamped
+bar, then the same progression of vertical structures 
+might continue to play while the tuning changed to
+that of an ideal vibrating sphere, and the tuning might
+then change into that of an ideal vibrating cylinder, and
+so on.
+In fact one could just as easily "modulate" between different
+modes of vibration of a sphere: zonal harmonics, torsional
+vibrations, etc., each giving rise to a different non-just
+non-equal-tempered scale.
+This is a process conceptually akin to "modulation" in
+JI and equal temperament, but more complex: for the
+subinharmonic series formed on a given n-j n-e-t are,
+as we have seen, in general not as closely related to
+the vertical structures formed from inharmonic series
+as is the minor triad to the harmonic series of the major
+triad in traditional Western harmony.
+Regardless, this set of posts may have given a glimpse
+of the universe of new harmonies and melodies awaiting
+the composer adventurous enough to dare composing
+in non-just non-equal-tempered tunings.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 14 Nov 1995 07:55 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id VAA08993; Mon, 13 Nov 1995 21:55:42 -0800
+Date: Mon, 13 Nov 1995 21:55:42 -0800
+Message-Id: <951114005507_105935759@mail04.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

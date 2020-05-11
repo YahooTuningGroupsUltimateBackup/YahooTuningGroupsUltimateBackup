@@ -1,0 +1,84 @@
+source file: mills2.txt
+Date: Wed, 21 May 1997 11:15:09 +0200
+
+Subject: RE:Equal Divisions -- of What?
+
+From: DFinnamore@aol.com
+
+Paul Erlich writes:
+
+> picturing frequency space logarithmically 
+>  makes more sense. Indeed, it is more natural, given that nature gave us 
+>  basilar membranes on which equal lengths correspond to equal portions of 
+>  log-frequency space. So it is odd that David [has]
+> JI in mind as the most natural tuning. David, care to reconsider?
+
+Quite.  That was indeed an enlightening posting! - clear and directly to the
+point.  Man down, call the paramedics!
+
+One thing I'm wondering about is this: the goal of all of your calculations
+in the "long answer" (and I greatly appreciate that you took the time to give
+it) was equal spacing.  Experience shows us clearly that equal spacings make
+for smoother sounding melodic intervals than those that JI scales provide.
+ But they don't tend to provide the most consonant harmonies, without fudging
+and compromising, right? because, while we do perceive pitch logarithmically,
+the instruments we use generally have harmonic overtones which beat against
+each other if more than one ET pitch is played at once.  Evidently we are
+left with a no-win situation - pick whether you want the best melodic
+intervals or the most consonant chords unless you want to abandon a firm set
+of pitches, using dynamic retuning via software or extraordinary virtuostity
+on a fretless instrument.  Yes, I know this has been bantered about for ages.
+ What I'm saying is, while your demonstration of a natural foundation for ETs
+is well done, it still leaves the quandry of melody vs. harmony.
+
+Just for kicks, I made a sound, using additive sine wave synthesis, composed
+of a fundamental and a few dozen 12-tET-tuned overtones - the only harmonic
+ones were the octaves.  Not surprisingly, it a was musically useless sound
+even using 12-tET scales; it didn't sound like a single tone, and chords made
+with it only made a hideous racket.  I recognize that this is not an
+indictment of ETs.  I just had to see.
+
+
+> Finally, consider the geometric series
+> 
+>  . .x^-9, x^-8, x^-7, x^-6, x^-5, x^-4, x^-3, x^-2, x^-1, x, x^2, x^3, 
+> x^4, x^5, x^6, x^7, x^8, x^9, . . .
+> 
+> where x>0 and x does not equal 1. Whether the units of measurement are 
+> string length or wavelength or time period, as above, or frequency, as in 
+> the 800:900:1000 Hz example, the result is the same: equal temperament!
+
+Alright.  I figured out how to use the geometric series shown above to
+acheive octave-repeating ET by supplying x with the nth root of two, where n
+is the number of divisions/octave.  But I don't understand what you mean by
+putting a series of integrally-related frequencies such as 800:900:1000 Hz
+into the equation.  If you apply the geometric series to a _single_ frequency
+you get ET.  But I can't seem to get the 800:900:1000 Hz _series_ to make ET,
+no matter what I do to it.
+
+And the harmonic series is what we're dealing with when we make chords with
+tonal sounds.  You know, talented singers who know nothing of the theory or
+math behind pitches and scales (say, most bluegrass singers) tune up their
+harmonies JI-wise automatically if the chord sustains long enough let them
+find the pocket.  And with good reason - it sounds "right," as well it should
+for those who know musical-acoustical principles.
+
+Hmm.  Nothing new here, I know.  Are we going in circles?
+
+Oh, speaking of circles, what happens if you treat the octave as one, and
+apply geometry there as well?  LucyTuning!  Ah, let's save that for next
+time, after my bandages are off from this one.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 21 May 1997 18:07 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07025; Wed, 21 May 1997 18:07:17 +0200
+Date: Wed, 21 May 1997 18:07:17 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA07026
+Received: (qmail 4268 invoked from network); 21 May 1997 16:07:13 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 21 May 1997 16:07:13 -0000
+Message-Id: <970521120114_-1230586317@emout03.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

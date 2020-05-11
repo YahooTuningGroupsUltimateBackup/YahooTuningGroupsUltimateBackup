@@ -1,0 +1,112 @@
+source file: mills2.txt
+Date: Wed, 10 Jul 1996 14:05:54 -0700
+
+Subject: Post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Paul Erlich's innovative & insightful ideas in Digest 749
+--
+In Tuning Digest 749, Paul Erlich pointed out that
+"A typical way of evaluating equal temperaments is to 
+measure the smallest possible tuning deviation of several 
+just intervals of interest. The problem with this approach 
+is that it does not guarantee that the approximating
+intervals are consistent with one another." -- Paul Erlich
+This is an excellent point, and it's not clear that anyone
+else has made it so cogently.  In fact this could serve
+as the basis of a fascinating article, were any of the
+12-TET-obsessed music theory journals interested in
+publishing such an article. (You never know.  Sometimes
+they relent.)  
+The earliest reference to an idea similar to this one 
+appears to be found in Mersenne's Harmonicorum Libri... 
+(1636), pp. 126-127 (last pagination of 2nd ed., 1648).
+Mersenne defines each interval as equal to a certain
+number of commas, and some of the commas are 
+incompatible with one another.  
+This is in the same ballpark as, but clearly not identical
+to,  Erlich's insight.
+--
+Gary Morrison's conceptual difficulties in working with
+multiple simultaneous tunings are probably what
+Ivor Darreg used to call a "pseudo-problem."  In other
+words, something that conceptually seems like
+an unimaginably difficult issue but which, in real
+life, turns out to be largely irrelevant or trivial.
+(Playing 19-TET or 22-TET on a 7-white-5-black
+keyboard is such a "pseudo-problem." In both cases,
+the answer is to use open-voiced chord with third
+and root played by the left hand, fifth by the right
+hand.  Simple.  Trivial.  What's the problem?)
+In combining 12-TET and 19-TET, for instance,
+we in the Southern California Microtonal Group
+have found it useful to view 19-TET as a gapped
+nondiatonic  scale with some very xenharmonic
+ornamental tones.
+As I've pointed out before (and as Paul Erlich's
+experiments with his roomate demonstrate), listeners
+hear the whole-tone portion of a 19-TET diatonic
+scale as very reasonable and familiar-sounding, but
+the 2/19 of on octave "semitones" (a misnomer, since
+this term presupposes that whole tones are 
+divided into 2 parts whereas in 19-TET they are
+divided into 3 parts)  always make folks squirm.
+They sound...weird. "Out-of-tune" is the typical
+description.
+The solution, in my experience, is to fracture the
+mislabelled "semitone" intervals in the 19-TET
+approximation of the 12-TET diatonic scale into
+1/19s of a tone.  Thus a typical melody in 19-TET
+will proceed by whole steps which sound very
+reaonable in combination with 12-TET.  Then
+a constellation of 1/19-octave steps are used
+to bridge the gap twixt the next "island" of
+whole steps in the 19-TET approximation of
+the diatonic scale.
+This seems to work reasonably well *provided*
+that 12-TET semitones and 19-TET 1/19s of
+an octave don't play simultaneously.  If, instead,
+these intervals "trade off" between different
+players (the way good jazz players will trade
+off playing flatted blues thirds), the 12 + 19
+combo seems to work well.
+Another trick that seems to work is to play
+melodies full of familiar 12-like intervals
+in 19-TET, but to go above or below the last
+note of the melody by 1/19 of an octave.
+This works well, by the way, for many 
+incommensurable ETs: 15 and 12, 14 & 17,
+15 & 17, 19 & 22, etc.
+Many ETs are, however, commensurable--
+that is, one forms a subset of the other,
+or both form gapped subsets of a much
+higher division of the octave.
+When combining 5-TET and 7-TET, for
+instance, it is often useful to throw
+in 35-TET chromatic passages.  This
+emphasizes that the tiny intervals
+heard between 5-TET and 7-TET pitches
+that happen to occur vertically are not 
+accidental, but part of the coherent
+35-TET scale.
+The issue of combining non-just non-
+equal-tempered scales with xen ETs,
+or combining, say, all 3 different 
+classes of tuning simultaneously,
+is more complex.  I'm still feeling
+my way along in this regard. 
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 10 Jul 1996 23:07 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA05049; Wed, 10 Jul 1996 14:07:33 -0700
+Date: Wed, 10 Jul 1996 14:07:33 -0700
+Message-Id: <Pine.SCO.3.91.960710140342.20783B-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

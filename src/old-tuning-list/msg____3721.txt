@@ -1,0 +1,28 @@
+source file: mills2.txt
+Date: Fri, 4 Oct 1996 00:54:22 -0700
+
+Subject: Broadcasting of Royaumont Concert
+
+From: Franck Jedrzejewski <franck@arthaud.saclay.cea.fr>
+
+The Concert of Royaumont have been recording by Radio France.
+It will be broadcasting Saturday October 5th, 23h00
+on France Musique.
+
+--franck
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 4 Oct 1996 11:50 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02465; Fri, 4 Oct 1996 10:51:57 +0100
+Received: from sun4nl.NL.net by ns (smtpxd); id XA02458
+Received: from eartha.mills.edu by sun4nl.NL.net (5.65b/NLnet-3.4)
+	id AA22989; Thu, 3 Oct 1996 23:16:11 +0200
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA20003; Thu, 3 Oct 1996 14:14:41 -0700
+Date: Thu, 3 Oct 1996 14:14:41 -0700
+Message-Id: <93961003194439/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,54 @@
+source file: m1472.txt
+Date: Sat, 11 Jul 98 23:50:47 +0530
+
+Subject: Software for using MIDI Pitch Bends
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hello,
+
+Thanks Graham.
+
+>I don't have full details of Java Sound, but I bet it won't allow
+>low-level access to the MIDI ports.
+Oh.
+
+>What's "Megalomania" then?
+"Megalomania 1.2.3  (shareware/freeware)
+The application allows the user to design "effects" that process MIDI 
+data in realtime.
+The user designs an effect by connecting icons in a modular network, 
+similar to some
+software synthesizers.  An icon represents a simple computation (delay, 
+transposition,
+etc...) and the connections represent the flow of MIDI data."
+
+etc.
+
+Available at <www.harmonycentral.com> . Haven't tried it yet myself. 
+It's a 68k app. (not PPC native) and uses MIDI manager.
+
+I'm surprised RealTime Tuner (I have v1.1) ,etc. has not been expanded to
+do fancier things, including non-octave based tunings, dynamic 
+intonation, etc.
+If I had Max I would have put something together myself. I'm at work on
+non real-time thingies using IRCAM's PatchWork. I don't know how to get 
+in 
+touch with the RealTime Tuner  folks, maybe they'll see this .
+
+On the PC there's Graham's stuff and Manuel's Scala. There is the option 
+of
+Virtual PC . Oi,  Greg (Schiemer), did you get Scala and VPC to gel ? 
+Let us know if you did/do. Frankly the thought of trying to get
+a Mac-Windows  spaghetti  to come out smelling right  in 
+the same machine scares me.
+
+
+Salut,
+Drew
+
+"So what you've done is invent a third type (of historian), C,
+The history surfer. Hanging five on the point break of the past,
+tubing it through the rollers of yesterday. Dr. Keanu Young, Ph.Dude."
+
+>From Stephen Fry's very excellent & hilarious novel, 'Making History'.

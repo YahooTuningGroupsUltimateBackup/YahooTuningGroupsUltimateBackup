@@ -1,0 +1,102 @@
+source file: mills3.txt
+Date: Thu, 11 Dec 1997 20:03:57 +0100
+
+Subject: Re:  TUNING digest 1263
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+> > (By the way, the seeming beat-spotlighting character of the long consonances
+>>in slow movements is mostly an illusion: performers at that time would
+>>improvise filler and ornaments in such occasions.)
+>     On the keyboard sonatas?   I really don't agree there, as the development
+
+I wasn't really talking about keyboard music, but if you want to get into
+specifics, it would depend a great deal on the period, the style, the
+composer, and so on. If, for example, I was faced with a very plain
+keyboard sarabande from circa 1700, you bet I would improvise lots of
+melodic filler. Bach himself tends to leave less room for this sort of
+thing, as did most composers as you get into the late 18th century.
+>
+>>In this context, the practical differences between temperaments like some
+>>of Neidhardt's and Marpurg's and ET are angels dancing on the head of pin.
+>      On this I must disagree strongly.  Modern day ears can easily hear the
+>differences in a tuning that provides key character and ET ,which does not.
+
+Perhaps I was not clear enough in my qualifications. I had in mind some
+temperaments such as Neidhardt's and Marpurg's divisions of the ditonic
+comma. Looking them up in Barbour (who at least comes in handy when
+comparing things to 12TET), I see that Marpurg's 1/3 comma temperament is
+out at most 6 cents from ET, with a mean deviation of 3 cents. Neidhardt's
+1/4 comma is at most 4 cents away, and Marpurg's 1/6 comma has a mean
+deviation of only .7 cents!
+
+Now, would I be able to tell the difference between such temperaments and
+ET on a synthesizer or a harpsichord tuned with electronic help?
+Absolutely. Perhaps Ed thought that I was saying the opposite, which I am
+not.
+
+Would I be able to tell the difference between such temperaments if tuned
+by ear counting beats of simultaneous intervals by a skilled tuner who took
+his time? Again, yes, I think so.
+
+Would I be able to tell the difference between such temperaments if tuned
+by ear of successive intervals, not checking thirds, by a keyboard player
+who had a half hour before a rehearsal. Hmm, in that situation I think the
+margin for error Marpurg, Neidhardt, and ET will start to overlap.
+
+But let's take a more extreme case, as you suggest, of pure versus ET
+intervals. Certainly such differences were quite significant to practical
+musicians of that time when tuning harpsichords. But the original question
+was about the use of fretted strings in ensembles with harpsichords.
+
+The question then becomes, do those differences create enough dissonance to
+be objectionable? Since we have plenty of documentary evidence that lutes,
+archlutes, theorbos, and viols often played with harpsichords -- especially
+in the 17th century -- the answer has to be either "no" or that
+harpsichords were tempered to be at least closer to the fretted strings.
+
+My own feeling is that the objectionability depends on many factors,
+including the size of the ensemble and the speed of the music. Certainly
+lutes were often used in large ensembles, especially in France and Italy in
+the seventeenth century, but I heard a fine performance the other night on
+PBS of Purcell trio sonatas and songs accompanied by a harpsichord and an
+archlute. While I don't know how they tuned the harpsichord, the result was
+lovely.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  31-tone equal melodic progression
+PostedDate:  12-12-97 00:42:08
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-12-97 00:40:12-12-12-97 00:40:13,12-12-97 00:39:57-12-12-97 00:39:57
+DeliveredDate:  12-12-97 00:39:57
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656A.008203A8; Fri, 12 Dec 1997 00:42:02 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13332; Fri, 12 Dec 1997 00:42:08 +0100
+Date: Fri, 12 Dec 1997 00:42:08 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA13336
+Received: (qmail 28541 invoked from network); 11 Dec 1997 15:41:55 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 11 Dec 1997 15:41:55 -0800
+Message-Id: <3490DC9C.7C8C@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

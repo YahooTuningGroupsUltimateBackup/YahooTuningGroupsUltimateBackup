@@ -1,0 +1,44 @@
+source file: m1394.txt
+Date: Thu, 23 Apr 1998 14:46:48 -0400
+
+Subject: RE: JI Tuning Resolution
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>Bowed strings could be a prominent exception, but I doubt if anybody
+>could convincingly make that case for most any other orchestral instrument.
+>It's almost trivial to demonstrate that that's not true of winds in
+>general:  All you have to so is play them onto an oscilloscope;  in many
+>cases, you can quite clearly see the higher harmonics "walking" through the
+>oscillogram.
+
+I'm afraid I have to disqualify the oscilloscope here. The oscilloscope
+will have a certain finite sampling time and the period of the waveform,
+varying slighlty as it does, will never be precisely matched to this
+sampling time. The oscilloscope utilizes a certain approximation of
+Fourier's theorem, not the theorem itself. If you study the mechanics of
+a 1-component driver, such as a bow, reed, or lips, you will understand
+that regardless of the extent to which the resonant modes of vibration
+of the instrument deviate from a harmonic series, the driving mechanism
+will force the waveform to become periodic, which implies exact integer
+overtones. Don't confuse the resonant modes of vibration with the
+spectrum of the sound (the two are closely related but not identical!)
+
+Looping involves the same timing problems as oscilloscope sampling.
+
+J. Kukula had more to say on this subject, is he around?
+
+> . . . JI does what it does more in the lower harmonics
+>than the upper ones
+
+I think Harry Partch would disagree with you there. To the extent that
+higher harmonics are musically relevant at all, the associated intervals
+require more precise tuning in order to engage those harmonics than do
+the intervals associated with lower harmonics. On the other hand, it is
+true that the difference in sensory consonance is greater when you
+detune a simple ratio by a small amount than when you detune a complex
+ratio by a small amount. But if you are using more complex ratios as
+consonances, their sensory consonance is only just barely enough to
+justify that usage, so you'd better be careful how you tune them! (A
+simplification, no doubt, but I thought I had to make the point
+concisely here).

@@ -1,0 +1,84 @@
+source file: mills3.txt
+Date: Thu, 28 Aug 1997 18:35:22 +0200
+
+Subject: Re: Matrices (digest 1166 topic 2)
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+Hi Graham (and tuning list at large),
+
+Thanks for your exposition on the use of matrices to represent intervals and
+scales (Digest 1166 Topic 2, Subject: Matrices for beginners).  Tuning
+systems are sometimes hard to visualize, so I always appreciate various ways
+of representing them.  (I've even resorted to gluing toothpicks together to
+help conceptualize 5-limit just intonation.  People now think I'm a "psycho"!)
+
+At 04:15 PM 8/27/97 -0700, you wrote
+>...
+>A C major scale (not the only one) can be defined using t, s and p
+>as follows:
+>
+>                C   D   E   F   G   A   B   C
+>                 t+p  t   s  t+p  t  p+t  s
+>
+>This can be written using matrices:
+
+Okay, just to prove I was following you, here's a correction:
+
+        You wrote               You meant
+        ----------------        ----------------
+        (C)   (5 3 2)           (C)   (5 2 3)
+        (B)   (5 3 1)           (B)   (5 1 3)
+        (A)   (4 2 1)           (A)   (4 1 2)
+        (G)   (3 2 1)(t)        (G)   (3 1 2)(t)
+        (F) = (2 1 1)(s)        (F) = (2 1 1)(s)
+        (E)   (2 0 1)(p)        (E)   (2 0 1)(p)
+        (D)   (1 0 1)           (D)   (1 0 1)
+        (C)   (0 0 0)           (C)   (0 0 0)
+
+The s and p got confused on the second (top) half of the scale (G,A,B,C).
+You wanted to end up with 5 minor tones (t=10/9), 2 diatonic semitones
+(s=16/15), and 3 syntonic commas (p=81/80).
+
+By the way, do you know a good way to visualize 4 dimensions, for things
+like limit-7 just intonation?  (My glued toothpicks only work for 3 dimensions.)
+
+Thanks again,
+
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@pacificnet.net                      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  PErlich@Acadian-Asset.com
+Subject:  RE: Srutis
+PostedDate:  28-08-97 19:23:47
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  28-08-97 19:23:56-28-08-97 19:23:56,28-08-97 19:23:45-28-08-97 19:23:45
+DeliveredDate:  28-08-97 19:23:45
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256501.005F9069; Thu, 28 Aug 1997 19:23:48 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04285; Thu, 28 Aug 1997 19:23:47 +0200
+Date: Thu, 28 Aug 1997 19:23:47 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04283
+Received: (qmail 27644 invoked from network); 28 Aug 1997 17:23:44 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 28 Aug 1997 17:23:44 -0000
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-970828170839Z-1407@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

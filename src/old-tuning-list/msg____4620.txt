@@ -1,0 +1,59 @@
+source file: mills2.txt
+Date: Thu, 16 Jan 1997 09:11:05 -0800
+
+Subject: RE: Vertical Puns
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+I wrote:
+
+>(b) A similar flip-flop may obtain in Just Intonation between chords that
+>are ambiguously harmonic or subharmonic.
+
+Paul wrote:
+
+''Do you really believe this phenomenon exists? If so, can you suggest an 
+experiment that could demonstrate its existence?''
+
+1. Sure. All chords built on repeated intervals will have this character. 
+
+2. I assume that you mean some kind of perceptual experiment. Short of an
+EEG, all tests I can imagine involve some kind of identification or
+labeling, which has a lot to do with training or conditioning - and the
+phenomena here is already quite technical for trained musicians. So, with
+trained musicians, I would suggest testing chords aside from Major or minor
+triads, due to our overconditioning with these particular animals (although
+some voicings of four-tone chords containing both Major and minor triads
+also have this ambiguity: try 10:12:15:16).
+
+One totally subjective example:
+
+The triad:  330 - 440 - 495 (Hz). 
+
+I hear it sometimes as /8 : /9 :  /12 and sometimes as 6 : 8 : 9. In
+particular, if it is arpeggiated descending I tend to hear it as
+subharmonic, ascending, harmonic. As a single gestalt, I flip-flop with a
+slight preference towards the subharmonic interpretation - possibly because
+of the smaller interval on top.
+
+As for a test with untrained listeners, I have no idea of how to do it
+without running into the problems of finding adjectives to characterize
+chords.
+
+Perhaps you can be more specific about what kind of experimental
+information you seek.  
+
+ 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 16 Jan 1997 18:47 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19300; Thu, 16 Jan 1997 18:50:25 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA19222
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA07021; Thu, 16 Jan 1997 09:50:13 -0800
+Date: Thu, 16 Jan 1997 09:50:13 -0800
+Message-Id: <60970116175006/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,125 @@
+source file: mills2.txt
+
+
+Subject: Psychoacoustics, Gamelan tuning
+
+From: John Chalmers <non12@deltanet.com>
+
+Below are the rest of the articles Jim Murray found for me.
+
+Ralston, James V.; Herman, Louis M. "Perception and generalization of 
+frequency contours by a bottlenose dolphin (Tursiops truncatus)."
+Journal of Comparative Psychology, 1995 Sep, v109 (n3):268-277.
+    
+ Abstract: A single adult female bottlenose dolphin was tested in a 
+series of perceptual studies. On each trial, 4 sine-wave tones were 
+presented that contained a falling frequency contour or some other 
+contour. There were several frequency-transposed exemplars of each 
+contour type in each experiment. The dolphin discriminated contours 
+at a level significantly greater than chance in all experiments. In 
+the 1st 2 experiments, the dolphin demonstrated only modest transfer 
+to novel stimuli and a sensitivity to the absolute frequency of stimuli. 
+In the 3rd experiment, there was no effect of the absolute frequency of 
+stimuli; in the 4th experiment, the dolphin successfully transferred the 
+discrimination to novel stimuli drawn from the octave above the 
+previously heard range. These results demonstrate dolphins' capability 
+to perceive frequency contours, which may underlie the recognition of 
+conspecific whistles. 
+
+Cynx, Jeffrey. "Auditory frequency generalization and a failure to 
+find octave generalization in a songbird, the European starling 
+(Sturnus vulgaris)." Journal of Comparative Psychology, 1993 Jun, 
+v107 (n2):140-146.
+
+Abstract: Examined frequency generalization in starlings (Sturnus 
+vulgaris) that were trained to discriminate between individual 
+frequencies. Starlings were tested for frequency generalization after 
+training on 2- and 3-tone discriminations. There was no evidence for 
+octave generalization, which is a hallmark of human absolute pitch 
+perception. This suggests that avian absolute pitch perception must not 
+be interpreted as identical with that in humans. A control experiment 
+with 1-tone discriminations indicated that the presence of lit response
+keys affect the shape of the generalization gradients. Lit response keys 
+are a common feature in avian auditory perception experiments, and this 
+control experiment cautions that results may be affected by this 
+seemingly minor procedural change. 
+
+Hulse, Stewart H.; Humpal, John; Cynx, Jeffrey. "Discrimination and 
+generalization of rhythmic and arrhythmic sound patterns by European 
+starlings (Sturnus vulgaris)."    Music Perception, 1984 Summer, 
+v1 (n4):442-464.
+
+Abstract: Investigated the ability of mature wild-caught European 
+starlings (Sturnus vulgaris) to process acoustic patterns with 
+different, serially organized temporal structures. Four of the 
+Subjects were female; 2 were male. Subjects were taught to discriminate 
+patterns of 2000-Hz tones organized into rhythmic as compared with 
+random, arrhythmic temporal structures, and the perceptual processes 
+underlying the discrimination were analyzed. Subjects were required to 
+peck at one key in the presence of a rhythmic pattern and at another 
+in the presence of an arrhythmic pattern. Results show that all Subjects 
+learned to discriminate between rhythmic and arrhythmic patterns and 
+that discrimination accuracy was the same for linear and hierarchical 
+rhythmic structures. In a series of transfer tests that followed, 
+discrimination performance was tested when the temporal structure of 
+the rhythmic stimulus patterns was transformed and when the pitch was 
+shifted up or down 1 octave. Performance was well-maintained when 
+baseline temporal patterns were shifted 1 octave. Results suggest 
+that the Subjects solved the rhythmic-arrhythmic discrimination on 
+the basis of rhythmicity. 
+
+
+And now for something completely different, Gamelan tunings on
+Roland synths, forwarded from the Gamelan List out of Dartmouth.
+
+Date:    Sat, 13 Jul 1996 10:07:30 WIB
+From:    Al Nurbandana <ALNURBA@MCSCPI.PTCPI.COM>
+Subject: Laras Gamelan in Roland 86
+
+For those who like both the diatonic scales and the gamelan pentatonic
+scale.
+
+I just made tune adjustment in one of the program of my Roland 86 to
+make the organ usable to play gamelan instruments with the pentatonic
+music scales.
+
+The basis of 'laras' gamelan is tone 6 (nem) and 2 (ro) for slendro,
+pelog bem and pelog barang.  For scale 6, I use Bb with pitch adjusted
++47 steps higher - most gamelan has more or less laras 6 similar to that
+tone.  For scale 2, I use Eb with pitch adjusted +37 steps higher.
+
+Slendro scales:
+1 = C# |  2 = Eb +37 |  3 = F# -33 |  5 = Ab +15 |  6 = Bb +47
+
+Pelog Bem Scales:
+1 = D |  2 = Eb +37 |  3 = F |  5 = A |  6 = Bb +47  ----> 4 = Ab +15
+
+Pelog Barang Scales:
+1 = C |  2 = Eb +37 |  3 = F |  5 = A |  6 = Bb +47  ----> 4 = Ab +15
+
+It is obvious that laras gamelan is not a simple break of tones by half
+like in a piano (both slendro and pelog).  Please explore and you will
+see.  If you have a Roland E86, 'Happy trying !'.
+
+Nuwun,
+Al Nurbandana
+Phone:(0761)594621,593402 Internet: alnurba%mcscpi.ptcpi.com
+
+------------------------------
+
+Topic No. 5
+
+Date:    Sat, 13 Jul 1996 04:11:44 -0400
+From:    Tom Ross <rosst@UNVAX.UNION.EDU>
+Subject: Re: Laras Gamelan in Roland 86
+
+Al: so far so good. But aren't instruments such as peking tuned sharper
+than, say, slentem? What to do about that? Some synths, such as the EPS
+16+ and Kurzweil 2000, allow overall ['global'] tuning, which I think
+you're describing, as well as tuning of individual sounds or
+'instruments.'
+
+I assume the steps are tuning units, 1024 to the octave?,  or does
+Roland use another system I'll post any reply to Tom Ross's question.
+
+--John

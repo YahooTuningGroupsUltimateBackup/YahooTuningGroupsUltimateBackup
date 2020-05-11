@@ -1,0 +1,109 @@
+source file: mills3.txt
+Date: Sat, 16 Aug 1997 17:55:50 +0200
+
+Subject: syntonic and skhismatic notation
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+I mentioned some of this before in a post about quartertones
+that should have been in TD1153, but wasn't.
+
+I class all just intervals and approximations thereof based
+on syntonic meantone temperament using the letters t, s, r, q
+and p for major seconds, minor seconds, augmented unisons,
+diminished seconds and "commas" respectively.  The syntonic
+comma p5 is dimensionless in meantone temperament.  I usually
+think of the dimensions of intervals in terms of q and r.  I
+now use the term "demisemitone" for intervals with dimensions
+of q and r-q, although I would rather call them quartertones.
+
+A chromatic semitone is a kind of r, and an enharmonic diesis
+q.  For 7/4 to be an augmented sixth, a septimal comma has
+dimensions of q.
+
+In terms of fifths, octave reduced, t=2 steps, s=-5, r=t-s=7,
+q=s-r=-12.  The # symbol means "raise this note by r" and the
+/ symbol can mean raising by q.
+
+These symbols are consistent when 0<=q<=r, where 0 is a unison.
+This is true for all meantone temperaments where the fifth
+is between that for 19tet and 12tet.  When the fifth is
+sharper than 7/12 oct, a skhismatic approximation is better.
+12tet is the scale that is both a syntonic and skhismatic
+meantone, and can be defined as such using Fokker's method.
+
+The symbols / and \ can then be added to a 12 note piano roll
+view to denote boosts of q from the following scale:
+
+            r  s  s  r  s  r  s  r  s  s  r  s
+          C  C# D  Eb E  F  F# G  G# A  Bb B  C'
+
+There is a one to one mapping between this and the standard
+staff notation.  The symbols # and b can still be used if
+they are found to be convenient.
+
+
+Over the past couple of days, I have extended this idea to
+syntonic intervals using Greek letters.  The major tone is a
+kind of tau, and a diatonic semitone is a kind of sigma.  Then,
+rho=tau-sigma and pi=sigma-rho.  In Pythagorean terms, sigma's
+are apotomes and rho's are limmas.
+
+A minor tone has dimensions of tau-pi or 2rho.  A chromatic
+semitone has dimensions rho-pi, and an enharmonic diesis is
+2pi.  The syntonic and Pythagorean commas are both pi's, and I
+have also defined the septimal comma to be a pi.
+
+The piano roll view can also be adapted to skhismatic scales
+with / and \ denoting boosts of pi from a scale like this:
+
+ rho rho sigma rho sigma rho sigma rho rho sigma rho sigma
+C       D         E     F         G       A         B     C
+
+The capital letters here name keys rather than notes, as
+the standard note names do not work with skhismatic scales.
+This is compatible with the syntonic version in that the
+same scale will occupy the same positions in both notations,
+but with different modifiers.  They are also compatible with
+12 note keyboards.
+
+
+One day, I intend to implement these views in software, so
+this isn't all abstract.  It is also easier to get dynamic
+tuning to work with 2-D than just scales.
+
+Now, does anyone know of a 2-D approximation (linear
+temperament) that covers 22tet?  Approximating the
+enharmonic diesis (7 0 -3)H and syntonic comma (-4 4 -1)H
+to be equal doesn't work.  If it did, it would cover 12, 22,
+34 and 46tet.  It is, incidentally, significant that these
+are all even numbers.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  kollos@cavehill.dnet.co.uk
+Subject:  Re: 1/4 tones and 1/n "comma" meantones - naming
+PostedDate:  16-08-97 19:18:05
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  16-08-97 19:18:08-16-08-97 19:18:09,16-08-97 19:16:16-16-08-97 19:16:16
+DeliveredDate:  16-08-97 19:16:16
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564F5.005F0912; Sat, 16 Aug 1997 19:18:02 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31900; Sat, 16 Aug 1997 19:18:05 +0200
+Date: Sat, 16 Aug 1997 19:18:05 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA31891
+Received: (qmail 12314 invoked from network); 16 Aug 1997 17:17:58 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 Aug 1997 17:17:58 -0000
+Message-Id: <33F58C99.7063@cavehill.dnet.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

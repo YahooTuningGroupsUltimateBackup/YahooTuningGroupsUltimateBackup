@@ -1,0 +1,63 @@
+source file: m1413.txt
+Date: Tue, 12 May 1998 09:23:38 -0500 (CDT)
+
+Subject: Re:  TUNING digest 1404
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Mon, 11 May 1998, Bill Alves wrote:
+> >                                       To me, the essential things are
+> >    that there are 12 pitch/interval classes and no wolves; if those two
+> >    conditions are met (that pretty much describes the circulating
+> >    temperaments that were used increasingly throughout the Baroque) I'd
+> >    be willing to call it some form of 12TET.
+[snip]
+> 
+> So, if your point is that a composer will write the same music whether the
+> temperament is 12TET or 12TET-like, I would have to add the above criterion
+> (symmetrical distribution of dissonance) to your two conditions on the
+> definition of 12TET-like.
+
+No, that's not quite my point.  My point is that unequal circulating
+temperaments, even with key color, are so close to 12TET compared to
+other stuff that I consider them still part of the whole process of
+exploring the possibilities of the number 12.  If you think of a tree
+diagram:
+
+-+-Just Intonation
+ |
+ +-Open (meantone) temperaments
+ |
+ +-Closed (circulating) temperaments
+   |
+   +-with 12 pitch classes
+   | |
+   | +-unequal with key color
+   | |
+   | +-Unequal with little or no key color
+   | |
+   | +-absolutely equal
+   |
+   +-with 19 pitch classes
+   |
+   +-with 31 pitch classes
+   |
+   etcetera . . .
+
+I don't consider meantone very 12-ish because the wolves make some
+intervals and triads unusable, so instead of 12 usable triads there are
+really only 8 (okay, 24 and 16, but you know what I mean)--and even if
+you add more notes you still can't make the enharmonic modulations,
+because the circle doesn't close.
+
+Paul Erlich has mentioned that he's been messing with a
+"well-temperament" variation in his 22TET work, but I doubt he considers
+it significantly de-22-ated. (-ized?)
+
+This is _really_ splitting hairs.  Agree or disagree as you will.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

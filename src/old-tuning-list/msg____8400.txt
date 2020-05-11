@@ -1,0 +1,89 @@
+source file: m1513.txt
+Date: Mon, 24 Aug 1998 12:06:19 +0530
+
+Subject: Re: synth tuning
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hello Erich, Everyone,
+
+I'm happy to anounce I'm now the  owner
+of a Yamaha PSR-530, XG compatible keyboard. It's limited
+to twelve note scales (-63 to +64), 1200/768 (100cent/64) resolution.
+The range and number of tweakable parameters is terrific, making it
+possible to obtain very professional results. Comes with a built
+in computer interface (Mac & PC). Also, a 5-octave keyboard (with one
+split point), pitch-wheel, & decent sounding 12 Watt stereo speaker
+system. 
+
+You do however have to use a computer to do any tweaking, and turn
+off local control, run the keyboard through a MIDI thru (hardware or
+software,
+I use the little freeware "OMS thru" on my PowerMac) and back into the
+PSR-530.
+A bargain at the equivalent of $500.
+
+>yamaha and roland synths both have sysex messages for
+>scale tuning, which allows you to change the tuning of all
+>tones in one pitch class (all c's, all c#'s ..) in increments of 1 cent.
+
+Actually, I believe Yamaha has fudged the terminology in the 
+manual for the PSR-530. The MIDI Master tuning can in fact be  tuned
+-100 cent to -100 cent. But for microtonal tuning ("Scale Tuning" in
+Yamaha speak), they could potentially confuse users with little
+microtonal technical knowledge, because this is what they say :
+
+"...alows each individual note of the octave to be tuned over the 
+range from -64 to +64 cents in 1 -cent increments (1 cent = 1/100th
+of a semitone)."
+
+These are actually 64ths of a semitone, aren't they ?
+
+>the sysex messages are vendor specific and therefore different.
+Yup, from what I've seen, Roland GS sysex microtuning messages
+consist of a single 22-byte message, while the Yamaha PSR's XG
+apparently requires 12 seperate 9-byte messages (one for each note).
+This is how I do it. I'm waiting for clarification on some things
+from Yamaha.
+
+>general midi has master channel tune in increments of
+>100/8192 cents (much finer)
+>so it is possible to tune each channel separately.
+Thanks for mentioning this possibility, Erich, it completely escaped my 
+attention. Could someone clarify : There is a MIDI MULTIPART "Detune" 
+parameter. It says : "-12.8..+12.7[Hz]" . So, what is the size of the 
+increments ? And does anyone here know how to write the Sysex message ?
+The manual gives two "High-Mid-Low" Addresses, and says :
+"1st bit3..0-> bit7..4" & "2nd bit3..0-> bit3..0"
+
+There is also the RPN Parameter : "Fine Tune", which says 
+"[00H,00H] - [40H,00H] - [7FH,7FH]", 
+"(-8192*100/8192) - 0 - (+8192*100/8192)"
+Same questions, what size the increments, and how goes the Sysex ?
+If it's 0 to 8192, then I can figure out the Hex.
+
+Just using a keyboard with atleast one split point, it is possible to
+fool around with many equal temperaments. I've been giving it a bit of
+thought and it should handle equal temps of upto 24 notes per octave.
+All it entails is transposing both left & right sides to the same
+"octave" range,
+then tuning the both parts to the odd numbered pitches of an ET, and
+shifting
+the channel master tune so the pitches on the right hand become the even
+numbered pitches of the scale. 
+
+I guess some of you do this already. Anyway, it's safer than
+impersonating Penn & Teller.It's more flexible than tuning
+individual channels, since you retain more polyphony.
+
+>since a midi keyboard (or any other midi instrument)
+>will produce notes only on one channel, you need a tool for 
+>rechannelizing. there is a freeware program 
+>midicable which allows you to do exactly that.
+
+Here we go again ! Is this a Power Mac application or Windows ? 
+If it's Windows, can someone point to a Power Mac thingy for
+rechannelizing  ?
+
+Ciao,
+Drew

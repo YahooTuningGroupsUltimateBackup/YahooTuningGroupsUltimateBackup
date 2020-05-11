@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Wed, 13 Mar 1996 03:49:56 -0800
+
+Subject: RE: Scala on MacOS
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+> There is a possible intermediate solution- certain PowerMacs are "DOS
+> compatible", meaning they have a card with a 486 of unknown speed running in
+> parallel to the PowerPC.  You can switch from DOS/Windows mode to Mac mode
+> and back with command-enter, and in fact start a job running under DOS and
+> switch back to the Mac while it's running.
+
+Yet another possible solution might be a product called SoftWindows 
+(SoftWindows 2.0 for PowerMac), which seems to be an emulator for
+DOS/Windows programs. That would make Scala run a lot slower of course,
+but for the majority of the commands that is not a problem.
+It might be needed to play with the memory settings since not all
+of the available memory is made available to DOS by SoftWindows.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 14 Mar 1996 18:07 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA02928; Thu, 14 Mar 1996 09:06:33 -0800
+Date: Thu, 14 Mar 1996 09:06:33 -0800
+Message-Id: <0099F559395DE2CF.E791@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

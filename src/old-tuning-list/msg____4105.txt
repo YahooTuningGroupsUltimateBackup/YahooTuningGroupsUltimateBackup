@@ -1,0 +1,28 @@
+source file: mills2.txt
+Date: Fri, 22 Nov 1996 15:40:10 -0800
+
+Subject: Address correction
+
+From: Heinz Bohlen <Heinz.Bohlen@mptp.cpii.com>
+
+I apologize. I obviously belong to those who don't even know their own
+address. In my case it should read:
+
+Heinz Bohlen
+1200 Dale Avenue, #109
+Mountain View, CA 94040
+
+And yes, this is California, USA.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 23 Nov 1996 00:51 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04646; Sat, 23 Nov 1996 00:53:07 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04598
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA01607; Fri, 22 Nov 1996 15:53:00 -0800
+Date: Fri, 22 Nov 1996 15:53:00 -0800
+Message-Id: <Pine.3.89.9611221707.A11465-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

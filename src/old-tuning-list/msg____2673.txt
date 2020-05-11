@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Mon, 18 Mar 1996 08:03:59 -0800
+
+Subject: Thanks for the compliments
+
+From: non12@delta1.deltanet.com (John Chalmers)
+
+I appreciate the enthusiastic comments I've received on my little essay 
+on approximating cents with a four-function calculator. In my own work,
+I do indeed use a  calculator with a ln/exp key and I recommend that
+everybody else do too for accurate calculations of cents. However, if one 
+is ever stuck with only a four-function device, usefully accurate
+approximations to cents are still relatively easy to compute. I find this 
+fact quite remarkable and very non-intuitive, so I decided to share it 
+with the List. 
+ 
+I found the approximation for ln[(x-e)/(x+e)] in Rektorys's "Survey of 
+Applicable Mathematics." Without this background, Ellis's procedure is
+very mysterious and thus easy to ignore in favor of logs. BTW, has 
+anyone looked up Ellis's and Sauveur's papers on this topic?
+ 
+Of course, if one is using JI, then simply memorizing the cent values of 
+a small set of key intervals such as 3/2, 5/4, 7/4, 11/8, 13/8, etc.  
+would be sufficient. 
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 18 Mar 1996 18:00 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA14053; Mon, 18 Mar 1996 08:59:56 -0800
+Date: Mon, 18 Mar 1996 08:59:56 -0800
+Message-Id: <9603181654.AA27877@ravel.theo-physik.uni-kiel.de>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

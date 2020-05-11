@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Mon, 29 Jul 1996 09:51:40 -0700
+
+Subject: Comment to Manuel
+
+From: John Chalmers <non12@deltanet.com>
+
+A relation simpler than either Sauveurs or Henflings is the one
+Blackwood uses, the relation of the whole tone to the diatonic
+semitone. The octave has 5T+2D steps. When d is 0, one gets
+5-tet, when T and D are both 1, 7 steps, when 2:1, 12; 3:2, 19;
+5:3, 31; 3:1, 17; 4:1, 22 4:3, 26; etc. 
+
+"Unrecognizable" diatonic scales result when D <T as in 9-tet 
+where T=1 and D=2, though such as scale might be construed as a 
+variety of Pelog.
+
+--John
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 29 Jul 1996 20:09 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA29673; Mon, 29 Jul 1996 11:09:03 -0700
+Date: Mon, 29 Jul 1996 11:09:03 -0700
+Message-Id: <72960729180527/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

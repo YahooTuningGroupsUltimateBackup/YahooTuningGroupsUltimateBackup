@@ -1,0 +1,75 @@
+source file: mills2.txt
+Date: Wed, 13 Nov 1996 11:46:58 -0800
+
+Subject: Ben Deckla, T.D. 886
+
+From: Eduardo Sabat-Garibaldi <esabat@chasque.apc.org>
+
+Ben Denckla  bdenckla@media.mit.edu
+ 
+ During the last 25 years I have worked on Dynamic music, and I believe I know
+a little about it.
+ I think Dynamics in Music is not only a concept resulting from the change of
+the key of a score and consequently the frequency of the notes changes a
+little (about one comma from one to the other), but simply the frequency of
+the notes changes due to other reasons, either the choice of the "better"
+option INCLUDED IN THE SAME KEY, or aesthetical reasons. 
+ When I coined the expression Gama Dinamica (Dynamic Gamut) I didn't know any
+other work (as many others) on this subject, and before, when I read Warren
+Creel's paper (Dynamic in Music) I was delighted to know that he used the same
+word "Dynamic" for the same idea. 
+ Arthur Benade, speaking in his book about Dynamics, says that it forms "a
+never ending proliferation of notes". This is O.K. for the concept.
+ 
+ I know that with only 53 notes/Oct it may solve the problem very accurately
+for 3 and 5. Yet good enough for 7. And other digits remain for further study.
+ The bigger the number of notes/oct the bigger the accuracy. The errors will
+always be no more than half the width of the smaller step and in this case no
+more than a half comma.  
+ 
+ I chose the 1/9 Schisma option (I call it Omega option) to define the numbers
+for Dinarra, but for synthesizers 53 tET might be better.
+ 
+ I call Omega the Ninth of a Schisma (about 1/5 of a cent) and the "errors"
+are 1 Omega for the very important ratios ( 3/2, 4/3, 5/4, 10/9, 8/5, 9/5 ),
+and 2 Om. for the others ( 16/15, 15/8, 9/8, 16/9 ).
+ The ratios 5/3 and 6/5 are exact.    
+ All of this is for 33 notes (of the 53), the other 20 have their particular
+discussion and result. Summing up, about 88 % of all possible ratios are
+"Omega ratios". 
+ 
+ 
+I calculated these numbers.
+ 
+1/9 S.  1.0001254   1.0 Om.    0.2  Cent.    
+1 Cent  1.0005778   4.6 Om.    1.0  Cent
+ 
+3/2 ---  2 raised (31/53)   1.0000394   0.3 Om.    0.07 Cent.   
+5/3 ---  2 raised (39/53)   1.0007742   6.2 Om.    1.3  Cent.
+5/4 ---  2 raised (17/53)   1.0008137   6.5 Om.    1.4  Cent.
+ 
+ 
+The 53 tET option has all its intervals equal within its type.
+ 
+For more information I'll be happy to assist you.
+ 
+ 
+Eduardo
+ 
+Eduardo Sabat-Garibaldi           E-mail : esabat@chasque.apc.org
+Simon Bolivar 1260                Phone: (05982) 78 09 52
+11300 Montevideo                  FAX :  (05982) 29 83 91 (Automatico)
+Uruguay
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 13 Nov 1996 21:30 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04499; Wed, 13 Nov 1996 21:31:19 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04511
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA21225; Wed, 13 Nov 1996 12:31:17 -0800
+Date: Wed, 13 Nov 1996 12:31:17 -0800
+Message-Id: <v02130502aeafdafd486e@[192.168.11.205]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

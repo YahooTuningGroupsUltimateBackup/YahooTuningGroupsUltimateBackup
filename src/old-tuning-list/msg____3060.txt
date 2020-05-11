@@ -1,0 +1,82 @@
+source file: mills2.txt
+Date: Thu, 13 Jun 1996 13:30:29 -0700
+
+Subject: Consistent tunings
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+A typical way of evaluating equal temperaments is to measure the smallest 
+possible tuning deviation of several just intervals of interest. The problem 
+with this approach is that it does not guarantee that the approximating 
+intervals are consistent with one another. For example, in 24tet, the 
+calculation would approximate 5:4 as 8 steps, 7:5 as 12 steps, and 7:4 as 19 
+steps. But a 7:5:4 chord cannot be tuned with all three intervals as given!
+
+I have looked at all equal tunings up to 100 steps.
+
+For the 5-limit, the following tunings are INCONSISTENT:
+     1     2    11    13    14    17    20    21    32    33    40    51
+    52    54    64    66    67    85    86    98
+
+For the 7-limit, the following tunings are INCONSISTENT:
+     1     2     3     7     8    11    13    14    17    20    21    23
+    24    25    28    30    32    33    34    38    39    40    44    47
+    48    51    52    54    55    61    64    65    66    67    69    71
+    74    75    79    85    86    92    96    97    98   100
+
+For the 9-limit, the following tunings are CONSISTENT:
+     5    12    19    22    26    27    29    31    41    46    50    53
+    58    60    68    70    72    77    80    82    84    87    89    91
+    94    99
+
+For the 11-limit, the following tunings are CONSISTENT:
+    22    26    29    31    41    46    58    72    80    87    89    94
+
+For the 13-limit, the following tunings are CONSISTENT:
+    26    29    41    46    58    72    80    87    94
+
+For the 15-limit, the following tunings are CONSISTENT:
+    29    41    58    72    80    87    94
+
+For the 17-limit, the following tunings are CONSISTENT:
+    58    72    80    94
+
+For the 19-limit, the following tunings are CONSISTENT:
+    80    94
+
+For the 21-limit, the following tuning is CONSISTENT:
+    94
+
+For the 23-limit, the following tuning is CONSISTENT:
+    94
+
+NO tuning up to 100tet can consistently represent the 25-limit.
+
+So let's remove the inconsistent tunings from the table of "best" equal 
+temperaments that I posted in TD 683 (Apr 8 '96) :
+
+pitch resolution -> .15% .25% .35% .45% .55% .65% .75% .85% .95% 1.05% 1.15%
+harmonic limit
+3                    41   29   12   12   12   12   12   12   12   7     5
+5                    53   34   34   19   19   12   12   12   12   12    12
+7                    72   31   31   31   31   22   22   15   12   12    10
+9                    53   41   41   31   31   19   19   12   12   12    12
+11                   72   41   31   31   31   22   22   22   22   22
+13                   87        41
+15                   87        41
+17                   72   72
+19
+21
+23                   94
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 14 Jun 1996 08:29 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id XAA12697; Thu, 13 Jun 1996 23:29:09 -0700
+Date: Thu, 13 Jun 1996 23:29:09 -0700
+Message-Id: <v015101019b16594451ed@[205.218.46.36]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

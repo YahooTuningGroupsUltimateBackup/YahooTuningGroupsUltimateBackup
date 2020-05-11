@@ -1,0 +1,133 @@
+source file: mills3.txt
+Date: Mon, 15 Dec 1997 13:32:03 +0100
+
+Subject: Those srutis again
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Gregg Gibson writes:
+
+> You may wish to consult the most famous of all Indian musical theorists,
+> Sarngadeva, ...
+
+I've lamented before on this list the (apparent?) absence of primary
+sources on Indian music in English.  I won't reproduce the quote,
+but suffice to say it doesn't convince _me_ that Sarngadeva was
+using equal temperament.  This is all irrelevant to contemporary
+music, of course.  I'll bet there are more recent theorists than
+Sarngadeva who imply that 1/4 comma meantone is the basis of
+European music.
+
+Incidentally, I wasn't previously aware of the Levy article (book?)
+either.  Could you give details?
+
+> Innumerable other authorities, both traditional and modern, say much the
+> same thing. It is true that other authorities give - very slightly -
+> unequal scales (Ellis, for example), and one, the quite untrustworthy
+> Westerner Danielou, constructs a highly unequal 22-tone
+> pseudo-pythagorean system, apparently out of thin air.
+
+B C Deva, in "The Music of India: A Scientific Study" gives an unequal,
+just 22 note scale.  Having at least the pretence of scientific rigour,
+he goes on to measure it against an instrument.  Alas, I didn't realise
+I was going to get into an argument about this, so I didn't take proper
+notes.  The measured scale is more than 8 cents out from the
+theoretical one.  However, most of the commas are preserved at about 20
+cents, so we certainly aren't talking about equal temperament.
+
+This scale has a certain contemporary relevence.  I did come across it
+on the Web.  Try hypatia.ucsc.edu:70/1/RELATED/Batish/Archives/Rago1
+
+T V Subba Rao's "Studies in Indian Music", my primary (alright, only)
+source on the South Indian tradition, explicitly states that the srutis
+are not 22 or 24 equal.
+
+> Ravi Shankar, as
+> I recall, says he uses 22 pitches in the octave - I don't remember
+> whether equal, nearly equal, or unequal.
+
+Hariprasad Chaurasia says the same in this month's Wire.  The 22 note
+scale is dead in North India, but it's ghost still haunts those who
+refuse to admit of more than 12 notes to the octave :-)
+
+> My own opinion, however, is that while the 22-tone equal does seem to
+> enjoy some instrumental use in India, the evidence - very scanty,
+> admittedly - supports 19-tone equal for Indian vocal music.
+
+I'm more for 12 pitch classes, boring though that may be.
+
+>> As there is no modulation in Indian music, 436-cents thirds
+>> will never arise, even if you follow Gregg's highly suspect
+>> argument.
+>
+> Alas, the incommensurability of the thirds and fifths in 22-tone equal
+> does not arise only when modulation is employed, which I have always
+> been very careful to note. If, taking C as tonic, we tune by fifths of
+> 709 cents, we have a G of 709 cents and a B of 1145 cents. These two
+> intervals form a 'major third' of 436 cents. 22-tone equal melody is a
+> tissue of such badly, indeed unrecognizably mistuned consonances.
+
+It is true that there is no way of specifying a major scale with 7
+notes from a non-meantone temperament such that all thirds and
+fifths are in tune.  However, I don't see this is being such a big
+problem.  Neither, presumably, did Bharata, whose gramas give the
+following major scales:
+
+Sa-grama 4 3 2 4 4 3 2
+Ma-grama 4 3 2 4 3 4 2
+
+Each scale contains a mistuned fifth, which Bharata did claim as
+a dissonance.  Bharata's srutis are nominally equal, however I
+still do not see why these scales could not be just.  The interval
+of 8 srutis would then be a Pythagorean major third of 408 cents.
+This scale sounds fine, melodically, to my ears.  In Ma-grama, only
+one (minor) third is mistuned.
+
+All of which is very interesting, but says nothing about the
+subsequent millenium.  Subba Rao allowed for a note in a raga to have
+more than one sruti interpretation, but I don' t have a reference to
+hand.  Although he didn't give any examples of how a scale or phrase
+should be tuned in terms of srutis, the implication is obviously that
+mistuned consonances can be avoided.
+
+> To
+> pretend that Indian singers use major thirds of 436 cents is
+> contradicted by all the studies I have seen. They may well use an
+> interval between the major third and perfect fourth for purposes of
+> ornament, but certainly not as the usual diatonic interval.
+
+6 of the 17 Sa-Ga intervals measured by Jairazbhoy and Stone in
+"Intonation in Present Day North Indian Classical Music" are larger
+than 408 cents, although a 22 note scale is obviously not being used.
+The largest third of 439 cents is >436.  This comes from the flautist
+Pannalal Ghosh.  The largest vocal third is 405 cents from Gangoobai
+Hangal.  None of this contradicts the spirit of what Gregg says.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk (Graham Breed) 
+Subject:  19 equal and modal genera
+PostedDate:  15-12-97 13:35:04
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  15-12-97 13:33:07-15-12-97 13:33:07,15-12-97 13:32:47-15-12-97 13:32:48
+DeliveredDate:  15-12-97 13:32:48
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656E.0044EFA5; Mon, 15 Dec 1997 13:34:54 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA15801; Mon, 15 Dec 1997 13:35:04 +0100
+Date: Mon, 15 Dec 1997 13:35:04 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA15578
+Received: (qmail 1370 invoked from network); 15 Dec 1997 04:33:40 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 Dec 1997 04:33:40 -0800
+Message-Id: <memo.396283@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

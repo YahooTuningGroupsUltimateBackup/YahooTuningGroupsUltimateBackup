@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Tue, 20 May 1997 16:04:27 +0200
+
+Subject: RE: pure? / synth tuning
+
+From: PErlich <AAM/AAM/PErlich%Acadian@mcimail.com>
+
+David wrote,
+
+>I use a table in a Word Perfect for Windows doc to do the calculations for
+me
+>on each scale.  WP doesn't do log-base2, only base ten or natural logs, 
+but I
+>found that multiplying any base10 log by 3986.313713865... will produce 
+the
+>corresponding base 2 log.  Oh, goody.  So here is the line from my Formula
+>Bar for line 2 of the table, which calculates C# (or as I like to call it,
+>2b):
+
+>-3986.313713865*LOG(C2/B2) [. . .]
+
+Well, this last number converts from base ten to base two, and then 
+multiplies by 1200 to convert from octaves to cents. So this number is 
+simply
+
+log(10)/log(2)*1200
+
+where the logs can be to any base, so you can use base-ten logs if that's 
+all Word Perfect can handle.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 20 May 1997 19:01 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06187; Tue, 20 May 1997 19:01:50 +0200
+Date: Tue, 20 May 1997 19:01:50 +0200
+Message-Id: <9705201701.AA06187@ns.ezh.nl>
+Received: from ella.mills.edu by ns (smtpxd); id XA06291
+Received: (qmail 18095 invoked from network); 20 May 1997 17:01:45 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 20 May 1997 17:01:45 -0000
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

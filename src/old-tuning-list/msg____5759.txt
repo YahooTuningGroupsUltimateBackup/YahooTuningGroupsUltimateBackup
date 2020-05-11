@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Sat, 5 Jul 1997 23:19:45 +0200
+
+Subject: The Outer Limits
+
+From: DFinnamore@aol.com
+
+So far, all of the limits I have seen discussed have been _upper_ limits.
+ Has anyone explored the idea of lower limits - say, a lower 3-limit, which
+would not allow a power-of-two to stand alone in a numerator or denominator?
+ I think that would mean that every note of the scale, every interval created
+by notes of the scale, would have at least a certain degree of complexity.  I
+drew up a few of these scales on paper but haven't yet listened to them.
+ Using a lower limit of 5 and an upper limit of 7 looks very strange on
+paper!
+
+BTW, I like a concept that Graham Breed introduced me to: harmonic
+dimensionality using prime limits.  As I understand it, using all octaves
+(like P. D. Q. Bach's Don Octave) would be 1-dimensional, Pythagorean scales
+(3-limit in practice) would be 2-dimensional, 5-limit would be 3-dimensional.
+ So a lower limit of 3 with an upper limit of 5 would insure that every
+member of the scale except the tonic itself would have a 3-dimensional
+relationship to the tonic; and I think it might insure that every interval
+created with the scale members would also be 3-dimensional (with respect to
+the tonic; 2-D standing alone, right?).
+
+Any comments?
+
+David J. Finnamore
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 5 Jul 1997 23:20 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05407; Sat, 5 Jul 1997 23:20:38 +0200
+Date: Sat, 5 Jul 1997 23:20:38 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05421
+Received: (qmail 18405 invoked from network); 5 Jul 1997 21:19:53 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 5 Jul 1997 21:19:53 -0000
+Message-Id: <970705171803_-991311241@emout12.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,33 @@
+source file: m1543.txt
+Date: Sat, 3 Oct 1998 18:19:55 -0700 (PDT)
+
+Subject: Re: beating the beats
+
+From: bram <bram@gawth.com>
+
+On Fri, 2 Oct 1998, William Sethares wrote:
+
+> In any case, one useful formula from trig is:
+> 
+> sin(x) + sin(y) = 2 cos( (x-y)/2 ) sin( (x+y)/2 )
+> 
+> To apply this to the beat cancellation, use this in the form
+> 
+> sin(w t) + sin( (w + dw)t ) = 2 cos( dw t /2) sin( (w+dw/2)t )
+
+I thank that's the right sort of 'flavor' of formula for what I'm trying
+to do, but not the exact right one. I think I'm looking for a formula
+which somehow involves cos(w*t/d)
+
+A note for the mathematically inclined - trigonometric identities are a
+lot easier to verify using the formulas - 
+
+sin(x) = i*(e^(-i*x)-e^(i*x))/2
+
+cos(x) = (e^(i*x)+e^(-i*x)/2
+
+Both of which are based on the formula
+
+e^(i*x) = cos(x) + i*sin(x)
+
+-Bram

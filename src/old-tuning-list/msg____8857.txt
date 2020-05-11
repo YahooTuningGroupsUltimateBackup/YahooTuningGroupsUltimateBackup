@@ -1,0 +1,15 @@
+source file: m1587.txt
+Date: Thu, 19 Nov 1998 16:42:32 -0500
+
+Subject: reply to Darren Burgess
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+One of the most important things to consider, if you are trying to
+achieve consonance on the carillon, is that bells have completely
+inharmonic partials. If constructing an optimal tuning for the bells, I
+would need to know the frequencies of the partial tones of the bells. JI
+maximizes consonance only for instruments with harmonic partials, such
+as human voices, bowed strings, brass, and reed instruments, and
+periodic synthesized tones (and even then there are some chords where JI
+is not necessarily best).

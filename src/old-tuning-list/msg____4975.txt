@@ -1,0 +1,120 @@
+source file: mills2.txt
+Date: Mon, 3 Mar 1997 20:36:11 -0800
+
+Subject: the Universe and sound
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+bq912@freenet.uchsc.edu (Neil G. Haverstick) wrote:
+
+>Haverstick here...when Ray Tomes says the Universe is oscillating
+>as a giant musical instrument, that must be what the Book Of The Hopi
+>means when it says "The Universe quivered in tune;" what the Indians
+>(East) mean by the OM vibration; what the Bible means when it says
+>"The Word was God." I am, unfortunately, not much on math, but I do
+>believe it is possible to unlock some of the secrets of this Universal
+>instrument by intuitive means, by "ear," so to speak, by trying to
+>"tune in" to the absolutely zillions and zillions of vibrations that
+>form this rather large instrument that we live in. I'm glad other folks
+>are interested in this same phenomenon...Hstick
+
+The bible has both "in the beginning was the word" and also "let there
+be light".  If the substance of the universe, the aether, is taken as a
+medium then the speed of sound in the aether is what we know as light
+The aether is very high tensile stuff).  So these two statements are in
+agreement.
+
+It is true as Neil says that ancient knowledge and religions are all
+similar in describing the universe.  Pythagoras (who is, I suppose, the
+patron saint of tuning) of course also described things in greater depth
+in the same way.  While we may see the ancient knowledge as poetic
+rather than scientific, my research has turned out to be mainly
+rediscovery as I have realised that lots of the stuff has been known
+before.  Even the numbers that I get for the strongest harmonics, ...
+144, 288, 1440, 2880, 8640, 17280, 34560 ... are to be found in ancient
+religious documents, often with a few extra noughts on.  The bible has
+144,000 and the Vedic literature is full of these numbers.
+The only thing is that people have forgotten what they mean.
+
+The three most important harmonic relationships are those involving 2, 3
+and 5.  When we include one, two or three of these we can view the most
+important ratios as follows...
+
+A. We know 2 as the octave and it is so important that we call different
+notes at a ratio of 2 by the same name.
+
+B. According to the harmonics theory, the primes 2 and 3 like to occur
+with a relative commonness (I avoid frequency as ambiguous) of 2.38 to 1
+and so this is most nearly approximated by the numbers 12 and 24 which
+have 2 or 3 "2"s present for 1 "3".  Again, 288 has a near correct
+proportion.  Therefore these ratios should be important in both time and
+space.
+
+C. When 5 is also added the ideal proportion happens most nearly for 
+2^8 * 3^3 * 5^1 or 34560 although 2880 is also important.  These results
+are all 100% mathematical and based soley on that tiny basic program I
+posted.
+
+If we look at the universe what do we find?  Starting from the largest
+scale, the observable universe is about 10 billion light years in
+radius.  Division of this by 34560 repeatedly gives us the following
+values for distances ...
+
+Table of ratios of 34560 from the Observable Universe
+
+N	10^28 cm    	Feature 	Common Units
+   / 34560^N
+
+0	1*10^28 cm  	Universe	10^10 light years
+1	2.9*10^23 cm	Galaxies	3*10^5 light years
+2	8.8*10^18 cm	Stars		8.9 light years
+3	2.4*10^14 cm	Planets		16 a. u.
+4	7.0*10^9 cm 	Moons		70,000 km
+5	2.0*10^5 cm 	X?			2 km
+6	5.9 cm      	Y?			5.9 cm
+7	1.7*10^-4 cm	Cells		1.7 microns	
+8	4.9*10^-9 cm	Atoms		0.49 Angstrom
+9	1.4*10^-13 cm	Nucleons	1.4 fm
+10	4.0*10^-18 cm   Quarks
+
+What we find is that the observed structures do match the scales
+predicted.  We see the universe as galaxies, stars, planets... and atoms
+and particles.  The predicted values for the atom and nucleon are quite
+accurate as the observed Bohr radius is 0.53 angstrom and the observed
+nucleon radius is 1.3 fm.  The X and Y scales are not so noticable.
+However there are some anomolous phenomena at these scales (or slightly
+smaller, about 1.7 km/1 mile and 5 cm/2 inches).
+
+Quark size has not yet been established but is less than 10^-17 cm and
+so they are almost to the next level that I predict.
+
+Also, within each level there are expected to be multiple sublevels at
+ratios of mostly 12 or 24 but sometimes 20 or 28.  This is also
+observed.  Above galaxies we have the weker level of galactic clusters
+and small irregular galaxies are found at distances of 1/12 of the large
+spirals (these are the small hangers on to the andromeda galaxy and out
+own magellanic clouds that look so nice in our southern skies).
+
+Again, planets come in two sizes and distance scales.  The gas giants
+are at distances which are ~28 times greater than the terrestrial type
+planets from the sun.  The distances of the outer planets are very
+nearly in the proportion 1:2:4:6:8 and so includes quite a few ratios of
+2 as well.
+
+There are further examples also.
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 4 Mar 1997 08:08 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03785; Tue, 4 Mar 1997 08:08:58 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03762
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id XAA28938; Mon, 3 Mar 1997 23:07:27 -0800
+Date: Mon, 3 Mar 1997 23:07:27 -0800
+Message-Id: <memo.43230@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

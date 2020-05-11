@@ -1,0 +1,68 @@
+source file: mills3.txt
+Date: Thu, 18 Dec 1997 07:01:50 +0100
+
+Subject: re: 19-tone Fret Lengths
+
+From: "Bob Lee" <quasar@wco.com>
+
+Gregg Gibson wrote:
+>I'm afraid I'm very ignorant about the pedal steel. However, here are
+>the 19-tone equal fret lengths for a guitar with a scale length of 25
+>inches.
+
+Thank you very much!  My diatonic steel has a 24.5 inch scale, but I'm sure
+I can do the math from here.
+
+>This does _not_ take into account compensation however, which typically
+>requires that the scale length be lengthened by 1 to 5 millimeters
+>(according to Fletcher & Rossing: Physics of Musical Instruments, p.
+>228). The bass strings particularly require to be lengthened, hence the
+>angled bridge concept. Electric basses are said to require even more
+>compensation. If this compensation is not made, fretted notes will be
+>sharper than open ones.
+
+The frets of a steel guitar are simply painted guides.  It's not common to
+play open strings along with "fretted" (barred) ones.  Open strings are
+generally used as a special effect.  The difference in timbre makes them
+unusable in most passages.
+
+Steel guitarists slant the bar slightly to compensate for the different
+intonation of low strings at the higher frets.  Most steel guitarists aren't
+even aware that they do this - it is a natural movement of the left hand.
+Beginning steel guitarists sometimes compensate too much, and must learn to
+straighten the bar at the high frets to the proper degree to make the
+instrument sound "in tune".
+
+    -b0b-
+-----
+quasar@wco.com (Bobby Lee)
+http://wco.com/~quasar/
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  Reply to Paul Ehrlich
+PostedDate:  18-12-97 07:23:02
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-12-97 07:20:59-18-12-97 07:21:00,18-12-97 07:20:37-18-12-97 07:20:37
+DeliveredDate:  18-12-97 07:20:37
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256571.0022DE1F; Thu, 18 Dec 1997 07:22:47 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18531; Thu, 18 Dec 1997 07:23:02 +0100
+Date: Thu, 18 Dec 1997 07:23:02 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18689
+Received: (qmail 24710 invoked from network); 17 Dec 1997 22:22:59 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Dec 1997 22:22:59 -0800
+Message-Id: <34992369.F8D@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

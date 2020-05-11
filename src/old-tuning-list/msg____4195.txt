@@ -1,0 +1,47 @@
+source file: mills2.txt
+Date: Sat, 30 Nov 1996 14:08:12 -0800
+
+Subject: Re: TUNING digest 910
+
+From: "Marcus Hobbs" <marcus@fa.disney.com>
+
+> eric lyon writes:
+> In recent post, Brian discussed "computer generated music", and
+> chose to define it as the situation where a composer sets up a random
+> system and accepts the output from the program, direct to DAT. This
+> is a perfectly useless definition. I know many computer music
+> composers and not a single one works this way.
+
+i've done a lot of "experimenting" with algorithmic composition (i like using
+symbolic composer, as much as i wish it were interactive rather than a
+compiler) and i find myself editing the resulting material "by hand" (or by
+ear, rather).  that is, the output of the algorithm is not at all completely
+satisfactory to me, so i interactively modify the results in my sequencer
+according to my musical taste, rather than try to modify the algorithm to
+produce the desired changes.  the exact deviation from the algorithm is hard to
+characterize in terms of symbols, or the algorithm itself, but my ear
+determines it quite nicely.  i get my surprises from the algorithm (i claim
+that i couldn't have created these complex sequences on my own), yet i get to
+put my individual stamp on the results.  i like working this way!
+
+this is in line with how i work professionally, as a computer graphics dude.  i
+write algorithms/shaders that achieve 99% of my goal, and hand-paint that last
+1%.  i find that visually, people expect imperfections in the artwork, at all
+scales--from the actual grain of the drawn line, to the animation itself.  the
+exact amount of imperfection is hard to characterize in terms of symbols, but
+my eye recognizes it quite nicely as i interactively modify the artwork.
+
+marcus
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 1 Dec 1996 00:23 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12590; Sun, 1 Dec 1996 00:25:40 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA12689
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA23073; Sat, 30 Nov 1996 15:25:37 -0800
+Date: Sat, 30 Nov 1996 15:25:37 -0800
+Message-Id: <Pine.3.89.9611301853.A25510-0100000@sheppard>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

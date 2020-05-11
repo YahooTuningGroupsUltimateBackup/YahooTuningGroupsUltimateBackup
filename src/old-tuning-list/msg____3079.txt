@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Mon, 17 Jun 1996 08:08:23 -0700
+
+Subject: Reply to John Chalmers
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+I think you are confusing the concepts of "consistency" and "articulation" 
+(or uniqueness). For example, 31tet does not uniquely articulate the 
+11-limit, since 11:10 and 12:11 are both represented by 4 steps. However, 
+31tet consistently represents the 11-limit, since given any 11-limit triad, 
+the sum of the best approximations to the inner intervals will be the best 
+approximation to the outer interval. In equal tunings with a small number of 
+notes, consistency is usually a less stringent criterion, while for large 
+numbers of notes, consistency will be the more stringent criterion. The 
+point of the consistency criterion is partially that consonance calculations 
+looking at all consonant intervals individually may not tell you anything 
+about consonant chords. Consistency with respect to triads, however, does 
+imply consistency with respect to tetrads, pentads, etc.
+
+(By 11-limit triad I mean a triad made up of three just intervals, each of 
+which has a numerator and denominator not higher than 11 (aside from factors 
+of 2).)
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 17 Jun 1996 17:35 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA04811; Mon, 17 Jun 1996 08:35:45 -0700
+Date: Mon, 17 Jun 1996 08:35:45 -0700
+Message-Id: <9606171535.AA02874@arthaud.saclay.cea.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

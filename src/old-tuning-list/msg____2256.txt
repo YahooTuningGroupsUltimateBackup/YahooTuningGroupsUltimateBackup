@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Sat, 4 Nov 1995 21:05:59 -0800
+
+Subject: Fixed points of MCLaren's series
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+I was looking further at Brian McLaren's iterated absolute
+log function and noticed that the value 2.50618 generates very 
+nearly a fixed point. The log of this number is.39901298 and this 
+value  remains constant throughout the iterations until the errors 
+accumulate. A more exact value may be determined by solving 
+the equation X+log(X)=0. The number x 1200 is 478.815576 (29/22).
+	By using the natural log rather than the base-10 log, one gets 
+.56714329 which times 1200 is 680.5719 (37/25). One may start with 
+1.763223 also.
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 5 Nov 1995 18:58 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA06425; Sun, 5 Nov 1995 08:58:55 -0800
+Date: Sun, 5 Nov 1995 08:58:55 -0800
+Message-Id: <Pine.3.89.9511051100.A23378-0100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

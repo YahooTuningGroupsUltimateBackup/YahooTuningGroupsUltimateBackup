@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Tue, 7 Jan 1997 20:40:27 -0800
+
+Subject: Re: How to get out of digest mode?
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Ross Palmer Mohn wrote:
+> 
+> I'd like to get out of digest mode, but I lost my original subscribe
+> message. Can someone tell me the name of the list server, and maybe even
+> the command? Thanks!
+
+send to listproc@eartha.mills.edu
+
+set tuning mail ack
+
+
+to get digests, send
+
+set tuning mail digest
+
+
+to find out how this works, send
+
+help set
+
+
+Matt Nathan
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 8 Jan 1997 16:20 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05105; Wed, 8 Jan 1997 16:22:58 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA05098
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA08675; Wed, 8 Jan 1997 07:22:54 -0800
+Date: Wed, 8 Jan 1997 07:22:54 -0800
+Message-Id: <01970108152210/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

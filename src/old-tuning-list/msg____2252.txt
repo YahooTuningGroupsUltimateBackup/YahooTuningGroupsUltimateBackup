@@ -1,0 +1,23 @@
+source file: mills2.txt
+Date: Sat, 4 Nov 1995 11:26:52 -0800
+
+Subject: tuning list ftp access for backlog?
+
+From: wabi@server.net4you.co.at (Helmut Wabnig)
+
+During a software upgrade I lost many files.
+Can I download old tuning digests from somewhere?
+Yours
+Helmut Wabnig
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 4 Nov 1995 21:28 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA25434; Sat, 4 Nov 1995 11:28:07 -0800
+Date: Sat, 4 Nov 1995 11:28:07 -0800
+Message-Id: <199511041925.AA16591@net4you.co.at>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,122 @@
+source file: mills3.txt
+Date: Thu, 18 Sep 1997 16:46:21 +0200
+
+Subject: Pianos, weather,temper
+
+From: A440A@aol.com
+
+Mark writes:
+
+>  There's a lot of out-of-tune pianos out there, but as long as the keys
+>  have drifted equally (usually in the "flat" direction), it doesn't seem
+>  to affect the emotion of the piece.  (Of course if the keys have drifted
+>  unequally, it's time to get the piano tuned,
+
+         The piano is an untunable instrument, and the best tuners are the
+ones that made the best compromises.  This is what makes it hard to define
+standards.
+      There are two ways that pianos "drift" out of tune.  A poor tuner's
+work is usually marked by single note unisons being out of tune, as well as
+uneven progressions in the beat rates of the thirds.  This tuner should be
+avoided.
+     The other "out of tuneness" is due to seasonal weather changes, which
+cause wholesale pitch movement, most easily heard in the octaves.  If you
+must tune to a "bent" piano tuning, determining a  center is not always best
+done by the A number 49. There may be a different pitch at a different place
+on the keyboard. (for ease, all notes on the piano are referred to by number
+1-88, i.e middle C is C40).
+
+
+
+	It is important to understand that the bass strings on a piano are anchored
+on a separate bridge. This smaller bridge doesn't respond as dramatically as
+the longer treble bridge, so the bass section of the piano will usually be
+closer to the originally tuned pitch.
+     A tuned piano in a  dry environment  will go sharp as moisture is
+introduced, but it will not go sharp all together.  The bass section will
+exhibit some rise,(big pianos  have the bottom 20 notes on the bass bridge,
+smaller pianos have 26), but the notes just above the bass, i.e., on the very
+bottom end of the treble bridge, will be dramatically sharp. This is the
+point of greatest change. From there up,  the rest of the piano will be sharp
+in varying degrees.   This whole thing works in reverse, also.  Tune in the
+middle of summer, and by mid winter, there is this huge flat section, right
+above the bass. It makes all the octaves that span these two bridges, (span
+span??) sound terrible.
+      As far as flatness having less emotional effect than being sharp,  I
+must wonder.  The causes and degrees of emotional response in music are so
+subjective, that more of a comparitve tool that the drifting   piano needs to
+be used, (IMHO).
+
+>  My own pet theory is that as you listen to music, your ears accept >the
+ imperfections in tuning that are presented to them, and knows >what was
+ "meant".  So the same idea/emotion/whatever comes >across, whether you're
+using equal temperament/meantone >temperament/just intonation/whatever.
+       Temperament is a different perpective than just being out of tune.
+  However,  some temperaments sound "out of tune" to some ears.  This is not
+uncommon when you begin getting out on the edge of any thing.
+ To wit:   I know some wine drinkers that like their wine dry;  not sorta
+dry, but skull and crossbones, battery-acid, twist-your-face-off DRY!  I
+don't want to get used to it!
+     I know people that like their steaks so rare you can hear them moo.
+     I know very wealthy people with nice pianos in homes decorated poorly
+enough to make Elvis wince.
+    However,  I like Beethoven on a Werckmiester........ (and yes,  I have
+seen others cringe at the same.  At some point, my "Stairway to Heaven"
+ becomes someone else's "Highway to Hell".
+    So hey, what is taste but a yardstick we are all on?   Since we can only
+measure distances from ourselves to the places of others,  the validity of
+our observations is only as good as our understanding of our own position.
+  For locating help,  I have gone back to Vallotti, et al.
+Others here have gone forward into ET territory with buckets of math .
+       	The emotional circuitry in a lot of  Classical keyboard music is such
+that alteration of the tuning fundamentally alters the effect of hearing and
+feeling it.  Use of a meantone tuning would cause much of Beethoven's music
+to come unhinged, with dissonant occurances in the strangest of places, and
+little modulatory graduations among near keys.  In 12TET,  his music becomes
+static, even tedious.  His keyboard music uses the irregular, circulating
+temperaments of the late 18th century to do their work.  In a more modern
+view,  Gershwin's compositions on a Justly tuned keyboard would probably lose
+some of their flow, no?
+      Gregorian music doesn't work as well in ET as in pure pythagorean, does
+it?  Can you chant your way to heaven in ET, or are pure fifths  the only
+thing that will get you there?
+      I guess  the point I would like to offer is that there is an emotional
+package in much classical music that doesn't get delivered if the tuning is
+not right.  This value, formed by the varying use of consonance and
+dissonance, may be neglible to some, but to others it is a major reason for
+listening.
+
+Ramble on..........
+Regards,
+Ed Foote
+Precision Piano Works
+Nashville, Tn.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  kukula@synopsys.com
+Subject:  missing fundamental
+PostedDate:  18-09-97 21:31:57
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-09-97 21:31:47-18-09-97 21:31:48,18-09-97 21:31:00-18-09-97 21:31:01
+DeliveredDate:  18-09-97 21:31:01
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256516.006B4524; Thu, 18 Sep 1997 21:31:40 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06800; Thu, 18 Sep 1997 21:31:57 +0200
+Date: Thu, 18 Sep 1997 21:31:57 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA06797
+Received: (qmail 25430 invoked from network); 18 Sep 1997 18:35:38 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 18 Sep 1997 18:35:38 -0000
+Message-Id: <199709181826.LAA20400@sunatg3>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

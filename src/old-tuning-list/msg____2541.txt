@@ -1,0 +1,80 @@
+source file: mills2.txt
+Date: Mon, 12 Feb 1996 03:01:39 -0800
+
+Subject: 31-tone equal temperament in Csound
+
+From: Lydia Horner <layers@cs.ust.hk>
+
+Ethan Walker posted to the list about a month ago (I took a vacation and
+now I'm real behind on my email):
+
+>What I am wondering is if there is anyone out there who has
+>experience with creating orchestra and score files in C-sound for the
+>31-tone chromatic scale.
+
+Several people replied, but as I didn't see an answer that gives a
+simple method for direct input in Csound, I've written a belated
+response.
+
+I usually write a C program to create my scores, and the C program
+calculates the frequency in Hertz.  This is the simplest way to get
+it in through Csound instrument designs, but C programming requires
+knowing a different language from Csound.  (Another advantage of
+the program is that you can have it generate a lot of random numbers
+in parameter fields that should vary randomly within appropriate 
+ranges, such as the total amount of vibrato.)
+
+If you are not familiar with the C programming language, there are a 
+number of ways to input pitch directly in Csound; for an equal tempered
+scale such as the 31-tone scale, you can calculate the scale in Hertz,
+calculate decimal ratios and have Csound convert the ratios to Hertz, 
+use octave.decimal which is the same as decimal ratios but has the
+octave transposition built in to the ratio, use scale degrees or use 
+cents.  Octave.pitch class is also possible, but probably more 
+difficult to use for this purpose.
+
+I wrote a chapter on this issue for an upcoming book (more about the
+book at the appropriate time).  The following is one way to do the
+31-tone chromatic scale using scale degrees in Csound:
+
+-----------------------------------
+idur		=	p3			; duration
+iamp		=	p4			; amplitude
+idegree		=	p5			; scale degree
+ioct		=	p6			; octave transposition
+ifactor		=	1.0226114		; the factor for 31-tone et
+icount		=	0			; set the counter icount to 0
+iratio		=	1
+
+pow:
+if icount	= 	idgree goto powout
+iratio		=	iratio * ifactor
+icount		=	icount + 1
+goto		pow
+
+powout:
+ifreq		=	iratio * ifactor * ihertz * ioct
+-----------------------------------
+(Continue with  your own instrument design; ifreq is the frequency
+in Hertz.)
+
+To calculate "ifactor":
+
+ifactor = (interval to divide) raised to the (1/(number of divisions)) power.
+Example 1:  2^(1/7) power is 1/7 of an octave.
+Example 2:  3^(1/13) power is 1/13 of an octave and a perfect 5th.
+
+Hope this works for you.
+
+Lydia
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 13 Feb 1996 01:52 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA13239; Mon, 12 Feb 1996 16:52:21 -0800
+Date: Mon, 12 Feb 1996 16:52:21 -0800
+Message-Id: <0099DCF76B66A735.A5B1@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

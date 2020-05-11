@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Fri, 3 Jan 1997 21:17:58 -0800
+
+Subject: Nonuniform Strings
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Oh, now that Dan brought up the topic of nonuniform strings, try this
+experiment sometime:  Wrap a grocery-store vegetable-bag "twist tie" very
+tightly around the G or D string of a guitar and place it at the center of
+the string, right above the octave fret.  
+
+   The results are ... uhmmm... "decidedly non-string-like", I'll say.  
+
+   What happens is the odd-numbered partials, which have an antinode at
+that point on the (open) string drop way down in pitch, but the even
+partials, which have a node at that point on the string, don't change much
+at all.
+
+   You also find that the nodes of partials move toward the center of the
+string.  By that I mean that the third-harmonic (although it's far from
+harmonic now!) nodal point you normally get by lightly touching the string
+over the seventh fret, moves quite a bit toward the octave fret. 
+Presumably it's seeking a point where all three of the loops have equal
+mass (or probably more accurately, equal torque:  mass times distance from
+the node).  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 4 Jan 1997 06:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00987; Sat, 4 Jan 1997 06:19:50 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00985
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id VAA04514; Fri, 3 Jan 1997 21:19:49 -0800
+Date: Fri, 3 Jan 1997 21:19:49 -0800
+Message-Id: <199701040016_MC2-E3F-449A@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,74 @@
+source file: mills3.txt
+Date: Sat, 10 Jan 1998 20:27:39 +0100
+
+Subject: Re: 22TET
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+I would be very surprised if any temperament significantly
+different to 22 equal supported decatonic scales.  Vanishing
+septimal commas is a difficult trick to pull off.
+
+The octave is the best interval to define a harmonic scale around.
+Once you've done that, the octave should be very accurate.
+Although you should think about the octaves, it would be annoying
+if "the same" chords in different registers were out of tune with
+each other.
+
+I tend to think that low primes should be tuned best.  The more
+complex harmony you use, though, the more accuracy is required
+for _all_ intervals.
+
+Carl Lumma wrote:
+
+> It just stands to reason that there are all kinds
+> of effects, probably most of them un-discovered, based on the "anomalies"
+> of JI.
+
+Remember that there are a lot of temperaments out there!  Most of
+what you can do in JI should work schismically, as all the commas
+are there.
+
+> 1) Conventional theory is full of holes.  The tritone is spelled as an
+> augmented forth in certain contexts, and as a diminished fifth in others,
+> but it's the same pitch.  All the enharmonics should be thrown out in 12.
+
+No, the tritone is not always the same pitch.  It can be 7/5, 10/7,
+25/18 or 36/25. The first two do not arise in a diatonic context.
+So, 25/18 is an augmented fourth and 36/25 a diminished fifth.  The
+difference between them, 63 cents, is not negligible.  12-equal
+enharmonies are irrelevant as diatonic scales work in all
+meantones, and the notation reflects this.
+
+When Paul Erlich says "scale steps" he obviously means the 7 note
+diatonic scale.  I didn't have any trouble with this when I read
+the paper first.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Re: TUNING digest 1293 jloffink
+PostedDate:  10-01-98 22:22:22
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-01-98 22:21:49-10-01-98 22:21:50,10-01-98 22:21:41-10-01-98 22:21:42
+DeliveredDate:  10-01-98 22:21:42
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256588.0075595F; Sat, 10 Jan 1998 22:22:14 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12128; Sat, 10 Jan 1998 22:22:22 +0100
+Date: Sat, 10 Jan 1998 22:22:22 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA12117
+Received: (qmail 18571 invoked from network); 10 Jan 1998 13:22:19 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Jan 1998 13:22:19 -0800
+Message-Id: <v01541106b0dd410fba58@[207.207.2.111]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,461 @@
+source file: mills2.txt
+Date: Thu, 4 Jan 1996 08:23:26 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Paul Rapoport's article 
+"The Notation of Equal Temperaments"
+---
+Xenharmonikon 16, available now from Frog Peak
+Music or from John Chalmers, contains Paul's
+latest essay on non-12 notation.
+This is a subject littered with caltrops. To date, no
+one has succeeded in producing a universal notation
+which allows both easy performance AND analysis 
+of xenharmonic music.
+Nonetheless, Paul makes many good points in 
+this article.
+"Despite the considerable history of ETs, few
+theorists have studied their properties or created
+musical notations for them systematically.  Because
+most of the ad hoc solutions in notation of one ET
+do not extend easily to many other ETs, such solutions
+obscure similarities in related temperaments."
+[Rapoport, P., XH 16, pg. 61]
+However, the worm soon munches its way free of the
+apple: "This article explores almost exclusively ETs
+of the octave and implications based on harmonics
+no higher than 5."
+The implicit presumption? That one ought to strive for 
+a unified system of notation which relates all the
+especially 12-like tunings with good fifths.
+While this is a laudable goal, one needs must ask:
+why spend so much effort on the 12-like tunings?
+By far the most interesting equal temperaments
+are those which have *little or nothing* in common with
+traditional Pythagorean and 5-limit tunings.  There
+exist many oddball equal temperaments which
+cannot be notated usefully by a 5-limit scheme,
+yet whose "sound" compels ever-growing interest.
+In this regard, 9-TET, 10-TET, 23-TET, 22-TET
+and 21-TET stand out in particular.
+9-TET, for example, violently abjures traditional notation,
+yet it remains an endlessly fertile breeding ground
+for xenharmonic compositions. In fact Erv Wilson has
+called it one of his favorite tunings.
+Paul derives several guiding principles:
+[1] Additional signs must be perceptually distinct
+from one another.
+[2] Notation must reflect the determined nature of
+the termperament.  If there's more than one
+way of deriving the temperament, there should 
+be more than one way of notating it.
+[3] Additional signs beyond bb X, etc, should be
+created for kommata representing the differences
+in pairs of multiples of just intervals.
+The first 2 points are eminently sensible. 
+Point 3 seems incomprehensible to me.  If you're
+going to relate your equal temperament explicitly to 
+just intonation via the notation used, you might as
+well abandon equal temperament and go straight to
+just intonation.  Few equal temperaments < 48 are awfully
+JI-like, and all of 'em contain internal structures 
+which inevitably frustrate the attempt to view
+them as this or that outgrowth of just intonation.
+As a result, many of the intervals which Paul 
+defines as "kommata" do not function as such in 
+equal temperaments below 48-TET. For instance, in 22-TET
+a single scale-step is numerically a fair approximation
+of the Pythagorean komma, but it does NOT REMOTELY
+function like a just interval in context.(Significantly,
+Paul does not discuss 22-TET.)
+Again, the 1/17 octave interval in 17-TET, while
+numerically near-indistinguishable from the 
+difference twixt the 6/5 and the 5/4, sounds in
+practice like a semitone.   In an actual 17-TET
+composition, this interval contains NO audible 
+implications of just intonation whatever.
+31-TET contains an interval quite close to the
+41.059 cent "diesis," yet a single scale-step of
+31 conjures up no auditory ghost of just
+intonation.  In fast chromatic runs,  the 31-TET
+scale-step functions like a very strange semitone,
+and when used as a passing-tone twixt chords 
+its function is a somewhat small chromatic
+passing-tone.
+The idea of imposing on any but a few ETs with very
+good fifths (all > 48, 46, 43, 41, 39, 37, 36, 34, 
+31, 29, 24, 19, 17, 12) a set of just kommata purporting
+to represent the substructure of the tuning
+seems suspect to me.  Many intervals numerically
+close to JI kommata do not function as such
+such in the context of the equal tempered scales below
+
+48-TET, and the futile attempt to force them to do so 
+
+produces mediocre music.  
+Examples of such music include some of Easley 
+Blackwood's "Twelve Microtonal Etudes For Electronic
+ Music Media," a project only partially successful. 
+The etudes which hew most closely to Blackwood's
+theoretical and notational principles prove LEAST
+successful as music: in particular, 17-TET, 16-TET,
+19-TET and 20-TET.  Blackwood jams 19-TET into a
+12/oct straitjacket, and his 19-tone etude
+suffers greatly from his refusal to showcase 19's
+exotic non-Pythagorean intervals.
+In the 16-TET etude, Blackwood derives an awkward
+pseudo-tonal mode which goes against the inherently
+anti-tonal, non-cadential grain of the tuning,
+and the result sounds bad. The 17-TET etude suffers 
+grievously from Blackwood's unwillingness to recognize
+& use the 5-unit neutral third as the ONLY functional
+triadic third, while the 20-TET etude is mangled 
+by Blackwood's relentless insistence on generating
+diatonic modes from 20/oct, rather than exploiting its
+intercessant circles of NON-diatonic pentatonic 5ths
+(as he did in 15-TET).
+All of these problems stem from Blackwood's
+doomed attempt to extend 12-like structures
+into entirely xenharmonic tunings. He could have
+avoided these faux pas if he'd ignored his
+Pythagorean notational kommatic calculations and 
+relied on his ear instead of v, a, k, t and p.
+To put it succinctly, Easley Blackwood concentrated
+far too much on the "harmonic" and far too little
+on the "xen" aspects of these xenharmonic scales.
+By contrast, those etudes in which Blackwood 
+pretty much tossed out his theories and just sort 
+of gave up & winged it seem by FAR the most successful
+ musically: 13-TET, 23-TET, 14-TET.
+Moreover:
+In calling Blackwood's project "the most substantial
+non-improvised recorded project in different
+equal temperaments," Paul renders a decidedly
+ peculiar definition of "notation."  Most of us would
+argue that William Schottstaedt's and Jean-Claude
+Risset's and James Dashow's and John Chowning's
+and Richard Karpen's and Richard Boulanger's 
+computer compositions are FULLY notated...they
+simply use a notation radically at odds with Paul's
+cherished Pythagorean common-practice-period-based
+paradigm. 
+Moreover, my own MIDI compositions and those of 
+many other xenharmonic composers use a notation
+which is also perfectly standardized, entirely
+reproducible, and which allows others to examine
+and analyze the compositions--we use the MIDI
+file format in which notes are represented as numbers
+from 0 to 127.  Again, presumably because this
+notation is something that Beethoven wouldn't have
+used, somehow our compositions don't exist and
+aren't worthy of audition, analysis or (presumably)
+mention.
+Peculiar indeed.
+This leaves aside, of course, algorithmically
+composed xenharmonic music.  That's a whole 'nother
+passel o' varmints, chilluns.
+Yet all the pieces of music mentioned above are carefully
+and painstakingly composed, note by note, with *AT
+LEAST* as much attention to detail as shown in 
+Blackwood's scores.  The main difference is not
+that "many such [electronic/computer music] works
+are created without a score," but rather that they use
+musical scores which Paul chooses *NOT* to recognize 
+as a valid symbology.
+Thus, while Paul mentions "this article does not 
+address the issue of the utility of scores," it ALSO
+(much more glaringly) does not address the issue of
+whether a piece of carefully-composed, closely-
+worked-out music notated in a completely untraditional
+way (e.g., Csound .sco file or MIDI file) ought to be
+treated as though it doesn't exist merely because
+the notation cannot be viewed as a variant of
+some 19th-century central European concoction.
+(Slippery slope time: do Gregorian chants notated
+with neumes qualify as musical scores?  If so, why 
+don't MIDI files printed out in piano-roll notation?
+And why aren't sonograms of Risset's and Chowning's
+and Dashow's and Schottstaedt's and Lanksy's 
+computer music pieces *also* scores?  ...We're on the
+slippery slope, and it's gettin' slipperier by the minute...
+In desperation,  one MIGHT claim that 19th century musical
+scores allow acoustic performers to reproduce the music.
+This (such logic goes) distinguishes them from MIDI
+files or Csound .sco files.
+But how many live acoustic xenharmonic concerts did
+YOU attend last year?  And didn't ALL of 'em use one-of-
+a-kind exotic homebuilt acoustic microtonal instruments?
+So what good is a 19th-century-type score if there's only
+one set of microtonal instruments in the world that 
+can play 'em?
+..Slippery slope time, kiddies!  Let's face it: 
+essentially no one attends or gives live acoustic 
+concerts any more, and since 99.999999% of the music we
+all hear is now delivered via electronic media, this is
+a VERY weak and flabby and etiolated argument for ANY 
+particular flavor of musical notation.) 
+Paul's chart of kommata is admirably clear and his
+ranking exemplary; he is probably right that,
+for ETs with good fifths, the syntonic komma is
+most important for quasi-19th-century notation.
+Paul makes a good point in dealing with 17:
+"the third in question (5 u) happens to lie very close
+to half way between the actual just major third
+(386.314 cents) and just minor third (315.64 cents).
+It may therefore be interpreted as either or neither,
+depending on musical treatment of the temperament."
+This leads to an alternate notation which does not
+involve sharps or flats, and proves much superior to 
+Easley Blackwood's notation for 17.   
+However, those of us who've worked extensively
+with 17 would go even farther--many of us would
+contend that 17 has only ONE functional triadic third:
+the 5-unit third.  The so-called "major" third in 17
+is unbearably dissonant and useful only in melodies,
+or vertically as a passing tone or a cambiata.   Thus 
+many of us would urge that the so-called "major" third
+ of 17 be notated as a species of fourth--since, like 
+that interval, it is functionally unstable when employed
+vertically.
+Paul's 2nd notation of 53 seems as good as any other. 
+It avoids the problem of too many flats and sharps, 
+as usual by substituting odd new symbols. Again,
+this eases clutter but reduces sight-readbility. New
+symbols instead of the familiar sharp & flat will
+always prove more ambiguous for sight-readintg,
+since they're by definition unfamiliar.
+Paul's first notation for 25-TET seems less than
+successful, since it uses note-names E & F.
+25-TET's most obvious audible characteristic is
+its pentatonic "mood." This, because 25 boasts
+not one but 5 circles of identical 5-TET fifths.  
+The 25-TET fifth sounds unmistakably pentatonic--
+it's the same 720-cent fifth found in all multiples
+ of 5-TET up to 45-TET. 
+Thus, a notation which implies that there are
+more tones than sharped- or flatted-versions
+of C, D, E, G and A proves less than useful.
+Paul's 2nd proposed notation admirably corrects
+this problem and exposes the five pentatonic
+circles of fifths, as does Paul's third
+suggested notation. This is a big improvement
+over Blackwood's notation, which retained
+E and F and B and C as exact enharmonic 
+equivalents (talk about willful obfuscation!).
+Paul also points out that even *his* generalized
+notation breaks down for ETs without fifths.
+As an example, he gives 13...which has certainly
+resisted any attempt to force it into a traditional
+notational mold.
+This is inevitable.  No notation can cover all
+equal temperaments.  The main question is:
+where ought the notation to break down?
+And how?
+Curiously absent in this regard are tunings with
+good fifths but absolutely no point of contact to
+traditional tunings: 26-TET, 22-TET, 35-TET, etc.
+Paul's treatment of 13-TET as every other note
+of 26-TET strikes me as peculiar, inasmuch
+as the two tunings bear not even the most remote
+audible relation to one another.  Any relationship
+is a purely augenmusik calculated-numbers-on-
+paper sort of thing, and does not strike me as
+productive.  Similarly, notating 11 as every 
+other note of 22 would be equally fruitless--the 
+mind can calculate, but the ear cannot hear, 
+a relationship between the two.  In both cases,
+one must *listen* to the tuning and *throw out* the
+numbers if they conflict with common sense.
+In both cases, notation for 11-TET ought to bear
+NO resemblance to notation for 22, ditto
+notation for 13 and 26.  If the two tunings sound
+utterly different, they should be notated utterly
+differently.
+Perhaps Paul should add this as a 4th general
+principle...?
+Paul's treatment of negative kommata (33-TET)
+seems eminently reasonable.  By avoiding sharps
+and flats, many notational paradoxes are averted.
+Of course, dispensing with sharps and flats also
+eliminates much of the analytic value of a 
+musical notation.  If you can't tell at a glance
+whether one note is higher or lower than another,
+it automatically poses problems for musical
+analysis.  In this case, one might be better off
+studying a printout of the MIDI note numbers, or
+the Csound .sco file Hz values.  But for Paul's
+purposes it is obviously better not to raise such
+unsettling questions.
+His treatment of 14-TET proves less satisfactory.
+Alas, in 14 (as in 7-TET) the modes collapse back
+into the keys.  There is no major or minor: 3
+scale-steps give 257.1 cents, too small to
+sound or function as a minor third, while 4
+scale-steps yield 342.8 cents, a neutral 
+third antithetical to Pythagorean theory. 5
+units = 423.5 cents,  too large to function
+as any kind of recognizable major third.
+This situation proves so puzzling to devotees of 
+19th-century-style symbology that it forces
+the unwary notation-theorist to twist hi/rself
+into knots to get out of the problem.
+Notating 14 by taking every other note from 28
+begs the problem.  In fact, the issue is that
+14 has two circles of 7 identical fifths, whereas
+28 has 4 of them, and they ALL use neutral intervals
+as building-blocks.  The 2-out-of-28 dodge  
+obscures this basic fact, and tends to dupe the
+inexperienced xenharmonist into imagining
+that 14 has something like a major or a minor
+mode when in fact it has neither: merely two
+overlapping neutral 7-tone scales melding into
+a neutral 14-tone scale--and not a diatonic 14,
+either.   Logic would indicate two simple
+overlapping sets of identical A B C D E F G 
+symbols.  Perhaps  A  A*  B B* C C* D D* E E*
+F F* G G*? (Ivor Darrg's notation.)
+This example illustrates the problems that Paul's 
+generalized notation creates when there are
+NO Pythagorean landmarks--in this case, because
+the multiples of 7-TET up to 42-TET are constructed
+from completely non-diatonic building blocks.
+A Pythagorean musical paradigm fails when faced
+with 7 anti-diatonic utterly equidistant tones:
+it flails like a moth caught in a  searchlight.
+The product of a xenharmonic notation based on 
+inappropriate diatonic kommatic assumptions is bound
+to falter & collapse for multiples of 7-equal.
+In fairness, Paul points out the problems his notation
+encounters with 50-TET, which is certainly no
+surprise:  no proposed notation has dealt adroitly
+with such an oddball tuning.  (Ditto 32, 27, 29, and
+particularly 35, which is probably the ultimate 
+nightmare from notation hell!)
+Paul's introduction of numbers as superscripts is
+clearly UNsuccessful.  The entire reason for using
+symbols to notate notes, rather than Arabic numerals,
+is that the human brain has evolved a marvellous
+pattern-recognition facility which operates at vastly
+greater speed than any possible number-calculation
+facility.
+Once memorized, symbols are instantly processed
+by a huge glob of visual cortex.  Ergo, the
+miracle of sight-reading.  Not so numbers.  Numeric
+stuff crawls through the  forebrain, where it clogs
+everything up and bogs everything down.
+Thus, it is impossible to instantly sight-read
+columns of numerals, whereas one can easily sight-read
+and musically analyze a bunch of visually striking
+symbols.
+Combining numerals with symbols forces the
+brain's spiffy pattern-recognition wetware to slow
+down to the pace of the number-recognizing forebrain 
+(a much more recent and thus less efficient evolutionary
+addition), auguring ill both for the prospective 
+sight-reader AND the would-be music theorist.
+Paul points out that F. R. Herf's and E. Sims' 72-TET
+notation is a one-off chimera, not useful for other 
+temperaments.  True, alas, and typical of all too many
+xenharmonic notations based on but a single tuning.
+The same could be said of Joseph Yasser's 19-TET 
+notation, etc.
+Overall, the article is refreshing and offers
+excellent insights.  While many of us would quarrel
+with the issue of what constitutes notation, Paul
+appears to have generally succeeded in producing
+a notation flexible enough to accomodate non-weird
+non-oddball equal temperaments below about 53--
+or at least, those which boast good fifths.
+In my judgment the "weird" tunings like 26
+and 19 and 22 and 32 demand entirely separate
+treatment.  Ideally, thse tunings ought to have their
+OWN notations--preferably as distinct as possible
+from any others.
+It seems clear that sharps and flats are most useful
+in those tunings which *sound* as though though they
+have recognizable semitones.  Thus, use of sharps and
+flats in 19 is wilfully perverse--and hellishly confusing
+in 9 or 10.  There may be no way out of this conundrum.
+The issue of ETs without fifths was deftly resolved
+by Augusto Novaro, who simply proposed using
+numbers instead of noteheads on a single staff
+line.
+Incidentally, by proposing a notation for 171-TET
+Paul has also notated the non-octave scale Carlos
+Gamma, since it is audibly identical to every 5th note
+out of 171-TET.
+A much larger issue is the quesion of whether 7 basic
+note-names is or should be the be-all and end-all of
+music notation.  Miller's article "The Magic Number Seven,
+Plus or Minus Two" (J. Psychol., 1956) makes it clear that 
+the human brain can efficaciously process as few as 5
+or as many as 9 different note-names.  Yet there have,
+to date, been almost NO suggestions for eugmenting
+the basic A B C D E F G seven note names by
+including up to two more--say, H and I (NOT to
+be confused with the German H for "B flat").
+There have also been NO discussions whatever
+to my knowledge about 6-note or 8-note modes,
+especially in prime-number ETs.
+(How about it, Mnauel?  Any chance of your 
+writing a computer program to find & list all
+the 5-, 6-, 7-, 8-, and 9-note modes of every 
+
+relatively prime ET with fifths less than 21 
+
+cents away from 3/2, from 5/oct through 53/oct?)
+Why such 12-centric thinking?
+Why must ALL xenharmonic equal temperaments
+employ always and only SEVEN note names?
+Why must ALL xenharmonic musical modes use always
+and only 5 or 7 notes?  
+True, 5 and 7 are relatively prime to 12--and so what?
+6 and 8 and 9 are relatively prime to 19, or 17, or
+29. 
+Why only 5- or 7-note modes when we move outside
+of 12 tones/oct? 
+Why not 6? 
+Why not 8?
+Why not 9?
+Paul will probably take issue with some of
+these points, particularly where music-theory students
+analyzing pieces of xenharmonic music are concerned.
+However, I would point out that so few xenharmonic
+pieces of music have been composed--and so few
+music students have gotten together to analyze them!--
+that to date the issue remains a pie-in-the-sky
+abstraction at best.
+It is entirely possible that xenharmonic composition
+will demand such a schismatic break with the past that
+previous 19th-century notational paradigms must
+be thrown out.  However, we must be wary of such 
+proposals.  John Cage and other foolish folk made 
+similar noises in the 50s about *their* brand
+of foofaraw, and--as the magazine "The Wire" put it 
+so concisely in its November 1995 issue--"John
+Cage's music was intensely theoretical and centered 
+around the cult of personality of John Cage, and as a 
+result most of it is today unlistenable." 
+Claims that "THIS musical revolution requires a COMPLETE
+break with the past!" are perennial, and have never proven
+true.  Thus we must view with the utmost skepticism any such
+pronouncements made on behalf of microtonality.
+For the moment, until this issue is resolved, Paul's article
+ seems an admirable advance in the state of the art of 
+microtonal notation.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 5 Jan 1996 08:43 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id XAA29081; Thu, 4 Jan 1996 23:43:23 -0800
+Date: Thu, 4 Jan 1996 23:43:23 -0800
+Message-Id: <01HZMVBYZ5YA9D7TAS@delphi.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

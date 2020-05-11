@@ -1,0 +1,65 @@
+source file: mills3.txt
+Date: Fri, 12 Dec 1997 14:44:44 +0100
+
+Subject: RE: Oops... back to school for me
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>I've obvioulsly got my hands full with 22, but I noticed the other day
+>that (more or less) the 3/2 +/- 7 cents gives 19 & 22, +/- 5 cents
+>gives 31 & 34 -- two meantone and two commaful temperaments, and that
+>19 + 22 gives 41 and 31 + 34 gives 65, both with a 3/2 less than 0.5
+>cents off just.  What I've heard of 31 never "did" it for me, and I'll
+>have to wait to get Neils new CD to hear 34.
+
+Did you notice this:
+
+The 3/2 in 22TET is off by .1308 degrees.
+The 3/2 in 19TET is off by -.1143 degrees.
+The 3/2 in 41TET (= 19+22) is off by .0165 (= .1308 - .1143) degrees.
+
+I noticed this in 1991. More examples:
+
+The 3/2 in 7TET is off by -.0947 degrees.
+The 3/2 in 5TET is off by .0752 degrees.
+The 3/2 in 12TET (= 5+7) is off by -.0196 (= -.0947 + .0752) degrees.
+
+In 27TET, the 3/2 is off by .2060 degrees, and the 5/4 is off by .3079
+degrees.
+In 26TET, the 3/2 is off by -.2090 degrees and the 5/4 is off by -.3701
+degrees.
+In 53TET (= 26+27), the 3/2 is off by -.0030 (= .2060 - .2090) degrees,
+and the 5/4 is off by -.0622 (= .3079 - .3701) degrees.
+
+53 is also 31+22, 34+19, and 41+12, which shows that the errors in these
+pairs of tunings are nearly equal and opposite when measured in degrees
+of the tuning.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  alves@orion.ac.hmc.edu (Bill Alves) 
+Subject:  Re: 22-tone equal, reply to Ehrlich
+PostedDate:  12-12-97 19:56:33
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-12-97 19:54:37-12-12-97 19:54:38,12-12-97 19:54:21-12-12-97 19:54:21
+DeliveredDate:  12-12-97 19:54:21
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656B.0067DDBB; Fri, 12 Dec 1997 19:56:26 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14029; Fri, 12 Dec 1997 19:56:33 +0100
+Date: Fri, 12 Dec 1997 19:56:33 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA13430
+Received: (qmail 4000 invoked from network); 12 Dec 1997 10:56:29 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Dec 1997 10:56:29 -0800
+Message-Id: <v01510101b0b6c39e394b@[134.173.37.15]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

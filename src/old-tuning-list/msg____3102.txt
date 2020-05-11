@@ -1,0 +1,34 @@
+source file: mills2.txt
+Date: Fri, 21 Jun 1996 15:28:22 -0700
+
+Subject: Self-Similar scales correction
+
+From: John Chalmers <non12@deltanet.com>
+
+I need to make a correction to the note I posted this AM about
+Self-Similar scales. The iterated type of Brian McLaren's that
+I discussed is not octave limited, but rather, is bounded
+by the generating relation itself.  In his paper "The Uses
+and Characteristics of Non-Just Non-Equal-Tempered Scales,"
+1993. XH15:27-41, he generates one class of such scales 
+by taking a number (e, pi, etc.) converting it to cents
+(1200*log(N)/log(2)) and sequentially dividing the cent
+values by the original number. If pi is chosen, the initial
+value is approximately 1982 cents, then 631, 201, etc. as each 
+term is divided by pi. He did not consider more than one such
+cycle, that is adding multiples of 1982 to these numbers.
+
+
+--John
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 22 Jun 1996 20:24 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA00357; Sat, 22 Jun 1996 11:24:49 -0700
+Date: Sat, 22 Jun 1996 11:24:49 -0700
+Message-Id: <Pine.SCO.3.91.960622112214.10122A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

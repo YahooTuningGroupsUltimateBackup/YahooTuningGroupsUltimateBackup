@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Mon, 16 Dec 1996 03:09:26 -0800
+
+Subject: Re: Harrison Lucy
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Daniel wrote:
+
+> From what I have read, Lucy's own descriptions of ''his scale'' are
+> deficient in many points, both mathematical and musical. His insistance
+> that his scale has something to do with _pi_ is almost as perplexing as his
+> failure to recognize that it has a lot to do with _phi_, ....
+
+No it has. Harrison's major third is equal to 2^(1/pi) or 381.9719 cents.
+The whole discussion started on 29-OCT-1994.
+
+> Erv Wilson has pointed out that the reason tunings like these (Harrison,
+> Lucy) are so pleasant despite the poor fifths is that the triads produce
+> first order difference tones that are scale members. 
+
+The difference tones in Harrison's scale are not exactly on the mark.
+A-C: 1.6030037 Hertz, 96.1802225 beats/min.
+C-E: 3.2766052 Hertz, 196.5963142 beats/min.
+ratio: 2.044041
+I haven't read the article but I can get the reference if anyone wants it.
+There is also something in Barbour's "Tuning and Temperament".
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 16 Dec 1996 18:22 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05810; Mon, 16 Dec 1996 18:24:45 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA05807
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA22786; Mon, 16 Dec 1996 09:24:41 -0800
+Date: Mon, 16 Dec 1996 09:24:41 -0800
+Message-Id: <199612161715.KAA05637@freenet.uchsc.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

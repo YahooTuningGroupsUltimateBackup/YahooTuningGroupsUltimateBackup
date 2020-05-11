@@ -1,0 +1,29 @@
+source file: m1442.txt
+Date: Tue, 9 Jun 1998 19:31:53 -0500
+
+Subject: Re: TUNING digest 1441
+
+From: "jloffink" <jloffink@pdq.net>
+
+> I think I'm in agreement with this.  But, (like Gary?) I'm not 
+> clear about the distinction between 'full keyboard scales' and 
+> 'octave scales': 
+> 
+I will change the description at the web site to "12 note octave scales" to
+clear up any confusion.
+
+> (3) Pitch assignation to a user definable keyboard zone - for example 
+> - select a zone of 34 consecutive keyboard notes, and assign each 
+> keyboard key a pitch value (ET or not) relative to 1/1 in that zone 
+> (normally in an ascending scale, but not necessarily).  Then tell the 
+> machine to automatically assign that 34 key tuning scheme into the 
+> next octave either (for example) at the 35th key above or at the 36th 
+> key above and below.  (I don't suppose the latter exists yet).   
+> 
+Most Ensoniq's have an "extrapolate" function that creates a scale in this
+manner and compiles it to the full keyboard tuning.  I think that's the
+best way rather than having some third method of storing scales, if that's
+what you're suggesting.
+
+John Loffink
+jloffink@pdq.net

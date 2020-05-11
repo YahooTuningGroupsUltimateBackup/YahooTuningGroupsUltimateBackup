@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Fri, 27 Oct 1995 19:19:21 -0700
+
+Subject: 88CET #23:  Traditional/Nontraditional Bridges
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Finding chords to bridge smoothly between traditional and nontraditional
+chords by stepwise movement of parts proves more difficult than at first meets
+the eye.  The reason is that the basic building blocks of 88CET traditional
+harmony, such as sixths and tenths, are far away from the building blocks of
+nontraditional harmony, notably subminor, neutral, and supramajor thirds.  
+
+   Adding a part to the harmony can sometimes help.  For example, consider a
+wide-voiced major chord, like what in traditional notation would be E up to C up
+to G.  An equivalent-sonority chord in 88CET would be notated D up to C up to A.
+You can immediately create a nontraditional sound by injecting an additional
+note between chord tones to form supramajor or neutral thirds with the original
+parts.  For example, adding an G and an Eb to form D G C Eb A produces a very
+nontraditional chord to say the least.  
+
+   But there are some nontraditional intervals within a stepwise-motion's
+distance of traditional intervals.  For example, consider tritone resolution,
+one of the most basic cadential effects in traditional harmony.  Diminished
+fifths traditionally either resolve inward to thirds, and augmented forths
+outward to sixths.  In 88CET, tritones do resolve outward to traditional sixths,
+but to nontraditional thirds.  Here are some examples of how this can be
+exploited:
+               Traditional                Nontraditional
+               Resolution:                 Progression:
+
+                       A                    G
+                G                                   F# (SM3)
+           (TT)          (m6)          (TT)         C#
+                C                           C
+                       B                               (sm7)
+          (sm7)          (M6)         (sm7)         C#
+                C      C                    C
+
+              dom7   major                dom7     new
+
+   Of course leaps are always an option, especially since in transitioning to
+nontraditional harmony, you're beginning to toss traditional part-writing
+notions out the window.  But as in traditional music, too much leaping breaks
+the flow of the counterpoint and harmony.  Although there's nothing inherently
+wrong with breaking that flow, it can obscure the surprise or oddness of a
+transition to nontraditional harmony.  This harkens back to the notion of
+"relativistic voice-leading":   When everything seems "normal" and your
+progression all flow normally, people expect all of the chords you play to sound
+normal.  When they turn out unusual, you have a powerful effect.  When the flow
+breaks, all bets are off, so there's less surprise.  But when a seemingly normal
+collapsing tritone produces something strange, you'll get your audience's
+attention!  
+
+   There are many other possible smooth transitions from traditional to
+nontraditional.  Your best bet in locating them is through experimentation.  In
+particular, start with a traditional chord structure, and then resolve one or
+more of the tendency tones in the wrong direction.  Many of these also work
+great in retrograde as transitions from nontraditional to traditional.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 28 Oct 1995 05:38 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id UAA17136; Fri, 27 Oct 1995 20:38:10 -0700
+Date: Fri, 27 Oct 1995 20:38:10 -0700
+Message-Id: <951027233718_78428733@mail02.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

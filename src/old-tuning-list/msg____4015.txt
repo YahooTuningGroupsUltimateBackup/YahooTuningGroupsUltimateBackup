@@ -1,0 +1,454 @@
+source file: mills2.txt
+Date: Thu, 14 Nov 1996 09:00:53 -0800
+
+Subject: Post from Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Technology drives tuning
+--
+Having made this claim, it behooves me
+to offer proof.
+We read in Boethius that Pythagoras
+discovered the relationship of fifth
+and octave by listening to a blacksmith's
+hammers.  The weights of the hammers
+purportedly produced different pitches
+when the blacksmith smote the anvil.
+This is of course pure fantasy.  Hammers
+of different weights striking an anvil
+give off the same tone at different
+volumes.  It is the bell, not the clapper,
+which produces a tone, and the pitch of
+the tone is not determined by the mass
+of the clapper but by the mass and
+shape of the bell. (Bells have recently
+been designed by computer to sound a
+major chord rather than a minor chord.)
+In any case, simply doubling the weight
+which hangs at the end of a string would
+produce a pitch in the ratio of 1.414 to the
+original note (Pythagoras was supposed to
+have rushed home and performed this
+experiment; obviously he did not, nor
+did Boethius. Galileo's father did, and
+published the results.).  Doubling anvil weights
+produces an interval not of an octave but
+a tritone. As it happens, vibrating metal
+bars behave differently from strings, and
+so the tale about Pythagoras is a myth.
+However, this tall tale shows pretty clearly
+the level of technology available in classical
+Greece.  Pythagoras didn't rush home and
+try out his theory on a keyboard instrument
+or a  zither with 88 different strings at
+high tension because the Greeks didn't have
+the technology to build such instruments.
+For one thing, you have to know a good deal
+about metallurgy to produce tough wires as
+would be needed in a harpsichord or zither or 
+piano; for another, the Greeks didn't have
+the technology to machine metal as is
+required to produce metal screws, iron
+frameworks for pianos, etc.
+What sort of intonation system is most
+appropriate for a technology limited to
+lyres with only a few gut strings and
+some wind instruments?
+Because gut changes its tension with
+humidity and because it must be kept at
+low tension lest the gut strings break,
+the intonation best suited for such 
+technology would use only the simplest
+and most obvious members of the harmonic
+series.  Plucked gut strings produce harmonic
+series timbres, so the second and third
+members of the harmonic series would be
+most useful in tuning such instruments. 
+Because of the extremely low tension of
+a tortoise-shell lyre (try and add a lot of
+strings or tune them to high tension and 
+either the back of the lyre will collapse
+or the gut strings will snap), the sounds
+will be faint and only the very lowest
+harmonics will be audible.  The 5th 
+harmonic and higher harmonics would
+probably have been extremely faint on
+a plucked gut string, too faint to tune
+to.
+Thus the technology of classical Greek
+music lent itself primarily to Pythagorean
+tuning.
+The tuning of auloi is not so limited; however,
+it remains unclear what the Greek auloi were.
+Some authors claim they were similar to
+oboes, in which case they would demand
+a tremendous amount of air.  Other authors
+claims the Greek auloi were more flute-like,
+in which case the sound would have been much
+louder and the players less sorely taxed.
+However, even today it's impossible to calculate
+precisely the position of tone holes for simple
+wood instruments theoretically; the theory
+never matches the actual position.  In classical
+times, the position of tone holes would have
+been a matter of guesstimation, and this
+would have necessarily limited the intonational
+complexity of Greek auloi.
+Net result? 
+Pythagorean tuning was a technological
+necessity for the Greeks, as it was for
+the bablyonians and the Sumerians.  These
+latter recorded a Pythagorean tuning on
+tablet U7/80 (Side 2) in the British Museum; it
+is almost certain that the tall tales about
+Pythagoras mask an intonational tradition
+which drifted from the older civilizations
+of Egypt and the Euphrates valley to the
+newer civilizations of the Mediterranean.
+--  
+Inventions were common in the classical
+era of ancient Greece: Ktesibos of Alexandria
+build a device to produce "intermittant bird
+song" around 270 B.C. It worked by regulating
+the flow of water into a closed chamber.
+But such devices were very limited in their
+musical utility because the air pressure was
+low and so the "bird songs" would have
+been extremely faint--and when the chamber
+designed to catch the streamof water filled 
+up, the sound would have stopped.
+Ktesibos solved this problem by using a
+double-barreled water pump he had devised
+to fight fires--he modified this pump
+to create a continuous source of compressed
+air.  The roman author Hero reports around
+the first century B.C. that Ktesibos used
+three components to  build his hydraulis
+(water organ): a single-cylinder air pump,
+a large cistern filled with water, and a smaller
+vessel attached to the bottom of the cistern
+to act as a regulator to keep constant the rate of
+flow of water out of the cistern.
+This organ used sliders moving in and out
+of slots below each pipe; the sliders
+were controlled by the keys of the keyboard
+and when a player pressed a key, the hole
+in the slider aligned with the opening in
+the corresponding pipe.  By spring action, the
+keys recoiled, dragging each slider back to
+its closed position.
+Notice several problems with this organ.
+First, it must have required at least as
+much force to depress a key as would
+be required to drag each slider back into
+its closed position.  Second, the organ
+can play only as long as the cistern 
+contains water.  Third, the size of the
+cistern and its height determine 
+the maximum available air pressure and thus
+the total number of pipes and the maximum
+volume of the sound.  But the biggest
+problem is that as more and more keys
+were depressed, the air pressure would
+drop because the regulator at the bottom
+of the cistern would prohibit water from
+flowing at more than a certain maximum
+rate from the reservoir.  This means that
+if more than one key was depressed, the
+overall air pressure of the organ would
+drop and the overall pitch of all notes
+would fall.  It would not have been
+possible to remedy this by eliminating
+the regulator, since its purpose is to
+maintain even air pressure--otherwise
+there would initially be high air pressure
+as a great mass of water started to 
+press down on the pump at the start
+and the air pressure would continually
+fall as the mass of water in the 
+cistern continually lessened.
+Thus Ktesibos' organ would not have
+been useful for performing with other
+instruments, since its pitch changed
+as more keys were depressed. Also,
+it could only play for a short time,
+and the creaking of the wooden pump
+and the burble of water pouring out
+of the cistern would have made the
+instrument hard to hear.
+As a result, the hydraulis was only
+a novelty item.  Even so it impressed
+contemporaries: Athenaeus describes
+a feast at which the hydraulis was
+discussed: "The sound of the hydraulis
+was heard close by.  So pleasant and 
+charming was it that we all turned 
+towards the sound, fascinating by the
+harmony."
+The reaction here hints at the surprise
+and shock Alexandrian citizens must
+have felt at hearing sustained chords.
+This was clearly alien to their experience.
+It is reasonable to assume that the 
+hydraulis used Pythagorean intonation;
+remember that the pitch changes as
+more keys are depressed.  This would make
+an elaborate tuning system very hard
+to tune up. Even Pythagorean was probably
+only roughly approximated on such organs.
+The Romans used such instruments at
+the arena; the oldest archaeological remains
+of an organ were unearthed at Aquincum
+(near currest-day Budapest), dedicated
+in A.D. 228 to the college of weavers there.
+Having listened to the hydraulis, the 
+Pythagorean Philolaus proclaimed: "The
+nature of number and harmony admits
+no falsehood... But in fact number, fitting
+all things into the soul through
+sense-perception makes them recognizable
+and comparable with one another."
+This is a fine statement of the 
+Pythagorean conception of the universe as
+an expression of pure theoretical math.
+Music was unpopular with the early 
+leaders of Christianity. Divine revelation
+was preferred to the study of nature.
+Early Christian thinkers did not have
+much interest in the application of
+logic and the study of physical evidence
+(an attitude represented on this forum
+by Greg Taylor); instead, they preferred 
+the mystic contemplation of sacred verse, 
+from which music proved an unwanted 
+distraction.
+Saint Augustine wrote in the early 5th
+century that he found music in any form
+suspect, but allowed as how "now when 
+I hear sung in a sweet and well-trained
+voice those mleodies...I do, I confess,
+feel a pleasurable relaxation. But this
+bodily pleasure to which the mind should
+not succumb without enervation, often
+deceives me.... In these matters I sin
+without realizing it." 
+The message is clear: to the early
+Christians, beautiful music was a sin.
+(This is an attitude remarkably similar
+to that of many academic music theorists
+of the modern day.)
+--
+The first organ to reach Western Europe
+after the sack of Rome in 476 was a
+gift from the Byzantine emperor 
+Constantine V to the Frankish king
+Pepin in the year 757. The gift
+excited amazement because its like
+had not been seen for hundreds of 
+years--a clear indication of how
+much knowledge and scientific
+thought could be lost forgotten and
+how badly the capacity for clear
+thinking could erode during the
+Dark Ages (a fate which awaits us
+all if we follow the prescriptions
+of the Eric Lyons and the Greg Taylors
+of the world).
+Ermold le Noir wrote an epic in which
+he proclaimed "Even the organ, never
+yet seen in France, which was the 
+overweening pride of Greece and which
+in Constantinople was the sole reason
+for them to feel superior to us--even 
+that is now in the palace of Aix."
+The organ was slowly transformed
+into an engine of divine worship in
+the churches--this took a while, given
+the attitude of Augustine: "Whatever
+knowledge man has acquired outside
+of Holy Writ, if it be harmful it is there
+condemned; if it be wholesome, it is
+there contained." (An attitude remarkably
+similar to that of contemporary music
+professors, save that their Holy Writ is
+Schoenberg's "Harmonielehre" and John
+Cage's "Silence.")
+Organs were increasingly optimized for
+volume. By the 990s this led to what
+Wulstan described as "Like Thunder,
+the strident voice assails the ear,
+shutting out all other sounds than its
+own; such are its reverberations,
+echoing here and there, that each man
+lifts his hands to stop his ears, unable
+as he drawn hear to tolerate the roaring
+of so many different and noisy combinations."
+Clearly volume came at the price of
+intonational precision--the "noisy 
+combinations" surely describe the
+effect of an unsteady air-flow on
+the pitches of the individual pipes.
+This organ (like most around the 900s)
+ did not seem to have been
+used for music so much as to amaze
+and shock the crowd and entice them
+into attending church services.
+By the 12th century, organs had been
+accepted into the church in a feat of
+intellectual jiu-jitsu similar to
+Thomas Aquinas' introduction of
+Aristotle.  By this time the organs
+clearly had worked up high air
+pressure, though the steadiness
+of their intonation was probably
+still poor: Saint Aelred, abbot at
+Rievaulx in Yorkshire, wrote
+"What use, pray is this terrifying
+blast from the bellows that is 
+better suited to imitate the noise
+of thunder than the sweetness of the
+human voice..."  
+This quote indicates that the organs
+were now using bellows--in fact
+banks of them, one for each pipe,
+with serfs treading on them in time
+to the music.  This would have greatly
+increased air pressure, but it required
+the serfs to tread in lockstep and more
+to the point the air pressure would still
+change over the course of a note as the
+bellows emptied.  The initial higher
+air pressure would, ironically, have
+produced a more drastic drop in the
+pitch of each note while it sounded.
+Moreover, the notes could not sound
+for a very long time--only as long
+as it took the bellows feeding air to
+that pipe to empty.
+The overall effect would have been
+of a set of notes which dropped in
+pitch as they were sounded and
+which would have had to be played
+in strict robotic meter; however,
+the problem of polyphony changing
+the overall pitch of the organ had
+been solved, and the organs of the
+12th century would have sounded much
+louder than that of Ktesibos.
+Moreover, these 12th-century organs
+still didn't have keyboards.  They
+were played by ramming blocks of
+wood forward and back to open up
+and cut off the flow of air into each
+pipe.  Given the size of the pipes,
+this would have been a real workout.
+Some time between the 11th century
+and the 14th century, true keyboards
+appeared.  These were spring-loaded,
+like Ktesibos' keys.  They still had
+to be bashed with the fist--but they
+could now be played more musically.
+Given the persistent problems
+with changing pitch and lack of any
+kind of real keyboard,  Pythagorean
+intonation was still used into the 
+12th century according to the organ-
+building manuals of that period--even 
+though modern keyboards had started
+to evolve.
+However, by the 14th century small
+portable foot-pumped organs were
+starting to appear. Henri Arnaut 
+published the best suriviving text
+on building medieval organs in
+1450; around this time the single
+greatest innovation in musical
+technology between 100 B.C. and
+1800 A.D. was introduced--the
+multiple-chamber bellows.
+Water-operated organs were clumsy
+because they demanded a source of
+water and they could only play for
+a limited time; bellows were better
+because they could be pumped relatively
+silently (I've played some of these
+portatives and you can't hear the
+bellows).  
+Adding a second chamber onto the bellows
+produced constant air pressure.  The 
+second inner chamber of the bellows had
+an aperature into which air could be forced
+but could exit except through the organ pipes.
+Thus, even though the pressure of the primary
+bellows constantly changed as it was pumped,
+the secondary chamber maintained a relatively
+constant air flow.
+Around this time Napier also introduced the
+logarithm, making possible calculations which
+treated musical intervals as portions of the
+octave which could be added and subtracted 
+rather than as messy complex grade-school
+fractions which had to be multiplied and
+divided. 
+These two advances had an explosive impact
+on intonation.
+Within a few generations of the late 1400s,
+the Pythagorean intonation was no longer
+in widespread use (though it was still taught
+in music theory--much as 12-TET is still
+universally taught today even thought modern
+composers are using it less and less).  Organs
+with large numbers of pipes became common.
+Moreover, serfs no longer needed to tread in
+strict time on sets of bellows.  By adding
+a secondary chamber, all the pipes could be
+connected to a single bellows and as long
+as it was large enough, the air pressure
+would be sufficient that no matter how
+many keys were depressed (within some
+reasonable limit) the overall air pressure
+inside the inner chamber (after the
+secondary bellows) wouldn't change.
+This not only allowed composers
+and performers to explore much wilder
+and less regular rhythms, it also allowed
+more elaborate intonational schemes
+than 3-limit just, and it made possible
+the exploration of complex polyphony
+with many notes of stable pitch 
+sounding all at once.
+With more notes available on the organ
+keyboard, the possibility of modulation
+is correspondingly greater.  Between
+the early 1500s and the middle 1700s
+this increasing use of modulation by
+composers would have made various
+meantone systems particularly popular.
+Indeed, Mark LIndley claims that the
+early English virginal piece "Ut, Re,
+Mi, Fa, Sol, La" by John Bull (written
+in the late 1500s) used 1/3-comma
+meantone.  Bull was a wild-eyed
+avant garde composer, the Stockhausen
+of his time, and this sounds reasonable
+given Bull's penchant for pushing the
+outside of the musical envelope.
+The next post concludes this examination
+of technology's effect on tuning.
+--mclaren
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 14 Nov 1996 18:24 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08898; Thu, 14 Nov 1996 18:25:54 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA08919
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA08110; Thu, 14 Nov 1996 09:25:47 -0800
+Date: Thu, 14 Nov 1996 09:25:47 -0800
+Message-Id: <83961114165538/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

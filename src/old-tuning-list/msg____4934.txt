@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Sat, 1 Mar 1997 07:29:29 -0800
+
+Subject: Re: Reply to Matt Nathan
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>The diatonic symbol ii is a case of
+>confounded rational structures however.
+
+No, rational structures are a case of confounded diatonic theory.
+
+>There are at
+>least two distinct rational structures which suffer
+>lossy compression in a diatonic assumption and get
+>lumped under "ii". You can sometimes tell by context which
+>of these is being implied. The ii chord can function
+>in context as either the relative minor of IV, which comes
+>from the rational structure n/4 n/5 n/6 where n is 5/3,
+>or as the secondary v (minor) of V, which comes from the
+>rational structure n/4 n/5 n/6 where n is 27/16.
+
+The ii chord must often be both or neither. In a I-ii-I progression (common 
+in popular music), it is definitely neither. Rational structures fail in 
+these cases.
+
+Here, Matt, I wrote a piece where the chord progression is 
+I-IV-ii-V-I-IV-ii-V-(ad infinitum). Analyze this piece in Just Intonation. 
+How many pitches are implied here? When does the piece return to the home 
+key? Are these results going to make any sense for musicians and composers 
+working in a meantone temperament (including 12-tET)? Do your 
+interpretations have any psychoacoustical manifestations? If not, I maintain 
+it's nothing more than playing with numbers. Composing in Just Intonation, 
+on the other hand, is a valid enterprise and I have no objection to trying 
+to produce diatonic structures in JI. Doing so requires extra care, however.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 1 Mar 1997 16:32 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01445; Sat, 1 Mar 1997 16:32:11 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01437
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id HAA13521; Sat, 1 Mar 1997 07:30:25 -0800
+Date: Sat, 1 Mar 1997 07:30:25 -0800
+Message-Id: <009B09E5B06E437A.582E@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

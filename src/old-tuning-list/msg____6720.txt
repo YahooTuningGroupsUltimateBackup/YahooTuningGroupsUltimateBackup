@@ -1,0 +1,55 @@
+source file: mills3.txt
+Date: Fri, 19 Dec 1997 19:10:08 +0100
+
+Subject: Limit
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>}>In each series below, each term represents the number of notes in the
+>}>simplest equal temperament that improves upon the accuracy of the
+>}>previous one. Tunings in parentheses are the second-best for up to that
+>}>many notes. I don't go beyond 200TET. Accuracy is defined with respect
+>}>to JI in the indicated odd limit; equal temperaments not consistent
+>}>within the given limit are excluded.
+>
+>}This chart ROCKS!  Could you tell us more about how you define "limit"?
+>
+>Limit can refer either to a standard of consonance or the design of a just
+>tuning system. In the latter usage, a prime number characterizes the largest
+>prime number occuring as a factor in any of the just ratios. When referring
+>to a standard of consonance, it usually refers to the largest ODD factor in
+>all the ratios considered consonant. Partch usually used it in this way, as
+>he subscribed to a fairly strong form of octave equivalence. As it happens,
+>Partch's music can be called 11-limit using both definitions. I was using the
+>standard of consonance definition in this chart. I have already posted on
+>consistency, otonal limit, utonal limit, and saturated chords; unfortunately
+>I don't think an archive exists for the last two years of the digest.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Johnny Reinhard <reinhard@IDT.NET>
+Subject:  Re: My Friends the Aliens
+PostedDate:  19-12-97 19:12:31
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  19-12-97 19:10:23-19-12-97 19:10:23,19-12-97 19:09:59-19-12-97 19:10:00
+DeliveredDate:  19-12-97 19:10:00
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256572.0063D22B; Fri, 19 Dec 1997 19:12:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19893; Fri, 19 Dec 1997 19:12:31 +0100
+Date: Fri, 19 Dec 1997 19:12:31 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA19849
+Received: (qmail 12624 invoked from network); 19 Dec 1997 09:54:02 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 Dec 1997 09:54:02 -0800
+Message-Id: <Pine.GSO.3.95.971219093630.8394A-100000@u1.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,34 @@
+source file: mills2.txt
+Date: Fri, 23 May 1997 16:54:10 +0200
+
+Subject: RE: pure?
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+SPurman554@aol.com writes:
+> Based on the C major scale in
+> 12TET, how should each note be tuned to most closely approximate a pure JI
+> tuning? Below is a tuning I found in a book:
+
+Gary's guess is almost right, the scale he gave is Ellis's Duodene.
+The one from your book is 135/128 9/8 6/5 5/4 4/3 45/32 3/2 8/5 5/3
+9/5 15/8 2/1 but I've never seen it before. The only difference is the
+C# of 135/128, flat by a diaschisma from 16/15. 
+If you transpose the scale by a fifth and then take the octave 
+inverse, you get a lute tuning from Mersenne.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 23 May 1997 22:07 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08874; Fri, 23 May 1997 22:07:31 +0200
+Date: Fri, 23 May 1997 22:07:31 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA08879
+Received: (qmail 17362 invoked from network); 23 May 1997 20:07:21 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 May 1997 20:07:21 -0000
+Message-Id: <33856C00@fsdsmtpgw.fsd.jhuapl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

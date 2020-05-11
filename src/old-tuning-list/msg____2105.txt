@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Sat, 7 Oct 1995 18:25:50 -0700
+
+Subject: 88CET #17:  Voice Spacing in Counterpoint
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+In nonoctave tunings, chord-tone spacing is no longer independent of chord
+quality (sonority).  In 88CET, you can't, for example, have a subminor triad
+spanning more than an octave, or a major triad spanning less than an octave.
+The subminor third is only available within the first octave's span, and the
+major third is only available in the second-octave's span as a major tenth.  
+
+   What does this mean to a composer, other than the obvious fact that you have
+to plan spacing and quality each in light of the other?  Does this pose
+problems?  Certainly it can complicate some situations.  For example in
+chorale-like, first-species counterpoint (and thus in a lot of small ensemble
+compositions) you usually want most voices to move in small, smooth steps.
+Suppose that all voices are closely spaced, forming a subminor triad.  It would
+clearly be impossible to expand that subminor chord in small step-wise motion to
+a major chord.  
+
+   Still, that certainly doesn't prevent you from presenting the essential
+sonority of a subminor chord moving to a major chord.  First of all, adding a
+bass note at a fifth below the root of the subminor triad, doesn't change the
+essential sonority of that triad very much.  That chord would then span over a
+range of a major ninth, which can expand step-wise to a major tenth.  The root
+of that subminor chord could even be a common tone between the two chords.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 8 Oct 1995 07:58 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA24971; Sat, 7 Oct 1995 22:58:14 -0700
+Date: Sat, 7 Oct 1995 22:58:14 -0700
+Message-Id: <01HW6IGUQNWY921T88@delphi.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

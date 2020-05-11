@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Fri, 11 Oct 1996 17:05:09 -0700
+
+Subject: Stahnke's tuning
+
+From: John Chalmers <non12@deltanet.com>
+
+Re Tuning Digest 861 and Georg Hajdu's post:
+
+The synthesizer tuning of Manfred Stanhke's "Partch Harp" appears 
+to be  audibly equivalent to the 14th root of 35/16. The 12th root of 
+1.9560685 is 96.795689 cents and the 14th root of 35/16 is 96.795687 
+cents to the precision of my hand calculator. It's no wonder that the 
+5/4 and 7/4 are closely approximated by this non-octaval tuning. The 
+interval 1.9560685/1 has 1161.54827 cents, about 30 31sts of a 2/1 
+(1 degree of 31-tet flat). 
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 12 Oct 1996 02:05 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14975; Sat, 12 Oct 1996 02:07:13 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA14836
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id RAA10432; Fri, 11 Oct 1996 17:07:10 -0700
+Date: Fri, 11 Oct 1996 17:07:10 -0700
+Message-Id: <B19ZWNGLS509*/R=UCVAX/R=A1/U=WATHENMJ/@MHS>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

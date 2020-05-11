@@ -1,0 +1,14 @@
+source file: m1399.txt
+Date: Wed, 29 Apr 1998 06:23:10 -0500 (CDT)
+
+Subject: Re: Brass Spectra
+
+From: mr88cet@texas.net (Gary Morrison)
+
+Oh, one other curious thing about brasses, is that their waveforms
+(i.e., in the time domain) generally have a tall spike in them.  That
+probably means that the partials are pretty much in phase with one another.
+Sums of cosine waves at whatever amplitude will produce such a spike.
+
+   So it's very easy for a brass instrument to peak a VU meter even if
+their audible volume isn't as loud as would seem necessary to peak the VU.

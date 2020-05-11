@@ -1,0 +1,80 @@
+source file: mills2.txt
+Date: Wed, 8 Jan 1997 10:29:14 -0800
+
+Subject: Re: mod groups & rhythm
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+PAULE wrote:
+ 
+> >[Matt Nathan]
+> >I forget which of the mainstream music newsmagazines
+> >lists the tempos of the most popular dance tracks in fractions of beats per
+> >minute, like mm 125.2, so other musicians, and DJ's, etc. can tune in to
+> the
+> >narrow bands of most-fashionable tempos that people are responding to. A
+> >tempo difference of 125/124 can apparently affect the popularity of a tune.
+> 
+> Er, I don't think so. Dance club DJ's like to "mix" different tunes together
+> and segue from one to another without disturbing the beat. They speed up or
+> slow down their turntables by considerably larger fractions than 125/124 to
+> do this.
+
+Ah, but they do this to bring the tunes to within the critical tempo bands
+that the dancers in their clubs prefer! :) Do a test yourself, like I did,
+and listen to the local rap/urban/house/dance music station with a metronome 
+and write down the tempo of each tune that comes along. You'll see that they 
+fall into about 3 separate narrow bands, separated by wide bands in which
+no tunes are played, something like the emission bands given off by elements 
+in a flame, if I might be so analogistic.
+
+> >The problem with tempered rhythms is in their combination. Tempered
+> triplets
+> >say
+> >would drift if played against quarter notes; they wouldn't line up at the
+> >measure length. If this is what you want, then cool. An irrationally
+> related
+> >duration set could give a nice effect of non-groundedness while retaining
+> >self consistency.
+> 
+> One wouldn't necessarily have to keep the 3-against-2 going for long enough
+> to hear the phase drift at each modulation. In fact, one could just switch
+> to triplets suddenly, and later establish the basic pulse as an even number
+> of these notes, without any drift occuring.
+
+You might as well use real triplets or n-plets for each base tempo, and temper
+only the relationships between base tempos when modulating. 
+
+On a related anecdote, I often hear drummers on recordings and those who 
+I play with live speed up when they play fills involving faster notes.
+It's only the really good drummers who keep comfortably consistent
+time no matter what rhythmic octave they are playing in. 
+
+Another anecdote, someone once wrote to me about the possibility of a software 
+module to process a quantized midi file to slow down the tempo at 
+parts where a real pianist would have to move one or both hands far across
+the keyboard, the amount of slowing depending on the distance traversed,
+to make the track more human-sounding.
+
+There's also that process where you delay each note by a small amount relative
+to the volume of the note, since some musicians who use their hands like percussion
+players will bring their hands farther away from the instrument in preparation
+for a harder striking, and take a little longer time to reach the instrument.
+Good players will of course compensate for or avoid this unconcious habit
+
+Matt Nathan
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 8 Jan 1997 19:27 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06012; Wed, 8 Jan 1997 19:30:37 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06005
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA13951; Wed, 8 Jan 1997 10:30:25 -0800
+Date: Wed, 8 Jan 1997 10:30:25 -0800
+Message-Id: <32D3E6A5.2220@ix.netcom.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,136 @@
+source file: mills2.txt
+Date: Thu, 27 Feb 1997 15:03:36 -0800
+
+Subject: Aristoxenus
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Paul Erlich (message sent via Manuel Op de Coul) wrote:
+
+> Amazing how my posts are continually misunderstood. I wrote,
+> 
+> >> In particular, would some mathematician not have interpreted
+> >>Aristoxenus' ideas in terms of the twelfth root of two?
+> 
+> Why does that lead people to argue that Aristoxenus did not advocate 
+> equal temperament? Of course he did not. The idea of irrational 
+> numbers was too repugnant to the ancient Greeks. Aristoxenus just 
+> described what he heard, and a different mathematical mindset may 
+> have led to different interpretations of his descriptions. As these 
+> descriptions were self-contradictory, it seems useless to try to 
+> figure out what Aristoxenus "actually meant" in mathematical terms; 
+> however, this didn't prevent ancient Greeks or 16th century 
+> theorists from doing just that.
+
+I see what Paul means here, but I misinterpreted him to the extent 
+that I thought he himself subscribed to the view that Aristoxenus 
+implicitly described 12TET. However my misinterpretation ends there, 
+and there was much more to my reply. I'll explain why I'm not 
+satisfied with the above:
+
+First, as Dan Wolf was quick to point out, the Greeks, from Pythagoras 
+onwards certainly did not despise/ignore/try to remain in ignorance of 
+irrational numbers. Prior to Pythagoras's theorem, they did indeed 
+hold to a theory of proportion which required, for example, that the 
+three sides of a right-angled triangle must always be rationally 
+related. Pythagoras showed that this was not a necessary truth, by 
+proving that the square root of 2 was irrational; since, for example, 
+if take each of the other two sides of an isoceles right-angled 
+triangle to be one unit in length, then by the theorem, then 2^(1/2) 
+is the length of the hypoteneuse, the proof that the latter bore no 
+rational relation to the other sides demolished the older Greek theory 
+of proportions. Here is the proof traditionally ascribed to Pythagoras 
+(I'll flesh it out considerably):
+
+If 2^(1/2) is rational then we can express it in the form a/b, where a 
+and b are relatively prime integers (i.e. they have no common 
+denominator higher than 1). Every ratio of two integers can be reduced 
+to this canonical lowest form, so if 2^(1/2) is rational, it must also 
+be expressible in such a form. Thus since a/b 2^(1/2)
+
+                         a (2^(1/2) * b
+
+Squaring each side, we obtain
+
+                          a^2 2(b^2)
+
+If 2^(1/2) is indeed rational, then this equation must be soluble for 
+relatively prime integers a and b.
+
+Now from the equation we see that since a^2 equals a multiple of 2, 
+a^2 must be even, and therefore a is itself even, i.e. there is a c 
+such that a 2c. Hence
+
+                      4(c^2) 2(b^2).
+
+Dividing both sides by two we obtain
+
+                      2(c^2) b^2
+
+But then b is also even, and so a and b are both divisible by 2. But 
+this is a contradiction, since a and b are relatively prime, and thus 
+have no common divisor higher than 1. Since there are no solutions to 
+the equation a^2 2(b^2) for any relatively prime integers a and b, 
+2^(1/2) cannot be expressed as such a ratio, a/b, and therefore 
+2^(1/2) is an irrational number.
+
+This, of course, was only the beginning of the Greek exploration of 
+irrational numbers, and Dan has listed the most important instances of 
+later Greek mathematicians employing them. But it certainly marked the 
+end of the older Greek theory of proportions. Now if this proof of the 
+irrationality was provided by Pythagoras, or even if it originated 
+from among his followers, its provenance is considerably earlier than 
+Aristoxenus, and centuries earlier than Ptolemy.
+
+It would seem, therefore that Paul cannot credibly call upon any 
+supposed Greek repugnance for irrational numbers in order to explain 
+why Greek mathematicians failed to interpret Aristoxenus in terms of 
+an equal division of the octave. If any such repugnance had existed, 
+it had been swept away before Aristoxenus, and ironically, by the very 
+Pythagorean school to which Paul would ascribe much of the blame.
+
+Secondly, even given that the Greeks, post-Pythagoras, were perfectly 
+well able to conduct their mathematics in areas requiring irrational 
+numbers (I trust Paul is by now convinced of this), I would still 
+contend, contra Paul, that 2^(1/12) is not the irrational number that 
+would have suggested itself in any Greek attempt to revise 
+Aristoxenus. As I said yesterday, Aristoxenus's tunings are presented 
+as divisions specifically of the tetrachord, and not of the octave. If 
+Greek mathematicians or music theorists had wished to find an 
+equal-tempered re-interpretation of Aristoxenus, they would surely 
+have attempted to work out a division of the fourth, and not of the 
+octave. It was only because of the special status that Ptolemy 
+accorded the 2/1, five centuries after Aristoxenus, and his 
+characteristic presentation of Aristoxenus's divisions in the form of 
+an octave spanning the diezeugmenon and meson tetrachords, that we, 
+and Renaissance theorists before us, have forgotten the earlier 
+emphasis (in addition, of course, to our own notions of the primacy of 
+the octave). What any Greek revision of Aristoxenus would require then 
+is something like the model Cleonides derived (uncontroversially) from 
+Aristoxenus, of a fourth divided into 30 parts; our Greek 
+mathematician would then have to extract the 30th root of 4/3, which 
+would mean (for them) the cubic root of the fifth root of 2, divided 
+by the fifth root of the cubic root of the square root of 3, and then 
+try to measure this out for a monochord. Not a very attractive 
+proposition, especially when you have no method for extracting a fifth 
+root! 
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 28 Feb 1997 00:27 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA32369; Fri, 28 Feb 1997 00:27:29 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA32421
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id PAA13440; Thu, 27 Feb 1997 15:25:17 -0800
+Date: Thu, 27 Feb 1997 15:25:17 -0800
+Message-Id: <199702272313.HAA01856@csnt1.cs.ust.hk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

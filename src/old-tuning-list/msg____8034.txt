@@ -1,0 +1,34 @@
+source file: m1443.txt
+Date: Wed, 10 Jun 1998 14:47:30 -0400
+
+Subject: Ensoniq
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>Ah.  Isn't the VFX ultimately sample-based, as opposed to a true
+>from-scratch sort of synthesis, like analog, additive, or FM?
+
+The VFX-SD has something like 100 basic waveforms, and while some are
+sample-based, some are purely synthetic (you've got all your standard
+waveforms here). The Yamaha's synthetic waveforms are interesting but
+could hardly be said to represent more of a "synthesis from scratch"
+philosophy than the VFX.
+
+>Most Ensoniq's have an "extrapolate" function that creates a scale in
+this
+>manner and compiles it to the full keyboard tuning.  I think that's the
+>best way rather than having some third method of storing scales, if
+that's
+>what you're suggesting.
+
+There's also an "interpolate" function which should allow you to program
+any equal tuning as follows: Tune a note N keys above a starting note to
+a pitch an octave (or non-octave) higher than the orignal note,
+interpolate, and then extrapolate. That's all! However, the procedure
+will alter the pitch of the higher note so that all the steps are equal,
+whole numbers of cents (or something like that), which can be very
+annoying. Even worse, the interpolation will sometimes turn inside-out,
+so that the pitches will decrease as one goes up the keyboard from the
+lower note, very low notes giving way to bleeps and blurps near the
+middle of the interpolation zone, and these giving way to some very high
+pitches which decrease until one reaches the higher note.

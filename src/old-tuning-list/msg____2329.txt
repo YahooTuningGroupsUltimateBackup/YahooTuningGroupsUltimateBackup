@@ -1,0 +1,26 @@
+source file: mills2.txt
+Date: Fri, 17 Nov 1995 16:46:15 -0800
+
+Subject: Re: Approximation to Pierce-Bohlen
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Thanks Manuel, for the Pierce-Bohlen ratio approximations.  Good stuff!
+
+   Here's a couple of notes for those of you who might be interested in trying
+it out:  That 15:7 septimal minor ninth (as I've called it from its appearance
+in 88CET) is an interesting-sounding interval.  Also, I'm glad to see that
+Pierce-Bohlen has a 7:3 (septimal subminor tenth) approximation.  That's one
+I've wanted to experiment with for a while now.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 18 Nov 1995 02:48 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA10885; Fri, 17 Nov 1995 16:48:41 -0800
+Date: Fri, 17 Nov 1995 16:48:41 -0800
+Message-Id: <951118004337_71670.2576_HHB45-5@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

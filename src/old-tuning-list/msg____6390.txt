@@ -1,0 +1,48 @@
+source file: mills3.txt
+Date: Wed, 5 Nov 1997 22:34:54 +0100
+
+Subject: RE: Erlich's Theory
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>>I don't have Plomp & Levelt's curve to hand, but I do have Kameoka &
+>>Kuriyagawa's.  The minima don't look much like parabolas to me.
+>
+>Are they pointy, then? Or flattened? If they are round (i.e., finite, nonzero
+>second derivative), then a parabola having the same second derivative as the
+>function itself at the minimum will approximate the function quite closely
+>near that minimum.
+>
+>>A Farey series would be like a Partch even limit, right?
+>
+>The "integer limit" of a ratio (just the larger number) is order of the
+>lowest-order Farey series in which the ratio appears.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  John Starrett <jstarret@tiger.cudenver.edu>
+Subject:  Manfred Schroeder's books
+PostedDate:  05-11-97 22:56:39
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  05-11-97 22:55:29-05-11-97 22:55:29,05-11-97 21:55:52-05-11-97 21:55:52
+DeliveredDate:  05-11-97 21:55:52
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256546.00786E60; Wed, 5 Nov 1997 22:55:25 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03912; Wed, 5 Nov 1997 22:56:39 +0100
+Date: Wed, 5 Nov 1997 22:56:39 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03910
+Received: (qmail 23675 invoked from network); 5 Nov 1997 13:56:35 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 5 Nov 1997 13:56:35 -0800
+Message-Id: <Pine.A32.3.91.971105145326.52538A-100000@tiger.cudenver.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

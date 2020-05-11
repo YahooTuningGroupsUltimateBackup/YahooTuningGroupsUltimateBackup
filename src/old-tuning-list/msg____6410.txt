@@ -1,0 +1,55 @@
+source file: mills3.txt
+Date: Wed, 12 Nov 1997 21:06:18 +0100
+
+Subject: RE: Bucking the system
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>>>    Do the white keys in this keyboard layout form an MOS subset mode?
+>>> Perhaps I'm not trying hard enough, but if so, I can't right off think of
+>>> any generators that would produce a 222221222221 mode.
+>
+>>No, there aren't any.  PaulE's scale consists of two MOS subsets a
+>>half-octave apart.
+>
+>And it is the black keys, not the white keys, that form one of my basic
+>scales, 2222322223. Despite its messed-up state, Gary,  I'd encourage you to
+>have a look at my paper under "Notes on Microtonality" on John Starrett's web
+>page.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Paul Hahn <Paul-Hahn@library.wustl.edu>
+Subject:  RE: Bucking the system
+PostedDate:  12-11-97 11:05:36
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  14-11-97 13:26:26-14-11-97 13:26:27,14-11-97 13:26:40-14-11-97 13:26:41
+DeliveredDate:  14-11-97 13:26:41
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125654F.0044562E; Fri, 14 Nov 1997 13:26:25 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01345; Fri, 14 Nov 1997 13:27:50 +0100
+Received: from ns.NL.net by ns (smtpxd); id XA01343
+Received: by ns.NL.net (5.65b/NLnet1.3)
+	id AA26384; Thu, 13 Nov 1997 13:49:32 +0100
+Received: from news.NL.net by ns.NL.net (5.65b/NLnet1.3)
+	id AA26359; Thu, 13 Nov 1997 13:49:27 +0100
+Received: from ns.NL.net ([193.78.240.1] HELO ns.NL.net ident: NO-IDENT-SERVICE [port 39430]) by 
+news.NL.net with SMTP id <2912607-27003>; Wed, 12 Nov 1997 11:37:44 +0100
+Received: from ella.mills.edu by ns.NL.net (5.65b/NLnet1.3)
+	id AA16184; Wed, 12 Nov 1997 11:05:36 +0100
+Date: 	Wed, 12 Nov 1997 11:05:36 +0100
+Received: (qmail 8729 invoked from network); 11 Nov 1997 07:17:45 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 11 Nov 1997 07:17:45 -0800
+Message-Id: <Pine.SOL.3.95q.971111090739.2220C-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

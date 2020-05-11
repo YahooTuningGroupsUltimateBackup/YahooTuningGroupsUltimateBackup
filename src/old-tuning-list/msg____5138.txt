@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Tue, 18 Mar 1997 11:08:19 -0800
+
+Subject: Re: unheard frequencies
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+alves@Orion.AC.HMC.Edu (Bill Alves) wrote:
+
+>Ray Tomes wrote:
+>>... Some CD manufacturers now add overtones
+>>to the high frequencies because that normally produces a more natural
+>>sound.  This little trick does fool those individuals who could tell the
+>>difference before.
+
+>I'm afraid I'm not following. How could CD manufacturers add overtones? If
+>you mean that they are adding harmonics to the recorded sound, then the
+>highest pitch that they could add a harmonic to would be 11 kHz, since its
+>second harmonic (first "overtone") would be at 22kHz. All CD players
+>include an anti-imaging filter that effectively eliminates all frequencies
+>higher than 22k anyway (often with significant attenuation above about
+>18k).
+
+I'm sorry, I have confused things by leaving out a word.  I should have
+said CD-player manufacturers.  The harmonics are added during the play
+of the CD because obviously they cannot be recorded as you say.
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 18 Mar 1997 21:10 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04970; Tue, 18 Mar 1997 21:10:14 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA04967
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id LAA23623; Tue, 18 Mar 1997 11:37:08 -0800
+Date: Tue, 18 Mar 1997 11:37:08 -0800
+Message-Id: <3405e71d.1563949473@kcbbs.gen.nz>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,28 @@
+source file: mills2.txt
+Date: Tue, 10 Jun 1997 20:06:57 +0200
+
+Subject: Modulating tunings
+
+From: UPB_MONIODIS@ONLINE.EMICH.EDU
+
+If one were composing a work in Just intonation and one wanted to 
+modulate to Pythagorean intonation, would one reflect the comma
+change in a medial signature, or would one simply indicate 
+"Pythagorean" above the staff, and let the staff lines assume 
+the new diastemic values?
+
+--Polychronios
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 10 Jun 1997 21:50 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04541; Tue, 10 Jun 1997 21:50:04 +0200
+Date: Tue, 10 Jun 1997 21:50:04 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04546
+Received: (qmail 15997 invoked from network); 10 Jun 1997 19:49:17 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Jun 1997 19:49:17 -0000
+Message-Id: <Pine.GSO.3.95.970610152741.18357A-100000@u3.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

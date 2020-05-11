@@ -1,0 +1,75 @@
+source file: m1542.txt
+Date: Fri, 02 Oct 1998 17:39:26 -0400
+
+Subject: Re: TUNING digest 1541
+
+From: "Andrew Bolce'" <abolce@esper.com>
+
+>Topic No. 5
+>
+>Date: Thu, 1 Oct 1998 14:17:08 -0700 (PDT)
+>From: bram <bram@gawth.com>
+>To: tuning@eartha.mills.edu
+>Subject: Re: Cancelling out beats
+>Message-ID: <Pine.LNX.3.96.981001131302.27795A-100000@blackbox>
+>
+>On Thu, 1 Oct 1998, Paul Hahn wrote:
+>
+>> On Thu, 1 Oct 1998, Paul Hahn wrote:
+>> > On Thu, 1 Oct 1998, bram wrote:
+>> >>        I know the beats can be essentially calculated using continued
+>> >> fractions, so I'm guessing there's a rather straightforward way of
+>> >> calculating, given a*sin(x) + b*sin(y), a and b being volumes and x
+and y
+>> >> being wavelengths, there's a rather straightforward way of calculating a
+>> >> bunch of other sin functions which when added will cancel out all the
+>> >> beats.
+>> > 
+>> > I don't think Bill is canceling out the beats in an antinoise sense;
+>> 
+>> Actually, thinking further on it, I don't think that would even be
+>> possible, considering that the beats don't actually exist physically,
+>> but arise because of nonlinearities in the auditory system.
+>
+>Ah, but they do :)
+>
+>After thinking about it a bit more, I realize that the beats need to be
+>'augmented' rather than 'cancelled', since they correspond to regions of
+>decreased volume.
+>
+>The very simplest example is sin(x/n)+sin(x/(n+1)) since that only has one
+>beat.
+>
+>Consider the case where n=4. It starts out at about double the volume of
+>an individual sin wave, then the volume decreases until the two waves
+>exactly cancel out at x=10, then come to complement each other and x=20,
+>and continue to alternate.
+>
+>If a sin wave is now added which becomes most angular at the place where
+>the other two waves cancel out, it will tend to make the volume consistent
+>throughout. Specifically, the function
+>
+>sin(x/4) + sin(x/5) + 5*sin((x+10)/40)
+>
+>should have less of a beat.
+>
+>I say less instead of none because I'm fairly certain I did something
+>wrong with the volumes. Can someone verify for me whether sin(x) and
+>a*sin(x/a) are of the same volume? If they are, I know how to make it
+>exact.
+>
+
+they're not equal. a*sin(x/a) = a(sq.rt.((1-cosx)/a)) or
+sq.rt.((a^2-a^2cosx)/(a))
+i think. 0 would work however. and so would pi. (or would it be 0 and 1?)
+ 
+>Note that phase information is very important here - simply adding a third
+>sin wave of the correct wavelength but wrong phase will be unlikely to do
+>a good job fixing the beat.
+>
+>Unfortunately, I don't have the tools handy to make neat diagrams or sound
+>files to illustrate the above - could anybody suggest some good free ones
+>which work under windows?
+>
+
+does anyone have any sample keyboard programs out of mild curiousty?

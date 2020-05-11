@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Tue, 17 Jun 1997 09:52:28 +0200
+
+Subject: hearing RF
+
+From: "kris peck" <kpeck@wavetech.net>
+
+I hesitate to contribute to these somewhat off-topic discussions, but I
+thought people would be interested in something I found at work regarding
+hearing electromagnetic signals.
+
+"Another RF biological effect that has received attention is the so-called
+microwave 'hearing' effect.  Under certain specific conditions of
+frequency, signal modulation, and intensity, it has been shown that animals
+and humans can perceive an RF signal as a buzzing or clicking sound. 
+Although a number of theories have been advanced to explain this effect,
+the most widely-accepted hypothesis is that the microwave signal produces
+thermoelastic pressure within the head that is perceived as sound by the
+auditory apparatus within the ear.  It is important to emphasize that the
+conditions under which this effect occurs would not normally be encountered
+by members of the general public."
+
+--"Questions and Answers about Biological Effects and Potential Hazards of
+Radiofrequency Radiation", OET Bulletin #56, January 1989, Federal
+Communications Commission Office of Engineering and Technology
+
+
+Personally, I don't think I want to spend too much time aiming microwave
+signals into my head to investigate this phenonemon.
+
+Kris Peck
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Jun 1997 11:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02488; Tue, 17 Jun 1997 10:23:47 +0200
+Date: Tue, 17 Jun 1997 10:23:47 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA02477
+Received: (qmail 7287 invoked from network); 15 Jun 1997 23:42:46 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 Jun 1997 23:42:46 -0000
+Message-Id: <199706152345.HAA02843@csnt1.cs.ust.hk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

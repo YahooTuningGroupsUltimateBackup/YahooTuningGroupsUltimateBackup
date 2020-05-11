@@ -1,0 +1,141 @@
+source file: m1605.txt
+Date: Mon, 7 Dec 1998 20:21:31 -0800 (PST)
+
+Subject: Re: How does an 81:64 feel? -- reply to Gary Morrison
+
+From: "M. Schulter" <mschulter@value.net>
+
+Hello, there.
+
+Recently Gary Morrison raised a very interesting question about how
+different people perceive a major third at the Pythagorean or 3-limit
+tuning of 81:64 (around 407.82 cents).
+
+>   Using a related 3-limit interval as another example, I personally
+> have never managed to attribute any intuitive meaning to 81:64.  To
+> me it sounds like an off-5:4 much more than anything meaningful in
+> itself.  It's just too complicated a pitch relationship very close
+> to a vastly more obvious one.
+
+Here I'd like to have a try at describing how an 81:64 feels to me in
+some typical musical settings where I encounter it.
+
+First, I might note that an 81:64 can take on different qualities
+depending upon the timbre, also true to an extent of a 5:4 major
+third, for example. Using a somewhat regal-like or crumhorn-like
+registration (Yahama TX-802 preset voice A22, for the curious), I find
+that an 81:64 major third can be quite "strident," but with a more
+subdued organ-like registration (e.g. a combination of TX-802 voices
+A17 "cello" and A23 "flute"), it can sound quite "sweet."
+
+Generally, the medieval term _ditonus_ or "ditone" is intuitively
+descriptive: this major third consists of two pure 9:8 whole-tones.
+
+In polyphonic music of the 11th and 12th centuries, I feel this
+"ditonal" quality in the very common cadence where two voices contract
+from a major third to a unison, each moving by a whole-tone in
+conjunct contrary motion. It's a kind of convergence or flowing
+together, and an 81:64 nicely suits this process, making the major
+third before a unison a bit more "complicated" and interesting.
+Incidentally, someone has already observed on the Web that the beats
+of an 81:64 add cadential interest before a unison, so this isn't
+necessarily the most original observation <grin>.
+
+Around 1200, as polyphony expands to three or four independent voices,
+this major third also makes itself heard in cadences like this:
+
+     d'    -- +204 --  e'
+ (702,294)         (702,702)
+     b     -- -204 --  a
+   (408)              (0)
+     g     -- +204 --  a
+
+Here, again, the contraction of the ditone to a unison by whole-tone
+motion in both lower voices, complemented in this cadence by the
+similar m3-5 resolution between the upper voices, has what I might
+describe as a certain stately quality.
+
+By the late 13th century to some extent, and in the 14th century, the
+81:64 typically takes on a more "incisive" cadential character,
+expanding to a fifth with one voice moving by a semitone and the other
+by a whole tone. It's especially characteristic for the 81:64 to team
+together with a 27:16 major sixth, expanding to fifth and octave
+respectively:
+
+     c#'   --  +90 --  d'
+ (906,498)         (1200,498)
+     g#    --  +90 --  a
+   (408)             (702)
+     e     -- -204 --  d
+
+How does this feel -- I would say "hot, passionate, intense,
+expressive," with accidental inflections often required to make the
+third and sixth major further underscoring the power of the cadence.
+
+It's beautiful the way that a scale yielding pure fifths and fourths
+also seems to lead just the right amount of tension to those major
+thirds and sixths to really make this progression ideal. I once
+compared its expansiveness in a poem to the Big Bang. 
+
+Of course, this isn't to say that 81:64 and 27:16 are the _only_
+tunings that can "feel right" for this cadence. In a Xeno-Gothic
+tuning, where the major third and major sixth can be made a
+Pythagorean comma wider than usual (close to 9:7 and 12:7), this same
+progression in certain timbres can have a very convincing "ring" for
+me:
+
+     c#'   --  +67 --  d'
+ (930,498)         (1200,498)
+     g#    --  +67 --  a
+   (430)             (702)
+     e     -- -204 --  d
+
+Here I'd describe the usual Pythagorean version with 81:64 and 27:16
+as "classic," and this version as more "jazzy," although my sense of
+"neo-Gothic jazzy" might not be the same as other people's <grin>.
+
+Additionally, a sonority with an 81:64 often occurs in 14th-century
+music as a kind of half-cadence, and the "classic" edge to this major
+third emphasizes the musical message that this is a mild but
+_unstable_ sonority, and that there's more to come. Of course, this is
+a matter of _musical_ expectation that would hold in 12-tet or even
+meantone: thirds are inconclusive in this style! However, that bit of
+extra tension nicely adds emphasis to this point, and heightens my
+sense of "a _partial_ repose" still seeking harmonic "perfection" and
+moving toward what follows next.
+
+>   There is another possible explanation though: Exactly opposite of
+> Margo, I have almost no time whatsoever with 81:64, or 3-limit
+> tunings in general.  Historically, I've been much more interested in
+> the other end of the spectrum: 7s, 11s, 13s, and such.
+
+Please let me admit that even when considering intervals such as 9:7
+or 12:7, I tend to approach them from a kind of 3-limit viewpoint: "A
+9:7 is sort of like a superactive 81:64 inviting expansion to a
+fifth." Also, I may like the idea of combining 9:7 and 12:7 (or their
+Xeno-Gothic approximations of 81:64-plus-comma and 27:16-plus-comma)
+because the two ratios together give a pure 4:3 fourth between the
+upper voices.
+
+> In fact, I may even be able to count the total number of times I've
+> intentionally confronted myself with 81:64 on my fingers and toes.
+> If I were to listen to it more an intuitive meaning for it might
+> become apparent.
+
+Please let me, in turn, caution that I'm oriented to 81:64 in a Gothic
+or neo-Gothic setting, both in performing and in composing or
+improvising. This leaves open all kinds of new styles and applications
+for this interval which might be quite different from either the
+medieval tradition or from my musical experience largely based upon
+it, however imperfectly transmitted across the centuries. I certainly
+wouldn't want to leave the impression that Gothic music defines _the_
+way to use an interval such as 81:64; it's just one possibility.
+
+Of course, if the fact that this interval _has_ been used to make some
+very impressive music encourages people to try using it now in ways
+both old and new, then history and creativity may prove happy allies.
+
+Most respectfully,
+
+Margo Schulter
+mschulter@value.net

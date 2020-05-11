@@ -1,0 +1,40 @@
+source file: m1451.txt
+Date: Fri, 19 Jun 1998 02:45:24 +0000
+
+Subject: Re: Commas and Consistency
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+After a long absence from the list due to the pressing need to complete
+a long-overdue thesis, I noticed the current discussion of
+syntonic-comma equivalents in ETs. I thought the following might be of
+use to anyone interested in the topic:
+
+If the best approximations of 3/2 and 5/4 are consistent in n-ET, for
+any integer n, then
+
+      4[1/2 + nlog_2 3/2] mod n == [1/2 + nlog_2 5/4]
+
+but if the two sides are unequal then a syntonic-comma equivalent is
+present in that n-ET. (The square brackets denote the "integer value"
+function, i.e. "[x]" is the greatest integer less than any given real
+number "x".)
+
+If a syntonic-comma equivalent is present, then the size of the comma in
+n-ET steps is, obviously enough:
+
+      abs ( 4[1/2 + nlog_2 3/2] mod n - [1/2 + nlog_2 5/4] )
+
+Anyone who has read this far will no doubt be able to adapt the above to
+cover compatiblity between powers of any number of ratios. For example:
+
+      -2[1/2 + nlog_2 3/2] mod n == [1/2 + nlog_2 7/4]
+
+for compatibility between the best approximations in n-ET to 16/9 and
+the septimal seventh.
+
+Since I haven't seen any similar formulations elsewhere, I trust these
+are originals; but if they've appeared on the list before, do tell me
+who else obtained them.
+
+Jonathan Walker

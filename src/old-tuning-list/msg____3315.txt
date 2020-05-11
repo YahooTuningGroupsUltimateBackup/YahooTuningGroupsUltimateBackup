@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Fri, 26 Jul 1996 07:11:21 -0700
+
+Subject: Reply to Marion
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Marion says:
+> It seems to me that for any finite number of integers, there are an infinity 
+> of generating functions.
+
+To the contrary. As I said a generating function does NOT have the
+numbers of the sequence as a result. It depends on the numbers. It 
+is similar to the Z-transform. The generating function is unique, for
+a finite or infinite number of integers. Of course a function can be
+notated in an infinite number of ways but that doesn't alter the
+function. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 26 Jul 1996 19:18 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA01817; Fri, 26 Jul 1996 10:18:53 -0700
+Date: Fri, 26 Jul 1996 10:18:53 -0700
+Message-Id: <1.5.4b12.32.19950726170952.0067fc38@interlinx.qc.ca>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

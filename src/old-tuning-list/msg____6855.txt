@@ -1,0 +1,56 @@
+source file: mills3.txt
+Date: Tue, 30 Dec 1997 08:27:23 +0100
+
+Subject: quantum mechanics
+
+From: James Kukula <kukula@synopsys.com>
+
+Thinking a bit more about quantum mechanics and oscillators... the problem of
+the quantum behavior of a vibrating string is essentially the same as the
+problem of electromagnetic radiation in a cavity, the thermodynamic aspect of
+which led Planck to his original hypothesis at the very origin of quantum
+mechanics, back around 1900.
+
+Classically we would describe the motion of a string by providing amplitudes
+and phases for each of the modes of osciallation. As the string is coupled to
+its environment, these amplitudes would slowly and steadily decrease as the
+string vibrates a sounding board which radiates the sound.
+
+Quantum mechanically, each mode of oscillation would not have a continuous
+range of possible amplitudes, but a discrete range. These amplitudes would
+not steadily decrease, but somehow they jump discretely from one amplitude
+level to a lower level.
+
+So it's the diminuendo, not the glissando, that gets broken into minute
+steps!
+
+Jim 
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Aline Surman <stick@dnvr.uswest.net>
+Subject:  Wilson scale
+PostedDate:  30-12-97 08:42:36
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  30-12-97 08:40:20-30-12-97 08:40:20,30-12-97 08:39:44-30-12-97 08:39:44
+DeliveredDate:  30-12-97 08:39:44
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125657D.002A2109; Tue, 30 Dec 1997 08:42:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA27666; Tue, 30 Dec 1997 08:42:36 +0100
+Date: Tue, 30 Dec 1997 08:42:36 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA27650
+Received: (qmail 13304 invoked from network); 29 Dec 1997 23:42:34 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 29 Dec 1997 23:42:34 -0800
+Message-Id: <34A8ADFC.3376@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

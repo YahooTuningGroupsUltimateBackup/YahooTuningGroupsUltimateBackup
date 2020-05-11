@@ -1,0 +1,12 @@
+source file: m1544.txt
+Date: Sat, 03 Oct 1998 11:29:30 -0500
+
+Subject: Re: Cancelling out beats
+
+From: Gary Morrison <mr88cet@texas.net>
+
+> Can someone verify for me whether sin(x) and
+> a*sin(x/a) are of the same volume? If they are, I know how to make it
+> exact.
+
+   Their volume difference (in decibels) would be 20 log a.

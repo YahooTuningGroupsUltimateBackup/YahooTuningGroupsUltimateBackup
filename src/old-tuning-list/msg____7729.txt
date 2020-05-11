@@ -1,0 +1,62 @@
+source file: m1412.txt
+Date: Mon, 11 May 1998 02:52:30 -0700 (PDT)
+
+Subject: Re: Jon Catler's desc. of undertones (digest 1411 topic 6)
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+First, Jon Catler, quoted by Johnny Reinhard, wrote
+>>> "The difference between the frequencies of the
+>>> two notes being sounded produces a third note
+>>> below the range of the first two, called a difference
+>>> tone.  By playing through a _descending_ harmonic
+>>> series with two notes and keeping a "B" on top, we
+>>> can see that the difference tone line creates an
+>>> _ascending_ minor scale that corresponds exactly to the
+>>> Undertone Series created earlier from mirror-imaging.
+
+Then Paul Erlich wrote:
+>> The wording here is unclear -- anyone know what Jon
+>> meant by "playing through a _descending_ harmonic series
+>> with two notes and keeping a "B" on top"? Judging from
+>> the results, he probably meant something like "playing
+>> through a series of superparticular ratios, with the upper
+>> note fixed at "B", and the lower note descending."
+
+Then Joseph Monzo wrote:
+>This is exactly what he meant.  I believe this passage
+>refers to the part we just heard last night in "Sleeping
+>Beauty" where Jon does this on his JI electric guitar.
+
+Maybe I'm misinterpreting the above, but I cannot get it to work.  Here's
+one my feeble attempts (note names are sometimes approximate):
+
+lower tone freq  upper tone freq  difference    name
+---------- ----  ---------- ----  ----------  ---------
+       C    264       B      495     231      Bb
+      Bb    231       B      495     264       C
+     G      198       B      495     297        D
+    E       165       B      495     330         E
+   C        132       B      495     363          F#
+  G          99       B      495     396           G
+ C           66       B      495     429            A
+C            33       B      495     462             Bb
+
+The above does not result in a minor scale.  It kind of starts out like a
+whole tone scale, and the intervals get slightly smaller and smaller.
+
+Can anyone show an example with actual note names and/or frequencies?  Thanks,
+--Mark
+
+P.S.:  I do remember an demonstration long ago of "difference tones", where
+the resultant tones played the tune "Yankee Doodle".  What's scary is that
+just after I thought of it, while writing this email, a commercial came on
+the radio for a place called "Yankee Doodle's" in Woodland Hills (KROQ, FM
+106.7, Los Angeles, California, USA).  What are the odds?  :)
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu                        |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

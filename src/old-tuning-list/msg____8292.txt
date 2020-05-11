@@ -1,0 +1,70 @@
+source file: m1488.txt
+Date: Tue, 28 Jul 1998 20:38:54 -0700 (PDT)
+
+Subject: Re: Paul Erlich's meantone
+
+From: "M. Schulter" <mschulter@value.net>
+
+> In 1/4-comma meantone temperament, the major thirds are tuned
+> pure. The Ensoniq VFX-SD, despite its cents-based tuning tables, has
+> a true internal tuning resolution of 512 notes per octave
+> (unbeknowest to most). The best approximation to the major third is
+> 165 steps of the tuning, or 386.7188, as compared with the just
+> value of 386.3137 cents.  A major third played in the middle
+> register with the 165/512 oct approximation would beat once every
+> two seconds, too slow to be noticeable in most music.
+
+Hello, there. In fact, doing a calculation for f'-a' (easy using
+a'=440), I got a beat once every 2.43 seconds or so. This is much
+closer to just, of course, than the schisma thirds described by
+Helmholtz -- and, as we now know, used in lots of early 15th century
+keyboard music where they contrast with regular Pythagorean thirds.
+
+> The major third is constructed from four fifths, which would have to
+> be approximated by an average of (165+512+512)/4, or 297.25
+> units. So tuning every fourth fifth to 298 units (698.4375 cents)
+> and the rest to 297 units (696.0938 cents) makes all 8 major thirds
+> in the tuning virtually just. This is my 1/4-comma meantone setting
+> on my Ensoniq.
+
+Interestingly, 512-step and 1024-step synthesizers share this best
+approximation for 1/4-comma meantone. With a 1024-step device like the
+Yahama TX-802, tuning two fifths of 594/1024 oct (696.0938 cents, the
+same as 297/512 oct) and two of 595/1024 oct (697.2656 cents). That
+averages out as 594.5 units in 1024-tet -- the same as your 297.25 in
+512-tet -- likewise yielding a major third of 386.7188 (330 steps,
+equivalent to 165 steps out of 512).
+
+Curiously, 768-tet (e.g. Yahama TX81Z) does a bit better than either
+512 or 1024, although on the narrow rather than wide side. Three
+fifths of 446/768 oct (696.8750 cents) and one of 445/768 oct
+(695.3125 cents) -- an average fifth of 445.75 steps -- yield a major
+third of 385.9375 cents (247 steps), or 0.3762 cents narrow. With 512
+or 1024 steps, our best approximation of 386.7188 cents is 0.4051
+cents or so wide.
+
+> Any tuner during the period when meantone was predominant would be able
+> to tune the four augmented triads (Eb G B, Bb D F#, F A C#, C E G#)
+> almost perfectly by ear by eliminating beats in the constituent major
+> thirds, but tuning them to one another using approximately identically
+> tempered fifths was an imprecise endeavor. So in practice the tuning
+> could rarely have been much better than the approximation I have
+> described.
+
+Thank you for explaining this process, and especially in focusing on
+this major source of imprecision, which I hadn't considered.
+
+Incidentally, I've heard that Zarlino's 2/7-comma meantone tuning fits
+lots of 16th-century music very nicely (especially pieces having lots
+of emphasis on minor thirds), but must have been hard to tune.
+
+Also, congratulations to you and John Chalmers and all the other
+contributors on _Xenharmonikon_ 17! Your discussion on the
+stylistic criteria for a scale in the context of a given harmonic
+system are very intriguing, and I hope to be asking some questions
+here.
+
+Most appreciatively,
+
+Margo Schulter
+mschulter@value.net

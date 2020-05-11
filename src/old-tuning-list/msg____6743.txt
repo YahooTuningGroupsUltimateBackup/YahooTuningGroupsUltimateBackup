@@ -1,0 +1,121 @@
+source file: mills3.txt
+Date: Sat, 20 Dec 1997 16:32:09 +0100
+
+Subject: RE: 22-tone equal & chromaticism
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Paul Erlich has doon a good job of proving how Gregg Gibson's
+chromatic genera are not restricted to meantone temperaments.
+Correspondents may recall that I "discovered" 6 genera that
+Gregg omitted.  I have (at time of writing) yet to receive
+comment on this but, in addition to all 10 being distinct in
+12 equal, they all work in JI.
+
+I use the word "genera" because Gregg did.  I would much
+rather reserve the word for Euler genera.  Anyway, here they
+are again:
+
+C D Eb F G Ab A C              C Eb E F G A Bb C
+C C# E F G G# A C              C Eb Fb F G Ab Cb C
+C C# E F F# G A C              C Eb F Gb G Ab Cb C
+
+These are grouped in otonal-utonal pairs.  The graph for one
+of a pair is the graph for the other rotated by 180?.  Here,
+then, are the graphs for the left-hand genera:
+
+
+D---------A
+ \       / \
+  \     /   \
+   \   /     \
+    \ /       \
+     F---------C---------G
+      \       / \       /
+       \     /   \     /
+        \   /     \   /
+         \ /       \ /
+          Ab--------Eb
+
+[Notice that there is an out of tune fifth G-D which does
+not take part in any chords.]
+
+
+F#--------C#
+ \       / \
+  \     /   \
+   \   /     \
+    \ /       \
+     A---------E
+    / \       / \
+   /   \     /   \
+  /     \   /     \
+ /       \ /       \
+F---------C---------G
+
+
+          C#--------G#
+         / \       /
+        /   \     /
+       /     \   /
+      /       \ /
+     A---------E
+    / \       / \
+   /   \     /   \
+  /     \   /     \
+ /       \ /       \
+F---------C---------G
+
+
+These last two diagrams are interesting in that, if you combine
+them, you get a single 8-note genus of which the four 7-note
+genera are subsets.
+
+
+I've also come across another pair:
+
+C Eb E F G Ab B C               C Db E F G Ab A C
+
+                    E---------B
+                   / \       /
+                  /   \     /
+                 /     \   /
+                /       \ /
+     F---------C---------G
+      \       / \       /
+       \     /   \     /
+        \   /     \   /
+         \ /       \ /
+          Ab--------Eb
+
+Which brings the total to 12.  Interestingly, my 8 all have
+5 consonant chords, two of which share a root.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk (Graham Breed) 
+Subject:  Re: More of Septimals
+PostedDate:  20-12-97 16:35:32
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  20-12-97 16:33:25-20-12-97 16:33:25,20-12-97 16:33:00-20-12-97 16:33:00
+DeliveredDate:  20-12-97 16:33:00
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256573.00557282; Sat, 20 Dec 1997 16:35:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22004; Sat, 20 Dec 1997 16:35:32 +0100
+Date: Sat, 20 Dec 1997 16:35:32 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA22677
+Received: (qmail 25532 invoked from network); 20 Dec 1997 07:35:29 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 20 Dec 1997 07:35:29 -0800
+Message-Id: <memo.573360@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

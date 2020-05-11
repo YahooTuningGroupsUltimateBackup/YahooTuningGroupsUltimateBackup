@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Mon, 4 Nov 1996 12:17:22 -0800
+
+Subject: Re: Intervals list
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Incidentally, Plomp and Levelt did find that even with sine waves, in-tune 
+octaves were more consonant than their out-of-tune neighbors. This has been 
+attributed to second-order beating, which can be thought of as beating 
+between the lower tone's summation tone with itself and the upper tone. 
+However, at a low enough volume, second-order beating should disappear. I 
+vaguely remember reading that it doesn't disappear, which was taken as 
+evidence for periodicity pitch detection.
+
+Plomp and Levelt's main results need to be taken seriously in any theory of 
+consonance. K&K (two Japanese workers -- I can't remember their names) 
+calculated consonance curves based on Plomp and Levelt's results. K&K 
+assumed some typical harmonic series, and assumed (I think) that total 
+roughness is the sum of the individual sine-wave roughnesses calculated 
+according to P&L's results. They derived the usual consonance/dissonance 
+relations by defining consonant intervals as local minima on the graph. 
+Clearly, with inharmonic timbres, none of the usual consonant intervals 
+would appear (except the unison), and a whole new set would arise. This is 
+the basis of Sethares' work, I believe.
+
+However, there is an additional component to consonance that is a somewhat 
+separable issue. It goes under many names, such as "spectral fusion," 
+"rootedness," etc., and is the degree to which the entire set of sine waves, 
+belonging to more than one complex tone, approximates a single harmonic 
+series. The harmonic series is privileged in our auditory system as the 
+information is "compressed" into a single pitch (the fundamental, even if it 
+is physically absent) and timbre (which represents the relative amplitudes 
+of the harmonics). For instruments with harmonic timbres, this phenomenon 
+explains the difference in consonance between "otonal" and "utonal" chords, 
+whose roughness (if equal to the sum of the roughnesses of the individual 
+intervals) is identical, but whose consonance is not. For minor vs. major 
+triads, this may be arguable, but for complete 11-limit hexads, it's pretty 
+easy to hear that the utonal chord is less consonant. This is because the 
+otonal chord forms a single harmonic series, while the utonal chord can only 
+be considered a harmonic series if four- and five-digit harmonic numbers are 
+allowed. Tones with completely inharmonic spectra may be formed into chords 
+that have the same degree of roughness as an "otonal" or "utonal" chord of 
+harmonic spectra, but this other component of consonance will favor both of 
+the chords with harmonic spectra over the inharmonic one. This is because 
+any pair of tones, even in the utonal chord, forms a harmonic relationship, 
+and, particularly for the perfect fifth, the set of harmonics resulting from 
+the pair of tones forms a single harmonic series (in the perfect fifth, this 
+harmonic series is 2/3 complete).
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 4 Nov 1996 21:34 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01146; Mon, 4 Nov 1996 21:35:32 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01149
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA00486; Mon, 4 Nov 1996 12:35:27 -0800
+Date: Mon, 4 Nov 1996 12:35:27 -0800
+Message-Id: <199611042038.UAA24942@gollum.globalnet.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

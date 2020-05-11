@@ -1,0 +1,66 @@
+source file: mills2.txt
+Date: Tue, 10 Sep 1996 08:54:13 -0700
+
+Subject: Re: Babies and tuning
+
+From: linusliu@hk.super.net (Linus Liu)
+
+Oh, yes, it is. We first aware that listeners feels notes being in tune or
+out, and then tell it. That is why there is this tuning list, right?
+
+To explain why is another matter.
+
+Any interval can be in tune if that interval can be and is used properly
+in music. Therefore:
+
+ do 10/9 re 10/9 me 27/25 fa 9/8 so 10/9 la 10/9 te 27/25 do
+
+is a good scale because 1. identical tetrachords 2. same size whole tones
+adjacent to each other in each tetrachord 3. tetrachords a 3/2 good fifth
+apart. And:
+
+ do 9/8 re 9/8 me 16/15 fa 10/9 so 9/8 la 9/8 te 16/15 do 
+
+is also a good scale (Chinese scale) because of the very same reasons, plus
+the fact that the interval 9/8 is only 0.3 cent away from the tempered
+1221.5 cent per octave mean tone (you call it equal tempered, 101.8
+cent per half-tone) scale. 9/8 = 203.9 cents vs 101.8 x 2 = 0.3 cent 
+difference.
+
+You put half each scale from each to make a new scale, then you get a
+lousy scale.
+
+When playing music FOR the Chinese scale, the intervals 81/64 (do-me),
+ 32/27 (me-so), and 5/4 (fa-la) are all good intervals in the same 
+music.
+
+Linus Liu.
+
+>   I'd say that it's not so much a matter of telling when a note is out of tune
+>as devising a strict mathematically rigorous definition - or even a general
+>qualitative definition - of what constitutes being in-tune.  Every careful
+>studies I'm aware of suggests that singers players of indefinite-pitch
+>instruments don't consistently follow any one particular standard.  
+>
+>   And then you have to answer the question of whether an exactly perfect 9:7
+>third (for example) should be considered in-tune or out-of-tune.  It's out of
+>tune if 2^4/12 or 5:4 is your basis for deciding, but, by definition, it's
+>exactly in-tune if 9:7 is your goal.  
+>
+>   We probably need a few more words or phrases to describe these new concepts.
+>
+>
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 10 Sep 1996 18:28 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10051; Tue, 10 Sep 1996 18:30:19 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA09967
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA03775; Tue, 10 Sep 1996 09:30:17 -0700
+Date: Tue, 10 Sep 1996 09:30:17 -0700
+Message-Id: <199609101634.MAA30657@cerberus2.Ensoniq.Com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

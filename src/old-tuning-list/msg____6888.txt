@@ -1,0 +1,121 @@
+source file: mills3.txt
+Date: Wed, 31 Dec 1997 20:45:43 +0100
+
+Subject: Phonons
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>}>>Gary, this is not correct. E = H nu applies to all energy quanta, whether
+>in
+>}>>the form of light, sound, or whatever. The quantum of light is the photon;
+>}>>the quantum of sound is the phonon.
+>
+>}   If by this you mean that sound is conveyed by phonons in the same sense
+>}that light is conveyed by photons, then the more I think about it, the less
+>}I buy it.
+>
+>I'm not surprised. As a young one I read stacks of Scientific Americans from
+>the '70s. Seeing articles about phonons led me to feel much as you do now.
+>Although I did not specifically study phonons in quantum mechanics, I have
+>learned the fundamentals well enough so that my skepticism has been abated.
+>That is, the truly astonishing things about quantum mechanics reside at a
+>much deeper level and force us to throw away our customary "pictures" of
+>physical phenomena, which rely on philosophical assumptions such as
+>Einstein's reality principle, which has been shown experimentally to be false
+>(via Bell's theorem). If one finds a way of accepting the crazy axioms of
+>quantum mechanics, or just takes them for granted, one can construct the most
+>verifiably accurate physical theory known to mankind (general relativity has
+>been verified slightly more accurately in some contexts).
+>
+   }Now there's normally no realistic value in studying sound at the
+}sub/atomic level, because everything about sound can be modeled many
+orders
+}of magnitude more simply at the macroscopic level of mechanics.  But
+still,
+}down at the level of fundamental forces, air-pressure is manifested by
+}collisions of air molecules, and any form of collision is carried out
+by
+}repulsion between the electrons in the outer shells of those molecules.
+}Electron repulsion is in turn carried out by photons.
+
+Classically, two spherically symmetric neutral atoms would experience no
+electrostatic forces even if separated by a very small distance.
+Electron repulsion would be exactly balanced by attraction to the other
+atom's nucleus. Quantum mechanically, this is not quite the case, and
+you get the so-called Van der Walls forces which vary as the sixth or
+twelfth power of the distance.
+
+But it is the Pauli exclusion principle, not electrostatic or
+electromagnetic interactions at all, which is responsible for collision
+forces. Let's consider crystals, however, where it is not collisions
+that transmit sound energy.
+>
+>}So sound is, at this otherwise not very interesting sub/atomic level,
+>}ultimately conveyed by photons.  The invention of a new particle, the
+>}phonon, seems to be no more than a pointless complication that side-steps
+>}well-accepted physical models for no apparent reason.
+>
+>The concept of the phonon had proved very useful in the study of crystalline
+>lattices and semiconductors. It does not side-step quantum mechanics (the
+>most well-accepted model), and your classical way of viewing things is only
+>valid at the macroscopic level, where it emerges as an approximation.
+>Electron-phonon scattering is very real, just like electron-photon
+>scattering, even though the photon is "only" a wave propogating through the
+>electromagnetic field. Just as the equations of the electromagnetic field,
+>describing how an electric field is produced by a changing magnetic field and
+>vice versa, give rise to wave solutions, so do the equations of a crystal
+>lattice, with bodies vibrating around their equilibrium positions and
+>interacting with one another according to Van der Walls-type forces or, in
+>the case of an ionic crystal, electrostatic repulsion and/or attraction.
+>There are transverse as well as longitudinal wave solutions to these
+>acoustical equations. The quantum-mechanical duality between energy waves and
+>particles is universal. Even you are a wave, capable of interference,
+>diffraction, and all -- it's just that your wavelength is so short that these
+>effects are undetectable.
+>
+   }When I think about the classic experiments for illustrating the
+}particle-wave duality of light, it's difficult for me to see any way to
+}apply them to sound.  I can't imagine any way for example, that you
+could
+}get a particle-like distribution from the famous "two-slit" experiment
+if
+}conducted with sound rather than light.  But presumably that just means
+}that I'm conducting an unrevealing experiment.
+
+Single quanta of sound are extremely difficult to isolate in the
+laboratory. By the formula E=H nu, you can see that the energy of a
+phonon is astronomically smaller than the energy of a photon, which is
+already so small that light energy was thought to come in continuous
+quantities until this century.
+
+I think that's enough physics for this list. E-mail me in person, or
+better yet, go study quantum mechanics!
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  vertical/horizontal/motherlode
+PostedDate:  31-12-97 20:55:10
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  31-12-97 20:52:51-31-12-97 20:52:51,31-12-97 20:52:13-31-12-97 20:52:14
+DeliveredDate:  31-12-97 20:52:14
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125657E.006D317E; Wed, 31 Dec 1997 20:54:37 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08668; Wed, 31 Dec 1997 20:55:10 +0100
+Date: Wed, 31 Dec 1997 20:55:10 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08645
+Received: (qmail 27526 invoked from network); 31 Dec 1997 11:55:06 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 31 Dec 1997 11:55:06 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971231194812Z-2304@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

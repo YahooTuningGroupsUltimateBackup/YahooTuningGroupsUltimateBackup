@@ -1,0 +1,48 @@
+source file: m1438.txt
+Date: Fri, 5 Jun 1998 10:29:15 -0500
+
+Subject: RE: Patrick/Roland future
+
+From: "Loffink, John" <John.Loffink@COMPAQ.com>
+
+I've been working on such a list for my web site based upon information from
+this forum.  I will post it soon and open it up for comments.  I'm breaking
+the wish list up into low, medium and high end, as some requests are too
+specialized to be achieved on all instruments.
+
+1)  Full keyboard scales are obviously preferable, except when you have
+something like Justonic's Pitch Pallette that updates tunings in realtime
+over MIDI.  Sending an entire keyboard table clogs up the MIDI data stream,
+while an octave table does not.  This is the argument I have against the
+stance that full keyboard scales are all that is necesary.  We've waited
+centuries to get keyboard-based instruments that can modulate freely in just
+intonation, why hamper it now by limited software definitions?  Until we get
+a better protocol than MIDI I think a mix of keyboard and octave scales is
+needed.
+2)  I feel that 5 or 6 quickly accessible tunings are insufficient if you're
+doing realtime modulation in just intonation.  I recommend at least 64
+tables (defined globally and assigned per MIDI channel) for a medium priced
+instrument.
+
+John Loffink
+jloffink@pdq.net
+
+> From: Rick Sanford <76122.2237@compuserve.com>
+> 
+> Has there, in the past, ever been a "wish list"
+> sent around collectively?  Things like pitch
+> resolution, non-octave repeating scales, etc?
+> 
+> The two pieces I find usually missing are:
+> 1) Only 12 pitches to choose (then next octave
+>         repeats)
+> 2) Only ONE (or maybe 2, e.g. Yamaha) storable 
+> user scale, necessitating frequent trips to
+> a librarian application to get a new tuning.
+> 
+> Ideally, for me, one would have 5 or 6 tunings
+> quickley accessible, then these would also
+> be non octave-repeating. We could frame our request
+> as coming from the WM school, no?
+> 
+>

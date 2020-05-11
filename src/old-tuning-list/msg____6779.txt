@@ -1,0 +1,88 @@
+source file: mills3.txt
+Date: Tue, 23 Dec 1997 19:15:23 +0100
+
+Subject: Re: 19, 22, 29, 41, 53 : 12 and multiples
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Tue, 23 Dec 1997, Steven  Rezsutek wrote:
+> If you'll pardon my asking what is most likely an FAQ, could you
+> offer a quick explanation of what level-n consistancy is all
+> about?
+
+Level 1 consistency, or just consistency, at some limit x is what you
+have when all triads within the x-limit can be consistently represented,
+e.g. the tuning's closest approximation of the larger interval is the
+sum of the closest approximations of the two smaller intervals.
+Example: in 24TET, 5/4 is about 8 steps and 7/5 is about 12 steps, but
+7/4 is closer to 19 steps than 20.  Ergo, 24TET is not consistent at the
+7-limit, because you can't tune a 4:5:7 triad so that all intervals are
+represented as accurately as the tuning allows.
+
+For higher consistency levels, consistent representations exist not only
+for all the x-limit intervals, but also combinations of up to n of them.
+Example: 12TET is level 3 consistent at the 5-limit because even a stack
+of three of the interval which is represented with the greatest error,
+the 6/5 (that is, 6/5 x 6/5 x 6/5 = 216/125) is represented
+consistently: the closest 12TET approximation to 216/125 is 9 steps,
+which equals 3 times the 3-step interval which best approximates the
+6/5.
+
+You can find tables of consistency levels at
+
+http://library.wustl.edu/~manynote/consist.txt
+
+and
+
+http://library.wustl.edu/~manynote/consist2.txt
+
+The first is simply all the consistency levels at all the relevant
+limits up to 1200TET; the second only includes an ET if there is some
+limit at which it exhibits a higher consistency level than any smaller
+numbered ET, going up to 10000TET.  (A period signifies level 1
+consistency.)
+
+Incidentally, I think this may relate to why Haba isn't thought of much
+these days: as you can see by examining the tables cited above, simply
+subdividing the semitones of 12TET doesn't really yield you very good
+representations of harmonic intervals until you get up to 72TET which is
+level 2 consistent at the 11-limit, but that's a bit too big of a jump
+for some people; too many notes.  ("--Herr Mozart." 8-)> )  Most of us
+find it quite daunting enough trying develop something that makes sense
+down in the 19/22/31 range.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Do you like to gamble, Eddie?
+  -\-\-- o    Gamble money on pool games?"
+
+             NOTE: dehyphenate address to remove spamblock.          <*>
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  alves@orion.ac.hmc.edu (Bill Alves) 
+Subject:  Re: Danielou, Touma
+PostedDate:  23-12-97 19:48:51
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  23-12-97 19:46:36-23-12-97 19:46:37,23-12-97 19:46:08-23-12-97 19:46:08
+DeliveredDate:  23-12-97 19:46:08
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256576.006723BE; Tue, 23 Dec 1997 19:48:29 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24604; Tue, 23 Dec 1997 19:48:51 +0100
+Date: Tue, 23 Dec 1997 19:48:51 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA24623
+Received: (qmail 23609 invoked from network); 23 Dec 1997 10:48:45 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Dec 1997 10:48:45 -0800
+Message-Id: <v01510100b0c53d0a51cd@[134.173.37.15]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

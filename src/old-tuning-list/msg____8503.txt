@@ -1,0 +1,52 @@
+source file: m1532.txt
+Date: Tue, 22 Sep 1998 12:03:01 -0500 (CDT)
+
+Subject: Re: scale derived by intersection of sets
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Mon, 21 Sep 1998, Robin Perry wrote:
+> It involves generating two sets of ratios (as outlined below) then
+> finding the intersection of the two.
+> 
+> In this case, the set to the right is exactly 3/2 of the set to the
+> left.  I stopped where I have because I have not found any more common
+> ratios beyond this point.
+
+[snip lists of ratios separated from 3/2 and 1/1 by superparticulars]
+
+There shouldn't be any more.  The first few superparticulars (those
+larger than 8/7) don't bring you closer than a 16/15 to the central
+pair, so once your list of superparticulars goes beyond 16/15 there
+won't be any more overlap possible.
+
+What a very interesting method of generating a scale, BTW.  3/2s and
+superparticulars both seem to be very pleasing, and this method
+guarantees a lot of them.
+
+> The intersection of these two is:
+> 
+> 1/1  9/8  6/5  5/4  4/3  3/2  8/5  5/3  12/7  7/4  9/5  15/8  2/1
+
+Here's lattice diagram for the scale.  Given the method of generation,
+it's not suprising that the resulting shape is very symmetrical.
+
+	     5/3 --- 5/4 ---15/8
+	     / \     / \     / \
+	    /   \   /   \   /   \
+	   /     \ / 7/4 \ /     \
+	 4/3 --- 1/1 --- 3/2 --- 9/8
+	   \     / \12/7 / \     /
+	    \   /   \   /   \   /
+	     \ /     \ /     \ /
+	     8/5 --- 6/5 --- 9/5
+
+The scale can also be described as all the 5-limit pitches that form
+(5-limit) consonances with either 1/1 and 3/2, plus the two 7-limit
+pitches that form (7-limit) consonances with _both_ 1/1 and 3/2.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

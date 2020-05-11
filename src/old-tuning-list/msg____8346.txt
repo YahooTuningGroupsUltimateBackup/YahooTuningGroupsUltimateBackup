@@ -1,0 +1,39 @@
+source file: m1500.txt
+Date: Tue, 11 Aug 1998 14:15:53 +0200
+
+Subject: Re: The tuning formerly know as...
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+David Finnamore's ASPluCT tunings can also be described by
+second order polynomials, i.e. of the form ax^2+bx+c
+For this example:
+
+19-20-22-25-29-34-40-47-55-64-74-85 and so forth.
+
+we get a=1/2, b=1/2, c=19, x=0,1,2,...
+
+19-21-25-31-39-49-61-75-91-109-129-151 and so forth.
+has a=1, b=1, c=19.
+In Scala these scales can be created with the command POLYNOMIAL but
+you have to know the coefficients first. For the first example do
+POLYNOMIAL
+Enter scale size: 12  (or any other size)
+Enter order of polynomial: 2
+Enter coefficient 2: 1/2
+Enter coefficient 1: 1/2
+Enter coefficient 0: 19
+Enter operand offset: 0  (to have x=1 for degree 1, etc.)
+REPLACE 0 19  (to have 1/1=19/1 instead of 1/1)
+SET ATTRIBUTE FACTOR
+SHOW SCALE
+
+Vary the values of the three coefficients to get different
+ASPluct tunings.
+
+Manuel Op de Coul    coul@ezh.nl
+
+------------------------------
+
+End of TUNING Digest 1500
+*************************

@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Tue, 1 Jul 1997 16:24:51 +0200
+
+Subject: RE: Historical Questions
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Edward Remler <ataraxy@erols.com> asks
+
+> 1) Well Temperament arose in the latter half of the 17th century and
+> Bach attempted to popularize it circa 1716 with his first WTC.
+> Presumably the further a piece’s key is removed from C, the stranger it> will sound to the modern ear, but I have never heard the preludes and
+> fugues played on a well tempered instrument. Does such a recording
+> exist?
+
+You forget that equal temperament is also a well temperament.
+A tuning is a well temperament when there is no wolf fifth and it can
+be played in all keys. One precise definition is that there may be no
+fifths larger than pure and no major thirds smaller than pure.
+Your presumption does not hold for well temperaments. So, I don't know 
+of any recordings of Das Wohltemperierte Klavier which are not in a
+well temperament! On the other hand I neither know records which have
+the tuning specified on the cover, but haven't made a real investigation.
+There have been interesting discussings on the list before about which 
+tuning Bach would have had in mind. You might want to read those. It
+started in Sept. 1995. The old digests can be downloaded from the Mills
+server. 
+I don't have an answer for your 2nd question.
+
+> Any information
+> about the transition to Equal temperament would be of interest to me.
+
+There is plenty of information. If you search for the string "temper" 
+in the tuning bibliography then you get a match for most languages 
+that you can narrow down.
+ftp://ella.mills.edu/ccm/tuning/papers/bib.html
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 1 Jul 1997 17:50 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29838; Tue, 1 Jul 1997 17:50:53 +0200
+Date: Tue, 1 Jul 1997 17:50:53 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA29815
+Received: (qmail 19062 invoked from network); 1 Jul 1997 15:50:10 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Jul 1997 15:50:10 -0000
+Message-Id: <c%ap¬adian-Asset%lRS-970701152617Z-1029@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

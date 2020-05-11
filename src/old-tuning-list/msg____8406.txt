@@ -1,0 +1,19 @@
+source file: m1514.txt
+Date: Tue, 25 Aug 1998 07:31:55 -0500
+
+Subject: Re: geometrical mean
+
+From: Gary Morrison <mr88cet@texas.net>
+
+> if  X , Y  are two tone frequencies,
+> how to tune the  value  Z=sqrt(X*Y)  acousticaly
+
+   I'm not completely certain what in particular you mean by "acoustically"
+in this particular case, but I suppose it's worth pointing out that, to our
+logarithmic tuning perception, a geometric mean sounds like an arithmetic
+mean.
+
+   So, if by "acoustically" you mean "by ear", you can tune that
+intermediate pitch so that the melodic interval size from the 1:1 to the
+pitch in question sounds the same as the interval from the pitch in
+question to the 5:4.

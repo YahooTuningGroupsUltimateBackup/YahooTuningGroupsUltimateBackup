@@ -1,0 +1,70 @@
+source file: mills2.txt
+Date: Wed, 31 Jan 1996 09:33:48 -0800
+
+Subject: FWD: A belated announcement
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Date: 30 Jan 1996 16:42:34 -0800
+From: "Robert Marsanyi" <robert.marsanyi@3do.COM>
+Subject: A belated announcement
+To: "AlgoComp" <algo-comp@serial.music.uiowa.edu>,
+    "Michael French" <Michael.French@jcu.edu.au>,
+    "HMSL list" <hmsl@shoko.CALARTS.EDU>,
+    "SonicArts" <sonicartsnz-l@list.waikato.ac.nz>
+
+A few years ago now (!), I completed work on a graphic programming environment
+called Wire.  It's since been used at CalArts and Mills, and it was fully my
+intention to release it to anyone interested, but somehow I never got around
+to it.
+
+What Wire is
+
+Wire is a programming environment based on a simple dataflow model.  Wire
+includes classes of objects that implement simple execution units, which may
+be interconnected and organized hierarchically to make larger objects.  Wire
+programs (or patches) may be created, edited and run visually.  Wire includes
+classes of objects that implement an interactive unit-generator model for
+attached DSP hardware, as well as classes that deal with MIDI, implement
+simple math functions, tables, recorded event streams, method invocations for
+HMSL objects, and so on.  Wire patches may be embedded in HMSL hierarchies, or
+used to specify HMSL functions or otherwise be controlled from the standard
+HMSL Forth environment.  New Wire objects may be easily implemented in HMSL,
+even while Wire is running.
+HMSL is an environment for performing, composing and experimenting with music,
+developed at the Center for Contemporary Music at Mills College, Oakland, CA,
+through the late '80s and early '90s.  It is designed primarily for real-time
+use.  It is available in implementations for the Amiga and Macintosh
+computers.  Contact Frog Peak Music for more information on HMSL (the address
+is in the inside cover of the Wire manual).  Wire is written in HMSL.
+
+Wire is a useful tool for prototyping DSP programs, and implementing programs
+where the logic is split between DSP and host processing.
+
+System requirements
+
+There are two ways to run Wire: as a standalone application, or in conjunction
+with HMSL.  To run standalone Wire, you need a Mac or Amiga, optionally with a
+MIDI interface. To use Wire's DSP functions, you need hardware compatible with
+the HMSL DSP library (a GMP 56001 system, a Digidesign Audiomedia I card or
+Sound Designer hardware).  To run Wire with HMSL, you need a machine running
+HMSL 4.20 or higher.
+
+How to get Wire
+
+FTP to ftp://music.calarts.edu/pub/HMSL/DSP.  There's two files there: one for
+Amiga (lzh), one for Mac (hqx).  The manual is inside, in MSWord, PostScript,
+RTF and text forms.
+
+--rbt
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 1 Feb 1996 02:52 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA17778; Wed, 31 Jan 1996 17:52:14 -0800
+Date: Wed, 31 Jan 1996 17:52:14 -0800
+Message-Id: <Pine.3.89.9601312028.A1102-0100000@email.ir.miami.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

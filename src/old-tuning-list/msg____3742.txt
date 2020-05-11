@@ -1,0 +1,102 @@
+source file: mills2.txt
+Date: Mon, 7 Oct 1996 08:26:32 -0700
+
+Subject: Reply to Daniel Wolf
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Daniel,
+
+I'm not familiar with Fux's fundamental bass, but I know that I would 
+disagree with Rameau where he does not allow the fundamental bass to 
+progress by second.
+
+>Thus, only pitch complexes constructed from (lower)
+>harmonic series members will be significantly affected by masking, such
+>that difficulties in discerning individual tones from the entire complex
+>occur. (Anyone who has ever tried to dictate ensemble musics has
+>experienced the masking problem).
+
+My point about combination tones was that the masking that occurs with 
+complexes constructed from subharmonic series members will be at least as 
+bad as that which occurs with harmonic complexes.
+
+>as the first visual observation was of different
+>strings (of different tension or thickness) moving faster and slower and
+>yielding different pitches (this is immediately observable in gut or wire
+>strings throughout the frequency ranges presumably used in ancient music),
+>and then the compared lengths of a single string were then used to quantify
+>this observation.
+
+And this quantification would have led to subharmonic relationships forming 
+an arithmetic progression, the simplest progression to understand (and to 
+continue to infinity).
+
+>Oscillatory periods and wave lengths are not observable
+>as such without special apparati
+
+True, but note the frequency is one over the ocsillatory preiod; therefore 
+if temporal measurements are basic, as you say, oscillatory periods are 
+logically prior to frequencies.
+
+>This is a weak argument, but I give it anyways: why is it that
+>microtonal music theorist structure their discourse almost universally in
+>terms of frequency ratios and not stringlengths, wavelengths, or periods?
+>Either this is just a convention (which I doubt because each individual
+>theorist seems to like building from first principles), or there is indeed
+>an intuitive quality to frequency ratios not shared by _alternative_
+>descriptions.
+
+Note that only very recently is this the case; as recent and as 
+scientifically astute a microtonal theorist as Huygens used the inverse 
+representation (which could have referred to stringlengths, wavelengths, or 
+periods).
+
+I'm sure you knew what my answer would be: (a) frequency ratios describe the 
+perception of the chord by the central pitch processor, so important 
+characteristics such as the root of the chord can be inferred from this 
+representation; (b) the combination tones will only make this representation 
+more relevant in terms of the implied root. The importance and special 
+status of the harmonic series, _especially_ when used to organize sine 
+waves, cannot be denied. It comes into play every time we hear a musical 
+instrument and we think we know what note it's playing.
+
+>_Mathematically_, however, the arithmetic divisions (subhamonic)
+>were recognized as closed segments of the harmonic division; each
+>individual arithmetic division yielded a finite number of pitches and was
+>exhausted,
+
+What on earth do you mean?
+
+>while the harmonic division was continuable indefinitely.
+
+This seems utterly nonsensical. Clearly the harmonic divisions _had_ to be 
+expressed in terms of the arithmetic divisions, not vice versa, in order to 
+instruct makers of instruments where to put the frets. Your "set theoretic" 
+distinction of one set as superior or more general than the other is 
+likewise nonsense.
+
+>(5) I havent a degree in physics but I do recognize that the region
+>between the smallest particle (10^-33 or so) and the vacuum (null) is not
+>precisely mirrored by its inversion.
+
+10^-33 what? 10^-33 meters? Are meters a unit of frequency? No, they are a 
+unit of length. Therefore, it is at small lengths, of strings or of waves, 
+where you would expect a "boundary problem"; i.e., high freqencies. Your 
+argument falls flat on its face.
+
+ -Paul
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 7 Oct 1996 18:00 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03936; Mon, 7 Oct 1996 17:01:41 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA03934
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA03262; Mon, 7 Oct 1996 09:01:39 -0700
+Date: Mon, 7 Oct 1996 09:01:39 -0700
+Message-Id: <65961007152256/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

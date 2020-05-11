@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Thu, 22 May 1997 19:29:04 +0200
+
+Subject: RE:Equal Divisions -- of What?
+
+From: PErlich <AAM/AAM/PErlich%Acadian@mcimail.com>
+
+David,
+
+I agree that JI makes for the best harmonies in most cases. There are 
+exceptions, such as a pentatonic scale played as a chord, where a meantone 
+tuning changes the three thirds from Pythagorean to near-just, without 
+giving up much consonance in the fifths. But yes, melody and harmony often 
+have contradictory implications for tuning.
+
+>> Finally, consider the geometric series
+>>
+>>  . .x^-9, x^-8, x^-7, x^-6, x^-5, x^-4, x^-3, x^-2, x^-1, x, x^2, x^3,
+>> x^4, x^5, x^6, x^7, x^8, x^9, . . .
+>>
+>> where x>0 and x does not equal 1. Whether the units of measurement are
+>> string length or wavelength or time period, as above, or frequency, as 
+in
+>> the 800:900:1000 Hz example, the result is the same: equal temperament!
+
+>Alright.  I figured out how to use the geometric series shown above to
+>acheive octave-repeating ET by supplying x with the nth root of two, where
+n
+>is the number of divisions/octave.  But I don't understand what you mean 
+by
+>putting a series of integrally-related frequencies such as 800:900:1000 Hz
+>into the equation.  If you apply the geometric series to a _single_ 
+frequency
+>you get ET.  But I can't seem to get the 800:900:1000 Hz _series_ to make 
+ET,
+>no matter what I do to it.
+
+All I was saying is that if you use frequency units as your units of 
+measurement, the geometric series gives you equal temperament.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 22 May 1997 19:49 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07883; Thu, 22 May 1997 19:49:02 +0200
+Date: Thu, 22 May 1997 19:49:02 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA07871
+Received: (qmail 13622 invoked from network); 22 May 1997 17:48:28 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 22 May 1997 17:48:28 -0000
+Message-Id: <338434F1.7510@gold.tc.umn.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

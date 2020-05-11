@@ -1,0 +1,87 @@
+source file: mills2.txt
+Date: Tue, 1 Jul 1997 12:14:47 +0200
+
+Subject: RE: Partch Limit vs Prime Limit (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Let those of us who don't understand Partch's work not accuse him of
+muddy thinking!!! As for priority, I seriously doubt the claim that the
+prime-limit concept predated Partch's work; in fact, it is often merely
+the result of misunderstanding Partch.
+
+I think we have at least four schools of thought here; add in the
+question of dualism and there are eight philosophies about the
+mathematical characterization of chords. All these, by the way, leave
+aside the issues of temperament and octave equivalence, so so will I for
+now.
+
+Let us sidestep the issue of odd vs. prime limits for now, and consider
+another dichotomy within the context of 5-limit lattices. There are
+those who subscribe to a rectangular matrix/ROHS/LCM/Tenney harmonic
+distance idea.  According to any of these philosophies, 15:1 is "the
+same" as 5:3, i.e., a major seventh is just as dissonant/complex as a
+major sixth. (Note that this conclusion is independent of the odd/prime
+question; it is important to keep that question from entering the
+present dichotomy.) In the rectangular matrix point of view, both
+intervals involve moving one unit along the 3-axis and one unit along
+the 5-axis. The relevant ROHS is this a 1X1 rectangle. The LCM of both
+intervals is 15.
+
+Since I think the major sixth is as basic a consonance as the major
+third (for many reasons including some recently discussed experiments on
+tuning major triads), I prefer a triangular lattice. Here 5:3 has an
+axis unto itself, so the lattice is filled with triangles, which
+represent major or minor triads depending on their orienetation. Now 5:3
+is just one step, while 15:1 is two. Considering that actual occurences
+where a 15:1 is emphasized in music are typically in the form 15:5:1 or
+15:3:1 (or 15:5:3:1), while 5:3 is happy all by itself, the triangular
+lattice seems more appropriate. In fact, the major seventh in equal
+temperament is 11 times closer to 17:9 than to 15:8; the reason that
+doesn't matter is that the individual steps in the triangular lattice
+are indeed well-represented in equal temperament, and 15:8 is merely a
+by-product of linking consonant intervals. 15:8 heard alone is indeed a
+dissonance and so its exact tuning is not crucial.
+
+Finally, note that the smallest triangles in the rectangular lattice are
+the major triad, the minor triad, the 15:5:1, and the 15:3:1. Are these
+equivalent in consonance? I think it is far easier to believe that the
+major and minor triads are more consonant that the other two, and the
+triangular lattice expresses this by the more compact geometric
+representation of the major and minor triads.
+
+Now, sticking to the 5-limit, we can address the odd vs. prime issue.
+Clearly, _any_ two points in the lattice, no matter how distant, form a
+5-limit interval, if the prime definition is used. If the limit is
+supposed to be related to dissonance/complexity, that should mean that
+any two points on the lattice form a more consonant interval than an
+8:7. But this is absurd. In fact, I would consider 9:8 slighlty more
+dissonant than 8:7, if heard in isolation. The Partch theory calls the
+former a 9-limit interval, correctly expressing its more complex nature.
+The claim that 27:16, heard in isolation, has a certain 3-limit quality
+to it, is nonsense to me, and is probably nothing more than a result of
+familiarity with the effects of Pythagorean tuning, and of listening to
+chords like 27:9:3:1. Relative primality is all that matters to the ear;
+absolute primality of the terms in a ratio can have no conceivable
+importance to the auditory phenomenon, and 27:16 differs materially from
+23:16 or 29:16 only in the simpler ratios they approximate (i.e., we are
+essentially getting into issues of temperament).
+
+It's hard to try to discuss these issues seperately since they are all
+>so intertwined . . .
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 1 Jul 1997 12:16 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00391; Tue, 1 Jul 1997 12:16:22 +0200
+Date: Tue, 1 Jul 1997 12:16:22 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00389
+Received: (qmail 4850 invoked from network); 1 Jul 1997 10:15:26 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Jul 1997 10:15:26 -0000
+Message-Id: <009B69A0B034BCFE.99DA@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

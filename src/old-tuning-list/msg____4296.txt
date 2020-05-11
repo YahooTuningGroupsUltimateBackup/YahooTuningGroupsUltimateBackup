@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Tue, 10 Dec 1996 18:01:23 -0800
+
+Subject: erratum in previous Tuning
+
+From: Will Grant <wgrant@cats.ucsc.edu>
+
+The reference to Secretary Albright as
+"Margaret The Outspoken" should have
+read "Madeleine The Outspoken,"
+and the article should have been posted
+as "Madeleine's Oysters."
+
+
+Will
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 11 Dec 1996 08:56 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22028; Wed, 11 Dec 1996 08:58:27 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA22115
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id XAA05239; Tue, 10 Dec 1996 23:58:24 -0800
+Date: Tue, 10 Dec 1996 23:58:24 -0800
+Message-Id: <199612110257_MC1-CFA-855@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

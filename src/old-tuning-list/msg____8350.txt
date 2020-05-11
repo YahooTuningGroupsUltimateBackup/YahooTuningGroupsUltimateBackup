@@ -1,0 +1,43 @@
+source file: m1502.txt
+Date: Wed, 12 Aug 1998 16:55:29 -0500 (CDT)
+
+Subject: Diameter for JI? (was Re: Nano-temperament)
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Wed, 12 Aug 1998, Paul Hahn wrote:
+> Or, if you don't like that example, how 'bout a JI-ist who wanted to
+> tune up Ellis' duodene, which is a 5-limit scale with a diameter of 5.
+                                                          ^^^^^^^^
+
+"Hold it, pH" I hear some of you saying, "I thought you'd only defined
+'diameter' in terms of ETs.  What's the diameter of a JI scale mean?"
+
+Well, it's not all that different.  It still means the number of primary
+intervals (within the particular limit) it takes to get between the two
+pitches within the scale that are farthest from each other.  In this
+case, to get from 16/15 to 45/32 takes five steps:
+
+		     5/3  --3--  5/4  --4-- 15/8  --5-- 45/32
+
+	            /   \       /   \       /   \       /
+	           2     \     3     \     4     \     5
+	          /       \   /       \   /       \   /
+
+	       4/3  --2--  1/1  --3--  3/2  --4-- 9/8
+
+	      /   \       /   \       /   \       /
+	     1     \     2     \     3     \     4
+	    /       \   /       \   /       \   /
+
+	16/15 --1--  8/5  --2--  6/5  --3--  9/5
+
+You can substitute a 36/25 tritone for the 45/32 without reducing the
+number of consonant triads, and reduce the diameter from 5 to 4, but
+it's not as symmetrical.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

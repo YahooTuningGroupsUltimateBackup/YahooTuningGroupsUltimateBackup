@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Wed, 6 Dec 1995 11:09:28 -0800
+
+Subject: Re: WAV to MIDI
+
+From: vincent.kenis@infoboard.be (Vincent Kenis)
+
+>Date: Tue, 5 Dec 1995 22:12:03 -0500
+>From: Mmcky@aol.com
+>To: tuning
+>Subject: WAV to MIDI
+>Message-ID: <951205221105_126183774@mail04.mail.aol.com>
+>
+>I received a phone call from Basim Daoud, who is into microtuning with a
+>Middle Eastern spin.  He has a 12 string acoustic instrument that he plays
+>monophonically.  He would like to record his music in a .WAV file and have it
+>translated to MIDI.
+>
+>Does anyone know of a software package that will do this?
+
+Logic Audio (Mac) has a Audio to score feature that works very well. You
+have access to detection parameters such as granulation, attack range,
+smooth release, velocity threshold, time correction. After the translation
+a window automatically opens with 3 different scores : notes, notes with
+undetermined pitch, noises (percussion, fret buzz etc). It even translates
+volume in velocity values, but doesn't take vibrato & slide, hence
+microtonal intervals, into account.
+Some standalone pitch to MIDI converters use pitch bend for that. But MIDI
+doesn't give a standard ratio between PB values and cents. On some synths
+the curve even varies from note to note.
+
+Good luck
+
+PS I like very much Middle Eastern music. Is the music youre trying to
+translate in MIDI "microtonal" because of the Arabian scale quartertones,
+or is the tuning orignal ? I'd like to hear it.
+
+PPS is there such a thing as a "microtonality for the rest of us", or
+whatever, CD compilation ? where can I find it ?
+
+Vincent Kenis
+
+     @< @
+        -
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 6 Dec 1995 21:46 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA05467; Wed, 6 Dec 1995 11:46:40 -0800
+Date: Wed, 6 Dec 1995 11:46:40 -0800
+Message-Id: <9512061152206186@csst.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,53 @@
+source file: m1405.txt
+Date: Mon, 4 May 1998 16:11:01 -0400 (EDT)
+
+Subject: Frequency tolerance, limits (was Optimal Integer Ratios for 12et)
+
+From: Steven  Rezsutek <steven.rezsutek@hq.nasa.gov>
+
+"Benjamin Tubb" <brtubb@cybertron.com> writes:
+
+> Does anyone know what the physical "tolerance" of the human ear is
+> to pitch/frequency/cents variations with the range of MIDI note
+> (0-127) frequencies from 8.175 Hz to 12543.853?
+
+I can't recall the reference off hand, but I've seen an article which
+gave this as a function of frequency.  From what I remember though, it
+isn't exactly linear, with the greatest sensitivity being in the range
+typical of human voices, as one might expect, and getting worse on the
+extremes of the range. I suspect that in the 8 HZ region it may or may
+not even exist (i.e. the frequency is too low to be perceived as a
+distinct tone to begin with.), but I'll defer to those more
+knowledgable.
+
+
+This does, however, open the door to something I've been curious
+about, but haven't felt important enough to ask: What do folks out
+there consider as a useable lower limit in frequency?  IOW, "How low
+do you go?" :-).  
+
+Personally, I find the "D" below bass "E", (roughly 37HZ?) to be
+rock-solid, the "C" below that to be just on the limit of what I
+perceive as a distinct *musical* tone, and the "B" below that (typical
+of most 5 string basses) to provide a nice rumble when it's supporting
+something an octave up, but lacking something as a musical note on its
+own.  [That's why my 5 stringers both have high Cs ;-)] By the time I get
+to the low "A" on a piano, it's pretty much a growl that happens to have 
+some semblence of pitch to it.
+
+Granted, this certainly has as much to do with the method of
+[re]production as the actual pitch and the limits of my particular set
+of ears, but moving significant amounts of air in the 8-32 Hz range
+can get pretty costly, not to mention heavy, if you have to cart it
+around. :-(
+
+This is more "practice" than "theory", but as painfully few home
+systems can do what pipe organs can, most PA speakers cut out around
+60Hz, and even the boxes some of us bottom-dwellers schlep around lose
+it below 35Hz, how do you all handle the bottom end in your music?  Do
+you treat it differently for effect ("subsonics") and for melodic or
+harmonic needs?
+
+Aspiring bassist wants to know...
+
+Steve

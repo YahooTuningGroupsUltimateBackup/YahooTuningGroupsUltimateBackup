@@ -1,0 +1,56 @@
+source file: m1408.txt
+Date: Thu, 7 May 1998 08:37:17 -0500 (CDT)
+
+Subject: Re: Triple-Just 12-Tone Tuning System
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Wed, 6 May 1998, Triple Just wrote:
+>    Pitch   Frequency   Interval
+> 
+>     C         1440
+>                          16/15
+>     B         1350
+>                         135/128
+>     A#        1280
+>                          16/15
+>     A         1200
+>                          16/15
+>     G#        1125
+>                          25/24
+>     G         1080
+>                           9/8
+                            ^^^ This should be 27/25.
+                                That messed me up a bit when I was
+                                trying to do the diagram below.
+>     F#        1000
+>                          25/24
+>     F          960
+>                          16/15
+>     E          900
+>                          10/9
+>     D#         810
+>                          81/80
+>     D          800
+>                          16/15
+>     C#         750
+>                          25/24
+>     C          720
+
+Mapped to the triangular lattice, this comes out:
+
+            25/18   25/24   25/16
+
+        10/9     5/3     5/4    15/8
+
+    16/9     4/3     1/1     3/2     9/8
+
+which is a nice regular shape with lots of consonances, but seems rather
+biased toward the sharp side--you don't even have a 6/5 above C.  Or do
+you use A as the tonic more often?
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

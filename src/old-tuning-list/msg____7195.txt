@@ -1,0 +1,25 @@
+source file: m1346.txt
+Date: Fri, 6 Mar 1998 19:20:50 -0600 (CST)
+
+Subject: Re: asr 10 w/25 tones in just
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>I 've got an instrument with a 25 tone just intonation scale
+>... The only way I can get the notes to be remotely
+>similar to what's on the keyboard is breaking the scale up into 8
+>different pitch tables, then copying the instrument eight times, each
+>with a different pitch table chosen.
+>Does anyone know of any easier way to realize this?
+
+   Uhmmm...  Why 8 pitch tables?  (Well, maybe that's not important.)
+
+   You may be able to use the patch select buttons:  Set up four layers of
+the same sound (using copy layer command, being sure to copy on parameters
+and not data also), but give each a different pitch table, and then in the
+Edit:Instrument page, edit the "00", "*0", "0*", and "**" layers.
+
+   That will work if you don't have to hit pitches from two different pitch
+tables at the same time.  If you do, then do you need all 128 notes?  If
+not, you can do keyboard splits, and use the octave-range of the notes to
+select different subset tunings.

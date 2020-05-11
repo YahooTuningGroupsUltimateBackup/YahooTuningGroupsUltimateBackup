@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Fri, 18 Oct 1996 16:07:53 -0700
+
+Subject: Tempered Fifths
+
+From: John Chalmers <non12@deltanet.com>
+
+Re Manuel's post on beat rates:  Needless to say, I was somewhat
+surprised by Manuel's recent post. However, I have been unable
+to find any errors in my values for tempered fifths. I have taken
+each of my fifths and computed the beat rates for the P5,P4, TM,
+Tm, SxM and Sxm and my values are equal when they should be and
+Manuel's are not for the cases I've had time to examine. 
+
+I presume the problem lies in our algorithms as the errors are for the
+most part in the 4th and higher significant figures. I used a commercial 
+Math package (circa 1987) and the Newton-Raphson method to solve the 
+4th and higher order polynomial equations for the values of the 
+temperers. These equations were based on Rasch's formulae, but I checked 
+the beat 
+rates with my own formulae based on the lowest common partials. So,
+I'm puzzled. 
+
+
+--John 
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 19 Oct 1996 01:06 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03093; Sat, 19 Oct 1996 01:08:41 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA03176
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA20952; Fri, 18 Oct 1996 16:08:38 -0700
+Date: Fri, 18 Oct 1996 16:08:38 -0700
+Message-Id: <Pine.SCO.3.91.961018155042.1210B-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

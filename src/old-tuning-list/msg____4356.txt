@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Wed, 18 Dec 1996 07:06:01 -0800
+
+Subject: Harrison/Lucy comments
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+>    As far as I remember, Doty got his arithmetic correct, yet
+>    insisted on comparing everything to integer frequency ratios,
+>    which of course entirely missed the significance of
+>    the beating.
+
+   Equal-beating in a meantone framework, yes.  Or, well, almost yes.  Erv
+Wilson's meta-meantone has equal-beating between 1-3 and 3-5 of a
+close-voiced, root-position major triad, with no doubling, and no notes
+omitted.  As Dan Wolf pointed out, LucyTuning is close to, but not exactly
+identical with, meta-meantone, so the value behind the pi-based definition
+is unclear.  
+
+   The usual 4:5:6 JI version of that same chord is also equal-beating, but
+not in a meantone framework as with meta-meantone.  
+
+   As for patenting and copyrighting tunings, Mr. Lucy might want to ponder
+whether that approach will backfire on him.  That in the sense that
+requiring people to get his permission (and probably pay royalties) to use
+LucyTuning commercially is likely to pretty much ensure that nobody will
+use it.  There's a lot of "tuner fish" (har har) in the musical ocean.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Dec 1996 22:10 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02494; Wed, 18 Dec 1996 22:13:08 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02492
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA20461; Wed, 18 Dec 1996 13:13:00 -0800
+Date: Wed, 18 Dec 1996 13:13:00 -0800
+Message-Id: <v01510107aedd9aa31733@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

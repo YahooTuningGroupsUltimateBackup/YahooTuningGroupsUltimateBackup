@@ -1,0 +1,92 @@
+source file: m1454.txt
+Date: Mon, 22 Jun 1998 05:49:22 -0500
+
+Subject: Double Equal Temperament
+
+From: "Benjamin Tubb" <brtubb@cybertron.com>
+
+I'm including the following info for those who might be interested in trying
+this tuninig system if they haven't already heard of it.
+
+Joseph Schillinger created Double Equal Temperamnet and described/referenced it
+on pages 273, 274, and 665 of "The Mathematical Basis of the Arts":
+
+page 273 (footnote 1): See Appendix C, which presents a primary selective
+system (tuning system) in music worked out by Schillinger for the execution of
+intonations not possible in our present tuning system. Schillinger called it
+Double Equal Temperament to distinguish it from our equal temperament system.
+(Ed.)"
+
+page 274: "The primary selective system, which dominates the music of the
+western world, is known as equal temperament and consists of a series of 12
+semitones. It is possible to construct a tuning system which would permit
+execution of other systems of intonation, such as mean temperament, just
+intonation, and the inflections of special types of intonation. The author has
+devised a system of tuning, "double equal temperament," which successfully
+unifies these systems of intonation. (See Appendix C.)"
+
+page 665 (Appendix C): "Double Equal Temperament is a primary selective system
+of tuning, designed in accordance with thos theory. Double Equal Temperament
+successfully unifies all systems of intonation used in the western world today.
+It consists of the basic intervals: the 12th root of 2, combined with
+micro-intervals: 144th root of 2, which serve as deviation units and are
+arranged in relation to each basic unint. The micro-units are best averages for
+all differences between units of the 12th root of 2 and just intonation
+(natural scale). This tuning permits one to execute with a high degree of
+precision: twelve-unit equal temperament, just intonation, and the string and
+vocal inflections of special types of intonation (chamber, jazz, Gypsy music,
+etc.).
+
+An electronic organ with micro-tuning and a specially designed keyboard was
+built in 1932 for the author by Leon Theremin for the performance of Double
+Equal Temperament."
+
+page 664 illustrates and defines Double Equal Temperament as:
+
+C   1
+C+  2^(1/144)
+C#- 2^(11/144
+C#  2^(1/12)
+C#+ 2^(13/144)
+D-  2^(23/144)
+D   2^(1/6)
+D+  2^(25/144)
+D#- 2^(35/144)
+D#  2^(1/4)
+D#+ 2^(37/144)
+E-  2^(47/144)
+E   2^(1/3)
+E+  2^(49/144)
+F-  2^(59/144)
+F   2^(5/12)
+F+  2^(61/144)
+F#- 2^(71/144)
+F#  2^(1/2)
+F#+ 2^(73/144)
+G-  2^(83/144)
+G   2^(7/12)
+G+  2^(85/144)
+G#- 2^(95/144)
+G#  2^(2/3)
+G#+ 2^(97/144)
+A-  2^(107/144)
+A   2^(3/4)
+A+  2^(109/144)
+A#- 2^(119/144)
+A#  2^(5/6)
+A#+ 2^(121/144)
+B-  2^(131/144)
+B   2^(11/12)
+B+  2^(133/144)
+C-  2^(143/144)
+(C) 2
+
+-------------
+Benjamin Tubb
+AIM: brtubb
+ICQ: 650264
+brtubb@cybertron.com
+http://home.cybertron.com/~brtubb/theory.html
+
+The Music of Stephen Collins Foster (1826-1864)
+http://www.geocities.com/Nashville/9958/

@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Sun, 4 May 1997 15:43:44 -0700
+
+Subject: Xenharmonikon web site has moved (slightly)
+
+From: xen@tiac.net (J. Pusey)
+
+The Xenharmonikon web site has been restructured and moved (slightly).
+The new URL is as follows:
+
+    http://www.tiac.net/users/xen/xh/
+
+Please update your links and bookmarks to point the new address.  I have
+also spiffed up the graphics on the XH pages and added navigation bars.
+Hope you all like the new format.
+
+I never formally announced the addition of the XH Errata page last
+summer -- but it is indeed there (many thanks to Manuel Op de Coul for
+sending info on many of the errors).  If anyone knows of any other
+errors in XH that are not included on the Errata page, please send them
+to me for verification and inclusion.
+
+John
+
+---
+John G. Pusey        xen@tiac.net        http://www.tiac.net/users/xen/jgp/
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 5 May 1997 00:46 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04589; Mon, 5 May 1997 00:46:18 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04574
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id PAA08695; Sun, 4 May 1997 15:44:20 -0700
+Date: Sun, 4 May 1997 15:44:20 -0700
+Message-Id: <v01540b00af92cecebea7@[206.119.10.100]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

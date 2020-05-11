@@ -1,0 +1,30 @@
+source file: m1514.txt
+Date: Tue, 25 Aug 1998 09:40:24 -0500 (CDT)
+
+Subject: Re: geometrical mean
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Mon, 24 Aug 1998, Jan Haluska wrote:
+> if  X , Y  are two tone frequencies, 
+> how to tune the  value  Z=sqrt(X*Y)  acousticaly
+> ( sqrt(X*Y)  denotes the geometrical mean of the tones  X  and  Y )? 
+> Demonstrate the method on   X = 1,   Y =   5/4 .
+
+In the general case, this is a Hard Problem.  Which is why widespread
+experimentation with random ETs has had to wait until the computer
+revolution.
+
+In the specific case requested, that of determining the mean tone (used
+in 1/4-comma meantone tuning), there are various methods.  If I were
+tuning my virginal or something, I would probably do something like
+this: tune up a (just) 3/2 and a 6/5 to get 9/5 above; tune down a 3/2
+and then up a 4/3 (again just) to get 8/9 below, then tune the target
+string (halfway between 10/9 and 9/8, we hope) to beat at the same rate
+with each of those.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

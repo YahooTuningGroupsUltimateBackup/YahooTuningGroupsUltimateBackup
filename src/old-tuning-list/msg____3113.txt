@@ -1,0 +1,176 @@
+source file: mills2.txt
+Date: Tue, 25 Jun 1996 15:01:14 -0700
+
+Subject: Post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Paul Erlich's insightful comments
+--
+Kudos to Paul Erlich.  Having seived through
+hundreds of my posts and thousands of my posted
+quotes, references, tables, numbers, equations
+and citations, he has succeeded in finding
+2 errors. (Actually one of 'em is not an
+error, but a sly joke.)
+The 1ere error in question involves my calling
+phi a transcendental number.  As Paul astutely
+points out, phi is the solution of a simple
+algebraic equation with rational coefficients
+and real rational exponents: x^2 - X - 1 = 0.  
+This means that phi is by definition an
+algebraic irrational, rather than a 
+transcendental irrational number. 
+Thanks, Paul.
+As mentioned on many another occasion,
+Your Humble E-Mail Correspondent is a 
+mathematical idiot.  This means I make plenty
+of flubs when it comes to math--like my infamous
+statement that "i is the square root of -1."  
+(Of course -i also qualifies, as Manuel Op de
+Coul pointed out.)
+This also means that I'll make plenty of mathematical
+flubs in the future.
+Thanks in advance to everyone who'll be on the lookout
+for my math errors.  It's important, when speaking 
+about mathematics, to catch the errors before they
+propagate.
+Here's Erlich's reaction to my little joke (which he
+must have misunderstood as an error):
+"Brian McLaren wrote:
+
+>As the final and most bizarre demonstration of the properties
+>of extended Wilson CPS scales, observe the tuning which
+>falls out of the 3,8 [1.22222, 2.33333, 3.444444, 4.55555,
+>5.666666, 6.777777, 7.888888, 8.99999].
+>According to Manuel Op de Coul's SCALA program, this
+>Wilson CPS produces the 9-tone equal-tempered scale.
+>--mclaren
+
+"It does not. However, [2^1.22222, 2^2.33333, 2^3.444444, 2^4.55555,
+2^5.666666, 2^6.777777, 2^7.888888, 2^8.99999] is all the notes in the
+9-tone equal tempered scale, and combination product sets of this will,
+trivially, produce 9-tone equal tempered scales. Nothing bizarre about it.
+Brian McLaren reminds me of a Ludwig Plutonium on some of the sci.
+newsgroups, and Albert Silverman on rec.music.compose. Long,
+self-aggrandizing posts filled with factually incorrect and useless 
+examples and lots of whining about the establishment, accompanied by 
+a complete lack of ability to communicate with the other members of 
+the group." -- Paul Erlich, Tuning Digest 719
+
+
+Let us re-examine EXACTLY what I said:
+
+"According to Manuel Op de Coul's SCALA program, this
+Wilson CPS produces the 9-tone equal-tempered scale." -- mclaren
+
+My statement above is correct as it stands.  
+There's a bug in Manuel's SCALA program version 1.0 which 
+produces a fairly humorous result for the CPS function when
+you input a Wilson 3,8 CPS with generators [1.22222, 2.33333, 
+3.444444, 4.55555, 5.666666, 6.777777, 7.888888, 8.99999]
+It doesn't take a rocket scientist to figure out that these
+generators cannot possibly produce a 9-TET scale--or
+so I assumed. 
+It seemed so obvious to me that the result I gave was
+comically wrong, that it would be immediately apparent
+to any forum subscriber that I was poking a tiny bit of
+fun at the beta version of Manuel's SCALA program.
+The tip-off, of course, being the last sentence of my post--
+a sentence which Erlich deliberately left off when 
+he misrepresented my post:
+
+"According to Manuel Op de Coul's SCALA program, this
+Wilson CPS produces the 9-tone equal-tempered scale.
+It is left as an exercise for the enterprising xenharmonist
+to determine why and how.
+--mclaren"
+
+My expectation was that at least one "enterprising xenharmonist"
+would actually feed my numbers into SCALA, discover that
+SCALA gave an incorrect result, and report that fact in the
+properly amused tone.
+Instead, Erlich compares me to someone called "Ludwig Plutonium," 
+whoever that is.
+Let us re-read the last sentence of my post:
+
+"It is left as as an exercise forthe enterprising xenharmonist
+to determine why and how." -- mclaren
+
+This is peculiar way of describing what should be a straightforward
+scale-generation procedure.  Tongue in cheek, anyone?  The "why" 
+is simple: there's a bug in SCALA 1.0.  The "how" is less simple--
+it appears to involve an ADA routine which assumes that only
+integers will be entered.
+I did not expect anyone to penetrate that deeply into the arcana
+of my sly little joke; and of course no one did.
+Thus, when Erlich complains (Tuning Digest 719) about
+"Long, self-aggrandizing posts filled with factually incorrect and 
+useless examples..."   it is of some interest to examine his plaint.
+Presumably Erlich wants people to believe that my posts are
+"filled" with "factually incorrect" examples.
+Yet out of my hundreds of posts and thousands of facts, Erlich
+has been able to find only 2 errors--one of which wasn't even
+an error.
+Out of my thousands of facts and hundreds of posts, Erlich pounces
+on 1 (one, count it--one) error.  (I incorrectly identified phi as
+a trascendental irrational rather than an algebraic irrational.)
+On the basis of this 1 (one, count it--one) error, Erlich
+rants:
+"Brian McLaren reminds me of a Ludwig Plutonium on some of the sci.
+newsgroups..." 
+Okay.
+Now I think we've all got the picture.
+Make 1 error out of  several hundred posts, and you're a charlatan.
+One (count it, 1) error identified out of thousands of facts,
+tables, quotes, citations...and *this* means that my posts are
+"filled" with "factually incorrect" examples.
+Need I say more?  
+Does *anyone* out there require convincing that Paul Erlich
+is less concerned with the facts than with ad hominem attacks
+on Your Humble E-Mail Correspondent?
+While we're on the subject of errors, turnabout is fair play.
+So let's examine one of Paul Erlich's own posts,
+and see whether it contains any "factually incorrect" examples...
+Paul Erlich stated in Tuning Digest 718 that subharmonics are 
+not   present in the spectra of  acoustic instruments.  
+This is not only false, it demo
+hates that Erlich has not done 
+little (if any) Fourier analysis of real-world instrument sounds.
+One of the hard facts is that book learning will  only take 
+you so far when you apply DSP techniques to the study of
+real sounds.  Then you've got to get your hands dirty out in
+the real world and find out that 90% of what you
+learned in those books applies only in special cases,
+or doesn't apply at all.
+Ralph David Hill has written a Fourier analysis/
+resynthesis software system which is capable of
+detecting, analyzing, and resynthesizing quasi-
+harmonic sounds.
+Yesterday I visited Dave at his home and he ran
+me through a demo of his system.  He resynthesized
+a trombone note with and without the octave-below and 
+2-octaves below subharmonic.  The notes resynthesized
+without both subharmonics sounded noticeably different
+from the original sound, and significantly less
+realistic.
+Dave reported this at the 1982 ICMC, so it's very old news.
+Clearly Paul Erlich needs to learn something about
+signal processing, real-world timbres, and the
+limitations of using off-the-shelf Fourier
+analysis software. 
+--
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 26 Jun 1996 05:19 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id UAA02106; Tue, 25 Jun 1996 20:19:06 -0700
+Date: Tue, 25 Jun 1996 20:19:06 -0700
+Message-Id: <Pine.SV4.3.91.960626124453.11994A-100000@adelaide.DIALix.oz.au>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

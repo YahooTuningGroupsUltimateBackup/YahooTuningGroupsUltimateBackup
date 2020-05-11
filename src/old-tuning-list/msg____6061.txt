@@ -1,0 +1,91 @@
+source file: mills3.txt
+Date: Wed, 10 Sep 1997 03:11:30 +0200
+
+Subject: RE: Tuning of the 2nd sruti
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+Manuel Op de Coul wrote:
+
+>The 22-tone sruti system is by no means uncontroversial, but
+>experiments where musicians tune instruments or oscillators have
+>produced tunings that are in good agreement with the theoretical
+>values.
+
+I would be very interested in your source for these experiments, if you
+have it handy. If the tuning of the srutis is controversial, then how can
+the experimenters have "theoretical values" to check recordings against?
+
+By the way, I mentioned earlier that the first mention of precise tunings
+that I know of comes from the Hrdayakautaka of Hrdaya Narayana of the late
+17th century. I should have said that they are tunings of the 12 svaras,
+not the 22 srutis. Also, there is an ambiguity in the text that can lead to
+two different interpretations for some pitches. Here they are, reduced to
+ratios:
+
+interpretation #1 interpretation #2
+(Bhatkande)       (Levy)
+1/1               1/1
+27/25             27/25
+9/8               9/8
+6/5               6/5
+54/43             72/57
+4/3               4/3
+162/113           36/25
+3/2               3/2
+18/11             18/11
+27/16             12/7
+9/5               9/5
+81/43             36/19
+2/1               2/1
+
+Like some of our correspondents, Fox-Strangeways considered Bharata's 4
+srutis to be a major tone (9/8) 3 to be a minor tone (10/9) and 2 to be a
+just semitone (16/15). However, there is no direct evidence for this
+interpretation in Bharata, nor in any of the treatises that I know of for
+more than a millineum following him.
+
+In fact, Bharata, like medieval European writers, considers the 3rd to be
+in the "assonant" (anuvadi) category -- that is, neither consonant nor
+dissonant. It could be argued that a 5/4 third would be considered
+consonant, though such a judgement is also very culturally bound. Notice
+that Narayana's tuning of the major third in both interpretations above is
+a rather complex ratio.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Manuel.Op.de.Coul@ezh.nl
+Subject:  RE: sruti details
+PostedDate:  12-09-97 07:24:59
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-09-97 07:24:51-12-09-97 07:24:52,12-09-97 07:24:14-12-09-97 07:24:14
+DeliveredDate:  12-09-97 07:24:14
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256510.001DBD86; Fri, 12 Sep 1997 07:24:50 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA26651; Fri, 12 Sep 1997 07:24:59 +0200
+Date: Fri, 12 Sep 1997 07:24:59 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA26683
+Received: (qmail 12770 invoked from network); 12 Sep 1997 05:24:55 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Sep 1997 05:24:55 -0000
+Message-Id: <C125650E.0048A2F0.00@notesrv2.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

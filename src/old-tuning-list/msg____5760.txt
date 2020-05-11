@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Sat, 5 Jul 1997 23:20:38 +0200
+
+Subject: Re: Octave equivalence
+
+From: DFinnamore@aol.com
+
+If this was dealt with in digest 1122, I apologize - I haven't received that
+one yet.
+
+In digest 1124, refering to something I wrote in 1119, I write:
+
+> ... However, there is still a
+> unique relationship if you consider that the lower one will cross the zero
+>  point only at points at which the higher one is also crossing _and 
+> completing
+>  an even number of cycles_.  It turns out that odd-number multiples cross
+in
+>  mid-cycle where the lower one crosses, and even ones cross at completed
+>  cycles.
+
+Ack!  I did it again!  Sometimes I feel like Andy Griffith: "Barn, can you
+believe that I can fit this gre't big foot - all of it - in my mouth?!"
+
+Actually, any number which is [a power of two greater than one] of any whole
+number (x*2^y, where x any whole number, and y is any whole number > 1 --
+12, for example) will fit my definition (I think).  There seems to be no
+especially unique relationship for powers of two.  I see now that I was
+originally visualizing waveforms with the following series of relationships:
+1/1, 2/1, 3/2, 4/2, 5/4 ... - in other words, I was assuming octave
+invariance in my attempt to prove octave invariance - bad reasoning all
+through.  Sorry, everyone.  Ah, the power of a false assumption!  Having
+discovered that, I was still clinging desparately to Marion's observation:
+
+>On octave invariance, it has just occurred to me that, in LCM
+>terms, the octave has a property that no other ratio shares. 
+>That is two notes that differ only by octaves can be mixed
+>without making the length of the resulting "interference" pattern
+>longer than the waveform of the lowest note.
+
+But wouldn't that be true of x:1 where x any whole number, not just powers
+of two?  So it appears to be an argument for otonal ratio invariance, of
+which octave invariance is merely the simplest example.  Am I on the right
+track yet?
+
+Well, maybe psycho-physical evidence will prove to be a good arrow in our
+quiver, Paul E.
+
+David J. Finnamore
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 6 Jul 1997 02:51 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05543; Sun, 6 Jul 1997 02:51:39 +0200
+Date: Sun, 6 Jul 1997 02:51:39 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05525
+Received: (qmail 24046 invoked from network); 6 Jul 1997 00:51:35 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 6 Jul 1997 00:51:35 -0000
+Message-Id: <199707060049.UAA14674@phyleus.interlinx.qc.ca>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

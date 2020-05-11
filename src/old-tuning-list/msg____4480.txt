@@ -1,0 +1,51 @@
+source file: mills2.txt
+Date: Thu, 2 Jan 1997 23:09:16 -0800
+
+Subject: integral overtones
+
+From: James Kukula <kukula@synopsys.com>
+
+Natural systems have all sorts of wierd overtone sets. Nice uniform strings
+will generate integer overtones. Nonlinear systems - systems with distortion,
+like overdriven loudspeakers - also seem to generate integer overtones.
+
+Systems with just one degree of freedom seem to be constrained to move
+periodically, which forces integer overtones, as has already been pointed
+out. One degree of freedom means a two dimensional phase space (the space of
+combinations of position and velocity). In three or more dimensions one can
+embed arbitrary graphs, but in two dimensions the possibilities are cut back
+severely. In a similar way it seems like the trajectory of a simple
+oscillator just doesn't have the topological freedom to fold around in
+strange ways. I might well be wrong about this. (I should hunt around in the
+literature but most of that stuff goes way over my head!)
+
+But the tendency of nonlinearity to create integral overtones seems to go
+beyond one dimensional systems. In a relatively calm ocean, waves of all
+different frequencies run over each other freely. But once waves start
+cresting, then distinct shapes start to appear and move through space
+together. This sort of phase coherence is again a periodic motion that
+implies integer overtones.
+
+It does seem that nature has a certain prejudice in favor of integers!
+
+Actually our common use of integers to count distinct objects seems related
+to the kind of phase coherence created by nonlinearity. Nonlinearity makes
+things clump together and split apart, and that's why there are things to 
+count. (And to do the counting!) Huh, and that's really the root of the
+distinction between digital and analog circuitry - digital circuits use
+distortion to make nice distinct pulses. (It's getting too late at night!)
+
+Jim
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 3 Jan 1997 09:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01241; Fri, 3 Jan 1997 09:14:34 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01239
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id AAA18907; Fri, 3 Jan 1997 00:14:25 -0800
+Date: Fri, 3 Jan 1997 00:14:25 -0800
+Message-Id: <memo.981089@cix.compulink.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

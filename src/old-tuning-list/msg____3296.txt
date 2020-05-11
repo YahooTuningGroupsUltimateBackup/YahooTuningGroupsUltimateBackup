@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Tue, 23 Jul 1996 07:33:04 -0700
+
+Subject: RE: VFX tuning
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+I wrote:
+
+>>3. Interpolating often produces strange results. It appears to insist that 
+
+>>all steps be exactly the same number of cents, and takes the liberty of
+>>changing one of your endpoint pitches to make this possible. Often, the
+>>resulting interpolation is backwards, decreasing in pitch rather than
+>>increasing as you go up the keyboard, with one huge step from an extremely 
+
+>>low note to an extremely high note in the middle. The order in which you
+>>specify the endpoints does not seem to matter.
+
+Steve Curtin wrote:
+
+>I hadn't looked at interpolation that closely but I had tried it out with
+>many of the standard ETs such as 19 etc.  Can you give a specific case for
+>the backwards interpolation?
+
+I tried mapping the Bohlen-Pierce scale, where a minor ninth on the keyboard 
+becomes a perfect twelfth (and 2 cents) acoustically. It took many attempts 
+on different parts of the keyboard before I could get a "forwards" 
+interpolation, and then extrapolate.
+
+768 tones/octave is good enough for my purposes. I tried a circulating 
+temperament, where the circle of fifths was nominally adjusted by -3, -2, 
+ -1, 0, +1, +2, +3, +2, +1, 0, -1, -2 cents. F# was the most dissonant major 
+chord, as expected, but B-flat, rather than C, was the most consonant. I 
+don't think there would be much of an audible difference for music that goes 
+by at a reasonable pace, so I'm not going to complain. But if there is a 
+systematic way of getting better results, I'd like to know about it.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 23 Jul 1996 17:09 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA08425; Tue, 23 Jul 1996 08:09:18 -0700
+Date: Tue, 23 Jul 1996 08:09:18 -0700
+Message-Id: <90960723150509/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

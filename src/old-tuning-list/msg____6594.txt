@@ -1,0 +1,56 @@
+source file: mills3.txt
+Date: Fri, 12 Dec 1997 01:03:53 +0100
+
+Subject: Re: septimal intervals
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+Graham Breed said:
+
+> To state my own opinion, which is the only one I trust, a just 4:6:7
+> chord is more consonant than a major triad in 12 equal.  Extending
+> consonance to the 7-limit means just that -- no further.
+
+In the more usual timbres at least, the 7:6 interval beats too much to
+be consonant, affected as it is by the unison. The 7:5 is obscured by
+the fifth and fourth. There is a slightly stronger case for the 7:4, but
+note that the first partial of the lower tone beats with the fundamental
+of the upper tone (8:7).
+
+The 7:4 forms dissonant intervals with the consonances of the senario,
+whereas 8:5 does not (at least not with 6:5 & 4:3).
+
+This is a vast subject however, which can scarcely be treated here on
+the scale it deserves.
+
+I quite agree that the dissonance or consonance of the septimals  proves
+nothing regarding the undecimal intervals.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  22-tone equal, reply to Ehrlich
+PostedDate:  12-12-97 02:22:13
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-12-97 02:20:16-12-12-97 02:20:16,12-12-97 02:20:00-12-12-97 02:20:01
+DeliveredDate:  12-12-97 02:20:01
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656B.0007579A; Fri, 12 Dec 1997 02:22:08 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12599; Fri, 12 Dec 1997 02:22:13 +0100
+Date: Fri, 12 Dec 1997 02:22:13 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA13352
+Received: (qmail 11481 invoked from network); 11 Dec 1997 17:22:08 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 11 Dec 1997 17:22:08 -0800
+Message-Id: <3490F3C6.670B@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

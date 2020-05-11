@@ -1,0 +1,46 @@
+source file: m1341.txt
+Date: Mon, 2 Mar 1998 14:58:35 +0100
+
+Subject: Re: Identification of pitches
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+> I am developing software to automatically implement alternate tunings in
+> MIDI files through the use of pitch bends or other methods. The idea is
+to
+> allow notation on a staff or piano roll without regard to the actual
+> pitches represented, then processing the resultant MIDI file along with a
+> scale file to produce a second MIDI file with the notes adjusted and
+pitch bends
+> inserted before each note to tune to the proper pitch on-the-fly.
+
+Brian,
+
+If you don't want to reinvent the wheel you should review existing
+programs that do this. Graham Breed, Kami Rousseau and I among others
+have written software along these lines. My program, Scala, offers the
+most features.
+
+> Is there an established system that precisely identifies each pitch? I
+know
+> that the MIDI note numbers identify 12TET but what about the rest?
+
+There are many different microtonal notation systems each with their
+advantages and disadvantages. With a fixed scale, one can use scale
+degree numbers. Or one can notate a pitch explicitly in cents. But
+it's usually more convenient to use note names with accidentals. In my
+program there is support for several notation systems with a small
+set of accidentals like # and b for semitone, / and \ for comma,
+and ) and ( for diesis. There's no graphic input however, text files
+or MIDI files are used for input.
+Then you can give a pitch like "F#.1" where 1 stands for one octave
+above middle C. The value it represents will depend on the notation
+system chosen and the nearest pitch to this value in the input scale
+will be used. This enables use of different tunings with the same
+input file, and even use of different notation systems to a certain
+extent.
+
+The DOS version of Scala is
+ftp://ella.mills.edu/ccm/tuning/software/pc/scala/scala.zip
+
+Manuel Op de Coul    coul@ezh.nl

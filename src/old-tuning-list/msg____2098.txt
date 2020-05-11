@@ -1,0 +1,86 @@
+source file: mills2.txt
+Date: Thu, 5 Oct 1995 12:58:04 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & psychoacoustics - post 12 of 25
+---
+The psychoacoustic evidence for the periodicity and Fourier-analysis-based 
+models of hearing has now been examined. 
+But what about interaction between these two ear/brain systems?
+Evidence for this comes from David Wessel's examination of a psychoacoustic effect known as "streaming" in the mid-70s: 
+"Consider a melodic line of eleven tones where the even-numbered tones and 
+the odd-numbered tones are separated in register. As shown...at a rate of 5 
+or 6 tones per second, a listener would hear the sequence as a coherent 
+succession.  At a faster tempo--10 to 12 tones per second--the high tones 
+group together to form a separate stream from the low tones. At an 
+odge, C., Jerse, T. "Computer Music: Synthesis, Composition and Performance," 1985, pg. 47]
+Time is a crucial factor in pitch perception, implying further feedback 
+between the periodicity and Fourier-analysis systems of pitch detection: 
+"The data...show that the just-noticeable relative frequency difference 
+increases with decreasing test-tone duration. (...) At long durations (around 
+500 ms) a critical-band rate difference of 0.01 Bark represents the just-
+noticeable difference for pitch.  At a duration  of 10 ms, the JNDF amounts 
+on average to 0.2 Bark.  For a decrease of the test-tone duration by a factor 
+of 10 ms, the magnitude of the JNDF, expressed in critical-band rate, 
+increases by a factor of 10.  Thus pitch differences which are easily 
+detected at logn durations are no longer distinguishable at short durations.  
+This effect is well known to musicians: inaccuracies in intonation, easily 
+detected in sustained tones, almost disappear if the tones are considerably 
+shortened in duration, for example by playing `spiccato.'" [Zwicker, W. and H. 
+Fastl, Psychoacoustics: Facts and Models, 1990, pg. 116]
+Other results make it clear that the perception of pitch is dependent on the 
+temporal order of tones:
+"When presented witha group of spectral components, a listener may or may 
+not fuse them into the percept of a single sound.  One of the determining 
+factors is the "onset asynchrony" of the spectrum which refers to the 
+difference in entrance times among the components. (...)  Rudolf Rasch has 
+noticed a related phenomenon with regard to the synchronization of tones in 
+chords in polyphonic music.  He has found that the amount of asynchrony in 
+starting times of chord tones actually improves our ability to perceive the 
+individual tones while we continue to perceive the chord as a whole. 
+Rasch has shown that the effect obtains best when the attacks of the tones 
+are spread out over a time span of 30 to 50 msec." [Dodge, C., and Jerse., T. 
+"Computer Music:  Synthesis, Composition and Performance," 1985, pg. 59]
+Because of this unexpected interdependence of time with freqeuncy 
+perception, it seems likely that all 3 of the ear's mechanisms for processing 
+sound interact to some degree. There is further evidence for this interaction 
+between all 3 ear/brain systems in the form of auditory paradoxes:
+"Paradoxical effects can be obtained thanks to the precision and flexibility 
+inherent in computer synthesis.  Shepard produced a sequence of 12 tones in 
+chromatic succession which seem to rise indefinitely in pitch when they are 
+repeated.  I extended this  paradox and generated, e.g., ever-ascending or 
+descending glissandi, and sounds going down the scale and at the same time 
+getting shriller. These paradoxes are not merely "truquages"--artificial 
+curiosities: they reflect the structure of our pitch judgments.  Pitch appears 
+to comprise a focalized aspect, related to pitch class, and a distributed 
+ascpect, related with spectrum, hence with timbre--and the paradoxes are 
+obtained by controlling independently the physical counterpart of these
+attributes, which are normally correlated. I have even manufactrured a 
+sound which does down in pitch for most listeners when its frequencies are 
+doubled--i.e., when one doubles the speed of the tape recorder on which it is 
+played; this shows how misleading mere intuition can be in predicting the 
+effect of simple transformations on unusual sounds." [Risset, J.C., "The 
+development of Digital Techniques: A Turning Point for Electronic Music?"  
+Rapports IRCAM No. 9, 1978, pg. 7]
+These effects make clear the importance of context and the subtlety of 
+interaction among the ear's various methods of sound processing. 
+This would tend to militate against tuning theories which stress absolutes 
+like beats or the convenience of easy modulation, and would support instead 
+the use of non-just non-equal-tempered tunings whose context-driven 
+character mirrors  this aspect of the ear/brain system.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Oct 1995 07:40 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA01139; Thu, 5 Oct 1995 22:40:25 -0700
+Date: Thu, 5 Oct 1995 22:40:25 -0700
+Message-Id: <951006053855_71670.2576_HHB33-5@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

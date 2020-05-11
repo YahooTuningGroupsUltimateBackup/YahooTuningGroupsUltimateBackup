@@ -52,6 +52,8 @@ const writeListHtml = list => {
             initialElement = elements[0]
         }
 
+        const ids = elements.map(el => el.id).sort()
+
         const topicName = initialElement.email.subject
         fs.appendFileSync(listTopicPage, `<a href="/${list}">back to list</a>`)
         fs.appendFileSync(listTopicPage, `<h1>${topicName}</h1>`)
@@ -99,6 +101,11 @@ const writeListHtml = list => {
             fs.appendFileSync(listTopicPage, `<div style='${EMAIL_TEXT_STYLE}'>${textAsHtmlWithLinksUpdate}</div>`)
 
             element = elements.find(el => el.id === nextId)
+
+            if (!element && nextId !== 0) {
+                const altNextId = ids[ids.indexOf(id) + 1]
+                element = elements.find(el => el.id === altNextId)
+            }
         }
     })
 }
@@ -109,6 +116,11 @@ const parseList = list => {
 
     setupPage(list)
     fs.appendFileSync(ROOT_PAGE, `<h3><a href=${list}>${list}</a></h3>\n`)
+
+    if (list === 'old-tuning-list') {
+        parseOldTuningList()
+        return
+    }
 
     let processedMessageCount = 0
     let messageCount = 0
@@ -166,6 +178,43 @@ const setupPage = (list) => {
         </html>
     `
     fs.appendFileSync(`dist/${list ? `${list}/` : '/'}index.html`, header)
+}
+
+const parseOldTuningList = () => {
+    const list = 'old-tuning-list'
+
+    const subjects = []
+
+    fs.readdirSync(`src/old-tuning-list`).forEach(messageFile => {
+        const message = fs.readFileSync(`src/old-tuning-list/${messageFile}`).toString().split('\n')
+        const datetime = new Date(message[1].replace('Date: ', ''))
+        const subject = message[3].replace('Subject: ', '').replace('Re: ', '')
+        const from = message[5].replace('From: ', '')
+        const textAsHtml = message.slice(7).join('<br>')
+        const topicId = subjects.indexOf(subject) === -1 ? subjects.push(subject) && subjects.length : subjects.indexOf(subject)
+
+        if (!parsed[list]) parsed[list] = {}
+        if (!parsed[list][topicId]) parsed[list][topicId] = []
+        let id = parseInt(messageFile.replace('msg____', ''), 10)
+
+        parsed[list][topicId].push({
+            email: {
+                attachments: [],
+                textAsHtml,
+                from: {
+                    text: from,
+                },
+                subject,
+            },
+            date: datetime.toLocaleDateString('en-US'),
+            time: datetime.toLocaleTimeString('en-US'),
+            previousId: id - 1,
+            nextId: id + 1,
+            id,
+        })
+    })
+
+    writeListHtml(list)
 }
 
 deleteFolderRecursive('dist')

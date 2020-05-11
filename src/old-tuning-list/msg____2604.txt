@@ -1,0 +1,88 @@
+source file: mills2.txt
+Date: Fri, 1 Mar 1996 07:45:06 -0800
+
+Subject: Pythagorean scales
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+With the current interest in Pythagorean scales, it's a good time
+to explain how the command in Scala works that creates a Pythagorean
+scale.
+Shameless plug alert: for those who missed it, Scala is a microtuning 
+program written by me which can be downloaded from:
+ftp://ella.mills.edu/ccm/tuning/software/pc/scala/scala.zip
+The best $0 you will ever spend!
+
+Of course there's nothing against calculating a scale by hand, it's
+a good exercise. A program is usually quicker though.
+
+The command is called PYTHAGOREAN. It can calculate any Pythagorean 
+scale. First it wants to know how many notes the scale must get.
+Type for instance: 26. Then, what the formal octave must be. I use the 
+word "formal" to distinguish it from the octave of 2/1. It may be any 
+value namely. But type for instance: 2/1. This will be the value of 
+the last note in the scale and the interval that is subtracted every
+time the cycle of fifths passes over the last note. Instead of "formal
+octave", "interval of equivalence" is sometimes used. Then the scale
+degree for the formal fifth must be given (again to distinguish it
+from the perfect fifth). In 12-tET the degree of the fifth is 7. Here
+one can also enter 0, which means "I don't know" and then the program
+takes the nearest degree depending on the formal fifth to be given. So
+let's enter 0. Then enter the formal fifth, for instance: 7/4. Last,
+it is asked how many of the notes must result from fifths stacked in
+the downward direction. In this example they will be: 8/7, 64/49, etc.
+Going upwards you get 7/4, 49/32, etc. Let's enter: 10. That's all.
+The scale that results is this one:
+
+  1:      16807/16384        44.12955
+  2:  282475249/268435456    88.25910
+  3:        132.389 cents    132.3886
+  4:     131072/117649       187.0446
+  5:          8/7            231.1741 septimal whole tone
+  6:       2401/2048         275.3037
+  7:   40353607/33554432     319.4333
+  8:        363.563 cents    363.5628
+  9:    1048576/823543       418.2188
+ 10:         64/49           462.3483
+ 11:        343/256          506.4779
+ 12:    5764801/4194304      550.6074
+ 13:        594.737 cents    594.7370
+ 14:    8388608/5764801      649.3930
+ 15:        512/343          693.5225
+ 16:         49/32           737.6521
+ 17:     823543/524288       781.7817
+ 18:        825.911 cents    825.9112
+ 19:   67108864/40353607     880.5672
+ 20:       4096/2401         924.6967
+ 21:          7/4            968.8264 harmonic seventh
+ 22:     117649/65536        1012.955
+ 23: 1977326743/1073741824   1057.085
+ 24:  536870912/282475249    1111.741
+ 25:      32768/16807        1155.871
+ 26:          2/1            1200.000 octave
+
+With the command SHOW CYCLE we can find out where this leaves the
+"wolf" 7/4 and see that it is placed between degrees 3 and 24.
+We can also see that the scale is fairly close to 26-tET. The largest
+difference is 6 cents.
+
+
+Masaaki Tsuji asks:
+> By the way, in Japan, a book called "MAGICAL MAX TOUR" came out this week. Is
+> someone trying retuned music on MAX? Is that kind of thing possible?
+
+I haven't used MAX but have read somewhere you have to use a pitch-bend
+object called "xbendout" and it can have a value of 0 .. 16383.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 1 Mar 1996 17:03 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA04657; Fri, 1 Mar 1996 08:03:19 -0800
+Date: Fri, 1 Mar 1996 08:03:19 -0800
+Message-Id: <9603011601.AA13972@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

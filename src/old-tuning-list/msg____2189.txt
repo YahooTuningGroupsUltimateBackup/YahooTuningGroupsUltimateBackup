@@ -1,0 +1,111 @@
+source file: mills2.txt
+Date: Mon, 23 Oct 1995 18:39:06 -0700
+
+Subject: Differential notes. Baka pygmies polyphonies
+
+From: vincent.kenis@infoboard.be (Vincent Kenis)
+
+Hello
+
+I'm new to this list. I enjoy it very much even if often I can't follow -
+I'm just a self-taught musician.
+
+I'd like to propose to your commentaries a hypothesis on scales used in
+Baka Pygmies vocal polyphony. Here goes.
+
+Ethnomusicologists generally agree to say that Pygmy musics use anhemitonic
+pentatonic scales, but opinions diverge when it gets more specific. Pierre
+Sall=E9e believed the Bibayak Pygmies of Gabon used a equipentatonic scale
+until his use of a Synclavier music computer lead him to rather consider "a
+scale taking in account the presence of perfect fifths, whose principle
+remains to be found" (communication to the Congress of Ethnomusicology in
+Belfast, 1985). Unfortunately he died the same year. Simha Arom's pioneer
+research on scales in Central Africa involve testing different scale models
+by asking musicians to play them on a transformed DX7 synthesizer. In these
+experiences, the equipentatonic scale was the most frequently accepted as a
+valid model. On the other hand, pitch measurements he made on xylophones in
+the same area consistently suggest scales with three different types of
+basic intervals. Besides, in a series of publications (Analyse Musicale 23,
+1991) about his research, he mentions a hypothesis "trying to assimilate
+the studied scales to a pentatonic system constructed not from the cycle of
+fifths, but from the series of natural harmonics".
+
+When in 1989 I stayed two months among the Baka Pygmies, I had no
+theoretical preconceptions about their music; I just enjoyed it as an
+enthusiast and attentive listener. And when back in Europe I tried to do
+some "fake Baka music" using a Akai S1000 sampler and Logic software, I had
+never heard of Pierre Sall=E9e's experiences - my idea was just to have some
+fun. But soon I realized that trying to understand what was going on in
+Baka music was much more fun than using is as an ingredient for some
+superficial musical collage.
+
+I came across a hypothesis about Baka tonal organization which as far as I
+and Simha Arom know is original, but confirms the three hypotheses I quoted
+above : three different basic intervals, presence of perfect fifths, and
+influence of the series of harmonics.
+
+My view is that the scale specific to the Baka vocal polyphonies consists
+of non fixed degrees constantly trying to establish between them simple
+ratios, in such a way that two degrees sung together produce a differential
+note which is the common "root" of these two notes considered as
+"harmonics". I believe these differential notes to be consciously produced
+and considered as musically significant in Baka music. I even suspect the
+melody formed by their succession to be the matrix of the polyphony -
+different variations from the same patterns producing the same "virtual
+bass line".
+
+According to my measurements, the basic intervals used seem to be 7/6, or
+267 cents (small minor third), 8/7, or 231 cents (large second), and 9/8,
+or 204 cents (whole tone).
+
+If intervals between degrees are determined by differential notes which can
+change according to the musical context, the polyphony can produce
+intervals very close from each other, but with a different function : 7/6 +
+8/7 (498 cents, the perfect fourth) is only a few cents apart from 8/7 +
+8/7 (462 cents) or 7/6 + 9/8 (471 cents); 7/6+7/6+8/7+8/7+9/8 (1200 cents,
+the octave), from 7/6+8/7+8/7+8/7+9/8 (1164 cents), etc. This could explain
+the often quoted presence of "major sevenths" in Pygmy polyphonies, which
+have no place in a anhemitonic pentatonic scale. In my opinion, this also
+raises the question whether it is pertinent to use the term "pentatonic"
+for a music in which the role of the octave isn't necessarily the same as
+in ours.
+
+I mentioned Simha Arom's field experiences in which the equipentatonic
+scale model was the most often accepted. This could imply its role as the
+most widespread "mental tuning template", but alternatively, and this is my
+guess, this could just say that the equipentatonic scale is the most
+acceptable static representation of a scale evolving dynamically.
+
+Come to think of it, couldn't we say exactly the same thing of the
+equal-tempered  twelve tone scale ? Doesn't the intonation of a classical
+string quartet also constantly evolve in time according to the musical
+context ? Isn't that musical context largely dependent of the human ear's
+physiological preference for simple ratios over complex ones ? And if there
+is such a thing as a "mental tuning template" shouldn't we consider these
+microtonal shifting strategies as a part of it?
+
+
+As said before I am not a specialist and the above might contain lots of
+evidence, rubbish and confusion. Still I'd like very much to have
+reactions, advice, books references etc.
+
+Or maybe, for a start, just an answer to this : has anybody heard of a
+music tradition where differential notes are consciously used as a part of
+the music ?
+
+Thank You.
+
+Vincent Kenis
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 24 Oct 1995 16:34 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA02655; Tue, 24 Oct 1995 07:33:51 -0700
+Date: Tue, 24 Oct 1995 07:33:51 -0700
+Message-Id:  <9510240731.aa28983@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

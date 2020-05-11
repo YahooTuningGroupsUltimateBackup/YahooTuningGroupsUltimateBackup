@@ -1,0 +1,59 @@
+source file: mills2.txt
+Date: Wed, 18 Sep 1996 07:50:09 -0700
+
+Subject: RE: Consistency generalized
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+Thanks for your comments, Paul (E).  After four days I was beginning to
+wonder if anybody gave a damn about my goofy ideas.
+
+On Tue, 17 Sep 1996, PAULE wrote:
+>                           The musical meaning of integer levels of 
+> consistency higher than 1, namely, the importance of matching just 
+> intonation in combinations of n-limit intervals, I find dubious. So level 2 
+> consistency seems like an arbitrary requirement, as level 2.1 consistency 
+> and level 1.9 consistency would lead to results which are slightly different 
+> but just as meaningful musically.
+
+This is a good question, and I'm not sure if I have a good answer for
+it.  Probably the best answer I can give is this: the main thrust of my
+theoretical wanderings in xenharmony is to discover tunings that are
+analogous to common practice harmony, in the sense that they have
+similar structures according to various hypothesized perceptual models.
+Common practice 5-limit harmony did not find 5TET or 7TET sufficient for
+its purposes, despite the fact that they are level 1 consistent at the
+5-limit; it settled on 12TET, which is level 3 consistent.  Therefore, I
+tentatively conclude that there is some kind of advantage to higher
+levels of consistency.
+
+A possible explanation is this: an ET which is level 1 consistent at a
+given limit may err from a just interval within that limit by up to
+half a step.  It seems to me that my ear, at least, would not readily
+accept such an ET as an approximation to that interval when almost any
+interval randomly chosen from the continuous gamut would be more closely
+approximated by that ET.  Since the average error of random intervals is
+1/4 step, level 2 consistency at the N-limit ensures that N-limit
+intervals will be better approximated than the average randomly chosen
+interval.  Thought of in this way, one can justify choosing level 2 as a
+lower limit on consistency.
+
+Does that make any sense?
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Foul?  What the hell for?"
+     -\-\-- o        "Because you are chalking your cue with the 3-ball."
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Sep 1996 18:00 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07925; Wed, 18 Sep 1996 18:02:04 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA06765
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA06983; Wed, 18 Sep 1996 09:02:02 -0700
+Date: Wed, 18 Sep 1996 09:02:02 -0700
+Message-Id: <v01510100ae65cc583ff1@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Thu, 7 Nov 1996 07:07:51 -0800
+
+Subject: Re: Pitch Bend Tuning
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+Oh, one other thing regarding the K2x00.  I recall my K2500-user friend
+concluding that it queues up control-change messages and responds to them every
+so-and-so number of milliseconds.  That as opposed to responding to them in
+order as they come in.  I don't recall what he claimed that "so-and-so" number
+of milliseconds to be.  
+
+   Can anybody confirm or deny that conclusion?  
+
+   If indeed that is true, and if that also applies to pitch-bend messages, then
+it is theoretically possible for a pitch-bend message sent before a note-on to
+actually be serviced after the note-on, causing a "blurp" in the attack.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 7 Nov 1996 16:09 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06923; Thu, 7 Nov 1996 16:10:44 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06924
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA24409; Thu, 7 Nov 1996 07:10:41 -0800
+Date: Thu, 7 Nov 1996 07:10:41 -0800
+Message-Id: <961107150059_71670.2576_HHB68-11@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

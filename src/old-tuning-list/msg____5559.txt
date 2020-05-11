@@ -1,0 +1,67 @@
+source file: mills2.txt
+Date: Fri, 30 May 1997 14:53:55 +0200
+
+Subject: Re: modes and tuning
+
+From: Johnny Reinhard <reinhard@IDT.NET>
+
+Certain important musical terms regularly employed by microtonalists have
+multiple meanings, including mode, pentatonic, and enharmonic.
+
+Though coming off the recent AFMM series, the above distinctions are a
+welcome diversion.  (I'm really enjoying David Beardsley's report.)
+
+Re: modes with Greek-area names, they have changed mightily since the dawn
+of Greek culture.  Phrygian, Lydian, Aeolian, etc. were distinct peoples
+with cultural models for their modes.  This information is lost.  The
+Greeks recognized a healthy diversity in combining the characteristics of
+these prehistoric ethnic scales into a modulating 2-octave infrastructure,
+a scalar system.  The Church modes of the middle ages looking backwards
+over a spate of centuries relabelled modes in practice with earlier
+nomenclature (e.g. Phrygian, Lydian, etc.)  Modern useage is limited to
+12-TPO well-temperaments.
+
+Pentatonic tuning can be in just intonation, pythagorean tuning,
+12ET, 5-ET, and presumeably any other 5-note scale (including
+auxillaries).  Might we not include Indonesian Pelog, quartertone
+deriveatives, and any other series of relationships of 5 notes that can
+modulate to any one of its members?
+
+Enharmonic meant an ancient Greek genus that primarily featured a just
+major third (5/4) and 2 distinct, but different "quartertones."  Euripides
+was said to favor it in his tragedies, for which he composed music.  It
+lost out historically to more equally spaced Diatonic scales.  Composers
+like Nicolo Vicentino in the Renaissance revisited it.  By the Baroque,
+enharmonic intervals were a comma in size, this reflecting a distinction
+between a C# and a Db.  G.F. Handel is reported to have had split-black
+keys on his organ, allowing for 14 note per octave capability.  Gradually,
+the enharmonic difference transmuted into an identity, thanks largely to
+the piano's tuning compromise.
+
+It may be best for the list to be very clear on the above distinctions.
+Harry Partch's "monophony" as the fabric of his O- and U-tonality is
+certainly a stretch from the homophonic or heterophonic lines of the
+Middle Ages.
+
+Johnny Reinhard
+Director
+American Festival of Microtonal Music	- MicroMay '97 (May 16, 21-23)
+318 East 70th Street, Suite 5FW
+New York, New York  10021  USA
+(212)517-3550/fax (212) 517-5495
+reinhard@idt.net
+http://www.echonyc.com/~jhhl/AFMM/
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 30 May 1997 21:14 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05169; Fri, 30 May 1997 21:14:37 +0200
+Date: Fri, 30 May 1997 21:14:37 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05173
+Received: (qmail 24336 invoked from network); 30 May 1997 18:27:04 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 May 1997 18:27:04 -0000
+Message-Id: <970530141713_-495766259@emout05.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

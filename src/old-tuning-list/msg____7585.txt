@@ -1,0 +1,88 @@
+source file: m1398.txt
+Date: Tue, 28 Apr 1998 10:49:32 -0500 (CDT)
+
+Subject: Synthesizer resolution
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Tue, 28 Apr 1998, Daniel Wolf wrote:
+>                                    If I can't have a tuning with the
+> accuracy of the Rayna, then I would like the potential deviation from Just
+> to be spread around as much as possible in a temperament that represents
+> harmonic identities consistently. As long as you are not working with
+> sustained textures that really require something like the Rayna, I think
+> that absolute frequency resolution will be secondary to consistency.
+[snip]
+>                                                      From my experience,
+> 768tet and 1200tet are not good choices but there are ET of this magnitude
+> that would be better. 
+
+I went through my big consistency table and picked out some of the ETs
+between 600 and 1200 that looked good for this purpose.  I didn't use
+any hard and fast criteria, but just eyeballed ETs that either were
+consistent to unusually high odd limits, or had particularly high
+consistency levels at lower limits, or some combination.  Here are the
+results (I left in 768 and 1200 for comparison, but set them off):
+
+    |   3   5   7   9  11  13  15  17  19  21  23  25  27  29  31
+-----------------------------------------------------------------
+*612| 169  21   4   4   2
+ 615|   2   2   .   .   .   .   .   .
+*624|  30   3   2   2   .   .   .   .   .   .   .   .   .
+ 639|   2   .   .   .   .   .   .   .
+ 643|   3   3   3   .   .   .   .   .   .   .
+ 653|  25   2   2   .   .   .   .   .   .   .
+ 665|7939   6   2   2
+*684|   4   2   2   2   .   .   .   .
+ 692|   2   2   .   .   .   .   .   .   .
+ 711|   5   4   3   2   .   .   .
+ 718| 162   3   .   .   .   .   .   .   .   .   .
+ 730|  22  22   .   .   .   .   .
+ 742|  11   2   2   2   2   .   .   .   .   .
+ 764|   5   5   2   2   2   .   .   .
+-----------------------------------------------------------------
+ 768|   .   .   .
+-----------------------------------------------------------------
+ 771|  82   2   .   .   .   .   .   .   .   .
+ 776|   7   2   .   .   .   .   .   .
+ 783|  19   7   3   3   .
+ 795|  11   4   2   2   .   .   .
+ 805|   4   .   .   .   .   .   .
+ 814|   3   3   2   .   .   .   .   .
+ 836|  17   3   2   2   2
+ 848|  10   9   .   .   .   .   .
+ 867|   3   3   2   .   .   .   .   .   .   .   .   .
+ 882|   7   7   3   2   .   .   .   .
+ 894|  11   2   2   2   .   .   .   .
+ 908|   3   .   .   .   .   .   .   .   .   .   .
+ 925|   5   .   .   .   .   .   .   .
+ 935|   8   7   3   3   .   .   .   .   .   .   .   .   .
+ 954|   9   4   2   2   .   .   .   .
+ 981|   3   2   2   .   .   .   .   .
+ 995|  13   .   .   .   .   .   .   .
+ 997|   2   2   .   .   .   .   .   .   .   .   .   .
+1012|  27   2   .   .   .   .   .
+1019|   6   6   .   .   .   .   .   .
+1048|  12   .   .   .   .   .   .
+1065|  33   3   2   2   .   .   .   .   .   .
+1075|   3   2   2   .   .   .   .   .
+1084|   5   3   2   2   2   .   .   .
+1106|  15   5   4   4   2   .   .   .
+1118|  41   5   .   .   .   .   .   .
+1137|   4   4   3   2   .   .   .   .
+1142|  18   .   .   .   .   .   .   .   .   .   .
+1171|  56  22   .   .   .   .   .   .   .   .   .   .   .
+1178|   5   2   2   2   2   2   .   .   .   .
+1186|   2   2   .   .   .   .   .   .
+-----------------------------------------------------------------
+1200|  11   .   .   .   .
+
+Unfortunately the only ones which are divisible by 12 (which I've marked
+with *s) are in the low end of the range, but this was just a rough
+pass.  Perhaps more careful scrutiny might yield a better compromise.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

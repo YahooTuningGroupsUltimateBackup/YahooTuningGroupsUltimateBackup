@@ -1,0 +1,231 @@
+source file: m1415.txt
+Date: Thu, 14 May 1998 13:50:57 -0400
+
+Subject: Primes, Lattices, Monzo Planetary Graph
+
+From: monz@juno.com (Joseph L Monzo)
+
+Paul Erlich wrote:
+> Joe Monzo wrote,
+
+>> Paul Erlich, did you ever consider the fact
+>> that the relationships between ratios which
+>> are so elegantly portrayed in your triangular
+>> lattice diagrams are the result of nothing other
+>> than prime factorization?
+
+> The assertion in that question makes no sense to me,
+> but Paul Hahn generously replied,
+
+>> This doesn't mean all that much--I'm still struggling
+>> with the 7-limit, but if I were to work in 9-limit or
+>> higher, I'd probably prefer to diagram the 9s with a
+>> separate axis, and have one of the unison vectors
+>> be (2 0 0 -1), to reflect my odd-limit orientation.
+>> Of course this would be much easier if I were a
+>> five-dimensional being who could buy 4-dimensional
+>> graph paper.
+
+> I'd have to agree with Paul H., but wonder if there
+> is something to Joe's question that he wasn't
+> expressing as well as he would have liked?
+
+First comment: I've many times wished that we humans could
+work with more than 3 dimensions when up against the problem
+of visualizing and representing more than 3 prime dimensions
+in music.  Fortunately, 7-limit systems _can_ be represented
+in three dimensions.
+
+Response to Paul Erlich:
+------------------------
+
+I thought my original question was pretty straightforward,
+but I never mind elaborating with the help of visual aids.
+
+Picking a particular set of pitches arbitrarily, and
+Going back to Tuning Digest 1315, here's the 7-Limit
+"Tonality Diamond" in Graham Breed's Triangular Lattice
+Diagram, which is of the type used by Erlich:
+
+7-Limit Tonality Diamond Lattice, à la Graham Breed
+--------------------------------------------------
+
+                       5/3-------5/4
+                       / \       / \
+                      /   \10/7 /   \
+                     / 7/6 \   / 7/4 \
+                    /       \ /       \
+                  4/3-------1/1-------3/2
+                    \       / \       /
+                     \ 8/7 /   \12/7 /
+                      \   / 7/5 \   /
+                       \ /       \ /
+                       8/5-------6/5
+
+
+Graham leaves his 7-factor-ratios unconnected by
+any lines to the 3- and 5-limit ratios.  If I replace
+the ratios with the prime-factor notation that I use,
+and connect the 7-ratios in a manner similar to others,
+I get:
+
+Breed Lattice modified by Monzo
+-------------------------------
+
+Legend:
+- = 3/2, 4/3
+/ = 5/4, 8/5
+\ = 6/5, 5/3
+
+                  5^1*3^-1 ---------------- 5^1
+                    /   \                  /  \
+                   /     \   5^1*7^-1     /    \
+                  /       \    /  \      /      \
+                 /         \  /    \    /        \
+                /           \/      \  /          \
+               /  7^1*3^-1 -/\-------\/---- 7^1    \
+              /        \   /  \      /\   /         \ 
+            3^-1 -------\-/----  n^0 --\-/ -------- 3^1
+              \          /    /      \  \           /
+               \    7^-1 -\--/--------\/-3^1*7^-1  /
+                \          \/         /\          /
+                 \         /\        /  \        /
+                  \       /  \      /    \      /
+                   \     /   7^1*5^-1     \    /
+                    \   /                  \  /
+                    5^-1 --------------- 3^1*5^-1
+
+The connecting-lines reveal the major and minor triads,
+of which there are four each in this tuning.  However,
+the 7-ratios still remain unconnected to the 3- and 5-
+limit ones.
+
+( Interesting side note inspired by thoughts on
+( Schoenberg, who's been discussed here a lot lately:
+( in the latter part of his life he strongly reaffirmed
+( his faith in Judaism and wrote some pieces on Jewish
+( themes, and all his life he apparently had a superstitious
+( belief in numerology.  If he had seen this diagram, he
+( could have been intrigued by the idea of splitting the
+( 12-tone row into 2 hexachords, one using the 7-ratio pitches
+( connected in the center of the scheme in the form of a Star of
+( David to represent a Jewish theme, and the other hexachord
+( using the 3- and 5-limit pitches on the perimeter to represent
+( a different theme.  The difference in prime-limit between
+( the two hexachords would harmonically delimit the two sets
+( aurally as strongly as they are visually in the diagram.
+( Anyone want to collaborate on a piece?)
+
+If I take this scale and redraw it onto my lattice diagram,
+I use a different type of line to connect each prime.
+
+same Tonality Diamond, Lattice à la Monzo
+-----------------------------------------
+
+Here, 6/5 doesn't figure as an interval that needs to be
+connected directly because it's not a prime axis.
+
+Legend:
+- = 3^1, 3^-1 (= 3/2, 4/3)
+\ = 5^1, 5^-1 (= 5/4, 8/5)
+/ = 7^1, 7^-1 (= 7/4, 8/7)
+
+
+
+             _   -  5^1
+5^1*3^-1 -         / _\   -   7^1
+      \ 3^-1*7^1 -/     \     / \
+        \   /   5^1*7^-1  \  /    \   _   -   3^1
+          \/      _\    -  n^0  -   \         / \
+       3^-1 -        \     /  \  5^-1*7^1    /    \
+                       \  /     \ _ /  - 3^1*7^-1   \
+                       7^-1  -    \/        _   -  3^1*5^-1
+                                  5^-1  -
+
+
+I was merely pointing out to Paul that prime factorization
+figures in his own visual representations of pitch resources.
+If one is prepared to argue that we don't hear prime qualities
+in intervals, how can one find a diagram useful which is
+nothing other than the _visual representation of those qualities_?
+
+(I should also note here that all of the diagrams I have
+seen which were drawn by Erlich himself were representing
+pitch-classes in 22-Eq temperament and the ratios they
+_implied_, and not the just ratios themselves.  Does this
+have any bearing on my response here?)
+ 
+Re: Paul Hahn's reply,
+----------------------
+
+I think I understand pretty well what you're describing with
+your
+
+> ...diagram the 9s with a separate axis, and have one of
+> the unison vectors be (2 0 0 -1)...
+
+but I'd love to _see_ what this really looks like from
+your point of view -- try posting a diagram.
+
+In my endless search for the "(most) perfect" notation,
+I've decided in the end to use a variety of representations
+simultaneously.  In addition to the my lattice diagrams,
+I also use musical staff notation with the prime-factors
+as accidentals on each note, I also graph the pitches on
+a 12-eq frequency graph, and I also use what I call a
+Planetary Graph.  This last was my solution to the problem
+mentioned above of representing more than 3 dimensions.
+
+
+Explanation of my Planetary Graph
+=================================
+
+Unfortunately, it's impossible for me to draw this within the
+limited confines of ASCII text.  Hopefully, I can get a
+website up to illustrate it. (My lattice graphs look better
+with real straight lines too)  Anyway, here's a description:
+
+1/1 is represented as the "sun" of the graph, and each
+increasingly large prime factor is a successive orbit
+around this sun.  The circumference of the orbit represents
+the "pitch-height" of the ratio as a pitch-class within
+the octave -- as pitch-height goes higher around the circle,
+it eventually returns to 12 o'clock at the octave.  A line
+is drawn from the center to the point on the circumference
+which represents the pitch-height. The prime factorization
+of the ratio is revealed by little boxes above or below the
+prime-orbit, each box representing an increase of 1 in the
+positive and negative exponents respectively.
+
+I have found this to be the most compact and efficient way
+of describing very complex just-intonation systems.  At a
+glance, one can see the relative position of the pitch-classes
+in frequency as well as how all of them relate by prime
+factorization.  To me, these are the two musically important
+qualities that ratios possess which I like to see revealed
+immediately.
+
+One of the most interesting things about the Planetary Graph
+is that it relates back to the ancient Greek and Medieval
+European ideas about the "Music of the Spheres", the harmonic
+principles which were felt to underly everything in the
+universe, from our earthly music to the orbits of the planets
+and stars.
+
+Once again, it is a visual representation I thought I invented,
+until research for my book showed that the ideas of both
+representing the octave with a circle and representing ratios
+with radii had been used around 1600 by Lippius, Descartes,
+and other theorists of the period.  It was useful for showing
+how ratios and their complements related to each other, and
+thus for illustrating the then-new concept of inversion in chords.
+The only new aspect I brought to it was the prime-factor "orbits".
+
+   Joseph L. Monzo
+    monz@juno.com
+   
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

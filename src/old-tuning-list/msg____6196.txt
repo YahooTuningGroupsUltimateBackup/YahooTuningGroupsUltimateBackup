@@ -1,0 +1,79 @@
+source file: mills3.txt
+Date: Wed, 1 Oct 1997 05:53:32 +0200
+
+Subject: Re MIDI Tuning Spec
+
+From: Carter Scholz <csz@well.com>
+
+In Digest 1194 John Loffink writes:
+
+>A MIDI byte takes 320 microseconds to transmit.  Let's say you have
+>a fairly dense arrangement with 20 notes on 10 MIDI channels sounding
+>as you modulate to another tonic.  It takes, not counting the actual
+>note ons, 320 us per byte x 12 bytes per message x 20 sysex messages =
+>76.8 milliseconds to send the updated tunings to the various
+>instruments.  This is clearly not adequate.
+
+The 20 sounding notes receive no sysex.  Only when a note is struck does
+it need a prefixed sysex real-time pitch-change message.  The combo is
+essentially a 15-byte note-on including high-precision frequency data.
+Bandwidth really isn't the issue here, unless you think a (320us * 15
+bytes = 4.8ms) delay on a note is a problem.  (And if you do, you should
+be aware that that degree of slop is more or less average for MIDI
+equipment.)
+
+>If I want sustaining notes to hold their current tuning while sounding
+>new notes in a new scale, what are my options?  If it's back to the
+>individual sysex messages per note, I'll need some MIDI Draino to unclog
+>the limited bandwidth.
+
+You strike a note on your keyboard; a MIDI note-on goes out to some
+computer host.  Software gets the note-on, figures out what frequency
+you want, and prefixes a 12-byte frequency message to the note-on,
+passing the combo on to audio hardware.  (If that particular MIDI note
+number is already sounding on the channel requested, software changes
+the struck note number.  Note number is independent of pitch in the
+Tuning Spec.  The only limit is the MIDI limit of 128 notes per
+channel.)  Sustaining notes aren't affected at all.
+
+So yes, it is back to individual sysex messages per note.  A pain in the
+neck to type into a sequencer, for sure.  It would be much nicer if we could
+compel every manufacturer to include 64 or 255 tuning tables, all accessible
+and switchable the same way.  We can't, so instead we wrote a (mostly
+ignored and obsolescent) standard so that at least the sysex codes might be
+the same for different instruments.
+
+Still, to use the standard practically for dynamic JI you need some
+software pre-processing tool (like Justonic).  But the problem shouldn't
+be MIDI bandwidth.
+
+Am I being clear, or have I missed something?
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Mark Nowitzky <nowitzky@pacificnet.net>
+Subject:  Ben Denckla's Masters Thesis
+PostedDate:  01-10-97 12:17:27
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-10-97 12:17:15-01-10-97 12:17:16,01-10-97 12:16:12-01-10-97 12:16:13
+DeliveredDate:  01-10-97 12:16:13
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256523.00387E19; Wed, 1 Oct 1997 12:17:03 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03578; Wed, 1 Oct 1997 12:17:27 +0200
+Date: Wed, 1 Oct 1997 12:17:27 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03572
+Received: (qmail 21437 invoked from network); 1 Oct 1997 03:17:19 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Oct 1997 03:17:19 -0700
+Message-Id: <2.2.16.19970930031252.0ae70360@pacificnet.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

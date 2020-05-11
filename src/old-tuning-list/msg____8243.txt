@@ -1,0 +1,39 @@
+source file: m1474.txt
+Date: Mon, 13 Jul 1998 13:59:53 -0500
+
+Subject: RE: Microtunable synths
+
+From: "Loffink, John" <John.Loffink@COMPAQ.com>
+
+>      Does anyone have any experience using the Pitch Palette with 
+>      microtunable synths? I downloaded Roland's Virtual Sound Canvass and 
+>      was impressed with it.
+>      
+>      I'm learning this west African instrument called the balafon (type of
+> 
+>      marimba). My teacher is a master balafonist from Guinea. I've been 
+>      introducing him to MIDI technology as a tool he can used to test out 
+>      some of his arrangements/compositions. He really loves it.
+>      
+>      As you might have guessed tuning is a problem. He can't play his 
+>      instrument with his MIDI arrangements, since the balafon tuning can't
+> 
+>      be adjusted. 
+>           
+>      It seems like the Pitch Palette microtuning software from Justonic is
+> 
+>      what I need, since it can retune the Virtual Sound Canvass to the 
+>      tuning of the balafon. Can this be done?
+>      
+> 
+I've used Pitch Palette and it would make retuning easier, but it's main
+application is in realtime pitch table changes and modulations.  It might be
+overkill for what you're trying to do.  The Synth Help page at my web site
+has a page on GS/Sound Canvas MIDI tuning codes generously contributed by
+Ben Tubb.  I also have a link to the Roland GS MIDI System Exclusive
+specification.  My web site is at:  http://freeweb.pdq.net/jloffink .  You
+should be able to create a short MIDI message that you could embed into any
+sequencer program to retune the Virtual Sound Canvas.
+
+John Loffink
+jloffink@pdq.net

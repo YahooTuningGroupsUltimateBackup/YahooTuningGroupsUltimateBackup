@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Wed, 1 Jan 1997 12:28:43 -0800
+
+Subject: Piano with Vibrato
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Somebody mentioned the weirdness of (synthesized) piano sounds with
+vibrato.  That reminds me of one of my earliest experiments with hybrid
+timbres:  I changed one of Ensoniq's Mirage piano sounds to sustain rather
+than die away.  I called it an "organo" sound.  It kinda wild, but still a
+nifty sound.  
+
+   I later did the same with an EPS piano sound, and then gave the piano
+sustained tone a F.horn attack and then added aftertouch-controlled
+vibrato.  It too was a nifty hybrid timbre.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 1 Jan 1997 21:28 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06343; Wed, 1 Jan 1997 21:31:24 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06341
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA26070; Wed, 1 Jan 1997 12:23:23 -0800
+Date: Wed, 1 Jan 1997 12:23:23 -0800
+Message-Id: <199701011522_MC1-E20-3AB8@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,14 @@
+source file: m1444.txt
+Date: Thu, 11 Jun 1998 08:33:31 -0700
+
+Subject: Re: TUNING digest 1443
+
+From: csz@wco.com (Carter Scholz)
+
+>Can individual notes on individual channels be tuned in real-time via
+>Sys-ex  on the SY-77/-99 and TG-77 ?
+
+Not on individual channels.  Sys-ex by definition is not channelized.
+A single-note tuning change message will change the frequency value for
+that one note in the tuning table, which will affect that note on all
+channels.

@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Fri, 22 Dec 1995 07:32:34 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject:  Yamaha VL-1M and VL-7
+---
+   The Yamaha VL-7/VL-1M physical modelling
+synthesizers implement tuning in a weird way.
+Here's the skinny:
+  You can't edit the 2 user tuning table I01 and I02.
+Instead, you have to edit them on a TG-77 or SY-77
+or on JICalc, then do a sys-ex dump to the VL-7/
+VL-1M.
+  Why Yamaha chose to implement microtuning this
+way is beyond me.  It certainly makes it less
+convenient to retune the instrument.  As a plus, 
+user tunings are reportedly stored with the 
+instrument patches and are loaded from the disk
+automatically.
+  The way Yamaha implements physical modelling
+on the instrument is also peculiar and worth a 
+metnion.  The physical model is fixed: a blown tube.
+To get a Karplus-Strong plucked string sound (typified
+by the fretless bass and sitar patches), the physical
+model's mouthpiece is connected to its output.  A 
+kludge--but one that works.  A recirculating system
+is created which, with appropriate losses for
+acoustic admittance, mimcs the Karplus-Strong
+algorithm pretty well.
+  To get a vibrating string, the tube is apparently
+shrunk down to near-zero width.  The resulting
+one-dimensional tube subs for a vibrating string
+and apparently also allows the user to apply a
+mouthpiece with "embrouchure" to the vibrating
+string--something not possible with a standard
+Hiller-Ruiz vibrating string physical model or
+the classic Julius Smith waveguide physical
+model of the string.
+  Rumor has it that Yamaha has a MAX patch 
+available that'll allow users to completely
+change the internal physical model.  Instead
+of being limited to a blown tube, the user can
+dunk with internal VL-7 parameters and specify
+any acoutsical system desired.  Apparently, the
+MAX patch comes with a WARNING -- KNOWLEDGE
+of PHYSICAL ACOUSTICS IS REQUIRED TO USE
+THIS EDITOR.  Apparently it's easy to specify
+an acoustic system which *cannot* produce
+sound output. (Arthur Benade called these
+things "tacit horns."  Nice design, no sound.)
+  Does anyone have any knowledge of this
+mythical MAX patch?  As a xenharmonizing
+future VL-7 owner, this question is of
+some interest
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 22 Dec 1995 16:51 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA23570; Fri, 22 Dec 1995 07:51:24 -0800
+Date: Fri, 22 Dec 1995 07:51:24 -0800
+Message-Id: <0099B415E1E82CFE.5467@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,115 @@
+source file: mills3.txt
+
+
+Subject:  Re: Multi-Dimensionality
+
+From:  DFinnamore@aol.com
+
+I wrote:
+
+>... to me, prime,
+> odd, and scale-interval-generator are three distinctly different and
+equally
+>valid kinds of dimensionality''
+
+Daniel Wolf responded:
+
+>I believe that definitions like these have a lot to do with what exactly
+>you want
+>your music theory to do.
+
+True.  But I find these definitions to arise from the properties of the
+numbers themselves.
+
+>If you are making a pre-compositional theory...
+
+That's basically what I'm up to, yes.  I want to better understand the
+geometrical relationships between integer-ratio intervals, and how they occur
+in various JI tunings, partly because I find them beautiful (abstractly and
+sonically), but also so that I can better capture that beauty in pieces of
+music.
+
+>... the way musical materials are
+>articulated is essential to their interpretation.
+
+True.  Culture and personal taste will always play the primary role.  But
+there is a beauty in mathematical order that tends to transcend culture and
+taste.  They say that laughter and mathematics are the two truly universal
+languages.  I think that's why music is sometimes considered to be one as
+well.  It's not always one, but it can be - as a vehicle for expressing human
+emotion in a context of mathematical order.
+
+As to the use of dimensionalities in music, a composer might choose to
+consider only one kind and restrict himself with only its related limit-type.
+ That's fine.  He hasn't done away with the other kinds, he's simply chosen
+to downplay their ramifications.
+
+On to the examples:
+
+>(1) I compose a piece consisting only of chromatically planed (parallel)
+>Major ninth
+>chords without fifths in just intonation. If the orchestration is such th=
+>at a listener can hear the
+>individual voices of these chords, then 9 is being articulated
+>independently of 3. Since
+>9 is here relatively prime, how could 9 be here distinguished a 'real'
+>prime?
+
+I tried that.  It may be cultural or the result of intermodulation
+distortion, but my ear filled in the fifths.  Is there such a concept as
+"relative primality"?  That's a new one on me.  I don't know the higher maths
+too well -- but I thought a number was either prime or it wasn't.  Maybe
+that's where my ignorance is leading me to a false conclusion?
+
+>(2) I write a chorale in triads that goes I - IV - V - I. There is a 9:8
+>relationship between IV and V chords, but this is usually weakly
+>articulated and the V of V (3^2)
+>relationship is heard as more important.
+
+I'm not sure where that example is leading.  There is no V of V there of the
+type that I'm familiar with, which is a II chord acting as a dominant to a
+following V chord.
+
+>(3) I compose a sound installation consisting of standing sine waves using
+>only prime
+>multiples of a given fundamental and 9 times that fundamental. Depending
+>upon where
+>I am in the room, I will hear the 9 as either an independent entity or in
+>connection with 3.
+
+If 3 and 9 had a common sound source and were in phase with each other, no
+place in the installation would cause 3 to phase-cancel without also
+cancelling the 9, or constructively interfere with the 3 without also
+boosting the 9.  That could not be true of any two different primes.  Seems
+to me this one helps my argument.
+
+If the idea is that the sines are tuned to 2, 3, 5, 7, 9, 11, 13, 17, 19, 23,
+.., and the room has a mode at the frequency of the 1, then I believe you
+would always hear the implied fundamental no matter where you stood in the
+room, and the 9 would act to enhance that implied tone except where it (the
+9) phase-cancelled.
+
+>(4) Using a TX81Z (with a resolution of 1.56 cent deviations from 12tet),=
+> I perform
+>a melody based upon random walks over a lattice with two dimensions: 3s and
+>9s. The
+>best approximation of 9 does not coincide with the best approximation of
+>3^2. For all practical purposes, 3 and 9, in this temperament, are
+>relatively prime.
+
+Matters of the TX tuning table aside, a tuning is conceivable in which
+intervals of approximately 3/x and 9/x are used, and one or both differ from
+their corresponding exact integer-ratio values greatly enough that the one
+being called "3," when squared, yeilds an interval significantly different
+from the one called "9" that the two ("3"^2 and "9") would function as
+distinct entities in the scale or in harmonies.  Is that the idea?  In such a
+case, IMHO, integers are inadequate to describe the nature of that tuning,
+and to use "3" and "9" to refer to those intervals is to invite confusion.
+
+I missed the relation between your fifth example and your point.
+
+David
+
+
+
+$AdditionalHeaders:  Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id C12564DA.0007128E; Sun, 20 Jul 1997 03:17:15 +0200

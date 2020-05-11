@@ -1,0 +1,161 @@
+source file: mills3.txt
+Date: Wed, 14 Jan 1998 21:06:13 +0100
+
+Subject: MIDI/Audio wish list
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+John Loffink wrote:
+
+>>  My point is that it is not
+> >necessary to do this by using more "Partials" (I hate Roland's usage of that
+> >term, which is why I always put it in quotes) or zones if the instrument
+> >supports microtuning tables.  The microtuning table, if implemented properly,
+> >will do the mapping for you, automatically, without all the recompilation and
+> >excessive memory usage.  Granted, you will not have precise control at a less
+> >than semitone level of how the samples are mapped, but is this really
+> >necessary?  You will get "mickey mouse" effects no matter where your base
+> >sample was recorded at, this is the effect of shifting the formant (fixed
+> >resonant) frequencies of the sample.
+
+Regarding Mr Mickey Mouse: On the Roland,  if you want to preserve a
+any kind of realistic quality of timbre the upper limit of
+transposing a sample from its original sampled pitch is about a
+minor third (up), and a major third down - depending on the timbre.
+In my own case, I typically use a sample mapped to no more than about
+150 cents BELOW the original sampled pitch, but very seldom
+transposed upward.   This is more than adequate for my purposes
+(local friends think I'm too fussy) and there is no 'mickey mouse'
+effect within these limits.
+
+(Of course, you can get away with more than this if realism
+is not important, - or you can do away with realism altogether and
+transpose up (as far a two octaves) - and down (as far as you like).
+The E4 is slightly  better better at preserving realism over a wider
+range, but by no more than a semitone.  It can also transpose upward
+over a much greater range, I believe).
+
+> >Increasing the number of "Partials" will not solve your problem,
+> >because you'll have a new one -- the sampler's internal RAM will
+> >not have enough storage to handle the increase.  Program parameters
+> >are most likely to be stored in 64K to 512K local RAM inside the
+> >unit, not your 32M to 128M sample RAM.  If you now ask
+> >manufacturers to increase the local RAM just for microtonal
+> >support, I can tell you that none of them will do it because that
+> >increases the price of the hardware.
+
+Sorry, John, this is wrong.  Increasing the number of 'partials' has
+no effect on the used sample RAM on the Roland or AKAI systems. (It
+does on the EMU, but, as I understand, so little that it is
+negligible). On the Roland -  suppose there are 4 samples in memory,
+of flute tones, Eb4, F#4, A4 and C5; and that they take up 2Mb.  You
+then create a 'one octave 41-ET'  flute, by creating 41 'partials'
+which map each of 3 samples to 10 divisions of the scale, and the 4th
+sample to the remaining 11 divisions, such that you can now play this
+scale over 3 and a bit standard-keyboard-octaves.  The mapping from
+sample to 'partial' is one-many, and you've still only used 2Mb RAM.
+On the Roland there is no limit to the degree of one-many-ness,
+excepting the limits on samples and 'partials' (512 and 255
+respectively).  (Actually this is not quite right - the relation is
+many-many, except that the maximum number of samples that can be
+associated with any one 'partial' is 4.)
+
+For your interest, there is also a 'micro-key-follow'
+tuning facility in the Roland S7XX series, whereby you can
+'interpolate' (to use Gary's 'Ensoniq' terminology) a 'partial'
+across the (any part of the) keyboard in 1/8ths of a semitone, 2/8 of
+same, 3/8, 4/8 (quarter tones), 5/8,7/8, 8/8 (12-ET), 9/8, etc up to
+16/8 of a semitone (whole tones).
+
+> >I'm sorry if this is getting too technical again, but you can't really
+> >understand the ramifications of your requests without a little understanding
+> >on how today's synthesizers and samplers work.  My points are 1) for
+> >microtonal scales to be implemented in mass produced instruments it must be
+> >economically realistic for the manufacturers to do so, and 2) for microtonal
+> >scales to be used by non-specialists it must be as easy as possible for them
+> >to be changed.  You can't accomplish either of these by defining microtonal
+> >scales at the "Partial" or zone level.
+
+I agree entirely with the general points 1 and 2.  I'm unconvinced
+however about the last sentence of this paragraph.  Samplers, if used
+for anything approaching realism, will require significant amounts of
+RAM whatever the 'partial'/zone architecture etc, at least until
+some form of data compression of the 16 bit format is introduced (or
+something). The fact that EMU have implemented 128Mb on the E4
+seems to confirm this - they didn't build it for composers working
+with ATS.  More 'partials' does not mean more RAM;  on the Roland
+(at least) only samples take up sample RAM.
+
+But I suspect you may have other (good) reasons for saying what you
+do (?).
+
+Gary Morrison wrote:
+
+>    To set up a repeating pattern of pitches, such as 12-Toned Ptolemaic JI
+> in C, you enter the pitches for the keys C4 through C5.  You would set, for
+> example, E4 14 cents flat of the 12TET reference.  (Actually, that's not
+> exactly true;  you specify pitches between 0 and 99 cents above whatever
+> 12TET pitch reference lies directly below it, so you'd define the E4 key
+> top play an Eb4 86 cents sharp.)  Notice that you set the pitch of both of
+> the C4 and of the C5, the C5 being an octave higher than the C4.
+
+Thanks, Gary.  I've seen this sort-of kind-of thing on various
+synths. Can I ask a further question?  I understand what you have
+described, that is if you want one single sound (either a synthesised
+sound or a sample) mapped to this kind of 'key-table'.  But, on the
+Ensoniq sampler, if you want to achieve some simulatory realism
+do you have to laboriously map each sample to a point or points on
+the key-table - or is that not something that can be done (or is nor
+worth the trouble etc)?  (Please excuse me, I'm aware of being
+very biased toward wanting realism.  I know that's not what everyone
+wants - and it should not bias this discussion.  But it's what
+interests me about these machines!)
+
+>    Now, 22TET...  You have a very basic question to answer before you can
+> set it up.  What keyboard mapping do you want?  How do you want pitches in
+> the tuning to map to keys on the keyboard?  A common way is to map them
+> "linearly", each key 1/22nd of an octave apart, mismatching octave
+> boundaries in the tuning with those on the keyboard.  If that's the way you
+> want to map it, then set the pitches of the keys C4 through Bb5 to
+> successive 22nds of an octave, and extrapolate your table from C4 to Bb5.
+
+In my work I've created simulations of many of the standard
+orchestral instruments for every n-ET between 13 and 36, (and some
+others above, especially 41) in each case creating a single
+partial-sample relationship for each pitch (!).  Creating them is one
+thing - learning to play them all is another!  In most cases the
+keyboard mapping I've used is simply 'keyboard-chromatic', since I
+get used to re-remembering where the octaves (and everything else)
+are. Anything less than but near to a multiple of 12, I cheat a bit,
+and ditch a key somewhere.
+
+Patrick Ozzard-Low
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Aline Surman <stick@dnvr.uswest.net>
+Subject:  Surman/b5 ratios
+PostedDate:  15-01-98 00:34:56
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  15-01-98 00:34:22-15-01-98 00:34:22,15-01-98 00:34:09-15-01-98 00:34:09
+DeliveredDate:  15-01-98 00:34:09
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658C.00817A61; Thu, 15 Jan 1998 00:34:43 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02348; Thu, 15 Jan 1998 00:34:56 +0100
+Date: Thu, 15 Jan 1998 00:34:56 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02386
+Received: (qmail 17326 invoked from network); 14 Jan 1998 15:34:52 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Jan 1998 15:34:52 -0800
+Message-Id: <34BD5343.695@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

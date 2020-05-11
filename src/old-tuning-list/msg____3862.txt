@@ -1,0 +1,149 @@
+source file: mills2.txt
+Date: Mon, 28 Oct 1996 21:30:05 -0800
+
+Subject: Re: TUNING digest 878
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Johnny Reinhard (Sun, 27 Oct 1996)
+
+> Please understand this as a salve to understanding.  1200 points on a
+> line representing an octave is a continuum.  Would 1300 or 2000 points
+> make a discernable difference?  I think 1200 is just past the 
+> threshold of pitch accuity for human beings. In essence this is the
+> digital equivalent to CDs and DATs.  So much pitch information is
+> available as to appear infinite.  Nice proportion, I think.
+
+Thanks for the reply. I'm perfectly happy with cents measurement 
+wherever it may be appropriate, and with the size of the unit (although 
+I can still hear beating easily enough at mid-range frequencies with a 
+quarter cent difference). If I was treating one of Ben Johnston's scores 
+as data for a MIDI rendering, and cents values were required by the 
+program used, then I wouldn't have the least worry about such a 
+translation -- computers won't attach any theoretical significance to 
+the way the data is presented. For computers, we are concerned with 
+input and output only; but composers have every right to concern 
+themselves with more than this in scores for human performers. While you 
+may not think so for Ben's notation, how would you react to a 
+publisher's proposal to dispense with flats, double flats and sharps in 
+a new edition of, say, Beethoven's piano sonatas, leaving single sharps 
+only to produce the same result, on the grounds that all these 
+superfluous accidentals were merely "a personalized mythology of 
+meanings of relationships" (to quote you)? After all, a G#-C-D# chord 
+will sound no different on the piano than an Ab-C-Eb chord, so why not 
+end this proliferation of accidentals?
+
+> Ben Johnson once wrote a piece for me for bassoon and tuba. We spent 
+> so much time deciphering the notation into cents that valuable 
+> rehearsal time was lost.  The piece was performed beautifully in tune, 
+> but perhaps at a third too slow, or more.
+
+Don't misunderstand me -- I have great admiration for careful performers 
+of Ben's music, and I wouldn't be surprised if your performance was 
+more accurate than many others which didn't involve cents translations 
+during rehearsal. This still misses the theoretical point I was making: 
+Ben wishes to notate the relationships to show the intervallic structure 
+of the piece -- call it Platonizing if you like. He has said in public 
+(perhaps someone can remind me where) that of course the expected 
+accuracy of intonation will vary from one passage to another: for 
+instance, the fast semiquaver runs in the 9th Quartet, with inflections 
+up to the 31-limit, will never be played at tempo with painstaking 
+accuracy, nor does it matter, since the notes pass by too quickly for 
+any listener to notice. But since Ben chooses to notate the pitch 
+relationships precisely, the acceptable margin of vagueness is a matter 
+for performers to determine sensitively.
+
+I'd be fascinated to know whether Ben participated in your rehearsals, 
+and if so whether he commented on the cents translation. If he was 
+there, I wouldn't expect him to have objected -- why endanger a premiere 
+(and a good one at that, no doubt)? Composers have to be pragmatists at 
+some point, while theorists (like me) have the luxury of following 
+through all logical consequences faithfully. In this case, Ben (like 
+many extended JI composer) is making a statement in his notation that 
+pitch need not merely be regarded as a continuum, from which pitches are 
+selected on an arbitrary, subjective basis (again this is the old 
+Ptolemy vs. Aristoxenus battle).
+
+I understand your desire that a lingua franca be settled upon for 
+microtonal notation, but I offer these theoretical reflections in order 
+to point out that this is only one possible priority -- those 
+participating on the tuning list (or in the AFMM) don't necessarily form 
+one big happy family, but perhaps, rather, opposing parties who have 
+found a modus vivendi in order to pool resources. Even the word 
+"microtonal" is not necessarily a label happily accepted by all working 
+within JI.
+ 
+ 00:49:34 -0500
+Adam B. Silverman said (Mon, 28 Oct 1996) 
+
+> As I stand now, I think that Dan's ideas are very good; while Ben 
+> gives special accidentals to 7 and higher primes, he combines 3 and 5, 
+> with both using the 81/80 (+/-) diacritical.  Dan's system (an I 
+> understand it) uses sharps and flats (double sharps, etc.) for an 
+> ever-extensible Pythagorean chain, and applies + and - only for the .
+> intervals on the 5-plane Therefore, the 5-relationship of any major 
+> chord built on an uninflected pitch will be followed by a -.  I 
+> haven't used Dan's notation because it wasn't very practical to study 
+> with Ben and confuse him with a very similar yet different notation.  
+
+The 3-limit default is surely the much more obvious system -- it is far 
+more readily understood by musicians unfamiliar with JI, who will find 
+the  complications of 5-limit default notation forbidding or even 
+senseless at first. I very much doubt that Ben would have adopted a 
+5-limit notation without having considered the 3-limit alternative, so 
+I'm uneasy about Adam's treatment of the latter as if it were something 
+new that would have "confused" Ben. Barbour, for instance, settled on a 
+3-limit default without hesitation in *Tuning and Temperament*. I use a 
+5-limit default for music that I consider to be 5-limit (say, Josquin); 
+if I were dealing with much earlier music, I would readily switch to a 
+3-limit default. Whether Ben should have retained his 5-limit notation 
+after he had moved beyond the 5-limit in his own compositions is another 
+question, which I think only Ben himself could answer. The alternative 
+would have been to fall back to a 3-limit notation (congenial enough for 
+a string quartet composer) from the 4th quartet onwards. Ben would no 
+doubt object that our intuitive grasp of the major and minor scales 
+falls within the 5-limit, and not the 3-limit; if this is so, then it is 
+most natural to ask performers to inflect from this 5-limit default. 
+(This is also intended as a reply to Daniel Wolf's points.)
+
+>Similarly, in my string quartet, I use A+=400
+> (while Ben always uses A=440)
+
+I'm glad to hear it; as I said, this, in conjunction with C=1/1, 
+inevitably results in a great many minus signs which could easily be 
+avoided.
+
+> A tricky situation (one of the thorny
+> sides of this notation) is that in music that I have analyzed as 
+> 5-limit (such as Lassus, Gesualdo, Palestrina, even Chopin), it can 
+> drop by 7 or 8 commas in a short piece.
+
+I've dealt with this matter in my article in mto2.6 ("Intonational 
+Injustice") -- you might look at "Diatonic Ficta" by Margaret Bent 
+(*Early Music History* Vol. 4) to see why a gradual descent in pitch was 
+not a problem for a capella polyphony of the 15th/16th centuries (she 
+doesn't deal specifically with syntonic comma shifts though, but I know 
+that she is happy to include them within the scope of her arguments).
+
+Adam, thanks for your comments on signatures, and on Partch's choice of 
+intervals -- I'd very much like to discuss signatures in greater detail 
+off-list in the near future.
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 29 Oct 1996 07:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05490; Sun, 27 Oct 1996 01:19:04 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA06226
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA06299; Sat, 26 Oct 1996 16:19:01 -0700
+Date: Sat, 26 Oct 1996 16:19:01 -0700
+Message-Id: <2.2.32.19961026231649.00687914@adnc.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

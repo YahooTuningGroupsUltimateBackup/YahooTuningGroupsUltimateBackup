@@ -1,0 +1,38 @@
+source file: mills2.txt
+Date: Mon, 12 May 1997 00:28:29 +0200
+
+Subject: Re: Scala to Csound (digest 1064 topic 2)
+
+From: Greg Schiemer <gregs@mail.usyd.edu.au>
+
+On Fri, 9 May 1997, Mark Nowitzky wrote:
+
+> >BTW, if anyone is interested in the DOS scripts for edit & make, is there
+> >a site where these could be left ?
+> 
+> I'd be happy to keep what you got at my site.  Email it to me, and I'll set
+> up a special page for it or something.
+
+Great. I'll be able to do that later in the week. In the mean time, I'll
+need to get a read.me file together to make it worthwhile.
+
+I'll also include a set of Csound tuning demonstration files which specify
+tuning as part of the orchestra file, rather than the score file. This
+makes it possible to avoid using octave & (12) pitch classes to represent
+scales other than 12, both equal and non equal.
+
+Greg S
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 12 May 1997 04:09 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09516; Mon, 12 May 1997 04:09:13 +0200
+Date: Mon, 12 May 1997 04:09:13 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA09509
+Received: (qmail 20547 invoked from network); 12 May 1997 02:09:08 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 May 1997 02:09:08 -0000
+Message-Id: <970511220731_-1197854999@emout12.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

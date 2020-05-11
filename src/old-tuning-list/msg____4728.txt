@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Wed, 5 Feb 1997 05:20:06 -0800
+
+Subject: 88CET Definition
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> > That puts the P5 at
+> > about 695.5 cents, which means that it's somewhat similar with 88TET
+(not
+> > to be confused with 88CET).  
+> 88TET stands for 88-tone equal temperament, but what does 8CET stand for?
+
+   88CET stands for "88-Cent [per step] Equal Temperament".  88TET and
+88CET could be characterized as inverses of each other:  88TET has a step
+size of ~13.63c and 88 steps/octave, whereas 88CET has a step size of 88c
+and ~13.63 steps/octave.
+
+   This "CET" terminology is my idea, as far as I know.  It's convenient
+for a naming an equal-temperament whose step-size is an even number of
+cents but doesn't work out to any exact subdivision of any particular
+integer or integer ratio.  88CET is pretty close to 3 equal steps per 7:6,
+4 per 11:9, 5 per 9:7, 7 per 10:7, 8 per 3:2, 10 per 5:3, 11 per 7:4, 16
+per 9:4, or 18 per 5:2, but it isn't exactly any of those.  
+
+   Carlos' alpha could be described as 78CET, and beta as 64CET.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 5 Feb 1997 16:51 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA26471; Wed, 5 Feb 1997 16:51:24 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA26387
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id HAA28738; Wed, 5 Feb 1997 07:47:17 -0800
+Date: Wed, 5 Feb 1997 07:47:17 -0800
+Message-Id: <9702051537.AA02722@baris.acns.nwu.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

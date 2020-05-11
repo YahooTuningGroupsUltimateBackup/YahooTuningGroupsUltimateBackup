@@ -1,0 +1,24 @@
+source file: mills2.txt
+Date: Sun, 6 Oct 1996 14:04:21 -0700
+
+Subject: non-tempered synth error
+
+From: ice777@cdsnet.net (Michael Vannice)
+
+Just realized a mistake in my last post. Marion Systems synths do not have a
+tuning resolution of 1/512 of a cent. Rather, their resolution is 1/512 of
+100 cents, or .19531 cent. Sorry. 
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 7 Oct 1996 03:53 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00858; Mon, 7 Oct 1996 02:54:23 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00856
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id SAA12885; Sun, 6 Oct 1996 18:54:20 -0700
+Date: Sun, 6 Oct 1996 18:54:20 -0700
+Message-Id: <961006215204_120193344@emout16.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

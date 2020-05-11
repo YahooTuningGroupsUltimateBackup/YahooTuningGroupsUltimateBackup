@@ -1,0 +1,27 @@
+source file: m1469.txt
+Date: Wed, 8 Jul 98 22:42:19 +0000
+
+Subject: Re:microtuning software for Macs (oops !)
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+I wrote :
+
+>I deduce it works it's mojo by first picking out the MIDI note nearest to 
+>the target pitch, and then applying a pitch bend. It also bounces around 
+>four MIDI channels, because of the nature of pitch bends.
+
+Oops (kind of), I was going through the digests and see that some of 
+you've 
+been doing similar things for a while, non ?
+
+I use a Mac and I can't think of anything but Max that would allow 
+programming this sort of thing. There is always the not so happy option
+of using a regular ascii style programming language, like Java , I 
+suppose ?
+Has anyone here used Java to write this type of thing ? Anyone know if 
+the shareware/freeware "Megalomania" can be used for this ?
+
+-Drew
+
+"If the price is right, I'll compromise any character." - David Duchovny

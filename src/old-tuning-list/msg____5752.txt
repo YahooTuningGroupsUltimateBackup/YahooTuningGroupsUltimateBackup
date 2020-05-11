@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Sat, 5 Jul 1997 15:03:38 +0200
+
+Subject: RE: the 6th chord and odd-limit theory
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Paul Erlich said:
+>Graham, I am puzzled by your statement that these two four note chords
+>are complete chords of a nature which would seem to require them to be
+>six-note chords. Somehow, you hid two notes under your sleeve. Therefore
+>I will reserve judgment on your analysis until you clarify.
+
+I used the phrase "complete chords" in the literal English sense of
+"chords from which no notes are missing" rather than specifically
+Euler complete chords.  I also used the word "saturated" in a
+different sense to you.   Sorry for any confusion this caused.
+
+>I should add to this post that Erv Wilson's CPS idea is a reflection of
+>the triangular lattice philosophy, and deserves more attention, while
+>Euler genera and LCMs are a reflection of the rectangular lattice
+>philosophy.
+
+Symmetrical saturated chords are indeed Wilson CPSs (e.g. 2)1.3.3.5).
+They are also Euler genera without the first and last notes.  I can't
+make of these definitions work for the non-symmetrical, non-o/utonal
+chords mentioned in my more recent post.
+
+I haven't worked out the implications of triangular lattices yet.
+Are they what I would call Hexagonal lattices -- that is, is every
+point directly connected to 6 others?  How do you measure distances
+on them?  How do you extend them to multiple dimensions? Do they
+work without octave invariance?
+
+As I haven't received Digest 1122 yet, I can't be sure my message
+was in it.  If it wasn't, I'll re-post: it contains the conclusions
+I was working towards through looking at octave reduced ROHSs.
+However, there is a mistake in it; non-square powers of primes cause
+the same problems as rhubarb numbers.  The only such number small
+enough to be musically relevant is 27.  With n', m, for example,
+the interval 33/1 will arise.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 5 Jul 1997 15:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05341; Sat, 5 Jul 1997 15:04:59 +0200
+Date: Sat, 5 Jul 1997 15:04:59 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05324
+Received: (qmail 2908 invoked from network); 5 Jul 1997 13:03:58 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 5 Jul 1997 13:03:58 -0000
+Message-Id: <memo.169705@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

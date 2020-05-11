@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Sun, 6 Oct 1996 11:02:51 -0700
+
+Subject: Re: guide to non-tempered synthesizers
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> Actually i believe that the Kurzweil k2000 and the new k2500 have the 
+> ability to have each individual key tuned to whatever pitch you need. [...] 
+> it is however a tedious process to retune the kurzweil. 
+
+   According to a friend who has a K2500, the process of tuning it completely
+arbitrarily comes down to assigning a separate (I don't know the Kurzweil
+terminology, be the Ensoniq term is "wavesample") to every single key on the
+keyboard, and individually tuning each wavesample to the desired pitch.  That as
+opposed to allowing each wavesample span across several keys as usual, and
+having a pitch table adjust the pitches, as you can do on Ensoniq machines and a
+mere handful of others.  
+
+   I understand though that somebody markets a program to help K2x00 users in
+performing this sort of retuning process.  I believe it runs on the Mac.  
+
+   Now I'm not suggesting by any means that the K2x00 is a bad instrument.  It's
+a very powerful machine, but it's apparently not optimized for unusual tunings.
+
+
+   As I've mentioned before though, I do have a gripe about the Ensoniq scheme:
+Which wavesample it plays is based upon key number alone, instead of the pitch
+that the pitch table defines the key to.  (This, I believe at least, is not true
+of their "synth" line, but only their sampler line.)  So, if you load up a
+tuning table that makes an octave span across a significantly larger number of
+keys than 12, the lower keys sound squeeky and the upper keys sound groggy.  You
+have to redistribute the split-points between wavesamples for some tunings.
+(But that is still a lot easier than on the K2x00, and in many cases you don't
+have to do it at all.)
+
+   There is of course a potential problem with having tuning tables
+automatically move the wavesample split points, which is that it can wreak havoc
+with "mapped" instruments like drum sounds for example.  The answer of course is
+to make that an option, or far better still, to allow the user to define regions
+of the keyboard to which you independently apply the effects of the pitch table.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 6 Oct 1996 20:26 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24221; Sun, 6 Oct 1996 19:27:54 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA24283
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA06523; Sun, 6 Oct 1996 11:27:49 -0700
+Date: Sun, 6 Oct 1996 11:27:49 -0700
+Message-Id: <9610061125.ZM14279@frollo>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,75 @@
+source file: mills2.txt
+Date: Mon, 9 Jun 1997 09:58:18 +0200
+
+Subject: Re: Comments on the importance of tuning in New Scientist.
+
+From: mr88cet@texas.net (Gary Morrison)
+
+I found Lucy's quotation from James Iliff in the New Scientist very
+interesting.
+
+   Some comments:
+
+
+
+>An alternative basis for deriving musical intervals may be of great
+>acoustical and mathematical interest in itself.  But its musical
+>significance may be slight.
+
+   I'm inclined to expect something more like the reverse.  Lucy's belief
+that pi has anything to do with tuning, best I can tell, holds marginal
+interest at best both scientifically and musically.  Still, in my admittely
+brief experimentation with LucyTuning, it struck me as an interesting
+tuning with definite musical possibilities.
+
+   But I should qualify that by saying that it strikes me as one of a long
+list of interesting tuning possibilities, and at a quick glance, it seems
+to me to be somewhere in the lower middle priority-wise of that list.
+
+
+
+
+>For most of us, the difference between the "cooked" [tempered] and the natural
+>[just] version is so slight that it becomes lost in the idiosyncracies of
+>performance.
+
+   I believe that to be both thoroughly true, and thorougly false in two
+different ways.  Anybody who has played an indefinite-pitch instrument
+(e.g., virtually all orchestral instruments) can easily confirm that the
+pitch-biasing imperfections of these instruments, combined with the time
+and attention limits of normal-speed music, make it extremely difficult to
+precisely perform in, for example, 12TET vs. QC meantone, much less the
+subtle variations of different well temperaments.  There's not doubt in my
+mind that that's true in all but sustained chords, and I think it's
+important for mathematical theorists to bear that in mind.
+
+   But there are very important limits to that argument.  Firstly,
+sustained chords certainly do occur occasionally in normal-speed music, and
+they probably get the most attention in the audience's mind, at least when
+it comes to how the tuning affects them.  Second, there certainly are
+plenty of definite-pitched, and at least much-more-definite-pitched,
+instruments out there.  Guitars and pianos are extremely common examples of
+these, along with electronic instruments.
+
+   But certainly the most important caveat to this argument, is that it
+applies only to distinguishing temperaments (or not) of traditional pitch
+relationships, and entirely ignores nontraditional pitch relationships.
+The difference between, for example, a 9:7-frequency-ratio supramajor third
+and a normal major third is very easily audible in normal-speed music.
+Also, that large a pitch discrepancy from "normal" tuning (nearly a
+quartertone) is well outside the semirandom deviations due to instruments'
+pitch indefiniteness.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 9 Jun 1997 10:05 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA27067; Mon, 9 Jun 1997 10:05:05 +0200
+Date: Mon, 9 Jun 1997 10:05:05 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA29068
+Received: (qmail 25201 invoked from network); 7 Jun 1997 15:07:18 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 7 Jun 1997 15:07:18 -0000
+Message-Id: <970607110506_-1396943546@emout17.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Thu, 6 Mar 1997 11:34:44 -0800
+
+Subject: Meaner tones again
+
+From: John Chalmers <non12@deltanet.com>
+
+Paul E: The weights I used were 3, 5, and 5. My error function
+was thus 3*(F-X)^2 + 5*(TM-4*X+2*OCT)^2 + 5*(MS-3*X+0CT)^2.
+(FÎnts(3/2), TMÎnts(5/4), MScents(5/3), OCT1200)
+Your weights are 9 25 25, the squares of these. I weighted
+the derivatives, you the squared errors themselves. I'm not 
+sure which is more correct mathematically, but your unweighted
+gives a slightly lower sum of sq'ed errors.
+
+I thought our original question was optimising meantone-like
+tunings. When one goes beyond the meantone range, other functions
+must be used (8 fifths down for TM, 14 down for the Harmonic 7th,
+8 d or 9up  for the TM for doubly positive systems).
+
+Yes, I agree that JI triads are better than MT.
+
+I agree that the 15/8 is much less important than the 6/5. In
+fact if one sets the errors of the third and fifth equal,
+one gets the 1/3 comma meantone, if opposite in sign, the 1/5
+comma. In the first case the 6/5 is just, the second, the 15/8.
+I have analysed the tunings in my post in terms of the abs values
+of the errors. In which case the errors of the 5/3 and 15/8 may
+or may not be equal in a given tuning. The sum of the  F and T
+errors may or may not equal the errors in either the 5/3 or 15/8. 
+I could take the algebraic sum of the errors rather than the abs 
+value instead, I suppose.
+
+Somewhat to my surprise, using the ABS function did not generate
+any tunings different from the ones I got by the lst squares
+technique or simply setting the errors equal or opposite. The
+exact solution depended upon whether I minimized the abs(sum)
+or sum of ABS (errors) as expected, but the results were still
+tunings I already had.
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 6 Mar 1997 22:26 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07942; Thu, 6 Mar 1997 22:26:42 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08006
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id NAA04439; Thu, 6 Mar 1997 13:24:52 -0800
+Date: Thu, 6 Mar 1997 13:24:52 -0800
+Message-Id: <009B0E05094CC68A.6381@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

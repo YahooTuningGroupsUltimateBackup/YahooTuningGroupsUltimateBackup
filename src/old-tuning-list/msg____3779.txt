@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Thu, 17 Oct 1996 22:25:38 -0700
+
+Subject: Re: Bill's Pitch Bending Program
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> (a) it need to be compiled - on the ST the interpreted
+> version is not fast enough to use real time, while the
+> compiled version is (just barely) fast enough. I suspect the
+> Mac will be similar.
+
+   Uhmm...  I don't think so Bill!  The Atari ST is an 8MHz 68000 machine.  All
+but the a very few Macs still existing use something vastly more powerful.
+State-of-the-art Macs use a processor about 375 times as much compute power!
+(1.25 instructions per clock at 240MHz compared to 10 clocks per instruction at
+8MHz.)  Even if it has to emulate a 68K, it ought to be on the order of 50 times
+an 8MHz 68000, if not more.
+
+   I think you'll find that Macs, on the whole, are muuuuuuuch faster than the
+ST.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 18 Oct 1996 17:42 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02702; Fri, 18 Oct 1996 17:43:44 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA02612
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA08798; Fri, 18 Oct 1996 08:43:41 -0700
+Date: Fri, 18 Oct 1996 08:43:41 -0700
+Message-Id: <009AA0A3BA0145C0.3A2E@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

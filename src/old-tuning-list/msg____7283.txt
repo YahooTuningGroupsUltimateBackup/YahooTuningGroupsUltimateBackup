@@ -1,0 +1,79 @@
+source file: m1362.txt
+Date: Sun, 22 Mar 1998 20:37:24 -0600 (CST)
+
+Subject: Re: Well temperaments, just diminished
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Okay, I'm starting to get the gist of what well temperaments are all about,
+>but I don't really see how they are constructed.
+
+   I don't claim to be the kind of expert that, for example Ed Foote is,
+but from what I understand, you specify a well-temperament in terms of how
+many (pythagorean) commas you temper each fifth.
+
+   The premise of a 12 toned scale is that a stack of twelve fifths, which
+would bring you from (for example) a Ab all the way around to a G#, should
+land you on what is conceptually the same note.  If you try that with exact
+3:2 perfect fifths, you have Pythagorean tuning, wherein the resulting,
+would-be G# overshoots the Ab by a ratio of 531441:524288, or about 23.5
+cents.
+
+   That error is called a Pythagorean comma, and is strikingly close -
+purely coincidentally - to the "syntonic" comma (21.5 cents).  The
+difference between the two is called a skhisma, which (curiously) is
+strikingly close to the amount by which a 12TET P5 is flat of a 3:2.
+
+   So anyway, Pythagorean tuning, when limited to 12 tones per octave, has
+a wolf fifth from G# to Ab, which is 1 Pythagorean comma too small.  It
+sounds dreadful.  So, the question then comes down to "how do we distribute
+that (pythagorean) comma's-worth of error more evenly, rather than lumping
+it all into the one, last fifth?"
+
+   In short, everybody had his own favorite way to distribute that comma
+around, for example, Werckmeister apparently used these temperings of the
+fifths around the circle (and probably others):
+
+          Werckmeister III:  Werckmeister IV:    Werckmeister VI:
+Eb-Bb            0                +1/3                 0
+Bb-F             0                -1/3               -1/7
+F-C              0                  0                  0
+C-G            -1/4               -1/3               -1/7
+G-D            -1/4                 0                -4/7
+D-A            -1/4               -1/3               +1/7
+A-E              0                  0                  0
+E-B              0                -1/3                 0
+B-F#           -1/4                 0                -1/7
+F#-C#            0                -1/3               -2/7
+C#-G#            0                  0                  0
+G#-Eb            0                +1/3               +1/7
+
+The fractions here are what fraction of a (pythagorean) comma that fifth is
+flat of a 3:2 ratio.  You will notice that they all add up to -1, which is
+required for the circle to close at 12 fifths.
+
+   As far as I'm aware, there's no "science" as such behind these choices,
+other than that the fifths must be off from a 3:2 by very much, and
+preferably not differ in size from each other by very much.  Beyond that
+and the fact that they have to add up to -1, it was more a matter of what
+gave each key a certain, desired sound.
+
+
+
+
+
+>On another subject, some of the music I play contains "diminished 7th"
+>chords (stacked minor thirds).  Is this chord a modern invention?
+
+   Reasonably modern;  it's not diatonic, and was fairly heavily explored
+in the Romatic era.
+
+   But it can make sense in other than 12TET, provided that you don't
+stipulated that all of the intervals be the same.  Of course some of the
+games that Romantic composers played with it more or less assume that all
+of the intervals are the same, or at least close to the same.  Tritone
+substitutions were one of those games.
+
+   5:6:7 is one just-intonation possibility for tuning a diminished triad.
+You can make the top minor third be 6:5 or 7:6 - whichever you'd prefer.
+Each will sound a little bit different.

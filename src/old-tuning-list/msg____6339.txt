@@ -1,0 +1,152 @@
+source file: mills3.txt
+Date: Fri, 24 Oct 1997 20:59:23 +0200
+
+Subject: reply to Carl Lumma
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>Mr. Erlich can rest assured that I have nothing but the
+>highest respect for his work.
+>>His was one of my favorite cuts on the tape
+>>swap and has got me wanting more.
+>
+>Why thank you. I almost improvised it, and when I analyzed it later, I was
+>pretty amazed at how coherent it looked. It has nothing to do with what I
+>originally chose 22 for, but sometimes the wrong reasons can lead to the
+>right actions.
+>
+      >He also may or may not wish to know that one of the first tunings
+I'm going
+>to map to my generalized keyboard (when I get it) will be 22 equal.
+
+Great! What is this generalized keyboard you're getting? I had a hell of
+a time stretching my hands to play that piece.
+>
+>>>Today is my last day as a full-time employee of an investment company. I
+>>>already spend almost all my free time playing music...
+>
+>>So how is that working out?  Are you able to resist the temptation of
+>>playing with your 12 tone friends enough to go home and be microtonal?
+>
+>Not yet, but I have at least one friend who's getting good at 22-tone kbd.
+>
+>>To paraphrase: If you've got two frequencies represented by a ratio in
+>>lowest terms whose decimal value is between 1 and 2, then the period of the
+>>composite waveform of these two frequencies is the product of the two
+>>numbers in the ratio.  I believe this makes a more useful definition of
+>>Consonance than any other I've ever heard.  If somebody's got one they think
+>>I havn't heard, please share.
+>
+>Of course. This definition doesn't even make sense if the frequencies are at
+>an irrational interval, as in any equal temperament. Some good definitions of
+>consonance are to be found in Journal of the Acoustical Society of America
+>articles by Plomp and Levelt, Kameoka and Kuriagawa, and Terhardt.
+>
+>>This definition is independent of what a person may or may not hear, and it
+>>is independent of how they might like or dislike what they hear.  For those
+>>of you who do not view these as assets, don't use this definition.
+>
+>As a musican, I am ultimately concerned only with what people can actually
+>hear. The rest is pure intellectualization (or mythology). Yes, it can _feel_
+>like you can feel music with your whole body, or with an extended body the
+>size of the universe, but once you shut off your ears the whole effect
+>disappears (I'm baiting Neil).
+>
+>>The ear has a limit of resolution, just like anything else.  That the one
+>>example given by Mr. Erlich is beyond the ear's resolution does not mean
+>>that this definition has no practical application.  Clorox is poison but
+>>lots of folk find it useful to chlorinate their water.  I think the
+>>practical usefulness of the definition is obvious.
+>
+>I'm with you so far.
+>
+>>While I can't hear the difference between a 3/2 and a 300001/200001, I can
+>>hear the difference between a 19/16 and a [19723/16585.]
+>>I'm listening to it
+>>right now.  But I've been told that an error of 2 cents is not significant
+>>when comparing tempered intervals to just ones.
+>
+>Just because you can hear it doesn't mean it's an important musical
+>difference. Let's talk about beating, since you brought it up. Let's assume
+>the lower note is A440. Both 19/16 and 19723/16585 have significant beating
+>between the 6th harmonic of the lower note and the 5th harmonic of the higher
+>note. The rates of beating are 27.5 Hz and 23.744 Hz, respectively. Between
+>the 13th harmonic of the lower note and the 11th harmonic of the higher note,
+>the rates of beating are 27.5 Hz and 35.762 Hz, respectively. Finally, if the
+>19th harmonic is actually audible, the rates of beating between the 19th
+>harmonic of the lower note and the 16th of the upper note are 0 and 12.018
+>Hz, respectively. This, alone in the cloud of beating of other harmonics, is
+>the only significant difference.
+>
+>But why use 19723/16585 to represent the fourth root of two? It's only an
+>approximation! Had we used 44/37 instead, our beat rates would be 23.784,
+>35.676, and 11.892. Is there any audible difference between 44/37 and
+>19723/16585 and the fourth root of two? Does the relative
+>complexity/existence of the ratios for these three intervals mean anything
+>for how they sound?
+>
+>>Working within the practical limits of human hearing, the perception of
+>>subtle mis-tuning is very sensitive to the timbres used, the voicing of the
+>>intervals, how high the identities are, and how they are used in combination
+>>with other intervals.
+>
+>And most of all, how long the sound lasts!
+>
+>>If your timbres have a high degree of inharmonicity, you'll loose
+>>resolution.  Don't use bowed strings for high resolution work.
+>
+>Bowed strings are not inharmonic.
+>
+>>If your
+>>interval is down in the lowest octave of the piano, don't expect to hear a
+>>10 cent difference.  You're much less likely to notice a 3/2 2 cents off
+>>than a 11/7 mistuned by 2 cents.  You can't hear the difference between a
+>>3/2 and 700 cents in a melody, but in an otherwise just triad, it sticks out
+>>like a sore thumb.
+>
+>>So my original point was:  When comparing an equal-step tuning to a just
+>>tuning on a broad, theoretical level, define Consonance on a broad
+>>theoretical level.
+>
+>Such as: a few simple-integer ratios, plus a band of allowable mistuning
+>around each of them? That's the type of thinking behind my posts, and to
+>which you seemed to object so strongly. What are your arguments against it?
+>
+>>My other original point was: Equal step tunings have nothing to apologize
+>>for.  I don't view them as imitating just tunings.  They're a different
+>>breed of cat.  The kind of music that makes sense in an equal temperament
+>>doesn't make sense in JI and vice versa.  It's like apples and oranges.
+>
+>And don't forget meantone (the pear?). But I think JI is simply an ideal
+>tuning for harmonic consonance, and the harmonic consonance of any other
+>tuning depends solely on how closely it approximates JI. For melodic (let
+>alone modulatory or fingering) considerations, JI is not ideal.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "David Worrall" <drw@stimpy.anu.edu.au>
+Subject:  Re: more consonance and dissonance
+PostedDate:  25-10-97 03:19:14
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  25-10-97 03:18:19-25-10-97 03:18:19,25-10-97 02:18:57-25-10-97 02:18:57
+DeliveredDate:  25-10-97 02:18:57
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125653B.0007299D; Sat, 25 Oct 1997 03:18:14 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA26997; Sat, 25 Oct 1997 03:19:14 +0200
+Date: Sat, 25 Oct 1997 03:19:14 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA26988
+Received: (qmail 25560 invoked from network); 24 Oct 1997 18:19:10 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 24 Oct 1997 18:19:10 -0700
+Message-Id: <9710251118.ZM20906@simba>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

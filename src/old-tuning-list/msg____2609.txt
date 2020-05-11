@@ -1,0 +1,25 @@
+source file: mills2.txt
+Date: Fri, 1 Mar 1996 13:42:02 -0800
+
+Subject: MIDI pitch bend
+
+From: "Adam B. Silverman" <Adam.B.Silverman@students.Miami.EDU>
+
+I'm having trouble getting my EMU Proteus to play microtonally:
+I use a Macintosh with Vision, and have sequenced lines, inserting pitch 
+bend messages for microtonal alterations.  On playback, though, I kkep 
+hearing the "bending" between each note.  How do I get it to attack each 
+pitch without these little glissandi?
+-Adam
+asilverm@email.ir.miami.edu
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 2 Mar 1996 01:52 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA15306; Fri, 1 Mar 1996 16:52:05 -0800
+Date: Fri, 1 Mar 1996 16:52:05 -0800
+Message-Id: <9603020050.AA06411@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

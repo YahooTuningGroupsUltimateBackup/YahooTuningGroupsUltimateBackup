@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Tue, 14 Jan 1997 09:02:01 -0800
+
+Subject: RE: TUNING digest 956
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>> except to say that the last occurs once. Well, numbering the
+>> four intervals in question from 1 to 4, they go like this: 1 2 3 2 1 4 2 
+3
+>> 2. That adds up to a 4/3.
+
+>Or to 22tet's approximation of 4/3.
+
+It works in JI too. Witness:
+
+25   36   49   36   25   256   36   49   36
+ -- * -- * -- * -- * -- * --- * -- * -- * --
+24   35   48   35   24   243   35   48   35
+
+  2^16 3^8 5^4 7^4
+---- --- --- ---
+  2^14 3^9 5^4 7^4
+
+  4
+-
+  3
+
+Sort of reminds me of one of your posts on rhythmic modulation, Matt.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 14 Jan 1997 18:32 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13791; Tue, 14 Jan 1997 18:35:33 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA13829
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA27943; Tue, 14 Jan 1997 09:35:30 -0800
+Date: Tue, 14 Jan 1997 09:35:30 -0800
+Message-Id: <23970114172232/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

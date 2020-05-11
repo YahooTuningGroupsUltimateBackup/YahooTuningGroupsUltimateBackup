@@ -1,0 +1,50 @@
+source file: m1362.txt
+Date: Mon, 23 Mar 1998 15:36:09 +0100
+
+Subject: Scala bug fix release
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+I have uploaded a new release of Scala which supercedes the
+previous 1.4 version. It's at
+ftp://ella.mills.edu/ccm/tuning/software/pc/scala/scala14.zip
+Note that the filename has changed from scala.zip to scala14.zip.
+It's a release with only bug fixes and no new features.
+The following problems are solved:
+
+- PYTHAGOREAN/EQUALBEATS gives incorrect results if the octave is not 2/1.
+- KEY makes the program end with an exception if the current scale is
+empty.
+- The EXAMPLE command has the following problems:
+   1) When trying to use a different equal-command for each track,
+
+0 track 1
+0 equal 17
+!!!
+0 track 2
+0 equal 19
+
+     it says "invalid format : 0    track 1". Inserting a dummy
+     equal-statement before the first track solves the problem.
+   2) Empty lines in the input file can cause unpredictable results.
+   3) Tempo statements with a time value of 0 (absolute or relative)
+      make previous tempo statements with time 0 lost.
+   4) Some enharmonic equivalent note names that are not in the same
+      octave are not interpreted correctly, for example in 15-tET, B and C
+      are equivalent, so B.0 = C.1 but instead B.0 is interpreted as C.0.
+   5) Negative octaves with note names don't always work correctly for
+      example: A.-2.
+   6) A high amount of parameter statements can cause a program crash.
+- EQUALTEMP/DATA can cause a program crash for divisions 0 till 4.
+
+
+John Loffink wrote:
+> I don't know of any computer program (MIDI patch/program editor) that
+> supports the MIDI tuning standard other than Justonic's Pitch Pallette,
+and
+> it supports only 12 note per octave scales.  Anyone?
+
+Scala supports it (but is not a MIDI patch/program editor), and the
+EPS/EPS16/ASR10 tuning dump format. JIcalc supports them too.
+
+Manuel Op de Coul    coul@ezh.nl

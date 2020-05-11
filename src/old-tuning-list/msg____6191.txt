@@ -1,0 +1,56 @@
+source file: mills3.txt
+Date: Tue, 30 Sep 1997 05:41:51 +0200
+
+Subject: Re: Tuning 1193
+
+From: Carter Scholz <csz@well.com>
+
+In reference to the MIDI Tuning Spec, Fred Kohler points out that his
+Tropez card supports only the non-real-time "tuning dump" part of the
+spec, and fails to support the real-time single note tuning change
+message.
+
+Unfortunately, this is a reality of MIDI.  Every manufacturer gets to
+choose which parts of the spec they will or won't support.  E.g., you
+can support, or not support pitch bend, to a bit-depth of 7 or 14 or
+whatever.  Knowing this, we wanted to provide an implementation that
+would accommodate extreme demands, yet still stand some chance of
+acceptance in this laissez-faire industry.
+
+Acceptance of the tuning spec was minimal to nil, except for champions
+like Steve Curtin (late of Ensoniq), Dave Frost at Emu, Matt Isaacson at
+Peavey, (and evidently someone at Turtle Beach) who fought hard and
+worked late to get some portion of it in.
+
+It was a nice idea, but with CPUs faster by the month it's probably over
+for MIDI hardware.  Maybe the software engines to come can learn from
+our mistakes.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  DMB5561719@aol.com
+Subject:  Kronos plays Partch again...Enclosure 4 is here...film at 11....
+PostedDate:  30-09-97 14:46:53
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  30-09-97 14:46:34-30-09-97 14:46:40,30-09-97 14:45:37-30-09-97 14:45:38
+DeliveredDate:  30-09-97 14:45:38
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256522.00462A25; Tue, 30 Sep 1997 14:46:23 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02400; Tue, 30 Sep 1997 14:46:53 +0200
+Date: Tue, 30 Sep 1997 14:46:53 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA02442
+Received: (qmail 12220 invoked from network); 30 Sep 1997 05:46:31 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 Sep 1997 05:46:31 -0700
+Message-Id: <970930084322_-562264573@emout09.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Thu, 7 Dec 1995 10:43:11 -0800
+
+Subject: JI Calc & WAV to MIDI
+
+From: William Echard <wechard@yorku.ca>
+
+I've been trying to FTP JI Calc, but the old addresses don't seem to
+work for me anymore :-(  Can someone tell me where to find it?
+     Also, I've been wondering if anyone has created a PC version of
+the melograph, i.e., something that will read a sound file and provide
+a continuous graph of pitch & loudness?  Similarly, I'm wondering if
+anyone knows of a program that will give an *interactive* graphic
+representation of a fourier analysis, so you can point the mouse and 
+get the data for that particular spot (I've seen this in linguistic
+analysis software from UWO, but it requires a special card and costs a
+fair bit).  Thanks for any and all illumination.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!        William Echard          !!
+!!    Music, York University      !!
+!!            Toronto             !!
+!!       wechard@yorku.ca         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 8 Dec 1995 00:35 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA24341; Thu, 7 Dec 1995 15:35:36 -0800
+Date: Thu, 7 Dec 1995 15:35:36 -0800
+Message-Id: <199512072333.PAA24191@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

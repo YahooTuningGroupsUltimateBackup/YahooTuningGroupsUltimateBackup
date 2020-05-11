@@ -1,0 +1,165 @@
+source file: mills2.txt
+Date: Thu, 18 Jul 1996 14:32:00 -0700
+
+Subject: Digest 600, XH16 article, Brian
+
+From: Paul Rapoport <rapoport@mcmail.cis.mcmaster.ca>
+
+I have finally had a chance to re-examine Brian McLaren's report of my
+notation article in XH16, auspiciously appearing in Tuning Digest 600 on
+this forum. A few days ago I asked for more comments from others.
+Understandably, none arrived. (I'm pretty busy too.)
+
+What I tried to do in that article was derive a system which is based on
+the one we know which would theoretically cover any ET. Some of the
+solutions are awkward, because once I figured out what to do, I pushed the
+result as hard as I could. Consequently, to notate 171-tET the way I did
+may just seem quaintly humorous. But for a large number of ETs, probably
+up to 72 or 100 or so, I think I showed that using traditional notation
+plus signs for various kommas works, and works systematically. That is the
+key concept, because until now there have been widely divergent
+approaches. My systematization doesn't do away with those, of course, but
+it strongly suggests that non-systematic approaches won't work for more
+than a few tunings, because relationships among them won't appear. 
+
+Yes, this amounts to an expansion of Pythagorean notation, with the
+addition of signs for the syntonic komma, the diesis, the skhisma, and the
+diaskhisma. In the process, some theorems are discussed and proved about
+the relation of the kommas to each other. Below are paraphrases of some of
+Brian's points (some only, not all that I take issue with), enclosed in
+angle brackets, plus my discussion. His exact words are in quotation
+marks. I'd be interested in others' reactions. I am aiming here for a
+rational (and calm) objection to points I disagree with, no more. 
+
+1. Brian says that <I have an "implicit presumption" that one ought to
+relate "all the especially 12-like tunings with good fifths."> I don't.
+The basing of a notation system on fifths is all I did, whether or not
+those fifths are good or bad, or whether an ET has fifths at all. For
+those that don't (e.g. 13-tET), I proposed a general solution to notate
+them within the same framework. 
+
+2. <ETs 9, 10, 23, 22, and 21 cannot be usefully notated using a 5-limit
+method.> The article shows how to do this. Of course many may prefer the
+method for ETs with recognizable fifths; see point 1. 
+
+3. <ETs generally do not allow themselves to be seen as an "outgrowth" of
+just intonation.> Many uses of ETs do exactly that, especially the ones
+that allow recognizable tonal or modal progressions. This does not mean
+that they grew from JI historically, which is a different and differently
+arguable point. 
+
+4. Brian spends some time discussing why small intervals, e.g. 1/17 or
+1/31 octave don't sound like JI, for no reason I can determine. 
+
+5. <Easley Blackwood's microtonal etudes suffer because he tried to make
+them all as 12-like as possible.> Not quite; he tried to make them as
+tonal/modal as possible. <The etude in 19 is weak because Blackwood didn't
+showcase exotic, non-Pythagorean intervals.> One might as well devalue
+12-tET tonal music because it isn't atonal, or the other way around, for
+that matter. There is little point in criticizing something for what it
+deliberately *doesn't* do, unless it makes a claim that nothing else is
+acceptable. We need to separate criticizing the premise from criticizing
+the result. I'd prefer more exotic music too, but that isn't what 
+Blackwood set out to do. 
+
+6. <A string of MIDI numbers (0 to 127) and a MIDI file format constitutes
+a notation.> It does, but not one anyone I know would want to perform or
+analyze from. Brian goes on to claim that <I reject pieces of music which
+aren't in traditional notation,> a point which he dreamed up himself. 
+
+7. <"Essentially no one attends or gives live acoustic concerts any
+more."> Statements like this lead people on this forum to ignore Brian.
+More on this later. 
+
+8. <For 25-tET, "a notation which implies that there are more tones than
+sharped or flatted versions of C, D, E, G, and A proves less than
+useful."> Sorry, no sale. Keeping to that principle of notation would
+imply that the only structure in 25-tET is groups of pentatonic scales.
+But 25 has a quite usable major 3rd and natural 7th, which staying with C
+D E G A won't reveal adequately. 
+
+9. <Blackwood's (and my) notion that E and F are the same note (in 20, 25,
+etc., any ET with a 720-cent fifth) is "willful obfuscation."> It is true,
+however. Several articles show why. But it is possible both to use and
+relieve this fact in a systematic way. My article does this, but Brian
+doesn't seem to recognize that. 
+
+10. <22-tET has nothing in common with traditional tunings.> Does anyone
+agree with this? 
+
+11. <The notation of distinctly un-Pythagorean ETs in this manner doesn't
+work, e.g. 13- and 14-tET.> My solutions for these and others like them
+reveal exactly what he says is lacking. For example, there is no major or
+minor third in 14, and no perfect fifth in 13: this emerges from what I
+suggest be done to notate these ETs. 
+
+12. <14-tET is nothing more than two sets of 7-equal.> This comment is
+similar to Brian's comment about 25 being nothing more than 5 sets of
+5-equal, and equally incorrect. Blackwood's 14-note etude and mine in 25
+should be enough to show that. 
+
+13. <35-tET is a nightmare to notate.> Anyone who reads my article is
+invited to determine that this is not so. If anyone wishes, I'll apply the
+method I've evolved to that, since I didn't illustrate it in my article.
+It is a curious case, but by no means dreadful. 
+
+14. <Sharps and flats are most useful in tunings which sound like they
+have semitones.> This is too vague for me. Besides, sharps and flats
+aren't defined in terms of semitones, but at least initially as 7 perfect
+fifths (up or down), in a Pythagorean sense, anyhow. What interests me
+most are cases where the fifths are so far from just that the sharp and
+flat end up denoting either fairly large or fairly small intervals. 
+
+15. <"The use of sharps and flats in 19 is willfully perverse."> There are
+many counterexamples to this categorical denial. Of all ETs, 19-tET is
+closest to 12. In another note, Brian seemed troubled that a double-sharp
+in 19, being two units of the tuning, conflicted with what it should be,
+namely a whole step, which is 3 units in the tuning. But in 19-tET F
+double-sharp and G are not the same note, as will be recognized by anyone
+dealing with 19 as a tonal/modal tuning. 
+
+At the end of his review, Brian suggested that my article was an admirable
+advance in examining the notation issue. I can't see why, since he
+discussed mostly things he disliked. (I have omitted mention of the few
+things he liked and dicussed.) But I'll emphasize that my post here isn't
+primarily an argument with Brian McLaren. It's a discussion about matters
+of notation, which I see in a broader context than one of convenience or
+necessity: a context which may reveal structures and at the same time be
+useful for all the things notation is intended for. 
+
+None of this excludes doing things differently. Although I agree with
+anyone who notes that I don't base my method on primes beyond 3 and 5, I
+disagree with anyone who claims I reject all possibilities that do go to 7
+and beyond. Writing an article or several about 3 and 5 does not imply
+ignorance of or disdain for something else. More about that another time.
+I have another article to write still about 3x5, and many ideas about 7
+and beyond. Of course, many others have had such ideas also. 
+
+Finally, Brian's apparently less well thought out statements can be
+misleading and even damaging. We all need to make it clear when we are
+discussing things we know something about and when we're not, and to give
+or at least imply reasons for conclusions to un-obvious questions.
+Otherwise we risk being written off totally. In Brian's case, he has a lot
+to offer; he may know more about microtonality than I do. In addition, he
+has been helpful to many people beyond description, and his bibliography
+on microtonality is no less than amazing.
+
+But everyone must read his articles carefully. I am sure he would invite 
+no less an approach.
+
+==========================      =================================
+Dr. Paul Rapoport               e-mail:	rapoport@mcmaster.ca
+SADM (Music)	                   tel: (+1) 905 529 7070, ext. 2 4217
+McMaster University                fax: (+1) 905 527 6793
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 19 Jul 1996 02:09 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA22405; Thu, 18 Jul 1996 17:09:41 -0700
+Date: Thu, 18 Jul 1996 17:09:41 -0700
+Message-Id: <25960719000752/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

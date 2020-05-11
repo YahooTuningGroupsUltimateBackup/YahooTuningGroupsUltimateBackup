@@ -1,0 +1,86 @@
+source file: mills3.txt
+Date: Sun, 21 Dec 1997 04:57:27 +0100
+
+Subject: WELL TEMPERED GUITAR
+
+From: "Paul N. Bailey" <103445.713@compuserve.com>
+
+Valotti Well Temperament for Guitar
+                                        and
+                        "Victorianized" Valotti for Guitar
+                                        by
+                                Bill Bremmer RPT
+                                (forwarded by
+                                Paul Bailey RPT
+                                San Mateo, CA)
+                =======================================
+    Here are the  SAT readings for a Vallotti on the guitar:
+
+   All notes are read on octave 4:
+
+   E2: -4.0   A2: 0.0   D3:  2.0   G3:  4.0   B3: -2.0   E4:  0.0
+
+    The discrepency between E2 (-4.0) and E4 (0.0)  provides for adequate
+octave stretch.  There is inharmonicity in guitar strings just as there is
+in
+a piano's.   The -4.0 between A2 and E4 is "adjusted" for inharmonicity to
+-2.0.  The guitar's natural inharmonicity makes this interval beat
+adequately.
+(Inharmonicity naturally causes 5ths & 12ths to beat more slowly and 4ths
+to
+beat more rapidly than their theoretical rate).
+
+   Here is the "Victorianized Vallotti":
+
+     E2: -2.0  A2: 0.0  D3: 1.0    G3: 2.0   B3: -1.0   E4: 0.0
+
+   Either one of these can be approximately duplicated aurally by simply
+putting more of a beat (than in ET) in the 4ths and the 12th that occur on
+the
+fingerboard which will considerably slow down the beating in the G3-B3 3rd
+and the D3-B3 6th.  Making these 2 rapidly beating intervals beat "gently
+and
+pleasantly" to the ear then evening out the slow-beating intervals is the
+aural goal while keeping A2 in a good unison with the pitch source.
+    The frets, which are immovable, will cause the harmony to align itself
+with the cycle of 5ths and thus the expected "key color" of  a
+Well-Tempered
+Tuning will occur.
+    The above figures for a "guitar Vallotti" were used in a production of
+"The Man of La Mancha" with Madison Opera in 1993.  A very clear
+distinction
+could be heard from the guitar in the serene sound of A minor and the very
+dark and disturbing sound of both Bb minor and Ab minor which were written
+for
+the guitar in the score.
+    Sincerely,
+    Bill Bremmer RPT
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Re: Miscaline
+PostedDate:  21-12-97 10:58:00
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  21-12-97 10:55:54-21-12-97 10:55:54,21-12-97 10:55:28-21-12-97 10:55:28
+DeliveredDate:  21-12-97 10:55:28
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256574.00368B19; Sun, 21 Dec 1997 10:57:41 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22989; Sun, 21 Dec 1997 10:58:00 +0100
+Date: Sun, 21 Dec 1997 10:58:00 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA22981
+Received: (qmail 21974 invoked from network); 21 Dec 1997 01:57:57 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 21 Dec 1997 01:57:57 -0800
+Message-Id: <v01541102b0c1c1d58f53@[207.207.2.56]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

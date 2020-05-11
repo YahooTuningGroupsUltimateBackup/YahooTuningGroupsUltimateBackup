@@ -1,0 +1,28 @@
+source file: m1390.txt
+Date: Sun, 19 Apr 1998 09:20:02 -0500 (CDT)
+
+Subject: Re: Continued Fraction Problems
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>2)In Dunne's excursion into using the maj 3rd (5/4) for the computation
+>(on how many notes could be there in an ET octave), where ( log[2](5/4) =
+>log[2](5) - log[2](4) )He says "since log[2](4) is an integer,the crux of
+>the approximation is
+>that of log[2](5) . Why is log [2](4) to be ignored ?
+
+   I haven't seen this particular expose', but I suspect that it's not so
+much that it can be ignored as that it isn't problematic.  The base-2 log
+of 5 is irrational, so approximating it with a sum of multiples of
+logarithms of integers is much more difficult for the log of 5.  The answer
+for 4, on the other hand, is trivial and well-known as 2.
+
+
+
+
+
+>3)I'm telling you, a lot
+>of people could be put off by the math involved in microtonality.
+
+   That's a well-known and well-founded concern.  And it has in fact
+already taken quite a few people off the list.

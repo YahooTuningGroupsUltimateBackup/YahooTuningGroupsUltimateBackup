@@ -1,0 +1,98 @@
+source file: mills3.txt
+Date: Sun, 30 Nov 1997 13:48:30 +0100
+
+Subject: Article from UK Guardian
+
+From: Charles Lucy <lucy@ilhawaii.net>
+
+The following article appeared in the Manchester Guardian 11/27 and may
+interest you and prompt comments, and thoughts from you:  I, for one, would
+like to know more - lucy@hour.com http://www.ilhawaii.net/~lucy Start of
+article> My tiny fractal hand is frozen - Paul Parsons on the arithmetic than
+runs from raga to ragtime,
+ from kabuki to country-style.  SITAR OR the Spice Girls?  Your ear can tell
+the difference immediately but now science is catching up.  Researchers in
+Korea have new evidence that cultural differences in music can be
+ identified numerically, using the machinery of chaos theory.  "Chaos" is the
+emergence of wildly unpredictable behaviour from seemingly innocent
+ physics. It is an immediate feature of the world around us, cropping up in
+quantum theory, astrophysics, and mathematical economics, as well as the
+weather and even the timing of
+ a dripping tap.  Despite apparent randomness, chaos is actually a
+well-ordered phenomenon.  It is caused by extreme sensitivity of a physical
+system to its initial state, meaning that tiny differences become magnified
+as the system evolves. Unpredictability arises because
+ we cannot measure the system accurately enough. This is why weather
+forecasting is so hard.  Chaos is sifted from randomness in systems by using
+what is called "a phase portrait" - a diagram showing how the system evolves
+from its starting state.  scientists look for regions in the phase portrait
+where the evolutionary from many initial states converge. These areas are
+known as attractors. For a simple pendulum, the phase portrait is just a
+graph if the
+ pendulum's position against its speed, and the attractor is a circle.  But
+as complexity increases,
+ the shape of the attractor becomes more convoluted.  Chaotic systems have
+fractal attractors. Fractals are disjointed shapes which have the same
+ appearance when viewed on many different length scales. their complex
+structure creates the illusion of randomness. Fractal attractors are
+classified by a number, the "dimension",
+ which increases the level of chaos in the system.  Scientists have started
+to look for phase portraits of speech and singing. "There is a tradition of
+looking for fractal structure in music over the last decade or so"  says Ian
+Stewart of Warwick University, "in a sense trying to characterise the
+'texture' quantitatively." While irregularities in
+ speech were thought to be produced by simple randomness, evidence soon
+emerged that
+ they were,in fact, caused by chaos in the vocal system.  Now a team headed
+by Myeong-Hwa Lee, of Seoul national University, has studied the Korean
+traditional song Gwansananyungma, the western song La Mamma Morta, and the
+pure
+ note "Si". Plotting the volume of the sound on a phase portrait, they
+established the dimension of
+ the attractor that each song converged to. Like the simple pendulum, the
+pure note "Si" has a
+ roughly circular attractor confirming its single frequency and indicating
+non-chaotic behaviour.  La Mamma Morta, however , has a more complicated
+attractor, with a mildly chaotic dimension of
+ 2.5, while Gwansananyungma has a highly chaotic fractal attractor of 4.4.
+It shows that the Korean song is more complex than its western number, which
+Lee et al attribute to
+ the Korean vocal system and singing technique. More importantly, it shows
+that voice patterns and
+ music can be quantified numerically. "All of this work will of benefit to
+speech coding and other
+ technological uses," adds Lee. He now hopes the results, soon to appear in
+the Journal of the Acoustical Society of America, will enable him to
+construct a detailed mathematical model of speech.  End of article>
+
+lucy
+http://www.ilhawaii.net/~lucy
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carl Lumma <clumma@nni.com>
+Subject:  re: Bach? Puhleeze?
+PostedDate:  30-11-97 23:15:04
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  30-11-97 23:13:22-30-11-97 23:13:23,30-11-97 23:13:18-30-11-97 23:13:19
+DeliveredDate:  30-11-97 23:13:19
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125655F.007A1131; Sun, 30 Nov 1997 23:13:18 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02691; Sun, 30 Nov 1997 23:15:04 +0100
+Date: Sun, 30 Nov 1997 23:15:04 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02689
+Received: (qmail 12094 invoked from network); 30 Nov 1997 14:15:00 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 Nov 1997 14:15:00 -0800
+Message-Id: <19971130221445109.AAA251@NIETZSCHE>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

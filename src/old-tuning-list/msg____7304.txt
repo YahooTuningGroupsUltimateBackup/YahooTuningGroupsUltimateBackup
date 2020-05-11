@@ -1,0 +1,86 @@
+source file: m1365.txt
+Date: Thu, 26 Mar 1998 08:55:21 -0600 (CST)
+
+Subject: 88CET Ear-Training CDs, part 5
+
+From: mr88cet@texas.net (Gary Morrison)
+
+88CET?  Wuzzat?
+---------------
+
+   Before I go into more detail about the sorts of exercises that make
+sense on such a CD, I need to explain a bit more about 88CET tuning itself.
+Some of the exercises won't make a lot of sense without this background
+information.  Indeed, some of the exercises on these 88CET CDs aren't
+likely to make much sense on, for example, a 34TET ear-training CD.
+
+   I did a series of tuning-list postings on 88CET tuning about 3 years ago
+or so.  Even though it's been that long, I'll paraphrase the qualities of
+88CET tuning a lot here, since that's not the main thrust of this series.
+I am working on some really killer web pages about 88CET tuning, but
+they're only about 1/3 done now.  So in the meantime (not to be confused
+with "meantone"!), if you'd like to learn more, I can send any of you who
+might be interested in more details about 88CET, the text of those postings
+(assuming that I can find them all!).
+
+   Most basically, "88CET" stands for "88-Cent [per step] Equal
+Temperament".  It's an equal-temperament whose primitive step size is 88
+cents.  The 1200 cents in an octave's span clearly don't divide evenly by
+88, so 88CET is a nonoctave tuning.  No two notes on an 88CET instrument
+are exactly an octave apart, nor exactly two octaves apart.
+
+   But the fact that it does not approximate octaves is not, in itself,
+quite as critically important as several other attributes.  For the
+purposes of this series, here's what's most important about 88CET tuning:
+1.  88CET has no traditional major or minor thirds.  Instead it
+    has three nontraditional thirds:  subminor (7:6), neutral (11:9),
+    and supramajor (9:7).
+2.  It has no approximation to a traditional major or minor scale.
+3.  Since it has no octave, 88CET has no octave-compound intervals.
+    That means that, rather than getting "octave-equivalent" intervals
+    in each octave's span, you instead get an different set of
+    harmonic resources.
+4.  88CET has a pretty good approximation to a 4:6:7:9:10:11:15
+    harmonic-series fragment chord, or (obviously) any fragment of
+    that chord.
+5.  Since it's an equal temperament, it can also play that same
+    structure inverted, meaning a that same subharmonic-series
+    fragment.
+6.  Also because it's an equal-temperament, you can build other
+    chords as stacks of any one of those intervals, such as a neutral
+    triad, which is a stack of two 11:9 neutral thirds.  That in the
+    same sense that a major triad is a minor third atop a major third.
+7.  Since 88CET has no approximation to the octave, it has two
+    intervals that come close to an octave.  They are far enough to
+    sound "out of tune", and close enough not to sound like anything
+    in their own right.  They are, in short, "off octaves" and I find
+    that they pretty much have to be avoided in most forms of harmony
+    (for approximately-harmonic timbres that is).
+8.  In addition to "off-octaves", 88CET also has a similarly dreadful-
+    sounding off twelfth (3:1 ratio), and off double-octave (4:1).
+    Other harmonic frequencies (5:1, 6:1, 7:1, etc.) seem to be either
+    sufficiently well-represented, or are harmonically remote enough
+    to be tolerable.
+Again I'm brutally paraphrasing here, so I'm not coming even close to doing
+justice to the importance of any of these qualities of 88CET tuning.
+
+   Here is a table of frequency-ratio approximations in 88CET music:
+
+             ------------------------------------------
+                     Number
+                    of 88CET
+             Ratio   Steps    Interval Name
+             ------------------------------------------
+              1:1      0      Perfect Unison
+             10:9      2      "Minor" Wholetone
+              7:6      3      (Septimal) Subminor Third
+             11:9      4      Neutral Third
+              9:7      5      Supramajor Third
+             10:7      7      (Large Septimal) Tritone
+              3:2      8      Perfect Fifth
+              5:3     10      Major Sixth
+              7:4     11      Subminor Seventh
+             15:7     15      Neutral Ninth
+              9:4     16      Major Ninth
+              5:2     18      Major Tenth
+             ------------------------------------------

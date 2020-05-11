@@ -1,0 +1,124 @@
+source file: mills3.txt
+Date: Mon, 15 Dec 1997 18:40:20 +0100
+
+Subject: Re: Reply 2 to Graham Breed
+
+From: Steven  Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+
+Gregg Gibson <ggibson@ww-interlink.net spake thusly:
+
+> Alas, the incommensurability of the thirds and fifths in 22-tone
+> equal does not arise only when modulation is employed, which I have
+> always been very careful to note. If, taking C as tonic, we tune by
+> fifths of 709 cents, we have a G of 709 cents and a B of 1145
+> cents.=20
+
+What is `C'?  What is 'G'?  What is `B'?  What is the sound of
+forcing a seven-sided peg into a ten-sided [for sake of argument]
+hole?
+
+When I first got into tuning, I was locked into the 7 tone diatonic
+thing, too -- problem was I could never reconsile that with what
+I wanted to hear.  Once I let go of my security blanket and opened
+up my ears, a whole world opened up around me.
+
+I had absolutely no trouble finding a 10 tone scale in 22 by ear,=20
+with no theory at all to guide me (until after the fact, that it :).
+Maybe that makes me special (of full of it), since it's more than
+the magic 7, but what of it?  Lots of people listen to 12 serial
+rows and to them it is comprehensible [I'm not there yet, myself].
+
+At any rate I make music for myself, and whomever is open enough
+to listen to what I might have to say.  I've no interest whatever
+in forming a band to please the masses [and I'm not that good=20
+yet, anyhow ;-)].
+
+> The idea that a static scale =E0 la just intonation can be employed
+> melodically so long as one does not modulate, fails to understand
+> that it is not only in modulation that commensurable consonance is
+> necessary; the very tissue of melody itself falls apart unless the
+> consonances are conciliated by temperament. 22-tone equal does not
+> do this, which is one reason why it is such a poor system.
+
+I found this yesterday, while noodling around on my worthless^H^H^H^H
+22TET guitar:
+
+To make sense of it, you should read Pauls paper on 22.  I will say
+now that I found this aurally, and I have yet to sit down and grind
+the numbers out.  Frankly, numbers don't mean squat if it sounds
+good, IMHO as a musician.
+
+I've been working with Pauls Decatonic Minor modes, notably the=20
+Standard Pentachordal form.  [I haven't seen the edition of the
+paper with the graphics, so I'll use the following notation:
+=09
+=09I(10) - Maj decatonic tetrad
+=09i(10) - min     "       "
+=09I-(10) - Maj-Min tetrad
+=09i+(10) - min-Maj tetrad
+=09I*(10) - Augmented tetrad.
+]
+
+What I've found is that the three _consonant_ chords that completly
+define the mode as suggested by Paul are i, II- and III. =20
+
+I was playing with various patterns of chords like this:
+
+    i(10) -> v(10) -> i(10) -> IV(10) -> III(10) -> II-(10) -> i
+
+when I came up with the following modulation to the subdominant (v):
+[assume the `(10)' subscript here]:
+
+  First, firmly establish the sense of tonality:
+
+    i -> v -> i -> IV -> III -> II- -> i
+
+  Then, go to the subdom:
+
+   i -> v -> i -> IV -> III+ -> IV+ -> v   (of i)
+
+                        [IX+] -> [X+] -> i  (of v)
+
+This was every bit as powerful, if not more so, to my ears, as the
+usual diatonic modulation to the dominant. =20
+
+Now, as soon as I can find an equally cool way to get back again,
+I'm going to plop a reel on the 8 track and start working on a=20
+bass line. ;-)
+
+Steve
+
+
+
+
+
+  =20
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Steven Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+Subject:  Correction Re: Reply 2 to Graham Breed
+PostedDate:  15-12-97 18:57:18
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  15-12-97 18:55:20-15-12-97 18:55:21,15-12-97 18:55:00-15-12-97 18:55:01
+DeliveredDate:  15-12-97 18:55:01
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656E.00626F95; Mon, 15 Dec 1997 18:57:07 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA16139; Mon, 15 Dec 1997 18:57:18 +0100
+Date: Mon, 15 Dec 1997 18:57:18 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA16137
+Received: (qmail 17163 invoked from network); 15 Dec 1997 09:57:14 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 Dec 1997 09:57:14 -0800
+Message-Id: <199712151753.MAA07535@doghouse.hq.nasa.gov>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

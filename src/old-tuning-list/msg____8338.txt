@@ -1,0 +1,149 @@
+source file: m1500.txt
+Date: Mon, 10 Aug 1998 20:59:40 -0700 (PDT)
+
+Subject: Re: Nanotemperament chart revisions
+
+From: "M. Schulter" <mschulter@value.net>
+
+-------------------------------------
+                       Corrections on nanotemperaments
+                         (with thanks to Paul Erlich) 
+                    -------------------------------------
+
+May I express great appreciation to Paul Erlich, whose article on
+22-tet in the new Xenharmonikon 17 has many insights on tuning and
+harmonic organization, for calling to my attention some omissions in a
+recent posting on synthesizer nanotemperaments for meantone tunings.
+
+Specifically, my meantone chart ranged from around 1/3-comma meantone
+on the narrow or "negative" side to 17-tet on the wide or "positive"
+side. However, extending the positive portion of the table a bit
+further not only remedies the omission of 22-tet, but also gives a
+pleasing symmetry to the whole. Incidentally, it may be worth noting
+that the amount of temperament applied to the fifth in 22-tet (about
+7.14 cents) is actually _less_ than in 1/3-comma meantone (7.17 cents)
+or 19-tet (7.22 cents) -- only the _direction_ is different.
+
+Also, Paul Erlich helpfully pointed out that I had included
+information for 17-tet, but not for 19-tet or 31-tet, very close to
+1/3-comma and 1/4-comma respectively. This provides yet another
+motivation for a revision.
+
+Additionally, implementing these suggestions gave me a chance to find
+a slight error in the stated size of fifth for 1/3-comma meantone, and
+also to note the omission of a 512-tet nanotemperament in the region
+between 17-tet and 22-tet:
+
+                   603(2)-604(2)  707.23     +5.27
+                  *301(1)-302(3)    "          "
+
+To explain briefly: the first line, for 1024-tet, defines a tuning in
+which a major third is built from two fifths of 603 steps and two
+fifths of 604 steps: this produces an average fifth size of 707.23
+cents, or 5.27 cents _wider_ (positive sign) than just. The next line
+shows an equivalent 512-tet tuning with one fifth of 301 steps and
+three fifths of 302 steps, producing the same average fifth size. Such
+"equivalent" tunings should produce major thirds of the same size,
+although other intervals may vary.
+
+As in original post, the left columns are for 768-tet synthesizers,
+and the right for 512-tet or 1024-tet. Since the chart is rather long,
+maybe the best approach for now is just to post the revised regions of
+the chart -- not that there might not be more errata.
+
+
+----------------------------------------------------------------------
+                 Meantone nanotemperaments for synthesizers
+----------------------------------------------------------------------
+               768-tet                         512-tet/1024-tet
+                                             (* = 512-tet steps)
+Nanopattern    cents     temp+/-       Nanopattern    cents     temp+/-
+     444       693.75     -8.21 -------     592       693.75     -8.21
+                                           *296         "          "
+                                       592(3)-593(1)  694.04     -7.91
+444(3)-445(1)  694.14     -7.81
+                                       592(2)-593(2)  694.34     -7.62  
+                                      *296(3)-297(1)    "          "
+444(2)-445(2)  694.53     -7.42
+                                       592(1)-593(3)  694.63     -7.33
+----------------------------------------------------------------------
+                   19-tet = 694.74 cents = -7.22 cents
+        Salinas 1/3-comma meantone = 694.79 cents = -7.17 cents
+----------------------------------------------------------------------
+444(1)-445(3)  694.92     -7.03 -------     593       694.92     -7.03
+                                      *296(2)-297(2)    "          "
+                                       593(3)-594(1)  695.74     -6.74
+     445       695.31     -6.64
+
+                          .............................
+
+
+445(2)-446(2)  696.09     -5.86 --------    594       696.09     -5.86
+                                           *297         "          "
+                                       594(3)-595(1)  696.39     -5.57
+445(1)-446(3)  696.48     -5.47
+----------------------------------------------------------------------
+                 1/4-comma = 696.58 cents = -5.38 cents
+----------------------------------------------------------------------
+                                       594(2)-595(2)  696.68     -5.28
+                                      *297(3)-298(1)    "          "
+                                      (Erlich's 1/4-comma for 512-tet)
+----------------------------------------------------------------------
+                   31-tet = 696.77 cents = -5.18 cents
+----------------------------------------------------------------------
+     446       696.88     -5.08
+                                       594(1)-595(3)  696.97     -4.98
+446(3)-447(1)  697.27     -4.69 -------     595       697.27     -4.69
+                                      *297(2)-298(2)    "          "
+
+                          .............................
+
+
+451(2)-452(2)  705.47     +3.51 --------    602       705.47     +3.51 
+                                           *301         "          "
+                                       602(3)-603(1)  705.76     +3.81  
+451(1)-452(3)  705.86     +3.90
+----------------------------------------------------------------------
+                     17-tet = 705.88 cents = +3.93 cents       
+----------------------------------------------------------------------
+                                       602(2)-603(2)  706.05     +4.10
+                                      *301(3)-302(1)    "          "
+     452       706.25     +4.29
+                                       602(1)-603(3)  706.35     +4.39
+452(3)-453(1)  706.64     +4.69 --------    603       706.64     +4.69
+                                      *301(2)-302(2)    "          "
+                                       603(3)-604(1)  706.93     +4.98
+452(2)-453(2)  707.03     +5.08
+                                       603(2)-604(2)  707.23     +5.27
+                                      *301(1)-302(3)    "          "
+452(1)-453(3)  707.42     +5.47
+                                       603(1)-604(3)  707.52     +5.56
+     453       707.81     +5.86 --------    604       707.81     +5.86
+                                           *302         "          "
+                                       604(3)-605(1)  708.11     +6.15
+453(3)-454(1)  708.20     +6.25
+                                       604(2)-605(2)  708.40     +6.44
+                                      *302(3)-303(1)    "          "
+453(2)-454(2)  708.59     +6.64
+                                       604(1)-605(3)  708.69     +6.74
+453(1)-454(3)  708.98     +7.03 --------    605       708.98     +7.03
+                                      *302(2)-303(2)    "          "
+----------------------------------------------------------------------
+                Erlich 22-tet = 709.09 cents = +7.14 cents 
+----------------------------------------------------------------------
+                                       605(3)-606(1)  709.28     +7.32
+     454       709.38     +7.42
+                                       605(2)-606(2)  709.57     +7.62
+                                      *302(1)-303(3)    "          "
+454(3)-455(1)  709.77     +7.81
+                                       605(1)-606(3)  709.86     +7.91
+454(2)-455(2)  710.16     +8.20 --------    606       710.16     +8.20
+                                           *303         "          "    
+______________________________________________________________________
+----------------------------------------------------------------------
+
+Most appreciatively,
+
+Margo Schulter
+mschulter@value.net
+7 August 1998

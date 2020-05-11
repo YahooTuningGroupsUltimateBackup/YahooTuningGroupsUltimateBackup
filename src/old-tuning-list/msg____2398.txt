@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Wed, 20 Dec 1995 07:29:37 -0800
+
+Subject: reverb (was CSound vs McLaren)
+
+From: bil@ccrma.stanford.edu (Bill Schottstaedt)
+
+>Naturally, no one has ever 
+
+>made public the code for any of the high-quality
+>reverbs used in Csound instruments from places
+>like CCRMA or IRCAM.
+
+Speaking only for ccrma, this is because no one here
+has used CSound to any great extent -- before 1990
+we used the Samson box or Mus10; since then, the
+MusicKit, Cmix, or CLM.  I translated all the reverberators
+I could find and made them part of the CLM distribution
+files.  Also included is a working example of the
+FOF algorithm, arbitrary-order filters, floating point
+output, and so on.
+
+I believe Paul Lansky's LPC code is available in
+Cmix.  The best spectral analysis/resynthesis package
+that I know of is Xavier Serra's SMS.
+
+On the general problem of academic code that doesn't work --
+we don't have the resources of either time or 
+
+money to port software to every machine, so we make it 
+
+work on what is available to us. At least the stuff is
+free, and in the public domain -- Brian would really gnash his
+teeth if he ever tried to get his hands on some trade
+secret (which in the computer music industry means
+table lookup, or something equally disappointing).
+
+I'd invite Brian to take a look at CLM, but it doesn't
+yet run on the PC (except under NeXTStep or Linux), and
+is too slow to be usable on the Mac (these are on my
+ever-growing list of things to do).
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 20 Dec 1995 22:03 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA25315; Wed, 20 Dec 1995 13:02:56 -0800
+Date: Wed, 20 Dec 1995 13:02:56 -0800
+Message-Id:  <9512201303.aa00535@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

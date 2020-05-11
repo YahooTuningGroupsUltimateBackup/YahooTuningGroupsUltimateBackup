@@ -1,0 +1,21 @@
+source file: m1547.txt
+Date: Wed, 7 Oct 1998 18:10:20 -0400
+
+Subject: Volume for Bram
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>The main thing I'm
+>still unclear on at the moment is how to compute volume, although at
+the
+>moment I suspect it's based on the integral of the square of the second
+>derivative of f(x). Hopefully I'll know for sure after doing my
+homework.
+
+The usual quantity for measuring the volume of the signal is its RMS, or
+the square root of the average value of the square of f(x). The average
+value is the integral over a long enough time divided by the time. No
+need to take derivatives of f(x).
+
+P.S. Have you tried any listening experiments yet? I strongly suggest
+that you do before you get too deeply involved in your project.

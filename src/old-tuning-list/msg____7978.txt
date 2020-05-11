@@ -1,0 +1,60 @@
+source file: m1437.txt
+Date: Thu, 4 Jun 1998 10:45:07 -0500
+
+Subject: Re: magic chord
+
+From: "Benjamin Tubb" <brtubb@cybertron.com>
+
+On Wed, 3 Jun 1998 14:37:35 -0400, Paul H. Erlich wrote:
+
+>I was playing around with a harmonica sound on my Ensoniq VFX-SD tuned
+as close as possible to JI (the scale being the JI version of the
+pentachordal decatonic scale of my paper, hence 12 notes per octave with
+two 50:49 "commas"). Playing the chord 1/1 5/4 3/2 7/4, and dropping the
+3/2 down to 7/5, I didn't hear much of an increase in dissonance. After
+some confusion, I realized that the only potentially dissonant interval
+in this chord is the 28:25 (196 cents) between 5/4 and 7/5.
+
+The difference between 5/4 and 7/5 is 23:20 which is 241.961 cents.
+
+>Now the
+Ensoniq's tuning tables allow cents values for each note, and I had
+approximated the other intervals in such a way that the 28:25 was
+nominally represented by 199 cents.
+
+28:25 coverts to 196.198 cents.
+
+>Since the true tuning resolution of
+the Ensoniq VFX-SD is 512 notes per octave, this interval was probably
+represented by 85/512 octave, or 199.2 cents.
+
+85[+512] : 512 converts to 265.905 cents.
+
+>This is only 4.7 cents off
+a just 9/8, which explains the relative consonance of the chord.
+
+9:8 converts to 203.91 cents which is a difference from 265.903 of 61.993
+cents.
+
+>It is a
+near miss to a saturated 9-limit chord. A true 28/25 would be 7.7 cents
+off a just 9/8, which would be quite a bit more dissonant.
+
+28:25 converts to 196.98 cents which is a difference from 203.91 (for 9:8) of
+6.93 cents.
+
+>The difference between 28/25 and 9/8 is 225/224, a fundamental
+comma-like interval in Fokker's writings.
+
+The difference between 28:25 and 9:8 is 201:200.
+
+I use the following Mathematica formulas and its Rationalize[] function for all
+conversions.
+
+cent2rat[cents_]:=10.^((Log[10,2]/1200)  cents)
+rat2cent[ratio_]:=1200/Log[10,2] Log[10,ratio]
+
+-------------
+Benjamin Tubb
+brtubb@cybertron.com
+http://home.cybertron.com/~brtubb

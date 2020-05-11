@@ -1,0 +1,95 @@
+source file: mills2.txt
+Date: Mon, 5 May 1997 18:31:17 -0700
+
+Subject: Attachment : Scala to Csound
+
+From: Greg Schiemer <gregs@mail.usyd.edu.au>
+
+Sorry everyone,
+
+The attachment to my previous post got messed up. It was the Scala command
+file which follows ....
+_______________________________________________________________________
+
+! greek.cmd
+CLS
+!
+echo Build a Greek scale by adding intervals, display it in hertz & save
+it
+!
+input/interval
+?
+PAUSE
+?
+PAUSE
+?
+PAUSE
+?
+PAUSE
+?
+PAUSE
+?
+PAUSE
+?
+PAUSE
+?
+file ..\scale.orc
+echo ;---- Scale.ORC ----------------------------
+echo 
+echo sr     40000                     ; audio sampling rate is 20 kHz
+echo kr     500                       ; control rate is 500 Hz
+echo ksmps  80                        ; samples in ctrl period (sr/kr)
+echo nchnls 1                         ; channels of audio output
+echo
+echo instr    1
+echo ;                                  P2 : start time
+echo ;                                  P3 : duration
+echo ;                                  P4 : amplitude
+echo ;                                  P5 : pitch
+echo iamp   ampdb(p4)
+echo kamp   line  iamp,p3,0             ; amplitude envelope
+echo asig   oscil kamp, cpsoct(p5),1    ; audio oscillator
+echo out    asig                        ; send signal to channel 1
+echo endin
+close
+file ..\scale.sco
+echo
+echo ;---- Scale.SCO ----------------------------
+echo
+echo ;             ratios
+echo
+show
+echo
+echo ;-------------------------------------------------------------------
+echo
+echo f1      0       16384   10      1
+echo
+echo ;---------------------------------------------
+echo ;p1     p2      p3      p4      p5   
+echo 
+echo ;Instr. Start   Dur.    Vol.    Pitch
+echo ;                       (in db) (in cpsoct)
+echo ;---------------------------------------------
+echo ; 
+echo i1      0       1.25    90      (0:)
+echo i1      +       .       .       (1:)
+echo i1      .       .       .       (2: copy this line n times)
+echo ; cut & paste each pitch values (octave with fraction) into P5
+echo
+show/frequency
+close
+_________________________________________________________________________
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 6 May 1997 07:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05522; Tue, 6 May 1997 07:04:08 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05501
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id WAA29818; Mon, 5 May 1997 22:02:16 -0700
+Date: Mon, 5 May 1997 22:02:16 -0700
+Message-Id: <336EBF1F.4DDB@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

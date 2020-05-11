@@ -1,0 +1,315 @@
+source file: mills2.txt
+Date: Tue, 19 Dec 1995 14:36:47 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: The dirty truth about Csound
+---
+Since no one has ever bothered to respond
+to any of my e-mail about the problems
+with Csound,  time to go public.
+Around 40% of the features of Csound do
+not work and appear to be unimplemented.
+Most of these features deal with spectral
+modification of input signals, but the delay
+line features also do not work. 
+One at a time, Csound's current problems are:
+[1] One of the most obvious reasons to use
+Csound is to analyze input timbres with
+the Csound HETRO program and resynthesize
+them with the partials warped into the
+frequencies maximally consonant for a given
+tuning.  
+Naturally, HETRO does not work and Csound's
+ADSYN routines does not work.  Way back
+when, HETRO was written as an add-on to 
+analyze input sounds with a hetrodyne filter.
+It blew up if the input exceeded 32 kilobytes
+in length.  The problem was inherent to the 
+HETRO code, not the machine on which it ran.
+Barry Vercoe fixed this problem in December
+1994 but in so doing changed the format in
+which HETRO stores numbers.  The old format
+stored partials in pairs: frequency, amplitude,
+timeslice, frequency, amplitude, timeslice...&c.
+The new format uses the same data structure
+but the timeslice is now variable and indicates
+a detla-t in milliseconds to the next envelope
+breakpoint.
+In the old HETRO, the user specified the number
+of breakpoints and the spectral analysis output
+automatically took care of giving a spectral
+"snapshot" every length/(number of breakpoints)
+milliseconds.
+In the new HETRO, an internal algorithm minimizes
+the number of breakpoints.  This number is thus
+entirely variable and the time between spectral
+"snapshots" for each harmonic is unpredictable.
+Alas, Csound cannot read spectral analysis files
+in the new HETRO format.
+This is of some concern to xenharmonists on this
+tuning forum, inasmuch as one of the main areas
+of interest for microtonalists working in computer
+music is modifying acoustic spectra to render them 
+maximally consonant in a given tuning.
+Thus, the two primary routines designed to analyze 
+and resynthesize Csound timbres are vaporware.
+ADSYN and HETRO no longer work.
+(Naturally, various forum subscribers will
+deny this, and naturally they'll be--let us say--
+"deliberately mistaked.") 
+This is a classic example of academic garbageware,
+a subject to which I shall return in future posts.
+Garbageware promises wonderful results, doesn't
+work, and is always undocumented and bug-ridden.
+Garbageware is always written by someone with 3
+PhDs as a diversion, and naturally no support is
+ever available for the software, since the programmer
+is now in the Arctic studying the mating habits of the
+krill shrimp under the permanent ice pack.  Garbageware
+always *almost* works--it does *just enough* to
+tantalize the unwary user, but *never* enough to
+be useful.
+Naturally, no one has bothered to mention
+garbageware in Computer Music Journal, ARRAY, or
+anywhere else--so it's up to me (as usual).
+Csound's "spectral modification" routines are
+a classic example of garbageware.
+If you try to use HETRO, you'll get an output
+file, all right--an output file unreadable by
+Csound.  (Various people will now claim this
+is not so, and they'll be--let us say--"deliberately
+mistaken.")
+Try it.  Feed a sound into the HETRO program.
+You'll get a .HET file out.  Now feed it into
+your Csound program using the ADSYN command.
+Guess what?  You'll get the message "bad
+file read."
+Yes, Barry Vercoe has changed the Csound
+HETRO format without telling anyone.  Thus
+Csound's ADSYN command now cannot be used,
+and has not run since the December 1994
+build of Csound.
+(Again, many forum subscribers will claim
+this is not so, and again they'll be--let us
+say--"deliberately mistaken.")
+[2] Let's talk about ADSYN.  This is an almost
+entirely undocumented feature of
+Csound.  Vercoe's docs from a 1989 release
+of Csound (not present in the current 1994
+release of Csound available on John Fitch's
+bulletin board) claim that "more details about
+ADSYN will be given later."  They never are.
+ADSYN's command syntax is a mystery.  No
+one knows what it is.  Why?  Because only
+Vercoe knows the full command syntax for
+ADSYN, and he isn't telling. 
+Thus ADSYN is useless and might as well
+not be a part of Csound.  (Again, various
+forum subscribers will deny this, and
+again they'll be--let us say--"deliberately
+mistaken.")
+[3] One of the most grotesque paradoxes
+of Csound is that the program is theoretically
+capable of generating the world's most 
+impressive reverb.  Naturally, no diagrams or
+sample reverb programs exist.  Of course
+many diagrams and sample reverb programs
+exist for MUSIC11 or other ancient programs; and
+and of course all these sample reverb programs 
+require special instructions not present in
+the C versin of Csound. Naturally, no one has ever 
+made public the code for any of the high-quality
+reverbs used in Csound instruments from places
+like CCRMA or IRCAM.  Therefore (naturally!)
+the only reverb currently available to users of
+Csound is the 1970-vintage reverb using
+4 all-pass filters and 2 comb filters.  This is
+one of the world's worst-sounding reverbs:
+it sounds like a tile bathroom.
+The result?
+If you want to add high-quality reverb
+to your Csound composition, you must
+compile the Csound compisition dry and
+then play it through a commercial digital
+reverb unit, then re-record the reverberated
+Csound composition.
+(Naturally, various forum subscribers will deny
+this, and naturally they'll be--let us say--"deliberately
+mistaken."  There is a less polite term.)
+This is so grotesque and so unthinkably
+bizarre as to defy credibility.  Yet there it is.
+You want high-quality Csound reverb?  Record
+your Csound composition through a PCM-80
+or an Alesis Quadraverb and re-record it.
+When you realize tha this means many, *many*
+layers of re-recording to get different levels of
+reverberation on a Csound compotiion, you
+begin to realize the utterly insane nature
+of the situation.  Yet it persists.  No high-
+quality digital reverb instrument has ever been 
+published, no source code for a Csound
+high-quality reverb is available anywhere, 
+at any time, in any way, for any reason.
+(Naturally, various forum subscribers will deny
+this, and naturally they'll be--let us say--
+"deliberately mistaken.") 
+[4] Aside from a hi-fi type "tone control"
+and a sharply resonant filter called reson,
+Csound offers no facilities whatever for
+spectral modification of input sounds. (Naturally,
+various forum subscribers will deny this, 
+and naturally, they'll be--let us say--"deliberately
+mistaken.")  
+Mark Dolson's LPC and the Lansky LPC routines
+built into Csound produce unbearably distorted
+output with so many artifacts as to be musically
+unusable. Cutting down the input volume doesn't
+help.  Naturally, Paul Lansky's own LPC-
+processed sounds exhibit *none* of these
+artifacts...so (naturally) Paul Lansky must 
+be using a bunch of special C code he hasn't
+bothered to make public.
+However, not only do the Dolson and Lansky
+LPC modules in CSound produce unlistenable
+garbage audio output, there are no other
+less sophisticated spectral modification
+routines in Csound (aside from the reson
+and tone modules).
+There is, for example, no way to apply 
+a 50-peak formant filter to an input sound,
+or to a Csound instrument on output.  There is,
+for example, no way within Csound to apply the
+equivalent of a graphic or parametric
+equalizer to the sound.  There is assuredly
+ no way to apply anything like 256 bands
+of boost and cut to various frequencies,
+with the boost and cut specified to the fraction
+of a dB.
+Naturally, this would be trivial given Csound's
+processing capacbilities.  So, naturally,
+it's impossible.
+(Again, various forum subscribers will deny this,
+and again they'll be--let us say--"deliberately
+mistaken.")
+[5] The IRCAM fof module is almost completely
+undocumented. I've never been able to get it to
+work.  
+[6] The -f option to output floating point format
+soundfiles doesn't work.  Output is a blaring roar.
+Pure high-quality noise.
+[7] On the GCC builde of Csound for the IBM PC,
+instrument .orc files crash when the number of
+variables exceeds 65535.  It's fairly easy to
+exceed that number with a single large additive
+synthesis instrument--day, 128 partials with
+128-point amplitude and frequency envelopes.
+So let's see: 
+Fof doesn't work, HETRO and ADSYN don't work,
+there's no way to build reverb in Csound, the -f
+flag doesn't work, and there are no spectral 
+modifiers other than RESON and TONE--and the
+Dolson and Lansky LPC produce unlistenable
+distorted garbage output when used inside
+Csound.  You can't compile large additive
+synthesis .orc files.  And the Dolson PVOC routines
+produce the message MATH ERROR and a register
+dump after time-stretching long files, but it
+doesn't appear to affect the soundfiles.
+That's a good 40% of Csound that doesn't work.
+While this sounds awful, it's actually a tremendous
+achievement.  A full 60% of Csound actually WORKS.
+By contrast, the winner and all-time champion of
+academic garbageware,  F. R. Moore's cmusic, is
+100% non-functional.
+Carrying on the UCSD music department's tradition
+of producing unusable junk software, csmusic is *classic*
+garbageware.  In the words of one of the members of
+this tuning forum: "Even I know better than to download
+that crap.  With more than 3000 files in hundreds of
+directories, it would probably take a month of recompiles
+just to get cmusic to work on the machine it was
+written for--much less port it." 
+As world-class garbageware, cmusic exhibits
+all 4 of that species' salient characteristics:
+[1] It's totally undocmented, and totally 
+unsupported.  A vaguely-worded ASCII 
+file always arrives with the garbageware
+executables--"You can do X, Y and Z with
+this wonderful pieceof software developed at
+IRCAM!"  And naturally, there's not a ghost
+of a clue *how* to use the software.  Naturally,
+the command syntax always involves something baroque
+and outlandish--CRT-ALT-SHIFT-LEFT PARENTHESIS-
++-BACKSLASH-SUB-COLON-COMMAND-F7, or 
+some such.  Naturally, you'll *never* find this out
+from the "docs" which arrive with the
+garbageware, so naturally the software
+is useless.  Inputting a "?" or "HELP COMMAND"
+message always produces the message "INCORRECT
+SYNTAX."
+[2] Garbageware always needs 5 special hidden install files
+to run on *your* computer.  Meanwhile, it comes with 5693
+different install files for OTHER computers--a PRISM compiler 
+for the Connection Machine, an assembly loader for the 
+Commodore PET, and an INSTALL routine that runs on the 
+mercury delay line of a 1948 ENIAC--but if you want
+to run the Garbageware on *YOUR* computer (a Mac or a
+PC), hey!  Guess what?
+Yep. 
+You're out of luck.  
+Naturally!
+Yes, indeedy, the special install files *aren't* included 
+with YOUR version of the garbageware.  And where can
+you find them?
+You can't!
+The programmer wrote the garbageware to run only on
+(say) his Kaypro Robby, and never anticipated that anyone
+would run the software on an exotic outre machine...
+like, say, a Macintosh or an IBM PC.
+[3] Once you get the garbageware up and running,
+you'll discover some delightful bugs.  The 
+garbageware goes south on Tuesday during full 
+moons but only when it's raining.  Naturally,
+the developer at IRCAM  or wherever
+will describe this as a "special feature."
+One of the most interesting of the "special
+features" of the latest GCC compile of
+Csound is that it never stops compiling on
+long scores.  Yes, the compile continues from
+forever to forever--infinite compilation!  What
+an advance!  Why not devote an issue of Confuser
+Music Urinal to this marvellous feature???
+Do you have 400 megs free on your hard disk?  Want
+to use it up?  Compile a 7-minute Csound score under 
+the GCC Csound--you'll use up all 400 megs in 1 file!
+Meanwhile, if you want to end the comiple session,
+you do so by hitting CTRL-BREAK.  Clever command
+syntax, eh?
+[4] Last and best of all,  you'll finally come
+across docs for the garbageware--docs to version 
+2.19 from Carnegie-Mellon.  However,
+all ftp sites curently carry v. 5.62 from
+CCRMA.  And guess what?
+Yep!  The command syntax has changed toally!
+The command CSOUND -D -H %1 %2 now does
+something interesting and different--perhaps, say,
+wiping your hard disk and reformatting it.  (Gosh.
+What a useful feature...)
+Hurrah for academic garbageware!  Without
+it, where would we be?
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 20 Dec 1995 06:05 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id VAA07412; Tue, 19 Dec 1995 21:05:36 -0800
+Date: Tue, 19 Dec 1995 21:05:36 -0800
+Message-Id: <951220000424_59067722@mail06.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

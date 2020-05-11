@@ -1,0 +1,28 @@
+source file: m1445.txt
+Date: Fri, 12 Jun 1998 09:40:19 -0500 (CDT)
+
+Subject: Re: Fokker's Matrices
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Thu, 11 Jun 1998, it was written:
+> > In all the cases you've mentioned so far, it is the case that the ETs
+> > have no better approximations to the just intervals than the ones
+> > represented by one step along the axes.
+> 
+> No, I meant can you give me an example of an ET which _does_ have a
+> better approximation.
+
+Never mind, here's one: in the 3-5 lattice, let the 9/8 (2 0) and the
+128/125 (0 3) vanish.  The determinant of the matrix is 6; in 6TET
+the closest interval (just barely) to the 3/2 is actually 4 steps, but
+it's the 3-step interval which must be used as the 3/2 if the 9/8 is to
+vanish.
+
+Um--so now that we have the example, what was the question again?
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

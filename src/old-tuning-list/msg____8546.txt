@@ -1,0 +1,35 @@
+source file: m1541.txt
+Date: Wed, 30 Sep 1998 22:35:04 -0700 (PDT)
+
+Subject: Cancelling out beats
+
+From: bram <bram@gawth.com>
+
+On the Autumn home page (is that thing being updated or what?) it says:
+
+As Bill Sethares shows in his recent papers on timbre and
+consonance,("Local consonance and the relationship between timbre and
+scale"1993. Journal of the Acoustic Society of America 94(3):  1218-1228
+(Sept) and "Relating Timbre and Tuning" 1993. Experimental Musical
+Instruments 9(2): 22-29 (Dec)  consonance can be obtained in virtually any
+tuning if the overtone spectrum is properly designed (algorithm given). 
+
+Might it be possible to find these online? If not, could anyone suggest
+libraries which might have them?
+
+My guess, without knowing exactly what those papers say, is that they are
+generally based on an algorithm for cancelling out the beats of any two
+notes. I know the beats can be essentially calculated using continued
+fractions, so I'm guessing there's a rather straightforward way of
+calculating, given a*sin(x) + b*sin(y), a and b being volumes and x and y
+being wavelengths, there's a rather straightforward way of calculating a
+bunch of other sin functions which when added will cancel out all the
+beats.
+
+If my above guess is correct, I might (might) take on a project of writing
+a utility which would play any random set of pure tones and do automatic
+beat cancellation on them, which I think would be a very cool toy if
+nobody's done it already, although there's some math I need to know 
+first ... 
+
+-Bram

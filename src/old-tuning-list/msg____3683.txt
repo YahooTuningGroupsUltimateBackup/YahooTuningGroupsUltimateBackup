@@ -1,0 +1,117 @@
+source file: mills2.txt
+Date: Thu, 26 Sep 1996 01:52:47 -0700
+
+Subject: More on spacing: response to PAULE
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+(1) I cannot follow your logic regarding sine waves and the subharmonic.
+Since the complexes we are discussing are within a finite section of the
+audible frequency range, and we are probably not discussing ratios
+involving harmonic partial larger than, say, 81, (although I have worked
+with interesting - and perceivable - musical results through 128, and La
+Monte Young through 512, partials), whether one thinks in terms of harmonic
+or subharmonic is - initially - simply a matter of renotation. Thus, how is
+it that you are able to decide that sine waves are "distinguished and
+digestable" when described in harmonic context but suddenly not so when
+renotated as subharmonic?
+
+(2) Or do you define as subharmonic any complex without 2^n as the lowest
+member?  A spacing theory would compare the notations to determine which
+characterization is more likely (if neither is, then the neutral
+characterization is chosen). Your algorithm - and I do wish to examine it
+in detail - strikes me as a root direction theory (and more in the
+Hindemith than in the Rameau direction). The lack of register specificity
+in your algorithm would however seem to be problematic in light of all
+experimental evidence (and in light of traditional musics and
+instrumentation). Both Clarence  Barlow and James Tenney have profitably
+included absolute frequency in their agorithms. 
+
+(3) You cite several psychoacoutistical certainties in support of your
+algorithm, I am especially curious to learn of experimental results
+supporting (a) "in a purely psychoacoustical sense, a chord played will
+evoke certain interpretations in terms of the harmonic series"; this may be
+what your algorithm tells me, and is a conjecture that I would like to
+support, but I would like to find experimental evidence in this direction
+(and I have encountered evidence to the contrary: see Boomsliter and Creel
+on the 7th partial); (b) "the ear´s central pitch processor simply doesn´t
+go that far"; I am completely confused by this: what do you mean by
+"central pitch processor", and how far, exactly does it go? The harmonic
+progression I presented, and its Pythagorean interpretation are simply too
+obiquitous to be dismissed in this way.
+
+(4) The sequential procedure would be something like the following: given
+the complex 500 Hz,
+600 Hz 750 Hz, the first ratio interpreted would be the 3/2 fifth of
+750/500, the initial interpretation would be 3/2 in a harmonic series over
+fundamental 250Hz; however, not finding an intermediate tone between 2 and
+3,  successive fifths in the series are scanned to find a similar complex,
+examining each n(2,3) until an intermediate tone is located that matches
+the complex. When, for example 10,12,15 over a fundamental of 50 Hz is
+selected, then it is compared with its subharmonic notation /6,/5,/4. If
+this characterization is more simple, then it is chosen. (Need I add the
+fact that the difference tones of this complex are all within the spectrum
+of 50 Hz? (The careful reader will note that I was cautious about the
+register of this particular example)).
+
+(5) All of the progressions that I described work - both acoustically, are
+to found in existing repertoire, AND on paper. We (industrialized
+westerners) have come, through historical reasons (largely inertia) to the
+practice of using a single Pythagorean pitch notation to indicate a
+diversity of wildly varying intonational environments. That certain tuning
+systems, temperaments among them, may map onto harmonic series is probably
+true, but it requires a definition of intervallic tolerance that seems to
+me to be musically (i.e. culturally, and thus limited to particular times
+and places) defined, and probably outside of the domain of psychoacoustics
+proper: (a) tolerance may be a function of existing instrumental and
+room-acoustic capacities; (b) tolerance may depend upon durational
+conventions within a musical repertoire; (c) tolerance is a property of
+warp-able analog recording and digital sampling rates; (d) La Monte Young
+has demonstrated the perceptibility of ratios involving larger primes
+through the use of extended duration sound environments).
+
+(6) Your statement _the ear doesn´t continue its harmonic series math from
+one chord to the next_ is unsupported, and probably unsupportable. It is
+certainly musically untenable, unless you mean that the mechanism for
+relating pitches in diachronic sequences to one another is independent from
+the synchronic mechanism. This is possible, but seems inefficient in light
+of the evidence that so much of acoustical processing is done by sharing
+facilities. If you intend a separate _Gestalt_-type mechanism for chords
+and another mechanism for successions, what do you do about broken chords?
+
+(7) I cannot resist a few more remarks on the subharmonic. First, although
+for musical purposes we never need get past fairly small numbers, while
+every harmonic complex  may be renotated as subharmonic and vice versa, due
+to one of those nice paradoxes in the fundamentals of mathematics - and
+beyond my ability to explain - the number of members in the harmonic series
+is greater than that in the subharmonic series. Second, the _descent to the
+infinitesimal_ represents to me a series of increasingly complex - indeed,
+counterintuitive - calculations, hence my speculation about increased
+mental activity. The ascription of quantum effects to the infinitesimal
+comes from the intuitionist C. Hennix, resident mathematician at the
+Institute for Psychoanalysis in Paris; Third, musical examples of the
+subharmonic are readily available in the repertoire, cf Martin Vogel´s book
+on the _Tristan_ chord, or this little example from the Rondo K.494, m
+164-165, where the left hand sustains for two measures the chord c4 d4 f4
+ab4, which moves (does not resolve) to c4 f4 a4, i.e subharmonic seventh
+chord from c moving to f major 6-4. Mozart uses this chord, here and
+elsewhere, in a voice leading distinctive from his use of diminished and
+dominant seventh chords. By my spacing characterization, the fourth c-f
+would be too important to overlook, and the traditional (in American
+practice) _half diminished_ description seems not very useful.  If this
+were in just intonation, I would choose a subharmonic characterization /8
+/7 /6 /5 over the harmonic 105 120 140 175.  I am curious to learn how
+Pauls algorithm will interpret this chord (16 18 21 26? or 24 27 32 38?). 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 26 Sep 1996 17:13 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA32492; Thu, 26 Sep 1996 17:13:40 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA20847
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA12290; Thu, 26 Sep 1996 08:13:03 -0700
+Date: Thu, 26 Sep 1996 08:13:03 -0700
+Message-Id: <Pine.SCO.3.91.960926080434.4998A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

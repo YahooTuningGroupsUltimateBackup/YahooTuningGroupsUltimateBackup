@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Thu, 16 Jan 1997 02:21:47 -0800
+
+Subject: RE: Comment on Kami's post
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+Paul wrote:
+
+''9-limit constructs are not as pretty 
+geometrically, but the math works out..''
+
+This depends on whether 9 is mapped on the 3 axis (3^2) or given an axis of
+its own. There are some musical contexts (and some temperaments as well -
+the tuning of the TX81Z comes to mind) where 9 _has_ a harmonic function
+distinct from 3^2. Of, course, there are other musical settings -especially
+long duration sound installations - where distinguishing prime identities
+is more important.
+
+Wilson has graphed his CPSes with factors of 9, 15, and 21 mapped to
+independent axes. From what I recall of his notes, he has sketched out
+CPSes with all combinations, including repeated factors, through 15, and
+tried out a few promising sets with higher factors. The three Eikosany he
+has worked with most are 3(1,3,5,7,9,11), 3(1,3,7,9,11,15), and
+3(1,3,5,7,11,13) and the two Hebdomekontany are 4(1,3,5,7,9,11,13,15) and
+4(1,3,5,7,11,13,17,19), the latter of which I have played with on my Rayna.
+(It can have a Stravinskian quality due to the everpresent quasi-octotonic
+scales).
+
+Perhaps John can persuade Erv to publish his ''Letter to Adrian Fokker''
+and ''Letter to John Chalmers'' where all of this material - including the
+graphing that Paul describes - were first set out.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 16 Jan 1997 20:07 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30947; Thu, 16 Jan 1997 20:10:48 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA30918
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA13221; Thu, 16 Jan 1997 11:10:45 -0800
+Date: Thu, 16 Jan 1997 11:10:45 -0800
+Message-Id: <32DE79AA.28F@top.monad.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

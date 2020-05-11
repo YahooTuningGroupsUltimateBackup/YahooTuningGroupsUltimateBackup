@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Fri, 6 Dec 1996 11:20:49 -0800
+
+Subject: Re: wolf, plural...
+
+From: Joseph  Downing <jdowning@mailbox.syr.edu>
+
+On Thu, 5 Dec 1996, Daniel Wolf wrote:
+> 
+> By the way: In Just Intonation, how do you avoid a wolf in a progression
+> like the following: I V I  vi ii V I?  I think you have to choose between a
+> wolf and a comma slip, and I generally prefer the former.
+
+What I did in my _Downing I_ tuning is to tune the Ds above middle C to G
+(G/D = 2/3) while the Ds below middle C are tuned a 6/5 minor third below
+F. So, when I play the progression above, I make sure that the ii is
+voiced to only use the Ds below middle C, while the V chord uses Ds above.
+
+Of course, that means that in the progression ii V the two Ds are not
+really a common tone, but are a comma apart.  I find that, at least for
+me, harmonic tuning is much more important than melodic tuning, so this
+does not bother me.  I find that ANYONE notices harmonic tuning, while the
+inconsistency of the two pitches used melodically is only noticeable to
+those (including me) who are listening more carefully.  
+
+This is, obviously, a compromise, but one that I am willing to live with,
+and I prefer this solution above "averaging" the two pitches.
+
+Your mileage may vary.
+
+Joe Downing in Syracuse
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Dec 1996 20:54 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02281; Fri, 6 Dec 1996 20:56:37 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02232
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA01212; Fri, 6 Dec 1996 11:56:34 -0800
+Date: Fri, 6 Dec 1996 11:56:34 -0800
+Message-Id: <Pine.SOL.3.95.961206144904.10550G-100000@gamera.syr.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

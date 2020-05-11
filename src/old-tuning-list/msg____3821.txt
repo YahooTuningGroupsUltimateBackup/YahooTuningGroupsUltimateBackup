@@ -1,0 +1,70 @@
+source file: mills2.txt
+Date: Wed, 23 Oct 1996 17:04:13 -0700
+
+Subject: Johnston's notation
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+A brief cautionary note concerning Ben Johnston's notation:
+
+On Wed, 23 Oct 1996, Adam B. Silverman <adam.silverman@yale.edu> wrote:
+
+> ... and Ben Johnston's notation, best described by 
+> John Fonville in "Perspectives" issue 29, No. 2 (1991).  These
+> both describe the pitches very closely, although Johnston's are only 
+> really useful for JI, and do not include the convenience of enharmonic
+> spellings.
+
+I feel I must reluctantly take issue with this appraisal of John Fonville's 
+Perspectives article; while Fonville deserves praise and encouragement in 
+his efforts to bring Ben Johnston's music before a wider (academic) public, 
+I have been disturbed by some misunderstandings which threaten to confuse 
+anyone new to Johnston's (and indeed Partch's) theorising. I can't recall 
+everything that worried me, and I don't have the article to hand at this 
+moment, but I do clearly remember the most important matter, which is as 
+follows: Fonville employs the terms "otonal" and "utonal" in a manner which 
+contradicts their original usage in Partch -- a usage which Johnston has 
+preserved. In Partch, strictly speaking, only a sequence of intervals can 
+have the property of otonality or utonality; in Fonville, on the contrary, 
+a single interval considered in isolation will have these properties. For 
+Fonville, "otonal" means that the highest prime appears in the numerator, 
+and "utonal" that the highest prime appears in the denominator. Fonville 
+was at liberty to devise new terms for the purpose, but he chose, rather 
+perversely, not to do so; this new and conflicting usage threatens to 
+undermine the important and much more elusive distinction that Partch and 
+Johnston draw by means of these two terms.
+
+As for the supposed limited usefulness of Johnston's notation, I would 
+again tentatively beg to differ, since I have myself been generalising this 
+notation for the purpose of representing meantone temperaments, and for 
+analysing Renaissance polyphony in JI terms. Readers may see for themselves 
+whether they approve of the results at:
+
+http://boethius.music.ucsb.edu/mto/issues/mto.96.2.6/mto.96.2.6.walker.html
+
+and in recent exchanges on mto-talk, the e-mail list accompanying mto 
+(Music Theory Online).
+
+If my comments on Fonville are not clear enough for some readers, I'd be 
+prepared to expand a little. The same volume of Perspectives (1991) 
+contains Steven Elster's analysis of Johnston's String Quartet No.6, and of 
+course he explains "otonality" and "utonality" in a clear and orthodox 
+fashion (he could hardly have analysed this quartet otherwise!).
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 24 Oct 1996 11:55 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11655; Thu, 24 Oct 1996 11:56:59 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA11673
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id CAA14884; Thu, 24 Oct 1996 02:56:56 -0700
+Date: Thu, 24 Oct 1996 02:56:56 -0700
+Message-Id: <199610240934.AA18274@felix.dircon.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

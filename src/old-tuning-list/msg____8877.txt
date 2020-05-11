@@ -1,0 +1,28 @@
+source file: m1588.txt
+Date: Fri, 20 Nov 1998 19:12:01 -0800
+
+Subject: realime synthesis
+
+From: Carl Lumma <clumma@nni.com>
+
+I said...
+
+>And, as an aside, tuning issues aside, is there even a single sound card
+>that supports realtime synthesis (NOT wavetable)?
+
+John ff wrote...
+
+>Yes, the Extended Csound card from Analog at least.  Supports Csound
+>on the board.  Also check out CreamWare's SHARC card.
+
+Went to www.analog.com.  Could not find an "Extended Csound" card.
+Everything there seems to be for developers.  In fact, they make the SHARC
+chips in CreamWare's SCOPE card, which I would know where to buy even if I
+had $7 K.
+
+I am looking at Yamaha's SW1000XG, but I can't find where to buy that
+either.  Has anyone heard of this card?
+
+http://www.yamaha.co.uk/xg/html/products/p_sw1k.htm
+
+Carl

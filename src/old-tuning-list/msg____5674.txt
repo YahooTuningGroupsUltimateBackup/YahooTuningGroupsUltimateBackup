@@ -1,0 +1,66 @@
+source file: mills2.txt
+Date: Mon, 23 Jun 1997 11:07:45 +0200
+
+Subject: Octaves not exactly 2^N
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+While reading through the backlog of messages that built up while I was
+overseas for 3 weeks, I saw one about tunings with octaves not being
+exactly powers of 2.  In most cases of variation it seems that values
+greater (rather than less) than 2 are found in practice.  The reasons
+may relate to overtones being not exact harmonics of the fundamental.  I
+would like to raise a theoretical reason for an irregular octave to see
+whether anyone has practical experience of such a thing.
+
+With just tunings, the whole idea is to have as many simple ratios
+between frequencies as possible.  For a range of notes this is achieved
+by having frequencies which are some fundamental times 2^A*3^B*5^C*7*D
+with A, B, C and D all integers with ranges of perhaps 8, 3, 1 and 0 for
+a typical western scale, or maybe 12, 5, 2 and 1 for more interesting
+possibilities.
+
+[Note: the use of 12^2 does not mean that a ratio of >4096 in frequency
+must be used, as the powers of the other factors may be an offsetting
+effect.  e.g. in the JI scale of 24 27 30 32 36 40 45 48, there is a
+variation of 5 powers of 2 although only one octave is spanned.]
+
+It so happens that when 8 octaves are spanned, a greater degree of
+strong relationships exist when a ratio of 252 is used than when 256 is
+used.  It may be argued that 8 octaves are not normally spanned, however
+if the implied tuning of chord fundamentals and rhythm equivalents are
+included at the low end, and the overtones of notes at the high end,
+then the situation will be quite normal to span over 8 octaves.
+
+So how do I measure this "greater degree of strong relationships"?
+I use the the number of ways in which a number can be factorised, and
+whereas 64 and 128 can be factorised in more unique ways than 63 and
+126, the reverse applies for 256 and 252.
+
+It is possible to make some special chords that tend to highlight this
+"need" for a reduced octave.  Notes with relative frequencies of say
+4:5:6:7:8:14:21:42:63 demonstrate the disparity between the 4 & 8 and
+the 63.  This is a somewhat forced example to put the whole argument
+into a single chord.  You can fiddle around from there to get the idea
+if you want.
+
+I am interested in whether anyone else has thought about such a note as
+this reduced tonic, or felt a need for it in their music?  My reasons
+are purely theoretical.
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+     http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 23 Jun 1997 11:08 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04461; Mon, 23 Jun 1997 11:08:51 +0200
+Date: Mon, 23 Jun 1997 11:08:51 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04459
+Received: (qmail 26090 invoked from network); 23 Jun 1997 09:08:39 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Jun 1997 09:08:39 -0000
+Message-Id: <199706230506_MC2-1908-2325@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Fri, 22 Dec 1995 07:51:24 -0800
+
+Subject: File with equal temperaments info
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+There is a file that I've put at 
+ftp://ella.mills.edu/ccm/tuning/papers/et_data.zip
+with information about equal octave divisions from 6 to 612 tones ET.
+It includes step size, the nearest approximations to 5/4, 3/2 and 7/4,
+Fokker's misfit number, the Pythagorean thirds, number of recognisable
+fifths, the sizes of semitones and several commas in number of steps,
+the number of cycles of fifths and thirds and various possible
+distributions of the major diatonic scale (5 larger + 2 smaller
+intervals), two 12-note scales and other major modes and their
+propriety (proper, strictly proper, or not). 
+The file is in zip-format, unzip it with the -a option for ASCII file 
+to prevent problems with the carriage-return character.
+The size is 691 Kb, after unzipping 6.1 Mb.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 22 Dec 1995 20:21 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA27480; Fri, 22 Dec 1995 11:21:52 -0800
+Date: Fri, 22 Dec 1995 11:21:52 -0800
+Message-Id: <v01530501ad0060f34df6@[128.83.128.160]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

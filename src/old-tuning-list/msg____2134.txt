@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Fri, 13 Oct 1995 08:07:19 -0700
+
+Subject: Re: 12-tet in China
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 13 Oct 1995, Michael Wathen 556-9565 wrote:
+> >This calculates a square root:
+> >
+> >    Answer := Of_Number;
+> >    loop
+> >       Delta := (Of_Number / Answer) - Answer;
+> >       if abs Delta <= Answer * Epsilon then
+> >          return Answer;
+> >       end if;
+> >       Answer := Answer + 0.5 * Delta;
+> >    end loop;
+> 
+> Is this adaptable to the 12th root of two?  My immediate hunch is no.  It is
+> probably only good for roots that can be expressed as powers of 2.  I'll
+> have to think about it.  Maybe Mr. Canright would have something to say about
+> this.
+
+It's easily adaptable.  Powers of two reduce the amount of calculation
+required, which is nice, but not necessary.  Here's the new algorithm:
+
+    Answer := Of_Number;
+    loop
+       Delta := (Of_Number / (Answer ^ 11)) - Answer;
+       if abs Delta <= Answer * Epsilon then
+          return Answer;
+       end if;
+       Answer := Answer + Delta / 12;
+    end loop;
+
+The annoying part when doing it by hand is all the multiplication
+involved in taking Answer to the 11th power with each iteration.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "A three-cushion player doesn't need to be married.
+     -\-\-- o               He already has enough aggravation."
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 13 Oct 1995 18:47 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA07404; Fri, 13 Oct 1995 09:46:36 -0700
+Date: Fri, 13 Oct 1995 09:46:36 -0700
+Message-Id: <9510131643.AA12181@danhicks.math.nps.navy.mil>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

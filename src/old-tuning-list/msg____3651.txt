@@ -1,0 +1,25 @@
+source file: mills2.txt
+Date: Fri, 20 Sep 1996 12:54:40 -0700
+
+Subject: RE: duh?
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+The ratios in 12-tet are 2^(1/12):1, 2^(2/12):1, 2^(3/12):1, . . . through 
+2^(12/12)=2:1.
+
+They are not really "ratios" since they are irrational numbers.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Sep 1996 23:16 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11417; Fri, 20 Sep 1996 23:17:39 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA12252
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA14896; Fri, 20 Sep 1996 14:17:37 -0700
+Date: Fri, 20 Sep 1996 14:17:37 -0700
+Message-Id: <Pine.SOL.3.91.960920155847.14890A-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

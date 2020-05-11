@@ -1,0 +1,250 @@
+source file: m1341.txt
+Date: Sun, 1 Mar 1998 23:51:17 -0500
+
+Subject: Re: TUNING digest 1338
+
+From: monz@juno.com (Joseph L Monzo)
+
+Re: Topic No. 1:
+
+I bought a copy of Mathieu's book at a 10% discount at Border's in
+Philadelphia.
+
+Mathieu sent me a draft copy of part of the book about two years ago in
+response to my contacting him on a referral from Ben Johnston.  His
+theoretical and notational concepts are very similar to my own, which I
+call JustMusic (TM).
+
+One of the fundamental ideas in Mathieu's conception is that  we don't
+have to search too hard to find where the simpler ratios are in the
+pitch-continuum -- we can learn to sing them fairly easily  because they
+resonate in our body cavities and in the objects around us, giving a
+quite direct experience of the unique power and sound of each of them as
+we sing them.
+ 
+I've bought a copy of the book and have perused it, but haven't had the
+time for a proper reading, as I am working to finish writing my own. 
+Much of his notational philosophy is indeed very similar to mine.
+
+=======================================
+Re: Topic No. 2, "prime limits"
+
+As you may read below, my tuning theories are founded upon the idea that
+each prime number given or implied in a musical ratio (compared to some
+reference) lends a unique and distinctive aspect to the sound of that
+ratio.
+
+Just as quantum physics has discovered that there is an uncertainty
+principle involved in trying to describe what happens to sub-atomic
+particles, after boiling ratios down to their irreducible components,
+what is left is the series of prime numbers -- a series the ordering and
+pattern of which no one has yet been able to discover.  I believe it is
+quite possible that the prime series exhibits the same kind of randomness
+as sub-atomic physics, thus all of our human ordering and patterning of
+musical sounds is based on a given property which is random.  If there is
+any weight to this idea, it may be worth exploring further -- it ties in
+with Ancient Greek and Medieval European ideas about the "Music of the
+Cosmos".  I think it presents some interesting philosophical questions.
+
+==========================================
+Re: Topic No. 2, "a standard notational which can capture any tuning..."
+
+This has been the whole focus behind the development of my theory. 
+Unfortunately, I haven't found a way to reconcile the differences between
+just-intonation and temperament.  However, I have narrowed it to those
+two types of  "accidental".  Within each of these two broad families,
+each respective notation can represent any given tuning in a clear,
+simple manner, from one given unique reference point.  This makes it
+possible to level any number of different intonational philosophies to
+the same analytical playing field.
+
+I base both of my notational systems on the standard line-space/ letter
+name/ sharp-flat European notation -- thus, trained musicians have no
+difficulty finding the 12-equal (or perhaps more correctly, the
+Pythagorean) note which falls closest to the desired frequency.
+
+---------------------------------------------
+
+For any equal temperament, this is supplemented by a root sign with the
+appropriate roots and exponents of 2. For meantone, a combination of
+roots and ratios is used.  I'm limited to representing it in email
+because it's difficult to show roots and powers, but as an example (just
+replace the verbal description of the expression with mathematical
+symbols):
+
+Middle-C in 12-equal is:
+     the 12th root of 2 to the 0 power = 1, the unity.
+
+E above Middle-C in 12-equal is:
+     the 12th root of 2 to the 4 power (= 400 cents = the 4th semitone
+above C)
+
+E above Middle-C in 1/4 comma Meantone is:
+     th 4/4 root (= 1 or identity root) of 5/4, which equals 5/4 itself
+
+A above Middle-C in 1/4 comma Meantone is:
+     the 4/3 root of 5/2
+
+D above Middle-C (i.e., the "mean tone") in 1/4 comma Meantone is:
+     the 4/2 root (= square root) of 5/2
+
+G above Middle-C in 1/4 comma Meantone is:
+     the 4/1 root (= 4th root) of 5
+
+Middle-C in 1/4 comma Meantone is:
+     the 4/0 root of 5 -- an impossiblity, which equals no root, which
+equals 1, the unity.
+
+------------------------------------
+
+For just-intonation, the accidental consists of the series of prime
+nubmers above 2 used as bases, with positive, zero, or negative exponents
+for each prime.  The idea is similar to Ben Johnston's notational
+philosophy, but my reference scale is not the mixed diatonic using ratios
+of 3 AND 5, but rather the 3-limit scale only.
+
+In actual musical notation, it is least clumsly to eliminate all primes
+which have a zero exponent as they are equal to 1 and do not affect the
+product of the multiplication, and also to eliminate prime-base 3, as the
+letter-name and sharp-flat aspect of the notation already represents the
+3-Limit or Pythagorean scale.  
+
+Thus, as examples:
+
+ - the G a 3/2 above Middle-C is written:  G 3^1 (3 to the 1st power)
+
+ - the E  a 5/4 above Middle-C is written: E 5^1 (5 to the 1st power)
+
+ - the Eb a 7/6 above Middle-C is written:  Eb 3^ -1  7^1 (3 to the minus
+1, 7 to the first)
+
+-  the B# which has the monstrous ratio of 2025/1024 above Middle-C, and
+which is the tritone of the tritone, is in JustMusic simply written:  B# 
+3^4  5^2
+
+
+In mathematical calculations, it is easiest to assume the series of prime
+bases 3, 5, 7, 11... as a given, and notate only the exponents -- this
+time including the zero exponents as place-holders.  Interval
+calculations can be done by simple Matrix Addition, rather than
+complicated multiplications of fractions.
+
+Also, by factoring out the powers of 2 as being unnecessary for the
+purpose of determing pitch-CLASS, the ratios are made much simpler, and
+the important prime components are more clearly exposed.  Including the
+powers of 2 gives an absolute frequency precisely.  (Notating Partch's
+music this way makes it a lot easier to analyze)
+
+In my JustMusic system, powers of 2 may be represented in either of two
+ways:
+
+- 2 to the 0 power may equal 1 Hz, with each ascending "octave" of C
+being the next higher power of 2.  The notes audible to humans fall in
+the approximate range of 2 to the 4th power (= 16 Hz) to a couple of
+semitones above 2 to the 14th power (approximately 20,000 Hz).
+
+- alternatively, 2 to the 0 power may represent "Middle-C", with the four
+audible octaves below it being 2 to the -1, -2, -3, and -4 powers
+respectively, and the octaves above middle C being the corresponding
+positive exponents of 2.  I find this method to be conceptually more
+viable.
+
+In addition to working on completing my book, I have just submitted an
+intial article for publication.  If anyone would like me to send a copy
+via regular mail,  let me know, and send a check for $3 to cover my
+reproduction and mailing costs.  Also, I'd like to enlist the help of
+those capable to design a web site.  Anyone interested in corresponding
+may feel free to email or call anytime.
+
+[By the way, Ezra Sim's notation is a 72-equal system, but his harmonic
+basis is implied 37-limit (sometimes higher) just-intonation.  As far as
+notational systems go, his is clear and concise (simpler than mine), the
+step-size is only 16 and 3/4 cents, and the 72-equal degrees fall mighty
+close to all of the ratios he is representing.  Johnny Reinhard uses a
+multiplicity of notational concepts, because he is a "polymicrotonalist",
+using a wide variety of both just and equal tunings, frequently in the
+same piece.]
+
+   Joseph L. Monzo
+   monz@juno.com
+   4940 Rubicam St., Philadelphia, PA 19144-1809, USA
+   phone 215 849 6723
+------------------------------------------------------------------------------------------------------------
+On Sat, 28 Feb 1998 11:19:26 -0500 (EST) tuning@eartha.mills.edu writes:
+>			    TUNING Digest 1339
+>------------------------
+
+>Topic No. 1
+>
+>Date: Fri, 27 Feb 1998 15:13:28 -0800 (PST)
+>From: John Chalmers <non12@deltanet.com>
+>To: Alternative Tuning List <tuning@eartha.mills.edu>
+>Subject: Books noticed
+>Message-ID: 
+><Pine.SCO.3.96.980227151305.6505B-100000@delta1.deltanet.com>
+>
+>I was in a Barnes and Noble's bookstore today and saw a book which
+>I think deserves more than the quick skim I had time to do.
+>"Harmonic Experience" by W.A. Mathieu, 1998, Inner Traditions 
+>International, Rochester, VT USA $45.00.
+>
+>It is large harmony text based on both western and Indian scales and
+>Just Intonation as well as 12-tet. Mathieu limits himself pretty much
+>to the 5-limit, but does have one short chapter on 7, 11 and above.
+>It has lots of ear and voice training examples in JI and discusses the
+>construction of Indian and well as western modal scales. Good biblio
+>as well (Harrison, Partch, Doty, Hopkin, etc.)
+>
+>...
+>--John
+>
+>------------------------------
+>
+>Topic No. 2
+>
+>Date: Sat, 28 Feb 1998 09:38:10 -0600 (CST)
+>From: mr88cet@texas.net (Gary Morrison)
+>To: tuning@eartha.mills.edu
+>Subject: Re: Fretless versus Fretted
+>Message-ID: <v01541105b11d868fa254@[209.99.40.78]>
+>
+>...
+>
+>>In Just Intonation, what does "limit" refer to?
+>
+>   The limit is the largest odd or prime number (depending on who you 
+>ask)
+>in the frequency ratios in the tuning.  Most JI investigators find 
+>that
+>each odd or prime outlines a new, broad class of harmony.  I 
+>personally
+>think that there's a lot of truth in that idea, but that there are 
+>many
+>other factors that have to be considered, some with about equal 
+>weight.
+>
+>...
+>
+>
+>What about a standard notation that can accurately capture any tuning?
+>(freqeuncy,volume,time)
+>
+>   Two people to talk to along those lines are Ezra Simms and Johnny
+>Reinhard.  Johnny is on the list, but I don't think Ezra is.
+>
+>------------------------------
+>
+>End of TUNING Digest 1339
+>*************************
+>
+
+ 
+   Joseph L. Monzo
+    monz@juno.com
+    4940 Rubicam St., Philadelphia, PA 19144-1809, USA
+    phone 215 849 6723
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

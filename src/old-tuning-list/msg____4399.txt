@@ -1,0 +1,64 @@
+source file: mills2.txt
+Date: Mon, 23 Dec 1996 14:24:38 -0800
+
+Subject: Re: Genesis of a Music Question
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+David Malkin wrote:
+ 
+> Thanks for all the help from List members. I've made it to Page 117. Harry
+> talks about how notes can be taken in different senses (Otonal or Utonal).
+> How does he come up with the notion that the 12TET scale can be taken in
+> 144 senses? 
+
+He just means that C is the tonic of C, the leading tone of C#, the flat 7th of D, etc. The pitch C has 12 
+"senses" depending on which pitch you consider the tonic. Do this for all 12 notes and all 12 tonics and you 
+get 12 * 12 144 different "senses" of some pitch taken against some tonic in 12tet. 
+
+> Also, this statement he makes is very cryptic to me:
+>
+>         "As for the senses in which the thirteen degrees may be taken, 1/1,
+> 3/2, and 4/3 may each be taken in six; 6/5, 5/3, 5/4, and 8/5 may each be
+> taken in three and the other six ratios may each be taken in two, making a
+> total of 42 senses."
+
+I'm not sure which 13 degrees he's talking about, but he's doing the same thing; seeing how many ways each of 
+the 13 pitches he's isolated can be interpreted musically depending on which tonic (Numerary Nexus actually, 
+which is almost like tonic) is assumed. I believe that not all pitch relationships are counted as valid senses 
+by Partch (see below) so counting senses in a Partch scale is not as simple as s n * n, where n is the 
+number of pitches and s is the number of senses. 
+
+I'm going on memory again, but here's how I think it works: 
+
+For instance, 5/7 is neither in the otonality nor utonality of 1, 
+otonality of 1 1/1 3/1 5/1 7/1, etc.
+utonality of 1 1/1 1/3 1/5 1/7, etc.
+so 5/7 has no valid sense when 1 is considered the Numerary Nexus.
+
+It is however in the utonality of 5, 
+utonality of 5 5/1 5/3 5/5 5/7 (bingo), etc. 
+and it's also in the otonality of 7, 
+otonality of 7 1/7 3/7 5/7 (bingo) 7/7, etc.
+so 5/7 has at least two valid senses.
+
+I think he's counting senses to argue that even though you can't modulate indefinitely in a just scale with a 
+fixed number of tones (43 in his case) you can still play in many keys and have the tones to cover the senses 
+required to play in those keys. If you work with instruments which allow adjustment of pitch, you don't have 
+to worry about counting senses and playing in only certain keys, because you can modulate indefinitely and 
+never run out of notes. 
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 24 Dec 1996 01:43 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01959; Tue, 24 Dec 1996 01:46:07 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01956
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA01256; Mon, 23 Dec 1996 16:46:01 -0800
+Date: Mon, 23 Dec 1996 16:46:01 -0800
+Message-Id: <Pine.SUN.3.95.961223192935.20770A-100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

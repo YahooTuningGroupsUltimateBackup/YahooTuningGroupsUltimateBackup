@@ -1,0 +1,251 @@
+source file: mills2.txt
+Date: Thu, 5 Sep 1996 16:54:41 -0700
+
+Subject: mclaren's opinion on CDR (fwd)
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+This is the text of email to me from Dana Parker in response to mclaren's 
+post on CD Recordable which I forwarded to her.
+
+
+mclaren-
+
+I hardly know where to begin to correct the misinformation, myth, and utter
+nonsense in your message about CD-R technology.
+
+Dvorak on CD-R: Anyone who placed his or her trust in what John Dvorak says
+about CD related technology would be CD-ROM-less today. In 1989, Dvorak 
+wrote a column about CD-ROM technology that was just as negative - and 
+just as wrong -as his March 1996 column about CD-R. There is a reason behind 
+this animosity on Dvoraks part - it took him six months to successfully 
+install his first CD-ROM drive, by his own admission. As a result, he 
+dismissed the entire technology as worthless, which says more about 
+Dvorak than it does about CD-ROM or any of its related technologies.
+
+Lets take your claims one-by-one.
+
+1. The problem with the writeable CD technology is that you have to make an
+`image' to be written to the disk. If you want to back up 650 MB, you 
+want to have another 650 MB on your hard disk empty to store the image, 
+which is then transferred to the CD-R.
+
+---False. You have the option, supported by most if not all CD-R software
+packages,to record "on-the-fly" from a virtual image. A virtual image 
+takes from 1% to 5% of the space of the data to be recorded, depending on 
+the software. Creating a virtual image is virtually transparent to the user
+ - you drag and drop the files to be included, then click on record.
+
+2. You get *one shot at writing to the disk* from beginning to end. You 
+can do multiple sessions, but that's a *real hassle too.*
+
+---False. When Dvorak says something is a "real hassle", what hes really 
+saying is "this is something I dont understand and wont spend five 
+minutes figuring out, let alone attempt to explain to you". Again, 
+depending on the software, creating multiple sessions is a simple 
+drag-and-drop, point-and-click operation. Its not rocket science.
+
+3. If there's a  glitch, brownout, operating system hiccup, horribly 
+fragmented file, or any number of things, then the CD doesn't get burned, 
+and you end up with a *blown session.*  These are common, and *the result 
+is a totally useless disk* that must be discarded.
+
+---False. Dvorak is right that any of these factors, or more likely, a 
+combination of them, can ruin a recording session by causing a buffer 
+underrun. It is not, however, a common occurence, it does not necessarily 
+render a disc useless, and it is certainly not unavoidable. In over six 
+years of using CD-R, I have never cut a coaster or had a buffer underrun. 
+It is certainly not unavoidable. In over six years of using CD-R, I have
+never cut a coaster or had a buffer underrun.
+ 
+4. It takes a couple of hours to prepare your files to be burned into the 
+disk. If something changes, you have to start over.  And if your hard disk 
+isn't fast enough, you can't even burn the disk at all.
+
+---False. You can prepare files for recording on CD-R in a matter of 
+seconds. A large dataset might take longer. A dataset intended for 
+distribution might take longer yet, but only because of normal 
+precautions that would be part of preparing any dataset for distribution: 
+virus checking, defragmentation, directory structure, file placement. 
+Most CD-R manufacturers recommend a minimum hard drive speed of 19 ms.
+
+5. "One vendor told me that the quad-speed CD-ROM writers *were kept off the
+market* because the system requirements were outrageous, and tolerances for
+error was nil.
+
+---False. This must have been a vendor of 2x CD-Recorders. 4x 
+CD-Recorders have been on the market since 1993, and they function 
+perfectly well on a 386 with 8MB RAM.
+
+---In short, everything Dvorak says is wrong.
+
+6. The test reported on this forum in which a 15-minute audio file was 
+written to CD-R is, alas, meaningless.  The acid test: how often does the 
+drive and disc combo produce a bad burn when a full 680 megs of audio 
+data are written non-stop to CD-R disk?
+
+---Apparently not often enough to prevent numerous state, federal, and city
+governments as well as legal firms from using CD-R as an archival medium for
+irreplaceable data, or to prevent hospitals from using it to store permanent
+medical records, or to prevent Jet Propulsion Laboratories from converting
+irreplaceable data, or to prevent hospitals from using it to store permanent
+medical records, or to prevent Jet Propulsion Laboratories from converting
+their 9-track tape libraries of raw satellite data to CD-R. Apparently 
+not often enough to prevent sales of CD-Recordable drives from increasing 
+by a factor often in the past 12 months, or to prevent dozens of CD-R 
+service bureaus from basing successful businesses on creating quality 
+music and data CD-R discs by the thousands every month for their customers.
+
+7. Reports suggest that the error rate right now is around 60%, depending 
+on the brand of CD-R disc.  That is, 6 out of 10 discs produce a bad burn 
+and a blowndisc which must be discarded.
+
+---Id be very interested in seeing those "reports". It would be an amazing
+contrast to the independent testing being sponsored by organizations such as
+SIGCAT (Special Interest Group for CD Application Technology), OSTA (Optical
+Storage Technology Association) and JPL. The OSTA prelimianry test results
+impressed even those of us who knew CD-R was a reliable storage medium - it
+showed disc reliability to be greater than 96%, regardless of the disc brand.
+ 
+8. Worse still, my gearhead friends inform me that the writeable CD 
+technology is so flaky that to get good results, people who burn their 
+own CDROMs must check the grapevine to see which brand name of writeable 
+CD-R disc has a bad error rate this month, and which manufacturer came 
+out with a good batch.  One month TDK writeable CD-R discs produced 
+near-100% bad burns, the next month it was Mitsui, the next month Sony... 
+And it changes from one month to the next.  You get the idea.
+
+---I get the idea you or your gearhead friends are making this up. As 
+someone who has been burning her own CD-Rs, providing technical support 
+for other CD-R users, and writing about the technology for publication 
+since 1990, I can assure you this does not happen among "people who burn 
+their own CD-Rs". The media is relabeled and distributed by hundreds of 
+companies. There is no way of knowing whether a given disc was made in a 
+certain month, and often there is no way to tell who the original 
+manufacturer was. CD-R users couldn't exchange this information even if 
+they wanted or needed to. The problem these days isn't getting a certain 
+brand of media, it's getting any media at all. There is currently a 
+worldwide shortage of several months' duration, and every CD-R media 
+manufacturer is building new plants and adding production lines to keep 
+up with the increased demand, which far exceeded their wildest 
+expectations. This doesn't sound like evidence of a "flaky" technology
+to me.
+
+9. Worse still, many CD-R writeable drives will burn discs that other 
+brands of CD-ROM read-only drives cannot read. 
+
+---This would be more accurately expressed as "some CD-ROM drives are 
+incapable of reading some CD-R discs." This is not because there is 
+necessarily something wrong with the discs. It?s because some CD-ROM 
+drive manufacturers cut corners and narrow the required parameters within 
+which the drive will read to the point that some CD-R discs - as well as 
+many pressed CD-ROM discs - cannot be read, even though they are within 
+specifications. It is also not attributable to the drives that recorded 
+the discs. Recorders use a built-in Optimum Power Calibration before 
+every writing instance to ensure that what is recorded can be reliably 
+read by any CD-ROM drive or CD audio player that is capable of reading 
+within the full range of disc parameters.
+
+10. Despite all the nonsense about the photoreactive dye lasting 10 
+years, 20 years, 500 years, or what-have-you, the brutal reality is that 
+CD-R discs don't last very long.  A year, maximum.  Probably less.
+
+---I have a backup of my hard drive on a CD-R disc recorded in 1990. It?s 
+still good, as are all the other discs I have recorded since then. I have 
+not lost one disc to age. The fact is that CD-R discs will probably last 
+longer than pressed CDs, because they use gold, rather than aluminum, as 
+a reflective layer. Aluminum tends to corrode due to reactions with 
+impurities in the polycarbonate and in the aluminum itself. Gold does 
+not. However long the data on CD-R lasts, whether it is 10 years or 300, 
+the fact remains that CD-R is the most durable medium ever developed for 
+the storage of data, with the possible exception of papyrus sealed in 
+clay jars.
+
+11.  Fingerprints are permanent.  They cannot be burnished off.  Try to 
+do so, and you'll destroy the CD-R because you'll smudge the 
+photoreactive dye.
+
+---Have you ever actually seen a CD-R disc?
+Fingerprints can be wiped or washed off. I polish off fingerprints on my 
+pants leg. The dye - which is an organic dye polymer sensitive to a certain
+wavelength of laser - is protected on one side by a 1.2mm thick layer of 
+clear polycarbonate (the same stuff used to make motorcycle helmets); on the 
+other by a thin layer of gold and a UV-cured lacquer, often with an 
+additional layer of protective coating and/or printable surface. Your 
+fingers will never come in contact with the dye layer.
+
+12. The photoreactive dye is laid down in a single continuous spiral 
+track 1/10 the width of a human hair.  As the disc endures thermal stress 
+in winter and summer, the single continuous spiral track distorts and 
+finally becomes unreadable.
+
+---The dye polymer is applied via spin coating over the entire surface of the
+disc. Track pitch is 1.6 micrometers, the same as for pressed CDs, and 
+the track itself is .6 micrometers wide. On an unrecorded disc, the 
+spiral track is in the form of a "wobbled pregroove" molded, as a 
+sinusoidal wave with a .3 micrometer excursion, into the polycarbonate 
+itself. The pregroove guides the recording laser. The spiral track on a 
+recorded disc is composed of optical marks produced by a chemical change 
+and/or degradation in the dye layer.  "Thermal stress" is not a factor in 
+data loss as much as prolonged exposure to  extremely bright light, which 
+can theoretically, over a period of years, affect the 
+comparative reflectivity of marked and unmarked areas of the disc.
+
+13. If the spiral dye channel is even microscopically off-center, the CD-ROM
+drive will accumulate so many errors as the drive head runs from the inside
+toward the outside fo the CD-R disc that the disc will be unreadable.
+
+---The pregroove is molded into the disc and does not change or become 
+distorted. If the molded pregroove is microscopically off-center beyond the 
+allowed parameters, the affected disc will never make it out of the 
+plant, nor will the thousands of other discs pressed from the same mold.
+
+14. Thus, unfortunately, the writeable CD technology is not ready for 
+prime time. I researched the technology 6 months ago:it was dismal.  
+Packet-writing drives are now beginning to become available, but it 
+doesn't seem to have helped the abysmal error rate of the CD-R media, nor 
+has it helped lengthen the ridiculously short lifespan of dye-based CD-R 
+discs once burned. Those of you who are contemplating buying a CD-R 
+writeable drive to burn your own microtonal audio CDs would do well to 
+wait another 3-5 years.  Perhaps the technology will have been debugged 
+by then.
+
+---I have been working with and researching CD-R technology for most of 
+the past seven years, and I am forced to conclude that your research is 
+what could more properly be described as "dismal" and plagued by an 
+"abysmal error rate".  If you depend on the baseless opinions of has-been 
+PC industry pundits, or the properly be described as "dismal" and plagued 
+by an "abysmal error rate".  If you depend on the baseless opinions of 
+has-been PC industry pundits, or the advertisement-driven mainstream PC 
+industry magazines for your information, in fact, Id have to say the 
+appropriate term for your CD-R research is "non-existent" - and your 
+"findings" are glaring proof of that.
+
+You and John Dvorak could both benefit from doing some real research on CD-R.
+I'd hate to think that someone might actually decide not to try CD-R 
+technology because he or she mistakenly thought you actually knew what 
+you were talking about.
+
+Regards,
+
+Dana J. Parker
+Contributing Editor/Standards Columnist
+CD-ROM Professional magazine
+Co-author, CD-ROM Professional's CD-Recordable Handbook
+
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Sep 1996 02:53 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23327; Fri, 6 Sep 1996 02:54:35 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA22930
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA01854; Thu, 5 Sep 1996 17:54:34 -0700
+Date: Thu, 5 Sep 1996 17:54:34 -0700
+Message-Id: <Pine.SOL.3.91.960905203049.12522E-100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

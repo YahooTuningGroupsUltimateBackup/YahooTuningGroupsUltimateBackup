@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Fri, 26 Jul 1996 22:07:36 -0700
+
+Subject: THE generating function
+
+From: Mmcky@aol.com
+
+Hi Manuel,
+
+We must be misunderstanding each other.  Let me be more clear about what I
+was trying to say by providing a simple example:
+
+Suppose you want to create a function that takes the integers 1, 2, and three
+as inputs and gives 5, 7, and 11 and outputs.  Unless my spreadsheet has lead
+me totally astray, two simple examples of such functions are f1(n)=n*n-7n+1
+and f2(n)=6/x-x+5.  I could provide you with as many more as you would like.
+
+Now to guess what you might be trying to say:
+
+If you analyze a series of integers using some particular method you will get
+a particular generating function.
+
+I got my distaste for this kind of phraseology from sweating over those
+Junior High School tests that require you to provide the next number in a
+series.  Later, I came to realize that there are an infinite number of ways
+to analyze any particular set of data, and that this "teaching method" has
+more to do with helping the teacher to maintain control of the class than a
+real study of methods of analysis, as does much of what is taught in schools.
+
+When it comes to analyzing data, I have found it better not to be so
+monoTHEsistic.
+
+Marion
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 27 Jul 1996 08:32 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id XAA15974; Fri, 26 Jul 1996 23:32:14 -0700
+Date: Fri, 26 Jul 1996 23:32:14 -0700
+Message-Id: <199607270631.AAA04816@freenet.uchsc.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

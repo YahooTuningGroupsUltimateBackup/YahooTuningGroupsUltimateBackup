@@ -1,0 +1,120 @@
+source file: mills2.txt
+Date: Wed, 11 Oct 1995 14:29:05 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & psychoacoustics - post 17 of 25
+---
+While Ohm's/Helmholtz's view of the ear as Fourier  analyzer has staggered
+under the blows of psychoacoustic research, so has the
+Seebeck/Stumpf/Schouten model of the ear as a neural periodicity pitch
+detector.
+True, 50 years of research has unearthed many results which cannot be
+explained by the frequency-domain model or "place theory" of hearing... But the
+periodicity model of hearing has *also  *shown many shortcomings.
+In particular, both models of the ear/brain system fail to explain or predict
+the important phenomenon of categorical perception.  Neither model of hearing ex
+plains the existence or pitch of the Zwicker Tone, or Risset's and
+Shepherd's auditory paradoxes (sounds which when transposed upward by an
+octave, drop in perceived pitch; sounds which appear to rise or fall
+indefinitely in pitch yet whose fundamental frequency never changes;
+sounds which are heard as speeding up/slowing down constantly yet whose
+rate never changes).
+Moreover, if the structure of the human ear is responsible for the music we
+make and the tunings we use and the harmonies we prefer, how is it possible
+to explain the fact that different cultures make entirely different kinds of
+music?
+If the ear is either a Fourier analyzer or a time-based autocorrelator which
+responds most powerfully to either small-integer ratios played on
+instruments with integer harmonics (the Fourier analysis model of hearing)
+or fixed pitches played on instruments whose partials are matched to the
+tuning--for example, the Railsback stretch of the grand piano matched to
+the stretch of the partials of the piano strings--(this is the autocorrelation
+model of hearing in which tuning & timbral partials, even if stretched, will
+autocorrelate so as to yield uniform time-domain periodicities and thus a
+sense of definite pitch with fundamental)...
+If either of these models of hearing is accurate, why do the Javanese play
+inharmonic instruments using stretched octaves and non-just non-equal-
+tempered tunings?
+Are other cultures deranged?  Are their ears physically different from ours?
+Musicologists of the 19th century dismissed the Javanese, the Balinese, and
+other non-western music with references to "the degree of aural
+development among races as well as individuals."
+The variability in Javanese and Balinese tunings was dismissed by De Lange
+and Snelleman in 1992 with the memorable phrase: "for those whose ears
+are insufficiently developed, the perfect fourth is not divided into two
+whole tones and a semitone, but rather as the sixth, eventh and eighth
+harmonic partials." [DeLange, Daniel and Snellman, J.F, "La Musique et les
+instruments de musique dans les Indes Orientales neerlandaises," in
+Lavignac, "Encylopedie de la musique et dictionnaire du COnservatoire:
+Histoire de la musique, premiere partie (Paris, 1922," Vol. 5, pg. 3148.]
+Such racism has become less fashionable over the last three quarters of a
+century, but much of the debate over psychoacoustics and tuning takes place
+in a cultural vacuum: only western music is considered, and psychoacoustic
+arguments for or against this or that tuning are often made only in the
+context of western equal temperament or just intonation tuning systems.
+However, such enthocentrism is slowly changing.
+"One of the revelations of modern psychoacoustic and etnomusicological
+reserach has been the extraordinary complexity of intonation as used by
+Western and non-Western musicians." [Perlman, Marc, "American Gamelan in
+the Garden of Eden: Intonation in a Cross-Cultural Encounter," Musical
+Quarterly, 1995, pg. 532]
+"There are...a number of musical cultures that apparently employ
+approximately equally tempered 5- and 7-interval scales (i.e., 240 and 171
+cent step-sizes, respectively) in which the fourths and fifths are
+significantly mistuned form their natural values.  Seven-interval scales are
+usually associated with Southeast Asian cultures (Malm, 1967). For
+example, Morton (1974) reports measurements (with a Stroboconn) of the
+tuning of a Thai xylophone that "varied only + or - 5 cents" from an equally
+tempered 7-interval tuning. (In ethnomusicological studies measurement
+variability, if reported at all, is generally reported without definition.)
+Haddon reported (1952) another example of a xylophone tuned in 171-cent
+steps from the Chopi tribe in Uganda.  The 240-cent step-size, 5-interval
+scales are typically associated with the "gamelan" (tuned gongs and
+xylophone-type instruments) orchestras of Java and Bali (e., Kunst, 1949).
+However, mreasurements of gamelan tuning byHood (1966) and McPhee (1966)  show e
+xtremely large variations, so much so that McPhee states: "Deviations  in what i
+s considered the same scale are so large that
+one might with  reason state that there are as many scales as there
+are gamelans." Another example of a 5-interval, 24--cent step tuning
+ (measured by a  stroboconn,  "variations" of 15 cents) was reported by
+ Wachsmann (1950) for a Ugandan harp.  Other examples of equally tempered scales
+ are often reported for pre-instrumental cultures...
+For example, Boiles (1969) reports measurements (with a Stroboconn,
+"+ or - 5 cents accuracy") of a South American Indian scale with equal
+intervals of 175 cents, which results in a progressive octave stretch.
+Ellis (1963), in extensive measurements in Australian
+aboriginal pre-instrumental cultures, reports pitch distirbutions that
+apparently follow arithmetic scales (i.e., equal separation in Hz).
+Thus there seems to be a propensity for scales that do not utilize perfect
+consonances and that are in many cases highly variable, in cultures that
+either are pre-instrumental or whose main instruments are of the xylophone
+type. Instruments of this type produce tones who partials are largely
+inharmonic (see Rossing, 1976) and whose pitches are often ambiguous (see
+de Boer, 1976)." [Burns, E. M. and Ward, W. D., "Intervals, Scales and Tuning,"
+in The Psychology of Music, 1982, ed. Diana Deutsch, pg. 258]
+These empirical data would seem to indicate that  of the three tunings (equal te
+mpered,  just intonation, and non-just non-equal-tempered)
+non-just non-equal-tempered and equal temperament are most widely
+used by other cultures.  This is a conclusion directly opposite to that
+implied by the idea of small whole numbers as uniquely preferred by
+the ear/brain system.
+The next post will examine in detail the third theory of hearing, first
+proposed by Fetis in 1843, and in later life espoused by Helhmoltz: namely,
+the view that the ear prefers a set of intervals determined by learning
+and culture.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 12 Oct 1995 03:16 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA00081; Wed, 11 Oct 1995 18:15:55 -0700
+Date: Wed, 11 Oct 1995 18:15:55 -0700
+Message-Id: <951012011313_71670.2576_HHB40-2@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

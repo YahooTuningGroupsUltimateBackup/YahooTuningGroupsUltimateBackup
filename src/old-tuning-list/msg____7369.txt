@@ -1,0 +1,917 @@
+source file: m1376.txt
+Date: Mon, 6 Apr 1998 02:22:19 -0400
+
+Subject: Monzo-Erlich debate over the Hendrix chord
+
+From: monz@juno.com (Joseph L Monzo)
+
+[5 April 1998]
+
+Ever since I posted something about Jimi Hendrix bringing
+the 19/16 ratio into the harmonic language of rock, Paul
+Erlich and I have been involved in a debate over the
+tuning, or at least the rational implications, of the
+"dominant 7th, sharp 9th" or "Hendrix chord".  Most of
+the discussion took place off-list, so I've put it
+together to post it here, along with some further
+editorial additions/ explanations/ clarifications.
+It's very long, but most of you should find it quite
+interesting.
+
+Paul's main point is that due to guitar and finger mechanics,
+the only viable rational interpretation of the "Hendrix Chord"
+is 1/1 : 5/4 : 7/4 : 7/6.  However, our debate brought in
+various thoughts about acoustics and mathematics, and we would
+both like to see what other subscribers have to say about it.
+I am particularly interested in what you guitarists have
+to contribute, as I don't really play the instrument myself.
+
+-Joe Monzo
+============================================================
+from TUNING DIGEST # 1354
+
+From: Joseph L Monzo
+To: tuning@eartha.mills.edu
+Date: Sun, 15 Mar 1998 07:45:00 -0500
+Subject: Re: TUNING digest 1353, Topic No. 4: non12 rock
+
+> ... can anybody offhand list some people doing
+> detwelvulated *pop music* ... i.e. "songs" in
+> some kind of (fairly extended into folk- and
+> psychedelic-, knowing the guy who's asking the
+> question) "rock context"?
+
+<snip>...I can provide an illustration of an incredibly
+talented performer being able to coax any frequency he
+wanted from an ordinary instrument. Listen very
+carefully to Jimi Hendrix, particularly his "bent"
+notes...<snip>...
+
+I also give Hendrix the credit for bringing the 19-identity
+(the "sharp 9th" of the chord, i.e., the "minor 3rd" played
+an octave above the "major 3rd" in a "dominant 7th chord")
+definitely and securely into the harmonic language of rock
+-- an excellent example is the main riff at the beginning
+of  "Foxey Lady" on "Are You Experienced" (vintage 1967).
+
+-Monzo
+==========================================================
+[5 April 1998]
+
+The cents values of the 4:10:14:19 chord would be
+0, (octave +)386, (octave +)969, (2 octaves +)298.
+
+-Monzo
+==========================================================
+from TUNING DIGEST # 1358
+Topic No. 2
+
+Date: Wed, 18 Mar 1998 15:57:57 -0500
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+To: "'tuning@eartha.mills.edu'" <tuning@eartha.mills.edu>
+Subject: Reply to Joe Monzo
+
+As a rock guitarist who is both an avid Hendrix buff and a
+constant investigator of tuning possibilities, I must
+dispute this claim. If the bottom three notes of the
+chord (well known to guitarists as "The Jimi Hendrix
+Chord") are tuned 1/1:5/4:7/4, and a sharp 9th is added
+above the chord, the most consonant (and most appropriate
+on distorted guitar) tuning for the sharp 9th is 7/3
+[1 octave + 267 cents]. Try it yourself if you don't
+believe me.  The 4/3 [498 cents, 3^-1 in JustMusic
+notation] between the 7th and sharp 9th is very solid,
+while a 19:14 [529 cents, 7^-1 * 19^1 in JustMusic] in
+the same position is too complex a ratio and just sounds
+out-of-tune.
+
+The way the chord is played on guitar, the two lowest
+notes are played with the two strongest fingers, which
+a good player (like Jimi) will use to apply bending and/or
+vibrato. This will bring the chord from 12-equal to
+something approaching just intonation.
+
+Not all chords are best analysed as portions of the harmonic
+series!
+
+-Erlich
+==========================================================
+[5 April 1998]
+
+"Hendrix Chord" (I think)
+
+E||----------|---------|--------|-------|-----4|A
+B||----------|---------|--------|-------|-----3|E
+G||----------|---------|-------2|-------|------|A#
+D||----------|---------|--------|-------|------|
+A||----------|---------|--------|-------|------|
+E||----------|--------1|--------|-------|------|F#
+
+Paul's argument is that because the E is 31 cents higher
+than the 7th harmonic, in order for the E to be interpreted
+as the 7th harmonic, since is can't be lowered, the other
+notes in the chord must be raised.  In order to make this
+12-equal chord approach Paul's interpretation as
+1/1 : 5/4 : 7/4 : 7/6, the first finger would have to
+bend the F# up 31 cents, and the second finger would have
+to bend the A# up 17 cents.  This gives F#:A#:E the
+proportions 2:5:7.  The 12-equal A is 500 cents above
+E, which makes it only 2 cents higher than 7/6.
+
+-Monzo
+==========================================================
+From: Joseph L Monzo
+To: PErlich@Acadian-Asset.com
+Date: Thu, 19 Mar 1998 13:14:19 -0500
+Subject: Hendrix and 7/3
+
+Thanks for the correction.  It points out the difficulty
+of analyzing stuff when you don't play the instrument
+under consideration.  I can only be called a guitarist
+by a very long stretch of the imagination, and I've always
+*heard* this chord as having a 19/16.  Can't say I ever
+tested it on anything other than a keyboard.
+
+<snip>
+
+One of the projects on which I will not give up (although
+I've been told by nearly everyone that it's all but
+impossible) is to create software that will analyze the
+pitches being played on a CD.  The data's there on the
+disk, already in digital format, it's just a matter of
+putting the .WAV file through the proper mathematical
+formulas to break it down into individual instruments and
+pitches.  This way we would all finally have accurate
+information on what tunings were actually played by
+performers, with none of the I-could-be-wrong slips
+of the ear.
+
+Last year, all of my musical equipment (with the single
+exception of my Rational Guitar, described below) and
+almost all of my CDs and records were stolen.  So I
+don't have the Hendrix album to check it anymore, and
+I'm limited these days to doing all my musical work on
+a computer/soundcard combo.  Makes it even more difficult
+to check statements I've made on tuning.
+
+The first specifically microtonal instrument I had
+was my  "Rational Guitar", an acoustic guitar on which
+I filed off all the frets and placed new ones,
+individually for each string.  It's a purely experimental
+instrument, meant to supply different identities for
+one chord, up to a 27-Limit.  It's virtually useless
+as a *musical* instrument, in that it will only play one
+chord (other chords can be coaxed out of the higher
+identities, for example, 3 - 15 - 9 make a 1 - 5 - 3
+triad on the 3/2), but it does give me rock-solid
+identities up to 27 for that "tonic" chord.  On this
+instrument, 4:10:14:19 sounds gorgeously in tune.
+
+You mentioned distortion in the guitar's sound as a
+factor, and this *is* an acoustic instrument, so maybe
+that's why it sounds so good to me.  Unfortunately,
+this guitar has no notes built upward from 4/3, so
+I can't check how 7/6 would sound in place of 19/16.
+
+I'll be the first to admit that a particular
+high-harmonic note may fall within a lower PRIME-limit
+-- manipulation of primes is what my theory is all about,
+and it's my belief that most ears take a while to adjust
+to higher primes -- a good argument for the static pace
+of La Monte Young's extremely high-prime sound
+installations.  Without proper tools with which to
+analyze and check, it's tough.
+
+-Monzo
+============================================================
+From: "Paul H. Erlich" <PErlich@acadian-asset.com>
+To: "'monz@juno.com'" <monz@juno.com>
+Date: Thu, 19 Mar 1998 14:58:46 -0500
+Subject: RE: Hendrix and 7/3
+
+Clearly the 12-equal sharp 9 [300 cents], which is
+what Hendrix plays, is a very close approximation
+of the 19/8 [298 cents].  However, what I'm trying
+to say is that the relevant acoustical ratio is the
+4/3 between the sharp 9 and the 7th. Since the
+7th (7/4) is so high in 12-equal, the 7/3 is very
+high as well -- in the neighborhood of 19/8. That
+doesn't make 19/8 the relevant ratio for describing
+the chord, however.
+
+When you tune a 1/1:5/4:7/4 on a keyboard, where do
+your ears tell you the sharp 9 should be?
+
+<snip>
+
+Again, you're not _wrong_ -- I just think you're
+using ratios too high to be acoustically relevant
+in this context.
+
+<snip>
+
+Actually, distortion will make that sound even better,
+as it creates lots of difference tones, which will all
+be integers. Distortion favors exact harmonic-series
+based chords, while on an acoustic guitar many other
+chords, such as subharmonic (utonal) chords, are
+important. However, even with distortion, 19 is
+usually a bit too high up the harmonic series to
+be important.
+
+I suspect that, _especially on an acoustic instrument_,
+you will like 7/6 in place of 19/16.
+
+<snip>
+
+Just to clarify -- even if Jimi did bend/vibrato the
+root up to form a 7/3 with the sharp 9, the bass
+would still be playing the root in 12-equal, so the
+12-equal sharp 9 is still there, and that is only
+3 cents off the 19th harmonic.
+
+That still doesn't make the 19/8 the most relevant
+ratio for describing the pitch of that note, however.
+
+Surely you knew/heard that the seventh that Jimi
+plays, relative to the bass, is 31 cents sharp of
+the 7th harmonic, and yet you allowed that error
+to be ignored in your analysis. Similarly, I would
+argue, the 7/3 can sustain a fairly large error
+in tuning.
+
+If you tune 1/1:7/4:7/3 on an acoustic guitar,
+and you listen closely for the seventh harmonic
+of the lowest note, you will hear it quite clearly,
+since it is also the 4th harmonic of the middle note
+and the 3rd harmonic of the highest note. This
+is called a subharmonic (or utonal) chord and is
+the principle behind minor triads. Distortion
+tends to weaken these types of harmonies and
+strengthen ones with a harmonic (or otonal) genesis.
+
+..I don't think our ears are particularly sensitive
+to primes; when it comes to intervals, each new ODD
+number presents something new for our ears to get used
+to, whether it is prime or not. Johnny Reinhard gave
+me a copy of your paper several years ago, and that
+is one of the major problems I have with it.
+
+-Erlich
+============================================
+[5 April 1998]
+
+As Paul alluded to, it's interesting to note that
+the 19th harmonic is 31 cents above 7/6 -- almost
+exactly the same distance or "error" as that of the
+12-equal 7th above 7/4.
+
+-Monzo
+===========================================
+From: Joseph L Monzo
+To: PErlich@acadian-asset.com
+Date: Thu, 19 Mar 1998 17:55:38 -0500
+Subject: Re: Hendrix and 7/3, accurate notation
+
+<snip>
+
+By the way, it's important to realize that utonal
+chords can also be analyzed as harmonic-series
+chords -- the proportional numbers become different
+(and much larger), but the intervallic relationships
+are still the same.  For example:
+
+Build a chord from the bottom up with the ratios
+1/1 - 7/6 - 7/5 - 7/4.  The standard Partchian
+analysis calls this a Utonality built downward from
+7/4, with the udentities (downward) 1 - 5 - 3 - 7.
+However, this chord can also be called an Otonality
+built upward from 16/15, with the odentities (upward)
+15 - 35 - 21 - 105 (with the "root" missing).
+It's exactly the same chord.
+
+> However, even with distortion, 19 is usually a bit
+> too high up the harmonic series to be important.
+
+I have to disagree with this -- I've analyzed many
+pieces where others called a note 7/6 (or some
+other utonal derivation) and I hear it clearly as
+19/16.  There are numerous arguments among "tuning
+people" about what the "blue notes" are.
+
+> ...I don't think our ears are particularly sensitive
+> to primes...<snip>
+
+Each new odd number provides a new *identity* in a
+chord, but it's my theory that the emotional and
+acoustical effect and affect of that interval is
+determined by its prime-number constituents.  The
+point of what I wrote above, about being able to
+analyze chords in either of the two ways, is that
+what LOOKS like a note that's high in the harmonic
+series may actually be a much lower utonal harmonic.
+Of course, I realize that 19 is quite a high prime
+-- to me, this bears out my theory that studying
+the PRIMES is what is most important in musical
+harmony.
+
+<snip>...you said yourself that distortion will
+tend to emphasize interpretation of the chord ratios
+as harmonics over a fundamental.
+
+<snip>
+
+Again, you are correct in that I overlooked the fact
+that the 7th played by Jimi is sharper than the 7th
+harmonic.  We've all been listening to lots of music
+this century that implies ratios of 7, but fudges their
+correct intonation quite extensively.  The bottom
+line of my argument is that in order for us to
+properly analyze what's already been done (tuning-wise)
+by important artists whose legacy exists in recordings,
+we need to pin down exactly what pitches they were
+playing/ singing, before we can theorize about chords,
+harmonics, etc.  My work is mainly an attempt at a
+notation that can be easily read by musicians, and
+yet is precisely accurate as to the intonation.  I hope
+to get my book done soon -- the paper only gives the
+foundation of what I'm doing; the book fleshes it out
+a lot with historical examples.  
+
+-Monzo
+=====================================================
+from TUNING DIGEST # 1359
+
+Date: Thu, 19 Mar 1998 15:40:46 -0500
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+To: "'tuning@eartha.mills.edu'" <tuning@eartha.mills.edu>
+Subject: Jimi Hendric chord
+
+I must admit that with enough distortion,
+8:10:14:19 is the preferable tuning for this chord,
+since distortion creates high-order difference tones.
+However, we're talking about so much distortion
+that the individual notes cease to be audible
+and all that remains is a harmonic series above 1.
+I don't think even Jimi often took distortion to
+that extreme. You would have to overdrive a transistor
+amp to get an idea of the extreme distortion I'm
+talking about. Think of the distortion sound in
+"Revolution" (fast version) by the Beatles.
+I think that's transistor distortion. Vacuum tubes
+(or a simulation thereof) are the usual means of
+effecting a distorted guitar sound and they have
+a way of letting the individual notes ring through.
+
+===========================================================
+From: "Paul H. Erlich" <PErlich@acadian-asset.com>
+To: "'monz@juno.com'" <monz@juno.com>
+Date: Fri, 20 Mar 1998 16:30:22 -0500
+Subject: RE: Hendrix and 7/3, accurate notation
+
+> By the way, it's important to realize that utonal
+> chords can also be analyzed as harmonic-series chords...
+<snip>
+
+Yes, but which is more relevant for describing
+the chord's effect/affect? I would argue that
+any description employing such high numbers is
+psychoacoustically meaningless. Do you hear the
+missing "root"? Does it sound right as a bass
+note for the chord?
+
+> <snip>...There are numerous arguments among
+> "tuning people" about what the "blue notes" are.
+
+Blue notes aside, I will admit that the 12-equal
+minor triad in root position has a certain
+stability that is lacking from the just minor
+triad due to the former's proximity to 16:19:24,
+which has the "root" in the right place.
+
+> <snip>...the emotional and acoustical effect
+> and affect of that interval is determined by
+> its prime-number constituents.
+
+I have heard that theory from many people, but I
+am convinced that it is a fallacy. The ear does
+many things, but prime factorization is not one of
+them. The only validity I will allow this theory
+is a cultural conditioning-type process where
+musicians will become accustomed to the result of
+"stacking" low prime-number intervals before moving
+on to the next prime number. However, to someone
+brought up with 5-limit music, 13:11 isn't going
+to bear more similarity to 13:8 or 11:8 than,
+say, 9:7.
+
+> <snip>...what LOOKS like a note that's high in
+> the harmonic series may actually be a much lower
+> utonal harmonic.  Of course, I realize that 19
+> is quite a high prime -- to me, this bears out
+> my theory that studying the PRIMES is what is most
+> important in musical harmony.
+
+I don't get it.
+
+<snip>
+
+I was just saying that the relevant acoustical ratio
+for explaining why the sharp 9 sounds good is the
+4/3 between the sharp 9 and the 7th. Take away the
+7th, and the sharp 9 sounds awful. Another common
+chord in rock, especially alternative rock, is a
+major triad or dominant seventh chord with an added
+fourth. What do you think the fourth is, the 11th
+harmonic? The 21st? The 43rd? No, it's just a 4/3
+above the root, and luckily in 12-equal, a 4/3 below
+the 7th. That's why the note sounds good there, and
+how it should be tuned.
+
+<snip>
+
+Excessive distortion will make most chords sound
+really bad unless the notes are very close to a
+harmonic series. Unless all the notes of the chord
+except the 7th were bent up, there is little chance
+for the Jimi Hendrix chord to achieve this condition
+as an 8:10:14:19 chord. It is extremely difficult
+to achieve the finger independence necessary to bend
+with all fingers except the ring finger (which would
+be required here).
+
+<snip>
+
+I think you'll be disappointed at how rough and
+inconsistent Jimi Hendrix's intonation was. John
+McLaughlin was sometimes even worse. But by and
+large, it's 12-equal. Where do you go from there?
+
+-Erlich
+=======================================================
+From: Joseph L Monzo
+To: PErlich@acadian-asset.com
+Date: Fri, 20 Mar 1998 19:38:08 -0500
+Subject: Re: Hendrix and 7/3, accurate notation
+
+<snip>
+
+Certainly, the description with the smallest
+[proportional] numbers would be the most relevant.
+
+> I would argue that any description employing such
+> high numbers is psychoacoustically meaningless.
+
+There may be other reasons for wanting to describe
+a utonal chord as the equivalent otonal chord with
+higher numbers.  We are limited to graphing pitch
+ratios in 3 dimensions, but there may be many more
+than 3 prime numbers used in a scale or piece.
+One solution to this problem is to think of all
+those primes and odd-identites as rungs in the
+overtone ladder.
+
+> Do you hear the missing "root"? Does it sound
+> right as a bass note for the chord?
+
+No matter how small or large the numbers are,
+when they come from an arithmetic series, they
+will always emphasize the "fundamental" (otonal
+or utonal), whether it's sounding or not.  In
+some cases, the missing "root" *can* be heard
+as a difference tone.  As far as sounding right
+as a bass note, it depends on many factors: the
+particular ratios used, the timbre of the
+instruments, the octave registers of the ratios,
+whether the notes are in close or open spacing,
+etc.
+
+Similarly (conversely), the lower notes of
+a chord can produce summation tones which appear
+as higher pitches than those that are actually
+being played.  These effects are apparent when
+listening to the music of La Monte Young.  Most
+likely, the use of distortion (even small amounts)
+would emphasize this effect.  If you try this out
+on your guitar, I'd be interested to know if this
+is true.  Try playing a 4:5:14 chord.
+5 + 14 = 19, so if my theory is correct, you
+should be able to hear the 19th harmonic.
+If it's not apparent, see if adding distortion
+makes it audible.  If this occurs, then it may
+be possible that in a regular 4:5:7 chord, the
+octave overtone of the 7 (14) is reacting with
+the 5 to produce 19.
+
+> <snip>...the 12-equal minor triad in root
+> position has a certain stability that is lacking
+> from the just minor triad...<snip>
+
+It's interesting that you should say that.  I've
+always thought that 10:12:15 (the just minor triad),
+6:7:9, and 16:19:24 ALL sounded good as stable
+minor triads, just different.
+
+> <snip>...The ear does many things, but prime
+> factorization is not one of them.
+
+Well, we definitely part company here.  This is
+the foundation of my entire theory.  After reducing
+any number or collection of numbers as far as they
+will go, what's left is the prime series.  And
+personally, I (and many others) distinctly sense
+a difference in sound and feeling between different
+prime numbers.
+
+> <snip>...13:11 isn't going to bear more similarity
+> to 13:8 or 11:8 than, say, 9:7.
+
+Your point is valid, but my theory isn't written from
+the point of view of "someone brought up with 5-limit
+music", it's written with an eye toward describing
+ANY possible rational combination of pitches.
+
+> <snip>...[about analyzing chords as either utonalities
+> or otonalities:] I don't get it.
+
+I was simply saying that sometimes when high numbers
+turn up which are multiples of several primes, many
+of the primes can be factored out when the analytical
+orientation (otonal vs. utonal) is reversed.
+
+> <snip>...Take away the 7th, and the sharp 9 sounds awful.
+
+I disagree -- on my Rational Guitar (the acoustic one)
+4:10:19 sounds fine -- maybe a little strange, but far
+from awful.  And again, it may be that the sharp 9th
+sounds better when the 7th is added because 19 is a
+summation tone of 5 and 14.
+
+> <snip>...[about the "major triad or dominant seventh
+> chord with an added fourth":]it's just a 4/3...<snip>...
+> That's why the note sounds good there, and how it
+> should be tuned.
+
+My, aren't we being dogmatic here?  If the performer's
+intonation is not precise, or indeed if it IS precisely
+12-equal, there are many possible rational
+interpretations.   I will grant that 4/3 is probably
+intended most of the time, as it is a very simple
+ratio, and has been used as a basis for music for a
+couple of thousand years (at least).  But surely it's
+not the ONLY ratio that musicians use to fit this
+particular harmonic slot.
+
+> <snip>...It is extremely difficult to achieve the
+> finger independence necessary to bend with all
+> fingers except the ring finger (which would be
+> required here).
+
+OK -- to me this sounds logical.  This is the best
+argument you've given me as to why your
+interpretation of this chord is better than mine.
+
+<snip>
+
+I haven't done any thorough analysis of Hendrix's
+intonation -- I was just making statements based on
+what I've heard in more-or-less casual listening.
+Perhaps I don't have the authority to discuss this
+particular corner of microtonality (as I've already
+told you several times, I am no guitarist).
+
+<snip>
+
+-Monzo
+=======================================================
+From: "Paul H. Erlich" <PErlich@acadian-asset.com>
+To: "'Pat Missin'" <patm@globalnet.co.uk>
+Cc: "'monz@juno.com'" <monz@juno.com>
+Date: Tue, 24 Mar 1998 15:05:03 -0500
+Subject: RE: Reply to Joe Monzo
+
+Pat, I hope you don't mind my including Joe Monzo in
+this discussion.
+
+Joe, read what Pat has to say below. Notice the P.S.,
+which happens to be a point I just made to you in e-mail.
+
+Happy tuning, fellas!
+
+>-----Original Message-----
+>From:	Pat Missin [SMTP:patm@globalnet.co.uk]
+>Sent:	Friday, March 20, 1998 5:46 PM
+>To:	Paul H. Erlich
+>Subject:	Re: Reply to Joe Monzo
+>
+> You wrote:
+>>
+>> <snip>...The 4/3 between the 7th and sharp 9th
+>> is very solid, while a 19:14 in the same position
+>> is too complex a ratio and just sounds out-of-tune.
+
+> Recently, on the harmonica list to which I subscribe,
+> the subject of Canned Heat's "On The Road Again"
+> was raised. Several people were confused about
+> how Al Wilson got certain notes in the harmonica
+> solo. I checked it over...<snip>...and found that
+> he had tuned one of the draw notes a semitone sharp.
+> A typical blues harp would be tuned with the draw chord:
+
+> D   G   B   D   F   A   B   D   F   A
+
+> Wilson had raised the middle A (and maybe the top A,
+> although he doesn't use it on this solo) to a Bb.
+> I immediately retuned a harp that was lying around
+> and figured that the best voicing was to use 4/5/6/7
+> (which is how Wilson's harp would have been tuned at
+> the factory) and tune the Bb a perfect 4th above
+> the 7/4. Sounded pretty good, although the difference
+> tone from the Bb and the B played together, was a bit odd
+> - but certainly not unpleasant.
+
+> A few days later, I read the post about Hendrix
+> introducing the the 19th harmonic and was immediately
+> tempted to take that Bb up to 19/4. I really like the
+> sound of septimal intervals, but I have never been too
+> happy with their association with the "blue notes" of
+> jazz and blues. I always figured a blue third was a
+> little wider than 7/6. So, having an interval that
+> sits right between 18/8 and 20/8 seemed to make a
+> lot of sense. I wish I hadn't bothered - sounds REALLY
+> horrible, for all the reasons you gave above. The
+> "fourth" being the main cause of its horribility.
+> I tried tuning the F up to a perect fourth under the
+> 19/16, but that wasn't any better. I thought about
+> posting something to the list, but pressure of work....
+> etc., etc...
+
+> <snip>...All the best,
+
+> -- Pat.
+
+> PS - If we have to credit someone with introducing the
+> 19th harmonic, wouldn't it make more sense to credit
+> whoever first played a minor triad in 12TET. I mean,
+> this is a pretty good approximation of 16/19/24 isn't
+> it? Closer than most rock guitarists ever get, anyway...
+========================================================
+[5 April 1998]
+
+Considering that the Pythagorean "sharp 9th" or
+"minor 3rd" with the ratio 32/27 [294 cents] is
+only 4 cents lower than 19/16, perhaps some ancient
+Greek or Chinese musician used 32/27 in this function,
+and is the one who ultimately deserves the credit
+for introducing 19 as a harmonic identitiy.
+
+Incidentally, in the tuning Pat used on his harmonica,
+G:B:D:F:Bb would have the proportion 12:15:18:21:28.
+The "bit odd - but certainly not unpleasant" difference
+tone between the B (15) and Bb (28) is 13 - a prime
+number that never really entered our discussion in any
+significant way, but one which Paul would no doubt also
+consider to be too high a prime to be useful.  It's one
+that has a sound that I love (so does Ben Johnston).
+
+-Monzo
+=========================================================
+From: "Paul H. Erlich" <PErlich@acadian-asset.com>
+To: "'monz@juno.com'" <monz@juno.com>
+Date: Tue, 24 Mar 1998 15:24:14 -0500
+Subject: RE: Hendrix and 7/3, accurate notation
+
+> There may be other reasons for wanting to describe
+> a utonal chord as the equivalent otonal chord with
+> higher numbers...<snip>
+
+I don't see utonal chords as presenting any particular
+problems in graphing pitch ratios, particularly when
+using triangular lattices as Erv Wilson and I do.
+
+>> Do you hear the missing "root"? Does it sound
+>> right as a bass note for the chord?
+
+> No matter how small or large the numbers are,
+> when they come from an arithmetic series, they
+> will always emphasize the "fundamental" (otonal
+> or utonal), whether it's sounding or not...<snip>
+
+Yes, but in the example we are discussing,
+15:21:35:105, do you hear the note represented
+by 1 or 16 "emphasized" in any way? What do your
+ears tell you?
+
+I noticed that you have ignored a couple of the
+other listening experiments I suggested to you.
+I would love to continue this discussion, but
+it is not really too relevant to the field of
+music unless we ground ourselves in actual sounds.
+Let's take that as our reference point -- try to
+describe what you really hear.
+
+> Similarly (conversely), the lower notes of a chord
+> can produce summation tones which appear as higher
+> pitches than those that are actually being played
+> ...<snip>...it may be possible that in a regular
+> 4:5:7 chord, the octave overtone of the 7 (14) is
+> reacting with the 5 to produce 19.
+
+Distortion produces many high-order difference and
+summation tones which obscure the issue. Just playing
+loud will cause the ears to produce low-order combination
+tones, such as those of th 2a+b type you are referring
+to here, and so will be a better way to bring this out.
+
+>> to someone brought up with 5-limit music, 13:11 isn't
+>> going to bear more similarity to 13:8 or 11:8 than,
+>> say, 9:7.
+
+> <snip>...my theory isn't written from the point of
+> view of "someone brought up with 5-limit music",
+> it's written with an eye toward describing ANY
+> possible rational combination of pitches.
+
+I don't see a contradiction, nor do I see a
+counterargument. Just what do you hear in the interval
+13:11 as regards prime qualities? Do you hear 13-ness
+and 11-ness? Is this the same effect you get from 143:128?
+=============================================================
+[5 April 1998]
+
+ 13:11  = 11^-1 * 13^1       (289 cents)
+143:128 = 2^7 * 11^1 * 13^1  (192 cents)
+
+Paul's point is that both ratios contain 11 and 13 as
+factors.  I'm listening to both of these frequently now,
+to hear exactly what the effects are.  No comment yet.
+
+-Monzo
+=============================================================
+From: "Paul H. Erlich" <PErlich@acadian-asset.com>
+To: "'monz@juno.com'" <monz@juno.com>
+Date: Tue, 24 Mar 1998 16:06:19 -0500
+Subject: psychoacoustical aside
+
+Are you aware that, when the ear is presented with
+tones forming a not-quite-harmonic series, such as
+1020, 1520, 2020, 2520 Hz, it will hear a
+fundamental at a sort of "best-fit" frequency,
+around 507 Hz, even though the difference tones
+would all be 500 Hz? See "Musical Acoustics" by
+Hall for an easy-to-read summary of this and other
+important phenomena.
+
+-Erlich
+===========================================================
+[5 April 1998]
+
+1020:1520:2020:2520 can be reduced to 51:76:101:126.
+The cents values are 0, 691, 1183, (octave +)366.
+
+In JustMusic notation, the prime factors are:
+
+[2520]  3^2 * 7^1
+[2020]  101^1
+[1520]  19^1
+[1020]  3^1 * 17^1
+
+Calculated as harmonics above 507, they fall extremely
+close to 2:3:4:5.  Cents values calculated from 507 are:
+(2 octaves +) 376
+   (octave +)1193 
+   (octave +) 701
+   (octave +)  10.
+
+Cents values of 2:3:4:5 would be 0, 702, 1200, 386.
+
+The fact that the ear interprets the fundamental
+as a "best fit" of 507 Hz, despite actual
+difference tones of 500 Hz, only emphasizes
+to me the psychological power of the overtone
+series as a harmonic archtype into which
+we will try to fit what we hear, even when it
+disagrees with the true acoustics and mathematics
+of the sounds.
+
+I would like to become familiar with the math used
+to describe this phenomenon and calculate this
+"best-fit" frequency.  I have seen something similar
+to this in the writings of Ernst Terhardt (published
+a couple of years ago; I believe it was in the
+Journal of Music Theory).
+
+-Monzo
+===========================================================
+From: Joseph L Monzo
+To: PErlich@acadian-asset.com
+Date: Tue, 24 Mar 1998 16:20:05 -0500
+Subject: Re: Hendrix and 7/3, accurate notation
+
+> <snip>...this discussion...is not really too
+> relevant to the field of music unless we ground
+> ourselves in actual sounds...<snip>
+
+I agree totally -- theorizing on paper without hearing
+*is* pretty much irrelevant, unless you happen to
+stumble onto a useful new way of describing something.
+It's not that I've *ignored* your experiments, just
+that I don't have much equipment left on which to listen.
+As I told you, all my instruments were stolen...<snip>...
+And I *did* describe a few things to you that I'd tried
+out on my Rational Guitar.  Specifically, the chord
+4:10:19 sounds fine on this (acoustic) guitar, even
+without the 7th.  And to my ears, 4:10:14:19 sounds
+even better.  Other than that, I have to do everything
+on my computer with pitch-bend -- a time-consuming
+process...<snip>
+
+-Monzo
+=====================================================
+[5 April 1998]
+
+I have since tried Paul's chord on my acoustic guitar.
+It sounds wonderful, but certainly very different from
+4:10:14:19.  In my opinion, it's neither better nor
+more consonant (nor Jimi), just different.
+
+It's important to realize that Paul's analysis of
+this chord can *also* be described as harmonic 
+proportions over a fundamental.  If F# is 1/1, then
+the fundamental would be the missing B with the
+ratio 4/3. His chord would have the proportions
+6:15:21:28.  Obviously these numbers are larger
+than my interpretation as 4:10:14:19, but the
+highest prime in his chord is 7, while the highest
+in mine is the much higher 19.  Analyzed in my
+JustMusic notation, we get:
+
+       Erlich        Monzo
+      ----------     -----
+A     7^1             19^1
+E     3^1 * 7^1        7^1
+A#    3^1 * 5^1        5^1
+F#    3^-1             n^0
+
+There are aspects to both chords which influence
+the feeling of consonance and dissonance
+simultaneously. Both chords have the same strong
+2:5:7 proportion in the lowest three notes, which
+gives both of them quite a strong feeling of
+consonance.
+
+The aspect which makes Paul's chord more
+consonant is obviously that the factors in
+his ratios are all such small primes, and thus
+the internal interval-structure is also more
+consonant.
+
+The aspects which makes mine more consonant are
+that the notes are piled up as harmonics over a
+fundamental which is both present and in the bass,
+and they are single-prime identities of the chord.
+
+Of course, the factors which make either chord
+dissonant are the converse of those which make
+the other consonant: Paul's is only obliquely
+related to a missing fundamental, and the two
+middle ratios are combinations of two primes,
+while mine has the high prime 19.
+
+Our entire debate is centered around the fact that
+(as both Ben Johnston and Harry Partch pointed out
+long ago) consonance-dissonance is determined not
+only by how large the primes are, but also how
+large their exponents are, and also how many of
+them are combined in particular ratios.
+
+I think the most important thing to realize is --
+again raising Partch's ghost -- "the ability of
+the human ear is vastly underestimated".  A tiny
+difference in the pitch of a note can give it an
+enormously different sound and feeling; I believe
+that studying the prime-number relationships among
+the tones is what will disclose these effects.
+
+Another important distinction in our different methods
+of analysis is the dichotomy between the analysis of
+a chord as one harmonic complex and analysis of it as
+the sum of individual constituent interval ratios. My
+interpretation of the chord emphasizes the harmonic
+complex view, while Paul's emphasizes the interval
+view.
+
+There it is.  All comments and debates are welcome
+and appreciated.
+
+-Monzo
+ 
+   Joseph L. Monzo
+    monz@juno.com
+    4940 Rubicam St., Philadelphia, PA 19144-1809, USA
+    phone 215 849 6723
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

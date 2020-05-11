@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Mon, 9 Jun 1997 10:14:56 +0200
+
+Subject: Tibetan Tunings
+
+From: "jloffink" <jloffink@pdq.net>
+
+The Wendy Carlos web site has files with information on the Tibetan
+tuning and other preset intonation tables in the Kurzweil
+1000/K2000/K2500 series.  The file "Alternate Tuning Guide" explains how
+the scales were derived and the file "Tuning Table" lists the parameters
+for the scale tunings.  They are located at:
+http://www.apocalypse.org/pub/u/wendy/resources.html
+
+John Loffink
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 9 Jun 1997 10:43 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01469; Mon, 9 Jun 1997 10:43:10 +0200
+Date: Mon, 9 Jun 1997 10:43:10 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA01461
+Received: (qmail 16466 invoked from network); 8 Jun 1997 07:02:49 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Jun 1997 07:02:49 -0000
+Message-Id: <Pine.BSI.3.91.970607205615.19050A-100000@lehua.ilhawaii.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

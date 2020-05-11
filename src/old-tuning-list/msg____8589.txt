@@ -1,0 +1,51 @@
+source file: m1547.txt
+Date: Wed, 7 Oct 1998 17:43:22 -0400
+
+Subject: Re: Paul Erlich's "entropy" and 16:9
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+First of all, I left out any comments to see what people would say. The
+most important thing I left out was that local maxima and minima have
+limited relevance unless your music uses continuous sweeps of the
+interval spectrum. I have always held this as a (very mild) criticism of
+some of Sethares's arguments. It only takes a tiny change in the
+harmonic entropy function (say, a change of 1 in N) to convert a local
+maximum into a local minimum or vice versa. The value of the function
+need change only very little at any given interval, but the just ratios
+will tend to be near these local extrema. The values of the function are
+more important, however these are dependent on whether the allowed
+fractions in the analysis are defined to have numerator less than N,
+denominator less than N, num. + den. < 2N, etc. The choice of one of
+these rules is a difficult one, but the local extrema, I think, should
+be independent of this choice, which is why I only reported those. 
+
+>My immediate medievalist reaction: shouldn't 16:9 be listed here as a
+>basic ratio at 996 cents? Somehow my Pythagorean predilections find it
+>curious that this interval should be treated mainly as a point of
+>maximum ambiguity between the 5-prime and 7-prime standards, rather
+>than a 3-prime standard in its own right.
+
+As you may recall, I don't believe in prime standards for consonance,
+only odd standards. This analysis did not allow for any octave
+equivalence efffects, so evens are just as good ass odds and integer
+standards reign. 16 is a very high integer.
+
+>Also, this interval seems
+>very basic to me since it is derived from two pure 4:3 fourths.
+
+I agree that it can be so derived in a musical context. However,
+presented on its own, the ear has NO WAY of analysing the 16:9 into two
+4:3s. This kind of "derivation" has no _acoustical_ relevance to the
+interval on its own. Try tuning two strings a minor seventh apart and
+see what ratios you are drawn to.
+
+>I'm curious if this result for 16:9 might say anything about the
+>Pythagorean m7 (which often gets used prominently in 13th-14th century
+>music, and which I tend to agree with some medieval theorists has a
+>certain degree of "compatibility" or even "concord")
+
+In medieval times how sure could you be that your m7 wasn't a 7:4 or a
+9:5, unless it was built up from two 4:3s, in which case my previous
+caveat applies? Anyway, these three minor seventh differ relatively
+little in the value of the entropy function.

@@ -1,0 +1,14 @@
+source file: m1431.txt
+Date: Fri, 29 May 1998 22:30:59 -0500
+
+Subject: MAX
+
+From: sethares@eceserv0.ece.wisc.edu (William Sethares)
+
+Is anyone using Opcode's program MAX for microtonal work?
+I just started playing around with it, and it seems like a great
+language for pitch-bend style microtunings.
+I was hoping that someone had worked out the details 
+(i.e., created a MAX "patch") to do this.
+
+Bill Sethares

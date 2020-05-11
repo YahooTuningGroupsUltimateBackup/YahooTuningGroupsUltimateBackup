@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Wed, 28 Aug 1996 15:51:47 -0700
+
+Subject: RE: 7:4 versus...
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Harold wrote:
+
+>--create a pure 4:5:6:7 chord on your synth
+>--create a 4:5:6 triad, but add a 9/5 on top (9/5 * 4/4)
+>--create a 10:12:15:18 chord on the same root as each of the previous 
+chords
+
+>After you are convinced thatchord #1 is smoother than chord #2[...]
+
+Harold, the "classical" dominant seventh chord is a 4:5:6 triad with a 16/9, 
+not a 9/5, on top. While the 4:5:6:7 is unquestionally smoother and more 
+consonant, it is unfamiliar sounding, and Western musicians trained in tonal 
+triadic diatonic practice will initially prefer a 4:5:6 triad with a 16/9.
+
+In 41-tet, the three "dominant seventh" chords would be
+0 13 24 33 (7/4 on top)
+0 13 24 34 (16/9 on top)
+0 13 24 35 (9/5 on top)
+In 12, they are all the same. In 19 and 31, the last two are the same. In 22 
+and 27, the first two are the same. That's why I went to 41.
+
+>Another ear-shock: 22 also has a very good 11/8. Try playing a
+>4:5:6:7:9:11 chord in 22, and you'll see what I mean. We all know that
+>in 12, we must omit the major third of this chord (5/4), but notice
+>how smooth this chord is with good 7/4 and 11/8 approximations!
+
+In 12, the closest approximation to this chord, both mathematically and 
+aurally, is
+C E G Bb D F#. I never heard of omitting the major third of this chord.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 29 Aug 1996 00:52 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04031; Thu, 29 Aug 1996 00:53:14 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA03914
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA16880; Wed, 28 Aug 1996 15:53:13 -0700
+Date: Wed, 28 Aug 1996 15:53:13 -0700
+Message-Id: <80960828224908/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

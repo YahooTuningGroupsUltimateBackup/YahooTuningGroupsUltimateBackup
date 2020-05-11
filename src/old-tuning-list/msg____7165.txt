@@ -1,0 +1,17 @@
+source file: m1342.txt
+Date: Mon, 2 Mar 1998 20:17:27 -0600 (CST)
+
+Subject: Re: Identification of pitches
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>> I am developing software to automatically implement alternate tunings ...
+>> The idea is to
+>> allow notation on a staff or piano roll without regard to the actual
+>> pitches represented,
+>If you don't want to reinvent the wheel ... My program, Scala, offers the
+>most features.
+
+   It sounds like Brian's program proposal is a predominantly a sequencer,
+and if I'm not mistaken, Scala is much more useful for calculation and
+comparison of various tunings than for sequencing.  True?

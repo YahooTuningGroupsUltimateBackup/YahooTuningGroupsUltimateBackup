@@ -1,0 +1,34 @@
+source file: mills2.txt
+Date: Wed, 26 Jun 1996 08:26:12 -0700
+
+Subject: RE: Post from McLaren
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+I must say I hadn't recogised Brian's remark as a joke either and was
+about to post a reaction when Paul was ahead of me. But I was aware
+that Brian was dissatisfied with this aspect of the CPS command. How
+he produced the 9-tone equal-tempered scale like this is still a
+puzzle to me. As far as I know there's no bug involved, but only the
+fact that decimal numbers with a full stop are interpreted as cents
+and not as linear factors, as they are pretty consistently throughout
+the program. To relieve the shortcoming, the next release of Scala
+will have a extra version of the CPS command. 
+As long as I don't know what Brian has exactly entered there's no way of
+telling if there is indeed a bug.
+The current version isn't a beta version however, when it was released
+it was well tested and there were no known bugs. There are a few minor
+ones now, to be fixed in the next version. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 26 Jun 1996 17:27 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA06470; Wed, 26 Jun 1996 08:27:14 -0700
+Date: Wed, 26 Jun 1996 08:27:14 -0700
+Message-Id: <199606261524.IAA06039@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,76 @@
+source file: mills2.txt
+Date: Fri, 26 Jul 1996 10:18:53 -0700
+
+Subject: Xen music in Quebec
+
+From: Kami Rousseau <kami@interlinx.qc.ca>
+
+Hi tuners, here is a post from your quebecois correpondant. I have a
+lot to talk about, so I divided my post into sub-topics (if the typos bother
+you, please respond via private email): 
+
+****
+a)Stretched JI : For beatless chords in an harmonic context, we have JI. For
+ease of modulation, there are all the various ET's (octave or non-octave).
+All this stuff is fine, but I have been feeling incomfortable since I red
+McLaren's article about psychoacoustics. I learned that musicians prefered
+stretched octaves and found the 5/4 flat. It was demonstrated that classical
+musicians *do* use stretched intervals. (Some aspect of perception, by
+Shackford, is a good example.) These studies make me feel inconfortable.
+Well, I found a plausible alternative about a week ago. Why not strech the
+scale? A typical result would be  :
+
+[1/1 9/8 5/4 4/3 3/2 5/3 15/8 2/1] ** 136/135
+
+           (Or you could try 61/60 as the exponent, to make it more obvious)
+
+If listen to a "61/60" major chord and compair it to the 4:5:6 chord, you
+might think that the chord has moved by a microtone. If this happens, either
+concentrate on the fundamental of the chord or use a smaller exponent.
+
+I think of this new model is good, because it is a compromise between JI and
+the "real world" scientific data. Larry Polansky and Linus Liu postulated
+something similar.
+
+****
+b)Reference pitch : First, a stupid question : Where is A4=440Hz on the
+piano staff? I have seen references to Yamaha using a different octave, can
+anyone clear this up? 
+I find that 'A' is not a pretty note to start a scale on. Could we use C=512cps?
+
+****
+c)The Real World : There are not many concerts lately. When will we be able
+to hear live microtonal music again? (Manuel?)
+I tried to organize a GT earlier, with not much success (I received a single
+answer.) GT is short for "get together", it is an occasion to meet the other
+musicians of your area. Maybe we could have a jam session or something? 
+The physical location seems to be a problem : New England is not densely
+populated. Maybe Boston would be a better place. (But I am not sure I can
+afford a ride there.) Anyway, maybe some of you will be interested in a
+group activity in this area. 
+
+****
+d)Help me! : The xenharmonic culture is non-existant where I live
+(Sherbrooke, next to Montreal, qc.ca.) I have written a small journal called
+"Liberte d'accord" (Freedom of tuning) to educate the local musicians. When
+I handed a free copy to the town's authority in music writing, the answer I
+got was a 15 minute speech about the supremacy of jazz music. That
+discouraged me a little bit. How do you make microtonal popular? How do you
+explain to a normal person the signification of expressions like
+1200*log2(x) and 3//13?
+
+--Kami
+http://www.interlinx.qc.ca/~kami/
+kami@interlinx.qc.ca
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 27 Jul 1996 01:30 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA07046; Fri, 26 Jul 1996 16:30:06 -0700
+Date: Fri, 26 Jul 1996 16:30:06 -0700
+Message-Id: <31F94F86.A85@adnc.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

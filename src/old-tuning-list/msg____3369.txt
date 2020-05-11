@@ -1,0 +1,152 @@
+source file: mills2.txt
+Date: Wed, 7 Aug 1996 11:52:03 -0700
+
+Subject: P. Erlich's comments
+
+From: Paul Rapoport <rapoport@mcmail.cis.mcmaster.ca>
+
+> Well, you define the "best" syntonic comma as the one which produces the 
+> best major third. The implication of notating a minor third as a pythagorean 
+> minor third plus the "best" syntonic comma is that it should be the best 
+> minor third, i.e., closest to just. When a better minor third is available 
+> in the tuning, which happens in 20tET, and even 17tET which you describe on 
+> the fifth page of your paper, the notation will obscure this fact. So I 
+> object to your definition of a "best" comma.
+
+"Best" has a strict mathematical, as opposed to musical definition. 
+Consequently, the most desirable musical result may conflict. Of course 
+you may rework the notation to reflect that. I chose not to, simply 
+because I was aiming at a general method. The method accounts for all the 
+usual notations of many ETs, such as 19, 22, 31, 43, 53, 72, and others, 
+including many not usually used. It also allows for an improvement in 
+Blackwood's notations in a few cases.
+
+I disagree with Paul E. that there is an implication that the best minor
+third is what he says. Obviously it will frequently emerge from the
+complement of the M3 in the P5, but certainly in 20 it doesn't.
+
+However, it does seem possible to build a notation out of various
+intervals; using 1:3 and 1:5 is quite sensible, traditional, and powerful
+(in terms of theory and explanatory adequacy). I look forward to an
+article using, say, 1:3 and 3:5, but I think 1:5 is a better choice. 
+
+Let's look at 17. Assuming a starting point of D, the 5-unit m3 is F/.
+What's wrong with that? Of course this is also F#\, reflecting the
+important fact that this tuning contains a neutral third. In other words,
+the M3 and m3 meet at 5 units. If you want a 282-cent m3, because it is a
+few cents closer to the just 5:6, that's fine; it may be called F.
+
+There is no more inherent reason to expect the m3 and M3 to "behave
+properly" than there is for cycles of P5 or for the M3 and P5 together.
+Some tunings, like 25 and marginally like 17, may have two minor thirds.
+Tunings with large numbers of units in the octave may have several of
+everything. I don't find this a fault of notation in general or of my 
+proposal.
+
+In 20 there is the curious result that all the extant commas are an even 
+number of units, but it doesn't matter.
+
+> Now I noticed there is a part of your paper where you give an example of 
+> defining a comma to be other than its "best" size, and show the problems 
+> that entails for notation. Though you refer to the alternate comma 
+> definition as the "disposition" of the tuning, as if it were a property of 
+> the tuning itself, one might infer from that discussion that the "best" 
+> comma size is the one to use. However, for tunings like 20tET which do not 
+> possess 5-limit consistency, this is not a clear-cut issue.
+> 
+Tunings have many properties, all of which cannot be most clearly shown 
+at once. The discussion does not imply that the "best" size always works. 
+Quite the contrary. That is one point of the article. In some cases I 
+am unsure what to do about it. I intend a follow-up article at some time.
+
+> The other commas you use derive from equivalences in 12tET, and therefore 
+> seem undesirable for a progressive microtonal notation.
+
+In one sense this is true, viz. that the Pythagorean komma is 12v-7a, 
+where v is a P5 and a is an octave. That governs a lot, as that komma 
+figures in the others. But in another sense it's irrelevant, because I 
+have attempted to maintain some conventions, including heptatonic naming, 
+which are based on pre-12 considerations, as Paul E. shows, all in a 5-limit.
+But I don't "measure" all tunings "in reference to 12-tET."
+
+> In your notation, the syntonic comma is a natural expansion of the standard 
+> notation, so that the entire 5-limit just system can be expressed in terms 
+> of the Pythagorean scheme above. This works fine for tunings that are 
+> consistent within the 5-limit. But the other commas are measured as the 
+> difference between three major thirds and an octave, and so notating them as 
+> an alteration, rather than an essentially different note, implies an 
+> underlying dodecaphony, much as standard notation implies an underlying 
+> heptatonicism.
+
+I don't think so. It implies setting up the 3-limit to take care of itself
+(sharps/flats) and then seeing what happens with the 5-limit intervals in
+terms of the octave, as Paul E. states. There's no 12 in there. By the 
+way, I am quite interested in nonstandard naming too, as a previous XH 
+article on 13-tET shows. Would Paul E. elaborate on notating something with 
+different notes? It's hard to see how he gets from commas to notes in the 
+quotation above.
+
+What is "consistent within the 5-limit"? He may have something because, 
+on occasion, use of kommas others than syntonic seems a bit arbitrary. In 
+some cases it's fine, as in 31.
+
+> Our present notation system was established long before 12tET became 
+> standard. If 19tET or 31tET had become standard instead, your basic set of 
+> non-syntonic commas would be quite different. If the practice of notating 
+> and differentiating syntonic commas in music had become standard, your set 
+> of other commas might have derived from equivalences in 22 or 34tET. You 
+> would have to argue that your set of commas comes solely from a 
+> consideration of the simplest small intervals in just intonation to justify 
+> this apparant reliance on 12tET equivalences.
+
+In a sense this is true, with reference to the 12v-7a I mentioned 
+earlier. But that is possibly a simpler comma than 19v-11a, 31v-18a, 
+22v-13a, etc. Maybe we should go for 7v-4a?
+
+The interesting question then becomes how do you build a general system, 
+let us say still on a 5 limit, without this one bit of 12 in it--a system 
+which is no more tied to anything than this one is? 
+
+> A final quibble: A positive tuning is customarily defined as one where g# is 
+> higher than a-flat, i.e., where the perfect fifth is larger than the 12tET 
+> fifth, not the just fifth as you state. Thus the sign of the pythagorean 
+> comma is the determining factor here, and so the customary definition would 
+> fit better into your own scheme.
+
+This isn't a quibble, it's an outright error. It has been pointed out
+before, and quite honestly I don't know how I let it get in there. Paul E.
+is correct. 
+
+> You illustration of 171tET notation is interesting. A simpler tuning that 
+> has consistent and unique representations through the 16th harmonic is 
+> 111tET. For example, the sequence 16:15,15:14,14:13,13:12,12:11,11:10 is 
+> represented by 10,11,12,13,14,15 steps in 111-tET
+
+This bears consideration, I believe.
+
+I am grateful to Paul Erlich for his thorough consideration of my 
+article. Put in his terms, I can see the bit of 12 behind some of my 
+proposals. They come from other considerations, mostly, which are not 
+12-related. In any case, the challenge is always there for someone to do 
+something better, or at least as thorough.
+
+==========================      =================================
+Dr. Paul Rapoport               e-mail:	rapoport@mcmaster.ca
+SADM (Music)	                   tel: (+1) 905 529 7070, ext. 2 4217
+McMaster University                fax: (+1) 905 527 6793
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 7 Aug 1996 22:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13095; Wed, 7 Aug 1996 22:03:53 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA13046
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA15861; Wed, 7 Aug 1996 13:04:40 -0700
+Date: Wed, 7 Aug 1996 13:04:40 -0700
+Message-Id: <2.2.32.19960807200319.0068b4b4@adnc.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

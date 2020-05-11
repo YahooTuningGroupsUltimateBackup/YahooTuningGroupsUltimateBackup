@@ -1,0 +1,102 @@
+source file: mills2.txt
+Date: Fri, 3 Jan 1997 09:35:32 -0800
+
+Subject: RE: Harmonics at other than integer frequency ratios.
+
+From: "Ashcraft AC (Clif)" <aaaabb1@peabody.sct.ucarb.com>
+
+------ extPart_000_01BBF96D.205F7960
+Content-Type: text/plain; charsets-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Thanks for the reference.  I believe that piano tuners "stretch their octaves" a bit to minimize beating caused by anharmony.  This has the effect of making the higher strings sound in tune with the upper partials of the lower strings.   Tuners don't tend to discuss stretching in these terms, but I think it is a large part of the basis for it.
+				Clif Ashcraft
+
+----------
+From: 	Manuel Op de Coul[SMTP:Manuel.Op.de.Coul@ezh.nl]
+Sent: 	Friday, January 03, 1997 9:24 AM
+To: 	aaaabb1@peabody.sct.ucarb.com
+Subject: 	Harmonics at other than integer frequency ratios.
+
+There is also an article that provides a quantitative analysis of the
+inharmonicity of piano strings:
+
+     AUTHOR: RASCH, Rudolf A.; HEETVELT, Vincent
+      TITLE: String inharmonicity and piano tuning.
+     SOURCE: Music perception, USA  Vol. III/2 (winter 1985) 171-89.
+   LANGUAGE: English.
+   DOC TYPE: ap -- Article in a periodical
+      CLASS: MUSIC AND RELATED DISCIPLINES - Physics, mathematics,
+             acoustics, architecture
+   ABSTRACT: Inharmonicity is a well-known property of stiff strings such
+             as those used in the modern piano. The inharmonicities
+             measured in a medium-sized grand piano are in excellent
+             correspondence with the predictions by formula from the
+             physical properties of the strings. Strings with higher
+             frequencies usually have higher inharmonicity than strings
+             with lower frequencies; this cancels out part of the effect
+             of inharmonicity on beat frequency.  (Authors, abridged)
+
+
+
+------ extPart_000_01BBF96D.205F7960
+Content-Type: application/ms-tnef
+Content-Transfer-Encoding: base64
+
+eJ8+IhERAQaQCAAEAAAAAAABAAEAAQeQBgAIAAAA5AQAAAAAAADoAAENgAQAAgAAAAIAAgABBJAG
+ADABAAABAAAADAAAAAMAADADAAAACwAPDgAAAAACAf8PAQAAAE0AAAAAAAAAgSsfpL6jEBmdbgDd
+AQ9UAgAAAAB0dW5pbmdAZWFydGhhLm1pbGxzLmVkdQBTTVRQAHR1bmluZ0BlYXJ0aGEubWlsbHMu
+ZWR1AAAAAB4AAjABAAAABQAAAFNNVFAAAAAAHgADMAEAAAAYAAAAdHVuaW5nQGVhcnRoYS5taWxs
+cy5lZHUAAwAVDAEAAAADAP4PBgAAAB4AATABAAAAGgAAACd0dW5pbmdAZWFydGhhLm1pbGxzLmVk
+dScAAAACAQswAQAAAB0AAABTTVRQOlRVTklOR0BFQVJUSEEuTUlMTFMuRURVAAAAAAMAADkAAAAA
+CwBAOgEAAAACAfYPAQAAAAQAAAAAAAADkToBCIAHABgAAABJUE0uTWljcm9zb2Z0IE1haWwuTm90
+ZQAxCAEEgAEANgAAAFJFOiBIYXJtb25pY3MgYXQgb3RoZXIgdGhhbiBpbnRlZ2VyIGZyZXF1ZW5j
+eSByYXRpb3MuAHcTAQWAAwAOAAAAzQcBAAMACwA4AA8ABQAvAQEggAMADgAAAM0HAQADAAsAHwA1
+AAUAPAEBCYABACEAAABDNERGRDEwMjQyNjVEMDExQkQ1QTAwODA1RjM2QTU1NQAHBwEDkAYAAAcA
+ABIAAAALACMAAAAAAAMAJgAAAAAACwApAAAAAAADADYAAAAAAEAAOQAAth9qn/m7AR4AcAABAAAA
+NgAAAFJFOiBIYXJtb25pY3MgYXQgb3RoZXIgdGhhbiBpbnRlZ2VyIGZyZXF1ZW5jeSByYXRpb3Mu
+AAAAAgFxAAEAAAAWAAAAAbv5n2ofAtHfyGVCEdC9WgCAXzalVQAAHgAeDAEAAAADAAAATVMAAB4A
+HwwBAAAAFQAAAFVDQy9CQktOSjAxL0FTSENSQUFDAAAAAAMABhAtrUpUAwAHEKMEAAAeAAgQAQAA
+AGUAAABUSEFOS1NGT1JUSEVSRUZFUkVOQ0VJQkVMSUVWRVRIQVRQSUFOT1RVTkVSUyJTVFJFVENI
+VEhFSVJPQ1RBVkVTIkFCSVRUT01JTklNSVpFQkVBVElOR0NBVVNFREJZQU5IQVJNAAAAAAIBCRAB
+AAAAZgUAAGIFAAB1CQAATFpGdaqqdET/AAoBDwIVAqgF6wKDAFAC8gkCAGNoCsBzZXQyNwYABsMC
+gzIDxQIAcHJCcRHic3RlbQKDMzcC5AcTAoM0EswP32Y1exLMFMg2A0UTNBFfAoB9FwqACM8J2Tsb
+7zI1NQ8CgAqBDbELYG5nMTBeMxRQCwoUUQvyYwBAIHJUEYBuawQgAhAFwHRoaGUgG/BmBJAJ8GMA
+ZS4gIEkgYmVabAiQdiGgIYBhBUBwyQcwbm8hcHVuBJAEILYiE8Ab8HQaACFyaQXADG9jAZAi8HMi
+IGHVIpBpBUB0I7BtC4AHcDxpeiGgIqAjQAuAZyCoY2F1EbBkIpB5JbDmbhGBBGBueSJRINAEAH4g
+EYAEICGCDcEFkAVAb3JmJkBhayciIYIo0GdfIZAFwCRRJyEEIHMIYG53J7ALgCPDIAPwIYAhc3X8
+cHArIQqxJxAHQAQgKgF7IYIbgHcrKCJRIMAj5GS9AiAnJgEJ8CewJiFkBAD+YyeAK7EkZCciLDIh
+kBGw0zBxKEBzLCKQdQVAIoD7IYALgGssIAVAKOElwAtg3HJnIaAtoi4mYikgKOG7IUIl8C4KhgGR
+Ns5DIsDRKhBBc2gFAGEBgAqFIwqLIsAxODAC0WkteDE0NA3wDNA6wwtZMdsZABNQbxPQKdEtPOcK
+h9c7mwwwPGZGA2E6Pe48Zp02000AcApQAyBPcDAQAyGgCFFsW1NNVFCqOkGkLkIQLg2wLkJyAEBl
+emgubmxdfz2PPp0GYAIwP89A2z+AaehkYXkzEEpBsQrAJ+ADHyAzEDE5OTcgOWg6MjQUsE1Erz6d
+VBZvRu9A22FOwWJiMX5ALWABoARwKIAE8DZAddEnYHJiLgWgbUrPRb64dWJqKcFM70DbSCgz/Glj
+NDEp4SGBIWIDkQuAzxPQNKAFwANQZXEKUCIgdyfgOKAnEG8vYDjvOfMz/jY7ZyAlTEcrESGgNCIu
+AGcjsAORLbJjbCMGA2B2/0jgB5ElwFcQAHAnEAGQJxD/IvEAcAdAE7Ao4S40CoULgH8oJFVAJfAn
+4CoBI3QrVToDV/xic0FVVEhPUkFTAFJBU0NIMxBSSnUwIGw4QS47VNBFQEVUVkVMVDMQVh8LgCIw
+AjBiGiDASVRM+kVTAFMrY1+tAHAnsCN3BychNlZic1NPVVJD/WaRTSeAVUAjYASQIjAFMEVXsG4z
+EFVTQSJgVqsG8CJQSWwgLxHgKAPwR1ZxBcBKADg1KUnwNxAxLTg5aRlMQU7QR1VBR2aRRR7wIsAj
+OHBpGURPQyDAWVD9ZpFhQiA84BSxXCQsMSXAry1hV7AxACdgbGWLQ25wbFNTakFrgElwUG6ARCMH
+8GTAQVRFdGBESYFjcElQTElORQXw+XEQUGhekVVQMxAAwCGB/3ZxdiJli2XlANAIYBPAdiM/CsAx
+0TySCHBfNmKiQlPSVGNQQ1RTAElfyzQjoS7AbGwtayOgdwOgfzxhLWFgZHixDdArSFAAaP93P3hC
+KTJXwC0hJ5IyNCZAvwR0I3MiUFrxX6sIkHN+7/8vgQeAKSB5sSwTJcAHgDEA+HVtLQCQJrAnsAnA
+aBjzCsBxk2V4IjB8cGVeZeXzBaEb8HNwAiANsCIhLKh/E1CFsSVAazEEICfRIUFt30KQJcADUl8J
+d5twdfMHQP989oNRLiYvB2bEBCAssyrk/4zvL4FW5o8iJ4BJcHxwJ+D/EYAi8SrlX7xWEytVkZ8v
+gf8ssy6kktlkUDORBCAnYCIh/y4CM0E02imUln8vgSoBX73PA6Am4lbYIlEoQTNAgGCbEaB5AWJI
+0TSgZClX/F9Yb1l/PHUKhRsRAKRAAAADABAQAAAAAAMAERAAAAAAQAAHMMCBTwKc+bsBQAAIMMCB
+TwKc+bsBHgA9AAEAAAAFAAAAUkU6IAAAAAD2LA
+------ extPart_000_01BBF96D.205F7960--
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 3 Jan 1997 18:45 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00557; Fri, 3 Jan 1997 18:48:45 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00555
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA27733; Fri, 3 Jan 1997 09:48:42 -0800
+Date: Fri, 3 Jan 1997 09:48:42 -0800
+Message-Id: <199701031245_MC1-E1E-339D@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

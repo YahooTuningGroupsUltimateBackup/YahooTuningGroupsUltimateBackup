@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Thu, 26 Oct 1995 10:18:49 -0700
+
+Subject: Microtonal font
+
+From: Paul Rapoport <rapoport@mcmail.cis.mcmaster.ca>
+
+As an addendum to my previous: I believe that you do not need the newest 
+Finale to add microtonal symbols. But whether they have the same effect 
+in the various versions or are used in the same way, I do not know. Does 
+anyone?
+
+My use of such symbols in Finale is limited so far to version 
+2.something, plugging them into the miserly 8 slots available for add-on 
+accidentals. I will check this before releasing the font. Sed tempus 
+breve (vita brevis, etc.).
+
+==========================      =================================
+Dr. Paul Rapoport               e-mail:	rapoport@mcmaster.ca
+SADM		                   tel: 905 529 7070, ext. 2 4217
+McMaster University                fax: 905 527 6793
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 26 Oct 1995 20:23 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA29522; Thu, 26 Oct 1995 11:23:03 -0700
+Date: Thu, 26 Oct 1995 11:23:03 -0700
+Message-Id: <9510261802.AA03710@us2rmc.zko.dec.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

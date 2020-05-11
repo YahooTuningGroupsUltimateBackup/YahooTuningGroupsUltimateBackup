@@ -1,0 +1,26 @@
+source file: mills2.txt
+Date: Fri, 3 Jan 1997 07:05:37 -0800
+
+Subject: Harmonics at other than integer frequency ratios.
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> I am pleased to read that others are at last contemplating that
+> "harmonics" could be mapped at other ratios.
+> Now let's have some viable mathematical models!
+
+   Bill Sethares has been studying that question in great detail, and
+certainly has a very powerful mathematical model.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 3 Jan 1997 16:21 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00447; Fri, 3 Jan 1997 16:24:29 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00445
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA23588; Fri, 3 Jan 1997 07:24:26 -0800
+Date: Fri, 3 Jan 1997 07:24:26 -0800
+Message-Id: <009ADD1A3582E520.045B@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,54 @@
+source file: m1399.txt
+Date: Tue, 28 Apr 1998 15:54:18 -0400
+
+Subject: RE: JI Tuning Resolution
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Here's something I posted on New Year's Eve. The people advocating
+really exact JI really need to think about this:
+
+For an interval in perfect just intontation, whatever phase difference
+was present at the beginning of the sound would persist for the duration
+of the sound. Let's say two instruments are producing tones, both of
+which have an equally loud partial at 1000Hz. For someone standing in a
+particular location with respect to the two instruments, there is some
+delay time between the beginning times of the two instruments for which
+the 1000Hz components will interefere constructively, resulting in four
+times the energy at that frequency than what one instrument alone would
+produce. For a delay time just 1/2000 of a second longer, you get
+destructive interference, or no energy at that frequency. Obviously no
+human instrumentalist can control their onset time to within 1/2000 of a
+second relative to the onset time of another instrument. So you end up
+with a random number between zero and four to describe the energy of the
+1000Hz component -- probably not the musical effect you were looking
+for. Even an individual performer playing both instruments can't do it
+-- try tuning two synth keys to the same note and notice how repeatedly
+playing both keys "simultaneously" leads to random fluctuations in the
+loudness.
+
+Now if the onset times are controlled really accurately by MIDI, and
+let's say a 90-degree phase shift is chosen so that the energy at 1000Hz
+is twice that from one instrument, then you're doing okay, right? But
+for someone standing in a different location in the room, though, the
+differece in the path lengths from the two instruments, and thus the
+phase, will be different. There are nodes of destructive interference
+and antinodes of constructive interference in the room no matter what
+the original phase shift was. So some members of the audience may be
+receiving no energy at 1000Hz, while others may be receiving four times
+what they would from one instrument. Again, probably not the effect you
+were looking for.
+
+If both instruments are electronic, and their signals are mixed into one
+speaker, there will be no spatial nodes or antinodes. So finally you can
+control the musical effect. But other than monophonic electronic
+MIDI-sequenced music, perfect JI can lead to big problems. In the real
+world, thankfully, acoustic instruments are slightly out-of-tune with
+each other, so that whatever the onset delay and whatever the position
+in the room, one gets a signal that frequencies common to both tones
+have an average energy twice that of one instrument. There will not be
+noticeable, let alone startling, differences in the musical effect
+depending on minute variations in the onset delay or position in the
+room.
+
+>

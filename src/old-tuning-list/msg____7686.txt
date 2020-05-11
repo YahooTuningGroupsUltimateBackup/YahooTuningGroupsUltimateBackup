@@ -1,0 +1,48 @@
+source file: m1408.txt
+Date: Thu, 7 May 1998 18:13 +0100 (BST)
+
+Subject: Reply to Paul Erlich
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+> I maintain that any systematic inharmonicity in brass instruments, which
+> is either nonexistent or extremely small, has little or nothing to do
+> with the failure of the resonant modes of the instrument to form an
+> exact harmonic series.
+
+Now you're getting suitably equivocal.  Before you were saying that no
+inharmonicity could possibly occur, which places too much faith in the
+simplified models.  Ideally, we should develop more complicated models to
+give a quantitative estimate of the (upper limit of the) inharmonicity.
+
+Inharmonicity will cause problems with JI whether or not it's systematic.
+
+Any noise in the input will cause peaks at the resonant modes.  The result
+will be inharmonicity.  The level of that inharmonicity can be estimated
+from the noise level of the input.  I don't know of a good model of the
+human embouchure (that's the word, isn't it?) although there may be one
+that is too complicated to escape from the academic literature.
+
+If the overtones are not centered at the resonant peaks, the amplitude of
+each overtone on output will depend on it's pitch.  That means, where
+vibrato is present, the corrected waveform will not be perfectly periodic.
+ This will probably show up as a subharmonic of the heterodyned overtone.
+ Whatever, it isn't important for tuning as the effect will be swamped by
+the vibrato itself.
+
+I've had a look at some books on this today.  The pitch from the
+embouchure is determined by the mode of resonance, but overtones can still
+arise.  Also, the nature of the mouthpiece is such that noise may not
+propagate to the conical bit.  Another thing is that it is not only brass
+instruments that have conical tubes.  Examples of recorded resonances were
+given for a range of wind instruments, and they're all significantly off
+from the integer ratios.  This means that the flute, where the initial
+sound is not periodic, should show the most inharmonicity.  Fortunately,
+this is one case where experiment agrees with theory, at least on the
+basis of the one flute sample analysed and explained here recently.  I
+couldn't find any discussion in books of the inharmonicity of the sound of
+any instruments.
+
+The resonances of flutes were also given relative to 12-equal.  They were
+up to 20 cents out!  It's only the flautist's skill that adjusts them to
+the desired scale.

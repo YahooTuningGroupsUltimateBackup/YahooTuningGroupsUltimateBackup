@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Fri, 2 Feb 1996 07:45:04 -0800
+
+Subject: melodic modes in 19 & 17
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Brian writes:
+
+> Jeff Stayton's guitar accompaniment used an entirely different mode:
+> (Descending)
+> LsmssmsL  where L = 3 scale-steps in 19
+>                              s = 1 scale-step in 19
+>                              m = 2 scale-steps in 19
+> I.e., 
+> 4  20=1  19  17  16  15 13  12  9
+> 		(scale degrees played: numbered
+>                      from 1 to 19, with 20 = 1)
+> Stayton varied his mode by substituting 2 single scale-steps for a 
+> 2-degree "m" step: thus he might play
+> LsssssmsL instead of LsmssmsL, for example.
+
+Something is wrong with this passage, the steps do not add up to
+19, but 14.
+
+This must be a typo:
+> 1  6  4  1  5  (ascending: intervals in 
+>                       number of 19-tone scale-steps)
+                                  ^ 17
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 2 Feb 1996 18:58 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA15621; Fri, 2 Feb 1996 09:57:52 -0800
+Date: Fri, 2 Feb 1996 09:57:52 -0800
+Message-Id:  <9602020951.aa08673@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

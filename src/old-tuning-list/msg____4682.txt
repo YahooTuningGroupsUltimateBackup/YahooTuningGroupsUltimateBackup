@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Fri, 24 Jan 1997 08:26:30 -0800
+
+Subject: RE: Software
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Murat,
+
+Some but not all soundcards (I have heard the Turtle Beach Tropez
+does) support the MIDI Tuning Standard. In that case Scala will tune 
+it. In the other case it's not straightforward and you may have to use 
+pitch bend commands somehow. The EXAMPLE command in Scala only allows
+you to do rudimentary things. Otherwise, calculate the pitch bend
+values with Scala and insert them in a sequencer for the different
+channels that are needed. 
+There is no Win3.1X version so you will have to switch back and forth
+to DOS with the MIDI-files as intermediary. Perhaps I'll get to giving
+it a graphical user-interface in the future but until now I wanted to 
+concentrate on functionality.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 25 Jan 1997 11:01 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14755; Sat, 25 Jan 1997 11:01:40 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA14861
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id CAA25916; Sat, 25 Jan 1997 02:01:35 -0800
+Date: Sat, 25 Jan 1997 02:01:35 -0800
+Message-Id: <Pine.SUN.3.95.970124210308.7082A-100000@styx.ios.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,141 @@
+source file: mills2.txt
+Date: Fri, 3 Nov 1995 09:00:50 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+>From : mclaren
+Subject: Larry Polansky & adaptive tuning
+---
+Long ago in a galaxy far away, Larry Polansky
+wrote an article entitled "Paratactical tuning."
+In it he posited a  system of dynamic tuning which
+adaptively changes the size of interval classes
+depending on musical context.
+While in one sense this is a sophisticated
+software method for facilitating modulation
+in JI (similar to such arrangements as
+Harold Waage's logic-gate just intonation system
+which detected fingering patterns and retuned
+intervals so as to produce maximally beatless
+chords regardless of key)...in another sense
+Larry was getting at something much deeper.
+Paratactical tuning is far more than mere dynamic
+retuning to produce the "best" chords according
+to the location of the current 1/1.  Because Larry P.
+leaves it pretty much open-ended as to what
+the criteria are. They could be "which 1/1 are we
+on?" but they could easily be something else.  Once
+it's all in software, the rule-set that determines
+how JI intervals shift can respond to a lot more than
+local key center...for instance, the software could
+respond to the player's dynamics, or the shape of
+the melody line, or the nature of the harmonies
+being played.  More: Larry suggests that the
+criteria for the rule-set geoverning the adaptive
+tuning might be open-ended as well--possibly even
+dynamic.  
+One could imagine, for instance, an adaptive 
+tuning which morphs JI intervals from "plaintive"
+to "luminous" or from "tense" to "resolute." (As
+William Schottstaedt has so dextrously done
+in an intuitive fashion in the fourth movement
+of his composition "Water Music," albeit in
+that case moving from 13-TET to Pythagorean.
+If you haven't heard this composition, you're
+missing a truly spectacular piece of music.)
+As a first advance, this leads directly to
+a systematization of Lou Harrison's "free style"
+of composition, in which successive intervals
+are tuned not with reference to a fixed 1/1, but
+with respect to the previous note.  Clearly such a
+practice produces a much more complex system of 
+just tonality--but, as Boomsliter and Creel pointed 
+out, this might also more closely mirror the way
+the average person hears music.  Our hearing appears
+to be relative rather than centered on an absolute
+1/1 (except for those rare listeners with absolute
+pitch), if the psychoacoustic evidence is to be
+credited.
+However, Larry's idea of adaptive tuning goes
+much further than simply the B&C idea of the
+"the long pattern hypothesis."   While useful,
+B&C's concept of melodic sections moving between
+separate and distinct 1/1s is in itself limiting
+because it posits simplistic patterns of linear
+movement twixt striaghtforward JI melodic
+contours, overtone structures, etc.
+When combined with the concept of morphological
+metrics, Larry Polansky's paratactical (or adaptive) 
+tuning really begins to open a *lot* of new doors. 
+For instance, changing one morphological metric
+into another introduces (on the level of the melodic
+phrase) a complex set of requirements between
+vertical and horizontal interval-relations.  As
+Larry so insightfully realized, this is an ideal
+case for adpative tuning: and with sufficiently
+complex software, paratactical tuning does 
+indeed seem the ideal solution to this ever-present
+tension twixt vertical and horizontal relationships
+in the context of changing from one vertical or
+horizontal morph to another.
+But when you throw in the concept of changing
+from one *timbral* morphological metric to another
+at the same time....!  Then, adaptive tuning--in
+this case extended downward into the micro-level
+of the individual overtone--is the *only* practical
+solution to the complexities introduced.  Because
+of the extraordinary explosion of interactions
+between timbre, vertical and sequential structure
+in tihs case, a set of adaptively tuned overtones
+offers by far the simplest solution. (Jean-Claude
+Risset and John Chowning and Bill Sethares and
+James Dashow have produced some compositions
+which use elements of this technique: the pieces
+are astonishingly beautiful, yet only a preliminary
+step toward the total integration of timbre with
+harmony.  Because of the incredibly cumbersome nature 
+of "doing it all by hand" in Csound, further advances
+along this line seem likely to be made only with
+the aid of some sort of automated morphological
+metric software.) 
+However, there's even more to Larry's idea than this.
+At the highest level, adaptive tuning can be 
+thought of a way to generate a single "composite"
+instrument from a number of subinstruments. If
+you think of each dynamically-retuned section 
+of the score as a specific subinstrument, the real
+depth of Larry's idea becomes clear.  In order to
+wander over the entire solution space  you'd need
+huge numbers of actual physical instruments--not
+a reasonable solution.  Thus Larry substitutes *virtual*
+instruments.   And adaptive tuning shows its true
+power by effect switching betwen those virtual
+instruments instantaneously: the net result is
+infinitely more efficient & flexible than either the 
+Partch solution of limiting the composition to a 
+single key, or  the Harrison solution of requiring the
+performer to be painstakingly exact in moving from one
+just ratio to another as well as keep in hi/r head
+where the melody has been and where it's going
+to (in terms of moving 1/1s).
+Larry has written a composition that puts some of
+these ideas into practice.  Due to be premiered
+in Japan, it looks to this old score-reader like  
+another remarkably beautiful JI composition, yet
+(as mentioned) it's more than that...  Larry's 
+upcoming piece promises to significantly
+advance the state of the microtonal art.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 3 Nov 1995 19:14 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA00103; Fri, 3 Nov 1995 09:14:02 -0800
+Date: Fri, 3 Nov 1995 09:14:02 -0800
+Message-Id: <Pine.SUN.3.91.951103090144.11512C-100000@garcia.efn.org>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

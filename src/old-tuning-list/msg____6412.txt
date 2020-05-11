@@ -1,0 +1,54 @@
+source file: mills3.txt
+Date: 	Wed, 12 Nov 1997 10:47:07 +0100
+
+Subject: RE: Bucking the system
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>>------------------------------------------------------------------------
+>>|    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+>>|   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW
+>>|   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW
+>>|   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW
+>>|   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW
+>>|   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW
+>>|   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW
+>>|   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW  WWW  WWW  WWW   |   WWW  WWW
+>>|    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+>>------------------------------------------------------------------------
+>>where the blocks of Ws are solid panels. I was startled to discover this
+>>perfect keyboard layout (for 22-tone equal temperament as described my paper)
+>>on a late-night bike ride.
+
+   Do the white keys in this keyboard layout form an MOS subset mode?
+Perhaps I'm not trying hard enough, but if so, I can't right off think of
+any generators that would produce a 222221222221 mode.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  RE: Bucking the system
+PostedDate:  14-11-97 13:31:34
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  14-11-97 13:30:23-14-11-97 13:30:23,14-11-97 13:30:36-14-11-97 13:30:37
+DeliveredDate:  14-11-97 13:30:37
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125654F.0044AE8C; Fri, 14 Nov 1997 13:30:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01710; Fri, 14 Nov 1997 13:31:34 +0100
+Date: Fri, 14 Nov 1997 13:31:34 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01708
+Received: (qmail 17353 invoked from network); 12 Nov 1997 06:57:13 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Nov 1997 06:57:13 -0800
+Message-Id: <v01541100b08efdb22563@[207.207.2.110]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

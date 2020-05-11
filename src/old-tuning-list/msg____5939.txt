@@ -1,0 +1,97 @@
+source file: mills3.txt
+Date: Thu, 7 Aug 1997 21:59:32 +0200
+
+Subject: RE: notation
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+19-ET and 31-ET, being meantone tunings, use standard notation, where
+the letters express the position on the circle of fifths mod 7, and the
+sharps and flats correspond to shifts of 7 fifths. The five-line staff
+predates 12-ET, which is only one possible meantone tuning. Here is the
+standard notation for 19-ET:
+
+0	C
+1	C#
+2	Db
+3	D
+4	D#
+5	Eb
+6	E
+7	E#/Fb
+8	F
+9	F#
+10	Gb
+11	G
+12	G#
+13	Ab
+14	A
+15	A#
+16	Bb
+17	B
+18	B#/cb
+19	c
+
+And for 31-ET:
+
+0	C
+1	Dbb (or C 1/2#)
+2	C#
+3	Db
+4	C## (or D1/2b)
+5	D
+6	Ebb (or D 1/2#)
+7	D#
+8	Eb
+9	D## (or E1/2b)
+10	E
+11	Fb (or E 1/2#)
+12	E# (or F 1/2b)
+13	F
+14	Gbb (or F 1/2#)
+15	F#
+16	Gb
+17	F## (or G 1/2b)
+18	G
+19	Abb (or G 1/2#)
+20	G#
+21	Ab
+22	G## (or A 1/2b)
+23	A
+24	Bbb (or A 1/2#)
+25	A#
+26	Bb
+27	A## (or B 1/2b)
+28	B
+29	Cb (or B 1/2#)
+30	B# (or c 1/2b)
+31	c
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  lucy@ilhawaii.net
+Subject:  Notation for 19 and 31tET proposals
+PostedDate:  08-08-97 03:48:28
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  08-08-97 03:48:26-08-08-97 03:48:26,08-08-97 03:46:55-08-08-97 03:46:56
+DeliveredDate:  08-08-97 03:46:56
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564ED.0009EC7E; Fri, 8 Aug 1997 03:48:23 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05841; Fri, 8 Aug 1997 03:48:28 +0200
+Date: Fri, 8 Aug 1997 03:48:28 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05839
+Received: (qmail 25524 invoked from network); 8 Aug 1997 01:48:09 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Aug 1997 01:48:09 -0000
+Message-Id: <Pine.BSI.3.91.970807153657.6033A-100000@lehua.ilhawaii.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

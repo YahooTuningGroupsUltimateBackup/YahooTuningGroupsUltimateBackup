@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Mon, 29 Jul 1996 09:24:20 -0700
+
+Subject: RE: TUNING digest 791
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Marion wrote:
+
+>Manuel Says:
+
+>>The generating function is....
+
+>It seems to me that for any finite number of integers, there are an 
+infinity
+>of generating functions.
+
+>The one mentioned here is probably elegant, but I see no way to prove it
+>is the most elegant.
+
+>Marion
+
+Manuel's series are in fact infinite. You don't stop at 100tet, or 1200tet, 
+or 30103tet; you keep going forever. Therefore the number of generating 
+functions need not be infinite.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 29 Jul 1996 18:26 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA27768; Mon, 29 Jul 1996 09:26:28 -0700
+Date: Mon, 29 Jul 1996 09:26:28 -0700
+Message-Id: <43960729161934/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

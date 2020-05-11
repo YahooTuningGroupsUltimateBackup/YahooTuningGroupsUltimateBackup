@@ -1,0 +1,43 @@
+source file: m1554.txt
+Date: Fri, 16 Oct 1998 10:45:16 -0500 (CDT)
+
+Subject: Re: A meantone tuning with six 7-limit tetrads
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 16 Oct 1998, Dave Keenan wrote:
+> Hi, I'm new to this list. Greetings from Brisbane, Australia.
+
+Welcome.
+
+> Has anyone seen the following tuning before?
+> [snip]
+> 
+> C  Db D  D# E  F  F# G  Ab A  A# B  C
+>   3  2  2  3  3  2  3  3  2  2  3  3   (number of 31-TET steps between notes)
+
+I've been working with various 9-out-of-31 scales lately.  One of the
+most interesting is
+
+3-4-3-3-5-3-4-3-3
+
+which is a subset of Dave's scale.  It has 22 7-limit intervals (the
+maximum possible with 9-out-of-31) and 3 complete tetrads.  If you
+invert the lower pentachord, giving
+
+3-3-4-3-5-3-4-3-3
+
+, the result has only 21 7-limit intervals but 4 complete tetrads, the
+maximum possible with 9-out-of-31 and the only way to do so.  (By
+contrast, several 9-out-of-31 scales have 22 7-limit intervals, such as
+
+3-5-2-5-3-3-4-3-3
+
+, which I posted here some weeks ago.)
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Foul?  What the hell for?"
+  -\-\-- o   "Because you are chalking your cue with the 3-ball."
+
+             NOTE: dehyphenate node to remove spamblock.          <*>

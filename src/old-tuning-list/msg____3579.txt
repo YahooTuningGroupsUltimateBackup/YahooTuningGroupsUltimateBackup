@@ -1,0 +1,47 @@
+source file: mills2.txt
+Date: Mon, 9 Sep 1996 09:52:34 -0700
+
+Subject: Re: More on minor 7ths
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Harold Fortunin suggests:
+> Do NOT substitute the 7:4 over V for the diatonic scale degree 4--for melodic
+> purposes, use 4:3, and for dominant seventh chords, use 7:4 over V. This
+> practice will not bother anyone who makes use of the dominant seventh chord in
+> the minor scale.
+
+   As with your other suggestions, this strikes me as definitely reasonable.
+This of course raises some interesting wandering-tonic questions in the case of
+common (i.e., held) scale degree 4 between IV and V7 in a typical I-IV-V7-I
+progression.  Retaining scale degree 4 as a common tone in that progression, if
+I recall correctly off the cuff, causes the ending tonic to be 36:35 above the
+beginning tonic.  
+
+   On a related side note, in a recent e-mail conversation with Bill Sethares,
+he told me about the work he's done with generalizing his tuning-timbre
+interaction discoveries to include dynamically-changing tuning.  Or to state it
+another way, he's devised algorithms for generalizing the dynamic JI task to
+other tuning-timbre combinations.  That strikes me as having very exciting
+possibilities, but I'd probably better not say much more just in case Bill wants
+to keep it quiet until he publishes his results.  
+
+   But anyway, in that conversation, I noticed a difference in attitude toward
+wandering tonics.  He viewed them, in essence, as a problem to be dealt with.
+By no means do I view that as an inappropriate opinion, but my opinion is
+exactly the reverse;  I think that wandering tonics have a very fascinating
+musical effect.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 9 Sep 1996 18:58 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA32254; Mon, 9 Sep 1996 19:00:26 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA32317
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA06299; Mon, 9 Sep 1996 10:00:24 -0700
+Date: Mon, 9 Sep 1996 10:00:24 -0700
+Message-Id: <73960909165837/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

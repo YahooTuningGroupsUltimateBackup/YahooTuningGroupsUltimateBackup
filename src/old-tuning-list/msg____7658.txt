@@ -1,0 +1,67 @@
+source file: m1405.txt
+Date: Mon, 4 May 1998 16:52:24 -0400
+
+Subject: RE: Open letter to Ken Wauchope and Dave Hill
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Ken wrote,
+
+>Another example is the pair of neighbors 24/13 - 13/7, which I heard
+>as respectively "medium" - "easy" despite 24 being just an even
+>multiple of 3.  So I would go a step beyond odd/prime and allow as how
+>evenness can't be ignored in this either -- it all just seems to boil
+>down to how many partials are involved and how faint and far out in the
+>spectrum they are.
+
+I have to agree. The "integer-limit" seems an even better
+characterization of harmonic fusion. However, given the pervasiveness of
+octave equivalence on the level of musical composition, the
+considerations that go into designing a tuning system should typically
+consider all inversions and extensions of an interval to be an
+equivalence class. Thus the odd-limit concept gains its practical
+relevance.
+
+But see the "BUT" below.
+
+Gary wrote,
+
+>I personally am pretty much a fence-sitter on the prime vs. odd
+>question, but perhaps it's worth asking:  Do you perceive that there's any
+>mechanism in our auditory system for detecting powers of two (i.e.,
+>octaves)?  If so, then why not powers of three or five?
+
+There does seem to be a brain-based mechanism for detecting powers of
+two, even in some animals exposed to pure sine waves. It may be that as
+a way of efficiently processing auditory information, the factor of two
+was chosen by evolution as a period of repetition; that way, (a) the
+redundant information contained in the 2nd, 4th, 8th, etc. partials need
+not confuse the system; and (b) the pitch space is reduced from some 10
+octaves down to one octave, feasible since any particular stimulus
+(especially a given human voice) tends to stay within a one-octave range
+anyway.
+
+BUT, I read that the cochlea actually winds around once per octave. If
+there is any cross-stimulation between one turn of the cochlea and
+adjacent ones, then there is a mechanism for at least some degree of
+octave equivalence even on the level of the auditory stimulus, which
+would of course affect harmonic fusion as well as pitch recognition. If
+such a phenomenon exists, then there is no reason to postulate a
+brain-based mechanism for recognizing powers of two.
+
+Ken wrote,
+
+>However this was a very narrowly defined exercise concentrating only
+>on beating, roughness and harmonic fusion, without addressing any
+>other aspects of interval recognition, such as whether it's easier to
+>tune a 15/8 than a 13/7 based on affect, and if so, why.  On the prime/odd 
+>controversy, I'm still an agnostic.  I've certainly noticed how 7, 11 and
+>13 sound exotic to me and 9 and 15 sound familiar, but just why that is,
+>I haven't decided.
+
+Fair enough. I attribute this familiarity to the diatonic grammar with
+which we were brought up. This grammar is very powerful and has some
+amazing properties, as I point out in my paper. The psychological effect
+of these properties is profound. 7 and 11 are usually not understandable
+in terms of this grammar and so sound exotic, regardless of the degree
+of harmonic fusion of these intervals.

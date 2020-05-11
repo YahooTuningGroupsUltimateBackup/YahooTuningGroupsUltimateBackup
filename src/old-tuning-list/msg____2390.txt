@@ -1,0 +1,307 @@
+source file: mills2.txt
+Date: Mon, 18 Dec 1995 18:19:28 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: transcendental numbers, the entropy
+ of musical scales, and Shannon's theorems
+ applied to tunings
+---
+Some time ago, Gary Morrison very unjustly
+impugned his own mathematical abilities (which
+are considerable) in the process of asking the
+question: What is a transcendental number?
+Looking back at my previous posts on the subject,
+the source of the confusion is easy to spot. 
+My statement: "In general, it is extremely 
+difficult to determine whether a given number
+is transcendental or not" could be interpreted
+in several ways.
+One could take the statement to mean that
+the Turing halting problem for a general
+algorithm that sieves the field of reals
+and always produces all transcendental
+numbers has not yet been solved.  
+Or one could take the statement to mean:
+"It's impossible to define the term 
+'transcendental number.'"  This is surely
+untrue.
+There are many ways to define a
+transcendental number.  One way is:
+a transcendental number is the solution
+of a transcendental equation--that is,
+an equation involving logarithms or
+antilogarithms.
+This is not always true, since the equation
+e^[i*pi] + X = 0  has the solution 1.  However,
+perhaps one could say that a transcendental
+number is one which arises *only* as the
+solution of an equation involving logarithms
+or antilogarithms.  (Manuel and John Fitch may
+jump on me for this one; it may not be 100%
+true all the time.  Can you think of a counter-
+example?)
+Another way of defining a transcendental number
+is: It's a number which is not the solution of an
+ordinal arithmetic equation or an algebraic
+equation with rational-fraction coefficients and
+exponents and a finite number of terms.
+Algebraic and arithmetic equations can, of course,
+also involve an infinite number of terms: pi and e
+both arise as a result of many different infinite
+series, the most spectacular of which were 
+discovered by Srinivasas Ramanujan.  
+Pi and e also arise from equations involving
+logarithms and antilogarithms: X^[i*pi] + 1 = 0
+defines e, while e^[i*X] + 1 = 0 defines pi.
+This latter definition is close to Grolier's,
+although strictly speaking Grolier's definition
+is incorrect since it appears to leave out the
+requirement that a transcendental number
+cannot be the solution of an arithmetic or
+algebraic equation with a *finite* number of
+terms.  (Many of Ramanujan's series involve
+algebraic products & quotients but an infinite 
+number of terms.)
+Transcendental numbers also tend to arise when
+the exponents of an algebraic equation are
+imaginary. 
+Another way of defining a transcendental number
+is by the amount of information required to 
+describe it.  How complex an algorithm is
+needed to generate the number?  How long does
+it take to run?
+Claude Shannon proved elegantly that the amount
+of information required to generate (or parse) a
+message is proportional to the log to the base 2
+of the number of bits in the message.  By this
+standard, an integer requires very little
+information to parse (or generate).  Even if very
+long, any finite integer can be entirely written
+down.  Once the last digit is written, your're
+finished. A simple "copy this array" algorithm
+suffices. 
+A rational fraction requires somewhat more
+information to parse (or generate).  However,
+the algorithm required to describe the digits 
+in the number 1/9 (for example) is still simple:
+"Keep writing ones."  I.e., 1/9 = .11111...
+The information contained in an algebraic
+irrational is somewhat greater.  (There are
+two kinds of irrational reals: algebraic
+irrationals and transcendental irrationals.
+Algebraic irrationals are those numbers which
+arise as real roots of equations involving rational 
+coefficients and rational exponents.
+Transcendental irrationals arise when the
+algebraic exponent, for example, is itself
+an algebraic irrational--as in Hilbert's number,
+2^[sqrt(2)]. )
+In the case of an algebraic irrational, the algorithm
+required to generate the number is lengthier
+than that required to generate the decimal
+expansion of a rational fraction--thus the
+algebraic irrational contains more information
+than does a finite rational fraction.
+However, transcendental numbers appear to
+require the most information of all.  To my
+knowledge, there is as yet no known algorithm
+by which the entire field of reals may be sieved 
+and by which all transcendental numbers will
+always be found.  Yet, since we live in a Goedelian
+universe,  such an algorithm might well exist--
+and worse still, it might be very simple.
+Another way of stating this proposition is that
+the simplest description of a transcendental
+number appears to be...itself.  If true, this
+ makes transcendental number unique.
+It has been speculated that the digits in the
+decimal expansion of transcendental numbers
+never repeat.  One subscriber has even stated as
+much on this forum.  However, this proposition
+has never been proven mathematically.  (Most
+mathematicians believe this supposition to be
+true, but belief is *not* the same thing as proof.)
+Thus it is not yet known how random the digits of (say)
+pi or e really are.  Many functions, graphs and plots
+seem random from one perspective, but when rotated
+they reveal hidden patterns.  The same might be
+true of pi or e.  So it's entirely conceivable that
+out beyond a googol decimal places, all the
+digits of pi might turn to 1's, for example.
+A disturbing thought...yet one which cannot be
+dismissed until a proof of the true randomness 
+of pi's digits is found.
+In view of this possibility, the randomness of
+a transcendental number's digits cannot be
+defined. If an infinite number of pi's digits
+are, say, 1, or 3, or 9, or what-have-you, after
+a given point, then clearly the number is hardly
+random at all.
+However, in order to determine this by brute
+force we would have to calculate an *infinite*
+number of digits in pi's decimal expansion. 
+For no matter how far we go, there's always
+the possibility that at the next digit, the 
+digits fall into a predictable and eternally
+repeating pattern.
+Thus the devilish undecidability in so many
+cases of the question: "Is a given number
+transcendental?"
+For example: the number 1 + a googol zeroes
++ 1 + an infinite number of zeroes might be
+transcendental.  
+Is it?  
+I don't know.  You don't know.  It's impossible 
+to calculate. No proof exists that this number is
+transcendental (or not transcendental).  
+Thus we will likely never know.
+Mathematicians widely believe the digits
+in pi to be completely random.  If so, this
+provides another way of defining transcendental
+numbers: by the power spectral density of
+their decimal expansion.
+By taking the Fourier transform of a number's
+decimal expansion, its spectrum can be
+determined.  The spectrum will contain Dirac
+delta functions at those frequencies which
+define a periodicity.  Thus the number 
+1.212121212.... will have a sharp spike in
+its spectrum at 2, since the decimal expansion
+has a periodicity of 2 digits. There will be little 
+energy anywhere else.
+Integers have an FFT which forms a narrow
+or broad Gaussian, depending on the length 
+of the integer.  Rational fractions have
+broader spectra: algebraic irrationals have
+spectra which are broader still.  
+Transcendental numbers (if the
+mathematicians are right) likely have flat
+spectra: that is, their digits never
+repeat.  (This has not been proven, but
+is universally believed.) 
+Since Parseval's Theorem tells us that the
+Fourier Transform of the autocorrelation
+function is the power spectral density, this
+is only as we would expect--it is, after all,
+merely another way of saying that the digits of
+transcendental numbers appear to exhibit
+no correlation with one another.  There is
+no pattern hidden in the decimal expansion.
+Returning to the question of musical scales,
+this gives us another way of defining tunings:
+by their entropy.  
+Since statistical mechanics teaches us that
+entropy is a measure of the total number of
+available states in a system, clearly the 
+number of states available in a number's
+decimal expansion is greatest for transcendental
+numbers and least for integers.  
+The next digit in a transcendental number could
+be anything: the number has maximum extropy.
+Thus the entropy of a musical scale and
+be defined by summing the entropies of the
+numbers which comprise it.
+The harmonic series clearly has least entropy;
+next come JI scales made up of rational
+fractions, next equal tempered scales made
+up of algebraic irrationals, and finally
+non-just non-equal-tempered scales made up
+of transcendental numbers.
+In this sense, transcendental numbers can be
+thought of as micro-universes, containing an
+infinite possible number of available states,
+and requiring an infinite amount of energy
+to parse.
+Although the full workings of the ear/brain
+system are not yet completely understood,
+it is safe to assume that however it operates,
+the human auditory system can be modelled
+as some sort of state-space machine.  
+In this case, we have a possible explanation
+for the response of the ear to the octave
+as well as Enrique Moreno's extended chroma
+phenomenon.   Since information is logarithmically
+proportional to energy (another of Shannon's
+theorems), it requires the least amount of
+information/energy to parse a musical
+interval which is an integer ratio of another
+interval.  Next most energy is required to
+parse JI scales, still more to parse scales
+involving algebraic irrationals (ET scales),
+and the most energy/information is required
+when parsing non-just non-equal-tempered
+scales.
+This accords well with Gary Morrison's and
+my own findings about non-octave scales.
+JI scales sound more "bland" than equal
+tempered scales--or one might prefer
+to put it the other way around and say
+that Nth root of 2 tunings sound muddier
+and more turbulent than JI tunings. Non-octave
+scales sound "like thick rich chocolate milk
+shakes," as Gary has pointed out, and my
+own experience with non-just non-equal-
+tempered scales indicates that these
+tunings sound most complex and sonically
+luxuriant of all.
+However, this hypothesis is not supported
+by the psychoacoustic data which demonstrate
+clearly that listeners universally hear intervals
+about 15 cents > the octave as "pure octaves"
+and intervals of 2.0 as "too flat" and "out of
+tune."  Moreover, this assumes that the 
+human auditory system can be modelled as
+a Turing machine which obeys linearity
+and the superposition principle.  However,
+the data appears to indicate that many parts
+of the human auditory system are non-linear
+and do not obey the superposition principle.
+In this case, the analogy with finite
+automata may not be apt.
+Lastly, if one wanted to go completely over
+the edge, one could describe numbers in terms
+of their dB signal-to-noise ratio by comparing
+the normalizing power spectral density of
+the integer 1 to the psd of the target number.
+In this case transcendentals would exhibit
+a zero dB signal-to-noise ratio, while integers
+would exhibit no noise whatever and thus an
+infinite signal-to-noise ratio. (Describing
+numbers in terms of their signal-to-noise
+ratio sounds absolutely insane until you
+realize that this explains the extreme
+noisiness of digital reverb systems; the
+input signal becomes progressively degraded
+by roundoff error during its trip through the
+recirulating delay lines of the reverb
+algorithm, and thus each sample of the
+input suffers a progressive randomization
+of its bits and thus a progressive decrease
+in its singal-to-noise ratio.)
+Incidentally, Gary's purported "mathematical
+idiocy" pales before my own.  Alert readers
+will still be guffawing at my statement that
+"i is the square root of -1."  Obviously untrue,
+since -i is also the square root of -1...  As
+Manuel op de Coul so delicately pointed out
+during our meeting across the street from
+Disneyland (an apt venue for wild-eyed
+microtonalists).
+Moreover, e^[i*pi] = -1, not 1.
+No duh dude, as Gauss would doubtless say.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Dec 1995 15:20 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id GAA28265; Tue, 19 Dec 1995 06:20:47 -0800
+Date: Tue, 19 Dec 1995 06:20:47 -0800
+Message-Id: <199512191519.QAA09965@elevator.source.co.at>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

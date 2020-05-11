@@ -1,0 +1,83 @@
+source file: m1454.txt
+Date: Mon, 22 Jun 1998 03:25:42 +0000
+
+Subject: Re: Commas and Consistency
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Graham Breed wrote:
+> 
+> Jonathan Walker wrote:
+> 
+> >If the best approximations of 3/2 and 5/4 are consistent in n-ET, for
+> >any integer n, then
+> 
+> >      4[1/2 + nlog_2 3/2] mod n == [1/2 + nlog_2 5/4]
+> 
+> >but if the two sides are unequal then a syntonic-comma equivalent is
+> >present in that n-ET. (The square brackets denote the "integer value"
+> >function, i.e. "[x]" is the greatest integer less than any given real
+> >number "x".)
+> 
+> The equation can be simplified by defining {x} to be the nearest integer
+> and omitting the underscores.
+
+Nothing of substance, but it's best to use notation according to
+majority conventions: "{x}" is generally taken to mean "the fractional
+value of 'x'", i.e. x - [x]. As for the function [1/2 + x], yes it is
+the same as the rounding function, but I prefer not to multiply notation
+or functions beyond necessity, especially when writing in ASCII, where
+confusion can easily arise. I think you'll also find that the underscore
+notation for log bases is normal in ASCII.
+
+>  Also, clarified by adding parentheses:
+
+I used to employ parentheses only (as I would in Mathematica) until
+someone complained that expressions could be read more quickly in
+messages if spaces were used judiciously.
+
+I wrote:
+
+> >If a syntonic-comma equivalent is present, then the size of the comma in
+> >n-ET steps is, obviously enough:
+> > 
+> >      abs ( 4[1/2 + nlog_2 3/2] mod n - [1/2 + nlog_2 5/4] )
+
+Graham wrote:
+
+> This is only true for consistent temperaments -- otherwise, there is no
+> single definition of the syntonic comma.
+
+I don't know what you mean here. The consistency I was talking about was
+that between the best approximations for 5/4 and 81/64 in an equal
+temperament, i.e. where there is no syntonic comma equivalent. Where
+such consistency obtains, the above expression will, of course, be equal
+to 0. From your last comment, it would seem that we are talking at cross
+purposes. I also prefer to leave the historic "81/80" definition of the
+syntonic comma undisturbed; this is why I have been using the phrase
+"syntonic comma equivalent" in the context of equal temperaments. Unlike
+the terms "major third" or "perfect fifth", which have functional
+definitions independent of particular tuning systems, the term "syntonic
+comma" was defined only in tuning terms from the start; but we've had
+this discussion on the list before -- I don't want to provoke a rerun. 
+
+>  Also, I think the abs is redundant.
+
+Not in the context of my sentence: I gave it as the expression for the
+*size* of the syntonic comma equivalent.
+
+> My spreadsheet defines MOD(-2,12) as -2.  As long as -2 mod 12 would
+> normally be 10, the equation works.
+
+Sorry, but your spreadsheet sucks.
+
+> The spell checker wants to call that a sceptical/skeptical comma.  What is
+> it trying to say, I wonder?
+
+while your spell checker evidently has hidden depths.
+
+I must take another look at your website.
+
+Best,
+
+Jonathan Walker

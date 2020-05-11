@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Wed, 25 Jun 1997 06:33:22 +0200
+
+Subject: Re: Octaves not exactly 2^N
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>I saw one about tunings with octaves not being
+>exactly powers of 2.  In most cases of variation it seems that values
+>greater (rather than less) than 2 are found in practice.  The reasons
+>may relate to overtones being not exact harmonics of the fundamental.
+
+   As an aside for any of you newcomers to the list, Bill Sethares has
+developed some well-defined techniques for manipulating the overtone
+structures of tones to make them have JI-like effects in non-JI tunings.
+Or the reverse.  He's working up a book on the topic.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 25 Jun 1997 10:01 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21670; Wed, 25 Jun 1997 10:01:57 +0200
+Date: Wed, 25 Jun 1997 10:01:57 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA21701
+Received: (qmail 26261 invoked from network); 25 Jun 1997 08:01:41 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 25 Jun 1997 08:01:41 -0000
+Message-Id: <199706250400_MC2-1933-63C3@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

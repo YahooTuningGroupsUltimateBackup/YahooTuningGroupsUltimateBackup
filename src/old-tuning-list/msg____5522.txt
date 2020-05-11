@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Thu, 22 May 1997 04:54:36 +0200
+
+Subject: ET, JT, etc.
+
+From: James Kukula <kukula@synopsys.com>
+
+If by ET we mean a scale made of frequencies 1, x, x^2, x^3, ... - where 
+the ^ means exponentiation or powers,
+
+and if by JT we mean a scale composed of rational number freqencies,
+
+then ET and JT are not mutually exclusive. Just pick x rational. Of course
+the only rational where x^ncan happen is x So any nontrivial scale
+that's both ET and JT will miss the perfect octave. Still, it might be fun
+territory to explore.
+
+Such an ET scale is not the only kind of scale with "modulation symmetry",
+where every note has the same intervals available. One can move to higher
+dimensions, for example allowing x^n y^m for every pair of integers (m,n) for
+some fixed pair of generating intervals x and y. Surely 2^n 3^m deserves to
+be called a classic Pythagorean scale?
+
+If x and y are incommensurable, i.e. x^n y^m 1 only for mand n then
+such a scale will have infinite notes in any pitch range. This is not really
+the same as opening up to the entire continuum of pitches. Cantor's set
+theory shows that integer pairs (m,n) are still countable, but the continuum
+is not. 
+
+Discussions have drifted through here on two dimensional keyboards. Given the
+electronic generation of tones, the concept of a keyboard can be opened way
+up. I've seen a little of this around. For example, some kind of body suit
+could follow the state of flexion/extension/rotation of some set of joints in
+the body. This raw data would determine a point in some quite high
+dimensional space, which could then be mapped down to some smaller dimension
+before getting read as a pitch. 
+
+At a very elementary level, one could have two surfaces covered with
+keys. The right hand picks a key on the right keyboard, the left picks a key
+on the left keyboard. This determines a point in a four dimensional
+space. One might thus provide all pitches 2^n 3^m 5^p 7^q. 
+
+Jim
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 22 May 1997 05:16 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07426; Thu, 22 May 1997 05:16:17 +0200
+Date: Thu, 22 May 1997 05:16:17 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA07429
+Received: (qmail 18274 invoked from network); 22 May 1997 03:16:14 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 22 May 1997 03:16:14 -0000
+Message-Id: <199705220309.UAA22360@sunatg3>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

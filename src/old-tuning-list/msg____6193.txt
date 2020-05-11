@@ -1,0 +1,81 @@
+source file: mills3.txt
+Date: Tue, 30 Sep 1997 18:08:30 +0200
+
+Subject: Re: Blackwood's proof
+
+From: Ben Denckla <bdenckla@media.mit.edu>
+
+Mark Nowitzky writes:
+---
+It was something about Helmholtz' and Ellis' attempt to use just
+intonation to get better harmony than equal temperament being proved
+impossible by Easley Blackwood in "The Structure of Recognizable
+Diatonic Tunings".
+---
+
+James Kukula writes:
+---
+Before I read Blackwood I had tried taking a couple of Bach harmonized
+chorales and figuring out how they should be played in j.t.[...]
+Basically the problem is just to figure out which of a set of nearby
+pitches to use for each note, the pitches differing by the 80/81 comma.
+[...] the exercise really opened up for me the structure of the Bach
+pieces, or seemed to anyway. I found, though, that the pieces seemed to
+turn on a kind of musical pun, to take advantage of the blurring of
+harmonic distinctions provided by temperament.
+
+As I read Blackwood, the point is not so much that e.t. or any
+temperament is so much better than j.t. in any universal or absolute
+sense, but that mainstream European musical practise at least in the
+18th & 19th Centuries was really structured around temperament, and you
+can't just slide j.t. into the classics and make them better. A
+different kind of music based on j.t. might be better in some sense, but
+the structure of composition is strongly connected to tuning, so you
+can't change one without some adjustment in the other.
+---
+
+After 10 months or so of research on the subject, I have come to the
+exact same conclusions as Mr. Kukula, and he has phrased them very
+nicely above. For a different phrasing, though, I must once again
+shamelessly plug my thesis, available in various forms (including HTML)
+at
+
+http://theremin.media.mit.edu/~bdenckla/thesis/main.html
+
+I believe my thesis' tuning theory is an improvement upon Blackwood's,
+although Blackwood's musical examples are very instructive and are the
+real strength of his book.  On this particular subject, my thesis frames
+these "puns" (a nice metaphor) as reliance on what I call A1_1
+enharmony, which is analogous to d2 (diminished second) enharmony, i.e.
+enharmony between notes like G# and Ab.
+
+Ben
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carl Lumma <clumma@nni.com>
+Subject:  Re:deployment
+PostedDate:  30-09-97 21:02:38
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  30-09-97 21:02:17-30-09-97 21:02:18,30-09-97 21:01:14-30-09-97 21:01:15
+DeliveredDate:  30-09-97 21:01:15
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256522.006890AB; Tue, 30 Sep 1997 21:02:07 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02724; Tue, 30 Sep 1997 21:02:38 +0200
+Date: Tue, 30 Sep 1997 21:02:38 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA02733
+Received: (qmail 27315 invoked from network); 30 Sep 1997 12:02:34 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 Sep 1997 12:02:34 -0700
+Message-Id: <19970930190506296.AAA478@NIETZSCHE>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

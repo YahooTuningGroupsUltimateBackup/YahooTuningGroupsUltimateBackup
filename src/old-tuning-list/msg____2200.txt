@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Thu, 26 Oct 1995 09:32:38 -0700
+
+Subject: Microtonal font
+
+From: Paul Rapoport <rapoport@mcmail.cis.mcmaster.ca>
+
+Brian McLaren mentioned my microtonal font, and Adam Silverman asked about
+it. One of the unpleasant facts of academic life (pace Brian) is that I 
+have to work more and harder this year just to keep going, which is I 
+imagine true of everyone in nearly any profession. Accordingly, there is 
+some tweaking I have to do to this font to be able to present it to 
+others which I have been unable to complete since originally mentioning 
+the font in this forum some months ago.
+
+Forgive the delay please; it will come, and it will be 1995.
+
+I have not actually used the font with Finale yet, but there's no reason why 
+it shouldn't work. It is simply a font (bit-mapped, Postscript, TrueType, 
+etc.). It contains 123 symbols, which should keep many people happy or 
+busy or both. More description later if anyone wants it.
+
+Although I do not want to use this list to sell something, I will offer
+the straight facts and not attempt to advertise it. If readers object, I
+will not mention the font again on the list except to say it is available,
+and then give more information to readers privately. The information will
+probably end up on the list anyhow... 
+
+It is in a Macintosh format only, by the way. Also, I have not figured 
+out Finale's arcane goings on as have Brian and others. I have used the 
+font until now with Lime, because I can simply declare a pitch offset for 
+each accidental and have my synthesizer produce the correct pitch on 
+playback. This happens regardless of how many accidentals sit in front of 
+a note. The limit is currently 14, I think. But that's to Lime's credit, 
+not mine. Lime has some limits, as Brian mentioned; but using pitch bend 
+it enables many synthesizers to do what I described, (not using pitch 
+bend for the old FB-01). Pitch bend is not ideal, but it works for now.
+
+==========================      =================================
+Dr. Paul Rapoport               e-mail:	rapoport@mcmaster.ca
+SADM (Music)	                   tel: 905 529 7070, ext. 2 4217
+McMaster University                fax: 905 527 6793
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 26 Oct 1995 18:44 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA23693; Thu, 26 Oct 1995 09:44:39 -0700
+Date: Thu, 26 Oct 1995 09:44:39 -0700
+Message-Id: <199510261643.JAA23534@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

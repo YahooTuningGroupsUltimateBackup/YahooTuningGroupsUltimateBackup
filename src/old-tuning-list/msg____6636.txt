@@ -1,0 +1,120 @@
+source file: mills3.txt
+Date: Mon, 15 Dec 1997 13:35:04 +0100
+
+Subject: 19 equal and modal genera
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+> Bill Alves (quoted by Paul Ehrlich) made a very interesting comment to
+> the effect that  the four chromatic modal genera (scales) comprising 28
+> modes, that I have discovered and posted:
+>
+> C D E F G A B C
+> C D E F G Ab B C
+> C D E F G Ab Bb C
+> C Db E F Gb A Bb C
+>
+> can be played in the 12-tone equal.
+
+More importantly, they are all distinct in 12 equal, as are the other 6:
+
+C D Eb F G Ab A C              C Eb E F G A Bb C
+C C# E F G G# A C              C Eb Fb F G Ab Cb C
+C C# E F F# G A C              C Eb F Gb G Ab Cb C
+
+There are also come chords within these scales that work in 12 equal,
+but not 19 equal.  I can find no opposing example.  With 12 pitch
+classes, then, the harmonic vocabulary is enhanced, with no reduction
+in the number of genera that fulfil Gregg's criteria.  This is a
+strange argument for 19 equal.  Gregg's replies are unconvincing:
+
+> ... but the resulting modes conflate a number of
+> aurally distinct modes into single, neutral modes, and lack much of the
+> distinct melodic character of the 19-tone versions.
+
+Which modes cease to be distinct?  Of course, the melodic character
+will be different in different tunings, but that is not to say one is
+superior to the others.  In good old 31 equal, you get the added bonus
+of septimal chords, consonant or otherwise.
+
+The other arguments are all specifically about 12 equal, and not the
+infinity of meantone temperaments in which the genera also work.
+
+
+To the more general argument:
+
+> Hence, 19-tone equal gives rise to a powerful contrast between
+> consonance and dissonance, both melodically and harmonically speaking.
+> The effect is to give music a kind of elastic, forward impetus quite
+> unknown in the 12-tone equal, which has a more static, uncertain
+> esthetic.
+
+This is a good description of 19 equal.  I can see the relevance to
+rock music, but some of us like a bit more subtlety.  The consonances
+are acceptable. but not that good.  Minor triads have a uniquely
+bright sound, which may be a result of the good minor third.  The
+dissonances something to behold.
+
+> The prinicipal
+> temperaments are 12- 19- 31- 43- 50- & 55-tone equal.
+
+Gregg's dislike of non-meantone temperaments is well established.  As
+an existentialist, I cannot agree, because I use and will continue to
+use such temperaments.  However, his neglect of non-equal temperaments
+is so far unjustified.  The obvious scale he's overlooking is
+LucyTuning, whose 54 cent diesis is at the bottom of the melodic limen.
+As the difference between 19 equal and LucyTuning is well below a
+melodic limen, melodies will presumably remain distinctive after the
+transition.  Singers should be able to make the distinctions if they
+are trained with 19 pitch classes.  The advantage is that both melodies
+and harmonies sound a lot better -- but there I go with my opinions
+again.  So, Gregg, how about it?
+
+
+Now, I'd just like to clear this up:
+
+> To give some idea of just how immense this universe is - and remember
+> these are _real_, usable resources, not purely theoretical, aurally
+> imperceptible variations - compare the number of modes (I here use the
+> term loosely merely to indicate a collection of seven notes used in a
+> melody) consisting of 12 notes taken 7 at a time:
+>
+> nCr   where n = 12   &   r = 7
+> = 792
+> with the number of modes consisting of 19 notes taken 7 at a time:
+> nCr    where n = 19  &  r = 7
+> = 50,388
+
+Really, you should define modes relative to a tonic, so the numbers
+get smaller.  With 12, you're choosing 6 from 11, which gives 462
+modes. 19C6 is 12376.  The contrast is still striking.  Including
+all the transpositions, you get 462*12=5544 and 12376*19=235144.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Re: Reply 3 to Graham Breed
+PostedDate:  15-12-97 15:58:13
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  15-12-97 15:56:17-15-12-97 15:56:19,15-12-97 15:55:59-15-12-97 15:55:59
+DeliveredDate:  15-12-97 15:55:59
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656E.00520AA3; Mon, 15 Dec 1997 15:58:03 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA15977; Mon, 15 Dec 1997 15:58:13 +0100
+Date: Mon, 15 Dec 1997 15:58:13 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA15986
+Received: (qmail 4430 invoked from network); 15 Dec 1997 06:58:04 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 Dec 1997 06:58:04 -0800
+Message-Id: <v01541100b0ba70a28227@[207.207.2.39]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

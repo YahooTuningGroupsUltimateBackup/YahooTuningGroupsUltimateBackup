@@ -1,0 +1,124 @@
+source file: mills2.txt
+Date: Fri, 21 Mar 1997 10:31:08 -0800
+
+Subject: Computer program
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Perhaps there's interest in a small (non-microtonal) computer program written
+by the late composer Jos Kunst: Dissonance Grading for the Macintosh. 
+Download via
+http://utopia.knoware.nl/users/jpk/compu.html
+Text below is from the web page.
+
+RATIONALE. This program is meant to be a pre-compositional tool that scans
+and/or modifies chords along the dimension of dissonance - an uneasy concept if
+there ever was one; here it is perhaps best understood as referring to
+something like the opacity of chords: the degree to which it might be difficult
+to "hear through them" any new sound not already contained in them. Be that as
+it may; we let the test measure what it does, in fact, measure and its
+usefulness remain to be seen. 
+
+ASSUMPTIONS. A chord's dissonance is assumed to be a function of its component
+intervals. Intervals within the octave are ordered from dissonant to consonant
+(minor second - major seventh - major second -minor seventh - augmented
+fourth/diminished fifth - all thirds and sixths - perfect fourth - perfect
+fifth - octave), and all intervals wider than those are proportionally
+downgraded, a minor second plus octave taking the value of a major seventh, a
+major seventh plus octave taking the value of a major second, and so on.
+Furthermore, the possible contribution of a tone that has also its own lower
+octave(s) in the chord is correspondingly lessened. 
+
+In the first place, the program may be used as a chordscanner. In that case, it
+displays four things: 1) each note's contribution to the chord's overall
+dissonance, 2) the chord's dissonance total, which is a number such that if you
+subtract from it the contribution of any of the chord's component notes
+(octaves make for exceptions here, sorry), you get the total of another chord
+that is just like this one except for the absence of that component note; 3)
+the dsg ("dissonance grading"), which is twice that total divided by the number
+of component notes, and 4) the dsg class, which positions the chord in one of
+the five musically interesting subareas in the dissonance continuum we have
+seen fit to number, roman-style, I through V, in the following way: 
+
+dsg class: I   II  III    IV    V
+       
+dsg:    0 -->3 -->8 -->21 -->55 -->
+
+In the second place, the program may be used in some preparatory stage of
+musical composition. It will try to increase or to diminish, at your choice,
+the dissonance of any chord you care to specify. It offers you the choice of
+two ways to do it: (1) by setting it a target dsg, and letting it work its way
+toward that target for as far as it can, or (2) by parallel subset (semitone)
+motion. 
+
+Option (1): Going for a Target
+
+When (after entering your starting chord) you choose the Target option, the
+program prompts you for the dissonance to be realized. It then sets about
+attaining this goal in the smallest possible number of (minor or major second)
+steps, keeping you informed of its progress through its screen and/or printer
+output. In determining the steps to be taken it is guided by principles
+essentially akin to those governing voice-leading, such as: in diminishing
+dissonance, take first the tone contributing most to it; do not conflate two
+tones into one, etc., and the converse for increasing dissonance. This strategy
+results in a tendency towards equal distribution of dissonance: extremely
+unequal contributions of individual notes, which (I think) make for the special
+combination of spiciness and clarity of many jazz chords, become less likely as
+the program proceeds in this mode. The other limitation inherent in the target
+mode lies in the fact that, e.g., starting with eight pitches within a space of
+an octave you obviously cannot get below a certain dissonance. If you don't
+like these limitations, use, or mix in, the parallel subset and the
+change-by-hand modes. 
+
+Option (2): Parallel Subset Motion
+
+When you choose this option, you accept primes as intervals - two pitches, in
+working consonance, may get fused into one. (The only way of achieving the
+converse, i.e. of splitting a single tone in two, is to do it by hand.) Next,
+you actually enforce change: if the chord was already maximally consonant, and
+you try to make it more consonant still, you end up with a slightly less
+consonant chord instead. Lastly, Parallel Subset Motion, or PSM for short,
+brings home a freedom that every composer working with this program will have
+to face: it does find effective and elegant ways of changing a chord's
+dissonance, but it does not tell you much about the precise spatial relations
+of the resulting two consecutive chords. It may propose you a subset motion of
+three pitches out of five: obviously, you may do better by moving the other
+two, or by moving the whole chord in steps of different lengths for its two
+subchords. (Note that this goes not only for PSM: the results of the Target
+option leave you with exactly the same kind of freedom; as we all know, letting
+an (almost) whole chord move in order to relieve the dissonance of even a
+single motionless note is not unheard of in good music.) 
+
+THE HINDEMITH ROOT. As an extra bonus, the user gets the chord's root thrown
+in, as it is computed by applying a slightly generalized version of the
+Hindemith Unterweisung im Tonsatz method. Because of the generalizations
+results will not always coincide with Hindemith's own. Thus, the program will
+not balk at chords with less than three pitches; it will also assign their
+roots to chords considered to be undecidable, such as the augmented triad, the
+chord built up out of two perfect fourths, and the diminished seventh chord,
+and it will do that by applying the same methods as everywhere else. Most
+importantly, we are in disagreement with the master because we think that his
+method, dependent as it is on the analysis of isolated chords, provides no
+solid basis at all for musical composition. (Composers are, as always, on their
+own.) However, its results are never simply foolish, which is why we have
+included it. An example. The user should suspend any notions about chords being
+incomplete - for the program, all chords are complete, and the chord c4-b4-d5
+is assigned b4 as its root, because the third is the best interval contained in
+it. One might therefore say that, if the chord is incomplete after all, the
+program would have preferred to add f#4 and a4 to it rather than e4 and g4.
+Hindemith-style serious results are to be expected only for complete chords. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 21 Mar 1997 22:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08231; Fri, 21 Mar 1997 22:06:06 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08228
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id NAA24572; Fri, 21 Mar 1997 13:02:25 -0800
+Date: Fri, 21 Mar 1997 13:02:25 -0800
+Message-Id: <Pine.SOL.3.95.970321124128.5495A-100000@equinox>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

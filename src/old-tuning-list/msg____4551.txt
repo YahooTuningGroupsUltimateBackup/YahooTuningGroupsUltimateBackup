@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Tue, 7 Jan 1997 07:09:24 -0800
+
+Subject: stretching of strings
+
+From: William Sethares <sethares@eceserv0.ece.wisc.edu>
+
+A couple of days ago, someone asked 
+how close to harmonic real strings are.
+One early article that addressed this is
+
+R. Young, ``Inharmonicity of plain piano wire," 
+J. Acoust. Soc. Am., Vol. 24, 267-273 (1952). 
+
+Young shows that the partials of piano wire are 
+``stretched" by a factor of about 1.0013, which is 
+about 2 cents per octave. The article also discusses 
+stretched tunings of pianos, which are also often 
+about 2 cents per octave.
+
+-Bill Sethares
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 7 Jan 1997 20:02 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA15070; Tue, 7 Jan 1997 20:05:29 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA15066
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA09706; Tue, 7 Jan 1997 11:05:09 -0800
+Date: Tue, 7 Jan 1997 11:05:09 -0800
+Message-Id: <199701071859.NAA06096@mail1.panix.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

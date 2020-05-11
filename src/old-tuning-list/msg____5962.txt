@@ -1,0 +1,53 @@
+source file: mills3.txt
+Date: Thu, 14 Aug 1997 20:09:35 +0200
+
+Subject: Terminology
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+I used the word "quartertone" to mean roughly half a semitone,
+or specifically an interval that approximates to 1 step in 31tet.
+I thought this was consistent with a "semitone" being roughly
+half a tone, or specifically an interval that approximates to
+1 step in 12tet.  I can switch to "demisemitone" if people prefer.
+
+As regards the symbols for raising and lowering notes by a
+diminished second, I will allow these to be user configurable in
+any software I write.  In the terminology Paul Erlich used, they
+correspond to shifts of 12 fifths in meantone scales.  You never
+_need_ them for 31tet, but I sometimes find them useful.
+
+For JI, and approximations thereof, I'll use these symbols by
+default to denote raising or lowering the pitch by a septimal
+comma, or some other demisemitone outside of the 5 prime limit.
+This is consistent with the above terminology for all meantone
+temperaments between 19tet and 12tet.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  rapoport@mcmail.CIS.McMaster.CA
+Subject:  names, JI, ands ET
+PostedDate:  15-08-97 00:14:02
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  15-08-97 00:14:07-15-08-97 00:14:08,15-08-97 00:12:17-15-08-97 00:12:18
+DeliveredDate:  15-08-97 00:12:18
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564F3.007A223F; Fri, 15 Aug 1997 00:14:01 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03426; Fri, 15 Aug 1997 00:14:02 +0200
+Date: Fri, 15 Aug 1997 00:14:02 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03424
+Received: (qmail 10399 invoked from network); 14 Aug 1997 22:13:56 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Aug 1997 22:13:56 -0000
+Message-Id: <Pine.SOL.3.96.970814175640.4501B-100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

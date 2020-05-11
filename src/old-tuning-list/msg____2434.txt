@@ -1,0 +1,116 @@
+source file: mills2.txt
+Date: Wed, 3 Jan 1996 20:21:07 -0800
+
+Subject: Table of Contents of my doctoral dissertation
+
+From: eig@ccrma.stanford.edu (Enrique Moreno)
+
+Sorry to send this to all, but some folks wanted more specifics concerning my previous posting's offer of a free copy of my diss. Please  
+skip if not interested. 
+
+	Enrique Moreno 
+
+
+Embedding Equal Pitch Spaces and The Question Of Expanded Chromas: An Experimental Approach
+
+TABLE OF CONTENTS
+
+Abstract	iv
+Dedication	v 
+
+Foreword and Acknowledgements	vi                                                              
+
+
+Chapter One: Theoretical Introduction to Expanded Tunings 	
+	1.1 General Structure of Expanded Tunings	1                                               
+
+	1.2 Definition of An Equal Tuning T	3
+	1.3 Primary Interval Lemma 	4
+	1.4 Harmonic Location Theorem 	5
+	1.5 Redundancy Theorem	8
+	1.6 Intervals of Equivalence	9
+	1.7 Equivalence Intervals and Their Terminology 12
+	1.8 Definition of Fully Expanded Tunings Te 16
+	1.9 Expanded Tunings Not as nth roots of k	17
+	1.10 Arbitrary Non-Octave Intervals of Equivalence 18
+	1.11 Cubic Equivalence Inferred from Square 19
+	1.12 Intervals of Equivalence Justified by Prescribed Overtone Structure 20
+
+Chapter Two: Theoretical Introduction to Expanded Chromas
+	2.1 The Chroma Phenomenon 	23
+	2.2 Theories of Octave Equivalence	26
+	2.3 Coincidence of Partials or Total Consonance  27
+	2.4 Observation to 2.3	27
+	2.5 Repetition Rate	29
+	2.6 Observation to 2.5	29
+	2.7 Activity of a Central Pitch Processor	30
+	2.8 Observation to 2.7	30
+	2.9 Uniqueness	30
+	2.10 Observation to 2.9	30
+	2.11 Initial Hypotheses	31
+
+Chapter Three: Practical Introduction to Expanded Tunings
+	3.1 Implementation of Expanded Tunings	35
+	3.2 Selecting One Tuning among Many Other Possible Tunings 38
+	3.3 The Music Notation Problem	42
+	3.4 Expanded Notation	44
+	3.5 Rules for The Use of Color in Music Notation 47
+
+Chapter Four: Practical Introduction to Expanded Chromas
+	4.1 Practical Meaning of Expanded Chroma	49
+	4.2 Musical Examples: Example One	53
+	4.3 Musical Examples: Examples Two, Three and Four 55	
+	4.4 Finding Optimal Tunings for Expanded Chroma 58
+	4.5 Avoiding The Interference of Foreign Chromas 63
+	4.6 Discussion: Is Perception of Expanded Chroma Possible? 68
+
+Chapter Five: Experimental Introduction to Expanded Chromas
+	5.1 Introduction	71
+	5.2 Pitch Dimensions	72
+	5.3 Definition of Morenoctaves	73
+	5.4 The Three Hypothesized Dimensions of Pitch on The Helix 74
+	5.5 Revised Model of The Fundamental Pitch space 82
+	5.6 Overtone Structure and Expanded Chroma 83
+	5.7 Some Definitions of Experimental Terms 86
+	5.8 Experimental Pre-Requisites for Subjects 87
+	5.9 General (Formal) Hypothesis	88
+	5.10 Design of The Main Experiment	89
+	5.11 Ancillary Experiments	90
+
+Chapter Six: Experiment One
+	6.1 Design	93
+	6.2 Methodology	96
+	6.3 Description of The Computer Program Interface for Experiment One 98
+	6.4 Musical Fragments (Stimuli)	110
+	6.5 Subjects	112
+	6.6 Randomization in The Order of Presentation of Musical Stimuli 114
+	6.7 Data Collected	114
+	6.8 Expected Theoretical Distribution	115
+	6.9 Main Experimental Hypothesis	118
+	6.10 Results Per Subjects	118
+	6.11 Results Per Trial	126
+	6.12 Other Related Results	135
+	6.13 Discussion on Consonance/Dissonance and The Validity of Results 137
+	6.14 Experiment One: Summary and Conclusions 139
+
+Chapter Seven: Experiments Two, Three, and General Conclusions
+	7.1 Design of Experiment Two	141
+	7.2 Results of Experiment Two	143
+	7.3 Design of Experiment Three	145
+	7.4 Results of Experiment Three	152
+	7.5 General Conclusions	 157
+
+References	161
+
+Appendices	167 (Includes cassette tape with original examples)
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 4 Jan 1996 17:23 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA13297; Thu, 4 Jan 1996 08:23:26 -0800
+Date: Thu, 4 Jan 1996 08:23:26 -0800
+Message-Id:  <9601040823.aa13447@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

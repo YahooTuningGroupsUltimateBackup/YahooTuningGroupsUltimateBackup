@@ -1,0 +1,72 @@
+source file: m1405.txt
+Date: Tue, 5 May 1998 10:58:06 -0400
+
+Subject: Chaos, octave equivalence, and subharmonics
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+One of the major results in chaos theory is the universality of certain
+features of non-linear dynamical systems. In virtually all dynamical
+systems which can behave chaotically, there is a phenomenon called
+period-doubling which describes the transition from stable, periodic
+behavior to chaotic behavior. As a relevant parameter of the system is
+increased from a stable to a chaotic value, the system repeats itself
+every 2, 4, 8, 16, . . . periods of the stable period. The transitions
+from one power of two to the next occur closer and closer together; the
+changes in parameter values required to produce each successive period
+doubling approach a decreasing geometric sequence with scaling parameter
+equal to the Feigenbaum constant (4.6692016091029 . . . ). This means
+that at a finite value of the parameter, the period will be infinite,
+i.e., we have chaos.
+
+There may be many stages in the hearing process in which non-linear
+dynamics come into play. It would probably be counterproductive to allow
+this non-linearity to be enough to lead to chaos, while a parallel
+structure of processors with different, lesser degrees of non-linearity
+might actually aid in the recognition of pitch. It is known that when a
+(not too high) pitch is heard, there are neurons that fire at the same
+rate as the vibration rate of the pitch itself. Other neurons in the
+brain are known to have a non-linear response to their input from other
+neurons. Since a response non-linear enough to lead to chaos would
+essentially be destroying all frequency information, most of the neurons
+would oscillate at the input frequency or at octave equivalents below
+that frequency. Perhaps a certain, low octave range is where pitch
+judgments are actually made. Notice how very high tones seem ambiguous
+in pitch.
+
+Whether this or the winding of the cochlea explains octave equivalence,
+there may have been evolutionary advantages conferred by the ability to
+reduce unimportant information and potential confusion from overtones by
+compressing pitch information to within one octave, which led to the
+brain or ear being designed the way they are.
+
+As for the apparantly irregular "subharmonic" which Gary observed in the
+bassoon waveform, this can easily be explained by assuming some
+parameter of non-linearity (perhaps lip pressure) was hovering around a
+value at which an initial period doubling occurs. So the amplitude of
+this period-2 subharmonic could have been changing, and it could cease
+to exist for a while, returning again just as easily after either an odd
+or even number of period-1 oscillations.
+
+Here's an observation about instrument or vocal "subharmonics": Beyond
+the onset of chaos, chaotic regions alternate (in a fractal pattern)
+with regions whose periods are non-power-of-two multiples of the stable
+period. The last of these subharmonic periods to occur, but the broadest
+in allowed parameter values, is period 3. So within a wide enough range
+of highly chaotic parameter values, one is likely to stumble upon
+period-3 behavior. Increasing the parameter value further leads to the
+period doublings, which in this case means period-6, period-12,
+period-24, . . . with the same Feigenbaum constant, and back to chaos.
+But decreasing the parameter leads directly back to chaos, via a
+phenomemon known as intermittency, where very nearly period-3 behavior
+persists for stretches of time, unpredictably alternating with stretches
+of chaotic behavior. (The same thing is true for every odd number above
+3, although the smallest parameter value needed to achieve a given odd
+subharmonic, and the range of parameter values in which it persists, are
+decreasing functions of that odd number). Therefore, assuming the
+parameter value varies smoothly with time, and at some times takes on
+values corresponding to simple period-1 vibration, the only subharmonics
+which can exist without chaos ever occuring are the subharmonics
+corresponding to powers of 2. Period-3 oscillation (or, to a lesser
+extent, periods of higher odd numbers) can be relatively common but
+cannot smoothly connect with simpler behavior.

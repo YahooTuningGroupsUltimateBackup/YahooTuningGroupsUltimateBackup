@@ -1,0 +1,91 @@
+source file: mills3.txt
+Date: Tue, 16 Dec 1997 07:52:23 +0100
+
+Subject: Reply to Graham Breed
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+Unequal tunings waste the melodic substance no less surely than equal
+temperaments whose tuning degrees are either much narrower or much wider
+than 60 cents or so. A 19-tone unequal tuning would result in
+appreciably more intervallic confusion, given the fact that the 19-tone
+equal tuning degree is close to the limen. Modulation would also be made
+more difficult, and certain  consonances would be too deteriorated for
+use.
+
+Gregg Gibson said:
+> > To give some idea of just how immense this universe is - and remember
+> > these are _real_, usable resources, not purely theoretical, aurally
+> > imperceptible variations - compare the number of modes (I here use the
+> > term loosely merely to indicate a collection of seven notes used in a
+> > melody) consisting of 12 notes taken 7 at a time:
+> >
+> > nCr   where n = 12   &   r = 7
+> > = 792
+> > with the number of modes consisting of 19 notes taken 7 at a time:
+> > nCr    where n = 19  &  r = 7
+> > = 50,388
+
+Graham Breed replied:
+>
+> Really, you should define modes relative to a tonic, so the numbers
+> get smaller.  With 12, you're choosing 6 from 11, which gives 462
+> modes. 19C6 is 12376.  The contrast is still striking.  Including
+> all the transpositions, you get 462*12=5544 and 12376*19=235144.
+
+Thanks very much for your correction regarding the method of finding
+numbers of 12-tone versus 19-tone modes. You are quite right that the
+tonic must be omitted from the calculation. The corrected numbers would
+be nCr (n=11, r=6) = 462 and nCr (n=18, r=6) = 18564 (not 12376, you
+must have used n=17), or a factor of about 40 to 1. Since I am concerned
+here with modes, not keys, the transpositions I neglect.
+
+Gregg Gibson said:
+> > ... but the resulting modes conflate a number of
+> > aurally distinct modes into single, neutral modes, and lack much of the
+> > distinct melodic character of the 19-tone versions.
+
+Graham Breed replied:
+>
+> Which modes cease to be distinct?  Of course, the melodic character
+> will be different in different tunings, but that is not to say one is
+> superior to the others.  In good old 31 equal, you get the added bonus
+> of septimal chords, consonant or otherwise.
+
+I have enumerated all the possible diatonic and chromatic modes in
+12-tone equal and 19-tone equal, using tree diagrams. I can assure you
+that many chromatic modes distinct in 19-tone equal are merged into a
+much smaller number of such modes in the 12-tone equal. The exact number
+of these modes depends on what criteria one uses, e.g. numbers and
+character of consonances, number of consonant chords, inclusion of
+septimals, etc. I will post these modes in due course - meaning when I
+have a solid day or two free for the purpose.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  Reply to John Starrett
+PostedDate:  16-12-97 08:47:12
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  16-12-97 08:45:14-16-12-97 08:45:15,16-12-97 08:44:54-16-12-97 08:44:55
+DeliveredDate:  16-12-97 08:44:55
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656F.002A93FB; Tue, 16 Dec 1997 08:47:00 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA16624; Tue, 16 Dec 1997 08:47:12 +0100
+Date: Tue, 16 Dec 1997 08:47:12 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA16627
+Received: (qmail 22966 invoked from network); 15 Dec 1997 23:47:08 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 Dec 1997 23:47:08 -0800
+Message-Id: <34969448.3D68@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

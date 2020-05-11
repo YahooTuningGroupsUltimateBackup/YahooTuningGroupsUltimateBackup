@@ -1,0 +1,38 @@
+source file: mills2.txt
+Date: Sat, 28 Oct 1995 01:42:48 -0700
+
+Subject: E-mu sysex tuning tables?
+
+From: pfly@nyx10.cs.du.edu (juxlus)
+
+Hello all, I am relatively new to this forum and want to express my thanks
+to the people who post their interesting and useful research in alternate
+tunings here.  I have learned a great deal so far and am interesting in
+exploring many of the scales discussed here.  I have a E-mu Morpheus and have
+been exploring the 19-tone scale that it comes with pre-defined.  Unless I
+am mistaken, customizing the user definable tuning table is not too
+trivial (in terms of time requirement).  The manual says the steps of 
+fine tuning are "approximately 1.56 cents", so I take it one has to a bit 
+of figuring for each MIDI note.
+
+I'm wondering if there are archives of E-mu sysex tuning tables available
+and/or any utilities that would construct the sysex tuning table from a
+formula.  I am under the impression that the tuning tables are "standard"
+among all current E-mu synths.  Working "by hand" is fine, but slow.
+
+Thanks for any help, and thanks for such a great forum!
+
+-- 
+Paul Fly                      |   Our deeds travel with us from afar
+pfly@nyx.cs.du.edu            |   And what we've been makes us what we are
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 28 Oct 1995 15:54 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id XAA21239; Fri, 27 Oct 1995 23:54:55 -0700
+Date: Fri, 27 Oct 1995 23:54:55 -0700
+Message-Id: <009988D5F30ED4AB.0633@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,70 @@
+source file: m1403.txt
+Date: Sun, 3 May 98 11:34 BST-1
+
+Subject: Re: JI Tuning Resolution
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Gary Morrison wrote:
+
+>> While I'm plugging the AWE64...  You can set a Sound Font with
+>> instruments in 88CET fairly easily.  You need one zone for each
+>> run of notes with equal steps.
+>
+>   I'm glad to hear you're using 88CET!  :-)
+
+Hang on, I said you _can_ get 88CET, not that I was doing this!
+Actually, before I got pitch bend tuning working with the sample
+editor, i was playing with 88CET and the best approximation to
+29-equal, on the "anything rather than 12" principle.
+
+>    But I did want to ask something kinda embarrassing:  I can't for the
+> life of me seem to remember what "AWE64" refers to!  It seems like I used
+> to know that, but I can't place it.  Is that a PC sound card perhaps?
+
+To your last question, yes.  It stands for "Advanced Wave Effects
+64 note polyphony."  It uses an EMU8000 chip, so has all the
+advantages of that family, but unfortunately no tuning tables and
+no real time control of filters.
+
+Sound Fonts are an Emu standard for wave samples thayt they hope
+to become an industry standard.  There's a "Scale Tune"  parameter
+that sets the interval between notes, and this can be used to get
+88CET.  Unfortunately, it can only take cent values so it's
+useless even for a piano tuner's octave.  If you think this is
+stupid, try writing to soundfont@emu.com and telling them so.
+
+The one like Dave Rybarczyk plans to write software to retune a
+Sound Font to a whole keyboard scale with cent step precision.
+I'm hoping he'll find the time by the end of the year.  Otherwise,
+I might have to do it myself!
+
+
+John Loffink wrote:
+
+> Synths frequency resolution is ultimately limited by hardware, which is
+> specified in Hertz rather than cents due to the nature of the phase
+> accumulator used in all wavetable/DSP synths and samplers.  A lookup table
+> is used by the software that converts cents to Hertz (actually the phase
+> increment), either one master octave or the whole keyboard.  This table
+> might be stored in the synth manufacturer's custom integrated circuits or
+> in their software code ROM.  Due to the speed requirements and low math
+> capabilities of the main microprocessors it is unlikely that an algorithm
+> would be used.
+
+I'm sure a 16-bit processor can get 0.1 cent precision with
+frequencies in an efficient way.  If there's enough memory for a
+1536-TET tuning table, linear interpolation should only require an
+8-bit multiplication and addition.  If this takes a sizeable chunk
+out of the 0.3ms response time, I see no problem with doing the
+interpolations in a quiet moment after all the notes have been
+turned on.  Or, accurate frequencies could be calculated when the
+table is loaded, at the expense of pitch bends.
+
+The real reason we only get 1 cent precision must be that the
+manufacturers think this is all we want.  The Sound Font blurb
+implies this.
+
+
+                    Graham Breed
+      gbreed@cix.co.uk        www.cix.co.uk/~gbreed/

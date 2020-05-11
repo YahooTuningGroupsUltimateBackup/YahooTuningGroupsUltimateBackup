@@ -1,0 +1,73 @@
+source file: mills2.txt
+Date: Wed, 5 Feb 1997 17:20:43 -0800
+
+Subject: Re: 88CET Definition
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Gary Morrison wrote:
+
+> > > That puts the P5 at
+> > > about 695.5 cents, which means that it's somewhat similar with 88TET
+> > > (not
+> > > to be confused with 88CET).
+> >
+> > 88TET stands for 88-tone equal temperament, but what does 8CET stand for?
+> 
+>    88CET stands for "88-Cent [per step] Equal Temperament".  88TET and
+> 88CET could be characterized as inverses of each other:  88TET has a step
+> size of ~13.63c and 88 steps/octave, whereas 88CET has a step size of 88c
+> and ~13.63 steps/octave.
+> 
+>    This "CET" terminology is my idea, as far as I know.  It's convenient
+> for a naming an equal-temperament whose step-size is an even number of
+> cents but doesn't work out to any exact subdivision of any particular
+> integer or integer ratio.  88CET is pretty close to 3 equal steps per 7:6,
+> 4 per 11:9, 5 per 9:7, 7 per 10:7, 8 per 3:2, 10 per 5:3, 11 per 7:4, 16
+> per 9:4, or 18 per 5:2, but it isn't exactly any of those.
+> 
+>    Carlos' alpha could be described as 78CET, and beta as 64CET.
+
+Ah, of course. Funny I didn't recognize the C as cents, since I've 
+used a similar notation for the command line interpretation syntax 
+of my MIDI tuning dump equal temperament generator in C (computer 
+language). Here are some examples of the argument syntaxes it 
+understands:
+
+ET            [generates an equal temperament of random step width]
+ET 12         [generates 12 tones per octave equal temperament]
+ET 100 C      [generates equal temperament with step size of 100 cents]
+ET C 100      [same as above]
+ET 85.33333 Y [generates equal temperament with step size of 85.33333 
+              yamaha tuning units (1024 per octave)]
+ET Y 85.33333 [same as above]
+ET 12 2 1     [generates equal temperament of 12 steps per 2/1 ratio]
+
+If you allow Y into the terminological extensions, one might write 
+4TET 300CET 256YET. 
+
+I also like sometimes to measure intervals in fractions of an octave, 
+such as 3/2 ~0.58496 octaves. This helps detwelvulate (thanks Ivor) 
+the sense that you get from measuring intervals in cents.
+
+BTW, it was playing with the random tunings from which I learned the 
+most and that helped me understand that, to my intuitive ear anyway, 
+all ET's lean towards one of two groups, those that provide close 
+approximations of some number of just intervals, and ones that deftly 
+avoid just intervals. There are some raucous ET's which give you 
+almost no pitch combinations which are comfortable at all. 
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 6 Feb 1997 11:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA27721; Thu, 6 Feb 1997 11:06:32 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA27825
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id CAA10156; Thu, 6 Feb 1997 02:04:06 -0800
+Date: Thu, 6 Feb 1997 02:04:06 -0800
+Message-Id: <Pine.SOL.3.91.970206094609.4763A-100000@kali>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

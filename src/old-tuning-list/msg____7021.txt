@@ -1,0 +1,66 @@
+source file: mills3.txt
+Date: Tue, 13 Jan 1998 19:47:59 +0100
+
+Subject: Re: MIDI/Audio wish list
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Dave Fisher Rybarczyk wrote:
+
+> Acknowledging these very valid and important points, I have nevertheless :-)
+> written a proof-of-concept program to do just this for the AWE32/64 (SoundFont
+> 2.0 banks) in Visual Basic for Win95.  Octave-based, 12-tone-only, as the
+> purpose was to explore historical keyboard tunings.  I'd be interested to
+> discuss (off the list, if that would be more appropriate) issues and ideas
+>concerning this approach with others of like mind.
+
+This sounds like exactly what we've been looking for!  Get it to
+work with full keyboard tunings -- using Scala files as input
+would be the simplest way.
+
+The additional memory requirements won't be that great, because
+you don't need any new samples.  There may still be a problem
+with the AWE32 because it has such a small RAM.
+
+The program I want asks for a Sound Font file, a tuning file and
+a destination bank.  It then copies every preset from bank 0 into
+the new bank, and alters it to implement the tuning.  It sounds
+like you've done the difficult work already.
+
+When I posted a list on this thread before, I should have said
+that it is prioritised.  I use all the tuning features on my
+TX81Z, so it would be inconvenient to work with anything less.  It
+would be nice to at least experiment with much higher precision,
+but I don't expect it'll make much difference.  It's possible that
+I might one day start writing in highly complex JI that requires
+more than one transposed table to be used in a piece, but that's
+very much in the future.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk (Graham Breed) 
+Subject:  Re: Tritone ratios
+PostedDate:  13-01-98 19:49:01
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  13-01-98 19:48:29-13-01-98 19:48:29,13-01-98 19:48:17-13-01-98 19:48:17
+DeliveredDate:  13-01-98 19:48:17
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658B.00674DD3; Tue, 13 Jan 1998 19:48:50 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06055; Tue, 13 Jan 1998 19:49:01 +0100
+Date: Tue, 13 Jan 1998 19:49:01 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA06039
+Received: (qmail 29360 invoked from network); 13 Jan 1998 10:48:08 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 13 Jan 1998 10:48:08 -0800
+Message-Id: <memo.193994@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

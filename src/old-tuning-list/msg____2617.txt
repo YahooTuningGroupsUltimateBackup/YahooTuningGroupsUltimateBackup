@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Sun, 3 Mar 1996 07:12:20 -0800
+
+Subject: re: MIDI pitch bend
+
+From: DMB5561719@aol.com
+
+>I'm having trouble getting my EMU Proteus to play microtonally:
+>I use a Macintosh with Vision, and have sequenced lines, inserting pitch 
+>bend messages for microtonal alterations.  On playback, though, I kkep 
+>hearing the "bending" between each note.  How do I get it to attack each 
+>pitch without these little glissandi?
+>-Adam
+>asilverm@email.ir.miami.edu
+
+Move the pitch bend to a point earlier in the file. Before the
+note you're bending. I use Cakewalk Pro for Windows. If I open an event
+window, I can look at every midi event on one or more channels. 
+This makes midi events look more like a programming language.
+
+What I'd like to know is how to translate +/- 99 cents into +/- 8192
+pitch bends. I use a Proteus/2 and I find that with tunings
+that have more than 12 tones the timbre of the samples get 
+stretched so much that a clarinet or a bassoon don't sound right.
+
+Also, I'd be able to change tunings in a piece at whim. I wouldn't
+have to mess with the tuning tables of the synth.
+
+David Beardsley
+IMMP & Bink! music
+dmb5561719@aol.com
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 3 Mar 1996 16:21 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA08334; Sun, 3 Mar 1996 07:20:55 -0800
+Date: Sun, 3 Mar 1996 07:20:55 -0800
+Message-Id: <Pine.3.89.9603031003.B15836-0100000@email.ir.miami.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

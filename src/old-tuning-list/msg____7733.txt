@@ -1,0 +1,150 @@
+source file: m1412.txt
+Date: Mon, 11 May 1998 02:58:54 -0700
+
+Subject: Odd vs. Prime
+
+From: Carl Lumma <clumma@nni.com>
+
+The debate is being pushed to the limit.  What do I think?  It depends on
+how you're using "limit"...
+
+a) For describing music tuned in Just Intonation
+b) For describing music in root-of-two equal-step tunings
+
+For "a" I prefer prime, and for "b" I prefer odd.  Now I say I use "limit"
+for "describing music", NOT for creating an acoustical theory of interval
+perception.  I admit the two are intimately tied up, and I will address the
+latter only as the former requires.
+
+~~~~~
+(a)
+~~~~~
+In Just Intonation, no interval with a given prime factor in it will ever
+hit an interval without that prime factor, no matter how many times you
+stack the intervals.  As Gary Morrison points out...
+
+>>Admittedly, 2 is a very special prime number,
+>>in that it is the only one which is even (not odd), so
+>>most likely, this fact can go a long way to explain
+>>why we hear these similarities.
+>
+>You think so?  2 is the only prime that's even, but is that really all
+that >important?  3 is the only prime that's a multiple of 3, and 5 is the
+only >prime that's a multiple of 5.
+
+..this even applies to factors of 2.  That we consider intervals related
+by factors of 2 to be more or less equivalent most of the time supports the
+idea that prime-limit interval groups (not odd-limit, since 2 is even)
+share subjective qualities.  Against this, Paul E. argues...
+
+>"An arbitrary power of two produces an effect of equivalence." This must
+>of course include the case where the power is zero, and the equivalence
+>is greatest. The equivalence evidently falls off as the power increases.
+>
+>But what about steely coldness? Is it there when the power is zero? Does
+>a unison contain all potential interval qualities, to a greater degree
+>than the intervals themselves? It would seem hard to argue that way.
+
+..And I wonder if he is talking powers or factors.  Factors are involved
+in the ratio of frequencies in a given interval, and powers are involved in
+the stacking of any interval.  The idea is that adding a factor of 2 to an
+interval produces a new interval with a certain "sameness" to the first,
+because 2 is the "sameness factor".  And stacking any interval will produce
+a new interval with a certain "sameness" to the first, simply because
+stacking doesn't add any new factors of any kind. 
+
+If he's means what he says ("powers"), then his first paragraph is correct,
+but his second is not, as "steely coldness" is an attribute of the factor
+3, not the power 3.
+
+If he means factors instead of "powers", then I suppose his whole thing is
+correct.  Although I do not see why he insists on making the unison into
+some kind of "white light", I am willing to oblige.  As far as factor
+determines which partials line up, and all of the partials in a unison line
+up, the analogy holds...
+
+2 - sameness
+3 - steely coldness
+5 - sweetness
+7 - flourescent lightingness
+[etc]
+
+Now since we've brought stacking up, I've said I agree with his first
+paragraph (taken as writen ) in that equivalence does fall off as you
+stack.  Paul offers...
+
+>There seems to be a pervasive (mis)conception that, for
+>example, an 81/64 pythagorean major third has some of the
+>"strong/steely" characteristics of the perfect fifth and fourth, while
+>the 5/4 just major third has a different, "sweet/emotional" character.
+>Supposedly, this is due to the "character" of the prime numbers 3 and 5,
+>respectively.
+
+..except the particular example of 81/64 does not involve enough stackings
+to take away the "3-ness" of the interval.  I don't know how many stacking
+ya need, and it's probably different for every listener, for every timbre,
+for every limit and for every musical context.  But if I'm breathing, I'm
+not at a loss to hear the "3-ness" in the 81/64 or the "5-ness" in the 5/4.
+
+Although Paul E. adds...
+
+>To me, this sounds preposterous, as there seems to be no
+>mechanism or reason for the auditory system to be performing prime
+>factorizations.
+
+..I doubt the current understanding of the auditory system (or, more
+likely to be needed, the cognitive system that interprets the data) is
+sufficient to declare the existence or non-existence of such a mechanism.
+Talk of chaos theory notconvincing.
+
+So, with the "ness" of the prime, non-odd 2 firmly in hand, we can get back
+to the original point, shunning interval acoustics in favor of describing
+music.  We have the fact that no stacking (powers) of an interval will
+change the prime factors of the interval.  It will change the odd factors,
+however.  That's the point.  Why is it musically significant?  Because in
+music, we stack intervals.  And here's how it works.
+
+Mideval music choral music has ratios of 3 and 9, but not of 5 or 7.  So is
+it 9-limit?  Now you might say that we can just as well have music with 7's
+and no 5's, creating an ill-defined prime limit.  And true, we can have
+such a music, but we don't.  Except for isolated experiments with
+fixed-pitch instruments (I believe Fokker did work with such tunings),
+music has evolved by prime limit.  Pull out a CD of English tudor music, as
+sung by the King's Singers, for example, and try to add the 7's.  You
+won't.  They didn't, not for hundreds of years.  They've got ratios of 25
+and everything else needed to modulate around the 5-limit, throwing commas
+around like frisbees, but no 7's.  Barbershop's got 7's and 28's, and 63's
+a-plenty.  And 9's, and 18's, and 27's.  But no 11's.  Never will you hear
+an 11 used harmonically in Barbershop music.  And the first time you do,
+you'll be hearing them again soon and often :~)
+
+And that's the case for prime limit.  It's good because it describes music
+made in JI.
+
+~~~~~
+(b)
+~~~~~
+
+In root of two equal temperaments, stacking CHANGES THE INTERVALS.  Except
+when dealing with 2's, becuase they're just.  This means odds are  all fair
+play.  Witness Paul Hahn's measurement of level 2 and greater consistency:
+far from meaning he's on the "other side", it only makes sense at an odd
+limit.
+
+Because ET's make every interval in all the modes available to the 1/1
+(like a tonality diamond does in Just Intonation), you can measure lots of
+intervals just by looking at the primary intervals in each limit.  Say
+you've got good 3/2's and good 7/4's, you can bet you'll have good 7/6's
+too.  But that doesn't make the 6-7-9 triads consistant; there could be a
+better 9/7 that isn't 3/2 minus 7/6.  So you need seperate consistency
+measurements at both the 3 and 9 limits.
+
+The reason, I suspect, that Paul Erlich fights for odd limits: He is a man
+of equal temperaments :~)  The idea that 9's do not become harmonically
+significan't until we have 7's does not hold in my experience.  Try playing
+just 4-5-6-8-9 chords and see if the 9 doesn't serve the same purpose as it
+does in a 4-5-6-7-8-9 chord.  I use lots of 9 in my 12-tone compositions
+because it's so well represented in 12.  Listen to my compositions on my
+web page and see if the 9's don't work.
+
+Carl

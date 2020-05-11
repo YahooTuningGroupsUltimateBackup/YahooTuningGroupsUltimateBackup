@@ -1,0 +1,34 @@
+source file: mills2.txt
+Date: Wed, 8 Jan 1997 07:52:30 -0800
+
+Subject: Re: harmonicity of partials
+
+From: bil@ccrma.Stanford.EDU (Bill Schottstaedt)
+
+I got inspired by the recent discussion to digitize several
+1 minute takes of me playing the smoothest, non-vibrato
+notes I could on my cello, then run 1-megaword FFTs over the
+data, getting around .02 to .05 Hz resolution (unless
+I messed up the arithmetic...) in the fft bins, and within
+that resolution I couldn't see any inharmonicity that
+was consistent (that is, some partials were a tiny bit
+high, others low, others right on).  The actual multiplier
+overall was .9999875.  I got similar results from a
+harpsichord, but didn't have time to try recording
+a low piano note (we seem to have lost our copy of
+the McGill CD's, so I couldn't just grab that data).
+(I used a spline interpolation kludge to find the "true"
+peak, given the surrounding bins).
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 8 Jan 1997 19:26 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06105; Wed, 8 Jan 1997 19:29:25 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06039
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA13770; Wed, 8 Jan 1997 10:29:14 -0800
+Date: Wed, 8 Jan 1997 10:29:14 -0800
+Message-Id: <32D3E536.34C2@ix.netcom.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

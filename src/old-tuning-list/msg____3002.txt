@@ -1,0 +1,84 @@
+source file: mills2.txt
+Date: Tue, 4 Jun 1996 15:05:06 -0700
+
+Subject: Commas
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+I guess my bias on the "pythagorean thirds" issue is that while just 
+intonation is beautiful, and open-ended tunings are bountiful, for music 
+that goes by at a reasonable pace there is a lot to be gained from simple 
+structures that exploit enharmonic "punning." For example, we can look at 
+some common commas and the (equal-tempered) tuning systems that do and do 
+not distinguish them:
+
+_5-limit_
+
+81/80 (four perfect fifths up, two octaves and a major third down) (syntotic 
+comma) --
+	    distinguished in: 15, 22, 27, 32, 33, 34
+	    not distinguished in: 12, 19, 26, 31 (meantone systems)
+
+128/125 (one octave up, three major thirds down) (diesis) --
+	    distinguished in: 19, 22, 26, 31, 32, 34
+	    not distinguished in: 12, 15, 27, 33 (divisible by 3)
+
+
+_7-limit_
+
+36/35 (two perfect fifths up, a harmonic seventh and a major third down) 
+(septimal quarter tone) (syntotic comma plus septimal comma) --
+	    distinguished in: 15, 19, 22, 26, 27, 31, 32, 34
+	    not distinguished in: 12, 33
+
+49/48 (two harmonic sevenths up, an octave and a perfect fifth down) (larger 
+septimal sixth tone) --
+	    distinguished in: 12, 22, 26, 27, 31, 32, 33
+	    not distinguished in: 15, 19, 34
+
+50/49 (an octave and two major thirds up, two harmonic sevenths down) 
+(smaller septimal sixth tone) --
+	    distinguished in: 15, 19, 27, 31, 33, 34
+	    not distinguished in: 12, 22, 26, 32
+
+64/63 (two octaves up, a harmonic seventh and two perfect fifths down) 
+(septimal comma) --
+	    distinguished in: 19, 26, 31, 33, 34
+	    not distinguished in: 12, 15, 22, 27, 32
+
+126/125 (a harmonic seventh and two perfect fifths up, an octave and three 
+major thirds down) (diesis minus septimal comma) --
+	    distinguished in: 26, 32, 33
+	    not distinguished in: 12, 15, 19, 22, 27, 31, 34
+
+225/224 (two perfect fifths and two major thirds up, a harmonic seventh and 
+an octave down) (septimal quarter tone minus diesis) --
+	    distinguished in: 15, 26, 27, 34
+	    not distinguished in: 12, 19, 22, 31, 32, 33
+
+245/243 (an octave, two harmonic sevenths and a major third up, five perfect 
+fifths down) (larger septimal sixth tone minus syntotic comma) --
+	    distinguished in: 12, 15, 26, 31, 32, 33, 34
+	    not distinguished in: 19, 22, 27
+
+The commas could have been defined in terms of different constituent 
+intervals (such as minor thirds), and some of the results would have come 
+out differently, but the main result is the same: all of the equal 
+temperaments considered here are capable of some enharmonic punning, while 
+representing other commas with a nonzero number of scale degrees. This 
+number is not always positive -- you should be able to see that from the 
+above. In each equal temperament, then, certain harmonic progressions will 
+center around a smaller number of notes (a scale), while others will create 
+an abundance of chromatic (or hyperchromatic) motion.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 5 Jun 1996 00:20 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA28544; Tue, 4 Jun 1996 15:20:37 -0700
+Date: Tue, 4 Jun 1996 15:20:37 -0700
+Message-Id: <Pine.SCO.3.91.960604151840.4761A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

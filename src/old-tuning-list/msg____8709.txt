@@ -1,0 +1,36 @@
+source file: m1568.txt
+Date: 29 Oct 98 16:34:21 EST
+
+Subject: Re: TUNING digest 1567
+
+From: Larry.Polansky@Dartmouth.EDU (Larry Polansky)
+
+--- You wrote:
+
+
+Can anyone offer a comprehensive mathematical explanation of consonance?
+
+
+Robin
+
+--- end of quote ---
+
+I teach this topic a lot in my classes, robin, and there are some good
+resources. historically, tenney's History of Consonance and Dissonance is a
+good reference. Mathematically, i work a lot with my students (and use in my
+own composition work) some variant of the tenney HD function, which is very
+similar to the Euler function and the barlow function (these are explained
+pretty well in Chalmer's "Divisions...".). we've done some fun things here in
+seminars with plotting the different functions over common intervals, and so
+on, and it turns out that they're all pretty similar (low primes vs. few
+exponents is the basic idea), but have some interesting differences as well.
+
+
+these are not cognitive functions, exactly, which would need to use the
+critical band and a heck of a lot of other things (including timbre, context,
+temporal displacement, memory, etc etc etc)... they are something more like
+very concise cognitively informed musical similarity functions (if that makes
+any sense)
+
+
+lp

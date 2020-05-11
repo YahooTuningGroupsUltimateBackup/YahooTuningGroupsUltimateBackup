@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Fri, 17 Nov 1995 17:55:00 -0800
+
+Subject: Re: TUNING digest 561
+
+From: MORGAN ELLINGTON SMITH <SMITHME@hiram.edu>
+
+I'm not sure what everybody says about this, but according to Harry Partch the
+12-tone scale is derived from both the partials themselves and their relations
+to each other.  For instance, the perfect fourth is derived from the fourth 
+partial's relation to the third partial, transposed to be in relation to the 
+fundamental.  The seconds and sevenths must be derived by partials of partials,
+for instance the minor sixth is derived from the fifth partial's relationship 
+to the eighth partial (which is found as the fourth partial of the second 
+partial's overtone series, thus staying within the five-partial limit).
+If your fundamental is C, then, you get an "A flat" in your scale because it is
+a minor sixth up from the fundamental, even though that tone does not occur in 
+the harmonic series.
+	I assume that Partch's thinking is in line with other theorists, but 
+with Partch you never know.  The information above I got from _Interval_, 
+when they published an early draft of an intro to _Genesis_ called 
+"Exposition of Monophony."  I hope this is some of what you were looking to 
+find out, and I realize this may be stuff you already knew.
+						Morgan Smith
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 18 Nov 1995 08:55 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA14229; Fri, 17 Nov 1995 22:55:46 -0800
+Date: Fri, 17 Nov 1995 22:55:46 -0800
+Message-Id: <951118015447_109856415@mail02.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

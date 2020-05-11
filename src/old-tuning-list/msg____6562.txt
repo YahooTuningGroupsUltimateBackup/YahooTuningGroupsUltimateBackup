@@ -1,0 +1,89 @@
+source file: mills3.txt
+Date: Mon, 8 Dec 1997 23:35:10 +0100
+
+Subject: Reply to Gregg Gibson
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+It is interesting that you began with a question about Arabic music.
+Arabic modes use neutral seconds (which bisect minor thirds) and neutral
+thirds (which bisect perfect fifths) which are not present in 19-equal.
+So much for studying "all the modes melodically distinct to the ear!"
+Septimal intervals, the next logical step in consonance after the
+5-limit intervals in triads, are far better represented in 31-equal than
+19-equal. If you really believe that the 31-equal dieses are too small
+for use in melody, no one will force you to use them! Even avoiding
+them, you will have more melodic variety than in 19-equal, plus you will
+get much better 7-limit harmonies, far better 11-limit harmonies, and
+even those Arabic modes (just add 1 to the size of each of the
+heptatonic steps in an Arabic scale in 24-equal and you get a pretty
+good 31-equal approximation).
+
+22-equal, far from being worthless, has occupied me for the last six
+years; see my paper at
+http:/www-math.cudenver.edu/~jstarret/microtone.html under "Notes on
+Microtonality." Worthless for diatonicism, maybe; for escaping the
+diatonic hegemony, it may be our only hope. In a rare moment of
+compositional inspiration, I wrote a piece where the top voice moves
+down through 20 of the 22 tones. You can hear this on the Tuning-List
+Tape. Despite the 54.5 cent steps, I can sing this melody in the shower
+(but only if I clearly imagine the harmony).
+
+>>Of the heptatonic modes, the familiar seven of the diatonic genus
+>>have consonant chords on six of the seven degrees, as is universally
+>>known. More subtly, every one of these degrees is part of at least one
+>>consonant chord (actually, of at least two) within the untransposed
+>>diatonic order. No other heptatonic modal genus has above four of its
+>>seven degrees which are the roots of consonant chords within the genus,
+>>all of whose degrees are included within at least one consonant chord.
+>>These genera are four in number, including 28 modes. On C these are:
+>
+>>C   D   E   F   G   Ab   B   C
+>>C   D   E   F   G   Ab   Bb   C
+>>C   Db   E   F   Gb   A   Bb   C
+>>C   D   E   F   G#   A   B   C
+>
+>This looks interesting, but it sounds like you're saying there are four of
+>something that there are none of. Can you clarify please?
+>
+>Anyway, I recall someone posting about a psychology experiment back in the
+>50s or 30s where subjects were trained to listen to melodies whose interval
+>sizes were gradually decreased, over the course of months, to something like
+>tenths of tones. The subjects became quite comformtable with these melodic
+>sizes, could distinguish them quite clearly, and when exposed to conventional
+>Western music again, found the intervals very large.
+>
+>Someone with a lot of 12-equal training is likely to consider two notes
+>separated by 40 cents "the same", and two notes separated by 60 cents
+>"different." It doesn't take a genius of psychology to explain that. However,
+>both listeners and musicians are able to learn and enjoy considerably smaller
+>intervals, as many on this list can attest from personal experience.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  DMB5561719 <DMB5561719@aol.com>
+Subject:  Re: Tuning into the FUTURE.
+PostedDate:  09-12-97 00:35:57
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  09-12-97 00:34:05-09-12-97 00:34:06,09-12-97 00:33:53-09-12-97 00:33:54
+DeliveredDate:  09-12-97 00:33:54
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256567.00817491; Tue, 9 Dec 1997 00:34:00 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10114; Tue, 9 Dec 1997 00:35:57 +0100
+Date: Tue, 9 Dec 1997 00:35:57 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA10112
+Received: (qmail 22174 invoked from network); 8 Dec 1997 15:35:54 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Dec 1997 15:35:54 -0800
+Message-Id: <6fc37828.348c8122@aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

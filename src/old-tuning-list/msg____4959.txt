@@ -1,0 +1,65 @@
+source file: mills2.txt
+Date: Mon, 3 Mar 1997 04:09:49 -0800
+
+Subject: RE: Sympathetic Vibrations
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Sat, 1 Mar 1997, PAULE wrote:
+>                   In order to prove this experimentally, you could use 
+> magnetic pickups rather than acoustical resonators to determine the 
+> amplitude of the vibrations on the string . . .
+
+Below is a message which I sent some days ago, but which apparently
+never made it off my node:
+
+*** BEGIN QUOTED-MESSAGE ***
+Date: Thu, 27 Feb 1997 09:43:37 -0600 (CST)
+To: tuning@ella.mills.edu
+Subject: Re: Sympathetic Vibrations
+
+On Wed, 26 Feb 1997, Lydia Ayers wrote:
+> >Yes, but tubes present orders of magnitude more surface area to be acted
+> >upon by sound pressure than strings do.
+> 
+> Yes, they do have more surface area, and they could even be said to
+> contain their own resonators, since they are hollow.  But, even so,
+> it is the air that carries the vibrations which stimulate the 
+> sympathetic vibrations, not a sounding board connected to the
+> original stimulus and not cables or anything else.
+
+Nobody was questioning that air could transmit vibrations--that's what
+sound is, after all.  The original question was _can a string be set
+into significant vibrating motion by air vibrations alone?_  Examples
+involving tubes, or strings mechanically coupled to soundboards or
+other strings, do not help resolve this question.
+
+A simple experiment that _would_ resolve the question is this: sing at
+an electric guitar at a pitch matching one of the strings.  Note the
+level of the output and compare vs. a gentle pluck.  I'll bet it's
+several orders of magnitude (bels) lower.  Surely someone out there has
+an electric guitar handy?
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Do you like to gamble, Eddie?
+     -\-\-- o         Gamble money on pool games?"
+*** END QUOTED-MESSAGE ***
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Do you like to gamble, Eddie?
+     -\-\-- o         Gamble money on pool games?"
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 3 Mar 1997 13:20 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02900; Mon, 3 Mar 1997 13:20:55 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02898
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id EAA19735; Mon, 3 Mar 1997 04:19:08 -0800
+Date: Mon, 3 Mar 1997 04:19:08 -0800
+Message-Id: <Pine.SOL.3.91.970303061739.18729D-100000@library>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

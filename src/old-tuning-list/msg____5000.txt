@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Wed, 5 Mar 1997 16:02:13 -0800
+
+Subject: tuning an M1 with software
+
+From: Will Grant <wgrant@cats.ucsc.edu>
+
+I can't speak specifically about the M1, but most synthesizers
+can approximate only to within 3 cents of a pitch, sometimes as close
+as 1.5 cents. That's adequate for most purposes, but it's not enough
+if you want to generate beats, for example, from pitches .5 cents apart.
+
+Sometimes pitchbend is more exact than fine tuning.
+
+But it's a good idea to try out the equipment physically
+with the things you want to do before buying it.
+
+Faculty at UCSC might be able to find an M1 at Peter Elsea's studio,
+if they wanted to try one out.
+
+
+Will
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 6 Mar 1997 01:56 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07254; Thu, 6 Mar 1997 01:56:13 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07218
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id QAA19483; Wed, 5 Mar 1997 16:54:31 -0800
+Date: Wed, 5 Mar 1997 16:54:31 -0800
+Message-Id: <199703052216.RAA05404@sound.music.mcgill.ca>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Thu, 5 Jun 1997 11:03:08 +0200
+
+Subject: Re: Help!!!
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Can anyone explain following stuff in brief:
+>7 tone modes:
+>1 1 2 1 2       Thai mode 1
+>1 2 1 2 1       ,,    ,,  2
+>2 1 1 2 1       ,,    ,,  6
+>I cannot find out meanings of 2 or 1 ?
+
+   I don't know for certain, but I'd almost bet money that those describe
+pentatonic scales pulled from the Thai-traditional tuning of (very close
+to) 7-tone-per-octave equal-temperament.
+
+   The 2s mean a skip of two (1/7-octave) steps and the 1s mean a skip of 1
+step.
+
+   This would be in analogy to the Western, 7-toned major scale drawn from
+12TET chromatic scale, following the pattern 2 2 1 2 2 2 1.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 5 Jun 1997 11:06 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21356; Thu, 5 Jun 1997 11:06:22 +0200
+Date: Thu, 5 Jun 1997 11:06:22 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA01256
+Received: (qmail 9448 invoked from network); 5 Jun 1997 09:03:25 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 5 Jun 1997 09:03:25 -0000
+Message-Id: <v01541100afbbb1760d5c@[207.207.2.29]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

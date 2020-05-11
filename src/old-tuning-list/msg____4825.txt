@@ -1,0 +1,291 @@
+source file: mills2.txt
+Date: Tue, 18 Feb 1997 16:30:49 -0800
+
+Subject: Replies - "ghosttones"
+
+From: clucy@cix.compulink.co.uk (Charles Lucy)
+
+Reply to Matt Nathan's comments from Lucy
+ 
+>You're returning to an ambiguous use of the word "harmonics". 
+>Please utilize these defined terms instead:
+ 
+>Partials
+>Harmonic Partials
+>Inharmonic Partials
+>Flageolet tones 
+>Ghosttones (I can accept this term since you have defined it)
+>Complex Tones
+>Simple Tones
+ 
+Please can we get some definitions of these terms for me,
+and also for others who might like to use them with minimal
+ambiguity.
+ 
+ 
+>Since you wrote **"harmonics" (ghosttones?)**, I'll
+>proceed with the assumption that you're talking about
+>the tones you get when you lightly touch a string in
+>various places and pluck it. I'll also give you the 
+>benefit of the doubt and assume that you're talking 
+>about the lowest audible simple tone (sine wave) for 
+>each ghosttone, and not the complete timbre of each 
+>ghosttone with its many partials.
+ 
+ 
+ 
+ 
+>You're saying that the various tones you get by 
+>lightly touching an open string in various places 
+>form a continuous series separated by intervals of 
+>fourths and fifths. I doubt that this is so.
+ 
+>Please write out this series of fourths and fifths 
+>(in cents, or Hz, or multiplication factors
+>of the original open string frequency) along with 
+>a corresponding list of places on the string you'll have 
+>to touch in order to produce each of the pitches
+>in that series of fourths and fifths (in inches 
+>from bridge or nut, or portion of string length, or 
+>some other measure). Please explain why some positions 
+>in the series of fourths and fifths are skipped (do
+>not have a corresponding touch position), if any. I'm 
+>assuming the initial pitch at the beginning of the
+>series of is the untouched, open string. Please 
+>explain if this is different.
+ 
+>I've saved the rest of your message; let's discuss this 
+>much first.
+ 
+It is easiest to do this by posting the guitar fretting 
+positions as a start.
+I have also prepared a spreadsheet of integer ratios and difference
+beats, which could be used for using beats and a metronome.
+ 
+I hope that Tony Salinas can also add something about the
+piano tuning by beats to this.
+ 
+(sorry about the "tons" of numbers.)
+ 
+[ Whole number ratios only used up to 12 limit. ]
+ 
+LucyTuning beat frequency analysis  Reference Freq. A4 440 Hertz  
+  
+ Large Ratio (L)1.116633 small ratio (s)1.073344     Pi3.141593
+ 
+Position JI Ratio JI (dec.)LT Ratio JI Hertz LT Hertz Beat Hz. Beat
+bpm 
+  (A) I     1/1   1.000000 1.000000 440.0000 440.0000   0.0000    
+0.00 
+ (A#) #I   13/12  1.083333 1.040331 476.6667 457.7455  18.9211 
+1135.27 
+(Bb) bII   12/11  1.090909 1.073344 480.0000 472.2714   7.7286  
+463.72 
+ (Ax) Ix   11/10  1.100000 1.082288 484.0000 476.2068   7.7932  
+467.59 
+ (B) II    10/9   1.111111 1.116633 488.8889 491.3185   2.4296  
+145.77 
+ (B) II     9/8   1.125000 1.116633 495.0000 491.3185   3.6815  
+220.89 
+(Cb)bbIII   8/7   1.142857 1.152068 502.8571 506.9097   4.0526  
+243.15 
+(Cb)bbIII   7/6   1.166667 1.152068 513.3333 506.9097   6.4236  
+385.42 
+(B#) #II    7/6   1.166667 1.161668 513.3333 511.1337   2.1996  
+131.98 
+           13/11  1.181818          520.0000                          
+  
+(C) bIII    6/5   1.200000 1.198531 528.0000 527.3538   0.6462   
+38.77 
+           11/9   1.222222          537.7778                          
+  
+(C#) III    5/4   1.250000 1.246869 550.0000 548.6224   1.3776   
+82.66 
+           14/11  1.272727          560.0000                          
+  
+(Db) bIV    9/7   1.285714 1.286436 565.7143 566.0321   0.3178   
+19.07 
+           13/10  1.300000          572.0000                          
+  
+ (D) IV     4/3   1.333333 1.338319 586.6667 588.8606   2.1939  
+131.63 
+           15/11  1.363636          600.0000                          
+  
+(Ebb) bbV  11/8   1.375000 1.380789 605.0000 607.5472   2.5472  
+152.83 
+(D#) #IV    7/5   1.400000 1.392295 616.0000 612.6098   3.3902  
+203.41 
+ (Eb) bV    7/5   1.400000 1.436477 616.0000 632.0500  16.0500  
+963.00 
+           17/12  1.416667          623.3333                          
+  
+ (Eb) bV   10/7   1.428571 1.436477 628.5714 632.0500   3.4786  
+208.71 
+           13/9   1.444444          635.5556                          
+  
+           16/11  1.454545          640.0000                          
+  
+  (E) V     3/2   1.500000 1.494412 660.0000 657.5411   2.4589  
+147.54 
+(Fb) bbVI  17/11  1.545455 1.541834 680.0000 678.4071   1.5929   
+95.57 
+ (E#) #V   14/9   1.555556 1.554682 684.4444 684.0602   0.3842   
+23.05 
+ (E#) #V   11/7   1.571429 1.554682 691.4286 684.0602   7.3684  
+442.10 
+           19/12  1.583333          696.6667                          
+  
+ (F) bVI    8/5   1.600000 1.604018 704.0000 705.7678   1.7678  
+106.07 
+ (F) bVI   13/8   1.625000 1.604018 715.0000 705.7678   9.2322  
+553.93 
+           18/11  1.636364          720.0000                          
+  
+ (F#) VI    5/3   1.666667 1.668709 733.3333 734.2320   0.8986   
+53.92 
+           17/10  1.700000          748.0000                          
+  
+(Gb)bbVII  19/11  1.727273 1.721663 760.0000 757.5317   2.4683  
+148.10 
+(Fx) #VI    7/4   1.750000 1.736009 770.0000 763.8441   6.1559  
+369.35 
+(G) bVII    7/4   1.750000 1.791099 770.0000 788.0835  18.0835 
+1085.01 
+(G) bVII    9/5   1.800000 1.791099 792.0000 788.0835   3.9165  
+234.99 
+           20/11  1.818182          800.0000                          
+  
+           11/6   1.833333          806.6667                          
+  
+(G#) VII   11/6   1.833333 1.863335 806.6667 819.8676  13.2009  
+792.05 
+(G#) VII   13/7   1.857143 1.863335 817.1429 819.8676   2.7247  
+163.48 
+(G#) VII   15/8   1.875000 1.863335 825.0000 819.8676   5.1324  
+307.95 
+           17/9   1.888889          831.1111                          
+  
+           19/10  1.900000          836.0000                          
+  
+           21/11  1.909091          840.0000                          
+  
+(Ab)bVIII  23/12  1.916667 1.922465 843.3333 845.8848   2.5515  
+153.09 
+                                                                      
+  
+                                                                      
+  
+BTW for anyone who can use it this spreadsheet was set up to accept
+various
+values for the Reference frequencies in Hertz or Ratios for the Large
+interval. I can therefore run it on my Amiga for any meantone 
+(including most equal temperaments, which can be described by the
+size of the Large interval as a ratio.)
+ 
+lucy
+Another spreadsheet.....
+(ratios and nut to fret distances may be changed to calculate 
+for various tunings - see previous spreadsheet for frequencies)
+ 
+"Ghosttones" can be found at frets close in the cycle of forths and
+fifths.
+i.e. Through fifths   E, B, F#, C#, G#, etc.
+     Through fourths  D, G, C, F, Bb, Eb etc.
+ 
+The volume is lower the further you move away from A.
+ 
+Fret positions for LucyTuned 19 & 31 frets per octave instruments.
+Intervals >      Large        small
+Ratios    >     1.116633     1.073344 
+cents     >   190.9858     122.5354
+ 
+Distance of Nut to Bridge 650   (millimetres)
+Fifth
+Guitar
+String            FIRST OCTAVE        IntervalSECOND OCTAVE
+NoteName Scale    Distance  Fret  Fret (L&s)  Distance  Fret  Fret
+Marks@ * Position NutToFret of 19 of 31 from  NutToFret of 19 of 31
+A     ** I        0.0000     0     0    Nut   325.0000  19    31
+Bbb      bbII    19.9923     -     1  (2s-L)  334.9962   -    32
+A#       #I      25.1987     1     2   (L-s)  337.5994  20    33
+Bb       bII     44.4160     2     3     s    347.2080  21    34
+Ax       xI      49.4205     -     4  (2L-2s) 349.7103   -    35
+B        II      67.8928     3     5     L    358.9464  22    36
+Cb       bbIII   85.7970     -     6    2s    367.8985   -    37
+B#       #II     90.4595     4     7  (2L-s)  370.2298  23    38
+C      * bIII   107.6696     5     8   (L+s)  378.8348  24    39
+Dbb      bbIV   124.3503     -     9    3s    387.1751   -    40
+C#       III    128.6942     6    10    2L    389.3471  25    41
+Db       bIV    144.7283     7    11  (L+2s)  397.3641  26    42
+Cx       #III   148.9038     -    12  (3L-s)  399.4519   -    43
+D      * IV     164.3163     8    13  (2L+s)  407.1581  27    44
+Ebb      bbV    179.2546     -    14  (L+3s)  414.6273   -    45
+D#       #IV    183.1449     9    15    3L    416.5724  28    46
+Eb       bV     197.5042    10    16  (2L+2s) 423.7521  29    47
+Dx       xIV    201.2436     -    17  (4L-s)  425.6218   -    48
+E      * V      215.0462    11    18  (3L+s)  432.5231  30    49
+Fb       bbVI   228.4242     -    19  (2L+3s) 439.2121   -    50
+E#       #V     231.9081    12    20    4L    440.9541  31    51
+F        bVI    244.7676    13    21  (3L+2s) 447.3838  32    52
+Ex       xV     248.1164     -    22  (5L-s)  449.0582   -    53
+F#     * VI     260.4773    14    23  (4L+s)  455.2387  33    54
+Gb       bbVII  272.4580    15    24  (3L+3s) 461.2290  34    55
+Fx       #VI    275.5781     -    25    5L    462.7890   -    56
+G        bVII   287.0943    16    26  (4L+2s) 468.5472  35    57
+Abb      bbVIII 298.2564     -    27  (3L+4s) 474.1282   -    58
+G#       VII    301.1632    17    28  (5L+s)  475.5816  36    59
+Ab       bVIII  311.8925    18    29  (4L+3s) 480.9462  37    60
+Gx       #VII   314.6866     -    30    6L    482.3433   -    61
+A     ** VIII   325.0000    19    31  (5L+2s) 487.5000  38    62
+ 
+ 
+ 
+ 
+Reply to Gary Morrison:
+>Can you show us any specific evidence that this maps to partials of
+any
+>pitch from any instrument instrument more accurately than integer
+>multiples?  Or is the closeness of the mapping not your main point?  
+
+ 
+Yes, I believe it gives a better model of physical reality for
+monochords etc.  See above tables etc. to try it yourself.
+(We are into the partials semantics problem again.)
+I am attempting to build tunings on the "ghosttones".
+Partials are in this case "red herrings".
+ 
+ 
+ 
+ 
+> Are you sure that "consonant" is the best choice of words here? 
+Would
+>you for example view a major second (two fifths apart) as more
+consonant
+>than a major sixth (three fifths apart)?  
+ 
+Yes, in this tuning I have found the IInd (L) to be more "consonant"
+than the VIth (4L+s).
+ 
+reply Tony Salinass:
+
+To list the errors in Wilkinson's book would require another posting
+as long as this one.
+I found them all once and then left the book with Jonathan Glasier
+about five years ago, with corrects written in the book.
+Maybe someone has found it.
+Wilkinson does give a good explanation of the "problem with JI and
+other systems" re. lemmas etc.
+lucy
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 19 Feb 1997 01:36 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11044; Wed, 19 Feb 1997 01:35:59 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA11040
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id QAA07207; Tue, 18 Feb 1997 16:34:06 -0800
+Date: Tue, 18 Feb 1997 16:34:06 -0800
+Message-Id: <009B017A4DF0A3C6.3093@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

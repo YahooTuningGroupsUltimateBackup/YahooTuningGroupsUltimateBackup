@@ -1,0 +1,361 @@
+source file: mills2.txt
+Date: Tue, 24 Oct 1995 07:33:51 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: The accuracy of tunable MIDI synthesizers
+---
+>From time to time a recurrent gripe surfaces throughout the microtonal 
+community.  It centers on the supposedly "crude" tuning accuracy of 
+the typical synth module.  Ezra Sims is the most  vocal proponent 
+of this notion: he claims that the coarse tuning resolution of modern 
+MIDI synths makes them unusable for just intonation.  
+Does this claim have any basis in fact?
+First, a word about tuning tables and synths. Tuning tables on MIDI 
+synths have standardized on two accuracies: 1024 TU per octave and 
+768 TU per octave.  By far the most common tuning table standard is 
+768 TU/oct (64 steps per 12-TET scale step). This is the standard 
+used for tuning tables in the E-Mu Proteus I, Proteus II, Proteus 
+3, UltraProteus and Morpheus synths, along with the Yamaha TX11 and 
+TX81Z and the Waldorf Wave and MicroWave synths. (Dick Lord also  
+states that a tuning table accuracy of 768/oct is buried inside the 
+Ensoniq VFX, VFX-SQ, TX10, EPS,  EPS-16+ and ASR-10.  Most post-1988 
+Ensoniq synths are microtunable and let the user input values to the 
+nearest cent, but the tuning tables when entered have a tendency to 
+jump around after you've set 'em.  This would be consistent with a 
+tuning table quantum of 1.5625 cents, or 768 tuning units per octave.)
+In any case it's clear that the 768 tuning units per octave has become 
+a de facto standard.  So it's worth  discussing in some detail the 
+question of the  purported "crudity" of this TU (tuning unit).
+The first important point is that there is a big difference between 
+the *SIZE*  of the TU in the synth's tuning table, and the  
+*ACCURACY* of a specific tuning entered into that tuning table. 
+Everyone knows, for example, that the accuracy of a synth with a tuning 
+table having 768 parts per octave is 1.5625 cents: that is, 1200/768 
+cents.
+Everyone knows this, and it's  wrong.
+In fact, the accuracy of the synth depends on the  particular tuning 
+chosen. For example: if you tune your synth to 12 equal tones per 
+octave, the worst error is zero cents--and the average error is zero 
+cents.  This, because 12 is evenly divisible by 768 (768/12 = 64) 
+so each step of 12/oct falls exactly on a TU in the synth's tuning 
+table.  Thus for 12/oct (every 64 TUs), 24/oct (every 32 TUs), 48/oct 
+(every 16 TUs), 96/oct (every 8 TUs), 192/oct (every 4 TUs), 384/oct 
+(every 2 TUs) and 768/oct, the average error = the worst error of 
+the worst-tuned note...namely, zero cents.  For these scales, you 
+get perfect tuning accuracy within the limits of the jitter of the 
+synth's clock crystal and the sample-and-hold in the D/A converter. 
+---
+What about *other* tunings than power-of-two multiples of 12?
+To a first approximation, the *average accuracy*  of  any given 
+tuning should be somewhere around (1.5625/2) cents = 0.78125 cents.  
+This assumes that in the worst case a scale-step lies no more than 1/2 
+a tuning unit away...a logical enough assumption, as it turns out. 
+Remember:  if a given note is *more* than 50% of a TU above the 
+one chosen, accuracy could be gained by jumping  up to the next 
+higher tuning unit.  
+For example: if a desired scale-step were 1.6 tuning units away from, 
+say, 324 TU, we could gain accuracy by setting the synth to 326 TU 
+so that the error would be -40% of a TU instead of +160% of a TU.  The 
+same argument applies if the desired tuning step is more than 50% 
+below the set tuning unit. This cuts our 1st-approximation guesstimate 
+of the average error down to 1/2 of 1.5625 cents, for an average error 
+of 0.78125 cents.  But even this average error is actually too large.
+A moment's thought tells us that the accuracy is likely to be 
+significantly better than that on average, because it's *highly* unlikely 
+that every single step in our scale will be maxed out at the worst 
+possible 50% error of a TU error.  Thus, at first glance, the average 
+accuracy is likely to be much less than 50% of a TU-- that is, 
+<< 0.78125 cents.
+How likely?
+Well, at this point I'll diverge into a brief paragraph on the integrals 
+of  Gaussian vs. non-normal distributions over a given region.  The 
+integral of such a statistical distribution within an interval gives 
+the signed probability of an event within those numerical parameters; 
+for a normal or Gaussian distribution this is generally expressed 
+in terms of standard deviations from the mean.  The measurement is 
+non-linear, so that (if memory serves) 2 standard deviations out from 
+the mean excludes nearly 98% of the probable outcomes.
+Alas, this logic presumes a perfectly  Gaussian distribution of 
+scale-steps.   
+Clearly no musical tuning follows this distribution; a graph of the step 
+size of equal-tempered scales, for instance, shows a rising line 
+y = mx + b, not a bell curve. Similarly,  a graph of the free-free metal 
+bar scale successive step size is proportional to the square of the  
+hyperbolic cotangent (see Rossing, 1992, for details), while a graph 
+of the distribution of step-sizes of Harry Partch's 43 tones is a 
+stepped histogram with a bunch of near-equal clumps (since  21/20's 
+84.5 cents - the 33/32's 53.2 cents falls within 0.5 cents of the  
+81/80's 21.5 cents - the 33/32's 53.2 cents...and so on).  That is, 
+a number of the successive step-sizes in Partch's 43-tone  scale are 
+nearly identical, so their distribution again does not look anything 
+like a bell curve. (Again, it's a shame there are no graphics available
+on this tuning forum. Since the internet is hurtling us into the future
+at the speed of light, naturally we're stuck in 1970 with dark ages
+ASCII-only on-line technology.  Naturally!)
+Using  back-of-the-envelope guesstimates which would make even the 
+most reckless mathematician cringe, a flat-line ET scale- step 
+distribution by the halfway point would have considerably less area than 
+a Gaussian bell curve, while beyond the halfway  point it'd have lots 
+more area...so call it (1.8 + 0.25), or maybe 2.05 or so times the total
+ Gaussian area, while a hyperbolic cotangent's area over the domain would
+ at a  wild guess come out to perhaps 70% of the area of a bell curve...  
+So the expected average error in an ET scale should be about twice that 
+of the bell curve average error, while for the free-free metal bar 
+scale it should be perhaps 70% of the (1.5625/2) cents/step average.  
+(End of digression.  Bet you never thought a discussion of tuning 
+accuracy on synths would involve probability integrals!)
+What does all this mean?
+It means that the actual tuning accuracy for a 768 TU/oct synth is 
+likely to be completely different from what we'd expect from our 
+simplistic argument above (which led to the conclusion that the accuracy 
+should be << 0.78125 cents per scale step on average).
+On reflection, this is obvious.  Most real-world tunings will exhibit 
+a mix of large and small errors, with the largest error being a bit 
+less than 0.78125 and the smallest errors (excluding the always-zero 
+root note or 1/1) probably hovering around 0.01 or so. So to a second 
+approximation the average error should range twixt 0.2 cents and 0.4 
+cents, depending on the exact shape  of the statistical distribution 
+of step-sizes in the tuning, and the exact location of the mean 
+step-size.
+This tells us that to get real concrete answers, we'll need to do 
+some actual number-crunching and try a mini-Monte Carlo analysis. 
+So let's see what the actual worst scale-step, best scale-step and 
+average (total cents error divided by total number of scale-steps) 
+is for a number of different tunings:
+ 
+[1] For Partch's Monophonic fabric of 43 just tones the  error for 
+each step of the scale is:
+SCALE STEP   THEORETICAL   TUNED ON SYNTH    CENTS ERROR
+NUMBER           IN CENTS	       		IN CENTS
+0 (1/1)	     	[0.0]	        [0.0]	      	[0.0]
+1 (81/80)	 21.5062896       21.87		0.368710403
+2 (33/32)	 53.272943         53.125	 -0.147943229
+3 (21/20)      	84.4671934       84.375 	-0.092193469
+4 (16/15)	111.7312853     112.5	       0.768714742
+5 (12/11)	150.6370585     150.0	     -0.6370585
+6 (11/10)     	165.0042285    165.625	      0.620771502
+7 (10/9)	182.4037121    182.8125      0.40878787
+8 (9/8)		203.9100017    204.6875      0.777498271
+9 (8/7)         231.1740935    231.25          0.075906482
+10 (7/6)	266.8709056    267.1875      0.316594408
+11 (32/27)  	294.1349974     293.75	    -0.384997396
+12 (6/5)	315.641287      315.625	    -0.016287
+13 (11/9)	347.4079406   346.875 	    -0.532940629
+14 (5/4)       386.3137139   385.9375      -0.376213864
+15 (14/11)	417.5079641   417.1875      -0.320464092
+16 (9/7)	435.0840953   434.375	    -0.709095252
+17 (21/16)	470.7809073   470.3125	    -0.468407332
+18 (4/3)	498.0449991   498.4375	     0.392500873
+19 (27/20)	519.5512887   520.3125	     0.76121127
+20 (11/8)	551.3179424   551.5625	     0.244557637
+21 (7/5)	582.5121926   582.8125	     0.3003074
+22 (10/7)   	617.4878074   617.1875	    -0.300307392
+23 (16/11)  	648.6820576   648.4375	    -0.2444557627
+24 (40/27)  	680.4487113   679.6875	    -0.761211264
+25 (3/2) 	701.95500	701.562		-0.39250086
+26 (32/21)  	729.219092    729.6875	     0.468407348
+27 (14/9)   764.9159047   765.625	     0.709095272
+28 (11/7)   782.4920359   782.8125	     0.320464118
+30 (8/5)    813.6862861	  814.0625	     0.376213871
+31 (18/11)  852.5920594  853.125	     0.53294064
+32 (5/3)    884.358713	  884.375	     0.016287012
+33 (27/16)  905.8650026  906.25	     	0.384997406
+34 (12/7)   933.1290944   932.8125	    -0.316594386
+35 (7/4)    968.8259065    968.75	    -0.075906467
+36 (16/9)   996.0899983   995.3125	    -0.777498257
+37 (9/5)   1017.596288    1017.1875	    -0.40878786
+38 (20/11) 1034.995771  1034.375	    -0.62077149
+39 (11/6)  1049.362941	 1050.0	    	 0.63705851
+40 (15/8)  1088.268715   1087.5	     	0.768175
+41 (40/21)  1115.532807  1115.625	     0.09219348
+42 (64/33)  1146.727057  1146.875	     0.14794324
+43 (160/81) 1178.49371   1178.125       -0.3687104
+ 
+The average error per scale step is 0.40561  cents. The worst error 
+is 0.777 cents--roughly 3/4 of a cent--and the best-tuned scale step
+has an error of 0.016  or about 1/60 of a cent.  These numbers are 
+well within the  range of our second approximation back-of-the-envelope 
+calculation.
+ 
+[2] For  Wilson's first stellated tetrachordal hexany (Chalmers, "Divisions 
+of the Tetrachord," 1993, pg. 124:
+ 
+THEORETICAL   THEORETICAL 	TUNED ON SYNTH    CENTS ERROR
+NUMBER         IN CENTS	  	 IN CENTS       	  
+0 (1/1)	      [0.0]		   [0.0]	   [0.0]
+1 (28/27)	   62.960903	    62.5	  -0.460903
+2 (16/15)      111.731285	   112.5	    0.7687147
+3 (784/729)    125.921807	   126.5625	    0.6406922
+4 (448/405)    174.692189	   175.0	    0.3078108	   
+5 (256/225)    223.462570           223.4375	  -0.0250705
+6 (35/27)      449.274617	   450.0	    0.72538227
+7 (4/3)	   	498.044999	   498.4375      0.39250087
+8 (48/35)        546.815380	   546.875	    0.05961948
+9 (112/81)       561.005903	   560.9375	  -0.068403
+10 (64/45)       609.776284	   609.375	  -0.40128439
+11 (1792/1215) 672.737188	   673.4375	    0.70031172
+12 (224/135)   876.64719	   876.5625	  -0.08469
+13 (16/9)         996.089998	   995.3125    -0.77749825
+ 
+A median has little meaning for these sets of numbers, since
+no error appears more than twice and there are many errors
+in that category.  A median decile might have more significance,
+but its musical meaning is debatable--at least as debatable
+as that of the mean or average error.
+The average error is 0.41635 cents/step, similar to that of the Partch 
+scale.   As before, absolute cents are summed and divided by the total 
+number of scale degrees, and the 1/1 is ignored so as not to artificially 
+lower the average error.
+[3] Archytas' enharmonic (Mixolydian, B-b)  from Chalmers, "Divisions 
+of the Tetrachord," 1993, pg. 104:
+ 
+THEORETICAL   THEORETICAL 	TUNED ON SYNTH    CENTS ERROR
+NUMBER             IN CENTS	    IN CENTS     
+0 (1/1)	      [0.0]		  [0.0]		    	    [0.0]		
+1 (28/27)     62.960903	   	  62.5		          -0.460903
+2 (16/15)     111.731285	  112.5	          	0.7687147
+3 (4/3)		498.044999	  498.4375              0.39250087
+4 (112/81)    561.005903	  560.9375	         -0.068403
+5 (64/45)     609.776284	  609.375	         -0.40128439
+6 (16/9)      996.089998	  995.3125            -0.77749825
+ 
+The average error per scale step is in the same ballpark: 0.47818 cents 
+per step.
+ 
+[4] Ptolemy's intense chromatic (from Chalmers, "Divisions of the  
+Tetrachord," 1993, pg. 102:
+ 
+THEORETICAL   THEORETICAL 	TUNED ON SYNTH    CENTS ERROR
+NUMBER              IN CENTS	    IN CENTS       
+0 (1/1)		[0.0]		   [0.0]	   	  [0.0]
+1 (28/27)	   62.960903	   62.5	       -0.460903
+2 (10/9)	  182.403712	   182.8125	        0.4087878	
+3 (4/3)	  	498.044999	   498.4375           0.39250087
+4 (3/2)	  	701.955001             701.5625        -0.39250086
+5 (14/9)	  764.915904	   765.625	        0.70909527
+6 (16/9)	  996.089998	   995.3125         -0.77749825
+ 
+In this case the error's somewhat higher than previously: average 
+error of 0.523515 cents per step. Withal, still quite small.
+For all the just intonation scales considered above, the average of  
+the average errors/scale step is 0.458 cents.  This implies that if 
+you tune an arbitrary JI scale, your average error/step will be around 
+0.4 cents, with the average error increasing slightly as the number 
+of steps in your JI scale decreases.
+As is readily apparent, 0.4 cents is a far cry from the 1.5625 cents 
+generally quoted.  Clearly for JI scales the tuning *accuracy* 
+(for real-world scales) of a 768 TU/octave synth is *far* better 
+than has been bruited about by microtonalists who don't know their 
+math.
+So much for the tuning accuracy of a JI scale on a 768 TU/octave  
+synth.  But what about equal tempered scales?
+Rather than stupefy you with a recitativo of the error per scale step 
+for various equal temperaments, here's the  output from my simple 
+BASIC program for various ETs:
+ 
+TONES/OCT 	AVERAGE ERROR/STEP  WORST ERROR  BEST ERROR
+		IN CENTS	     IN CENTS         IN CENTS
+[5] 5/oct	0.375		   0.625		0.0
+[6] 13/oct	0.3883115	   0.600952      	0.0
+[7] 19/oct	0.3895362	   0.65789	 	0.0
+[8] 31/oct	0.3902204	   0.705688      	0.0
+[9] 41/oct	0.3040017	   -.7241209    	0.0
+[10] 53/oct	0.39048162	   -.7370605    	0.0
+[11] 72/oct	0.34722140	   0.5208282    	0.0
+ 
+Total average error: 0.369 cents, slightly lower than in the JI scales 
+considered above, probably because the ET scales have a fixed step 
+size thus a more even distribution of error sizes.
+As you can see, the average error per scale step is just about as 
+low for ETs as for the just intonation scales above.  And in  all 
+cases less than 0.4 cents.  Again, a damn small tuning error.
+To give you an idea of how small: at 100 Hz the ratio twixt two notes 
+using harmonic-series overtones (one note tuned with perfect accuracy 
+in the target scale, one note tuned in the best approximation allowed 
+by the synth) would amount to a whopping 2^[0.3040017/1200]  = 2^
+[2.833475  exp -4] = 1.0001964 for the 41/oct case.  At a fundamental 
+of 100  Hz this would produce an out-of-tune note of 100.01964 Hz, with 
+a  fundamental beat rate of 1 beat every  50.911 seconds. (Of course, 
+the 2nd harmonic would beat at twice that rate, with additional sum 
+and difference tones...and so on.)
+Now, come on, people...  Can you *really* hear the difference 
+between 1 beat every 51 seconds and the normal internal beating and 
+vibrato from a real-world acoustic instrument?
+Is that reasonable?
+Is an average beat rate of 1 per 51 seconds really something to get 
+all het up about?  Is anyone in your audience going to jump up and 
+shout "I can hear it!  It's out of tune!  There was a full two 
+thousandth of a beat in that sixteenth note at metronome marking 100!"
+Please.
+How many notes in the average JI or  xenharmonic equal-tempered  
+composition would last long enough to hear even *one fourth*  of a full
+ beat-complex?  
+Even assuming (that is) that your acoustic-instrument performers 
+were exactly, perfectly, precisely 100% in absolute theoretical tune 
+with the ideal frequency of the note required, to a full 6 or 7 digits 
+of precision! 
+Now, let's think about this, people.  This cursory little statistical 
+analysis tells us unequivocally that even with a purportedly "coarse" 
+tuning grid like 768 TU per octave, any audible error when playing 
+a synth with a live ensemble *far* more likely to be caused by 
+the *live  ensemble*  rather than the synth.
+Bearing in mind that Partch's tuning accuracy (which he required in 
+tuning his acoustic instruments) was "better than 2 cents," how likely 
+do you think it that any of the performers *or* the audience 
+will hear errors in the synth tuning averaging around 1/3 of a cent?  
+That's a tuning precision 6 times better than the accuracy Partch 
+demanded! The only possible conclusion to be gained from this little 
+investigation into the statistics of tuning accuracy is that concerns 
+about the "coarseness" and "inaccuracy" of a 768 TU synth are wildly 
+overblown. Now, some of you might argue about the significance of an 
+"average" tuning error (isn't the audience likely to hear and remember 
+the  *worst-tuned* notes, rather than some numerical "average"?).
+Rather than dispute the point, let's grant it.
+Even so..the worst tuning error in most cases is still likely to be 
+no more than twice the averages cited above.  That is, about 0.68 
+cents--*WORST CASE*.
+This means that the absolute worst-tuned note
+ played with a 768 tuning-unit synth would be mistuned by a ratio of
+ 2^[0.68/1200] = 2^[5.66 exp -4] 
+= 1.0003929:1.  For a properly-tuned note of  100H z this would 
+produce an out-of-tune note of 100.03929 Hz, and a fundamental beat 
+rate of 1 beat every 25.45 seconds.
+Can anyone seriously contend that this kind of so-called "inaccuracy" 
+is anything that even the keenest-eared member of the audience would 
+ever hear in anything but an hour-longLaMonte Young drone composition?
+>From now on, let's have no more of these preposterous claims that 
+is a very coarse and inadequate grid for [fill in the blank...just 
+intonation, equal temperaments, meantone,whatever]."  The facts do 
+not support such a contention.
+In fact, if Johnny Reinhard can produce a computer-analyzed solo from 
+of any of his live acoustic performances in which the average note 
+was no farther off than 1/3 of a cent, I'll eat his entire  collection 
+of microtonal manuscripts.  With Worchestershire sauce.  In one sitting!
+In real-world live acoustic solos, performed notes are generally played 
+*much* farther off than 0.3 to 0.4 cent...especially at rapid tempi 
+above 200 bpm. Sundberg's computer analyses show accuracies for 
+professional musicians in the neighborhood of 10 cents, while Shackford's
+ computer analyses show average accuracies for symphony performers in the
+ neighborhood of 15 cents.  This is *worlds* away from the average 1/3 
+cent error we've found here, and indeed the coefficients of thermal 
+expansion for wood and metal are such that an acoustic instrument would 
+almost certainly detune by *more* than 0.3 to 0.4 cents simply by 
+being moved from a cold car into a warm concert hall.
+So let us have no more claims that "768 TU per octave are inadequate 
+for microtonal music."
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 24 Oct 1995 19:51 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA05819; Tue, 24 Oct 1995 10:50:32 -0700
+Date: Tue, 24 Oct 1995 10:50:32 -0700
+Message-Id: <9510241742.AA03583@danhicks.math.nps.navy.mil>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

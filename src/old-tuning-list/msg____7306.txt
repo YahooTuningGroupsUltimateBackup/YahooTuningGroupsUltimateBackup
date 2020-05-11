@@ -1,0 +1,135 @@
+source file: m1367.txt
+Date: Fri, 27 Mar 1998 16:52:12 -0500
+
+Subject: Piano tunings - Pianotech controversy
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+This is moderately lomg, but I believe it to be well worth reading if
+you have any interest in alternative keyboard tunings.
+
+>}There is good
+>}solid controversy on the Pianotech list right now, concerning ET vs WT vs
+>MT,
+>}(nobody championing Pythagorean or Just, at the moment).
+>
+>There are two other types of tuning for a 12-note keyboard that one should be
+>aware of. I'm not sure what the contreversy or "championing" entails; if
+>we're talking about music for which MT is even an option, that's a limited
+>portion of the piano repertoire anyway. So I'm assuming this argument is more
+>along the lines of interesting or favorite tunings.
+>
+>
+>The first tuning I want to talk about was used on keyboard instruments in the
+>late medieval period. Known as schismatic tuning, this was really nothing
+>more than Pythagorean tuning, but instead of tuning 11 pure fifths from, say,
+>Eb to G#, one would tune 11 pure fifths from, say, A to Cx (C double-sharp).
+>Then, when one thinks one is playing in C major, one is actually starting on
+>B#, and the following scale results:
+>
+>0	204	384	498	702	882	1086	1200	(cents)
+>
+>Compare this with one version of the major scale in just intonation:
+>
+>1/1	9/8	5/4	4/3	3/2	5/3	15/8	2/1
+>0	204	386	498	702	884	1088	1200
+>
+>Clearly the correspondence is close. The scales that look like G major and F
+>major resemble other versions of the just major scale. Late medieval
+>composers wanted to take advantage of the consonant thirds and sixths that
+>characterized the new art, but did not want to stray too far from Pythagorean
+>principles. Clearly this was one way, though one which did not offer the full
+>triadic possibilities, even in one key, that later tunings such as meantone
+>and ET provided.
+>
+>
+>The second tuning I want to talk about is, as far as I know, and invention of
+>mine. As you may have guessed, it is a subset of 22-tone equal temperament.
+>Rather that approach the subject as I do in my paper, I will introduce
+>7-limit harmony in another way.
+>
+>In MT, the two German augmented sixth chords (usually Bb D F G# and Eb G Bb
+>C#) have a particularly concordant quality, resembling the seventh chords
+>sometimes encountered in barbershop singing. The two incomplete French
+>augmented sixth chords (Bb E G# and Eb A C#) also have a unique resonance.
+>Huygens, in advocating meantone tempermant, pointed out (back in the 17th
+>century, I believe) that these latter chords are used in compositions and in
+>meantone are tuned very nearly 1/7:1/5:1/4. This may have been the first
+>attempt to use the number 7 in explaining musical practice. The former chords
+>are tuned very nearly 4:5:6:7. These are what Partch would call 7-limit
+>otonal tetrads, while the latter chords are subsets of 7-limit utonal
+>tetrads. The complete 7-limit utonal tetrads, in what I consider to be "root
+>postion" (because of the perfect fifths) are C# E G# Bb and F# A C# Eb. In
+>MT, the chords in question are tuned
+>
+>0	386	697	965	(otonal)
+>
+>0	310	697	931	(utonal)
+>
+>Compare with just intonation:
+>
+>1/1	5/4	3/2	7/4	(otonal)
+>0	386	702	969
+>
+>1/1	6/5	3/2	12/7	(utonal)
+>0	316	702	933
+>
+>Clearly the correspondence is quite close. However, with only two of each
+>kind of tetrad available, there is not much 7-limit music one can make with
+>MT on a piano keyboard.
+>
+>One of the main findings of my paper is that 22-tone equal temperament is a
+>good way to make small sets of pitches contain large numbers of tolerable
+>7-limit tetrads. One example can be tuned on a piano as follows: The
+>intervals E-F and B-C are both tuned to 1/22 octave; the others are tuned to
+>2/22 octave. Now, using the traditional keyboard notation, the list of otonal
+>tetrads is
+>
+>Ab C Eb F#
+>Eb G Bb C#
+>D F# A C
+>A C# E G
+>E G# B D
+>
+>and the list of utonal tetrads is
+>
+>C# E G# Bb
+>G# B C# Eb
+>F Ab C D
+>C Eb G A
+>G Bb D E
+>
+>Notice that if the "third" of the chord is a white key, the others are black,
+>and vice versa. This makes it very easy to find these chords when playing
+>around with this tuning.
+>
+>How close is the correspondence to just intonation? These chords are tuned:
+>
+>0	382	709	982	(otonal)
+>
+>0	327	709	927	(utonal)
+>
+>Compare with just intonation again:
+>
+>1/1	5/4	3/2	7/4	(otonal)
+>0	386	702	969
+>
+>1/1	6/5	3/2	12/7	(utonal)
+>0	316	702	933
+>
+>Though not as good as meantone, clearly the approximation to just intonation
+>is still good, and the payoff is a 2.5-fold increase in the number of tetrads
+>to play with.
+>
+>The integrity of the diatonic scale is destroyed by this tuning, but my paper
+>suggests other scales that could take its place. These scales have 10 notes
+>instead of 7, so with only 12 notes on the keyboard, only a few modulations
+>will be possible before one needs more keys.
+>
+>Incidentally, there is one historical tuning with 10 semitones of one size
+>and 2 (E-F and B-C) of another. This is the tuning of Grammateus, where the
+>white keys are in meantone, and the black keys divide the whole tones exactly
+>in half.
+>
+>I would love to hear people's impressions (or better yet, music) of these
+>piano tunings.

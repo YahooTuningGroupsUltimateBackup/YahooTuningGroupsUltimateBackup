@@ -1,0 +1,62 @@
+source file: mills2.txt
+Date: Fri, 22 Dec 1995 12:03:33 -0800
+
+Subject: Re: ASR-10 RAM
+
+From: Gary <71670.2576@compuserve.com>
+
+> [1] The ASR-10 needs more RAM.  A *LOT*
+> more RAM.  Right now, the Kurzweill 2500
+> series can take up to 128 megs.  This
+> is a reasonable minimum amount: 256 megs
+> would be more like it.  But 128 megs is a
+> start.
+> The ASR-10, by contrast, is stuck with 16 megs.
+> This is around 90 seconds of sampling time at
+> 44.1 khz stereo.  Completely unacceptable.  Far
+> too small an amount of RAM to be useful.
+
+
+   BWEEEEEP BWEEEEEP BWEEEEEP BWEEEEEP BWEEEEEP BWEEEEEEP!  Danger Will
+Robinson!  Don't fall into the trap of using PCs as a model for RAM requirements
+on a sampler.  There is no limit to the astounding levels of inefficiency that
+programmers seem to be attaining on PCs, but there are definite physical limits
+to how much RAM you need to digitize audio.  
+
+   How much RAM you need depends a lot on what you're doing with the sampler.
+For example, if you're doing orchestral instrument simulations, everything's
+going to be looped and you don't need to sample in stereo.  If you:
+1.  Keep your loop sizes down below 1.5 seconds then each wavesample will be 
+    about that long on the average.  The fact that few loops need to be 1.5 
+    seconds long if you choose your sample material carefully, gives you 
+    room in 1.5 seconds for the attack transients.  (With the wonders of 
+    electronics, its easy to lose sight of the fact that, on a surprisingly 
+    large number of orchestral instruments, it's quite difficult to hold a 
+    single note longer than 6 seconds or so.)  
+2.  Introduce a new wavesample every major third on the average.
+3.  Use a typical orchestral instrument range at 2.5 octaves.
+4.  Limit yourself to 11 instruments total (violin, viola, 'cello, d.bass, 
+    flute, Bb/A clarinet, oboe, bassoon, F.horn, t.trombone, and tuba).  
+If I can still do mental arithmetic, that all totals up to 132 seconds of total
+sampling time for an entire orchestra.  That leaves some room for a generic
+string ensemble sound to enhance the individual string solo sounds, and maybe
+even a little room for some percussion.
+
+   Don't get me wrong;  I realize that that's a very scanty orchestra of limited
+accuracy.  And sure, I'd like to have more RAM expansion capacity alright.  But
+my point is not to immediately laugh off 16Meg of RAM and ask for double that,
+muchless 8 or 16 times that much, until you think out what you can do with
+16Meg.  You can do a heck of a lot with 16Meg!  Especially when the ASR-10 can
+(all by it's little lonesome) play direct-from-disk audio.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 22 Dec 1995 21:26 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA02656; Fri, 22 Dec 1995 12:26:28 -0800
+Date: Fri, 22 Dec 1995 12:26:28 -0800
+Message-Id: <199512222025.AA02566@interlock.wdni.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

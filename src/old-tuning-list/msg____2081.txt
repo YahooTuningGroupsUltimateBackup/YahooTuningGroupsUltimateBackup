@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Fri, 29 Sep 1995 20:30:16 -0700
+
+Subject: Quantum Mechanical Psychoacoustics
+
+From: MMCK@delphi.com
+
+The following message verges on science fiction, but I just can't
+help myself.
+
+A few days ago, I read an article in the October, 1995 Scientific
+American called "Quantum-Mechanical Computers" by Seth Lloyd. 
+The author describes the construction of a quantum mechanical
+computer which makes use of the Heisenburg uncertainty principle
+to solve difficult problems in combinatorial mathematics--a super
+fast factoring algorithm, for example.  The quantum computer
+would use particle energy state/positions to encode information. 
+I can't pretend to understand all the details yet, but if this
+really works is could be the scientific breakthrough of the
+century, IMHO.
+
+A day or so later I read Brian's post on psychoacoustics, and was
+struck by the idea that the brain might be a quantum mechanical
+computer.  This would explain many anomalies about how such an
+apparently slow system could consistently outperform silicon
+which seemingly operates hundreds or thousands of times faster. 
+It could also mean that far from a simple on/off coding for each
+neuron, that each exchange of an ion between two neurons could
+encode a multibit packet of information.
+
+If you've read this far, remember that I tried to warn you.
+
+Marion
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 30 Sep 1995 17:21 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA11855; Sat, 30 Sep 1995 08:21:12 -0700
+Date: Sat, 30 Sep 1995 08:21:12 -0700
+Message-Id:  <9509300820.aa01733@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,75 @@
+source file: mills3.txt
+Date: Sun, 7 Dec 1997 11:01:26 +0100
+
+Subject: Re: La Musique Arabe
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>In my experience the human ear
+>cannot reliably distinguish intervals closer than those of the 19-tone
+>equal, so the endless debates about minute distinctions between musical
+>ratios, or about equal temperaments with more than 19 tones in the
+>octave,  seem to me rather beside the point.
+
+   Wow.  I personally have never noticed anything to even close to that.
+
+   But perhaps that depends in what sense you're asking people to
+"distinguish" those intervals.  For example, I have no doubt that almost
+anybody with even casual musical training could distinguish a chromatic
+scale in ... oh, say 31TET ... from a glissando.
+
+   Perhaps that's too elementary of a distinguishing task though.  But even
+among some more subtle tasks, like noticing 19TET's flat M3 and P5, and
+comparing that to 31's right-on M3 and slightly flat P5, or to 12TET's
+way-sharp M3 and almost exact P5, I have found that there are many musical
+settings where those factors are audible.
+
+   I certainly do agree that there are many musical settings where the
+notes are just simply wizzing by too fast to hear those aspects of a tuning
+as such.  If that's the sort of distinction exercise you're talking about,
+then I'd agree with your conclusion up to a point anyway.
+
+   But there certainly are many other ways in which the nature of the
+tuning in which a composition is played can become apparent even if the
+notes are screaming by too fast to carefully evaluate the tuning of each
+one individually.  For example, even a very fast melody, provided that it
+is at least somwhat scalar, played in a tuning that has a comparatively
+flat leading tone (like 19TET or 31TET), is easy to hear as having that
+characteristic.
+
+   So, I guess I'd have to hear more about the nature of the limitation
+you've noticed before I can comment on it in greater detail.
+
+   By the way, the fact that 22TET is not "cyclic" (I presume by that you
+mean specifically that its major scale and its modes are not cyclic), opens
+up some intriguing musical possibilities, like seemingly impossible
+modulations.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Re: Problems in Notation
+PostedDate:  07-12-97 11:02:02
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  07-12-97 11:00:08-07-12-97 11:00:09,07-12-97 10:59:58-07-12-97 10:59:59
+DeliveredDate:  07-12-97 10:59:59
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256566.0036F0E1; Sun, 7 Dec 1997 11:00:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08326; Sun, 7 Dec 1997 11:02:02 +0100
+Date: Sun, 7 Dec 1997 11:02:02 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08512
+Received: (qmail 23982 invoked from network); 7 Dec 1997 02:01:39 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 7 Dec 1997 02:01:39 -0800
+Message-Id: <v01541104b0af85a5b335@[207.207.2.60]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

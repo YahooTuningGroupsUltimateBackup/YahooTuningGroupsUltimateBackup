@@ -1,0 +1,39 @@
+source file: m1349.txt
+Date: Tue, 10 Mar 1998 03:54:35 -0600 (CST)
+
+Subject: Interesting Little Problem
+
+From: mr88cet@texas.net (Gary Morrison)
+
+This past weekend I worked on an interesting little musical problem.
+Perhaps some of you would also find it interesting to ponder.
+
+   I'm writing an 88CET melodic-inversion utility program.  As with the
+transposition program I wrote earlier, it has a "pseudodiatonic" option.
+That is the 88CET analogy to saying that, if you start with a melody in,
+say D major, you end up with a melody also in D major.  It adjusts the
+pitches to bring them back into the D major scale.
+
+   I was having problems figuring out what exactly that table of
+adjustments would be in the case of inversions.  In the case of
+transpositions, it was pretty simple:  For example, if you start out in D
+major and transpose it up a major second up chromatically, you end up with
+a melody in E major.  That means that your adjustment table must indicate
+that G#s and D#s should be adjusted downward by a half step.
+
+   So I have a pretty simple function to create an adjustment table for
+transpositions.  But what about the adjustment table for melodic
+inversions?  For example, if your melody is in D major and you invert it
+about D, a supertonic (E) will chromatically invert to a subtonic (C), and
+would have to be adjusted up a half step to a leading tone (C#).
+
+   I thought about it a bit and found out that I can use the function that
+makes adjustment tables for transpositions also for making adjustment
+tables for inversions.  The puzzle is "what transposition factor produces
+the same adjustment table as inversion about a given diatonic scale
+degree?"
+
+   (Actually, I did this for my 2122121 88CET mode rather than the 2212221
+major mode, but it works out analogously.)
+
+   I'll describe the solution in a later posting.

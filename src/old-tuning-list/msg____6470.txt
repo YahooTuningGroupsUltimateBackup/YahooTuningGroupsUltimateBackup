@@ -1,0 +1,70 @@
+source file: mills3.txt
+Date: Fri, 21 Nov 1997 23:41:53 +0100
+
+Subject: TUNING digest 1244
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Paul Erlich wrote:
+
+< there is a history of attempts to identify "the
+<next step" in Western tuning after 12-equal; here are some
+<equal-tempered examples:
+<
+<8.2021: Bohlen, Pierce
+<16: Goldsmith
+<19: Salinas, Yasser
+<20: Balzano
+<24: Wychnegradsky
+<31: Huygens, Fokker
+<36: Gawel
+<41: von Janko
+<53: Mercator (did he strictly look at 3-limit? Who was the first to note=
+
+<the applicability of 53 to 5-limit?)
+<72: Richter-Herf (Partch missed this in his list -- it would have
+<disturbed him that an ET could come so close to 11-limit JI!)
+
+
+A few comments about this list: Balzano chose 20 as a scale with differen=
+t
+group characteristics from twelve in order to try out some perceptual
+hypotheses, not to offer ''the next step''. And Erv Wilson told me that
+Partch was unable to distinguish 41 from his system when playing on
+Wilson's 41tet tubulong (this gives an excellent approximation of the
+Partch scale, with the representations of 10/11 - 12/11 and 11/6 - 20/11
+sharing single pitches). As for 72, I would certainly add Sims, Manieri,
+and Tenney to the list to get out of that strange little _Ekmelische
+Sackgasse_. As for 53, the father of the triangulated lattice S. Tanaka h=
+as
+to be added!
+ =
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  jpff@maths.bath.ac.uk
+Subject:  Re: Windows tuning program
+PostedDate:  25-11-97 10:02:12
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  25-11-97 10:00:45-25-11-97 10:00:45,25-11-97 10:00:47-25-11-97 10:00:47
+DeliveredDate:  25-11-97 10:00:47
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125655A.00317D25; Tue, 25 Nov 1997 10:00:33 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00423; Tue, 25 Nov 1997 10:02:12 +0100
+Date: Tue, 25 Nov 1997 10:02:12 +0100
+Message-Id: <9711250902.AA00423@ns.ezh.nl>
+Received: from ella.mills.edu by ns (smtpxd); id XA00421
+Received: (qmail 3935 invoked from network); 24 Nov 1997 06:15:27 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 24 Nov 1997 06:15:27 -0800
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

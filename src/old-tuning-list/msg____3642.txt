@@ -1,0 +1,77 @@
+source file: mills2.txt
+Date: Fri, 20 Sep 1996 01:15:34 -0700
+
+Subject: Pitch spacings
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+I am currently drafting a fairly detailed text (for Xenharmonikon,
+possibly, but certainly for my own composition cogitation) about the
+spacing (or voicing) of pitch materials. This subject has only been treated
+in passing in harmony and orchestration texts. I will outline some of the
+main points, in hope of getting some feedback:
+
+Assumptions (big ones, I know, but useful in staking out the territory):
+(a) heard materials are mapped by the listener onto a just structure. (b)
+we are listening to an orchestra of sine waves (thus, the timbres of real
+instruments are not considered). (c) we have unlimited sample lengths
+(thus, perception of interval differences within the critical band is
+possible and harmonic rhythm is not an immediate concern).
+
+(1) General characterization of pitch spacing: (a) harmonically (larger
+intervals at the bottom, smaller at top), (b) neutrally (no preponderence
+of intervals) or (c) subharmonically. A characterization as harmonic
+follows when a pitch complex is analyzable at a lower position in a
+harmonic series than in a subharmonic series; a subharmonic
+characterization follow a contrary analysis; a neutral characterization is
+inconclusive.
+
+(2) Specification of pitch complex: (a) harmonic sonorities by fundamental,
+(b) neutral by central frequency - or ambiguously, between a fundamental
+and a guiding tone, (c) subharmonic by guiding tone (the lowest pitch
+common to the spectra of all pitches in the complex).
+
+(3) Evaluation of relative complexity: lowest mapping of the complex onto a
+harmonic series. (eg Major triad maps onto 4,5,6, minor onto 10,12,15 (or
+possibly 6,7,9)) divided by frequency of the fundamental in that mapping.
+(A method of calculating in greater detail needs to be established;
+possible models are in Chalmers, Divisions of the Tetrachord). 
+
+(4) Cohensiveness: "gaps" in the series seem to increase instability or
+ambiguity in perception. (eg the interval 3/2 is easier to perceive than
+the interval 3/1). (Why is it easier to tune superparticulars?) 
+Suggestion: gaps increase the uncertainty of the harmonic/subharmonic
+analysis.
+
+Comment: I am encouraged in making a fundamental distinction between
+harmonic and subharmonic materials by recent brain research identifying the
+emotion of happiness with lowered electrical activity in the brain. Whether
+this is caused by eating chocolate or the processing of small-number ratios
+seems all the same. It makes sense that the harmonic series, marching
+happily onward up to the infinite is much easier to process than the
+subharmonic, going inexorably to the quantum depths of the infinitesimal.
+Could this be part of the mechanism though which we class the Major triad
+as "happy" and the minor as "sad".
+
+
+Daniel Wolf
+Ludwig-Landmann-Str. 84 B
+60488 Frankfurt Germany
++49 69 764307
+http://ourworld.compuserve.com/homepages/DJWOLF_MATERIAL
+      
+
+ 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Sep 1996 10:26 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24605; Fri, 20 Sep 1996 10:27:40 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA23701
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id BAA24340; Fri, 20 Sep 1996 01:27:30 -0700
+Date: Fri, 20 Sep 1996 01:27:30 -0700
+Message-Id: <32426392.284E@cavehill.dnet.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

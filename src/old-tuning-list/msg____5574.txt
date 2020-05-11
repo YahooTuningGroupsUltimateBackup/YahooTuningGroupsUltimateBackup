@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Sun, 1 Jun 1997 20:31:59 +0200
+
+Subject: Re: millenium
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Would you even go further and
+>call this the first millenium - because we have not yet completed the
+>second?
+
+   There's no real reason why the labeling of a century (or whatever) must
+match its number in sequence.  It's perfectly fine, for example, to call
+the 20th century the one all of whose years begin with 19.  Or for that
+matter to call the first year "the year of the dog", or the year 82b
+hexadecimal.
+
+
+
+
+>Your interval-counting example is a good one.
+
+   Thanks.
+
+
+
+
+>The value 0 is not always meaningful for musical purposes, however.
+>Consider a harmonic series over the fundamental n. The series goes: (1n,
+>2n, 3n ...).
+
+   Those are multiplicative factors rather than additive displacements like
+intervals are nominally used for.  So yes, in that multiplicative context,
+0 doesn't make much sense.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 1 Jun 1997 22:35 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06146; Sun, 1 Jun 1997 22:35:32 +0200
+Date: Sun, 1 Jun 1997 22:35:32 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA06134
+Received: (qmail 22258 invoked from network); 1 Jun 1997 20:34:20 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Jun 1997 20:34:20 -0000
+Message-Id: <970601163229_-128473765@emout18.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

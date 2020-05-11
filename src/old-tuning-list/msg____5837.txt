@@ -1,0 +1,90 @@
+source file: mills2.txt
+Date: Sun, 13 Jul 1997 16:32:38 +0200
+
+Subject: Re:Historical Temperaments
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Ed Remler wrote:
+
+<1) Broadwood's remarks relate only to ET's introduction to England. 1811<is the year he wrote an article describing and advocating it in England.<He claimed it was in general use but it is clear that he must have meant<that in reference to continental Europe which England had been separated<from by the Napoleonic wars. In fact ET was not generally used for
+<pianos in England until 1846, and no English organ was tuned to ET even
+<by the time of the (British) Great Exhibition  of 1851.
+
+The problem with this remark is that it assumes a backward position for
+England.
+It is absolutely clear that piano manufacturing in the period in questionwas most
+advanced in England (hence the demand for English instruments by all the
+Viennese
+masters), and it would be surprising to find that the tuning practice
+would be behind the continent.
+
+<2)Prior to the publication by Mersenne of the correct frequency ratios
+<for ET in 1636 it would have been practically impossible to tune in ET.
+<Subsequent to that time it spread through continental Europe. Mersenne,
+<the founder of physical acoustics, discovered harmonics and beats
+<between them and the history of the use of beats to tune in ET is
+<unknown to me, but exact rules for ET tuning are relatively unimportant.<First of all, of course, tuning is never exact. Second of all the St.
+<Jacobi-Kirche organ in Hamburg was tuned to ET as early as 1688 which
+<suggests that at least one practical method for tuning in ET based on
+<Mersenne's discoveries was already known. Third, von Helmholtz (p.321 of<Dover Edition) quotes Marpurg who quotes Kirnberger, a pupil of J.S.
+<Bach, that he required all major Thirds to be sharpened, and this can
+<only mean sharpened with respect to MT which is 14 cents flatter the ET.<This is important not only to show Bach's preferences, but to indicate
+<how clavier tuners probably tuned in ET as a practical matter at that
+<time (pre 1750). Furthermore, Bach's son Emanuel is quoted in 1753 as
+<declaring ET as 'required' for the 'true art of playing the clavier'.
+
+The publication of the correct ratios is insufficient to produce a correct
+tuning.
+And accurate clock or metronome would also be neccesary and such
+instruments
+were not widely available until after Mozart's death. (The famous Paris
+pendulum
+measurements of tempi for Mozart are a good example of the latitude
+tolerated,
+which would certainly not be adequate to claim any tuning as ET).
+
+The claims for the Jacobi-Kirche are anecdoctal and were - with the
+available
+technology - impossible to verify. In addition, I would be very skepticalabout the
+influence of a single Evangelische Church organ in the Free and Hansa State
+of Hamburg upon Catholic organs at general in the Austrian-Hungarian Monarchy.
+
+(Those unfamiliar with German history or language should know that at thetime
+in question, no large German state existed but many smaller ones, and that
+the
+divisions by religious confession and language/dialect were formidable. Acitizen
+of Hamburg was usually Protestant and spoke a language that a Catholic from
+Salzburg
+would have understood only with great difficulty - or only through use ofan intermediate
+language). Indeed, the musical demands upon Catholic Church organs duringthe
+Josephian reform era were so circumscribed that the virtuoso organ
+literature of
+earlier eras would have been unusable in the Church - even if the composers
+of
+that repertoire had been Catholic. Meantone was entirely sufficient for the
+repertoire
+that was actually used in Austrian Catholic Churches.  Kirnberg's tuning do indeed introduce sharp thirds but they are by no means
+ETs.
+
+<3) There is no doubt that all the great masters of the classical period
+<considered ET to be the ideal. (There are also remarks about this by
+<Charles Rosen in, I believe, his 'The Classical Style'.) As someone has already pointed out, Mozart taught his students an interval
+theory
+that described unequal divisions of the whole tone. The Attwood-Studien are
+certainly
+the closest Mozart himself comes to describing an ideal, if he had one, and
+that looks
+much more like meantone than ET. Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 13 Jul 1997 18:08 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11716; Sun, 13 Jul 1997 18:09:03 +0200
+Date: Sun, 13 Jul 1997 18:09:03 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA11678
+Received: (qmail 17277 invoked from network); 13 Jul 1997 16:09:00 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 13 Jul 1997 16:09:00 -0000
+Message-Id: <Pine.A32.3.91.970713095638.42755A-100000@tiger.cudenver.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

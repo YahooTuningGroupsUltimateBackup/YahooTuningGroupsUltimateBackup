@@ -1,0 +1,24 @@
+source file: mills3.txt
+Date: Tue, 25 Nov 1997 10:40:09 +0100
+
+Subject: Re: TUNING digest 1246
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+In Tuning Digest 1246 gbreed@cix.compulink.co.uk (Graham Breed) said:
+
+>After a brief experiment, I've concluded that the internal MIDI
+>stream in a PC is _not_ restricted to the MIDI hardware speed.
+>I think I was getting controller changes every 43 microseconds,
+>although I haven't worked out Cubase's timing format yet.  Maybe
+>someone with a Tropez Plus could measure how long the tuning dumps
+>really take to arrive.
+
+I have a Tropez Plus and would be willing to do the test but I'm not sure
+how to accomplish it.  Any hints?
+--- Fred
+
+
+---------------------------------------------------------
+ Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+ phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca

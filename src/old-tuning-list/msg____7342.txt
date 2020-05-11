@@ -1,0 +1,37 @@
+source file: m1371.txt
+Date: Wed, 01 Apr 1998 09:24:07 +0000
+
+Subject: not every multisample is really tuned to a multiple of 100 cent?
+
+From: BUYO-BUYO-IGOR <igor@db3.so-net.or.jp>
+
+Thanx Ken for the QT info,
+
+Now I know which is the right wy to play microtone bu QT I would also 
+follow the way you choose.....now beginning to use the word "about that 
+much"..
+
+>I don't bother rounding off bends in MIDI files since they're intended
+>to be played on different machines with different PB precisions, 
+
+BTW.
+Someone told me this...this one will become rather bigger oh my Buddha!
+
+> cents, which is not too bad. A bigger error source in QT (and other
+> sample based synths) with microtuning is that not every multisample is
+> really tuned to a multiple of 100 cent, i.e. a precise halftone.
+
+
+-- 
+------------------8<-----------------------
+BUYO-BUYO-IGOR
+SaRiGaMa's Oil Vending Orchestra
+Japanese HomePage=http://come.to/sarigama
+International HomePage=http://www.mars.dti.ne.jp/~buyobuyo
+E-Mail=gianthead@bigfoot.com
+Jammin' on Mar29,May24
+Plans=http://www.mars.dti.ne.jp/~buyobuyo/sarisari/forsari.html 
+Also on Jun28
+Plans=http://www.mars.dti.ne.jp/~buyobuyo/gamagama/forgama.html
+Birth of "World Wide Deb" Jam (=non SaRiGaMa) on Apr26
+What?=http://www.mars.dti.ne.jp/~buyobuyo/bands/wwd.html

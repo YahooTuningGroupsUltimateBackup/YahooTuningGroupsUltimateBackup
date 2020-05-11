@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Sun, 25 May 1997 20:33:02 +0200
+
+Subject: Re: Harmonics & beats are better .. (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PErlich <AAM/AAM/PErlich%Acadian@mcimail.com>
+
+Ray Tomes wrote,
+
+>I would suggest that it would be possible to make some tempered tunings
+>which are not too far from equitempered tunings, but which have beats
+>that are reasonably well in tune.  Has anyone ever investigated this?
+>It might be a fruitful exercise.
+
+First, let's get some acoustics straight. Beats only occur between tones 
+that are very close (within a critical bandwidth) and are never heard as 
+musical tones, even when they are rapid enough to match the frequency of 
+audible tones. Helmholtz is a good reference for all this, and should be 
+quite readable to a 19th century mind like Ray's :). However, at loud 
+volumes, nonlinearities in our ears cause "difference tones" as well as 
+other, weaker "combination tones" to be heard. So Ray's analysis is 
+mathematically valid but applies not to "beats" at all but to difference 
+tones. Difference tones are important (Heinz Bohlen believes difference 
+tones to be the foundation of all harmony) while matching beat rates to 
+scale pitches can have no musical significance whatsoever.
+
+Now, to answer the question, with "beats" changed to "difference tones," I 
+believe Erv Wilson's meta-meantone tuning has some difference tones that 
+are in tune with each other. It should also be possible to devise meantone 
+tunings where some difference tones are in tune with some scale tones. 
+Perhaps John Chalmers or Manuel Op de Coul have compiled a list of such 
+tunings? The nice thing about meantone tuning, of course, is that re-la is 
+what it "wants to be."
+
+--
+P.S. (MOdC) Interesting thought but I haven't.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 25 May 1997 21:50 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09612; Sun, 25 May 1997 21:50:26 +0200
+Date: Sun, 25 May 1997 21:50:26 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA09608
+Received: (qmail 10678 invoked from network); 25 May 1997 19:50:11 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 25 May 1997 19:50:11 -0000
+Message-Id: <199705251549_MC2-1742-F714@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

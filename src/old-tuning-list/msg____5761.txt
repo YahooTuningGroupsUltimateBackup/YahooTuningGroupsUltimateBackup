@@ -1,0 +1,68 @@
+source file: mills2.txt
+Date: Sun, 6 Jul 1997 02:51:39 +0200
+
+Subject: Going to extremes
+
+From: "Kami Rousseau" <kami@InterLinx.qc.ca>
+
+> 	In the microtonal world, however, because of the unfamiliarity of 
+> the tonal materials, I think, not as much deviation is appropriate, as we
+
+> may lose the meaning or structure of the original. 
+
+C(15)  C(15)  Bb(13) Cb(14)
+G(09)  A(11)  F(06)  Gb(08)
+E(05)  F(06)  D(02)  Eb(04)
+A(11)  D(02)  G(08)  Cb(14)
+VI     II     V      I
+
+This is the chord progression I've used, in 15TET. For your information, it
+is the tuning that has the largest wandering tonic, 80 cents. When I first
+started to explore this tuning, the only documentation I had was
+Blackwood's chord progressions.
+
+ I discovered this wandering tonic by accident, while I was writing ii V7 I
+progressions in various tunings (7TET, 12TET, 18TET and 22TET). By the way,
+the 22TET version sounds has a very powerful sound. I can send a short .mid
+with the I IV V I in 22TET (staying on the same tonic) to anyone
+interested. 
+
+After thinking for a certain time, I found a melody that was harmonised
+using only ii V7 I. You've probably heard it, it was last week's microtonal
+midi moment. Of course, I've used this new musical effect to the limit. I
+do not want to start a musical revolution, I am just exploring. 
+
+BTW, I am not deaf, I can hear the very "special" sound that my music has.
+It feels like you don't end up where you're supposed to. It took me a short
+while to get used to this new sound. It is understandable that people
+repudiate music whose basic structure is complex. The fact that music that
+sounds too normal won't be noticed is also generaly accepted.
+
+The problem is that I am now somewhere in between. If, in the back of your
+mind, you do not believe that valuable music can be composed using
+wandering tonics, your perception of the tonic will stay at the 1/1, and
+when it goes down 80 cents, you will feel uncomfortable. But if you have
+enough fate to accept the descending of the tonic, the wandering will
+become natural, and it is  normal music will make you feel a little
+uncomfortable, because it will sound "too static".
+
+Now, maybe you think that I am crazy. The same musical could be applied in
+22TET, and be more "digestible", or more subtile. But 22 does not seem like
+a challenge to me (for the time being), and I choose to dwelve in this new
+unexplored territory, to "boldly go where no one has gone before", where
+tonality is eternaly moving. (There are many other resources, I'll write
+about them later.)
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 6 Jul 1997 03:00 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05501; Sun, 6 Jul 1997 03:01:20 +0200
+Date: Sun, 6 Jul 1997 03:01:20 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05515
+Received: (qmail 24385 invoked from network); 6 Jul 1997 01:01:17 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 6 Jul 1997 01:01:17 -0000
+Message-Id: <Pine.A32.3.91.970705175414.116036D-100000@quake.garlic.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

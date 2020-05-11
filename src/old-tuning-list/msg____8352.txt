@@ -1,0 +1,32 @@
+source file: m1502.txt
+Date: Wed, 12 Aug 1998 20:37:56 -0500
+
+Subject: Re: seeking midi tuning help
+
+From: "John Loffink" <jloffink@pdq.net>
+
+>From: Joseph Milne <alfar@globalnet.co.uk>
+>
+>I am new to trying to understand sysex and would be very help with some
+>basic guidance.
+>
+>I am trying to send the commands in Cakewalk to my Roland card to tune in
+>just tuning, but I seem to get no result. I suspect I am not writing the
+>sysex quite properly. I have some demo midi's which show the difference
+>between tempered and just tuning and they definitely work and the
+>differences are quite audible, so I know my card responds to the tuning
+>commands.
+>
+>The message I am writing is the following:
+>
+>F0 41 10 6A 12 00 00 20 00 50 5B 54 5F 42 4E 3E 52 5D 40 30 44 2F F7
+>
+>Cakewalk sends it but the tuning remains tempered. So what am I missing
+out?
+>
+It appears you have an extra byte from somewhere.  All of Ben Tubb's GS
+tuning examples at my web site are 22 bytes long.  Yours is 23 bytes.
+
+John Loffink
+jloffink@pdq.net
+http://freeweb.pdq.net/jloffink/

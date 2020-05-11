@@ -1,0 +1,59 @@
+source file: mills2.txt
+Date: Sat, 3 May 1997 02:08:18 -0700
+
+Subject: Re: TUNING digest 1056
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>please, someone, give me a hand. I don't understand thee fraction
+>representaions. (e.g. 3/2 G ? why ? etc)
+>however, I am in the most advanced class in math around :(
+
+   Fortunately, the math involved isn't terribly complicated.  Also 3/2
+(same as 3:2) doesn't really necessarily imply a G.  It does only in the
+key of C.
+
+   This harkens back to the age-old, venerable, and still pretty much
+accepted, observation attributed to Pythagoras, that our ears are
+exceptionally sensitive to simple ratios of vibrational frequency.  This is
+the basis behind just intonation - tunings built around precise renderings
+of these simple ratios, rather than approximations to them like our usual
+tuning (12-Tone-per-octave Equal-Temperament, often abbreviated "12-equal",
+"12TET", "12tET", or "12ET").
+
+   The simple ratio for an octave is 2:1, meaning that the vibrational
+frequency of the higher note is twice the frequency of the lower one.  The
+ratio for the perfect fifth (G being a P5 above C), is 3:2.  Here are some
+others:
+
+Perfect Fourth P4 4:3
+Major Third M3 5:4
+Minor Third m3 6:5
+Major Sixth M6 5:3
+Minor Sixth m6 8:5
+Major Second M2 either 9:8 or 10:9, the difference between the two being a
+   "syntonic comma", or Paul R. would presumably call it a Just Syntonic Comma
+   or perhaps a 5-limit Just Syntonic Comma.
+Major Seventh M7 15:8
+
+   And heading into nontraditional harmonies:
+Septimal subminor third Septimal minor third 7:6
+Septimal subminor seventh Septimal minor seventh 7:4
+Neutral third 11:9 (11:9 is the most commonly-discussed neutral third, but
+   there are others.)
+And there are many many others in this comparatively unexplored realm.
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 3 May 1997 13:34 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03436; Sat, 3 May 1997 13:34:34 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03481
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id EAA24778; Sat, 3 May 1997 04:32:55 -0700
+Date: Sat, 3 May 1997 04:32:55 -0700
+Message-Id: <v01541101af90861e77d1@[207.207.3.154]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

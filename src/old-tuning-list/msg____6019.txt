@@ -1,0 +1,76 @@
+source file: mills3.txt
+Date: Wed, 27 Aug 1997 19:42:16 +0200
+
+Subject: Re: Srutis
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Bill Alves wrote:
+
+> The first known Indian treatise to describe the octave divided into 22
+> srutis is the Natyasastra of Bharata. Estimates of its date range from the
+> 5th century BC to the 4th century AD. I tend to trust Jairazbhoy, who
+> estimates that it comes from the "first few centuries AD." Bharata
+> discusses two grama, or scale-types: Sa-grama -- 4 3 2 4 4 3 2 -- and
+> Ma-grama -- 4 3 4 2 4 3 2. He does not discuss their precise tuning.
+
+Thanks, 4th century is very early.  I'm convinced that these
+scales are an attempt to describe diatonic scales with a major
+tone as 4 steps, a minor tone as 3 steps and a diatonic semitone
+as 2 steps.  I think it is quite plausible that an Indian musician
+could have set up a scale with 22 perceptually equal steps, and
+compared it with tunings in use at the time.  That there are two
+different tones in the scales means this can't be an attempt to
+describe a negative meantone.  It could well imply triadic harmony
+using small integer ratios.
+
+Incidentally, I had Ma-grama as 4 3 2 4 3 4 2.  Apologies to
+anyone who received perplexing e-mails from me based on this error.
+
+I won't go into my historical theories in detail today, but I am
+interested in exactly where the major scale came from.  The usual
+explanation is that it originated in Europe, based on Ancient
+Greek ideas.  This evidence appears to totally contradict that.
+It's absolute dynamite!
+
+
+Paul Erlich wrote:
+
+> Certainly the evidence suggests that India achieved the 5-limit
+> before the West.
+
+Does "the West" include Greece and Byzantium here?  Xenakis
+describes Byzantine tetrachords in terms of 7-limit frequency
+ratios, but I don't know how reliable his sources are.  Every now
+and then, discussions of Ancient Greek music arise on the list,
+but they are too detailed for me to draw general conclusions from
+them.  I expect coverage of this in the FAQ we've been promised.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk
+Subject:  Reply to Paul Erlich
+PostedDate:  27-08-97 19:41:19
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  28-08-97 10:21:36-28-08-97 10:21:38,28-08-97 10:19:10-28-08-97 10:19:11
+DeliveredDate:  28-08-97 10:19:11
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256501.002DD356; Thu, 28 Aug 1997 10:20:32 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02478; Wed, 27 Aug 1997 19:41:19 +0200
+Date: Wed, 27 Aug 1997 19:41:19 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA02476
+Received: (qmail 6567 invoked from network); 27 Aug 1997 17:41:15 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 27 Aug 1997 17:41:15 -0000
+Message-Id: <memo.778668@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

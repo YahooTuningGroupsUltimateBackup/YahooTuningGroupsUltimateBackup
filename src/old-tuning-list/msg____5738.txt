@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Thu, 3 Jul 1997 23:13:48 +0200
+
+Subject: Aliquot parts, lattices, etc.
+
+From: John Chalmers <non12@deltanet.com>
+
+re "9-Limit" I believe Ervin Wilson was the first to construct lattices in
+which odd composite factors had their own axes back in the late 60's when
+he invented or discovered the CPS and similar types of scales. As far as I
+know, he was also the first to use polygonal lattices higher than the
+triangular (the tetrahedral-octahedral lattice Paul Erlich mentioned may be
+drawn as a centered triangular lattice).  Personally, I find both
+representations useful.
+
+As for "aliquot parts," Marion's usage is clear enough, but I prefer to use
+the term only in reference to the linear division of a string into equal
+parts (what aliquot parts mean) to generate utonal scales such as
+Schlesinger's harmoniai. Thus the division of 1/2 of a string into 7
+aliquot parts (or the whole into 14) generates KS's Mixolydian harmonia (14
+13 12 11 10 9 8 7 or 1/1 14/13 7/6 14/11 7/5 14/9 7/4 2/1).
+
+In the logarithmic domain (as opposed to the "acoustic," the result of
+dividing an interval into aliquot parts is an equal temperament, unless the
+interval is a product of equal just intervals (9/4 into 3/2 x 3/2, etc), in
+which case one has an equal division, but not a temperament. Geometric
+division or equal division would seem to cover these concepts adequately.
+
+I usually use the term "submultiple" to refer to the notes other than the
+"Guiding Tone" (Fokker's term) and the 1/1 of an Euler-Fokker genus
+musicum. The logic is that each note is both a multiple of the 1/1 and a
+divisor of the guiding tone, the whole genus being simultaneously an
+otonality of 1/1 and a utonality of the GT (at the GT limit, though it
+usually is not complete).  Since E-F genera are classified by their GT's,
+the tones are conveniently described as submultiples of them.  
+
+Marion's LCM when expressed as a product of factors is equivalent to the
+GT,
+though one may disagree about the necessity of explicitely writing the
+powers of 2 (Euler did, as I recall, Fokker usually did not).
+
+
+--John
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 3 Jul 1997 23:14 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04377; Thu, 3 Jul 1997 23:15:08 +0200
+Date: Thu, 3 Jul 1997 23:15:08 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04407
+Received: (qmail 26791 invoked from network); 3 Jul 1997 21:14:59 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 3 Jul 1997 21:14:59 -0000
+Message-Id: <34212fc7.258127516@kcbbs.gen.nz>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

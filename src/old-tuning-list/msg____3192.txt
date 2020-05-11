@@ -1,0 +1,77 @@
+source file: mills2.txt
+Date: Wed, 10 Jul 1996 23:05:27 -0700
+
+Subject: Bill Sethares' Analysis of Detwelvulate! Track 3
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Ooops.  I meant to send this to the list, not just to Paul.  
+
+   Actually, listening again to the opening chord, I hear something a little
+different.  The opening minor-third chord is about 3 seconds long before the
+first melody note enters.  There is some sort of square, on/off change (no
+intermediary values) that occurs about once a second during that time.  During
+that first second-long period, I hear something that sounds to me like a classic
+beat, but it vanishes after that first second-long period.  
+
+   But anyway, check out Bill Sethares' analysis below.
+
+   By the way, it sounds different depending upon where and at what angle I
+place my head within the room.  That beat during the first second-long period
+seems almost inaudible when I have my head between the two speakers, but is
+clearly audible when I have my head turned 90 degrees so that both speakers are
+toward my left ear.  
+
+   For you folks doing sample looping, that's something I've found to be very
+valuable:  Don't declare a loop to be clean without moving and tilting your head
+relative to the monitor speakers.  Some flaws in some rooms can easily be
+rendered inaudible when your head is at one angle or another.  
+
+
+--------------- Forwarded Message ---------------
+
+From: 	Gary Morrison, 71670,2576
+To: 	PAULE, INTERNET:ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com
+Date: 	10 Jul 1996 , 7:16 PM
+
+RE: 	Darreg Disc Error: track 3 mislabelled
+
+> Not only does that minor third sound wide from just, but it also beats just 
+> under 3 times per second. Gary, maybe you should listen to it on a different 
+> stereo system, this beating is not hard to hear. 
+
+   I definitely heard something changing at the low-mid frequency range, at
+about the rate you mentioned, but it didn't sound like a beat to me.  I say
+"didn't" because of some results Bill Sethares came up with.  
+
+   He did a mathematical analysis of a certain passage, and the frequencies
+present drew two conclusions I found surprising:
+1.  Two pitch changes in a chromatic run were 48 cents and 52 cents.  It seems
+    likely therefore that it's not in 17, 19, nor 22, but in quartertones.  
+2.  The timbre, despite its brightness, consisted of only of two partials an 
+    octave apart.  I don't recall what he said were the relative weights.  
+
+   As for the beat, I suppose that that change we both hear could be a beat
+after all.  The tone was bright enough that I expected it would have major wads
+and wads of high-harmonic content, in which case the beats would sound like
+typical phaser/flanger effect from a Tomita album.  It would be a horrendous
+comb-filter sweep - FAR less subtle than that fluctuation you pointed out.  
+
+   But knowing that the tone is really just a couple of partials (and apparently
+low ones), then yes, that probably is exactly what such a waveform's beat would
+sound like.  
+
+
+
+Received: from sun4nl.NL.net [193.78.240.12] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 11 Jul 1996 08:58 +0100
+Received: from eartha.mills.edu by sun4nl.NL.net with SMTP
+	id AA27748 (5.65b/CWI-3.3); Thu, 11 Jul 1996 08:57:20 +0200
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id XAA17236; Wed, 10 Jul 1996 23:55:03 -0700
+Date: Wed, 10 Jul 1996 23:55:03 -0700
+Message-Id: <v01510101ae09ef8a38f5@[205.218.46.34]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

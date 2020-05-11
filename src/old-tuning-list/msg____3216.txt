@@ -1,0 +1,48 @@
+source file: mills2.txt
+
+
+Subject: Barbershop
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+Ladies and Gentlemen-
+	I have had a request to supply more info on barbershop music. 
+The full correct name of the organization is "The Society for the 
+Preservation and Encouragement of Barbershop Quartet Singing in America "
+and the compilations of each years winning quartets is available on the 
+ProArte label. I own two of these, "Coney Island Baby" from 1990 and "Old 
+Mill Stream" from 1991. Some of these groups sing "justly" and without 
+much vibrato.
+John Starrett
+
+------------------------------
+
+Topic No. 8
+
+Date: Sun, 14 Jul 1996 01:53:14 +0100
+From: blee@dircon.co.uk (Brian Lee)
+To: tuning
+Subject: Ratios to cents
+Message-ID: <199607140053.AA25094@felix.dircon.co.uk>
+
+To convert ratios to cents I use this little program in GWBasic. It's so
+simple it should be translatable into other dialects of Basic without
+difficulty.
+
+10 Print "Input the numerator and denominator of the ratio"
+20 Print "and this program will give the cent value"
+30 Print
+40 Print "numerator": Input A
+50 Print "denominator": Input B
+60 Let R = A/B
+70 Let C = 1200 * LOG(R)/LOG(2)
+80 Print "cent value of ratio" A"/"B "is" C
+
+What it does is divide the logarithm of the ratio by the logarithm of
+2(because it's an octave) then multiplies by 1200 for the number of cents to
+the octave.
+
+If you want to use Yamaha tuning units instead of cents just replace the
+1200 by 1024.
+
+Brian Lee

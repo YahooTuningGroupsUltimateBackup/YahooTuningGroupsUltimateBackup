@@ -1,0 +1,273 @@
+source file: m1520.txt
+Date: Mon, 31 Aug 1998 00:54:32 -0700 (PDT)
+
+Subject: Re: XH 17: Paul Erlich's response
+
+From: "M. Schulter" <mschulter@value.net>
+
+[In an excellent response to my original review of his article "Tuning,
+Tonality, and Twenty-Two-Tone Temperament" in _Xenharmonikon_ 17
+(Spring 1998:12-40), Paul Erlich has pointed out that I have sometimes
+mixed two different concepts of an "n-limit" in just intonation.
+
+The first concept, a "prime limit," focuses on the largest _prime_
+number used for ratios in a given tuning, while an alternative "odd
+limit" concept focuses on the largest _odd_ number used.
+
+Paul not only helpfully distinguishes these concepts, but calls to my
+attention an interesting case where my use of "n-limit" terminology
+for tunings not strictly fitting the expected JI model may produce
+strange results.]
+
+> But then you speak of a non-prime, 9, as a limit:
+
+> > Since the time of Debussy, more complex sonorities have been
+> > accepted as stable: for example, tetrads such as the "added sixth"
+> > (12:15:18:20 in one possible 5-limit tuning) and "minor seventh"
+> > (12:14:18:21 in a 9-limit tuning).
+
+> The prime limit of the first chord is indeed 5, but that of the
+> latter, 7. However, as some of us have discussed before, there can be
+> two equally useful concepts, an odd limit (closer to Partch's usage
+> and useful for describing sonorities) and a prime limit (useful for
+> describing resources of JI systems). The chords 12:15:18:20 and
+> 12:14:18:21 are what I call the two "saturated 9-limit tetrads," since
+> all the intervals in each chord are ratios of 9 or less, and no notes
+> can be added to either chord without increasing the odd limit, and
+> there are no other chords with these properties.
+
+As a medievalist, I find that this distinction raises an interesting
+question: which 9-based sonorities can be viewed as "complex 3-limit
+sonorities," and which should be classed as specific to "9-limit"
+tunings in Partch's sense?
+
+I would tend to say that 4:6:9 (an actual Gothic sonority) and
+(theoretically) 1:3:9, for example, are extended 3-limit sonorities,
+but that 6:7:9 is 9-limit, not 3-limit (in part because it includes a
+ratio based on 7, a larger prime than 3, of course).
+
+The next quote refers back to 12:15:18:20 and 12:14:18:21:
+
+> (Incidentally, both chords can be called minor seventh chords, as
+> the first is octave-equivalent to 10:12:15:18.) This type of chord
+> seems to have been missed by Partch, who may not have realized that
+> utonalities and otonalities are not the only possible saturated
+> chords for odd limits 9 and up. So perhaps you were thinking of the
+> odd limit of the second chord, and the prime limit of the first
+> chord?
+
+Indeed, my recollections of writing the original post seem to fit well
+with the explanation that I mixed the "prime limit" and "odd limit"
+concepts without realizing the inconsistencies. Thanks to your
+query, I've maybe become able to articulate why. First, a quick
+historical aside on octave equivalence and inversion.
+
+Certainly in the immediate context of the discussion, "since the time
+of Debussy," we could apply the octave equivalence and inversion
+concepts to call both sonorities "minor seventh chords." For the sake
+of completeness, I should mention that in other periods, different
+views (and appropriate terminologies) may prevail.
+
+While the usual "inversion" concept draws a connection between
+sonorities which might share the same pitch classes (e.g. e-g-b-d' and
+g-b-d'-e'), medieval and Renaissance theory tend to focuses on
+sonorities sharing the same _intervals_. Thus in medieval terms, the
+first combination might be described as a "major sixth sonority," and
+the second as a "minor seventh sonority."
+
+In classical 18th-century theory, based on Rameau, g-b-d'-e' might be
+described as _either_ an "added-sixth chord" or a "minor seventh chord
+in inversion," depending on the context. This might be an interesting
+case where even in a stylistic setting where "inversional equivalence"
+usually holds, it gets qualified a bit in at least some areas of
+theory. 
+
+I'm fascinated that Partch apparently didn't consider these combinations.. 
+This sounds like a significant point that I'd love to see further
+developed. 
+
+Again, your suggestion that I may have been applying the "largest
+prime" concept to the first ratio, but the odd-limit concept to the
+second, nicely explains my inconsistencies here. However, there's
+another complicating factor we're about to consider.
+
+> But then you go on to say,
+
+> > Similarly, in Gothic style, a combination of three superimposed
+> > thirds (e.g. e-g-b-d') may resolve to a stable 3-limit sonority
+> > (e.g. f-c'); in triadic harmony, it may resolve to a 5-limit
+> > sonority; in 7-limit harmony, it may serve as a stable tetrad.
+
+> Now any chord that could be notated as e-g-b-d' cannot be a stable
+> tetrad if the odd limit is 7, so you must be back to the prime limit
+> definition and thinking of 12:14:18:21, or you should have said 9
+> instead of 7, in which case you could have meant either 12:14:18:21 or
+> 10:12:15:18.
+
+First, of course, you're absolutely right that I should have said
+"9-limit" instead of "7-limit" in reference to a stable 12:14:18:21
+tetrad (odd-limit sense).
+
+Now we come to a critical point which may be of interest in many
+discussions of "harmonic evolution" and JI theory, and which you have
+very helpfully brought into focus.
+
+If these ratios really mean what they say, a not-unfair assumption,
+then indeed they are impossible without a 9:7 interval, calling for a
+9-(odd)-limit system in order for the tetrad to be stable.
+
+However, what I left vaguely floating somewhere out there in my
+conceptual space is the awareness that in a medieval 3-limit
+(Pythagorean) context, or the 12-tone equal temperament (12-tet)
+context assumed by much 20th-century keyboard music, the tuning does
+_not_ actually treat minor sevenths as 7-based intervals, and nor does
+it have anything very close to a 9:7.
+
+In medieval 3-limit (Pythagorean) just tuning, for example, we have
+54:64:81:96, or notes at about 0-294-702-996 cents; in a 20th-century
+keyboard setting premised on 12-tet, we have notes at 0-300-700-1000
+cents. In both cases, the m7 is at or close to 16:9, not 7:1, and the
+thirds at or closer to 3-limit than to either 5-limit or 7-limit/9-limit
+(6:7, 9:7).
+
+Note that your possible 5-(prime)-limit interpretation of e-g-b-d' as
+10:12:15:18, or about 0-316-702-1018 cents, involves the ratio 18:10
+(9:5) for the minor seventh, but does _not_ involve any 9:7 large
+major third, arguably an interval involving a distinctive level of
+tension not found except in the version involving ratios with _both_ 7
+and 9 as factors. Similarly, the 3-limit tuning involves 16:9 for this
+minor seventh, but not a 9:7 third, which seems to me a definitive
+interval for "9-(odd)-limit" in a certain idiomatic sense of "a system
+of stable sonorities including the ratio between the odd-limit 9 and
+the nearest smaller prime of 7."
+
+In other words, what I suspect I may have been doing without realizing
+it was to focus on the prime limit of 3 or 5 where the sonority has a
+16:9 or 9:5 interval but no 9:7 interval, but to focus on the odd
+limit when 9:7 was present.
+
+This raises an interesting question: how _should_ we describe e-g-b-d'
+as a stable 20th-century sonority on a 12-tet organ or piano, say?
+Should we use "n-limit" terminology at all when the actual tuning in
+question doesn't really fit such a model, and more closely fits
+3-limit than 5-limit or 7-limit/9-limit?
+
+While writing as imprecisely as I did may not necessarily be cause for
+great celebration, having a reader such as yourself to point out my
+inconsistencies, thus inviting more careful consideration of some
+underlying issues, may be beneficial not only to me but to the
+progress of xenharmonics.
+
+> An easy way to get a feel for these and other possibilities on almost
+> any retunable synth is to use a 12-out-of-22 tuning where E-F and B-C
+> are 1/22 oct intervals and all the rest are 2/22 oct. Then:
+
+                     [ ... ]
+
+> 7) The interval B-f approximates 11:8 with an error of 6 cents and
+> sounds good in the chord B-a-b-eb'-f, which approximates
+> 4:7:8:10:11. It is interesting to resolve this interval by contrary
+> motion through the very incisive 1/22 oct intervals to c-e. The latter
+> interval is approximates a 9:7 with an error of 1 cent and is
+> therefore more stable than B-f. 9:7 sounds like a traffic noise to
+> most people unless supplied with a context, such as D-Gb-A-c-e, which
+> approximates 4:5:6:7:9.
+
+Curiously, I've tried this kind of Renaissance-Romantic era resolution
+of a diminished fifth to a large major third using two voices, e.g.
+
+f'-e'
+b -c'
+
+in 17-tet, where the resolution isn't _quite_ so incisive (b-c'
+and f'-e' being 1/17 octave, or about 70.6 cents, rather than the 54.5
+cents of 22-tet). In 17-tet, the large major third is a bit smaller,
+being 6/17 octave or about 423.5 cents.
+
+It seemed to work nicely, and maybe demonstrates Ludmila Ulehla's
+concept of a "dual-purpose" sonority: the 17-tet M3 can be quite
+urgently "discordant," and yet relatively "restful" when it follows a
+diminished fifth (8/17 octave, about 564.7 cents).
+
+Typically I might use 17-tet in a more Gothic manner as a
+"hypermodern" variation on Pythagorean, but it's interesting that the
+Renaissance and later d5-M3 resolution (which Zarlino recognizes as
+very pleasing in 1558) also works well in this tuning.
+
+[The following message by Paul refers to this "12-out-of-22" scheme
+for tuning 22-tet with e-f and b-c' equal to 1/22 octave and all other
+intervals to 2/22 octave, which he points out could nicely fit the
+"neo-late-Gothic" applications I mentioned in my review]
+
+> I wrote,
+> 
+> > 5) A major, A-flat major, C minor, and C-sharp minor give
+> > approximate 5-limit just intonation, in a fashion analogous to the
+> > late Gothic keyboard tuning.
+
+> > I meant the _keys_ that are conventionally called A major, A-flat
+> > major, C minor, and C-sharp minor, not (just) the _chords_ that go
+> > by those names. Each of the keys has a consonant I, IV, and V chord
+> > which are mutually exclusive from those of the other keys; hence
+> > there are 12 consonant 5-limit triads in this 12-out-of-22 keyboard
+> > mapping.
+
+This looks like a very interesting system, and for many typical
+applications, speaking in terms of major/minor triads and keys is the
+natural approach to communicate this information in an efficient way.
+
+May I just add a caution directed mainly to some more historically
+specific discussions of Gothic and early Renaissance tunings? Authors
+sometimes attempt to apply 18th-century key concepts in explaining the
+development of these tunings, as with Owen Jorgensen in _Tuning the
+Historical Temperaments by Ear_ (Northern Michigan University Press,
+Marquette, 1977), e.g. pp. 48-56.
+
+My caution would be that major/minor key systems are really specific
+to European music of the era around 1680-1900, and to subsequent works
+following such styles.
+
+In the early 15th-century context of the Pythagorean tunings with
+prominent schisma thirds and sixths, for example, we can best
+understand the role of these intervals by focusing on Gothic concepts
+of harmonic action and color.
+
+This situation may be very analogous to the 22-tet nomenclature issues
+you discussed in your initial reply, emphasizing that either decatonic
+or more conventional notations might be appropriate depending on the
+musical context.
+
+To take one quick example, consider a sonority with smooth schisma
+thirds and sixths in the tuning with a Wolf at F#-B (actually Gb-B) of
+around 1400: e-g#-c#'. To understand the harmonic role of this
+sonority, we need to be familiar with one of the most popular final
+cadences of the epoch, and indeed of the preceding century:
+
+c#'-d'
+g# -a
+e  -d
+
+Here the major third expands to a stable fifth, and the major sixth to
+a stable octave. The schismatic tuning doesn't alter this basic
+vertical logic, but gives the cadence a different color both by making
+the M3 and M6 somewhat smoother than in a usual Pythagorean tuning,
+and by making the melodic semitones g#-a and c#'-d' somewhat less
+keen and efficient.
+
+This point quite aside, I'm fascinated and delighted to see a
+discussion of 22-tet as a "neo-late-Gothic" tuning lead to possible
+5-limit applications in later stylistic contexts. This is also a
+striking illustration of how the same combinations of notes might be
+useful in _either_ a 15th-century or 18th-century context, although
+the progressions and the expectations behind them might be very
+different.
+
+Most appreciatively,
+
+Margo Schulter
+mschulter@value.net
+
+------------------------------
+
+End of TUNING Digest 1520
+*************************

@@ -1,0 +1,185 @@
+source file: mills2.txt
+Date: Mon, 30 Sep 1996 11:09:41 -0700
+
+Subject: Response to Daniel Wolf
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>(1) Does your central pitch processor depends on harmonic partials? Real
+>instrumental sounds deviate significantly from a ideal series.
+
+These deviations are small compared with the resolution of the central pitch 
+processor (~1%). Actually, the central pitch processor works best when the 
+relationships are slightly stretched, but this is a small effect.
+
+>Does your
+>processor make tolerance decisions at both the individual instrument
+>(pitch) and the instrumental ensemble (chord) levels?
+
+Yes, absolutely. A chord consisting of several "inharmonic series" could be 
+analysed in this way. For a chord consisting of harmonic or near-harmonic 
+series, the partials add no conflicting information as to the root should 
+be. However, the partials can aid in making this judgment, especially if the 
+chord tone fundamentals are rather low in pitch.
+
+>It was for precisely
+>this complication that I made my initial assumptions of a sine wave
+>orchestra.
+
+Do you agree now that this assumption is incompatible with your treatment of 
+subharmonic chords?
+
+>(2) Are amplitude and phase differences among the partials ignored?
+
+Yes, but phase differences do not affect the central pitch processor. 
+Amplitude differences may, but as long as the fundamentals are similar in 
+amplitude and have similar overtone structures, the ratio-interpretation 
+should be correct.
+
+>(3) Would it be terribly difficult to couple your root-finding function
+>with some harmonic distance function in order to address chord
+>progressions?
+
+I don't see why it would be difficult. However, the character of chord 
+progressions seems to me far more subjective and culturally influenced, or 
+at least far more difficult to model, than the perception of virtual pitch. 
+Although certainly general statements can be made, such as compounds of 
+simple harmonics are more important for chord progressions, while higher 
+harmonics are more important for chord construction.
+
+>(4) The limits on amplitude and durational aspects limit the algorithm to a
+>part of the worlds music; would you define this more precisely? In
+>general, I find this to be the most difficult part of your work (and of
+>other research along these lines) in that you have reified aspects
+>particular to a small musical repertoire as psychoacoustical facts.
+
+My theory is only intended to predict the perception of chords under 
+circumstances of long duration and equal amplitude -- the ideal 
+circumstances for perceiving complex ratios. In other circumstances, the 
+parameter that controls the precision of the central pitch processor's input 
+signals can be adjusted to reflect less precision, and the results will show 
+a preference for simpler relationships.
+
+
+Some comments:
+
+>>(1) Naturally, if a triad is tuned 5:6:7, the fundmental frequency of the
+>>series on 1 is reinforced;
+
+>what happens, when it is tuned /7:/6:/5, or in a temperament where the
+>approximation of 7 is poor?
+
+Then one has an essentially rootless sound, since no simple interpretation 
+in terms of harmonics gets much certainty. For example, in 22-tet, the a 
+pitch resolution of 1% leads to 0 6 11 being heard as 7:6:5 with a relative 
+certainty of 38.5, while 0 5 11 has no such certain interpretation; the most 
+likely interperetation is as 24:20:17 with a relative certainty of 8.70. 
+(This is using the version of the algorithm that treats all inversions and 
+extensions as equivalent).
+
+> If I recall correctly, Boomsliter and Creel
+>demonstrated that in harmonic contexts both trained and untrained subjects
+>had a preference for the real interval of 225/128 over 7/4, thus showing
+>that a lower position within a harmonic series was not necessarily
+>preferable to some other, more complex relationship.
+
+They were probably just targeting a slighlty stretched 7/4. Terhardt 
+addresses some possible explanations for this preference for stretching.
+
+Might I suggest that their results were also far from unbiased.
+
+>(2) My musical experience suggests, however, that diminished, augmented,
+>and other intervallically symmetrical pitch complexes function in tonal
+>music as ambiguous - neither major nor minor - structures. For this reason,
+>I introduced the _neutral_ characterization for pitch spacings that are
+>neither harmonic nor subharmonic.
+
+This may often be useful.
+
+>(3) 54:64:81 is a chord that I am able to identify immediately in
+>relationship to a previously known tonic of 2^n. I recognize it in both
+>terms of harmonic distance from 2^n, from the size of the melodic intervals
+>which I have learned to distinguish (thus at least part of my recognition
+>is cultural), and from beating.
+
+Yes, but most people have not learned to distinguish these things.
+
+>Moreover, my recognition of this chord cues
+>me in on the entire field of relationships including this chord and the
+>chord proceeding it. It is this field that seems to determine musically
+>dynamic characteristics: chord _progression_; tonicity; _resolution_;
+>surprise, etc..
+
+Don't let me dissuade you from trying to formulate a wide-ranging theory of 
+JI compostition. Sounds good to me.
+
+>(4) The melodic difference between 9/8 and 10/9 is too real to be dismissed
+>as something "handled on paper". Even if the listener doesnt get the
+>melodic difference immediately (something heard all the time in good string
+>playing or unaccompanied vocal music), eventually the comma difference will
+>either manifest itself in a _bad_ fifth, which is immediately _heard_ as
+>such, or a _return_ to a tonic that has missed its mark by a comma  (the
+>ear is much faster at picking this up than the eye anyways).
+
+Not necessarily. There are other possibilities:
+
+(1) An apparently held tone was actually adjusted by a comma during a non-p5 
+chord change.
+(2) Tempering.
+
+>(5) Which interpretation does this support? Your own analysis of the minor
+>triad prefers a subharmonic description. You can not have it both ways. For
+>this reason, I find it sufficent to base my spacing description upon
+>fundamental frequencies and a single calculated fundamental or guiding
+>tone.
+
+Please re-read what I have said. The tonicity algorithm form only a part of 
+the considerations of consonance and tuning. The other part is roughness, 
+which I feel has been dealt with adequately in the research.
+
+>(6) The harmonic and subharmonic series are two transfinite series with
+>different memberships; the second may be constructed from the first, but a
+>one to one mapping of the second onto the first is not possible.
+
+Sure it's possible. n->1/n.
+
+>This is
+>however, coincidental to my point, that we process subharmonic structures
+>less well than harmonic due to conceptual and computational difficulties.
+>Example: it is much easier to compare three objects with one object than it
+>is to compare one object with thirds of an object.
+
+This analogy is metaphysical and of limited value compared with an 
+understnding of the virtual pitch phenomenon. Who's to say that the "object" 
+is frequency and not period or string length.
+
+>(7) Prof. Hennix has worked specifically with musical issues; most closely
+>with the late John Myhill and with La Monte Young. (Her closest purely
+>mathematical collaborations were with Myhill and with A.S. Yesinin-Volpin.)
+>She may represent a different school of mathematical foundations from your
+>own, but her work is anything but drivel; indeed intuitionist proof demands
+>are the most rigorous.
+
+I am sympathetic with an intuitionist philosophy of mathematics. However, 
+the one subject to which I have devoted more study that microtonality is the 
+foundations of quantum mechanics. The mathematics of quantum mechanics is 
+eminently classical, though its metaphysics and epistemology are most 
+certainly not. So assuming that mathmatics goes funny at the very small due 
+to quantum effects would be viciously circular. Besides, if quantum effects 
+were associated with musical tones, it would be with those of high pitch; 
+low-pitch tones are low-energy-per-quantum waves and therefore behave 
+classically.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 30 Sep 1996 20:12 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06754; Mon, 30 Sep 1996 19:12:17 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA07149
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA08079; Mon, 30 Sep 1996 11:12:15 -0700
+Date: Mon, 30 Sep 1996 11:12:15 -0700
+Message-Id: <81960930180818/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

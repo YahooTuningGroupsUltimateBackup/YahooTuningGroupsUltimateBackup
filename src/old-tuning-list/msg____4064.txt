@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Tue, 19 Nov 1996 00:43:45 -0800
+
+Subject: LetterBox Video Keyboard
+
+From: curley@ucla.edu (Doren Garcia)
+
+Fellow MicroNauts,
+
+Gary Morrison's comment on my video keyboard suggestion:
+
+>First, computer screens are nearly square as opposed to the extremely long
+>and narrow, horizontal format of most any keyboard scheme. Can we come up
+>with key layouts that make sense on a nearly-square format?
+
+>I have thought of another type of controller than a keyboard (it would
+>probably be too difficult to describe in words) but it does have one
+>problem in common with this sort of thing: It would be kinda tough to make
+>velocity sensitivity detectable.
+
+Letterboxed and Flat screen monitors are already available and I understand
+that flexible monitors are a possibility. I suspect that software or laser
+detectors might solve the velocity question.
+
+During the past year Moore's Law ( ie. processor speed doubling every 18
+months) was trashed as processor speed doubled in approx. 6 months and it
+seems probable that  Exponential PowerPC chips @ 533Mhz will be available
+in Mid 1997. Exponential claims that this chip design is scaleable
+to...26Ghz!!!
+
+Let us not be to ethnocentric. India is poised to become a software giant.
+
+Perhaps we are setting our sights to low.
+
+Doren O'Garcia
+Los Angeles Mvsevm of the Modern Poodle
+
+-------------------------
+Was Ghandi anorexic?
+-------------------------
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Nov 1996 13:54 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17375; Tue, 19 Nov 1996 13:55:57 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA17383
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id EAA13818; Tue, 19 Nov 1996 04:55:54 -0800
+Date: Tue, 19 Nov 1996 04:55:54 -0800
+Message-Id: <009AB9A962A47E40.3770@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

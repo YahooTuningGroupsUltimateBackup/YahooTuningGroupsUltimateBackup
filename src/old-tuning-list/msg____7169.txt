@@ -1,0 +1,35 @@
+source file: m1341.txt
+Date: Mon, 2 Mar 1998 08:53:56 -0600 (CST)
+
+Subject: Re: Identification of pitches
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>I am developing software to automatically implement alternate tunings in
+>MIDI files through the use of pitch bends or other methods.
+
+   Sounds like a great project!  Good luck with it.
+
+   There has been a lot of talk in the past on this list about using
+pitch-bend for implementing unusual tunings.  Perhaps now would be a good
+time for all of us WHO HAVE ACTUALLY TRIED IT (I haven't) to update us on
+your experiences with it.  Be sure to include notes on relevant aspects of
+your music (e.g., how many timbres you're attempting to play at a time,
+whether real slurs are common in the resulting music, how fast your notes
+are playing, and probably other factors).
+
+   The problems that have been cited include that it's impossible to send
+the pitch-bend message and the note-on simultaneously, and that the MIDI
+1.0 spec itself does not specifically state how much a given amount of
+pitch-bend deflection should affect the pitch of the note.  There were
+other considerations mentioned too, I think.  (The simultaneity concern
+regards the possibility of there being a "blurp" in either the attack of
+the new note, or the release of the previous note in cases where the two
+notes are completely legato or slurred).
+
+   Solutions proposed include accepting a single timbre, and allocating a
+single channel for each of the nominal 12 pitches, or allocating channels
+in pairs, and alternating notes between them, and sending pitch bend
+messages before the next note begins playing, while the note on the other
+channel is playing.  (All that combined obviously with not playing more
+than one pitch at a time on a given channel.)

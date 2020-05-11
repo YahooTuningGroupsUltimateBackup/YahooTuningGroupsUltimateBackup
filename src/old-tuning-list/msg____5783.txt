@@ -1,0 +1,56 @@
+source file: mills2.txt
+Date: Tue, 8 Jul 1997 17:49:49 +0200
+
+Subject: RE: Muddy Waters
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>I wrote,
+>
+>> Marion, I am using geometrical pictures to express my thoughts and your
+>> LCM idea, as Graham pointed out, is equivalent to a particular
+>> geometrical picture as well, a rectangular one where 2 is a distinct
+>> factor that has its own axis, and the log of the LCM is just the
+>> distance (according to the city-block metric) between the two most
+>> distant points in the chord.
+>  
+>I was being a little muddy here. I should have written, the log of the LCM is
+>just the distance between the two most distant points in the smallest
+>(hyper-)rectangular region that contains the chord.
+>
+>> In other words, the LCM is a measure of the
+>> longest extent of the ROHS of a chord. 
+>  
+>I think that was correct, using Graham's terminology.
+>
+>> Since I feel that a minor triad
+>> is more consonant than a major seventh chord, I don't like this method
+>> and would prefer instead to use the triangular lattice. What replaces
+>> the LCM in that case? If we use the isosceles triangles eluded to above,
+>> the answer is just the Partch limit!
+>
+>That is, the log of the Partch limit will indeed be the distance (according
+>to a city-block-type metric) between the two most distant notes of a chord in
+>the isosceles triangular lattice. There is no need to construct anything like
+>a ROHS. If a certain note appears twice in the lattice, as will happen in the
+>9-limit, use the closer one to evaluate the distance from any other note. Of
+>course, the distance between two instances of the same note is zero. Keeping
+>these rules in mind, the fact that the two recently discussed 6th chords are
+>merely 9-limit will be clear.
+>
+>Marion and Graham, have either of you not yet received TD 1122? If so, I will
+>repost my posts from there, so we can continue our discussions.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 8 Jul 1997 18:23 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07842; Tue, 8 Jul 1997 18:24:15 +0200
+Date: Tue, 8 Jul 1997 18:24:15 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA07879
+Received: (qmail 5871 invoked from network); 8 Jul 1997 16:20:56 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Jul 1997 16:20:56 -0000
+Message-Id: <c%ap¬adian-Asset%lRS-970708160830Z-610@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

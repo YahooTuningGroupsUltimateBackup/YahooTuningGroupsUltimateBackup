@@ -1,0 +1,141 @@
+source file: mills2.txt
+Date: Mon, 30 Sep 1996 12:19:30 -0700
+
+Subject: The tonicity of tempered intervals and t
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+..................................continued from last week.
+
+According to Golstein[22], the precision with which freqency information is 
+transmitted to the brain's central pitch processor is between 0.6% and 1.2% 
+within a certain optimal frequency range. Musical tones normally have 
+partials within this range, and since harmonic partials are integer 
+multiples of thier fundamentals, they will yield the same 
+ratio-interpretation for their fundamentals as would the fundamentals 
+transposed into this range. (This is why we did not worry about overtones in 
+the first place.) We can therefore model the tones with normal probability 
+distributions in log-frequency space; the standard deviation (let's call it 
+s) used can be between 0.6% and 1.2%, or greater to reflect various 
+non-ideal conditions. The use of log-frequency space corresponds most 
+closely with psychoacoustic research and musical practice.
+
+Now the "width" in 17,
+
+	    log(a(j))-log(b(j))
+
+represents a section of log-freqeuncy space and thus a portion of the 
+distribution lies within this range. The exact amount of probability 
+contained withing this range is thus the certainty with which u=f(1)/f(2) is 
+interpreted as p(j)/q(j), and is proportional to
+
+	    1/(s*sqrt(2pi))*integral(exp(-.5((x-log(u))/s)^2),dx)
+
+in log-frequency space. Now the width in (19) vanishes for large N, but it 
+remains proportional to 1/L(j), so (replacing the integral by a product 
+since W is small compared to s) we define the certainty with which u is 
+intepreted as p(j)/q(j) as
+
+	    C(u,p(j)/q(j))=1/(s*sqrt(2pi)L(j))*exp(-.5((log(p(j)/q(j))-log(u))/s)^2  
+)	   (20)
+
+(20) can be extended to chords of more than two notes as follows: A chord of 
+n notes contains n(n-1)/2 different intervals. But since the whole chord 
+must be related to a single fundamental, any individual interval might not 
+be in lowest terms, and the "limit" should now be the greatest of all the 
+odd factors of the numbers used to represent the chord. Denote this limit by 
+L(t); we therefore define
+
+	    NC(L(j,t))=NC(L(j))L(j)/L(t)
+
+We then have
+
+	    C(chord)=product over all intervals(C(L(j,t))^(2/n))
+
+where the exponent 2/n is the number of independent degrees of freedom in 
+tuning the chord, n-1, divided by the number of factors in the product, 
+n(n-1)/2. This is done becuse multiplying probabilities of n-1 independent 
+judgments is the probablity of the overall judgment; the exponent is thus a 
+correction for the fact that the number of intervals increases faster than 
+the number of notes. In other words, take the geometric mean certainty, and 
+multiply it by itself a number of times appropriate to the true number of 
+degrees of freesom. This effectively reduces the standard deviation s by a 
+fatcor 1/(sqrt(n-1)), as one would guess from general statistical 
+considerations.
+
+As for finding the roots of chords, Parncutt states,[23]
+
+	    The pitch pattern of a complex tone may be recognized even if parts of 
+the pattern are
+	    missing, or extra elements are added. Similarly . . .the root of a 
+chord may be
+	    perceived if notes corresponding to harmonics of the root are missing, 
+or if notes not
+	    corresponding to harmonics are added. For example, the root of the C 
+major triad is
+	    weakened, but not changed, if the note E (which corresponds to the 
+fifth harmonic of
+	    C) is replaced by Eb (which doesn't correspond to any normally audible 
+harmonic of C);
+	    the root (C) is maintained by the strong root implication of the fifth 
+C-G.
+
+So a good guess would be that for a four-note chord, whichever of its two, 
+three, or four-note subgroups has an interpretation of the gretest C-value 
+is the subgroup that determines the root; the root itself is the note 
+interpreted as a power of 2, since it is then octave-equivalent to the 
+fundamental. If none of the notes of the chord are interpreted as a power of 
+two, the chord seems unstable, as the sensation of the fundamental is quite 
+secure.
+
+
+[13] Adapted from van Eck, C. L. van Panthaleon. 1981. _J. S. Bach's 
+Critique of Pure Music_. Princo, Culemborg, The Netherlands, Appendix II.
+
+[14] Parncutt, Richard. 1989. _Harmony: A Psychoacoustical Approach_. 
+Springer-Varlag, New York, p. 70.
+
+[15] Goldstein, J. L., 1973. "An optimum processor theory for the central 
+formation of the pitch of complex tones," _J. Acoust. Soc. Amer._ Vol. 54 p. 
+1496.
+
+[16] Terhardt, E. 1974. "Pitch, consonance, and harmony." _J. Acoust. Soc. 
+Amer._ Vol 55 p. 1061.
+
+[17] Wightmann, F. L. 1973. "The pattern-transformation model of pitch." J. 
+Acoust. Soc. Amer. Vol. 54 p. 407.
+
+[18] If we were to fix f(q) and vary f(p), we would only have an upper bound 
+on q, giving us an infinite series of fractions to consider. Fixing the 
+center of the interval leads to Mann's criterion, p+q<=N. Mann, Chester D. 
+1990. _Analytic Study of Harmonic Intervals_. Tustin, Calif. Either way, we 
+still end up with (7) below, so that the relative certainties of various 
+interpretations of a given interval will remain the same. (5) is chosen 
+because the series produced by it display a greater degree of octave 
+equivalence.
+
+[19] Three proofs of this are given in Hardy, G. H. and Wright, E.M. 1960. 
+_An Introduction to the Theory of Numbers_. Oxford University Press, London, 
+Ch. 3.
+
+[20] See Mann, p. 163 for one possible justification.
+
+[21] Partch, p. 184
+
+[22] Goldstein, p. 1499
+
+[23] Parncutt, p. 70.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 1 Oct 1996 02:00 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06949; Tue, 1 Oct 1996 01:00:22 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06580
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id RAA29662; Mon, 30 Sep 1996 17:00:19 -0700
+Date: Mon, 30 Sep 1996 17:00:19 -0700
+Message-Id: <960930235656_71670.2576_HHB57-4@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

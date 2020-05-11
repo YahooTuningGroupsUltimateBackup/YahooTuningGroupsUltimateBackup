@@ -1,0 +1,65 @@
+source file: m1500.txt
+Date: Tue, 11 Aug 1998 13:36:36 +0200
+
+Subject: Re: Numbers and a new tuning
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+Johnny Reinhard wrote:
+> Are there other intervals that _scream_ to be included?
+
+There are 192 different intervals in the scale. The 3/2 occurs three
+times, on degree 5, 10 and 16. Not to list all of them, these are the
+ones with a denominator less than 10:
+
+  1   10/9              182.404 cents  minor whole tone
+  1   9/8               203.910 cents  major whole tone
+  2   8/7               231.174 cents  septimal whole tone
+  1   7/6               266.871 cents  septimal minor third
+  1   6/5               315.641 cents  minor third
+  1   11/9              347.408 cents  undecimal neutral third
+  2   5/4               386.314 cents  major third
+  1   9/7               435.084 cents  septimal major third
+  3   4/3               498.045 cents  perfect fourth
+  2   11/8              551.318 cents  harmonic augmented fourth
+  2   7/5               582.512 cents  septimal tritone
+  2   10/7              617.488 cents  Euler's tritone
+  1   13/9              636.618 cents
+  3   3/2               701.955 cents  perfect fifth
+  1   14/9              764.916 cents  septimal minor sixth
+  2   11/7              782.492 cents
+  2   8/5               813.686 cents  minor sixth
+  2   13/8              840.528 cents  tridecimal neutral sixth
+  1   5/3               884.359 cents  major sixth
+  1   12/7              933.129 cents  septimal major sixth
+  2   7/4               968.826 cents  harmonic seventh
+  1   16/9              996.090 cents  Pythagorean minor seventh
+  1   9/5               1017.596 cents just minor seventh
+  1   11/6              1049.363 cents 21/4-tone, undecimal neutral seventh
+  2   13/7              1071.702 cents 16/3-tone
+  1   15/8              1088.269 cents classic major seventh
+  1   17/9              1101.045 cents
+
+This is the "diamond lattice" diagram of the scale. Numerators
+horizontally,
+denominators vertically.
+
+     1 3 5 7 9  13  17  21  25  29  33  37  41  45  49  53
+  1: 0               *
+  3:   0
+  5:     0           *
+  7:       0         *
+  9:         0
+ 11:           0     *
+ 13:             0   *
+ 15:               0 *
+ 17: * * * * * * *   0 *           *
+ 19:                   0
+ 21:                     0
+ 23:                       0
+ 25:                         0
+ 27:                           0
+ 29:                             0
+ 31:                 *             0
+
+Manuel Op de Coul    coul@ezh.nl

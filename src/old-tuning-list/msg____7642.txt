@@ -1,0 +1,67 @@
+source file: m1404.txt
+Date: Sun, 03 May 1998 14:11:15 -0700
+
+Subject: Re: Csound
+
+From: James Mopar <Peter.Blasser@oberlin.edu>
+
+Here is a sample score that I used for one of my recent songs.
+
+---------------------------------jazzy.orc:
+
+sr=44100
+kr=441
+ksmps=100
+nchnls=2
+
+instr 1
+inote cpsxpch p5, -10, 2, 10.301 ;read the octave.degree notation from p5
+in the sco, and get the corresponding ratio value from gen table 10. The
+octave ratio is 2, and the base frequency is 10.301 (e).  So now you have a
+hertz value. 
+aenv oscil p4, 1/p3, 7
+a1 oscil aenv, inote, 8
+a2 butterbp a1, inote, 10
+outs1 a2
+endin
+
+
+instr 2
+inote cpsxpch p5, -10, 2, 10.301
+ibass = inote/1002
+
+aenv oscil p4, 1/p3, 7
+a1 grain aenv, ibass, 20, 0, 0, 256/inote, 1, 6, 2
+a5 butterhp a1, inote
+a6 butterlp a5, inote*3
+outs2 a6
+endin
+
+----------------------------------JAZZY.sco:
+
+f1 0 1024 10 1 ;these used to be sampled sounds, so now they're just sine
+waves
+f2 0 1024 10 1
+f3 0 1024 10 1
+f6 0 1024 20 1
+f7 0 512 7 1 1 180 200 200 50 0 ;the envelope table
+f8 0 1024 10 1
+
+f10 0 32 -2 1 1.02083 1.05 1.10204 1.142857 1.166666 1.225 1.25 1.285714
+1.3125 1.33333333 1.428571429 1.469387755 1.5 1.555555555 1.6 1.6333333333
+1.7142857 1.75 1.928571429
+;use GEN 2 to create a table of ratios.  Make the "2" negative, so the
+compiler doesn't scale everything between 0 and 1 (which will screw up the
+ratios).  These are just intoned ratios with a limit of 7.  You can put
+them in any order, but these are ascending.
+
+t 0 100 ;tempo
+
+i1 1 .594 8000 5.071 ;when writing p5, I found that csound has a bug, in
+that you've got to add .001 to the total, for it to pick up which note you
+mean.  P5 is like a normal octave.degree notation, only in that the amount
+of degrees is as big as your gen table that specifies the scale.
+i1 + .577 8000 5.071 
+i1 + .561 8000 5.081 
+i1 + 1 8000 5.081 
+i1 + 1 8000 5.101

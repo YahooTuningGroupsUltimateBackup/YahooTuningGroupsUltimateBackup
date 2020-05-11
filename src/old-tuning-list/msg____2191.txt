@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Tue, 24 Oct 1995 10:50:32 -0700
+
+Subject: Re: Differential notes. Baka pygmies polyphonies
+
+From: "David R. Canright" <dcanrig@danhicks.math.nps.navy.mil>
+
+in response to Vincent Kenis:
+
+That's a very interesting idea you propose, of adaptive vocal inflection  
+organized around pentatonic scales.  You mention measuring basic steps of 7/6,  
+8/7, and 9/8.  As it happens, Rick Tagawa, a composer who studied  
+ethnomusicology at UCLA, used the same intervals in reconstructing African  
+scales (I can't remember from where).  However, the particular scale he used  
+in composing with an African sound was:
+
+tones:   1/1   8/7     21/16  3/2   7/4
+steps:      8/7  147/128    8/7  7/6   8/7
+
+which has the unusual step 147/128 (239.6 cents), rather close in size to an  
+8/7 (231.2 cents) step, and has no 9/8.
+
+As an aside, one of my favorite pentatonics is:
+
+tones:   1/1   7/6   4/3   3/2   7/4
+steps:      7/6   8/7   9/8   7/6   8/7
+
+which uses only the steps you mention (which are superparticular).  Of  
+course, this is just one of the 30 different arrangements (6 different if you  
+ignore cyclic permutations) of these steps, but this is one with nice harmonic  
+structure.
+
+	David C.
+--
+David Canright                (408) 656-2782 (or -2206)
+Math. Dept., Code MA/Ca       (408) 656-2355  (FAX)
+Naval Postgraduate School     DCanright@NPS.Navy.mil
+Monterey, CA  93943  USA      http://math.nps.navy.mil/~dcanrig/
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 25 Oct 1995 12:36 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id DAA12727; Wed, 25 Oct 1995 03:35:41 -0700
+Date: Wed, 25 Oct 1995 03:35:41 -0700
+Message-Id: <v01530501acb3d0657772@[194.137.64.56]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,20 @@
+source file: mills3.txt
+
+
+Subject:  Scala 1.4 release
+
+From:  Manuel.Op.de.Coul@ezh.nl
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125659A.00663B47; Wed, 28 Jan 1998 19:36:38 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00707; Wed, 28 Jan 1998 19:37:35 +0100
+Date: Wed, 28 Jan 1998 19:37:35 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA00705
+Received: (qmail 21323 invoked from network); 28 Jan 1998 10:36:43 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 28 Jan 1998 10:36:43 -0800
+Message-Id: <C1256598.004C9D17.00@notesrv2.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

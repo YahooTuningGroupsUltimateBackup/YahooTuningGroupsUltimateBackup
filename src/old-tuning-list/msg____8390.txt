@@ -1,0 +1,46 @@
+source file: m1509.txt
+Date: Thu, 20 Aug 1998 09:06:02 +0100 (British Summer Time)
+
+Subject: Re: tuning on synths
+
+From: David Griffel <D.Griffel@bristol.ac.uk>
+
+On Wed, 19 Aug 1998 20:38:32 +0100 (BST) tuning@eartha.mills.edu wrote:
+
+> 
+> Date: Wed, 19 Aug 1998 00:46:25 +0100
+> From: neuwirth  <neuwirth@smc.univie.ac.at>
+> To: tuning@eartha.mills.edu
+> Subject: tuning on synths
+> Message-ID: <Chameleon.903480886.neuwirth@polya.neuw.univie.ac.at>
+> 
+> in answer to david griffel searching for a program
+> for tuning synths for realtime performances.
+> 
+> there are 2 ways of doing it.
+
+[snip]
+
+A third way, requiring less knowledge of technicalities, may 
+be to use Graham Breed's "Midi Relay" software, 
+
+http://www.cix.co.uk/~gbreed/software.htm
+
+ which sits between the 
+keyboard and the PC's sound system, and makes the kboard play in any 
+temperament you like.  I'm in the process of getting midi setup on my 
+new PC, and haven't yet got to the point of testing it. 
+
+>  i will have a presentation at the annual meeting of the
+> mathematical societies of the united states in january
+> in san antonio where i will use this technique
+> to explain the mathematics behind different historical tunings.
+
+I wish I could wangle a visit to this AMS meeting ... 
+
+David Griffel
+-------------
+School of Mathematics,    email d.griffel@bris.ac.uk
+University Walk,          Tel. 0117 928 7983
+Bristol, BS8 1TW,         Fax  0117 928 7999
+England.

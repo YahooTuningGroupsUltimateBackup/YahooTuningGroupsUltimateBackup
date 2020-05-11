@@ -1,0 +1,68 @@
+source file: mills2.txt
+Date: Mon, 23 Sep 1996 07:40:50 -0700
+
+Subject: RE: Pitch spacings
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Daniel-
+
+Firstly, let me note that your assumption that "we are listening to an 
+orchestra of sine waves" does not bode well for the perception of 
+subharmonic complexes as such, since, as you state, the subharmonic complex 
+is recognized "by guiding tone (the lowest pitch
+common to the spectra of all pitches in the complex)." I think your 
+observation that superparticulars are easier to tune relies on the existence 
+of difference tones, which actually beat against the virtual pitch in the 
+case of superparticulars (tuning is easy: just eliminate this beating). 
+However, I think you can modify the statement to say "an orchestra of 
+generic harmonic timbres played as a reasonably loud volume" without harming 
+your arguments.
+
+Secondly, I find myself agreeing with much of your approach, especially 
+since I have included an algorithm for "evaluation of relative complexity," 
+exactly as you defined it, as an appendix of a paper that will appear in 
+Xenharmonikon. I'm relying on Goldstein's 1973 JASA paper, along with some 
+number theory, for this algorithm. I can provide you with details of the 
+algorithm if you like, but let me note that I have found that for listeners 
+with slightly above-average pitch resolution, the 12-tET minor triad will be 
+heard mainly as 10:12:15 and as 16:19:24, the winner depending on voicing, 
+and assuming the triad is in a register that puts some audible partials in 
+Goldstein's optimal frequency range. The latter assumption my algorithm 
+cannot do without, so it is only good for finding the "worst-case" or most 
+complex representations of a particular tuning's intervals and chords. If 
+your algorithm succesfully extends this to the case of arbitrary given 
+register, I will congratulate you. (I suggest you take a look at Goldstein's 
+paper if you haven't yet).
+
+I would not be surprised if you are correct that 4:5:6 is happier than 
+10:12:15 since it requires less brain effort. However, I don't think it 
+makes much musical difference whether the minor triad is heard as 10:12:15, 
+or 16:19:24, or a combination of the two. My algorithm actually gives a 
+greater salience to the p5 alone than to the minor triad, suggesting that 
+the minor triad is actually heard most significantly as 2:x:3, where x is a 
+non-harmonic tone not integrated into the virtual pitch sensation evoked by 
+the 2:3. (Unfortunately, I have no justification for directly comparing a 
+2-note salience to a 3-note salience, but it seems to work fine.) The 
+salient musical properties of the minor triad relative to the major triad 
+are: (1) the p5 defining a clear root, which is not, however, reinforced by 
+the third, and (2) a similar level of roughness and beating as is found in 
+the major triad. The sadness of the minor triad is then due simply to its 
+greater harmonic indefiniteness, without any extra roughness that could 
+contribute "anger" or "fear" into the perception.
+
+ -Paul
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 25 Sep 1996 09:47 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24127; Wed, 25 Sep 1996 07:43:44 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA26025
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id WAA04669; Tue, 24 Sep 1996 22:43:42 -0700
+Date: Tue, 24 Sep 1996 22:43:42 -0700
+Message-Id: <199609250543.WAA26562@si.UCSC.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

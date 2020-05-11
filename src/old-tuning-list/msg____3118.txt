@@ -1,0 +1,64 @@
+source file: mills2.txt
+Date: Wed, 26 Jun 1996 08:54:11 -0700
+
+Subject: RE: Markov analysis
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+The Illiac Suite for string quartet by Lejaren Hiller and L. Isaacson
+was composed I think with a Markov model. Named after the Illiac
+computer of the 50's that ran the program. This work is on a Wergo CD.
+I've read an article about it many years ago, but don't remember the
+reference alas. 
+A Markov model is a stochastic model of some system. Each event (note,
+phrase, interval, symbol in a message, some occurrence or whatever)
+has a fixed probability that may depend on earlier events. In a
+so-called first order Markov model the probabilities depend on only
+the last previous event. In a second order model they may depend on
+the previous two events, etc. A zero order model is also possible. 
+If one generates music with a Markov model then the probabilities may 
+be calculated from one or more existing pieces. The idea is then to 
+get music that is similar, yet different. If a first order model is
+taken then it doesn't sound similar at all, just random. If the model 
+order is too high however, then whole phrases will come out alike the
+original.
+So it is a rather simplistic way of generating music and with the high
+degree of randomness, one could argue it is still noise, the Markov
+model merely colours it. A zero order Markov model produces white
+noise. 
+
+A reference from Piet van Oostrum's electronic music bibliography:
+( http://www.cs.ruu.nl/pub/MIDI/DOC/bibliography.html )
+
+  Machine Models of Music, From Minsky to Mozart, edited by Stephan
+  Schwanauer and David Levitt
+
+  Cambridge: MIT Press, 1993
+  ISBN 0-262-19319-1 $45
+
+  Machine Models of Music brings together representative models ranging
+  from Mozart's "Musical Dice Game" to a classical article by Marvin
+  Minksy and current research to illustrate the rich impact that
+  artificial intelligence has had on the understanding and composition
+  of traditional music and to demonstrate the ways in which music can
+  push the boundaries of traditional AI research. 
+
+  The authors include prominent figures in linguistics (Johan Sundberg,
+  Ray Jackendoff), computer science and AI (Fred Brooks, Marvin Minsky,
+  Terry Winograd, Herbert Simon, Peter Neumann), music theory (Allen
+  Forte), composition (Fred Lerdahl, Charles Ames), psychoacoustics
+  (Christopher Longuet-Higgins, Jamshed Bharucha), and the odd middle
+  ground of "computer music" (James Moorer, Hiller and Isaacson). 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 26 Jun 1996 18:52 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA10365; Wed, 26 Jun 1996 09:52:47 -0700
+Date: Wed, 26 Jun 1996 09:52:47 -0700
+Message-Id: <9606261652.AA06880@arthaud.saclay.cea.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,85 @@
+source file: m1441.txt
+Date: Mon, 8 Jun 1998 18:20:09 +0000
+
+Subject: Roland Akai wishlist etc
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+John Loffink wrote:
+
+>I've been working on such a list for my web site based upon
+>information from this forum.  I will post it soon and open it up for
+>comments.  I'm breaking the wish list up into low, medium and high
+>end, as some requests are too specialized to be achieved on all
+>instruments.
+
+Great! looking forward to seeing this.  The low/medium/high breakdown 
+seems a good idea.  If my information is correct and the new 
+Roland system is a sampler/synth hybrid, it'll be interesting to see 
+what tuning architecture is implemented -maybe along Kurzweil lines?  
+
+Rick Sanford wrote:
+
+>We could frame our request as coming from the WM school, no?
+
+Sorry, what is WM?   'World Music'? 
+
+If so, I would personally prefer to present ideas as what they are.   
+I don't think there would be much to be gained from doing otherwise.  
+But maybe I misunderstood? 
+
+Also, I hadn't really considered (in this instance) doing something 
+collectively, because (as far as I understood from previous 
+discussion on the list) only a minority on the list seem interested 
+in using a sampler for microtonal work (??? maybe just 'cos it's too 
+time consuming)  - however, as I say, the new Roland may be a 
+hybrid. 
+
+John Loffink also wrote:
+
+> This is the argument I have against the 
+>stance that full keyboard scales are all that is necesary.  We've
+>waited centuries to get keyboard-based instruments that can modulate
+>freely in just intonation, why hamper it now by limited software
+>definitions?  Until we get a better protocol than MIDI I think a 
+>mix of keyboard and octave scales is needed.
+
+I think I'm in agreement with this.  But, (like Gary?) I'm not 
+clear about the distinction between 'full keyboard scales' and 
+'octave scales': 
+
+Examples:  
+ 
+(1) 12-pitch-classes each tunable by + or - x cents; (so for example 
+all C naturals are x sharp, all the C sharps are y flat, etc.)  
+Eg.,  ideal for tuning 12-gamut temperaments.
+
+(2) Totally free pitch assignment (ie, any keyboard-key can trigger
+any pitch, independently of any other pitch the keyboard will 
+trigger).   
+
+(3) Pitch assignation to a user definable keyboard zone - for example 
+- select a zone of 34 consecutive keyboard notes, and assign each 
+keyboard key a pitch value (ET or not) relative to 1/1 in that zone 
+(normally in an ascending scale, but not necessarily).  Then tell the 
+machine to automatically assign that 34 key tuning scheme into the 
+next octave either (for example) at the 35th key above or at the 36th 
+key above and below.  (I don't suppose the latter exists yet).   
+
+Is (1) an 'octave' scale, (2) 'full keyboard scales' and (3) a mix of 
+the two?  Or does 'full keyboard' mean all (say) 88 notes of the 
+keyboard are pre-assigned via a table? 
+
+D(ave)?  Finnamore wrote:
+
+>Sample assignment (in the case of sample-based synthesis) by
+>nearest-to- sampled-pitch rather than by note number. 
+
+Yes.  I posted some stuff on this some time back.  I was suggesting 
+that sampler manufacturers include user-configurable 'macros' to 
+reduce the time it takes to build patches, by providing a 
+facility to automatically map samples correctly for standard and 
+non-standard scales.  As you'll see from John Loffink's pages, 
+Kurzweil have made a start in implementing something along these 
+lines.   Lets hope Roland and Akai will do the same.  So far as I 
+know, EMU have not (?).

@@ -1,0 +1,23 @@
+source file: m1388.txt
+Date: Fri, 17 Apr 1998 15:15:58 -0500 (CDT)
+
+Subject: Re: Continued Fraction Problems
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 17 Apr 1998, Drew Skyfyre wrote:
+> 2)In Dunne's excursion into using the maj 3rd (5/4) for the computation 
+> (on how many notes could be there in an ET octave), where ( log[2](5/4) = 
+> log[2](5) - log[2](4) )He says "since log[2](4) is an integer,the crux of 
+> the approximation is
+> that of log[2](5) . Why is log [2](4) to be ignored ?
+
+Because 4/1 is a double octave, and (guessing here since I haven't read
+the book) if he's only considering integral ETs, octaves will always be
+perfect and will not affect the errors/deviations that he's computing.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Hey--do you think I need to lose some weight?"
+  -\-\-- o
+             NOTE: dehyphenate node to remove spamblock.          <*>

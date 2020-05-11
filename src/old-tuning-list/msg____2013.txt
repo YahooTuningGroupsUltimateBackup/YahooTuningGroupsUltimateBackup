@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Mon, 18 Sep 1995 20:46:10 -0700
+
+Subject: 88CET #11:  Doubling 2
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Last time I mentioned some considerations for creating the essential effect
+of doubling in 88CET even though it doesn't have an octave.  Here are the
+intervals that seem the most effective in that regard.  
+
+   Bearing that first consideration in mind, I have found three 88CET intervals,
+from least to greatest change in the character of a chord, to be useful for
+doubling:
+1.  The triple-octave (41 88c steps).  
+2.  The perfect fifth (8 88c steps).  
+3.  The major tenth (18 88c steps).  
+These are probably the best candidate intervals to try adding to a chord, if you
+want to increase its richness, but not significantly change its character.  They
+definitely could change the character of the chord depending on the intervals
+you start with and the intervals you end up with, but they are certainly bland
+compared with many of 88CET's most useful chord-building intervals, supramajor
+or neutral thirds for example.  
+
+   I have found that doubling in one or more perfect fifths below the lowest
+chord-tone usually produces powerful chords of similar character with the
+original chord.  That is true provided that, in doing so, you don't create any
+of those "taboo" false perfect consonances (octaves, twelfths, or double
+octaves).  
+
+   While on the subject of doubling in unusual intervals, it's probably worth
+pointing out that 88CET can provide some very unusual and intriguing composite
+timbres from doubling entire melody lines up or down by these intervals.  For
+example, a violin melody doubled on a flute a 7:4 higher seems to have a
+synergistic sound beyond a mere timbral mixture as with doubling in unisons,
+octaves, or fifths to a lesser degree.  Some of these composites sound more like
+alien synthesizer sounds, even if the constituent instrument simulations are a
+quite realistic.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Sep 1995 11:42 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id CAA22302; Tue, 19 Sep 1995 02:42:25 -0700
+Date: Tue, 19 Sep 1995 02:42:25 -0700
+Message-Id: <v01510101ac84407d1cf6@[194.128.81.130]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

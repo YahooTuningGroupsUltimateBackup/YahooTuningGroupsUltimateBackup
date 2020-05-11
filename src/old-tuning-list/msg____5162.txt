@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Fri, 21 Mar 1997 00:25:34 -0800
+
+Subject: Prime limit, metaphysics
+
+From: Gary Morrison <MorriSonics@compuserve.com>
+
+> I should think 
+> the steel frames of most hospitals would shield adequately against 
+> them, though they will penetrate hundreds of meters of conductive 
+> seawater.Is there a EE in the house?
+
+   Yo!  (Actually probably only one of several I'd be willing to bet.)
+
+   For whatever it's worth, consider that we can't see around buildings,
+and yet radio waves can go around them fairly well.  Why?  Higher
+frequencies of electromagnetic have greater line-of-sight dependencies than
+lower ones.  Above the UV part of the spectrum, our atmosphere shields us
+from just about anything from the cosmos, and most everything between UV
+and microwaves are easily blocked by objects of daily life.  
+
+   The effects of lower frequencies than that on humans are something of a
+topic of debate these days, largely from the allegations that high-voltage
+power lines have been causing brain tumors nearby residents.  (If you're
+interested in that topic, Consumer Reports did a good report on the topic
+something like a 9-12 months ago.)  
+
+   For now though, precisely measured, widely-accepted cause-effect
+relationships between electromagnetic waves and human medicine and
+psychology are limited to direct sensory perception through our eyes,
+temperature sensing in our skin, and that annoying hum in some of our
+studios' cables (#@#$ *&%% @%$*!).  It would be foolish to deny that there
+is SOME evidence of other effects, but those are clearly much more subtle. 
+And there is theoretical reason to believe that these effects are as
+limited as they seem since, as John Chalmers accurately put it, humans are
+lousy antennae.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 21 Mar 1997 11:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07717; Fri, 21 Mar 1997 11:11:57 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07705
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id CAA05145; Fri, 21 Mar 1997 02:09:56 -0800
+Date: Fri, 21 Mar 1997 02:09:56 -0800
+Message-Id: <3332DCC5.2294@sejm.gov.pl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

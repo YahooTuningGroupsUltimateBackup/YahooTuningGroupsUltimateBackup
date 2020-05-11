@@ -1,0 +1,78 @@
+source file: m1589.txt
+Date: Sat, 21 Nov 1998 15:05:34 -0800
+
+Subject: Ambiguous or Contradictory?
+
+From: Carl Lumma <clumma@nni.com>
+
+>>4. Can somebody show a method for finding which tunings will support a
+>>given rank-order matrix?  Preferably one that works on both just and
+>>equal step scales?
+>
+>What's a rank-order matrix?  Can it apply to meantone-type or Keenan-type
+>scales as well?
+
+A graphic method of determining propriety, no matter how many unique
+interior intervals a scale has (Chalmers' formula only works for two) is to
+construct its "interval matrix".  This is just its Lambdoma or Tonality
+Diamond.
+
+To make a "rank-order matrix", take this diamond and replace each
+interval's logarithmic magnitude with a number ranking it's size relative
+to all the other intervals in the diamond.  Thus, any subset of an equal
+temperament that uses all the intervals in the temperament will have
+identical interval and rank-order matrices.  Example: diatonic scale in 12tET.
+
+This idea is that several scales, each having a different interval matrix,
+may all be percieved as re-tunings of eachother if they share the same
+rank-order matrix.  This works for meantone scales, so far as I can figure.
+ What's a Keenan-type scale?
+
+
+>>2. Can a proper scale with one and only one ambiguous interval in each
+>>mode exist?
+>
+>I don't know what modes have to do with it, as all modes of a scale have
+>the same intervals, but isn't the usual diatonic scale in 12-tone equal
+>temperament an example?
+
+Isn't it amazing how many definitions the word "interval" has?  Here, I
+meant a (number of scale steps, acoustic magnitude) pair.  So no, the usual
+diatonic is not an example; the tritone is not a type of fifth in the
+natural minor.
+
+
+>>3. What about a proper scale with one and only one ambiguous interval
+>>in each interval (steps) class?
+>
+>An ambiguity occurs between two intervals, therefore it is hard to know
+>what you mean by "one ambiguous interval." How about C D E F# G# in
+>12-tET?
+
+Let's take a look at its "interval matrix"...
+ 
+      (C)  (D)  (E) (F#) (G#)
+2nds   2    2    2    2   *4       
+3rds  *4   *4   *4   *6   *6 
+4ths  *6   *6   *8   *8   *8
+5ths  *8   10   10   10   10
+
+And rank-order matrix...
+
+      (C)  (D)  (E) (F#) (G#)
+2nds   1    1    1    1   *2       
+3rds  *2   *2   *2   *3   *3 
+4ths  *3   *3   *4   *4   *4
+5ths  *4    5    5    5    5
+
+Modes are the columns, interval classes the rows.  Ambiguous intervals are
+marked by stars.  My questions are then: 1. Can a scale exist that has one
+and only one star in each column?  2. Can a scale exist that has one and
+only one star in each row?
+
+Aside from being fun, I think these are useful questions.  For me,
+ambiguous intervals are the common tones of a type of "melodic modulation".
+ You don't want too many or too few.  In fact, I think I care more about
+ambiguous intervals than I do contradictory ones.
+
+Carl

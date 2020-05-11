@@ -1,0 +1,63 @@
+source file: m1459.txt
+Date: Sat, 27 Jun 1998 07:11:46 -0500
+
+Subject: adaptive tunings
+
+From: sethares@eceserv0.ece.wisc.edu (William Sethares)
+
+The thread between Jeff Lofflink and POL:
+
+******
+
+> I'm open to any ideas on this.  I got the idea from the Justonic
+> folks.  I use new note only updates myself.  They were more inclined
+> to real-time updates, giving as an example barbershop quartets where
+> a pitch swoop wouldn't be out of place.  The MIDI Tuning standard
+> also requests real-time updates.  Do we really need both types
+> available simultaneously?
+
+Pass.  Is Bill (Sethares) on the list these days? any feelings on
+this?  Neither is something I use at all, currently, but the option 
+would be hugely advantageous, and I'm sure I would were it 
+convenient.  Two major problems are (a) defining the logic (b) 
+making that logic configurable. One thought: personally, I think I 
+would be more or less content if this could be implemented as a 
+convenient 'post-production' technique.  But people who are 
+interested in using these machines for live performance would 
+presumably want more than this?  
+
+******
+
+I think its fair to say that there's a real "chicken and egg" problem 
+with adaptive tunings. It's hard to compose or perform with adaptive 
+tunings because there's no nice implementation - and there's no nice 
+implementation because no-one is composing/performing that way. 
+
+I went to Ensoniq and gave a presentation about various tuning 
+issues, with a heavy emphasis on adaptive tunings, and they thought 
+it was all very interesting, and thank you for coming. Given that their 
+tuning expert (Steve Curtain) has moved on to other places, I don't 
+they're a likely source for something like this at the current time 
+(though I'd love to be proven wrong). 
+
+All of my adative tuning work has been "off-line". I make a standard 
+MIDI file, read it into my adaptive algorithm, wait a while, and then 
+check out how it did. This is a very awkward way to work, and is 
+essentially a kind of 'post-production' method as you describe. I 
+think adaptive tunings will only be really useful when you can sit 
+down and play as if it were a musical instrument. Such 'post-
+production' methods are fine for demonstrating the concepts, but not 
+for exploring the technique fully. 
+
+I'm currently attempting a 'real-time' version using Max, though its 
+unclear at the present time how many simplifications are going to be 
+needed before it will actually run in real time. Of course, this is for 
+MIDI instruments only. A far more interesting thought is the idea of 
+operating on acoustic sounds...
+
+Bill Sethares
+
+------------------------------
+
+End of TUNING Digest 1459
+*************************

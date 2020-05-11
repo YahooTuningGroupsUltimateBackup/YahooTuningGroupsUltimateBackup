@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Mon, 4 Nov 1996 15:58:41 -0800
+
+Subject: Re: Pitch Bend for tuning
+
+From: bf250@freenet.carleton.ca (John Sankey)
+
+Denny Genovese wrote "Sliding tones in the attack of notes 
+indicate that pitch Bend is being sent AFTER the note message".
+
+That is not true, on many computer-based soundcard systems at 
+least. On my PC(386)+SoundBlaster system, a pitch-bend must be 
+timed about 10 ms in advance of the start of the note, or a 
+slide can be heard in the note attack. A soon as I started to 
+post recordings on the net, I found that a lot of other 
+computer systems and cards show effects similar to mine. I 
+also note that real instruments have decays after the end of 
+notes, and a pitch-bend command will slide them too.
+
+That's why I ended up restricting my pitch-bends to the 
+beginning of a piece then waiting 1/4 s before the start of 
+note on's. Otherwise, you would have to determine the decay 
+time of the worst- case note-off plus the pitch-bend actuation 
+time, assign notes only to channels that had been quiet at 
+least that long, and insert the pitch-bend to be sent at least 
+the actuation time prior to note-on. Can be done of course, 
+but it would take a lot more programming than my method does.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 5 Nov 1996 01:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00569; Mon, 4 Nov 1996 05:58:41 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00567
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id UAA15912; Sun, 3 Nov 1996 20:58:39 -0800
+Date: Sun, 3 Nov 1996 20:58:39 -0800
+Message-Id: <Pine.3.89.9611032353.A22068-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

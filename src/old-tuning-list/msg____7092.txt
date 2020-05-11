@@ -1,0 +1,82 @@
+source file: mills3.txt
+Date: Thu, 29 Jan 1998 21:41:27 +0100
+
+Subject: Re: TUNING digest 1312
+
+From: Carl Lumma <clumma@nni.com>
+
+(Graham Breed)
+>I've worked out that Paul Erlich's Pentachordal modes can be
+>written as 10 JI notes plus three commas of 50/49.
+
+You wouldn't mind posting them?
+
+(Paul Hahn)
+>You don't need the tetrahedra to fill space.  The lattice fills space
+>perfectly fine (if you look at the Voronoi cells of the vertices,
+>they're rhombic dodecahedra, which _do_ fill space); but instead of
+>dividing space up into cubes you get alternating tetrahedra and
+>octahedra.
+>
+>In crystallography this relationship is called "face-centered cubic
+>close-packing" and is quite common.
+>
+>I believe this structure was actually patented by Buckminster Fuller
+>under the name "Octotruss".
+
+The tetrahedra and octahedra space-filling combo is called the
+face-centered cubic.  Fuller called it both the 'isotropic vector matrix'
+(in general) and the 'octet truss' (for architecture).  I don't know what a
+Voronoi cell is, but if you center a unit sphere on each point in the
+face-centered cubic, then each sphere will touch all 12 faces of a rhombic
+dodecahedron right in the middle, and the rhombic dodecahedra will fill the
+space.
+
+But the face-centered cubic isn't regular, and the rhombic dodecahedron has
+too many verticies.
+
+>This isn't right--21/16 should be plotted, not where you have it, but
+>like this:
+>
+>      5/4-------15/8
+>     /   \      /
+>    /  .  \    /  .
+>   /       \  /
+> 1/1-------3/2
+>
+>in which case the spatial/visual relationship between pitches 3/2 apart
+>is preserved.
+
+Ah... I've got a tensegritoy model right here.  The tops don't look like
+this to me.
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Paul Hahn <Paul-Hahn@library.wustl.edu>
+Subject:  60 vs 45 (90, really)
+PostedDate:  29-01-98 22:21:40
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  29-01-98 22:20:47-29-01-98 22:20:48,29-01-98 22:19:32-29-01-98 22:19:32
+DeliveredDate:  29-01-98 22:19:32
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125659B.00753FD8; Thu, 29 Jan 1998 22:20:40 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01931; Thu, 29 Jan 1998 22:21:40 +0100
+Date: Thu, 29 Jan 1998 22:21:40 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01929
+Received: (qmail 28170 invoked from network); 29 Jan 1998 13:20:51 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 29 Jan 1998 13:20:51 -0800
+Message-Id: <Pine.SOL.3.95q.980129145851.19022A-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

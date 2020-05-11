@@ -1,0 +1,78 @@
+source file: m1449.txt
+Date: Wed, 17 Jun 98 02:53:44 +0000
+
+Subject: Vocal Synth,Synth tuning things,...
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Gonna be one Digest/day late with my $0.02.
+BTW, whopper of a Digest, we're cooking now ;-)
+
+Graham Breed wrote :
+>> Ensoniqs do 0.4 [cents]
+>
+>Do they?  Have you tested the accuracy, or is this merely the precision
+>of the tuning table?
+
+Just the stated specs, "256 steps per semitone resolution".               
+      
+
+Michael A. Thompson wrote :
+>  yes, it uses the Macintosh Speech engine. 
+etc.
+
+Ooh dear, Mac Speech Engine ,huh ?
+Wonder what they mean by this :
+>> >With the recent development of its breakthrough acoustic modeling
+>> >   technology called Resonant Articulatory Synthesis (RAS), KAE Labs
+>> >   offers the first musical instrument that can model the human vocal
+>> >   tract in singing unrestricted English lyrics.
+
+Do you mean it spits out voices similar to the Speech ones that are in 
+System 8 
+( Victoria,Fred,etc) ?
+
+>I have been working with a major DSP company on a "singing"
+>computer(classical voice--male(tenor)--female(sop.)). It needs more work
+>but sounds surprisingly human. I will post a web page soon if anybody is
+>interested...
+  
+Oh,yes PLEASE.Soon,soon.
+
+I'm more interested in this type of thing  as a compositional tool,rather 
+than
+for putting on a CD.Although ,I'd like to use humanly impossible vocal 
+timbres
+and ranges  using synthesis.
+
+And,I'm for quick fixes where possible.I don't have the patience,time,or 
+inclination
+to spend a week programing FOF filter thingies in Csound (or anything 
+else) for 
+5 minutes of  "vocal sounds". I 
+want to write music and have real-time interaction with whatever device 
+is 
+making the sounds. Actually ,software synths and I don't get along very 
+well in general.
+
+Gary Morrison wrote :
+
+>>Wouldn't it be preferable for any synth that incorporates decent
+>>microtuning to
+>>not be sample based ,but rather generate its sounds using an actual 
+>>synthesis technique,
+>>like Physical Modelling,FM,etc. ?
+>
+>   Because ...?
+I said that because of the impossibility (but,maybe some sophisticated 
+DSP system,maybe like 
+that in Digital Performer can make it possible) of tuning any individual 
+sample
+at a given pitch through the entire MIDI 128 note range and still have a 
+useable sound.
+I could be wrong or missing something here.
+
+
+-Drew 
+
+"I think the bees *suspect* something." - Winnie-the-Pooh

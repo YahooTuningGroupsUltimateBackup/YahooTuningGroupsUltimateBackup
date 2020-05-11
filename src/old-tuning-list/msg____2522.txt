@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Thu, 1 Feb 1996 14:37:39 -0800
+
+Subject: Arabic modes
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+I've recently been lurking on the USENET newsgroup rec.music.arabic
+hoping somebody would say something interesting about scales and
+tuning instead of mostly inquiring about CD's of popular performers, etc.
+Anyway, the FAQ was distributed this AM and I extracted the following
+information on scales:
+ 
+ 
+Mode:          Tone spacing
+-----          ------------
+rast:           1       3/4     3/4     1       1       3/4     3/4
+sikah:          3/4     1       1       3/4     3/4     1       3/4
+@ajam (Major):  1       1       1/2     1       1       1       1/2
+@ajam (Minor):  1       1/2     1       1       1/2     1       1
+alkird:         1/2     1       1       1       1/2     1       1
+alhijaz:        1/2     1 1/2   1/2     1       1/2     1       1
+bayati:         3/4     3/4     1       1       1/2     1       1
+Saba:           3/4     3/4     1/2     1 1/2   1/2     1       1
+ 
+One can see how tetrachordal these modal scales are. Rast is clearly
+two tetrachords of the form 200 + 150 +150 cents and would appear to
+be related to Ptolemy's Equal Diatonic. One could also analyse this
+scale as a mode of a scale  composed of two 150 + 150 + 200 cent 
+tetrachords, but I think the first form is more likely true as it
+preserves the neutral third. Sikah is a mode of this scale. The next
+two, @ajam, are the major and minor modes of the diatonic  while Alkird 
+is the Dorian. Alhijaz is a mixture of Neochromatic and Diatonic 
+tetrachords, Bayati of Equal Diatonic and Diatonic, while Saba is
+a mixture of Equal Diatonic and Neochromatic.
+	The quantization to 24-tet obscures the exact tuning somewhat,
+but it probably captures the general impression actual performed versions
+make.
+ 
+--John
+ 
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 2 Feb 1996 00:57 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA15223; Thu, 1 Feb 1996 15:56:58 -0800
+Date: Thu, 1 Feb 1996 15:56:58 -0800
+Message-Id:  <9602011555.aa01831@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

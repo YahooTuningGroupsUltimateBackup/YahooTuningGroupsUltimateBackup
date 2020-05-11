@@ -1,0 +1,112 @@
+source file: mills2.txt
+Date: Wed, 5 Feb 1997 07:47:17 -0800
+
+Subject: Re: NeXT.Just.tar.Z
+
+From: Bill Parod <parod@baris.acns.nwu.edu>
+
+Kami,
+
+Here is the unformatted overview from the on-line help for Just.
+There are a couple of versions 'out there'. The latest version  
+supports midi in, so you can play tunings from a midi keyboard. If  
+your version doesn't do that and you wish to, let me know. Also the  
+newer version is FAT so it will run on Intel-NeXTStep as well as NeXT  
+hardware. 
+
+
+If you need more help, let me know.
+
+Bill Parod
+
+
+
+
+Overview
+
+This application provides a means of exploring  arbitrary tuning  
+systems using standard representations (pitch, musical interval,  
+cents, frequency, and ratio), as well as exploiting theoretical  
+systems such as Just Intonation and N-tone equal temperament.  The  
+application organizes these features into two main window styles and  
+a few auxiliary panels. The two window styles:  Keyboard and Matrix,  
+contain Keys that may be tuned and played with the mouse or MIDI  
+keyboard.  A Tuning Panel provides controls that are used to tune,  
+play, compare, or change the representation of selected keys.
+
+The user may also play standard NeXT and MIDI score files.  These  
+scores may be retuned from tuning information in Keyboard or Matrix  
+Windows.
+
+Keyboard Windows
+
+Keyboard windows contain an arbitrary number of marimba style keys.   
+Keys are sounded by clicking with the mouse.  Multiple keys may be  
+selected at one time.  This is useful for listening to chords, or  
+examining relationships within a subset of a tuning. 
+
+
+Keys are moved within or between Keyboards with the standard cut,  
+copy, and paste mechanisms. Each Key may be tuned and presented in a  
+variety of representation styles: 
+
+
+	Pitch
+	Cents Relative to a Reference Key
+	Cents Relative to the Previous Key
+	Hertz
+	Ratio Relative to a Reference Key
+	Ratio Relative to the Previous Key
+	Interval from Reference Key
+	Interval from Previous Key
+	MIDI Key Number
+	User Label (arbitrary names, i.e Do, Re, Mi)
+
+Matrix Windows 
+
+
+There are two types of Matrices available: Transpositional and  
+Extended Just. Each presents a palette of ratios to be used in the  
+formation of new Keyboards, although representation is not restricted  
+to ratios. Any of the above tuning representations may be used. 
+
+
+A Transposition matrix is formed by selecting two keyboards as axes,  
+and creating a matrix consisting of each keyboard transposed by each  
+step of the other.
+
+An Extended Just Matrix also provides a system of ratios. Each axis  
+represents powers of a specified ratio, reduced and brought to within  
+an octave of the origin (1/1),  which is centered in the matrix.  
+
+	
+Tuning a Keyboard or Matrix
+
+The Tuning Panel is the mechanism used to tune a key or change its  
+representation.  Controls in the Tuning Panel are applied to the last  
+key played. The desired representation or tuning style for individual  
+Keys or an entire Keyboard/Matrix are chosen with the Tuning Panel.   
+
+
+Tuning a Score
+
+Once a tuning is described, it may be used to affect the performance  
+of a score.  Re-tuning a score is accomplished by installing a  
+Keyboard's tuning as the default tuning system for Musickit  
+performance. A score may be heard with a variety of tunings by  
+installing those from different Keyboards.  
+
+	
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 6 Feb 1997 02:03 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA26799; Thu, 6 Feb 1997 02:03:19 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA26872
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id RAA14558; Wed, 5 Feb 1997 17:01:07 -0800
+Date: Wed, 5 Feb 1997 17:01:07 -0800
+Message-Id: <v03007800af200b2f69aa@[130.132.159.40]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,82 @@
+source file: mills2.txt
+Date: Sat, 16 Dec 1995 11:13:02 -0800
+
+Subject: New 19/Oct Scales
+
+From: Brian Thomson <BrianT@post.emap.co.uk>
+
+Gary Morrison, among others, may remember me talking about modulating 
+standard
+equal-temperament scales with a numeric function such as Sine. If not, I 
+probably didn't mention it on the list anyway.
+
+In any case. these are a couple of 19/Oct Sine-Modulated Equal-Temperament 
+(SM-19ET) scales that I worked out using a spreadsheet (MS Excel). The idea 
+was to try out many different combinations of sine frequency and amplitude 
+on the interval numbers (1, 2, 3, etc.), and use statistical analysis 
+techniques to evaluate how well the results match up with the theoretically 
+pure mathematical intervals (e.g. 3:2 for a fifth).
+
+Standard 19/Oct ET is shown for comparison. The first SM-19ET scale is 
+arrived at by modulating the interval number with Freq=8 and Amp=0.122889; 
+the second uses Freq=12 and Amp=-0.195294179.
+
+Could someone with the equipment (and the time!) try these out and let me 
+know how they sound? So far, they exist purely as numbers, and I'm dying to 
+know how they translate to Reality(TM). If they're worth anything, please 
+accept them as public domain and use them freely, with my best wishes 
+(although an album sleeve credit would be nice...)
+
+Interval		Std 19/Oct	SineMod #1	SineMod #2
+1		63.158		71.369		51.862
+2		63.158		58.978		83.528
+3		63.158		52.895		58.088
+4		63.158		62.299		46.861
+5		63.158		72.999		81.321
+6		63.158		68.849		64.863
+7		63.158		56.111		43.625
+8		63.158		54.007		77.145
+9		63.158		65.712		71.454
+10		63.158		73.563		42.506
+11		63.158		65.712		71.454
+12		63.158		54.007		77.145
+13		63.158		56.111		43.625
+14		63.158		68.849		64.863
+15		63.158		72.999		81.321
+16		63.158		62.299		46.861
+17		63.158		52.895		58.088
+18		63.158		58.978		83.528
+19		63.158		71.369		51.862
+			
+Total / Oct	1200		1200		1200
+
+Merry Whatever...
+
+Brian Thomson
+London, UK
+briant@computing.emap.co.uk
+
+PS: I have a couple of spreadsheets that might be of use to "normal" 
+keyboard or stringed instrument players. You type a key (e.g C#) into one 
+cell, a chord or scale type (e.g. MIN7) into another, and the spreadsheet 
+calculates and displays the scale / chord on a keyboard or tunable & 
+customisable "fretboard", depending on the version. A few guys on the 
+Chapman Stick list have tried one version out, and the feedback has been 
+quite positive. I use them myself for 5-string bass and keyboards. I can 
+mail it to anybody in Excel or MS Works formats, possibly 1-2-3 v4+ as 
+well.
+
+PPS: You can tell I enjoy playing with spreadsheets, can't you? Sad, eh... 
+8{
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 17 Dec 1995 17:16 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA22700; Sun, 17 Dec 1995 08:16:40 -0800
+Date: Sun, 17 Dec 1995 08:16:40 -0800
+Message-Id:  <9512170813.aa21978@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

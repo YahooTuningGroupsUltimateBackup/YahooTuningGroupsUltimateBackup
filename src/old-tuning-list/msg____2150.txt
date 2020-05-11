@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Mon, 16 Oct 1995 08:29:53 -0700
+
+Subject: Format problems with Brian's Posts
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+Brian's last Psychoacoustics post, 21/25, arrived badly garbled in 
+Tuning Digest 530, so I am posting a re-formatted copy. Apparently when
+his word processor wraps a long line, the line gets truncated somewhere 
+in the chain of systems it passes through. Unfortunately, it usually
+looks complete on my screen, so only if I pass his text through my word
+processor, insert a CR at the end of every line, then save it again as 
+an ascii file, can I be assured that it will be legible. This takes some 
+time and I have been loath to do it. Anyway, I hope this version is 
+readable.
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 16 Oct 1995 17:43 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA06710; Mon, 16 Oct 1995 08:42:42 -0700
+Date: Mon, 16 Oct 1995 08:42:42 -0700
+Message-Id:  <9510160840.aa22022@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

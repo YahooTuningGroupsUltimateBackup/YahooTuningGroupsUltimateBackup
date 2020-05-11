@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Mon, 16 Dec 1996 11:56:11 -0800
+
+Subject: alternate tuning for the Korg O5R/W
+
+From: malkin@iwaynet.net (David Malkin)
+
+I've got a very specific question that only someone familiar with
+microtonality would understand (and hopefully appreciate). I have a Korg
+O5R/W syth module that hooks into an old DW-6000 synth. The O5R/W allows
+for microtonality, but it only allows you to alter the 12 chromatic steps
+of Western harmony (and automatically tunes every octave of the keyboard to
+the specs that one specifies). If you want to tune a synth keyboard for
+more than 12 steps you are out of luck. I read a book by Scott R. Wilkinson
+called TUNING IN. He made reference to an article by Carter Scholz that
+appeared in 2/86 copy of KEYBOARD magazine; page 49. He showed how one get
+any keyboard to play in microtones by writing a program in Pascal and
+having it interface with a Roland MPU@1 and a Yamaha DX7. The computer
+waits in an infinite loop in a standby mode and whenever one presses a key
+on the keyboard, it triggers the correct pitch bend midi data that is
+written in the program.  Is this possible with my Korg O5R/W? Do you know
+of anyone who may be of help.
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 16 Dec 1996 20:59 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05940; Mon, 16 Dec 1996 21:02:12 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA05942
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA26630; Mon, 16 Dec 1996 12:02:09 -0800
+Date: Mon, 16 Dec 1996 12:02:09 -0800
+Message-Id: <v01510101aedb5a63546a@[206.244.42.188]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

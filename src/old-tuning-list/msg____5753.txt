@@ -1,0 +1,84 @@
+source file: mills2.txt
+Date: Sat, 5 Jul 1997 15:04:59 +0200
+
+Subject: Re:  Octave equivalence
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+>>On octave invariance, it has just occurred to me that, in LCM
+>>terms, the octave has a property that no other ratio shares. 
+>>That is two notes that differ only by octaves can be mixed
+>>without making the length of the resulting "interference" pattern
+>>longer than the waveform of the lowest note.
+>
+>That's what I was picturing in my mind but stated rather poorly, using the
+>wrong point of reference.  Thanks, Marion.  So for now I still maintain my
+>conclusion that two pitches separated by the interval 2:1 are the same note
+>in different registers.  That triad inversions sound different is the result
+>of a different set of intervals within each inversion of the chord, and so
+>does not seem to require throwing out the idea of octave equivalence.
+
+Actually, David, I think Marion is making the same mistake as you, so it
+may not be as obvious as I thought :-)
+
+Taking the LCM as a function of two integers, there is nothing special
+about 2, other than it being the smallest prime.  LCM(1,2) but
+LCM(1,3)and LCM(1,15547)574.  There is something special about even
+number multiples if you look at half-wavelength traces.
+
+If you allow for the octave equivalence of intervals, all triadic
+inversions contain the same intervals.  However, if you disallow octave
+equivalence of intervals, and you define harmony in terms of intervals,
+you must also reject the octave equivalence of harmony.  Inversional
+invariance follows from octave invariance, unless you have a
+privileged root to lift the otonal/utonal degeneracy.
+
+That notes separated by an octave are the same note in different registers
+is a truism.  That notes separated by an octave are more similar than
+notes separated by other integer multiples is a psychoacoustic question
+open to proof.  The experiments I know of are inconclusive on this.
+Even if it were proved, however, it would not prove octave invariance of
+harmony.  My own ears testify to the contrary.  You may need to contract
+the octave dimension of harmonic space, but that doesn't mean it has to
+be removed completely.
+
+To specifically mention the ratio 15/1.  To my ears, this sounds like
+two independent notes.  It doesn't have the roughness associated with
+dissonance, so I would call it a consonance. 15/8, however, is
+a dissonance as is 16/15.
+
+In some cases, in order to represent a lattice on a two dimensional
+page, the octave dimension is removed.  This is a good idea.  In
+some cases, chords are simplified by pretending they lie within an
+octave.  This is also a good idea in some circumstances.  Some rules
+of harmony are also octave invariant.  This is fair enough, as no
+quantitative system of harmony is good enough to distinguish all chords.
+In many cases, notes are named within an octave, and extended beyond
+it.  With most tempered systems, just octaves are retained.  This is
+a very good idea under most circumstances.  However, none of this
+implies that octave transpositions are harmonically negligible.  Many
+people state this, and I believe it to be a result of sloppy thinking.
+That is my manifesto, and I welcome comments on it.
+
+On a slightly different thread, despite favouring the LCM, I am fully
+aware of its faults.  Primarily, the major tetrad 4:5:6:8 and
+the major 7th 8:10:12:15 both have an LCM of 120.  To my ears, and
+those of tradition, they are not equally consonant.  To borrow a
+phrase: the LCM is the worst measure of dissonance, except for all
+the others.
+
+                         Graham
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 5 Jul 1997 18:48 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05353; Sat, 5 Jul 1997 18:48:34 +0200
+Date: Sat, 5 Jul 1997 18:48:34 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05384
+Received: (qmail 8961 invoked from network); 5 Jul 1997 16:48:28 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 5 Jul 1997 16:48:28 -0000
+Message-Id: <970705124520_-1527843658@emout11.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,60 @@
+source file: mills2.txt
+Date: Sat, 24 Aug 1996 18:15:59 -0700
+
+Subject: The magnificient senventh...
+
+From: Kami Rousseau <kami@interlinx.qc.ca>
+
+My playing experience taught me that jazz uses 4:5:6:7 chords most
+of the time. The 'flat' seventh really puts the chord its "cool" or
+"relaxed" context.
+Playing a 16/9 on top of a jazz chord just kills the feeling. But, some jazz
+uses 5-limit 7th chords, and classical music uses it all the time (almost by
+definition.)
+
+        The 16/9 in the classical seventh chords (1 5/4 3/2 16/9 or sometimes
+3/4 16/9 2/1 ) gives a very serious, or conventional, feel to the music.
+This afternoon, I realised how much this conventional effect, this expected
+effect is important.
+
+        I was playing the last stranza of the aida march in the key of F
+major. Here it is in GWBasic notation with the chords on top : (is there a
+better name for this kind of notation?) I separated in bars, the first one
+starting on the second beat. 
+
+Tempo : approx 60bpm for the quarternote
+
+        Cm              F7              G7                      C
+    G   G.G8    >C.C8   EbD     C<A     GA12G12F12      ED      C1
+
+        The Eb in the first F7 bar is the climax of the phrase. I was using
+a new trumpet today, a Jerome Callet Soloist. I hadn't tested the intonation
+of the horn before playing. When I played the high Eb, using the 5th
+harmonic and 2nd valve pressed, (theorically 5/4 of C, minus 100cents) when
+I played this, the trumpet played the 7/4 of F!!!! Believe me, a note 36/35
+lower then the classical 16/9 sound REALLY WEIRD!!!!!! The note was a full
+quartertone off! I will be traumatised for a few days. This note sounded
+really wrong.
+
+I would like to have everyone's feedback:
+What is your opinion on sevenths? What is the difference between 16/9 and
+9/5? (I you tell me that the difference is a comma, I will have to kill you.
+What I want to know is when to use the two different intervals.)
+
+-Kami
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 25 Aug 1996 07:15 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31415; Sun, 25 Aug 1996 07:16:21 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA31361
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA17888; Sat, 24 Aug 1996 22:16:20 -0700
+Date: Sat, 24 Aug 1996 22:16:20 -0700
+Message-Id: <960825051025_71670.2576_HHB48-11@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

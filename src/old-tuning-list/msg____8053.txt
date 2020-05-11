@@ -1,0 +1,84 @@
+source file: m1444.txt
+Date: Thu, 11 Jun 1998 23:05:02 -0500
+
+Subject: Re: Microtunable wishlist
+
+From: "jloffink" <jloffink@pdq.net>
+
+> From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+> Will the Ensoniq extrapolate an arbitrary-number-division
+> *non-equally- tempered* non-octave scale?  That's interesting, I
+> didn't realise it went that far - I thought it could only extraopolate
+> *equally-tempered* non-octave scales? But you're saying the Ensoniq
+> will allow a 23 note scale, with user specified non-equal divisions, 
+> which 'repeats' at intervals of 7/4 (and leaves specific keyboard 
+> keys within the 23 steps blank)?  (for example).
+
+Yes, but if you extrapolate from key A to key B and the desired interval is
+not an exact integer cents division you might get some small error (1 cent
+per range) in the extrapolation.  Normally, you define a full octave and
+extrapolate that.
+
+> 1. Explain why high end resolution of 0.0061 cents would be useful? 
+> Otherwise manufacturers will assume craziness? Suggest other options 
+> and why?  
+
+That's the highest resolution of the MIDI Tuning Standard.  It's not useful
+for me, but is for some people doing drones.  By high end I'm really
+referring to computer synthesis type programs, not your everyday keyboard
+synthesizer.  This should be spelled out in the wishlist.  MIDI response
+isn't fast enough to make that pitch resolution usable due to phase
+cancellations, as discussed previously in the list.
+
+Manufacturers will think we're crazy asking for 0.1 cent resolution.  I'll
+probably rephrase the pitch resolutions as "to 0.1 cent or best possible
+cents resolution" and add some exposition to the requests.  In a wavetable
+synthesizer the underlying samples would never be tuned to that accuracy. 
+Sorry, but it's true.  Writing some new code is one thing, but
+manufacturers are not going to order their sound development groups to tune
+everything to 0.1 cent accuracy just for us microtonalist's benefit.  That
+would be a huge labor effort on their part.  The idea is to keep this as
+simple as possible, thereby raising the probability that these ideas will
+be implemented.
+
+> 3. I'm unclear how far the last line of your high-end  spec addresses 
+> the question of adaptive tunings  ("real-time updates of note 
+> pitches is selectable per note as instant pitch correction or new 
+> note only").   Could this be made clearer/ elaborated upon?  An 
+> option to invoke built-in, user-configurable adaptivity should indeed 
+> be a requirement - at least in an ideal high-end machine.  How best 
+> to provide *user configurability* for real-time adaptivit(ies) is not 
+> my area - but others might like to suggest?
+
+I'm open to any ideas on this.  I got the idea from the Justonic folks.  I
+use new note only updates myself.  They were more inclined to real-time
+updates, giving as an example barbershop quartets where a pitch swoop
+wouldn't be out of place.  The MIDI Tuning standard also requests real-time
+updates.  Do we really need both types available simultaneously?
+
+> 5. Measurements in Cents and/or Hz and/or *Ratios*(?).  To the 
+> What-Limit?
+
+Again, we need to keep things simple for the manufacturers.  Measurements
+in cents is all we need to define any scale.
+
+> As regards interface: here's an off-the-top-of ny-head sketch of the 
+> sort of thing I'd like to see:
+> 
+> Click on a button called 'Tuning';
+> Up comes a dialog box, which says:
+>         New or Load or Edit
+> New is new, Load loads pre-defined tuning configuration; Edit edits 
+> one.  Suppose we choose 'New' -
+etc.
+
+It's a good idea to give something like this as an example, but phrase them
+as being options.  It's important to break away the things that make
+microtuning convenient from those that make it possible.  Asking or
+demanding too much work from the software engineers who write these
+programs is likely to get us nothing in return.  I'd really like to see any
+possible simplifications to the wishlist.
+
+John Loffink
+jloffink@pdq.net

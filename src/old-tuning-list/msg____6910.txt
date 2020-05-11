@@ -1,0 +1,63 @@
+source file: mills3.txt
+Date: Sat, 3 Jan 1998 01:04:47 +0100
+
+Subject: Re: vertical/horizontal/motherlode
+
+From: Joseph  Downing <jdowning@mailbox.syr.edu>
+
+I've noticed that melodies and harmonies don't necessarily have to share
+the same scales.  When I studied with Ben Johnston, it was an assumption
+that all pitches needed for harmony and melody would be part of the same
+set.  I now questions that.
+
+As an example, let us take the tune "Amazing Grace" which is itself
+pentatonic.  it came be harmonized by confining oneself to the pentatonic
+pitches (anything pretty much goes), or by using other scales.  For
+example, in most hymnbooks, it is harmonized in diatonic harmony, which
+requires the 4th and 7th scale degrees.  In Ben's variations, he goes
+further along, harmonizing it with 7th partial relationships (and 11th, if
+I recall correctly.)  The piece works, I think! <G>
+
+I see no reason why the pitches used for melodic material need to be the
+same as those used for harmony.  Actually, for anyone who has played with
+scales in just intonation, it is obvious that the second scale degree
+(let's call it 'Re') which is a perfect fifth above 'Soh' is not the same
+note as the one that is a minor third below 'Fa.'  And it is also true
+that there are two 'Fa's: the one that is a perfect fifth below 'Doh', and
+the one that is a minor seventh above 'Soh.'
+
+Of course, in equal temperament, we just sort of average out the
+differences, but if we really want to play in tune, then we need more
+notes than are in a diatonic scale.
+
+Joe Downing,
+in Syracuse
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  BUYO-BUYO-IGOR <igor@db3.so-net.or.jp>
+Subject:  BBCNN searchin for instant networked-microtuned-creation
+PostedDate:  03-01-98 03:03:03
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  03-01-98 03:00:40-03-01-98 03:00:41,03-01-98 03:00:00-03-01-98 03:00:01
+DeliveredDate:  03-01-98 03:00:01
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256581.000B0981; Sat, 3 Jan 1998 03:02:29 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA27949; Sat, 3 Jan 1998 03:03:03 +0100
+Date: Sat, 3 Jan 1998 03:03:03 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA26786
+Received: (qmail 18911 invoked from network); 2 Jan 1998 18:03:01 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 2 Jan 1998 18:03:01 -0800
+Message-Id: <34AE11BA.7DDA@db3.so-net.or.jp>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

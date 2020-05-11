@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Sun, 16 Mar 1997 21:55:27 -0800
+
+Subject: Clavette's future development
+
+From: Harold Fortuin <hfortuin@wavefront.com>
+
+For several months I was hoping to interest the University of Minnesota's
+Dept. of Electrical Engineering in helping me build a velocity-sensitive,
+expanded Clavette microtonal MIDI keyboard controller.
+
+Unfortunately, my plans to apply for grant funding died of neglect
+on their end.
+
+I'm currently exploring some ways of making a simplified version of the
+existing
+keyboard available. I'm also looking into selling the pedals in a separate
+package.
+
+I'll keep the listed posted on significant future developments.
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 17 Mar 1997 15:04 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03340; Mon, 17 Mar 1997 15:04:10 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03351
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id GAA19876; Mon, 17 Mar 1997 06:02:21 -0800
+Date: Mon, 17 Mar 1997 06:02:21 -0800
+Message-Id: <33edff3f.1439035836@kcbbs.gen.nz>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

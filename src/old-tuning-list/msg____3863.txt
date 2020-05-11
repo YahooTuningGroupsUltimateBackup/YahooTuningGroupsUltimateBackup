@@ -1,0 +1,34 @@
+source file: mills2.txt
+Date: Tue, 29 Oct 1996 00:39:21 -0800
+
+Subject: Colloque de Royaumont HTLM pages
+
+From: Franck Jedrzejewski <franck@arthaud.saclay.cea.fr>
+
+Marc Texier, a french musicologist and radio producer, who organised the Colloque at 
+Abbaye de Royaumont have done some HTML pages :
+	http://www.worldnet.fr/~royaumon
+A presentation of the colloque Micro-intervals and temperaments : 
+        http://www.worldnet.fr/~royaumon/VN/vncol.html
+A text "Les temperaments, echelles sonores, micro-intervalles. 
+Une nouvelle frontiere de la musique" :
+        http://www.worldnet.fr/~royaumon/VN/vncoltxt.html
+I have added this links in the IW web pages :
+	http://music.dartmouth.edu/~franck/wys.html
+
+--franck
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 29 Oct 1996 20:15 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA25089; Tue, 29 Oct 1996 19:15:17 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA25064
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA03799; Tue, 29 Oct 1996 10:15:14 -0800
+Date: Tue, 29 Oct 1996 10:15:14 -0800
+Message-Id: <Pine.SCO.3.91.961029101024.5055A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

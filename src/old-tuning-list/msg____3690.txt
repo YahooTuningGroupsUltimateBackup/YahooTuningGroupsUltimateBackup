@@ -1,0 +1,100 @@
+source file: mills2.txt
+Date: Sat, 28 Sep 1996 02:31:15 -0700
+
+Subject: Response to PAULE
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+Your response clarified your position in some detail; it will be useful if
+certain other features in your approach are spelled out (I am writing in
+parallel to re-reading your text):
+
+(1) Does your central pitch processor depends on harmonic partials? Real
+instrumental sounds deviate significantly from a ideal series. Does your
+processor make tolerance decisions at both the individual instrument
+(pitch) and the instrumental ensemble (chord) levels? It was for precisely
+this complication that I made my initial assumptions of a sine wave
+orchestra. 
+
+(2) Are amplitude and phase differences among the partials ignored?
+
+(3) Would it be terribly difficult to couple your root-finding function
+with some harmonic distance function in order to address chord
+progressions?
+
+(4) The limits on amplitude and durational aspects limit the algorithm to a
+part of the world´s music; would you define this more precisely? In
+general, I find this to be the most difficult part of your work (and of
+other research along these lines) in that you have reified aspects
+particular to a small musical repertoire as psychoacoustical facts. 
+
+Some comments:
+
+(1) Naturally, if a triad is tuned 5:6:7, the fundmental frequency of the
+series on 1 is reinforced;
+what happens, when it is tuned /7:/6:/5, or in a temperament where the
+approximation of 7 is poor? If I recall correctly, Boomsliter and Creel
+demonstrated that in harmonic contexts both trained and untrained subjects
+had a preference for the real interval of 225/128 over 7/4, thus showing
+that a lower position within a harmonic series was not necessarily
+preferable to some other, more complex relationship.
+
+(2) My musical experience suggests, however, that diminished, augmented,
+and other intervallically symmetrical pitch complexes function in tonal
+music as ambiguous - neither major nor minor - structures. For this reason,
+I introduced the _neutral_ characterization for pitch spacings that are
+neither harmonic nor subharmonic. 
+
+(3) 54:64:81 is a chord that I am able to identify immediately in
+relationship to a previously known tonic of 2^n. I recognize it in both
+terms of harmonic distance from 2^n, from the size of the melodic intervals
+which I have learned to distinguish (thus at least part of my recognition
+is cultural), and from beating. Moreover, my recognition of this chord cues
+me in on the entire field of relationships including this chord and the
+chord proceeding it. It is this field that seems to determine musically
+dynamic characteristics: chord _progression_; tonicity; _resolution_;
+surprise, etc.. 
+
+(4) The melodic difference between 9/8 and 10/9 is too real to be dismissed
+as something "handled on paper". Even if the listener doesn´t get the
+melodic difference immediately (something heard all the time in good string
+playing or unaccompanied vocal music), eventually the comma difference will
+either manifest itself in a _bad_ fifth, which is immediately _heard_ as
+such, or a _return_ to a tonic that has missed its mark by a comma  (the
+ear is much faster at picking this up than the eye anyways). 
+
+(5) Which interpretation does this support? Your own analysis of the minor
+triad prefers a subharmonic description. You can not have it both ways. For
+this reason, I find it sufficent to base my spacing description upon
+fundamental frequencies and a single calculated fundamental or guiding
+tone.
+
+(6) The harmonic and subharmonic series are two transfinite series with
+different memberships; the second may be constructed from the first, but a
+one to one mapping of the second onto the first is not possible. This is
+however, coincidental to my point, that we process subharmonic structures
+less well than harmonic due to conceptual and computational difficulties.
+Example: it is much easier to compare three objects with one object than it
+is to compare one object with thirds of an object. 
+
+(7) Prof. Hennix has worked specifically with musical issues; most closely
+with the late John Myhill and with La Monte Young. (Her closest purely
+mathematical collaborations were with Myhill and with A.S. Yesinin-Volpin.)
+She may represent a different school of mathematical foundations from your
+own, but her work is anything but drivel; indeed intuitionist proof demands
+are the most rigorous.
+
+Daniel Wolf  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 29 Sep 1996 17:28 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04120; Sun, 29 Sep 1996 16:27:03 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02153
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA05024; Sun, 29 Sep 1996 08:26:03 -0700
+Date: Sun, 29 Sep 1996 08:26:03 -0700
+Message-Id: <199609291719.RAA18439@teaser.teaser.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

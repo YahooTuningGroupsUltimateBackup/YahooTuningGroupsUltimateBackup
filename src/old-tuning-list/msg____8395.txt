@@ -1,0 +1,178 @@
+source file: m1511.txt
+Date: Fri, 21 Aug 1998 18:59:26 -0700 (PDT)
+
+Subject: Re: Artusi's dilemma: a "just" solution?
+
+From: "M. Schulter" <mschulter@value.net>
+
+In his writings of 1600 and 1603, the theorist Giovanni Maria Artusi
+proposed what is literally an impossible task: defining an equal
+division of the tone into two parts (and of the octave into 12) using
+only "known and specified rational numbers."[1]
+
+Almost 400 years later, I would like to propose a just 5-limit tuning
+that seems _virtually_ to solve Artusi's dilemma -- if we are
+permitted a very small quantity of imprecision which I propose below
+might be named the "Wilsonian comma" in honor of Ervin Wilson -- if
+there is not already another ratio bearing this designation, and if
+Erv likes the idea. We shall also encounter an even smaller quantity
+for which I tentatively propose the name of "Artusi's scintilla," if
+it doesn't already have a name familiar to a specialist in
+nomenclature such as Manuel Op de Coul.
+
+At the outset, please let me caution that this tuning may be more fun
+as a thought experiment than as a scheme to implement on a harpsichord
+or the like, due to the very large number of just intervals which
+would have to be tuned with requisite precision.
+
+Also, while I'm not sure if the complete 5-limit scale given below has
+been published, once one is familiar with the concept of a "schisma
+fifth" (described by Owen Jorgensen, for example), the rest of the
+scheme is easy to formulate -- although not necessarily to tune on an
+actual instrument.
+
+
+-----------------------------
+1. The solution in a nutshell
+-----------------------------
+
+To devise a just 5-limit tuning that divides the octave into 12
+_virtually_ equal parts, we need only two just intervals as basic
+ingredients. The first is the Pythagorean schisma major third
+(8192:6561, about 384.36 cents) derived from a chain of eight pure
+fourths up or fifths down. This 3-limit interval is smaller than a
+pure major third (5:4, about 386.31 cents) by precisely a schisma
+(32805:32768, about 1.95 cents).
+
+Our second interval is a 5-limit minor third (6:5, about 315.64
+cents).
+
+When combined, these intervals generate a "schisma fifth" of
+16384:10935 -- about 700.00128 cents. For the slight discrepancy of
+some 0.00128 cents between this fifth and a true 700 cents, I propose
+the term "scintilla of Artusi" -- a scintilla, possibly a new category
+in tuning theory, being somewhat smaller than a typical comma or
+schisma.
+
+Using this schisma fifth as a generating interval, we can achieve an
+_almost_ closed chain of 12 such fifths which will produce a
+_virtually_ pure octave. The slight variance of this octave from a
+true 2:1 -- the proposed "Wilsonian comma" -- is equal to an interval
+of 
+
+        2923003274661805836407369665432566039311865085952:
+        2922977339492680612451840826835216578535400390625
+
+or approximately 0.015361 cents -- just 12 times the size of Artusi's
+scintilla, of course.[2]
+
+
+-----------------------
+2. Intervals and ratios
+-----------------------
+
+Here are the intervals for this 5-limit just tuning, listed in the
+order they arise from a chain of 12 fifths. Note that in a 12-note as
+opposed to open spiral tuning, where octaves are tuned to a pure 2:1,
+our 12th fifth would be a Wilsonian comma narrow of 700 cents.
+
+
+---------------------------------------------------------------------
+Note  Interval                        Ratio/
+                                     (Cents)      
+---------------------------------------------------------------------
+ c     Unison                          1:1                  
+                                    (0.000000)
+
+ g       5                         16384:10935            
+                                   (700.001280)
+
+ d       M2                         134217728:
+                                    119574225        
+                                   (200.002560)
+
+ a       M6                       2199023255552:
+                                  1307544150375
+                                   (900.003840)
+                               
+ e       M3                     18014398509481984:
+                                14297995284350625
+                                   (400.005120)
+ 
+ b       M7                    295147905179352825856:
+                               156348578434374084375
+                                   (1100.006400)
+
+ f#     A4/d5                2417851639229258349412352:
+                             1709671705179880612640625
+                                    (600.007680)
+ 
+ c#     A1/m2               19807040628566084398385987584:
+                           18695260096141994499225234375
+                                    (100.008961)
+
+ g#     A5/m6             324518553658426726783156020576256:
+                         204432669151312709849027937890625              
+                                    (800.010241)
+
+ d#     A2/m3           2658455991569831745807614120560689152:
+                        2235471237169604482199120500833984375
+                                    (300.011521)
+
+ a#     A6/m7         43556142965880123323311949751266331066368:
+                      24444877978449625012847382676619619140625
+                                   (1000.012801)
+ 
+ e#     A3/4        356811923176489970264571492362373784095686656:
+                    267304740694346649515486129568835535302734375
+                                    (500.014081)
+ 
+ b#      8        5846006549323611672814739330865132078623730171904:
+                  2922977339492680612451840826835216578535400390625
+                                   (1200.015361)
+_____________________________________________________________________
+
+
+Maybe these intervals, like the Pythagorean schisma third of 8192:6561
+which plays a vital role in making this tuning possible, suggest a new
+trend for just intonation in the 21st century: "Large integer ratios
+are beautiful."[3]
+
+
+                             ----------
+                                Notes
+                             ----------
+
+1. See Mark Lindley, _Lutes, viols and temperaments_ (Cambridge:
+Cambridge University Press, 1984), pp. 84-92, for a very witty account
+of Artusi's intonational views expressed in the course of his
+controversy with Claudio Monteverdi, including translations of some
+choice passages. Artusi's demand that valid divisions of the tone for
+voices be made "with known and specified rational numbers" (_con
+certi, & determinati numeri rationali_) is quoted and translated at
+pp. 91-92.
+
+2. Artusi's scintilla may be formally defined as the difference
+between a schisma (about 1.95372 cents) and 1/12 of a Pythagorean
+comma (about 1.95500 cents, the amount by which fifths are narrowed in
+12-tet).
+
+3. While Pythagorean schisma thirds occur in Arabic and Persian as
+well as medieval European theory and practice, our schisma fifth
+scheme would require an amount of tuning calculated to make extended
+Pythagorean tunings look simple. To derive _each_ of the 11 schisma
+fifths in a 12-note scheme, we would need to tune a series of 8 pure
+fifths defining a schisma M3 up or m6 down, plus a pure m3 up or M6
+down. These alternatives would permit one to remain within a chosen
+bearing octave such as c'-c''.
+
+
+Most respectfully,
+
+Margo Schulter
+mschulter@value.net
+
+------------------------------
+
+End of TUNING Digest 1511
+*************************

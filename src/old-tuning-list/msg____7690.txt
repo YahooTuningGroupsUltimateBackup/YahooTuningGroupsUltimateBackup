@@ -1,0 +1,28 @@
+source file: m1410.txt
+Date: Fri, 8 May 1998 19:20:01 -0400
+
+Subject: RE: TUNING digest 1409
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>Remember, Li and Yorke's "Period Three Implies Chaos" results, like those 
+>of Feigenbaum, only apply to unimodal maps of the interval.
+
+Don't these occur far more often (in non-contrived physical situations)
+that any other maps? (Clearly, a subjective question.)
+
+>The "Feigenbaum 
+>constant" is not the same for all systems,
+
+Right. It is 4.6692 . . . only for the unimodal, finite second
+derivative maps that seem to occur most often. It is -2.8336 . . . for
+the Fibonacci cascade of the zero-slope cubic nonlinearity, for example.
+
+>and there are maps and ODEs that 
+>period triple from simple behavior. In fact, just a couple of weeks ago, one 
+>of my students found a period tripling sequence in a physical parametrically 
+>driven pendulum.
+
+I would love to learn more about this. Was this period tripling sequence
+(presumably meaning a trifurcation cascade) discovered by accident, or
+was the pendulum specifically rigged to produce it?

@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Sun, 3 Nov 1996 10:03:01 -0800
+
+Subject: Re: notation
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> If I read a notation that says 969 for this note and 840 for that, unless
+> I know the theory and have memorized arbitrary numbers, these two mean
+> rather little. But if I have a sign for the 7th harmonic and another for the
+> 13th, then I know the relationships and can begin to hear and produce the
+> intervals. 
+
+   I think Johnny's point is that if a note-head had, for example "-15" over it
+(meaning that it is to be played fifteen cents flat of 12TET), you can whip out
+a fingering variation that you have memorized to be roughly that much flat of
+that note.  Once you know the 12TET fingerings, and any player of a given
+instrument would, it wouldn't take much more effort to augment that knowledge
+with a series of memorized cent variations.  
+
+   That is far easier than performing from a 7th or 13th harmonic sort of
+description, because with that you'd have think - in realtime, on the fly - "OK,
+what's the root of this chord (that in itself is especially tough since any
+realistic performance each performer will have PARTS, and not the whole
+conductor's score)?  How does this note relate to that root?  How much flat is a
+13th harmonic from the closest 12TET pitch?"  Or similarly, in 17TET say, "OK,
+what's the tonic now?  Which scale step is this note relative to that tonic?
+How much sharp or flat is that 17TET note from the 12TET value that my
+instrument is designed to play?"  
+
+   The cent values, as Johnny so aptly pointed out, are ideal prescriptive
+notation, whereas the harmonic numbers or whatever, are ideal descriptive
+notation.  Harmonic numbers on a JI conductor's score make it a whole lot easier
+to figure out what effect is to be achieved, but they are very impractical to
+work with in realtime on a performance basis.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 4 Nov 1996 23:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00639; Mon, 4 Nov 1996 08:15:04 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00637
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id XAA18036; Sun, 3 Nov 1996 23:15:01 -0800
+Date: Sun, 3 Nov 1996 23:15:01 -0800
+Message-Id: <v01540709aea347f389ee@[165.227.35.74]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

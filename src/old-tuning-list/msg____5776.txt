@@ -1,0 +1,58 @@
+source file: mills2.txt
+Date: Mon, 7 Jul 1997 05:48:14 +0200
+
+Subject: From Gary Morrison re Relativistic effects
+
+From: John Chalmers <non12@deltanet.com>
+
+Date: Sun, 6 Jul 97 14:25:58 CDT
+From: Gary Morrison <garym@rex.sps.mot.com>
+To: non12@deltanet.com
+Subject: [cf-lab] - Re: Relativistic Effects Upon Music
+
+   John - would you mind forwarding this on to the list, since I'm here at
+work
+all day?  Thanks!
+
+
+-------------------------------
+
+
+> 2.  Doppler effect at near the speed of light would turn KHz-range sound
+>     frequencies into either the millihertz or Gigahertz range, either of
+which
+>     is obviously FAR beyond any human's ability to hear.
+
+   Oh.  Actually the millihertz case would never happen, since that would
+be
+the receding scenario, and obviously, traveling at roughly mach 85 (in that
+example), the sound would clearly never catch up with you!
+
+   More importantly though, I accidentally applied the meter-to-kilometer
+conversion factor backward.  The speed at which relativistic effects would
+be
+about 1 millionth of a percent is about 65 THOUSAND (not billion) miles per
+hour.  (Ooops)  That speed is somewhat faster than the typical reentry
+speed of
+a meteorite.  So you'd burn up in a matter of seconds rather than
+nanoseconds.
+
+
+end fwd
+
+
+--John
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 7 Jul 1997 07:45 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06151; Mon, 7 Jul 1997 07:46:06 +0200
+Date: Mon, 7 Jul 1997 07:46:06 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA06146
+Received: (qmail 686 invoked from network); 7 Jul 1997 05:46:01 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 7 Jul 1997 05:46:01 -0000
+Message-Id: <199707070544.XAA24434@freenet.uchsc.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

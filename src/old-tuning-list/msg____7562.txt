@@ -1,0 +1,40 @@
+source file: m1396.txt
+Date: Sun, 26 Apr 1998 10:23:04 -0400
+
+Subject: TUNING digest 1395: JI Tuning Resolution
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Unless you can get a tuning resolution in hertz at least approaching that=
+
+of the Rayna card (with double precision, I typically use 20 voices with
+frequency units of .0000044139 Hz.) I would recommend a cents-resolution
+for a synthesizer for work in aproximating JI. The question of what that
+resolution should be can be best answered on the basis of finding a large=
+
+equal temperament in which the limit you want to work in is consistantly
+represented. =
+
+
+Whether manufacturers come close to the best cent resolutions or not is a=
+n
+entirely different story:  I bought the Rayna because I was frustrated wi=
+th
+the inconsistant representation of 3's and 9's on the TX81Z (resolution
+around 1.5625 cents or 768TET); several others have pointed out that a
+resolution of 1 cent (1200TET) leads to similar if not worse problems. So=
+,
+it is a matter of lobbying and educating manufactures that if they are
+willing to add microtonal capacity, this is better addressed not
+necessarily by a larger subdivision but rather by a more consistant one.
+
+Since many manufacturers will probably continue to specify tunings in ter=
+ms
+of deviations from 12tet pitch classes, it would probably be best to lobb=
+y
+on the basis of two large equal temperaments, one chose entirely on the
+basis of prime consistancy and another on this basis, but limited to thos=
+e
+temperaments divisible by 12.
+
+       =

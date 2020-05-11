@@ -1,0 +1,32 @@
+source file: m1583.txt
+Date: Mon, 16 Nov 1998 06:32:07 PST
+
+Subject: LARGE & small semitones.
+
+From: "Robin Perry" <jinto83@hotmail.com>
+
+Here's an interesting phenomenon involving two tempered steps of
+different size.
+
+The 200th root of 2 (6 cents) raised to the 15th power is 90 cents.
+The 200th root of 2 raised to the 19th power is 114 cents.
+
+Combinations of these two provide very close approximations to intervals 
+up to 10/9.
+
+2/1 =  5(114) + 7(90)  =1200  (0 cents)
+3/2 =  3(114) + 4(90)  =702    (0 cents) 
+4/3 =  2(114) + 3(90)  =498    (0 cents)
+5/4 =  1(114) + 3(90)  =384    (-2 cents)
+6/5 =  2(114) + 1(90)  =318    (+2 cents)
+7/6 =  3(90)                =270    (+3 cents)
+8/7 =  2(114)              =228    (-3 cents)
+9/8 =  1(114) + 1(90)  =204    (0 cents)
+10/9= 2(90)                =180    (-2 cents)
+
+For whatever this may be worth.....????
+
+Robin Perry
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com

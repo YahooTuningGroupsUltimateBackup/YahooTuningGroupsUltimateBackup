@@ -1,0 +1,24 @@
+source file: m1504.txt
+Date: Fri, 14 Aug 1998 17:28:30 -0700 (PDT)
+
+Subject: New software synth
+
+From: Jesse Bagshaw Gay <jgay@reed.edu>
+
+There is a really cool new software synth available free(still in Beta
+tho) called AudioMulch.  It is kind of like a virtual modular synth, but
+it has some unconventional things.  The one that might be very useful to
+people on this list is the harmonic generator.  It is a module that
+generates the first 10 harmonics above any frequency.  You have a separate
+amplitude control for each harmonic.  You can use as many modules as your
+hardware allows, so the possibilities are many.  YOu can save what you
+make as wave files.
+I am not sure what the URL is offhand, but a simple search should yield
+it.
+
+-Jesse
+
+------------------------------
+
+End of TUNING Digest 1504
+*************************

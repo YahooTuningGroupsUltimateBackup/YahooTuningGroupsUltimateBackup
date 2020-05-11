@@ -1,0 +1,33 @@
+source file: m1393.txt
+Date: Wed, 22 Apr 1998 14:33:10 -0400
+
+Subject: RE: JI Tuning Resolution
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>Another consideration that deserves some thought along these lines is
+>that very few acoustic instruments have their overtones within 1 cent of
+>exact harmonics.  So, if the ideal is to realize the natural sound of real
+>acoustic instruments, within 1/2 cent of exact JI ratios, then that might
+>end up somewhat like painting a bullseye with a spray can:  Your mark >may
+>be centered right on the center of the target, but it might still cover a
+>quarter of the radius of the target.
+
+Last time we had this discussion, we agreed (I thought) that bowed
+strings, winds, and brass instruments had exact integer harmonics for as
+long as they sustain a consistent tone. That is a physical fact, true of
+any system with a 1-component driver, which oscillates periodically and
+therefore (by Fourier's theorem) has exact integer overtones. I don't
+think of that as very few acoustic instruments. Plucked or hammered
+strings are slightly inharmonic, while drums, bells, and gongs are
+totally inharmonic.
+
+A lot of misunderstanding arises on this issue because the modes of
+vibration of strings, winds, and brass instruments are not exactly
+harmonic series. But that is not the same thing as saying the timbres of
+these instruments contain inharmonic partials. The latter statement
+would be incorrect.
+
+You'd be better off pointing out that few of the acoustic instruments
+with exact harmonic partials (or rather, the players of such
+instruments) can produce a pitch which does not waver more than 1 cent.

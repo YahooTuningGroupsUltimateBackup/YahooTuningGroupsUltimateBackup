@@ -1,0 +1,28 @@
+source file: mills2.txt
+Date: Thu, 23 Jan 1997 20:07:31 -0800
+
+Subject: RE: Subharmonic chords
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Wait a minute, Daniel, how can your average deviation be negative? I want to 
+know the average ABSOLUTE deviation, or the root mean square deviation if 
+you prefer. If you throw enough darts at a dartboard, the "average" position 
+is the bullseye, but that doesn't mean you ever came close to the bullseye. 
+If your average position with the red darts was closer to the bullseye than 
+with the blue darts, you could have still been much closer to the bullseye 
+on the average throw of a blue dart than on the average throw of a red dart.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 24 Jan 1997 08:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13729; Fri, 24 Jan 1997 08:16:42 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA13635
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id XAA24689; Thu, 23 Jan 1997 23:16:38 -0800
+Date: Thu, 23 Jan 1997 23:16:38 -0800
+Message-Id: <32E8DFD6.50AE@mag.linz.at>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,58 @@
+source file: mills2.txt
+Date: Tue, 3 Jun 1997 15:21:40 +0200
+
+Subject: modes (last gasp)
+
+From: "Collins, Gordon" <CollinG@f3groups3.fsd.jhuapl.edu>
+
+>These are the proverbial "church modes" used in Gregorian chant [....]
+
+An adequate description of the church modes is beyond the scope of a 
+reasonable post, but, just for the record, the primary distinguishing 
+characteristics of the original church modes are as follows (numbered and 
+named as by the medieval writers):
+
+                    Final    Nominal    Nominal
+                              lower      upper
+                             bound of   bound of
+                             melody     melody
+
+ 1)  Dorian           D         D          d
+ 2)  Hypodorian       D         A          a
+ 3)  Phrygian         E         E          e
+ 4)  Hypophrygian     E         B          b
+ 5)  Lydian           F         F          f
+ 6)  Hypolydian       F         C          c
+ 7)  Mixolydian       G         G          g
+ 8)  Hypomixolydian   G         D          d
+
+(The note names refer to the double octave A-G,a-g,aa of available notes - 
+tuned in 3-limit JI - then in use.)
+
+In the 16th century, Glarean added four more:
+
+ 9)  Aeolian          A         A          a
+10)  Hypoaeolian      A         E          e
+11)  Ionian           C         C          c
+12)  Hypoionian       C         G          g
+
+
+This would all be much simpler if whoever first threw away everything but the 
+note range, redefined *that* as a "white note scale", ignored half the modes, 
+and added the "Locrian" scale had chosen a new term for his/her creation....
+
+Gordon Collins
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 3 Jun 1997 16:00 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01469; Tue, 3 Jun 1997 16:00:40 +0200
+Date: Tue, 3 Jun 1997 16:00:40 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA01447
+Received: (qmail 641 invoked from network); 3 Jun 1997 14:00:24 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 3 Jun 1997 14:00:24 -0000
+Message-Id: <01IJMR7Q3H0I8Y5EU0@ONLINE.EMICH.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

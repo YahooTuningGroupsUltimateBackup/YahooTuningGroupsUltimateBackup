@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Thu, 6 Mar 1997 11:32:30 -0800
+
+Subject: Irrationals
+
+From: John Chalmers <non12@deltanet.com>
+
+As it happens, I have been reading Neugebauer "The Exact Sciences
+in Antiquity" and Heath. Archimedes stated that 3 1/7 < pi < 3 10/71,
+but Heron says that actually Archimedes found that 211872/67441 <
+pi < 195882/62351, but that these numbers were impractical for
+computation (the numbers in Heron's text are somewhat corrupt as
+211875 and 197888, but Tannery restored the values above) (Heath
+vol 2, 329). Neugebauer claims that Greek computational methods
+developed independently from a basis of Babylonian mathematics
+and were more sophisticate, if less rigorous, than usually
+thought. However, the Babylonians often used just 3 for pi.
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 6 Mar 1997 20:36 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07981; Thu, 6 Mar 1997 20:36:22 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07946
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id LAA25003; Thu, 6 Mar 1997 11:34:44 -0800
+Date: Thu, 6 Mar 1997 11:34:44 -0800
+Message-Id: <Pine.SCO.3.91.970306112022.8591A-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

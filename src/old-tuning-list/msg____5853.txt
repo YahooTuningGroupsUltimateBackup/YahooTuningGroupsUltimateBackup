@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Mon, 14 Jul 1997 23:04:57 +0200
+
+Subject: RE: Muddy Waters
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>>>i.e., a major seventh is just as dissonant/complex as a major
+>>>sixth.
+
+Gary Morrison wrote
+
+>Although I certainly respect that as an opinion, I'm amazed that anybody
+>would feel that way.
+
+I don't know if anybody actually does feel that way, though I'm glad to
+have Gary on my side in this. I was simply pointing out that if the
+rectangular matrix (Euler-Fokker, Tenney, Rapoport) view is applied to
+questions of consonance and dissonance, and octave equivalence is
+assumed, the above comes out as a consequence. I know that certain
+applications of Euler-Fokker theory have assumed octave equivalence, for
+example using the genera as scales for compositions (I recently pointed
+out that in a triangular latice, there are many structures as compact or
+more compact than the E-F genera). I also know that James Tenney
+examines the lattice along with a city block metric to give a measure of
+harmonic complexity, but I don't know whether he assumes octave
+equivalence.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 14 Jul 1997 23:07 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14061; Mon, 14 Jul 1997 23:07:52 +0200
+Date: Mon, 14 Jul 1997 23:07:52 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA14146
+Received: (qmail 9167 invoked from network); 14 Jul 1997 19:37:23 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Jul 1997 19:37:23 -0000
+Message-Id: <c%ap¬adian-Asset%lRS-970714183242Z-1229@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

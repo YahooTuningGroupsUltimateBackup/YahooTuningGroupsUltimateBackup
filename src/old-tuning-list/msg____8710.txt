@@ -1,0 +1,42 @@
+source file: m1568.txt
+Date: Thu, 29 Oct 1998 16:46:16 -0500
+
+Subject: RE: consonance definition?
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>Can anyone offer a comprehensive mathematical explanation of
+consonance?
+
+I hope not! Consonance is not a mathematical phenomenon, it is a
+psychoacoustic one. Once the ear-brain system is understood, quantifying
+consonance would thus seem possible; in fact there are at least three
+distinct psychoacoustic phenomena which can be modelled mathematically
+and contribute to the perception of consonance:
+
+(1) critical band roughness, on which Kameoka & Kuriyagawa and Sethares
+have done work on fleshing out the quantitative implications;
+
+(2) fundamental tracking / virtual pitch / fusion, which motivates
+Parncutt's whole quantitative approach;
+
+(3) nonlinear combination tones, which are the basis of Bohlen's view of
+consonance and have been studied extensively by psychoacousticians whose
+names I don't remember.
+
+Unfortunately, these three different phenomena are not independent so
+formulating a unified model of consonance seems impossibly difficult at
+the present. However, all three of these phenomena lead to the following
+conclusion, at least for tones with harmonic timbres:
+
+Approximate small-integer frequency ratios = Consonant intervals.
+
+But beyond these psychoacoustic factors, there are psychological ones
+that relate to way music unfolds in time. A diminished fourth is
+dissonant in 12-tET even though it sounds exactly like a major third out
+of context. As Ernst Toch pointed out, even an octave can be dissonant
+in certain contexts. So even a unified model as suggested above would
+have rather limited applicability.
+
+If you would like an elaboration of any of the above points, just ask!
+(Sethares is around too).

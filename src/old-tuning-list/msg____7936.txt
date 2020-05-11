@@ -1,0 +1,22 @@
+source file: m1429.txt
+Date: Wed, 27 May 1998 16:25:17 EDT
+
+Subject: Re:  TUNING digest 1428
+
+From: <DFinnamore@aol.com>
+
+Benjamin Tubb wrote:
+
+>I need a table of Pitchbend to 12tet Cents equivalents [snip]
+>If anyone knows that these values are indeed logarithmic in respect to a
+>certain _applied formula_, I would prefer to know that formula _most of all_
+of
+>course.
+
+Here's a warning: not all MIDI instruments respond in the same way.
+SoundBlaster cards, in particular, have a very strange correlation between
+pitchbend data and the ammount of bend applied.
+
+I usually find each pitchbend that I need by comparing the pitchbent note with
+the tuning table-tuned note simultaneously, and adjust by ear.  It's a pain
+but it insures that the pitches are as close as possible to exactly right.

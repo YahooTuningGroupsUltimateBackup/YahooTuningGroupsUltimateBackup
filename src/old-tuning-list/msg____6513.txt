@@ -1,0 +1,101 @@
+source file: mills3.txt
+Date: Sun, 30 Nov 1997 10:00:49 +0100
+
+Subject: Re: reply
+
+From: Carl Lumma <clumma@nni.com>
+
+>Also, I have the feeling, and perhaps I could be wrong, that bebop oriented
+>stuff would be really tricky in just tunings...I have re-written Coltrane's
+>"Giant Steps" for 19 tone tuning...if that would be possible in just, than
+I >think I have had the wrong impression about just tunings all along...from
+what >I understand, eq temps evolved precisely to play music that modulated
+a lot >(Bach), and the trade off is less purity of tuning for increased
+compositional >flexibility.
+
+While there are important physical and conceptual differences between equal
+and just tunings, equal temperaments are not required to achieve bebop or
+Bach-like modulations.  They are only required to do it if you are limited
+in the number of pitches you can handle.  The general rule is: Anything you
+can imagine can be done in Just, and more!  Provided you have enough pitches.
+
+How much is enough?  While often times it may be a lot, I believe it's
+usually a lot less than many people would expect.  It takes only 33 pitches
+to modulate to all 8 keys of the just scale...
+
+1 - 9/8 - 5/4 - 11/8 - 3/2 - 13/8 - 7/4 - 15/8 - 2
+
+Such a tuning is nothing short of mind-blowing.  It is a fertile ground as
+vast as can be expected in a tuning.  In 33 equal, you get 33 key centers.
+But, the just tuning offers you stuff that you can't get in 33 equal.
+There's no free lunch.
+
+You might say that, for a given number of pitches, the number of key centers
+available is greater if they are tempered than if they are just.  But!  I
+said "no free lunch"!  I am almost ready to argue that while you get fewer
+of the traditional "key centers" with Just pitches, there's actually a whole
+hornet's nest of different kinds of modulations that become possible with
+Just Intonation, as Partch insisted.
+
+In any case, I am already prepared to argue that traditional "key center"
+changes are better-defined and more convincing in Just than in equal, since
+the key centers in equal are poor (really all part of one master key that is
+the chromatic scale).
+
+>but even Catler told me he can only play in 3 keys (I hope I
+>didn't misquote).
+
+I don't know if 3 is right or not.  I recall there being a 1/1 article on
+the Catler tuning.  Assuming he's only got 3, listening to the "Crash
+Landing" album, you'll quickly hear how much can be done with only 3 Just keys!
+
+>I do like a lot of modulation at times...my piece "Mysteries," on my new
+CD, >has 54 different chords, and no real key center.
+
+I was listening to Mysteries the other day, and thought of your post "chord
+changes I dearly love".  I love those changes too.  And, it seems that there
+probably isn't a way to make an instrument that could be called an acoustic
+guitar that could let you play the track in Just.
+
+(Indeed, the 33 note Just tuning I mention above probably wouldn't be suited
+for guitar at all -- and I ain't talking about the frets being too close
+together -- Just tunings got problems mapping to guitars.  One solution, in
+the above Just scale, would be to have 8 strings and 8 frets, but I think
+this restricts chords to root position?)
+
+But the point is, as soon as you say "can't", you're ruling out entire
+classes of instruments that have yet to be invented.  Already realized is a
+keyboard that could gracefully render a Just version of Mysteries.  To say
+nothing of a midi guitar with organ-like footpedals for key center
+switching, or indeed, artificial-life-powered intelligent instruments.
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Charles Lucy <lucy@ilhawaii.net>
+Subject:  Article from UK Guardian
+PostedDate:  30-11-97 13:48:30
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  30-11-97 13:46:56-30-11-97 13:46:56,30-11-97 13:46:52-30-11-97 13:46:52
+DeliveredDate:  30-11-97 13:46:53
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125655F.00463341; Sun, 30 Nov 1997 13:46:46 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02470; Sun, 30 Nov 1997 13:48:30 +0100
+Date: Sun, 30 Nov 1997 13:48:30 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02468
+Received: (qmail 26009 invoked from network); 30 Nov 1997 04:48:26 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 Nov 1997 04:48:26 -0800
+Message-Id: <Pine.BSI.3.91.971130024438.8791E-100000@lehua.ilhawaii.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,58 @@
+source file: m1421.txt
+Date: Tue, 19 May 1998 12:26:49 -0400
+
+Subject: Ideal tuning
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+If musicians could produce any desired pitch at any time, what tuning
+would they use? That obviously depends on the piece in question.
+Although many would answer "Just Intonation" to this question, there are
+many examples where JI is not ideal. The 6/9 chord is one recently
+discussed example; another is the chord 0 9 13 18 in 22tET, where the
+ambiguity between the 3-limit and 7-limit is much like that of the
+3-limit and 5-limit in the former chord. But let us leave these
+ambiguous harmonies aside for the moment.
+
+Wandering tonics are another typical example used against JI renditions
+of many common-practice pieces. However, one can keep each individual
+chord in JI while distributing the comma over all the melodic intervals
+-- essentially, tune the melodic sequence roots in meantone temperament
+and the chord over each root in JI. Since the just noticeable difference
+for melody is much greater than that for harmony, this is clearly a
+better-sounding (though difficult to perform) solution than straight
+meantone. The truly optimal solution (if "badness" is quadratic in
+tuning error, and harmonic tuning errors are weighted several times more
+than melodic ones) would be to shade the JI chords ever-so-slightly
+toward meantone, so as to reduce the melodic shifts further while
+introducing a negligible amount of roughness into the chords.
+
+In general, melodies operate within certain pitch sets and auxiliaries
+to these sets. Again, the allowable mistuning for these melodic pitch
+sets is greater than that for chords. One can envision a computer
+program which then optimizes the tuning of a piece by minimizing some
+overall "badness" function of these mistunings.
+
+Even the ambiguous chords above can be handled in such a scheme; each
+consonant harmonic interval is associated with one and only one just
+ratio, and an overall error function is minimized. For example, in the
+6/9 chord, there are four perfect fifths, two minor thirds, and one
+major third, each of which should approach simple 5-limit ratios. If we
+weight all 7 errors equally, and find the least-squared-error solution,
+one constructs the chord using perfect fifths of 696.3 cents. If one
+weights the errors in proportion to the odd limit, one constructs the
+chord using perfect fifths of 695.9 cents. If one weights the errors in
+inverse proportion to the odd limit, one constructs the chord using
+perfect fifths of 697.2 cents. In the other chord, there are three 3/2s,
+two 7/4s, and one 7/6. The optimal perfect fifths: Equal-weighting --
+711.5 cents; Odd-Limit-weighting -- 712.8 cents;
+Inverse-Odd-Limit-weighting -- 707.7 cents. In any case, the melodic
+context will typically cause all the pitches to be altered slightly, but
+probably not very much, since melodic tuning errors are less important
+than harmonic ones.
+
+(A word on those weighting schemes -- the Odd-Limit-weighting concerns
+the ability of the intervals to evoke certain simple ratios rather than
+more complex ones, while the Inverse-Odd-Limit-weighting may better
+represent the overall level of consonance. Where both factors are
+considered important, Equal-weighting may be a good compromise.

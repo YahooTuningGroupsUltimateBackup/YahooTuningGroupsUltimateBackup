@@ -1,0 +1,227 @@
+source file: mills3.txt
+Date: Fri, 19 Dec 1997 19:04:36 +0100
+
+Subject: RE: Just Interval Progressions
+
+From: Mckyyy <Mckyyy@aol.com>
+
+There are many ways to arrive at the "most consonant" just
+intervals.  The following is the output of a program that
+approaches that subject from the perspective of least common
+multiple.  As most of you must know by now, I favor this as a
+measure because it correlates with a physical property of the
+composite sound, i. e. the length of the pattern.  Also, the
+concept is independent of "limits" as in 5-limit, 7-limit, etc.
+
+Note that for two notes, it doesn't matter whether you are using
+the frequency or the wavelength as your measure of pitch.  For
+three or more notes, you must use the wavelength as the measure
+of pitch for the concept to be valid.
+
+In cases where there are more then two intervals given, i. e. 4/3
+and 7/5 the first is the "common" interval that most closely
+approximates the exact interval.
+
+In cases where triads are listed, it is possible to make triads
+with the given LCM and the given base wavelength.
+
+Marion
+
+LCM:  12  LCM#:  1    Chord:  1
+2 3 g    Perfect Fifth           3/2
+1 2 c    Unison                  1/1
+
+LCM:  12  LCM#:  1    Chord:  2
+2 4 f    Perfect Fourth          4/3
+1 3 c    Unison                  1/1
+
+LCM:  15  LCM#:  2    Chord:  3
+2 5 a    Major Sixth             5/3
+1 3 c    Unison                  1/1
+
+LCM:  20  LCM#:  3    Chord:  4
+2 5 e    Major Third             5/4
+1 4 c    Unison                  1/1
+
+LCM:  28  LCM#:  4    Chord:  5
+2 7 a+   Harmonic Minor Seventh  7/4
+1 4 c    Unison                  1/1
+
+LCM:  30  LCM#:  5    Chord:  6
+2 6 d#   Minor Third             6/5
+1 5 c    Unison                  1/1
+
+LCM:  35  LCM#:  6    Chord:  7
+2 7 f    Perfect Fourth          4/3 7/5
+1 5 c    Unison                  1/1
+
+LCM:  40  LCM#:  7    Chord:  8
+2 8 g#   Minor Sixth             8/5
+1 5 c    Unison                  1/1
+
+LCM:  42  LCM#:  8    Chord:  9lx.cld
+
+2 7 d    Major Tone              9/8 7/6
+1 6 c    Unison                  1/1
+
+LCM:  45  LCM#:  9    Chord:  10
+2 9 a#+  Minor Seventh           9/5
+1 5 c    Unison                  1/1
+
+LCM:  56  LCM#:  10    Chord:  11
+2 8 d    Major Tone              9/8 8/7
+1 7 c    Unison                  1/1
+
+LCM:  60  LCM#:  11    Chord:  12
+3 5 a    Major Sixth             5/3
+2 4 f    Perfect Fourth          4/3
+1 3 c    Unison                  1/1
+
+LCM:  60  LCM#:  11    Chord:  13
+3 6 g    Perfect Fifth           3/2
+2 5 e    Major Third             5/4
+1 4 c    Unison                  1/1
+
+LCM:  60  LCM#:  11    Chord:  14
+3 15 g    Perfect Fifth           3/2
+2 12 d#   Minor Third             6/5
+1 10 c    Unison                  1/1
+
+LCM:  60  LCM#:  11    Chord:  15
+3 20 a    Major Sixth             5/3
+2 15 e    Major Third             5/4
+1 12 c    Unison                  1/1
+
+LCM:  63  LCM#:  12    Chord:  16
+2 9 e    Major Third             5/4 9/7
+1 7 c    Unison                  1/1
+
+LCM:  66  LCM#:  13    Chord:  17
+2 11 a#+  Minor Seventh           9/5 11/6
+1 6 c    Unison                  1/1
+
+LCM:  70  LCM#:  14    Chord:  18
+2 7 f    Perfect Fourth          4/3 7/5
+1 5 c    Unison                  1/1
+
+LCM:  70  LCM#:  14    Chord:  19
+2 10 f#   Diminished Fifth      64/45 10/7
+1 7 c    Unison                  1/1
+
+LCM:  72  LCM#:  15    Chord:  20
+3 9 g    Perfect Fifth           3/2
+2 8 f    Perfect Fourth          4/3
+1 6 c    Unison                  1/1
+
+LCM:  72  LCM#:  15    Chord:  21
+3 12 g    Perfect Fifth           3/2
+2 9 d    Major Tone              9/8
+1 8 c    Unison                  1/1
+
+LCM:  77  LCM#:  16    Chord:  22
+2 11 g    Perfect Fifth           3/2 11/7
+1 7 c    Unison                  1/1
+
+LCM:  84  LCM#:  17    Chord:  23
+3 7 a+   Harmonic Minor Seventh  7/4
+2 6 g    Perfect Fifth           3/2
+1 4 c    Unison                  1/1
+
+LCM:  84  LCM#:  17    Chord:  24
+2 12 a    Major Sixth             5/3 12/7
+1 7 c    Unison                  1/1
+
+LCM:  84  LCM#:  17    Chord:  25
+3 21 a+   Harmonic Minor Seventh  7/4
+2 14 d    Major Tone              9/8 7/6
+1 12 c    Unison                  1/1
+
+LCM:  88  LCM#:  18    Chord:  26
+2 11 f    Perfect Fourth          4/3 11/8
+1 8 c    Unison                  1/1
+
+LCM:  90  LCM#:  19    Chord:  27
+3 9 a#+  Minor Seventh           9/5
+2 6 d#   Minor Third             6/5
+1 5 c    Unison                  1/1
+
+LCM:  90  LCM#:  19    Chord:  28
+3 10 a    Major Sixth             5/3
+2 9 g    Perfect Fifth           3/2
+1 6 c    Unison                  1/1
+
+LCM:  90  LCM#:  19    Chord:  29
+3 15 a    Major Sixth             5/3
+2 10 c#+  Minor Tone             10/9
+1 9 c    Unison                  1/1
+
+LCM:  90  LCM#:  19    Chord:  30
+3 18 a#+  Minor Seventh           9/5
+2 15 g    Perfect Fifth           3/2
+1 10 c    Unison                  1/1
+
+LCM:  91  LCM#:  20    Chord:  31
+2 13 a#+  Minor Seventh           9/5 13/7
+1 7 c    Unison                  1/1
+
+LCM:  99  LCM#:  21    Chord:  32
+2 11 d#   Minor Third             6/5 11/9
+1 9 c    Unison                  1/1
+LCM:  104  LCM#:  22    Chord:  33
+2 13 g#   Minor Sixth             8/5 13/8
+1 8 c    Unison                  1/1
+
+LCM:  110  LCM#:  23    Chord:  34
+2 11 c#   Semitone              16/15 11/10
+1 10 c    Unison                  1/1
+
+LCM:  117  LCM#:  24    Chord:  35
+2 13 f#   Diminished Fifth      64/45 13/9
+1 9 c    Unison                  1/1
+
+LCM:  120  LCM#:  25    Chord:  36
+3 8 g#   Minor Sixth             8/5
+2 6 d#   Minor Third             6/5
+1 5 c    Unison                  1/1
+
+LCM:  120  LCM#:  25    Chord:  37
+4 15 b    Major Seventh          15/8
+3 12 g    Perfect Fifth           3/2
+2 10 e    Major Third             5/4
+1 8 c    Unison                  1/1
+
+LCM:  120  LCM#:  25    Chord:  38
+3 24 g#   Minor Sixth             8/5
+2 20 f    Perfect Fourth          4/3
+1 15 c    Unison                  1/1
+
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  Octave Stretch for 19-tone Equal
+PostedDate:  19-12-97 19:05:37
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  19-12-97 19:03:32-19-12-97 19:03:33,19-12-97 19:03:08-19-12-97 19:03:08
+DeliveredDate:  19-12-97 19:03:08
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256572.0063306B; Fri, 19 Dec 1997 19:05:20 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19622; Fri, 19 Dec 1997 19:05:37 +0100
+Date: Fri, 19 Dec 1997 19:05:37 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA19598
+Received: (qmail 11930 invoked from network); 19 Dec 1997 09:51:47 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 Dec 1997 09:51:47 -0800
+Message-Id: <349ACC6A.451C@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

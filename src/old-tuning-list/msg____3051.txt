@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Wed, 12 Jun 1996 09:32:42 -0700
+
+Subject: Bilbiography (C-D)
+
+From: Franck Jedrzejewski <franck@arthaud.saclay.cea.fr>
+
+Add to the bibliography, the following references :
+
+-C-
+
+CAMPBELL, I. B. : Wyschnegradsky's Quarter-toned Piano, The Musician, New York, 1937,p 92.
+CANRIGHT, David : Rational notation. One/One vol I n 1, 1985, San Francisco
+------ : Pentatonics I have known. One/One vol I n 2, 1985, San Francisco.
+------ : On the Piano retuning. One/One Vol I n 4, 1985, San Francisco.
+------ : Harmonic-Melodic diagrams. One/One Vol4 n 2, 1988, San Francisco.
+CASTANET, P. A. : Les satellites de Dusapin ou le solipsisme musical, Paris, Cahiers du CIREM, 12-13, 1989, pp 53-72.
+CASTELLENGO, M. : Sons multiphoniques aux instruments   vent, Rapport IRCAM n 34, Paris, 1982.
+CHASE, Gilbert : Harry Partch. The American Composer speaks, Baton Rouge, Lousiana University Press,1966, p 193-200.
+CHEMILLIER, Marc : Mono de libre et musique RAIRO, Informatique th orique et applications, vol. 21 n 3 , 1987, p 341-371, et vol. 21, n 4, p 379-418, Paris, Gauthier Villars.
+COSTERE, Edmond : Lois et styles des harmonies musicales, Paris,PUF, 1954.
+------ : Mort ou transfiguration de l'harmonie, Paris,  d. PUF, 1962.
+COWELL, Henry et Sidney : Charles Ives and His music, New York ,1955.
+
+-D-
+
+De SCHLOZER (Boris) : R flexions sur la musique en quarts de ton. La Revue Musicale, Novembre 1924, pp 71-74.
+DEUTSCH, Leonhard : Ist eine Vierteltonmusik m glich ? . Melos n  34, 1967, p 62-65.
+DOMLING, Wolfgang : Revolution r wider Willen : Feruccio Busoni und sein Entwurf einer neuen  sthetik der Tonkunst. Neue Zeitschrift f r Musik, n 123, 1973, p 564-569.
+DRAAF, Martin : Die enharmonische Gitarre, Mikrot ne II, Innsbruck, Edition Helbling, 1988, p 73-86.
+DRUMMOND, Dean : Zoomoozophone Primer. Ear Magazine East, 1983, p 20-21.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 12 Jun 1996 19:42 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA27260; Wed, 12 Jun 1996 10:42:21 -0700
+Date: Wed, 12 Jun 1996 10:42:21 -0700
+Message-Id: <83960612174038/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,132 @@
+source file: mills3.txt
+Date: Wed, 17 Dec 1997 20:31:49 +0100
+
+Subject: Reply to Gregg Gibson
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+> A 19-tone unequal tuning would result in
+> appreciably more intervallic confusion, given the fact that the 19-tone
+> equal tuning degree is close to the limen.
+
+The semitones in LucyTuning are different enough to both be useful.
+The chromatic semitone had a mysterious sound that is quite audible.
+Whether it can be sung accurately is another matter.  It is right on
+the borderline as regards the melodic limen, but I reckon a _good_
+singer, with the right training, could manage it.  I don't place
+much importance on this, however, because temperament is only an
+issue for fixed pitch intruments.  The vocals can take care of
+themselves -- witness rock with 12 equal guitars.
+
+> Modulation would also be made
+> more difficult, and certain  consonances would be too deteriorated for
+> use.
+
+No consonant chords are deteriorated in LucyTuning relative to 19
+equal.  19 notes will get you a long way, modulation wise.
+
+>> Gregg's dislike of non-meantone temperaments is well established.  As
+>> an existentialist, I cannot agree, because I use and will continue to
+>> use such temperaments.
+>
+> What do you mean by existentialist? Do you have a favorite tuning? If
+> so, why do you value it especially? If you tell me, I will refrain from
+> sending my Gestapo to stop you from using the temperament or system you
+> prefer.
+
+An existentialist is someone who believes existence precedes essence.
+Is that clear?  Oh, um, well ...  In this case, I simply mean that
+the fact I use such temperaments means that I must approve of them.
+The justifications I give may not be my real reasons, but it is
+beyond doubt that such reasons exist.
+
+The two temperaments I use most often -- and therefore the ones I
+must value most highly -- are 31 equal and a schismic fourth mapping.
+31 equal needs no introduction, of course.  I use a 12 note mapping
+-to a conventional keyboard, usually with Ab rather than G#.  I
+sometimes use other meantone temperaments with the same mapping.
+I am fully aware of the simplifications that result with meantone.
+I prefer 31 equal because of its good septimal approximations.
+Actually, the second scale (after 12 equal) I ever tuned up is a
+subset of 19 equal.  It is a good way of cutting your meantone
+teeth, because of the high contrast between different semitones.
+
+Now, to the schismic fourth.  I outlined this on the list before.
+To summarise, it uses schismic temperament (a major third is
+associated with -8 rather than +4 fifths) with 12 steps to a fourth.
+This is consistent with 29 equal.  The actual tuning I use is near
+enough Pythagorean.  This mapping is harder to use than the
+meantone one, but the advantage is in purer intervals and more
+melodic sublety.  The more I use it, the more I get to like it.
+Although the harmonies are good, I haven't worked out any chord
+sequences yet, other than approximations of standard diatonic ones,
+which require comma shifts.
+
+Being able to use such small intervals means you can add an
+emotional edge not usually possible on a fixed pitch instrument.
+And, when you want a pure interval, it's really ease to find.
+If I want, I can get a mistuned affect by hitting the "wrong"
+keys.
+
+Originally, I was tuned to 53 equal.  As well as the relatively poor
+septimal approximations, I didn't like the commas being so small.
+They have a sort of distressing sound as a result of being barely
+audible, and can't function melodically.  Switching to 41 equal
+solved both problems.  After some theoretical work, though, I found
+the better approximation.  The commas are smaller -- slightly larger
+than Pythagorean -- but just large enough to be audible.
+
+I'm also starting to play with 22 equal, now that I've got a
+symmetrical keyboard.  I have previously used Paul Erlich's 22 note
+mapping with 46 equal.  I gave up on this because I decided the
+schismic mapping works better, although it has even more notes.
+
+I have made some use of 7 and 5 equal, extended just intonations,
+and various "ethnic" tunings.
+
+
+If acoustic instruments are to be liberated from 12 equal, I
+suggest they be designed to play in the widest possible variety
+of tunings, rather than simply adopting a new temperament.  The
+choice of tuning is as personal as orchestration and would, in an
+ideal world, be available to all composers.
+
+I can't see it's at all reasonable to expect the world in general to
+switch to 19 equal.  It may work for wind instruments, as a template
+from which to bend to 7-limit harmony, but it is too extreme for
+people to accept it otherwise.  By "extreme" I mean relative to 12
+equal which has a special place as all other temperaments are, in a
+sense derived from it.  12 equal is a meantone, schismic and
+diaschismic scale.  As Gregg observed, other scales tend to be
+melodically confounded with 12 pitch classes.  Orchestral instruments
+incompatible with the repertoire of -- like it or not -- 12 biased
+music aren't going to catch on.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Steven Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+Subject:  Re: 19tet vs. meantone?
+PostedDate:  17-12-97 20:57:18
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  17-12-97 20:55:13-17-12-97 20:55:13,17-12-97 20:54:51-17-12-97 20:54:52
+DeliveredDate:  17-12-97 20:54:52
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256570.006D6B06; Wed, 17 Dec 1997 20:57:04 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18337; Wed, 17 Dec 1997 20:57:18 +0100
+Date: Wed, 17 Dec 1997 20:57:18 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18340
+Received: (qmail 11078 invoked from network); 17 Dec 1997 11:57:17 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Dec 1997 11:57:17 -0800
+Message-Id: <199712171956.OAA10629@doghouse.hq.nasa.gov>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

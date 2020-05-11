@@ -1,0 +1,31 @@
+source file: m1391.txt
+Date: Mon, 20 Apr 1998 10:19:20 -0700
+
+Subject: Re: TUNING digest 1390
+
+From: csz@wco.com (Carter Scholz)
+
+Steven Sauve writes:
+==============
+Greetings...I'm a rookie here, and my first interest is finding Alt
+Scales for the Yamaha TX802...i've checked the Mills FTP site, but it
+seems fairly void of anything...are there others out there?...
+
+
+thanks,
+
+steven in toronto
+===============
+
+If you have a Macintosh, you can download JICalc from the Mills FTP site
+(ftp://mills.edu/ccm/tuning/software/mac/jicalc443.sea.hqx).  This will let
+you send tunings to a TX802 over MIDI.  In the same directory are hundreds
+of tunings compiled by John Chalmers in JICalc-readable form.  (These are
+actually compressed text files, so you don't absolutely need a Mac or
+JICalc to read them, but it makes it a lot easier.)
+
+JICalc 4.43 is a new version with one minor change: scales can now be
+displayed in cents relative to the 1/1, or relative to the previous tone in
+the scale.  This feature should have been added long ago.
+
+Carter

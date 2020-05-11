@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Fri, 10 Nov 1995 13:33:38 -0800
+
+Subject: Partch and resolution
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+The current discussion of tonal drive and resolution in JI 
+seems to me to miss an elementary point stressed by Harry Partch 
+himself. JI increases the range of available consonance and dissonance 
+however C and D are defined, see Tenney's book _A History of 
+Consonance and Dissonance_. 
+	Hence, in some contexts the dominant seventh chord should be 
+tuned 4:5:6:7 for maximum consonance, but in others one might wish to 
+use 20:25:30:36 (1/1 5/4 3/2 6/5) or even 36:45:54:64 (1/1 5/4 3/2 16/9). 
+	One should read Chapter 11, "The Question of Resolution,"
+in HP's _Genesis of a Music_, 2nd edition, pp 181-194. While HP
+wrote everything in the key of G (392 hz), in part because of
+material and technical limitations, in part for theoretical reasons 
+(monophony is the harmonic expansion of a single tone, the 1/1, see
+the definition on page 71), he was very aware of resolution and
+chordal motion and wrote some extremely dissonant, yet powerful 
+progressions. (Allen, do you still have your notes from his UCSD 
+class?).
+	Partch suggested several principles: Resolve voices by very
+narrow intervals, avoid 11 O or U identities (11 th harmonic or 
+subharmonic of the tonic) in the bass, space the voices widely, and 
+mix harmonic and subharmonic (O and U) chords in progressions. One does 
+not have to use complete hexads (1 3 5 7 9 11 harmonics) and the remaining voices  may be doubled as desired. Non-harmonic tones and tones outside 
+the conventional 43-tone scale may also be used (HP sometimes did this 
+on the canons and even changed reeds on the Chromelodea, i.e., 25/21 
+in Delusion.)
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 11 Nov 1995 03:15 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA18141; Fri, 10 Nov 1995 17:15:25 -0800
+Date: Fri, 10 Nov 1995 17:15:25 -0800
+Message-Id: <199511110113.RAA17982@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

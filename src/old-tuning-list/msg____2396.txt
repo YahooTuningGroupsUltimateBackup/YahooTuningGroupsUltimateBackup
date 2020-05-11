@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Tue, 19 Dec 1995 21:05:36 -0800
+
+Subject: Re: TUNING digest 589
+
+From: Mmcky@aol.com
+
+Brian Writes:
+
+>...but belief is *not* the same thing as proof...
+
+Actually, there are those of us who believe that proof and belief
+are exactly the same thing.
+
+Others don't believe in believing, and view "proof" as a somewhat
+underhanded means of persuasion.
+
+>To my
+>knowledge, there is as yet no known algorithm
+>by which the entire field of reals may be sieved 
+>and by which all transcendental numbers will
+>always be found.
+
+There may be no such thing as a transcendental number.  A number
+cannot be recognized as transcendental, or even irrational, by
+the mere quoting of digits, because no matter how many digits are
+enumerated, one can never be sure that specifying more digits
+will not result in a repetition, and thus reduce the number to a
+mere rational.
+
+Therefore, we do not have a transcendental, number, but a
+transcendental algorithm.  No possible enumeration of a subset of
+the digits can allow us to determine whether the number is even
+rational or not, much less distinguish the transcendentals from
+the irrationals.  An analysis of the generating algorithm may
+give an indication.
+
+I think that for the purposes of this forum, there is no
+practical difference between transcendental numbers, irrationals,
+and large irreducible rationals.
+
+Anything that goes beyond the resolution of the ear is off the
+scale as far as tuning is concerned.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 20 Dec 1995 10:38 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id BAA10138; Wed, 20 Dec 1995 01:37:38 -0800
+Date: Wed, 20 Dec 1995 01:37:38 -0800
+Message-Id: <0099B24F6BF12512.4F84@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

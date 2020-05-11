@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Wed, 24 Jan 1996 07:56:34 -0800
+
+Subject: Re: Manuel Op de Coul's List
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+What comes closest to being an encyclopedia of scales is announced 
+in this posting of mine of 12 October 1995:
+
+> The scale archive with the collections of John Chalmers and myself
+> has been updated and contains now over 1250 scales.
+> The scales.doc file contains the complete listing. It's found here:
+
+> http://www.cs.ruu.nl/pub/MIDI/DOC/scales.doc (readme file, ASCII)
+> http://www.cs.ruu.nl/pub/MIDI/DOC/scales.zip (ZIP file, binary)
+
+> Use the "-a" option while unzipping. The size of the ZIP file is about
+> 284 Kb. FTP is possible also from ftp.cs.ruu.nl.
+> The file format of the scales is that of my tuning program Scala,
+> which I hope will be available soon. The files are text files so also
+> usable without it. 
+
+Later I found some duplicates in the archive but they will be removed in 
+a next version.
+
+
+> >- have a mode-fitting algorithm operate on a given scale and look
+> >if it's similar to a mode (of equal temperament) in the list,
+> This is a nice idea. I'd be interested
+> in the sort of algorithm you use. It
+> will somewhat depend on how similar
+> "similar" is, of course.
+
+It's fairly simple. It looks for the best approximation for
+successively higher equal divisions. Every time the approximation is
+better (having a lower least-squares difference) than the previous
+ones, it's printed out with the root-mean-square difference given. So
+you can decide, looking at that number whether it's similar enough, or
+look closer at deviations of individual pitches. The tricky part is
+the procedure to "round off" a pitch to an integer number of equal
+tempered steps.
+I've done a posting about this on 1 September 1994. It has a
+description of the algorithm. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 24 Jan 1996 17:46 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA16258; Wed, 24 Jan 1996 08:46:48 -0800
+Date: Wed, 24 Jan 1996 08:46:48 -0800
+Message-Id: <9601241632.AA13274@us2rmc.zko.dec.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

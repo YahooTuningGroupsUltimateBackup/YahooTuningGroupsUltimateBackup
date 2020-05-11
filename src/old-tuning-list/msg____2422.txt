@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Fri, 29 Dec 1995 15:35:43 -0800
+
+Subject: Comments on Manuel's mode list
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+Re Manuel's list of Modes:
+ 
+I'm puzzled how Javanese pathet names became attached to Thai
+modes, but I suspect it is because there is a persistent bit of
+misinformation that Pelog is 7-tone equal temperament. It is not;
+it is a 7 tone unequal scale that varies from gamelan to gamelan.
+One might map various pelogs onto 9-tone ET or even 23, but is
+would be a very non-Indonesian thing to do.
+	Anyway, there are 15 possible 5 tone modes in 7-tet:
+1a. 	2 1 2 1 1	1b. 	2 2 1 1 1	1c.	3 1 1 1 1
+2a.	1 2 1 1 2	2b.	2 1 1 1 2	2c.	1 3 1 1 1
+3a.	2 1 1 2 1	3b.	1 1 1 2 2	3c.	1 1 3 1 1
+4a.	1 1 2 1 2	4b.	1 1 2 2 1	4c.	1 1 1 3 1
+5a.	1 2 1 2 1	5b.	1 2 2 1 1	5c.	1 1 1 1 3
+ 
+Lou Harrison has played in 1a, 2a and 4a. The "Thai" modes correspond 
+to numbers 4a, 2a and 2b. I suspect that the a modes are the most 
+common and I would  think the c modes would be hard to use.
+ 
+I had forgotten that the Greek chromatic is found in South India
+as well as the enharmonic without the divided semitone. There is a
+discussion of tuning currently on the rec.music.indian.classical Usenet
+newsgroup and the influence of Greek theory has been mentioned, though
+not yet discussed. I will post anything especially interesting to Tuning.
+ 
+--John	
+ 
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 30 Dec 1995 17:02 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA22446; Sat, 30 Dec 1995 08:02:50 -0800
+Date: Sat, 30 Dec 1995 08:02:50 -0800
+Message-Id: <0099BA60FE2A37E6.5B55@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

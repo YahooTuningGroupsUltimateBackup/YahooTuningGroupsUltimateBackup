@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Thu, 19 Sep 1996 20:31:28 -0700
+
+Subject: RE: Consistency generalized
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Thu, 19 Sep 1996, PAULE wrote:
+> >the average error of random intervals is
+> >1/4 step [given] level 2 consistency . . .
+> 
+> Paul H., surely the average error is less than 1/4 step, since that is the 
+> maximum error. [snip]
+
+Er, I think you've misunderstood me.  (Gotta watch those comma splices.)
+What I meant in the above, up to the word "step", was just what you say
+below:
+
+>             Of course, the mean absolute error of random intervals, without 
+> assuming any consistency at all, is .25 step, since all values from 0 to .5 
+> step are taken on with equal probability.
+
+In other words, I _meant_ "random intervals, without assuming any
+consistency at all".  The bit about level 2 consistency belonged to a
+different clause.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Foul?  What the hell for?"
+     -\-\-- o        "Because you are chalking your cue with the 3-ball."
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Sep 1996 06:28 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA20045; Fri, 20 Sep 1996 06:30:22 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA20498
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id VAA22380; Thu, 19 Sep 1996 21:30:14 -0700
+Date: Thu, 19 Sep 1996 21:30:14 -0700
+Message-Id: <v01540b01ae67cd79586f@[204.74.9.166]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

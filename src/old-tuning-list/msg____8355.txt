@@ -1,0 +1,19 @@
+source file: m1501.txt
+Date: Wed, 12 Aug 1998 10:45:31 -0500 (CDT)
+
+Subject: Re: Nano-temperament
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+I don't mean to belittle anyone's ideas, and perhaps I've misunderstood
+something, but it seems to me that this "nanotempering" is a pretty
+obvious thing, really.  It's the natural result of not rounding off to
+the granularity of your synth until you've calculated all the pitches
+involved as precisely as possible.  It's also basically the same as a
+standard technique used in computer graphics called "dithering".
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

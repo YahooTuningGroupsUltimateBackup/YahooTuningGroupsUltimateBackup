@@ -1,0 +1,88 @@
+source file: mills3.txt
+Date: Tue, 30 Sep 1997 22:34:07 +0200
+
+Subject: RE: "Blackwood's proof"
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+I don't think Blackwood really said anything new here. The point is
+that, at least for early works, the Western common practice idiom works
+in any tuning where the syntonic comma vanishes. Only in such tunings is
+it possible to construct a diatonic scale where all thirds are 5-limit
+consonances. So JI and ETs 15, 22, 34, 41, 53 are all no-gos, but any
+meantone tuning including ETs 12, 19, 31, 43, 50, and 55 is OK (with
+some provision, perhaps, for exaggerated leading tones). The former
+tunings require one to insert comma inflections into the score to avoid
+wolves, with the typical result of a piece drifting several commas away
+from its initial key, and in tunings where the syntonic (pseudo-)comma
+is large, messing with the thematic integrity of the development of
+essentially heptatonic ideas.
+
+Of course, once enharmonic equivalents (i.e., vanishing diminished
+seconds) enter the repertoire, some variant of 12-tET is necessary for a
+truthful interpretation. I don't think we need a Blackwood or anyone
+else to prove this to us!
+
+To me, this is all the more reason for modern microtonalists to focus on
+the "forbidden" tunings; the challenge is to find a perhaps
+non-heptatonic framework, possibly using higher than 5-limit harmony,
+for thematic development. Certainly Blackwood's own attempt at composing
+in 22-tET makes the case against trying to adhere to traditional
+harmonic/melodic practice in that tuning. I think Schonberg may have
+been right that diatonicism had been played out, but in abandoning the
+concepts of tonality and scale he threw the baby out with the bathwater.
+Many of the octatonic experiments of the post-tonal composers are a nice
+middle ground between controlled and emancipated dissonance and between
+tonality, polytonality, and atonality. But what if these composers could
+write in 15-tET, where similar symmetrical scales actually allow for
+circle-of-fifths chords progressions as well as better 7-limit tetrads?
+The 12-tone system forced the serious, innovative composers into an
+increasingly academic corner as the vast majority of music lovers
+gravitated toward recyclings of older ideas that their ears could still
+digest. The 20th century was an amazing century for Western music
+primarily due to the incorporation of non-Western influences. Perhaps
+the 21st will see a breaking down of the 12-tone barrier and a flood of
+new tonal ideas.
+
+Today is my last day as a full-time employee of an investment company. I
+already spend almost all my free time playing music, and virtually all
+of that is 12-tone. My latest 4-track improvisation is some sort of
+octatonic funk music; novel perhaps but not revolutionary by any
+stretch. With more free time, I hope to kick myself into putting some
+serious time into exploring microtonal realms. It's hard what with all
+the great musicians around playing 12-tone; I'll have to say, "No sorry,
+can't play with you today, gotta go home and play microtonal by myself."
+Will I do it? I don't know. It's a pretty tough barrier to break in the
+musical culture we're living in.
+
+I'm off to NY and SF for two weeks, hopefully for some inspiration. In
+the meantime, happy tuning!
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carter Scholz <csz@well.com>
+Subject:  Re MIDI Tuning Spec
+PostedDate:  01-10-97 05:53:32
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-10-97 05:53:06-01-10-97 05:53:06,01-10-97 05:52:02-01-10-97 05:52:03
+DeliveredDate:  01-10-97 05:52:03
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256523.0015551C; Wed, 1 Oct 1997 05:53:00 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03274; Wed, 1 Oct 1997 05:53:32 +0200
+Date: Wed, 1 Oct 1997 05:53:32 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03258
+Received: (qmail 673 invoked from network); 30 Sep 1997 20:53:28 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 Sep 1997 20:53:28 -0700
+Message-Id: <199710010351.UAA13587@well.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

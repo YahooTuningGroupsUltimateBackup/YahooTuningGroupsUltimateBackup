@@ -1,0 +1,103 @@
+source file: mills2.txt
+Date: Fri, 4 Oct 1996 10:30:19 -0700
+
+Subject: Response to Daniel Wolf
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Daniel,
+Let's try to wind this up.
+
+>I know, for example, that I can hear,
+>identify, and reproduce the sine wave complex 500, 600, 750 Hz. I hear it
+>distinctly as a "minor" triad and neither as a mistuned harmonic series
+>segment where 500Hz = 2^n nor as a harmonic series segment over the
+>fundamental of 50Hz.
+
+Okay, well that is different from my experience, and seems different from 
+any documented psychoacoustic phenomena. But that doesn't mean you're wrong. 
+How well does this extend up to, say, 11-limit hexads? I've found that 
+tuning an 11-limit otonal hexad is easy, even with sine waves, while tuning 
+an 11-limit utonal hexad, without listening to smaller subsets while tuning, 
+is nearly impossible, unless the tones are unusually rich in harmonic 
+partials.
+
+>(2) Phase differences can have dramatic effects on pitch perception. With
+>long duration sound installations, the relative phase positions are
+>apparent in physical space. I recently heard an extraordinary installation
+>by Hauke Harder in Copenhagen, where phase relationships were essentially
+>the only dynamic element in the work. When phases were locked this entire
+>quality disappeared. Young has worked with _drifting_ phases and has made
+>some interesting psychoacoustical conjectures. (I have had similar - but
+>not precisely so - experiences in recording sine wave complexes from my
+>Rayna synthesize onto CD or DAT, where differences in sampling speed all
+>but destroyed entire works).
+
+Well, the effect is apparantly specialized enough that most music retains 
+its character, since the BBE hardware works by reducing peaks through 
+judicious frequency-dependent phase-shifts. This is what I thought you were 
+talking about, the relative phases of two different partials in a harmonic 
+relationship.
+
+>(3) A spacing theory would be a method of analysis and not a theory of
+>composition, although the information obtained might be useful to
+>composers. Last time I checked, composers were free to proceed with or
+>without a theory.
+
+By a theory of composition I meant a method of analyzing compositions, just 
+as a theory of physics does not cause physical phenomena to occur but merely 
+explains them.
+
+>(4) I believe your procedure is closely tied to western musical materials
+>(I try to be a bit more global in my approach, but the simple matter is
+>that the number of repertoires with pitch complexes of three or more
+>members is limited; a parallel project of mine involves harmonization
+>procedures for repertoires with melodic properties distinctive from the
+>German folksongs upon which classical chorale harmonization is based); for
+>this reason, a coupling of your algorithm with an approach to chord
+>progression is worthwhile if not necessary, since your procedure demands
+>parameters only close to those offered by traditional western classical and
+>vernacular musics. In this (broadly defined) repertoire, contrast between
+>harmonic structures is a (if not THE) defining feature.
+
+Yikes. I don't see where you're getting this, and I should also point out 
+that a pitch complex of two members is enough.
+
+Look, I'm only trying to explain certain features of the musical experience 
+here, namely phenomena that are due to what is going on at a given instant 
+in time. Whether a certain chord is a tension or a relaxation will obviously 
+depend on what goes on *before* and *after*, but there is a component that 
+depends on the *during*, and one of the two components of that is related to 
+the virtual pitch detection process. I feel it is very important to model 
+and understand this process, becuase it is so strong as to convert all 
+near-simultaneous near-harmonic sine-wave complexes into single sensations. 
+To assume it has no impact on the musical effect of harmony would be folly.
+
+>(5) For the Boomsliter and Creel example, I should have said harmonic
+>_progressions_, for the choice of 224/128 over 7/4 was aopparently made in
+>reference to position in a larger network of relationships, and not to a
+>stretching preference (although Linus Liu recently sent me an example of a
+>scale for Chinese music - which is primarily melodic - where a sequence of
+>just melodic intervals leads to an octave stretched by 81/80).
+
+Ah, well in that case I would agree. (You meant 225/128, since 224/128=7/4.) 
+Certainly one can follow a relatively long chain of 3/2 relationships, a 
+relatively short chain of 5/4 or 6/5 relationships, and perhaps only one 7/4 
+relationship (or not even) in the roots of consecutive chords. This is very 
+different from the perception of simultaneities.
+
+ -Paul
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 5 Oct 1996 04:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07834; Sat, 5 Oct 1996 03:18:46 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA07793
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id TAA28541; Fri, 4 Oct 1996 19:18:45 -0700
+Date: Fri, 4 Oct 1996 19:18:45 -0700
+Message-Id: <961005021451_71670.2576_HHB59-8@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

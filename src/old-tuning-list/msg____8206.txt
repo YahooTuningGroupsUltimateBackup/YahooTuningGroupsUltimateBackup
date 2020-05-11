@@ -1,0 +1,40 @@
+source file: m1461.txt
+Date: Mon, 29 Jun 1998 10:23:21 -0400 (EDT)
+
+Subject: Re: Basilar membrane
+
+From: "Ewan A. Macpherson" <emacpher@umich.edu>
+
+> Date: Sun, 28 Jun 1998 01:44:54 -0700
+> From: Carl Lumma <clumma@nni.com>
+
+> My question is: Does anybody know how the basilar membrane works?  I
+> thought that a given spot on it was sensitive to a particular
+> frequency, and that these spots were arranged in order of decending
+> frequency along its length.  Now what stumps me is how a given
+> frequency only vibrates an isolated part of the membrane.
+
+You're right, a point on the BM can't respond to only a single 
+frequency.  Instead each point acts like a bandpass filter. 
+Excitation causes a travelling wave to move down the BM, and 
+different frequency components of the wave peak at different places 
+as it progresses.  The portion of the BM nearest the middle ear is 
+stiffest and responds best to high frequencies, and the membrane 
+becomes increasingly floppy along its length, lowering the "best 
+frequency" of the bandpass filters.
+
+For some nice animations see:
+http://www.neurophys.wisc.edu/animations/
+
+or download the whole "Auditory tour" (20MB):
+http://www.neurophys.wisc.edu/ftp/pub/aud-tour/
+--
+Ewan Macpherson   <emacpher@umich.edu>
+Central Systems Laboratory
+Kresge Hearing Research Institute
+http://www-personal.umich.edu/~emacpher
+
+------------------------------
+
+End of TUNING Digest 1461
+*************************

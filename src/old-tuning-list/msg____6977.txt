@@ -1,0 +1,45 @@
+source file: mills3.txt
+Date: Thu, 8 Jan 1998 18:02:26 +0100
+
+Subject: Scale archive
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+There is a new release of the scale archive. The reason is it
+has 2000 scales, given the popularity of the number 2000 now.
+The scales are in the human-readable Scala format.
+Download
+ftp://ella.mills.edu/ccm/tuning/software/scales/scales.zip
+or
+ftp://byrd.math.uga.edu/pub/music/dx7/scales/scales.zip
+
+Manuel Op de Coul    coul@ezh.nl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Judith Conrad <jconrad@tiac.net>
+Subject:  Re: Instruments played
+PostedDate:  08-01-98 18:51:02
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  08-01-98 18:50:33-08-01-98 18:50:34,08-01-98 18:50:27-08-01-98 18:50:28
+DeliveredDate:  08-01-98 18:50:28
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256586.0062017F; Thu, 8 Jan 1998 18:50:58 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA25362; Thu, 8 Jan 1998 18:51:02 +0100
+Date: Thu, 8 Jan 1998 18:51:02 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA25301
+Received: (qmail 9789 invoked from network); 8 Jan 1998 09:50:58 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Jan 1998 09:50:58 -0800
+Message-Id: <Pine.SUN.3.95.980108123700.9324A-100000@sunspot.tiac.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,127 @@
+source file: mills3.txt
+Date: Wed, 13 Aug 1997 18:39:22 +0200
+
+Subject: Pitch Relations and Frequency Ratios
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Paul Rapoport wrote:
+
+> [The] Syntonic comma may be defined algebraically and
+> then applied to any tuning system in which that formula makes sense.
+> To say, for example, that 53-tET has no syntonic comma isn't helpful.
+> Sure it's tempered, but so are all ET intervals, including the perfect
+> fifth, a term which is not restricted to 3/2 in common usage. What's
+> so special about 81/80?
+
+When this discussion cropped up earlier (in May, I think), I was unable
+to send out mail due to certain technical problems, so I'll take the
+opportunity now to mention what I had in mind then.
+
+Paul, I think this problem admits of a resolution if we agree to treat
+pitch relations as a phenomenal, secondary-quality discourse, operating
+within the conceptual system of a given musical tradition; on the
+physical, primary quality level, we can speak of frequency ratios. I
+would suggest that the problem you have encountered arises from the
+confusion of these distinct levels of discourse: the perfect fifth
+belongs to the phenomenal level, the syntonic comma to the physical. If
+I were to say "pure fifth", however, it would be natural to assume that
+a 3/2 was intended; "pure fifth" is opposed to "impure fifth", i.e.
+tempered, whereas "perfect fifth" is opposed to "imperfect fifth", i.e.
+augmented or diminished. To specify an interval on the phenomenal level
+leaves the physical realisation of the interval underdetermined: a
+perfect fifth could be a 3/2, or any meantone or ET analogue; what
+matters is that the perfect fifth, regardless of the tuning system in
+which it may be realised, should _function_ as such.
+
+The syntonic comma is already well-defined as 81/80, and its etymology
+specifies the context in which it arises: the syntonic diatonic of
+Ptolemy, and implicitly the difference between this and the ditonic
+diatonic. Its use, established since the 16th century, for categorizing
+the various shades of meantone entrenches this sense further.
+Nevertheless, there is probably no harm in saying, at the beginning of
+an article on ETs, that you will be discussing analogues of the syntonic
+comma, and that for convenience you will thereafter refer to these as
+"syntonic commas" or simply "commas", on the understanding that the
+meaning of the terms is derived, not literal. But to treat "syntonic
+comma" as if it were a phenomenal term such as "perfect fifth" is to
+merge the phenomenal and physical levels, and open the way to all manner
+of confusion.
+
+Consider how this applies to Greek theory: Ptolemy was, in part, arguing
+at cross purposes with Aristoxenus. Ptolemy, giving an empiricist slant
+to Pythagorean theorising, was discussing intervals as frequency ratios,
+while Aristoxenus, trying to supplant the Pythagorean tradition, was
+trying to argue that intervals should be defined purely within the
+concepts native to music, as pitch relations on the phenomenal level.
+(Aristoxenus then brought trouble upon himself by constructing a
+numerical model which was too heavy for such a foundation, but we can
+leave this aside for present purposes.) In spite of the exclusive claims
+of each theorist, there is no logical incompatiblity between the two
+approaches, if they are understood to operate on different levels:
+intervals qua pitch relations, and intervals qua frequency ratios.
+
+> Any JI term that has an ET equivalent is probably OK to use in the
+> tempered sense, as long as that use is understood. This is where
+> "quartertone" is different: it's already a tempered term.
+
+Whether quarter-tones are defined functionally as pitch relations, or
+physically as frequency ratios is a moot point. I would judge that
+"quarter-tone" is context-dependent in this respect: if I were reading
+through a Vyshnegradsky score, I would understand them as 2^(1/24)/1
+frequency ratios because the tuning system in which the score is to be
+realised is specified by the composer. But if I were reading, say, a
+Ferneyhough score, I would not make any such assumption: the flautist,
+violinist, etc. is required to produce a sound which is sufficiently
+distinct from its neighbours to have its own audible function. In such
+music, tones are not specified to be 2^(1/6)/1, and semitones are not
+specified to be 2^(1/12)/1, so we can hardly suggest that quartertones
+are somehow to be assigned a precise frequency ratio. Audible function
+is all that counts in such contexts, placing quarter-tone notation on
+the phenomenal level, and not the physical.
+
+> I know we've been over this before, but I think I'm being consistent.
+> As far as I'm concerned, anyone is welcome to talk about quartertones
+> in 31-tET; you just won't find them in the tuning.
+
+Lowinsky spoke of quartertones when discussing Vicentino's enharmonic
+writing; since Vicentino's assignment of ratios to intervals was highly
+confused, this usage might not be quite so reprehensible as it would
+seem. If Vicentino had unequivocally specified, say, 31TET, then
+"quartertone" would be out of place; but considering Vicentino's
+vagueness, I think we can charitably allow Lowinsky the functional,
+phenomenal sense of quartertone.
+
+Interestingly enough, 14th and 15th century music requires two levels
+for specifying pitch relations (one for notation, one for singing), as
+well as another for specifying frequency ratios. But that's another
+story -- if anyone's interested, I'll explain what I mean.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  f1279605@nv.aif.or.jp
+Subject:  introducing a ml from japan
+PostedDate:  14-08-97 16:17:38
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  14-08-97 16:17:43-14-08-97 16:17:44,14-08-97 16:15:53-14-08-97 16:15:53
+DeliveredDate:  14-08-97 16:15:53
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564F3.004E851D; Thu, 14 Aug 1997 16:17:38 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03033; Thu, 14 Aug 1997 16:17:38 +0200
+Date: Thu, 14 Aug 1997 16:17:38 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03031
+Received: (qmail 6496 invoked from network); 14 Aug 1997 14:17:23 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Aug 1997 14:17:23 -0000
+Message-Id: <33F38C62.6439@nv.aif.or.jp>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

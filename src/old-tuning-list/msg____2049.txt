@@ -1,0 +1,96 @@
+source file: mills2.txt
+Date: Mon, 25 Sep 1995 22:22:57 -0700
+
+Subject: Re: FWD: Bach's Tuning
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Sun, 24 Sep 1995, Aleksander Frosztega wrote:
+> Flat fifths were never mentioned in Rasch's quote.
+
+No, they weren't, were they?  So what were you referring to when you
+said this a few articles back?
+
+"As pointed out by Prof. Rasch, Kirnberger admitted several times to
+Marpurg that Bach tuned each one of  his fifths a bit flat."
+
+>                                                     But you are correct in
+> stating that Marpurg is wrong; What Marpurg probably meant to say was
+> that if all the major thids where to be made wide, a major third, wide by a
+> syntonic comma, was not possible.
+
+But this is _still_ incorrect.  For example, consider a temperament in
+which five succesive fifths are tempered by 1/5 Pythagorean comma each,
+and the other seven just.  In this tuning, all major thirds are wider
+than just, but it has no fewer than _four_ Pythagorean major thirds
+(wide by a syntonic comma).
+
+(It is curious to me that, while you insist the evidence is unambiguous,
+you resort to interpretations and speculations like this one and the one
+below.)
+
+[snip]
+
+> Kinberger himself, for all the polemics with Marpurg, remains silent on the
+> disposition of J.S. Bach's temperament.  However, knowing Kirnberger, he
+> would have LEPT at the chance to publically humiliate Marpurg, were
+> Marpurg's original statement about J.S. Bach's temperament false (this
+> would follow the pattern of their famous vituperations).  He didn't.  It is
+> inconceivable that Kirnberger was unaware of the passage in question.
+> That is why we can probably trust that the quote represents correct
+> information.  This is also the reason that you should not dismiss evidence
+> in Marpurg so quickly...
+
+So you'd rather trust Marpurg's slanted interpretation of Kirnberger's
+statements, even though he makes a whopping big theoretical error in it?
+Hmmph.
+
+The following two quotes are from _A History of Key Characteristics in
+the Eighteenth and Early Nineteenth Centuries_, by Rita Steblin (UMI
+Research Press, 1983), already cited once in this thread.
+
+p.91:
+: It is known that Marpurg's attack caused Kirnberger much bitter
+: anguish: he poured out his vexation in a series of letters to Forkel
+: from 1779-80.  . . . although Kirnberger did not publish a
+: counterattack himself, he did include a defense written by the
+: important mathematician and military officer at the Berlin court,
+: Georg Friedrich Tempelhof (1737-1807).
+
+p.92:
+: Marpurg, the avowed disciple of Rameau, had drawn clear battle lines
+: between his theories in support of equal temperament and those of
+: Kirnberger.  Since the latter had declared that his primary intention in
+: _Die Kunst_ was to transmit the theoretical principles of J.S. Bach,
+: Marpurg's cruelest blow was the accusation that Kirnberger was not
+: faithful to Bach--not faithful because, as Marpurg contended, Bach had
+: actually taught Kirnberger to tune in equal temperament.  Marpurg then
+: appealed to Bach's sons to substantiate him in his claim, but this ruse
+: backfired, and Kirnberger was able to end _Die Kunst_ with the following
+: passage taken from a letter that C.P.E. Bach had sent him:
+: 
+:      The conduct of Herr Marpurg against you is abominable. . . . You
+:      may proclaim that my fundamental principles and those of my late
+:      father are anti-Rameau.
+: 
+: In this manner Kirnberger managed to get in a final blow.  Although it
+: is not clear whether this quotation applies specifically to unequal
+: temperament and key characteristics, there is no reason to believe that
+: this topic--so important in Kirnberger's writing--should be excluded
+: from the anti-Rameauist principles espoused by the Bachs.
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Do you like to gamble, Eddie?
+     -\-\-- o         Gamble money on pool games?"
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 26 Sep 1995 07:31 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA01350; Mon, 25 Sep 1995 22:30:55 -0700
+Date: Mon, 25 Sep 1995 22:30:55 -0700
+Message-Id: <Pine.SOL.3.91.950926002642.719B-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

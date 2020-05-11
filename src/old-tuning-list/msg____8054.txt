@@ -1,0 +1,34 @@
+source file: m1443.txt
+Date: Thu, 11 Jun 1998 05:20:54 -0500 (CDT)
+
+Subject: Re: Fokker's Matrices
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Wed, 10 Jun 1998, Graham Breed wrote:
+> >You can generate any damn ET you want this way, although sometimes the
+> >unisons/commas chosen to vanish aren't very small.
+> 
+> Correct me if I'm wrong, but Fokker used octave invariant matrices.
+> That means you can't use them to define 88CET, for example.
+
+Sorry.  I should have said you can derive any _integral_ ET this
+way--but note that the interval divided by the integral doesn't have to
+be an octave.  So you can derive the Bohlen-Pierce scale, for example,
+by working in the 5-7 plane and assuming tritave equivalence when you
+generate your intervals and choose your unison vectors.
+
+On Wed, 10 Jun 1998, Paul H. Erlich wrote:
+> What if you add the restriction that the resulting ET can have no better
+> approximations of the just intervals than the ones represented by one
+> step along the axes? I guess I had that in the back of my mind when I
+> asked the above questions.
+
+I'm having difficulty imagining an ET like this--can you give me an
+example of such an ET, and then I'll try Fokker's method on it?
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Fri, 20 Dec 1996 02:28:35 -0800
+
+Subject: RE: 41-TET and those difficult synths
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Thanks Carter for describing a useful technique which at least wasn't
+obvious for me. 
+
+> (It occurs to me that some just scales. e.g. tetrachordal types, might 
+> have internal congruences and repetitions that could exploit such fixed 
+> channel offsets.  These would, though, require tedious calculation on a
+> case-by-case basis.  It would be an interesting exercise to determine 
+> if the Partch scale is sufficiently self-similar to use this technique.)
+
+The answer is yes. One can easily determine this with Scala. Do
+   load partch_43
+   show transpose
+It shows how many notes are different for each transposition. Look at
+the second amount which shows how many are different regardless of
+degree order. If we take Brian's upper limit of 17 notes per channel
+then we are looking for a transposition with about 43-17& notes
+different. Candidates are 7 and 12 with 25 and 14 with 27. Let's take
+7 (10/9). Then we do 
+   copy 0 1
+   key 7
+   intersect 1
+   show/line
+and we get this scale
+ 81/80 21/20 16/15 11/10 9/8 6/5 9/7 4/3 27/20 7/5 3/2 8/5 18/11 27/16 12/7
+ 16/9 9/5 2/1
+Midi channel 1 then gets a pitch bend of 10/9 182.4 cents.
+With some more manipulation we determine which pitches still have to
+be done: 
+ 33/32 12/11 8/7 14/11 21/16 11/8 16/11 32/21 11/7 7/4 11/6 64/33
+That's only twelve, with one note per channel there would be enough
+channels left. Some can be grouped together like the ones with 11 in
+the numerator, another group with 11 in the denominator, etc. But how
+to get a minimum amount of channels in general could indeed be 
+somewhat tedious. If you settle for a smaller range than that of the
+piano it can be less.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Dec 1996 15:59 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14672; Fri, 20 Dec 1996 16:02:16 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA14665
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA20657; Fri, 20 Dec 1996 07:02:13 -0800
+Date: Fri, 20 Dec 1996 07:02:13 -0800
+Message-Id: <199612200959_MC1-D78-53D@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

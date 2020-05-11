@@ -1,0 +1,68 @@
+source file: mills2.txt
+Date: Fri, 28 Jun 1996 16:10:10 -0700
+
+Subject: Diary of a CD-R Novice
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+Ladies and Gentlemen-
+        I have been away from the computer for a few days due to the
+wedding of a son and a promise to a wife to paint the house. Yesterday I
+got back to work and set out to resolve a problem that consumed about 3
+hours of time since I first hooked up the CD-Recordable and the to the
+Adaptec SCSI card---my Gateway 2000 computer could not find the SCSI
+device.
+        Thursday-after 4 hours of trying every combination of available IRQ 
+and base address, screaming at the computer, Adaptec and Gateway 
+technicians, we determine that the problem is in the advanced BIOS of the 
+Gateway machine-it is set to plug & play and assigns IRQs as it sees fit. 
+I reset the BIOS to user setup and the SCSI drive is recognized! 
+(I am not a genuine computer geek--I just use the computer for scienfic 
+number crunching and visual simulations, so if you must call me on my poor 
+use of DOS and hardware terminology, please do so in a gentle fashion).
+	I am finally ready to record. I have three CD-R software 
+packages-Correl, EZ CD-R and one that came with the CD-R player. I try 
+the EZ CD-R software first. A CD-R can be recorded over several sessions,
+which is a good thing, as standard CD audio takes about 10 megabytes per 
+minute and a hard disk would be quite full from an hour of music. After 
+each session, a box is clicked to close the session. When the disk has 
+all the material recorded (data, programs, music, images or multimedia) 
+you click the close disk box and the CD-R can finally be read. I have 
+several disks with test data that have not yet been closed, so in the 
+interest of economy, I first try recording DOS from my hard drive to the 
+disk. It takes about ten seconds to put DOS in the appropriate format and 
+about three minutes to burn it on the disk. I close the disk (about one 
+minute) and I have my first CD ROM. I test it, and it works! The machine 
+reads DOS from the CD-R!  
+	Now for music. Each of the three software packages has a test 
+feature that simulates writing a disk by doing everything but turning on 
+the laser. As I don't have a whole disk worth of material to record, and 
+special preparation is required to mix sound and other sources, I cannot 
+use one of the partially recorded test discs. To avoid wasting a new 
+disc, I decide to test write some wave files. I take several Monty Python 
+sound bytes, sing a few bars into WINDAT (it came with my $50 sound card) 
+and make a cue sheet. Piece of cake. It takes about five minutes. Just 
+drag and drop WAVE files into the CD-R icon. I test record, and it is a 
+success!
+	Except for the 7 wasted hours trying to determine why the machine 
+couldn't locate the SCSI device (ain't DOS machines grand?), running the 
+CD-R has been a breeze. Each of the three pieces of software is easy and 
+intuitive to use, and there were no glitches recording a real DOS CD and 
+the test sound CD. All that remains is to do a real sound session, which 
+I will report on next time.
+	By the way, Sony now is pricing a fully functional CD-R drive at $600.
+
+John Starrett  
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 29 Jun 1996 04:20 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id TAA10372; Fri, 28 Jun 1996 19:20:41 -0700
+Date: Fri, 28 Jun 1996 19:20:41 -0700
+Message-Id: <v01540701adfa43319cfb@[165.227.35.74]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

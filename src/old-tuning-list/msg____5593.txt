@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Tue, 3 Jun 1997 19:13:57 +0200
+
+Subject: Re: modes and tuning
+
+From: Daniel Wolf <DJWOLF_MATERIAL@CompuServe.COM>
+
+Let me try to answer both of your questions at once. Medieval music theory
+for the motion of melodic voices is based upon the assumption that the
+scale is pythagorean. Therefore the dorian is going to have a 3/2 fifth at
+the interval d - a. A combination of this tuning and the standard rules for
+melodic motion leads logically to something like a raga with a distinct
+identity for each mode, albeit obligatory ornamentation (like gamakas) must
+remain a matter of conjecture. There is simply too little evidence one way
+or another, and the difference over time and in different places must have
+been enormous (as is true for South Indian music, for example.) Later polyphonic music may or may not require just thirds and comma shifts
+to accomodate these, or the whole matter may be rendered moot by a
+temperament (i.e. equal on fretted strings, meantone on keyboards). In any
+case, a 40/27 on the dorian tonic would only be the consequence of a justhexachord on c (assuming that just hexachords ever were current), but could
+be corrected to 3/2 by RE on the hexachord on G. Ancient greek music is another matter altogether. There is no theoreticalevidence one way or another of rules regarding tritone leaps - or of any
+rules about melodic motion except for the labeling of certain common
+motions. If I recall correctly, however, some of the preserved fragments do
+have augmented fourth or diminished fifth leaps. Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 4 Jun 1997 15:46 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18036; Wed, 4 Jun 1997 15:46:11 +0200
+Date: Wed, 4 Jun 1997 15:46:11 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA18886
+Received: (qmail 794 invoked from network); 4 Jun 1997 13:45:30 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 4 Jun 1997 13:45:30 -0000
+Message-Id: <33290029@vixen.Dartmouth.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

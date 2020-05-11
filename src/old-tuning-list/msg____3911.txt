@@ -1,0 +1,65 @@
+source file: mills2.txt
+Date: Sun, 3 Nov 1996 18:27:29 -0800
+
+Subject: notating tuning references
+
+From: "Adam B. Silverman" <adam.silverman@yale.edu>
+
+Gary Morrison wrote:
+>   That is far easier than performing from a 7th or 13th harmonic sort of
+>description, because with that you'd have think - in realtime, on the fly
+>- "OK,
+>what's the root of this chord (that in itself is especially tough since any
+>realistic performance each performer will have PARTS, and not the whole
+>conductor's score)?  How does this note relate to that root?  How much
+>flat is a
+>13th harmonic from the closest 12TET pitch?"
+
+An idea which I have toyed with (but not yet implemented, mostly out of
+laziness) is to notate, at least when writing single-voice-per-staff music,
+tuning references for complex (extended JI or less-than obvious) intervals.
+For instance, when a violinist would read a Bb7, they would see the seven
+and automatically tune it as a 7/4 or 7/6 to some sounding pitch.  However,
+if I have modulated to the key of Gb7, I would notate a Gb7 enclosed in
+parenthesis on the staff.  This would quickly and clearly tell the
+violinist to tune a 5/4 from Gb7, which they would hear in another
+instrument, and narrows the gap between score and part.  If I wanted to get
+really fancy and spend a whole lot of money on color photocopies, I would
+go as far as to write the cue-notes in red ink.
+
+My ideas about key signatures (bracketed above the staff) would apply in
+much the same way, but would be difficult for people with absolute pitch to
+have to constantly transpose.  I find that most people with absolute pitch
+won't be playing microtonal music, anyway.
+
+The difficulty in this style of notation, of course, enters when notating
+chords, although it seems reasonable that in most consonantly-biased JI
+music, all pitches of the chord would be tuned to the same fundamental.
+
+This doesn't argue against Johnny's style, since it is strictly JI-phyllic.
+
+Yours,
+Adam
+
+_________________
+Adam B. Silverman
+153 Cold Spring Street; A3
+New Haven, CT 06511
+(203) 782-1765
+
+abs22@pantheon.yale.edu
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 5 Nov 1996 09:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00980; Tue, 5 Nov 1996 09:16:22 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00978
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id AAA13327; Tue, 5 Nov 1996 00:16:19 -0800
+Date: Tue, 5 Nov 1996 00:16:19 -0800
+Message-Id: <199611050313_MC1-B9F-FB23@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

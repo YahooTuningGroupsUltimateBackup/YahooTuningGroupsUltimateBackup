@@ -1,0 +1,78 @@
+source file: mills2.txt
+Date: Fri, 18 Oct 1996 08:43:41 -0700
+
+Subject: Equal beating well temperaments, reply to John
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+This post is a reply to one long ago of John Chalmers of Tue, 4 Apr 95.
+See also the ones before that of 31 March '95 and 3 April '95.
+
+I was calculating some equal beating temperaments and found that John
+had done so too:
+
+[snip..] 
+> I derived them as approximations to
+> Equal Beating tunings, a type described by Rudolf Rach in Music 
+> Perception 1(3): 308-322 (1984). Rasch examined tunings in which 
+> intervals and their inversions had the same beat rate (e.g. 1/4 comma 
+> in which the major third and minor 6th have 0 beats). In 1991 I 
+> decided to examine other temperaments in which pairs of non-
+> inversionally related intervals had the same beat rate. I was able 
+> to find solutions for 9 such tunings. I also found fractional comma 
+> approximations for them as well.
+
+I think only 2 are correct.
+
+>     E.B. Intervals      Fifths          Approximation
+> 1. 4th = min 6th        695.80957       2/7-comma   
+> 2. 4th = Maj 6th        696.29584       5/19-comma  
+> 3. min 6th= Maj 6th     696.0063        5/18, 13/47 
+> 4. 5th = Maj 3rd        695.63044       5/17, 2/7   
+> 5. 5th = min 3rd        695.80957       2/7         
+> 6. Maj 3rd = min 3rd    695.72794       11/38, 9/31 
+> 7. min 3rd = min 6th    698.8780        1/7, 65/454 
+> 8. 4th = Maj 3rd        697.47472       5/24, 1/5   
+> 9. 5th = min 6th        697.0389        8/35, 3/13  
+
+
+1. 4th = min 6th        695.80957       not ok, 695.163
+2. 4th = Maj 6th        696.29584       ok
+3. min 6th= Maj 6th     696.0063        not ok, not computed
+4. 5th = Maj 3rd        695.63044       not ok, 697.817
+5. 5th = min 3rd        695.80957       not ok, 696.895 appr. 1/4-comma
+6. Maj 3rd = min 3rd    695.72794       almost ok, not computed
+7. min 3rd = min 6th    698.8780        ok
+8. 4th = Maj 3rd        697.47472       not ok, 697.710 appr. 2/11 pyth. comma
+9. 5th = min 6th        697.0389        not ok, 697.599 appr. 3/16 pyth. comma
+
+These are the other ones I did.
+
+    E.B. Intervals      Fifths          Approximation
+5/4 = twice 3/2         698.590         1/7 pyth. comma
+3/2 = twice 5/4         697.278         1/5 comma
+6/5 = 3/2               696.895         1/4 comma
+6/5 = twice 3/2         698.048         2 schisma
+3/2 = twice 6/5         696.022         5/18 comma
+3/2 = 7/4               697.282         1/5 pyth. comma
+5/4 = 3/2 other one     694.273         5/14 comma
+6/5 = 3/2 other one     689.734         too extreme
+
+Computing these fifths involves finding the root of a polynomial of the
+fourth order or higher.
+To see beat rates in Scala, use SHOW DISTANCE.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 18 Oct 1996 19:55 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02828; Fri, 18 Oct 1996 19:57:01 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA02850
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA15044; Fri, 18 Oct 1996 10:56:58 -0700
+Date: Fri, 18 Oct 1996 10:56:58 -0700
+Message-Id: <Pine.SOL.3.91.961018134849.27761F-100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

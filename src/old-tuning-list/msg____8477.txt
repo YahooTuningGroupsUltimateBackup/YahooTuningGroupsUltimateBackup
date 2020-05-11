@@ -1,0 +1,65 @@
+source file: m1527.txt
+Date: Sat, 12 Sep 1998 08:22:26 -0500
+
+Subject: Re: 19 tone patent
+
+From: Gary Morrison <mr88cet@texas.net>
+
+> It a sad fact of life that patents are issued
+> every day for items and ideas in long and common use.
+
+   Sorry if I'm getting too far off the subject of tuning here, but for the
+record...
+
+   You can apply for a "utility" patent (as opposed to a "design" patent,
+which covers visual appeal rather than practical value), if the invention:
+1.  Fits into a "statutory class".  The PTO (Patent and Trademark Office)
+keeps a
+   database of probably something like about 50,000 to 100,000 classes and
+sub-
+   classes of patentable topic matter.
+2.  Is not a perpetual-motion machine.
+3.  Is not a plant, in the biological sense of the word (there's a separate
+type
+   of patent for plants).
+4.  Is not an already known idea.
+5.  Is "unobvious".  (I always thought that that word should be
+"nonobvious",
+   but whatever...)  You can't patent something all of whose components are
+   known, unless their combined effect is something surprising.  For
+example,
+   you can't patent asprin, but around the turn of the century, somebody
+   patented putting asprin into pig feed, because he found (probably
+accidentally)
+   that doing so makes them reproduce more successfully.
+
+   Almost invariably, a patent examiner initially rejects a patent
+application for one of the last two criteria, and the applicant files a
+"protest" explaining why the examiner's claims don't make sense.
+
+   But anyway, as for a patented invention being "in long or common use", a
+lot of people don't realize that patent law not only prohibits you from
+patenting things that have not been patented before, but things that are
+known in any way.  That then leads to what are called "defensive
+publications", wherein you conclude that you can't or don't see enough value
+in patenting something, so you instead write a detailed article in a major
+industry journal about it, solely to prevent anybody else from patenting
+it.  Probably somewhere around 20% of articles in engineering journals are
+defensive pubs.
+
+   Now, it's also important to understand the claims of a patent (typically
+the last third of a patent, wherein the inventor states what s/he claims as
+intellectual property).  They start extremely general and get more and more
+specific.  A court will often throw out the first few claims because they're
+just too general.  Patent attorneys include them largely to narrow the scope
+of, or define terminology used in, the later claims.  Claim #4 of a lot of
+patents read something like "a system as in claim 3 such that...".
+
+   Although it's not likely, Yamaha might claim something as broad as a
+guitar, knowing full well that anybody can defeat that claim, just so that
+they can legally define what a guitar is for their later claims.
+
+------------------------------
+
+End of TUNING Digest 1527
+*************************

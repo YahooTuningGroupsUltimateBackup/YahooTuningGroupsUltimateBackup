@@ -1,0 +1,99 @@
+source file: mills3.txt
+Date: Mon, 22 Dec 1997 15:40:01 +0100
+
+Subject: Steel is Cool
+
+From: Steven  Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+
+I got a chance to check out a pedal steel player this weekend, and
+man, this *is* one cool axe, and my mind was reeling with the micro
+possibilities it presents.
+
+I tried playing my 22tet guitar, which is tuned to an open minor
+tetrad, "lap steel style", and I think I could get into it. It
+certainly solves some of my problems with fingering ;-) I feel a bit
+ashamed that until now I never really looked into it before.
+
+Thank you, Bobby Lee, for drawing our attention to a most wonderful
+instrument.
+
+Steve
+
+
+SMTPOriginator:  owner-hpschd-l@cnsibm.albany.edu
+From:  Paul Hahn <Paul-Hahn@library.wustl.edu>
+Subject:  Re: tit for tet
+PostedDate:  22-12-97 16:05:51
+SendTo:  HPSCHD-L@CNSIBM.ALBANY.EDU
+ReplyTo:  Harpsichords and Related Topics <HPSCHD-L@CNSIBM.ALBANY.EDU>
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  22-12-97 16:12:38-22-12-97 16:12:38,22-12-97 16:12:10-22-12-97 16:12:11
+DeliveredDate:  22-12-97 16:12:11
+Categories:  
+$Revisions:  
+BlindCopyTo:  CN=coul1358/OU=AT/O=EZH
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256575.00538C69; Mon, 22 Dec 1997 16:14:30 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23708; Mon, 22 Dec 1997 16:14:51 +0100
+Message-Id: <9712221514.AA23708@ns.ezh.nl>
+Received: from listserv-mail.surfnet.nl by ns (smtpxd); id XA23714
+Received: from listserv-mail (192.87.5.141) by listserv-mail.surfnet.nl (LSMTP for Windows NT 
+v1.1a) with SMTP id <0.134A2FC0@listserv-mail.surfnet.nl>; Mon, 22 Dec 1997 16:10:09 +0100
+Date:         Mon, 22 Dec 1997 09:05:51 -0600
+Reply-To: Harpsichords and Related Topics <HPSCHD-L@CNSIBM.ALBANY.EDU>
+Sender: Harpsichords and Related Topics <HPSCHD-L@CNSIBM.ALBANY.EDU>
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+Subject:      Re: tit for tet
+To: HPSCHD-L@CNSIBM.ALBANY.EDU
+In-Reply-To:  <199712221019.EAA06608@library.wustl.edu>
+
+On Mon, 22 Dec 1997, Christian Kaernbach wrote:
+>        n-tet    fifth   third  seventh
+>       31-tet    -5.18    0.78   -1.08     cent
+>       34-tet     3.93    1.92  -15.88     cent
+> (I just thought the fifths were too bad for such high values of n.)
+
+Actually, an error of 5.18 cents, in proportion to the stepsize of
+approximately 38 cents in 31-TET, is actually a little better than the
+15.64 cent error of the minor third in 12-TET relative to its stepsize
+of 100 cents.  The latter is a ratio of about 1/6, while the former is
+closer to 1/7.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Do you like to gamble, Eddie?
+  -\-\-- o    Gamble money on pool games?"
+
+             NOTE: dehyphenate address to remove spamblock.          <*>
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Steven Rezsutek <rezsutek@doghouse.hq.nasa.gov>
+Subject:  English xlations of Dudon?
+PostedDate:  22-12-97 17:30:48
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  22-12-97 17:28:43-22-12-97 17:28:44,22-12-97 17:28:16-22-12-97 17:28:16
+DeliveredDate:  22-12-97 17:28:16
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256575.005A8072; Mon, 22 Dec 1997 17:30:27 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23782; Mon, 22 Dec 1997 17:30:48 +0100
+Date: Mon, 22 Dec 1997 17:30:48 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA23763
+Received: (qmail 15693 invoked from network); 22 Dec 1997 08:30:44 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 22 Dec 1997 08:30:44 -0800
+Message-Id: <199712221627.LAA20039@doghouse.hq.nasa.gov>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Thu, 15 May 1997 21:48:12 +0200
+
+Subject: Electronic interference with tunings
+
+From: DFinnamore@aol.com
+
+Graham Breed writes:
+
+> On my Wave Blaster, major triads actually sound better
+>  in 31tet than JI.  This  may be because of sample looping (could
+>  someone explain this, please?), phase shifting vibrato or a bug in
+>  my program.
+
+It's hard to say without hearing it myself, but my best guess is that the
+problem is distortion being made more audible by the greater purity of the JI
+chord waveform.  The purer (more nearly periodic) a waveform is, the higher
+quality the reproduction gear must be to handle it without audible artifacts.
+ This is especially true in the digital audio realm, where the problem may be
+related to poor software programming or low-quality Digital-to-Analog
+converters (most likely clock jitter, a complicated and expensive subject).
+ Nevertheless, the problem could be occuring in one of the amplifiers,
+speakers, poor connections between them or any combination thereof.  Any
+non-linearity in the system will cause overtones, some of which may be
+non-harmonic.  The more purely harmonic the source audio is, the more the
+non-harmonic overtones will stand out.
+
+In addition, JI chords tend to be higher amplitude (by both peak and RMS
+measurements) than others because the peaks of the individual note waveforms
+line up periodically and sum together.  Digital or analog distortion could be
+caused this way, or both.  If you can lower the volume of the individual
+notes early enough in the process, particularly within the program itself,
+you may be able to solve the problem.
+
+Sample looping as the problem would be a long shot if all major chords sound
+better with one tuning than another.  I'll send you a personal note on that
+since it leaves the realm of the tuning list a little too much.
+
+David J. Finnamore
+Just tune it!
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 15 May 1997 23:32 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03212; Thu, 15 May 1997 23:32:38 +0200
+Date: Thu, 15 May 1997 23:32:38 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03210
+Received: (qmail 10778 invoked from network); 15 May 1997 21:32:32 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 May 1997 21:32:32 -0000
+Message-Id: <97051521164889/0005695065PK5EM@mcimail.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

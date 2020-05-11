@@ -1,0 +1,61 @@
+source file: mills2.txt
+Date: Mon, 19 May 1997 03:20:35 +0200
+
+Subject: Re: ratios in JI
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+Pieter  Smit <PieterS@liw.denel.co.za> wrote:
+
+>Would the 'natural'  scale then be in the ratios
+> 1,  9/8,  5/4,  11/8,  3/2,   13/8,  7/4,  15/8,   2 
+> for the scale  CDEFGA(B-flat)Bc   ?   Do I get this right?  What would
+>this scale be called, and how would it sound ?
+
+Pieter, I missed your question but saw some other replies.  When you 
+use the word "natural" I have some very definite opionions about this.
+If you go to my WWW pages (URL below) you can get the long version which
+I think you might enjoy given the questions you are thinking about.
+
+While there is some validity to what you have done in your post, it is
+not the complete story.  In practice if you just take frequencies 1, 2,
+3, 4, 5, etc and work out the notes by transposing back to one octave
+then you have assumed that the ratio of 2 (the octave transpose) is more
+important than all other ratios.  That is actually true, but the ratios
+3, 5, 7 etc are successively less important.  Therefore the ratios of 11
+and 13 are rather seldom really found in music and your 11/8 is more
+likely to be 21/16 but is generally really 4/3.
+
+>What would the scale be called 
+> 1, 9/8, 5/4,  4/3,  3/2,  ......., where the fourth is tuned as a
+>perfect fifth below ?  Would this be the JI scale?
+
+Yes.  The JI scale is 1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2.  The next two
+most common notes that can be added to the JI scale are 7/6 and 7/4 for
+Eb* and Bb* if the above scale is C.  I like to express this by
+eliminating the denominator as: 24 27 (28) 30 32 36 40 (42) 45 48.
+
+[* What is the correct notation for this?  Is it Mi-flat and Ti-flat?]
+
+In nature the ratios of 2, 3, 5, 7, 11, 13, ... tend to occur with a
+commonness of about 100, 42, 17, 10, 5, 4, ... so that when we have
+numbers with just one ratio of 5 present we can expect 2 or 3 ratios of
+3 and about 6 ratios of 2 and a ratio of 7 would then have about a 60%
+chance of being present.
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+     http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 19 May 1997 05:13 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05308; Mon, 19 May 1997 05:13:13 +0200
+Date: Mon, 19 May 1997 05:13:13 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05305
+Received: (qmail 17017 invoked from network); 19 May 1997 03:13:09 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 May 1997 03:13:09 -0000
+Message-Id: <970518231103_-2068291672@emout07.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

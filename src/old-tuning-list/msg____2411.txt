@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Fri, 22 Dec 1995 11:21:52 -0800
+
+Subject: K2000 & microtuning
+
+From: james@astro.as.utexas.edu (James McCartney)
+
+I've made a demo of using the K2000 for microtuning. I'll email it to
+anyone interested. You need a Mac, MAX and a K2000 to use this demo.
+Here's part of the README:
+
+I've been using doing microtuning on the K2000 for several years and whenever
+someone posts to the tuning list that the K2000 is unfit for microtuning I try
+and refute it, but no one seems to remember so here's the proof.
+
+The files in this folder demonstrate my method of doing microtuning on the
+K2000. You need a Mac, MAX and a K2000 to use this demo.
+There are two files:
+
+'XJIFILE.KRZ'  -- this is a K2000 file. You need to copy it onto an IBM
+    formatted floppy and load it into the K2000. Select one of the two patches
+    in this bank to be on MIDI channel 1.
+
+'K2000 microtune demo' -- This is a MAX patch which demonstrates generating
+    pitches for the K2000 patches.
+
+
+I use FUN4 on the K2000 set to 'Sample B on A' with A set to 'ON' and B set to
+MIDI controller 20. This samples MIDI controller 20 at a voice's note on and
+holds it for the duration of the note. FUN4 is then used as a pitch modulator
+with a depth of 100 cents for every oscillator in a patch.
+
+
+   --- James McCartney     james@clyde.as.utexas.edu
+If you have a PowerMac check out SuperCollider, a real time synth program:
+ftp://kahless.isca.uiowa.edu/pub/algo-comp/SuperColliderDemo.sea.hqx
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 22 Dec 1995 20:46 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA00010; Fri, 22 Dec 1995 11:46:16 -0800
+Date: Fri, 22 Dec 1995 11:46:16 -0800
+Message-Id: <199512222052.PAA30055@cerberus.Ensoniq.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

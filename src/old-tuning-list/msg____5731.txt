@@ -1,0 +1,60 @@
+source file: mills2.txt
+Date: Wed, 2 Jul 1997 18:53:05 +0200
+
+Subject: RE: Lattice, LCM, and Aliquot Parts
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Marion wrote,
+
+>Another form of invariance, ratio invariance, is important in LCM
+>analysis.  This became clear to me during a discussion I had with
+>Paul E. some time ago.  Thinking back over that, it seems to me
+>that our differences of opinion on the subject of the length of
+>LCM patterns was mostly due to different assumptions about ratio
+>invariance.  I was assuming ratio invariance, he was not.  I'm
+>still not absolutely clear on all this and would appreciate any
+>comments.
+
+I thought we had decided that our "differences of opinion" were simply
+an error on your part. You were claiming that the LCM of a chord was
+proportional to the pattern length of the chord. I pointed out that this
+was only true under certain wild assumptions about the relative register
+of the chords. For example, the major triad (4:5:6) and the minor triad
+(10:12:15) both have an LCM of 60. For both chords, the pattern length
+of the chord as a whole is that of the frequency represented by the
+number 1. So in order to give both chords the same wavelength, you have
+to play the minor triad an octave plus a major third higher than the
+major triad. If you play them in the same register, the wavelength of
+the minor triad is 10/4 2.5 times longer than that of the major triad.
+
+The LCM was used by Euler to classify chords. The only physical
+significance of the LCM is that it is the ratio of the lowest common
+overtone to the highest common fundamental. This fundamental is a note
+whose wavelength is the same as the pattern length of the chord as a
+whole. So your attempt at equating the LCM with pattern length is
+correct in general only if we assume all chords are built below the same
+common overtone. In other words, it assumes that there is some note (say
+2880Hz) which is the lowest common overtone of the notes within each and
+every chord. Needless to say, that is a preposterous assumption (calling
+it "ratio invariance" doesn't help). For example, adding the major third
+to an open fifth increases the LCM from 6 to 60; in this case the
+pattern length increases not by a factor of 10 but only by a factor of
+2, since the lowest common overtone goes up by a factor of 5. Meanwhile,
+adding a minor third to the fifth again increases the LCM from 6 to 60;
+this time the pattern length increases by a factor of 5 and the lowest
+common overtone goes up by a factor of 2.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 2 Jul 1997 20:27 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA27106; Wed, 2 Jul 1997 20:28:01 +0200
+Date: Wed, 2 Jul 1997 20:28:01 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA27101
+Received: (qmail 24388 invoked from network); 2 Jul 1997 18:27:14 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 2 Jul 1997 18:27:14 -0000
+Message-Id: <memo.82798@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

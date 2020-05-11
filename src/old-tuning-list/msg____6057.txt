@@ -1,0 +1,500 @@
+source file: mills3.txt
+Date: Wed, 10 Sep 1997 03:21:57 +0200
+
+Subject: New Scala version
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+Scala version 1.3 for PC is now online, the location is:
+
+ftp://byrd.math.uga.edu/pub/music/dx7/scales/scala.zip
+
+The original location
+ftp://ella.mills.edu/ccm/tuning/software/pc/scala/scala.zip
+has currently still the old version; I depend on Dave Madole to update it.
+
+Scala is a very complete freeware editor/librarian/analysis tool for
+tunings. It allows scales to be created, manipulated and combined in
+many different ways. A large library of scales is available for it. It
+can tune various different synthesizers and samplers via standard
+MIDI-files. To install, unpack scala.zip in an empty directory and
+read the readme file. People who haven't used it can also read the file
+first.txt.
+
+Version 1.3 is an update with about 15% more functionality than 1.2.
+To name some of its many new features:
+
+- With the EXAMPLE command you can now create xenharmonic MIDI files,
+taking another MIDI file as input. Pitch bend commands will be
+inserted using the available MIDI channels for different notes. As
+long as not too many different notes sound at the same time, this
+method works for any tuning. So you can take some MIDI files from the
+net or off some cd-rom, retune them ad libitum and hear them on a
+soundcard or synthesizer. You can also filter out program and
+controller messages. The mapping between note numbers and scale degrees
+is customisable.
+At http://www.prs.net/midi.html are the Classical MIDI Archives.
+I have tried several of John Sankey's Bach files. They are already in a
+well-temperament but can be retuned just the same.
+- The ANSI.SYS screen driver is no longer required so it works fine
+under Win 95 and NT too.
+- The ECHO command can now be used with lexical functions returning
+pitch data to a string in various formats.
+- The new LATTICE/DIAMOND command shows a Partch diamond diagramme.
+- The new BISTEP command makes a least squares fitting of a scale with two
+step sizes to another scale.
+- SHOW COMBINATION shows which combination of intervals from a given
+set form a given interval by addition or subtraction.
+- SET NOTATION allows a choice of different notation systems. For instance
+if 31-tone ET chosen, those note names are given with SHOW SCALE.
+- The new AVERAGE command changes a scale by taking a moving average of
+the pitches.
+- A few other new commands are: SIEVE, RECTANGLE, MORPH, CPS/CORNER,
+ASSUME.
+- More items were added to the SHOW commands, like SHOW DATA and SHOW
+SETTINGS.
+- More mode names were added to the list of modes, now more than 600.
+- More command files were added, a list is in file cmdlist.txt.
+
+There is one backward-incompatible change, the TEMPERAMENT command
+was removed. Instead there is a command file, temper.cmd, which
+does exactly the same. And TEMPERAMENT/VARIED is now PYTHAGOREAN/VARIED.
+
+A large library of scale files of all kinds in Scala format can be
+downloaded from
+ftp://byrd.math.uga.edu/pub/music/dx7/scales/scales.zip (newest version)
+ftp://ella.mills/edu/ccm/tuning/software/scales/scales.zip (not up-to-date)
+
+Thanks to Greg Schiemer for ideas.
+
+Below is the complete list of Scala commands:
+
+Add
+
+Append
+Append/Factor
+Append/Interval
+Append/Interval/Factor
+
+Approximate
+Approximate/Floats_Only
+Approximate/Constrained
+Approximate/Floats_Only/Constrained
+Approximate/Weighted
+Approximate/Weighted/Floats_Only
+Approximate/Weighted/Constrained
+Approximate/Weighted/Floats_Only/Constrained
+
+Assume
+Assume/Combination
+
+Average
+
+Bistep
+Bistep/Match
+Bistep/Unique
+
+Calculate
+Calculate/Leastsquare
+Calculate/Nooutput
+Calculate/Factor
+Calculate/Factor/Nooutput
+
+Catalogue
+Catalogue/Pitch
+
+Cd
+
+Chords
+Chords/Constrained
+
+Clear
+Clear/All
+Clear/Map
+
+Close
+
+Cls
+
+Collapse
+
+Compare/File
+Compare/Memory_Only
+Compare/Save_List
+Compare/File/Super
+Compare/Memory_Only/Superset
+Compare/Save_List/Superset
+Compare/Pitch
+Compare/Pitch/Save_List
+
+Convergents
+Convergents/Cents
+Convergents/Logarithmic
+
+Copy
+Copy/Pitch
+
+Cps
+Cps/Current
+Cps/Expanded
+Cps/Expanded/Current
+Cps/Primes
+Cps/Expanded/Primes
+Cps/Factor
+Cps/Expanded/Factor
+Cps/Corner
+Cps/Corner/Current
+Cps/Corner/Primes
+Cps/Corner/Factor
+
+Delete
+Delete/Equal
+Delete/Greater
+Delete/Smaller
+Delete/Start
+
+Difference
+
+Dir
+Dir/Name_Only
+Dir/Save_List
+Dir/Name_Only/Save_List
+
+Discard
+Discard/Smallest
+
+Divide
+Divide/Allfind
+Divide/Find
+
+Double/Arithmetic
+Double/Geometric
+Double/Harmonic
+Double/Mediant
+Double/Rms
+
+Echo
+
+Egalize
+
+Equaltemp
+Equaltemp/Data
+Equaltemp/Shortdata
+
+Euclid
+
+Eulerfokker
+
+Example
+Example/Midi
+
+Exchange
+
+Exit
+
+Exponentiate
+
+Extend
+Extend/Chord
+
+External
+
+Farey
+Farey/Floats_Only
+
+File
+
+Fit
+Fit/Mode
+
+Flip
+
+Harmonic
+
+Help
+
+Input
+Input/Factor
+Input/Interval
+Input/Interval/Factor
+
+Insert
+Insert/Frequency
+Insert/Interval
+Insert/Largest
+Insert/Nearest
+
+Intersect
+
+Invert
+
+Iterate
+Iterate/Combination
+Iterate/Key
+Iterate/Repeat
+Iterate/Scale
+
+Key
+Key/Egalize
+Key/Match
+
+Lattice
+Lattice/Diamond
+Lattice/Load
+
+Limit
+Limit/Delete
+Limit/Odd
+Limit/Odd/Delete
+
+Load
+Load/All
+Load/Map
+Load/Pitch
+Load/Unformatted
+
+Merge
+
+Mode
+Mode/All_Show
+Mode/Create
+Mode/Factor
+Mode/Show
+
+Morph
+
+Mos
+Mos/All_Show
+Mos/Create
+Mos/Show
+
+Move
+Move/Absolute
+Move/Frequency
+Move/Frequency/Absolute
+Move/Key
+Move/Length
+Move/Length/Absolute
+
+Multiply
+Multiply/Absolute
+
+Normalize
+
+Pause
+
+Permute
+Permute/Egalize
+Permute/Random
+
+Pipedum
+Pipedum/Tetra
+Pipedum/Vertices
+
+Polynomial
+Polynomial/Logarithmic
+Polynomial/Power
+Polynomial/Power/Logarithmic
+Polynomial/Solve
+Polynomial/Solve/Logarithmic
+
+Pop
+Pop/Pitch
+
+Product
+Product/Add
+Product/Power
+
+Project
+
+Push
+Push/Pitch
+
+Pythagorean
+Pythagorean/Varied
+
+Quantize/Round
+Quantize/Truncate
+Quantize/Best
+Quantize/Consistent
+Quantize/Pitch/Round
+Quantize/Pitch/Truncate
+Quantize/Pitch/Best
+Quantize/Pitch/Consistent
+
+Ratio
+Ratio/Constrained
+Ratio/Nooutput
+Ratio/Constrained/Nooutput
+Ratio/Farey
+Ratio/Farey/Nooutput
+Ratio/Super
+Ratio/Super/Nooutput
+
+Rectangle
+
+Reduce
+Reduce/Upper
+
+Remove
+
+Replace
+Replace/Frequency
+Replace/Interval
+Replace/Largest
+Replace/Nearest
+
+Reverse
+
+Sample
+Sample/Random
+
+Save
+Save/Keep_Text
+
+Seed
+
+Select
+Select/Model
+
+Send
+Send/Cps_File
+Send/File
+Send/Hexadecimal
+Send/Screen
+
+Set Attribute
+Set Calc_Output
+Set Controller
+Set Exclude
+Set Explimit
+Set First
+Set Frequency
+Set Harmconst
+Set Index
+Set Int_Steps
+Set Limit
+Set Map_Freq
+Set Maxdiff
+Set Middle
+Set Name
+Set Notation
+Set Onerror
+Set Pause
+Set Program
+Set Reciprocal
+Set Separator
+Set Step_Unit
+Set Synthesizer
+Set Unit
+Set Weighting
+
+Show Bestcycle
+Show Combination
+Show Cycle
+Show/Cents Cycle
+Show/Interval Cycle
+Show/Cents/Interval Cycle
+Show Data
+Show Difference
+Show/Freq Difference
+Show/Nearest Difference
+Show Distance
+Show Explimit
+Show Harmconst
+Show Interval
+Show/Cents Interval
+Show/Line Interval
+Show/Cents/Line Interval
+Show Locations
+Show Map
+Show Pitch
+Show/Cents Pitch
+Show Scale
+Show/Attribute Scale
+Show/Cents Scale
+Show/Freq Scale
+Show/Hertz Scale
+Show/Interval Scale
+Show/Line Scale
+Show/Cents/Interval Scale
+Show/Cents/Line Scale
+Show/Interval/Line Scale
+Show/Oct Scale
+Show Settings
+Show Stringlen
+Show Synthesizer
+Show Transpose
+
+Sieve
+Sieve/Complement
+Sieve/Random
+
+Sort
+Sort/Interval
+
+Spawn
+
+Square
+
+Stretch
+Stretch/Absolute
+
+Subtract
+
+Swap
+Swap/Pitch
+
+Symmetrize/Arithmetic
+Symmetrize/First
+Symmetrize/Geometric
+Symmetrize/Harmonic
+Symmetrize/Insert
+Symmetrize/Mediant
+Symmetrize/Rms
+Symmetrize/Second
+
+Tip
+
+Type
+
+Uncycle
+
+Undo
+
+Unique
+
+Unrat
+
+Vary
+
+Manuel Op de Coul    coul@ezh.nl
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk
+Subject:  Meantone Temperament
+PostedDate:  10-09-97 03:14:16
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-09-97 09:17:25-10-09-97 09:17:26,10-09-97 09:16:51-10-09-97 09:16:51
+DeliveredDate:  10-09-97 09:16:51
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C125650E.0028035E; Wed, 10 Sep 1997 09:17:03 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19105; Wed, 10 Sep 1997 03:14:16 +0200
+Date: Wed, 10 Sep 1997 03:14:16 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA19111
+Received: (qmail 24515 invoked from network); 10 Sep 1997 01:14:03 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Sep 1997 01:14:03 -0000
+Message-Id: <memo.104454@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

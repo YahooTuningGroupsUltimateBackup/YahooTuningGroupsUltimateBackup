@@ -1,0 +1,44 @@
+source file: m1425.txt
+Date: Sat, 23 May 98 20:48:38 +0000
+
+Subject: Synth tuning resolution /Ensoniqs/Yamahas
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+>>So,the MR series resolution is good enough that one might, in all
+>>probability ,never wish for more ?
+>
+>   I'm inclined to guess that there's not a lot of economic incentive for
+>synth manufacturers to supply better than 0.1Hz resolution, but I certainly
+>don't know that for sure of course.
+
+Uh,I think we got our lines crossed again.What I should have said is :
+Is the res. of the MR series "good enough" for all practical purposes in 
+actual use ? 
+Thing is, nice ( & cheap) as software synths are,they don't offer 
+much/any instant gratification,and 
+the tedium and length of time it would take to put together an hour of 
+decent music on those things is indecent,so I'm looking around.
+
+I've been reading through the discussion on Ensoniqs that was going on  
+here recently,and I don't
+quite get something : You said that  the MR and ASR-X can hold only one 
+"global" tuning,does this mean that it can only use one tuning at a time 
+on all MIDI channels ? The brochure for the MRs
+sates " 1 RAM location for receiving a Pitch Table..." ,I thought this 
+meant that each MIDI channel/
+"instrument' could have a different tuning.Also,Is there any way to 
+switch tunings on an individual channel during performance,perhaps via 
+real-time sys-ex ?
+
+
+I've been crunching some numbers,and it looks as though Yamahas like the 
+FB-01,TX-81Z,etc. can get to within 0.1 to 0.2 Hz of pure just intervals 
+(the TX-802 seems even better at mostly within 0.1Hz). Can anyone confirm 
+? Also,would this resolution be good enough for "educational" purposes ?
+
+
+-Drew
+
+"Oh you wouldn't know them Darling, they're respectable."
+Myrna Loy in 'After the Thin Man'

@@ -1,0 +1,36 @@
+source file: m1501.txt
+Date: Tue, 11 Aug 1998 15:54:45 -0400
+
+Subject: Johnny Reinhard's Harmonic-17 tuning: suggested changes
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Sorry for unintentionally repeating Paul Hahn's point about 34/20
+reducing to 17/10. As for notes that scream to be included, Manuel's
+diagram contains holes at 17/12, 17/9, and 30/17, so these would make
+nice additions. The diagram also suggests the omission of 19/17, 34/31,
+and 31/17, which are outside the 17-limit. The resulting scale would
+still have 17 (!) notes:
+
+ratio	cents
+1/1	0
+18/17	99
+17/16	105
+17/15	217
+20/17	281
+17/14	336
+22/17	446
+17/13	464
+24/17	597
+17/12	603
+26/17	736
+17/11	754
+28/17	864
+17/10	919
+30/17	983
+32/17	1095
+17/9	1101
+
+As a result of these changes, the 3:2s (& 4:3s) would increase in number
+from three to six: 17/12:17/16, 17/9:17/12, 17/15:17/10, 24/17:32/17,
+18/17:24/17, and 30/17:20/17.

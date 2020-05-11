@@ -1,0 +1,78 @@
+source file: mills2.txt
+Date: Thu, 27 Mar 1997 13:59:12 -0800
+
+Subject: RE: Rowell article (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com> to John Clough
+
+John,
+
+For a simpler example, take the definition of 2nd-order maximal evenness 
+with respect to the series 12->7->3. By your definition, diminished triads 
+are 2nd-order-ME as well as major and minor triads. This is because, after 
+deriving the diatonic scale as the 7-deg ME scale in 12-tet (which is 
+historically fallacious, but never mind for now) you pretend that the 7 
+scale degrees are actually 7-tet when determining the 3-deg ME scale. Then 
+you remember the actual 12-tet positions of the 7-tet scale, and using them 
+you translate the 3-deg scale back to 12-tet. In my definition, one keeps 
+the 7 scale degrees always in 12-tet, even when determining the closest 
+approximation to 3-tet. Then only major and minor triads are obtained.
+
+In case that wasn't clear, imagine a clock. First you take a disk with seven 
+equidistant arrows pointing away from the center. No matter how you rotate 
+this disk, the numbers on the clock face that come closest to the arrows 
+form a diatonic scale. That's just 1st order maximal evenness. Now, on the 
+SAME clock, put a disk with three equidistant arrows. No matter how you 
+rotate it, the diatonic numbers derived previously that come closest to the 
+three arrows will form either a major or a minor triad. (If two arrows each 
+fall exactly between two notes, which happens with probability zero if you 
+"spin" the disk randomly, and you decide to round one arrow clockwise and 
+the other counterclockwise, you can get either a diminished or a suspended 
+triad. But such cases should be disallowed, or else you can conjure up some 
+funny results of 1st-order ME, such as a 12-out-of-22 scale with intervals 
+1-2-2-2-2-1-2-2-2-2-2-2, which I'm sure you'd disallow as well, although 
+there are other reasons for liking this scale!).
+
+Your procedure requires two clocks, one with 12 hours and one with 7 hours. 
+You put the 7-arrow disk on the 12-hour clock, the 3-arrow disk on the 
+7-hour clock, and then translate from one clock to the other. So your 
+procedure requires more construction and more abstraction (the translation 
+process) than mine.
+
+Anyway, stepping up to 22->12->7, you'll see that my definition does not 
+require the additional rule that there be only one tritone, which apparently 
+you derived from Jay Rahn (what possible justification is there for this 
+rule?), in order to isolate the four gramas.
+
+I view this as little more than a curiosity since, if you buy this theory as 
+an explanation, you still have to explain where the three numbers 22, 12, 
+and 7 come from. But I thought this would be interesting to you.
+
+I have a paper on 22-tone equal temperament in the upcoming Xenharmonikon. I 
+have two new scales (one ME, one not) that have more of the important 
+properties of the diatonic scale than any other scale ever invented, save 
+perhaps the pentatonic scale. A 7-limit (tetratic) TONAL system is the goal 
+and this goal is attained. I also discuss plausible derivations of the 
+22-tone quantification of the Indian system. Finally, I propose an unequal 
+22-tone tuning in which several transpositions of my new scales as well as 
+well-tuned (close to JI) Indian scales are available. I'm having my guitar 
+refretted to 22-equal . . .
+
+I look forward to hearing from you.
+
+ -Paul E.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 27 Mar 1997 23:04 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19907; Thu, 27 Mar 1997 23:04:15 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA19903
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id OAA08326; Thu, 27 Mar 1997 14:02:38 -0800
+Date: Thu, 27 Mar 1997 14:02:38 -0800
+Message-Id: <009B1E8ACE1DCBED.8F69@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

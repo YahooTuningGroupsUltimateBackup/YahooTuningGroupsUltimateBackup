@@ -1,0 +1,67 @@
+source file: mills2.txt
+Date: Wed, 24 Jan 1996 06:24:56 -0800
+
+Subject: Re: Manuel Op de Coul's List
+
+From: brg@netcom.com (Bruce R. Gilson)
+
+COUL@ezh.nl (Manuel Op de Coul) wrote:
+ 
+>
+>Bruce R. Gilson writes:
+>
+>> The notation seemed to imply it. When
+>> you give only a "number of steps in an
+>> octave" and the number of steps between
+>> consecutive notes in the scale [as
+>> 2 2 1 2 2 2 1 for a standard major
+>> scale] you have something well-defined
+>> only in ET.
+>
+>I wasn't aiming at them to be watertight definitions of scales. 
+
+Sorry. I took them as such, as that
+was what I really wanted.
+
+
+>Otherwise I could have listed them as such. To stay with your example,
+>you can have a major scale in many different tunings.
+
+Certainly.
+
+In fact, I suppose, what I'm looking
+for, which might be too much for a post
+on a list such as this, is an "ency-
+clopedia of scales," that I could
+pick from, program my computer to play
+(or set any sufficiently variable-
+pitch instrument to play), and thus
+hear it.
+
+>The utility of this notation is that it allows me to use it in
+>combination with a computer program and for instance 
+>
+>- have a mode-fitting algorithm operate on a given scale and look
+>if it's similar to a mode (of equal temperament) in the list,
+
+This is a nice idea. I'd be interested
+in the sort of algorithm you use. It
+will somewhat depend on how similar
+"similar" is, of course.
+
+
+                         Bruce R. Gilson
+                         brg@netcom.com
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 24 Jan 1996 16:56 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA14624; Wed, 24 Jan 1996 07:56:34 -0800
+Date: Wed, 24 Jan 1996 07:56:34 -0800
+Message-Id: <0099CE052D632154.85A3@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

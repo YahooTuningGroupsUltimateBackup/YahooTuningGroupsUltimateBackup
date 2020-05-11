@@ -1,0 +1,304 @@
+source file: mills2.txt
+Date: Sat, 5 Oct 1996 11:27:12 -0700
+
+Subject: Re: Guide to non-tempered synthesizers?
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+Here's a forward of an earlier evaluation from Brian McLaren.  I suppose it's
+worth pointing out though, that many people took exception to some of his
+evaluations.  But as I recall, most of those were a result of misunderstanding
+his premise, which if memory serves, he did in fact clearly state at the
+beginning.  That premise was that he was speaking of 100%, completely,
+unlimitedly retunable instruments, meaning that each key may be tuned to any
+pitch whatsoever, without any regard whatsoever to how any other key is tuned.
+
+   Most of the objections I recall were things like, "that's not true;  my ___
+allows retunability", but when you look into it more closely, it has a
+limitation like the tables having to be 12-tone, or have to repeat in octaves.
+
+
+-----------------------------------------------------------------------------
+
+One of the few disadvantages of a thread as
+active as this tuning forum is the fact that
+many new subscribers are constantly coming
+on line and asking questions answered
+in posts 6 or 10 months back.
+There seems to be continuing confusion about
+which synths are microtonal & which aren't.  Also
+about which manufacturers support non-12, and
+to what extent.
+Here's a recap:
+-------------------------------------------------
+First, the manufacturers.  Yamaha, Waldorf, E-Mu
+(in its line of stand-alone sound modules) and Ensoniq are
+firmly dedicated to supporting microtonality on their
+synths.  
+Akai, Peavey , Roland and Kawai, on the other hand, are 
+implacably hostile to microtonality.  These companies 
+have never manufactured a synth that can be detuned.  
+They'd be delighted if everyone on this tuning forum
+died of Ebola virus.  These companies are ruthlessly
+dedicated to preventing anyone, anywhere from breaking
+out of the twelve-tone equal tempered scale.
+Oberheim, Kurzweil and Korg are sitting on the fence. Some of
+their synths support non-12, some don't.  Kurzweil and
+Korg both build synths that allow all 12 notes per octave
+to be retuned--but ONLY 12 notes at a time, and ONLY
+within the octave.
+----------------------------------------------------
+The companies can be broken down into:
+GOOD GUYS               BAD GUYS                FENCE-SITTERS
+Yamaha          Kawai           Oberheim
+Ensoniq         Akai                    Korg
+Waldorf         Peavey          Kurzweil
+E-Mu                    Alesis
+                        Roland
+
+This is important to those of you who want to compose 
+non-12 music.  If you buy the wrong synth, you're stuck.
+And I mean *stuck.* There's just no way to get out of 12
+without adding a pitch-bend to each and every note--a
+process of which you will tire very VERY quickly.
+Pitch bends also destroy the attack of percussive timbres.
+This is *not* subtle.  A piece composed by a member of
+this forum using pitch-bends for retuning has prompted
+the question from everyone who's heard it: "What's wrong
+with the weird sliding attacks on those notes?"
+Plus pich-bends clog MIDI's datastream, especially in fast music.
+If you're thinking of composing in non-12, best to pick
+up a synth by Yamaha, Ensoniq, Waldorf, Oberheim or E-Mu.
+Avoid synths by Peavey, Akai, Kawai, Alesis, Roland or Korg.
+-----------------------------------------------------
+Second:
+A lot of people are confused about what "retunable" means.
+By retunable, I mean that any key on the synth can be tuned
+to any pitch desired.  So middle C can sound A0, 27.5 Hz, or
+it can sound A8.  The keyboard can be turned upside-down, 
+tuned to a just scale, an equal-tempered scale, a non-just
+non-equal-tempered scale, a non-octave scale, or anything
+at all.
+Any other synth is *not* retunable.  It may allow you to
+tweak a few notes, or mess with pitch-bend, but sooner
+or later you'll get frustrated.  Sooner or later a synth
+without full keyboard retuning will *PREVENT* you from
+producing the pitches you want to hear.
+Only a few synths are retunable.  They have what are called
+pitch tables.  A pitch table is a set of 128 memory locations
+that contain the note number and a pitch.  By setting each of
+the 128 internal memory locations to any pitch, you can get
+any tuning desired.
+Tuning accuracy is usually not nearly as important as full-
+keyboard retunability.  Very few people will notice the 
+difference between a tuning resolution of 768 parts per 
+octave and a resolution of 1024 parts per octave... But 
+everyone with ears instantly hears the difference between a
+synth which only allows 12 notes of 19 and a synth that
+allows ALL 19 NOTES of 19. 
+A few synths even allow more than 1 tuning table.  The
+advantage of these  is that they permit just intonation
+composers to modulate quickly and easily between 
+different just arrays.  If you're a JI composer, this is no
+trivial matter!  In fact it may well prove the most
+important decision you make when choosing a synth
+to compose with.
+So JI fans,  pay special attention to the section
+marked MULTIPLE TUNING TABLES below.
+------------------------------------------------
+Here in detail are the models (by manufacturer) :
+
+ENSONIQ
+Mirage - Full keyboard, 256 parts per octave or
+            4096/octave by entering all 60 notes
+            Requires Dick Lord's UPWARD CONCEPTS
+            alternative operating system disk or
+            Buzz Kimball's alternative OS disk.
+ESQ-1, ESQ-M, SQ-80 - Only retunable within 12 notes
+            per octave. Details published in a 1986 
+            KEYBOARD magazine article.
+VFX, VFX- SQ, TS-10 -  Full keyboard, 768 parts per octave.
+EPS, EPS-16+, ASR-10 - Full keyboard, 768 parts
+            per octave.  Tuning is stored on disk along 
+            with the sound sample.
+SQ-1, SQ-1R - NOT RETUNABLE!
+Also, none of Ensoniq's dedicated piano modules are
+retunable.
+
+KURZWEIL
+Only one of their modules or synths built before the
+company was sold to Young Chang is retunable.
+K-150, K-1000  - Only within 12 notes per octave.
+K-2000, K-2000S - Only within 12 notes per octave
+
+ROLAND
+None of this company's synths can be retuned in
+any way, shape or form
+
+ALESIS
+Quadrasynth - NOT RETUNABLE!
+
+YAMAHA
+FB-01   - Retunable ONLY by sending each note-on
+             as a sys-ex message.  Only Larry
+             Polansky's HMSL currently supports
+             retuning on this synth.  The advantage,
+             however, is that (unlike any other synth
+               on this list) you get a FULL 10 OCTAVES
+             of notes in any scale you want, 768/oct
+             resolution.
+TX81Z, DX11  -  Full keyboard retuning, 768/oct.
+DX7 with E!  - Full keyboard retuning, 1024/oct.
+TX7 - NOT RETUNABLE!
+TX816 - NOT RETUNABLE!
+DX7II, TX802 - Full keyboard retuning, 1024 /oct
+SY-22, TG-55 - NOT RETUNABLE!
+TG-77, SY-77, SY-99 - Full keyboard retuning, 1024/oct.
+>>>>> IMPORTANT!  No Yamaha sampler can be retuned. <<<<< 
+VL-1, VL-1M - Full keyboard retuning, 1024/oct.
+
+OBERHEIM
+Their latest (1993) rack-mount synth apparently allows
++ and - 50 cents retunability for each of the
+12 notes in the octave.  No more than 12 retuned
+notes per octave are allowed.  
+
+E-MU
+Proteus I, Proteus XL - Full keyboard retuning, 768/oct.
+Ultraproteus -- full retuning, 768/oct. 
+Proteus II, Proteus IIXL - Full keyboard retuning, 768/oct.
+Proteus III World - Full keyboard retuning, 768/oct.
+Proteus FX - Full keyboard retuning, 768/oct
+Proteus Classic Keys - Full keyboard retuning, 768/oct.
+Morpheus - Full keyboard retuning, 768/oct
+Proformance, Proformance Plus - NOT RETUNABLE!
+Emax, Emax II, ESi, Emulator II, Emulator III - NOT RETUNABLE!
+No E-Mu samplers can be retuned without "tricking"
+the operating system by detuning each note and 
+storing it as a separate sample, etc.  (At best the
+results from detuning E-Mu and Yamaha and Akai
+and Kawai samplers are poor and it gobbles RAM
+like you wouldn't believe.)
+
+KORG
+T-1, T-2, T3 - Retunable only  within12 notes per octave
+Wavestation - Retunable only within 12 notes per octave
+O1/W, O1/W Pro - Retunable only 12 notes per octave
+X20, X30, X50 - NOT RETUNABLE!
+X5, i4, i4S - Retunable only within 12 notes per octave
+
+KAWAI
+None of this company's synths can be retuned in any
+way, shape or form.
+
+AKAI
+None of this company's synths can be retuned in any
+way, shape or form.
+
+WALDORF
+MicroWave - Full keyboard retuning, 768/oct.
+Wave          - Full keyboard retuning, 768/oct.
+
+PEAVEY
+None of this company's synths can be retuned in
+any way, shape or form.
+------------------------------------------
+MULTIPLE TUNING TABLES:
+
+COMPANY SYNTH           # OF TUNING TABLES
+Yamaha  TX802           8
+Ensoniq VFX, TS-10      12
+Ensoniq EPS, EPS-16+,
+                ASR-10          8
+Ensoniq ESQ1, ESQ-M,
+                SQ-80           8 (only  within
+                                12 notes per octave)
+This means that the TX802 can support up to
+8 different full-keyboard tunings at once;
+likewise the VFX & TS-10 can support up to
+12 different full-keyboard tunings at once, etc.
+The ESQ-1, ESQ-M and SQ-80 are special cases.
+These synths don't have tuning tables; you retune
+by using the MOD operators in each voice to
+modulate notes/octave.  It works, but it's
+a godawful kludge.
+One addendum to the above table: observant
+readers will have noticed that the info for
+Ensoniq samplers is not quite accurate.  Since
+a tuning is stored with the layer to which a
+sample is assigned, and since Ensoniq samplers
+can use up to 8 different layers within each
+channel, there is a theoretical maximum of
+64 different tuning tables possible on an
+Ensoniq EPS, EPS-16+, or ASR-10.  In practice
+memory runs out long before the 64-layer
+limit is reached, however.
+-------------------------------------
+Third (and last):
+Here's a very quick overview:
+
+ONLY 1 COMPANY MAKES A FULL-KEYBOARD
+RETUNABLE SAMPLER: ENSONIQ
+If you want to compose or perform using
+a sampler in non-12, you have ONLY 3 CHOICES:
+The ASR-10, a used EPS-16+ or a used EPS.  NO
+OTHER SAMPLER ON THE PLANET HAS A
+TUNING TABLE!
+
+>>>>>> IMPORTANT!  IMPORTANT! <<<<<<<
+The only synths recommended for
+those who want to compose or perform
+in non-12 are:
+
+Yamaha DX7 w/E!, DX7II, TX802, TG-77,
+TX81Z, FB-01, SY-77, SY-99, VL-1, VL-1M
+Ensoniq  VFX, VFX-SQ, TS-10
+Waldorf  MicroWave, Wave
+E-MU   Proteus I, Proteus II, Proteus III,
+        Morpheus, Classic Keys, Proteus FX,
+          Ultraproteus
+
+Time and time again, I've seen people
+buy a synth *not* on this list.  Time and time
+again, they get interested in microtonality...
+and discover their synth is *locked into 12*,
+or locked into only 12 notes out 19, or 12
+notes out of 31, or 12 harmonic series pitches,
+or 12 notes out of Harry Partch's 43...
+The frustration and rage and hair-pulling
+frenzy  this produces cannot be adequately
+described.  It's unbelievably maddening to
+discover that your shiny new $3000 synth
+*CANNOT* produce the pitches you want to
+hear.
+So those interested in composition or performance
+in non-12 would do well to choose wisely (as
+the knight in "Indiana Jones and the Quest for
+the Holy Grail" put it) and pick one of the
+synths on the RECOMMENDED list.  Otherwise,
+dollars to doughnuts, you are going to let
+yourself in for a whole *world* of frustration.
+
+IMPORTANT: IF YOU LIKE A PARTICULAR SYNTH
+BUT ARE BUGGED THAT THE MANUFACTURER
+DOESN'T OFFER RETUNABILITY, WRITE A LETTER
+TO THE MANUFACTURER.  ENOUGH LETTERS AND
+THEY WILL GET THE MESSAGE!
+--mclaren
+
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 5 Oct 1996 21:15 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14890; Sat, 5 Oct 1996 20:16:51 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA14850
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA17469; Sat, 5 Oct 1996 12:16:49 -0700
+Date: Sat, 5 Oct 1996 12:16:49 -0700
+Message-Id: <199610051514_MC1-A0F-5034@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

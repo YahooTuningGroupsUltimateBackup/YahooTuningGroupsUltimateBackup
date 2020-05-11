@@ -1,0 +1,97 @@
+source file: mills3.txt
+Date: Sat, 1 Nov 1997 11:21:48 +0100
+
+Subject: Paul's postings
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+It is interesting that in a recent posting, Paul Erlich seems to admit th=
+e
+role of conditioning in interval preference. I think that this and a
+broader contextual base are necessary elements in a useful theory. (By a
+''broader contextual base'', I mean to include alternative musical contex=
+ts
+and in particular those that allow for longer listening periods. Clearly,=
+ a
+classical _Presto_ is going to allow for shorter sampling periods than a
+music with a 24-hour drone. In the latter case, a difference of a fractio=
+n
+of a cent may become vivid.)
+
+Regarding the spectra of real string instruments: I tried a small
+experiment with my Javanese rebab, an e-bow, a band-pass filter and a
+frequency counter. Driving each brass string with the e-bow so as to redu=
+ce
+deviations caused by bowing, I then isolated individual partials, and
+measured so as to compare with integer multiple frequencies. I found
+deviations as follows: octave: +4cents, -5 cents; twelfth: +5cents, +4
+cents, double octave: -3cents, +8cents.
+
+I suspect that what is going on is the following: the wire would like to
+vibrate in exact integer multiples, but the composition of the wire is
+uneven enough that the nodal points are shifted a bit and the actual
+frequency of the partial heard reflects the actual length of the part of
+the string closest to the bridge. =
+
+
+I suspect that the deviation in gut strings would be larger due to greate=
+r
+inconsistancies in the materials, but that using a real bow will tend to
+obviate these deviations, in a chorus-like effect.
+
+Incidentally, Paul's earlier claim that flageolet tones would be sharp du=
+e
+to stretching the string cannot be born out. In a recording session this
+year at Hessischer Rundfuk, we had great problems with the flageolets on
+the cellist's G string. They sounded all wrong, so I asked the Tonmeister=
+
+to measure them. Some were sharp, but most were too low! The cellist put =
+on
+a new string and everything improved to an acceptable level. I thought th=
+at
+the string removed must have been very old. I later asked the cellist and=
+
+he said that, no, in fact it had been put on only the day before.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  DMB5561719@aol.com
+Subject:  Dream House
+PostedDate:  02-11-97 01:10:27
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  03-11-97 19:21:42-03-11-97 19:21:42,03-11-97 18:22:07-03-11-97 18:22:08
+DeliveredDate:  03-11-97 18:22:08
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256544.0064DC82; Mon, 3 Nov 1997 19:21:40 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01279; Mon, 3 Nov 1997 19:22:51 +0100
+Received: from ns.NL.net by ns (smtpxd); id XA01277
+Received: by ns.NL.net (5.65b/NLnet1.3)
+	id AA18929; Mon, 3 Nov 1997 12:07:36 +0100
+Received: from contura.NL.net by ns.NL.net (5.65b/NLnet1.3)
+	id AA08545; Sun, 2 Nov 1997 11:36:16 +0100
+Received: from ns.NL.net (ns.NL.net [193.78.240.1])
+	by contura.NL.net (8.8.7/8.8.7) with SMTP id LAA19956
+	for <manuel.op.de.coul@ezh.nl>; Sun, 2 Nov 1997 11:36:10 +0100 (CET)
+Received: from contura.NL.net by ns.NL.net (5.65b/NLnet1.3)
+	id AA07968; Sun, 2 Nov 1997 11:32:50 +0100
+Received: from ns.NL.net (ns.NL.net [193.78.240.1])
+	by contura.NL.net (8.8.7/8.8.7) with SMTP id LAA19099
+	for <manuel.op.de.coul@ezh.nl>; Sun, 2 Nov 1997 11:31:29 +0100 (CET)
+Received: from ella.mills.edu by ns.NL.net (5.65b/NLnet1.3)
+	id AA02003; Sun, 2 Nov 1997 01:10:27 +0100
+Date: Sun, 2 Nov 1997 01:10:27 +0100
+Received: (qmail 7709 invoked from network); 1 Nov 1997 16:09:19 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Nov 1997 16:09:19 -0800
+Message-Id: <971101190706_715741407@emout06.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

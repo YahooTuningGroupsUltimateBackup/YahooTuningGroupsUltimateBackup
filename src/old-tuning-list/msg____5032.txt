@@ -1,0 +1,24 @@
+source file: mills2.txt
+Date: Sun, 9 Mar 1997 23:14:52 -0800
+
+Subject: pitch bend units?
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Are MIDI pitch bend units for soundcards standardized? If so, what is the
+value, if not, what is the Soundblaster value?
+
+Thanks! 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 10 Mar 1997 11:40 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10894; Mon, 10 Mar 1997 11:40:14 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA10965
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id CAA04968; Mon, 10 Mar 1997 02:38:47 -0800
+Date: Mon, 10 Mar 1997 02:38:47 -0800
+Message-Id: <009B10CFC1888FA2.6236@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

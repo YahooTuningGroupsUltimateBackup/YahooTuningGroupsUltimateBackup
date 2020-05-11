@@ -1,0 +1,36 @@
+source file: mills2.txt
+Date: Fri, 8 Dec 1995 23:13:18 -0800
+
+Subject: JI Calc 4.21
+
+From: Carter Scholz <csz@well.com>
+
+To address a couple of recent messages about JI Calc:
+
+-- The Stanford CA address Allen Strange gives for Robert Rich may
+still work, but a more recent address is:
+Soundscape Productions, 1071 Main Street #1, Cambria CA 93428.
+
+-- There is a report (from Henry Rosenthal) that JIC's Mac local sound
+doesn't work on recent Macs (System 7.5/ PowerMacs).  This is probably
+due to Apple finally using the Sound Manager properly for audio
+calls.  JI Calc writes directly to hardware that is probably absent
+in newer Macs.  There are no plans to fix this, I regret to say.
+
+-- Some minor bug fixes have been newly incorporated into version 4.21.
+This is at: ftp://mills.edu/ccm/tuning/software/mac/jicalc421.sea.hqx.
+Thanks to Steve Curtin for spotting the problems.
+
+Carter Scholz  csz@well.com
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 10 Dec 1995 14:45 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA06733; Sun, 10 Dec 1995 05:45:30 -0800
+Date: Sun, 10 Dec 1995 05:45:30 -0800
+Message-Id: <Pine.3.89.9512100854.A22327-0100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

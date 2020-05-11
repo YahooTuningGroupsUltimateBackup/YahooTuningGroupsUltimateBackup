@@ -1,0 +1,269 @@
+source file: m1577.txt
+Date: Mon, 9 Nov 1998 21:03:19 -0800 (PST)
+
+Subject: Re: Vicentino 24 tuning for two keyboards
+
+From: "M. Schulter" <mschulter@value.net>
+
+Nicola Vicentino (1511-1576) is a figure of great interest to
+xenharmonicists, and in this post I'd like to focus especially on one
+approach to putting his theory of the _archicembalo_ and _archiorgano_
+into practice on 20th-century microtunable synthesizers.
+
+
+----------------------
+1. Practice and theory
+----------------------
+
+Like the sophisticated Gothic theorists of the era 1200-1435 or so who
+adapted Pythagorean traditions to complex techniques of polyphony,
+Vicentino sought to adapt the traditions of Ptolemy and Aristoxenos to
+the requirements of 16th-century polyphony. Also, like some of his
+Gothic counterparts (e.g. Prosdocimus, 1413), he found that 12 notes
+per octave were not enough.
+
+Recognizing a keyboard temperament of 1/4-comma meantone with its pure
+major thirds, or some approximation, as established "modern" practice,
+Vicentino in fact defines the prevalent contemporary style as "mixed
+and tempered music." Building on the usual 12-note meantone scale, and
+seeking to implement the Greek diatonic, chromatic, and enharmonic
+genera on an _archicembalo_ or "superharpsichord" as we might now say,
+he proposes an instrument with 36 or 38 notes per octave.
+
+For this instrument he proposes two alternate tunings, one of them
+providing a complete system of all three genera which seems
+essentially the same as 31-tone equal temperament (31-tet), plus
+either five or seven extra notes supplying pure fifths for some or all
+of the basic diatonic notes.
+
+The second tuning ideally uses 38 notes per octave: 19 notes to
+implement the diatonic and chromatic genera, and another 19 to provide
+pure fifths for these notes. Thus either system, while premised on
+1/4-comma meantone or 31-tet with its somewhat narrow or "blunted"
+fifths, can provide just fifths (and minor thirds) for at least some
+commonly used sonorities which Zarlino (1558) describes as the
+_harmonia perfetta_ of third and fifth above the bass, and Lippius
+(1612) calls the _trias harmonica_ or "triad."
+
+Bill Alves has done a fine article on Vicentino's modified just
+intonation system for extended keyboards.[1] Additionally, a complete
+English edition of his famous treatise of 1555 by Maria Rika Maniates
+and Claude Palisca has now been published.[2] These sources may lend
+some perspective to what follows.
+
+
+-------------------------
+2. Vicentino 24: a subset
+-------------------------
+
+At the end of the 20th century, one approach to a partial
+implementation of Vicentino's system is to use two standard 12-note
+keyboards, yielding a 24-note subset of his archicembalo tunings.
+
+As it happens, his two alternative tunings for 36 notes seem to share
+24 notes in common: the 19 diatonic and chromatic notes of 1/4-comma
+meantone from Gb to B#; and five additional notes providing pure
+rather than usual meantone fifths above G, A, C, D, and E. These five
+notes are finals of the five natural modes most commonly used in
+Renaissance music (D Dorian, E Phrygian, G Mixolydian, A Aeolian, and
+C Ionian). Thus the availability of the just fifths D, E, G, A, and B
+makes possible a pure _harmonia perfetta_ on the finals of these
+modes, or as Lippius might say, a pure triad.
+
+With Vicentino's instrument, the first 19 notes are arranged into
+three "ranks." The first two ranks are equivalent to the white and
+black keys of a usual 12-note meantone keyboard, while the third rank
+supplies seven additional accidentals:
+
+Rank 3: b#  db   d#     e#  gb    ab   a#     b#   
+Rank 2:    c#      eb      f#    g#     bb
+Rank 1:  c     d     e   f     g     a     b   c
+
+The additional five notes providing pure fifths to c, d, e, g, and a
+might be notated g5, a5, b5, d5, and e5. These notes apparently make
+up the "sixth rank" of Vicentino's first tuning[3] (where the fourth
+and fifth ranks provide the notes of the enharmonic genus, comprising
+with the first three ranks a 31-note set essentially equivalent to
+31-tet).
+
+Thus our "Vicentino 24" subset looks like this:
+
+Rank 6:  c5    d5    e5        g5    a5    b5  c5  
+Rank 3: b#  db   d#     e#  gb    ab   a#     b#   
+Rank 2:    c#      eb      f#    g#     bb
+Rank 1:  c     d     e   f     g     a     b   c
+
+The tones of Rank 6 (e.g. c5) are higher than their equivalents in
+Rank 1 (e.g. c) by about 5.38 cents, the amount by which the fifth is
+tempered in 1/4-comma meantone to obtain pure major thirds. This
+difference is one of the senses in which Vicentino uses the term
+"comma," a term with other interpretations to make life a bit more
+interesting (and complicated) for modern readers and analysts.
+
+
+----------------------------------
+3. Implementation on two keyboards
+----------------------------------
+
+The "Vicentino 24" tuning which follows might be implemented either on
+an acoustical instrument with two manuals (e.g. a harpsichord), or on
+a synthesizer system of some kind supporting independent tunings for
+two keyboards. Each keyboard might be supported by its own
+synthesizer, or a multitimbral synthesizer such as the Yamaha TX-802
+might support both keyboards through its "part-tuning" feature.
+
+While 31-tet is the ideal tuning for Vicentino's complete scheme,
+since it permits a closed system with the equal fivefold division of
+the whole-tone he describes, 1/4-comma meantone should give
+essentially the same results with our Vicentino 24 subset.
+
+Generating the first 19 notes of this subset, corresponding to
+Vicentino's first three ranks, can be accomplished on synthesizers
+such as the TX-802 by selecting two transpositions of 1/4-comma
+meantone (Yamaha's "MeanTone" preset). The first keyboard, in a
+standard Eb-G# tuning with a "Wolf" fourth or fifth between these
+notes, represents the 12 notes of his first two ranks, the seven
+diatonic notes plus the five usual accidentals (c#, eb, f#, g#, bb).
+
+The second keyboard, in a G-B# tuning, adds the seven accidentals of
+the third rank -- five of these accidentals mapped to the black keys  
+(db, d#, gb, ab, a#), plus e# and b# on the usual f and c keys.
+
+On the TX-802, for example, the first Eb-G# keyboard would be selected
+on the front panel as "MeanTone" with Yamaha's "key of C" specified;
+the second G-B# keyboard is Yamaha's "key of E." A more general hint
+for the TX-802's preset Pythagorean and meantone tunings: take the
+Yamaha "key" and add an ascending minor third to find the lower note
+of the Wolf fourth. Thus "key of F" means a Wolf at Ab-C#, and "key of
+G" a Wolf at Bb-D#, etc.
+
+While simply selecting these two preset 1/4-comma meantone
+temperaments supplies 19 notes of our Vicentino 24 subset, we need to
+custom-tune the remaining five notes of the second keyboard to get our
+desired pure fifths. With synthesizer keyboards, the best approach
+might be to tune these notes (c5', e5', g5', a5', b5') to the nearest
+approximation of a perfect fifth above f, a, c', d', and e' on the
+lower keyboard. This would call for intervals of 599 tuning steps on a
+1024-tet synthesizer, 449 steps in 768-tet, etc.[4]
+
+Here is a diagram showing the notes on the two keyboards in cents,
+with c' as the point of reference:
+
+      117.1   269.21             620.53    813.69    965.78
+       db'      d#'                gb'       ab'       a#'
+ b#        d5'       e5'    e#'        g5'        a5'       b5'  b#'
+ -41.06   198.53    391.69 462.36     701.96     895.11  1088.27 1158.94
+ 
+Keyboard 2: G-B#, 1/4-comma (Yamaha "key of E") with modified "5" notes
+Keyboard 1: Eb-G#, 1/4-comma (Yamaha "key of C")
+
+     76.04     310.26          579.47     772.63     1006.84  
+      c#'        eb'             f#'        g#'         bb'
+ _76.0|117.1_117.1|76.0_     _76.0|117.1_76.0|117.1_117.1|76.0_    
+ c'         d'         e'    f'         g'         a'         b'   c''
+ 0        193.16    386.31 503.42    696.58      889.74   1082.89 1200
+    193.16     193.16   117.11   193.16    193.16    193.16   117.11 
+
+It may be noted that in this 1/4-comma meantone implementation (with
+five notes modified to provide pure fifths), accidental pairs such as
+c#/db and d#/eb are a lesser diesis (128:125 or about 41.06 cents)
+apart. In Vicentino's ideal scheme with five equal dieses to a
+whole-tone, these accidentals would be separated by 1/5-tone, or half
+of his minor semitone of 2/5-tone -- a "diesis" equal to one step in
+31-tet, or about 38.71 cents.
+
+
+--------------------------
+4. Concluding observations
+--------------------------
+
+While Vicentino's full 31-tet system is required to obtain all of his
+genera and intervals, even a 19-note or 24-note implementation can
+reveal some interesting possibilities. For example, between db and e#
+on the second keyboard (Vicentino's third rank), we find an interval
+of about 345.25 cents in 1/4-comma tuning -- or 348.39 cents in
+31-tet (9/31 octave).
+
+Vicentino himself describes this interval as having an effect
+somewhere between a minor and a major third, and states its
+"irrational ratio" as approximately 5 1/2:4 1/2 -- or, converting to
+an integer ratio, 11:9. He finds this a concordant and useful vertical
+interval on the archicembalo, with its nature tending somewhat toward
+the major third, a sonorous consonance lending a certain kindred
+character to such an intermediate form.
+
+In addition to being of interest from the viewpoint of Vicentino's own
+theory and practice, a 19-note or 24-note subset of his archicembalo
+can be also be helpful in playing some of the most adventurous works
+of composers such as Gesualdo, who goes as far as E# and B#.
+
+For Renaissance and early 17th-century music which goes beyond the
+range of a 12-note meantone keyboard, but not quite this far, a more
+moderate "split key" arrangement of two manuals might be easier
+because it permits more unisons between the keyboards. Certain
+chromatic works of Orlando di Lasso and Gesualdo, for example, might
+have a range of Eb-A# or Ab-D# or the like, requiring only a couple of
+nonunisonal notes between the two keyboards (e.g. Eb/D# and Bb/A#; or
+Ab/G# and Eb/D#). Implementing this kind of arrangement for
+synthesizer(s) might only require selecting two transpositions of a
+preset 1/4-comma meantone option.
+
+Incidentally, if one wants a _closed_ Renaissance meantone system with
+19 or 24 notes per octave, then 19-tet (almost identical to 1/3-comma
+meantone) is a logical choice. Here, one might choose 19-tet plus five
+extra notes to provide pure fifths _below_ the virtually pure _minor_
+thirds of this tuning.[5]
+
+
+                            ---------------
+                                 Notes
+                            ---------------
+
+1. This article by Bill Alves, originally appearing in _1/1: Journal
+of the Just Intonation Network 5(No.2):8-13 (Spring 1989), is
+available at http://www2.hmc.edu/~alves/vicentino.html. It includes a
+very helpful bibliography of material such as the extensive studies of
+Henry Kaufmann.
+
+2. Nicola Vicentino, _Ancient Music Adapted to Modern Practice_,
+tr. Maria Rika Maniates, ed. Claude V. Palisca (New Haven: Yale
+University Press, 1996).
+
+3. One point of ambiguity is that Vicentino describes the keys of the
+sixth rank as a "comma" higher than corresponding keys of the first
+rank, a term which can have various meanings in his usage. Here it
+seems reasonable to take the comma in question as the difference
+between a 31-tet or 1/4-comma meantone fifth and a pure 3:2 fifth --
+in other words, actually 1/4 of a syntonic comma. This reading nicely
+fits in with Vicentino's description of the comma, cited by Alves, as
+an interval which can "help a consonance." Alternatively, a "comma"
+for Vicentino can also mean an interval of half an enharmonic diesis
+or 31-tet step -- roughly 19 cents. Since adding a comma in this sense
+to the usual tempered fifth of his system would yield a fifth of
+about 716 cents, or 14 cents wider than just, the first interpretation
+seems to me more likely.
+
+4. Such a custom synthesizer retuning of the five notes on the second
+keyboard supplying pure fifths would obviously be easier using a
+computer-based program such as the brilliant Scala by Manuel Op de
+Coul, or setting the tuning once on the synthesizer's front panel and
+then saving it to a RAM cartridge or the like for repeated use.
+
+5. Such pure fifths for 19-tet or 1/3-comma meantone are located a bit
+less conveniently than in 31-tet or 1/4-comma meantone from the
+viewpoint of usual Renaissance practice. In the latter case, for
+example, b5' (about 5.38 cents above b' in 1/4-comma, 5.18 cents in
+31-tet) serves as a pure fifth for the common sonority E-G#-B, often
+sounded on the final of E Phrygian. In contrast, the tone we might
+call b-5' in 19-tet (about 7.17 cents _below_ b' in 1/3-comma, or 7.22
+cents in 19-tet) supplies the lowest tone of the somewhat unusual
+sonority B-D#-F#, outside the most typical 16th-century meantone range
+(Eb-G#) although it occurs in various adventurous works. The pure
+sonorities supported by the other "just fifth" keys in 1/3-comma or
+19-tet are more prevalent: d-5' (D-F#-A); e-5' (E-G#-B); g-5' (G-B-D);
+and a-5' (A-C#-E).
+
+Most respectfully,
+
+Margo Schulter
+mschulter@value.net

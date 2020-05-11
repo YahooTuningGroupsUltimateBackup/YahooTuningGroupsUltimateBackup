@@ -1,0 +1,97 @@
+source file: mills3.txt
+Date: Mon, 15 Sep 1997 12:50:24 +0200
+
+Subject: Re: TUNING digest 1179
+
+From: Charles Lucy <lucy@ilhawaii.net>
+
+On Mon, 15 Sep 1997 DFinnamore@aol.com wrote:
+> Message-ID: <970914170514_314762725@emout02.mail.aol.com>
+>........
+> presented properly.  You'd need to choose a tuning that would draw attention
+> to itself in all of its "weirdness" - hit 'em in the face with it.  The more
+>........
+> Europe would probably be more open to it than here in the US, since Techno is
+> apparently bigger there right now, whereas acoustic stuff is hot here.  It's
+> just a lot easier to tune a synth than a piano or guitar.
+
+Easier?????? to what precision????
+>
+> See Charles Lucy's site for a techo-ish band ostensibly using Harrison/Lucy
+> tuning.  On the one hand, it sounds a little different than it would in
+> 12-tET; on the other, I think it could have been written in 12-tET so it
+> doesn't really seem to show the uniqueness of the tuning.  It's a start,
+> though.
+
+Thanks for your enthusiasm David.
+In the morning, we shall be flying out from Hawaii to London to do just that
+----- produce some more commercial music. I shall be working with James
+Sanger (arc-angel), and again we should be using a combination of acoustic
+and sampled/electronic audio to produce LucyTuned music.
+Certainly some of the LucyTuned Lullabies may have been written in 12tET;
+they are so "old" that who knows how their tunings originated. Sung?
+
+Everything James writes (usually on guitar) is sure to be LucyTuned.
+All his guitars are LucyFretted, and he has playing that way more
+than ten years now. James is left-handed, and all his guitars have
+had to be custom-built or modified.
+Many of the sounds that we have used are produced acoustically or with
+electric LT guitars and effects; the problem which we have constantly
+encountered has been pitch resolution on pitch-changed samples.
+
+It has sometimes been necessary to make seperate samples of each note to
+improve the limitations of current technology.
+
+(Suggestions for better tuning precision methods are welcomed)
+
+Referring back to the posting about MIDI pitchbend, I have used pitchbend,
+with one note per channel for many years, yet have never been satisfied
+with only 64ths of a semitone. Such crude resolution results in beating
+"mish-mash" compared to what can be produced with guitars or other
+acoustically based instruments.
+
+This is another call for tuning enthusiasts to "PLEASE NAG THE
+MANUFACTURERS to implement the MIDI TUNING DUMP!!!!!! on new gear."
+
+I have put some new gif diagrams (forgive my HTML) at:
+
+http://www.ilhawaii.net/~lucy
+
+This site also has links to WIO from Tokyo, and from there to arc-angel,
+in UK, where you can hear some of James's older tracks [including bits of
+his celebrated - "Spikey Message"].
+
+
+lucy@hour.com
+
+
+
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net
+Subject:  Re: Software setup
+PostedDate:  15-09-97 16:00:30
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  15-09-97 16:00:20-15-09-97 16:00:21,15-09-97 15:59:38-15-09-97 15:59:39
+DeliveredDate:  15-09-97 15:59:39
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256513.004CEE9E; Mon, 15 Sep 1997 16:00:18 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01726; Mon, 15 Sep 1997 16:00:30 +0200
+Date: Mon, 15 Sep 1997 16:00:30 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA01716
+Received: (qmail 3694 invoked from network); 15 Sep 1997 14:00:21 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 Sep 1997 14:00:21 -0000
+Message-Id: <v01541100b04339d96e4a@DialupEudora>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

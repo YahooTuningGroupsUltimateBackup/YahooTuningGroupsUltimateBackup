@@ -1,0 +1,258 @@
+source file: mills2.txt
+Date: Tue, 13 Aug 1996 07:12:54 -0700
+
+Subject: From Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Erv Wilson's CPS tunings
+--
+John Chalmers and Paul Erlich have
+perceptively pointed out some issues
+in regard to Erv Wilson's CPS scales.
+Those of you not familiar with such
+tunings would be well advised either
+to go back and look at Topics 1, 2, 3 and
+4 from Tuning Digest 30, Topic 2
+from Tuning Digest number 31,  or order
+MusicWorks 60 from Gayle Young
+and read Paul Rapoport's article "Just
+Shape, Nothing Central." Paul Rapoport
+is to date one of the keenest minds and 
+best writers to have explained these
+types of tunings in detail, along with
+the inestimable John Chalmers.  Kraig Grady's
+1989 1/1 article "Erv Wilson's Hexany" deals
+with a subset of the Wilson CPS scales
+and does so in some detail, but does not
+concern itself with many of the implications
+of Wilson's CPS tunings, nor with the many
+operations which can be performed on 
+Wilson CPS tunings (stellation, cross-product
+sets, etc.).  Paul Rapoport has explained these
+ideas with admirable clarity, and John Chalmers
+has also explained them very well.  Warren 
+Burt's Topic 2 of Digest 31 is the clearest
+explanation of cross-product sets written
+to date.
+--
+Paul Erlich pointed out that my lists of Wilson
+CPS tunings sometimes added a "confusing and
+extraneous "1/1.  It is probably true that adding
+the implied 1/1 was confusing--so let me take
+a stab at explaining why Erv Wilson doesn't,
+and why I sometimes do.
+The Wilson CPS tunings can be highly tonal
+but never have a 1/1 in the form Erv Wilson
+generates them.  Erv typically starts with 1
+and takes some mutually prime set of 
+numbers and generates an abstract set of
+points in ratio space by combinatorial 
+methods.  (See Tuning Digest 30 if you're not
+familiar with this process.)  This abstract
+set of points in ratio space is not strictly
+speaking a tuning, but a framework within
+which individual tunings can "collapse" down
+into acoustic space. 
+What I'm talking about here is akin conceptually
+to the process by which an equal-tempered
+chromatic scale generates a melodic mode.
+Depending on which note of the chromatic scale
+one starts on, quite different-sounding modes
+can be generated.  Thus, phrygian sounds entirely
+different lydian or dorian--yet all are theoretically
+contained within the 12-TET chromatic scale.
+Similarly, the process of getting individual tunings
+(as on a guitar or a synthesizer or a set of
+tubulongs) from abstract points in ratio space
+is a process of projection from a higher-
+dimensional ratio space into a lower-dimensional
+acoustic space.  This process is familiar to
+students of analytic geometry: the family of
+conic curves is usually derived by explaining
+them as projections of 3 dimensional lines
+inscribed on the surface of a 3-D cone down onto
+the two-dimensional space of graph paper.
+Depending on the angle of the cone to the
+2-D graph paper, one can obtain an hyperbola,
+a parabola, etc.  A classic example of projective
+geometry--one of the more fascinating byways
+of mathematics.
+Erv Wilson's CPS structures in ratio space
+exhibit a number of paradoxical properties.
+If low prime numbers are used as generators,
+the tunings will strongly imply tonality--
+because the root motions between three-
+pitch "facets" (i.e., triads) in ratio space
+are ratios like 3/2, 4/3, &c.  Yet, paradoxically, 
+the CPS structure itself in ratio space
+has no 1/1 and thus no tonal center--until
+it is collapsed down into acoustical space
+by dividing the entire set of ratio space
+points by the ratio of a single ratio space
+point.  (I.e., by choosing some ratio as a
+1/1 and dividing all the other ratios by
+that ratio.)
+This process has the effect both of centering
+the acoustic representation around one
+particular point in ratio space--in effect,
+making some arbitrary point in the n-space
+lattice the origin of the ratio space 
+coordinates--and it also has the effect
+of making the individual acoustic intervals
+more complex than they were in the original
+abstract ratio-space representation because
+they're now all multiplied by the inverse of
+the ratio chosen as 1/1 (that is, divided by
+the ratio chosen as 1/1).
+Erv Wilson's CPS tunings are not really 
+atonal when low integer generators are used.
+They become increasingly atonal-sounding 
+as higher and ever higher integers are used
+as members of the generating set.
+However, because any other point of the
+ratio space lattice can be chosen at any
+time as a different 1/1, the Wilson CPS
+tunings allow maximum modulatory
+flexibility with a minimum set of pitches.
+Partch's diamond is less efficient in modulatory
+terms  than Wilson's CPS structures in
+ratio space  because  moving from one 
+section of the two-dimensional Partch  
+ratio-space diamond to the next does not 
+produce a maximum change in triadic notes
+with a minimum length of ratio-space
+movement.
+You could think of this in projective geometry
+terms: the length of the geodesic in n-space
+between two points separated by more than
+2 dimensions will always be shorter than
+the length of the geodesic on a plane between
+the same two points projected on a plane.
+This is nothing more complicated that the
+very familiar problem of projecting 3-D
+objects onto a 2-D plane.  Map-makers have
+for millenia known that projecting coordinates
+on a sphere down onto a 2-D plane creates
+large distortions in some of the distances
+between some of the coordinates.  Some
+distances which are short in the 3-D original
+are unnaturally and deceptively long on
+the 2-D plane; and so it is with ratio space
+projected onto a plane--as with Partch's
+ratio diamond, which can be (as has been,
+by Erv Wilson) visualized as a much more
+compact higher-dimensional ratio-space
+structure.
+Another way of thinking of the Wilson CPS
+method is that it provides a ratio-space 
+coordinate system within which acoustic 
+structures can be  rotated with maximum
+symmetry.  To put it another way, as
+the size of the Partch diamond increases,
+the amount of symmetry-breaking increases
+as the square as the number of prime
+generators.  By "amount of symmetry-breaking"
+I mean here the number of anisometric points
+in the grid, each of which has the potential
+to break symmetry upon rotation of a musical
+structure across the grid. 
+Example: In the 4 5 6 7 1/4 1/5 1/6 1/7
+Partch diamond with 4 generators there
+are 4 1/1's--1/1, 3/3, 5/5 and 7/7.
+This anisometric diagonal of 1/1s acts
+in effect like an axis.  It has the effect of
+breaking the symmetry of 2-D ratio
+space structures when they're rotated
+through the 2-D ratio space of the Partch
+diamond.  But in a Wilson CPS *there is
+no 1/1*, and thus there's *never* any
+example of symmetry-breaking when
+substructures are rotated through
+ratio space. (Wilson CPS structures
+are inherently symmetrical: thus their
+symmetry cannot collapse in ratio space
+but only when they are projected 
+into some anisometric lower-dimensional
+coordinate system.)
+Physicists know that many physical
+processes can be described in terms
+of broken symmetry: the nucleation of
+snowflakes in a supersaturated
+air, the spontaneous transformation
+of isotherms into tornadic weather
+patterns, the formation  of new crystals through 
+screw dislocations, and the fracture of the 
+single unified force after the intial few
+femtoseconds of the Big Bang into the 4 
+fundamental universal forces of gravitation, 
+electromagnetism, strong and weak nuclear 
+forces, are all  classic examples of symmetry-
+breaking which leads to emergent order.
+In the same way, symmetry breaking is
+required to generate an emergent order 
+out of the abstract ratio space structures
+of the Wilson CPS or the Partch diamond.
+This leads us to a concise explanation of
+why I sometimes add an "extraneous"
+1/1 to the Wilson CPS.
+Seen from the perspective of symmetry
+breaking as a means of generating scalar
+order, it's not obvious why choosing
+one of the CPS lattice points as a 1/1
+is significantly different from adding
+a 1/1 point at the lowest-dimensional point
+of the structure in ratio space.  Both
+procedures break the symmetry of the
+abstract ratio-space CPS; both procedures
+collapse the higher-dimensional structure
+down into a lower-dimensional acoustic
+space.
+The advantages of adding a 1/1 at the lowest-
+dimensional point of the ratio space Wilson
+CPS are: [A] the acoustic ratios are maximally
+simplified and so it's especially easy to hear
+the underlying harmonic progressions. [B] the
+acoustic distance from the 1/1 to any given
+scale-step is minimized. The disadvantages
+of adding such an "extraneous" 1/1 in ratio
+space are: [C] modulation is no longer 
+maximally efficient--that is, modulations
+no longer produce maximum change in 
+number of chord components for minimum
+change in root position; [D] it is no longer
+simple to modulate to another substructure
+embedded within the ratio space CPS.
+These advantages and disadvantages must
+be weighed carefully.  In fact, Erv Wilson
+often adds "extraneous" pitches to his
+CPS tunings--there is no reason whatever
+why I can't add "extraneous" pitches too.
+The point is that the process is not black-&-
+white, good-or-bad.  Simply because Erv
+Wilson doesn't do something (and even Erv
+sometimes refers to the "nonexistent"
+1/1 at the lowest-dimensional point in
+ratio space in the process of theorizing;
+he regards as the null operation in which 
+all axes of the ratio space are raised to
+the zeroth power) doesn't mean it can't 
+or oughtn't to be done.
+--mclaren 
+  
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 13 Aug 1996 21:16 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02160; Tue, 13 Aug 1996 21:17:01 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA02166
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA17431; Tue, 13 Aug 1996 12:16:58 -0700
+Date: Tue, 13 Aug 1996 12:16:58 -0700
+Message-Id: <13960813191331/0005695065PK5EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

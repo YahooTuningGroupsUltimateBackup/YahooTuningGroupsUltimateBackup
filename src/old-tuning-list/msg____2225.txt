@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Tue, 31 Oct 1995 10:58:57 -0800
+
+Subject: Tuning Folks
+
+From: vincent.kenis@infoboard.be (Vincent Kenis)
+
+John Chalmers wrote :
+
+>(The Japanese!) Kawai, Akai and many others
+>fanatically refuse to let their instruments be retuned.
+>They're adamant about it to the point of psychosis.  The
+>behaviour is almost Manson-like in is self-destructivness,
+>yet they persist.
+>As a result I won't buy Kawai or Akai synths.  Let 'em
+>rot: they can come out with a synth that does
+>everything buy makes coffee and I still wouldn't even
+>use it as a boat anchor.
+
+The Akai S1000 & S1100 samplers let you access up to 200 different
+'programs' at the same time, each consisting of up to 200 'keygroups'. To
+each keygroup can be assigned one to four samples, individually tunable (in
+cents!), and the same sine wave of 254 samples can be assigned to all of
+them - in that case you certainly can't complain about waste of RAM !  I'd
+be surprised if other samplers don't offer that facility.
+
+I like my Akai S1100 very much, I think it's a well designed machine that
+deserves its popularity. And correct me if I'm wrong but wasn't Yamaha's
+TX81Z the first microtunable MIDI synth, back in 1987 ?
+
+Best regards VK
+
+* vincent kenis * phone (322) 644 07 14 * fax (322) 648 83 69 *
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 1 Nov 1995 05:20 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id TAA21945; Tue, 31 Oct 1995 19:20:49 -0800
+Date: Tue, 31 Oct 1995 19:20:49 -0800
+Message-Id: <951031220608_79658217@emout06.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

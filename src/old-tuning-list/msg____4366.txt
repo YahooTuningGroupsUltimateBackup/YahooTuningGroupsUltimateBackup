@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Thu, 19 Dec 1996 11:35:57 -0800
+
+Subject: no options for microtonalists?  bull****
+
+From: "Marcus Hobbs" <marcus@fa.disney.com>
+
+> brian mclaren writes:
+> pitch tables.  Only the EPS samplers,
+> the VFX and TS-10 synthesizers, and
+> the TX802 have more than one pitch table.
+> Of these, only the TS-10 and ASR-10
+> samplers are currently manufactured.
+> This leaves most microtonal composers
+> with no options.
+
+what about the ensoniq mr rack?  it has dozens of
+preset pitch tables, as well as dozens of ram tables
+for the user to download.  you can also adjust the
+octave transposition per instrument, so if you don't
+mind splitting your sequence up onto different channels,
+you can cover the entire range.  the ensoniq  comes with
+hundreds of sounds.  i bought a 24 Mb expansion card, so
+now i have like 400 or 500 sounds.
+
+but the high end microtonalist instrument is the kyma, which has a tuning
+resolution of 0.026 hz (or was it 0.0026 hz?).  it doesn't have any
+preset sounds like the ensoniq.  instead, you design your own sounds.
+i'm currently exploring morphing from one wilson cps hexany (and
+all of its "modes") to another in real time via controller data using
+multi-dimensional tuning arrays and various interpolants.  if the kyma had as
+many preset sounds as a typical synthesizer, i think it would be the
+microtonalist synthesizer of choice, period.  and talk about a range!  i
+alogorithmically run microtonal sine wave scales up and down the entire audible
+spectrum which is just less than 11 octaves or so (2^52 hz  to "just" less
+than 2^152678 hz).  check out the web page, and ask for
+a demo tape: http://www.symbolicsound.com/
+
+was this an old brian mclaren article?  i read a mclaren review of the kyma
+a while ago, and can't believe that he would write all this rubbish without
+excepting the kyma.
+
+marcus
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Dec 1996 20:49 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09307; Thu, 19 Dec 1996 20:51:37 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA09302
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA28946; Thu, 19 Dec 1996 11:51:35 -0800
+Date: Thu, 19 Dec 1996 11:51:35 -0800
+Message-Id: <9612191149.ZM1236@frollo>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

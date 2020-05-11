@@ -1,0 +1,41 @@
+source file: m1400.txt
+Date: Wed, 29 Apr 1998 14:25:41 -0400
+
+Subject: RE: Orchestral-Instrument Aperiodicity
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>>It looks an awful lot like the true fundamental is an octave below the
+>>period you have identified.
+
+Gary wrote,
+
+>   That's not terribly likely for three reasons:
+>1.  This note is in the lower register of the bass clarinet.  It is not an
+>    overtone.  The register key is not down.
+
+See my previous post about Benade or Backus and Tuvan throat singing.
+
+>2.  If you look at the wave earlier in time, you see that the alternating
+>    low-high of that rough slowly starts alternating the other direction, and
+>    in about the same amount of time starts alternating the other way.
+>There's
+>    something going on that isn't at a subharmonic frequency.
+
+Hmm, I wish I had a clearer picture of what you're talking about. I
+wonder if a double-reed instrument might have some slow phase drift due
+to slight inequalities between the two reeds, much like a guitar string
+will vibrate at two slighlty different frequencies if the bridge allows
+horizontal vibrations to begin at a different point or with different
+resistance than vertical vibrations.
+
+>3.  Once again, if it were a component at half the fundamental frequency, we
+>    would have seen the entire wave ooze up and down with that trough.
+
+Not necessarily. A physical "subharmonic" is not just a sine wave but is
+a (weak) true fundamental with any or all (weak) harmonic overtones. In
+this case, those overtones would be at 3/2, 5/3, 7/2, . . . the primary
+pitch and could conspire to keep the bulk of the waveform intact. (I'm
+sure if we knew more about the physics of the situation, this
+"conspiracy" would turn out to arise in a very natural way, not one that
+requires any "consciousness" on the part of the instrument).

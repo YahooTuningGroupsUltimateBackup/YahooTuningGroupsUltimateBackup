@@ -1,0 +1,54 @@
+source file: mills2.txt
+Date: Fri, 16 May 1997 22:04:55 +0200
+
+Subject: Re: Tuning ET vs. JI
+
+From: "Jo A. Hainline" <hainline@unr.edu>
+
+On Thu, 15 May 1997 DFinnamore@aol.com wrote:
+
+> 
+> >JI comes from the harmonic series, which is a
+> >quantization of linear frequency space.
+> 
+> Lost ya there.  Doesn't "quantization" denote equal divisions?  E.g., in what
+> sense are the two spaces in 1:1, 9:8, 5:4 equal, or based on equal divisions
+> of linear frequeny space, whatever that means?  Strange as it might seem,
+> after years of picturing frequency space logarithmically, I can't get myself
+> to visualize it linearally - it doesn't seem to make any sense that way.
+> 
+> 
+David,
+
+My limited understanding of the harmonic overtone series includes the idea
+that the pitches of the series develop from a "perfectly" vibrating body; 
+a string or column of air, etc.  The fundamental is the frequency of the
+full length of the body, the 2nd harmonic vibrates with 1 node and is
+twice the frequency, 2/1; the 3rd partial has 2 nodes and is 3 times the
+frequency, often expressed as 3/2, sounding 5th above the 2nd harmonic,
+etc.  This "perfect" body vibrates in equal divisions, these divisions
+vibrating in frequencies which define the harmonic series.  The intervals
+between the pitches gets gradually smaller and I suppose ultimately any
+and all intervals can be defined.  Mathematically the relationship of the
+frequencies is logarithmic, but the pitches are very linear in their
+creation.  It is interesting to me that 12tet has in many ways limited our
+understanding of musical expression.  I play with several orchestras here
+in Reno with some very talented musicians and every time I play the 7th
+partial on my horn in warming up someone will look up wondering why I am
+playing out of tune!
+
+Bruce Kanzelmeyer
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 17 May 1997 03:01 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04394; Sat, 17 May 1997 03:01:52 +0200
+Date: Sat, 17 May 1997 03:01:52 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04395
+Received: (qmail 6226 invoked from network); 17 May 1997 01:01:48 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 May 1997 01:01:48 -0000
+Message-Id: <970516205942_54573426@emout11.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

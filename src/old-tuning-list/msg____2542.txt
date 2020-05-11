@@ -1,0 +1,90 @@
+source file: mills2.txt
+Date: Mon, 12 Feb 1996 16:52:21 -0800
+
+Subject: Scala version 1.0 available now
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Version 1.0 of my tuning program Scala for MS-DOS is now available to
+be downloaded by FTP from:
+ftp://ella.mills.edu/ccm/tuning/software/pc/scala/scala.zip
+
+People without FTP access can ask me for a uuencoded e-mail or floppy
+disk. 
+
+Scala is a tuning editor, librarian and analysis tool.
+It allows scales to be created and manipulated in many different ways.
+It has more than 130 different commands, but is easy to learn. 
+
+The current version does not have the capability to directly access a
+MIDI interface. However the program can write a tuning dump to a
+standard MIDI-file, so with a suitable MIDI-file player this is only a
+minor inconvenience. Perhaps a future version will have this
+capability. I decided to make the program available now, because I
+don't know when I will have time to implement it. A command file plus
+a MIDI-file player is included that makes downloading from within
+Scala transparent. Maybe it's even better this way, because there are
+different MIDI-interfaces, like the one on the SoundBlaster card, the
+MPU-401, the Key Midiator interface, etc. and I can't support all of 
+them.
+Several people have asked me to support the Midiator interface made
+by Key Electronics and I feel a bit now like I am letting them down,
+so does anyone know of a MIDI-file player program for it that
+runs under DOS?
+This release is a few months later than I anticipated but the extra 
+time allowed me to make some useful improvements. I intend to keep 
+doing that.
+The user interface is one with a command line and a text screen. A
+graphical interface would help first-time users, but there are several
+reasons why there is none. Scala runs on more than one computer
+platform, and Motif and MS-Windows are sufficiently different to
+warrant a maintenance nightmare. Secondly, I prefer spending my time
+implementing real tuning functionality. The way it is now, porting the
+program is almost trivial. The commands are sufficiently verbose to be
+remembered easily and there is online help. And for experienced users
+a command line interface works just as quick or quicker. 
+There is no version of Scala for the Apple Macintosh and it is very
+unlikely that there will be one in the near future. 
+
+The currently supported tuning protocols are:
+Yamaha DX7II/TX802
+Yamaha SY77/TG77
+Yamaha TX81Z/DX11/DX27/DX100
+Yamaha TX81Z/DX11/DX27/DX100 full keyboard dump
+E-mu Morpheus
+E-mu Proteus
+Ensoniq EPS/EPS16/ASR10
+MIDI Tuning Standard
+
+To install, unpack scala.zip in an empty directory, read the file
+read.me and type "scala" to run. Then type "help" or "h" to see which
+are the available commands. 
+
+The current amount of source code is 28578 lines of text of which
+23559 are code. The number of Ada statements is 13527. This is roughly
+equivalent to about 40000 code-lines of C. 
+
+Scale files in Scala format can be downloaded from
+ftp://ftp.cs.ruu.nl/pub/MIDI/DOC/scales.zip
+Use the "-a" option while unzipping.
+The accompanying archive listing is
+http://www.cs.ruu.nl/pub/MIDI/DOC/scales.doc
+
+I want to thank the following people for their support, help and
+ideas. In alphabetical order: John Chalmers, Steve Curtin, Paul Fly,
+Brian McLaren, Gary Morrison, John Pusey and Carter Scholz. 
+Special thanks go to John Pusey for making suggestions for improvement
+over a period of 1.5 year and spotting several bugs. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 13 Feb 1996 10:30 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id BAA26352; Tue, 13 Feb 1996 01:30:08 -0800
+Date: Tue, 13 Feb 1996 01:30:08 -0800
+Message-Id: <199602130927.SAA08243@inetnif.niftyserve.or.jp>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,80 @@
+source file: mills3.txt
+Date: Sat, 10 Jan 1998 04:54:49 +0100
+
+Subject: Re: MIDI/Audio Wish List
+
+From: "jloffink" <jloffink@pdq.net>
+
+>> the extra resolution in their custom ICs would be insignificant in terms
+of
+>> design resources and transistors.  DSP or Virtual Modeling type
+instruments
+>> could do better though.
+
+> Sorry, what's an IC?
+
+Sorry, IC = Integrated Circuit = analog or digital electronic device from
+as simple as a logic gate to as complex as a Digital Signal Processor or
+Pentium microprocessor.  All audio level processing in today's synthesizers
+and samplers occurs in each manufacturer's custom ICs (a few use
+off-the-shelf DSPs).
+
+>> Building tunings into "Partials", Keygroups or Zones is tedious and
+>> wasteful effort in my opinion.
+
+>Yes, it's extremely tedious - but my point is that it needn't be,
+>even on a sampler.  Hence the idea of creating on-board macros or
+>templates to speed up the process.  The reason why it's not a waste
+>of effort (for me) is that I'm creating simulations of acoustic
+>instruments.  The difference between what one can achieve in this
+>respect on a sampler and a synth is enormous (IMO) - but of course
+>not everybody is interested in simulation.
+
+I guess I'm confused whether you want more "Partials" to accomplish
+microtonal scales or better sampling.
+
+> > > A kind of `kit' mother keyboard with a large number of movable slots
+> > > into which a user configurable number and arrangement of keys of
+> > > different sizes and colours could be fitted_  And new types of
+control
+> > > for keys (taking the idea of `after touch' further_)
+> >
+>> Starr Labs is working on a generalized microtonal MIDI keyboard that
+>> supports polyphonic aftertouch.
+
+> Do you mean the Microzone - or are Starr Labs producing another
+> keyboard as well?  I hope the distinction between what I suggested
+> and the Microzone is clear.
+
+I was talking about the Microzone, but I can see now the distinction.  The
+Microzone has just black or white keys, all one size, and no "new" types of
+control.  I'm sure the reason is purely economics.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk (Graham Breed) 
+Subject:  Re: MIDI/Audio wish list
+PostedDate:  10-01-98 20:27:00
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-01-98 20:26:28-10-01-98 20:26:29,10-01-98 20:26:20-10-01-98 20:26:21
+DeliveredDate:  10-01-98 20:26:21
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256588.006AC9B2; Sat, 10 Jan 1998 20:26:53 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04519; Sat, 10 Jan 1998 20:27:00 +0100
+Date: Sat, 10 Jan 1998 20:27:00 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09363
+Received: (qmail 14495 invoked from network); 10 Jan 1998 11:26:57 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Jan 1998 11:26:57 -0800
+Message-Id: <memo.96943@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,66 @@
+source file: mills3.txt
+Date: Tue, 30 Dec 1997 13:36:18 +0100
+
+Subject: Re: thanks re consistancy level ; MOS generators question
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Mon, 29 Dec 1997, Steven  Rezsutek wrote:
+[snip]
+> how did they get produced?  Is there a mathematical method of finding
+> it, or is it an iterative process of some sort.  Surely, noone sat
+> down and tried them all by hand... ;-)
+
+No indeed!  Yes, I generated my tables with computer programs.  Here's
+the core algorithm for determining the consistency level for a specific
+ET and limit (from an old post of mine):
+
+consistency_level(ET_number, limit):
+	max <- 0
+	min <- 0
+	FOR loop <- 3 TO limit BY 2
+		exact_steps <- ET_number * log2(loop)
+		error <- exact_steps - round(exact_steps)
+		IF error > max THEN
+			max <- err
+		ELSEIF error < min THEN
+			min <- err
+		ENDIF
+	ENDFOR
+	RETURN integer_part(0.5 / (max - min))
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Do you like to gamble, Eddie?
+  -\-\-- o    Gamble money on pool games?"
+
+             NOTE: dehyphenate address to remove spamblock.          <*>
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Manuel.Op.de.Coul@ezh.nl
+Subject:  Re: MIDI tuning for Win95
+PostedDate:  30-12-97 16:22:01
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  30-12-97 16:19:40-30-12-97 16:19:40,30-12-97 16:19:03-30-12-97 16:19:04
+DeliveredDate:  30-12-97 16:19:04
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125657D.0054306E; Tue, 30 Dec 1997 16:21:30 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28129; Tue, 30 Dec 1997 16:22:01 +0100
+Date: Tue, 30 Dec 1997 16:22:01 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA28135
+Received: (qmail 6501 invoked from network); 30 Dec 1997 07:21:58 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 30 Dec 1997 07:21:58 -0800
+Message-Id: <C125657D.00535FBA.00@notesrv2.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

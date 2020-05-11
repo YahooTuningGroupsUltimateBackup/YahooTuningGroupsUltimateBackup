@@ -1,0 +1,319 @@
+source file: mills2.txt
+Date: Fri, 16 Aug 1996 07:30:17 -0700
+
+Subject: Another post from Brian
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Hucksters, shysters and
+ other suspicious doyens of intonational 
+ "research"
+--
+Many and mutually contradictory are the
+results of psychoacoustic research on 
+tuning  in the early years of this century.  
+And still, occasionally, in the badly
+thought-out articles which appear now
+and then.
+As one who believes along with H. L. 
+Mencken that "Man, at his best, remains
+a sort of one-lunged animal, never completely
+rounded and perfect, as a cockroach, say,
+is perfect," this is perhaps only to be
+expected.  Nevertheless it behooves me
+to point out some of the more glaring
+errors perpetuated in the name of
+early 20th-century intonational "research."
+(These errors are filched straight from
+"How to Lie with Statistics," by Darrell
+Huff, W. W. Norton and Co., 1954. This
+book  ought to be taught in every college 
+curriculum.)
+The first classic error of the intonational
+"researcher" is the biased sample.
+Consider, for example, a paper which stands
+out for sheer wackiness as perhaps the worst
+piece of microtonal "research" ever done:
+namely, "Scale, Key and contour in the
+discrimination of tuned and mistuned
+approximations to melody" by Anthony J.
+Watkins, Perception & Psychophysics,
+1985, Vol. 37, No. 4, pp. 275-285.
+Watkins makes sure to build in a huge
+bias into his test sample of listeners,
+because he defines "mistuned" melodies
+as the closest approximation to a 12-TET
+melody in another equal temperament.
+The problem with this sort of microtonal
+"research" should be obvious: if you inform
+your test subjects that, say, red is a distorted
+version of blue, and then show your test 
+subjects a lot of paintings with red in 'em,
+you will obtain the predictable result that
+"the subjects reported that all paintings 
+which were not monochromatically blue
+were perceived as significantly distorted."
+This kind of "research" is just a nudge away
+from the infamous political "push polls," in
+which quondam "phone researchers" call up
+voters for the opposition and ask: "Would you
+change your vote if you learned that your
+candidate is a child molester?"
+(It's worth mentioning that Richard Nixon
+is the father of this infamy, in the 1947 
+Jerry Vorhees senate race.)
+In the microtonal realm, a more subtle form
+of biased sample is found when researchers
+choose 1st year music students as test subjects 
+for intonational listening studies.  SInce most of
+these music students are constantly being
+run through an exhaustive regimen of 12-TET
+listening tests, the sample is a priori tainted,
+ and might even be unusable.  John Chalmers has
+pointed this out--the problem is much less
+severe with upper division music students,
+since they've been exposed to real music in
+so many intonational real-life situations that
+their ears are bound to be more flexible. They
+also have presumably passed the early ear-
+training tests and thus are not constantly
+being bombarded by 12-TET brainwashing.)
+[2] The well-chosen average is a second 
+source of error in intonational research.
+Mean and median "averages" are often quite
+different, particularly with small sample
+sizes and large variances.  Most insidious of all
+is the quoted "average" deviation from some
+hypothetical "target tuning" as measured by
+the preferences of a group of listeners. If
+the averages are given as unsigned scalars,
+the study is often worthless.  Don Hall et al.
+made this error in their 1985 article "The
+Perception of Musical Intervals."  Hall and co.
+also chose their deviations from values which
+slyly sit atop just ratios, so that the implication 
+was that the listeners judged deviations based on 
+an innate desire for small integer ratios.
+Franz Loosen's articles corrected this error
+by showing that the direction of the error
+bars of perceived deviations changed systematically
+depending on which instrument the listener
+used.  Loosen's studies tell us: [1] different listeners 
+perceive deviations from different types
+of intervals--pianists from ET intervals,
+violists from Pythagorean intervals; and [2]
+that pianists and violinists tolerate different
+error ranges skewed toward different triadic
+pitch heights, showing that they are measuring
+"deviation" primarily in terms of the triads
+they've become used to hearing.
+[3] "The little figures that are not there"
+bedevil small group studies of intonational
+perception.  If you've got 4 or 6 listeners,
+it's no more meaningful to report that "75%
+of listeners perceived the stretched intervals
+as..." than it is to report that "75% of dentists
+surveyed prefer Crest."  (What this really means
+is that the fourth dentist disagreed.)
+Carol Krumhansl's studies use very small 
+sample sizes--yet her results purport to
+be statistcally significant.  A much earlier
+researcher, Carl Seashore, used truly mammoth
+sample sizes, and his results hold up. Heinz Werner's
+studies are also a excellent model in this regard;
+his results were primarily *qualitative*,
+and Werner's main interest was in eliciting
+descriptions of perceived intervals.  This
+is a valid procedure even with very small
+sample sizes.  But Krumhansl's statistical
+approach seems highly suspect when only
+a dozen or twenty-some listeners are involved,
+yet the results are generalized to sweeping
+grandiosities involving "Western tonal
+hierarchical perception," etc.
+[4] "Much ado about practically nothing"
+is the problem of making a big deal out
+of small differences which probably
+don't exist.  This can be seen in Partch's
+insistence and more recently Ezra Sims's
+insistence that inaccuracies in the realm of
+2 cents, 1 cent, 1.8 cents, etc., are lethal
+to the peformance and audition of just
+intonation music.  This error also crops
+up in intonational research. Comparing standard
+deviations of interval preference, for
+example, may not be valid unless the
+sample size is very large and/or the
+results have been replicated by many
+different reserachers over many 
+different years.
+Another way of saying this is: (number
+of intonational studies) * (difference
+in standard deviations) is the quantity
+that ought to be compared.
+This works in reverse.  Many intonational
+advocates have tried to claim that small
+differences in standard deviation of
+interval perception are merely a statistical
+error caused by sampling noise--yet they
+ignore the fact that these small differences
+are (A) small when compared with the octave,
+but not when compared with the intervals
+being perceived, and (B) the results have
+been replicated by so many hundreds of
+researchers over more than 150 years of
+quantitative tests that it's clear a real
+effect is involved, not mere statistical
+noise.  
+[5] The last error and one of the most
+insidious in intonational research is
+the classic "post hoc" fallacy.
+This fallacy is aptly summed up by
+the case in which there are two clocks
+in the town square.  When clock #1
+points to 5 o'clock, clock #2 rings
+its bell.  Therefore clock #1 caused
+clock #2 to ring.
+Right?
+This kind of error can be seen in study
+after study of ethnic scales in non-
+western cultures.  Most of these 
+studies find predominantly 7 or
+5 tones.  No suggestion is ever made
+that because of Miller's limit to the
+channel capacity of the human sensorium
+and short-term memory (see Miller, G. A.,
+"The Magic Number 7 Plus or Minus Two,"
+Journ. Psych. 1956), 7 notes represents
+a practical near-upper limit to the number
+of tones which can be distinguished in
+a fluid musical context.
+Instead of arriving at *that* conclusion,
+intonational researchers in the early
+part of the century reasoned: since the piano 
+has 7 white keys and 5 black keys, clearly
+this indicates that the tuning 
+preferences throughout all the world's
+cultures are caused by an unconscious
+desire for the western 7-note white
+piano keys. 
+Right?
+Alternatively, this fallacious argument
+is used by just intonation fans (most
+notably, Lou Harrison--a very fine 
+composer but a less than entirely rigorous 
+scholar) to argue that since errors are
+distributed approximately evenly around
+this or that set of just ratios for all
+of the 7-tone and 5-tone scales used by
+other cultures, clearly this indicates
+that the tuning  preferences throughout 
+all the world's cultures are caused by an 
+unconscious desire for small whole
+number ratios.
+Right?
+And thunder causes the lightning,
+right? 
+And smoke causes the fire...right?
+Researchers like Frederic Voisin, who
+use retunable synthesizers to measure
+the *process* of tuning by native
+experts in other musical cultures,
+are now beginning to torpedo these
+specious "post hoc, propter hoc" notions
+of the origins of ethnic tunings. 
+Shockingly, researchers like Voisin
+are discovering that there's very little
+preference for even such purportedly
+"universal" and "basic" units of 
+intonational measure as the 2:1
+octave, the 3:2 fifth, etc. See
+Voisin, F. "Musical Scales in Central
+Africa and Java: Modelling by Synthesis,"
+Leonardo Music Journal, Vol. 4, 1994,
+pp. 85-90; also Kubik, G. "African
+Tone-Systems: A reassessment,"
+Yearbook for Traditional music, Vol. 17,
+1985, pp. 31-63; Schneider, A. and
+Beurmann, A. "Notes on the Acoustics
+and Tunings of Gamelan Instruments,"
+Performance in Java and Bali: Studies of Narrative,
+Theater, Music and Dance, London: B. ARPS,
+1993, pp. 197-218; Tracey, H. "Towards
+an Assessment of African Scales," African Music,
+Vol. 2, No. 1, 1958, pp. 15-23; Ellis, "Pre-
+Instrumental Scales," Ethnomusicology, 1962;Vetter, 
+R.,  "A Retrospect On A Century of Gamelan Tone
+Measurements," Vol. 33, No. 2, Ethnomusicology,
+1989, pp. 217-227; Rahn, Jay, "Javanese Pelog
+Tunings Reconsidered," Yearbook of the
+International Folk Music Council,1978, Vol. 10,
+pp. 69-82; Wachsmann, K., "A Study of Norms
+in the Tribal Music of Uganda," Ethnomusicology,
+Vol. 1, No. 11, 1957, pp. 9-16; Hood, Mantle,
+Hood, M., "Slendro and Pelod Redefined: With a Note 
+on  Laboratory Methods, by Max Harrell," Selected
+Reports on Ethnomusicology, 1966, Vol. 1, No. 1,
+pp. 28-48; "Hatch, Martin, F. "Lagu, Laras,
+Layang: Rethinking Melody in Javanese Music,"
+PhD. dissertation, Cornell University, 1980,
+und so weiter.
+Lou Harrison has been a prime mover in the
+misguided attempt to describe *all* ethnic tunings
+throughout world musical cultures as departures
+from this or that set of small integer ratios.
+Alas, the data accumulated over the last century
+make it clear that  most of the world's intonational 
+usage *cannot* be adequately explained in this way.
+In fact, as Ellis' article and Voisin's research makes
+clear (along with much other research), many cultures
+do not even think in terms of subdividing a 2:1 ratio,
+much less in terms of small-integer ratios.  Many
+cultures think musically in terms of adding constant
+Herz intervals, irregardless of whether the sum
+comes out to a 2:1 or not. In fact the Banda Linda,
+Banda Ndopka, Ngaka-Manza and Banda Gbambiya
+peoples of Central Africa prefer an "octave" of
+1150 cents. Lou Harrison has not explained how
+to reconcile these facts with the notion that just
+intonation forms the basis of world music.
+In the 1920s H. L. Mencken lamented:
+"Today the old pegagogy has gone out,
+and a new and complicated science has
+taken its place.  Unluckily, it is largely 
+the confection of imbeciles,
+and so the unhappiness of the young
+continues.  In the whole realm of human
+learning there is no faculty more 
+fantastically incompetent than that of
+pedagogy.  If you doubt it, go read the 
+pedagogical journals. Better still, send
+for an armful of the theses that 
+Kandidaten write and publish when they 
+go up for their Ph.D's. Nothing worse is
+to be found in the literature of astrology,
+snake oil salesmanship, or Christian
+Science." [Mencken, H. L., "The Vintage
+Mencken Gathered by Alistair Cooke,"
+Vintage Press: New York, 1956, pg. 184]
+This is nowhere more true than in early
+intonational "research."  Fortunately,
+there are signs that the woeful tide
+of error may be receding--somewhat.
+--mclaren
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 16 Aug 1996 18:22 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01772; Fri, 16 Aug 1996 19:05:01 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA01771
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA21639; Fri, 16 Aug 1996 10:05:00 -0700
+Date: Fri, 16 Aug 1996 10:05:00 -0700
+Message-Id: <199608161603.RAA05161@gollum.globalnet.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

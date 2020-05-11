@@ -1,0 +1,126 @@
+source file: m1380.txt
+Date: Thu, 9 Apr 1998 09:34:34 -0700 (PDT)
+
+Subject: Touch-Tone Pitches and Intervals
+
+From: John Chalmers <non12@deltanet.com>
+
+Joseph Monzo: According to the specs of the Intersil GE CMOS=20
+handbook (Ivor Darreg, personal communication, 1989) the=20
+pitches of the Touch-Tone pads were chosen not to make any=20
+harmonic relations. The nominal frequencies are 697, 770, 852,=20
+941, 1209, 1336, 1477, and 1633 hz, but the actual ones=20
+implemented in chips are 699.13, 766.17, 847.43, 947.97,=20
+1215.88, 1331.68, 1471.851, and 1645.01 hz. and these are=20
+derived by down-division of an oscillator at 3579644 hz.=20
+(The tolerances are all within 1%, but this is about=20
+a comma, of course.) Other chips may have different values,
+but I imagine all will be +-1% or less of the specs.
+
+Two-Tone Combinations (9 and 16 button boards).
+
+Char's=09Lower  Higher=09Cents  =09=09Actual
+
+1=09697=091209=09953.50=09=09958.04
+2=09697=091336=091126.43=09=091115.54
+3=09697=091477=091300.13=09=091288.80
+4=09770=091209=09781.06=09=09799.52=09=09=09
+5=09770=091336=09953.99=09=09957.01
+6=09770=091477=091127.69=09=091130.27
+7=09852=091209=09605.87=09=09625.00
+8=09852=091336=09778.79=09=09782.50
+9=09852=091477=09952.49=09=09955.76
+*=09941=091209=09433.87=09=09430.91
+0=09941=091336=09606.78=09=09588.40
+#=09941=091477=09780.48=09=09761.66
+
+16 button boards:
+A=09697=091633=091473.95=09=091481.36
+B=09770=091633=091301.51=09=091322.83
+C=09852=091633=091126.32=09=091148.32
+D=09941=091633=09954.31=09=09954.22
+
+
+Ivor Darreg presented these as an example of the ubiquity of=20
+non-12-tet intervals in our environment and thought=20
+that they would aid "detwelvuating" all of us.
+
+
+To his table of nominal values, I've added a column of cents=20
+computed from the actual values on the GE CMOS chip. While=20
+some of these intervals are reasonable close to JI values,=20
+many are not.=20
+
+Ivor's point was that they weren't very close to 12-tet values either.
+I noticed an interesting pattern in the nominal pitches --they fall
+rather close to a mildly stretched 14-tet (two sets of 7-tet offset
+by 1/14 octave).
+
+Nominal Cents From =09Nominal Cents From
+In Hz.=09697 Hz=09=09In Hz=091209  Hz & 697=20
+697=090=09=091209=090=09953.50 =09
+770=09172.44=09=091336=09172.93=091126.43
+852=09347.63=09=091477=09346.63=091300.13
+941=09519.64=09=091633=09520.45=091473.95
+
+
+Fourteen-Tone Equal Temperament on 697 Hz=20
+and the TOUCH-TONE Pitches   =20
+=09
+No.=09Cents=09=09Hertz =09=09T-T    =09=09Cents  =20
+
+0=090 =09=09697 =09=09697=09=090
+1=0985.71 =09=09732.38
+2=09171.43 =09=09769.55 =09=09770=09=09-1.0
+3=09257.14 =09=09808.61=20
+4=09342.86  =09849.65=09=09852=09=09-4.8
+5=09428.57  =09892.78
+6=09514.29  =09938.09=09=09941=09=09-5.4
+7=09600 =09=09985.71
+8=09685.71=09=091035.74 =20
+9=09771.43  =091088.31
+10=09857.14=09=091143.55 =20
+11=09942.86 =09=091201.59 =091209=09=09-10.6
+12=091028.57=09=091262.58 =20
+13=091114.29=09=091326.66  =091336=09=09-12.1
+14=091200=09=091394
+15=091285.71=09=091464.76=09=091477=09=09-14.4
+16=091371.43=09=091539.10
+17=091457.14=09=091617.22=09=091633=09=09-16.8
+
+Just for fun, I computed a least-squares minimized=20
+stretched 14-TT tuning.
+
+Least-Squares Stretched 14-Tone Equal Temperament=20
+on 697 Hz Compared to the TOUCH-TON=A8  Pitches =20
+
+No.=09Cents=09=09Hertz =09=09T-T       Cents Error =20
+
+0=090 =09=09697 =09=09697=09=090.0
+1=0986.68 =09=09732.79
+2=09173.36 =09=09770.41 =09=09770=09=09+0.9
+3=09260.04=09=09809.96=20
+4=09346.72  =09851.55=09=09852=09=09-0.9
+5=09433.40  =09895.27
+6=09520.08  =09941.24=09=09941=09=09+0.4
+7=09606.76=09=09989.56
+8=09693.44=09=091040.37=20
+9=09780.12  =091093.78
+10=09866.80=09=091149.94 =20
+11=09953.48 =09=091208.98 =091209=09=09-0.0=09
+12=091040.16=09=091271.05
+13=091126.83=09=091336.31  =091336=09=09+0.4
+14=091213.51=09=091404.92
+15=091300.19=09=091477.06=09=091477=09=09+0.1
+16=091386.87=09=091552.89
+17=091473.55=09=091632.62=09=091633=09=09-0.4
+
+
+See my article in Xenharmonikon 15 and also Ivor's Xenharmonic=20
+Bulletin 12.=20
+
+Given the closeness of 14-tet and the Touch-Tone pitches, for a
+conceptual piece, one might play a page from a phone book <g>.
+
+
+--John

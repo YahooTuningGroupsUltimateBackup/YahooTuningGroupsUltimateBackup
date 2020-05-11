@@ -1,0 +1,43 @@
+source file: m1393.txt
+Date: Thu, 23 Apr 1998 08:01:41 -0500 (CDT)
+
+Subject: RE: JI Tuning Resolution
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Last time we had this discussion, we agreed (I thought) that bowed
+>strings, winds, and brass instruments had exact integer harmonics for as
+>long as they sustain a consistent tone.
+
+   Bowed strings could be a prominent exception, but I doubt if anybody
+could convincingly make that case for most any other orchestral instrument.
+It's almost trivial to demonstrate that that's not true of winds in
+general:  All you have to so is play them onto an oscilloscope;  in many
+cases, you can quite clearly see the higher harmonics "walking" through the
+oscillogram.
+
+   Now bowed strings, since they have very exact nodal points (at least in
+the cases of bridges and frets) that may not be true.  The nodal point at
+the reed end of a typical wind pipe is inherently much more elastic in
+nature though.  (Air-pressure node that is; air-velocity antinode.)
+
+   But in the case of the comparatively imprecise nodal-point that a
+finger-pad provides in unfretted strings, I wouldn't be surprised at all if
+different overtones vary in exactly where they conclude the node is.  I
+don't recall any specifics in this regard, but could investigate.
+
+   Also, having worked a lot with sampled tones looped on a single
+vibration, which obviously renders them exactly harmonic, I can certainly
+attest to the fact that the timbre changes slightly when it drops into
+looping.  And that timbre changes in a manner consistent with overtone
+detuning.
+
+   Now bear in mind that I'm talking about very small deviations from exact
+harmonics here - probably, just as an estimate, on the order of 2-4 cents
+or so.  So when we start demanding tuning accuracy on the order of tenths
+of a single cent, they start becoming significant.
+
+   Again though, as I aluded in my earlier message, these deviations from
+exact harmonics are much smaller in the lower harmonics than in the higher
+ones.  To the degree that JI does what it does more in the lower harmonics
+than the upper ones, perhaps that makes this consideration a small one.

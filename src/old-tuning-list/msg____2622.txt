@@ -1,0 +1,31 @@
+source file: mills2.txt
+Date: Mon, 4 Mar 1996 07:08:57 -0800
+
+Subject: pitch bend
+
+From: "Adam B. Silverman" <Adam.B.Silverman@students.Miami.EDU>
+
+What an overwhelming response to my pitch bend query!  Of course, I know 
+about the user table, and to send the bend before note on; it still 
+doesn't work in legato passages.  I don't understand why a sysex tuning 
+table command can change all of the pitches instantly, but the pitch bend 
+control takes so much time (it makes my string quartet sound like a 
+jaw-harp quartet). I can only guess that this 
+is built in for people who want to hear the gliss, and not for people who 
+simply want to set the bend at a microtonal level. By the way, I also 
+tried setting my bend capability in the Proteus at an octave, so that I 
+would change pitches only by a couple hundred units rather than a couple 
+thousand.  This didn't work well either.
+Adam
+asilverm@email.ir.miami.edu
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 4 Mar 1996 16:43 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA26854; Mon, 4 Mar 1996 07:42:33 -0800
+Date: Mon, 4 Mar 1996 07:42:33 -0800
+Message-Id: <0099ED71E7C85798.C6C6@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

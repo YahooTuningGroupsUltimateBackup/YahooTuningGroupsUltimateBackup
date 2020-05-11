@@ -1,0 +1,62 @@
+source file: mills2.txt
+Date: Thu, 27 Jun 1996 17:32:57 -0700
+
+Subject: Post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: software synthesis
+--
+Congratulations to John Fitch for putting one of
+his xenharmonic Csound compositions on his web
+page.
+To my knowledge no one else has composed anything
+in 100-TET, so John Fitch is likely the first.
+John says "the composers on this forum can 
+probably do better."
+I doubt that.
+John has shown himself a brilliant programmer and
+an insightful subscriber to this tuning forum.  I'd be
+surprised if his compositions were less than 
+excellent.
+Speakingt of insightful posts, John mentioned in
+Tunign Digest 712 "surely the answer is to use
+software synthesis."
+A recent article by Roger Dannenberg in Computer
+Music Journal supports John's contention.
+Dannenberg does some quick calculations that show
+that hardware DSP implementations of synthesis
+algorithms must run at least 40 (!) times faster 
+than the same routines in software to give any
+kind of real-world payoff in less time than it
+takes to develop a usable software interface for
+the DSP hardware.
+The net result?
+Dannenberg concludes that "the days of hardware
+synthesis are over."  General-purpose CPUs are
+increasing in computational power too quickly to
+allow DSP hardware to survive.
+This is extremely good news for micorotnalists.
+The more general-purpose the CPU, the fewer the
+restrictions on tuning.  
+This means that within a very years all the synthesis
+algorithms that now require special-purpose hardware
+to run in real time will run on standard desktop boxes
+in real time.  Not only that, we'll be able to detewelvulate
+at will--in real time--with sophisticated computer music
+timbres on cheap general-purpose computers.
+I can hardly wait.
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 28 Jun 1996 17:24 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA22866; Fri, 28 Jun 1996 08:24:04 -0700
+Date: Fri, 28 Jun 1996 08:24:04 -0700
+Message-Id: <199606281522.JAA06151@freenet.uchsc.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

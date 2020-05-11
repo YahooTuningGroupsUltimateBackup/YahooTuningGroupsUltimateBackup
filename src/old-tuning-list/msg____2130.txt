@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Fri, 13 Oct 1995 06:39:20 -0700
+
+Subject: Pitch table changes on the ASR
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+It has turned out that the virtual button press method for changing pitch
+tables on the ASR and EPS-16 does not work as previously described.  David
+Doty noticed that it reset the viewable page instead of incrementing the
+pitch table number.  What it does is reset the page before the up-arrow is
+recieved, so that you're now looking at layer 2!  I then tried a "put
+parameter" command to the pitch table parameter, but the OS blocks changing
+this particular parameter, so this doesn't work either.
+
+The only way to change this parameter which will really work and let you
+change to any of the 8 possible pitch tables is with a "put layer" command,
+which is possible at the beginnings of sections but ugly while you're
+playing music.  The other trouble with "put layer" is that it requires
+handshaking, in which you send a header, the ASR sends an "OK" message and
+then you send the data.  This probably won't work if you're typing in sysex
+from a sequencer.
+
+It looks like the only way to switch pitch tables on the fly is to use the
+patch select controllers, which only allows you access to four different
+layers, or to use patch select between different instruments.  You could
+have eight instruments in sets of two, so that patch number 1 selects tables
+1-4 and patch number 2 selects 5-8.  This would give you at least four
+tracks of different sounds.  All of these solutions are a kludge and I admit
+this was a design oversight.  We're still the only sampler on the market
+that lets you tune all 128 keys with non-octave tunings.
+
+regards,
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 13 Oct 1995 15:57 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id GAA00102; Fri, 13 Oct 1995 06:57:23 -0700
+Date: Fri, 13 Oct 1995 06:57:23 -0700
+Message-Id: <00997D0CF68692E6.4E5F@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

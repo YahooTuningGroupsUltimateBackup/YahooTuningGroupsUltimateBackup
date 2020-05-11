@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Thu, 22 May 1997 23:20:32 +0200
+
+Subject: modes
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Paul Erlich is quite right in identifying the qualitative difference thatmajor and minor have with respect to the other diatonic modes when placedin a polyphonic voice leading situation. Among other things, the placement
+of the diminished fifth (_tritone_ ought to be saved for the pythagorean
+729/512, on analogy with the ditone) allows for counterpoint with greaterfreedom for inverting voices, which becomes essential in tonal
+counterpoint, canon, and fugue. However,  _melodically_ these modes
+function perfectly well when the melodic rules for the more traditional
+modes are followed (that is - Major as combination of mixolydian and lydian
+and minor as a combination dorian, phrygian and lydian). In fact, I thinka
+good case could be made for hearing early works in Major or minor as a kind
+of rapid _raga malaka_ where changes of harmony allow local melodic
+fragments to shift from one modal melodic type to another.
+
+Although the study of musical intonation provides fertile ground for
+hearing these things flexibly, all too often the result is the opposite. I
+heard a lecture a decade or so ago by a famous African American composer
+and theorist who wanted to analyse _all music_ in terms of the lydian mode
+because it was the one where the the tonic coincided with the lowest termin a series of fifths. I pointed out that this was fine as a model for
+composition - and many fine compositions were made using his model - but
+could not be applied analytically to all music. In simple voice leading,
+the diminished fifth of the lydian mode would always resolve to the
+dominant and the Bach example he used simply didn't do this. The good
+professor responded: ''And that's where Bach went wrong...'' Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 23 May 1997 11:10 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08329; Fri, 23 May 1997 11:10:23 +0200
+Date: Fri, 23 May 1997 11:10:23 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA08288
+Received: (qmail 16098 invoked from network); 23 May 1997 09:10:04 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 May 1997 09:10:04 -0000
+Message-Id: <v01541107afa997e4cc66@[207.207.3.181]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

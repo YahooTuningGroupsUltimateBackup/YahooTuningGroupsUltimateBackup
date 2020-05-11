@@ -1,0 +1,43 @@
+source file: m1398.txt
+Date: Tue, 28 Apr 1998 10:47:40 -0400
+
+Subject: TUNING digest 1397
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+John Loffink wrote:
+
+''You made some valid points, but since the MIDI Tuning Standard is alrea=
+dy
+in divisions of 2^n, I think it would be a bad idea to promote some other=
+
+division.  I was more interested in the desired frequency resolution.''
+
+Perhaps you misunderstood me. If the tuning resolution is, for example, 1=
+
+Hz, in lower registers there is going to be good intonation for the
+harmonic series above 1 Hz, and all else will be rough approximations. I
+think that the contrast between the exact and approximate tunings would b=
+e
+musically unacceptable (with a resolution of 1 Hz, try modulating from th=
+e
+key of 80 Hz to its subdominant!). If I can't have a tuning with the
+accuracy of the Rayna, then I would like the potential deviation from Jus=
+t
+to be spread around as much as possible in a temperament that represents
+harmonic identities consistently. As long as you are not working with
+sustained textures that really require something like the Rayna, I think
+that absolute frequency resolution will be secondary to consistency. I ma=
+de
+the suggestion that equal-tempered division of the octave divisible by 12=
+
+be considered because, MIDI standard or not, tuning tables seem to be
+expressed at the software level most often in terms of unit deviations fr=
+om
+12tet pitch classes, not in terms of octave divisions alone, and
+manufacturers will probably be interested in supporting microtonal capaci=
+ty
+only when that does not eliminate an accurate 12tet. From my experience,
+768tet and 1200tet are not good choices but there are ET of this magnitud=
+e
+that would be better.       =

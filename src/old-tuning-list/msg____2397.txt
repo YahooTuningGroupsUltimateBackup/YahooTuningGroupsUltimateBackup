@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Wed, 20 Dec 1995 01:37:38 -0800
+
+Subject: Transcendental numbers -correction-
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Brian wrote:
+> Claude Shannon proved elegantly that the amount
+> of information required to generate (or parse) a
+> message is proportional to the log to the base 2
+> of the number of bits in the message.  
+
+This is true if all the bits are 0 or 1.
+
+Manuel wrote:
+> That's not exactly true. But this is more the domain of
+> computational complexity.
+
+What I meant was computational information theory.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 20 Dec 1995 16:29 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA13197; Wed, 20 Dec 1995 07:29:37 -0800
+Date: Wed, 20 Dec 1995 07:29:37 -0800
+Message-Id: <9512201526.AA12431@ ccrma.Stanford.EDU >
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

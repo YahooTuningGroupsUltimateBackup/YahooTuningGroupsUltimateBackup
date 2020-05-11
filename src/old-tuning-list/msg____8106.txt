@@ -1,0 +1,179 @@
+source file: m1448.txt
+Date: Tue, 16 Jun 1998 13:20:57 +0000
+
+Subject: Wishlist, TG77, Resolution, Commas
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+DFinnamore wrote: 
+
+> (BTW, if you have access to a Mac and haven't yet gotten the JICalc, do it
+> now!)
+
+No Mac, I'm afraid.  Is there a PC equivalent? 
+
+Drew wrote:
+
+>> Hate to be a wet blanket, but how many commercial synth co.s do 
+>>you think are actually ever going to implement realistic 
+>> microtuning capabilities ?
+
+Totally agreed with John Loffink's reply to this  - there has been 
+progress, and there will be more.   
+
+Carter Scholz wrote:
+
+>Talking to programmers is far more likely to be productive than
+>talking to executives or marketing types.
+
+Exactly. And we need to talk to _both_.   Anyone on good terms with a
+programmer at Roland? 
+
+Drew wrote: 
+
+>Another way is using samplers. You can use a software synthesis
+>system like Csound, CLM,etc.,etc. to synthesize a whole bunch of
+>samples at any pitch you want, perfectly tuned. Then if you can
+>figure out a way to get them into a sampler ASAP with little pain and
+>time ( and have the RAM for it), you're done.
+
+Lets get _rid_ of the pain.
+
+> It would take mucho 
+>RAM, @ 100Kb for ea. mono sample @ one second long. I don't think
+>looping all those samples to conserve memory is a good way to keep
+>sane. Besides, I think David First said something important about the
+>nitty gritty of the looping process. If you need to set up all 128
+>MIDI notes, that's 100Kb * 128= @12.5MB per "instrument",per layer
+>(if you need velocity switching samples,etc). It would take one of
+>those 128MB samplers to pull it off.
+
+I'm not sure I undertood this correctly, or whether it's 
+(remotely?) true for all samplers.  
+
+John Loffink wrote:
+
+>I feel the wish list is still in a somewhat formative stage so I'd
+>prefer to wait before [referring to wishlist URL in ltter to 
+Roland]. .
+
+OK. 
+
+>Is there a citeable reference that gives pitch discrimination in
+>terms of harmonic context?  I know list members have done these
+>experiments, but have the results ever been published anywhere that
+>carries the weight of a JASA paper?
+
+Good point.  I'll start looking.  Anybody have JASA on CD-ROM?
+
+I wrote:
+
+> >Will the Ensoniq extrapolate an arbitrary-number-division
+> >*non-equally- tempered* non-octave scale?
+
+Gary replied:
+ 
+>    Yes.  You describe any sequence of intervals between any group of keys,
+> and it will duplicate that sequence of intervals across successive keys.
+
+(example snipped)
+
+Thanks for the example - perfectly clear. 
+
+Gary again:
+
+>  Do you folks suppose that a TG77 would be appropriate for that sort
+>   of thing?
+
+Gary, this won't answer you question, but maybe its of use.
+
+When I first looking to put my studio together (1989-91) the TG77 was 
+at one time top of my list.  In the end, I didn't buy it because I 
+was interested almost entirely  in simulating acoustic instrs in 
+microtones, and for what I wanted the S770/ S750 blew the TG out of 
+the water.  The other drawback I found with the TG was that sounds on 
+their own were fine, but when mixed together they never seemed to 
+retain individuality (even through a desk etc).  But I never owned 
+the TG.   A while later (1992?) an electroacoustic composer friend  
+bought a K2000 - which is hugely more powerful and sonically superior 
+to the TG. To my ear the K2000 still didn't match the Roland in sheer 
+audio quality, but its programmability is indeed VAST.  Of course 
+there's major differences in price between these beasts (the TG 
+should be dirt cheap now(?) while a s/h K2000 may still be pricey).   
+  
+Gary again:
+
+>To me personally, entirely new harmonic resources and melodic scale
+>structures are more interesting than one- to five-cent distinctions 
+>of the temperament of a well-known scale structure.
+
+I agree with this, but I would still like (ideally) to see a better
+resolution than 1 cent.   0.1 cents seems ideal, although (a) I can 
+understand others wanting better resolution (b) I can understand 
+others being perfectly content with 2 cent resolution. My guess is we 
+need to strike a realistic compromise.  Personally, I think that 
+compromise ought to be something in the region of 0.5 to 0.1 cents.  
+
+Commas:
+
+I wrote (re syntonic comma):
+
+> I have always assumed it could [function effectively, ie go
+> unnoticed' at no 
+>more than] more than about 21-24 cents.
+
+>Paul Hahn wrote: 
+
+> In addition to the 81/80, in traditional 12TET the 128/125 of ca. 41
+> cents also vanishes.  Moreover, their combination, the 648/625, of
+> over 62 cents, even vanishes.  This comma is exploited each time
+> someone uses a diminished 7th chord in 12TET.
+
+Yes, of course, there are those commas too. (I did mean the 
+syntonic comma).   But maybe that begs the question.   
+
+Paul Erlich wrote:
+
+>Barbershop harmony seems to be able to take the septimal comma, 
+>which would be 27 cents in just intonation, and by adjusting the 
+>(harmonic and/or melodic) intervals in the comma's context, and/or 
+>shrinking the comma itself, make it an effective "performance 
+>comma".
+
+Interesting, thanks.
+
+>>It occurred to 
+>>me, as both Pauls reactions seem to confirm, that the ancient 
+>>notion of a 'comma' is (kind of) the original root of the idea of 
+>>consistency. 
+
+>I don't see it.
+
+Paul, I'll send you some stuff on consistency shortly (too long for 
+the list) which will answer your questions.  I only meant (above) 
+that consistency of ETs is based on comparing combinations of nearest 
+approximations to JI intervals in n-ET to the nearest approximation 
+of its JI combinatory eqivalent. The 'construction' of a comma has 
+some similarity: eg., whether the combinations of 3 5/4s are 
+equlvalent to an octave (etc).   But, obviously, there's more than 
+this in consistency.  
+
+>and I wonder if Paul would give us a couple of examples of what he
+>means?
+
+>For the syntonic comma, calculate the difference between four 3/2s 
+>up and a 5/4 down. If the tuning is 5-limit consistent, then this 
+>will be the same as the (absolute) difference between three 3/2s up 
+>and a 5/3 down. In 19-tone equal temperament, four 3/2s up is 6 
+>steps (neglecting octaves), and that is the 5/4, so the comma is 0 
+>steps. In 22-tone equal temperament, four 3/2s up is 8 steps, but 
+>the 5/4 is 7 steps, hence the comma is 1 step.
+
+Great, that's perfectly clear.  Thanks.
+
+Patrick O-L
+
+------------------------------
+
+End of TUNING Digest 1448
+*************************

@@ -1,0 +1,46 @@
+source file: m1417.txt
+Date: Sat, 16 May 98 17:13:14 -0000
+
+Subject: Microtuning Yamaha FM synths
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hello Everyone,
+
+I've been racking my brains and searching the net for a solution to my 
+quest for an accurate  real-time microtuning synth.I use software 
+synthesis to finally realise a composition,but for the initial  process 
+of  composing,I need a real-time  system. 
+
+I considered using samples indivually tuned,but it's too tedious & not 
+flexible.
+
+One possibility I thought of follows.I don't know if it will work as I 
+have never used a Yamaha FM synth,so I'm hoping someone can shed some 
+light.
+
+-Since the carrier frequency can be specified in hertz (I hope it can, 
+along with floating point no.s,anyone here know ?)
+, it should be possible to tune one accurate note per MIDI 
+channel,thereby giving 16 notes on a 16-part synth like the SY/TG-77 & 
+SY-99.then depending on how fast these synths respond to program change 
+messages ( anyone here know how fast in ms ?) ,it could be possible to 
+obtain all neccessary pitches/notes.
+
+It would require real-time MIDI proccessing using something like MAX to 
+build an application that 
+had the neccessary user-specified intelligence to know when to send pgm 
+changes,and on what channels depending on which are occupied and what 
+tuning you are using.It would also possible to assign notes from your 
+controller to do specific things.
+
+I would appreciate any advise and insights,perhaps from anyone who has 
+tried this.
+
+On a related note,I think it's a shame that there are barely any current 
+synths that are actual synths and not actually glorified sample-playback 
+devices.
+
+
+Cheers,
+Drew

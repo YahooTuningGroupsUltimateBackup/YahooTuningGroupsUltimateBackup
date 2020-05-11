@@ -1,0 +1,121 @@
+source file: mills3.txt
+Date: Tue, 21 Oct 1997 18:17:44 +0200
+
+Subject: Dictionary Devils
+
+From: Carl Lumma <clumma@nni.com>
+
+>>I like equal-step tunings as much as the next guy. I even like 12.  I am
+>>always amazed at how good it sounds, and at how powerful it is...
+>
+>Okay, so to you, 12-TET tunings are powerful (and this is cause for
+>amazement, presumably because of the high integer ratios it employs)
+
+I call it powerful because it gets a lot done with only 12 pitches.  There
+is a difference between consonance and utility.  12et's intervals aren't
+very consonant, but they do provide a huge musical framework for being only
+12 (providing 144 of Partch's "senses").
+
+>>Consonance is a factor of the size the number in an intervals ratio.
+>
+>In a sense, yes, because the interval itself is a factor of the sizes of
+>the numbers in the ratio.
+
+What?
+
+>But in another sense, no: the Random House Dictionary and the New Harvard
+>Dictionary of Music agree that consonance is a factor of cultural
+conventions >and the "mind of the beholder" (or the musical equivalent of that).
+
+Here's your problem!  You are using the Random House Dictionary and New
+Harvard Dictionary of Music as references.  Consonance is not a factor of
+the mind, it is an acoustic phenomenon having to do with the superposition
+of waveforms.  Make the perception of this phenomenon as subjective as you like.
+
+>>An interval 16 cents flat of the sublime 6/5 has frequency ratio
+>>19723/16585.  This, of course, is our quite dissonant 12et minor third.
+>
+>So, 6/5 is sublime, and 19723/16585 is quite dissonant, yet powerful.
+
+I did not call any interval in 12 equal powerful.  I called the tuning
+powerful.  If you listen to the 300 cent third, you can hear it beat.  This
+is dissonance.
+
+>>An interval 18 cents flat of the 6/5 bears ratio 19/16.  It is a very
+>>consonant minor third found in the duple 16-32 of the harmonic series...
+>
+>And 19/16 is very consonant.
+
+It seems this comment was designed to make fun of me, based on your
+Random-House-school-of-Cognitive-Psychology definition of consonance.  If
+consonance is so subjective, why don't you offer a description of the 19/16?
+What's that?  You've never heard it?
+
+>Colleagues of the tuning list, the evidence suggests that musical beauty
+>is in the ear of the hearer.
+
+All forms of beauty are subjective.  That this is so, I think, is beautiful.
+
+>I see many claims that low integer ratios produce more "natural" and
+"perfect" >harmonies, but little proof that people actually respond this way.
+
+The fact that you've heard many claims seems to suggest that people respond
+that way.  For more evidence, check out Arthur Benade's "Special
+Relationships" study, written up in his book "The Fundamentals of Musical
+Acoustics" and in Doty's excellent "Just Intonation Primer".
+
+Or you could do your own study.  I've done demos with over 15 people and
+have yet to find someone who doesn't prefer his subjective experience of
+Just Intervals.
+
+Or you might ask why a capella choirs sing in Just Intonation.  You can't
+get any more direct a measure of how humans like their sound than how they
+tend to use their voices in a group.
+
+>This makes the tuning list sometimes read like some medieval treatise on
+the >nature of God.  Why be amazed then, that the Devil incarnate, 12TET,
+wields >such power?
+
+I don't know who we've got on this thing, but I thought it was more than
+numerologists.  There's nothing inherently good about the low integers.
+Tuning to them only makes sense because they occur in the timbres of most
+acoustic instruments.  If you have an instrument (like the Hammond Organ)
+that produces tempered harmonics, then it would be a mistake to tune it in
+Just Intonation (it's also impossible to re-tune tonewheel organs).
+
+As for my use of "amazed", you've probably got me.  I'm actually amazed at
+how such beautiful patterns can come out of almost any tuning, Just or not.
+That's why I got into Xenharmonics.  Not because I was on a numerological
+crusade, but because tuning can be one of the most powerful resources for
+musicians.
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  James Kukula <kukula@synopsys.com>
+Subject:  MIDI file formats
+PostedDate:  21-10-97 19:53:32
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  21-10-97 19:52:45-21-10-97 19:52:46,21-10-97 18:53:24-21-10-97 18:53:24
+DeliveredDate:  21-10-97 18:53:24
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256537.0062332E; Tue, 21 Oct 1997 19:52:36 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23110; Tue, 21 Oct 1997 19:53:32 +0200
+Date: Tue, 21 Oct 1997 19:53:32 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA23124
+Received: (qmail 6851 invoked from network); 21 Oct 1997 10:53:28 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 21 Oct 1997 10:53:28 -0700
+Message-Id: <199710211747.KAA11860@sunatg3>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,32 @@
+source file: m1351.txt
+Date: Wed, 11 Mar 1998 17:08:26 +0000
+
+Subject: Conversion kits for pianos
+
+From: "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+
+Judith Conrad wrote:
+
+> I saw on rec.musicmakers.piano the other day that Story and Clark piano
+> company sells conversion kits for putting electronic innards into old junk
+> pianos. Anyone know anything about this? Are they tunable? I was once
+> given an 88-note  silent keyboard... 
+
+I have seen a number of these systems - including MIDI compatible 
+ones.  There is a company in Cambridge UK which specialises in such 
+transformations, and there certainly used to be various 
+do-it-yourself kits available.  I can't remember the names of them 
+now (there was one available some years ago called 'Crystal Keys') -  
+but at some point when I have time I could find out easily enough.  
+(By 'electronic innards' I'm assuming you mean sensors under the 
+piano keys which pick up note on/off,  velocity, and presumably some 
+thing to do with the sustain pedal - rather than player-piano type 
+innards?).  To damp the piano some very heavy felt or even felted 
+wire to catch the hammers will do, tho you wouldn't need it on the 
+silent keyboard.
+
+> >Are they tunable?
+
+As tunable as the MIDI device you play it through. 
+
+Patrick O-L

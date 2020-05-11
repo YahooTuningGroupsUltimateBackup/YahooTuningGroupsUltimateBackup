@@ -1,0 +1,317 @@
+source file: m1417.txt
+Date: Sat, 16 May 98 13:37 BST-1
+
+Subject: Miscellany
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+I'll be a digest out of date by the time I send this.
+Anyway, there are some things I want to say and I'll say
+them all in one message.  Apologies if I seem to be repeating
+or ignoring someone.
+
+
+LATTICES
+--------
+
+Joseph L Monzo wrote:
+
+> Picking a particular set of pitches arbitrarily, and
+> Going back to Tuning Digest 1315, here's the 7-Limit
+> "Tonality Diamond" in Graham Breed's Triangular Lattice
+> Diagram, which is of the type used by Erlich:
+
+It would be more correct to say "Paul Erlich's Triangular
+Lattice Diagram, which is of the type used by Breed".  Paul
+was using them before me, definitely extended them to the
+7-limit first, and drew them in ASCII first.  He also named
+them "triangular".  As I say on my website (and have said
+before on this list) _I_ would have called them hexagonal,
+like I was taught in Condensed Matter Physics.
+
+I don't know how much, if anything, is original to Paul.
+He can speak for himself on that.
+
+> First comment: I've many times wished that we humans could
+> work with more than 3 dimensions when up against the problem
+> of visualizing and representing more than 3 prime dimensions
+> in music.  Fortunately, 7-limit systems _can_ be represented
+> in three dimensions.
+
+We can, of course, work with as many dimensions as we like
+by using coordinate geometry.  It is easer to "understand"
+scales when you can visualise them, though.  You can specify
+ambiguous chords as a superposition of different matrices.
+I think this has application in a dynamic tuning program.
+
+> Graham leaves his 7-factor-ratios unconnected by
+> any lines to the 3- and 5-limit ratios.  If I replace
+> the ratios with the prime-factor notation that I use,
+> and connect the 7-ratios in a manner similar to others,
+
+Usually, I connect all 5-limit planes in this fashion.  I
+don't usually do that with three planes in a diagram, because
+it gets too cluttered with lines.  If I were to, it would
+look something like this:
+
+
+                  B-----------F#
+                 / \         / \
+                /   \   Ab  /   \
+               /     \ / \ /     \
+              /   E#----------B#  \
+             /     \ / \ / \ /     \
+            G-------\---D---/-------A
+             \     / \ / \ / \     /
+              \   Fb--\---/---Cb  /
+               \     / \ / \     /
+                \   /   G#  \   /
+                 \ /         \ /
+                  Bb----------F
+
+>From the way the lines cross, you can see which plane is
+supposed to be the highest, and so reconstruct it in three
+dimensions in your mind.  Ideally, each plane would be a
+different colour.  The structure is a regular dodecahedron,
+or something like that.
+
+I find it easier to understand the scales with conventional
+names.  There's no need for prime factorisation, because it's
+implied by the lattice.
+
+
+PRIME VS ODD LIMIT
+------------------
+
+The most paradoxical chord from an odd limit perspective I
+find is 4:6:9.  I think of it as extended 3-limit, because
+it's the fifths that give it it's character.  It is also
+highly octave specific.  It sounds more consonant
+(concordant) than a major triad in root position, but
+transpose it to 8:9:12 and it's clearly more dissonant.
+
+There may be ways the ear relates to prime factors.  Different
+overtones will be reinforced, and the difference tone pattern
+may change.  This is strongly linked to timbre, though, and
+breaks down before you get to 81/64.
+
+The good intervals in equal temperaments don't usually
+constitute anything like an odd limit.  It's generally more
+efficient to say how well different primes are approximated.
+For exactness, state the signed errors, and you can work
+other intervals out from that.
+
+Incidentally, it seems to me that the concept of level-n
+consistency is closely related to the recently defined
+radius of the scale.  If you want to use all the notes in
+a radius 2 scale, it helps if it's level-2 consistent as well.
+
+
+OCTAVE INVARIANCE
+-----------------
+
+There are (at least) three different concepts involved here,
+which need to be distinguished for the discussion to progress:
+
+1) The idea that harmony is unchanged if notes are transposed
+  independently in octaves.
+
+2) The practice of giving notes related by octaves the same name.
+
+3) The practice of defining scales within an octave, and
+  repeating them in other octaves.
+
+In all cases the choice of the octave as an invariant interval
+is not an arbitrary one.  (1) I would argue with, if taken as a
+fundamental principle.  I won't do so in detail today, as it is
+outside the brief of this list (we all now how to tune octaves!)
+
+If the ear/brain complex has a hard-wired mechanism for
+octave reduction, this would relate to the 10:12:15 vs
+16:19:24 tuning of a minor triad.
+
+Personally, I see no way in which intervals an octave apart
+can be considered "the same" and my brother agrees with me.
+I'm sure people can convince themselves otherwise, the same
+way they learn to hear the "3-ness" in a sharp major third.
+
+
+TEMPERAMENT
+-----------
+
+Joe Monzo again:
+
+> I think a large part of the reason Schoenberg stuck with the
+> 12-Eq scale was because he realized intuitively that within the
+> vastly expanded resources of his implied 13-Limit, were he to
+> work in just-intonation, the number-play involved could quickly
+> become a bottomless pit from which his musical inspiration would
+> never again emerge into the light of day.  Then again, I also
+> think he wanted to make use of the ambiguities made possible
+> by a comparison of so many close ratios on the one hand and
+> their nearby 12-Eq equivalents on the other.
+
+Then again, perhaps Schoenberg had a piano.
+
+> I refuse to accept an equal-temperament because it makes
+> modulation "easy" or (excuse me while I laugh) "possible".
+
+Where were you when Gregg Gibson was stomping all over the
+list?  Temperaments do make modulation easier, and this is
+important.  If this is a personal decision, though, it's fair
+enough.
+
+> The only reasons I can see for accepting any equal-temperament
+> is that it is easier to play on most instruments, and, as I stated
+> in another post to this issue, the study of the interplay between
+> JI and ET in the same piece is becoming more and more interesting
+> to me.
+
+That sounds too dogmatic to me, perhaps it wasn't intended
+to be.  Other reasons are:
+
+1) You like the sound of it.
+
+  The only reason you need.
+
+2) It simplifies notation.
+
+  If a piece of music makes sense in JI, good musicians will
+  work this out from staff notation, if you point out the
+  difference between G# and Ab.  (If there are a lot of
+  Pythagorean intervals, Erv Wilson's positive notation is more
+  useful.)  Bad musicians won't be helped by precise tuning
+  indications.  If the music doesn't make sense, who cares
+  how it's played?
+
+3) It allows ambiguous chords.
+
+  I remember you (Monzo, TD1403) agreeing that the chord
+  below only works in meantone.  Did you really mean to imply
+  (above) that this isn't a use for temperament?
+
+                 A---E---B
+                      \ / \
+                       G---D---A
+
+4) You can't be bothered to work out the ratios.
+
+  As implied in the Schoenberg paragraph, most
+  composers don't want to worry about ratios.  They want a
+  resourceful scale to compose in.  Give them a meantone, and
+  they'll find good harmonies in it.  They might even give
+  them to musicians who'll render them in JI.  Do you really
+  expect the composer to sit and work out where the commas
+  should be?
+
+
+POPULAR MUSIC
+-------------
+
+Drew Skyfyre wrote:
+
+> In an interview I just saw on TV,in which they discussed briefly,their 
+> middle eastern/oriental explorations,Jimmy Page said of their new 
+> album,Walking into Clarksdale,(I quote from memory)
+> "The Oriental stuff was done by a guy called Tim from Transglobal 
+> Underground (a British dance music outfit) who plays an Oriental keyboard 
+> that plays microtones."
+
+Cool!  I've got one TGU album (Psychic Karaoke) and I've
+always wondered if it's strictly 12-equal.  There's no mention
+of a Tim in the booklet, though.  Alex Kasiek and Hamid Mantu
+are both credited, among other things, with "Keyboards".
+
+> Could this be one of those General Music "Arabian" keyboards ?
+
+Unlikely, I'd have thought.  Perhaps they just mean a tunable
+synth.  There's seem's to be more of an Indian than Arabic
+influence in TGU, along with the dance, rap and reggae.  There
+are Indian Classical vocals on one track.
+
+When I was looking for a MIDI keyboard, one of the shops I
+went to said, after I asked about tuning capability, that
+there'd been some Arabs in before after the same thing.  I
+think they use normal synths with tuning tables.
+
+Technically, it was someone in the shop who said that, rather
+than the shop itself.  Anyway, you get the idea.
+
+Also, there's an "Eno" credited on this TGU album.  Probably
+Brian, although could be Roger.  I think Brian was mentioned
+before as having used microtonality, wasn't he?  Maybe there's
+a connection.
+
+
+BTW, anyone familiar with Nassim Maalouf?
+
+
+LUCYTUNING
+----------
+
+Gary Morrison wrote:
+
+> The semitruth:  LucyTuning definitely can stack up more fifths above a tonic
+>    before approximately closing the circle than either quarter-comma or third-
+>    comma meantone.  Third-comma meantone comes "close enough" at 19 fifths,
+>    and quarter-comma at 31 fifths.  LucyTuning doesn't get there until about
+>    88 fifths.  But this is only a semitruth, because taken in absolutes, the
+>    circle of fifths never closes in ANY typical meantone tuning.
+
+The most irrational meantone in this respect is Kornerup's
+phi based tuning.  Is that right?  I think of it as the
+standard melodic meantone.
+
+
+GUITAR TUNING
+-------------
+
+Drew Skyfyre:
+
+> I'm having a sort of eureka thing .Two  recent/current threads got me 
+> thinking about how it is possible to put together a microtonal guitar  
+> (even non-tempered) and be able to modulate through quite a few keys,etc..
+> The possibilities are extensive so,I'll just let you use your imagination.
+ 
+> All it entails is combining a guitar with any microtonal fretting system 
+> (including JI) and a Steinberger TransTrem.
+
+This is pitch shifting, presumably?  It's something I had in
+mind when I went for a non-equal fretting.  Unfortunately,
+my Zoom 505 isn't good enough to be useful in this respect.
+Actually, modulation hasn't been a problem so far, as it's
+common to use keys with open strings anyway.  The solution
+would be to tune the strings around the set of keys desired.
+
+Incidentally, having different notes on different strings is
+a _good_ thing.  It means you get more chords than you would
+otherwise.
+
+
+John Starrett:
+
+> If someone 
+> can give me a valid reason why the nut should not be treated as the 0th 
+> fret, I will eat a bug (I get to choose the bug and the method of 
+> preparation).
+
+Fretting a note will slightly lengthen the string, and so
+increase it's tension.  I worked out that, to a first order
+approximation, this effect is independent of where on the
+fingerboard you put your finger.  So, move the nut a bit
+nearer the bridge than if it were the zeroth fret.
+
+Independently movable bridges probably work for this reason,
+except they're at the wrong end of the guitar!
+
+For a guitar's tuning to be good enough to make just intonation
+relevant, we do have to think about this sort of thing.  The
+tuning pegs are the most imprecise bit according to my ST900.
+Good enough for meantone, but no better.  Also, the thickest
+string varies about 10 cents depending on how hard I pluck it.
+
+
+Your unloveble young nutcase,
+
+                 Graham Breed
+            www.cix.co.uk/~gbreed/

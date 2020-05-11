@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Tue, 30 Jul 1996 21:43:01 -0700
+
+Subject: The generating function
+
+From: Mmcky@aol.com
+
+Hello again Paule,
+
+>Manuel's series are in fact infinite. You don't stop at 
+>100tet, or 1200tet, or 30103tet; you keep going 
+>forever. Therefore the number of generating 
+>functions need not be infinite.
+
+Perhaps I haven't been paying enough attention here, 
+so I went back and reread some of Manuel's posts, 
+and I see that you have a point.
+
+I do wonder why Manuel didn't just say that.  It 
+appeared that he was trying to defend the idea that a 
+finite collection of integers had only one generating 
+function.
+
+Marion
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 31 Jul 1996 07:49 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA16459; Tue, 30 Jul 1996 22:49:27 -0700
+Date: Tue, 30 Jul 1996 22:49:27 -0700
+Message-Id: <199607310547.XAA03268@freenet.uchsc.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

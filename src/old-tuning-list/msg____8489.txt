@@ -1,0 +1,28 @@
+source file: m1531.txt
+Date: Wed, 16 Sep 1998 11:15:18 +0800
+
+Subject: Re: Trombone
+
+From: Lydia Ayers <layers@cs.ust.hk>
+
+Stuart Dempster's book, "The Modern Trombonist," doesn't discuss
+tuning in much detail.  It's really about extended trombone
+techniques.
+
+Any kind of tuning on a trombone, including adaptive tuning,
+would really just depend on the ear of the trombonist.  So the
+place to find out about that would be to understand adaptive
+tuning in relation to just intonation as a theoretical problem,
+followed by just intonation ear training.
+
+Off the top of my head, I don't know who has such a program,
+but it should be genralizable for most instruments.  You can
+also make your own examples on a computer, using, for example,
+Csound.  I have a lot of information on this is my course
+notes, http://www.cs.ust.hk/~layers/comp342/comp342.html.  (some
+of the links will be hooked up later in the semester; you can
+view the page source code to find the files now).
+
+Best,
+
+Lydia Ayers

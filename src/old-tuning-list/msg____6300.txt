@@ -1,0 +1,72 @@
+source file: mills3.txt
+Date: Sun, 19 Oct 1997 00:04:44 +0200
+
+Subject: Scala EXAMPLE with MIDI Csound
+
+From: Greg Schiemer <gregs@mail.usyd.edu.au>
+
+G'day,
+
+I have a problem that others on the tuning net may have encountered and
+solved. Or this may be another tuning idea for John Fitch to consider.
+Will Csound eventually have a command to support MIDI file format 1 ?
+
+Here's the scenario.
+
+I've just written a rather large (over 17 minutes) a capella work for
+voices in 7-limit just intonation entitled "Vedic Mass". Graham Hair, the
+artistic director of Voiceworks, (the group that commissioned it) would
+like a Csound crib of the work to ensure the singers had precise pitch
+references during rehearsal. Instead of writing this crib completely from
+scratch using the many tuning features of Csound, I thought of using a
+MIDI file extracted from Finale - the notation software I used to create
+the score. I'd hoped to produce a tunable MIDI file using the EXAMPLE
+command in Manuel Op de Coul's Scala.
+
+Briefly, this command takes an input MIDI file (format 0) and using any
+scale loaded into scale memory in Scala, produces an output MIDI file
+(format 1) in which each note is bent with appropriate MIDI pitch wheel
+data that represents the tuning of each note on a dedicated MIDI channel.
+
+Problem. Csound can only read format 0. If Csound could read file format
+1, then I (and others ?) would have a way of quickly putting a score into
+Csound and hearing how it is meant to sound in just intonation or any
+other alternative tuning system. How possible would this be John ?
+
+The two alternatives I can think of are ..... well I dread to think about
+it .... start putting the score in again in Csound using tuning tables or
+using other MIDI tools to make each File format 1 tuning message into a
+File format 0 (and I should expect to die in thirty years time anyway!)
+
+In the mean time, does anyone have another elegant time-saving solution ?
+
+Greg S
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Johnny Reinhard <reinhard@IDT.NET>
+Subject:  Re: Ambassador Mondale on JI
+PostedDate:  19-10-97 20:16:36
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  19-10-97 20:15:55-19-10-97 20:15:56,19-10-97 19:16:36-19-10-97 19:16:36
+DeliveredDate:  19-10-97 19:16:36
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256535.00645193; Sun, 19 Oct 1997 20:15:44 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA20933; Sun, 19 Oct 1997 20:16:36 +0200
+Date: Sun, 19 Oct 1997 20:16:36 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA20946
+Received: (qmail 26122 invoked from network); 19 Oct 1997 11:16:31 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 Oct 1997 11:16:31 -0700
+Message-Id: <Pine.GSO.3.95.971019141015.11364A-100000@u2.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

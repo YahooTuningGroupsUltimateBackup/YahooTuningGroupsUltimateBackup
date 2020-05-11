@@ -1,0 +1,64 @@
+source file: mills3.txt
+Date: Sat, 13 Dec 1997 22:51:46 +0100
+
+Subject: Tuning Artefacts
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+In matters of temperament one must carefully distinguish between equal
+divisions of the octave that are temperaments, and those which are
+merely tuning artefacts. A temperament constitutes a system wherein
+every note can be obtained by a cycle of any one of the consonant
+intervals; in such systems every pitch can be introduced into music by a
+consonant disjunct interval, if desired, and not only by singing a
+conjunct dissonance, the exact pitch of which is difficult either to
+sing or to integrate into instrumental music. The prinicipal
+temperaments are 12- 19- 31- 43- 50- & 55-tone equal.
+
+A tuning artefact on the other hand has good representations of the
+consonances, but as in just intonation, these consonances are not
+reduced to a system wherein all consonances stand in a fixed proportion
+or equipartient ratio to one another, as for example in 19-tone equal
+the major third is always 6/11 as wide as the perfect fifth.
+
+ In tuning artefacts on the contrary we find that these ratios are
+variable, which results in diminished or augmented fifths at divers
+places in the tonal fabric, or else similarly impure thirds. Moreover in
+such tuning artefacts, at least 1/2 of the tones form no part of the
+cycle of fifths - I mean those fifths that have consonant thirds - but
+lie forever outside it. Just intonation itself is far more tolerable
+than these inconsistent systems; examples are the 22-, 29- 41- & 53-tone
+equal systems. Very strangely, the last of these was lauded by Bosanquet
+(among others) as the ne plus ultra of intonational perfection! And so
+it is - in the same way that just intonation is mathematically perfect
+but perfectly unusable in practical music (of this or any other
+century), becuse of its undistributed, commatic errors.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  Just Intonation
+PostedDate:  14-12-97 01:47:51
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  14-12-97 01:45:52-14-12-97 01:45:52,14-12-97 01:45:34-14-12-97 01:45:35
+DeliveredDate:  14-12-97 01:45:35
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656D.000430E6; Sun, 14 Dec 1997 01:47:42 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14763; Sun, 14 Dec 1997 01:47:51 +0100
+Date: Sun, 14 Dec 1997 01:47:51 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA14762
+Received: (qmail 27836 invoked from network); 13 Dec 1997 16:47:47 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 13 Dec 1997 16:47:47 -0800
+Message-Id: <34938EA4.45F8@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

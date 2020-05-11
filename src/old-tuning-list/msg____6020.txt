@@ -1,0 +1,96 @@
+source file: mills3.txt
+Date: Wed, 27 Aug 1997 19:41:19 +0200
+
+Subject: Reply to Paul Erlich
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+> [I] get the feeling that you're doing some interesting work, but you're
+> speaking a language too different from the majority of the tuning list
+> to engage many of us with your ideas. The last message in particular was
+
+This could well be the case.  I worked out my ideas, including the
+basics of interval matrices, before I joined the tuning list and so
+before I realised there were other people interested in the same
+stuff as me.  Naturally, I worked out my own terminology to explain
+things to myself.  I'm trying to explain myself using the standard
+terms where possible, but it isn't easy because most of them don't
+even seem to have precise meanings, and some of my concepts also
+appear to be original.
+
+> The last message in particular was
+> very obscure. Can you try doing some hand-holding for us and explain
+> what you mean by "this works," "that doesn't work," a "0-comma scale,"
+> and "this temperament"?
+
+Okay.  By "this works" I meant that a 2-D scale could be
+constructed such that every 5-limit interval can be defined on
+that scale.  I originally added the condition that a basis should
+be a tempered 2-3 plane.
+
+A 0-comma scale is a tempered scale with a just octave and another
+just interval, usually a perfect fifth.
+
+"This temperament" is the doubly positive temperament that Paul
+Erlich worked out.  I think this can be called doubly positive
+temperament, as it covers all the ETs usually described as doubly
+positive.  It is defined using the following matrix equation:
+
+                          (1    0)
+                     H' = (0    1)H'
+                          (5.5 -2)
+
+As this matrix involves a fraction, the tempered 2-3 plane is not
+a basis.  The 0-comma scale involves a just fifth and a tritone
+equal to 6 steps in 12 tet.  By my original criteria, it "doesn't
+work" but non-Pythagorean bases can be chosen.  For example:
+
+                   (s) = (-0.5 1)H'
+                   (r)   ( 3  -5)
+
+> Feel free to review you matrix/determinant stuff.
+
+A full description of interval matrices should arrive with this
+post.  Even people with a non mathematical background should be
+able to follow most of it. Please ask if there's anything you
+don't understand.  This post uses terminology from that one.  I've
+brushed determinants under the carpet for the time being.
+
+> It may actually be valuable for understanding ancient Hindu
+> music. Then let's talk 7-limit.
+
+I'm more interested in making new computer music than describing
+old music, but I am nevertheless interested in what scales are
+used by different peoples at different times.  Particularly when
+those scales can be defined economically by mathematics, ie JI and
+ETs.  FWIW, I've now worked out 3 different 7-limit approximations
+to doubly positive temperament.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk
+Subject:  Matrices for beginners
+PostedDate:  27-08-97 19:40:03
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  28-08-97 10:21:45-28-08-97 10:21:46,28-08-97 10:19:19-28-08-97 10:19:19
+DeliveredDate:  28-08-97 10:19:19
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256501.002DD4DC; Thu, 28 Aug 1997 10:20:36 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02473; Wed, 27 Aug 1997 19:40:03 +0200
+Date: Wed, 27 Aug 1997 19:40:03 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA02471
+Received: (qmail 6221 invoked from network); 27 Aug 1997 17:39:51 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 27 Aug 1997 17:39:51 -0000
+Message-Id: <memo.778671@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

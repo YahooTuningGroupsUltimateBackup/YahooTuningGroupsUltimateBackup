@@ -1,0 +1,56 @@
+source file: m1607.txt
+Date: Fri, 18 Dec 1998 23:06:48 -0500
+
+Subject: xen keyboards 2
+
+From: Carl Lumma <clumma@nni.com>
+
+I wrote: "Do you know if the force required to move the keys increases
+towards the back rows?"
+
+For those of you not familiar with this, the Janko keyboard, being
+originally designed for acoustic instruments in 12tET, has keys sharing the
+same internal lever and strings (as Manuel explained).  This causes the key
+travel to be longer and easier in the rows nearer to the performer, and
+shorter and harder in the rows farther from him.  I think it can be agreed
+that this is undesirable.  The makers of Janko pianos never solved the
+problem.
+
+Norman Henry has suggested simply making all the levers very long compared
+to the difference in key contact points, so that the difference between
+rows will be minimal.  That this can work without requiring unreasonably
+deep key travel for all the rows remains to be seen.
+
+I have suggested the following arrangement...
+
+                                                    ............string
+ key              key                               ( )
+-----            -----                             ( | )
+  |                |                                (|)
+   ----------------                                  |  <--hammer
+          |                                          |
+--------------------------------------------------------- key lever
+          ^                           ^
+     branch point                  fulcrum
+
+
+But the question is, even assuming that we can make this branching bit
+absolutely rigid (which would be difficult in the least), will the force on
+each key be...
+
+(a) the same, as if each were attached at the branch point (it works).
+(b) different, as if each were attached at the point directly beneath it.
+(c) half and half -- the force is triangulated, or something.
+
+Norman Henry and Brian McLaren both think (a), and this seems to me the
+intuitive choice.  But I have been skeptical of intuition in such matters
+ever since I learnt that the torque on a screw can be changed by changing
+the length of the screwdriver (anyone who would care to explain that,
+please mail me at clumma@nni.com).
+
+Either way, can anyone come up with a different solution?  It would be
+worth a great deal, I think.  Might even get one in the history books (I
+think we're all already there anyway, but...  :~)
+
+
+Carl

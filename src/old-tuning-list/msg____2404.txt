@@ -1,0 +1,47 @@
+source file: mills2.txt
+Date: Thu, 21 Dec 1995 11:59:15 -0800
+
+Subject: Re: The collapse of innovation in post-1988 synthesizer technology
+
+From: james@astro.as.utexas.edu (James McCartney)
+
+>From: mclaren
+
+>N.B.: Even though the Kurzweil 2500 series offers
+>gobs of RAM, the sampler does *NOT* have a
+>full-keyboard tuning table.  Thus my next sampler
+
+However the K2000 & K2500 have a feature that is *better* than tuning tables
+if you are willing to program it a bit and use MAX as your controller.
+
+I use MIDI controller 20 into a sample and hold that samples per voice on
+note on. That controller is used to modulate pitch over one semitone
+giving 128 steps per semitone. I use MAX to send a MIDI controller 20
+as a fine tuning before each note on.
+
+This scheme allows me to use 1536 pitches per octave over the entire range
+of the machine at any time and not be limited to any fixed set of pitches.
+It also allows polyphonic microtonality on a single MIDI channel which you
+cannot do if you are using pitch bend since pitch bend is monophonic per
+channel.
+
+In order to use this scheme you must edit your K2000 patches to use one
+of the FUNs as a sample and hold and use that as a pitch modulator.
+
+I think this makes the K2000 the BEST synth of all for microtonality.
+
+
+   --- james mccartney     james@astro.as.utexas.edu
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 21 Dec 1995 21:29 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA13685; Thu, 21 Dec 1995 12:29:42 -0800
+Date: Thu, 21 Dec 1995 12:29:42 -0800
+Message-Id: <199512212134.QAA23387@cerberus.Ensoniq.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

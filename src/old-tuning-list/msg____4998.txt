@@ -1,0 +1,34 @@
+source file: mills2.txt
+Date: Wed, 5 Mar 1997 15:23:34 -0800
+
+Subject: RE: Greeks and pi (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>This question is prompted by discussions on ancient greek ideas.
+
+>If irrationals were treated differently to rationals, how did the
+>ancient Greeks handle Pi?
+
+>lucy
+
+The ancient Greeks were well versed in rational approximations to pi, and 
+the proof that pi was ultimately irrational was unknown to them.
+
+See "A History of Pi" by Petr Beckmann, which unfortunately has no 
+discussion of Ramanujan, the greatest pi-man ever.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 6 Mar 1997 00:28 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07223; Thu, 6 Mar 1997 00:28:36 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07132
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id PAA11971; Wed, 5 Mar 1997 15:26:16 -0800
+Date: Wed, 5 Mar 1997 15:26:16 -0800
+Message-Id: <Pine.SCO.3.91.970305144135.16325D-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

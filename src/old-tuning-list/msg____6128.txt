@@ -1,0 +1,56 @@
+source file: mills3.txt
+Date: Sun, 21 Sep 1997 21:41:31 +0200
+
+Subject: MIDI pitch bend tuning
+
+From: DFinnamore@aol.com
+
+Graham, responding to Gary, writes:
+
+> MIDI transmits 3125 instructions per second.  A pitch bend is 3
+>  instructions.  To send 16 of these takes 3*16/3125*1000=15.36 ms,
+>  or twice as much if you include the note-ons as well.  Is this
+>  really a problem?
+>
+>  > i don't like using pitch bend...the pitch bend affects all notes on that
+>  > channel, meaning that you can really only do monophonic stuff.  yuck.
+>
+>  That depends on your software, of course.  With GM, you're
+>  limited to 15 melodic notes per MIDI stream.  It's quite
+>  possible to go beyond this, but I've never wanted to.
+
+It's not really a matter of ips.  It's a problem for real-time playing under
+most circumstances.  If one has an Opcode Studio 5 or something like it, it's
+possible to set up a "patch" that will reassign any note number to any MIDI
+channel/OUT in real time.  But for most of us that's not an option.  Not to
+mention that spending 12 to 15 channels per timbre virtually prohibits even
+moderately complex orchestrations without a staggering amount of MIDI gear.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Mckyyy@aol.com
+Subject:  FasTrak
+PostedDate:  21-09-97 21:52:04
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  21-09-97 21:51:48-21-09-97 21:51:49,21-09-97 21:50:58-21-09-97 21:50:58
+DeliveredDate:  21-09-97 21:50:58
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256519.006D1B32; Sun, 21 Sep 1997 21:51:43 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03283; Sun, 21 Sep 1997 21:52:04 +0200
+Date: Sun, 21 Sep 1997 21:52:04 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03281
+Received: (qmail 20011 invoked from network); 21 Sep 1997 19:48:01 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 21 Sep 1997 19:48:01 -0000
+Message-Id: <970921133559_-928565629@emout14.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

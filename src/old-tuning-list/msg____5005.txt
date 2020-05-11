@@ -1,0 +1,81 @@
+source file: mills2.txt
+Date: Thu, 6 Mar 1997 13:24:52 -0800
+
+Subject: RE: Meaner Tones (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>He suggested a tuning with Major Thirds (TM) of 372 cents,
+>Fifths (F) of 720 and minor thirds (tm) of 348 and asks that I
+>compare this to 15-tet. I can't tune up the triads easily today, but
+>I did calculate the following:
+
+>	   	    Fifth	    Major T 	 minor t (in cents)
+>PE's tuning	  720	 372	 	    348
+>15-tet	  	    720	 400	 	    320
+
+>720-F 18.05 	   	    (720-F)^2	325.62
+>T-372 14.3137 	 (T-372)^2 204.88
+>400-T	   	    13.683	   	    (400-T)^2 187.31
+>348-tm 32.36	    	    (348-tm)^2 1047.09
+>320-tm 4.36		    (320-tm)^2 19.0
+
+>Now let us sum the squared errors of the fifth and the Major
+>Third for both tunings:
+
+>15-tet 325.62 + 187.31 512.93
+>PE's  325.62 + 204.88 530.5
+
+>15-tet is the more consonant tuning by this test, though not by much.
+
+>Now let us add the squared error of the minor third to each.
+>15-tet 512.93 +19531.93
+>PE's 530.5 + 1047.09	    77.59
+
+>I will stipulate that this is a very large difference, but we already
+>knew that 15 tet was the more consonant.
+
+Grr! OK, PE's is now redefined (for the third time) to have a perfect fifth 
+of 720 cents and a major third whose error is exactly equal in magnitude and 
+opposite in sign to that of 15-equal. There. Now tell me that this isn't a 
+glaring counterexample to judging triadic consonance by looking at perfect 
+fifths and major thirds only!
+
+By the way, if we want to take these sum squared errors and interpret them 
+as measures of consonance, we should divide by the number of terms in the 
+sum to obtain a mean squared error, then divide by twice the squared 
+tolerance of the ear, and exponentiate the negative of that result (in case 
+you didn't get it, that's a normal distribution model, normalized to give a 
+value of one for just intonation). The tolerance of the ear is about 1% so 
+the squared tolerance is about 300 square cents.
+
+>Another question is whether the sum of the squared or even absolute
+>errors
+>is the proper measure of out-of-tuneness. Errors in the flat direction
+>may be more serious than sharp ones, but both our techniques conflate
+>the two.
+
+For the case I'm trying to make with the "PE's" tuning, it doesn't matter 
+whether you use squared or absolute error. As for preferring sharp 
+intervals, presumably this would apply to all intervals as well as their 
+inversions, and since we are considering all intervals along with their 
+inversions, all such asymmetry will cancel out.
+
+What does it mean to prefer a sharp unison over a flat unison? (that's just 
+a joke, but there is a serious (hehe) debate on this topic over on 
+rec.music.compose)
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 7 Mar 1997 03:04 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08226; Fri, 7 Mar 1997 03:04:25 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08258
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id SAA12588; Thu, 6 Mar 1997 18:02:44 -0800
+Date: Thu, 6 Mar 1997 18:02:44 -0800
+Message-Id: <199703061841_MC2-1239-3640@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

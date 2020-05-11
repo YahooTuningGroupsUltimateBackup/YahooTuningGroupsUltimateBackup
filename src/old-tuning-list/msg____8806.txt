@@ -1,0 +1,34 @@
+source file: m1580.txt
+Date: Thu, 12 Nov 1998 15:42:36 -0600 (CST)
+
+Subject: RE: Harmonic waste
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Thu, 12 Nov 1998, Paul Hahn wrote:
+> On Thu, 12 Nov 1998, Paul H. Erlich wrote:
+>> I realize that with 12 notes, 2/7-comma meantone would lead to a wolf
+>> fifth larger than just but I was thinking either an infinite number of
+>> notes or, perhaps, 19 notes, where the wolf fifth would be 675.4 cents. 
+> 
+> Oh.  I think the term has generally been used in the context of 12-tone
+> circulating temperaments.
+
+You could certainly generalize it, to other closed temperaments at
+least, but the criteria would vary from temperament to temperament.  For
+19TET the analogous criteria would be no minor thirds narrower than
+just, or major thirds wider than just.
+
+For an open (meantone) temperament, hmm.  You can't total an infinite
+number of intervals--but if you assume that the temperament is uniform
+and extends infinitely in both directions, you can just sum the errors
+of a single fifth, major third, and minor third to get a sort of
+"instantaneous" or "average" value.  The result would be that any
+deviation from 1/4-comma meantone causes harmonic waste.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Do you like to gamble, Eddie?
+  -\-\-- o    Gamble money on pool games?"
+
+             NOTE: dehyphenate node to remove spamblock.          <*>

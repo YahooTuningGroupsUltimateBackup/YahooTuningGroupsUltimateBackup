@@ -1,0 +1,44 @@
+source file: m1443.txt
+Date: Wed, 10 Jun 1998 20:08 +0100 (BST)
+
+Subject: Re: magic chord
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+>Think about triads in 12-equal. Even though all the intervals in the
+>augmented triad can function as consonances in major and minor triads,
+>the augmented triad is dissonant. And the thirds aren't even close to
+>any simple ratios other than the 5-limit ones. Can you say that all
+>three intervals in an augmented triad are functioning as 5-limit
+>consonances?
+
+Thirds in 12-equal are mistuned 5-limit intervals.  So, the chord as a
+whole will be a mistuned 5-limit chord.  The mistuning is as important
+as the 5-limit bit.  Augmented triads sound more dissonant in 31-equal,
+so this must be relevant.
+
+The 9/8 in 31-eq is tuned much better than the 5/4 in 12-eq.  So, it
+should be more recognisable as a consonance.  Unless you think higher
+limit intervals generally require better tuning, but three out of tune
+intervals will still be worse than one.
+
+I'll write the chord under discussion as Eb-G-A-C#.  The G-A interval
+_is_ ambiguous as to 9/8 or 10/9 -- I made a mistake in my working
+before.  The chord does sound worse in 31-eq than 1/5 comma meantone or
+schismic temperament, probably because of the poor 9/8.  However, that
+interval isn't so bad as to be unimportant.  I don't see that its
+proximity to 10/9 makes it _more_ dissonant, but maybe nobody else does
+either.  The chord sounds worse in golden meantone, implying that G-A
+really should be 9/8 and not 10/9.  I generally find 9/8 to be much the
+more consonant interval, although they are almost equally complex.
+
+I find that G-Eb-A-C# and Eb-G-C#-A sound better than A-Eb-G-C# and
+Eb-A-C#-G in 31-eq.  In golden meantone, they all have roughly the same
+consonance.  I suggest this is because of the 9/4 vs 10/5.
+
+The 31-eq 9/8 and 28/25 both being sharp is the most relevant thing
+here.  Ideally, the tempered interval should be between the two just
+ones for them to both be well tuned.
+
+I need to do more listening to be sure of these things.  Does anyone
+have a good chord progression that exploits this comma?

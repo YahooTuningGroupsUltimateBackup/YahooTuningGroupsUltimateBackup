@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Wed, 16 Oct 1996 20:30:35 -0700
+
+Subject: New JICalc version
+
+From: Carter Scholz <csz@well.com>
+
+JIcalc 4.3 is now at 
+ftp://mills.edu/ccm/tuning/software/mac/jicalc43.sea.hqx
+
+jicalc43.sea.hqx is a self-extracting archive that includes JICalc 
+4.3(68K) 
+and JICalc 4.3(PPC).  These should fix sound and MIDI problems on 
+PowerMacs.  Ken Wauchope very kindly contributed XCMDs that use 
+QuickTime and the QuickTime Musical Instruments for PPC sound.
+
+The only other change is a minor fix that remembers the modem/printer 
+port selection, so if you have an older 68K machine, there’s no need to 
+upgrade.  Version 4.3 requires Quicktime 2.1 (or higher) and QT Musical 
+Instruments (available free from Apple).  These system extensions total 
+about 2 megabytes, which can be a burden on older systems.  JICalc 
+4.3(68K) is there for completeness, in case some users with 68K-based 
+systems wish to use the QuickTime instruments.  The number of voices 
+has been increased from 4 to 8 (maximum, dependent on system speed).
+
+JICalc is a Hypercard stack that requires Hypercard 2.0 or higher.
+
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 17 Oct 1996 17:27 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01240; Thu, 17 Oct 1996 17:29:29 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA01242
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA15329; Thu, 17 Oct 1996 08:29:27 -0700
+Date: Thu, 17 Oct 1996 08:29:27 -0700
+Message-Id: <Pine.3.89.9610171120.A12482-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

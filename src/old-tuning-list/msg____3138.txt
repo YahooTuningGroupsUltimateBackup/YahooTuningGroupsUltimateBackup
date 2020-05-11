@@ -1,0 +1,43 @@
+source file: mills2.txt
+Date: Mon, 1 Jul 1996 07:12:58 -0700
+
+Subject: Re: Post from McLaren
+
+From: jpff@maths.bath.ac.uk
+
+>>>>> "Gary" == Gary Morrison <71670.2576@compuserve.com> writes:
+
+ Gary> Said Brian M., quoting John Fitch:
+ >> Speaking of insightful posts, John mentioned in
+ >> Tuning Digest 712 "surely the answer is to use
+ >> software synthesis."
+
+ Gary>   I suppose that depends on what the question was.  Do you recall John?
+
+I think I was reacting to the complexities of persuading MIDI
+synthesisers to play in "non-standard" tunings.  For simple sounds I
+can use samples and Csound to play them at any frequency.  I can play
+a set of Bosendorfer piano samples from my MIDI keyboard in real time
+(but I am a bad keyboard player).
+
+When I started to use computers for music some years ago I assumed i
+would use MIDI.  As it turned out I almost never do, and would rather
+synthesise ab initio.
+
+At the time of writing Csound in realtime is almost possible on simple
+computers.  It should not be long now.  Until then I will work in
+non-real time in order to get the sounds at the frequencies I (think
+I) want.
+
+==John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 1 Jul 1996 18:52 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA14484; Mon, 1 Jul 1996 09:52:03 -0700
+Date: Mon, 1 Jul 1996 09:52:03 -0700
+Message-Id: <41960701162514/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

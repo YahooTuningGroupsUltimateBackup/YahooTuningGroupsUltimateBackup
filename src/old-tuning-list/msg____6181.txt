@@ -1,0 +1,38 @@
+source file: mills3.txt
+Date: Mon, 29 Sep 1997 17:58:18 +0200
+
+Subject: Re: TUNING digest 1191
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+In Digest 1191Carter Scholz said:
+<snip>
+>In Digest 1189, John Loffink writes:
+
+>>The greatest limitation is the insistance on handling tuning dumps
+>>only on a full keyboard basis.  This makes dynamic tuning programs
+>>like Justonic's almost impossible as the MIDI bandwidth can't
+>>support real-time updates.
+>
+>But the spec says that the full keyboard "non-real-time" dump isn't
+>intended for performance.  Instead, there's an additional 12-byte
+>"real-time" message for retuning any individual note on the fly.
+>
+>I don't know exactly what Justonic is doing, but I can't imagine why it
+>would need more than these 12 bytes per note-on.  The synthesizer
+>doesn't need to know the entire tuning table, it just needs to get
+>up-to-date frequency data for sounding notes from its host.
+<snip>
+
+That wouldn't help me but it might work for some other MIDI gear.  My sound
+card (Turtle Beach Tropez+) supports the MIDI Tuning Dump standard but not
+MIDI Real Time Single-Note Tuning Change.
+
+I'll pass this on to Justonic.  Maybe they can incorporate it into their
+next release.
+
+---Fred.
+
+---------------------------------------------------------
+ Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+ phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca

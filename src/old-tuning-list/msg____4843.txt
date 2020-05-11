@@ -1,0 +1,67 @@
+source file: mills2.txt
+Date: Wed, 19 Feb 1997 21:32:57 -0800
+
+Subject: To Charles Lucy, ghosttones
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Charles Lucy wrote:
+
+> >Are you sure that the ghosttone positions line
+> >up exactly with the fret positions, and aren't
+> >slightly displaced in some places?
+> 
+> How wide is your finger? How thick is a fret?
+
+The node of a vibrating string and the edge of a fret 
+effectively resolve to points, no matter the width
+of the finger used to dampen the string or the 
+thickness of the fret. Are you saying that these 
+points always coincide?
+
+> >Where does an octave fit into a sequence of fourths
+> >and fifths? As you know, no number of fourths and
+> >fifths will produce an octave (except in equal
+> >temperaments).
+> 
+> At the first stage. i.e. at the 50% position.
+
+You're missing the contradiction. You said all 
+ghosttones follow a series of fourths and fifths. 
+An octave doesn't occur in such a series. Please 
+explain this contradiction.
+
+> Therefore octaves are at 50%, 25%, 12.5% 6.25% etc.
+> yet which octave, I have yet to ascertain again.
+
+So you're saying that these first few important
+ghosttones are rational intervals (2.000, 4.000, etc.)?
+
+> >Have you measured the frequencies of the open string
+> >and this ghosttone using a tuner to see if their
+> >interval ratio is indeed 2.988824? This would be an
+> >obvious first test of your model.
+> 
+> Yes, yet it tells me more about the electronics and
+> limitations of my tuner, than about the string sounds
+> or frequencies it is supposed to be reading ....
+>
+> Counting beating against another nearby tuned string 
+> with a metronome makes more sense to me.
+
+Will you describe this procedure? 
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 20 Feb 1997 07:26 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12235; Thu, 20 Feb 1997 07:26:42 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA12231
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id WAA01761; Wed, 19 Feb 1997 22:25:06 -0800
+Date: Wed, 19 Feb 1997 22:25:06 -0800
+Message-Id: <330C01E5.2D61@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

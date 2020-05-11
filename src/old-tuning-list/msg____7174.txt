@@ -1,0 +1,18 @@
+source file: m1342.txt
+Date: Tue, 3 Mar 1998 12:12:08 +0100
+
+Subject: Re: Identification of pitches
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+>    It sounds like Brian's program proposal is a predominantly a
+sequencer,
+> and if I'm not mistaken, Scala is much more useful for calculation and
+> comparison of various tunings than for sequencing.  True?
+
+This would be true for older versions but the latest one is also capable of
+xenharmonic sequencing, albeit in a non real-time way via MIDI files.
+Anyway Brian is welcome to study my source code for his project and then we
+may benefit from one another.
+
+Manuel Op de Coul    coul@ezh.nl

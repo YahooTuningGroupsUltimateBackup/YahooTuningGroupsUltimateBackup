@@ -1,0 +1,185 @@
+source file: m1360.txt
+Date: Fri, 20 Mar 1998 17:59:07 -0500
+
+Subject: Re: Dowland Lute Fretting
+
+From: monz@juno.com (Joseph L Monzo)
+
+The scale given by Manuel Op de Coul is correct as far as it goes. 
+However, Dowland's lute fretboard had only ten frets.  The first ten
+pitches in the scale given by de Coul give the correct fretting for the
+lowest string, and the 11th note does appear on another string.  However,
+his scale is only a subset of the complete fretting, which is given below
+in an excerpt from my book (from the highest pitch down).
+
+(I hope the ASCII text format doesn't garble it too much in everyone's
+viewer)
+
+On each line I give the Letter-name, my JustMusic notation (^ = exponent,
+* = multiply), Ratio, Semitones (which are cents divided by 100), and
+Fret and String (with Dowland's letter tablature):
+
+HIGHEST OCTAVE
+F          3^2*7^-1*11^1       99/56     9.86    10th fret, 6th string
+(6l)
+E          3^3                     27/16     9.06      9th fret, 6th
+string (6k)
+D#/Eb   3^2*11^1*31^-1     99/62     8.10      8th fret, 6th string (6i)
+D          3^1                       3/2       7.02      7th fret, 6th
+string (6h)
+C#/Db   3^1*17^-1             24/17     5.97      6th fret, 6th string
+(6g)
+C         3^-1                       4/3       4.98      5th fret, 6th
+string (6f)
+C         3^3*7^-1*11^1      297/224   4.88    10th fret, 5th string (5l)
+B         3^4                      81/64     4.08      9th fret, 5th
+string (5k)
+B         3^1*11^1*211^-1  264/211   3.88      4th fret, 6th string (6e)
+A#/Bb  3^3*11^1*31^-1    297/248   3.12      8th fret, 5th string (5i)
+A#/Bb  3^1*7^-1*11^1       33/28     2.84      3rd fret, 6th string (6d)
+A         3^2                       9/8       2.04      2nd fret, 6th
+string (6c) 
+                                                            & 7th fret,
+5th string (5h)
+G#/Ab  3^1*11^1*31^-1     33/31     1.08       1st fret, 6th string (6b)
+G#/Ab  3^2*17^-1             18/17     0.99       6th fret, 5th string
+(5g)
+G         n^0                       1/1       0.00       open 6th string
+(6a)
+                                                             & 5th fret,
+5th string (5f)
+
+MIDDLE OCTAVE
+G         3^4*7^-1*11^1      891/448   11.90    10th fret, 4th string
+(4l)
+F#        3^5                    243/128   11.10      9th fret, 4th
+string (4k)
+F#        3^2*11^1*211^-1  396/211   10.90      4th fret, 5th string (5e)
+F          3^4*11^1*31^-1    891/496  10.14      8th fret, 4th string
+(4i)
+F          3^2*7^-1*11^1      99/56       9.86      3rd fret, 5th string
+(5d)
+E          3^3                     27/16       9.06     2nd fret, 5th
+string (5c)
+                                                              & 7th fret,
+4th string (4h)
+D#/Eb   3^2*11^1*31^-1     99/62      8.10       1st fret, 5th string
+(5b)
+D#/Eb   3^3*17^-1             27/17      8.01       6th fret, 4th string
+(4g)
+D#/Eb   7^-1*11^1             11/7       7.82      10th fret, 3rd string
+(3l)
+D          3^1                       3/2       7.02      open 5th string
+(5a)
+                                                             & 5th fret,
+4th string (4f)
+                                                             & 9th fret,
+3rd string (3k)
+C#/Db   11^1*31^-1            44/31     6.06      8th fret, 3rd string
+(3i)
+C#/Db   3^3*11^1*211^-1   297/211   5.92      4th fret, 4th string (4e)
+C          3^-1                      4/3        4.98      7th fret, 3rd
+string (3h)
+C          3^3*7^-1*11^1       297/224  4.88      3rd fret, 4th string
+(4d)
+B          3^4                       81/64    4.08      2nd fret, 4th
+string (4c)
+B          3^-1*17^-1             64/51    3.93       6th fret, 3rd
+string (3g)
+A#/Bb   3^3*11^1*31^-1     297/248  3.12       1st fret, 4th string (4b)
+A#/Bb   3^-3                      32/27    2.94       5th fret, 3rd
+string (3f)
+A#/Bb   3^1*7^-1*11^1        33/28    2.84      10th fret, 2nd string
+(2l)
+A          3^2                        9/8      2.04       open 4th string
+(4a)
+                                                              & 9th fret,
+2nd string (2k)
+A          3^-1*11^1*211^-1  704/633 1.84        4th fret, 3rd string
+(3e)
+G#/Ab   3^1*11^1*31^-1      33/31   1.08        8th fret, 2nd string (2i)
+G#/Ab   3^-1*7^-1*11^1       22/21   0.81       3rd fret, 3rd string (3d)
+G          n^0                        1/1     0.00       2nd fret, 3rd
+string (3c)
+                                                             & 7th fret,
+2nd string (2h)
+
+LOWEST OCTAVE
+F#/Gb    3^-1*11^1*31^-1   176/93  11.04     1st fret, 3rd string (3b)
+F#/Gb    17^-1                   32/17   10.95    6th fret, 2nd string
+(2g)
+F           3^-2                     16/9      9.96    open 3rd string
+(3a)
+                                                            & 5th fret,
+2nd string (2f)
+F           3^2*7^-1*11^1       99/56    9.86    10th fret, 1st string
+(1l)
+E           3^3                      27/16   9.06      9th fret, 1st
+string (1k)
+E           11^1*211^-1        352/211  8.86     4th fret, 2nd string
+(2e)
+D#/Eb    3^2*11^1*31^-1     99/62    8.10     8th fret, 1st string (1i)
+D#/Eb    7^-1*11^1             11/7     7.82      3rd fret, 2nd string
+(2d)
+D           3^1                       3/2      7.02     2nd fret, 2nd
+string (2c)
+                                                            & 7th fret,
+1st string (1h)
+C#/Db    11^1*31^-1           44/31    6.06     1st fret, 2nd string (2b)
+C#/Db    3^1*17^-1             24/17    5.97     6th fret, 1st string
+(1g)
+C           3^-1                      4/3      4.98     open 2nd string
+(2a)
+                                                            & 5th fret,
+1st string (1f)
+B          3^1*11^1*211^-1   264/211  3.88     4th fret, 1st string (1e)
+A#/Bb   3^1*7^-1*11^1        33/28     2.84    3rd fret, 1st string (1d)
+A          3^2                        9/8       2.04    2nd fret, 1st
+string (1c)
+G#/Ab   3^1*11^1*31^-1      33/31    1.08      1st fret, 1st string (1b)
+G          n^0                        1/1       0.00     open 1st string
+(1a)
+ 
+
+As can be seen from the table, some pitches are represented on two
+strings, and one is represented on three strings.
+
+The ratios derived from this fretting utilize the prime numbers 3, 7, 11,
+17, 31, and 211.  The strings are tuned (from the bottom up) 1/1 - 4/3 -
+16/9 - 9/8 - 3/2 - 1/1.  The 1st, 3rd, 4th, 8th and 10th frets all
+incorporate 11^1.  The 6th fret uses 17^-1, the 1st and 8th frets both
+use 31^-1, and the 4th fret uses 211^-1.  Prime number 5 (giving the
+standard just-intonation 3rds and 6ths) is notably absent.
+
+Dowland wrote his pieces in tablature, as did most other composers of
+lute music, so there was no question as to which ratio would be played
+for a pitch where there was a choice available (for example, there are
+three different D#/Eb's within a range of 28 cents in the middle octave).
+
+The exact string measurements which produce this fretting are given by
+Dowland in his son Robert's book "Varietie of Lute Lessons", published in
+London in 1610.  They are also available in Appendix 2 of Diana Poulton's
+"John Dowland -- His Life and Works" [University of California Press,
+1972], page 458.  A drawing of the fretboard with cents values was
+published on the cover of the first issue of Johnny Reinhard's journal
+"Pitch, for the International Microtonalist" [Autumn 1986].
+
+This fretting can be considered a temperament, and it is eminently
+suitable for Elizabethan-era lute music.
+
+Hoogewerf's playing of the Dowland pieces at last year's AFMM was
+outstanding.  He performed  them on a guitar whose fretboard had six
+grooves running the length of it, one under each string, with 24 (at
+least, possibly more) slideable frets in each groove, each fret long
+enough for just one string.  This guitar is capable of retuning to any
+possible scale within the space limitations of the frets and fingers.
+ 
+   Joseph L. Monzo
+    monz@juno.com
+    4940 Rubicam St., Philadelphia, PA 19144-1809, USA
+    phone 215 849 6723
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

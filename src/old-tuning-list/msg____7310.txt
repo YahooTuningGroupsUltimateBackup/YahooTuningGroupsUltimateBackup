@@ -1,0 +1,59 @@
+source file: m1368.txt
+Date: Sat, 28 Mar 1998 16:08:10 -0600 (CST)
+
+Subject: 88CET Ear Training CDs, Part 6
+
+From: mr88cet@texas.net (Gary Morrison)
+
+88CET Notation
+--------------
+
+   The other important aspect of 88CET to learn a bit about in order to
+understand the exercises on my 88CET ear-training CDs, is my notation
+system.  This is one of those non-auditory, "intellectual", memorization
+exercises I mentioned earlier.  As powerful as it is to be able to conjure
+up the sound of any 88CET interval in your mind at will, you still can't
+tell what E up to G sounds like without the strictly intellectual knowledge
+of what the interval between those two notes is!
+
+   Without an octave to organize a tuning around, you have to choose some
+other interval.  Two intervals stand out as most likely candidates, because
+they are very intuitively basic to our ears, and because you can build
+interesting scales around them.  The first such interval is the 3:2 perfect
+fifth, and the second is the 7:4 subminor seventh.  As you can see from the
+earlier-presented table of frequency-ratio approximations, in 88CET tuning
+8 steps forms a perfect fifth, and 11 steps is a subminor seventh.
+
+   Since this series is not basically about 88CET Music Theory, I'll just
+say that using those two intervals to form a cyclic scale pattern of
+2122121 (2 meaning two 88CET steps - a small whole step, and 1 meaning a
+half step).  This 2122121 pattern repeat in 7:4s rather than octaves,
+meaning that two As are not octaves 7:4s apart.  The pattern also maps
+nicely to a traditional piano (or MIDI) keyboard if you imagine away the
+G#/Ab key, and leave a half-step between G and A:
+
+                  A#        C#     Eb       Gb
+               A      B  C      D     E  F      G  A
+
+On my 88CET MIDI instruments, I make the G#/Ab key play the same pitch as
+the adjacent A key, but it doesn't really matter, since I never use that
+key anyway.
+
+   Perhaps skipping over the G#/Ab key seems odd, but this structure is
+really a lot more intutive, audibly speaking, than not skipping the G#/Ab
+key.  The entire 7+5 structure of a traditional keyboard corresponds to a
+pattern of tritones wrapping within a span of a not-very-accurate neutral
+seventh (11:6).  Perhaps you'll just have to listen to those two pairs of
+intervals for yourself, but when you do, I think you'll have to agree that
+3:2 and 7:4 are much more intuitive, simple, and meaningful to our ears
+than 10:7 and 11:6!
+
+   Once you establish this 2122121 pattern, you have a system of
+"pseudokeys", each with its pseudokey signature.  Then again, they're not
+like any key signature you've probably ever seen before though!  Although
+these pseudokeys don't necessarily suggest a tonality (thus "pseudo"keys
+rather than a true key), it turns out that they can be used that way.  When
+you do use them to suggest a tonality, you promptly find that related keys,
+even in as such a nontraditional tuning, are still fifths apart.  Since
+this scale pattern is cyclic in fifths, you find that related keys have
+pseudokey signatures that differ by a single sharp or flat.

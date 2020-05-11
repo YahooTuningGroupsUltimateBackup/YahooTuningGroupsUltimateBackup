@@ -1,0 +1,28 @@
+source file: mills2.txt
+Date: Wed, 6 Nov 1996 14:08:35 -0800
+
+Subject: Re: Greetings & a project proposal
+
+From: bf250@freenet.carleton.ca (John Sankey)
+
+Gary is correct in that the multi-channel technique I use reduces
+the number of timbres available. But, not necessarily to one -
+if your tuning can be approximated adequately by 8  12-tet tunings,
+you can have two, ... etc.
+The "General MIDI" spec does set a standard sensitivity for pitch
+bend sensitivity, and all systems seem to follow it now. In any
+case the pitch bend sensitivity is a settable parameter within the
+MIDI spec, so this need not be a problem.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 6 Nov 1996 23:54 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06138; Wed, 6 Nov 1996 23:55:22 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06134
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA15477; Wed, 6 Nov 1996 14:55:20 -0800
+Date: Wed, 6 Nov 1996 14:55:20 -0800
+Message-Id: <13961106225331/0005695065PK1EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

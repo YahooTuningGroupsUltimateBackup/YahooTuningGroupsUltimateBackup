@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Wed, 9 Oct 1996 06:03:35 -0700
+
+Subject: Re: VFX frequency resolution
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+>up and halves with each octave transpose down.  The tuning maps into an
+>exponential table, which is stored as 128 steps per semitone or 1536 steps
+>per semitone.  
+
+Whoops, that's 1536 steps per OCTAVE.
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 9 Oct 1996 18:26 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01797; Wed, 9 Oct 1996 18:27:44 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA01798
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA09896; Wed, 9 Oct 1996 09:27:41 -0700
+Date: Wed, 9 Oct 1996 09:27:41 -0700
+Message-Id: <84961009161048/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

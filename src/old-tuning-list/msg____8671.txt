@@ -1,0 +1,321 @@
+source file: m1563.txt
+Date: Sat, 24 Oct 1998 22:13:38 -0700
+
+Subject: Re: Indian tuning
+
+From: monz@juno.com
+
+(View this posting in a proportional font.)
+
+Paul Erlich (TD #1562, Topic #3) gives a diagram
+which does indeed represent exactly the ratios
+given by Donald Lentz in "Tones and Intervals of
+Hindu Classical Music".  I would argue, however,
+that the theoretical implications of the ancient
+Indian tuning would allow even more 5-limit ratios
+than Lentz's description.
+
+
+|   Before I discuss Indian tuning, a        |
+|   note about my somewhat idiosyncratic     |
+|   nomenclature:                            |
+|                                            |
+|   In my prime-factor notation, 1/1 is      |
+|   referred to as n^0 (that is, every       |
+|   prime to the 0th power).  I use a        |
+|   measurement of "semitones" to two        |
+|   decimal places rather than cents,        |
+|   simply because anything less than        |
+|   a cent is usually insignificant, at      |
+|   least for purposes of music-theory,      |
+|   and it relates better to our familiar    |
+|   old 12-equal scale. (It's really the     |
+|   same as cents, just with a decimal       |
+|   point.)                                  |
+|                                            |
+|   Now, on with the show:                   |
+
+
+Lentz gives the most ancient Indian fretting as
+a series of "perfect 4ths and 5ths".  This makes
+a lot of sense, as it could have been easily
+accomplished by ear.  It can be measured for
+one "octave" on a single string in two separate
+procedures, as follows (frets are numbered in
+order of placement, not order of pitch):
+
+
+PROCEDURE OF TUNING ANCIENT INDIAN SYSTEM:
+
+                     POWER
+FRET   INTERVAL       OF 3   SEMITONES   RATIO
+
+     open string:      n^0     0.00       1/1
+ 1.    up a 3/2 to:    3^1     7.02       3/2
+ 2.  down a 4/3 to:    3^2     2.04       9/8
+ 3.    up a 3/2 to:    3^3     9.06      27/16
+ 4.  down a 4/3 to:    3^4     4.08      81/64
+ 5.    up a 3/2 to:    3^5    11.10     243/128
+ 6.  down a 4/3 to:    3^6     6.12     729/512
+ 7.  down a 4/3 to:    3^7     1.14    2187/2048
+ 8.    up a 3/2 to:    3^8     8.16   | c'mon - do |
+ 9.  down a 4/3 to:    3^9     3.18   | you really |
+10.    up a 3/2 to:    3^10   10.20   | need these |
+11.  down a 4/3 to:    3^11    5.22   | ratios?    |
+
+     open string:      n^0     0.00       1/1
+12.    up a 4/3 to:    3^-1    4.98       4/3
+13.    up a 4/3 to:    3^-2    9.96      16/9
+14.  down a 3/2 to:    3^-3    2.94      32/27
+15.    up a 4/3 to:    3^-4    7.92     128/81
+16.  down a 3/2 to:    3^-5    0.90     256/243
+17.    up a 4/3 to:    3^-6    5.88   | forget   |
+18.    up a 4/3 to:    3^-7   10.86   | about    |
+19.  down a 3/2 to:    3^-8    3.84   | these    |
+20.    up a 4/3 to:    3^-9    8.82   | ratios,  |
+21.  down a 3/2 to:    3^-10   1.80   | already. |
+
+
+ |    (If you're at all familiar with      |
+ |    the large-number ratios I omitted,   |
+ |    the advantages of prime-factor       |
+ |    notation should be obvious.)         |
+
+
+Arranging these into a 1-"octave" scale, the
+way the frets would appear on the fingerboard,
+gives the following (open string at the bottom):
+
+
+TABULATION OF SRUTIS IN ANCIENT INDIAN SYSTEM:
+
+SRUTI "RATIO" SEMITONES
+
+22.   (n^0)   12.00
+21.   3^5     11.10
+20.   3^-7    10.86
+19.   3^10    10.20
+18.   3^-2     9.96
+17.   3^3      9.06
+16.   3^-9     8.82
+15.   3^8      8.16
+14.   3^-4     7.92
+13.   3^1      7.02
+12.   3^6      6.12
+11.   3^-6     5.88
+10.   3^11     5.22
+ 9.   3^-1     4.98
+ 8.   3^4      4.08
+ 7.   3^-8     3.84
+ 6.   3^9      3.18
+ 5.   3^-3     2.94
+ 4.   3^2      2.04
+ 3.   3^-10    1.80
+ 2.   3^7      1.14
+ 1.   3^-5     0.90
+      n^0      0.00
+
+It would have been evident to any musician
+with even a half-decent ear that 3^-8 (only
+a schisma [= 2 cents] flatter than 5/4) gave
+a much more consonant "third" than the
+"Pythagorean third" 3^4 [= 81/64].  Similarly
+for the "minor third" and the "sixths".
+
+Looking closely at the semitone values in the
+tabulation of srutis, it can be seen that there
+are 10 pairs of notes a Pythagorean comma
+[= 24 cents] apart (this is only a schisma
+larger than the all-important syntonic comma).
+
+The remaining two notes, which appear alone
+without a comma-away relative, are n^0 [= 1/1]
+and 3^1 [= 3/2], the two notes which would be
+sounded by the tamburas as drones throughout
+the entire piece.
+
+In fact, the "schismatic equivalents" provided
+ancient Indian musicians with the ability
+to play their 7-tone basic scale in a
+pseudo-5-limit in 12 keys or transpositions.
+
+Rearranging Paul Erlich's diagram a bit to
+conform with my lattice diagrams, it is easy
+to see that schismatic equivalence gave a
+neat box-like structure to the Indian system:
+
+ |   (I give _ratios_ for the notes         |
+ |   implied by the tuning and probably     |
+ |   in practical or at least theoretical   |
+ |   use, and a few of the _powers-of-3_    |
+ |   for the actual notes tuned, to show    |
+ |   schismatic substitution.  Semitones    |
+ |   are given below the ratio or power.    |
+ |   Ratios in parentheses are schismatic   |
+ |   substitutions, of notes just beyond    |
+ |   either end of the series of 3/2s and   |
+ |   which Lentz says were ocasionally      |
+ |   used in the tuning.)                   |
+
+
+MONZO LATTICE DIAGRAM OF
+5-LIMIT IMPLICATIONS OF ANCIENT INDIAN SYSTEM:
+
+                                                   etc.
+                                                   /
+                                                3^6
+                                               6.12
+                                                /
+                                               /
+                                            3^5
+                                           11.10
+                                            /
+                                           /
+                             405/25-----81/64----(81/80)
+                              7.94      4.08      0.22
+                              /         /         /
+                             /         /         /
+                         135/128----27/16-----27/20
+                          0.92       9.06      5.20
+                          /         /         /
+                         /         /         /
+                      45/32------9/8-------9/5
+                      5.90      2.04      10.18
+                      /         /         /
+                     /         /         /
+                  15/8-------3/2-------6/5
+                 10.88      7.02      3.16
+                  /         /         /
+                 /         /         /
+               5/4-------1/1-------8/5
+              3.86      0.00      8.14
+              /         /         /
+             /         /         /
+           5/3-------4/3------16/15
+          8.84      4.98       1.12
+          /         /         /
+         /         /         /
+      10/9------16/9------64/45
+      1.82      9.96       6.10
+      /         /         /
+     /         /         /
+ (40/27)----32/27----256/135
+  6.80       2.94     11.08
+            /
+           /
+        3^-4
+        7.92
+        /
+       /
+    3^-5
+    0.90
+    /
+   /
+ 3^-6
+ 5.88
+/
+etc.
+
+
+The basic ascending scale with the syllables
+sa-ri-ga-ma-pa-dha-ni-(sa) was possible
+in two forms:
+
+  In the sadja-grama scale, "pa" formed a
+  3/2 above (or 4/3 below) "sa".
+
+  In the madhyama-grama scale, "pa" formed
+  a 3/2 below (or 4/3 above) "ri".
+
+Also, in some of the older Indian theoretical
+treatises, there is the confusing statement
+that the scale began on the 4th sruti (rather
+than the open string), which is 3^2 [= 9/8]
+in my tabulation above.  I have made sense out
+of this by interpreting the basic scale
+(with both "pa"s) as follows:
+
+
+MONZO LATTICE DIAGRAM
+OF BASIC SCALE OF ANCIENT INDIAN SYSTEM:
+
+                                     27/16
+                                      9.06
+                                       PA
+                                  of sadja-grama
+                                      /
+                                     /
+                                  9/8
+                                 2.04
+                                  SA
+                                 /
+                                /
+                 15/8--------3/2
+                10.88       7.02
+                 DHA         MA
+                 /          /
+                /          /
+              5/4--------1/1
+             3.86      0.00
+              RI        NI
+             /         /
+            /         /
+          5/3-------4/3
+         8.84      4.98
+          PA        GA
+of madhyama-grama
+
+
+This gives a sadja-grama basic scale
+which resembles our "dorian mode", and
+a madhyama-grama basic scale which
+resembles our "mixolydian mode".
+
+If I were able to outline this scale on the
+larger diagram (which ASCII text would have
+made even more difficult and time-consuming
+than what I've already done), it could be
+easily seen that the whole system gave
+transpositions of these basic scales.
+
+Of course, there were many other notes
+outside these scales, which could be used
+in a raga as ornamentation or melodic inflection
+for expressive purposes.
+
+I'm sure, based on what has happened in
+Western music, that similarly, Indian musicians
+gradually substituted more and more 5-limit
+ratios, eventually adding enough of *them*
+to find some that were good substitutions of
+7-limit ratios.
+
+If this process continued, they would likewise
+eventually find 7-limit ratios that were good
+approximations of 11- and 13-limit ratios.
+
+But even in the very oldest Indian treatises,
+which are quite old indeed, a 5-limit system
+is already implied.
+
+ |   (All of my books are still on the        |
+ |   opposite side of the country from me,    |
+ |   thus I can't give specifics as to dates  |
+ |   and authors.  Any help here? Paul?)      |     
+ |                                            |
+ |   (PS - this will eventually go up on my   |
+ |   website, but the *really good* quality   |
+ |   diagrams are in my book, all you         |
+ |   potential buyers...)                     |
+ |                                            |
+ |   (PPS - I'm disgusted with the slowness   |
+ |   of my Hotmail account, so write to me    |
+ |   once again c/o Juno.)                    |
+
+- Joe Monzo
+  monz@juno.com
+  http://www.ixpres.com/interval/monzo/homepage.html
+___________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com/getjuno.html
+or call Juno at (800) 654-JUNO [654-5866]

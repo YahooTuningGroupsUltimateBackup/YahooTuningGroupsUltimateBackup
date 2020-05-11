@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Sat, 8 Feb 1997 04:09:22 -0800
+
+Subject: millioctaves
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Great idea!  I've been using these for years, since before I
+discovered the rest of the world used cents.  Silly things,
+surprised they caught on.  It would certainly make things easier
+for me if everyone else came round to my way of thinking, although
+this does run into problems with reality.
+
+As to the notation, I suggest "moct" so that you can switch to
+"oct" when the intervals get big enough.  2.735 oct makes a lot
+more sense to me than 3282 cents.  I prefer mET to MET: the latter
+would imply megaoctaves!  Microoctaves also have their uses: the
+MIDI Tuning Standard works to 5 mu-oct, doesn't it?
+
+Apart from removing the 12TET bias, octaves are easier to
+calculate : p log2(f/f_0); f0*2^p.  Step sizes of equal
+temperaments can be worked out really easily -- sometimes in your
+head.
+
+I've also been using octaves to denote absolute pitches, with
+f_0z. Once you know that middle C corresponds to about  8.04
+oct, you know that 10.128 oct must be somewhere above the treble
+clef.  What does 1119 Hz mean?  Setting f_0Hz may be better,
+equivalent to subtracting 4 oct, and around the threshold of
+hearing.  The fractional part can also be replaced with a note
+name: 8.04 oct becomes 8C, 8.78 oct becomes 8A. This can be
+generalised for any tuning system you like.
+
+Well, that's the way I see it, anyway.
+
+                                 Graham
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 8 Feb 1997 13:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29705; Sat, 8 Feb 1997 13:15:25 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29734
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id EAA08040; Sat, 8 Feb 1997 04:13:08 -0800
+Date: Sat, 8 Feb 1997 04:13:08 -0800
+Message-Id: <memo.200667@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

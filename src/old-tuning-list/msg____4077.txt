@@ -1,0 +1,64 @@
+source file: mills2.txt
+Date: Wed, 20 Nov 1996 02:07:50 -0800
+
+Subject: Resolving Pythagorean Major Thirds
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+Answering bits and pieces of Alves, Erlich, and others:
+
+(1) I had to catch this one. A Pythagorean Major third will will _resolve_
+in one of the following ways, only one of which is to a perfect fifth:
+
+Given the series of fifths/fourths F through B natural, the third c1/e1 can
+resolve directly to the octave f/f1, the fifth g/d1, or the fourths b/e1 or
+c1/f1. The third f1/a1 will not resolve to the fifth e1/b1 because of the
+cross relation f1/b1, and likewise for the third g1/b1 to f1/c. 
+
+Resolution being a contextual matter, the diminished fifth, 1024/729,  b/f1
+_resolves_  to 81/64 c1/e1! 
+
+The best practical guide to counterpoint that I know is Diether de la
+Motte´s _Kontrapunkt_  (dtv/Baerenreiter 1981, 3rd ed. 1988), sadly only
+available in the German original. (I would happily translate this if a
+textbook firm wants to make me an offer).  What recommends his approach to
+early counterpoint is his insistance upon the collection of pitches having
+priority over any particular scalar arrangement, all theorists to the
+contrary, but verified by the actual ranges of part writing in the
+repertoire.
+
+I personally have always heard the collection to have priority over mode,
+and that modal descriptions are most useful in describing local melodic
+figures. (In this, Harry Powers* _brilliant_ article on **Mode and Melodic
+Type** in the New Grove is recommended, although most intonation theorists
+drop it for lack of tuning information).
+
+(2) Once again, Paul Erlich has rediscovered the wheel: that Pythagorean is
+terrific for melodic and octaval/quintal/quartal vertical structures, but
+that once a triad is introduced, triadic just intonation is needed, and a
+temperament is called for when these come into conflict.  Erv Wilson*s
+paper _Some Patterns Underlying Genus 17 (12+5)_ (1981?), suggests
+alternative, just intonation and schismatic, solutions to this conflict and
+definitely needs wider circulation.
+
+(3) Taking Yasser´s age and era into account, I find it terribly unfair to
+characterize him as ethnocentric. In fact, I defy anyone to tell me exactly
+what ethnicity was central to Yasser. (He was a Russian-born scholar of
+Jewish Music). His Darwinian streak, is, however, fair game, but can
+someone suggest a more P.C. term than _evolution_ to describe transitions
+towards more complex tonal systems? 
+
+   
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 20 Nov 1996 12:18 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00440; Wed, 20 Nov 1996 12:20:10 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00438
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id DAA04310; Wed, 20 Nov 1996 03:20:07 -0800
+Date: Wed, 20 Nov 1996 03:20:07 -0800
+Message-Id: <199611201002.HAA26657@chasque.apc.org>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

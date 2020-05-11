@@ -1,0 +1,25 @@
+source file: mills2.txt
+Date: Thu, 27 Mar 1997 22:27:59 -0800
+
+Subject: RE: Cavity Resonators (Paul E)
+
+From: mr88cet@texas.net (Gary Morrison)
+
+Another source of information, mostly for roughly bulb-like shapes,
+Helmholz resonators.  I don't personally know the theory myself, but I
+presume it's in his book.
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 28 Mar 1997 07:31 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA20251; Fri, 28 Mar 1997 07:31:33 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA20238
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id WAA28589; Thu, 27 Mar 1997 22:27:41 -0800
+Date: Thu, 27 Mar 1997 22:27:41 -0800
+Message-Id: <v01541102af6011603214@DialupEudora>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

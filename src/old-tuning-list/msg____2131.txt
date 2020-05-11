@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Fri, 13 Oct 1995 06:57:23 -0700
+
+Subject: RE: 12-tet in China
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+The algorithm for calculating a root is actually not so difficult.
+This calculates a square root:
+
+    Answer := Of_Number;
+    loop
+       Delta := (Of_Number / Answer) - Answer;
+       if abs Delta <= Answer * Epsilon then
+          return Answer;
+       end if;
+       Answer := Answer + 0.5 * Delta;
+    end loop;
+
+Epsilon indicates the required precision and is the smallest number that
+makes a difference.
+I suppose that modifying this to do the twelfth root of 2 is easy.
+It converges very rapidly so it's doable by hand. It's very elementary
+so it must have been known for a very long time.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 13 Oct 1995 16:53 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA04120; Fri, 13 Oct 1995 07:52:57 -0700
+Date: Fri, 13 Oct 1995 07:52:57 -0700
+Message-Id: <E59ZVZGF92JP*/R=UCVAX/R=A1/U=WATHENMJ/@MHS>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,27 @@
+source file: mills2.txt
+Date: Thu, 12 Oct 1995 12:39:10 -0700
+
+Subject: 12-tet in China
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+Linus: I happen to have my copy of Barbour handy and
+this is what he says (paraphrased): Ho Tcheng-thyen about 400 AD 
+published three monochords with fundamentals of 9.0, 81.0 and 100, 
+but with identical ratios. The cents values are 0 101 200 297 398 493 
+596 699 791 897 985 1091 1200. About 1595, Prince Tsai-Yu"  calculated 
+the 12th roots of 2 to 9 significant figures on a fundamental of 
+1,000,000,000. 
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 13 Oct 1995 00:38 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA17748; Thu, 12 Oct 1995 15:38:04 -0700
+Date: Thu, 12 Oct 1995 15:38:04 -0700
+Message-Id: <00997C8C50A2E52E.4D4D@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

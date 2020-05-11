@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Fri, 9 Aug 1996 12:06:36 -0700
+
+Subject: RE: Problems with scales.zip
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Pat,
+
+One option is to kiss MS-DOS goodbuy and use WindowsNT, or /95 or Linux.
+Alternatively, if you know someone with NT/95 on his PC, unzip it with the
+NT/95 version of unzip.exe, then rezip everything with the DOS version of
+zip.exe and walk back to your PC. Then the files will have the DOS eight 
+character abbrev of the ~<number> form.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 9 Aug 1996 21:11 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05076; Fri, 9 Aug 1996 21:11:13 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA05073
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA13754; Fri, 9 Aug 1996 12:11:12 -0700
+Date: Fri, 9 Aug 1996 12:11:12 -0700
+Message-Id: <009A69BF159690A0.055B@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

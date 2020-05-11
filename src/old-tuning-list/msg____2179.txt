@@ -1,0 +1,312 @@
+source file: mills2.txt
+Date: Sat, 21 Oct 1995 07:38:10 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: large numbers of tones/oct on
+   sample-playback MIDI modules
+---
+It came to my attention recently that
+a professor at the University of 
+Mississippi teaches a college course
+about Elvis' Hawaiian films. 
+This was a relief to me.  It proved that
+no matter how bizarre and nonsensical
+the posts of certain folks on this forum,
+they're actually quite rational compared 
+to the *truly*  looney denizens of the 
+so-called "real world."
+Speaking of the real world, the yakademics
+have now returned from sabbatical and are
+no longer giving "special tutoring" to those
+special coeds.
+Since this forum is still largely an academic reserve,
+it empties out during the summer, leaving only
+the lone desultory student or two burned out 
+by a McJob at 2 am but not yet ready to lobotomize
+hi/rself with The Weather Channel.
+Thus there was little point in my posting anything
+during the summer months.  
+Now that the rich white PhDs and the dirt-poor
+overworked students are both back from summer
+hiatus, there's an audience capable of hoisting
+torches & pitchforks and screaming "Somebody get a rope!"
+In short, an audience fully up to the high standards
+of academic open-mindedness and insight we've
+all come to respect so deeply.
+Various claims to the contrary, it is in fact possible
+to use sample-playback MIDI modules with only 1 pitch 
+table for either equal-tempered multiple divisions of the 
+octave or high-limit just intonation *without* the dreaded
+"chipmunking" effect.
+As you'll recall, "chipmunking" occurs when a sample
+recorded at one pitch is played back at a drastically
+different pitch.  At first glance, you'd think this
+unavoidable when dealing, say, with one of Erv Wilson's
+70-pitch hebdomekontanies.
+Chipmunking typically occurs on the Proteus modules
+the VFX, and all the other xied-wavetable synths.
+Whence arises chipmunking?   
+Consider:  starting with some 1/1 pitch--say, A 440 Hz--
+the pitch table of the MIDI module will contain a progressively 
+lower playback pitch than the frequency at which the sound was 
+originally recorded.
+Take the following Wilson 70-note [1,17,41,67,97,127,157,191]
+hebdomekontany (4 out of 8 CPS):
+Scale degree 1: C + 0.000 cents
+Scale degree 2: C + 14.9691 cents
+Scale degree 3: C + 28.5475 cents
+Scale degree 4: C + 32.3370 cents
+Scale degree 5: C + 57.9854 cents
+Scale degree 6: C# + 7.8545 cents
+Scale degree 7: C# + 33.5029 cents
+Scale degree 8: C# + 45.3184 cents
+Scale degree 9: C# + 55.7040 cents
+Scale degree 10: C# + 70.9667 cents
+Scale degree 11: C# + 72.2992 cents
+Scale degree 12: C# + 97.9476 cents
+Scale degree 13: D + 35.0111 cents
+Scale degree 14: D + 48.5894 cents
+Scale degree 15: D + 50.2738 cents
+Scale degree 16: D + 60.6594 cents
+Scale degree 17: D + 63.8521 cents
+Scale degree 18: D + 74.2378 cents
+Scale degree 19: D + 77.2546 cents
+Scale degree 20: D + 90.8330 cents
+Scale degree 21: D# + 53.5448 cents
+Scale degree 22: D# + 82.0924 cents
+Scale degree 23: E + 19.5562 cents
+Scale degree 24: E + 46.5370 cents
+Scale degree 25: E + 95.0737 cents
+Scale degree 26: E + 98.8633 cents
+Scale degree 27: F + 12.4416 cents
+Scale degree 28: F + 22.0545 cents
+Scale degree 29: F + 24.5116 cents
+Scale degree 30: F + 25.8441 cents
+Scale degree 31: F + 38.0900 cents
+Scale degree 32: F + 39.4224 cents
+Scale degree 33: F + 51.4924 cents
+Scale degree 34: F + 65.0708 cents
+Scale degree 35: F + 74.3808 cents
+Scale degree 36: F + 87.9591 cents
+Scale degree 37: F# + 0.0291 cents
+Scale degree 38: F# + 1.3616 cents
+Scale degree 39: F# + 13.6075 cents
+Scale degree 40: F# + 14.9400 cents
+Scale degree 41: F# + 17.3970 cents
+Scale degree 42: F# + 27.0100 cents
+Scale degree 43: F# + 40.5883 cents
+Scale degree 44: F# + 44.3779 cents
+Scale degree 45: F# + 92.9145 cents
+Scale degree 46: G + 19.8954 cents
+Scale degree 47: G + 57.3592 cents
+Scale degree 48: G + 85.9067 cents
+Scale degree 49: G# + 48.6186 cents
+Scale degree 50: G# + 62.1970 cents
+Scale degree 51: G# + 65.2138 cents
+Scale degree 52: G# + 75.5994 cents
+Scale degree 53: G# + 78.7921 cents
+Scale degree 54: G# + 89.1778 cents
+Scale degree 55: G# + 90.8621 cents
+Scale degree 56: A + 4.4405 cents
+Scale degree 57: A + 41.5040 cents
+Scale degree 58: A + 67.1524 cents
+Scale degree 59: A + 68.4848 cents
+Scale degree 60: A + 83.7475 cents
+Scale degree 61: A + 94.1332 cents
+Scale degree 62: A# + 5.9487 cents
+Scale degree 63: A# + 31.5970 cents
+Scale degree 64: A# + 81.4662 cents
+Scale degree 65: B + 7.1145 cents
+Scale degree 66: B + 10.9041 cents
+Scale degree 67: B + 24.4824 cents
+Scale degree 68: B + 39.4516 cents
+Scale degree 69: B + 53.0300 cents
+Scale degree 70: B + 86.4216 cents
+(Those of you unfamiliar with a Wilson CPS
+or the hebdomekontany will want to review
+topic 2 of Tuning Digest 17 from 17 February
+1994, also topics 1 and 2 of Tuning Digest
+30 from 3 March 1994.  The latter, by Paul
+Rapoport, comprise perhaps the finest into
+to the subject yet written.)
+As you can see, entering the above 70-note
+just array into an EMu proteus synth, 
+ starting with 1/1 = 440.0 Hz + 0 cents,
+produces a progressive transposition of sounded
+pitch vs. originally-sampled pitch as the
+scale rises.  By the time we reach pitch 70,
+the synth is playing a note at 440 Hz + 1186.4 cents
+which was originally sampled playing at 
+440 Hz + 7000 cents!    In other words note
+70 of the just array is being played almost 5.5 
+octaves *lower* than its original pitch.  This
+produces wildly bizarre sonic artifacts--growls,
+wah-wah-wah effects, low- or high-pitched
+background noise, etc., collectively known
+as "chipmunking."   
+Is there any way to avoid these weird sonic artifacts
+when playing either just arrays with a lot of different
+notes, or small just arrays which modulate extensively,
+or equal temperaments with lots of notes per octave?
+Yes, there is.
+The solution is twofold:
+[1] Use a SMPTE-locked MIDI interface with a multitrack
+tape deck *OR* any ordinary MIDI interface with a
+hard disk recorder; and...
+[2] Write a program which re-maps the MIDI notes in
+your composition to different MIDI channels depending
+on their MIDI note number.
+Using this combination, you can now lay down just arrays
+or equal tempered scales up to 127 notes per octave without
+any significant chipmunking.
+To see how this works, let's take a concrete example.  First
+we write a program--perhaps using MAX to re-map the notes
+in real time, or using the Cal portion of Cakewalk on IBM
+machines, or even using the MIDI file routines available 
+for $40.00 from Sound Quest to write your own C or BASIC
+or PASCAL program--that reads in the MIDI notes of our
+composition.  Note X is remapped as note X on channel 1,
+note X +1 is remapped as note X on channel 2, note
+X + 3 is remapped as note X on channel 3, note X + 4 is
+remapped as note X on channel 4, note X + 5 is remapped as
+note X on channel 5, and note X + 6 is remapped as note
+X in channel 6.  Then note X + 7 is remapped as note X+1 on
+channel 1, note x + 8 is remapped as note X + 1 on channel 2...
+and so on.  You get the idea. 
+Next, make up 6 different tuning tables for, say, 
+your Proteus II module.  All 6 tuning tables use 12
+notes per octave out of the hebdomekontany.  Tuning
+table 1, for instance, would be:
+Scale degree 1: C + 0.0000 cents
+Scale degree 2: C# + 7.8545 cents
+Scale degree 3: C# + 97.9467 cents
+Scale degree 4: D + 90.8330 cents
+Scale degree 5: D# + 82.0924 cents
+Scale degree 6: E + 98.8633 cents
+Scale degree 7: F# + 0.0291 cents
+Scale degree 8: F# + 92.9145 cents
+Scale degree 9: G + 85.9067 cents
+Scale degree 10: G# + 48.6187 cents
+Scale degree 11: A + 4.4405 cents
+Scale degree 12: A# + 5.9487 cents
+The second tuning table would be:
+Scale degree 1: C + 14.9691 cents
+Scale degree 2: C# + 33.5029 cents
+Scale degree 3: D + 35.0111 cents
+Scale degree 4: D# + 53.5448 cents
+Scale degree 5: E + 46.5370 cents
+Scale degree 6: F + 12.4416 cents
+Scale degree 7: F# + 1.3616 cents
+Scale degree 8: G + 19.8954 cents
+Scale degree 9: G# + 62.1970 cents
+Scale degree 10: A + 41.5040 cents
+Scale degree 11: A# 31.5970 cents
+Scale degree 12: B + 10.9041 cents
+and so on.
+Now copy your remapped MIDI file to 5 different
+files with similar names; then delete
+all notes on channels 2-6 for file 1,
+delete all notes on channels 1 & 3-6 for
+file 2, etc.   If you're dealing with an
+orchestration using multiple MIDI files
+you may want to write into a program a
+routine which automatically deletes all
+but the 12 transposed notes/oct in each of
+the channels you need for that MIDI file.
+Now lock your sequencer via SMPTE to
+your multitrack tape recorder and lay
+down channel 1 using pitch table 1.
+Run the tape recorder back and
+lay down channel 2 using pitch table 2,
+and so on until you've laid down all 6
+channels using all 6 pitch tables.
+If you don't have an Alesis ADAT or
+a Tascam DA-88, don't despair--my
+experience shows that for compositions
+of less than 15 minutes or so you can
+lock WITHOUT SMPTE to a hard disk
+recorder and still maintain perfect sync
+with prerecorded parts, provided your
+hard disk recorder has a "trigger playback
+on MIDI" feature (most do).   Since hard
+disk recorders boast unmeasurably low
+wow and flutter, you can actually lock multiple
+recorded parts in sync *without* using SMPTE
+sync.  I've done this with 3 different stereo
+tracks, equivalent to 6 mono tracks, so there's
+absolutely no reason why you can't do it with as
+many tracks as your hard disk recorder will allow.
+Of course the different parts will eventually 
+drift apart if they last long enough...20, 30,
+40 minutes or so.  But for pieces less than about
+15 minutes my experience is that the parts
+remain in perfect sync.  And since hard disk
+recorders are getting dirt cheap, this is good
+news for all of us.
+As you can see, this process is laborious--but it
+produces excellent sonic results.  The worst
+chipmunking you'll get with a 70-note hebdomekontany
+is a note transposed about 85 cents up or down from
+the pitch it was originally recorded at: this is
+a stretch or compression or less than 5%, and produces
+virtually no sonic artifacts.  And 70 notes is an acid
+test!  Very few just arrays use that many notes!
+One further refinement you might want to consider
+is to compose a piece with lots of notes per octave
+using a "sketch" set of timbres generated by a synth
+which doesn't suffer from chipmunking--say, a
+TX81Z or a VL-1.  Once you've got the skeleton of
+the composition laid down using these approximate
+timbres, orchestrate the final version with a box
+like one of the E-Mu Protei or even one of the Korg
+synths limited to retuning within 12 tones per octave.
+Then lay down multiple tracks with the final timbres
+for a full version of the composition. 
+Although it's more trouble than merely entering a simple
+pitch table and playing all the MIDI notes with a single
+sequencer track, this method has the advantage of
+allowing you to make full use of the high-quality samples
+available in contemporary MIDI boxes.  And as we all
+know, synthesizer technology lurched to a grinding halt
+sometime around 1989 and the synthesizer industry
+decided to commit financial suicide. As a result virtually all
+modern synths are nothing but sample-playback boxes.
+Thus the method described here is the only really
+effective way to deal with modern so-called synths
+(which aren't really synthesizers any more, they're all
+just fancy effects boxes with prerecorded sounds burned
+into ROM) when using large number of tones (just or equal 
+tempered) per octave.
+JI composers, take special note--by using the above process
+with one channel for each key into which you want to module,
+you can modulate to a virtually unlimited number of different
+just 1/1s by laying down different tracks with SMPTE sync
+or via hard disk recorder playback-on-MIDI-note sync.  (Number
+of keys is virtually unlimited because remember--there's no
+limit to the number of different pitch tables you can load
+into your synth *sequentially.* Using this method you could
+modulate into 300 successive 1/1s if you were so inclined!) This
+completely obviates the purported "difficulty" of modulation
+when using just intonation, and renders utterly moot all the
+various "practical" objections to just intonation raised 
+throughout the 19th and early 20th century on the basis of the
+"impossibility" of modulating between just key centers.
+Best of all, as hard disk recorders drop in price and hard disks
+grow bigger and cheaper, you'll have more and more capability
+on hand as time goes on.  God I love the 90s!
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 21 Oct 1995 19:32 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA17301; Sat, 21 Oct 1995 10:32:29 -0700
+Date: Sat, 21 Oct 1995 10:32:29 -0700
+Message-Id: <199510211731.KAA17136@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

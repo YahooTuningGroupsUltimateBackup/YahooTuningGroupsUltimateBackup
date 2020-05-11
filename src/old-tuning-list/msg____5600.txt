@@ -1,0 +1,68 @@
+source file: mills2.txt
+Date: Fri, 6 Jun 1997 02:45:28 +0200
+
+Subject: Re: A Question Concerning Opinion
+
+From: mr88cet@texas.net (Gary Morrison)
+
+I don't consider myself a member of any sort of Just Intonation
+community.  I say that by no means because I don't like JI, or don't use
+it, but because I don't use it exclusively.  I have mostly experimented
+with octave-repeating harmonic- and subharmonic-series fragments, but my
+current fascination with a nonoctave equal temperament.
+
+   So with that background, I'll briefly (re)state my opinion on to what
+degree temperament constitutes unnecessary dissonance pollution.
+
+   In summary, I personally agree with that idea up to the degree that JI
+ratios are the essential reference points for harmony.  I disagree beyond
+there though.  I disagree both from the perspective of the words
+"unnecessary" and "pollution", and also from the perspective of the roles
+of melody and harmony.
+
+   From the "unnecessary" perspective, using the analogy I've stated
+before, I have no doubt that JI ratios represent the navigational bouys in
+pitch space, but we don't have to jump heroically between the 5:4 and 4:3
+bouy panic-stricken that we might fall into the waters between.  The waters
+between 5:4 and 4:3 are every bit as interesting too, and the only way to
+explore them is to take off our JI tuxedos, put on our swimsuits, and dive
+in headfirst!  But again, I have no doubt that our ears will characterize
+the the waters between those two bouys as "five cents sharp of 5:4", or
+halfway between.
+
+   From the pollution perspective, as I mentioned above, I don't see "off"
+versions of JI-defined intervals as fundamentally undesirable.  12TET's
+sharp approximation to 5:4 has a very distinctive "YOW!" sensation to it,
+and that can be useful musically.  For one thing, it makes the third in a
+block chord stand out more, where quarter-comma meantone in that same major
+chord will call attention to the fifth.
+
+   Still, there can be no doubt that that's a matter of degree, depending
+upon not only how far off, but also upon the "basicness" of interval being,
+and the overtone structure of the timbre in which its realized.  It's hard
+to deny, for example, that off octaves are more panic-striking than
+equally-off major thirds.
+
+   Finally, I think it's apparent that the question is different from
+perspective of harmony vs. melody.  A C-major-scale fragment tuned to the
+traditional 1:1 9:8 5:4 4:3 3:2, playing the repeated melodic fragment C D
+E F G F E D C... has a very different effect when played against a C drone
+or not.  With the drone, the cleanliness of the harmony demands a lot of
+attention, but without the drone, it's the comparatively large between C
+and D can feel disconcerting (especially so in the descending sequence, to
+my ears).  I'm not suggesting that that disconcerting feeling is
+necessarily undesirable;  just that that's how it can sound.
+
+Received: from alpha255 [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Jun 1997 05:25 +0200
+Received: by alpha255; (5.65v3.2/1.3/10May95) id AA04064; Fri, 6 Jun 1997 05:25:28 +0200
+Date: Fri, 6 Jun 1997 05:25:28 +0200
+Received: from ella.mills.edu by alpha255 (smtpxd); id XA04059
+Received: (qmail 27935 invoked from network); 6 Jun 1997 03:17:53 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 6 Jun 1997 03:17:53 -0000
+Message-Id: <199706060313.UAA09610@dnai.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

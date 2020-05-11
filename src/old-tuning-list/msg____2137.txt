@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Fri, 13 Oct 1995 20:41:40 -0700
+
+Subject: 88CET #19:  Timbral Considerations
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Orchestrational considerations are something of a mixed bag; some traditional
+orchestrational notions apply equally well to 88CET, but others are better
+rethought a bit.  Some need to be rethought for concrete, physical reasons, and
+others need to change strictly for aesthetic reasons.  
+
+   As for the aesthetic reasons, some timbres just aren't all that exciting in
+88CET.  Classical guitar sounds I have found to be less interesting than
+harpsichord for example.  That was sad to accept for me, having played classical
+guitar for many years.  Piano sounds about as good in 88CET as in any tuning.
+Even though I've used flute sounds successfully for variety in my 88CET
+compositions, there are better instrument sounds to use for 88CET.  Clarinets
+and brass instruments probably work best of all.  Saxophones and bowed strings
+generally work fairly well too, although not as spectacularly well as brasses.  
+
+   There is an amusing footnote to these instrument choices:  Some of the
+instruments that sound best in 88CET cannot be constructed physically in 88CET
+tuning.  Notably, winds use the lower-harmonic vibrational modes to extend their
+range.  That is harmonics like single- and double-octaves and twelfths which lie
+outside the 88CET system.  It's far more difficult to get a tube to "overblow"
+in the seventh- and eleventh-harmonic modes.  On the other hand, I've given some
+thought to the purely-cylindrical flute's tendency to overblow to a flat octave,
+to create an 88CET flute as an instrument that play 13 steps per
+quarter-tone-flat-octave.  
+
+   In the realm of the concrete physical issues are organ timbres.  Does adding,
+for example, a four-foot flute rank to an eight-foot diapason rank in a
+nonoctave tuning produce a richer timbre, or just a false note (the octave) that
+doesn't exist in the tuning system?  Best I can tell, the answer is more likely
+that it'll sound like a false note not in the tuning.  With such strong
+power-of-two harmonics, you almost invariably create those dreadful false
+perfect consonances.  Instrument timbres with modest-to-normal levels of
+octave-harmonics don't pose any such concerns though.  
+
+   Of course the case of a timbre's partials creating harmonies not present in
+the tuning system is certainly not unique to nonoctave tunings.  The seventh and
+eleventh harmonics don't fit into the usual 12TET system, and the fifth harmonic
+is not represented very accurately.  The big difference is that we're creating
+false consonances with very basic, and thus frequently louder, harmonics than
+before.  It is therefore a bigger concern in a non-octave tuning than in an
+octave-based tuning, but is a concern in either.  This of course doesn't rule
+out writing for individual ranks, but the lack of the free-form doubling damages
+the organistic quality of the music.  
+
+   In the vein of less basic physical concerns, certain instruments' overtone
+structures seem to lend themselves to certain chords over others, as is the case
+in most any tuning.  I haven't studied this topic extensively, but I have
+noticed an especially strong example of this:  The 6:7:10 chord seems more
+discordant than the 6:7:9 subminor triad on timbres with weak even harmonics,
+whereas the reverse seems to be true on timbres where even harmonics are about
+the same strength as odd.  I'm sure that there are many other examples of this
+sort of phenomenon, and those wishing to investigate it may want to start with
+this example.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 14 Oct 1995 08:35 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id XAA15368; Fri, 13 Oct 1995 23:35:19 -0700
+Date: Fri, 13 Oct 1995 23:35:19 -0700
+Message-Id: <951014063255_71670.2576_HHB5-8@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

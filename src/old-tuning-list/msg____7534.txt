@@ -1,0 +1,54 @@
+source file: m1394.txt
+Date: Thu, 23 Apr 1998 13:26:59 +0000
+
+Subject: Re: TUNING Resolution
+
+From: david first <d1st@earthlink.net>
+
+> > So what is the minimum pitch resolution that is acceptable?  Is this for
+> > music comprised mostly of long sustained harmonies?
+> > >
+> > John Loffink
+> > jloffink@pdq.net
+
+
+Well - this is actually a tricky question. I make my samples in CPS, not cents
+so if one is starting with a base freq of 440 then multiplying by 3/2,
+5/4...27/16....3645/2048...etc., the amount of decimal places obviously
+varies. But even in Partch's or Helmholtz's ratio to cents tables - both of
+which employ rounding off - there are are two or three decimal places shown
+for even the simplest JI ratios.
+Ultimately, you have to use your ears. If you hear beating/phasing between a
+given pair of frequencies, then something's off. 
+
+To answer your second question, yes, I am talking - at least in my case -
+about sustained tones. But I suppose that it goes, for me, beyond what one can
+get "away with" regarding tuning. It is true that tuning errors are more
+obvious in "slower" music, but isn't that the crux of the issue? Play ANY
+music fast enough and I suppose the errors become negligible. 12et was, and
+is, consider close enough to JI for most people. I presume the the main reason
+for this forum is to explore the alternatives to the alternatives regarding
+pitch and to not accept what is given as gospel whether tuning systems or
+hardware. Perhaps I was a bit contentious in my original post, but I was
+hoping to find out how others feel about this particular issue, and more
+importantly, if and how anyone is, in fact, going beyond what the synthesizer
+manufacturers are saying is good enough.  
+
+> >    Another consideration that deserves some thought along these lines is
+> > that very few acoustic instruments have their overtones within 1 cent of
+> > exact harmonics.  So, if the ideal is to realize the natural sound of real
+> > acoustic instruments, within 1/2 cent of exact JI ratios, then that might
+> > end up somewhat like painting a bullseye with a spray can:  Your mark may
+> > be centered right on the center of the target, but it might still cover a
+> > quarter of the radius of the target.
+> > 
+> >    I am of course exaggerating to illustrate the point.  The mitigating
+> > factor here is that most instruments have their lower partials closer to
+> > harmonic than their higher ones, which are generally quieter.
+> > 
+ 
+This may be true, but, for me, the whole point of using electronics (when I
+do), is to create better and purer relationships than one could ever achieve
+with acoustic instruments. 
+
+David First

@@ -1,0 +1,183 @@
+source file: mills2.txt
+Date: Mon, 18 Mar 1996 08:59:56 -0800
+
+Subject: Keyboard design for 19-scale (from comp.music.research)
+
+From: gruel@theo-physik.uni-kiel.de (J C Gruel)
+
+Hello!
+
+I don't know what has been discussed in this list except
+the last 10 digest's, but John Chalmers encouraged me to 
+re-post here what I wrote some days ago in comp.music.research.
+(There seems to be no newsgroup on tuning - yet.)
+
+What I am writing about is (a) my suggestion to keyboard design -
+if this idea is not new, tell me!, (b) useful notation to be
+used with the 19-scale and the keyboard (very straightforward),
+and (c) some remarks on major and minor chords and the quint
+circle.
+
+If there are better sources on this topic, please tell me.
+
+Jens Christian
+
+-------
+>Thierry Rochebois writes :
+>The numerical coincidences that validate the 12 semitone scale
+>also validate the
+>19 "semitone" one..."
+
+If you multiply 1.037155 up (instead of 1.0594631)
+you recognize that almost all tones appear, however,
+the c/d interval (and c/b flat therefore) and 
+the c/f# (square root of 2) are missing.
+This is because 19/12 is approx. 3/2 and therefore
+3 semi(third)tones are near to 2 halftones.
+And that the tritonus is missing is in any scale that
+has an even number of tones per octave. 
+
+
+>I have considered such a system, and have seen some experimental 
+>keyboards designed to support a 19 semitone scale.  Successful 
+>micro-tonal instruments tend to be fixed-pitch instruments [...]
+
+I would also suggest experimenting with wind instruments, e.g. 
+flutes/recorders. Perhaps one must wait for the player with 
+14 fingers...
+
+>What keyboard layout would you envisage?  Of course, if you wish 
+>to confine yourself to computer-driven music ...
+
+There is one canonic way of designing a keyboard:
+Look what tones are the same as before and insert the new ones!
+
+--------
+My solution is:
+
+One possibility is to duplicate all black keys (5) and 
+to insert a key between e/f and b/c.
+
+Then you have the scale
+
+ | | | | | | | | | | | | | | | | | | |
+ | | | | | | | | | | | | | | | | | | |
+ | | | | | | | | | | | | | | | | | | | 
+ +-+-+ +-+-+ +-+ +-+-+ +-+-+ +-+-+ +++ 
+   |     |    |    |     |     |    |
+   |     |    |    |     |     |    |
+   |     |    |    |     |     |    |
+             f&                    c&
+ c# d& d# e& e#  f# g& g# a& a# b& b#   
+c    d     e    f     g    a     b     c    
+
+(Approximately) Unchanged are:
+
+          e&             a&     b& 
+c    d     e    f     g    a           c    
+
+(9 of 12). Lost are c#,f#
+
+Completely new in pitch are:
+             f&                    c&
+ c# d& d#    e#  f# g& g#    a#    b#
+                                 b
+
+
+(There is one small alternative, i.e. putting
+b& on a white key. This means however that
+neither notation nor naming of the tones can
+be taken from the 12-key scale!-->DISCOURAGED)
+
+As the interval c-a is very pure (1.666524)
+one can tune with both a and c, that is,
+if you tune a to 440, you have the same
+c in 12- and 19-scale.
+
+Many diatonic, e.g. early music can be played 
+on this scale...
+
+You can use conventional notation; however 
+most enharmonics from the 12-scale like c#=d&
+split up to 2 different notes;
+and the two new semitones 
+f&=e# and c&=b# are introduced.
+
+The advantage ist clearly that the mapping between
+white notes on the keyboard and white notes on the 
+music sheet still remains.
+
+That is, any keyboard player can read the notation above 
+and play it on this layout without further explanation!!!
+
+However, harmonic properties become more difficult.
+-------
+
+C major = c  e  g
+c# major = c# e# g#
+d& major = d& f  a&
+d major = d  f#  a
+                    (up to here everyone agrees...)
+d# major = d# g& a#      (!!!)
+e& major = e& g b&
+e major = e g# b
+
+e#=f& major = e#/f& a& b# (!!!)
+
+f major = f a c
+f# major = f# a# c#
+g& major = g& b& d&
+g major = g b d
+
+a major = a c# e
+a# major = a# d& e#/f&
+
+(and so on, in summary d#, a# and the 
+enharmonics' e#/f&  keys become strange...)
+
+---------
+However, as the quint/quart and minor/major third
+remain, the traditional harmonic approach 
+can be generalized.
+---------
+Minor intervals:
+
+Differ from major ones just by changing by 1 semitone.
+
+c minor = c e& g
+c# minor = c# e g#
+d& minor = d& e#/f& a&
+..
+g minor = g b& d
+---------
+quint circle in 19:
+
+e#=f& b#=c& g& d& a& e& b& f (c) g d a e b f# c# g# d# a# e#=f&
+
+That is the usual circle with the alteration that the first
+enharmonic coincidence is not f#=g& (in 12scale) but e#=f&.
+
+Therefore you have 19 major and minor keys!
+ 
+Jens Christian Gruel
+
+--
+=Jens Christian Gruel (gruel@theo-physik.uni-kiel.de) 49-431-880-4096=
+=http://www.theo-physik.uni-kiel.de/~gruel/  Fax 49-431-880-4094/4100=
+=Institut fuer Theoretische Physik   D-24098 Kiel-University, Germany=
+=Private: Jens Christian Gruel and Marret Claussen                   =
+=         Wesselburener Str. 20, D-24106 Kiel-Wik, phone 49-431-35464=
+
+=            ceterum censeo mururoam non esse delendam               =
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Mar 1996 02:27 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA29957; Mon, 18 Mar 1996 17:26:42 -0800
+Date: Mon, 18 Mar 1996 17:26:42 -0800
+Message-Id: <Pine.3.89.9603182019.A19656-0100000@email.ir.miami.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

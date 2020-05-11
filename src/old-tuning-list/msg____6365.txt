@@ -1,0 +1,158 @@
+source file: mills3.txt
+Date: Fri, 31 Oct 1997 01:05:13 +0100
+
+Subject: RE: a definition of sensory dissonance
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+To recap some of my earlier postings and e-mails to J. Kukula:
+
+I do believe that the place and periodicity mechanisms are both at play.
+I also believe that Plomp's model gives a fine account of the
+place-related component of dissonance, which I like to call roughness.
+Combination tones complicate the matter but with a knowledge of the
+amplitudes and frequencies of all combination tone components, Plomp's
+algorithm can be still applied. But a phenomenon called "virtual pitch"
+or "fundamental tracking" is central to Parncutt's treatment of
+dissonance and does represent, I believe, an additional factor besides
+critical band roughness. This phenomenon is clearly distinct from the
+combination tone phenomenon, but it may have a lot to do with
+periodicity mechanisms. There is a very strong propensity for the ear to
+try to fit what it hears into one or a small number of harmonic series,
+and the fundamentals of these series, even if not physically present,
+are either heard outright, or provide a more subtle sense of overall
+pitch known to musicians as the "root". As a component of consonance,
+the ease with which the ear/brain system can resolve the fundamental is
+known as "tonalness." I have proposed a concept called "relative
+harmonic entropy" to model this component of dissonance. The harmonic
+entropy is based on the concept that the critical band represents a
+certain degree of uncertainty in the perception of pitch, and for any
+"true" interval, the auditory system will perceive a range of intervals
+spanning a number of simple-integer ratios. Simple-integer ratios come
+into the picture because if the heard tones are to be understood as
+harmonic overtones of some missing fundamental or root, they must form a
+simple-integer ratio with one another. The range is a sort of
+probability distribution, and a certain amount of probability is
+associated with each of the simple-integer ratios.
+
+One way of modeling this is with a Farey series and its mediants. The
+Farey series of order n is simply the set all the ratios of numbers not
+exceeding n, and the mediant between two consecutive fractions in a
+Farey series is the sum of the numerators over the sum of the
+denominators (this definition has many mathematical and acoustical
+justifications). The simpler-integer ratios take up a lot of room,
+defined as the interval between the mediant below and the mediant above,
+in interval space, and so are associated with large "slices" of the
+probability distribution, while the more complex ratios are more crowded
+and therefore are associated with smaller "slices." Now the harmonic
+entropy is defined, just like in information theory, as the sum over all
+ratios of a certain function of the probability associated with that
+ratio. The function is x*log(x). (See an information theory text to find
+out why.) When the true interval is near a simple-integer ratio, there
+will be one large probability and many much smaller ones. When the true
+interval is far from any simple-integer ratios, many more complex ratios
+will all have roughly equal probabilities. The entropy function will
+come out quite small in the former case, and quite large in the latter
+case. In the case of 700 cents, 3/2 will have far more probabilty than
+any other ratio, and the harmonic entropy is nearly minimal. In the case
+of 300 cents, 6/5 will have the largest probability in most cases, but
+7/6, 13/11, and 19/16 will all have non-negligible amounts of
+probability, so the harmonic entropy is moderate. In the case of 100
+cents, 15/14, 16/15, 17/16, 18/17, 19/18, 20/19, and 1/1 will all have
+significant probability, and the harmonic entropy is nearly maximal.
+
+In terms of the periodicity model, we can imagine a process which
+samples the signal for random periods of time (with some probability
+distribution that is large for very short times and vanishes for long
+enough times) and in each period, counts the cycles of each pitch to
+come up with a ratio (or equivalently, to come up with a fundamental
+frequency, of which the heard note will be harmonic overtones and
+therefore possess a small-integer ratio by implication). Note that
+harmonic partials within the heard tones are irrelevant because the
+cycles here need not be sinusoidal for the counting to occur.
+
+If logs to the base 2 are used in the definition above, the entropy
+measures the expected amount of information, in bits, needed in an
+optimal code to communicate the ratio being heard. So the entropy really
+measures, in a sense, "cognitive dissonance." Now the exact probability
+distribution of sampling times, or the order of Farey series one should
+use, is something that may be difficult to determine. However, as the
+order of the Farey series is increased more and more, the entropy curve
+(defined as a function of interval width) continues rising but stops
+changing shape (I have observed this numerically but not proved it
+mathematically). In the limit of a Farey series of order infinity, one
+should find a smooth "relative entropy" curve that gives a good
+approximation of the ups and downs of the entropy curve for any
+reasonably large finite order. These curves look remarkably like many of
+the Helmholtz/Plomp curves that were derived from completely different
+assumptions, and though they are meant to represent a completely
+different component of dissonance, they lead to the same conclusions for
+intervals of tones with some appropriate overtone structure.
+
+However, when three or more notes are involved, the two components of
+dissonance can have quite different behavior. Consider Partch's "otonal"
+and "utonal" chords. Adding higher identities to both chords increases
+the roughness of both by the same amount. But while the periodicity of
+the otonal chords will be unchanged or perhaps multiplied by small
+powers of two, the periodicity of the utonal chords increases
+dramatically. Thus the process of counting will not be significantly
+complicated, and may even be aided, by adding higher identities to the
+otonal chords, while in the utonal case the likelihood of counting the
+same relative numbers of cycles in each sampling period becomes very
+small, and thus the entropy becomes very large. So the high-limit utonal
+chords, though just as much minima of roughness as the corresponding
+otonal chords, are almost impossible to assign a fundamental frequency
+to and are therefore not minima of harmonic entropy.
+
+It is often possible for the brain to look for periodicities among some
+components of the signal and dismiss the rest as "noise." This is why
+the root of a major triad does not appear to change when the third is
+decreased from 5/4 through 11/9 to 6/5 and the chord becomes a minor
+triad; although the minor triad can be understood as 10:12:15, these
+numbers are already too high for the entropy of the entire signal to be
+low enough to compete with the low entropy of the perfect fifth alone
+(10:15 = 2:3); even the major third alone (12:15 = 4:5) is stronger and
+can dominate if the "third" is in the bass. In the otonal case, looking
+at any subset of the notes present (except 9:3, etc.) will lead to a
+periodicity which is octave-equivalent to, if not identical to, that of
+the entire chord, so various combinations of components of the signal
+effect a reinforcement of the tonalness of the overall chord. How to
+weigh the various subsets' contributions to the probabilities of
+particular fundamentals in an overall analysis is unclear. Even without
+the consideration of subsets, there appears to be no mathematical theory
+of ratios of three of more numbers analogous to Farey theory, and no
+easy way to create one. Unlike roughness, tonalness is not merely
+concerned with pairwise interactions of tones but three-way and higher
+interactions as well. A mathematical model for it is out of my grasp at
+the moment.
+
+It's amazing I get any work done around here . . .
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carl Lumma <clumma@nni.com>
+Subject:  Erlich's Theory
+PostedDate:  31-10-97 16:24:12
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  31-10-97 16:23:12-31-10-97 16:23:13,31-10-97 15:23:44-31-10-97 15:23:44
+DeliveredDate:  31-10-97 15:23:44
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256541.005482C9; Fri, 31 Oct 1997 16:23:05 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00776; Fri, 31 Oct 1997 16:24:12 +0100
+Date: Fri, 31 Oct 1997 16:24:12 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA00805
+Received: (qmail 28045 invoked from network); 31 Oct 1997 07:24:05 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 31 Oct 1997 07:24:05 -0800
+Message-Id: <19971031152436078.AAA181@NIETZSCHE>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

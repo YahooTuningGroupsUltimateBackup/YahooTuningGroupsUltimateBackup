@@ -1,0 +1,111 @@
+source file: mills3.txt
+Date: Tue, 23 Dec 1997 19:48:51 +0100
+
+Subject: Re: Danielou, Touma
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+>I know I've posed this question before, but since no one answered, I
+>want to try again...several folks have mentioned that Danielou's book on
+>Indian/Chinese music was flawed; could someone explain why, and just what
+>is correct.
+
+Danielou is an ethnomusicologist from a less empirical era. Most criticism
+of his writings that I have seen focus on the fact that the justifications
+for his derivations of scales and tunings are based on his own mystical
+precepts and not actual practice. (Danielou denied this, claiming that
+modern practice supported his theories, but Mark Levy pretty clearly showed
+that this was not the case in his empirical study of North Indian
+intonation.)
+
+That in itself doesn't make Danielou's theories worthless or even "wrong."
+In many cultures, including historical India, music theory is less about
+describing practice than about creating a consistent philosophy of music
+showing the relationship of sound to the cosmos. Certainly Danielou fits
+better into the latter category, though many of his ideas were his own and
+unrelated to those of previous Indian theorists.
+
+Here are some excerpts about how Levy describes and critiques Danielou:
+
+"While Danielou presents a number of mystical and acoustical justifications
+for the division of the octave into 22 parts, he formulates his own much
+more elaborate expanded system of 66 srutis, by means of which he
+interprets the intonation of the modern Indian ragas.
+
+"The author constructs a 'universal harmonic scale' which he believes
+contains all intervals used in Chinese, Hindu, Arabic, and ancient Greek
+music. [Note: elsewhere Danielou claims that Western music is essentially a
+22-tone system that has become 12-tone through the conflation of
+enharmonics.]...
+
+"From all these pitches, Danielou chooses 53 which are 'acceptable
+harmonically,' eliminating others which in his opinion are
+'unacceptable.'...To these 53 pitches Danielou, in succeeding publications,
+added 12 more obtained by dividing each disjunction [step sizes larger than
+a comma] in half. This results in 65 pitches, or if the octave itself is
+included, 66. He states that these are the 66 srutis described by Kohala...
+
+"Danielou's theory contains a number of inconsistencies, and seems
+contrived to confirm certain preconceived conclusions....Danielou states
+that in his sytem there are only 2 sizes of intervals, a 'comma' of 20
+cents and a 'disjunction' of 32 cents....Furthermore, there are numerous
+discrepancies between the 53 pitches which Danielou presents in 1943 and
+those presented in 1969, which the author again leaves unexplained."
+
+Levy provides a table showing that, since Danielou has defined his
+intervals in just intonation, such consistent step sizes are obviously not
+found. In fact, Danielou describes step sizes ranging from 19.6 to 29.6 as
+being "commas" of 20 cents, and step sizes ranging from 21.5 to 29.6 as
+being "disjunctions" of 32 cents.
+
+I should point out, too, that actual tuning ratios are not found in Indian
+music theory until the late 17th century, and that it is rare to find two
+treatises that agree. Bhatkhande (early 20th century) is the only theorist
+Levy mentions who even considers 22TET, though he still does not consider
+it representative of actual practice. As Levy considers both North and
+South Indian treatises pretty comprehensively (though only North Indian
+practice), I am unable to find the source of Gregg Gibson's claim that
+22TET is somehow standard in the South.
+
+Danielou's scale is still very interesting, and there is even an instrument
+tuned to his 53-tone JI. You can find out more about it and him through the
+web site dedicated to him. I don't have the URL handy, but there's a link
+off the JI network's links page: http://www.dnai.com/~jinetwk/other.html
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  Re: Paul Ehrlich
+PostedDate:  23-12-97 20:26:33
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  23-12-97 20:24:26-23-12-97 20:24:27,23-12-97 20:23:58-23-12-97 20:23:58
+DeliveredDate:  23-12-97 20:23:58
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256576.006A9709; Tue, 23 Dec 1997 20:26:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA24631; Tue, 23 Dec 1997 20:26:33 +0100
+Date: Tue, 23 Dec 1997 20:26:33 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA24607
+Received: (qmail 25800 invoked from network); 23 Dec 1997 11:26:29 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 23 Dec 1997 11:26:30 -0800
+Message-Id: <34A071ED.4F79@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

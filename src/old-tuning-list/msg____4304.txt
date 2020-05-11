@@ -1,0 +1,87 @@
+source file: mills2.txt
+Date: Thu, 12 Dec 1996 07:03:52 -0800
+
+Subject: Re: Justonic Follow-Up
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Here's what Rex Weyler of JusTonic says about how their software deals
+with comma errors and such.  
+
+  (By the way, Bill Meadows didn't have much to do with this thread;  I
+just copied him on the message to which Rex responded here.)
+
+
+--------------- Forwarded Message ---------------
+
+From:   rexw, INTERNET:rexw@pro.net
+To:     Gary Morrison, 71670,2576
+Date:   11 Dec 1996 , 12:32 PM
+
+RE:     Re: Justonic Follow-Up
+
+Sender: rexw@pro.net
+Received: from haida (haida.pro.net [199.60.218.1]) by
+hil-img-3.compuserve.com (8.6.10/5.950515)
+        id NAA06141; Wed, 11 Dec 1996 13:25:44 -0500
+Received: from pythagoras by haida (SMI-8.6/SMI-SVR4)
+        id KAA11082; Wed, 11 Dec 1996 10:24:23 -0800
+Date: Wed, 11 Dec 1996 10:24:23 -0800
+Message-Id: <199612111824.KAA11082@haida>
+X-Sender: rexw@pro.net
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charsets-ascii"
+To: Gary Morrison <71670.2576@CompuServe.COM>
+From: rexw@pro.net (rexw)
+Subject: Re: Justonic Follow-Up
+
+Hi Gary: Thanks for copy of Bill Meadows communique RE: dealing with the
+comma. You suggest three approaches: (1) no change, accept some mistuned
+chords, (2) shift pitch, or (3) let the tonic wander. In answer to how does
+Justonic deal with this issue: we allow all three. The Justonic approach is
+to not dictate how a musician should deal with this, but rather to give as
+many options as possible. With our system: (1) a KEY change modulates the
+key tonal center. (2) a ROOT change identifies the tonal center within a
+key
+and always in relation to the key (that is, a second ROOT change does not
+modulate from the notes of the current harmony, but from the original key
+tonal center). (3) NO ROOT CHANGE means that all tones retain their ratio
+value to the key tonic, and therefore may result in mistuned harmonies,
+wolf
+notes, etc. (4) A fourth option is a SCALE change which can also happen in
+real time, and can result in any "note" being assigned any ratio (pitch) at
+any time. 
+        Where we go from here is to extended scales, non-octave scales, or
+anything a composer or musician wants to do. If musicians and composers can
+articulate to us what they want to achieve, we will attempt to build it
+into
+the Justonic system. We absolutely do not believe instrument designers
+should be in the business of dictating how music should be played. That's
+why we got into this, to create instruments that actually served musicians
+and placed all parameters at their fingertips. 
+        The Justonic Tone Palette additive synthesizer does the same with
+timbre, giving musicians precision and flexibility with both pitch and
+timbre. It's a long road, but that's our vision. We have Ling Lun,
+Pythagoras, Zalzal, Zarlino, Mersenne, Helmholtz, and a long line of others
+beind us (or above us) encouraging us forward. Please forward any ideas or
+questions. Cheers.    
+
+Rex Weyler
+Justonic
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 12 Dec 1996 16:03 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00564; Thu, 12 Dec 1996 16:05:20 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00526
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA20819; Thu, 12 Dec 1996 07:05:18 -0800
+Date: Thu, 12 Dec 1996 07:05:18 -0800
+Message-Id: <199612121000_MC1-D08-8847@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,35 @@
+source file: m1399.txt
+Date: Tue, 28 Apr 1998 14:33:08 -0400
+
+Subject: RE: JI Tuning Resolution
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>Brass instruments really are aperiodic.  I read about this since
+>the last time it came up.  The worst tuned partials are the low
+>ones for a conical tube.  Even valve horns rarely play the
+>fundamental for this reason.
+>                  Graham Breed
+
+This is another case of confusing the modes of resonance with the
+spectrum of an actual tone. The former is not a harmonic series but
+depends on the shape of the instrument. Good brass makers sacrifice the
+first resonance so that the others can come close to a harmonic series.
+Still, the lowest resonances are typically dozens of cents off a
+harmonic series. But the tone itself contains exactly harmonic partials.
+If you don't believe me, read Dave HIll's recent post, where he found
+that brass partials are a fraction of a cent off of harmonic, which is
+far less than the dozen cent type errors in the lowest modes of
+resonance. Even if you don't believe that Dave Hill's methodology led to
+the errors of a fraction of a cent, clearly the modes of resonance and
+the spectrum of a played tone are clearly two different things.
+
+The reason the "fundamental," or more precisely the lowest resonant
+mode, isn't used by horn players is that none of its harmonic overtones
+coincide with resonances of the instrument. Hence mode-locking can't
+occur, and a steady tone can't be produced, let alone one with a nice
+timbre. A different, quiet "fundamental" can, however, be played by a
+skilled lipper, which is of the "subharmonic" variety: The harmonic
+overtones are engaging the resonances of the instrument, keeping the
+lips vibrating in a steady pattern, while the fundamental is far from
+the lowest resonance and is only weakly amplified at best.

@@ -1,0 +1,92 @@
+source file: mills2.txt
+Date: Mon, 18 Nov 1996 12:30:09 -0800
+
+Subject: Reply to Gary Morrison; Meeting in NYC
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>One of Ivor Darreg's observations about 17TET is that it reverses one of
+>the
+>usual premises of harmony.  In particular, the major third is such a 
+dreadful
+>dissonance that it must be resolved outward to fourths.  That then makes it 
+a
+>good candidate for quartal and quintal harmony (Ivor didn't say that
+>specifically though).  So it's not necessarily a case of putting any kind 
+of
+>harmony behind a 17TET melody sounding "YUCK!", but triadic harmony in
+>particular.
+
+Very true! Or you could resolve the major third outward to a fifth, as was 
+done by Medieval polyphonists working in Pythagorean tuning.
+
+>> I just happened to note that theorists who derive the diatonic scale from 
+
+>> three triads are perpetrating a historico-geographic fallacy.
+
+>Is that the topic of your up-coming Xenharmonikon paper?  It sounds
+>interesting, since that's one of two ways that come to mind immediately as 
+the
+>basis for the construction of the traditional major scale.  The other of
+>course
+>is tetrachord.  Since there are big dissimilarities between the scales
+>constructed by those means, and since the scale itself came about before
+>triadic
+>harmony, I can imagine that there is fertile ground for a paper there.
+
+I just added this to my paper as an aside, but it is a good reflection of 
+the philosophy of the paper in general. Of course the major mode was not one 
+of the favorite modes of the diatonic scale until triadic harmony had been 
+in use for some time -- the tritone resolves to the tonic triad only in the 
+major and minor modes. My paper is an attempt to find a set of pitches 
+which, like the diatonic scale, stands up on a melodic basis alone, but 
+leads as naturally to 7-limit harmony and 7-limit tonality, as the diatonic 
+scale leads to 5-limit harmony and tonality, and (if you believe Yasser was 
+on the right track) as the pentatonic scale leads to 3-limit harmony and 
+tonality. The attempt succeeds even though I look no farther than the first 
+34 equal temperaments (the solution is found in 22-equal).
+
+This brings me to recount the events of this weekend. Johnny Reinhard, 
+Richard Kassell, Adam Silverman, and I met in Manhattan on Saturday for a 
+Chinese-Latin lunch. Much enlightening discussion ensued. I spent much of 
+the rest of the day with Johnny. His wife is a world-class microtonalist in 
+her own right; we brought in her defective Kurzweil K2000 only to find out 
+that the model is no longer in production -- it has been superseded by, if I 
+recall correctly, the VX-24, which has additional expansion ports or 
+something. Anyway, Johnny practically drowned me in bliss with his 
+collection of music and written materials. Our dinner discussion over sushi 
+found him confirming my view that the melodic properties of the diatonic 
+scale are best reflected by Pythagorean intonation, its harmonic properties 
+by just intonation, and the integration of the two by temperament (this 
+could mean meantone temperament, not necessarily 12-equal). He associates 
+these aspects with the left-brain, right-brain, and whole-brain functions, 
+respectively. (I may have reversed the first two.)
+
+Gary: I believe you are right in pointing to the tetrachord as the basis of 
+the diatonic scale. The reason this favors Pythagorean tuning is that only 
+in this tuning does each and every octave species contain two identical 
+tetrachords. (The chromatic and enharmonic tetrachords, of course, fail to 
+produce a scale with this property). The pentatonic scale and my new scale 
+have this property as well. It is worth pointing out, however, that many 
+theorists have instead found the basis in a property one might call "maximal 
+evenness," or spacing two unequally-sized steps as uniformly as possible 
+around the octave. Although this can lead to the diatonic and pentatonic 
+scales if 12-tet is presumed (another historical fallacy), it leads to a 
+scale in 22-tet that is slightly different from the one that is constructed 
+according to "tetrachords." Both scales are so interesting harmonically that 
+I have allowed for either derivation in my paper. I do think the 
+"tetrachordal" one is superior melodically, though.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Nov 1996 01:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13899; Tue, 19 Nov 1996 01:18:10 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA13916
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA08735; Mon, 18 Nov 1996 16:18:08 -0800
+Date: Mon, 18 Nov 1996 16:18:08 -0800
+Message-Id: <199611190015.TAA23161@freenet5.carleton.ca>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

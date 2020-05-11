@@ -1,0 +1,72 @@
+source file: mills2.txt
+Date: Thu, 26 Oct 1995 07:03:28 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: trivial errata in the series of psychoacoustics posts
+---
+As some of you might have guessed, my series of 25 psychoacoustics
+posts constitute a distilled and simplified early version of a significantly
+longer and more detailed  monograph on tuning and psychoacoustics.
+This paper should appear in Xenharmonikon 18, perhaps in 1997. Until
+then, it behooves me to point out that some errors crept into
+the posts--some apparently due to end-of-line word deletions during
+uploads, etc.
+Other errors are entirely my own fault.
+In Topic 8 of Digest 508 a dropped word at the end of a line 
+produced a significant distortion of the intended meaning.  
+The full and accurate text is:
+---
+It is well known that the description of the ear to which Doty,
+Worrall and Alves (known as the place theory of hearing) refer is
+incomplete and conflicts with much of the psychoacoustic
+evidence.  "A second difficulty with the place theory lies in 
+the fact that, in complex sounds, components are often heard
+that are NOT present in the Fourier analysis.  Or loudness 
+judgments of components may be made which do not agree 
+with the amplitudes obtained for Fourier components.  It is 
+certainly true that there are phenomena which cannot at the 
+present time be explained by the plaheory of hearing." 
+[von Bekesy, Georg, "Hearing Theories and Complex Sounds," 
+Journ. of the Acoust. Soc. Am, 35(4), April
+1963, pg. 589]  Be it noted that von Bekesy is the researcher 
+most responsible for compiling experimental evidence for 
+the place theory. (In fact he won the Nobel prize for it.)
+---
+Leaving out the italicized word "NOT" from the posted text
+produces a distinctly false impression.  Mea culpa.
+---
+Several other  errata appeared in Digest 511, topic 6:
+The title of the reference listed as [5] should be "The Physics
+and Psychophysics of Music" by Juan Roederer, 2nd ed., 1973.
+(There is now a third edition, 1995, same author, same title.)
+My post incorrectly listed the title as "Introduction to the
+Physics and Psychophysics of Music," etc.  Important if you
+try to look up the book in a computerized library system!
+Under the reference listed as [6]  the sentence should read
+"...more detailed than any text but Pierce (1992)."  This is my
+flub.  Because John R. Pierce's "The Science of Musical Sound"
+from 1992 has a virtually *identical* title to Johan Sundberg's
+"The Science of Musical SoundS" (S on the end) *ALSO* 
+published in 1992, I confuted them here.  The sense of the
+paragraph is that Sundberg's 1992 book offers more complete
+references and a wider consideration of psychoacoustic ear/brain
+models than any general-reading text other than Pierce's book 
+(also from 1992). 
+--mclaren
+ 
+ 
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 26 Oct 1995 18:33 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA22990; Thu, 26 Oct 1995 09:32:38 -0700
+Date: Thu, 26 Oct 1995 09:32:38 -0700
+Message-Id: <Pine.3.89.9510261244.A27249-0100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

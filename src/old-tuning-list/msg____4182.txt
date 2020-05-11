@@ -1,0 +1,191 @@
+source file: mills2.txt
+Date: Fri, 29 Nov 1996 07:42:20 -0800
+
+Subject: Sabat's formulae for fret positions
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Apologies, I have sent the wrong file, this is the message.
+
+
+Some time ago I expressed my interest to Eduardo Sa'bat in his formulas
+and computer program that he used to calculate the fret positions of his
+Dinarra, a 53-tone guitar. I was looking for a way to do that for my
+sitar, where the strings are rather high above the frets so that the
+increased tension when the string is pressed down needs to be taken into
+account. The formulas and program are explained with diagrammes in his
+book "Principios de la Gama Dina'mica".
+The vibration frequency of a string depends on the vibrating length,
+mass and the tension. All three of them change when the string is 
+pressed down against a fret.
+Apart from the frequency ratio, there are five variables to the program:
+- The length of the open string. This is the distance between the 
+bridge and the nut.
+- The height of the frets. On a guitar, this is something in the order 
+of a millimetre.
+- The height of the nut. This is the height where the string is fixed 
+perpendicular above the plane of the fingerboard.
+- The height of the bridge. This is the height where the string leaves
+the bridge, above the prolongation of the plane of the fingerboard. 
+This may be a little difficult to measure up, if the fingerboard makes 
+an angle with the rest of the instrument.
+- A value that indicates how much the tension rises when the string is 
+stretched. It is the length increment due to elasticity: the difference 
+in length between the situations when the open string is tuned and
+when the string is straight with zero tension. To measure it, first
+tune the string, make a mark on the string just in the nut, 
+loosen the string until it stays straight but without tension, and 
+size the shortening, this value is called Del01.
+The value can be assumed independent of the tension for metal strings
+(within a certain range of course). This means that Hooke's law holds,
+which says that the tension rises proportionally to the increase of
+length. However it is not a fixed value in case of organic (plastic,
+gut) strings. Mr. Sabat has written another program to deal with that
+case. 
+All these values must be given in the same unit, millimetres are 
+convenient. I took the BASIC program, rewrote it in Ada, and improved 
+it somewhat to get the convergence more rapid and stable.
+It is an iterating algorithm. I doubt whether it is possible to obtain
+a formula in closed form. With all the square roots in it I did not 
+want to try an attack.
+The input parameters in the following routine are in the same order as
+above. The pitch parameter is the ratio of the desired frequency with 
+the frequency of the open string. The procedure will raise an
+exception (i.e. end with an error condition) if the parameters
+describe an impossible situation. The output parameter Result will be
+the distance along the plane of the fingerboard between the nut and
+the fret. 
+
+
+   Pitch_Out_Of_Range : exception;
+   Fret_Too_High      : exception;
+
+   procedure Fret_Position (Str_Length : in  Long_Float;
+                            Hfret      : in  Long_Float;
+                            Hnut       : in  Long_Float;
+                            Hbridge    : in  Long_Float;
+                            Del01      : in  Long_Float;
+                            Lin_Pitch  : in  Long_Float;
+                            Result     : out Long_Float) is
+      Hdiff : constant Long_Float := Hbridge - Hnut;
+      Inc   : Long_Float := Lin_Pitch / 2.0 - 0.5;
+      M     : Long_Float := 1.0 + Inc;
+      D, Lpmin, Lp2min, L2min, Del12, Del12min, M1, M2, Temp : Long_Float;
+   begin
+      while Inc > 1.0E-10 loop
+         loop
+            Lpmin  := Str_Length * (1.0 - 1.0 / M);
+            D      := (Lpmin / Str_Length) * Hdiff + Hnut - Hfret;
+            if D < 0.0 then
+               raise Fret_Too_High;
+            end if;
+            Lp2min := Sqrt(Lpmin * Lpmin + D * D);
+            L2min  := Sqrt((Str_Length / M) ** 2 + D * D);
+            Del12  := Lp2min + L2min - Str_Length;
+            Del12min := Del12 * L2min / (Lp2min + L2min);
+            M1     := Str_Length / (L2min - Del12min);
+            M2     := Str_Length / L2min *
+                        Sqrt((Del01 + Del12min * M1) / Del01);
+            if M2 > Lin_Pitch then
+               Inc := Inc / 2.0;
+               M := M - Inc;
+               exit;
+            else
+               M := M + Inc;
+            end if;
+         end loop;
+      end loop;
+      Temp := Lp2min * Lp2min - (Hnut - Hfret) ** 2;
+      if Temp < 0.0 then
+         raise Pitch_Out_Of_Range;
+      end if;
+      Result := Sqrt(Temp);
+   end Fret_Position;
+
+So for example if it's called with the following parameters:
+
+   Fret_Position(Str_Length => 600.0,
+                 Hfret      => 0.8,
+                 Hnut       => 1.5,
+                 Hbridge    => 10.0,
+                 Del01      => 3.6,
+                 Lin_Pitch  => 1.25, -- 5/4 major 3rd
+                 Result     => Result);
+
+Result will be 118.0536. So here we see it's actually a little less,
+i.e. the string a little longer, than the reciprocal linear value of
+(1 - 4/5) * 600 = 120.0. This value it would have if the nut and
+bridge were at the same height as the frets. Eduardo, correct me if
+you see an error somewhere. 
+Not quite satisfied yet, I started from scratch deriving a formula 
+myself to check if I understood everything and to compare results.
+This is the implementation; it also works iteratively.
+
+
+   Pitch_Out_Of_Range : exception;
+
+   procedure Fret_Position (Str_Length : in  Long_Float;
+                            Hfret      : in  Long_Float;
+                            Hnut       : in  Long_Float;
+                            Hbridge    : in  Long_Float;
+                            Del01      : in  Long_Float;
+                            Lin_Pitch  : in  Long_Float;
+                            Result     : out Long_Float) is
+      Hb : constant Long_Float := Hbridge - Hfret;
+      Hn : constant Long_Float := Hnut - Hfret;
+      Lh : constant Long_Float := Sqrt(Str_Length ** 2 - (Hb - Hn) ** 2);
+      X  : Long_Float := abs Hn;
+      Incold : Long_Float := Long_Float'Large;
+      Ls, Lns, L2, Fr, Inc : Long_Float;
+   begin
+      loop
+         Lns := Sqrt(X * X + Hn * Hn);
+         Ls  := Sqrt((Lh - X) ** 2 + Hb * Hb);
+         L2  := Ls + Lns;
+         Fr  := Sqrt(Str_Length * L2 * (Del01 + L2 - Str_Length)) / 
+                  (Sqrt(Del01) * Ls);
+         Inc := Str_Length * (Fr - Lin_Pitch) / (Lin_Pitch * Lin_Pitch);
+         exit when abs Inc / Str_Length < 1.0E-10;
+         X := X - Inc;
+         if Inc > Incold or X > Str_Length then
+            raise Pitch_Out_Of_Range;
+         end if;
+         Incold := abs Inc;
+      end loop;
+      Result := X;
+   end Fret_Position;
+
+The result here with the same parameters is 118.0414. Not exactly equal,
+but the results differ only a few hundreds of a millimetre so there is no 
+difference in practice. Perhaps either one of us neclected something 
+subtle.
+I shall put this routine in the next release of Scala, version 1.2.
+Other things that one might take into consideration next are the
+quantities neglected by this approach, for example the string
+stiffness is assumed to be zero and the position where the finger
+presses the string is assumed to be right on the fret where it is in
+practice just behind the fret, increasing the length and tension of the
+string a little further. So this one should keep in mind when
+interpreting the results. Another complication will arise when single
+frets are used for more than one string so a compromise may be needed.
+Let me repeat that the routine can be inaccurate for strings of
+organic material. I hope everything is clear enough.
+
+Reference: 
+Sabat-Garibaldi, Eduardo: Principios de la Gama Dinamica.
+ARCA S.R.L., Montevideo, Uruguay, 1994. 238 pages.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 29 Nov 1996 16:44 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11965; Fri, 29 Nov 1996 16:46:09 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA11933
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA12652; Fri, 29 Nov 1996 07:46:04 -0800
+Date: Fri, 29 Nov 1996 07:46:04 -0800
+Message-Id: <Pine.SCO.3.91.961129071919.18515A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

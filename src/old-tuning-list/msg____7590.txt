@@ -1,0 +1,52 @@
+source file: m1399.txt
+Date: Tue, 28 Apr 1998 21:38:55 -0500 (CDT)
+
+Subject: Brass Spectra
+
+From: mr88cet@texas.net (Gary Morrison)
+
+Somebody, in the course of the discussion on the possible
+not-completely-harmonic nature of orchestral instruments, suggested that
+brass instruments have more-detuned partials than average.
+
+   I don't personally have much information on that question, although I do
+generally remember them to be more consistent than woodwinds from one cycle
+to the next, which seems to suggest that that would not be the case.
+
+   Buuuuut, I do have very direct information on another interesting aspect
+of brass instruments in general:  Their amplitude spectra - almost always -
+have a shape that might be described as a "truncated bell-curve" -
+truncated at the fundamental.  Something like this:
+         ___
+        /   \
+Amp   /       ` _
+     /            ` ________
+                            \
+     -------------------------------
+     123456789...
+     harmonic#
+
+   That in contrast to woodwinds, which frequently have lumpy, jagged spectra.
+
+   And there are some general patterns to how this spectrum changes with
+pitch and volume.  What I drew above is more or less what a loud,
+low-pitched tone would look like.  A quiet tone at the same pitch has only
+moderately lower energies in the lower harmonics, but that high-harmonic
+shelf toward the right of the spectrum goes away.
+
+   Also, as you move toward higher notated pitches, that bell-curve narrows
+(as if it represented a bell-curve with a lower standard deviation), and
+also moves toward the left.  So the spectrum of a higher note typically
+looks somewhat like this:
+      __
+     /  \
+Amp      `_
+           `___
+                \
+     -------------------------------
+     123456789...
+     harmonic#
+
+   These are all only broad generalizations of course, and obviously the
+details vary a lot between trumpets vs. F.horns, vs. trombones, etc., and
+of course by different players and manufacturers of the instrument.

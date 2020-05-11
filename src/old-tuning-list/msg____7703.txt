@@ -1,0 +1,68 @@
+source file: m1409.txt
+Date: Fri, 8 May 1998 18:28:34 -0400
+
+Subject: Re: Undertone Series
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Jon Catler, quoted by Johnny Reinhard, wrote
+
+>"The difference between the frequencies of the two notes being sounded
+>produces a third note below the range of the first two, called a
+>difference tone.  By playing through a _descending_ harmonic series with
+>two notes and keeping a "B" on top, we can see that the difference tone
+>line creates an _ascending_ minor scale that corresponds exactly to the
+>Undertone Series created earlier from mirror-imaging.
+
+The wording here is unclear -- anyone know what Jon meant by "playing
+through a _descending_ harmonic series with
+two notes and keeping a "B" on top"? Judging from the results, he
+probably meant something like "playing through a series of
+superparticular ratios, with the upper note fixed at "B", and the lower
+note descending."
+
+Anyway, I had written a 22tET guitar piece which demonstrates something
+similar. Two notes are played at a time; the upper one is held constant,
+while the lower one forms approximate simple ratios with the upper one:
+
+7/8:1/1	(4/22)
+6/7:1/1	(5/22)
+5/6:1/1	(6/22)
+4/5:1/1	(7/22)
+7/9:1/1	(8/22)
+3/4:1/1	(9/22)
+
+With distortion, one need not rely on the ear's production of difference
+tones, which only works at very loud volumes. Distortion creates
+difference tones that can be heard at any volume. Tube distortion is
+especially nice for this purpose, as it is more forgiving of temperament
+that transistor distortion. The single 15'' speaker on my tube amp is
+especially conducive to bringing out low difference tones. Playing the
+intervals above, one hears a series of roots, all subharmonics of the
+top note:
+
+1/8
+1/7
+1/6
+1/5
+2/9
+1/4
+
+By actually playing the following notes on the lower strings, I
+reinforce those difference tones:
+
+1/4
+2/7
+1/3
+1/5
+2/9
+1/4
+
+The result (with rhythmic fanciness, and two extra measures of
+tonic/dominant stuff) is, according to some of my friends, the most
+effective demonstration of what microtones can contribute to music that
+they have heard (and believe me, I've played them a lot of microtonal
+music).
+
+Note that the simultaneities in both my and Catler's examples are always
+otonal chords.

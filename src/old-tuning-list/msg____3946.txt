@@ -1,0 +1,60 @@
+source file: mills2.txt
+Date: Wed, 6 Nov 1996 16:13:13 -0800
+
+Subject: Aristoxenos & ET?
+
+From: John Chalmers <non12@deltanet.com>
+
+I think it is a bit of an exageration to claim that Aristoxenos 
+invented or proposed equal temperament, though we (including me) 
+interpret his genera as such and quantize them to 12, 24, 36,72 
+or 144-tet. What A spoke of are "parts" of tones and he defined the
+tone as the difference between the consonances of the 4th and 5th.
+A later writer, Cleonides, came up with the 30 parts to the 4th
+system  we attribute to A -- an enharmonic of 3 + 3 + 24 parts, 
+a soft  chromatic of 4 + 4 + 22 parts, a hemiolic chromatic of 4.5 
++ 4.5 + 21 parts, an intense chromatic of 6 + 6 + 18 parts, a soft 
+diatonic of 6 + 9 + 15, and a diatonic of 6 + 12 + 12. A also
+mentioned some other genera somewhat resembling Archytas's tunings,
+but he felt that the ones above were best known and fit his
+theoretical framework in which the first interval could never
+be greater than 6 parts and the second interval larger than the third. 
+
+The main reason I think he did not really mean ET is that none of 
+the other Greek theorists interpreted his tunings that way. 
+Eratosthenes and Ptolemy understood A's parts as being parts of a 
+physical string of 120 units. The principal or Dorian mode of each
+genus was divided into two tetrachords of 120 ....90 and 80....60 parts. 
+The string lengths of the upper tetrachords (most of E's own and 
+Ptolemy's interpretation of A's) had to be divided by 3/2 as there are 
+only 20 parts between 80 and 60.  I think this is pretty good evidence 
+that equally
+tempered intervals were not being considered. 
+
+Finally, computing string lengths for ET's was well within the 
+capabilities of the Greek mathematicians. Archytas himself was known 
+for a 3-D construction (using more than a compass and straight edge) 
+for the cube root of 2 and the extraction of square roots was long known. 
+Hence computing string lengths to reasonable preceision for the 0 mod 
+12 ET's would have been easy, had the Greeks ever wanted to.
+
+I think Aristoxenos was trying to rigorously describe the perceived
+sizes of the intervals of the various genera without recourse to
+ratios, string lengths or other extra-musical factors. In this
+respect, he is our earlist psychoacoustician.
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 7 Nov 1996 09:21 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02668; Thu, 7 Nov 1996 09:22:19 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02667
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id AAA21530; Thu, 7 Nov 1996 00:22:15 -0800
+Date: Thu, 7 Nov 1996 00:22:15 -0800
+Message-Id: <199611070320_MC1-B8B-8AD3@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

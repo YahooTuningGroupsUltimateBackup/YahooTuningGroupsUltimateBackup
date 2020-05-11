@@ -1,0 +1,48 @@
+source file: m1446.txt
+Date: Sat, 13 Jun 1998 10:38:20 -0500 (CDT)
+
+Subject: RE: VFX vs. SY77/SY99
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>>... but Gary was more interested in the FM synthesis
+>>side, which uses oscillators (sine wave and variants) as raw material
+>>for cooking up much more complex sounds.
+
+   I'm somewhat interested in FM, yes.  The idea of resonant filters
+sweeping through nonharmonic partials strikes me as interesting to explore.
+But FM in particular isn't a major goal in itself.
+
+   What I'm more specifically interested in is more abstract sorts of
+sounds.  I've mostly been working with simulations of traditional
+instruments.  I'm interested in composing music approximately in the
+stylistic vein of W. Carlos' "Timesteps" or "Geodesic Dance".
+
+   That not in the sense of "knocking off" those particular compositions,
+or regenerating the particular synthetic sounds used in them.  But more
+generally speaking, I'm interested in a synthesizer for music of more or
+less that general sort of genre:
+1.  Abstact, nonacoustic timbres - not imitating anything in particular, or
+    often not even particularly reminiscent of anything immediately
+    recognizable.
+2.  Although timbres are nonorchestral, the texture and drama of the music IS
+    nevertheless typical of orchestral music.
+3.  Not spacey in the New-Age sense of the word;  it expresses fairly concisely
+    a very specific musical point.
+4.  Nontraditional to semitraditional form, sometimes a bit programmatic in
+    nature.
+5.  No underlying "beat", unlike much of Jean-Michel Jarre's music which usually
+    has a steady, quasi-jazz-rockish beat.  (Not that there's anything wrong
+    with that pe se, but that's just not what I'm interested in composing for
+    now).
+6.  Not serial nor minimalistic.
+
+   Do you folks suppose that a TG77 would be appropriate for that sort of thing?
+
+   By the way, I'm assuming that the TG77 is multitimbral;  is that
+correct?  By "multitimbral", I mean able to play in more than one timbre at
+a time, typically one per MIDI channel.
+
+   John (Loffink), that might be a useful column to add to your web page.
+A fair number of synthesizers are not multitimbral, and I suspect that
+people would like to know that.

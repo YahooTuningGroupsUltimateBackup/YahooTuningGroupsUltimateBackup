@@ -1,0 +1,22 @@
+source file: m1603.txt
+Date: Sat, 05 Dec 1998 21:58:11 +1100
+
+Subject: Bram's diamond
+
+From: Greg Schiemer <gregs@mail.usyd.edu.au>
+
+Bram's diamond just caught my interest. I recently had a premiere of an a capella
+work called Vedic Mass written for two sopranos and two mezzo-sopranos. The work is
+based on this very same 7-limit diamond which I've notated in standard notation.
+For rehearsals leading up to the premiere, the singers - a Sydney-based group
+called Voiceworks - trained using a Csound crib in 12-tet. It was my hope that with
+the harmonic bias of the dominant 7ths & half dimished chords, the vocalists'
+intonation would gravitate in an a capella situation towards 7-limit JI. However
+even though most aspects of their performance went off beautifully, I found, given
+the degree of vibrato, it was hard to tell whether vocalists actually sang in
+7-limit JI. When the piece is done again in easter next year the same singers will
+be directed by a more experienced musical director who wants to train the singers
+using a Csound crib in 7-limit JI. Some singers, like Jane Manning, argue that
+vibrato is their way of dealing with fatigue. Is it too silly to expect that such a
+work will be realised in 7-limit JI by operatically trained singers given their
+irresistible inclination for vibrato ?

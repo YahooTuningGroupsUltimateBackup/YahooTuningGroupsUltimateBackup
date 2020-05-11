@@ -1,0 +1,104 @@
+source file: mills2.txt
+Date: Fri, 10 Jan 1997 10:25:31 -0800
+
+Subject: building an mbira
+
+From: prent@VNET.IBM.COM
+
+>   Adam at Yale wrote:
+>
+>   This is a question for all of you master-craftspersons out there.  I
+>   have decided to have a fancy mbira custom-built for my music, and
+>   before I jump into it, I would like to know if anyone here has done
+>   this and can offer any advice regarding design specifications.  I
+>   would like to have a double-level style like those found in Zimbabwe
+>   (do we say Rhodesia?) but probably a second tier on either side.  I
+>   don't know why they usually are only double-tiered on the left.  I am
+>   also wondering if a fine-tuning mechanism could be devised, better
+>   than just wiggling the tongues back and forth while hoping for the
+>   best.
+>
+>   Any advice?
+>
+>   -Adam
+>   abs22@pantheon.yale.edu
+
+I have built several microtonal mbira. I call them finger piano's
+instead of thumb piano's, since you play them with your fingers, much
+like a piano. I still use one that is tuned to 31 tones to the octave,
+arranged as in Erv Wilson's Bosanquet layout. Another has 12 tones in
+just to the 13 limit on C and F. Each is amplified. One uses a contact
+microphone and the others use magnetic transducers much like guitar
+pickups. The key to tuning them is to make sure that a pronounced
+overtone is tuned, as well as the fundamental. I found that adding a
+generous dollop (technical term) of rosin core solder to the ends of
+the low notes helps bring the overtone two octaves above the
+fundamental. Otherwise it is two octaves and a major third above, and
+very unpredictable. File off excess solder until the overtone is in
+tune with the fundamental, then shorten or lengthen the tongue until
+the fundamental is in tune with the note desired.
+
+I use .010 spring steel 3/16" wide for the tongues. This produces a
+very soft sound, which requires amplification to be properly heard.
+But it is very easy to work with and sounds nice. Multiple ranks can
+be made with proper design of the tongue support structure.
+
+
+As many ranks as you need, top view:
+
+     ---------------------------------
+           +              +              brass bars secured with screws
+     ---------------------------------
+       \ \    \ \    \ \     \ \         spring steel tongues under the first
+     ---\-\----\-\----\-\-----\-\-----   brass bar and over the next brass bar
+         \ \    \ \    \ \     \ \
+     -----\-\----\-\----\-\-----\-\---
+       \ \ \ \\ \ \ \\ \ \ \ \ \ \ \
+     ---\-\-\ \\ \-\ \\ \-\ \-\ \-\ \-
+         \ \ \+\\ \ \+\\ \ \+\ \ \ \+\  <--- solder on the tip
+     -----\-\----\-\----\-\-----\-\--+
+           \ \    \ \    \ \     \ \
+     ---\- -\ \\ \-\ \\ \-\ \-\ \-\ \-
+         \ \ \+\\ \ \+\\ \ \+\ \ \ \+\
+     -----\-\----\-\----\-\-----\-\--+
+           \ \    \ \    \ \     \ \
+     ---\- -\ \\ \-\ \\ \-\ \-\ \-\ \-
+         \ \ \+\\ \ \+\\ \ \+\ \ \ \+\
+     -----\-\----\-\----\-\-----\-\--+
+           \ \    \ \    \ \     \ \
+            \+\    \+\    \+\     \+\
+
+Side view:
+
+                    +/    <--- solder tip
+                    /
+                   /
+                  /    <--- .010" 3/16" spring steel
+                 /
+                /
+               /
+              /
+   +------+  /+------+
+   !      ! / !      !  <--- 1/4" x 3/8" brass bar (approximate)
+   +------+/  +------+
+
+Secure to a steel or wooden base with screws. Slip the spring steel
+tongue under the brass bar, and insert or pull it out to tune, after
+tuning the overtone to the fundamental.
+
+
+Prent Rodgers
+Boise, ID
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 10 Jan 1997 19:38 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19572; Fri, 10 Jan 1997 19:41:46 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA19580
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA15135; Fri, 10 Jan 1997 10:41:44 -0800
+Date: Fri, 10 Jan 1997 10:41:44 -0800
+Message-Id: <25970110184152/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

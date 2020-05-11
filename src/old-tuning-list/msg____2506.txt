@@ -1,0 +1,77 @@
+source file: mills2.txt
+Date: Mon, 29 Jan 1996 09:01:20 -0800
+
+Subject: Optimising synthesizer tuning
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+After Bruce Gilson showed interest in my mode-fitting algorithm it
+suddenly occurred to me that the same method can also be used for
+tuning a synthesizer. To do so, the closest mode is calculated for the
+octave division equal to the tuning resolution of the synthesizer. The
+case is that a better quantisation can be made than just taking the
+nearest step for each pitch. Just like the methods record companies
+invent to squeeze everything out of the 16 bits of audio on a CD, like
+Super Bit Mapping and so on, this method gives a better mapping for a
+tuning system. 
+Take the following contrived example. For simplicity we assume a 
+tuning resolution of 1200 steps per octave.
+
+  0:          0.00 cents
+  1:        100.55 cents    100.55
+  2:        200.55 cents    100.00
+  3:        300.55 cents    100.00
+  4:        700.45 cents    399.90
+  5:        800.45 cents    100.00
+  6:        900.45 cents    100.00
+  7:       1200.00 cents    299.55
+
+Doing ordinary roundoff this gives the following number of steps:
+
+  1:  101   101
+  2:  201   100
+  3:  301   100
+  4:  700   399
+  5:  800   100
+  6:  900   100
+  7: 1200   300
+
+The disadvantage we are seeing is that interval 3-4 is 399.9 cents but
+it gets only 399 steps of 1 cent.
+The solution is to give up the fixed tuning of pitch number 0 and 
+incorporate it into the roundoff process. If the grid of tuning steps
+is shifted at most half a step up or down, pitch number 0 will always
+be rounded off to zero but the other ones can be rounded off to
+different values. The grid needs to be wobbled a bit in order to find 
+the optimal position. From a certain position, the next optimal shift 
+can be calculated and be fed back for a new round of rounding off. 
+This settles quickly. The variance is calculated with respect to the
+shifted grid. For the example this gives as best (least squares) fit: 
+
+  1:  100   100
+  2:  200   100
+  3:  300   100
+  4:  700   400
+  5:  800   100
+  6:  900   100
+  7: 1200   300
+
+The grid is shifted is 0.4286 cents.
+I'm currently trying to find an efficient way of best guessing a shift.
+The method I had originally was found not to work in all cases.
+For tunings with another octave than what the tuning steps of 
+synthesizers are based on (mostly 2/1), and not a multiple of it, this
+method doesn't work.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 29 Jan 1996 22:31 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA05882; Mon, 29 Jan 1996 13:31:25 -0800
+Date: Mon, 29 Jan 1996 13:31:25 -0800
+Message-Id: <Pine.3.89.9601291546.A963-0100000@email.ir.miami.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

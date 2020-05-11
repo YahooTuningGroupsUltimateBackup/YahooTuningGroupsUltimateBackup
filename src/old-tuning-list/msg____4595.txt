@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Mon, 13 Jan 1997 11:09:46 -0800
+
+Subject: CPS
+
+From: Kami Rousseau <kami@InterLinx.qc.ca>
+
+This morning, my linear algebra gave us an example about a cube whose
+coordonates were (0,0,0)-(1,1,1)-(0,1,0)-...
+
+Being a JI person, I thought about the Euler-Fokker genera Eu(3,5,7).
+The cube on the chalkboard became 1 35/32 5/4 21/16 3/2 105/64 7/4 15/8
+2, or in integers, 64 70 80 84 96 105 112 120 128. It remended me of the
+"acoustic scale" formed by harmonics 8-16 : 
+1 9/8 5/4 11/8 3/2 13/8 7/4 15/8 2
+64 72 80 88 96 104 112 120 128
+
+I looked at the Eu(3,5,7) scale for a moment, trying to notate it a la
+Ben Johnston.
+
+Then I asked myself, could this be expressed as a CPS? The answer is
+obviously yes. CPS3/6(1,1,1,3,5,7);1  (This is my notation for 3 factors
+out of 6, with 1 as the tonic of the scale)
+
+This means that the CPS are a generalisation of the Euler Fokker
+generas. 
+
+I also found out that the familiar 1 9/8 5/4 4/3 3/2 5/3 15/8 2 is
+CPS3/8(1,1,1,3,3,3,5);3. 
+
+Then the course got a little more interesting and I had to pay more
+attention to vectors and cosines.
+
+That's all for now!
+-Kami
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 13 Jan 1997 23:07 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07460; Mon, 13 Jan 1997 23:10:13 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA07444
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA11071; Mon, 13 Jan 1997 14:10:10 -0800
+Date: Mon, 13 Jan 1997 14:10:10 -0800
+Message-Id: <23970113220732/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

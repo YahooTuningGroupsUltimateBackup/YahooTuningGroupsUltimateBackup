@@ -1,0 +1,104 @@
+source file: mills2.txt
+Date: Tue, 25 Feb 1997 23:15:51 -0800
+
+Subject: AJI - Automatic Just Intonation
+
+From: rtomes@kcbbs.gen.nz (Ray Tomes)
+
+G'day all
+
+I am Ray Tomes and new here.  David Madole might like to know that I am
+in New Zealand so that he can add one more country to his statistics.  I
+found out about your list from Matt Nathan who found my WWW pages
+somehow.  About now I should admit my general ignorance of music jargon
+and explain that I came into all this by the back door and missed out on
+getting a party hat at the front  :-)  so please excuse my lapses.
+
+Some years ago I had the idea that with electronic instruments there was
+no need to make the old compromises when choosing a tuning system.  Just
+as a violinist or singer can adjust frequencies a little from note to
+note to get perfect harmony, so can an electronic keyboard instrument if
+it "knows" what adjustments are needed.  In most cases the logic of this
+is trivially easy, but there are some more difficult cases.  I took out
+a provisional patent on the idea, but after finding that an existing
+patent covered part of what I was doing and that it would cost big bucks
+for possibly no protection I made it all publicly available free.
+
+I call it "Automatic Just Intonation" or AJI for short (this is a little
+play on words for Japanese because "aji" means "taste" in japanese).
+
+The description of the idea is on my WWW pages at
+http://www.kcbbs.gen.nz/users/rtomes/aji-main.htm
+and there are some worked examples also.  Due to not owning fancy enough
+instruments I have never fully implemented the idea, so if someone who
+has the necessary equipment would like to I would be pleased to work
+with them.
+
+Here is the essence of the idea.  For any chord played take the spacings
+of the note-numbers (counted in semitones) and compare them to a master
+list which looks like this [note=12*log(ratio)/log(2)]:
+
+ratio  1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16 etc
+note   0  12  19  24  28  31  34  36  38  40  42  43  44  46  47  48 ...
+
+A flash version of this is at
+http://www.kcbbs.gen.nz/users/rtomes/aji-a.gif which if printed and cut
+in two is a kind of chord slide rule calculator.
+
+Basically you just go along the "note" line from the left until you find
+a pattern that matches the notes played.  Suppose we play C-E-G then
+these have spacings of 4 and 3 semitones (we could use 0-4-7 as a
+pattern as E is 4 semitones above C and G is 7).  The first occurence of
+this pattern is when we get to ratios 4:5:6 and so those are the correct
+ratios for these notes (big surprise!) and we can do the same for any
+note combination.  Use a non-proportional font (such as courier)
+
+                                         1 111 111        fixed
+ 1...........2......3....4...5..6..7.8.9.0.123.456 etc    ratio
+ |           |      |    |   |  |  | | | | ||| |||        scale
+
+               --->      |   |  |        sliding
+                         C...E..G        chord ... matches here
+
+There are a few catches.
+
+1. Once we get up to ratios in the 20s then more than one ratio lands on
+the same note and so we don't know which one it should be.  I have given
+a lot of thought to this and devised several different schemes.
+Basically ratios composed of products of 2s and 3s are preferred and
+ratios of 5 and 7 are OK and the rest seldom get a look in.
+
+2. Some combinations such as C-D fit in several places near each other
+in the table and can mean a ratio of 7:8, 8:9 or 9:10.  With no other
+information 8:9 is preferred as being made up of 2s and 3s.  However it
+also depends on the preceeding notes played.
+
+3. How do we know how to link the notes in one chord to those in the
+next in terms of relative frequency?  Sometimes there are two
+possibilities because two repeated notes have a change in their
+relationship (e.g G-A changes from 8:9 to 9:10 when D-G-A is followed by
+C-G-A).  Do we change G or A?
+
+These and other complications are discussed in my article.
+
+In another post later I will explain my theory of the universe which
+proves quite convincingly that the entire universe is nothing but a
+giant musical instrument and that everything in it, galaxies, stars,
+planets ...atoms and particles are all just the manifestations of the
+strongly favoured oscillation modes.  Seriously!
+
+-- Ray Tomes -- rtomes@kcbbs.gen.nz -- Harmonics Theory --
+http://www.kcbbs.gen.nz/users/rtomes/rt-home.htm
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 26 Feb 1997 20:17 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09446; Wed, 26 Feb 1997 11:04:18 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09499
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id CAA12485; Wed, 26 Feb 1997 02:02:46 -0800
+Date: Wed, 26 Feb 1997 02:02:46 -0800
+Message-Id: <199702260502_MC2-11BD-FE69@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

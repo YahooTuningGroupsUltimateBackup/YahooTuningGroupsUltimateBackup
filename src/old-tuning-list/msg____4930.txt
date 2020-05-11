@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Fri, 28 Feb 1997 19:01:12 -0800
+
+Subject: Tetrachords
+
+From: John Chalmers <non12@deltanet.com>
+
+Eratosthenes: The simplest explanation of E's enharmonic and chromatic
+tunings is that he took an open string of 120 parts and subtracted 
+Aristoxenos's parts in order. For the enharmonic, this procedure results 
+in 120 117 114 90 and 114/90 is 19/15. In the case of the chromatic,
+120 114 108 90, and  108/90 is 6/5. His diatonic is the old Sumero-
+Babylonian "Pythagorean" tuning.
+
+I think E chose 120 for the open string because astronomers were 
+used to using base-60 notation (actually a form of decimally-coded 
+sexagesimal). Ptolemy's string lengths are all in base-60 as it would 
+have been the most familiar notation for expressing fractions,
+which are cumbersome in the Greek and Roman numeral systems. 
+
+As for computing Aristo's parts as 30th roots of 4/3, I agree that
+it would be difficult to extract the 5th root of 4/3 and I think
+you may have the solution to why no known Greek theorist recorded
+A's genera in ET. Still, use might have been made of the Mesolabium, 
+an instrument invented by Eratosthenes himself (Heath) (or Archimedes,
+elsewhere) for just this type of problem. After the 5th roots were
+approximated, it would have been relatively easy to compute the square 
+and cube roots of the segments.
+
+Barbera also thinks that Aristoxenos meant 4/3 for the tetrachord 
+span and listed the roots for Aristo's main genera. However, if one 
+simply tries to approximate the divisions, it is possible to do so 
+with just square roots. The enharmonic may be described as two
+successive intervals of the square root of 256/243 followed by a ditone
+of 81/64 and the Intense chromatic as two square roots of 9/8 and 32/27.
+
+One further thought, I am inclined to agree with you about Ptolemy
+having observed 1:2 divisions in practice. His enharmonic still looks
+artificial to me, mostly because the enharmonic was supposed to be
+extinct in practice by his time. I suspect it was supplied by analogy
+with the Soft Chromatic, which greatly resembles Archytas's chromatic, 
+and the Soft Diatonic and Intense Chromatic, both of which may be 
+descended from Aristoxenos's Soft Diatonic (100 150 250 cents) versus 
+22/21 x 12/11 x 7/6 (81 151 267) and 21/20 x 10/9 x 8/7 (85 182 231).
+(I believe Winnington-Ingram had similar thoughts, but I don't have
+his paper on Aristoxenos and musical intervals at hand). In 500 years
+musical taste could have changed sufficiently that the 1:2 pyknon was
+to be prefered in the non-diatonic genera (the stereotype soft diatonic
+is just on the border between Chromatic and diatonic and sounds chromatic 
+to me most of the time).
+
+Polychronios: Thanks for the source of the 68-tet division formerly
+used in the Greek Orthodox liturgical music. I hadn't heard of
+Archbishop Chrysanthos before.
+
+--John
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 1 Mar 1997 05:49 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01064; Sat, 1 Mar 1997 05:49:34 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01118
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id UAA19781; Fri, 28 Feb 1997 20:48:00 -0800
+Date: Fri, 28 Feb 1997 20:48:00 -0800
+Message-Id: <970228234545_851117499@emout03.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

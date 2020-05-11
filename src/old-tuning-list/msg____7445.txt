@@ -1,0 +1,47 @@
+source file: m1384.txt
+Date: Mon, 13 Apr 1998 09:44:27 -0500
+
+Subject: RE: delurking (synthesizer tuning capabilities)
+
+From: "Loffink, John" <John.Loffink@COMPAQ.com>
+
+> From: mr88cet@texas.net (Gary Morrison)
+> Subject: Re: delurking
+> 
+>    Uhmmm, I must be missing something here:  Why do you disagree that
+> Ensoniq has the best microtonal povisions, if you have to limit yourself
+> to
+> 12-tone scales and use SysEx codes on the Roland instruments?
+> 
+>    My information may be out of date, but I'm not personally aware of any
+> other machines with greater tuning flexibility than 8 (4 easily switchable
+> at a time) completely arbitrary pitch tables (any key may play any pitch
+> within the sound generator's range and pitch resolution) per
+> instrument-sound.
+> *************************
+> 
+My opinion is based upon using Ensoniq samplers since 1989.  If you want to
+do a moderate amount of modulation in just intonation, 4 switchable scales
+are not enough.  Even if you use only fixed scales, if you want more than 8
+different ones then you must store those scales as separate files and then
+copy them individually to each and every sample instrument that you use.
+This is due to the problem that the Ensoniq samplers cannot store program
+parameters separate from sample data.  So you have a choice, store
+multimegabytes of samples just because you use different scales, or do a lot
+of manual entry.  That's user unfriendly, in my opinion.  It's fine, though,
+if you limit yourself to a few scales.
+
+The other problem is that the Ensoniq pitch table sysex codes were never
+fixed through 3 generations of samplers (EPS, EPS-16 Plus and ASR-10).  I'd
+call that limiting.  That means you can't store the tables in your
+computer's sequencer file along with your composition or update them in
+realtime, both of which you can do with Roland equipment.  Justonic's Pitch
+Palette does not support Ensoniq samplers for this very reason, but it does
+support Roland GS instruments.
+
+The most flexible microtonal architecture I've seen in a commercial
+synthesizer is the Yamaha TX802.  You can define up to 64 keyboard scales on
+a cartridge, and then assign each part to any of the scales.
+
+John Loffink
+jloffink@pdq.net

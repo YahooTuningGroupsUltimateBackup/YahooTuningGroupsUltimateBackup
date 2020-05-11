@@ -1,0 +1,511 @@
+source file: m1569.txt
+Date: Fri, 30 Oct 1998 17:19:28 -0500
+
+Subject: RE: TUNING digest 1568
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+> -----Original Message-----
+> From:	tuning@eartha.mills.edu [SMTP:tuning@eartha.mills.edu]
+> Sent:	None
+> To:	Paul H. Erlich
+> Subject:	TUNING digest 1568
+> 
+> 			    TUNING Digest 1568
+> 
+> Topics covered in this issue include:
+> 
+>   1) Re: More Wilson Archive
+> 	by "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>   2) Re: TUNING digest 1567
+> 	by Larry.Polansky@Dartmouth.EDU (Larry Polansky)
+>   3) RE: consonance definition?
+> 	by "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>   4) Re: updates to my website
+> 	by monz@juno.com
+>   5) Re: international microtonal conference
+> 	by monz@juno.com
+>   6) Re: international microtonal conference
+> 	by Lydia Ayers <layers@cs.ust.hk>
+>   7) Conference proposals
+> 	by Leigh Smith <leigh@antechinus.cs.uwa.oz.au>
+>   8) Mathematical explanation of consonance? - Simple!
+> 	by Charles Lucy <lucy@ilhawaii.net>
+>   9) Re: Mathematical explanation of consonance? - Simple!
+> 	by Gary Morrison <mr88cet@texas.net>
+>  10) Re: TUNING digest 1567
+> 	by "Robin Perry" <jinto83@hotmail.com>
+> 
+> ----------------------------------------------------------------------
+> 
+> Topic No. 1
+> 
+> Date: Thu, 29 Oct 1998 16:12:11 -0500
+> From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+> To: "'tuning@eartha.mills.edu'" <tuning@eartha.mills.edu>
+> Subject: Re: More Wilson Archive
+> Message-ID: <BE1BFD0739D8D111ACC800805FBE3C05149748@MARS>
+> 
+> Thanks, Kraig, for the great work. Wilson's work deserved to be seen
+> and
+> studied by all of us. I must complain, though, that the low resolution
+> of the scans (were they faxes?) has had me straining my eyes, but so
+> far
+> context has helped me to tell 3s from 5s, etc.
+> 
+> ------------------------------
+> 
+> Topic No. 2
+> 
+> Date: 29 Oct 98 16:34:21 EST
+> From: Larry.Polansky@Dartmouth.EDU (Larry Polansky)
+> To: tuning@eartha.mills.edu
+> Subject: Re: TUNING digest 1567
+> Message-ID: <13096623@prancer.Dartmouth.EDU>
+> 
+> --- You wrote:
+> 
+> 
+> Can anyone offer a comprehensive mathematical explanation of
+> consonance?
+> 
+> 
+> Robin
+> 
+> --- end of quote ---
+> 
+> I teach this topic a lot in my classes, robin, and there are some good
+> resources. historically, tenney's History of Consonance and Dissonance
+> is a
+> good reference. Mathematically, i work a lot with my students (and use
+> in my
+> own composition work) some variant of the tenney HD function, which is
+> very
+> similar to the Euler function and the barlow function (these are
+> explained
+> pretty well in Chalmer's "Divisions...".). we've done some fun things
+> here in
+> seminars with plotting the different functions over common intervals,
+> and so
+> on, and it turns out that they're all pretty similar (low primes vs.
+> few
+> exponents is the basic idea), but have some interesting differences as
+> well.
+> 
+> 
+> these are not cognitive functions, exactly, which would need to use
+> the
+> critical band and a heck of a lot of other things (including timbre,
+> context,
+> temporal displacement, memory, etc etc etc)... they are something more
+> like
+> very concise cognitively informed musical similarity functions (if
+> that makes
+> any sense)
+> 
+> 
+> lp
+> 
+> ------------------------------
+> 
+> Topic No. 3
+> 
+> Date: Thu, 29 Oct 1998 16:46:16 -0500
+> From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+> To: "'tuning@eartha.mills.edu'" <tuning@eartha.mills.edu>
+> Subject: RE: consonance definition?
+> Message-ID: <BE1BFD0739D8D111ACC800805FBE3C05149749@MARS>
+> 
+> >Can anyone offer a comprehensive mathematical explanation of
+> consonance?
+> 
+> I hope not! Consonance is not a mathematical phenomenon, it is a
+> psychoacoustic one. Once the ear-brain system is understood,
+> quantifying
+> consonance would thus seem possible; in fact there are at least three
+> distinct psychoacoustic phenomena which can be modelled mathematically
+> and contribute to the perception of consonance:
+> 
+> (1) critical band roughness, on which Kameoka & Kuriyagawa and
+> Sethares
+> have done work on fleshing out the quantitative implications;
+> 
+> (2) fundamental tracking / virtual pitch / fusion, which motivates
+> Parncutt's whole quantitative approach;
+> 
+> (3) nonlinear combination tones, which are the basis of Bohlen's view
+> of
+> consonance and have been studied extensively by psychoacousticians
+> whose
+> names I don't remember.
+> 
+> Unfortunately, these three different phenomena are not independent so
+> formulating a unified model of consonance seems impossibly difficult
+> at
+> the present. However, all three of these phenomena lead to the
+> following
+> conclusion, at least for tones with harmonic timbres:
+> 
+> Approximate small-integer frequency ratios = Consonant intervals.
+> 
+> But beyond these psychoacoustic factors, there are psychological ones
+> that relate to way music unfolds in time. A diminished fourth is
+> dissonant in 12-tET even though it sounds exactly like a major third
+> out
+> of context. As Ernst Toch pointed out, even an octave can be dissonant
+> in certain contexts. So even a unified model as suggested above would
+> have rather limited applicability.
+> 
+> If you would like an elaboration of any of the above points, just ask!
+> (Sethares is around too).
+> 
+> ------------------------------
+> 
+> Topic No. 4
+> 
+> Date: Thu, 29 Oct 1998 18:56:41 -0800
+> From: monz@juno.com
+> To: tuning@eartha.mills.edu
+> Subject: Re: updates to my website
+> Message-ID: <19981029.185643.-210867.5.monz@juno.com>
+> 
+> Just wanted to let y'all know that I've been
+> slaving away at my website.  There's lots
+> of new stuff, new links to stuff that was
+> already there, and many corrections.
+> 
+> (The size of non-microtonality material is
+> also growing -- can't help it, I'm deeply
+> interested in lots of other things.)
+> 
+> Of particular interest to you folks would be
+> the Robert Johnson and Jimi Hendrix pages --
+> any guitarists willing to tackle "Hendrix Chord"?
+> 
+> - Joe Monzo
+>   monz@juno.com
+>   http://www.ixpres.com/interval/monzo/homepage.html
+> 
+> ___________________________________________________________________
+> You don't need to buy Internet access to use free Internet e-mail.
+> Get completely free e-mail from Juno at
+> http://www.juno.com/getjuno.html
+> or call Juno at (800) 654-JUNO [654-5866]
+> 
+> ------------------------------
+> 
+> Topic No. 5
+> 
+> Date: Thu, 29 Oct 1998 18:52:28 -0800
+> From: monz@juno.com
+> To: tuning@eartha.mills.edu
+> Subject: Re: international microtonal conference
+> Message-ID: <19981029.185643.-210867.4.monz@juno.com>
+> 
+> > From Fred Kohler:
+> 
+> > Gary Morrison said:
+> 
+> >>   Hmmm...  It seemed like San Diego was getting a lot of approval,
+> >> but whatever...
+> >
+> >I agree.  San Diego was getting a lot of votes.  I'd like to add my 
+> >vote for San Diego also.
+> 
+> > From Bill Alves:
+> 
+> > I think that a "vote" is premature. The question is not just what
+> city 
+> > is the nicest/most convenient, but what facilities, funding, concert
+> 
+> > spaces, accomodations, equipment, etc. are available (unless people
+> > prefer to have just a short, informal get-together). I would be
+> > happy to go to San Diego (it's close, less work for me!).
+> 
+> Sounded to me like we were reaching something resembling a
+> consensus on San Diego.  (Of course, my opinion is biased)
+> 
+> Sonic Arts would be ideal for "a short, informal get-together".
+> If anyone in San Diego or coming to town is interested, all it
+> takes is a call or email to us.
+> 
+> Patrick Ozzard-Low (see Ehrlich's posting in TD 1567 re: the
+> Boston meeting) is now in California, and will be presenting
+> a seminar on new microtonal instruments here at UCSD on Monday
+> (November 2nd at 11:15 am in Erickson Hall -- John Fonville
+> has welcomed the local microtonal community to attend).
+> 
+> Needless to say, Patrick will be visiting us to examine our
+> unique collection of instruments.  Our mission is to glue
+> together the disparate elements of microtonalia in SoCal,
+> so all are welcome.
+> 
+> I envisioned the international conference to be something on a
+> MUCH grander scale, the likes of which have never before been
+> seen in microtonalitydom.
+> 
+> Bill's suggestions re: facilities are right-on -- it's important
+> to be properly prepared for something of this magnitude.  The more
+> time spent in preparation and the more ergonomic the facilities,
+> the more valuable the whole experience will be for all of us.
+> 
+> There are a few of us in San Diego looking into possiblities of
+> university sponsorship (or at least hosting).  No serious decisions
+> should be made until a school or other facility has made an
+> agreement for this purpose.  Then we can proceed with calls for
+> papers, event planning, etc.
+> 
+> I have already given my support for Bill's procuring Harvey Mudd
+> college as a hosting-site, should nothing materialize in San Diego.
+> 
+> - Joe Monzo
+>   monz@juno.com
+>   http://www.ixpres.com/interval/monzo/homepage.html
+> 
+> ___________________________________________________________________
+> You don't need to buy Internet access to use free Internet e-mail.
+> Get completely free e-mail from Juno at
+> http://www.juno.com/getjuno.html
+> or call Juno at (800) 654-JUNO [654-5866]
+> 
+> ------------------------------
+> 
+> Topic No. 6
+> 
+> Date: Fri, 30 Oct 1998 11:28:34 +0800
+> From: Lydia Ayers <layers@cs.ust.hk>
+> To: tuning@eartha.mills.edu
+> Subject: Re: international microtonal conference
+> Message-ID: <199810300328.LAA09191@csnt3.cs.ust.hk>
+> 
+> If we were voting about the conference site, my vote would be
+> for the first conference to be at Harvey Mudd with Bill Alves
+> planning it with anybody else in the area who wants to help
+> out.  There is no reason why the folks in San Diego couldn't
+> come up and help, since it's not so far away.
+> 
+> Then I would vote to have another conference, a year or two
+> later, somewhere else, even San Diego (it wouldn't bother
+> me if it was in California twice in a row).  Materials from
+> a conference that had already met once would give
+> the people in San Diego more to show the universities there
+> to convince them how worthwhile it would be to host a 
+> 
+> microtonal conference, as it appears that none of them are
+> currently on the faculty of any of those universities.  Well,
+> unless someone like Jon Fonville (UCSD) is on board.
+> 
+> I can say from experience that it's much easier with the
+> resources of a well-equipped university, and easier if one 
+> 
+> of the organizers is on the faculty there.  (For example, 
+> 
+> when we did ICMC we had to bus people to another venue for 
+> 
+> most of the concerts because we don't have a real concert 
+> 
+> hall at HKUST, and then we had to deal with the government 
+> 
+> sponsor of the other venue.  And to make it worse, I wasn't 
+> 
+> on the faculty of HKUST at the time, though the co-chair
+> was.)
+> 
+> Frankly, for people coming from farther away (for example, 
+> 
+> from Hong Kong and Europe), LA might be slightly 
+> 
+> more convenient than San Jose, since it's an international
+> airport.  It also has more direct routes to other places
+> in the US.
+> 
+> Well, that's my .02 cents.
+> 
+> Best,
+> 
+> Lydia Ayers
+> 
+> ------------------------------
+> 
+> Topic No. 7
+> 
+> Date: Fri, 30 Oct 1998 13:32:42 +0800
+> From: Leigh Smith <leigh@antechinus.cs.uwa.oz.au>
+> To: tuning@eartha.mills.edu
+> Subject: Conference proposals
+> Message-ID: <9810300532.AA02064@antechinus.cs.uwa.edu.au>
+> 
+> As a microtonalist in Perth, Western Australia, voting for San Diego
+> vs.  
+> some other U.S. city is voting for Mars rather than Jupiter...
+> 
+> It's not out of the question that I would make the effort to fly over
+> 
+> (same sentiment as Lydia in HK, I understand), particularly as I
+> expect  
+> to have a couple of more conferences to attend next year in the
+> Northern  
+> summer. What would put me off is if I didn't think it was worthwhile,
+> i.e  
+> if the conference was poorly organised, didn't have a good program of
+> 
+> papers and concerts etc.
+> 
+> The Int. Computer Music Conference is a model of how such a conference
+> 
+> could be organised, lunch and evening concerts, daily papers, keynote
+> 
+> presentations.
+> 
+> I strongly suggest organising via an academic institution, with a
+> widely  
+> selected panel of referees for papers and music (practictioners and  
+> theorists) to ensure it doesn't become an ivory tower.
+> 
+> The ICMC moves each year according to the hosting organisation. Given
+> 
+> how cheap travelling in the U.S is (in comparison to Australia - I
+> have  
+> to travel 4000Kms to get to another capital city, it's cheaper to get
+> to  
+> Bali than to Sydney), I don't think the location within the
+> continental  
+> U.S. should be the highest priority.
+> 
+> Regards
+> 
+> Leigh
+> ---
+> Leigh                 Computer Music Lab, Computer Science Dept,
+> Smith                 University of Western Australia
+>                       +61-8-9380-2279 leigh@cs.uwa.edu.au
+> (NeXTMail/MIME)
+> Microsoft - Where do you want to compromise today?
+> 
+> ------------------------------
+> 
+> Topic No. 8
+> 
+> Date: Fri, 30 Oct 1998 12:04:58 +0000
+> From: Charles Lucy <lucy@ilhawaii.net>
+> To: Tuning@eartha.mills.edu
+> Subject: Mathematical explanation of consonance? - Simple!
+> Message-ID: <3639AB68.E16C16BE@ilhawaii.net>
+> 
+> Robin Perry asked:
+> >Can anyone offer a comprehensive mathematical explanation of
+> consonance?
+> 
+> >Robin
+> 
+> 
+> 
+> Yes, Robin. It seems to be determined by the number of steps between
+> the
+> pitches on the "spiral" of fourths and fifths.
+> 
+> More steps - more dissonant.
+> Less steps - more consonant.
+> 
+> Simple, pragmatic and it works!
+> 
+> 
+> For details see LucyTuning site
+> -- 
+> ~===============================================================~
+> Charles Lucy - lucy@harmonics.com  (LucyScaleDevelopments)
+> ------------  Promoting global harmony through LucyTuning  -------
+> by setting tuning and harmonic standards for the next millennium, 
+>                        and having fun with them.
+>  
+>                for information on LucyTuning.
+>                   See http://www.ilhawaii.net/~lucy  
+>        or mirrors at: http://www.users.globalnet.co.uk/~harmonic
+>                   and http://www.harmonics.com
+> 
+> ------------------------------
+> 
+> Topic No. 9
+> 
+> Date: Fri, 30 Oct 1998 07:09:31 -0500
+> From: Gary Morrison <mr88cet@texas.net>
+> To: tuning@eartha.mills.edu
+> Subject: Re: Mathematical explanation of consonance? - Simple!
+> Message-ID: <3639AC74.6F9762BD@texas.net>
+> 
+> Charles Lucy wrote:
+> 
+> > Robin Perry asked:
+> > >Can anyone offer a comprehensive mathematical explanation of
+> consonance?
+> 
+> > Yes, Robin. It seems to be determined by the number of steps between
+> the
+> > pitches on the "spiral" of fourths and fifths.
+> 
+>    (Predictable...)
+> 
+>    Well Mr. Lucy, I am at a lack to think of *ANY* concept of
+> consonance in
+> which a harmonic major second (two steps up the circle of fifths),
+> would be
+> more consonant than a harmonic major third (four steps up the circle).
+> Nor
+> can I think of any reasoning whereby a major sixth would be regarded
+> as
+> anything even close to 33% more consonant than a major third.
+> 
+>    Also, this says nothing of the distinction between 81:64 and 5:4,
+> when the
+> consonance difference between the two has been a major historical
+> driving
+> force in musical-tuning evolution.
+> 
+> ------------------------------
+> 
+> Topic No. 10
+> 
+> Date: Fri, 30 Oct 1998 11:19:04 PST
+> From: "Robin Perry" <jinto83@hotmail.com>
+> To: tuning@eartha.mills.edu
+> Subject: Re: TUNING digest 1567
+> Message-ID: <19981030191905.12579.qmail@hotmail.com>
+> 
+> 
+> Neil Haverstick said:
+> 
+> >    Let's do the meeting in Denver; then the East Coast folks won't 
+> have
+> >to go so far, everyone can go skiing, and we won't have to worry
+> about
+> >the giant earthquake that is going to swallow the West Coast...Hstick
+> 
+> 
+> Obviously Neil doesn't know that the famous psychic Murphy has
+> predicted that everything east of the San Andreas Fault is about
+> to fall into the Atlantic.
+> 
+> Perhaps we should think about narrowing the focus to the western
+> oriented folks for this conference.  Not that I want to exclude those
+> in 
+> parts East, but there does seem to be more expressed interest in doing
+> 
+> something in San Diego. Dever is definitely nice in the summer,
+> though there is not much skiing going on.
+> 
+> Joe Monzo, are you and your friends there ready and willing to set
+> something up?  Or are we better off working toward L.A. area?
+> 
+> I would offer to try to set something up here in the Sonoran Desert,
+> but summer temps get up to 122 lately.  That's why Phoenix has
+> such great summer rates.
+> 
+> Robin
+> 
+> ______________________________________________________
+> Get Your Private, Free Email at http://www.hotmail.com
+> 
+> ------------------------------
+> 
+> End of TUNING Digest 1568
+> *************************

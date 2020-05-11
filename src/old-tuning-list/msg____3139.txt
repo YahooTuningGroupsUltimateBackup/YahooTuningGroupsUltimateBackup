@@ -1,0 +1,56 @@
+source file: mills2.txt
+Date: Mon, 1 Jul 1996 09:52:03 -0700
+
+Subject: Re: Post from McLaren
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Gary wrote:
+>Paul E. said:
+>> Didn't I qualify this to say that apparant
+>> subharmonics can result when a note is itself a harmonic, i.e., all notes 
+
+on
+>> brass instruments?  You're right though, I haven't done any actual 
+fourier
+>> analysis of musical instruments.
+
+>   Uhmmm...  Perhaps mean "undertones" rather than subharmonics?  If the 
+"note
+>is itself a harmonic", then the statement is inherently true by definition,
+>since harmonics of subharmonics are subharmonics of harmonics.
+
+Not really. You could conceive of a "perfectly" performed brass tone, where, 
+say, the odd modes of vibration were completely absent. Then you would have 
+a harmonic (a note an octave above the fundamental pitch of the instrument) 
+without subharmonic content. However, there is no such thing as a 
+"perfectly" performed brass tone, and this applies to winds as well. 
+However, string instruments typically perform in their fundamental mode of 
+vibration; did you find subharmonics in string timbres as well, after 
+controlling for Nyquist effects?
+
+In the case of brass and wind instruments, clearly the expected effect 
+according to my argument is undertones, not necessarily subharmonics. These 
+undertones would form an overtone series above the fundamental mode of 
+vibration of the instrument, and not a subharmonic series below the note 
+being played.
+
+There is also a technique of playing brass instruments (or singing) so that 
+a buzzy note results which is a subharmonic of the intended note, but is not 
+an overtone of the fundamental mode of vibration. I believe Benade describes 
+this phenomenon in his book on acoustics. A brass instrument with a 
+fundamental frequency of 100 can produce buzzy notes at 125, 133.3, 150, 
+250, 266.7, 375. But again, the final product is a harmonic series (above 
+the "subharmonic"), not a subharmonic series.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 1 Jul 1996 23:20 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA19959; Mon, 1 Jul 1996 14:20:08 -0700
+Date: Mon, 1 Jul 1996 14:20:08 -0700
+Message-Id: <Pine.A32.3.91.960701151719.33047A-100000@tiger.cudenver.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

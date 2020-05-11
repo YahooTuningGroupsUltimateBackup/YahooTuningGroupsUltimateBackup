@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Sat, 12 Jul 1997 04:16:32 +0200
+
+Subject: Re: Historical temperaments
+
+From: Joseph  Downing <jdowning@mailbox.syr.edu>
+
+On Fri, 11 Jul 1997, Paul Hahn wrote:
+
+> On Fri, 11 Jul 1997, Joseph  Downing wrote:
+> > Absolutely NOT!  I know of no evidence that EQ was any more than a theory
+> > occasionally espoused at that time.  It is just TOO HARD to tune equal
+> > temperament without either a LOT of training, or an electronic device. 
+> > 
+> 2. If one cared to, one could find a lot of people on earlymus-l and
+> hpschd-l who can tune passable ET without electronics--it might not be
+> 1 cent accurate, but key color variation will be subtle to
+> indetectable.  One recommended technique bypasses the usual tuning by
+> fifths and tempers the cycles of major and minor thirds, using fifths
+> only as a final check.
+
+It is true that there are a lot of people today who can tune a passable
+12TET with no more reference than a starting pitch.  But Jorgensen (thanks
+for the name) and others point out that this technique was not known until
+late in the nineteenth century.  There are no early  references to
+counting beats per second, etc.  One of the feature of Meantone tunings
+(and well-tempered tunings are a sub-category of mean-tone) is that they
+depend upon finding the 'mean' pitch.  A common 18th century technique
+would have you tune several intervals purely, then advise: Tune D to Bb
+purely.  Now sharpen the D until Bb/D beats at the same rate as D/F#.
+Most anyone without too much experience can do this.  It takes a LOT of
+practice to hear 12TET thirds and fifths.
+
+
+Joe Downing,
+in Syracuse
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 12 Jul 1997 07:19 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01957; Sat, 12 Jul 1997 07:20:15 +0200
+Date: Sat, 12 Jul 1997 07:20:15 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA02046
+Received: (qmail 22788 invoked from network); 12 Jul 1997 05:19:55 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Jul 1997 05:19:55 -0000
+Message-Id: <970712011120_1546112020@emout09.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,31 @@
+source file: m1525.txt
+Date: Thu, 10 Sep 1998 01:27:00 -0400
+
+Subject: Just ratio sequence
+
+From: aloe@rev.net
+
+Is anyone familiar with the following ratio sequence associated with
+advancing fifths? It appears that squares are followed by increases in=
+ limit.
+
+Perf 1 =3D 0=A2 =3D 1/1 =3D 1 : 1
+Perf 5 =3D 702=A2 =3D 3/1 =3D 3 : 1
+Maj 2 =3D 204=A2 =3D 9/1 =3D 3x3 : 1
+Maj 6 =3D 884=A2 =3D 5/3 =3D 5 : 3
+Maj 3 =3D 386=A2 =3D 5/1 =3D 5 : 1
+Maj 7 =3D 1045=A2 =3D 15/1 =3D 3x5 : 1
+Aug 4 =3D 583=A2 =3D 7/5 =3D 7 : 5
+Aug 1 =3D 71=A2 =3D 25/3 =3D 5x5 : 3
+Aug 5 =3D 773=A2 =3D 7/9 =3D 7 : 3x3
+Aug 2 =3D 267=A2 =3D 7/3 =3D 7 : 3
+Aug 6 =3D 969=A2 =3D 7/1 =3D 7 : 1
+Aug 3 =3D 462=A2 =3D 1/49 =3D 1 : 7x7
+Aug 7 =3D 1151=A2 =3D 35/9 =3D 5x7 : 3x3
+x 4    =3D 649=A2 =3D 1/11 =3D 1 : 11 (any better denotation?)
+Neut 2 =3D 151=A2 =3D 3/11 =3D 3 : 11
+Neut 6 =3D 853=A2 =3D 9/11 =3D 3x3 : 11
+
+Any prediction as to the next few terms?
+
+--Charlie Jordan <http://www.rev.net/~aloe/tuning.html>

@@ -1,0 +1,153 @@
+source file: mills3.txt
+Date: Wed, 10 Dec 1997 01:43:29 +0100
+
+Subject: Misc 3
+
+From: Carl Lumma <clumma@nni.com>
+
+James Kukula
+------------
+
+>Equal tempered scales have the property that each note has the same set of
+>intervals available.
+
+In many ways an important limitation!  In many ways an advantage.
+
+>Conventional ET is not the only system with interval symmetry.
+
+Very true!
+
+>One can have multiple generating intervals instead of just one.
+
+And they can be just!
+
+>If I understand how the "k-limit" term is used, it might be useful to make a
+>finer distinction. Suppose I take a set of notes (2**n)(3**m)(5**p) where n
+>and m are unbounded but p is constrained to be 0 or 1. My understanding is
+>that this scale would be called 5-limit. The scale where p is also allowed
+>unbounded values would also be 5-limit. Perhaps the case of unbounded
+>exponents is not of sufficient interest to merit a new term?
+
+Maybe it is!  The question would maybe be smoother if it contained a
+suggestion...
+
+Terms like "compound" and "secondary", as opposed to "primary", have already
+been used to identify such cases.  See my post to Tunging Digest 1221 for a
+brief discussion of this.
+
+One thing is for sure:  Deciding how many of your limits are bounded, and
+how far they are bounded is a real important choice!  Especially when you
+get into the higher limits!  The JI Primer gives a good treatment of this --
+besides Genesis of a Music, the only treatment that I know of.
+
+-----------
+Paul Erlich
+-----------
+
+[for escaping the diatonic hegemony, 22TET]
+
+>may be our only hope.
+
+I am on my knees!  You cannot believe this, Paul!  You just can't!  There
+must be a million and one good ways to escape diatonic hegemony!  That they
+might not meet the same criteria you use to make 22TET good does not
+dis-qualify them!
+
+MHO, with nothing against your criteria for 22TET.
+
+---------------
+David Beardsley
+---------------
+
+>I don't think so. 7, 11 & 13 limit ji tunings do more for me
+>then all the Xtet, mean tone and well tunings put together.
+
+No wonder, considering the number of times more information that can be
+stored in the 7-limit than in any root of 2 temperament with up to 2 times
+the number of pitches.
+
+I'm not sure JI tunings do more for me than all the others put together
+(since no implimentaions of strong JI exist to my knowledge), but at least I
+can't say they don't do SOMETHING!
+
+------------
+Gregg Gibson
+------------
+
+>In melody however, which is the primary means by which harmony is produced
+(at >least ideally) the critical limen of intervallic perception is on the
+order of >55-60 cents
+
+Ridiculous.  Your vocabulary will reach the limet of perception before any
+intervals will.
+
+>My comments on the intervals of 19-tone equal at the limit of human
+>perception seem to have provoked some disbelief. I am indeed serious. Of
+>course anyone can distinguish between tones as little as 5-10 cents
+>apart in successive hearings. But if one substitutes one such tone for
+>the other in a given melody, not one person in a thousand will identify
+>that _melody_ as different.
+
+I suggest that your usage of the term "melody" is very un-good.  But I've
+got a comparo for you anyhow...
+
+1. Play a melody using 100 cent steps.
+2. Play a melody using 88 cent steps.
+3. Not a bigger difference to be found.
+
+>has induced many to doubt that any standard tuning system should exist.
+This is >emphatically not the attitude of the great artists of the past...
+
+1. Who cares?
+2. How do you know?
+
+>Music which innovates too radically is somewhat in the case of poetry which
+>should adopt so many new words that the sense is obscured.
+
+1. Music that innovates what?
+2. Your analogy depends on a relationship between sound and words that
+doesn't exist.
+
+>I have observed that rock singers use a great many third tones; there is
+>seldom a popular melody nowadays without them. This perhaps is what
+>makes rock melody so much more pleasing to the masses than the 12-tone
+>melodies of the last century, which are now almost wholly disregarded. I
+>suspect that if 12-tone equal is ever dethroned, it will be by rock
+>instrumentalists wishing to reproduce the subtler, necessarily 19-tone
+>melodies of their vocalists.
+
+I was a melody freak once... I think I know where you're coming from.
+Believe me, what you call melody is an arbitrary and limiting thing.  When
+you give it up, what you call the best melodies will pop out of the sink in
+the morning.
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  A440A <A440A@aol.com>
+Subject:  re:Chestnut help
+PostedDate:  10-12-97 02:47:40
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-12-97 02:45:49-10-12-97 02:45:50,10-12-97 02:45:36-10-12-97 02:45:37
+DeliveredDate:  10-12-97 02:45:37
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256569.0009ACFA; Wed, 10 Dec 1997 02:45:41 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11133; Wed, 10 Dec 1997 02:47:40 +0100
+Date: Wed, 10 Dec 1997 02:47:40 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA11121
+Received: (qmail 6450 invoked from network); 9 Dec 1997 17:47:37 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 9 Dec 1997 17:47:37 -0800
+Message-Id: <4a829494.348df3f9@aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

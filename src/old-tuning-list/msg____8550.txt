@@ -1,0 +1,27 @@
+source file: m1541.txt
+Date: Thu, 1 Oct 1998 10:26:27 -0500 (CDT)
+
+Subject: Re: Cancelling out beats
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Thu, 1 Oct 1998, Paul Hahn wrote:
+> On Thu, 1 Oct 1998, bram wrote:
+>>        I know the beats can be essentially calculated using continued
+>> fractions, so I'm guessing there's a rather straightforward way of
+>> calculating, given a*sin(x) + b*sin(y), a and b being volumes and x and y
+>> being wavelengths, there's a rather straightforward way of calculating a
+>> bunch of other sin functions which when added will cancel out all the
+>> beats.
+> 
+> I don't think Bill is canceling out the beats in an antinoise sense;
+
+Actually, thinking further on it, I don't think that would even be
+possible, considering that the beats don't actually exist physically,
+but arise because of nonlinearities in the auditory system.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

@@ -1,0 +1,18 @@
+source file: m1444.txt
+Date: Thu, 11 Jun 1998 16:52:32 -0400
+
+Subject: RE: Ensoniq
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>The VFX-SD is wavetable based. Gary's Ensoniq sampler can already do
+>anything the VFX-SD can do, including Transwaves if he's got an EPS-16
+Plus
+>or ASR-10.
+
+You can't change patches in real-time on the samplers.
+
+>Will the Ensoniq extrapolate an arbitrary-number-division
+>*non-equally- tempered* non-octave scale?
+
+Yes!

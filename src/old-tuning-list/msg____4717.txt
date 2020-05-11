@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Mon, 3 Feb 1997 12:20:49 -0800
+
+Subject: Tonality Diamond
+
+From: prent@VNET.IBM.COM
+
+I have been unable to locate a copy of Genesis of a Music by
+Partch. I cannot remember what Partch's Tonality Diamond looked
+like. As I remember, it had otonality along one axis, lower left to
+upper right, and utonality accross the other, upper left to lower
+right as follows:
+                          11: 8
+
+                      9: 8   11: 6
+
+                 7: 4    3: 2   11:10
+
+            5: 4    7: 6    9: 5   11: 7
+
+       3: 2    5: 3    7: 5    9: 7   11: 9
+
+  1: 1    1: 1    1: 1    1: 1    1: 1    1:1
+
+       4: 3    6: 5   10: 7   14: 9   18:11
+
+            8: 5   12: 7   10: 9   14:11
+
+                 8: 7    4: 3   20:11
+
+                     16: 9   12:11
+
+                          16:11
+
+
+This is how I remember it from the last time I read the book,
+in 1976. It does not include complex ratios such as 32/21, 27/20, or
+16/15, which seem simple enough to derive, but I cannot find
+a place for them in this diamond. Can someone set me straight?
+
+Prent Rodgers
+Boise, ID
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 4 Feb 1997 02:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23907; Tue, 4 Feb 1997 02:06:31 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA23777
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id RAA16339; Mon, 3 Feb 1997 17:04:42 -0800
+Date: Mon, 3 Feb 1997 17:04:42 -0800
+Message-Id: <Pine.SCO.3.91.970203153100.9652B-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

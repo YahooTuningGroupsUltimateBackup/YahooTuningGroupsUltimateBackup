@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Fri, 2 Feb 1996 10:01:20 -0800
+
+Subject: FWD: note on Wire
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Date: 1 Feb 1996 15:11:10 -0800
+From: "Robert Marsanyi" <robert.marsanyi@3do.COM>
+Subject: note on Wire
+To: "AlgoComp" <algo-comp@serial.music.uiowa.edu>,
+    "Michael French" <Michael.French@jcu.edu.au>,
+    "HMSL list" <hmsl@shoko.CALARTS.EDU>,
+    "SonicArts" <sonicartsnz-l@list.waikato.ac.nz>
+
+In a previous message, I referred to the ftp site
+ftp://music.calarts.edu/pub/HMSL/DSP.  Turns out that CalArts is in the middle
+of changing domain names, so you need to use the IP address instead.  Try:
+
+ftp://156.3.140.104/pub/HMSL/code/dsp/
+
+and you'll find the files referred to.
+
+--rbt
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 2 Feb 1996 19:34 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA19666; Fri, 2 Feb 1996 10:34:04 -0800
+Date: Fri, 2 Feb 1996 10:34:04 -0800
+Message-Id: <960202181653_71670.2576_HHB72-3@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

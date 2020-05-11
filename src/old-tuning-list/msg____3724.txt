@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Fri, 4 Oct 1996 08:46:14 -0700
+
+Subject: naughty sound card
+
+From: John Starrett <jstarret@tiger.cudenver.edu>
+
+all-
+	This is not quite tuning related, but perhaps relevant. Recently 
+my computer has been experiencing gitches that affect the operation of my 
+sound card. Sound and video experience short hiccups, like CD 
+skips.  It may be modem related, as the frequency of occurence 
+seems to change when different modem options are changed. Has anyone 
+here experienced similar problems? 
+	
+John Starrett
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 4 Oct 1996 19:29 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04062; Fri, 4 Oct 1996 18:30:32 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04061
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA25843; Fri, 4 Oct 1996 10:30:19 -0700
+Date: Fri, 4 Oct 1996 10:30:19 -0700
+Message-Id: <13961004172031/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Thu, 3 Jul 1997 21:16:00 +0200
+
+Subject: Re: Definitions
+
+From: Edward Remler <ataraxy@erols.com>
+
+The responses to my ‘Historical Questions’ indicate that, not
+surprisingly, terms referring to tuning are defined in different ways by
+different people. I would like to check that my usage and understanding
+of them is not outside generally accepted bounds. Here they are, and I
+would appreciate any comments and criticisms you may have:
+1. Tempering initially referred to how one deviated about the system of
+Pythagorean tuning (ascending|descending fifths|fourths with frequency
+ratios of 3/2|4/3) in order to temper sour and howling intervals.
+Nowadays, however, temperament and tuning seem to be synonymous.
+2. The circle of fifths seems to have generally been started on middle
+C. This at least is what is suggested by both von Helmholtz’s book and
+the piano keyboard’s layout.
+3. Mean Temperament has two general meanings. First it means a system of
+tuning by fifths such that four ascending fifths and two descending
+octaves make up a perfect third. It also means any one of many slight
+variations about this basic system.
+4. Bach’s WTC refers to a mean tempered clavichord; in particular,
+well-tempered means mean tempered. Since the WTC starts in the key of C,
+it seems that Bach’s thought of mean tempered in terms of ascending
+fifths started on C.
+Ed Remler
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 3 Jul 1997 21:26 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04316; Thu, 3 Jul 1997 21:26:28 +0200
+Date: Thu, 3 Jul 1997 21:26:28 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04258
+Received: (qmail 19302 invoked from network); 3 Jul 1997 14:37:36 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 3 Jul 1997 14:37:36 -0000
+Message-Id: <v01541104afe1a93c8c8f@DialupEudora>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

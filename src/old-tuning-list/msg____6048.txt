@@ -1,0 +1,50 @@
+source file: mills3.txt
+Date: Tue, 2 Sep 1997 21:33:22 +0200
+
+Subject: RE: Tuning of the 2nd sruti
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>>I've had a look through the ragas defined on srutis in Manuel Op
+>>De Coul's mode list.  Some of them imply a diaschisma=0, but
+>>some are probably schismatic.  The plot thickens ...
+>
+>Unfortunately for theorists, practice does not always conform to the
+>theoretical value schisma=1 sruti. Being only 2 cents, it should not be
+>surprising that musicians would tend to ignore it in practice. The most
+>common occurence of this practice is at sruti 12, which can be used as
+>729/512 (611.730 cents) or 64/45 (609.776 cents) depending on the situation.
+>But the diaschismatic interpretation of the sruti system implies that 729/512
+>is 12 srutis while 64/45 is 11. Perhaps the best theoretical remedy would be
+>to consider a 10-sruti schisma-augmented perfect fourth (499.999 cents) a
+>consonant interval in its own right, and fix 729/512 as the correct tuning of
+>sruti 12.
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  jloffink@pdq.net
+Subject:  Re: harmonic patrol
+PostedDate:  03-09-97 06:32:54
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  03-09-97 06:32:54-03-09-97 06:32:55,03-09-97 06:32:36-03-09-97 06:32:37
+DeliveredDate:  03-09-97 06:32:37
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256507.0018FA6D; Wed, 3 Sep 1997 06:32:54 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12285; Wed, 3 Sep 1997 06:32:54 +0200
+Date: Wed, 3 Sep 1997 06:32:54 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA12286
+Received: (qmail 24131 invoked from network); 3 Sep 1997 04:32:51 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 3 Sep 1997 04:32:51 -0000
+Message-Id: <04302502734724@cybersim.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,69 @@
+source file: m1386.txt
+Date: Wed, 15 Apr 1998 19:58:41 -0700
+
+Subject: Software Synthesizers
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+A couple of companies ar making some very good quality real-time software
+synthesizers.  I've done a little bit of investigation of them.
+
+_____________________________________________________________
+
+ Generator by Native Instruments allows you to 'wire' together (connect)
+onscreen modules in a very flexible and powerful way.  You can download a
+demo version from the web page at www.native-instruments.de .  I contacted
+Michael Kurz michael@native-instruments.de via email and he said that in a
+future version he intends to add a Tuning Table module to allow the user to
+set the tuning of the synth.  He said,
+<<Alternative tuning are something that I find very interesting, too.
+However we have not got around to implementing it yet in Generator since
+we have many other features planned which we have given higher priority
+to.  We will definitely put in tuning tables in a future version of the
+software, especially since someone (you) has now asked for it.>>
+
+  He will include a number of common tunings as presets as well.  Currently
+you can create n-ET scales.
+According to Michael,
+<<The values you send to a pitch (P) input on a module in Generator don't
+have to be integers. So if you bear in mind that Generator uses units of
+100-cent semitones, i.e. a value of 12 specifies an octave, you just
+multiply any microtonal step value by an amount like 12/34 for a 34 tone
+scale to get the Generator pitch value. In this case step 34 (the octave)
+converts to 12 (an octave in Generator's units).  And it doesn't have to be
+a scale with a pure octave either. Multiply by 12/15.385 to get Wendy
+Carlos' alpha scale, for example.>>
+
+_____________________________________________________________
+
+Reality by Seer systems, also very powerful, allows re-tuning at the patch
+level.
+Their web page is at www.seersystems.com .  They have some screen shots
+there which can give you a pretty good idea what it can do.  The also have a
+demo CD available.  According to Ted Henderson ted@seersystems.com ,
+<<Reality's microtonal capabilities are very extensive. Each patch can
+divided into 128 zones and each zone can be indiviually tuned. We do not yet
+support the MIDI Tuning Spec, but I'd be happy to show you how to create a
+template that will make future work with alternate tunings "relatively easy
+to use.">>
+_____________________________________________________________
+
+
+These synthesizers have a number of advantages.  They both cost less than
+$500, so if you already have the required hardware you're most of the way
+there.  As you upgrade your computer your synthesizer gets better, able to
+handle more complex patches and polyphony.  The capabilities are not frozen
+by the hardware on the date of purchase;  upgrades can fundamentally
+increase their power as time goes by installing new synthesis methods and
+algorithms. Try that with your TX81Z!  These synths use floating point math
+internally so they have very good accuracy.
+
+If we make our tuning wishes known to these relatively new companies
+hopefully we'll establish support for alternative tunings as fundamental to
+how they operate.
+
+Fred.
+---------------------------------------------------------
+ Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+ phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca
+---------------------------------------------------------

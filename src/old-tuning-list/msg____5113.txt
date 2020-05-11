@@ -1,0 +1,94 @@
+source file: mills2.txt
+Date: Sun, 16 Mar 1997 10:50:34 -0800
+
+Subject: melodic coordinate systems
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+>From reading the list, it looks like I'm not the only person
+using harmonic axes.  However, I haven't seen any mention of
+the full algebraic treatment I apply to them.  I will outline
+some of my ideas here, and someone can tell me whether they
+are original and, if not, how they are notated.
+
+First a column matrix needs to be defined to correspond to
+harmonic axes:
+
+                          oct   (log(2))
+                     H -----  (log(3))
+                         log(2) (log(5))
+
+H can be generalised to have as many dimensions as the matrix
+you are multiplying it by.  Using this, a fifth is (-1 1)H, a
+major third (-2 0 1)H and a subminor seventh (-2 0 0 1)H.
+
+H is useful for defining harmonies.  For melodies, though,
+it is more convenient to use the smallest intervals that
+occur in a scale.  For a diatonic scale with comma shifts,
+these will be:
+
+                   (t)     ( 1 -2  1)
+                   (s)  ( 4 -1 -1) H
+                   (p)     (-4  4 -1)
+
+Where t is a minor tone, s a diatonic semitone and p a
+syntonic comma.  These intervals completely define a 3-D JI,
+and so the matrix can be inverted:
+
+                       ( 5 2 3) (t)
+                   H ( 8 3 5) (s)
+                       (12 4 7) (p)
+
+This will be true of any three intervals whose defining
+matrix has a determinant of +/- 1.
+
+A fifth can now be written:
+
+                           ( 5 2 3)(t)          (t)
+       (-1 1 0)H (-1 1 0)( 8 3 5)(s) (3 1 2)(s)
+                           (12 4 7)(p)          (p)
+
+
+Other coordinate systems can be defined from t, s and p or
+directly from H.  One I find useful is:
+
+    (r5)   (-3 -1  2 0)            (12  7 3 0)(r5)
+    (q5) ( 7  0 -3 0)H       H (19 11 5 0)(q5)
+    (p5)   (-4  4 -1 0)            (28 16 7 0)(p5)
+    (p7)   ( 1  2 -3 1)            (34 19 8 1)(p7)
+
+You can add commas for as many harmonic dimensions as you
+like.  Equally tempered scales can then be defined
+according to the number of steps in these intervals:
+
+               nTET    r5  q5  p5  p7
+
+                12     1   0   0   0
+                15     1   0   1   0
+                19     1   1   0   0
+                22     1   1   1   1
+                31     2   1   0   0
+                34     2   1   1   0
+                41     2   2   1   1
+                46     3   1   1   0
+                53     3   2   1   1
+
+This is the clearest representation I know of.  From the
+defining matrix, nTET 12*r5 + 7*q5 + 3*p5.
+
+That'll do for the time being.
+
+                      Graham
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 16 Mar 1997 19:52 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30779; Sun, 16 Mar 1997 19:52:24 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA30778
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA27175; Sun, 16 Mar 1997 10:50:07 -0800
+Date: Sun, 16 Mar 1997 10:50:07 -0800
+Message-Id: <memo.496266@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

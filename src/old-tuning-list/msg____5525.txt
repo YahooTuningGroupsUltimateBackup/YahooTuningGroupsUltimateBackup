@@ -1,0 +1,73 @@
+source file: mills2.txt
+Date: Thu, 22 May 1997 10:20:03 +0200
+
+Subject: Re: JI modes
+
+From: Daniel Wolf <DJWOLF_MATERIAL@compuserve.com>
+
+Bill Alves' classification of modes based upon
+
+''Number of pitches in the tuning system/number of pitches in the
+subset/number of commonly used auxiliary tones.''
+
+is very useful, and recalls Wilson's MOS scheme.
+
+However, the first number in the classification applies only to
+temperaments. If the diatonic scale is in pythagorean intonation, there is
+a convenient MOS at 12, but the number of pitches available through
+modulations by fifths in either direction is potentially infinite. The
+Javanese modes are similar in that the temperament of the metallophones
+settles on 5 or 7 pitches (or pitch areas - as the instruments tend not to
+be tuned to exact unison or octaves, which must affect the
+''digestability'' (thank you, Klaerentz Barlough) of the temperament), but
+this restriction need not be applied to voices and instruments of variable
+pitch. I would classify the auxillary tones differently for the Javanese
+modes as well with Slendro as 5/4/1 + 4 miring (in between) pitches. I hear
+pelog as 7/5/0 with the use of pitches 3 and 4 in pelog nem/lima being
+heard as real modulations and the gender bem (which has no key 4) being an
+example of idiomatic instrumental realization and not a modal auxillary
+pitch (there is something similar in Gagaku when the wind instruments play
+''wrong'' pitches when the core melody contains a tone not available on the
+instrument). In pelog barang, the use of pitch 1 in place of 7 is similar.
+
+If the first number in the classification can be taken as nominal pitch
+areas with exact intonation unspecified, then the Karnatic 72 melakarta
+scheme gives 72 modes in the form 12/7/0, or, with the raised ma modes
+taken as auxillaries (which does not conform to practice, however) 36 modes
+of 12/7/1. Interestingly, consecutive pieces in Karnatic recitals - or
+between sections of a single Raga Malaka - often stand at one ''key
+signature'' distance from one another thus reinforcing the ''12-ness'' of
+the system, and some recitalists like to include one strategic disjunction
+in the series (i.e. to a mode two or more accidentals away or to one that
+doesn't correspond to a diatonic possibility). Thus you will often hear
+Kalyani (with Ma #) next to Sankarabharanam (no sharps or flats). The
+subject of the consecutive ragas in a program or within a Raga Malaka seems
+not to have received any attention. What have others observed?    
+
+(I should note that the ragas whose pitch content corresponds to our
+diatonic modes make up the majority of the ragas found in frequent use, but
+students all begin studying the music with the mode s rb g m p db n s -
+with two augmented seconds. K.S. Subramanian explained that the augmented
+intervals made it more ''unnatural'' and thus more difficult to control,
+and so it was considered important to master such a raga first, before
+learning those with easier intervals. In fact, however, I found it fairly
+easy to sing because the ''difficult pitches'' were all neighbors of tones
+in a major triad, which is easy to sing against a drone, and all of the
+gamakas (ornaments) reflected this. This made an intonationally interesting
+effect however, in that three pitches were well defined as consonant to the
+drone, and the remaining were defined by their melodic distance from these
+pitches, not by their harmonic consonance or dissonance. 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 22 May 1997 15:42 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07733; Thu, 22 May 1997 15:42:27 +0200
+Date: Thu, 22 May 1997 15:42:27 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA07738
+Received: (qmail 21150 invoked from network); 22 May 1997 13:42:23 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 22 May 1997 13:42:23 -0000
+Message-Id: <97052121352506/0005695065PK2EM@mcimail.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

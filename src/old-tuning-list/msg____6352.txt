@@ -1,0 +1,62 @@
+source file: mills3.txt
+Date: Mon, 27 Oct 1997 22:23:36 +0100
+
+Subject: Inharmonicity (again!)
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+_Plucked_ strings are slightly inharmonic, because the modes of
+vibration are affected by the string's nonzero stiffness. _Bowed_
+strings, however, if bowed at a constant speed and pressure, are
+perfectly harmonic, since they undergo exactly the same motion (analysed
+by Helmholtz) in each slip-stick cycle. As Fourier showed, any periodic
+motion can be expressed as a sum of sine and cosine components at
+frequencies that are integer multiples of the fundamental. Of course,
+the note would have to last an infinitely long time for this to work,
+since the sine and cosine functions are defined from minus infinity to
+infinity. But for the purpose of distinguishing between harmonic and
+inharmonic sounds, it is useful (necessary, in fact, for an unambiguous
+analysis) to treat the sounds as lasting an infinitely long time.
+
+Another popular misconception is that brass instruments are inharmonic
+because its resonant frequencies are not a perfect overtone series. It
+is true that the sound produced by slapping the mouthpiece of a brass
+instrument is slighly inharmonic. But normally, the player's lips are
+the driving mechanism and the instrument merely determines which
+components of the lip vibration are amplified more and which are
+amplified less. The lips vibrate due to the Bernoulli effect, so given a
+constant tension and airflow, their motion will be exactly periodic, and
+thus the overtones will form a perfect harmonic series.
+
+You can't always believe what the "Physics for Dummies" books tell you;
+in fact, it was only shortly before receiving my B.S. in Physics from
+Yale that many of my own misconceptions about acoustics were dispelled.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  RE: harmony and small integer frequency ratios
+PostedDate:  27-10-97 22:54:29
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  27-10-97 22:53:40-27-10-97 22:53:41,27-10-97 21:54:15-27-10-97 21:54:16
+DeliveredDate:  27-10-97 21:54:16
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125653D.007841BA; Mon, 27 Oct 1997 22:53:31 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29042; Mon, 27 Oct 1997 22:54:29 +0100
+Date: Mon, 27 Oct 1997 22:54:29 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA28521
+Received: (qmail 15007 invoked from network); 27 Oct 1997 13:54:20 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 27 Oct 1997 13:54:20 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971027214251Z-2700@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

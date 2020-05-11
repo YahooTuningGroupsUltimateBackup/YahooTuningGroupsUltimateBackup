@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Tue, 8 Oct 1996 06:06:37 -0700
+
+Subject: VFX frequency resolution
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+>Steve Curtin of Ensoniq has informed me that the pitch resolution of the VFX 
+>line is not 768 steps per octave, as he originally stated, but is in fact 
+>512 steps per octave. This seems correct given my expereince that the 
+>nominal size of an interval needs to be incremented by usually 2, sometimes 
+>3, cents before the rate of beating changes.
+
+This point needs some clearing up.  I'm sorry that Paul ended up buying a
+used Ensoniq synth that had less frequency resolution than I originally
+thought.  The reason for this is that the VFX used an early version of our
+oscillator chips that only had a 9-bit frequency fraction, so that although
+the tuning was stored as 768 steps per octave, the hardware frequency
+resolution was only 512 steps.  This was substantially improved in the case
+of the OTTO chip which is used by all our synths and samplers since '92 or
+so, specifically because because the VFX did not have the frequency
+resolution to do pitch envelopes without stepping and zipper noise.  OTTO
+has an 11-bit fraction, which is 2048 steps per octave at unity.  As has
+been stated here before, this resolution doubles with each octave transposed
+up and halves with each octave transpose down.  The tuning maps into an
+exponential table, which is stored as 128 steps per semitone or 1536 steps
+per semitone.  
+
+regards,
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 8 Oct 1996 17:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00444; Tue, 8 Oct 1996 17:18:35 +0200
+Received: from sun4nl.NL.net by ns (smtpxd); id XA00442
+Received: from eartha.mills.edu by sun4nl.NL.net (5.65b/NLnet-3.4)
+	id AA04130; Tue, 8 Oct 1996 16:49:09 +0200
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA29062; Tue, 8 Oct 1996 07:47:39 -0700
+Date: Tue, 8 Oct 1996 07:47:39 -0700
+Message-Id: <199610081047_MC1-A99-F743@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

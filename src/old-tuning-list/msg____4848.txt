@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Thu, 20 Feb 1997 21:07:35 -0800
+
+Subject: more mystical talk
+
+From: Gary Morrison <MorriSonics@compuserve.com>
+
+Forgive me if I'm getting involved in a side point here, but...
+
+-------------------- Begin Original Message --------------------
+
+Message text written by Neil:
+
+"In 34 tone eq, you have a comma because of two separate circles of 5ths"
+
+
+-------------------- End Original Message --------------------
+
+   Weeeellll...  the two circles are a pseudocomma apart alright, but I'm
+sure if 34TET's pseudocomma can be said to be because of its double circle
+of fifths.  I suppose it may be OK to suggest the cause-effect in reverse. 
+And certainly there are double-circle systems that DON't have pseudocomma
+problems, quartertones for example.  
+
+   The pseudocomma in 34TET, 22TET, and 53TET are due to the same source as
+the (real) comma in 5-limit JI:  The (major) third of a chord does not
+appear four identical fifths above the root.  Four 34TET fifths above the
+root of a chord is its supramajor third, 1/34 above the real major third.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 21 Feb 1997 06:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13358; Fri, 21 Feb 1997 06:11:05 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA13352
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id VAA28353; Thu, 20 Feb 1997 21:09:20 -0800
+Date: Thu, 20 Feb 1997 21:09:20 -0800
+Message-Id: <199702210005_MC2-118C-A6B0@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

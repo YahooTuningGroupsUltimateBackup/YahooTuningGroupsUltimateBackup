@@ -1,0 +1,88 @@
+source file: m1401.txt
+Date: Thu, 30 Apr 98 19:57 BST-1
+
+Subject: Re: JI Tuning Resolution
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Ken Wauchope wrote:
+
+> synth players sometimes intentionally detune a pair of oscillators so
+> they'd slowly phase shift and create a "fat" sound that is richer and
+> less boring than a single oscillator.  Beating faster than 0.5 Hz
+> becomes less desirable, however, and beyond vibrato rates begins
+> introducing actual dissonance.
+
+This is standard with the dual play mode on my DX21, although
+that's slightly different because the two notes will have
+different timbres.  Even with identical timbres, you don't have
+to hear the phase shifting for the sound to be changed.  I usually
+set a 1 or 2 cent detuning so that it doesn't interfere with the
+harmony.
+
+Doubling a waveform with detuning halves the polyphony.  That means
+there's no additional problem with 16 channels and pitch bend
+tuning on an AWE64.
+
+Incidentally, General MIDI includes a voice called "fifths".  In
+the Sound Fonts that came with my AWE64, this is two waveforms a
+fifth apart.  Except the "fifth" is really 700 cents, so there's
+effectively a 2 cent detuning.  Correcting this considerably
+changes the sound.  So,  12-equal functions as a microtonal scale.
+
+While I'm plugging the AWE64...  You can set a Sound Font with
+instruments in 88CET fairly easily.  You need one zone for each
+run of notes with equal steps.  Other scales are more difficult,
+but I'm hoping for supporting software by the end of the year.
+
+
+Anyway, after that diversion, down to business.
+
+> Figuring that the 19th partial of A440 will beat at 0.5 Hz if detuned
+> by 0.1 cent, that becomes my desired accuracy for the goal of avoiding
+> audible dissonance in a conventional pitch range
+
+I make this almost exactly 0.1 cents.  There's obviously a greater
+force out there shaping our destiny ...
+
+You may want to stop the tuning getting _too_ accurate so that
+the phasing becomes audible.  To aim the beats between 0.4 and 0.5
+cents you need about 20 millicent precision.  Higher precision
+means the beats can be set in tune with the tempo or harmony.
+That complicates the tuning process, of course.  Fast, accurate
+pitch bends may be required.
+
+
+What are the practical problems with implementing this precision
+on a synth?  I'm assuming the errors creep in when you convert
+from a cents value to a frequency ratio.  This looks like the
+simplest algorithm that works:
+
+if (n<0)
+ r = 1+ n*5.8454e-4
+else
+ r = 1+ n*5.707e-4
+endif
+
+Where n is the tuning in cents relative to 12-equal, and -50 <= n
+<= 50.  I'm assuming the ratios for 12-equal will be in a lookup
+table.  Multiply the relevant one by r.
+
+The worst intervals using my algorithm are 0.25 cents out.
+Maybe this is why we're only given 1 cent steps at the moment.  A
+larger lookup table with third-tone ratios should give enough
+accuracy for 0.1 cent steps.
+
+This should be enough for wavetable synths, given the inherent
+inaccuracies in the sampling process.  It's also the minimum
+precision for additive synthesis if it's going to reproduce small
+inharmonicities.
+
+A quadratic approximation in the cents to ratio conversion is
+accurate to within 3.5 millicents.  This should be enough for a
+full implementation of the MIDI Tuning Standard.  For a software
+synth running with a Pentium chip, a cubic approximation
+shouldn't be a problem.  That gives a very accurate implementation
+of MTS.  This would be suitable for an algorithmic synth, where
+the partials will usually be harmonic so that you can play with
+phasing.

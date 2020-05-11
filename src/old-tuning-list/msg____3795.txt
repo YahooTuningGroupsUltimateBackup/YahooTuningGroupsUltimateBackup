@@ -1,0 +1,107 @@
+source file: mills2.txt
+Date: Sun, 20 Oct 1996 10:10:35 -0700
+
+Subject: Re: 12-Tone Subsets
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+Here are some (anonymously-forwarded) comments and questions posed to me
+directly, along with some of my opinions.  
+
+
+> My comment about using SysEx messages arose through forgetting that not 
+> all synthesizers have this facility, as you pointed out.
+
+   Perhaps we're both a little spoiled!  No just kidding.
+
+
+
+> Your remarks about the relative difficulty of retuning to 17- or 19ET on 
+> the one hand and 16ET on the other are interesting. I guess you are 
+> referring to the fact that in 16ET the 4-step intervals coincide with the 
+> minor thirds of 12ET but nothing matches the perfect fifth very closely, 
+> while in 17ET and 19ET the fifths do better. Have I understood this 
+> correctly?
+
+   That's certainly one way to put it.  Another way is that several apparently
+independent investigations of 16TET (Easley Blackwood and Ivor Darreg for
+example) have concluded that the most useful way to work with 16TET is as four
+interlaced diminished seventh chords rather than diatonic subset mode.
+Blackwood went on to devise a diatonic-subset-based notation system from this
+framework, but Ivor Darreg, Brian McLaren, and franky I as well, have found his
+metaphore to diatonic structures difficult to relate to, and of little value.
+
+ 
+
+> This all raises the question of why non-12 ETs are used. I gather from 
+> much of what I have been reading on the subject, that many use them in 
+> order to get closer approximations to various 'ideal' small-whole-number 
+> ratio intervals than are available in 12ET. Fair enough. 
+
+   Finding more accurate approximations to just intonation is the most
+traditional reason to pursue unusual tunings.  Another, closely-related
+motivation is to find all-new pitch relationships, whether they be just,
+approximations to just, or based on some other underlying concept.  
+
+   And speaking of Ivor Darreg, his main motivation was what he called "moods",
+which, were I to try to define the concept, I would say that the mood of a
+tuning is the collective effect of all of its available pitch relationships.
+
+   Another meaningful motivation is how the tuning works as a system, or perhaps
+relative to a notation system, including what pitch relationships it casts as
+more "basic".  17TET for example, on has a pretty good approximation to the 11:9
+neutral third, and one probably could come up with a system for using 17TET that
+way.  Most people have approached it a very different way though, concentrating
+on its way-sharp major third as a dissonance that must be resolved outward to a
+fourth.  That of course is a reversal of traditional harmonic principles, which
+can lead to some surprising effects.
+
+
+
+
+> in retuning for 16ET I wouldn't think of picking out a subset of size 12. I 
+> would simply tune two channels, each to 8ET, with one a 16ET step sharper 
+> than the other. Each channel would then have four unused note numbers. 
+
+   That strikes me as reasonable.  Most people just punt and map it linearly -
+key for note, mismatching octave boundaries in the keyboard with octave
+boundaries in the tuning.  Some people (Brian McLaren and Jonathan Glasier for
+example) have what I consider an amazing ability to ignore the black-white
+structure of a traditional keyboard.  I've never gotten the hang of that.  Then
+again, I never really got the hang of keyboard technique at all really;  I'm
+more of a woodwind and guitar kind of dude.  
+
+
+
+> I wonder how you carry out your retunings for 88CET. Here, I guess, would 
+> be a case where retuning on the fly or using pitch bends might be useful.
+
+   I use my Ensoniq ASR-10 for the majority of my 88CET work, and the ASR-10 has
+provision for (realistically) four tuning tables per instrument.  (Actually, it
+can have up to eight per instrument, but only four of the eight can be switched
+off between using the patch-select buttons.)  I however use a purely static
+tuning table based upon a circle of fifths wrapping within a 7:4.  Under that
+scheme, I remove the G#/Ab key from the system, which makes the black keys are
+functionally meaningful auxiliaries, by which I mean that the notes along the
+circle of fifths spans the white keys first and then the black keys, analogous
+with the traditional circle.  (The circle reads upward as C A F D B G E C# A# F#
+D# B#=C, or downward toward the flats as B D F A C Eb Gb Bb Db Fb Ab Cb=B.)
+
+   As far as I know all others who have worked with 88CET have mapped it
+linearly instead, and Johnny Klonaris found some curious analogies between
+stacks of fifths in that notation system and what look on the keyboard like
+open-position diminished triads in 12TET.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 20 Oct 1996 19:18 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04314; Sun, 20 Oct 1996 19:20:20 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA04317
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA05887; Sun, 20 Oct 1996 10:20:17 -0700
+Date: Sun, 20 Oct 1996 10:20:17 -0700
+Message-Id: <Pine.A32.3.95.961020131635.18770F-100000@freenet2.afn.org>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

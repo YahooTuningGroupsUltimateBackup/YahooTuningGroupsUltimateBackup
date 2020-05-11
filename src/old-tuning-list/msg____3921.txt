@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Mon, 4 Nov 1996 15:40:51 -0800
+
+Subject: Greetings & a project proposal
+
+From: Ben Denckla <bdenckla@media.mit.edu>
+
+Greetings to everyone on the list.
+
+I've been out of the tuning loop (and off the tuning list!) for some
+time now, but I've decided to get back into it with a new project (for
+my Master's thesis at MIT's Media Lab).  I thought I'd briefly present
+the project here to see if anyone had any comments (notably, to see if
+anyone has done any similar work that I could learn from before I
+start).
+
+My idea is to render tonal keyboard music (on synthesizers) using
+dynamic just intonation.  By dynamic just intonation, I mean intonation
+that changes according to the key center of the piece.  At first I plan
+to do this using MIDI files, but eventually the idea would be to have a
+system with a score follower, allowing for dynamic just intonation in
+live performance.
+
+I would like to try to use the pitch bend technique of tuning, where
+each channel is initially given a pitch bend and then all notes with
+that offset from ET are played on that channel  (i.e. all C's on chan 1,
+all C#'s on chan 2, etc.).  At least that is a scheme I remember someone
+proposed somewhere.  This seems to me quite a general technique that
+doesn't tie me to one machine.  Also, pitch bend messages sent during
+dynamic retuning will not cause glitches whereas I'm not sure which (if
+any) of the explicitly tunable synths out there can be retuned without
+glitches, since this is usually conceived of as an editing, rather than
+performance operation.  It is important to have a synth with good pitch
+bend resolution (perhaps one that uses all 14 bits of pitch bend, if
+such a thing exists).  Any suggestions?
+
+A significant problem with the idea of dynamic just intonation is how to
+deal with accidentals and/or transitional periods during modulation.  In
+a way, I think this problem is where the "meat" of the matter lies, and
+would probably be the crux of the investigation.
+
+Any comments?  Attacks are especially appreciated :-)
+
+Ben Denckla
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 5 Nov 1996 00:57 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00670; Tue, 5 Nov 1996 00:58:44 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00668
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA05312; Mon, 4 Nov 1996 15:58:41 -0800
+Date: Mon, 4 Nov 1996 15:58:41 -0800
+Message-Id: <199611042357.SAA01999@freenet5.carleton.ca>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

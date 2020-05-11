@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Mon, 16 Oct 1995 16:34:38 -0700
+
+Subject: Chinese 12TET - overkill?
+
+From: Johnny Klonaris <johnny@athena.ptp.hp.com>
+
+It's been an interesting discussion on whether or not Prince Tsai-Yu
+could have done the math....
+
+>>About 1595, Prince Tsai-Yu"  calculated the 12th roots of 2 to 9 significant
+>>figures on a fundamental of 1,000,000,000.
+>>
+>>--John
+>
+>That's hard to believe.
+
+Nope.  All posters I've seen seemed to have missed a simple solution:
+all that is needed to calculate the 12th or any other root is
+multiplication and some time.  Successive approximation might seem like
+a tedious method in this day and age, but 12 multiplications will tell
+you if you're close - and 12 more will tell you if your next guess is
+closer or not.
+
+-- 
+Johnny Klonaris / HP/ISD 101T, 1266 Kifer Road, Sunnyvale, CA  94086    
+Phone: (hp telnet)/(408) 746-5465 | "Patriotism is often an arbitrary
+email: johnny@ptp.hp.com          |  veneration of real estate above
+CIS: 75036,1351                   |  principles."  - George Jean Nathan
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Oct 1995 05:44 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id UAA16075; Mon, 16 Oct 1995 20:43:53 -0700
+Date: Mon, 16 Oct 1995 20:43:53 -0700
+Message-Id: <951017034145_71670.2576_HHB53-6@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

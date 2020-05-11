@@ -1,0 +1,31 @@
+source file: mills2.txt
+Date: Thu, 19 Jun 1997 15:33:47 +0200
+
+Subject: TMI
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Those who are interested in Italian music theory of 300 years ago 
+(Zarlino e.a.) can look here:
+http://candl.let.ruu.nl/research/tmi/main.htm
+It's a project called Thesaurus Musicarum Italicarum which is an
+initiative of the Department of Computer and Humanities at Utrecht
+University, the aim of which is to publish a cohesive electronic
+corpus of Italian music treatises from the second half of the
+sixteenth to the early seventeenth century. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Jun 1997 22:42 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04032; Thu, 19 Jun 1997 22:42:10 +0200
+Date: Thu, 19 Jun 1997 22:42:10 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04036
+Received: (qmail 1515 invoked from network); 19 Jun 1997 20:41:21 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 Jun 1997 20:41:21 -0000
+Message-Id: <009B60897750A5ED.5CB1@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

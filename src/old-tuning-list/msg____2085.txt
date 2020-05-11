@@ -1,0 +1,187 @@
+source file: mills2.txt
+Date: Sun, 1 Oct 1995 09:31:39 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & Psychoacoustics - post 8 of 25
+---
+As xenharmonists, it's of some interest to us
+exactly how the ear/brain system works.  If the
+human ear favors one tuning system over another,
+we want to know about it. 
+Alas, the evidence is far from clear, and there are
+problems with all three hypotheses of ear/brain
+function.
+Concerning the place and periodicity hypotheses
+of hearing, "On current evidence, it is not possible
+to decide betwene the temporal and place theories
+of frequency distribution. (..) In any case the best
+support for the eclectic [pattern recognition] view
+is the rather negative one that the evidence in favour
+of either of the other two theories is not conclusive,
+and this may be a function of the quality of evidence
+available, rather than of the actual operation of the
+auditory system." [Pickles, James O., "An
+Introduction to the Physiology of Hearing," Academic
+Press,  2nd ed., 1988, pg. 277]
+Risset summarizes the evidence for and problems
+with all 3 proposed ear/brain mechanisms in
+his 1978 IRCAM report: "Numerological theories of
+consonance suffer difficulties. Because of the
+ear's tolerance, intervals corresponding to 3:2 (a
+simple ratio) and 300,001/200,000 (a complex 
+ratio) are not discriminated. Also psychophysiological
+evidence indicates that numerical ratios should not
+be taken for granted. The subjective octave corresponds
+to a frequency ratio a little larger than 2, and is
+reliably different for different individuals (Ward,
+1954; Sundberg and Lindqvist, 1973); this effect
+is increased by sleep-deprivation (Elfner, 1964).
+There are also physical theories of consonance. 
+Helmholtz (1877) links the degree of dissonance
+to the audibility of beats between the the partials
+of the tones.  This theory is hardly tenable, 
+because the pattern of beats, for a given interval,
+depends very much on the placement of the
+interval within the audible frequency range. Recent
+observations (Plomp, 1966) suggest an improved
+physical explanation of consonance: listeners find
+that the dissonance of a pair of pure tones is maximum
+when the tones are about a quarter of a critical
+bandwidth apart; the tones are judged consonant
+when they are more than one critical bandwidth
+apart. Based on this premise, Pierce (1966, also
+in von Foerster and Beuachamp, 1969, pp. 129-132)
+has used tones made up on non-harmonic partials, 
+so taht the ratios of fundamnetal leading to
+consonance are not the conventional ones:
+Kameoka et al. (1969). have developed an 
+involved method to calculate the magnitude
+of disonance...
+"Whereas the explanation put forth by Plomp
+can be useful to evalutate the "smoothnesss"
+or "roughness" of a combination of tones, it
+is certainly insufficient to account for
+musical consonance. In a laboratory study,
+Van de Geer et al., (1962) found that intervals 
+judged the most consonant
+by laymen do not correspondent to the ones
+usually term consonant. This result is
+elaborated by recent work by Fuda and Wessel (1977).
+The term consonance seems ambiguous, since it 
+refers at the same time ot an elemental level,
+where "smoothness" and "roughness" are
+revaluated, and to a higher esthetic level,
+where consonance can be functional in a given
+style. The two levels are related in a culture-
+bound fashion. In music, one does not judge only
+the consonance of isolated tones: as Cazden (1945)
+states, "context is the determining factor. (...) the
+resoution of intervals does not have a natural
+basis; it is a common response acquired by all
+individuals within a culture area (cf. also Lundin,
+1947)." Musical consonance is relative to a musical
+style ( Guernesey, 1928); ninth chords, dissonant
+in Mozart's music, are treated as consonant by
+Debussy (Chailley, 1951; Cazden, 1962, 1968, 1972).
+The cultural and contextual aspects of musical
+consonance are so important that, despite nativists'
+claims to the contrary, purely mathematical and/or
+physical explanations can only be part of the story.
+cf. Costere, 1962)." [Risset, J-C., "Musical Acoustics,"
+Rapports IRCAM, 1978 pp. 7-8]
+In short, all 3 hypotheses of hearing explain different
+aspects of the  ear/brain system.  Depending on the
+acoustic stimulus, different systems appear to  operate
+to process sound. This is most powerfully evidenced by Sethares,
+W., "Local Consonance and the Interaction between
+Timbre and Tuning," JASA, vol. 94 No. 3, 1993, pp. 1218-1219,
+Slaymaker, J., "Inharmonic Tones," JASA         1970, and 
+ Roads, C. "An Interview with Max Mathews," Computer Music
+Journal, 1980.  
+In the latter, Mathews points out: 
+"Our initial experiments were aimed at finding 
+out what properties of normal harmonic music
+carried over to music that was made with
+stretched overtones. We found some things
+carried over and some things did not. The
+sense of "key" carried over better than we
+expected.
+ROADS: So you can actually detect "keys" in
+sequences of completely inharmonic sounds.
+MATHEWS: That's right. You play two samples
+and a person can reliably say whether they're
+in the same or a different key.
+Other properties do not carry over. The sense
+of finality in a traditional cadence does
+not carry over. A person who hears a cadence
+with unstretched tones says, "That sounds
+very final to me." When he hears the same
+cadence played with stretched tones, he'll
+say "That doesn't sound especially final." But
+we have been able to make other inharmonic
+materials which do convey a sense of cadence.
+(...)
+ROADS: If we can detect "keys" and some form
+of finality within a cadence or progressions
+within inharmonic tones, then some of the 
+theories of harmony in the past must not have
+been as cogent as some of their proponents
+have thought them to be.
+MATHEWS: Our results are contradictory. We
+loked at two theories. One was the Rameau
+theory of the fundamental bass, and the other
+was the Helmholtz and Plomp theory of the
+consonance and dissonance of overtones. The
+destruction of the cadence would support
+the Rameau theory and the persistence of
+the sense of key would support the Helmholtz
+and Plomp theory. So we have one result which
+supports one theory and one which supports the 
+other, with the overall conclusion that the world 
+a more complicated place than we had perhaps
+hoped it was. We will have to dig deeper
+before we can say which is causing
+the various perceptions we find meaningful
+to music" [Roads. C, "An Interview With Max
+Mathews, Comp. Mus. Journ., Vol 4 No. 4, 1980,
+pp. 21-22]
+MYTH: PITCH PERCEPTION IS SIMPLE, AND
+CONSONANCE, DISSONANCE AND HARMONY
+CAN BE EXPLAINED BY EITHER RAMEAU'S
+OR HELMHOLTZ'S MODELS
+FACT: Musical phenomena are a complex
+interaction of at least 3 ear/brain mechanisms
+for recognizing and assigned pitch, and
+each ear/brain system can conflict with
+the other 2, leading to paradoxical results,
+auditory illusions and a great deal of learned
+behaviour on the part of the listener as to
+what "consonance," "dissonance," and even what
+"pitch" is.
+This latter will prompt the usual screams
+of protest from those into whose brainpans
+little information about modern psychoacoustics
+has dripped; thus it is important to
+make clear that even something as purportedly
+"elementary" and "innate" as the pitch sense
+displays extremely complex behaviour. 
+The next post will examine the meaning(s)
+of the term "pitch," the psychophysical
+factors which influence its perception, and
+the implications for tuning & music.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 1 Oct 1995 20:53 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA27839; Sun, 1 Oct 1995 11:52:54 -0700
+Date: Sun, 1 Oct 1995 11:52:54 -0700
+Message-Id: <199510011852.AA24025@net4you.co.at>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

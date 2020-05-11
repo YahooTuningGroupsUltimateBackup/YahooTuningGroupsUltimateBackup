@@ -1,0 +1,41 @@
+source file: mills3.txt
+Date: Thu, 1 Jan 1998 18:19:25 +0100
+
+Subject: New Year
+
+From: Aline Surman <stick@dnvr.uswest.net>
+
+I was noticing how the European New Year falls on Jan 1; only problem
+is, the real New Year begins on the Equinox, which is 11 days earlier. In
+a way, then, our New Year's day is sharp to the real New Year, much the
+same as our major 3rd is sharp to the 5/4...that's interesting to
+me...Hstick
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Aline Surman <stick@dnvr.uswest.net>
+Subject:  CD idea
+PostedDate:  01-01-98 18:31:47
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-01-98 18:29:23-01-01-98 18:29:24,01-01-98 18:28:45-01-01-98 18:28:45
+DeliveredDate:  01-01-98 18:28:45
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125657F.00601097; Thu, 1 Jan 1998 18:31:13 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29420; Thu, 1 Jan 1998 18:31:47 +0100
+Date: Thu, 1 Jan 1998 18:31:47 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29209
+Received: (qmail 23742 invoked from network); 1 Jan 1998 09:31:44 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Jan 1998 09:31:44 -0800
+Message-Id: <34ABDB2E.2676@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

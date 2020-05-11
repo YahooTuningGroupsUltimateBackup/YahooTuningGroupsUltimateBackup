@@ -1,0 +1,33 @@
+source file: m1400.txt
+Date: Wed, 29 Apr 1998 21:44:16 -0500
+
+Subject: Re: JI Tuning Resolution
+
+From: "jloffink" <jloffink@pdq.net>
+
+> From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+>  For a delay time just 1/2000 of a second longer, you get
+> destructive interference, or no energy at that frequency.
+> 
+> Now if the onset times are controlled really accurately by MIDI, and
+> let's say a 90-degree phase shift is chosen so that the energy at 1000Hz
+> is twice that from one instrument, then you're doing okay, right?
+> 
+..otherwise known as phase cancellation.
+
+A MIDI note on message is 20 bits at 31250 Kbaud, so the best case timing
+between each consecutive note on the same MIDI cable is 640 us.  Actual
+results would be much worse due to processing time by your sequencer and
+especially your MIDI synthesizer.  Keyboard's MIDI Timing Slop tests in the
+July 1996 issue showed average timing irregularities of 0.29 to 1.95 ms for
+a single MIDI note and 0.30 to 3.36 ms for 1 voice alternating with 12
+voices, except the Roland XP-10 which showed 19.14 ms of timing variation. 
+Instruments tested included some of the common microtonal ones:  Ensoniq
+MR-Rack, Korg M1 and Trinity, Kurzweil K2500RS, Roland XP-50 and Yamaha
+TX802.
+
+I wouldn't recommend MIDI for anyone needing Rayna/Kyma/CSOUND type
+resolution.
+
+John Loffink
+jloffink@pdq.net

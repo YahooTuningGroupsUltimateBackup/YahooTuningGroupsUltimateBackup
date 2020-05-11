@@ -1,0 +1,67 @@
+source file: mills2.txt
+Date: Sat, 19 Oct 1996 16:57:16 -0700
+
+Subject: Similarity of scales.
+
+From: brg@netcom.com (Bruce R. Gilson)
+
+We've seen a number of debates on whether 19-tET, or 22-tET, or whatever
+is "like" the old familiar 12-tET. I think in part it comes down to what
+you're looking at. I think that it would be improper for me to comment
+on the general impression of what a piece in some unusual scale sounds
+like, as I've never heard any full piece played in any temperaments other
+than 12 or 7 (At least, I _assume_ the background music I hear in some Thai
+restaurants is in 7-tET; I've been told that it is Thai traditional music,
+and I've read that that is in 7-tET. But I haven't done a frequency scan
+to make sure they weren't using Western instruments tuned to 12.)
+
+But I've played scales generated on computers. And to my ear, Blackwood's
+comment that a diatonic scale will sound "recognizable" if it follows the
+standard pattern of 2 large intervals, one small, three large, and one small
+seems correct. Now the only tempered scales that permit this are those
+with 5x + 2y tones, with x > y > 0. This means 12, 17, 19, 22, 24, 26, ...
+and certainly both 19 and 22 qualify. And in fact, if I play a 19-tET scale,
+with "whole steps" of 158 moc (I'm using moc consistently; if you need to
+convert to cents to visualize, multiply by 1.2) and "half steps" of 105 moc
+for my intervals, it sounds to my ear so much like a standard major scale
+that I'd never spot the difference unless I heard them played together.
+The fact that the "half step" is MUCH more than half the "whole step" is
+not obvious to my ears. (In fact, in the most common sort of JI scale, the
+"half steps" are 93 moc and the "whole steps" are a mixture of 152 and 170
+moc. So the fact that the "whole step" is less than double the "half step"
+does make it somewhat "JI-like." But the point is that ALL these scales,
+12-tET, 5-limit JI, 19-tET, etc., permit the construction of major [and
+minor] scales of the same pattern.) 
+
+Now having said this, we can note that a 4:5:6 major triad is characterized
+by three intervals: 5/4 (322 moc), 6/5 (263 moc), and 3/2 (585 moc). And
+these are represented in 12-tET by 333, 250, and 583 moc, while in 19-tET
+they are 316, 263, and 579 moc. It is possible that some ears hearing the
+CHORD may get a different impression because the two thirds are closer
+to JI while the fifth is further from JI. I don't know. I can't program my
+computer to play the chords and I don't have a keyboard I can retune.
+
+But I think that melodically, from what I've said, assuming that most tunes
+consist of sequences from the diatonic scale up or down for large portions
+of their scope, 19, 12, or 22 will sound all about the same. (If you write
+a complex piece with much modulation, this may not be so. But a popular
+song, for example, played in 19 will not sound unusual to ANYONE's ear unless
+they have far better absolute sense of pitch than I have.)
+
+                                Bruce R. Gilson
+                                email: brg@netcom.com
+                                IRC: EZ-as-pi
+                                WWW: http://www.geocities.com/CapitolHill/3141
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 20 Oct 1996 12:01 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04046; Sun, 20 Oct 1996 12:03:02 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA04054
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id DAA02819; Sun, 20 Oct 1996 03:02:59 -0700
+Date: Sun, 20 Oct 1996 03:02:59 -0700
+Message-Id: <v02140b00ae8faa1d8d64@[164.67.22.65]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

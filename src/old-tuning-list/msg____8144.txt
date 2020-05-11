@@ -1,0 +1,34 @@
+source file: m1451.txt
+Date: Fri, 19 Jun 98 01:31:33 +0000
+
+Subject: Re:Sample looping
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hi Patrick,
+
+>Drew, as I say, I'm not sure if I understood you correctly, but some
+>samplers (eg., Roland S770 series, Akai S1000 series) keep sample
+>looping parameters in ROM.  On the Roland, for example, up to 512
+>samples (ie, the total number of samples that can be loaded at one
+>time) can be looped any which way you like and it will make no
+>difference at all to the amount of RAM that is available.  I'm sorry,
+>I can't tell you if this is the same on the EMU units, but I suspect
+>that, on these, as you say, looping may eat into RAM.
+
+Whoops, I say potato & you said tomato !  I wasn't refering to 
+looping eating into RAM. I was speaking (so to speak) without regard to
+ RAM usage.
+
+What I was trying to say is don't bother using looping  just
+to conserve RAM because of the tedium involved.Use looping for 
+sustain if you like, but doing it to conserve RAM ,for thousands of wee 
+samples....
+Is there a doctor in the house !?
+
+About the E-mu thingies, I was refering to their sample playback
+synths, like the Proteus,etc. Not the samplers !
+
+
+Later,
+Drew

@@ -1,0 +1,31 @@
+source file: m1470.txt
+Date: Thu, 9 Jul 1998 21:31 +0100 (BST)
+
+Subject: Re:microtuning software for Macs (oops !)
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Drew Skyfyre wrote
+
+>I use a Mac and I can't think of anything but Max that would allow
+>programming this sort of thing. There is always the not so happy option
+>of using a regular ascii style programming language, like Java , I
+>suppose ?
+>Has anyone here used Java to write this type of thing ? Anyone know if
+>the shareware/freeware "Megalomania" can be used for this ?
+
+I don't have full details of Java Sound, but I bet it won't allow
+low-level access to the MIDI ports.  I wrote my Windows program in C++.  I
+don't know much about Macintosh, but I'm sure the same thing could be done
+for it.  Unfortunately, graphical and multimedia code is highly machine
+specific, so I can't do a quick conversion.
+
+What's "Megalomania" then?
+
+                     Graham Breed
+     gbreed@cix.co.uk            www.cix.co.uk/~gbreed/
+
+------------------------------
+
+End of TUNING Digest 1470
+*************************

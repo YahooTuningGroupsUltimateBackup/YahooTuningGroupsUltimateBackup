@@ -1,0 +1,65 @@
+source file: mills2.txt
+Date: Wed, 30 Oct 1996 06:39:55 -0800
+
+Subject: Pentatonic source scale
+
+From: wauchope@AIC.NRL.Navy.Mil
+
+John Chalmers wrote:
+
+> Other interesting pentatonics are slendro-like septimal scales such as 
+> 1/1 7/6 4/3 3/2 7/4 2/1 and neutral ones such as 1/1 11/9 4/3 3/2 
+> 11/6 2/1, etc. and their modes.
+
+If you take the 13-limit pentad 1/1--26/21--14/11--14/9--8/5 and duplicate
+it in four parallel 3/2's, i.e.
+
+                28/27--14/9---7/6-----7/4
+
+           104/63--26/21--13/7--39/28
+
+         4/3-----1/1---3/2----9/8      
+
+    16/15----8/5----6/5---9/5
+
+56/33---14/11--21/11--63/44
+
+you get a fairly evenly spaced 20-tone scale that contains thirty-two
+different pentatonics of the form
+
+        1/1--X--4/3--3/2--(3/2)X--2/1
+
+where "X" ranges from a minor second (giving you "descending" or
+koto-like pentatonics), through major seconds and then minor and major
+thirds (for "ascending" or gamelan-like pentatonics), including the
+two scales John mentions.
+
+This comes about because the pentad contains eight different major or
+neutral thirds, ranging from 11/9 (347c) to 84/65 (444c).  Adding the
+3/2's thus creates eight (each) major seconds, minor seconds, and
+minor thirds for a total of 32 values of "X".  (Of the 32 six are just
+a few cents apart, so the number of really distinct pentatonics is 26.)
+
+The scale can be tempered and evened out a bit by using the
+corresponding tones from scales like 72-TET or 75-TET, which will give
+you just the 26 distinct pentatonics.  Since twenty is a nice
+manageable source scale size for fixed-pitch instruments like guitar
+or metallophone, I thought this might be of interest.
+
+Ken Wauchope
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 30 Oct 1996 20:16 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30288; Wed, 30 Oct 1996 16:02:50 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04021
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA14664; Wed, 30 Oct 1996 07:02:48 -0800
+Date: Wed, 30 Oct 1996 07:02:48 -0800
+Message-Id: <961030150106_71670.2576_HHB68-10@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

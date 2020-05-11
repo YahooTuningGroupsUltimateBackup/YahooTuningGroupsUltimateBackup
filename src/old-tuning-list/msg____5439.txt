@@ -1,0 +1,104 @@
+source file: mills2.txt
+Date: Sat, 10 May 1997 16:27:35 +0200
+
+Subject: RE: Why x-ET?
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+David J. Finnamore wrote:
+>This is one of those subjects that never
+>seems to end.  Maybe it's too large for any one person to comprehend fully.
+
+Or maybe it's something people can argue the toss about without
+actually changing their minds.  Well, I'm quite happy to join in!
+I missed the end of TD1064 through carelessness, so apologies if
+I'm repeating someone in this message.
+
+Marion wrote:
+>It seems that much discussion of ET is framed in JI terminology,
+>so that the study of ET scales could just be viewed as a study of
+>a limited subset of JI scales--those that approximate ET spacing.
+
+It seems that a lot of people take it for granted that ETs will
+be used to approximate JI intervals.  Hence this idea that ET
+scales are the more mathematically complex.  From my own
+experiments, I think that it is possible to recognise equal
+intervals, and so ET scales do make sense in and of themselves.
+Hence, David's idea:
+
+>... my premise for suspecting that JI may be
+>superior to ET is not that one tuning system is the basis of judging the
+>value of others, but that nature is the best basis of judging any tuning
+>system.
+
+    doesn't hold unless you consider ETs to be less natural
+than JIs.  I consider small number ETs to be the less valuable
+because the natural order, which can be made audible by
+playing equal intervals in series, sounds pretty boring.
+
+On a frequency scale, an nTET interval will be a ratio of 2^(1/n).
+No transcendental numbers and no logarithms.  If you're ignoring
+JI, there's no reason why you can't take the logarithm of
+frequency as your fundamental scale, because this is nearer to
+human perception.  Then, ETs are a simple quantisation of this
+space.  The logarithms only come in when you try to express
+frequency ratios in this space, and therefore compare nTET and JI.
+Which you consider more complicated depends upon your own
+prejudices, and the instrument you're trying to tune.
+
+I use ratio space and matrices to relate integer ratios to a
+logarithmic scale.  I explained this a while ago on the list, and
+no-one seemed to be interested.  Note, though, that it gives
+a new intellectual respectability to JI, because it uses matrices
+and these come a lot later on the maths curriculum than logs.
+I can't work out any way of bringing differential equations into
+tuning theory, unfortunately, so I may have to move into timbral
+synthesis to show off my mathematical abilities.
+
+Which brings me to the importance of tuning theory in practical
+music making.  There have been some pretty starry eyed posts
+lately with sentiments like this from Paul E:
+
+>Here's my point of view: We have several hundred years of Western music in 
+>12-tET, by, say, 100 great composers. Have the possibilities been exhausted? 
+>Somewhat. Does the existing repertoire have enough diversity to provide a 
+>lifetime of listening enjoyment of the most transcendent and sublime sort? 
+>Many seem to feel that it does. Therefore, even a single new tuning system 
+>should be enough for a composer to do a lifetime of work and, even if the 
+>composer is of the first rank, the composer will not exhaust 1% of the 
+>tuning's resources. Considering the range of expression contained in 12-tET 
+>music, any single microtonal tuning will, by increasing pitch resources, 
+>lead to an unimaginable new universe of moods and sensations. The technical 
+>difficulty of mastering a single new tuning, even a new ET, in the current 
+>educational environment, is plenty to expect of a composer whose main goal 
+>is to express himself/herself in a new way.
+
+Remember that the vast majority of great music written in 12TET 
+works because of good melody, structure and whatever, not
+_because_ it was written in 12TET. Alternative tuning systems may
+be a useful aid to producing good, original music, but no more so
+than a new synth.  I think "an unimaginable new universe of moods
+and sensations" is going a bit over the top.
+
+There's no reason why puns can't be implemented on a continuous
+pitch model.  I'm thinking about software to do this.  I'll say
+more if I ever get around to writing it.
+
+Well, this seems to be getting quite long already, so I'll leave
+2-D tunings and the like for another day.
+
+                    Graham
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 10 May 1997 19:52 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08858; Sat, 10 May 1997 19:52:34 +0200
+Date: Sat, 10 May 1997 19:52:34 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA02024
+Received: (qmail 18250 invoked from network); 10 May 1997 17:52:29 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 May 1997 17:52:29 -0000
+Message-Id: <199705101350_MC2-1655-8A19@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

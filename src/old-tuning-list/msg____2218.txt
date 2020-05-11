@@ -1,0 +1,142 @@
+source file: mills2.txt
+Date: Sun, 29 Oct 1995 08:35:42 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Our friends at Ensoniq
+---
+To date little has been said regarding the
+Ensoniq corporation.  Someone needs to point
+out how much we owe  people like Steve Curtin,
+and his fellow Ensoniq engineers.
+Let's start with the fact that if you want a
+sampler with built-in tuning tables,  were it 
+not for Ensoniq you'd be in deep guano.
+It's incredibly important that a sampler include
+a tuning table.  Without one, the only
+reliable way to break out of 12 on a sampler
+is to use a separate sample for each MIDI note.  
+This gobbles memory at a *staggering* rate.  For a 2-
+second stereo sample at 44.1 Khz spread over (say)
+36 notes, this would demand 6.05 megs of RAM 
+*per MIDI channel.*
+For 16 MIDI channels, that's a mind-boggling
+96.89 megs of RAM!
+By contrast, if your sampler allows you to
+use a tuning table you save an *incredible*
+of RAM.  Moving to more than 12 tones
+per octave lets you spread each sample over
+even *more* keys than in 12--for a 31-tone
+equal tempered tuning, for instance, you can
+spread each sample over 31/12 times as
+many MIDI notes.  This means that if you've
+got a multi-sampled sound that spreads
+each sample over (say) 3 MIDI notes in 12,
+a tuning table allows you to *drop* memory
+requirements by letting you spread each sample
+over 8 MIDI notes.  
+Compare the two situations.  In one case, the
+lack of a tuning table forces you to gobble RAM
+by using 36 separate samples; in the other case,
+a built-in tuning table lets you *save* that RAM
+by using only 36/7.8 = 5 separate samples. The
+savings in RAM is ENORMOUS: a full 
+[1 - (36 - 5/36)] * 100 = 80%!  
+This really matters.  
+We're not talking about just 10% or 
+even 20% or 30% savings of RAM here...a tuning 
+table makes an ENORMOUS differece.  It lets
+you use 1/2-1/6 of the memory you'd otherwise use.
+This is *crucial* because the problem with every
+sampler is lack of RAM.  No matter how much 
+you've got it's never enough.  And forcing the
+microtonal user to burn up gobs and gobs of RAM
+by duplicating each sample on every single MIDI
+note is so wasteful as to defy description.
+Clearly, Ensoniq's inclusion of a tuning table (a
+separate tuning table for each layer of each sample,
+in fact) on the ASR-10 qualifies as one of
+the biggest gifts to microtonalists ever. 
+Period.
+Of course, there's more.
+Ensoniq builds reliable products.  They sound pretty
+good.  Other companies have flashier technology,
+but Ensoniq's synths sound about as excellent as
+anything out there.  The big *musical* advantage
+Ensoniq enjoys, of course, is that they've supported
+micrtonality by including built-in tuning tables
+every since 1989.   I'm not sure why they made that
+decision--there doesn't seem to be a lot of 
+economic benefit in tuning tables.  However, I can
+say that I've bought a bunch of Ensoniq gear ever
+since they started building tuning tables into their
+synths.  As long as they keep including tuning tables,
+I'll keep buying their equipment.
+This is particularly noteworthy behavior for a large
+synth manufcaturer because many of the other clueless
+and brain-dead synth companies still refuse to include
+full-keyboard microtuning.  Especially the Japanese.
+Weird, when you think about it.  Which culture uses
+a non-12 pentatonic scale?  (The Japanese)  And which
+culture is more frenziedly committed to 12-TET?
+(The Japanese!) Kawai, Akai and many others
+fanatically refuse to let their instruments be retuned.
+They're adamant about it to the point of psychosis.  The
+behaviour is almost Manson-like in is self-destructivness,
+yet they persist.
+As a result I won't buy Kawai or Akai synths.  Let 'em
+rot: they can come out with a synth that does
+everything buy makes coffee and I still wouldn't even
+use it as a boat anchor.
+Ensoniq's commitment to microtonality deserves special
+mention on this forum.  I have nothing but good things to
+say about their synths. (it would nice if they dropped their
+prices, but then I wish all mfrs would drop their prices;
+what else is new?) Bottom line: if you're serious about
+microtonality, eventually you will discover that kludges
+and gyrations and contortions and weird clumy work-
+arounds like tuning each note with pitch-bend, etc.,
+just don't work after a certain point.  You run out of
+MIDI bandwidth, notes start to get dropped, attacks 
+sound twangy, and the logistics of such kludges just
+become insupportable for even moderately complex
+compositions.
+In the end, a built-in full keyboard tuning table is 
+an absolute  necessity for serious MIDI microtonality.
+And Ensoniq and Yamaha are the only two synth 
+manufacturers that have consistently stuck to
+their support for tuning tables.  
+Best of all, Ensoniq--unlike Yahama--has refused to
+throw away its best technology.  Yamaha's insane
+decision to stop making FM synths is a mistake Ensoniq
+would never have made: instead, Ensoniq just keeps
+making its instruments bigger, better and more
+capable.  Ensoniq refuses to give up on a product. 
+They just keep adding features and upgrading the
+ROMs until the synth does everything you could reasonably
+want.  That's a good attitude for a synth company to
+have, especially nowadays when the Japanese are
+coming out with a new model every 6 months that
+renders obsolete all previous RAM cartridges, editors, 
+voice disks, etc.  but doesn't sound any different or
+do any more than the Japanese synths of 5 years ago.
+Bottom line?
+Everyone on this forum should offer Steve Curtin and
+his fellow engineers at Ensoniq a very long,
+very appreciative round of applause.
+We owe them a lot.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 30 Oct 1995 07:07 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id VAA17788; Sun, 29 Oct 1995 21:07:07 -0800
+Date: Sun, 29 Oct 1995 21:07:07 -0800
+Message-Id: <951030050412_71670.2576_HHB30-6@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

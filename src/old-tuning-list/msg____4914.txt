@@ -1,0 +1,77 @@
+source file: mills2.txt
+Date: Thu, 27 Feb 1997 10:43:19 -0800
+
+Subject: Re: 5-limit harmony, tritriadic scales
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+John Chalmers wrote:
+> 
+> Re 5-limit harmony:  Five and seven limit scales apparently go
+> back to Archytas (about 390 BCE) in Greece, though I'm not sure
+> how "harmonic" their treatment was. Aristoxenos (circa 330) complained
+> that the incomposite ditone in the enharmonic genus was being narrowed,
+> a process called "sweetening" presumably from the 81/64 to the 5/4.
+> This sounds very much like Archytas's 28/27 x 36/35 x 5/4
+> enharmonic tetrachord. However, in the diatonic genus, Archytas's tuning
+> was septimal,(28/27 x 8/7 x9/8)  skipping 5 altogether, and Aristoxenos
+> admits that this is a well known tuning (as 1/3 + 1 1/6 + 1 tones).
+> 
+> Ptolemy, nearly 500 years later, implies that this is the most
+> common diatonic tetrachord, though the Pythagorean 3-limit one is
+> also in use. His own Syntonic Diatonic, 16/15 x 9/8 x 10/9 may be
+> contrasted with the earlier Didymos's 16/15 x 10/9 x 9/8 tuning. This
+> latter scale is rather non-harmonic in our sense. It, Pythagorean
+> (Ditone Diatonic)  and Archytas's diatonic (Ptolemy's Middle Soft
+> Diatonic, Tonic Diatonic, etc.)  all have many 32/27 and 81/64 thirds
+> (the major scale has only 1). This suggests to me a possible avoidance
+> of 5 limit thirds until Ptolemy's time. This is also true of his mixed
+> modes which have predominantly septimal and pythagorean intervals.
+
+Ptolemy rejects the 81/64 ditone as a possible melodic (i.e. an interval 
+between two adjacent degrees) in his "rational systems", since it is epimeric 
+(i.e. not superparticular). The only superparticular melodic approaching this 
+magnitude is the 5/4. However, as I've said before, Ptolemy distinguishes 
+between the generic pattern arising in singing, and that which players of 
+kithara and lyra prefer to follow: namely, the intense diatonic (10/9, 9/8, 
+16/15 downwards) in the former case, and the ditonic diatonic (9/8, 9/8, 
+256/243) in the latter. However, the 5/4 is only a composite interval made up 
+of two melodics in the intense diatonic; it is only available as a melodic in 
+the context of the enharmonic tetrachord, and of the few sources we have, 
+there appears to be a consensus in favour of 5/4 as the leading ratio, which 
+is endorsed by Archytas, Didymus and Ptolemy, although they differ in their 
+division of the remaining pyknon. One of the grounds on which Ptolemy 
+objected to Archytas's divisions was the retention of 28/27 as the following 
+(i.e. lowest) interval in all three genera, a feature which was contrary to 
+practice (and thus unacceptable, in the context of Ptolemy, because it is 
+evidence of reasoning which has not been submitted to empirical testing). 
+Ptolemy also provides us with important evidence for a trend in favour of the 
+more tense tetrachords ("more tense" meaning that the mutable inner degrees 
+of the tetrachord were tuned higher in relation to the fixed outer degrees), 
+since he tells us that his enharmonic and soft chromatic, though constructed 
+in accordance with reason, were unfamiliar to experience (by his time), and 
+so the intense chromatic is the softest of all the tetrachords featured in 
+Ptolemy's careful description of the tunings that were actually used in his 
+time (it appears in the tropoi kithara tuning, mixed, of course, with the 
+even diatonic).
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 27 Feb 1997 19:47 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA32181; Thu, 27 Feb 1997 19:47:47 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA31649
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA19356; Thu, 27 Feb 1997 10:44:22 -0800
+Date: Thu, 27 Feb 1997 10:44:22 -0800
+Message-Id: <3315C527.58C9@cavehill.dnet.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

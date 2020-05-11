@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Thu, 21 Dec 1995 05:51:03 -0800
+
+Subject: Reply to Jeff Welty
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+I don't completely understand from the code what it is that is coming
+out of it. You to have to supply weights for 12 notes and then only 7
+intervals are compared. Are you comparing the prime on purpose, or is
+it always 0 cents? Is the resulting scale always symmetrical? The
+error-function seems to be quadratic in the note values, and so far as
+I can tell you need indeed an iterative procedure to find the minimum
+of it. If there wouldn't be product terms of pitch variables then the
+solution could be found algebraically by setting the derivative to 
+each of them to zero.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 21 Dec 1995 20:59 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id LAA12991; Thu, 21 Dec 1995 11:59:15 -0800
+Date: Thu, 21 Dec 1995 11:59:15 -0800
+Message-Id: <v01530501acff15d18060@[128.83.111.124]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

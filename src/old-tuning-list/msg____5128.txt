@@ -1,0 +1,37 @@
+source file: mills2.txt
+Date: Mon, 17 Mar 1997 15:23:19 -0800
+
+Subject: Re: TUNING digest 1017
+
+From: "Marcus Hobbs" <marcus@fa.disney.com>
+
+>
+>    Considering that there's about 120dB between the threshold of hearing
+> and theshold of pain, it's probably pretty safe to say that a 60-year-old
+> is barely able to hear anything above about 12KHz.  And based on this
+> information, I doubt if even a 30-year-old is likely to hear much at 22KHz.
+
+i hooked a fader to frequency in kyma (the world's most expensive tone
+generator?) and played around with the limits of my hearing.  i'm 27, in good
+physical shape, and have no hearing conditions that i'm aware of, although i
+get hayfever, which tends to congest the whole ears/nose/throat system.  my
+hearing seemed to fade out around high 16- to low-17 khz.  the transition from
+"i definitely hear a high-pitched tone" to "i maybe sense some sort of sound"
+is
+fascinating.  i wonder if anybody has played with real-time visual tests of
+light frequencies escaping the threshold of perception?
+
+marcus
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 18 Mar 1997 01:23 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04009; Tue, 18 Mar 1997 01:23:35 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03999
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id QAA10470; Mon, 17 Mar 1997 16:19:26 -0800
+Date: Mon, 17 Mar 1997 16:19:26 -0800
+Message-Id: <199703180010.QAA09220@ella.mills.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

@@ -1,0 +1,34 @@
+source file: mills2.txt
+Date: Fri, 19 Jul 1996 19:09:15 -0700
+
+Subject: SCALA: Help with help.
+
+From: pbrewis@cix.compulink.co.uk (Peter Brewis)
+
+Having subscribed to this wonderful list for a year and a half I've 
+finally got around to trying to work with some non-12tet tunings. I did 
+have some quarter-tone pieces of mine performed years ago when I was at 
+the Royal College, and still shudder when I recall overhearing someone in 
+the audience ask his neighbour, 'Have they finished tuning up yet?' (As a 
+matter of fact _I_ wasn't sure whether they had or not.)
+
+I'm tying to get to grips with Scala and I wondered if someone might be 
+able to tell me why, when I type 'help' it says, 'Help is available for 
+the following items:' That's all it says. There _are_ no following items. 
+I've also tried 'help append', 'help intersect' and so on. What am I 
+doing wrong? What a terrific piece of work Scala is, by the way.
+
+
+Peter Brewis
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 20 Jul 1996 08:59 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id XAA19044; Fri, 19 Jul 1996 23:59:42 -0700
+Date: Fri, 19 Jul 1996 23:59:42 -0700
+Message-Id: <199607200658.AAA14652@freenet.uchsc.EDU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

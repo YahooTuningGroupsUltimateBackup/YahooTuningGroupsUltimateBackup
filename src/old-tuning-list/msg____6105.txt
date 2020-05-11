@@ -1,0 +1,100 @@
+source file: mills3.txt
+Date: Wed, 17 Sep 1997 09:54:42 +0200
+
+Subject: Re: Keys, Emotions, Tempering, etc...
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+Also-Sent-To-Newsgroup: rec.music.makers.piano
+  X-Article-Creation-Date: Mon Sep 15 08:39:01 1997 GMT
+
+  Hi Gil "et al",
+
+  In article <3410c7ea.187664762@snews.zippo.com>,
+    bigbug@hooked.net wrote:
+  > If the observation is correct -- that different keys have different
+  > emotions -- then it ought to be testable, and someone ought to be able
+  > to tell the difference, with a little training. . . It might vary from
+  > one piano to the other.  A given key might sound one way on your
+  > piano, a different way on another.
+
+  There's a lot of out-of-tune pianos out there, but as long as the keys
+  have drifted equally (usually in the "flat" direction), it doesn't seem
+  to affect the emotion of the piece.  (Of course if the keys have drifted
+  unequally, it's time to get the piano tuned, or to throw it off the roof
+  of Baker House, in Cambridge, Mass., USA.)
+
+  My own pet theory is that as you listen to music, your ears accept the
+  imperfections in tuning that are presented to them, and knows what was
+  "meant".  So the same idea/emotion/whatever comes across, whether you're
+  using equal temperament/meantone temperament/just intonation/whatever.
+
+  > By the way, I have developed a trick that can fool people into
+  > thinking I have perfect pitch.  There is a fan in our office, which is
+  > always on, and it maintains a constant pitch all day and night. . .
+  > middle C in fact.  So you can play any note on the piano, and I can
+  > tell you what it is.  Neato, huh?
+  >
+  > If you listen hard enough, almost every room has a hum or two in it. .
+  > . or at least a convenient object you can tap to find a pitch.
+
+  Although I claim to have perfect pitch, the piano I grew up with was
+  about a half-step flat, which permanently messed with my accuracy.  So I
+  too sometimes lean on the crutch of the hums of electrical devices.
+
+  Most devices emit a "60 cycle" hum (at least that's what it is in the USA
+  - some other countries use stuff like 50 cycles).  That'll give you a
+  note somewhere between B natural and B flat, presuming A natural is 440
+  cycles per second (which, again, may not be true in other countries, nor
+  for other centuries for that matter).  So you can usually use that as a
+  reference tone.
+
+  WARNING!!!:  You may get a note different than "B half flat" from devices
+  with rotating parts, such as fans and other motors, since gears and
+  variable-speed controls can alter the frequency.  Things like light bulbs
+  are more reliable, but you gotta find a loud one, like a flourescent
+  bulb.
+
+  Great thread!
+
+  --Mark
+
+  P.S.:  Hermann L. F. Helmholtz rules, in any country or century!  He
+  would have loved this thread (if they had the internet in the 19th
+  century).
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@pacificnet.net                      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gregs@mail.usyd.edu.au
+Subject:  Writing Csound from Scala1.3
+PostedDate:  18-09-97 02:15:55
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  18-09-97 02:15:43-18-09-97 02:15:43,18-09-97 02:14:57-18-09-97 02:14:57
+DeliveredDate:  18-09-97 02:14:58
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256516.00016F53; Thu, 18 Sep 1997 02:15:40 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05416; Thu, 18 Sep 1997 02:15:55 +0200
+Date: Thu, 18 Sep 1997 02:15:55 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05661
+Received: (qmail 14822 invoked from network); 18 Sep 1997 00:10:20 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 18 Sep 1997 00:10:20 -0000
+Message-Id: <Pine.GSO.3.93.970918092659.8156B-200000@extro.ucc.su.OZ.AU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

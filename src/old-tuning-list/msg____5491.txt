@@ -1,0 +1,72 @@
+source file: mills2.txt
+Date: Sat, 17 May 1997 11:47:18 +0200
+
+Subject: Ratios in JI
+
+From: Brian Lee <blee@dircon.co.uk>
+
+Pieter Smit wrote:
+
+>Would the 'natural'  scale then be in the ratios
+>1,  9/8,  5/4,  11/8,  3/2,   13/8,  7/4,  15/8,   2 
+>for the scale  CDEFGA(B-flat)Bc   ?   Do I get this right?  What would
+>this scale be called, and how would it sound ?
+
+Your scale is constructed by taking the harmonic series from 8 to 16. You
+could describe it as an Otonality scale to use Harry Partch's language. You
+could say that it has a prime limit of 13. You could say using Kathleen
+Schlesinger's term that it has a modal determinant of 8 (8 is the
+denominator of all the ratios). Then you've just about described it. But it
+certainly isn't THE natural scale. Dangerous word natural.
+
+As to what it could sound like. I can only give my subjective response. OK
+the second and the third are going to be what you expect from the Do Re Mi
+major scale, the fourth is going to sound different from what you expect
+because there's an 11 there, the eleventh harmonic. We are not used to
+hearing that note in that place and so it will sound wrong, odd, difficult.
+The next note the 3/2 is a perfect fifth. Great back to normality (in the
+sense of what I'm used to) The sixth takes you to the thirteenth harmonic,
+similar problem with 11, we're not used to it. After the 13 the 7/4 sounds
+bearable. The 15/8 is familiar territory as well and then back to the
+octave. In my listening experience, the higher the prime, the stranger the
+note or as Lou Harrison puts it in his 1970 music primer "Each new prime
+number is a new adventure."
+
+But if you take the chord from your scale 1:5:3:7 (correcting for octaves
+and ratio simplifications becomes 4:5:6:7), you've got something you can be
+quite comfortable with even though it's got that unusual bluesy 7 there.
+Most people I find can handle the newness of 7 but baulk at 11 and 13. In
+the Arabic/Turkish/Persian musical tradition however, 11s and 13s are common
+and any melody line that uses 11s or 13s as grace notes or part of a
+melismatic figure will create the image in your western listener of the
+Middle East. I can choose to support that image or to go against it.
+
+
+>What would the scale be called 
+> 1, 9/8, 5/4,  4/3,  3/2,  ......., where the fourth is tuned as a
+>perfect fifth below ?  
+
+I'd like to know how you would continue your scale. Would you replace the 13
+and 7 as well and go for a five limit scale or would you leave in the 7 as a
+bit of spice? 
+
+>Would this be the JI scale?
+No. You may be pointing to the scale that most people in the west would have
+a go at singing if asked to sing the Do Re Mi scale without the
+accompaniment of an ET instrument. But there is no one JI scale.
+
+Brian Lee
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 18 May 1997 05:12 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04818; Sun, 18 May 1997 05:12:56 +0200
+Date: Sun, 18 May 1997 05:12:56 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA04811
+Received: (qmail 347 invoked from network); 18 May 1997 03:12:52 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 18 May 1997 03:12:52 -0000
+Message-Id: <v01541100afa3c8c9dc3e@[207.207.3.140]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

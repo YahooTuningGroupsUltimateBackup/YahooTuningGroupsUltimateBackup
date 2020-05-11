@@ -1,0 +1,483 @@
+source file: mills2.txt
+Date: Sat, 16 Nov 1996 11:06:04 -0800
+
+Subject: Post from Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: mystery package
+--
+Recently a mystery package arrived in my mailbox.
+Expecting a mail bomb from the Unatuner,
+ imagine my surprise to discover....
+..That the parcel contained the very nearly complete
+text of "acoustique musicale," a French book on
+xenharmonics and acoustics from the 1950s. 
+No return address.  No letter inside. On a scale
+of 1 to 11, my puzzlement at this package scored
+somewhere above 11. Examination of the postmark,
+however, revealed that the xenharmonic cipher
+who sent this little gem was in fact Kami Rousseau.
+The book turns out to be an astoundingly rare
+item: the internal collection of the CNRS titled
+"Acoustique Musicale," from 1959.
+This is treasure, containing worthwhile articles
+which have not appeared anywhere else.  
+Thanks, Kami!
+--
+The contents of this rare volume are so 
+interesting that it seemed worthwhile to
+post my alleged and highly risible "translation"
+of the more important articles.  (One
+at a time.  One now, others later) The book
+contains articles by Jacques Chailley, 
+M. Barkechli,  Adriaan Fokker, Jacques
+Brillouin, R. Tanner, Robert Dussaut,
+P. Riety and Fritz Winckel. Chailley was
+a Sorbonne professor and director of
+the Institute of Musicology of Paris;
+Winckel was a pioneer psychoacoustician;
+Fokker rediscovered 31-tet and founded
+the Netherlands Huyghens-Fokker institute;
+R. Tanner was attached to the C.R.S.I.M.
+in Marseille and did interesting work on
+acoustics and tuning; Barkechli was the
+director-general for arts in Iran during
+the reign of the Shah, and was one of the
+few writers in the 1950s to discuss the
+contributions of Zalzal, Farabi and other
+Medieval arabic scholars to the development
+of modern intonation.
+--
+N.B.: Forum subscribers are warned that
+Your Humble E-Mail Correspondent never
+took a course in French.  So the many ludicrous
+errorsin the following muttonheaded "translation"
+are strictly *MY* fault, not the author's.
+--
+The first article is "The dynamism of scales
+and consonances in the principal acoustical
+systems and its influence on the development
+of music" by Jacques Chailley.  This is the same
+Chailley who wrote the excellent "40,000 Years
+of Music" in 1964, one of the best books on
+music history, period.
+"Of the various acoustic systems which involve
+physical considerations in some way, three
+stand out in western musical practice. Up to
+the 16th century, musical practice was primarily
+Pythagorean; from the 16th to the 18th century,
+it was based on Zarlino's work; and from that
+era to the present, on 12-tone equal temperament.
+"I. The origins of the Pythagorean intonation are
+empirical. (This is 100% backwards from the 
+reality; Aristoxenos, the chief intonational
+empiricist of ancient times, vehemently disagreed
+with the Pythagoreans and make considerable light
+of their reliance on the sacred tetraktys as the
+source of all music -- but then, no doubt my
+"translation" is hog-wild --mclaren) Clearly there's
+no truth to the tale of Pythagoras hearing blacksmith's
+hammers (John Chalmers has pointed this out, also
+why. For one thing, the anvil would ring and not the
+hammers just as the clapper does not ring rather
+than the bell.  For another thing, vibrating masses
+follow a different law of musical ratios than 
+vibrating strings-- mclaren).  Instead he established 
+the relationship between the size of the interval and
+the length of string.  Pythagoras deduced that the
+octave, the fifth and the fourth were the basis of
+all existing music. (Actually the Pythagoreans
+worshipped a numerological pyramid made of
+the number 1, 2, 3, and 4, called the tetraktys.
+M. Chailley's statement is not quite accurate,
+but close.  Either he has confused the 
+ecstatic 3-worship of Holy Trinity-influenced
+Medieval music theorists like Jean de Muris with
+Pythaogras' writings, or my ludicrous "translation"
+is to blame -- mclaren)  Pythagoras had no 
+contact with other cultures which did not use such
+intervals--such as the American Indians.
+"Concerning the list of resonances, Pythagoreans
+started their investigation at the second and
+stopped at the fourth harmonic.  They ignored,
+evidently, the harmonic principle discovered
+during the 17th century, namely that of the
+relationship between consecutive harmonics which
+transformed simultaneous consonances into
+a posteriori operation. (Hard to see what he's
+getting at here. Probably my nonexistent French
+is bamboozling me. --mclaren)  Superparticularity
+was considered the most important relationship,
+not the proximity of the sounds in a list of
+harmonics--which was ignored when the first
+frequencies were calculated. (I've probably got
+it scrambled.  The gist seems to be that absolute
+frequencies are not important but rather their
+relationships--which is to say, ratios, and
+that superparticular ratios are considered the
+most important. --mclaren) And so the 9/8
+interval is not defined as the ratio twixt
+harmonics 8 and 9, but the difference betwene
+the 3/2 fifth and the 4/3 fourth.  There was
+no consideration of the 5/4 "natural" third,
+although it was superparticular, because
+the Pythagoreans stopped their investigations
+at harmonic 4.
+"In arresting his observations at the number 4,
+Pythagoras conformed to the most primitve
+classification of consonance: category1 (unison,
+ocrtave) represents perfect consonance,
+while category 2 (fifth, fourth) consists of
+imperfect consonances.  In the melodic
+art of music, this results in a scale whose
+structure in the sound-universe of Pythagorean
+theory is based exclusively on the cycle of 
+fifths:
+(Here M. Chailley gives an unfortunately 
+misleading 5-line staff with 7 musical 
+pitches notated as the conventional 12-TET
+notes.  The naive reader might be deceived
+by this diagram into imagining that the final
+B in M. Chailley's diagram--starting pitch
+F, ending pitch after 6 just 3/2s B-- 
+corresponds to the familiar B on the piano 
+keyboard, ratio 2^[6/12] = 1.41414... or 
+600 cents. In fact, in the Pythagorean 
+tuning this pitch pitch is not the familiar B 
+above F but a pitch above F = (3/2)^6 = 
+11.390625 = 11.390625/8 = 611.73 cents.
+The difference between this "B" and the
+B on the piano keyboard is clearly audible.
+12 cents is not a subtle or indetectable
+interval.  The point here is that Mssr. 
+Chailley's diagram entirely leaves out the
+fact that in a Pythagorean tuning the
+pitches rise by 1.995 cents for each note
+prdouced by a leap of a just perfect fifth
+as compared to 12-tet. After 6 notes this
+adds up to 6*1.995 cents = about 12 cents,
+a non-trivial difference. --mclaren)
+"The system is fundamentally a succession
+of fifths producing 1, 2 and eventually all 7
+of the notes of the diatonic scale. 
+"The cycle stops at 7 notes. Chromaticism
+becomes a question of physics in the 
+continuation of the cycle of just perfect
+fifths, rather than a matter of convention
+and musical language.
+"And so Pythagorean intonation is perfectly
+suited to melody, and C-E-G-C' are perfectly
+in tune. In the middle ages western 
+music was melodic and Pythagorean  tuning
+was popular, but did not last beyond the
+16th century.  The intonation was 
+prediminantly minor, since in hexatonic
+Pythgorean tuning, the minor Pythagorean
+third is much more a point of acoustic rest
+than the Pythagorean major third, and
+the pentatonic mode was primarily used.
+(The Pythagorean major third so-called
+is usually calculated as (3/2)^4, = 81/64
+=  1.2625625 = 407.82 cents, while
+the Pythagorean minor third is usually
+calculated as the difference twixt the
+9/8 and the 4/3 or 8/9*4/3 = 32/27 =
+1.185185 = 294.1349 cents. -- mclaren)
+"As far as polyphony goes, the Pythagorean
+system was not favorable to the development 
+of triadic harmony based on its
+fundamental intervals, since perfect
+consonance was restricted to only two
+of these. It was favorable to the
+development of counterpoint in independent
+lines, where the requirement for perfect
+consonance was not great: aside
+from the unison and octave, and the
+two imperfect consonanances, it was
+a matter of indifference in which of the
+two classes (fifth or fourth) the intervals
+fell.  Practically speaking, this made for
+primitive polypohony, and throughout the
+Middle Ages polyphony was restricted
+to such counterpoint, in which all parts
+were composed so as to proceed together,
+rather than various lines in contrary motion.
+(Mssr. Chailley is alluding to fauxbourdon
+here, along with plainchant.  In fauxbordon
+an upper voice duplicates the lower at the
+interval of a just fourth, which in plainchant
+duplication at the octave was allowed -- mclaren)
+In conclusion, the Pythagorean system had
+the characteristic, that the semitones
+were enlarged compared to the other 
+intervals and were not considered proper
+consonances.  The resulting tendency was
+for very strongly consonant intervals to
+sound on the fifth, the minor third
+and the unison, the major sixth above 
+the octave, the minor sixth above the
+fifth or the fourth.
+"Plagal cadences were typical. As a result,
+Pythagorean intonation was a dynamic system,
+whose accentuation of the differences between
+intervals emphasized dissonance more than
+consonance.
+"As a result, certain pitches were often made
+more attractive by modification to their
+consonance in performance (musica falsa),
+and this was the primary function of 
+chromaticism.  Marchetto of Padua (in 
+the 16th century) used the 5/4 as a chromatic
+alteration in this manner instead of the 81/64.
+"This could be considered an early Medieval
+use of temperament.  The Pythagorean major
+third is a true dissonance, whose tendency 
+toward resolution is very strong.  Thus
+Pythagorean chromaticism represents the
+triumph of the large interval as one of
+maximum attraction. (Presumably Mssr.
+Chailley means here that the 407.8-cent
+P maj 3rd tended to resolve to the just
+3/2 701.955 cent fifth. -- mclaren)
+"Pythagorean triadic harmony was not
+consonant; the P maj 3rd was constantly
+drawn along a line of strong attraction to
+the fifth. The music of the Middle Ages
+was characterized by primitive polyphony
+and strong dynamism.
+"II. Zarlino held a contrary view.  He adopted
+the major third as a basic consnance, using
+harmonic 5 to make three fundamental
+consonances instead of 2.  (That is, 5/4
+along with 2/1 and 3/2 -- mclaren)
+"The result was that consonance was extended
+to triads, and a major third over the fundamental
+satisfied the requirements of proper sonority
+in accordance with the model of resonance. 
+(Presumably this refers obliquely to the fact
+that all the members of a just 4:5:6 chord are 
+harmonics of an unheard fundamental. Or it
+might simply refer to the fact that when
+just intonation is used, there in a noticeable
+increase in the resonance of chords played on
+instruments with strictly integer harmonics.
+-- mclaren) Harmony in the 16th century
+accreted bit by bit from counterpoint and 
+progressively deviated from a strict adherence
+to consonance.  The harmonic progressions
+did not solely rest on consonances, but did
+exhibit a constant relationship to a bass line.
+"Zarlino's system was therefore static.
+The chromaticism of Zarlino's system 
+accentuated the character of individual
+keys.  The chromatic tetrachord of the Greeks
+was identified through an error of orthogoraphy
+with a description by Boethius, instead of
+the intervals of Zarlino's system. (Eh? This
+is probably me scrambling the translation...
+--mclaren)
+"The chromaticism of Zarlino represents the 
+triumph of the small interval. (Presumably
+this refers to the fact that Zarlino's theory
+brought thirds into music as consonances and
+respectable members of chords -- mclaren)
+"Concerning melodic construction, the advent
+of Zarlino's system required the modification
+of the concept of intonational structure.  The
+hierarchy of the cycle of fifths must needs be
+finite if modulation is to be effected.  Thus,
+based on classical ideas, Zarlino's method
+effected a radical transformation.
+"Zarlino divided consonances into three
+categories.  Harmonic 7 did not fit into
+any of these; in fact, the just seventh
+was incompatible with the rest of 16th century
+theory and practice. As the seventh became
+more and more used in music through the 18th
+century, it posed grave problems as to its
+correct resolution: Rameau's theory dealt
+with this question (among others).
+"III.  It is impossible to construct a practical
+system of just intonation using only the first
+4 integers. (The organ builders of the 10th through
+15th centuries would have been greatly surprised
+to hear this.  In fact a tenth-century text
+lays out the rules in exact Pythagorean fashion:
+start with a pipe of whatever length and call
+it C, divide ito four parts and remove one--
+that's low F.  Divide the C pipe into three, 
+toss out one part, and you have the fifth above
+C or G. And so on. Duke Philip's organ designer
+Henri Arnaut, around 1450, used a slightly
+modified Pythagorean system which concentrated
+the dissonance into the interval twixt B and F-sharp.
+Under Arnaut's system, only 4 thirds out of the 12
+were consonant and the bad fifth is amazingly
+awful--a true wolf.  Nonetheless, Arnaut's system
+represented a workable compromise for the period.
+To call a system of tuning employed on organs from
+the 10th through the 15th centuries "impractical"
+tells me  Mssr. Chailley didn't do his homework
+here -- mclaren)
+"Logically, it is suitable to divide  consonances
+into four categories, the fourth accomodating
+the 7th harmonic.  This is not in accord with
+Zarlino's 3 categories of  consonances.
+"That, incidentally, is why the 7th harmonic was
+never accepted as a consonance in western 
+music. (Mssr. Chailley may be barking up the wrong
+tree here--the 7th was never accepted as a
+consonance because the interval between 
+harmonic 7 and harmonic 6 is the first interval
+in successive members of the harmonic series
+which falls within the critical band.  The reason
+is psychoacoustic, not historical. However, my
+alleged and preposterous "translation" might
+well be the culprit instead of M. Chailley -- mclaren)
+"The sounding of the chord C-E-G-B creates a
+dissonance which fails to resolve. The musican,
+in assimilating harmonic 7, creates attractive
+new intervals but cannot resolve these chords
+within the conventional western system. The
+7th harmonic does not correspond to any
+degree in the western scale; moreover, the
+resolution of seventh chords has contributed
+to the tyranny of the dominant chord.  (vii
+usually resolves to V in classical harmony --
+mclaren) In classical tonal music, the just seventh
+cannot coexist with usual melodies, and is
+only found as a suggestion in the traditional
+seventh chords.
+"IV. Pythagorean intonation is dynamic, while
+Zarlino's just triadic  harmonic intonation is static.
+Equal temperament is neither one nor the other. 
+It is a compromise, whose intervals do not partake
+entirely of either of these systems, and thus
+is a somewhat neutral system whose employment
+was spurred by the need to find a correct middle
+ground between Pythagorean intonation's excellence
+for melody and Zarlino's just intonation system's
+excellence in harmony.   Equal temperament was
+not imposed by fiat, but arose from the nature
+of the music being made.
+"The result is a certain musical ambiguity; the
+possibilitity that a given pitch may be taken
+in more than one sense.  (Das Wohltempierte
+Klavier of Bach is an example.)  
+(Well, Mssr. Chailley has fallen into the trap
+of assuming Bach wrote in 12-tet, but we
+must grant him parole for that insofar as he was
+writing around 1958.  People weren't nearly
+as aware of the use of well temperament in
+the 17t and 18th century back in the 1950s
+as they are today, largely due to the efforts
+of pioneers like Johnny Reinhard--whose 
+remarkable yearly Christmas programs of
+well-tempered Bach have detwelvulated ears
+far and wide -- mclaren)
+"Equal temperament greatly facilitated rapid
+modulation (for example, listen to
+Bach's Kleine Harmonisches Lanyrinth
+for organ) and allowed the employment of
+modern harmonies. (Presumably Mssr. Chailley
+refers also to the use of diminished, augmented
+and seventh chords, which certainly can be
+found in profusion in the music of Bach --
+mclaren)
+"Equal temperament formed the character of
+the classical epoch of music. (Alexander
+John Ellis disputes this, along with Patrizio
+Barbieri.  Both these scholars cite sources
+to prove that meantone survived on pianos 
+into the early 1840s, while in some parts
+of Europe--Italy, for instance--meantone
+was used by orchestras into the 1890s --
+mclaren)
+"By the end of the 19th century, musicians 
+had begun to explore extremes of ambiguity.
+The result was the decadence of fin-de-sicle
+tonality.  This was a neutral system: it was
+opposed to firm tonality.  Such departure
+from strict tonality led to an increasing
+dissolution of the sense of key (for
+example, Wagner, Liszt, Debussy).  This
+ambiguity led to an ensuing agressive
+negation of tonality (Schoenberg). The
+result was that any combination of
+notes was permitted.
+"Concerning melodic structure, 
+temperament proceeded in the same
+way. Temperament in and of itself
+was not opposed to the continuation of
+classical thematicism based on the
+C-E-G triad.  Moreover, with the
+rediscovery and reintroduction of
+folk melodies around the end of the
+19th century, ancient melodic structures
+based on the cycle of pure fifths revived
+in popularity.  And so some other composers
+(Debussy, Bartok, Stravinsky, etc.)
+renewed the thematic structure of music
+by using harmonies based on primitive
+categories of consonance divided into
+only 2 classes, highly consonant, and highly
+dissonant. (This is an interesting point and
+one which I've not seen made before. --mclaren)
+"To conclude, equal temperament provided the
+necessary conditions (but not sufficient conditions)
+for dodecaphonic music. (12-tone serialism,
+presumably -- mclaren) Temperament was
+definitely an acoustic compromise and marked
+the starting point of theoretical department from
+historical precendents.  Once introduced, it was
+not possible to retain the resonance principle
+(i.e., Rameau's doctrine that a major chord is
+based on integer multiples of an unheard
+fundamental -- mclaren) and thus there was
+successively greater departure from Pythagorean
+models. In the absence of consonances typical
+of that system, sounds tends to devolve into
+chord-complexes without acoustical rationale,
+and this led to new concepts of musical
+organization (musique concrete, electronic music,
+etc.) as well as serial music (Boulez, Barraque,
+Stockhausen, etc.) This evolution would have
+been impossible without the initial confusion
+introduced by equal temperament.
+CONCLUSION
+"The historical change in music from acoustic
+systems to different ones non-acoustic
+in nature was not an accident, but a 
+continuation of historical practice which
+began with the study of acoustical phenomena.
+"The essential elements of this evolution were
+in place when a language of music and a method of
+writing down music emerged."  M. Chailley,
+circa 1958 (?)
+(There is no date visible anywhere in the xerox
+which was mailed to me, other than circumstantial
+evidence from the dates of the citations.  The latest
+citations appear to be 1957, so presumably "Acoustique
+Musicale" dates from 1958-1960 or thereabouts.)
+Thanks again, Kami.  Sorry about the ludicrously
+bad alleged "translation" but, hey...to me, "Prelude a l'apres
+midi d'une faun" means "Prelude to an after ski dune faun.")
+--mclaren
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 16 Nov 1996 21:29 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14394; Sat, 16 Nov 1996 21:30:42 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA14346
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA11935; Sat, 16 Nov 1996 12:30:39 -0800
+Date: Sat, 16 Nov 1996 12:30:39 -0800
+Message-Id: <199611161530_MC1-C06-32E7@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

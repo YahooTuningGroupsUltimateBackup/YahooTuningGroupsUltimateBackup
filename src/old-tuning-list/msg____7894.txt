@@ -1,0 +1,24 @@
+source file: m1424.txt
+Date: Fri, 22 May 1998 12:19:06 -0500
+
+Subject: FFT resolution
+
+From: sethares@eceserv0.ece.wisc.edu (William Sethares)
+
+Recently, Dave Hill wrote:
+
+>I used an autocorrelation technique to track frequency...
+Then, using a frequency vs. time basis line... I added empirically 
+calibrated error correction modifications... If the results of my work 
+would be of significant value to a researcher or researchers in the 
+field, I would like to make my programs &c. available to them. 
+
+Perhaps even more useful than resurrecting your programs, could 
+you describe in a bit more detail the methods you used? I am 
+particularly interested in techniques for getting better resolution (in 
+terms of frequency) than the FFT can provide when using a "small" 
+window of data.
+
+Thanks,
+
+Bill Sethares

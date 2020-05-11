@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Thu, 13 Jun 1996 03:53:31 -0700
+
+Subject: RE: Scala version 1.0 available now
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+On 12 Feb 1996 Manuel Op de Coul wrote:
+> Several people have asked me to support the Midiator interface made
+> by Key Electronics and I feel a bit now like I am letting them down,
+> so does anyone know of a MIDI-file player program for it that
+> runs under DOS?
+
+I can answer myself now, there is one called Gsplay 1.0 that supports
+a variety of MIDI-interfaces including the above one.
+The Gsplay homepage is at
+http://www.cis.ohio-state.edu/~fontana/gsplay/
+It is freeware and can be downloaded from that page. It looks good and 
+has many features.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 13 Jun 1996 19:07 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA14210; Thu, 13 Jun 1996 10:07:15 -0700
+Date: Thu, 13 Jun 1996 10:07:15 -0700
+Message-Id: <95960613170259/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

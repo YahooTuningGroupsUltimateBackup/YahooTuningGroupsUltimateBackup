@@ -1,0 +1,52 @@
+source file: mills3.txt
+Date: Mon, 12 Jan 1998 04:42:30 +0100
+
+Subject: Re: MIDI/Audio wish list
+
+From: Jazzizjazz <Jazzizjazz@aol.com>
+
+On Thu, 8 Jan 1998 00:09:46 -060, "jloffink" wrote:
+
+>Building tunings into "Partials", Keygroups or Zones is tedious and
+>wasteful effort in my opinion...doing it that way virtually hard codes the
+>tuning into the sample set and increases your memory requirements
+>exponentially...
+
+Acknowledging these very valid and important points, I have nevertheless :-)
+written a proof-of-concept program to do just this for the AWE32/64 (SoundFont
+2.0 banks) in Visual Basic for Win95.  Octave-based, 12-tone-only, as the
+purpose was to explore historical keyboard tunings.  I'd be interested to
+discuss (off the list, if that would be more appropriate) issues and ideas
+concerning this approach with others of like mind.
+
+Dave Fisher Rybarczyk
+jazzizjazz@aol.com
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Patrick Ozzard-Low" <patrick.ozzard-low.itex@norfolk.gov.uk>
+Subject:  MIDI/Audio wish list
+PostedDate:  12-01-98 15:09:52
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  12-01-98 15:09:17-12-01-98 15:09:17,12-01-98 15:09:06-12-01-98 15:09:07
+DeliveredDate:  12-01-98 15:09:07
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658A.004DBFE7; Mon, 12 Jan 1998 15:09:42 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10851; Mon, 12 Jan 1998 15:09:52 +0100
+Date: Mon, 12 Jan 1998 15:09:52 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA10880
+Received: (qmail 20062 invoked from network); 12 Jan 1998 06:08:27 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Jan 1998 06:08:27 -0800
+Message-Id: <199801121400.OAA12432@imail.norfolk.gov.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,88 @@
+source file: mills2.txt
+Date: Fri, 6 Dec 1996 06:31:59 -0800
+
+Subject: Crying "wolf".
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Joe Downing wrote:
+> By the way: In Just Intonation, how do you avoid a wolf in a 
+> progression like the following: I V I  vi ii V I?  I think you have 
+> to choose between a wolf and a comma slip, and I generally prefer 
+> the former.
+
+and Gary Morrison replied:
+> Orrrr...  Let the tonic wander.  (Some of you probably guessed that 
+> was coming, eh?)
+
+I'd like to deal with two points arising from this exchange: in this 
+message the application of the term "wolf", and then, when I have time 
+to write another message, the issue of wandering tonics in JI.
+
+The term "wolf" has long been applied to diminished sixths which 
+appear on a 12-note-per-octave keyboard as fifths. The usage goes back 
+at least as far as Schlick's *Spiegel* (1511): if the keyboard was tuned  
+from Eb to G# (irrespective of whether the tuning chosen was 
+Pythagorean, meantone or Schlick's own irregular temperament), then the 
+interval G# to Eb, when the G# was unhappily pressed into service as an 
+Ab, would constitute the wolf "fifth"; it was up to the keyboard player 
+to avoid a sustained wolf by means of decoration, permitting tritones 
+that singers would avoid, or ad hoc ficta adjustments. The number of 
+notes per octave is not the cause of the problem, which will always 
+reappear in any tuning or temperament that is not closed (closed being 
+12TET or the various 18th-century irregular well-tempered systems: to 
+"well-temper" was simply to remove the wolf). In much music c.1500 the 
+wolf, even on a 12-note keyboard didn't necessarily constitute a great 
+problem, at least for the clavichord: if the piece to be played included 
+a G#, all was well; if it included an Ab, then the G#s could all be 
+retuned within a minute or two by conscientious players. The need for 
+both G# and Ab did not arise so often as to defeat the measures I have 
+mentioned above (the same problems and solutions were present for C# 
+versus Db etc.).
+
+Now here is the point: a JI keyboard, such as Zarlino envisaged, would 
+also contain a wolf: i.e. a diminished sixth which the unwary player 
+might call upon to serve as a perfect fifth. But in addition to this, it 
+would contain a 40/27 -- a perfect fifth less a syntonic comma. Without 
+dividing the lower rank of keys -- i.e. our white keys today -- this 
+would appear between D and A if the Ptolemy sequence was chosen as the 
+basis of the tuning (as Zarlino wished). Leaving aside the question of 
+whether a JI keyboard is practicable (I would certainly say it isn't, 
+and that 1/4-comma meantone is the practical keyboard equivalent of 
+5-limit JI), we are left with a terminology problem: we have two 
+varieties of interval which are not what they seem from the layout of 
+the keyboard, namely the 40/27 and the diminished sixth (192/125).
+
+Do we really want to use the same term "wolf" for these two very 
+different intervals? The 40/27 is a syntonic comma flat of a 3/2 perfect 
+fifth, while a 5-limit diminished sixth is 41 cents _sharp_ of a 3/2. To 
+complicate matters further, the established usage of wolf for a 
+diminished sixth in any open tuning/temperament allows it to be applied 
+legitimately to a range of intervals: e.g. the 3-limit diminished sixth 
+is 262144/177147, a Pythagorean comma _flat_ of a 3/2. So even leaving 
+aside meantone and its relatives, and various open irregular 
+temperaments used in the 16th and 17th centuries, we have a 5-limit wolf 
+41 cents sharp of 3/2 and a 3-limit wolf 21.5 cents flat of 3/2.
+
+Dressing up a 40/27 in wolves' clothing, however many recent precedents 
+can be adduced, therefore seems a recipe for irretrievable theoretical 
+confusion.
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Dec 1996 15:48 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01830; Fri, 6 Dec 1996 15:50:48 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01833
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id GAA17779; Fri, 6 Dec 1996 06:50:45 -0800
+Date: Fri, 6 Dec 1996 06:50:45 -0800
+Message-Id: <199612061449.XAA00821@judy.sfc.keio.ac.jp>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Tue, 19 Mar 1996 09:55:54 -0800
+
+Subject: calculating cents for ratios
+
+From: Phil Burk <phil@3do.com>
+
+John writes:
+> Of course, if one is using JI, then simply memorizing the
+cent values ofa small set of key intervals such as 3/2,
+5/4, 7/4, 11/8, 13/8, etc. would be sufficient.
+
+I don't read this list all the time so forgive me if someone has
+already written about this.......
+
+Since cents are logarithmic, for JI, one perform division by
+subtracting cents.  Thus one need only keep a table
+of the cent values for the prime integers.  To calculate
+the cents value for a ratio, just subtract the cents for the
+denominator from the numerator.
+
+1 --    0
+2 -- 1200
+3 -- 1902
+4 -- 2400
+5 -- 2786
+
+So for cents for 3/2 = 1902 - 1200 = 702
+
+The same principle applies for pitch bend because it is
+also logarithmic.  I use this trick in a relative intonation
+score entry system in HMSL to rapidly calculate pitch bend
+values for ratios without using transcendentals.
+
+Phil Burk
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 19 Mar 1996 23:28 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id OAA18765; Tue, 19 Mar 1996 14:27:54 -0800
+Date: Tue, 19 Mar 1996 14:27:54 -0800
+Message-Id: <1BAE3F22D1@rice.houstonisd.k12.tx.us>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

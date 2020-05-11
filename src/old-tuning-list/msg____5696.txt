@@ -1,0 +1,31 @@
+source file: mills2.txt
+Date: Fri, 27 Jun 1997 03:54:12 +0200
+
+Subject: Microtonal Synthesis Web Site
+
+From: "jloffink" <jloffink@pdq.net>
+
+I have a web site which attempts to list all synthesizers, samplers, sound
+cards and software synthesizers capable of user programmable microtonal
+scales, along with some of their features.  Music for recommended listening
+is also given.  The site is located at:
+
+http://www.homefree.net/cgi-shl/dbml.exe?templateomefree/view.dbm&pageid7972
+
+Comments are welcome.
+
+John Loffink
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 27 Jun 1997 08:32 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28001; Fri, 27 Jun 1997 08:32:19 +0200
+Date: Fri, 27 Jun 1997 08:32:19 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA28019
+Received: (qmail 17750 invoked from network); 27 Jun 1997 06:31:35 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 27 Jun 1997 06:31:35 -0000
+Message-Id: <v01541100afd8b9ee4899@[207.207.2.23]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

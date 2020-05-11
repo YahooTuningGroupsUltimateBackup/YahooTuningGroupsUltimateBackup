@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Sat, 7 Sep 1996 12:34:42 -0700
+
+Subject: Re: 4:5:6:7 in Authentic Cadence
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Somebody asked:
+>    I may be mistaken here, but I think that authentic cadences aren't 
+> terribly common in barbershop style.
+> 
+> Gary,what is an "authentic cadence" ?
+
+   I started to answer that question with a series of dreadful textbookish
+definitions, but the answer would almost certainly clearer by example.  
+
+   In the key of C major, an authentic cadence is the chord progression from the
+chord GBDF to CEG.  In C minor, it would be GBDF to CEbG.  
+
+   That is as opposed to a plagal cadence (for example) which in C major is FAC
+to CEG, or FAbC to CEbG in C minor.  Or as opposed to (probably) the most common
+form of deceptive cadence:  GBDF to ACE.  
+
+   Obviously you can transpose those progressions into whatever key you'd like.
+
+   That progression (the authentic cadence) is extremely common in Western music
+as a whole, but I seem to recall - again, perhaps incorrectly - that virtually
+all chords in barbershop work are (dominant) seventh chords.  In that case you
+would not technically have an authentic cadence, since the tonic chord would be
+a seventh chord.  (That could be used as a fragment of a chain of secondary
+dominants, but perhaps I ought not get into that.)
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 7 Sep 1996 22:16 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA27263; Sat, 7 Sep 1996 22:17:50 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA27109
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA27752; Sat, 7 Sep 1996 13:17:45 -0700
+Date: Sat, 7 Sep 1996 13:17:45 -0700
+Message-Id: <v02130501ae5792fe6a98@[128.32.122.236]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

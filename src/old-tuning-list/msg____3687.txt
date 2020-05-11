@@ -1,0 +1,214 @@
+source file: mills2.txt
+Date: Fri, 27 Sep 1996 11:54:30 -0700
+
+Subject: RE: More on spacing: response to PAULE
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+I am going to respond to this as I read it, so this won't be a perfectly 
+formulated reply. I will post the derivation of my tonalness algorithm 
+seperately, as it is mathematically painful and will be difficult to notate 
+in ASCII.
+
+A general remark: The central pitch processor is the mechanism by which we 
+perceive a set of harmonic partials as a single note -- the virtual pitch -- 
+with an associated timbre. Just about any instrument in the symphony 
+orchestra serves as a perfect example. Whether this process is inborn or 
+acquired, some claim prenatally, is a matter of debate. Its existence is 
+not.
+
+>how is
+>it that you are able to decide that sine waves are "distinguished and
+>digestable" when described in harmonic context but suddenly not so when
+>renotated as subharmonic?
+
+A large or infinite harmonic series of sine waves will be interpreted by the 
+central pitch processor as a single complex tone, having a clear 
+fundamental. All combination tones of the sine waves will fall into this 
+same harmonic series, reinforcing the sensation. A large subharmonic series 
+will confuse the central pitch processor, as each pair of tones implies a 
+different fundamental. Often the perfect fifth will win out due to its 
+importance in defining the virtual pitch. The combination tones of the 
+subharmonic series will not conform to the subharmonic series; in the case 
+of an large subharmonic series, they will fill up nearly all of pitch space, 
+confusing the central pitch processor further and creating lots of 
+roughness.
+
+>(2) Or do you define as subharmonic any complex without 2^n as the lowest
+>member?
+
+No. A subharmonic complex is one whose relative periods can be expressed 
+with smaller integers than the relative frequencies. Clearly there is no 
+distinction for two-note complexes.
+
+>A spacing theory would compare the notations to determine which
+>characterization is more likely (if neither is, then the neutral
+>characterization is chosen).
+
+Yes, I agree -- if roughness between harmonic partials comes into play. For 
+sine waves, the subharmonic representaion is irrelevant.
+
+>Your algorithm - and I do wish to examine it
+>in detail - strikes me as a root direction theory (and more in the
+>Hindemith than in the Rameau direction).
+
+Yes, I believe it partially is that. I have found that there are already 
+successful algorithms for computing the roughness (Plomp & Levelt) aspect of 
+consonance (K&K, for example). However, I did not come across any algorithms 
+that applied the root-finding function of the central pitch processor to 
+chords in a mathematically consistent way, and tonalness -- or clearness of 
+root perception -- is the other component of consonance. So I put such an 
+algorithm together, and it's a total idealization, but is intended to be a 
+good approximation as long as some partials fall within the optimal 
+frequency range for the central pitch processor. Given more psychoacoustical 
+data, such as how the resolution of the central pitch processor varies for a 
+given set of frequencies and amplitudes, the algorithm can be easily made 
+more flexible.
+
+>(3) You cite several psychoacoutistical certainties in support of your
+>algorithm, I am especially curious to learn of experimental results
+>supporting (a) "in a purely psychoacoustical sense, a chord played will
+>evoke certain interpretations in terms of the harmonic series"; this may be
+>what your algorithm tells me, and is a conjecture that I would like to
+>support, but I would like to find experimental evidence in this direction
+>(and I have encountered evidence to the contrary: see Boomsliter and Creel
+>on the 7th partial);
+
+My musical experience certainly differs from this; for example, how do you 
+explain the fact that a 5:6:7 diminished triad evokes the missing root of 
+the dominant seventh chord, if not for the importance of the 7th partial? 
+Terhardt has done much work in this area as well.
+
+>(b) "the ears central pitch processor simply doesnt
+>go that far"; I am completely confused by this: what do you mean by
+>"central pitch processor", and how far, exactly does it go? The harmonic
+>progression I presented, and its Pythagorean interpretation are simply too
+>obiquitous to be dismissed in this way.
+
+You yourself stated that the fundamental of a harmonic relationship can't be 
+too low in pitch for the relationship to be perceived; even with that 
+simplistic a model, how can you expect 54:64:81 to be perceived as such, and 
+with what root?
+
+>(4) The sequential procedure would be something like the following: given
+>the complex 500 Hz,
+>600 Hz 750 Hz, the first ratio interpreted would be the 3/2 fifth of
+>750/500, the initial interpretation would be 3/2 in a harmonic series over
+>fundamental 250Hz; however, not finding an intermediate tone between 2 and
+>3,  successive fifths in the series are scanned to find a similar complex,
+>examining each n(2,3) until an intermediate tone is located that matches
+>the complex. When, for example 10,12,15 over a fundamental of 50 Hz is
+>selected, then it is compared with its subharmonic notation /6,/5,/4. If
+>this characterization is more simple, then it is chosen.
+
+Once again, there is no psychacoustic mechanism by which subharmonic 
+relationships of sine waves can be heard!
+
+>(Need I add the
+>fact that the difference tones of this complex are all within the spectrum
+>of 50 Hz?
+
+And this supports which interpretation, pray tell?
+
+>That certain tuning
+>systems, temperaments among them, may map onto harmonic series is probably
+>true, but it requires a definition of intervallic tolerance that seems to
+>me to be musically (i.e. culturally, and thus limited to particular times
+>and places) defined, and probably outside of the domain of psychoacoustics
+>proper:
+
+I disagree. The definitions of intervallic tolerance are nothing more and 
+nothing less than a charcterization of the psychoacoustic phenomena which 
+distinguish just intervals -- namely, consonance. This is subdivided into 
+roughness, whose tolerance has to do with critical bands and beating; and 
+tonalness, whose tolerance has to do with the precision with which frequency 
+information is transmitted to the central pitch processor. You are correct 
+that both aspects are not independent of amplitude and duration, but that 
+just means that an algorithm such as mine would ideally have to take these 
+things into account. In principle, it is still the right way of looking at 
+things.
+
+>Your statement _the ear doesnt continue its harmonic series math from
+>one chord to the next_ is unsupported, and probably unsupportable.
+
+I did not mean for it to be taken in such a strong sense. Clearly there are 
+strong elements of commonality between one chord and the next when their 
+relationship is a simple one; the dominant-to-tonic progression is a case in 
+point. And clearly the central pitch processor can extract some information 
+on virtual pitch from non-simultaneous tones -- the virtual pitch mechanism 
+is not dependent on phenomena associated with exact simultaneity, such as 
+difference tones. But while the difference between a 9:8 and a 10:9 is easy 
+to perceive harmonically, when these intervals represent the melodic 
+intervals between the roots of non-adjacent chords in a progression, the 
+difference comes down to how the progressions are handled on paper.
+
+>(7) I cannot resist a few more remarks on the subharmonic. First, although
+>for musical purposes we never need get past fairly small numbers, while
+>every harmonic complex  may be renotated as subharmonic and vice versa, due
+>to one of those nice paradoxes in the fundamentals of mathematics - and
+>beyond my ability to explain - the number of members in the harmonic series
+>is greater than that in the subharmonic series.
+
+What does this sentence mean? And I have a good knowledge of mathematics, 
+fundamental and otherwise -- what on earth are you talking about?
+
+>Second, the _descent to the
+>infinitesimal_ represents to me a series of increasingly complex - indeed,
+>counterintuitive - calculations, hence my speculation about increased
+>mental activity. The ascription of quantum effects to the infinitesimal
+>comes from the intuitionist C. Hennix, resident mathematician at the
+>Institute for Psychoanalysis in Paris;
+
+Is this in a context relevant to music, or any other real-world 
+applications? I'll bet my hat it's pseudo-scientific drivel.
+
+>Third, musical examples of the
+>subharmonic are readily available in the repertoire, cf Martin Vogels book
+>on the _Tristan_ chord, or this little example from the Rondo K.494, m
+>164-165, where the left hand sustains for two measures the chord c4 d4 f4
+>ab4, which moves (does not resolve) to c4 f4 a4, i.e subharmonic seventh
+>chord from c moving to f major 6-4. Mozart uses this chord, here and
+>elsewhere, in a voice leading distinctive from his use of diminished and
+>dominant seventh chords. By my spacing characterization, the fourth c-f
+>would be too important to overlook, and the traditional (in American
+>practice) _half diminished_ description seems not very useful.  If this
+>were in just intonation, I would choose a subharmonic characterization /8
+>/7 /6 /5 over the harmonic 105 120 140 175.  I am curious to learn how
+>Pauls algorithm will interpret this chord (16 18 21 26? or 24 27 32 38?).
+
+I strongly agree that subharmonic characterizations can be useful in musical 
+practice and to the future development of music. But the essence of this 
+characterization lies in the partials, which acheive minimum roughness when 
+the fundamentals are arranged in _either_ a harmonic or a subharmonic 
+series. My algorithm deals not with roughness but with tonalness, and 
+ascribes no harmonic interpretation of c4 d4 f4 ab4 more than a negligible 
+amount of certainty. For a coarse enough frequency resolution, 9:10:12:14 
+would win out, but still by a negligible amount. Both the 3:4 interpretation 
+of c4 f4 and the 5:8 interpretation of c4 ab4 will be more powerful; 
+therefore the chord will not be heard as a single harmonic complex.
+
+Let me reiterate my view of the equal-tempered minor triad with harmonic 
+partials. I would tend to characterize it as a subharmonic complex, since 
+(a) the level of roughness is similar to that of a major triad, and thus a 
+near-local-minimum, due to the individual intervals being close to 3:2, 5:4, 
+and 6:5 and (b) several possible harmonic representations accodring to my 
+algorithm (10:12:15, 16:19:24) lead to essentially the same interpretation: 
+that of a perfect fifth with an added non-harmonic note. Since the exact 
+numbers in (a) are clearly more important than the exact numbers in (b), the 
+former should be included in an overarching representation, thus: 
+1/6:1/5:1/4. If a chord has favorable roughness characteristics but only 
+tolerable tonalness characteristics, it just might be a subharmonic complex.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 27 Sep 1996 22:39 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02198; Fri, 27 Sep 1996 22:39:33 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA02799
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA00329; Fri, 27 Sep 1996 13:39:32 -0700
+Date: Fri, 27 Sep 1996 13:39:32 -0700
+Message-Id: <22960927203522/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,24 @@
+source file: m1406.txt
+Date: Tue, 5 May 1998 14:10:51 -0400
+
+Subject: RE: Reply to Paul Hahn
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>(a) I wish to go beyond basic (level 1) consistency because it is
+>possible for an ET to be level 1 consistent and still err from a given
+>just ratio by nearly half the stepsize of the ET.  An extreme example:
+>18TET is consistent to the 7-limit, but its 11-step "fifth" is only
+>barely better as an approximation to the 3/2 than its 10-step interval.
+>One is over 31 cents high, the other more than 35 cents low; the
+>difference between the two errors is less than four cents! 
+
+That's a good reason, but it would seem highly unlikely that the most
+appropriate consistency level for this purpose would turn out to be an
+integer, unless you had particular composite ratios in mind that you
+care about representing consistently. It was the ratios of large
+composite numbers I was objecting to, since treating them more carefully
+than ratios of numbers with larger prime factors, even if the latter
+numbers are smaller than the former ones, is something that those who
+believe in prime characteristics will advocate, but I find no
+justification for.

@@ -1,0 +1,71 @@
+source file: mills3.txt
+Date: Sat, 16 Aug 1997 19:19:27 +0200
+
+Subject: Re: S. Commas and Quartertones
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Gary Morrison wrote:
+
+>    Then again, I agree with you [Paul Rapoport] that "quartertone"
+> should be limited to specific pitch distance of 50 cents.
+
+This is not what Paul seemed to be saying: he left the size of the tone
+open, but required that the quarter tones be genuine fourth roots. As
+I've said before, I can't agree with either: the interval of a
+"quartertone" is sometimes correlated with a frequency ratio of
+2^(1/24)/1, as in Vischnegradskij, but is more often left unspecified,
+as with "semitone" and "tone". Like the latter it is a term belonging to
+the phenomenal domain of pitch relations, rather than the acoustic
+domain of frequency ratios (which is where the syntonic comma belongs,
+as you appear to agree). There is no universal one-to-one mapping from
+the domain of pitch relations to the range of frequency ratios;
+sometimes such a mapping is specified (e.g. Ben Johnston) or implicit
+(Vishnegradskij), sometimes the mapping is one-to-two (as in the tunings
+c.1400 which incorporate both Pythagorean and quasi-just imperfect
+consonances), but by far most often, the mapping from pitch relations to
+frequency ratios is simply left open -- no single tuning system is
+required for the realisation of a given score. Quarter-tone notation is
+used freely and flexibly by many composers of non-keyboard based
+instrumental music today, and their notation shares the functional
+distinctions of semitone notation (i.e. signs for both 1/4-tone sharp
+and 3/4-tone flat are employed, and likewise 1/4-tone flat and 3/4-tone
+sharp). Are we to say that all string-quartet composers, from Barto'k to
+Ferneyhough, who have used quartertone notation were demanding a strict
+12TET environment for their quartertones? Any case you construct for
+mapping quartertones to 50 cents will also map semitones to 100 cents
+and so on, but the term "semitone" has generally been used without any
+such specification in mind -- indeed it was used freely by many
+mediaeval theorists who explicitly discounted the bisection of the tone;
+for them, semitone, was an umbrella term for limmas and apotomes.
+
+Jonathan Walker
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  non12@deltanet.com
+Subject:  Info sought on recordings
+PostedDate:  16-08-97 21:13:12
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  16-08-97 21:13:18-16-08-97 21:13:19,16-08-97 21:11:25-16-08-97 21:11:25
+DeliveredDate:  16-08-97 21:11:25
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564F5.006992F6; Sat, 16 Aug 1997 21:13:09 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31973; Sat, 16 Aug 1997 21:13:12 +0200
+Date: Sat, 16 Aug 1997 21:13:12 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA31971
+Received: (qmail 7150 invoked from network); 16 Aug 1997 19:04:50 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 Aug 1997 19:04:50 -0000
+Message-Id: <Pine.SCO.3.96.970816115005.7606A-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

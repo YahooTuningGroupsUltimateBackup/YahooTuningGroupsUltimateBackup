@@ -1,0 +1,31 @@
+source file: mills2.txt
+Date: Mon, 9 Oct 1995 20:04:06 -0700
+
+Subject: midi files
+
+From: marcus@fa.disney.com
+
+Anybody have any portable MIDI file code, for reading/writing MIDI files?
+
+(UNIX platform preferred)
+
+(I realize that this isn't completely tuning related, but
+perhaps some of you are programmers and have used C to manipulate MIDI)
+
+Thanks,
+Marcus
+                   
+
+Marcus Warren Hobbs |    marcus@fa.disney.com     |     (818) 560-8332
+Walt Disney Feature Animation, Computer Generated Imagery.
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 10 Oct 1995 11:23 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id CAA18509; Tue, 10 Oct 1995 02:22:55 -0700
+Date: Tue, 10 Oct 1995 02:22:55 -0700
+Message-Id: <00997A8AFA59FECF.48B8@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

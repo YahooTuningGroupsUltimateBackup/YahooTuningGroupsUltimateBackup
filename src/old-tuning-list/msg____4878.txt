@@ -1,0 +1,88 @@
+source file: mills2.txt
+Date: Mon, 24 Feb 1997 18:01:10 -0800
+
+Subject: Re: Reply to Matt Nathan
+
+From: alves@Orion.AC.HMC.Edu (Bill Alves)
+
+While there are a lot of interesting issues that have been raised in this
+exchange, I would specifically like to respond to the one about historical
+precedence of tuning models for the diatonic scale.
+
+PAULE wrote:
+
+>I think the diatonic scale long predated the discovery of 5-limit harmony in
+>most cultures (India is a possible exception, though only 3-limit
+>consonances are mentioned in the original texts). It was constructed from
+>melodic considerations only, which means that ratios beyond the 3-limit are
+>of negligible importance. Ascribing 5-limit ratios to the diatonic scale is
+>in most cases, as I have said before, a historico-geographic fallacy, and a
+>very Eurocentric one at that.
+>
+>It must be said, though it partially supports Matt's viewpoint, that many
+>cultures (the West, India, Arabia) seem to have discovered the 5-limit
+>relations through their SCHISMATIC, not SYNTONIC, approximations. It seems
+>that Pythagorean tuning was extremely well developed long before any
+>theoretical understanding of the 5-limit came about.
+>
+Dan Wolf talked some about the distinction between theory and practice, and
+I think it's a crucial distinction. First, when does a culture NEED a
+precisely defined, standardized tuning system? Several possible answers
+occur to me (though there may be others): 1) when it is desirable for
+several fixed-pitch instruments to play together (the definition of
+"fixed-pitch" may be a gray area, I know), 2) when there are instruments
+with frets or a single sounding body per pitch (even then they don't
+necessarily have to be standardized), 3) when there is an important
+numerological justification.
+
+Many cultures don't meet any of these criteria. Even those for whom #3 is
+important, such as India, China, Persia, and (sometimes) ancient Greece,
+there's often no evidence that these mathematical constructs had any
+relationship to practice. Lacking that evidence, the possibility arises
+that so-called Pythagorean tuning was invented as a way of describing
+musical systems already in practice. While it's possible to derive scales
+purely mathematically, I am skeptical that most scales, including the
+diatonic, were initiated this way.
+
+Perhaps scales evolve intuitively, though that intuition may be based on
+mathematical models that may not be verbalized by the musician. (Thus the
+octave is virtually universal, but musicians may not be aware that its
+significance derives from its closeness to 2:1). Overblown fifths, small
+number ratios, Pythagorean cycles, tendency towards equal step sizes, these
+are all possible models for an (originally) unspoken basis for the diatonic
+scale. If that's the case, I don't think it's possible to say for sure
+which is correct from a historical point of view.
+
+When dealing with non-fixed-pitch instruments, we are in even more trouble.
+The deviations from a theoretical standard tuning system of a melodic line
+sung by a voice alone or played on a bamboo flute alone can easily approach
+the syntonic comma. Oh, I know, some of this may just be bad musicianship,
+but I still think it's very problematic to derive a precise tuning system
+from such music. Indian sources, it's true, give elaborate tuning
+instructions for the vina, but nearly all of them, back to the vedas,
+ascribe primacy to the human voice.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)621-8360 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 25 Feb 1997 18:26 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA16881; Tue, 25 Feb 1997 18:26:20 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA16882
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id JAA10721; Tue, 25 Feb 1997 09:13:56 -0800
+Date: Tue, 25 Feb 1997 09:13:56 -0800
+Message-Id: <009B06CFCD89BA6A.638D@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

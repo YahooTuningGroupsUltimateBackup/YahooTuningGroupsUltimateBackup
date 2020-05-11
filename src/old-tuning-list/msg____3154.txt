@@ -1,0 +1,40 @@
+source file: mills2.txt
+Date: Thu, 4 Jul 1996 13:09:34 -0700
+
+Subject: Re: Post from McLaren
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+As for whether more tones have subharmonics than don't...  Well, I suppose
+that may depend on whether you're counting notes available on each unique
+instrument type, or notes present in existing repertoire.  Or maybe there isn't
+really all THAT much disparity between the two.  
+
+   I based my statement that more musical tones in the orchestra have
+subharmonics than don't, upon the what I saw in my (roughly 300-tone) test suite
+for my program.  It contained typically about 20 notes across the range of each
+instrument in the usual orchestra, and other instruments.  So the orchestral
+strings appeared as 4 of 15 or so instruments in the test suite.  Counting them
+that way, certainly more have subharmonics than don't, from what I saw.
+
+   But I suppose one could argue something along the lines that:
+1.  There is more repertoire for strings than for winds.  
+2.  There are more stringed instruments - even orchestral ones - out there 
+    than just violins, violas, 'celli, and basses.
+3.  Although the strings represent only four instrument types of instruments,
+    the orchestra nevertheless contains more chairs for more strings than for 
+    winds.  
+Arguing from those perspectives, I suppose the question becomes harder to
+quantify.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 5 Jul 1996 00:40 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA23487; Thu, 4 Jul 1996 15:40:56 -0700
+Date: Thu, 4 Jul 1996 15:40:56 -0700
+Message-Id: <199607042238.AA07958@felix.dircon.co.uk>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

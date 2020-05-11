@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Sat, 22 Mar 1997 10:31:37 -0800
+
+Subject: Limits (Paul E)
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+For a reference on Euler-Fokker genera, see Fokker, Adriaan D. 1975. _New 
+Music with 31 Notes._ Verlag fur systematische Musikwissenschaft GmbH, Bonn.
+
+The prime limit definition should NOT be the default, despite its utility in 
+describing a tuning system. The odd limit definition is not intended to 
+describe a tuning system; it is intended to describe musical practice. 
+Despite what Jonathan Walker said, one does not consider music in 
+Pythagorean tuning to be a  531441-limit system under the odd definition of 
+limit. Even under Partch's own (odd) definition, Partch's music was 
+11-limit, not 33-limit nor some product of powers of numbers through 11. 
+Partch listened carefully and came up with the most useful definition for 
+the ear and for musical practice, not for studying the mathematics of tuning 
+systems.
+
+The definition is: A piece of music is N-limit if all intervals whose 
+(heard) rational approximations use odd numbers up to N, and all chords 
+containing only such intervals, are considered consonant, while intervals 
+which cannot be so approximated, or any chord containg at least one such 
+interval, are considered dissonant. In other words, it's how high up the 
+harmonic series (or how far down the subharmonic series) the ear is asked to 
+go in a particular piece.
+
+So with a few caveats (such as second-inversion triads) common-practice 
+music is 5-limit. The difference between the prime and odd definitions 
+really shows up at the first composite odd number, 9. As Dan Wolf and I have 
+pointed out before, there can be a very real difference between 7-limit 
+music, where 9 is only possible as 3*3, and 9-limit music, where 9 is 
+independently available as a harmonic building block.
+
+I'm sure I could have said some things better here, I look forward to 
+discussing more because this is an important issue!
+
+ -Paul E.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 22 Mar 1997 19:42 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08839; Sat, 22 Mar 1997 19:42:52 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08828
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA21646; Sat, 22 Mar 1997 10:41:09 -0800
+Date: Sat, 22 Mar 1997 10:41:09 -0800
+Message-Id: <199703221338_MC2-1325-9112@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

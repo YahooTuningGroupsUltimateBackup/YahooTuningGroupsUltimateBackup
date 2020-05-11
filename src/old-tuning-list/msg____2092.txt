@@ -1,0 +1,77 @@
+source file: mills2.txt
+Date: Mon, 2 Oct 1995 19:12:41 -0700
+
+Subject: 88CET #15:  Let's Get Musical
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+I thought I sent this one out a couple days ago, but it seems to have gotten
+lost in the ether somewhere.  Forgive me if you've already seen it.  
+
+   Until now in this series of postings, I've dealt mostly with nuts and bolts
+of 88CET:  basic resources, notation systems, and pragmatic considerations of
+mere existence in a nonoctave world.  Now it's time to start moving a bit closer
+to actual composition.  
+
+   First of all, as I'll explain in later postings, you actually can produce
+traditional harmony in 88CET, despite its utterly alien nature.  But for now,
+I'll concentrate on the underlying considerations of composition in 88CET's more
+native nontraditional domain, differ from those of traditional composition.  
+
+   Some underlying premises of composition don't change at all.  The
+compositional technique of inventing a melody and harmonizing it certainly still
+makes sense.  The harmonies end up different, but that basic approach still
+works fine.  Chorale-style block chords still make sense.  The various species
+of counterpoint still have perfectly good meaning in 88CET.  Many of the basic
+concepts of form, such as architectonic (hierarchical) structure and open vs.
+closed form, still apply, but some of the more sophisticated ideas have more
+complicated ramifications.  
+
+Tonality, Phrasing, and Cadences
+
+   Not surprisingly, chord sonorities are very different.  You can't, within the
+realm of nontraditional harmony anyway, pull an authentic cadence from Western
+Culture's standard bag of tricks, to create the impression of finality, or the
+deceptive cadence to create a surprise.  
+
+   The obvious question to ask then, is how this affects phrasing.  Can you
+create a sense of finality or harmonic surprise through other means? If not,
+then can you present the sensation of partial and complete rest harmonically, or
+are you always in a harmonic limboland? 
+
+   One fact is certain - people do have tonal memory - they can tell when they
+hear a pitch repeated.  Tonality does not have to be reinforced harmonically or
+contrapuntally by tendency-tone resolution for your audience to sense a return
+to an original pitch.  I was surprised to discover that you can create the
+sensation of a tonal center in absence of pitch classes.  Beginning and ending a
+rhythmically complete phrase on the same note creates a clear sense of return
+(certainly at least, in the absence of other factors deliberately confusing this
+sensation).  Ending the phrase on the same chord voicing adds to this effect,
+even if tendency-tone resolution doesn't reinforce it.  Tonality can revolve
+around a single pitch rather than an entire pitch class.  
+
+   Similarly, ending a well-formed phrase on a different pitch from where it
+begins will create a sense of modulation.  But that sense of modulation will
+only be a weak one, as will a merely melodically reinforced tonality.  Releasing
+harmonic tension at phrase endings strengthens a sense of tonality enormously.
+Obviously I'm not saying anything new here.  
+
+   Perhaps to some of you, the idea that I would concern myself with tonality in
+a totally new domain like 88CET, seems pointless.  Tonality certainly isn't any
+sort of requirement, but it's certainly not pointless.  It's a powerful tool.
+In either case, exploring harmonic tension and progression is valuable.
+
+   So are there dissonant-to-consonant resolutions in nontraditional 88CET
+harmony that can serve this purpose?  Next time.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 3 Oct 1995 06:57 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id VAA25404; Mon, 2 Oct 1995 21:57:31 -0700
+Date: Mon, 2 Oct 1995 21:57:31 -0700
+Message-Id: <951003044713_71670.2576_HHB47-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

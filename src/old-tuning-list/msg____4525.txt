@@ -1,0 +1,116 @@
+source file: mills2.txt
+Date: Sun, 5 Jan 1997 13:22:10 -0800
+
+Subject: Primes or Odds
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> > But for whatever it's worth, I don't think that 9 would be considered a
+> > limit on the grounds that it's not prime.
+> I, for one, completely disagree. I would define the limit as the largest
+odd 
+> number that occurs in ratios that are considered consonant. 
+
+   I certainly agree with Dan Wolf that we ought to use the definition from
+the person who coined the term, that being Harry Partch.  I was under the
+apparently false impression that he defined it in terms of primes rather
+than odds.  I confess that I have only read Genesis of a Music in
+fragments, so I have every reason to believe that Dan Wolf must be correct
+and I'm not.  
+
+   But regardless of the definition of "limit", there are definitely two
+different schools of thought here.  The premise that odd numbers rather
+than primes outline various classes of harmony is based on the
+well-accepted fact that octaves, or stacks of octaves, produce a sensation
+of duplication, like that of a major tenth being practically the same
+harmony as a major third.  
+
+   Clearly then even whole numbers, all of which produce "octave
+duplicates" of an odd number's harmonics, can have no
+practically-meaningful effect on harmony.  Or to put it another way,
+putting a single two into the product forming a numerator or denominator is
+as good as putting in as many as you'd like.  
+
+   The case for prime numbers rather than odds outlining new harmonies is
+based on the idea that stacks of ANY small whole number produce similar
+effects.  That is to say that, multiplying in one of three, for example, is
+"as good" as adding in any number of threes.  
+
+   That is not, however, in the sense that threes create a sense of
+duplication like an octave, but that they create another characteristic
+sensation.  As I understand it anyway, the more or less accepted
+characteristic for three is that of a cold, logical simplicity, as
+evidenced in the character of P4s and P5s.  
+
+   Based upon this premise, then clearly the elements of sort of
+classification are primes.  That in the sense that multiplying by a
+composite is the same as multiplying by a product of primes, bringing in
+each of their effects into the soup.  
+
+   And the idea continues from there, again, as I understand it:
+ 2:  Duplication (i.e., pitch classing)
+ 3:  Cold, logical simplicity
+ 5:  Sweetness
+ 7:  A kind of Bluesy "Zap"
+11:  Ambiguity, lost-in-space sensation
+
+   My own personal opinion is that the prime approach is correct at its
+root, but vastly oversimplified, and even still the biggest factor
+determining the character of a chord is its width.  By that I mean that,
+for example, M3s of ANY formulation are going to have a more similar
+musical effect than any of them will have to a m7 for example.  I base that
+statement partly on comparing the sensation of 27:16 and 5:3 M6s.  5:3
+definitely has a sweetness that I don't hear in 27:16, regardless of their
+similar size.  
+
+   The oversimplification in the prime idea appears to be this:  The
+ability to stack up an arbitrary number of any particular prime without
+fundamentally changing the basic nature of the harmony, decreases rapidly
+as you go up the series of primes.  
+
+   By that I mean that you can stack up plenty of octaves before you break
+two's characteristic sensation of duplication, but you can only stack a
+handful of threes before you lose three's sensation of cold logic.  You can
+probably only stack two or so fives before you lose its sense of sweetness.
+ You can only do one 7 or 11 best I can tell, meaning that 49 and 121 don't
+carry on the sensation of 7 and 11 (respectively) at all.  I personally
+have very little feel for 13, although certain Mayumi and Johnny Reinhard
+to.  
+
+   I suspect that this case of (more or less) diminishing returns is a
+consequence of the size of the numbers in the ratio.  Generally speaking,
+the larger the size of the numbers, the more difficult it is to associate a
+characteristic feel to that harmony, and the greater the chances that
+they'll be viewed instead as an out-of-tune rendition of a simpler pitch
+relationship.
+
+   From what I've seen, to find a distinct character to a ratio whose
+numbers are larger than somewhere around 50 starts to become limited to
+very specialized circumstances, like long sustained notes, harmonic or
+melodic (but not both) presentation, carefully-chosen pitch ranges, pure
+timbres, very little vibrato or other forms of fluctuation, and such.  I
+can recall at least one episode where I could not attribute a character to
+an interval - curiously I don't recall the interval other than that it was
+fairly complex - wherein I had to resort to something like five minutes of
+side-by-side comparison to the simpler interval that it sounded like an
+out-of-tune rendition of.  That's obviously far beyond any realistic
+expectation of an audience get excited about in a truly musical performance
+situation!  
+
+   That ease also depends on how wide in the big sense the interval is.  I
+find it much more difficult to attribute a clear musical sensation to
+intervals between a triple- and quadruple-octave than those between a
+unison and an octave.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 5 Jan 1997 22:20 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02046; Sun, 5 Jan 1997 22:23:16 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02044
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id NAA25890; Sun, 5 Jan 1997 13:23:01 -0800
+Date: Sun, 5 Jan 1997 13:23:01 -0800
+Message-Id: <199701051618_MC2-E48-35DC@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

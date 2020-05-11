@@ -1,0 +1,78 @@
+source file: mills2.txt
+Date: Mon, 3 Feb 1997 17:04:42 -0800
+
+Subject: MetaMeantone, etc.
+
+From: John Chalmers <non12@deltanet.com>
+
+Wilson's MetaMeantone: While it is true that the major third and
+the fifth beat at the same rate in this tuning, the actual genesis
+is quite different (for more tunings with equally-beating consonances
+see Rasch's article and posts by Manuel and me). Erv invented this 
+tuning  by solving for tempered values for the fifth and major third 
+in which the first order difference tones would be would be equal.
+In this case, the triad is 1.0, 1.247265 and 1.4945302. By multiplying
+these by 400 hz (for convenience), one gets the frequencies 400,
+498.906 and 597.81207 hz (0 382.52175 and 695.63044 cents). The
+first order difference tones between the major third and the tonic
+and the fifth and the third are both 98.906 hz. Erv believes this
+relationship gives this triad and its near approximations (such as
+the Lucy-Harrison tuning) a degree of unity and consonance not shared 
+by other meantone-like tunings.
+
+These difference tones are not submultiples of the tonic (400 hz),
+as they would be in just intonation (400 500 600 hz, 0  386.3137 
+and 701.955 cents). Nevertheless, Erv claims that when accurately
+tuned the effect is perceptible, perhaps because the synchonous
+beat rates lead to a greater sense of fusion.
+
+While Erv used an iterative algorithm of his and Larry Hanson's own
+devising, the MetaMeantone fifth may be computed in a more standard
+manner. Let the tonic, mediant and dominant of the triad be 1.0 X and Y.
+Therefore by the major third X(Y^4)/4 according to the usual relation
+between "negative" fifths and major thirds (4 fifths up minus 2 octaves).
+The difference town relation is X-1 Y-X (absolute pitch of the triad
+is not important). Therefore X(Y+1)/2 and by setting this equal
+to the first relation, one gets (Y+1)/2(Y^4)/4. This reduces to
+Y^4-2*Y-2. At this point, I applied the Newton-Raphson method to
+get 1.494530181 for the fifth. The major third may be obtained by
+substituting back into the first equation.
+
+Other "MetaTunings" may be found the same way by defining a triad in 
+terms of one cyclic interval and a difference tone relation.
+
+There actually are two tunings in which the beat rates of the Major
+Third and Perfect Fifth are equal. These are this tuning and 697.2784
+cents as negative and positive beats sound the same (set the beats
+equal or equal and opposite). The second tuning is also one in which
+the 3 4 5 triad has equal difference tones.
+
+To sume up, MetaMeantone sets the DT's of the P5-Tmaj and Tmaj-Tonic
+equal and also the beat rate of the P5 and Tmaj.  697.2784 sets the DTs 
+of the 6Maj and P4-tonic (3 4 5 triad,1st inv. etc.) equal, and sets
+the beats of the P5 equal to the Major Third (Tmaj). A third tuning,
+696.2958 sets the beats of the P4(fourth) equal to the 6maj, but
+the DT's are not equal for eithe the P4 and 6maj or P5 and Tmaj.
+There is another tuning in which the P4 has the same beat rate as
+the 6maj, but the fifth is a rather flat 692.1612 cents.The DT's
+are unequal in this case. The conclusion is that setting the beat 
+rates of triadic intervals equal does not necessarily set the first 
+order difference tones equal as well.
+
+
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 4 Feb 1997 03:57 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23893; Tue, 4 Feb 1997 03:57:53 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA23912
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id SAA22812; Mon, 3 Feb 1997 18:56:18 -0800
+Date: Mon, 3 Feb 1997 18:56:18 -0800
+Message-Id: <Pine.SCO.3.91.970203184459.15112A-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

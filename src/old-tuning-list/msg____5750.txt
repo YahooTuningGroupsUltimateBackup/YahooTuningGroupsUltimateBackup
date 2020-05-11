@@ -1,0 +1,92 @@
+source file: mills2.txt
+Date: Sat, 5 Jul 1997 02:47:40 +0200
+
+Subject: Re: Point of Well Temperaments
+
+From: Joseph  Downing <jdowning@mailbox.syr.edu>
+
+On Fri, 4 Jul 1997, Gary Morrison wrote:
+> >> <snip> The entire point of well temperaments is that they are
+> >> > about equally well in tune in all keys.
+> >...I believe that the
+> >development of sonata form in the classic period was directly related to
+> >the inequality (but acceptability) of the different keys.
+>    Again noting that I said, "about equally well in tune" and not
+> "identical sounding" in all keys, I'd say that that, and "inequality (but
+> acceptability) of different keys" are two different ways of saying the same
+> thing.
+>    The original premise of the question was that well temperaments get
+> farther out of tune as you venture farther from C Major.  Although
+> well-temperaments are not my specialty, I'm not aware of many, if any,
+> well-temperaments have that property.  I seriously doubt if ol' JS would
+> have written in F and F# in the same suite if he expected one to sound
+> wildly more out of tune than the other!
+
+He most certainly did use the relative in-out-of-tuneness in his music,
+and he was not alone!  In ANY of the frequently used well-tempered
+systems, F major is the most in-tune key with C and G close seconds.  The
+less used keys are much more out-of-tune, yet, as required by the
+well-tempered philosophy, usable.
+
+For a revealing exercise, look at cadences on F# major.  They nearly
+always occur at some point where their very weakness has structural import
+to the piece.  For example:
+
+Prelude and Fugue in D, BWV532
+The opening section is all in D major - fast scales - very light and
+showy.
+The second section of the prelude is somewhat whimsical and uses dotted
+rhythms over a pedal F#.  It is usually played on a secondary manual (even
+on equal-tempered performances) with a lighter registration.  This section
+cadences on F# major.  Note that, because F# major is prettymuch on the
+out-ofne side of the spectrum, the F# major chord is short - only an
+eighth note long, and followed by a grand pause.  The section basically
+'falls apart' on such a weak cadence.
+The grand pause is followed by a two octave scale leading up to a HUGE
+(usually full organ) chord on D Major - an incredibly bright key.  This is
+followed by one of the most glorious Alla Breves in music - full of joy
+and light.  Further analysis would show how very carefully Bach related
+the keys of sections to the tension necessary.
+ 
+You could also look at the Toccata and Fugue in F - the one that begins
+with a long canon between the hands overa sustained pedal note.  In the
+Fugue, there are a number of deceptive cadences that bear analysis.  They
+all proceed from very tame dominant chords (Ex. C Major) to outlandish,
+very much more out-of-tune chords (such as Db third inversion).  This
+makes the deception even more shocking.  
+
+Bach used that same technique in many other pieces.  I remember two young
+daughters (under age 10) listening to a performance of the G major "Piece
+d'Orgue" which also has a glorious All Breve section which concludes with
+a shocking deceptive cadence to o vii o7 of V.  Even though they had been
+listening complacently, they both gasped audibly (to the performer's
+delight and amusement)
+
+Look at the Prelude in C major from Book One of WTC.  Listen to the chords
+in any standard well-tempered system, and you will hear a rise in tension
+over a long arc, then a release, than a larger rise which gives way to
+final release.  (It was this piece that made a believer out of me.)
+
+Bach was not alone in his use of the relative dissonance/consonance of
+chords.  In the Burkhart anthology, look at the Scarlatti Sonata in E
+Major.  It, too, has an internal cadence on F# major which is marked as a
+short note followed by a grand pause.  he then proceeds to fanfares on
+open fifths on F# (where we discover that it was the A# third that was
+causing the out-of-tune F# triads - the fifths are VERY in-tune.)
+
+Joe Downing,
+in Syracuse
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 5 Jul 1997 08:27 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05283; Sat, 5 Jul 1997 08:28:05 +0200
+Date: Sat, 5 Jul 1997 08:28:05 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05258
+Received: (qmail 23961 invoked from network); 5 Jul 1997 06:28:02 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 5 Jul 1997 06:28:02 -0000
+Message-Id: <199707050224_MC2-1A49-E3DB@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

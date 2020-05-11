@@ -1,0 +1,16 @@
+source file: m1605.txt
+Date: Mon, 7 Dec 1998 13:05:45 +0100
+
+Subject: Re: Fix for AOL text problems
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+I don't know which mail program you are using, but I use the mail window of
+Netscape Communicator. It's better than a Microsoft mail program i.m.o.
+You can change the wrap width, even set different values for outgoing and
+incoming mail. The default value for outgoing mail is 80 characters.
+
+Daniel Wolf's posts don't look good. Daniel, you mail program breaks lines
+in the middle of a word and then puts an = at the end.
+
+Manuel Op de Coul    coul@ezh.nl

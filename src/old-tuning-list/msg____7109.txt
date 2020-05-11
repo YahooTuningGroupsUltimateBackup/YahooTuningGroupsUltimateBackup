@@ -1,0 +1,73 @@
+source file: mills3.txt
+Date: Mon, 2 Feb 1998 15:23:05 +0100
+
+Subject: Re: Neil's Tuning CD Project
+
+From: jmenich@juno.com (john e menich)
+
+>Topic No. 3
+>From: John Starrett <jstarret@tiger.cudenver.edu>
+>All-
+>	I don't know how easy it is, byt I know it is possible to
+>place CDROM data on an audio CD. If there is a little room left over
+>on the
+>tuning forum CD, it would be cool to include scores, photos, bio
+>material, etc. Does anyone here have experience creating mixed media
+>CDs?
+>
+>John Starrett
+>
+
+John, the type of CD your talking about is called a "mixed mode" CD or
+"CD-ROM/XA". Putting graphic files, text and even MPEG-1 video is easily
+done. Any current CD authoring software and burner should be able to
+accomplish this task. The big deal about the XA format is that it writes
+the data track after the audio tracks, otherwise you would put the CD in
+an audio CD player and the first track would be computer noise that can
+damage audio equipment..
+
+I mastered CD's for 10 years at a large duplication house. Though I don't
+master CD's anymore, I still work for a duplication house and could get
+your CD's done for cost, or at least I will try, I have been discussing
+this with Neil off the tuning list.
+
+Also, keep in mind that a 74 min. CD can hold approx. 650 megs of data.
+It is my personal experience that a CD that is filled to the outer rim
+can have some playback problems on some drives.
+
+John Menich
+Failsafe Media Company
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  gbreed@cix.compulink.co.uk (Graham Breed) 
+Subject:  Decatonic tuning and 7-limit lattices
+PostedDate:  02-02-98 19:28:15
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  02-02-98 19:27:17-02-02-98 19:27:18,02-02-98 19:25:57-02-02-98 19:25:58
+DeliveredDate:  02-02-98 19:25:58
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125659F.00655CAB; Mon, 2 Feb 1998 19:27:08 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05800; Mon, 2 Feb 1998 19:28:15 +0100
+Date: Mon, 2 Feb 1998 19:28:15 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA05801
+Received: (qmail 14035 invoked from network); 2 Feb 1998 10:27:27 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 2 Feb 1998 10:27:27 -0800
+Message-Id: <memo.875957@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

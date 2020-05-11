@@ -1,0 +1,56 @@
+source file: m1531.txt
+Date: Thu, 17 Sep 1998 13:04:23 +0530
+
+Subject: MIDI tuning scribblings
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hi All,
+
+David wrote:
+>For those of us without a frequency meter, old-fashioned beats can be used.
+
+I just downloaded JICalc 4.5b1 from
+<ftp://ella.mills.edu/ccm/tuning/software/mac>
+(I think that's the order of directories) and was pleasantly surprised
+that it no longer
+uses QuickTime Musical Instruments to generate sounds, instead
+generating it's own
+much more accurate triangle, Sawtooth, Sine & Square waves. Very nice
+for 
+checking the accuracy of MIDI tuning tables on synths. A big thank you
+to Carter,
+Robert, & Ken for a great tool. 
+
+Incidentally, all this checking with frequency meters & comparing to
+sounds 
+synthesized to precise pitches in Hz has brought me to the conclusion
+that at a 
+certain point you have to throw caution to the wind (so to speak) and
+ignore the
+inaccuracy of MIDI tuning tables. The only way to get the close to
+absolute 
+accuracy that Xenharmonics really needs is to have a means of obtaining 
+sounds tuned to exact pitches in Hz. 2 options I know of : Max with MSP
+and generating precise samples using software synthesis and sticking
+them 
+into your favourite sampler. 
+
+This 2nd option can be done on the cheap in your computer: For PowerMac
+get Vsamp from <http://www.kagi.com/smaug/vsamp>.
+It's 32-sample per channel, 16-channel, OMS -compatible, $25 shareware.
+Until you register, it's fully functional & works for 4-minutes at a
+time
+after which you need to click on one of the menu items to continue. Try
+it.
+For the synthesis part, lot's of options around.
+
+BTW, I downloaded an application called "Megalomania" from 
+<www.harmonycentral.com> which lets you do a few tricks like split your
+keyboard into several parts and send them to different MIDI channels. 
+It's Mac only, pretty old, & needs MIDI Manager (no OMS). It's a 68k
+app., but works
+fine on my G3. 
+
+Cheers,
+Drew

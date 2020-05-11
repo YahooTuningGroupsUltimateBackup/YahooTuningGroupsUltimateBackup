@@ -1,0 +1,81 @@
+source file: mills2.txt
+Date: Fri, 3 Nov 1995 17:56:16 -0800
+
+Subject: 88CET #24:  88CET-Mapped Timbres
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+At various times in these posts, I've attached a caveat to my statements
+about 88CET, that they apply to essentially harmonic timbres.  Many of those
+statements relate to the "taboo", off perfect consonances, like the off octaves,
+and how important it is to avoid them.  I also briefly aluded to Bill Sethares'
+work with 88CET using timbres optimized for 88CET.  
+
+   That's what I'm going to discuss briefly here.  
+
+   As most tuning-listers are well aware, almost all musical tones consist of
+composite of frequency components (partials).  Although we often speak in terms
+of relationships between the fundamental pitches of the notes in a chord, all of
+the frequency components in all notes within a chord ultimately interact.  The
+pitches of all of the partials ultimately determine how a chord will sound.  
+   So my repeated statements then that the "taboo" off perfect consonances sound
+awful, are all relative to the timbre in which you play them.  If the partials
+are essentially harmonic, then those "taboo" intervals are realistically
+unusable.  
+
+   But Sethares took this tuning-timbre relationship in reverse.  Rather than
+taking the overtone structure for granted, and accepting certain intervals as
+unfortunate casualties, Sethares instead took the 14-step stretched octave as a
+basic building block of his 88CET music, and remapped the partials so that
+sounds good.  In particular, he came up with a mapping so that the 1232c
+off-octave creates an identity sensation much like that of an octave for the
+exact harmonic timbres.  Not surprisingly, Sethares has this process down to a
+science, or at least to an art, and 88CET is just one of many tunings to which
+he's applied the technique.  
+
+   Two general comments are in order.  First, this pseudo-octave aside, this
+mapping process produces some really fascinating-sounding timbres.  They sound
+somewhat like hybrid timbres - hybrids of whatever they were before mapping,
+with a bell-like sound.  The commonly-held belief that only harmonic overtone
+structures "fuse" to what our ears perceive as single tones, turns out to be
+mostly myth.  Secondly, it does work;  on their own terms, these timbres really
+do produce an octave-like identity sensation.  
+
+   This paper is not the correct forum for explaining the theory behind
+Sethares' mapping process, but this much is worth telling:  The mapping is built
+upon empirical curves elating the dissonance of two sinewaves to frequency
+differences, measured by Plomp and Levelt in 1965.  Their experimental data was
+based on statistical surveys of many people.  Sethares curve-fitted this
+experimental data to a mathematical relationship, and derived a procedure for
+applying the results to all partials of a complex tone, thereby measuring the
+overall dissonance of an given interval as rendered in a given tonal spectrum.
+He then turned the process around so that he could derive tonal spectra for
+minimal dissonance of a given set of intervals.  
+
+   In the dissonance curve for 88CET, the troughs (local minima) in the curve
+are places of minimum dissonance, and thus maximal consonance.  The overtone
+retuning for making 88CET's 1232c off-octave into a pseudo-octave, starting from
+a hypothetical purely-harmonic tone, uses the following frequency multipliers
+for the first ten partials:  1, 2.03, 3.06, 3.94, 5.087, 5.92, 6.9, 8.04, 9.36,
+10.36.
+
+   Perhaps not surprisingly, this isn't without its trade-offs, both good and
+bad.  To my ears, these nonharmonic overtone structures make the exact pitch of
+the notes a little hard to pinpoint.  As such, they somewhat blur 88CET's
+interval approximations that are nearly just.  The fifth loses some of its
+steely-cold simplicity, the subminor third and seventh some of their septimal
+"zap", and the major tenth some of its sweet richness.  But at least one
+intervals benefits: the 9:7 supramajor third, often cited as harsh, loses some
+of its edge.  The dissonance curve has a trough on 88CET's 9:7 approximation.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 4 Nov 1995 07:04 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id VAA12354; Fri, 3 Nov 1995 21:04:50 -0800
+Date: Fri, 3 Nov 1995 21:04:50 -0800
+Message-Id: <199511040504.AA03370@world.std.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

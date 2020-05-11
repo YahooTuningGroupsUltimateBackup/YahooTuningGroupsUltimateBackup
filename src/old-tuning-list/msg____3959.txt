@@ -1,0 +1,356 @@
+source file: mills2.txt
+Date: Sun, 10 Nov 1996 11:41:55 -0800
+
+Subject: New Post from Brian
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: miscellany
+--
+Paul Erlich's problems with his VFX-SD seem
+vaguely similar to glitches in my VFX before
+it was returned to the factory for a ROM 
+upgrade.  The initial ROMs on the early VFXs
+had some bugs in the INTERPOLATE function:
+prior to the ROM upgrade, my VFX produced some
+extremely bizarre scales during INTERPOLATE
+and EXTRAPOLATE.   Perhaps a ROM upgrade?
+Steve Curtin can tell you how to find out the
+ROM version--the procedure involves holding
+down a number of buttons at once, can't 
+recall which ones.
+Because the VFX has a 1.5625 cent resolution,
+but shows intervals in cents, some equal 
+temperaments won't exhibit accumulated
+roundoff error at the octave after INTERPOLATE
+(i.e., the ETs which divide nearly evenly into 768)
+while others will.  
+As Steve Curtin points out, none of these minor
+bugs are important.  At worst, you can simply
+enter the octave scale step by step into the synth
+and then press EXTRAPOLATE.
+The VFX sounds to these old ears like one of the
+most sonically luxuriant synthesizers available.
+The original VFX and the VFX-SD sound even more
+impressive to me than the later-generation TS-10/12.
+The VFX is one of the great classic synths--in a 
+class with the Arp 2600, the Moog 90x modular,
+the Prophet 5,  the Oberheim 4-voice, the DX-7,
+the Synergy II+.
+Steve Curtin is right on the money when he says
+that Ensoniq makes the best-sounding fully
+retunable wavetable synths.  Nothing else
+compares with the VFX/TS-10 series. And not
+only do these Ensoniq synths sound great, they've
+got *multiple tuning tables.*  This is A HUGE
+ADVANTAGE.  JI composers/performers, take note:
+with the TS-10's 16 different tuning tables,
+you can do a *lot* of just intonation modulation
+with no trouble at all.
+--
+In a post nasty, brutish and short, a certain
+forum subscriber claimed for the Nth time that since 
+Bang  On A Can now plays at Lincoln Center, this 
+somehow invalidates my criticism of the Alice Tully
+Hall/Lincoln Center/Juilliard Conservatory 12-TET
+mindset.  
+Hello?
+Was there a visit from the Brain Fairy?  Did someone
+find a quarter under hi/r pillow and daylight shining
+through both ears?
+In fact Bang On A Can moved to Lincoln Center *very*
+recently,  *despite* the vociferous protests of the
+Mostly Mozart fans (who have found their programs
+of moldy mediocre music suddenly curtailed). 
+For most of its life, the Bang On A Can festival
+took place in grotty little clubs and dingy basements.
+The  Bang On A Can concerts *only* moved to Lincoln
+Center because of the overwhelming demand by
+the hoi polloi who couldn't get into the SRO 
+concerts in grungy closet-sized "art galleries"
+ & basement "performance spaces."  
+(Q: What do you call a bathroom in New York?  
+A: Performance art space.)
+Given the hostility of the Lincoln Center establishment,
+Bang On A Can will likely vanish from Alice Tully
+Hall any day now.  
+Naturally this does not *in any way* invalidate my
+criticism of the Alice Tully Hall/Lincoln Center/
+Juilliard Conservatory 12-TET mindset.
+The specimen of warped logic according to which my
+posts on this subject were criticized is a classic case
+of the reductive fallacy, equivalent to saying that because
+a few Jews escaped Hitler's gas chambers, there
+was no Holocaust.
+Logic 101, anyone?
+"All rocks are living organisms; 
+All animals are rocks;
+Therefore...all animals are living organisms!"
+Marvellous!  
+Merely because one lone group which *sometimes*
+plays microtonal music was forced into Lincoln
+Center by popular demand does *not* mean that 
+Juilliard Conservatory has stopped brainwashing
+its students into playing 12, always 12, only
+12, forever 12.   
+Merely because a few microtonalists sneak in the 
+back door of Alice Tully Hall does *not* mean that 
+the directors and concert managers and 99.99999+ of
+the musical programs in Alice Tully Hall are no
+longer  locked rigidly into 12, always 12, only 12, 
+forever 12. 
+Merely because three of Harry Partch's instruments
+appeared once in one (count it, 1) composition by 
+Julia Wolfe at Lincoln Center does *not* mean that 
+all of the prestigious uptown music venues in New 
+York no longer freeze out microtonalists and no longer
+concentrate with unholy fervor on music in
+12, always 12, only 12, forever 12.
+Ye gods.
+Is that what passes for reasoning in college
+nowadays?
+I thought I'd heard it all when Brooke Shields chirped
+"Smoking can kill you, and if you're killed you've lost
+the most important part of your life," but the twisted 
+logic behind this kind of criticism is a new low.
+A single black person escapes lynching, therefore
+there's no oppression of blacks in the deep South...?
+A handful of microtonalists sneak into Lincoln
+Center, therefore there's no prejudice against
+and systematic refusal to program non-12 music
+throughout New York symphony halls...?
+For sheer warped twists of bizarre illogic, this kind
+of wacky reasoning takes first prize.  
+As Molly Ivins has pointed out, instead of
+making English the official language throughout 
+the U.S., we ought to make sanity the  official method 
+of reasoning. 
+A word to the wise, folks--the book "Clear Thinking" 
+was written by Hyman Ruchlis and published by 
+Prometheus Press in 1990.
+Do us all a favor.  Pick up a copy.
+--
+In a similar vein, various people claim my critique 
+of the12-TET academic/symphonic/conservatory
+mindset constitutes some sort of "conspiracy
+theory" on my part.
+A forum subscriber who need not be named has
+for more than a year persistently and flagrantly
+made this constant error in reasoning.
+And so (since no one else seems to want to stand 
+up for clear thinking) as usual it's up to me to 
+expose the obvious fallacy.
+There are two logical errors here.
+The first is the conclusion that because a
+pervasive and profoundly damaging mindset 
+exists throughout our culture, therefore some 
+sort of  "conspiracy" exists. 
+The latter does not necessarily follow from the
+former.  
+No "conspiracy" is required for a damaging
+and ruthless and universally shared  mindset 
+to exist & flourish & oppress.  Think back a
+moment to the early 60s, when all those
+repulsive fat Southern sheriffs waddled up
+to Northern news reporters while black people
+were being lynched, shot, hosed, clubbed and
+savaged with dogs for demanding equal rights
+under the constitution.  The fat white Southern
+sheriff would invariably tip back his hat,
+stare at the reporter, and drawl, "What are you, 
+boyyyyy? Y'all some kinda CONSPIRACY THEORIST?
+Ain't no CONSPIRACY down here, boyyyy.  We
+all just good ole folks down heahhhh."
+No evidence suggests that all southerners 
+met in weekly groups and asked eached other "Hey,
+how can we oppress them niggers this week?"
+A conspiracy was *unnecessary*...
+Because white people in the deep south had a 
+*mindset* according to which black people
+were inferior, dangerous, smelly, vicious,
+and subhuman.  
+And so the net effect was the same as though
+there had been a conspiracy.  The net effect
+was that black people were systematically
+oppressed by white Southerners from 1865 until
+1965.
+This is the second logical error: confusing
+cause with effect.   Simply because a presumed
+cause is not present does not invalidate the
+existence of an observed effect.  All it means
+is that the presumed cause was wrongly
+hypothesized.  It does not conjure out of
+existence the observable and clearly obvious
+effect.
+Thus, simply because there is no "conspiracy"
+among symphony directors and college
+music teachers and conservatory teachers
+does *NOT* mean that microtonalists aren't
+systematically marginalized, oppressed,
+denied recognition and refused performance
+venues.  
+Rather, this merely means that microtonalists
+suffer from systematic prejudice and oppression
+because of a pervasive mindset, rather than some
+sort of conspiracy.
+And so what?
+C'mon, people...elementary logic here.  This isn't
+quantum mechanics.  You can reason it out.
+Does it matter AT ALL whether microtonalists
+are being marginalized and denied recognition
+because of a conspiracy, or because of a mindset,
+or for some other exotic reason?
+Who cares *why* it's happening?
+The point is, IT'S HAPPENING.
+The fact exists that microtonalists are systematically
+refused space in music textbooks, systematically
+refused time at concerts, systematically refused
+performance opportunities, systematically refused,
+denied, prevented, shut out, marginalized, excluded,
+ locked out, silenced.
+Get a clue.  The *result* is what matters.  Not the
+presumptive cause.
+Ai caramba.  Don't they teach elementary logic in the
+universities any more...?
+The goal of higher education is supposed to be to
+train people how to *think.*  In that case, we
+might as well close all the universities tomorrow
+and turn 'em into hot dog stands.  Because the goal is 
+*nowhere* in sight.
+--
+Some time back I stated that  "In the era of
+ wooden machines (viz., the piano, the harpsichord)
+ it would have been impossibly difficult &
+ expensive to build a 5-octave instrument with
+ 31 equal tones to the octave.  If such an instrument
+ could have been built, its keys would have been
+ too narrow to be fingered; and the instrument
+ itself would have been too mechanically complex
+ and too fragile to survive an actual performance."
+-- mclaren
+Manuel Op de Coul responded: "No no. More expensive yes, 
+impossible to build not and well playable. See my post of 
+13 aug. 1994..."  Manuel goes on to describe a harpsichord
+with 6 manuals of 37 keys tuned in 31-TET and built
+in 1796, for which Mozart wrote some little pieces.
+While this is fascinating, the wretched lack of pictures
+on the Internet (a crude stone-age communcations medium
+*far* more low-tech than the letter, which at least allows
+xeroxes of photographs to be included) puts me at a loss
+here.
+Manuel, how far are the key rows situated from one another 
+vertically?
+Could, for instance, Beethoven's Hammerklavier sonata be
+performed on it?  How about highly chromatic polyphonic
+passages?  Could you play Bach's Chromatic Fantasy and Fugue
+on this 1796 31-TET contraption?
+How easily can 31-TET chromatic passages be performed? Or
+is this keyboard you mentioned useful only for playing 12-out-of
+31-TET?
+My examination of the pre-Maudslay-lathe technology of the 1700s
+tells me that exotic non-12 harpsichords/pianos/clavichords with
+lots of keys had to be either [A] so complex that their wooden
+key-actions wouldn't work for long without repair, or [B] due
+to mechanical considerations, the keys were so awkwardly arranged
+as to either prevent truly chromatic microtonal passages, or
+performance of standard 12-TET works.
+Any details you could give in this regard, Manuel, would be most
+interesting.  (I mention Maudslay because of course his lathe,
+invented in the 1840s, was the start of the modern machine
+tool revolution and thus of the modern symphony orchestra,
+whose instruments cannot be tuned accurately sans precision 
+machine tools. Since you're all scholars, you have of course
+never heard of Henry Maudslay, nor has anyone mentioned or noticed
+his importance to the growth of the modern symphony orchestra.)
+--
+The redoubtable Paul Erlich posted in digest 755:
+"There is indeed a tonality diamond on p. 22 of `The Musician's 
+Arithmetic.' It gives cents values for all 16 seven-limit intervals, 
+transposed to within one octave. Of course, four of these intervals 
+are 0 cents. So Partch most likely did get the idea from Meyer, but 
+he rotated it 90 degrees counterclockwise." -- Paul Erlich
+Erlich is one of the few members of this tuning forum to actually
+show some gumption and study some references.  Most  of you
+prefer to sit around with your fingers stuck in your noses, posting 
+trivial nitpicks on this or that item of minutia--rather than 
+getting  the "Exposition" did not admit undertones
+as the source of intervals, and therefore it implies that
+earlier drafts of the "Exposition" did not contain the
+Tonality Diamond.
+Because of the timing of the Meyer and Cowell books, either
+one could have influenced Partch in his discovery of the
+Tonality Diamond--or both.
+The plot thickens because (as John Chalmers pointed out)
+the Meyer text was published as a part of a special series
+not available in most libraries.  Did Partch have access to
+a library in which the Meyer text was available?
+We don't know.
+It seems impossible to determine which of the two
+texts had most influence on Partch.  It does seem clear,
+given Partch's redaction of his typewritten text of 1933,
+that the idea of the Tonality Diamond was already present
+in the back of his mind.  Thus both the Meyer and Cowell books
+likely did not give him the idea directly, but rather served
+as midwives to an inspiration already present and waiting
+to be born. (My guess is that Partch read both books prior
+to 1931, but this is only a guess.)
+This is one among a number of new data presented in an
+article titled "The Evolution of Harry Partch's Tuning 
+System."  Naturally, it will when published be treated
+with the utmost contempt and disdain, and thus I look
+forward to yet another important article never
+being cited, never being mentioned, never being noticed.
+Gosh.  What a surprise.  Folks, it's easy to tell who the
+significant composers and theorists are in any generation--
+they're the ones who are *never mentioned in the presitigious
+journals*, *never cited in the music theory literature*, *never
+heard*, *never acknowledged.*  Thus, the one composer most
+completely rendered an Orwellian unperson by the musical
+establishment of the 1950s-1970s (Harry Partch) is accurately 
+described by Kyle Gann in his latest Village Voice article 
+as "the central American composer" of the last half of the 
+20th century.
+Naturally!
+Typically!
+Inevitably!
+Is there a limit to human stupidity?  Is there some boundary
+to human obtuseness?
+Is not the most convincing proof of the existence of intelligent 
+life elsewhere in the universe the fact that none of it has tried
+to contact us?
+-- 
+Incidentally, those of you curious about the number of pitches
+of an n by n Tonality Diamond need wonder no longer.  The
+number of pitches is n^2 - n.   Thus, the 6 x 6 Tonality
+Diamond has 36 - 6 = 29 essential utonal/otonal pitches.
+Notice that this is *not* the same as giving the answer 
+to the question: "How many pitches are there in an n-limit
+Tonality Diamond?"   This latter question cannot be
+computed in closed form because specifying the limit
+of the Diamond does not necessarily specify the number
+of n by n rows/columns of the Diamond.
+For example, a 17-limit Tonality Diamond could be 
+built from the generator row  3  5  7  11  13 1 7  and 
+the generator column  /3  /5  /7  /11 /13  /17.  
+Buboth
+utonalities and otonalities.
+--mclaren
+
+
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 10 Nov 1996 21:17 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02461; Sun, 10 Nov 1996 21:18:08 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA03401
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id MAA01065; Sun, 10 Nov 1996 12:18:05 -0800
+Date: Sun, 10 Nov 1996 12:18:05 -0800
+Message-Id: <Pine.3.89.9611101529.A14329-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

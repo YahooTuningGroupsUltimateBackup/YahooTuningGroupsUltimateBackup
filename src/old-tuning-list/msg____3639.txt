@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Thu, 19 Sep 1996 15:16:19 -0700
+
+Subject: RE: RE: Consistency generalized
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>the average error of random intervals is
+>1/4 step [given] level 2 consistency . . .
+
+Paul H., surely the average error is less than 1/4 step, since that is the 
+maximum error. The mean error is actually zero, since errors can be positive 
+or negative, but the standard deviation (square root of mean of squared 
+errors) is a better measure of the overall size of the errors. Graphing the 
+standard deviation with respect to all the JI intervals up to a given limit 
+for all ETs starting with 1-tET gives a bumpy graph (with dips at famous 
+ETs) which for the most part closely follows an overall curve. This curve is 
+given by 1/sqrt(12) times the step size of the ET. In other words, without 
+assuming any consistency at all, the standard error of random intervals is 
+.2887 step. Of course, the mean absolute error of random intervals, without 
+assuming any consistency at all, is .25 step, since all values from 0 to .5 
+step are taken on with equal probability.
+
+I have not yet figured out how to calculate the expected errors given 
+consistency, but a good measure of how "special" an ET is is given by 
+assuming "in-tune-ness" is given by a normal curve centered around the just 
+interval with some appropriately psychoacoustically researched standard 
+deviation (in this context, standard deviation refers to the "width" of the 
+curve). Then the difference between the "in-tune-ness" of the standard 
+deviation of the ET and the "in-tune-ness" of the nominal value of 
+1/sqrt(12) times the step size gives you the "specialness" of the ET. My 
+first post to this digest was a table of the most "special" tunings, for 
+various harmonic limits and various reasonable values of the standard 
+deviation, and I later reposted it with all the inconsistent tunings 
+deleted. Needless to say, most everyone's favorite ET was to be found 
+somewhere on the table -- they're all the most special!
+
+ -Paul E.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Sep 1996 05:29 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10972; Fri, 20 Sep 1996 05:31:30 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA09507
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id UAA19745; Thu, 19 Sep 1996 20:31:28 -0700
+Date: Thu, 19 Sep 1996 20:31:28 -0700
+Message-Id: <Pine.SOL.3.91.960919222739.29577A-100000@library>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

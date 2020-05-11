@@ -1,0 +1,75 @@
+source file: mills3.txt
+Date: Thu, 26 Feb 1998 22:00:00 +0100
+
+Subject: Ten equal tunings
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+}PS...where is everybody? I miss the action..
+
+I've been thinking hard about which tunings I would have if I had
+unlimited resources for guitars and generalized keyboards. As I mention
+in my paper, I don't like equal temperaments with more than 34 notes per
+octave, since it becomes possible to approximate the same interval in
+more than one way (assuming the ear has a 1% tolerance), which is more
+confusion than I want to deal with. So I came up with the following
+symmetrical scheme:
+
+7, 10, 12, 15, 19, 22, 26, 29, 31, 34
+
+Notice that subtracting any of the numbers above from 41 gives another
+one of these numbers.
+
+A brief summary:
+
+7: The Thai tuning.
+10: Fun with neutral triads and 5tET subsets (there was an article in
+Ear Magazine East on 10tET).
+12: For all those paid gigs.
+15: Read Blackwood, "Modes and Chord Progressions in Equal Tunings",
+Perspectives of New Music Vol. 29 No. 2 (1991) pp. 166-200.
+19: Read Mandelbaum, Haverstick, Yasser, Yunik & Swift, etc.
+22: Read my paper (a slightly messed up version is at
+http://www-math.cudenver.edu/~jstarret/microtone.html under "Notes on
+Microtonality"). It describes 10-note scales that are 7-limit analogues
+to the 5-limit diatonic scale. Also the first ET consistent through the
+11-limit.
+26: A meantone tuning that commits all the errors of 12 in the opposite
+direction. Amazingly, two diatonic scales a half-octave apart contain
+all the septimal completions of each other's consonant triads. Also the
+first ET consistent through the 13-limit.
+29: The purest 3-limit intervals of any ET below 53. Also the first ET
+consistent through the 15-limit.
+31: Read Fokker, etc. Approximates 7-limit JI and 1/4-comma meantone
+very well.
+34: Approximates 5-limit JI very well, perhaps the best of these tunings
+for Indian music. Also contains 17tET which contains Arabic scales.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Aline Surman <stick@dnvr.uswest.net>
+Subject:  34 in the news
+PostedDate:  27-02-98 00:15:29
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  27-02-98 00:14:08-27-02-98 00:14:09,27-02-98 00:14:10-27-02-98 00:14:10
+DeliveredDate:  27-02-98 00:14:10
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C12565B7.007FA200; Fri, 27 Feb 1998 00:14:19 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12744; Fri, 27 Feb 1998 00:15:29 +0100
+Date: Fri, 27 Feb 1998 00:15:29 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA12748
+Received: (qmail 22983 invoked from network); 26 Feb 1998 15:14:22 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 26 Feb 1998 15:14:22 -0800
+Message-Id: <34F5FD57.37EE@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

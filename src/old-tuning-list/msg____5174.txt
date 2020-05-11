@@ -1,0 +1,69 @@
+source file: mills2.txt
+Date: Sat, 22 Mar 1997 20:05:13 -0800
+
+Subject: Meantones and ETs - correction
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Although I said that I sent the "Pi;meantones and ETs" message to the 
+list accidentally, I do feel I ought to warn anyone who bothered to note 
+down the formula that there was an error, namely a missing bracket. My 
+thanks to Jonathan Wild for noticing that there must have been a typo in 
+Friday's version.
+
+What I had previously sent was:
+
+>    |((nlog_2(3^((4-m)/m)5^(-1/m))-4/m))/[nlog_2(3)])+1| < 0.00011
+
+This should have read:
+
+     |((n(log_2(3^((4-m)/m)5^(-1/m))-4/m))/[nlog_2(3)])+1| < 0.00011
+
+So there is an extra bracket between the first "n" and "log_2". For 
+greater legibility, I'll provide the following version.
+
+ 
+       |            (4-m)/m    -1/m                  |
+       |   n(log_2(3        * 5    )) - 4/m)         |
+       |  ____________________________________   + 1 | < 0.00011
+       |                                             |
+       |              [nlog_2(3)]                    |
+
+
+Just to remind anyone who might be interested, m is the root of the 
+syntonic comma in the meantone system for which an ET approximation is 
+being sought, while n is the number of steps per octave in the ET being 
+tested; [x] is the integer value of x. Here are the margin-of-error 
+figures I've obtained for the six historic meantones and their standard 
+ET near-equivalents, in the form (1/m,n):
+
+                (1/3,19) 0.0000260699
+                (2/7,50) 0.0001000280
+                (1/4,31) 0.0001032090
+                (2/9,74) 0.0000640236
+                (1/5,43) 0.0000108953
+                (1/6,55) 0.0000994642
+
+The margin of error which I have given (<0.00011) can, of course, be 
+altered in either dirction, depending on the level of accuracy you want; 
+I've set it so that it easily catches all of the above standard 
+near-equivalents.
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 23 Mar 1997 22:14 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12125; Sun, 23 Mar 1997 22:14:10 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA12120
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id NAA10894; Sun, 23 Mar 1997 13:11:39 -0800
+Date: Sun, 23 Mar 1997 13:11:39 -0800
+Message-Id: <199703232109.NAA10676@ella.mills.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

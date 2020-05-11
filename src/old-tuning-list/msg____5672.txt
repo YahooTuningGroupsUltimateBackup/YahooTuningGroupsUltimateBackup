@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Mon, 23 Jun 1997 10:29:52 +0200
+
+Subject: Re: the 6th chord and odd-limit theory (Paul E)
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 20 Jun 1997, it was written:
+> There will be no counterexamples because Paul's guess is correct.  In
+> general, it is only possible to construct such chords for composite
+> limits (such as, in the snipped example, 9).  7 being prime, it is not
+> possible.
+
+Once again I correct myself: 7 is unusual in this regard because it is
+smaller than 9, the smallest odd composite; actually in the example Paul
+gave the chord overall was 15-limit, while each individual interval in
+it was 9-limit, which shows that strictly speaking it _is_ possible for
+larger primes, such 11 and 13.  However, it would not be possible to
+construct a chord which included a (say) 11-limit interval, but none
+higher, such that the chord overall had a higher limit.
+
+--pH <manynote@library.wustl.edu> http://library.wustl.edu/~manynote <*>
+    O
+   /\        "Hey--do you think I need to lose some weight?"
+  -\-\-- o
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 23 Jun 1997 10:38 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01702; Mon, 23 Jun 1997 10:38:21 +0200
+Date: Mon, 23 Jun 1997 10:38:21 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA01700
+Received: (qmail 11646 invoked from network); 20 Jun 1997 21:20:53 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 20 Jun 1997 21:20:53 -0000
+Message-Id: <Pine.SOL.3.95q.970620160954.16366A-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,76 @@
+source file: m1407.txt
+Date: Wed, 6 May 1998 16:53:36 -0500 (CDT)
+
+Subject: RE: Reply to Paul Hahn
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Tue, 5 May 1998, Paul H. Erlich wrote:
+> >(a) I wish to go beyond basic (level 1) consistency because it is
+> >possible for an ET to be level 1 consistent and still err from a given
+> >just ratio by nearly half the stepsize of the ET.  An extreme example:
+> >18TET is consistent to the 7-limit, but its 11-step "fifth" is only
+> >barely better as an approximation to the 3/2 than its 10-step interval.
+> >One is over 31 cents high, the other more than 35 cents low; the
+> >difference between the two errors is less than four cents! 
+> 
+> That's a good reason, but it would seem highly unlikely that the most
+> appropriate consistency level for this purpose would turn out to be an
+> integer, unless you had particular composite ratios in mind that you
+> care about representing consistently.
+
+That's fair--you could, say, choose tunings where the roundoff error was
+at most half the distance to the other alternative, which would result
+in a cutoff consistency level of--uh--3/2, I think.  Still, by and large
+I think consistency levels make much more sense as integers, since they
+correspond to secondary, tertiary, etc. intervals being represented
+consistently.  Why I care that they are, well, see below.
+
+>                                       It was the ratios of large
+> composite numbers I was objecting to, since treating them more carefully
+> than ratios of numbers with larger prime factors, even if the latter
+> numbers are smaller than the former ones, is something that those who
+> believe in prime characteristics will advocate, but I find no
+> justification for.
+
+Okay, so the question is, why would I care, for example if I was working
+in 5-limit harmony, about how 9/8s or 10/9s are approximated, but not
+any intervals involving 7?
+
+Short answer: voice-leading.
+
+Medium-length answer: I wish to approximate just intervals not merely in
+isolated chords, but in the progression of one chord to another.
+Representing the movement of one consonant identity to another without
+producing (what are to me) bizarre perceptual artifacts requires level-2
+consistency.
+
+Long answer, with example: let's take this forum's favorite whipping
+boy, 12TET.  It's consistent to the 9-limit, so it ought to be okay for
+some septimal harmony, yes?  Let's take a 4:5:6:7 tetrad and move to
+another 4:5:6:7 tetrad so that the 6 of the first tetrad becomes the 7
+of the second.  If we voice everything so that all voices move as little
+as possible, the 7 of the first moves down by a 64/63, the 6 holds, the
+5 moves up by a 36/35, and the 4 moves up by a 15/14.  (Okay, so the
+second tetrad is really in "first inversion" becoming 5:6:7:8.)
+
+How is this represented in 12TET?  A 4:5:6:7 tetrad has 4, 3, 3, and 2
+steps between the members.  If the first tetrad is rooted on 0 and the
+second keeps the common tone, we have 0 4 7 10 moving to 1 4 7 9.  IOW,
+the 64/63 is represented by 1 step, the 36/35 by 0 steps, and the 15/14
+by 1 step.  To me, this doesn't make sense--since there's a common tone,
+we should be able to hear the 8/7, 6/5, and two 7/6s relative to it
+fairly accurately.  Why should the 36/35 vanish when the much smaller
+64/63 doesn't?  But while I'm worrying about these rather large odd
+numbers, ratios involving (say) 11 never entered into it.
+
+I realize full well that these sorts of oddities are rich ground to
+explore; indeed, a major part of Easley Blackwood's _12 Microtonal
+Etudes_ springs from exploiting them.  However, personally, my goals are
+different.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

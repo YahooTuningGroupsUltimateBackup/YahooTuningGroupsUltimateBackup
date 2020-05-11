@@ -1,0 +1,183 @@
+source file: mills2.txt
+Date: Fri, 27 Oct 1995 08:21:21 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: A new way of regarding non-octave
+  scales; Jose Wurschmidt's categorization:
+  implications for non-octave composition
+---
+As Erv Wilson has remarked, "The field of
+microtonal scales is absolutely infinite."
+The closer one looks at any given category
+of tunings, the more detail one sees.
+This is nowhere more apparent than with
+non-octave scales: specifically, that subset
+defined by the Nth root of K.
+As everyone realizes, non-octave scales are
+so new and so unfamiliar to Western ears that
+their properties remain largely unexplored. 
+While Enrique Moreno (1992) and myself (1989,
+1992, 1993, 1995) have made a start, much
+theoretical work remains.
+One of the more striking characteristics of
+non-octave scales is that they often exhibit
+a marked disjunction between what Jose 
+Wuerschmidt called the "defining interval"
+and the "constructing interval."  Indeed, this
+perceptual dissonance can be so great in 
+non-octave scales as to turn the ordinary rules
+of harmony and melody upside-down and inside-
+out, and often leads to puzzlement and frustration
+among those who hope to compose with Nth roots
+of K.
+Gary Morrison has alluded to this problem in posts
+on his non-octave 13.6363/oct scale (what he 
+calls "88 CET," an appelation which while accurate
+stresses its defining rather its constructing interval;
+and in the case of 13.6363/oct the constructing intervals
+are actually the ones with most musical importance).
+However I propose to discuss the issue on a more general
+basis, covering all Nth roots of K.
+First, a word about the terminology.  Jose Wuerschmidt was
+a microtonal theorist who did seminal work during the
+1920s: his article "Die Quinten- und Terzengewebe" ("The
+Web of Fifths and Thirds") had a huge impact on subsequent
+thinking about scale generation, and to a large degree 
+underlies Rothenberg's, Wilson's, Fokker's and Lucy's
+approach to xenharmonics.   (Although they themselves are
+often not aware of this; W's ideas diffused far & wide, often at
+2nd- 3rd, and 4th-hand.) Wuerschmidt's essential idea
+was that tunings are characterized by two kinds of intervals:
+one, which he called "constructing intervals," which generate
+the tuning via an implied underlying harmonic root progress
+and which define the tuning's tonality--and a second kind of
+interval, which Wuerschmidt called "defining intervals."
+This is the interval which (in what Erv Wilson calls "logarithmic
+space," as opposed to "ratio space") linearly defines the melodic
+modes of the scale.
+In the case of 12-TET, the constructing interval is clearly 2^[7/12].
+Underlying this approximation one can reach back to a Pythagorean
+(one might say archetypal) constructing interval 3/2, which places
+12-TET firmly in the camp of the positive scales. (I.e., those whose
+fifths exceed the 3/2 in size. Technically, Bosanquet's positive/negative
+classification was originally intended to relate scales to the fifth of
+12-TET, as anal-renentive detail-obsessives  will
+doubtless point out, but modern usage relates equal tempered
+scales to the 3/2. )  Other constructing intervals are equally
+plausible: Erv Wilson has generated JI tunings based on cycles
+of an interval given by the harmonic mean twixt 4/3 and 11/8,
+and he has also generated JI tunings based on cycles of 6/5s and 
+5/4s.   One could equally well imagine JI tunings based on cycles
+of 7-limit, 11-limit, 13-limit and other constructing intervals;
+Johnny Reinhard has generated a tuning based on the squares of
+prime numbers.  Other constructing intervals are possible.
+Returning to equal-tempered scales, clearly harmonic progressions
+other than the 3/2 have been used in other cultures.  The Javanese and 
+Balinese do not appear to use a 3/2 at all, nor do the East Indian
+srutis.   Even in this culture, some instruments favor the 5/4
+rather than the 3/2--as for example vibes. 
+In the realm of the Nth roots of K, subdivisions of the 3:1--most
+notably the Bohlen-Pierce scale, 13th root of 3--tend to preserve
+the 3:1 as a constructing interval when the division is a small
+number of scale-steps, but as the number of steps rises, other
+constructing intervals can appear (depending on the exact Nth root
+of K).
+By constrast, the defining interval of 12-TET is the semitone of 
+100 cents.  This interval defines the melodic structures,  the leading
+tones and modes possible in 12-TET.  Because of the size of the
+12-TET defining intervals, many characteristic melodic structures
+of antiquity cannot be accurately rendered; in 12-TET there is
+no distinction between the diatonic and the chromatic semitones,
+for example--nor can the Hellenic enharmonic genus' characteristic
+plangent near-quartertone be rendered at all accurately.  The sharped
+leading-tone favored by fretless string players (very well rendered
+by 17-TET) cannot be faithfully reproduced in 12.  Ditto the string
+player's flatted II in the root of a typical I-IV-V-II-I progression.
+In fact, string players will tend to make a consistent pitch distinction
+twixt II and IIb, while recovering pianists (and other musically
+challenged individuals) will perceive no difference between the
+two root notes.
+However, the defining interval of the 13th root of 3 is the single
+scale-step of 146.304 cents, very close in melodic size (and effect)
+to a single scale-step of 8-TET.  Thus, while 12-TET uses a
+whole-tone very similiar to the familiar tonal 9/8, 13th root
+of 3 uses a defining interval not close to anything very tonal.
+In fact the scale-step of 13th of 3 is a good approximation to
+3 scale-steps of 24-TET, which forms an entirely anti-tonal
+interval, lying as it does halfway between one 24-tone circle of
+12 fifths and another; again, 146.304 cents is a reasonable counterfeit
+of the neutral third formed by the geometric mean between
+the 6/5 and 5/4, but again this is hardly a tonal interval in 
+the just intonation sense (since 350 cents corresponds to an
+irrational number 1.224053543).
+Thus 13th of 3 boasts quite tonal harmonic progressions, especially
+if one deliberately mis-spells the chords with a 13-scale-steps
+3:1 on the outside and a 292.608 2-scale-step third on the inside.
+But the melodic defining intervals and thus the modes of 13th of
+3 are utterly anti-tonal and inharmonic, and produce an
+interesting clash with the constructing intervals.
+In the Nth roots of 2, this kind of war twixt defining and 
+constructing intervals is rare.  Above 48 tones per octave it
+does not exist; and below there are only a few examples. 35-TET
+is one example, 26-TET another.  The most notable exemplar is
+19-TET, in which the 189.47-cent whole-tone defining interval 
+clashes headlong with the very good 694.7368-cent constructing
+interval of a fifth, unless purely diatonic progressions are used.
+(That strategy quickly wears out its welcome unless the listeners
+harbor a particular love for Christmas carols.)
+Wendy Carlos' alpha and beta scales are characterized by virtually
+just constructing intervals almost bang-on the just 3:2, but their
+defining intervals are nothing like the 200-cent approximation of
+the 9/8 with which we're familiar. 
+Thus the clash twixt defining and constructing intervals must
+be considered a particular resource of non-octave Nth root of K
+scales.
+Moreover, because many Nth roots of K share identical constructing
+intervals while boasting entirely different defining intervals,
+the adroit scale designer can fix the constructing interval and
+generate new scales by searching by alternate Nth roots of K with
+a different N but the same K.    
+For example, one might decide one wanted a just 5/4.  In that
+case one would fix the constructing interval (a chain of 5/4s)
+and use a successive set of Ns to generate alternate
+non-octave scales and then explore their characteristics.
+The most obvious example is of course the set of equal divisions
+of the 5/4 ordinally greater than and ordinally less than the 
+familiar 4-equal-part division of the approximate 5/4 used
+in 12-TET.
+Maintaining a just 5/4 and using 5 divisions gives a scale-step
+of  [386.31371/5] cents, which yields a non-octave scale of
+1200/77.26274 tones/oct = 15.5314 tones/oct.  Using 3
+divisions of the 5/4 (one less than the familiar 4, just as we
+above explored one more than the familiar 4) we obtain
+a scale-step of [386.31371/3] cents, for a non-octave scale
+of 1200/128.77123 tones/oct = 9.31885 tones/oct.  In both
+cases the constructing interval will be a 5/4, but the defining
+intervals are quite different.
+One result of this procedure is to generate a family of harmonically
+related non-octave scales among which one can "transfer" (to
+use Ivor Darreg's, and earlier still, Augusto Novaro's, terminology)
+in a non-octave analogy to traditional tonal modulation.  In the
+case of standard Western modulation, changing to another key
+maintains the defining interval while moving by the constructing
+interval; non-octave "modulation" of the kind described above
+turns this process on its head by maintaining the constructing
+interval but often moving by the defining interval.
+Other obvious elaborations abound, but that must be left for
+another post.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 28 Oct 1995 04:08 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id TAA15674; Fri, 27 Oct 1995 19:08:53 -0700
+Date: Fri, 27 Oct 1995 19:08:53 -0700
+Message-Id: <951027220824_78406650@mail02.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

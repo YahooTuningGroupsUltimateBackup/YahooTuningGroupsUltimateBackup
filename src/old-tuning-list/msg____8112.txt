@@ -1,0 +1,91 @@
+source file: m1449.txt
+Date: Wed, 17 Jun 98 02:53:22 +0000
+
+Subject: JICalc alternat. for PC,Synth tuning,...
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hey Patrick ,All,
+
+>> (BTW, if you have access to a Mac and haven't yet gotten the JICalc, do it
+>> now!)
+>
+>No Mac, I'm afraid.  Is there a PC equivalent?
+I believe Scala might do the trick ! On 23rd Mar  Manuel Op de Coul 
+announced a bug fixed
+ release version 1.4 . It's at
+<ftp://ella.mills.edu/ccm/tuning/software/pc/scala/scala14.zip>
+J.Starrett's page should have a link to more info about it 
+<www-math.cudenver.edu/~jstarret/microtone.html>
+
+>>> Hate to be a wet blanket, etc.
+>
+>Totally agreed with John Loffink's reply to this  - there has been
+>progress, and there will be more.
+
+Agreed.I hope everyone's optimism about what synth makers will do bears 
+fruit. I snuck in the 
+wet blanket thing because the thread was getting a little too happy ;-) 
+One of the reasons
+I prefer a sceptical view is I'm never dissapointed and I've seen so much 
+craziness in general,
+almost nothing surprises me anymore.
+
+>> It would take mucho
+>>RAM, @ 100Kb for ea. mono sample @ one second long. I don't think
+>>looping all those samples to conserve memory is a good way to keep
+>>sane. Besides, I think David First said something important about the
+>>nitty gritty of the looping process. If you need to set up all 128
+>>MIDI notes, that's 100Kb * 128= @12.5MB per "instrument",per layer
+>>(if you need velocity switching samples,etc). It would take one of
+>>those 128MB samplers to pull it off.
+>
+>I'm not sure I undertood this correctly, or whether it's
+>(remotely?) true for all samplers.
+Well, to be more accurate, one sec. of mono 16-bit,44.1KHZ sound should 
+take @86 to 95KB.
+What's up with the "(remotely?)" bit ? Someone please correct me if I've 
+got something
+wrong.
+
+Plus,most samplers cannot hold 128 samples per "instrument"/channel. 
+You'd have to 
+use more than one channel to set up a 128-note multi-sample instrument.
+
+I checked & in Digest 1393 Gary (not David) said :
+>Also, having worked a lot with sampled tones looped on a single
+>vibration, which obviously renders them exactly harmonic, I can certainly
+>attest to the fact that the timbre changes slightly when it drops into
+>looping.  And that timbre changes in a manner consistent with overtone
+>detuning.
+etc.
+
+And in Digest 1400 David First wrote :
+>In addition, it has been my experience that when creating JI related sample
+>loops, that it is not enough that the frequency relationships be exact - the
+>period of the wave cycles involved all must have a simple divisible integer
+>relation with one common compound period/sample length. Further, I believe
+>that it is best to have a simple divisible relationship with the sampling 
+>rate
+>one is employing. As an example, for a recent set of 21 JI pitch 
+>relationships
+>I developed, I used a common 1/1 period number/sample base length of 21870. I
+>then doubled this number to achieve the sampling rate of 43740.
+etc.
+
+Which is what I meant by the looping not being  a recipe for long term 
+sanity.
+Besides which, when things get too convoluted the room tends to spin. 
+I'm not much for delayed gratification.
+
+Speaking of D.First, a wee article about him in Guitar Player somewhere 
+between 
+1991  and 1993 (I think) was possibly the first time I read about 
+microtones. They did an
+ article on Glen Branca too @ the same time (maybe).
+David, I remember reading it with fascination and it's a little weird 
+being on the 
+same list and quoting snippets of wisdom.
+
+Later ,eh ?
+-Drew

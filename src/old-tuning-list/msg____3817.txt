@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Wed, 23 Oct 1996 14:01:23 -0700
+
+Subject: JI Calc 4.31
+
+From: Carter Scholz <csz@well.com>
+
+A new version of JI Calc is at
+ftp://mills.edu/ccm/tuning/software/mac/jicalc431.sea.hqx
+
+This corrects a problem with ear training, and consolidates both
+68K and PPC versions into a single stack.  Quicktime 2.0 and QT
+Musical Instruments are required to run this version.  68K users
+who don't wish to use Quicktime should stick to 4.21.
+
+Cool new color icon, too.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 24 Oct 1996 00:36 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11193; Thu, 24 Oct 1996 00:38:36 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA10922
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id PAA08325; Wed, 23 Oct 1996 15:38:33 -0700
+Date: Wed, 23 Oct 1996 15:38:33 -0700
+Message-Id: <3372334875.1838840@ycrdi.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

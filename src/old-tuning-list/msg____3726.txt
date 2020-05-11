@@ -1,0 +1,74 @@
+source file: mills2.txt
+Date: Fri, 4 Oct 1996 19:18:45 -0700
+
+Subject: 88CET Guitar
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+My brother just asked me about how my 88CET guitar-refret job turned out.
+Perhaps some of you might also be interested.  
+
+   The guitar turned out juuuust fine.  It looks pretty much like it came of the
+factory that way.  The old fret grooves are almost indetectable.  There's still
+a couple of minor cleanups I need to do, but they are indeed minor.  
+
+   One fellow on the Cocoa Beach tipped me with a nickel.  I concluded that he
+probably didn't really hear me because:
+1.  I could hardly hear myself over the wonderful wave crashing.
+2.  He gave me only a nickel.
+3.  If he had in fact actually heard me, he would probably not have even 
+    given me that!
+
+   After experimenting with several known-useful chord structures, notably
+harmonic- and subharmonic-series fragments, stacks of neutral and supramajor
+thirds, I came up with an open-string tuning that seems to work well.  Since
+guitars are normally tuned in fourths, and since two fourths stack up to minor
+seventh, I figured that it made sense to tune it such that the interval between
+every other string is 88CET's 7:4 subminor seventh approximation.  That was even
+more meaningful because my notation system uses that interval as the "cycle"
+interval, in the same sense that traditional tunings use the octave.  
+
+   In my notaton system, two adjacent Bs (for example) are a subminor seventh
+apart, although neither of their pitches is the same as any traditional B.  (I
+keep middle C at the same constant pitch between both systems.  It probably
+would have been more appropriate to keep A=440Hz the same, but that was
+convenient at the time.  I probably ought to revamp my ASR-10 pitch table one of
+these days.
+
+   So anyway the question was how to distribute the pitches of each string pair
+within their subminor-seventh span.  What seemed to render the most
+known-interesting chords the most fluidly was tuning the intervals between
+successive strings (from low-string to high) was supramajor third, off-fourth,
+supramajor third, off-fourth, supramajor third.  Or to put it another way,
+* Fifth fret on the low-string gives the pitch of the second-lowest string,
+* Sixth fret on the second-lowest string gives the pitch of the third-lowest 
+  string, 
+* Fifth fret on the third-lowest string gives the pitch of the third-highest 
+  string,
+* Sixth fret on the third-highest string gives the pitch of the second-highest
+  string, and
+* Fifth fret on the second-highest string gives the pitch of the highest 
+  string.
+In my notation system, the note-names under that scheme that worked out closest
+to the traditional guitar's pitch range came out to be A D A D A D, the low A
+being notated as the A below the bass staff.  
+
+   While I was on the beach, I got the first inklings of a 88CET-guitar
+composition, and I started writing it up on the airplane on the way back.  I'll
+frame it in homage to Ivor Darreg, because - toward the beginning anyway - it
+has a little bit of the flavor of some of Ivor's guitar preludes, but it gets
+more intricate shortly after that.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 5 Oct 1996 09:05 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09822; Sat, 5 Oct 1996 08:07:01 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA09830
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id AAA02375; Sat, 5 Oct 1996 00:06:53 -0700
+Date: Sat, 5 Oct 1996 00:06:53 -0700
+Message-Id: <199610050305_MC1-A1C-B7C0@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

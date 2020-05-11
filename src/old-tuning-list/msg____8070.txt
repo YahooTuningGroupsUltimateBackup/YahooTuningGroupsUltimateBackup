@@ -1,0 +1,14 @@
+source file: m1446.txt
+Date: Sat, 13 Jun 1998 20:18:46 -0500 (CDT)
+
+Subject: RE: Ensoniq
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>You can't change patches in real-time on the samplers.
+
+   If by that you mean that there will be a delay when you select a patch -
+a delay to load it from disk - then yes, that's certainly true.  But the
+ASR's designers didn't say something like "well, this is a sampler, so we
+can't switch patches, therefore we won't even respond to patch-change
+messages".

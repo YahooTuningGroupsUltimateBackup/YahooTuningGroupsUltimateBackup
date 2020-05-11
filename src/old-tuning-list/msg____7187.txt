@@ -1,0 +1,28 @@
+source file: m1346.txt
+Date: Fri, 6 Mar 1998 11:32:55 -0500 (EST)
+
+Subject: asr 10 w/25 tones in just
+
+From: Alexander Bogdanowitsch <sashabog@mail.eclipse.net>
+
+Hello all fellow tuners:
+
+I have a question to all ensoniq or asr 10 sampler owners.
+I 've got an instrument with a 25 tone just intonation scale that I'm
+trying to use to mock up this vocal quartet piece of mine, that's a free
+rhythm , chordal piece. The only way I can get the notes to be remotely
+similar to what's on the keyboard is breaking the scale up into 8 
+different pitch tables, then copying the instrument eight times, each 
+with a different pitch table chosen.
+Does anyone know of any easier way to realize this? As of now, I have to
+go over to the sampler and push the next button for the different section of
+the tuning ,which creates an unwanted scale in the musical phrasing. There 
+doesn't seem to be a way to 
+switch between tunings in mid-flight. Is there a better way via midi?
+I could put all the notes I need spread all amongst one 
+keyboard/pitchtable, but I think it would take months for me to realize 
+that way, the notes not being close to what they are on the notation.
+Maybe I have to finally get a sequencer. Would that help things? 
+Any ideas 
+anyone? Thanks,
+Sasha Bogdanowitsch

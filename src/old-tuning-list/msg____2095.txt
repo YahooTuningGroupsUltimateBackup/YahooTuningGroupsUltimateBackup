@@ -1,0 +1,145 @@
+source file: mills2.txt
+Date: Tue, 3 Oct 1995 08:22:15 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & psychoacoustics - post 10 of 25
+---
+So far we have seen the complexity of the ear's response to pitch; not a 
+quantity linearly proportional to the logarithm of frequency, pitch appears 
+to be influenced by many aspects of timbre--amplitude, masking tones, 
+overtone harmonicity, and range of the note played.  
+The ear's perception of complex sounds is equally complicated.
+"Both von Helmholtz and Wundt based the development of harmony and 
+melody on the coinciding harmonics for consonant intervals." [Plomp, R. and 
+Levelt, W.J.M., "Tonal Consonance and Critical Bandwidth," Journ. Acoust. 
+Soc. Am., Vol. 6, No.1, April 1965, pg. 549]
+Simple experiments, conducted in the 1960s, showed this not to be the case.
+"On the basis of more recent and more sophisticated experiments (Plomp and 
+Levelt, 1965) on consonance judgment involving pairs of pure tones and 
+inharmonic complex tones, it became apparent that the beats between 
+harmonics may not be the major detemrining factor in the perception of 
+consonance. Two pure tones an octave or less apart were presented to a 
+number of musically naive (untrained) subjects who were supposed to give a 
+qualification as to the "consonance" or "pleasantness" of the superposition. 
+A *continuous pattern* was obtained, that did not reveal preferences for 
+any partuclar musical interval. Whenever pure tones are less than about a 
+minor third apart, they were judged "dissonant" (except for the unison); 
+intervals equal orlarger than minor third were judged as more or less 
+consonant, irrespective of the actual frequency ratios.  The shape of the 
+curve really depends on the absolute frequency of the fixed tone." [Roederer, 
+J., "The Physics and Psychophysics of Music," 1973, Pg. 142] 
+Plomp and Levelt called this interval, somewhat smaller than a minor third, 
+"the critical bandwidth."  It changes size slightly at lower frequencies.  
+"...maximal tonal dissonance is produced by intervals subtending 25% of the 
+critical bandwidth, and maximal tonal consonance is reached for interval 
+width of 100% of the critical bandwidth." [Plomp, R. and Levelt, W.J.M., 
+"Tonal Consonance and Critical Bandwidth," Journ. Acoust. Soc. Am., Vol. 6, 
+No.1, April 1965, pg. 549]
+"An interesting consequence of the significance of the critical bandwidth is 
+that the degree of dissonance of a dyad depends on many factors other than 
+the frequency ratio.  If the tones have many strong overtones, the 
+consonance quality is reduced.  A consonant dyad becomes increasingly 
+dissoannt when it is transposed downward on the frequency scale, just as 
+for sine tones. For example, a major third sounds reasonably consonant 
+around A4, but if played close to C2 it sounds quite dissonant on most 
+instruments.  The relation between consonance and frequency ratios is also 
+entirely dependent on whether the tones have harmonic spectra.
+"Consonance is apparently a highly conditioned phenomenon. It is stimulating 
+to realize that the dissonance/consonance concept in music theory would 
+have been entire different if our musical instruments had not provided us 
+with harmonic spectra!" [Sundberg, J., "The Science of Musical Sounds,"1992, 
+pg. 85]
+This finding lends support to all three tunings (just, equal tempered, non-
+just non-equal) provided that the partials of the musical notes are changed 
+so as to fit the tuning.
+As mentioned above, Plomp's and Levelt's findings (extended and refined by 
+Kameoka and Kuriyagawa's formula for calculating the consonance of 
+complex tones) also casts doubt on many conventional "rules" of harmony 
+and melody--even if just intervals and perfectly harmonic overtones are 
+used: "As an application of the consonance theory, effects of harmonic 
+structure on the consonance characterisc are discussed. (...) 
+(...) It became clear that the fifth was not always a consonant interval.  A 
+chord of two tones that consists of only odd harmonics, for example, shows 
+muchworse cosnonance at the fifth (2:3) than at the major sixth (3:5) or 
+some other frequency ratios.  This was proved true  by psychological 
+experiments carried out in another institute (sensory Inspection Committe 
+in the Japan Union of Scientists and Engineers) with a different method of 
+scaling. Thus, the fact warns against making a mistake in applying the 
+conventional theory of harmony to synthetic musical tones that can take 
+variety in the harmonic structure." [Kameoka, A., and Kurigawa, M., 
+"Consonance Theory Part II: Consonance of Complex Tones and Its 
+Calculation Method," Journ. Aoucst. Soc. Am., Vol. 45, No. 6, 1969, pg. 1460]
+Because consonance and dissonance depend not on the harmonicity of two 
+complex tones, but on the coincidence (or lack thereof) of their component 
+partials within the critical bandwidth for that frequency range, "...these 
+examples refer to a vast domain opened up by digital synthesis, namely that 
+of inharmonic tones.  Most sustained instrumental tones are equasi-
+periodic, and their frequency components are harmonically related, which 
+stresses certain intervals like the octave and the fifth.  With the freedom of 
+constructing tones from arbtirary frequency components, one can break the 
+relationship between consonance-dissonance aspects and fixed, privileged 
+intervals (Pierce 1966). In his piece Stria (1977), Chowning has thus been 
+able to make rich textures permeate each other without dissonance or 
+roughness, by controlling the frequencies constituting these textures. This 
+is also a case where spectra not only play a coloristic role (see Roads 1985) 
+but actually peform a quasi-harmonic function." [Risset, J.C., "Digital 
+Techniques and Sound Structure in Music," in "The Music Machine," ed. Curtis 
+Roads, 1985, pg. 122]
+"By using a digital computer, musical tones with an arbitrary distribution of 
+partials can be generated.  Experience shows that, in accord with Plomp's 
+and Levelt's experiments with pairs of sinusoidal tones, when no two 
+successive partials are too close toegher such tones are consonant rather 
+than dissonant, even though the partials are harmonics of the fundamental.  
+For such tones, the conditions for consnance of two tones will not in general 
+be the traditional ratios of the frequencies of the fundamentals. (...)  It 
+appears that, by providing music with tones that have accurately specified 
+but nonharmonic partial structures, the digital computer can release music 
+from the tyranny of 12 tones without throwing consonance overbarod." 
+[Pierce, J.R., Journ. Acoust. Soc. Am., Vol. 6, No. 12, 1966, pg. 249]
+"I suggest that the nonharmonic domain of frequency relationships may in 
+some way contain a necessary system of hierarchical structural functions."  
+[Dashow, J.,  "Spectra As Chords," Computer Music Journal, 1980]" 
+"The hypothesis has been made that perceived  effects similar to the 
+consonance and dissonance experienced with harmonic tones  should exist 
+for inharmonic tones. Clearly, it cannot be claimed that the perceptions are 
+exactly the same, since inharmonic and harmonic tones themselves sound 
+different to the ear. However, the experiments do establish a similarity 
+between the consonance dissonance phenomenon in harmonic and inharmonic 
+sounds." [Geary, J.M., "Consonance and Dissonance of Pairs of Inharmonic 
+Tones,"  J.Acoust. Soc. Am, 67 (5), May 1980]
+"The chords sounded smooth and nondissonant but strange and somewhat 
+eerie. The effect was so different from the tempered scale that there was 
+no tendency to judge in-tuneness or out-of-tuneness. It seemed like a peek 
+into a new and unfamiliar  musical world, in which none of the old rules 
+applied, and the new ones, if any, were yet undiscovered." [Slaymaker, F. H, 
+"Chords From Tones Having Stretched Partials," J. Acoust. Soc. Am., Vol. 47, pp. 1469-1471, 1970]
+"We have to compose real music of many kinds within all and any of our new 
+tuning schemes, if this work is to have any lasting value at all, or be taken 
+seriously by the music community..."[Carlos, W., "Tuning: At the Crossroads," 
+Computer Music Journal, 1987] 
+In short, "Experiments with inharmonic partials (Slaymaker, 1970; Pierce, 
+1966) have shown that consonance or dissonace is indeed dependent on the 
+coincidence of partials and not necessarily on the simple frequency ratio 
+between the fundamnetal frequencies..." [Rasch, R.A. and Plomp, R., "The 
+Perception of Musical Tones," in "The Psychology of Music," ed. Diana 
+Deutsch, 1982, pg. 21]. Thus all three tuning systems appear equally viable 
+on the basis of the evidence considered in this post, given a digital or acoustic instrument whose partials are matched to the  tuning system 
+in question.
+The next post will discuss the important phenomenon of categorical
+perception, and its implications for tuning and music.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 3 Oct 1995 19:30 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA04880; Tue, 3 Oct 1995 10:30:18 -0700
+Date: Tue, 3 Oct 1995 10:30:18 -0700
+Message-Id: <m0t0B81-000FwjC@frollo.fa.disney.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

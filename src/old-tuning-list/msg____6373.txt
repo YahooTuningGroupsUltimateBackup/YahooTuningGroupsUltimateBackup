@@ -1,0 +1,62 @@
+source file: mills3.txt
+Date: Mon, 3 Nov 1997 12:03:40 +0100
+
+Subject: Farey in Schroder
+
+From: James Kukula <kukula@synopsys.com>
+
+Paul Ehrlich recommended to me the book _Number Theory in Science and
+Communication: With Applications in Crypotography, Physics, Digital
+Information, Computing, and Self-Similarity_, by Manfred R. Schroeder. The
+Third Edition was just published (1997) by Springer. The back blurb says it's
+"an introduction for non-mathematicians". I've just read a little bit so
+far. There seems to be a lot of material here. It is not in the all too common
+sadistic style of most math books, but the mathematics here is very real all
+the same.
+
+Section 5.10, pp. 82-89, is on Farey Fractions.
+
+Jim
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Re: Microstock 3 and ski fest
+PostedDate:  02-11-97 06:16:51
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  03-11-97 19:19:26-03-11-97 19:19:27,03-11-97 18:19:52-03-11-97 18:19:53
+DeliveredDate:  03-11-97 18:19:53
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256544.0064A718; Mon, 3 Nov 1997 19:19:23 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00817; Mon, 3 Nov 1997 19:20:34 +0100
+Received: from ns.NL.net by ns (smtpxd); id XA00815
+Received: by ns.NL.net (5.65b/NLnet1.3)
+	id AA18899; Mon, 3 Nov 1997 12:07:24 +0100
+Received: from contura.NL.net by ns.NL.net (5.65b/NLnet1.3)
+	id AA08400; Sun, 2 Nov 1997 11:35:45 +0100
+Received: from ns.NL.net (ns.NL.net [193.78.240.1])
+	by contura.NL.net (8.8.7/8.8.7) with SMTP id LAA19687
+	for <manuel.op.de.coul@ezh.nl>; Sun, 2 Nov 1997 11:35:39 +0100 (CET)
+Received: from contura.NL.net by ns.NL.net (5.65b/NLnet1.3)
+	id AA07925; Sun, 2 Nov 1997 11:32:40 +0100
+Received: from ns.NL.net (ns.NL.net [193.78.240.1])
+	by contura.NL.net (8.8.7/8.8.7) with SMTP id LAA19046
+	for <manuel.op.de.coul@ezh.nl>; Sun, 2 Nov 1997 11:31:20 +0100 (CET)
+Received: from ella.mills.edu by ns.NL.net (5.65b/NLnet1.3)
+	id AA17343; Sun, 2 Nov 1997 06:16:51 +0100
+Date: Sun, 2 Nov 1997 06:16:51 +0100
+Received: (qmail 28673 invoked from network); 1 Nov 1997 21:15:43 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Nov 1997 21:15:43 -0800
+Message-Id: <v01541100b0815f8a6bb7@[207.207.2.124]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

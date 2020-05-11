@@ -1,0 +1,53 @@
+source file: m1461.txt
+Date: Sun, 28 Jun 1998 20:08:15 -0700
+
+Subject: Re: TUNING digest 1457
+
+From: Carl Lumma <clumma@nni.com>
+
+>Apparantly, Bosanquet studied 22-tET extensively, and Ogolevets
+>proclaimed it the future of music (along with 17-tET). The section of my
+>paper entitled "History of 22" now seems really underinformed. But my
+>chances of ever being able to get a hold of those writings seems very
+>small -- anyone know if McLaren actually had the primary sources on
+>hand?
+
+I wouldn't say that Bosanquet studied 22 "extensively".  I am certain he
+was unaware of the decatonic scales.  What he did know was that 22 was one
+of a group of positive 2nd order systems that had good 3rds.  He knew such
+systems wouldn't work on his generalized keyboard, which was designed for
+1st order systems, so he developed a generalized mapping for use with 2nd
+order systems.  This mapping was based on the diatonic scale, and no
+keyboard has ever been built to play it to the best of anyone's knowledge.
+His work with 22 was towards the end of his music theory investigations;
+the last years of his career were devoted to the study of magnetism.
+
+For those un-acquainted with Bosanquet's ideas and terminology, I offer
+this primer:
+
+1. The size of an interval can be measured in...
+      a) "departure", the difference from the 12tET approximation
+      b) "error", the difference from just
+
+2. All tunings can be described by specifying the size of the 3/2, or
+nearest approximation.
+
+3. A tuning is "positive" if its best 3/2 has a positive departure.  A
+tuning is "negetive" if its best 3/2 has a negetive departure.  [Although
+note recent post from John Chalmer's regarding McLaren's XH17 article and
+the possibility of revising this terminology to use error instead of
+departure].
+
+4. Pitches in a tuning are described by their location on the chain of
+these 3/2's.
+
+5. Significant things can be told about a tuning by how various commas are
+represented.  Special terms are assigned to the two most important commas...
+     a) "order", the number of steps of the tuning representing the
+Pythagorean comma
+     b) "class", the number of steps of the tuning representing the
+Syntonic comma
+   For example, 12tET has order zero and class zero.  22tET has order two
+and class one.
+
+Carl

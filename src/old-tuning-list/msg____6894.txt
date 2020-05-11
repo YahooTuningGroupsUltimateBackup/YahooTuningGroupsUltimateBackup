@@ -1,0 +1,56 @@
+source file: mills3.txt
+Date: Thu, 1 Jan 1998 08:42:01 +0100
+
+Subject: Semiconductor analog to phonons
+
+From: "Brian M. Ames" <bmames@apk.net>
+
+There is in semiconductor theory a conceptual particle called a "hole" which
+represents the absence of an electron in the lattice of the substrate.  It
+has the same properties as an electron except opposite charge and direction.
+Likewise, a particle called a "phonon" can be conceived.  It would have
+properties derived from the medium in which the sound traveled; in air it
+would essentially be a nitrogen molecule. Since the collisions between
+molecules are not perfectly elastic, phonons would "tire out" and stop
+moving as their energy dissipated.  They would not obey quantum laws which
+in any event become insignificant in the large collections of particles
+which is the domain of sound.
+
+Just as semiconductor holes cannot travel beyond the boundary (juncture) of
+the substrate, phonons would not be able to travel between media.  They
+would instead transfer their energy to phonons in the other media at the
+juncture. And, of course, phonons would not be able to cross empty space as
+photons do.
+
+Do phonons exist?  Yes, to the extent the concept is useful.
+
+Is it a useful concept? This is uncertain.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Aline Surman <stick@dnvr.uswest.net>
+Subject:  New Year
+PostedDate:  01-01-98 18:19:25
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-01-98 18:17:05-01-01-98 18:17:06,01-01-98 18:16:27-01-01-98 18:16:27
+DeliveredDate:  01-01-98 18:16:27
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125657F.005EEED6; Thu, 1 Jan 1998 18:18:51 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29168; Thu, 1 Jan 1998 18:19:25 +0100
+Date: Thu, 1 Jan 1998 18:19:25 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA28955
+Received: (qmail 23148 invoked from network); 1 Jan 1998 09:19:22 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Jan 1998 09:19:22 -0800
+Message-Id: <34ABD8BC.612A@dnvr.uswest.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

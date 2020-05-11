@@ -1,0 +1,51 @@
+source file: mills2.txt
+Date: Mon, 7 Jul 1997 02:00:30 +0200
+
+Subject: Octave invariance
+
+From: DFinnamore@aol.com
+
+Graham Breed writes:
+
+>If you allow for the octave equivalence of intervals, all triadic
+>inversions contain the same intervals.  
+
+How so?  The way I larnt it, a simple C major triad in root position consists
+of a minor third stacked on top of a major third.  In first inversion, it
+consists of a perfect fourth stacked on top of the minor third.  In second
+inversion it's that perfect fourth with the major third stacked above it.
+ From what perspective are those the same set of intervals?
+
+> ... However, if you disallow octave
+>equivalence of intervals, and you define harmony in terms of intervals,
+>you must also reject the octave equivalence of harmony.  Inversional
+>invariance follows from octave invariance, unless you have a
+>privileged root to lift the otonal/utonal degeneracy.
+
+I don't quite follow all that, especially the "privileged root" part, with
+which concept I am unfamiliar.  Could you give an example?
+
+> ... none of this
+>implies that octave transpositions are harmonically negligible.  Many
+>people state this, and I believe it to be a result of sloppy thinking.
+
+To my great surprise, I am increasingly inclined to agree with you on that.
+ After all, orchestrators and arrangers have known the importance of
+appropriate "voicing," or spacing of intervals across octaves, for about as
+long as there has been 4-part harmony.
+
+David J. Finnamore
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 7 Jul 1997 05:47 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06109; Mon, 7 Jul 1997 05:48:14 +0200
+Date: Mon, 7 Jul 1997 05:48:14 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA06112
+Received: (qmail 27470 invoked from network); 7 Jul 1997 03:48:10 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 7 Jul 1997 03:48:10 -0000
+Message-Id: <Pine.SCO.3.96.970706205143.1788A-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

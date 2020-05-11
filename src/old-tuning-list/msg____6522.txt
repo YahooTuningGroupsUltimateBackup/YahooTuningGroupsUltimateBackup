@@ -1,0 +1,82 @@
+source file: mills3.txt
+Date: Mon, 1 Dec 1997 23:06:41 +0100
+
+Subject: JI vs. equal temp.
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Many of the JI enthusiasts neglect to mention that the language of
+Common Practice (i.e., Western c. 1600-1900 plus Tin Pan Alley, etc.)
+music requires the vanishing of the syntonic comma. Some form of
+temperament (not necessarily equal despite Neil's claim, but any regular
+or irregular meantone temperament) is therefore required for
+performances of this music. If one wishes all the chords to be perfectly
+pure, and one does not make constant slight adjustments to the pitch
+level of common tones, one will find the pitch of the music wandering,
+usually descending by several commas. But that does not mean JI music
+cannot support chord changes. From the latest issue of The Microtome, an
+interview with Ben Johnston:
+
+"I asked myself, suppose in writing some of the really very intense slow
+movements that he did, Beethoven had not had the tempered scale to work
+with, but had instead just intonation, what might that music have been?
+Then I tried to write that piece, as an exercise for myself. It's
+actually part of a piece--I liked it well enough that I put it into a
+piece. But at first of course it's just to find out. The richness is one
+thing, the flexibility is another. The typical Beethoven progression,
+for example will cause you to drop by a microtonal amount every time the
+progression repeats itself. What I did was to work it out that the pitch
+would drop, gradually, until the whole thing drops almost a half step,
+and then I force it to come back up by working out progressions that
+would make it do that. That is, of course, quite different from what
+Beethoven was dealing with. He would have had to deal with that had he
+been actually using just intonation with the kind of interests that he
+had."
+
+For guitarists, the set of pitches that Ben Johnston needed for this
+example is quite forbidding, as is any interval less than a comma near
+the middle of the fretboard. Equal temperaments make sense for guitar
+music because only then is the same set of pitches available on all
+strings, and because styles that make use of bending come to grief when
+one encounters a dog-legged fret. Of course, a fretless guitar
+alleviates all these problems, but even so one still has to contend with
+the error of one syntonic comma in tuning the open strings of a guitar
+to something resembling standard tuning. This will be a problem in any
+tuning that is not a meantone tuning (12-, 19-, and 31-equal are
+meantone tunings that happen to be finite). Neil H. has stated that the
+interval between the G and B strings on his 34-tone guitar is one degree
+of the tuning larger that the "best" major third, and Jon Catler's D and
+G strings are one syntonic comma farther apart than a just perfect
+fourth. My 22-tone guitar also has two adjacent strings separated by a
+major third augmented by one degree; although this interval is only 1
+cent off a just 9:7, it is too low (approx. Eb-G below middle C) to
+sound consonant by itself.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Carl Lumma <clumma@nni.com>
+Subject:  Re: TUNING digest 1254
+PostedDate:  02-12-97 02:51:00
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  02-12-97 02:49:22-02-12-97 02:49:22,02-12-97 02:49:16-02-12-97 02:49:17
+DeliveredDate:  02-12-97 02:49:17
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256561.0009FF2D; Tue, 2 Dec 1997 02:49:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03891; Tue, 2 Dec 1997 02:51:00 +0100
+Date: Tue, 2 Dec 1997 02:51:00 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03889
+Received: (qmail 23445 invoked from network); 1 Dec 1997 17:50:53 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Dec 1997 17:50:53 -0800
+Message-Id: <19971202015150281.AAA134@NIETZSCHE>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

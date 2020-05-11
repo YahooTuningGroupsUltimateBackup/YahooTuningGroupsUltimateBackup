@@ -1,0 +1,51 @@
+source file: m1421.txt
+Date: Tue, 19 May 1998 16:54:04 -0400
+
+Subject: Lattices
+
+From: monz@juno.com (Joseph L Monzo)
+
+Here's a messge I sent privately to Graham Breed
+(newly edited somewhat).  Since we're ironing out
+the history of using lattice diagrams, I thought I'd
+make it public.
+--------------------------------------------------------------------
+When I first designed a lattice graph to represent pitches
+back around 1988, I used exactly the same triangular
+format used by you and Erlich, with 5/4 above and to
+the right of 1/1, and 6/5 below and to the right.  It was
+something that I came up with by playing around with
+Partch's Tonality Diamond scheme.
+
+I was shocked to find out that diagrams exactly like this
+appeared in a book called "A Graphic Introduction to the
+Harmon" by Esther Watson Tipple & Royal Merrill Frye,
+and published back in 1942!
+
+I just read Mandelbaum's (unpublished) book for the first
+time, and have found out that Fokker used diagrams very
+much like mine.  In fact, Riemann's harmonic ideas [c. 1890]
+are based on a 3^x * 5^y lattice structure.
+
+Over the past four years, doing research for my book, I've
+seen almost all of the various visual pitch representations
+that I thought I invented, in books that were written as far
+back as 1600!
+
+So Gregg Gibson [TD 1278] certainly had a point about how
+we moderns think we're doing something new that's already
+been done countless times before.  But of course, technology
+has given us many new capabilities, and we can adapt these
+old ideas to new technologies.
+
+I think the 3-dimensional ladder-type lattices I use (see
+some of my recent postings) are the best way to represent
+JI systems of more than 3 prime factors.
+ 
+   Joseph L. Monzo
+    monz@juno.com
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

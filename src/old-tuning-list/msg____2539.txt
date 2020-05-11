@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Wed, 7 Feb 1996 13:27:50 -0800
+
+Subject: Who's Afraid of the Big Bad 9:7?  Part 9
+
+From: Gary <71670.2576@compuserve.com>
+
++----------------------------------------------------------------------------+
+|  Tip #15:                                                                  |
+|     9:7 can also be used as an intermediary in the resolution of scale     |
+|     degree 4 down to 3 in authentic cadence.                               |
++----------------------------------------------------------------------------+
+
+
+   (John Chalmers pointed this one out to me;  thanks, John!)  Contrapuntally,
+you could present this somewhat like you would suspended fourth.  That would be
+kind of like suspending the fourth on elastic string!  In other words, the
+fourth would go down a little bit to 9:7 above the tonic in the suspended chord,
+rather than stick at 4:3 like in a true suspension, then finally resolve to 5:4.
+I found it more effective, however, to not move the bass up a fourth from
+scale-degree five to one until sounding the final tonic triad.  
+
+   Neither of these two subtly different progressions seems to heighten the need
+to resolve as much as does a 9:7 injected into the leading-tone rise path, as
+suggested in the previous tip.  That's probably because the suspension gives the
+sense that the authentic cadence has - conceptually speaking - already taken
+place, even though we still have a note left over.  
+
+   Here's another intriguing and somewhat similar possibility.  I won't dedicate
+a tip to it because I haven't studied it enough to get a clear feel for its
+usefulness.  Consider quartal harmony, or in particular, the three-note chord
+formed by two 4:3s stacked atop one another.  The top note in that chord is a
+16:9 minor seventh above the root.  It's certainly possible to move that chord
+to a dominant seventh (with omitted fifth) by dropping the middle note from 4:3
+above the root to 5:4 above the root.  That however is a rather weak harmonic
+movement, probably because the harmonic tension doesn't really change all that
+much.  
+
+   But what if we make that movement through the 9:7?  The tension certainly
+goes up.  One probably contrapuntally interesting way to do that would be to
+have root and seventh first move up by 28:27 to where the 4:3 above the root
+becomes 9:7, and then move that middle note down the remaining 36:35 to form the
+5:4 against the moved root.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 8 Feb 1996 22:08 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA28164; Thu, 8 Feb 1996 13:08:18 -0800
+Date: Thu, 8 Feb 1996 13:08:18 -0800
+Message-Id: <960208210404_71670.2576_HHB78-4@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,167 @@
+source file: mills3.txt
+Date: Thu, 8 Jan 1998 05:21:49 +0100
+
+Subject: Special Way
+
+From: Carl Lumma <clumma@nni.com>
+
+Paul Erlich wrote...
+
+>The 7-limit harmony in barbershop is not merely "stuck on" to the
+>diatonic scale; it consists of dominant seventh chords which are >diatonic
+in function and origin, and the 27-cent adjustments required >to achieve JI
+are not large enough to disturb the essential >diatonicity of the music.
+
+You're nitpicking what I meant by "Stuck on"?
+
+>As for the pitch sets being different for melody and harmony, don't >tell
+me that the sevenths of these dominant seventh chords never occur >in the
+melody!
+
+They do, but not often.  If the lead is singing the 7, then usually the
+tenor has the melody.  There are many songs where the melody contains no
+pitches outside the 3-limit.  What is important is that the melody is not
+really part of the voice leading in the traditional sense, except in the
+case of sustained notes.  Chords are built _on_ it.  What follows in this
+post may help to clear the issue up.
+
+>>}I think that most people recognize that barbershop harmonies sound
+>>better than piano harmonies.  If you can hear the difference, doesn't
+>>that make it a "perceptually distinct pitch set"?  Maybe I'm just
+>>splitting hairs...
+>>
+>I think that many people will hear the difference but not know whether
+>any particular pitch is being adjusted upwards or downwards -- they >will
+simply detect a difference analagous to a change in timbral >quality on the
+chordal level. An adjustment large enough to evoke a >non-diatonic pitch (I
+mean diatonic in the sense of several closely >related heptatonic keys),
+however well-motivated harmonically, will >have a different effect,
+probably not one that most people would find >pleasant.
+
+I usually use "pitch set" to mean "all the pitches you need to play the
+thing".  Mr. Erlich's "pitch set", as used above, is something very
+different.  If I am not mistaken, he uses the term "pitch set" above to
+touch on a model that describes a certain aspect of music:  Where harmony
+and melody interact in a Special Way.
+
+What is this Special Way?  Krumhansl, quoted by Mr. Erlich, seems to be
+touching on it: "If chord construction is determined in some principled way
+by scale structure, then this further serves to maintain the tonal
+framework for encoding pitch information."
+
+Most western classical music happens to work in this Special Way, and the
+thing it uses to do it is the diatonic scale.  Mr. Erlich's goal, if I'm
+not mistaken, is to find a new scale suitable for use in this Special Way.
+
+To recap so far, I am using "Special Way" to mean a way of explaining
+beauty in music from how melody and harmony are related, a construct
+heretobefore unknown to music theory, at least at the level Mr. Erlich
+takes it.  In his paper, it is called "Generalizing diatonicity".  I
+suggest this is an unfortunate term, as it implies the diatonic scale,
+which is exactly what he wants to replace, kind of how "octave" isn't a
+good way to say "2/1", since it implies 12-tone...
+
+>I think Schonberg may have been right that diatonicism had been played
+>out, but in abandoning the concepts of tonality and scale he threw the
+>baby out with the bathwater.
+
+..Here, Mr. Erlich uses the words "tonality and scale" to mean Special
+Way.  His post then translates: "I think Schonberg may have been right that
+the diatonic scale has been exhausted as a tool for making music in the
+Special Way, but he threw out the Special Way, which wasn't what was used up."
+
+Now follows a review of his paper, which hopes, it seems, to show just how
+the Special Way isn't used up, and just how you can tune an instrument
+that'll make the Special Way seem as new as 1998.
+
+---------------------------------------------------------------
+
+The author starts by observing that the Western Music is 5-limit, and,
+following the "music evolves up the harmonic series" thing, sets his sights
+on the 7-limit.
+
+He then defines a set of scales as candidates for representing the 7-limit.
+ These scales are assumed to be root of 2 equal-step tunings, with only one
+pitch per 7-limit approximation.
+
+The one pitch per approximation thing is necessary for the Special Way to
+work, as far as I can tell.  I can't quite tell you how, but I have a gut
+feeling it is, and since the Special Way is what we're after, I won't argue
+it.  Besides, it keeps the size of the pitch set manageable.
+
+The root of 2 part is understandable, considering that we need strong low
+identies for our 7's to work.  This seems contradictory to the rule that
+the higher identities are more sensitive to mistuning, since there are more
+low-numbered fractions near them.  Indeed it is, and perhaps it is a
+counterbalance to this principle.  The paper offers only that "octave
+equivalence seems pervasive" and that it is "universally perceived, even by
+some animals".
+
+The matter of mistuning is far from clear, even touching back on our old
+bone about unknowingly passing low-numbered ratios when measuring cent
+detuning of an interval.  Paul's paper addresses this by making the
+standard deviation in log-frequency detuning inversely proportional to the
+limit of the interval.  Not ideal, but better than any other method I've
+been able to think of, and good enough for root of 2 equal tunings from 12
+to 31.
+
+The equal-step part is the most dubious.  The Special Way has always been
+based on temperament of some kind, and it seems that only Bog or God can
+decide if all those schkissmas need to disappear for it to work, insomuch
+as Mr. Erlich has never shown it.  He has mentioned, on this digest, some
+modulatory effects that require two D's to be the same note, etc, but this
+is a problem of trying to retune music already written.  That Special Way
+music cannot be written for JI, complete with its own list of modulatory
+effects impossible in a temperament, has not been demonstrated.
+
+So the list of scales comes down to 22, 26, 27, and 31 tone equal temperament.
+
+Then are listed criteria for determining a scale's usefulness for the
+Special Way.  Since the Special Way is a relationship between a scale's
+melodic and harmonic usefulness, the criteria are separated in these two
+groups...
+
+1. Melodic.  In Paul's paper we have maximal evenness and tetrachordality.
+In Gibson-land, we have the melodic limen.  Jules Siegel proposed that the
+intervals should get smaller as you go up the scale.  None of these
+convince me in the least even that a scale can "work" melodically.  Maybe
+the most useful thing I've heard for describing the melodic properties of a
+scale is "symmetry".  I will accept, however, that the criteria used by Mr.
+Erlich are, "enough to ensure an intelligible melodic framework".
+
+2. Harmonic.  Now we're talking.  This is where the real relations between
+melodic and harmonic are drawn...
+   (a)"There exists a pattern of intervals" ... "which produces a complete,
+consonant chord on most scale degrees"
+   (b)"The majority of consonant chords have a root that lies" the best
+approximation of a 3/2 "away from another consonant chord"
+   (c)"A chord progression of no more than three consonant chords is
+required to cover the entire scale"
+
+..in what would be letter "d", Mr. Erlich makes use of a term I do not
+understand: "characteristic dissonance".  He defines it to be any dissonant
+interval that shares the same number of scale steps as a consonant
+interval.  Shadings of dissonance aside, what kind of scale steps we
+talkin'?  The example of the diminished 5th is given, but why it should be
+considered a type of 5th, or why the P5 should not be considered a 7th is
+not made clear.
+
+   (e)The rarest intervals in the scale should be located next to notes in
+the tonic chord.  Like leading tones.
+
+What would be "f" makes use again of the term "characteristic dissonance".
+
+The number of scales fitting these criteria is shown to be few.  Among them
+are the 5-limit diatonic and the 3-limit pentatonic, two scales proven over
+hundreds of years to be great for the Special Way.  While this shouldn't
+come as much of a surprise, considering the author admits to basing his
+criteria on the success of these scales, any time such a unique set of
+properties can be found, they're probably worth looking into.
+
+Finally, it is shown that the decatonic scale in 22TET fits the criteria well.
+
+So has the paper provided a good definition of the Special Way?  Yes.  Has
+it succeeded in convincing me that the Special Way is still good, and that
+the 22TET decatonic scale is a fresh vehicle for it?  Without a doubt.
+What it hasn't provided is a name for the Special Way.  Maybe "tonality" is
+best, but I didn't use it because it has so many other meanings.

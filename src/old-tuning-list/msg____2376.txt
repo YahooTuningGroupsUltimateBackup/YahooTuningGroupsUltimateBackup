@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Fri, 8 Dec 1995 05:54:36 -0800
+
+Subject: JICalc FTP, melograph
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+>
+>I've been trying to FTP JI Calc, but the old addresses don't seem to
+>work for me anymore :-(  Can someone tell me where to find it?
+
+There are current versions of JICalc 4.2 at ella.mills.edu in
+/ccm/tuning/software/mac.  You can anonymous FTP there.
+
+>     Also, I've been wondering if anyone has created a PC version of
+>the melograph, i.e., something that will read a sound file and provide
+>a continuous graph of pitch & loudness?  
+
+There's a program I picked up from the net a while back called gram.exe.
+If displays FFTs of signals in color given an input WAV file.  You may be
+able to derive pitch and loudness from that but there's nothing specific in
+it that does this.  I can't remember where I got it but the info box says to
+send comments or questions to rshorne@delphi.com.  Sound Forge also has a
+new spectral analysis plugin.
+
+regards,
+
+Steve Curtin
+Ensoniq Corp
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 8 Dec 1995 19:23 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA11285; Fri, 8 Dec 1995 10:23:10 -0800
+Date: Fri, 8 Dec 1995 10:23:10 -0800
+Message-Id: <199512081820.AA01313@server.net4you.co.at>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,39 @@
+source file: m1447.txt
+Date: Mon, 15 Jun 98 00:24:30 +0000
+
+Subject: Synth tuning resolution
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+About getting the kind of resolution that Dave Hill and Charles Lucy 
+wrote about :
+The 0.1 should be easy . 
+
+But this :
+>Eventually we will get the required 1/196,608 units per octave
+Maybe when they defrost us from those cryonic tanks,eh ?
+
+But seriously folks, one way we can get this is in software synths.
+As I mentioned before,the Max-MSP combo already does floating point 
+Hz accurate tuning.
+
+Another way is using samplers. You can use a software synthesis system 
+like
+Csound, CLM,etc.,etc. to synthesize a whole bunch of samples at any pitch 
+you 
+want, perfectly tuned. Then if you can figure out a way to get them into 
+a sampler ASAP with little pain and time ( and have the RAM for it), 
+you're done. 
+It would take mucho RAM, @ 100Kb for ea. mono sample @ one second long.
+I don't think looping all those samples to conserve memory is a good way 
+to keep sane.
+Besides, I think David First said something important about the nitty 
+gritty of the 
+looping process.
+If you need to set up all 128 MIDI notes, that's 100Kb * 128 = @12.5MB per
+"instrument",per layer (if you need velocity switching samples,etc).
+It would take one of those 128MB samplers to pull it off.
+
+-Drew
+
+"I think the bees *suspect* something."- Winnie-the-Pooh

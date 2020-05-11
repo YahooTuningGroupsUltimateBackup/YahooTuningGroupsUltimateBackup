@@ -1,0 +1,41 @@
+source file: mills3.txt
+Date: Mon, 5 Jan 1998 17:29:26 +0100
+
+Subject: Re: AWE 64G and other gear.
+
+From: "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+
+Graham Breed said in Digest 1290,
+"It is possible to set up Sound Fonts with specific tunings for
+the 64G.  I know how to do this, I just have to get round to
+writing a program to automate the process."
+
+Since my Tropez plus apparently packed it up (possibly a motherboard
+problem)  I currently can't detwelvulate.  I replaced it with an AWE 64 gold
+as an interim solution until I could afford a reliable external sound
+module.   I would be VERY interested to do such a program or at least to
+help out.  I have a Delphi compiler for Win 95 and Windows 3.1. Could you
+please send me info by private email as to how it's done?   I would also be
+interested in your program to retune by pitch bends if you'd be willing to
+share it until the other program is up and running.
+
+He also said,
+"I've also got a Wave Blaster daughterboard, living in a different
+PC.  I have seen mention of this having tuning capabilities.  Is
+this right?"
+
+That's entirely correct.  Just use the Emu Proteus family setting on any
+software that you're using; the Sysex format is the same.
+
+For those that are interested other gear that I use:
+Ztar Mini ZX MIDI controller (currently developing a Patch editor for this)
+Roland PC-200 keyboard MIDI controller
+World Music Menu retuning software
+Scala (the latest version)
+PowerTracks Pro (excellent reasonably priced sequencer)
+
+---Fred.
+
+---------------------------------------------------------
+Fred Kohler, #7-240 Burnside Rd E, Victoria, BC, Canada
+phone:(250)388-7918  email:Fred_Kohler@bc.sympatico.ca

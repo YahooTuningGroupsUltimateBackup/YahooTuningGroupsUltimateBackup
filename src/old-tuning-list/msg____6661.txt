@@ -1,0 +1,155 @@
+source file: mills3.txt
+Date: Tue, 16 Dec 1997 18:45:20 +0100
+
+Subject: series of improving equal temperaments
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+In each series below, each term represents the number of notes in the
+simplest equal temperament that improves upon the accuracy of the
+previous one. Tunings in parentheses are the second-best for up to that
+many notes. I don't go beyond 200TET. Accuracy is defined with respect
+to JI in the indicated odd limit; equal temperaments not consistent
+within the given limit are excluded.
+
+3-limit:
+     1
+     2
+     3
+     5
+     7
+    12 (17) (24)
+    29
+    41
+    53 (65) (94) (106)
+   200
+
+5-limit:
+     3 (4)
+     5
+     7 (8) (9) (10)
+    12 (15)
+    19 (22)
+    31
+    34 (46)
+    53 (65) (87)
+   118 (137) (152)
+   171
+
+7-limit:
+     4 (5)
+     6
+     9
+    10
+    12
+    15 (16)
+    19
+    22 (26)
+    27
+    31 (37) (41) (53) (62)
+    68
+    72
+    99 (103) (130)
+   140
+   171
+
+9-limit:
+     5
+    12
+    19
+    22
+    27
+    31
+    41 (46)
+    53 (58)
+    72 (77) (94)
+    99 (118) (130)
+   171
+
+11-limit:
+    22 (26) (29)
+    31
+    41 (46)
+    58
+    72 (80) (87) (94) (111)
+   118 (130)
+   152 (159) (176) (183) (198)
+
+13-limit:
+    26
+    29
+    41
+    46
+    58
+    72 (80)
+    87
+   111
+   130 (149) (159)
+   166
+   183
+   190
+   198
+
+15-limit:
+    29
+    41
+    58
+    72 (80)
+    87 (94)
+   111
+   121
+   130 (149) (159)
+   183
+   190
+
+17-limit:
+    58
+    72 (80)
+    94
+   111
+   121
+   149
+   159
+   183
+
+19-limit:
+    80
+    94
+   111
+   121
+
+21-limit:
+    94
+   111
+
+23-limit:
+    94
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  19-tone ruminations and 22-tone exhortations
+PostedDate:  16-12-97 18:47:57
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  16-12-97 18:45:58-16-12-97 18:45:58,16-12-97 18:45:37-16-12-97 18:45:37
+DeliveredDate:  16-12-97 18:45:37
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125656F.0061942A; Tue, 16 Dec 1997 18:47:45 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17131; Tue, 16 Dec 1997 18:47:57 +0100
+Date: Tue, 16 Dec 1997 18:47:57 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA17127
+Received: (qmail 6964 invoked from network); 16 Dec 1997 09:47:52 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 16 Dec 1997 09:47:52 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971213002507Z-433@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

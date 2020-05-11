@@ -1,0 +1,142 @@
+source file: mills3.txt
+Date: Wed, 24 Dec 1997 23:24:26 +0100
+
+Subject: Greek tetrachords in 19
+
+From: John Chalmers <non12@deltanet.com>
+
+I found the table of tetrachords in 19-tet quite interesting.
+Most of them, however, are rather un-Greek in their contours and
+arrangements, though the Islamic writer Safiyu-D-Din presented all
+the permutations of the intervals of his tetrachords too. I've played
+most of the over  the years and find many useful for building
+novel scales.
+
+I have some qualms about calling the genus 1 1 6 (C C# Db F,
+0 1 2 8) enharmonic as it appears to me to be a blend of the
+hemiolic chromatic and true enharmonic because of the deviations
+of 19-tet's intervals from JI and the 0 mod 12 temperaments in which
+Aristoxenos's tetrachords are conveniently expressed. I do not
+think that just the mere presence of intervals of 1 degree of
+19 justifies calling such tetrachords enharmonic. Nineteen-tet
+has a fair approximation to the  Chromatic and Diatonic genera of
+Archytas (and the corresponding genera  of Ptolemy), but both have
+an interval of 1 degree.
+
+I have presented much of the argument for this before, but I
+repeat it at the end of this post in new guise for those who might
+have missed it or want to read more about the topic.
+
+As for Pythagorean tuning, I doubt singers were often required to
+jump to tones 4 or 5 fifths removed from their current notes except
+in the old enharmonic with its ditonal leaps or the archaic
+harmoniai of Aristides Quintilianus. However, the voice was usually
+supported by either the aulos or a plucked string instrument such
+as the lyra or kithara. Melodies tended to be conjunct and quite narrow
+in range, so I don't imagine the vocal demands were excessive. In
+the absence of harmony, some intonational lattitude may have been
+acccepted, though we know little of performance practice in Greek
+music or the much earlier Sumero-Babylonian music which was similarly
+tuned. The same is probably true for early medieval music in Europe.
+
+--John
+
+Enharmonic in 19-tet:
+
+Whether the enharmonic is expressed in 19-tet depends somewhat
+on one's definition of the enharmonic genus. Historically, it
+began as a pentatonic scale in Pythagorean tuning and the important
+intervals were not microtones, but the incomposite ditones
+(408 cents, 81/64). Toward the end of the 5th century BCE, the
+limmas at the bottom of each trichord were split to form two rather
+small "quarter tones" and in the process enlarge the scale to seven
+tones. In the 4th century, a process of "sweetening" took place
+in which the ditone was shrunk (or softened) first to a 5/4 (Archytas,
+390 BCE), then to various more or less neutral thirds, to end up
+as a minor third, probably a 32/27 according to Aristoxenos (~330).
+Aristoxenos was the son of a famous musician and probably knew what
+he was talking about in terms of the general effect of the tunings then
+in use.
+
+The size of the pyknon, or dense region of two dieses at the bottom
+of the tetrachord served to charactarize the genus or type of tetrachord.
+In his system, thus, the enharmonic consisted of two 1/4 tones and
+a ditone, the soft chromatic of two 1/3 tones and flat major third of
+367 cents, the hemiolic chromatic of two 3/8 tones and neutral third
+(350 cents), and finally the intense chromatic of two semitones and
+a minor third (or trihemitone). Aristoxenos grudgingly admits that
+there is an enharmonic genus with an "irrational" large lowest interval
+and a chromatic with the pyknon divided in the proportion of 1:2
+(Winnington-Ingram. It is clear that these are not the preferred
+tunings in his day.
+
+Now, the "enharmonic" in 19-tet is a hybrid between the true
+enharmonic and the soft chromatic. Because of the sharp fourth
+and the flattish major third of 19, the tetrachord 1 1 6 has the
+1/3 tones of the hemiolic  chromatic, but a major third that is
+intermediate between the incomposite 367 cent interval of the hemiolic
+chromatic and the ditone of the enharmonic, though it is closer
+to the former. This tuning somewhat resembles Archytas's enharmonic,
+except that the middle interval is too large and the upper one too
+small. Furthermore, the 1/3 tone of Archytas's genera was chosen to
+make a 7/6 with the subtonic (Erickson, W-I, etc.), but the
+corresponding interval of 4 degrees  in 19 is not as consonant.
+Thus the 19-tet genus 1 1 6 is neither enharmonic or chromatic in sensu
+stricto.
+
+Melodically, however, it sounds quite enharmonic because of the major
+third, though it lacks the clarity of Aristoxenos's Pythagorean
+or pseudo-tempered tuning and the consonance of Archytas's ratios.
+
+The best Greek chromatic tuning in 19-tet is the 1:2 genus,
+which closely resembles Archytas's tuning, though he used the
+32/27 instead of the 6/5 as the uppermost interval. The tetrachord
+0 1 3 8 (1 2 5) also approximates Ptolemy's Intense chromatic. The more
+Aristoxenian tuning with an evenly divided pyknon, 2 2 4, does not
+closely resemble any ancient Greek tuning, though Byzantine and Islamic
+writers give similar tetrachords in JI.
+
+There is also the diatonic genus with the hemiolic chromatic diesis
+of  Aristoxenos. In 19-tet it would be 1 4 3 degrees or 0 1 5 8. This
+tetrachord approximates Archytas's diatonic.
+
+Aristoxenos's soft diatonic genus, 0 100 250 500 cents is not
+expressible in 19-tet, as 1 3 4 is not a good approximation.
+
+Anyway, I do not think 19-tet is a very good temperament for playing
+ancient Greek scales or music written in them unless the corpus is
+restricted to just a few tetachords or specific 19-tet tetrachordal
+music is composed. I would think the same would be true for any
+music in which the fourth and fifth and their compounds are the
+most prominent intervals and the same is true for other negative systems.
+For such musics, 17 or some multiple of 12 would be my choice if
+straight JI were not considered. 
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  John Chalmers <non12@deltanet.com>
+Subject:  Danielou's theories
+PostedDate:  24-12-97 23:24:59
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  24-12-97 23:22:51-24-12-97 23:22:51,24-12-97 23:22:21-24-12-97 23:22:22
+DeliveredDate:  24-12-97 23:22:22
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256577.007AECC2; Wed, 24 Dec 1997 23:24:36 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA25309; Wed, 24 Dec 1997 23:24:59 +0100
+Date: Wed, 24 Dec 1997 23:24:59 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA25295
+Received: (qmail 2840 invoked from network); 24 Dec 1997 14:24:42 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 24 Dec 1997 14:24:42 -0800
+Message-Id: <Pine.SCO.3.96.971224142308.3291E-100000@delta1.deltanet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

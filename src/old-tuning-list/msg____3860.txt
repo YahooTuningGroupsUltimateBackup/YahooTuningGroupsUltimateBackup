@@ -1,0 +1,31 @@
+source file: mills2.txt
+Date: Mon, 28 Oct 1996 10:47:49 -0800
+
+Subject: An easy introduction to tuning
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Common in music pedagogy is pentatonic improvisation, as on the black keys 
+of a piano. I find that the choice of Pythagorean vs. Zarlinan (meantone) 
+tuning for the pentatonic scale has a profound effect on the result. I first 
+experienced this using an organ timbre and the two sounded so different that 
+I was convinced that the timbre, not the tuning, was being changed (I was 
+wrong). There is no way to decide which sounds better for a random 
+pentatonic improvisation, but the difference is striking, and the difference 
+in the resulting compositional choices is likely to prove striking as well. 
+Therefore I think this might just be the best way to introduce newcomers to 
+the issues of tuning.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 28 Oct 1996 21:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06350; Sun, 27 Oct 1996 03:31:52 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA05609
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id TAA07410; Sat, 26 Oct 1996 19:31:49 -0700
+Date: Sat, 26 Oct 1996 19:31:49 -0700
+Message-Id: <Pine.SOL.3.91.961026221840.26485E-100000@mcmail.CIS.McMaster.CA>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

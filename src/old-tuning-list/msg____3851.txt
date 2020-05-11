@@ -1,0 +1,93 @@
+source file: mills2.txt
+Date: Sun, 27 Oct 1996 20:56:17 -0800
+
+Subject: notation replies
+
+From: "Adam B. Silverman" <adam.silverman@yale.edu>
+
+As I stand now, I think that Dan's ideas are very good; while Ben gives
+special accidentals to 7 and higher primes, he combines 3 and 5, with both
+using the 81/80 (+/-) diacritical.  Dan's system (an I understand it) uses
+sharps and flats (double sharps, etc.) for an ever-extensible Pythagorean
+chain, and applies + and - only for the intervals on the 5-plane.
+Therefore, the 5-relationship of any major chord built on an uninflected
+pitch will be followed by a -.  I haven't used Dan's notation because it
+wasn't very practical to study with Ben and confuse him with a very similar
+yet different notation.  Similarly, in my string quartet, I use A+=400
+(while Ben always uses A=440); however, in my arrangements of Partch for
+string quartet, I defer to Ben's precedence.
+
+>For my own theoretical purposes I remove these two anchors, and relativise
+>the system completely; since I'm dealing with modal or tonal music, 1/1 is
+>be identified with whichever letter-name is the modal final or tonal centre.
+
+What happens when you modulate?  A tricky situation (one of the thorny
+sides of this notation) is that in music that I have analyzed as 5-limit
+(such as Lassus, Gesualdo, Palestrina, even Chopin), it can drop by 7 or 8
+commas in a short piece.  Jonathan asked:
+
+>I'll be interested to see what you come up with [regarding key signatures]
+>eventually.
+
+The simplest approach I can think of is not very good for perforance, but
+in my transcriptions of Renaissance music, I used brackets above the staff
+which contained the number of commas to correct.  I would usually add these
+when it dropped (or raised) more than three commas.  This is better for
+analysis than for performance, but those commas are tricky to perform,
+aren't they?  I find that the music which needs such corrections is music
+which ignores the comma.  When a composer pays attention to it like I do,
+the music doesn't modulate that far.  It is my great dream, however, that a
+simple notation will be developed that will allow for the easy modulation
+to remote lattice regions--it is the notation that keeps me for writing
+such highly modulatory music, and notation should never guide composition.
+
+>> I do find it curious
+>> that so many people have made transcriptions of Partch scores in
+>> Johnston*s notation which goes against both the whole limit (factoring)
+>> idea of Partch, and Partch*s decided invertibility. Moreover, the
+>> instances in Partch*s music which are based upon the syntonic diatonic
+>> scale are minimal.
+
+Partch's music, actually, goes against the whole theory of "limits" (except
+for isolated examples, notably The Letter and parts of Oedipus)--that was
+his book and not his music. In practice, the Monophonic Scale was treated
+as a source for improvisation, and prominently features "out of tune"
+intervals.  Near-but-mistuned fifths and thirds are favored, even in free
+instruments like the Adapted Viola and the voice.  Decidedly, the reason to
+use Ben's notation for Partch transcription is because it is exact and
+unambiguous.  One should always bear in mind, however, that it was designed
+for Ben and not for Harry.  Furthermore, Harry was shown the notation and
+liked it.
+
+>> If you have a real gripe and would like to set Fonville straight, I
+>> suggest that you write him at San Diego State University...
+
+Pardon me--I meant to write University of Calif., San Diego.
+
+To Jon Szantos: are you still bored?
+
+Yours,
+Adam
+
+_________________
+Adam B. Silverman
+153 Cold Spring Street; A3
+New Haven, CT 06511
+(203) 782-1765
+
+abs22@pantheon.yale.edu
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 28 Oct 1996 22:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA20367; Sat, 26 Oct 1996 20:44:16 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA05822
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA04109; Sat, 26 Oct 1996 11:44:14 -0700
+Date: Sat, 26 Oct 1996 11:44:14 -0700
+Message-Id: <961026184005_71670.2576_HHB48-9@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

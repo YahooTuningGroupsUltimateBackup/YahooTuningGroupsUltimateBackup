@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Tue, 9 Jan 1996 02:49:28 -0800
+
+Subject: RE: Copyright on files in the ftp archive and MMPI
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Lorien Dunn writes:
+> As part of the hypertext documentation I would like to 
+> include some files from this archive's FTP site, namely mclaren's 
+> microtonal bibliography and discography. Is this OK?
+
+Brian reads this mailing list with some delay, but I think he wouldn't
+mind. The latest versions of these files are bib.html and discs.html.
+The latter is mostly my work and it's OK if you use it. You can make them
+into text files with a web-browser.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 9 Jan 1996 12:16 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id DAA25100; Tue, 9 Jan 1996 03:16:54 -0800
+Date: Tue, 9 Jan 1996 03:16:54 -0800
+Message-Id: <199601091116.DAA24992@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

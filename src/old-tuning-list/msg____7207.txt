@@ -1,0 +1,118 @@
+source file: m1348.txt
+Date: Sun, 8 Mar 98 17:49 GMT0
+
+Subject: Re: Identification of pitches
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Gary Morrison wrote:
+
+>    There has been a lot of talk in the past on this list about using
+> pitch-bend for implementing unusual tunings.  Perhaps now would be a good
+> time for all of us WHO HAVE ACTUALLY TRIED IT (I haven't) to update us on
+> your experiences with it.  Be sure to include notes on relevant aspects of
+> your music (e.g., how many timbres you're attempting to play at a time,
+> whether real slurs are common in the resulting music, how fast your notes
+> are playing, and probably other factors).
+
+I've been using pitch bends for a few years one way or another,
+and I've never had any problems beyond the obvious, like you
+have to think about how to arrange the channels, and WaveGuide,
+of which more below.  I have done multi-timbral sequenced stuff,
+but most of the time now I just play one part in real time.  If
+anyone can hear slurs in my Tape Swap contribution, well, let us
+know.  The timing glitches are deliberate!
+
+None of the instruments I've got have any problems with slurs.
+I've heard something else, I think an Ensoniq MR Rack, that does.
+I think the slurs are put in there deliberately, because they
+didn't sound gated.  Anyway, I can't confirm this.
+
+I've done some pretty fast sequenced stuff.  Speeded up melodic-
+drums-as-chords, that sort of thing.  The only problems I'm
+aware of are with sending too many continuous controller messages,
+usually for panning.  This is a tuning related problem, because
+you need to send 4 times as many messages for 4-note polyphony.
+
+Bank selects, RPNs and NRPNs can also be a problem.  They're all
+compound messages and it's critical what order they arrive in.
+Unfortunately, the sequencers don't seem to realise it, so I'm
+going to have to put delays between them.  It's only the pitch
+bend range RPN that's relevant here.
+
+Some of the AWE64's WaveGuide instruments only respond to pitch
+bends before note ons.  I'll have to alter my software to cope
+with this.  Some instruments (notably the flute) have a realistic
+pitch bend response, rendering them unpredictable with pitch bend
+tuning because the timbre goes with extreme bends and the pitch
+can depend upon the key velocity anyway.  With all this realism,
+you'd expect authentic tunings but, no, the harpsichord's in
+12-equal ...
+
+>   The problems that have been cited include that it's impossible to send
+> the pitch-bend message and the note-on simultaneously, and that the MIDI
+> 1.0 spec itself does not specifically state how much a given amount of
+> pitch-bend deflection should affect the pitch of the note.
+
+Limited precision is a problem with the DX21, but no more so than
+with the TX81Z's tuning tables.  If anyone comes across an
+instrument that doesn't do linear pitch interpolations for pitch
+bends, let us know.
+
+In case you didn't understand that, I meant that a pitch bend
+half way to a semitone will sharpen by exactly 50 cents, usw
+
+> (The simultaneity concern
+> regards the possibility of there being a "blurp" in either the attack of
+> the new note, or the release of the previous note in cases where the two
+> notes are completely legato or slurred).
+
+I've used pitch bend tuning with the DX21 in mono mode, with
+portamento.  I can't hear any problems.  It may be my ears but,
+as the pitch starts to change when you press a new key, the fact
+that it changes abruptly to begin with isn't at all audible.
+I'd guess that a new note coming on would mask any pitch changes
+in decaying notes on the same channel.  You just have to make
+sure they're decaying fast enough that you don't get erroneous
+harmonies.  It can be useful to have two channels for a single
+melodic line.  This also means you can do a trill with two pitches
+assigned to the same MIDI note.
+
+>    Solutions proposed include accepting a single timbre, and allocating a
+> single channel for each of the nominal 12 pitches,
+
+A simple idea but a bad one.  You can forget multi-timbralness,
+and you're restricted to 15 or 16 notes per octave.
+
+> or allocating channels
+> in pairs, and alternating notes between them, and sending pitch bend
+> messages before the next note begins playing, while the note on the other
+> channel is playing.  (All that combined obviously with not playing more
+> than one pitch at a time on a given channel.)
+
+No reason to stop at pairs, of course.  This is how my software
+works.  A better algorithm would be to check to see if a channel
+already has the desired pitch bend, to cut down on the number of
+bends to be sent.  Also, when assigning a new bend, use the
+channel with the last released note, rather than the last note
+on.  This way, you can hold a chord with one hand and play a
+melody with the other.
+
+I have a MIDI file convertor posted at Charles Lucy's website
+(http://www.ilhawaii.net/~lucy) and the source code's also there.
+I made it as easy as possible for other C++ programmers to extend
+it for other pitch bend projects.  I've also got a Windows
+program that adds pitch bends to a MIDI stream in real time.
+It can be used with keyboards and sequencers.  An undocumented
+version can be e-mailed on request.  Otherwise, I'll write a
+help file as soon as I can be bothered and post it on the net.
+
+Now, that real time program has a window that links mouse
+movements to pitch bends.  The software means that these bends
+work with the pitch bend tuning.  If you set an octave pitch
+bend range there are very audible glissandi if you sweep across
+a whole octave too quickly.  This is the biggest pitch bend
+problem I have, and it'd still be a problem with tuning tables.
+
+This is quite a long message, so I suppose my experience does
+count for something ...

@@ -1,0 +1,124 @@
+source file: mills2.txt
+Date: Thu, 5 Sep 1996 09:02:21 -0700
+
+Subject: RE: Recent Archive Contributions
+
+From: World Harmony Project <sejic@afn.org>
+
+Yes, that looks more like it! Nice to see the correspondence comments in the
+right column, too.
+
+It is important to remember though, that this scale is a matrix of harmonic
+series (used as scales and chord materials) and subharmonic series (also
+used as scales and chord materials). The matrix allows for close
+relationships among the tonalities (individual series) for modulation among
+them. The linear representation should be usefull for melodic instruments
+(and perhaps harmonic as well) that would be expected to move fluidly among
+the changes in tonality. Of course, numerous modes exist both within the
+individual tonalities and the composit scale as well and various subsets of
+these can be very useful.
+
+
+
+On Thu, 5 Sep 1996, Manuel Op de Coul wrote:
+
+> Denny,
+> 
+> Maybe it's this scale. You get it when the INVERT is done with
+> respect to 2/1 instead of 17/8. Or it's created with SQUARE and then
+> entering the 10 factors of 8 to 17, and then REDUCE 2/1 and UNIQUE.
+> 
+> Manuel
+>   1:         18/17           98.95463 Arabic lute index finger
+>   2:         17/16           104.9554 17th harmonic
+>   3:         16/15           111.7313 minor diatonic semitone
+>   4:         15/14           119.4428 major diatonic semitone
+>   5:         14/13           128.2983 2/3-tone
+>   6:         13/12           138.5727 tridecimal 2/3-tone
+>   7:         12/11           150.6371 3/4-tone
+>   8:         11/10           165.0043 4/5-tone
+>   9:         10/9            182.4038 minor whole tone
+>  10:          9/8            203.9100 major whole tone
+>  11:         17/15           216.6867
+>  12:          8/7            231.1741 septimal whole tone
+>  13:         15/13           247.7411
+>  14:          7/6            266.8710 septimal minor third
+>  15:         20/17           281.3584
+>  16:         13/11           289.2098
+>  17:          6/5            315.6414 minor third
+>  18:         17/14           336.1296 supraminor third
+>  19:         11/9            347.4080 undecimal neutral third
+>  20:         16/13           359.4725 tridecimal neutral third
+>  21:          5/4            386.3139 major third
+>  22:         14/11           417.5081
+>  23:          9/7            435.0843 septimal major third
+>  24:         22/17           446.3627
+>  25:         13/10           454.2141
+>  26:         17/13           464.4279
+>  27:          4/3            498.0452 perfect fourth
+>  28:         15/11           536.9509
+>  29:         11/8            551.3181 harmonic augmented fourth
+>  30:         18/13           563.3825
+>  31:          7/5            582.5125 septimal diminished fifth
+>  32:         24/17           596.9998 1st septendecimal tritone
+>  33:         17/12           603.0007 2nd septendecimal tritone
+>  34:         10/7            617.4880 septimal augmented fourth, Euler's tritone
+>  35:         13/9            636.6179
+>  36:         16/11           648.6823 harmonic diminished fifth
+>  37:         22/15           663.0495
+>  38:          3/2            701.9553 perfect fifth
+>  39:         26/17           735.5726
+>  40:         20/13           745.7864
+>  41:         17/11           753.6378
+>  42:         14/9            764.9162 septimal minor sixth
+>  43:         11/7            782.4924
+>  44:          8/5            813.6866 minor sixth
+>  45:         13/8            840.5280 tridecimal neutral sixth
+>  46:         18/11           852.5924 undecimal neutral sixth
+>  47:         28/17           863.8709
+>  48:          5/3            884.3591 major sixth
+>  49:         22/13           910.7907
+>  50:         17/10           918.6421
+>  51:         12/7            933.1295 septimal major sixth
+>  52:         26/15           952.2593
+>  53:          7/4            968.8264 harmonic seventh
+>  54:         30/17           983.3137
+>  55:         16/9            996.0905 Pythagorean minor seventh
+>  56:          9/5            1017.596 just minor seventh
+>  57:         20/11           1034.996
+>  58:         11/6            1049.363 21/4-tone
+>  59:         24/13           1061.427
+>  60:         13/7            1071.702 16/3-tone
+>  61:         28/15           1080.557 grave major seventh
+>  62:         15/8            1088.269 classic major seventh
+>  63:         32/17           1095.045
+>  64:         17/9            1101.045
+>  65:          2/1            1200.000 octave
+> 
+> 
+
+Denny Genovese
+Director
+
+Southeast Just Intonation Center
+
+World Harmony Project Inc.
+PO Box 15464
+Gainesville, FL 32604
+
+Email: sejic@afn.org	Web Page: http://www.afn.org/~sejic
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 5 Sep 1996 19:24 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22785; Thu, 5 Sep 1996 19:25:34 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA22885
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA14735; Thu, 5 Sep 1996 10:25:32 -0700
+Date: Thu, 5 Sep 1996 10:25:32 -0700
+Message-Id: <75960905172257/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

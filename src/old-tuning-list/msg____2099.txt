@@ -1,0 +1,74 @@
+source file: mills2.txt
+Date: Thu, 5 Oct 1995 22:40:25 -0700
+
+Subject: 88CET #16:  Cadences?
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Are there dissonant-to-consonant resolutions in nontraditional 88CET harmony
+that can serve as cadences to reinforce phrasing or tonality? 
+
+   Yes, although there is one caveat that I'll get into in greater detail later:
+Many of them form dissonant-to-consonant resolutions at an overall higher level
+of dissonance.  So if a typical authentic cadence were represented a drop in
+harmonic tension of 3 to 1, on a hypothetical scale of 0 to 10, then some of
+these may represent a reduction in harmonic tension from 5 to 3.  I like to call
+this "raising the ante" - we're still reducing tension, but at higher overall
+level.  
+
+   But anyway, there certainly are interval resultions that can propel 88CET
+nontraditional cadences somewhat analogously with how tritone resolution propels
+some traditional cadences.  The 9:7 supramajor third can resolve outward to a
+perfect fifth, or a minor sixth.  That latter case requires two voices to
+resolve outward by whole-step.  Still, it is perhaps more powerful nevertheless
+because it moves from a startling dissonance to a warm, poignant consonance,
+rather than to a cold, bland interval like a perfect fifth.  Here is an example
+of this sort of raised-ante resolution (recall my notation system presented
+earlier):
+                                        G
+                                    F
+                                    C     
+                                        Bb
+
+                                        G
+                                    F
+                                    C
+                                        B
+
+(This consists of two supramajor thirds separated by an off-fourth, resolving to
+a perfect fifth below a minor sixth separated by a whole-step.  It has a
+slightly deceptive-like taste.  
+
+   The curious-sounding 15:7 minor ninth can resolve outward to the 19:8 minor
+tenth, or 5:2 major tenth.  The 11:6 neutral seventh can resolve inward to a
+major sixth.  This progression is probably a better example yet of this
+raised-ante resolution:  
+                  Bb                           Bb
+                       A                            A
+                                or similar     
+                  E    E        yet subtly     E    
+                                different:          Eb
+                       Bb                           Bb
+                  A                            A
+
+All I can say about these two progressions is that you've got to hear them to
+believe them!  They're really surprising, especially in a bright timbre like a
+trumpet.  
+
+   One might be tempted to try resolving a 14-step off-octave as a dissonance,
+outward to major or minor tenths.  I've never managed to get this to work,
+because those off intervals aren't dissonant; they're just wrong!  However,
+resolving the 6-step off fourth outward to a minor or major sixth, or inward to
+a subminor third, works a LITTLE bit better.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 6 Oct 1995 15:12 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id GAA05048; Fri, 6 Oct 1995 06:12:17 -0700
+Date: Fri, 6 Oct 1995 06:12:17 -0700
+Message-Id: <9510060700175086@csst.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

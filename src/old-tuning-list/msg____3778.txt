@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Thu, 17 Oct 1996 13:55:30 -0700
+
+Subject: MIDIBASIC
+
+From: John Chalmers <non12@deltanet.com>
+
+Re Bill Sethares's post: I have sometimes used BASIC to control my
+FB01 from my MAC via a BASIC Mac library called MIDIBASIC, published 
+by a company called Altech in Shreveport LA. Carter Scholz wrote some 
+BASIC code using calls to  MIDIBASIC routines for Arturo Salinas and me 
+back in '88 to control our FB01's via fractional note-ons.
+
+I'm  not sure if Altech Systems are  still around or supporting it, but 
+it works fine on the old 68K Macs upto and including System 6.0X (I've 
+run my noodling programs on an SE30 under System 6.07 with no problems). 
+
+MIDIBASIC came in MSQuickBasic and ZBASIC flavors, but a PC version
+was also listed in their cataloque. Likewise, a MIDIPASCAL was available
+as well. 
+
+I'm not sure even MSQuickBASIC runs on System 7, however, so I don't know
+if MIDIBASIC can be used with later MACS or with the PPC chip.
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 18 Oct 1996 07:24 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01918; Fri, 18 Oct 1996 07:25:41 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA01984
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id WAA02404; Thu, 17 Oct 1996 22:25:38 -0700
+Date: Thu, 17 Oct 1996 22:25:38 -0700
+Message-Id: <961018052059_71670.2576_HHB38-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

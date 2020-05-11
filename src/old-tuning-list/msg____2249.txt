@@ -1,0 +1,25 @@
+source file: mills2.txt
+Date: Fri, 3 Nov 1995 22:33:17 -0800
+
+Subject: Re: Transcendental Numbers
+
+From: masa@gold.interlog.com (marc sabat)
+
+pi and e are transcendental numbers, and they're also fun...
+
+(especially since with a bit of trickery you can derive that
+e raised to the power i*pi is equal to -1)
+
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 4 Nov 1995 19:17 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA21917; Sat, 4 Nov 1995 09:17:44 -0800
+Date: Sat, 4 Nov 1995 09:17:44 -0800
+Message-Id: <Pine.3.89.9511041228.A2322-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Thu, 8 Aug 1996 13:45:52 -0700
+
+Subject: RE: P. Erlich's comments
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Well, maybe we won't agree to disagree just yet.
+
+>"Best" has a strict mathematical, as opposed to musical definition.
+>Consequently, the most desirable musical result may conflict.
+
+Exactly. Here's the implicit derivation of your strict mathematical 
+definition: the syntonic comma is (3:2)^4/(5:4) (ignoring octaves); 
+therefore the best syntonic comma is 4 times the best perfect fifth minus 
+the best major third, mod the number of notes per octave. Another, just as 
+musically relevant and just as mathematically strict, definition would be: 
+the syntonic comma is (3:2)^3/(5:3) (again ignoring octaves); therefore the 
+best syntonic comma is 3 times the best perfect fifth minus the best major 
+sixth, mod the number of notes per octave. If the two definitions lead to a 
+conflict, I see no reason one should take precedence. Therefore, in such 
+cases, there is no "best" syntonic comma.
+
+>The method . . . . also allows for an improvement in Blackwood's notations 
+in a few cases.
+
+I'd be interested in hearing more about this.
+
+>There is no more inherent reason to expect the m3 and M3 to "behave
+>properly" than there is for cycles of P5 or for the M3 and P5 together.
+
+To behave properly is to behave as in just intonation. In just intonation, 
+cycles of P5 don't close or form just M3s, so there is no inherent reason to 
+expect equal temperaments to behave this way. In just intonation, a M3 plus 
+a m3 is a P5, so this is a reasonable expectation of any equal temperament 
+in which we hope to use 5-limit harmony. If this expectation is not 
+fulfilled, don't use 5-limit symbols to notate that equal temperament. Or if 
+you do, at least don't call them "best."
+
+>Some tunings, like 25 and marginally like 17, may have two minor thirds.
+>Tunings with large numbers of units in the octave may have several of
+>everything. I don't find this a fault of notation in general or of my
+>proposal.
+
+Neither do I. In fact, I think your method achieves the goals of being both 
+"general" and "standard." Using new symbols for various alterations is fine, 
+but naming them after various commas is useful only when the relevant 
+structural characteristics of the tuning mirror those of just intonation. 
+Otherwise it is just misleading. You didn't address my point about 
+fractional alterations, which seem just as necessary, and often at least as 
+meaningful, as the "commas," and my request to clarify your criticism of 
+Herf's and Sims' notations. What wrong with using lots of fractional 
+alterations, whose ordering is intuitive, combined with an understanding of 
+how they represent the syntonic comma, septimal comma, etc., as opposed to 
+using combinations of 12-based commas, with possibly bizarre orderings, 
+combined with an understanding of how these commas may fail to fulfill their 
+acoustical functions?
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 9 Aug 1996 08:23 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06757; Fri, 9 Aug 1996 08:23:59 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA06642
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA10222; Thu, 8 Aug 1996 13:15:17 -0700
+Date: Thu, 8 Aug 1996 13:15:17 -0700
+Message-Id: <34960808153743/0005695065PK5EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

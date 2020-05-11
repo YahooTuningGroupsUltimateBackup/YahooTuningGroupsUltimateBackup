@@ -1,0 +1,88 @@
+source file: mills3.txt
+Date: Wed, 17 Dec 1997 21:35:56 +0100
+
+Subject: Third-tones, 19-tet, Greek Music
+
+From: John Chalmers <non12@deltanet.com>
+
+I beg to differ but I think M. Joel Mandelbaum's dissertation is
+very original, especially his combined error function for evaluating
+temperaments in terms of the 5-limit consonances and particularly his
+discovery and compositional use of QEIS scales (moments of symmetry
+(well-formed scales) where the intervals sizes are 1 and 2 units of
+the temperament).
+
+The cited literature is also very complete, especially for its day
+(1961). From it,  I learned of Novaro's, Brun's, and other researchers'
+works. Other writers on 19 such as Ariel are still virtually
+unknown to the xenharmonic community and would have completely so were
+it not for Mandelbaum's pioneering work.
+
+It is a shame that someone has not reprinted this book, though I
+imagine it is still available through Xerox University Microfilms
+in Ann Arbor, MI. I'd love to hear a performance of his pieces on
+a synth rather than the two old pianos he was forced to use.
+
+As for the ancient Greek use of 1/3 tones, they are found in
+Aristoxenos's Soft Chromatic genus (chroma malakon). This tetrachord
+has the ascending intervals 1/3 1/3 11/6 tones  (66.67 66.67
+366.67 cents). It fits quite well into 19-tet as 1+1+6 degrees.
+The other Aristoxenian tetrachord  found in 19-tet is the Intense
+Diatonic as 2+3+3 (permuted as 3+3+2, 3+2+3 also).
+
+There is also a non-canonical chromatic tetrachord 2+2+4, which
+resembles the Byzantine and Islamic genera 16/15 x 15/14 x 7/6 and
+14/13 x 13/12 x 8/7. This is the closest approximation possible in
+19-tet to the Intense Chromatic 100 100 300 cents.
+
+A just interval approximating 1/3 tone is found in Archytas's and
+Plolemy's tetrachords as 28/27. Ptolemy gives 28/27 x 15/14 x 6/5
+(Soft Chromatic) and both he and Archytas offer 28/27 x 8/7 x 9/8
+(as Ptolemy's Soft Diatonic, A's Diatonic). Archytas's chromatic
+28/27 x 243/224 x 32/27 is similar to Ptolemy's. In 19-tet
+these tunings would be 1+2+5 and 1+4+3, the first being quite
+good, the second recognizable.
+
+However, there is no evidence that the Greeks used any kind of
+equal temperament; the ascription of 12, 24, 36, 72...-tet to
+Aristoxenos is a modern interpretation. If the Greeks had wanted
+0 mod 12 ET's, they were more than capable of calculating them.
+Extracting 19th roots would have been much more difficult, but they
+could have probably managed by using the mesolabium or some numerical
+procedure.
+
+
+BTW, a transcription of the Costeley Chanson has been published
+in 19-tet. Have you ever played and recorded it?
+
+
+--John
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Andrew L. Kaye" <androsky@fast.net>
+Subject:  Re: TUNING digest 1270
+PostedDate:  17-12-97 21:38:47
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  17-12-97 21:36:48-17-12-97 21:36:49,17-12-97 21:36:26-17-12-97 21:36:27
+DeliveredDate:  17-12-97 21:36:27
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256570.0071372B; Wed, 17 Dec 1997 21:38:33 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18369; Wed, 17 Dec 1997 21:38:47 +0100
+Date: Wed, 17 Dec 1997 21:38:47 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18371
+Received: (qmail 14368 invoked from network); 17 Dec 1997 12:38:45 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Dec 1997 12:38:45 -0800
+Message-Id: <349837BF.7FCC9EEF@fast.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

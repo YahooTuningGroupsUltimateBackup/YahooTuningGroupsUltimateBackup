@@ -1,0 +1,36 @@
+source file: m1449.txt
+Date: Tue, 16 Jun 1998 17:21:57 -0400
+
+Subject: Re: Prima Sound
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>All-
+>	Here is a page that makes mystical claims for the 7/4. 
+>http://www.primasounds.com/seventh.html
+
+This is a really neat page, with very pretty music. More "info" is at
+http://www.primasounds.com/lostchrd.html and
+http://www.primasounds.com/mega.html. The flavor of the "theory" is sort
+of a cross between Danielou and Lucy. The text is a little bit ambiguous
+as to the exact tuning. Can anyone decipher it from the .wav or .mid
+files at the site? My guess is that it is based on a chain of four 7/4s:
+
+Ratio		Cents
+1/1		0
+2401/2048	275
+343/256		506
+49/32		738
+7/4		969
+
+(although the page does suggest that "very little tempering" is used to
+adjust these frequencies for some reason). This resembles some Javanese
+and/or African scales, doesn't it? The third mode has a meantone-like
+fifth above the tonic:
+
+Ratio		Cents
+1/1		0
+8/7		231
+64/49		462
+512/343		694
+7/4		969

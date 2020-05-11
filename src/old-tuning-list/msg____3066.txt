@@ -1,0 +1,47 @@
+source file: mills2.txt
+Date: Fri, 14 Jun 1996 14:18:02 -0700
+
+Subject: Reply to Paul Erlich
+
+From: John Chalmers <non12@deltanet.com>
+
+Paul: Your recent post  on the extent to which various ET's  
+articulate the harmonic series is an interesting and potentially
+useful set of data. The data are very relevant to the process of 
+mapping JI constructs in ET's.
+
+To expand a bit, 22-tet expresses the 4:5:6:7  dominant 7th chord as 
+7:6:5:4 degrees of 22-tet and thus distinguishing each interval of a 
+second or 3rd (8/7, 7/6, 6/5 and 5/4) with a unique  span roughly 
+proportional to its JI width. Fifteen-tet distinguishes the 16/15, 10/9 
+and 9/8 as 1, 2 and 3 degrees though it wildly distorts the the 
+differences between the intervals. Still the major scale is recognizable 
+as a  "nearly just" scale (As "nearly just" is an oxymoron in English,
+I proposed the term "dicaeoid," or "dikaioid," which means the same
+thing and sounds more "academic," if nothing else.)
+
+William Stoney did something  similar with function called HarFac in 
+the paper below in which he scooped  Erv and me. Back in the late 60's 
+we had no idea where we could publish an article on computer generated 
+tuning tables and the analysis of various ET's. (We didn't include a 
+HarFac, just the raw error of each harmonic and subharmonic interval, 
+alas.)
+
+Stoney, W. "Theoretical Possibilities for Equally Tempered Musical
+Systems", pp. 162-171 in The Computer and Music, H.B. Lincoln ed.,
+Cornell University Press, Ithaca, 1970. 
+
+
+--John
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 15 Jun 1996 03:26 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id SAA24468; Fri, 14 Jun 1996 18:26:33 -0700
+Date: Fri, 14 Jun 1996 18:26:33 -0700
+Message-Id: <960614212617_328650216@emout10.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

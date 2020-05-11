@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Wed, 2 Jul 1997 17:49:51 +0200
+
+Subject: OCTAVE FALSEHOODS
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>On octave invariance, it has just occurred to me that, in LCM
+>terms, the octave has a property that no other ratio shares. 
+>That is two notes that differ only by octaves can be mixed
+>without making the length of the resulting "interference" pattern
+>longer than the waveform of the lowest note.
+
+Other ratios indeed have this property: 3:1, 5:1, 6:1, etc.
+
+>If you mix two notes of wavelength 1 and 8, the wavelength of the
+>resulting pattern is still 8, but if you mix two notes of
+>wavelength 2 and 3, the resulting pattern has a wavelength of 6.
+
+Two notes of wavelength 1 and 3 combine to form a wavelength of 3.
+
+>[two notes] one of which has a frequency at a power-of-two of the other, the
+lower one
+>will cross the zero point only at points at which the higher one is crossing
+>as well.
+
+This is only true assuming the notes are exactly in phase. Changing the
+phase won't change the sound of the interval. If they are in phase,
+though, you can replace "power-of-two" with "integer multiple" and the
+statement is still true. So 3:1, 5:1, 6:1, etc. are just as good as 2:1,
+4:1, 8:1, etc.
+
+
+Sorry people, there is no theoretical justification for octave
+equivalence. Maybe my comments above explain why many who feel that
+octave equivalence is brainwashing try to replace it with 3:1
+equivalence. I believe, though, that octave equivalence is an innate,
+inborn phenomenon, and I would be interested to know if that claim about
+the cochlea going around once per octave is true.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 2 Jul 1997 18:52 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11650; Wed, 2 Jul 1997 18:53:05 +0200
+Date: Wed, 2 Jul 1997 18:53:05 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA11656
+Received: (qmail 16478 invoked from network); 2 Jul 1997 16:51:32 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 2 Jul 1997 16:51:32 -0000
+Message-Id: <c%ap¬adian-Asset%lRS-970702162020Z-1406@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

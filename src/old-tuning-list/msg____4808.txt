@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Sun, 16 Feb 1997 15:15:33 -0800
+
+Subject: Re: DX21 xenharmonics?
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Graham Breed wrote:
+> 
+> I've just bought myself a second hand DX21, which didn't come with a manual.
+> Does anyone know if it has support for xenharmonic scales and, if so, how to
+> get them to work?
+> 
+> While I'm at it, does anyone have other info on it, like how the bulk dumps
+> are formatted?
+> 
+>                                 Graham
+
+I have a Yamaha DX-21 keyboard too. You can't retune them.
+Get a Yamaha TX-81Z (4-operator rack-mount midi module) or 
+a DX7-II (6-operator keyboard), or a DX7-II fd (6-operator 
+keyboard with floppy disk to hold extra timbre patches).
+There's also a rack-mount version of the DX7-II, but I 
+forget its model name. Tunable Yamaha instruments offer
+a resolution of 1024 steps per octave.
+
+The DX21's bulk dumps are complicated. Call Yamaha, or
+find them on the 'net, to get the "midi specification"
+document for any of their instruments.
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 17 Feb 1997 00:31 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08133; Mon, 17 Feb 1997 00:31:22 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08126
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id PAA16587; Sun, 16 Feb 1997 15:28:33 -0800
+Date: Sun, 16 Feb 1997 15:28:33 -0800
+Message-Id: <33079604.4163@ix.netcom.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

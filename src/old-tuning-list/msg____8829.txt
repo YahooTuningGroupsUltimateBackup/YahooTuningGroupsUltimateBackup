@@ -1,0 +1,51 @@
+source file: m1584.txt
+Date: Mon, 16 Nov 1998 15:51:35 -0500
+
+Subject: reply to Dave Hill and Doren's Mozart question
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Dave Hill (I believe that's who Ascend11 is) wrote,
+
+>Although the piano is at present usually tuned to equal temperament, it
+
+>can be tuned flexibly and practically any temperament may be tuned 
+>on any ordinary piano.  It is possible to tune a piano to sound triads 
+>in just intonation in six major keys and six minor keys.  Non-trivial 
+>music can be performed on a piano in these tunings, although 
+>with a just intonation tuning and only twelve notes per octave, there 
+>are considerable limitations.  With quarter comma mean tone 
+>temperament, which has just major thirds and fifths flat by 5.4 
+>cents - an amount discernible, but not too detrimental to much 
+>music, music may be performed in eight contiguous major keys 
+>and eight contiguous minor keys, affording a great deal of 
+>flexibility.
+
+How exactly are you defining "keys?"
+
+As normally thought of, 12-tone meantone temperament is capable of
+playing music in six, not eight, major keys: since each black key must
+be either a sharp or flat, one can play in any major key with up to n
+flats and up to 5-n sharps, plus C major, for a total of six keys. In
+other words, the major key spans seven consecutive notes in a chain of
+fifths, while the tuning contains twelve; thus only five transpositions
+of a given major key are possible. Minor keys usually require the
+leading tone so only three minor keys are really possible on a 12-tone
+meantone keyboard.
+
+Just intonantion is not even capable of fully playing one major key
+unless a syntonic comma exists between two notes of the tuning. However
+if the ii triad is avoided, the problem is circumvented. Still, I cannot
+see how more than three of these defective major keys can be accomodated
+with 12 notes per octave.
+
+Perhaps you really mean "triads" or "chords" rather than keys?
+
+In any case, I think it quite likely that Mozart thought in something
+like 1/6-comma meantone temperament, though in practice his
+reinterpretation of augmented sixths as dominant sevenths led to tied
+enharmonic equivalents that only make sense in a 12-tone tuning. For
+pieces without tied enharmonic equivalents, meantone would probably make
+the most appropriate "authentic" performance, and the 1/6 comma variety
+makes Mozart's chromatic scales sound smoother (and keeps the leading
+tone resolutions smaller) than the more harmonious 1/4 comma variety.

@@ -1,0 +1,378 @@
+source file: mills2.txt
+Date: Thu, 19 Dec 1996 10:09:01 -0800
+
+Subject: Post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: sound
+--
+This post deals with the sound of 
+xenharmonic recordings. As always,
+most of you won't like these opinions--
+and, as always, many of you will claim
+that these statements are false, 
+ignorant, untrue, delusional, etc.
+As usual, this is incorrect and yet
+another demonstration that most of
+you have ruined your hearing by
+listening to far too much rock
+music or far too many concerts
+of so-called serious electronic
+music at far too high amplification
+levels. (This proved a critical
+probem at the 1992 ICMC concerts.
+TA's often pumped up the volume so
+loud that the entire audience cringed,
+held their ears, and the speakers
+distorted.)
+A number of forum subscribers have
+claimed that most of the music we
+all hear is live, rather than 
+recorded. This claim can only be
+explained as the result of mental
+illness or hard drug usage, since
+it is so indisputably contrary to 
+everyday reality. 
+"The pervasive assumption that
+support for new music and its
+composers equals support for
+performances...needs questioning.
+(..) Most music is heard at home, 
+via records, radio and printed
+sheet music. Composers have been
+getting little support for creation
+or presentation of works via these
+media to the many people who depend
+on them." [Spiegel, Laurie, "A
+Non-Performance Viewpoint," New
+Music America '81 Festival program
+booklet, page 49, 1981]
+Since most music is heard at home
+via CD, cassette or radio, this
+means that the way in which microtonal 
+music is recorded is *at least* as
+important as the microtonal music
+itself.
+First and most important is the issue
+of how the recording is mixed. The hard
+cold fact is that you can either mix
+for headphones, or for speakers--but
+you can't mix for both. A mix that
+sounds best when heard over headphones
+is likely to sound indistinct, with
+an exaggerated sound stage when heard
+over speakers.  Contrariwise, a mix
+that sounds best when heard over
+speakers will seem too dry and too
+sharp-edged when heard over headphones.
+Alas, there is no way around this
+dilemma. You cannot mix so that the
+recorded sound is optimal on *both*
+headphones and speakers. 
+Unfortunately, even the most expensive
+audiophile speakers sound utterly
+completely 100% totally different from 
+headphones. There is no sonic comparison
+whatever. This becomes especially clear
+when you make binaural recordings using
+mikes placed about as far apart as the
+ears on a human head. A 2-mike binaural
+recording will sound truly startling
+in its realism when heard
+over headphones, but it will sound
+disastrously weird when you hear it
+through a pair of speakers.
+Headphones isolate one ear from the other;
+speakers blend the output of both channels
+in the air and throughout all reflecting
+surfaces in the room. 
+The result?  Speakers usually tolerate far
+less reverb in the mix. A subtle touch of
+BBE or Aphex aural enhancement will also
+greatly help the clarity of a mix
+heard through speakers. Even drastic 
+processing like the Carver sonic holography
+process will sound acceptable. But the same
+"enhancements" will produce an unpleasant
+in-your-face edginess and dryness when heard 
+over headphones.
+Thus, you must decide which source you're
+mixing for *before* you starting mastering
+your CD or cassette.  Moreover, you must
+stick with that decision. Nothing sounds
+worse than one track of a CD optimized
+for listening over speakers and another
+optimized for listening over headphones.
+--
+The next issue is dynamic range. Headphones
+take maximum advantage of a recording with
+a large dynamic range, while speakers
+cruelly punish a recording with vast dynamic
+range. Over speakers, much of a xenharmonic
+composition like William Schottstaedt's
+"Water Music" is either inaudible or
+ear-shattering...yet the same composition
+becomes clearly audible when heard
+over headphones.
+A recording with large dynamic range pretty
+much demands headphone listening (The
+alternative is a whisper-quiet listening
+environment with ultra-high-quality loudspeakers
+in a place where the neighbors won't protest
+jet-plane-takeoff sound levels. Very few
+listeners have such a loudspeaker environment
+available.).
+Thus, wide dynamic-range xenharmonic recordings 
+intended to be heard over loudspeakers must,
+as a practical matter, employ some compression.
+Unfortunately, compression always changes the
+sound of a composition. This is especially
+noticeable in commercial pop music, where
+the maximum dynamic range is about 5 dB.
+In such recordings, changes in timbre take
+the place of changes in loudness, and this
+may require corresponding changes in 
+you orchestration of a piece of music with
+a very wide dynamic range.
+One salient point about compression:
+it must be applied without regard for the
+settings of the equipment, but with 
+concern only for whether the final result
+approximates the original sound of the
+live recording. My experience is that 
+drastic alterations are often required
+to get a recording to sond like a live
+performance.  Often, radical compression,
+sonic enhancement, dynamic noise reduction
+and gain riding are needed to produce a
+recording which when heard over loudspeakers
+approximates what you heard in live
+performance.  Alas, loudspeakers are wildly
+non-linear transducers whose measured response
+curves bear no relation whatsoever to the
+sound you hear.  (The reason is simple: graphs
+of loudspeaker response vs. frequency give
+data *only* on the magnitude of the frequency
+response, *never* on phase response at that
+frequency, and as Fourier's theorem tells us,
+both magnitude *and* phase data are required
+for a full reconstruction of the original 
+signal. Equally important, loudspeaker response
+is measured in an anechoic chamber using a
+microphone which stays in a fixed position 
+relative to the loudspeaker. In a real listening
+situation, each listener will hear the loudspeaker
+from a different position and in a different
+sound-absorbing and sound-reflecting environment.
+Thus, the graphs typically published in hi-fi
+magazines are meaningless as an index of the
+actual sound of a pair of loudspeakers. These
+graphs are as ludicrous as a graph of the
+reflectivity of 450 nm light from Rembrandt's
+"The Night Watch" from a photomoter fixed 5
+cm from the painting's surface as an indication 
+of the overall "look" of the entire painting.)
+Each loudspeaker type (acoustic reflex,
+ribbon, horn, electrostatic, etc.) and
+each placement and each listening position
+and set of amplifiers, recorders and preamps
+produces a different overall "sound." 
+Using a vacuum tube amplifier as opposed to
+a solid state amp will significantly change
+the sound of a reproduced recording--changing the
+loudspeakers from, say, Klipsch horns to 
+Magnaplanar IIIDs will transform the sound of
+the recording to an almost unrecognizable
+extent.
+This brings up the issue of boom boxes. 
+Although it seems wildly insane, it remains
+a fact that most of your prosepctive audience
+will listen to the output of 50,000 dollar
+computer music workstations or tens of thousands
+of dollars of handcrafted xenharmonic instruments
+or a roomful of microtonal synthesizers over 40 dollar
+boom boxes. This is a development so weird
+as to border on the psychotic, yet it
+remains unquestionably true. Because of
+the rush-rush-rush nature of our society,
+most people listen to xenharmonic music
+either on a boom box or in their car.
+The best way to mix for this kind of
+peculiar playback situation is on a
+set of satellite loudspeakers with small
+cheap tweeters and the subwoofer EQ'd
+nearly off. This reproduces the extremely
+poor frequency response and dynamic range
+of the average boom box/car stereo.
+A piece of microtonal music mixed for
+boom box or car stereo playback must be
+compressed to about 20 dB dynamic range.
+Notice that this is not "20 dB of reduction
+in dynamic range," I mean that the entire
+range of the composition must be compressed
+to fit within the 20 dB of useful dynamic
+range available on the average cassette
+deck. This means that if you start with
+a composition which uses a dynamic range
+of 96 dB in 16-bit linear DAT format, you
+will have to compress the output of the
+DAT recording by at least 76 dB since
+(as we all know) most cassette decks
+produce garbage output if the recording
+level falls below -20 dB. Typical compressors
+useful for most musical material include 
+the dbx 163x series.
+This kind of bizarrely extreme 76 dB
+compression will produce a large number of
+unfortunate artifacts which cannot, alas,
+be avoided.  The alternative is to refuse
+to mix for cassette deck playback, which
+means that your recording will (to most
+people, whose hearing has been destroyed
+by excessive volume levels and who seem
+perfectly happy with the exercrable 
+sound reproduction afforded by a boom
+box/car stereo) sound too reverberant,
+indistinct or "muddy," and inaudible
+throughout much of its length.
+--
+The next issue to bear in mind when 
+recording xenharmonic music is that
+computer music requires an entirely
+different mixing technique than 
+live music. Computer music typically
+uses sine waves or other kinds
+of synthetic tones that cut through 
+a listener's head like a knife;
+typical recording levels for a
+xenharmonic piece of computer music
+should be at least 20 dB lower than
+for live music. This is a classic
+case of the Fletcher-Munson curve
+at work, and when mixing computer
+music you should always ignore
+the meter levels.  Instead, play
+back a live piece periodically
+to get a general loudness comparison
+and set the levels with complete
+disregard for the meter readings.
+--
+Lastly, there remains the issue of Dolby
+encoding. As Dolby Labs has admitted,
+the Dolby decoding circuits of most
+cassette decks are badly miscalibrated
+at the factory, or simply left uncalibrated
+entirely. If you doubt this, ask yourself:
+when was the last time you saw an audio
+techician or a sound man with a Dolby B
+calibration tape?
+Try: "never."
+As a result, the poorly calibrated Dolby B
+decoding circuits in most cassette decks
+turn Dolby encoded recordings into mush.
+When poorly adjusted, Dolby B acts as a
+drastic low-pass filter.  And since
+virtually all cassette decks use 
+uncalibrated or misadjusted Dolby B
+encoding/decoding circuitry, this means
+that the best solution is always to
+*AVOID* Dolby encoding.
+Dolby C works well if the same cassette
+deck is used to play back the tape as
+was used for recording. Otherwise,
+Dolby C produces wretched artifacts.
+In effect Dolby C is so cassette-deck-
+specific as to prove useless in the real
+world.  
+Dolby Spectral encoding is an excellent
+method of noise reduction which, alas,
+is featured on almost no casette decks
+because the fools at Dolby Labs overpriced
+the technology outrageously on its 
+introduction. When DAT arrived, it proved
+far cheaper than adding Dolby S to existing
+30 ips reel machines, and so Dolby S never
+caught on. Yet another example of "how
+not to introduce new technology."
+--
+Because Dolby encoding (even when adjusted
+with a factory-authorized calibration tape)
+inevitably produces many unacceptable 
+artifacts in the source material during
+playback, some hiss will be evident in all
+your recordings (since any sane person will
+avoid Dolby encoding like the plague). This
+means that it's vital to push the levels
+of the recording as high as they'll go during 
+cassette dubbing so as to minimize noise
+during playback.
+In my experience, the most important element
+in a cassette dubbing chain is the source
+quality--preferably DAT--and after that, the 
+cassette deck. This means that you will get far
+more bang out of your bucks by spending them
+on a good cassette deck than on a ton of
+signal enhancement gear.
+It remains a fact, alas, that Nakamichi still
+makes the best cassette decks around. Avoid
+the high-end Nakamichi decks and buy the
+cheapest new model available. The high-end
+Nakamichi cassette decks do such a freakishly
+good job of reproducing the execrable audio
+signal on the crappy cassette format that a 
+Nakamichi Dragon (for example) will delude
+you into EQ'ing the high end of your recording
+down much lower than it should be.
+The best way to test your recording is to
+make the copy on a Nakamichi deck and play it
+back on a crappy K-Mart boom box, since this 
+is the way virtually everyone will listen to
+your recordings.  Such grotesquely poor
+quality playback will quickly bring to light
+any EQ or reverb problems with the master
+recording--generally you'll have to EQ
+the high end up or add considerable amounts
+of BBE or Aphex enhancement to make up for
+the fact that the average boom box has
+less bandwidth that a typical telephone.
+The analog compact cassette might not be
+the world's lowest-fidelity recording
+medium; it's possible that Edison wax
+cylinder recordings sounded worse. However,
+this question remains open. It is possible
+that the analog copmact cassette does actually
+the worst possible audio fidelity of any
+recording medium ever invented.
+Regardless of the outcome of that issue,
+it remains an obscene and outrageous fact
+that we will reach the 21st century with
+most people listening to microtonal music
+on ultra-lo-fi analog audio cassettes
+with lots of hiss, plenty of wow and
+flutter, and enormous amount of distortion.
+Thus it behooves us all to produce the best
+possible cassette recordings of microtonal music...
+a task akin to producing the best possible
+buggy whips we can make. Insane, senseless,
+bizarre, and outlandish--yet incontrovertibly
+necessary given the utter failure of DAT,
+MiniDisc or DCC to survive in the consumer
+marketplace as affordable viable mass
+recording/playback formats.
+--mclaren
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Dec 1996 19:20 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08559; Thu, 19 Dec 1996 19:22:23 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA08879
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA24978; Thu, 19 Dec 1996 10:22:20 -0800
+Date: Thu, 19 Dec 1996 10:22:20 -0800
+Message-Id: <v01510101aedec1e9a491@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

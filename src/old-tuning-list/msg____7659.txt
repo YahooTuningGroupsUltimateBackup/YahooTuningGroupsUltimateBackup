@@ -1,0 +1,39 @@
+source file: m1405.txt
+Date: Mon, 4 May 1998 16:56:34 -0500 (CDT)
+
+Subject: Re: Reply to Paul Hahn
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Mon, 4 May 1998, Paul H. Erlich wrote:
+>             I almost wanted to include you, but your concept of
+> higher-level consistency seems to support the other side. For example,
+> insisting that the approximations to 3-limit intervals be level-2
+> consistent means that you care about approximating certain 9-limit
+> intervals.
+
+The implications of higher levels of consistency are varied, and I don't
+want to get into another flamewar about it at this point, but just let
+me say this:
+
+(a) I wish to go beyond basic (level 1) consistency because it is
+possible for an ET to be level 1 consistent and still err from a given
+just ratio by nearly half the stepsize of the ET.  An extreme example:
+18TET is consistent to the 7-limit, but its 11-step "fifth" is only
+barely better as an approximation to the 3/2 than its 10-step interval.
+One is over 31 cents high, the other more than 35 cents low; the
+difference between the two errors is less than four cents! 
+
+(b) There is no inconsistency ( 8-)> ) in supporting both higher-level
+consistency and the use of odd limits over primes.  In fact, it would be
+rather difficult to adapt the idea of higher-level consistency to a
+prime-limit paradigm.
+
+(c) (semi-serious) I said I was on your side; isn't that good enough for
+you?  Don't look a gift horse in the mouth.  8-)>
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

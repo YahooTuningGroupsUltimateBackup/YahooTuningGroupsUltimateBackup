@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Tue, 14 Jan 1997 15:42:16 -0800
+
+Subject: Comment on Kami's post
+
+From: John Chalmers <non12@deltanet.com>
+
+Kami is correct about the 3)6 [ 1 1 1 3 5 7 ] 20-any being 
+equivalent to the 3.5.7 Euler-Fokker Genus. I hadn't noticed
+this relation before and I don't know if Erv Wilson has either
+as he seldom used repeated factors.
+
+One can generalize these relations even further by considering 
+the general 2)4 [x.y.x.w] hexany as the 6 vertices with 2 non-zero 
+and 2 zero coordinates of the 16 vertices of the 4-D hypercube 
+(tesseract). The 3)6 [x.y.z.w.v.u] 20-any is the 20 of the 64 
+vertices of the 6-D hypercube with 3 non-zero coordinates, and the 
+4)8 70-any  is the analogous set of the 256 vertices of the 8-D 
+"measure polytope," in Coxeter's terminology. One can write the
+vertices as N-dimensional vectors and embed them in a N-dimensional
+space where N is the number of prime factors in the tone space.
+Whenever 1 or 2 appears as a factor, the dimensionality may be 
+lowered by the assumption of octave equivalence. 
+
+Transposition thus becomes translation and other musical operations 
+may be replaced by their corresponding vector operations. Different
+species of CPS  (or any other kind of JI structure) may be obtained
+by rotating around other axes, planes, or hyperplanes.
+
+I have found such interpretations fascinating over the years.
+BTW, to measure distances between intervals use the Minkowski metric 
+(Tenney's harmonic distance) rather than the Euclidean distance formula
+as  the lattice is non-continuous.  Enjoy your linear algebra class!
+
+--John
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 15 Jan 1997 08:22 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09749; Wed, 15 Jan 1997 08:25:52 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA08894
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id XAA20222; Tue, 14 Jan 1997 23:25:42 -0800
+Date: Tue, 14 Jan 1997 23:25:42 -0800
+Message-Id: <32DC8757.4742@mail.pe.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

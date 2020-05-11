@@ -1,0 +1,41 @@
+source file: m1400.txt
+Date: Wed, 29 Apr 1998 17:01:38 -0400
+
+Subject: Re: JI Tuning Resolution
+
+From: wauchope@AIC.NRL.Navy.Mil
+
+> I did the exact same experiment many years ago. I swept
+> through all the intervals within an octave, and wrote down all the
+> points at which beating stopped.
+
+Ditto here.  I had an old analog synthesizer with a leaky FET
+transistor in the keyboard "hold" circuit, so I just tuned two
+oscillators in unison, hooked one to the keyboard, and set 'er adrift.
+I could adjust the keyboard gain to set the scan rate, and about 1-2
+cents/sec made for an endurable 15 minute session spanning the octave.
+
+> I found that the limit of my discrimination was at the
+> 19 limit -- for example I could manage to tune a 19/13 by eliminating
+> beats, but not a 21/13.
+
+I should revise that statement somewhat, having just gone back and
+looked at my results again ("Just Intonation from Leaky Keyboards,"
+Interval I:4-5, 1979).  During the scan I roughly classified the
+intervals I could hear as "easy", "medium" and "hard" depending on how
+distinctive they were, and around 17-19 was the upper limit to the
+ones I found relatively "easy" to hear.  From 21 up to about 29 I
+could still hear cessations of beating, but requiring more "squinting
+the ears".  So 17-19 probably still represents the limit to which
+precise tuning might make a difference to me in an actual piece of
+recorded Just electronic music.
+
+> Very close to my results! The most complex ratio I stopped at was 17/13.
+
+That's one I classified as "medium", probably because it is only 10
+cents higher than the 13/10 ("easy") whose beating partials would
+still be interfering with the ear.  Similarly, the next highest in
+that region, 21/16, I found "hard" because it's getting so close to
+the overpowering domain of the 4/3.
+
+--Ken Wauchope

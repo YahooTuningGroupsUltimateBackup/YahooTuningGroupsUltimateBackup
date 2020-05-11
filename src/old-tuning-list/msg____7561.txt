@@ -1,0 +1,64 @@
+source file: m1396.txt
+Date: Sun, 26 Apr 98 10:00 BST-1
+
+Subject: Subject: RE: JI Tuning Resolution
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+John Loffink pleads:
+
+> Could you give me a rough figure in terms of Hertz/CPS or even beats per
+> minute/hour/day/year/millenium?  :-)
+
+With high precision, the problem becomes controlling the beats,
+as you can never eliminate them.  For most compositions, 1 beat
+per hour will be good enough.  For such slow beating between tones
+of 10kHz, you need about 10^7 steps to the octave, or 0.1 millicent
+step size.  This is the highest precision that can have any real
+meaning, and would be restricted to specialist equipment.
+
+This is obviously beyond what any human could produce, because
+you'd have to hold the pitch steady for half an hour to be sure
+it's in tune.  The Midi Tuning Standard covers most realistic
+tuning scenarios.  We should be lobbying for that to be implemented
+fully.  If an instrument's designed specifically for JI, it makes
+more sense to specify raw frequency ratios and forget cents.  It
+may be possible to program a synth to adjust the phase to eliminate
+beating.
+
+The heading is JI, but I'll mention temperaments anyway. The
+fifth in 19-equal is 5.3 cents flat of the 12-equal fifth.  This
+means there are 5 different meantones that can be accurately
+reproduced with cent steps.  It would be nicer to have 100 to
+choose from, requiring 0.05 cent steps.  I reckon on 0.1 cent
+steps distinguish all the important meantones.  That's all I need.
+
+Enthusiasts for 5-limit JI who really think 53-equal is an
+unacceptable compromise obviously need better than 0.15 cent steps.
+
+
+Come on, does anyone have _quantitative_ data on the inharmonicity
+of orchestra instruments?  The piano octave is about 2 cents
+sharp, so presumably other instruments must be better than this.
+By how much?
+
+This is a good reason not to read Helmholtz/Ellis as an exclusive
+source.  Inharmonicity hadn't been measured that accurately in
+those days.
+
+Naked reeds do produce near enough periodic vibrations.  That's
+how mouth organs work, and other instruments as well.  Accordions
+sound likely.  With clarinets and whatever, the pitch is selected
+by the tube.  Where chipmunking occurs with wind samples, it's
+probably because of the original reed spectrum.  I think the
+sound source in flutes is truly unpitched, because it's all
+turbulence.
+
+Brass instruments really are aperiodic.  I read about this since
+the last time it came up.  The worst tuned partials are the low
+ones for a conical tube.  Even valve horns rarely play the
+fundamental for this reason.
+
+
+                    Graham Breed
+      gbreed@cix.co.uk        www.cix.co.uk/~gbreed/

@@ -1,0 +1,58 @@
+source file: mills2.txt
+Date: Fri, 15 Nov 1996 09:33:55 -0800
+
+Subject: Re: Post from Brian McLaren
+
+From: alves@osiris.ac.hmc.edu (Bill Alves)
+
+I enjoyed Brian's posts on tuning and technology, but I have an honest question:
+
+>The upshot of these precision machine tools
+>was the 12 tone equal tempered scale. Musical
+>instruments built by mass production could not
+>be economically individualized so as to accomodate
+>dozens of different meantone variants.  To make
+>money turning out modern musical instruments,
+>you must *standardize*--all exactly alike. When you
+>build only one or two harpischords per year, you
+>can easliy afford to use exotic three-tier keyboards
+>fitted to special custom meantone tuning schemes...
+>but when you build 100 pianos a year you must
+>settle on a single rigid standard keyboard.
+
+I can understand how this change enforced a 12-pitch-per-octave standard
+keyboard, but pianos are hand-tuned, even now. The construction of a piano
+does not have to be changed to accomodate most historical meantone, just,
+or well-tempered tunings, as long as they don't stray radically from a
+12TET median. Granted, modern high-tension piano strings cannot be safely
+sharpened more than a semitone or so (unlike low-tension harpsichords), but
+the difference between 12TET pitches and those of these other tunings is
+usually no more than about 20 cents. In fact, given that, without
+electronic help, 12TET is generally much more time-consuming to tune than
+1/4-meantone (to take an obvious example), one would think that the
+capitalist piano manufacturers would have *avoided* it.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)621-8360 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 15 Nov 1996 19:45 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13471; Fri, 15 Nov 1996 19:46:46 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA13473
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA25329; Fri, 15 Nov 1996 10:46:43 -0800
+Date: Fri, 15 Nov 1996 10:46:43 -0800
+Message-Id: <9611151045.ZM16922@frollo>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

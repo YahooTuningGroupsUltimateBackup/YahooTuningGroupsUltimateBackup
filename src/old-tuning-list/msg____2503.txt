@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Fri, 26 Jan 1996 13:11:24 -0800
+
+Subject: Wilson's CPS
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+I need to correct a misapprehension that I am the co-discoverer
+of Wilson's CPS. This is not the case; Erv did it all by himself.
+I think the confusion stems from a joint paper we published in the
+ICMC proceedings back in 1981 (at NTSU) on our computer projects at 
+UCSD in the late 60's, though the paper makes it clear that they
+were Erv's alone. 
+	Erv's discovery of the CPS came about as he pondered the best 
+set of pitch bases for a large table of ratios I was compiling. As we 
+were becoming limited by the great length of the table, Erv observed we 
+could obtain extra "complexity" (more composite intervals and longer 
+chains of 5ths, 3rds, etc.) by transposing the whole list to various 
+pitches related by well-chosen ratios. This turned out to be a very 
+efficient procedure as we had to print out the results on wide computer 
+paper anyway and it cost us essentially nothing to add the extra columns 
+when we printed the list off a tape.
+ 
+I didn't mean to imply that the XH12 paper was the only place where
+Erv Wilson's theories have been published, but it is the most complete 
+and easily accessible source. Other issues of XH have articles by Erv 
+or his student Kraig Grady and Paul mentioned his article on the 14-tone 
+stellated 1.3.5.7 hexany. (BTW, Paul, Erv said he likes your setting of 
+the Hildegarde of Bingen text very much.) The Tables of Contents of all 
+issues of XH are available at John Pusey's WEB site whose URL is 
+http://www.tiac.net/users/xen/xh.html 
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 27 Jan 1996 01:40 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA03976; Fri, 26 Jan 1996 16:39:59 -0800
+Date: Fri, 26 Jan 1996 16:39:59 -0800
+Message-Id: <960127003642_71670.2576_HHB75-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,112 @@
+source file: mills2.txt
+Date: Sun, 17 Sep 1995 01:35:22 -0700
+
+Subject: RE: RE: Iranian Music
+
+From: baazarga@ee.sharif.ac.ir
+
+On 13-SEP-1995 14:23:06.63 Mr. Liu (linusliu@HK.Super.NET) wrote:
+
+>Only a few days ago, I posted the intervals of the "Chinese Scale".
+>It so happens that my scale is exactly the same as Mr. Moradi's
+>Iranian music, SYSTEM I:
+>>(1) {C:[1/1] , G:3/2 , D:9/8, A:27/16 , E:81/64 , B:243/128 }
+>Rewritting it out becomes:
+>      C-9/8-D-9/8-E-(16/15)-(F)-(10/9)-G-9/8-A-9/8-B-(16/15)-(C')
+>     1/1   9/8  81/64     (27/20?)    3/2  27/16 243/128   (81/40?)
+
+The scale which Mr. Linus Linu had introduced as Chinese scale is not
+the same as the mode which we introduced as Iranian mode. The forth
+interval in Meadle East music is very essential and exactly equals to
+4/3. In system I, we emphasis that the semitone is 256/243, not 16/15.
+(16/15 and 10/9 are related to System II). The interval 27/20 instead of
+4/3 has no use in Iranian music at all.
+
+Chines(Linu's)> 1/1   9/8  81/64     (27/20?)    3/2  27/16 243/128   (81/40?)
+Ancient System> 1/1   9/8  81/64       4/3*       3/2  27/16 243/128    2/1*
+
+Ancient system is the base for the current oriental systems.
+System I, part 1 which Mr. Linu refrenced is a part of the ancient
+mode which was first introduced by Pythagoras (600 yrs BC). It's
+not our invention.
+
+Mr. Linu also wrote:
+>It is a great dismay that Mr. Moradi also gave the mean half-tone
+>of 10/9 (lima), and gave it the very approximate ratio of 65536/59049,
+>which shows that Mr. Moradi is not concerned about true accuracy.
+
+10/9 is not half tone or lima, 65536/59049 is the exact value for
+lima+lima, which Ormavi (-1294 DC), the great Iranian sage and
+musician has introduced; This interval, indicates Ormavi's system.
+Maraghi (-1434 DC) assumed this interval as 10/9 (more than 100 years
+before Zarlino 1517-1590 DC). The difference between 10/9 and
+65536/59049 is 1.95 cents, quite toleratable.
+
+Our most important references were:
+
+1- Al Farabi, Abunasr Mohammad (874-950), Kitab al Musiqa Al Kabir (Great
+  music book) Cairo 1969 (in Arabic)
+2-Ormavi, Safi od-din (-1294) Al Adwar, translated to Farsi- Revue Musical,
+  Tehran 1960-61
+3-Qotb od-din Shirazi (-1310) Dorrat ot-Taj , Tehran 1922
+4-Maraqi, Abdol-Qader (-1434) Maqased Al Alhan , Elmi Farhangi prs.
+  Tehran 1966
+5-Maraqi, Abdol-Qader Jame Al-Alhan ,Elmi Farhangi prs. Tehran 1987
+6-Vaziri, AliNaqi, Musiqie nazari , Published by author, Tehran 1935
+7-El Helow, Salim LA MUSIQUE THEORIQUE ,Beirut 1961 (in Arabic)
+8-Musiki ve Nota ,Istanbul 1969-1972 (in Turkish)
+
+(All references are in Farsi unless otherwise mentioned)
+Reference No 1 is translated to many languages, including French
+(by R.d'Erlanger, 1930) and English.
+
+I got my BS in music in 1970 from the Fine-Art faculity of Tehran university.
+While I was a student I lectured reference number 4, representing of
+prof. Dr. Barkeshli; since then I'm working on the theory of Iranian
+music, and for 30 years I produced Iranian traditional music programs
+in Radio and TV.
+Mojanab (Minor tone) is the essential interval in ITM (Iranian traditional
+music), although Vosta (normal third) is the most important interval in
+one of the most popular modes (Segah). [Vosta = Mojanab + whole tone (9/8)].
+>From exprimental studies on 3 most trustworthy singers, we measured
+the intervals in mode 'Segah', and find Mojanab = 25/23 (144.36 cents),
+Vosta = 225/184 (348.29 c). I could generalize this measurment to
+other mods of ITM. I searched in my references for this intervals
+and the nearest was 162/149 (144.83c) introduced by Farabi (Ref#1).
+In next searach, I find that Farabi had vaguely and indirectly
+introduced 88/81 (143.51c) in relation with 12/11 (Mojanab analogous
+with Vosta-Zalzal = 27/22) : 88/81= (32/27) / (12/11).
+(32/27 = Vosta-Qadime)
+Since the different between 88/81 and 25/23 is very small we selected
+this interval, and used for playing with computer. It was confirmed
+by musicians. So 11/9 is the Vosta analogous with this Mojanab.
+(88/81 * 9/8 = 11/9)
+According to Arab musicologists, Mojanab = 12/11 and Vosta-Zalzal = 27/22
+is used in arabian music, but not in ITM.
+
+We had wrote:
+>==========================================================================
+>SYSTEM II is just as SYSTEM I but the minor tone and Major semitone are
+>different. Instead of 88/81, we use (256*256)/(243*243) = 65536/59049 which
+>the theorists assume = 10/9, and Instead of 2187/2048, we use 16/15.
+>==========================================================================
+
+We have not recieved the system which Mr. Linu mentioned, but the system
+he mentioned in his letter is completly alien to the Iranian music.
+
+We have also worked on other systems for Oriental Music, but have
+not published the results yet.
+
+Regards,
+Freydun Moradi
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 17 Sep 1995 13:16 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id EAA05476; Sun, 17 Sep 1995 04:16:04 -0700
+Date: Sun, 17 Sep 1995 04:16:04 -0700
+Message-Id: <009968882161B3C0.1326@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

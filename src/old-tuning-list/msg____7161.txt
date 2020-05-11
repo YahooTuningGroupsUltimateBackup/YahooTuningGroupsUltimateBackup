@@ -1,0 +1,22 @@
+source file: m1341.txt
+Date: Sun, 1 Mar 1998 23:23:28 -0500 (EST)
+
+Subject: Identification of pitches
+
+From: "Brian M. Ames" <bmames@apk.net>
+
+I am developing software to automatically implement alternate tunings in
+MIDI files through the use of pitch bends or other methods. The idea is to
+allow notation on a staff or piano roll without regard to the actual pitches
+represented, then processing the resultant MIDI file along with a scale file
+to produce a second MIDI file with the notes adjusted and pitch bends
+inserted before each note to tune to the proper pitch on-the-fly.  Is there
+an established system that precisely identifies each pitch? I know that the
+MIDI note numbers identify 12TET but what about the rest?
+
+Thanks,
+Brian M. Ames
+Visit The Ames Hymn Collection
+http://junior.apk.net/~bmames
+The Ames Classical Collection
+http://www.geocities.com/Vienna/Strasse/7398

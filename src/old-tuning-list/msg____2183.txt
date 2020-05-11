@@ -1,0 +1,103 @@
+source file: mills2.txt
+Date: Sun, 22 Oct 1995 14:58:49 -0700
+
+Subject: JI vs. ET for Ease of Exploration
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Marion wrote a very thoughtful reply to my question of why he finds just
+intonation systems easier to explore systematically than equal-temperaments.  I
+just now finally got a chance to read it.  
+
+   One of his main points is that temperament introduces ambiguity:  If our ears
+are presented with an irrational frequency relationship, we are confronted with
+a question of how our ears interpret it.  
+
+   Marion didn't cite this specific example, but I suspect it's an illustration
+of this sort of concern:  Suppose a 12TET composition plays a diminished seventh
+chord, such as a B D F Ab.  How will our ears interpret each of the minor thirds
+and augmented seconds in that chord?  One possibility would be as a 5:6:7:8
+chord.  There are other possibilities of course, including the subharmonic
+equivalent of that chord, or as all of its minor thirds being 6:5s, or a 6:5
+atop a 7:6 atop a 6:5.  
+
+   Each of those possibilities have a distinctly different feeling to our ears.
+The 12TET version of that chord, being an approximation of all of them at the
+same time, is an ambiguous mishmash of all of those possibilities.  It doesn't
+present any of those subtly but fascinatingly different sensations very clearly
+to our ears.  So which sensation our ears will attribute to that chord is hard
+to judge.  
+
+   Marion's conclusion, again if I understood him correctly, is that that sort
+of ambiguity complicates a systematic exploration.  We're all a lot better off
+taking the simple, honest approach:  Just way exactly what we mean in the first
+place - use the exact pitch relationship.  Perhaps later we can deal with the
+effects of approximation.  
+
+   That strikes me as a reasonable view.  But let me present another quite
+different view.  
+
+   That view is that when you play a B D F Ab diminished seventh chord in 12TET,
+you ARE saying exactly what you mean.  If you present our ears with a stack of
+ambiguous representations of 6:5, 7:6, or other minor third formulations, our
+ears make no attempt to resolve the ambiguity.  I have no doubt at all that when
+we present these sorts of interval distinction explicitly, our ears attribute
+subtle meanings to them.  I also have no doubt that tuning systems that preserve
+those distinctions are a very valuable area of musical pursuit.  But if you
+avoid those distinctions, I don't see that our ears make a much effort to CREATE
+them.  As far as I can tell our ears just view the intervals in that chord just
+as a generic m3/A2 pitch relationship, without further detail.  Certainly I
+doubt if we expend too much effort to create those distinctions over the course
+of a fraction of the second that chords often sound in many realistic musical
+applications.  
+
+   And another factor is worth bearing in mind:  Our 12TET-oriented culture
+presents the illusion that there are no such distinctions, such as between 6:5
+and 7:6.  So the burden of proof, so to speak, is on us.  Our music has to
+explicitly motivate its audience to make that distinction.  Certainly, as I
+believe Marion is pointing out, that can be done more effectively in exact
+representation rather than in equal-tempered approximation.  But I believe that
+there is meaning to music that doesn't even attempt to make those distinctions.
+
+
+   Meanwhile, there are certainly many clearly meaningful ways to group equal
+temperaments for systematic exploration.  And these ambiguities are often at the
+root of the meaningfulness of classifications.  For example, the "normal"
+resolution of B D F Ab, is to have the B go up to C, the F go down the E, and
+the Ab go down to G.  In the 1800s especially, a popular technique was to
+suddenly reinterpret B D F Ab into B D F G#.  In that nomenclature the expected
+resolution is to have the G# go up to an A, the D go down to a C#, and the F go
+down to E.  This is one kind of "tritone substitution".  Because of the
+nondistinct, ambiguous, equal distribution of the notes in that chord, you can
+quickly but seamlessly - almost mysteriously - modulate from the key of C Major
+to the somewhat remote key of A Major.  Or similarly to the much more remote key
+of F# major.  
+
+   Because of this ambiguity then, any equal-temperament of a multiple of four
+steps per octave has the potential to be able to achieve this surprising and
+musically useful effect.  And there are other useful bases for systematizing
+equal temperaments, like multiples of five or seven, or tunings that have
+traditional-sounding major scales, and so forth.  
+
+   So, the distinction between whether just-intonation systems are easier to
+systematically explore than equal-temperaments, probably boils down to what
+sorts of musical effects you want to explore and thus interpret the results.  I
+suppose that's not terribly surprising, is it?  If you're interested in
+exploring the exciting distinctions between the septimal sensations of intervals
+like 7:6 and 7:4 and their 5- or 11-limit counterparts, then you're best off
+using those intervals in their most precise form.  But if you're interested in
+exploring surprising contrapuntal effects that simplified, ambiguous
+representations of chords make possible, then you're probably better off
+thinking in terms of temperaments.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 23 Oct 1995 02:25 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA01260; Sun, 22 Oct 1995 17:25:28 -0700
+Date: Sun, 22 Oct 1995 17:25:28 -0700
+Message-Id: <9510221827134@csst.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

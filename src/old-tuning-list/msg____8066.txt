@@ -1,0 +1,29 @@
+source file: m1444.txt
+Date: Fri, 12 Jun 1998 07:14:16 -0400
+
+Subject: Kyma price, Yamaha retuning
+
+From: wauchope@AIC.NRL.Navy.Mil
+
+> Who Knows how much Kyma costs?
+
+I talked to Symbolic Sound a month ago and the base system price with
+two DSP cards is $4400, expansion cards (up to 6 additional) are $595
+each.
+
+> Can individual notes on individual channels be tuned in real-time via 
+> Sys-ex  on the SY-77/-99 and TG-77 ?
+
+Individual notes of a programmable tuning table can be retuned on the
+fly via SYSEX, but that will affect all voices using that table, not
+just one channel.  (Also notes currently sounding aren't affected, just
+new ones.)
+
+> The Yamaha's synthetic waveforms are interesting but
+> could hardly be said to represent more of a "synthesis from scratch"
+> philosophy than the VFX.
+
+The sample playback side of the Yamaha does include a bunch of
+synthetic waveforms, but Gary was more interested in the FM synthesis
+side, which uses oscillators (sine wave and variants) as raw material
+for cooking up much more complex sounds.

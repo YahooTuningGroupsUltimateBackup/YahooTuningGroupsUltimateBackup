@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Thu, 19 Oct 1995 01:27:53 -0700
+
+Subject: Change of address
+
+From: Mmcky@aol.com
+
+Greetings to all from a new place.  I have moved from
+mmck@delphi.com to mmcky@aol.com.
+
+I did this primarily because Delphi won't let me ftp binaries to
+mills.edu.
+
+As of yet, I have not been able to get AOL to let me do that
+either, but they do provide an ftp space so their users can
+publish things.
+
+The versions of FasTrak that are posted at Mills now go there by
+me sending a disk to Manuel in the Netherlands, and him posting
+them to Mills.
+
+Needless to say, right after I sent him the last disk, I found a
+couple of bugs.  The SCANL.EXE utility hung if it was fed a scale
+with two identical tones, and the AH.EXE utility was less than
+robust in the face of transmission errors.  These bugs have now
+been fixed and the new software posted on AOL.
+
+To get it, FTP to users.aol.com, then cd to the mmcky directory.
+
+I will now begin to post other stuff there as well as I find the
+time.
+
+Any bug reports for FasTrak would be welcome.
+
+Marion
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Oct 1995 18:37 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA03124; Thu, 19 Oct 1995 09:37:24 -0700
+Date: Thu, 19 Oct 1995 09:37:24 -0700
+Message-Id:  <9510190933.aa01567@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

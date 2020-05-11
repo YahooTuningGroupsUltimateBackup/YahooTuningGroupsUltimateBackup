@@ -1,0 +1,66 @@
+source file: mills3.txt
+Date: Mon, 25 Aug 1997 22:11:43 +0200
+
+Subject: Srutis
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+The first known Indian treatise to describe the octave divided into 22
+srutis is the Natyasastra of Bharata. Estimates of its date range from the
+5th century BC to the 4th century AD. I tend to trust Jairazbhoy, who
+estimates that it comes from the "first few centuries AD." Bharata
+discusses two grama, or scale-types: Sa-grama -- 4 3 2 4 4 3 2 -- and
+Ma-grama -- 4 3 4 2 4 3 2. He does not discuss their precise tuning.
+
+The first treatise that I know of to introduce the modern concept of 12
+pitch levels (svarasthanas) per octave was the Chaturdandi Prakasika of
+Venkatamakhi, from the mid-17th century. The reconciliation of these 12 to
+the 22 sruti is a controversial issue to the present day.
+
+The first treatises to describe the tuning of the sruti in terms of string
+lengths also come from the 17th century and describe just intonation.
+However, the idea that sruti should be tuned in JI is by no means
+universally accepted in the 20th century. Bhatkande went with 22TET, though
+with the qualification that practical music making would deviate from that
+ideal. Jairazbhoy argues for the expressive use of temperament, though not
+for any particular fixed tuning system. Empirical studies by Jairazbhoy's
+student Mark Levy failed to find any consistent preference for a particular
+tuning system among Indian vocalists.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  lucy@ilhawaii.net
+Subject:  Clarification of L & s in LucyTuning.
+PostedDate:  28-08-97 09:37:49
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  28-08-97 10:20:01-28-08-97 10:20:03,28-08-97 10:17:36-28-08-97 10:17:36
+DeliveredDate:  28-08-97 10:17:36
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C1256501.002DC44C; Thu, 28 Aug 1997 10:19:53 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03073; Thu, 28 Aug 1997 09:37:49 +0200
+Date: Thu, 28 Aug 1997 09:37:49 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03071
+Received: (qmail 19024 invoked from network); 28 Aug 1997 07:37:46 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 28 Aug 1997 07:37:46 -0000
+Message-Id: <Pine.BSI.3.91.970827211207.2626A-100000@lehua.ilhawaii.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

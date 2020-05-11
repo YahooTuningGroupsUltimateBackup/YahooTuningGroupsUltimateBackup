@@ -1,0 +1,73 @@
+source file: mills2.txt
+Date: Mon, 14 Jul 1997 23:52:08 +0200
+
+Subject: RE: Basic dimensionality, and related issues
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Graham wrote,
+
+>On dissonance of composites in general:  it is much easier to form
+>consonant chords using composite numbers than prime numbers of
+>about the same size.  As an octave invariant example, 1:3:5:15
+>includes the interval 15/1.  Try finding an equally consonant 4
+>note octave invariant chord including 13/1.  If the consonance of
+>an interval reflects its propensity to form consonant chords, then
+>composites are more consonant than primes and, in some
+>circumstances, the metric should handicap high primes accordingly.
+
+In some circumstances, but not in others (such as when intervals are
+sounded alone). Graham, how does your metric address this?
+
+The consonance of a chord depends on all intervals within it, not just
+the most dissonant one. 5/6 of the intervals in 1:3:5:15 are consonant
+within the 5-limit, which will not be true of any 4-not chord containing
+13. That should be enough of a handicap against 13. I admit that there
+might not a single metric that will give the consonance of intervals as
+well as of chords. The consonance of chords is a combination of
+roughness issues (see Plomp & Levelt, Kameoka & Kuriyagawa, Sethares)
+and tonalness issues (Parncutt, preliminary model by me (posted once),
+upcoming model by me (if I live long enough) based on harmonic entropy
+concept).
+
+3:5:9:15 is at least as consonant as 1:3:5:15 although the rectangular
+5-limit lattice favors the latter. The triangular lattice seems better
+in all circumstances.
+
+>An unrelated (or is it) point.  Recently, Gary Morrison wrote:
+
+>>   By fibonacci, what I'm referring to is J. Yasser's fibonacci-like
+>>sequence of tunings (5 7 12 19 31 50 81...).  (By fibonacci-like I mean
+>>that the next number in the sequence is the sum of the previous two.)  12
+
+>Firstly, wasn't it Kornerup who first identified this sequence?
+
+In a very different context. Kornerup found a subset of ETs consistent
+with meantone notation and composition, and approaching a meantone
+tuning (often called golden tuning) where the tone, the minor third, the
+perfect fourth, and the minor sixth are all divided into two parts by a
+golden section. I don't think he included 5 or 7. Yasser thought that at
+any stage in the evolution of tonality, the total number of pitches in
+use is one number in the sequence and the number of diatonic pitches is
+the previous number. He starts his sequence with 3, 2, 5, 7, . . . I
+tend to side with Kraehenbuehl and Schmidt that 12 out of 22 is a more
+self-delimiting (i.e., logically closed) scale than 12 out of 19 and a
+more logical outcome of 12-tone chromaticism. K&S dealt with JI, so my
+agreement with them may be coincidental, although we both rely on the
+introduction of the number 7 into consonant frequency ratios. Yasser's
+frequency ratios use primes up to 13 and are unbelievably out of tune
+with 19-tet.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 15 Jul 1997 00:03 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23407; Tue, 15 Jul 1997 00:04:33 +0200
+Date: Tue, 15 Jul 1997 00:04:33 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA23329
+Received: (qmail 1038 invoked from network); 14 Jul 1997 21:53:44 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 14 Jul 1997 21:53:44 -0000
+Message-Id: <199707142150.OAA25521@well.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Fri, 7 Feb 1997 21:10:26 -0800
+
+Subject: Re: Ghost Tones?? reply to Matt&GottaStik
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Charles Lucy wrote:
+
+> *
+> When I touch a guitar string gently at specific points, I can hear
+> tones which are "higher" than the open string or the fretted string.
+> *
+
+> Probably everyone on this list has read Helmholtz, most have also
+> prolly read Baccus (God of Whine?). They explain the conventional
+> wisdom in tuning theory and the arithmetc of musical acoustics.
+
+Spelled Backus.
+
+> What are these tones???
+> 
+> 
+> Conventional wisdom tells us that these tones are
+> HARMONICS.
+> Matt Nathan suggests that we call them
+> NODES
+
+Actually, I said "nodes" were the places on the string which
+you touch, not the complex tones produced.
+
+> ^
+> The traditional mathematical model of musical tuning and
+> acoustics states that these "ghost tones" (for sake of a better
+> term) are found at frequencies which are small integer ratios
+> to the fundamental or open string frequency.
+> This is the assumption upon which Just Intonation is based.
+> ^
+
+Are you talking about partials or complex tones? 
+
+Are you talking about an ideal string or a real string?
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 8 Feb 1997 06:19 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29742; Sat, 8 Feb 1997 06:19:20 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29626
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id VAA15564; Fri, 7 Feb 1997 21:17:45 -0800
+Date: Fri, 7 Feb 1997 21:17:45 -0800
+Message-Id: <199702080011_MC2-10FE-B3E7@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

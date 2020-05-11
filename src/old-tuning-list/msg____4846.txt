@@ -1,0 +1,65 @@
+source file: mills2.txt
+Date: Thu, 20 Feb 1997 11:30:51 -0800
+
+Subject: Reply to Matt Nathan
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Sorry, I disagree with you about comma shifts. Melody is historically and 
+aesthetically prior to harmony. If the unaccompanied melody uses equal-sized 
+whole tones and no comma shifts, then the harmonized melody should too.
+
+>Will you explain this dissonance function with
+>figures please? It sounds interesting but I'm
+>not sure what you mean by derivative.
+
+"Derivative" means "rate of change" of a function in calculus. What I was 
+getting at is that if you assume that dissonance has a local minima at 
+certain simple just ratios (I believe this is certainly true at least for 
+5-limit intervals smaller than one octave), and make the additional 
+assumption that the rate of change of the rate of change is finite and not 
+zero at these minima, then a quadratic function is appropriate: the 
+dissonance function must be shaped like a parabola if you are close to the 
+just ratio.
+
+>In JI, I prefer to think of the "complexity" (or something,
+>rather than "dissonance") of an interval or sonority, which
+>I measure not by multiplying the members of a ratio or
+>chord, but by adding them! As an example, 4/1 is about as
+>"complex" as 3/2 by my rule of thumb, and 8/5 is about as
+>"complex" as 9/4.
+
+This may be a valid issue but is irrelevant here, since we are merely 
+comparing representations of the same interval(s).
+
+>In systems which deviate from just by small amounts,
+>I'm not really sure how to calculate dissonance,
+>except that it may have something to do with the
+>speed of beating (faster beating, more dissonance).
+
+That is the issue and I assume a quadratic function as justified above. 
+Many, many other justifications are possible.
+
+>I'm afraid I'd still classify
+>weighted mean-tone as an error-spreading and pitch-class-
+>confounding system though. Its main value would be
+>in the tuning of instruments whose pitch sets are finite
+>and not manually adjustable during performance, especially
+>for period music.
+
+Very well.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 21 Feb 1997 01:41 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13226; Fri, 21 Feb 1997 01:41:22 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA13228
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id QAA11444; Thu, 20 Feb 1997 16:39:29 -0800
+Date: Thu, 20 Feb 1997 16:39:29 -0800
+Message-Id: <3.0.32.19970220161838.0068b080@adnc.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

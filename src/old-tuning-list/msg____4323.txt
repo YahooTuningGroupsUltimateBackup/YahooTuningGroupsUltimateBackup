@@ -1,0 +1,39 @@
+source file: mills2.txt
+Date: Sun, 15 Dec 1996 10:24:57 -0800
+
+Subject: mod groups & rhythm
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Jim Kukula's thoughts on similarities between rhythmic and frequency
+proportions strikes me as creative thinking - applying ideas in one aspect
+of music to another.  That's valuable.  
+
+   I suspect though that pitch and rhythm are fundamentally different when
+it comes to temperament.  Tempering pitches is meaningful because our ears
+hear in a manner that could perhaps be described as simultaneously in
+linear and logarithmic frequency scales.  
+
+   For example, octaves have meaning both as 4/3s of a perfect fifth's span
+of linear frequency, and also as (roughly) 12/7s of a perfect fifth's span
+on a logarithmic frequency.  That first formulation relates those two
+intervals by their JI, whole-number-ratio basis, and the second formulation
+relates the two by their perceived pitch distance as is useful for weighing
+them in building a scale.  
+
+   While we'll all agree that fundamental rhythmic structures show very
+clear proportions on a linear time or note-rate scale, I doubt if there is
+much intuitive meaning to a logarithmic time or rate scale.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 15 Dec 1996 20:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04681; Sun, 15 Dec 1996 20:13:53 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04722
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA09527; Sun, 15 Dec 1996 11:13:51 -0800
+Date: Sun, 15 Dec 1996 11:13:51 -0800
+Message-Id: <3.0.32.19961215111011.0068b0f4@adnc.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

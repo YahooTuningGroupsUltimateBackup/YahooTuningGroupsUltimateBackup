@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Sat, 5 Oct 1996 11:25:53 -0700
+
+Subject: Re: To Gary, Paul E, Re: non-octave scales
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> under certain strict conditions (in
+> which the partial structure of the tones is more or less irrelevant),
+> powers of 3 (and possibly of 5) do replicate the smilarity condition
+> eliceted by powers of 2 in tonal or modal polyphony. 
+
+   Aha!  I'm working my way through Bill Sethares' manuscript at the moment, but
+I would definitely be interested in reading that later.  Thanks for the
+offer/suggestion.  
+
+   I can vouch for the meaningfulness of that suggestion in two regards:  First,
+I have briefly worked with ... "squashing" for lack of a better word ...
+traditional music (melodies alone mostly, but not entirely) to a tuning of 12
+equal steps per 3:2 instead of 12 equal steps 2:1.  After listening to that for
+a while, I found that 3:2 started to have a mild duplicating effect much like
+the octave.  
+
+   This of course harkens back to the debate not long ago about whether or not
+you can hear primes or not.  After he did his first rendition of his taped
+lecture-demo "Introduction to Nontraditional Harmony", Dave Hill changed his
+belief from the idea that each prime provides a new harmonic feeling, to his
+belief that each ODD number provides a new feeling.  As I think I mentioned, he
+concluded that that was probably true because powers of two give a feeling of
+duplication, thus ruling out multiples of 2 from having truly fundamental
+effects upon harmony.  Everything left though, he concluded, should have truly
+fundamental effects.  My immediate response to that was, "why do you conclude
+that there are no other fundamental effects associated with other primes other
+than 2's duplication effect?  Why should we rule out the possibility that powers
+of three or of five have a distinctive effects of their own?"  
+
+   The second regard in which I can relate to your conclusion that other
+intervals can have moderate duplicating effects, is with regard to my search in
+88CET for pitch relationships that can function for note-doubling.  I described
+my conclusions in my series on 88CET, but the short version is that that is - to
+a large extent anyway - a matter of the doubling interval needing only to be
+more "bland" than the other intervals.  For example in a comparatively
+harmonically simple chord like a major triad, you can't get a doubling effect
+from fifths.  Our ears perceive the result as a basically different harmony,
+like a seventh or ninth chord.  But if you start with a more complex and intense
+harmony, like a 7:9:11 chord, doubling a note by a much more easy-going,
+simpler-sounding harmony like a fifth (or even a major tenth, perhaps
+surprisingly) doesn't seem to have much effect on the overall character of the
+chord.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 5 Oct 1996 20:25 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14430; Sat, 5 Oct 1996 19:27:14 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA14426
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA17123; Sat, 5 Oct 1996 11:27:12 -0700
+Date: Sat, 5 Oct 1996 11:27:12 -0700
+Message-Id: <961005182241_71670.2576_HHB44-6@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

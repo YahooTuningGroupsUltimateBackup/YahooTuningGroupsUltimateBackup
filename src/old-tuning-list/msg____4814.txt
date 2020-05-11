@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Sun, 16 Feb 1997 20:52:42 -0800
+
+Subject: Re: can anyone explain these "ghosttones"?
+
+From: Gary Morrison <MorriSonics@compuserve.com>
+
+> Plucked strings are not harmonic, and noticeably so in  many cases such
+> as pianos. Percussion instruments (you mention bells) have components
+> that depart even further from harmonic ratios.
+
+   Uhmmm...  Well, that may perhaps be true of SOME plucked strings, maybe
+perhaps violin or viola pizzicato.  But I don't think the same can be said
+for many, and possibly the majority, of plucked strings, including 'cello
+and bass viol pizzicato and guitar.  
+
+   I say that because I personally have decomposed and then additively
+resynthesized those tones with partials forced to be strictly harmonic. 
+What ever would posess me to do that?  Because for a long time that's all
+my program would do (analyze down to the nearest strict harmonic).  I had a
+regular test suite of about two hundred woodwind, brass, orchestral and
+plucked-string, bell, piano, pipe organ, wood-bar, and metal-bar
+instruments, and timpani.  I ran those sounds through the program
+frequently as I developed it.
+
+   It's very easy to hear that, in being forced to strict harmonics, the
+strings (excluding the high register of the piano), woodwinds, and brass
+suffered only slightly, whereas the characters of the those percussion
+instruments, were vastly altered.  
+
+   The enormity of the difference for the strings (including the plucked
+strings), woodwinds and brasses I would characterize as slightly greater
+than the sort of thing that distinguishes a bad guitar (for example) from a
+good guitar.  
+
+   Another way to characterize the difference is that the unaltered and
+pure-harmonic tones were nearly indistinguishable from each other on the
+Mac's built-in speaker, although the strictly harmonic timbres had a
+crusty, buzzy, robotic quality when played back over big speakers in
+44.1KHz 16-bit stereo.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 17 Feb 1997 08:17 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08286; Mon, 17 Feb 1997 08:17:35 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA08280
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id XAA01368; Sun, 16 Feb 1997 23:15:22 -0800
+Date: Sun, 16 Feb 1997 23:15:22 -0800
+Message-Id: <33080319.630F@ix.netcom.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

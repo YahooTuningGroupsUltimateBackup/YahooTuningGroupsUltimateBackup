@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Wed, 17 Jan 1996 10:44:49 -0800
+
+Subject: New here...
+
+From: Ethan Weker <eweker@abacus.bates.edu>
+
+Hi...I'm a senior music/math double major at Bates College and am new to
+the list.  My thesis topic is involved in creations of scales in 31 tone
+music, using the work of John Clough, Sebastion Von Hoerner, and Harry
+Partch.  What I am wondering is if there is anyone out there who has
+experience with creating orchestra and score files in C-sound for the 31
+tone chromatic scale.  Anybody have any insight, or want to point me in a
+direction?  Thanks a lot!
+						-- Ethan --
+-------------------------------------------------------------------------
+|      Ethan Weker	    |	No, I don't have a web page yet!	|
+|  eweker@abacus.bates.edu  |    I'm working on my thesis!		|
+-------------------------------------------------------------------------
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 19 Jan 1996 02:46 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA02674; Thu, 18 Jan 1996 17:46:35 -0800
+Date: Thu, 18 Jan 1996 17:46:35 -0800
+Message-Id: <199601190145.RAA02544@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

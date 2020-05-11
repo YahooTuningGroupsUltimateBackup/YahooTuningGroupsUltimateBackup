@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Tue, 10 Dec 1996 13:30:08 -0800
+
+Subject: tuning a Roland
+
+From: "Adam B. Silverman" <adam.silverman@yale.edu>
+
+If I recall, back in the "Which synths should I buy?" thread, the consensus
+was to boycott Roland, who never allow microtuning and never will.  Whoever
+said this aparrently did not do their homework, since I have found a Roland
+Super JD module (if anyone is interested, write me and I'll go back to the
+studio to check the model number) which allows any "part"--that's "voice"
+to most of us--to be tuned in increments of +/- 64ths of a tempered
+semitone.  This is in the form of an octave=repeating pitch-class tuning
+table.  Also, some of their patches seems to have a background layer tuned
+in quarter-tones (like their "telephone" sound-effect), so I'll bet that
+extended scales can be done--I just don't know how.
+
+It's not ideal, but is a great boon for people who like Roland sounds,
+which are much slicker than those found on the Proteus.
+
+Another methond of microtuning synths that has not been mentioned is to
+build a scale note-by-note as a "drum kit."  I know that some Yamahas allow
+both coarse and fine detuning on a note-by-note basis in their "drum kits,"
+and perhaps other brands will permit this as well.
+
+_________________
+Adam B. Silverman
+153 Cold Spring Street; A3
+New Haven, CT 06511
+(203) 782-1765
+
+abs22@pantheon.yale.edu
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 10 Dec 1996 23:00 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21634; Tue, 10 Dec 1996 23:02:58 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA21667
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA29775; Tue, 10 Dec 1996 14:02:55 -0800
+Date: Tue, 10 Dec 1996 14:02:55 -0800
+Message-Id: <s2ad6cf5.036@mptpwpo.mptp.cpii.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

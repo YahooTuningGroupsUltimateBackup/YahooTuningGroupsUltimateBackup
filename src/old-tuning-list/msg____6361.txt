@@ -1,0 +1,122 @@
+source file: mills3.txt
+Date: Wed, 29 Oct 1997 20:35:29 +0100
+
+Subject: deeper into the mire
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+On the sensitivity of harmony to tuning:
+
+>It depends what you're listening to. If the chord occurs as a result of
+>simultaneous melodic lines in a piece of music, I don't think you're right,
+>unless you'd allow 20 cents to be considered a few cents. If you're listening-
+
+>for beats, then yes, you're exactly right.
+
+I was thinking in terms of 2 or 3 cents.  You do have to listen
+pretty hard for the difference, but it's there.  By the time
+you get to 20 cents, the detuning is instantly obvious with the
+most sensitive timbres.  I wouldn't allow a tonic to be out of
+tune by this amount.
+
+>3, 5 and 7 are successive odd numbers, so I don't think one has to resort to
+>12tet to explain the increasing dissonance of their respective intervals
+>(which I clearly hear).
+
+I wouldn't like to say whether 4:5:6 or 4:6:7 is more consonant
+in my schismic tuning.  Both, though, are a lot better than
+4:5:7.  Either this is a result of the poor 7/5, or the odd
+limit is not a perfect discriminator of consonance.  If my
+soundcard's behaving itself, 7/5 should only be out by 5 cents.
+The dissonance of 4:5:7 is very obvious.  I'm using the "Chorused
+Piano" preset at the moment, but I hear the same effect with
+others.
+
+In 31tet, the 7/4 has an unpleasant ring to it, which may be a
+result of its purity.  "Vibraphone" illustrates this well.  I
+conclude, therefore, that the minutiae of tuning are more
+important than the difference between the residual dissonances
+of the 5- and 7-axes.  This is all subjective, so you're
+welcome to disagree with me.  I expect to see some evidence of
+what you're listening to, though.
+
+A definition of consonance you ask?  I can only give an example.
+the purity an interval of 702 cents posesses that a randomly
+chosen interval does not -- that's consonance.
+
+>Right. If an n:1 frequency ratio is tuned too purely in sustained harmonic
+>timbres, the upper note will disappear.
+
+In 12TET the octaves are, of course, pure.  I'm sure this has
+a lot to do with why octaves are treated differently to other
+overtones, but I don't want to get into that at the moment.
+
+I was more thinking that the blurred sound of 12TET is suited
+to some music -- easy listening, cocktail jazz, that sort of
+thing.  Also, I sometimes hear unpleasant things in the upper
+harmonics with the nearest I can get to JI.
+
+I wouldn't go this far, though:
+
+> But there's nothing conceptually wrong, as far as I can see, with saying
+> that two intervals whose difference is less than the ear's accuracy are
+> musically the same.  This is the only way Canright's "all intervals" can be
+> "just".
+
+The range of musical similarity is _much_ wider than the accuracy
+of the ear for the tuning of chords.
+
+
+The following statement of Paul Erlich's is entirely correct:
+
+>... the probability that two physical strings are tuned
+>to a rational inteval is zero, as Cantor showed...
+
+As a general rule, there's no such thing in the real world as
+integer relationships of continuous quantities.  Entrainment
+only goes so far.
+
+However, by the same argument, this is wrong:
+
+> _Bowed_
+> strings, however, if bowed at a constant speed and pressure, are
+> perfectly harmonic, since they undergo exactly the same motion (analysed
+> by Helmholtz) in each slip-stick cycle.
+
+Never say "perfect" -- say _how_ imperfect!
+
+Turning to this,
+
+> It must be something else, then, that causes additive patches to sound more
+> like violins when you detune the harmonics.
+
+I suggest that "something else" is vibrato.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  William Sethares <sethares@eceserv0.ece.wisc.edu>
+Subject:  a definition of sensory dissonance
+PostedDate:  29-10-97 21:06:07
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  29-10-97 21:05:04-29-10-97 21:05:05,29-10-97 20:05:37-29-10-97 20:05:38
+DeliveredDate:  29-10-97 20:05:38
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125653F.006E52B4; Wed, 29 Oct 1997 21:05:01 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA31013; Wed, 29 Oct 1997 21:06:07 +0100
+Date: Wed, 29 Oct 1997 21:06:07 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29740
+Received: (qmail 25593 invoked from network); 29 Oct 1997 12:06:04 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 29 Oct 1997 12:06:04 -0800
+Message-Id: <199710292003.AA19549@eceserv0.ece.wisc.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

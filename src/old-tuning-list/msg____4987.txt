@@ -1,0 +1,330 @@
+source file: mills2.txt
+Date: Tue, 4 Mar 1997 10:03:55 -0800
+
+Subject: Reply to PaulE/Lst Sqr tunings
+
+From: John Chalmers <non12@deltanet.com>
+
+Paul: I agree that most of my lst sqr tunings have slightly worse
+major sixths than your two. However I'm still not completely convinced
+that the intonation of the 5/3 and 6/5 are as important as the 
+that of 3/2 and 5/4, but even if it is, there are not independent
+intervals.  In triads, one has both a major third and a minor third and
+adjusting either the fifth or the major third adjusts the minor third
+as well. There are only two degrees of freedom, not three, which reduces
+to one in meantone-like tunings or their positive analogs.
+
+Since the differences between the fifths and thirds of these tunings are
+measured in fractions of a cent, the question is rather moot for 
+synthesizer users at the moment, though Csound and Kyma may have the
+required resolution.
+
+Another question is whether the sum of the squared or even absolute 
+errors 
+is the proper measure of out-of-tuneness. Errors in the flat direction 
+may be more serious than sharp ones, but both our techniques conflate 
+the two.
+
+I thoroughly agree that the triads of 15-tet are more consonant than
+those of 10-tet, but this is not relevant. We were both talking about
+meantone-like tunings which form their major thirds as 4 fifths up,
+their major sixths as 3 fifths up and their minor thirds as the difference
+between the fifth and the major third, which is equivalent to taking 
+the minor third as 3 fifths down. If the fifth is greater than 700 cents,
+these relations no longer hold in any meaningful sense.  
+
+In the case of 10-tet, the major third is 360 cents and is non-cyclic
+with respect to the fifth. It is also the same as the minor third. In
+15-tet, there is a non-cyclic minor third of 320 cents and a n-c major
+third of 400. The cyclic "thirds" of both tunings are 240 and 480 cents,
+a whole tone and a fourth, so neither would be used in triads. 
+
+There is also the question of how one weights the intervals, whether or
+not one includes the major sixth/minor third in the mix. By varying the
+weights, one can bias the tuning towards any of the intervals, though I
+think both mine and Paul's can be defended. 
+
+I've appended a list of my tunings with their error analyses along with
+Paul's and a few novel and historical ones.
+
+Tuning/Errors:		   Squared Errors (EX2):
+
+JC  LST35 again696.8946974308664 
+TF(2*F+ 8*T+ 16*OCT)/34 
+E35.060303                E3225.60667 
+E51.265076                E521.600417 
+E5/36.325379              E5/3240.01042 
+E356.325379               E35227.20709 
+E355/312.65076            E355/3267.21751 
+ 
+JC WLST35 4var697.3737794128327 
+TF(50*F+ 72*T+ 144*OCT)/338 
+E34.581222                E3220.98759 
+E53.181404                E5210.12133 
+E5/37.762625              E5/3260.25835 
+E357.762625               E35231.10892 
+E355/315.52525            E355/3291.36727 
+ 
+JC WLST35 3var696.6967393502981 
+TF(18*F+ 200*T+ 400*OCT)/818 
+E35.258262                E3227.64931 
+E5.4732435                E52.2239594 
+E5/35.731505              E5/3232.85015 
+E355.731505               E35227.87327 
+E355/311.46301            E355/3260.72342 
+ 
+JC WLST35 2var697.0856522774519 
+TF(10*F+24*T+48*OCT)/106  
+E34.869349                E3223.71056 
+E52.028895                E524.116416 
+E5/36.898244              E5/3247.58577 
+E356.898244               E35227.82697 
+E355/313.79649            E355/3275.41274 
+ 
+JC WLST35 1var696.7727624083477 
+TF(6*F+40*T+80*OCT)/166 
+E35.182239                E3226.85559 
+E5.7773358                E52.6042509 
+E5/35.959574              E5/3235.51653 
+E355.959574               E35227.45985 
+E355/311.91915            E355/3262.97637 
+ 
+JC LST 4var696.5866874099862 
+TF(162*F+1800*T+150*MS+3750*OCT)/7812 
+E35.368313                E3228.81879 
+E53.303577E-02            E521.091362E-03 
+E5/35.401349              E5/3229.17457 
+E355.401349               E35228.81988 
+E355/310.8027             E355/3257.99445 
+ 
+JC LST 3var695.2732026499269 
+TF(50*F+72*T+486*MS+630*OCT)/1796 
+E36.681798                E3244.64643 
+E55.220903                E5227.25783 
+E5/31.460895              E5/322.134214 
+E3511.9027  E35271.90426 
+E355/313.3636             E355/3274.03848 
+ 
+JC LST 2var695.6957076245525 
+TF(10*F+24*T+54*MS+102*OCT)/268   
+E36.259293                E3239.17875 
+E53.530883                E5212.46714 
+E5/32.72841               E5/327.444221 
+E359.790176               E35251.64589 
+E355/312.51859            E355/3259.09011 
+ 
+JC LST 1var695.829791803032  
+TF(18*F+120*T+150*MS+390*OCT)/948 
+E36.125209                E3237.51818 
+E52.994547                E528.96731 
+E5/33.130662              E5/329.801047 
+E359.119756               E35246.4855 
+E355/312.25042            E355/3256.28654 
+ 
+My Variant of Paul's 696.0743748037858  
+TF(6*F+40*T+30*MS+110*OCT)/256  
+E35.880626                E3234.58176 
+E52.016215                E524.065122 
+E5/33.864411              E5/3214.93368 
+E357.896841               E35238.64688 
+E355/311.76125            E355/3253.58056 
+ 
+PAUL'S LST 2696.0187221912154 
+TF(18*F+200*T+150*MS+550*OCT)/1268 
+E35.936279                E3235.2394 
+E52.238825                E525.012338 
+E5/33.697453              E5/3213.67116 
+E358.175104               E35240.25174 
+E355/311.87256            E355/3253.9229 
+ 
+PAUL'S LST 1696.1648459739642  
+TF(2*F+8*T+6*MS+22*OCT)/52 
+E35.790155                E3233.52589 
+E51.65433                 E522.736808 
+E5/34.135825              E5/3217.10505 
+E357.444485               E35236.2627 
+E355/311.58031            E355/3253.36775 
+ 
+17th root of 21 in 696.6513548  
+E35.303646                E3228.12866 
+E5.2917053                E52.085092 
+E5/35.595351              E5/3231.30796 
+E355.595351               E35228.21375 
+E355/311.1907             E355/3259.52171 
+ 
+16th root of 35  696.1740565  
+E35.780944                E3233.41932 
+E51.617488                E522.616267 
+E5/34.163456              E5/3217.33437 
+E357.398432               E35236.03558 
+E355/311.56189            E355/3253.36995 
+ 
+1/4-comma Meantone, 5/4 Just696.5784284662087
+TF( T +2*OCT)/4 
+E35.376573                E3228.90753 
+E50                       E520 
+E5/35.376573              E5/3228.90753 
+E355.376573               E35228.90753 
+E355/310.75315            E355/3257.81506 
+ 
+LST35696.8946974308664 
+TF(2*F+8*T+16*OCT)/34 
+E35.060303                E3225.60667 
+E51.265076                E521.600417 
+E5/36.325379              E5/3240.01042 
+E356.325379               E35227.20709 
+E355/312.65076            E355/3267.21751 
+ 
+LST37696.9328125302637 
+TF( 2*F+20*S +100*OCT)/202 
+E35.022188                E3225.22238 
+E51.417536                E522.009409 
+E5/36.439724              E5/3241.47005 
+E356.439724               E35227.23178 
+E355/312.87945            E355/3268.70184 
+ 
+LST57696.8406372426774  
+TF(8*T+20*S+116 *OCT)/232 
+E35.114364                E3226.15672 
+E51.048835                E521.100055 
+E5/36.163199              E5/3237.98502 
+E356.163199               E35227.25677 
+E355/312.3264             E355/3265.24179 
+ 
+LST357696.8843497522732  
+TF(2*F+8*T+20*S+116*OCT)/234 
+E35.070651                E3225.7115 
+E51.223685                E521.497405 
+E5/36.294336              E5/3239.61867 
+E356.294336               E35227.20891 
+E355/312.58867            E355/3266.82758 
+ 
+Just 7/4 NEG696.8825906469125 
+TF( S +5*OCT)/10 
+E35.07241                 E3225.72935 
+E51.216649                E521.480234 
+E5/36.289059              E5/3239.55226 
+E356.289059               E35227.20958 
+E355/312.57812            E355/3266.76184 
+ 
+Weighted LST35 697.0856522774519  
+TF(10*F+ 24*T+ 48*OCT)/106 
+E34.869349                E3223.71056 
+E52.028895                E524.116416 
+E5/36.898244              E5/3247.58577 
+E356.898244               E35227.82697 
+E355/313.79649            E355/3275.41274 
+ 
+Weighted LST37 696.9982482088972 
+TF(14*F+ 60*S+ 300*OCT)/614 
+E34.956753                E3224.5694 
+E51.679279                E522.819978 
+E5/36.636032              E5/3244.03691 
+E356.636032               E35227.38938 
+E355/313.27206            E355/3271.42629 
+ 
+Weighted LST57 696.8269269798556 
+TF(56*T+ 100*S+ 612*OCT)/1224
+E35.128074                E3226.29714 
+E5.9939941                E52.9880242 
+E5/36.122068              E5/3237.47972 
+E356.122068               E35227.28517 
+E355/312.24414            E355/3264.76488 
+ 
+Weighted LST357 696.9229 
+TF(70*F+ 168*T+ 300*S+1836*OCT)/3742
+E35.032145                E3225.32248 
+E51.377709                E521.898082 
+E5/36.409854              E5/3241.08623 
+E356.409854               E35227.22057 
+E355/312.81971            E355/3268.30679 
+ 
+LucyTuning695.4929658426684 
+TF(OCT/PI +2*OCT)/4 
+E36.462035                E3241.7579 
+E54.34185                 E5218.85167 
+E5/32.120184              E5/324.495183 
+E3510.80389               E35260.60956 
+E355/312.92407            E355/3265.10474 
+ 
+Wilson's Meta-Meantone695.6304372402378  
+TFOCT*LOG(1.49453018048#)/LOG(2#)
+E36.324564                E3240.00011 
+E53.791965                E5214.379 
+E5/32.532599              E5/326.414056 
+E3510.11653               E35254.3791 
+E355/312.64913            E355/3260.79316 
+ 
+Wilson's Meta-1/5-Comma Meantone697.0675841384062  
+TFOCT*LOG(1.49577134782#)/LOG(2#) 
+E34.887417                E3223.88684 
+E51.956623                E523.828372 
+E5/36.844039              E5/3246.84087 
+E356.844039               E35227.71521 
+E355/313.68808            E355/3274.55609 
+ 
+3 1/3-Comma, 6/5 Just694.7862376664825 
+TF(T-F+2 *OCT)/3 
+E37.168763                E3251.39117 
+E57.168763                E5251.39117 
+E5/30       		    E5/320 
+E3514.33753               E352102.7823 
+E355/314.33753            E355/32102.7823 
+ 
+3op5, 1/5-Comma, 15/8 Just697.6537429460444 
+TF(T+F+2 *OCT)/5 
+E34.301258                E3218.50082 
+E54.301258                E5218.50082 
+E5/38.602516              E5/3274.00328 
+E358.602516               E35237.00164 
+E355/317.20503            E355/32111.0049 
+ 
+
+10-tet, F720, TMajor 360
+E318.045                  E32325.622 
+E526.31371                E52692.4116 
+E5/344.35871              E5/321967.695 
+E3544.35871               E3521018.034 
+E355/388.71742            E355/322985.729 
+ 
+15-tet, Fr0, TMajor400, tminor 320
+E318.045                  E32325.622 
+E513.68629                E52187.3144 
+E5/34.358713              E5/3218.99838 
+E3531.73129               E352512.9364 
+E355/336.09               E355/32531.9348 
+ 
+
+The harmonic 7 in the these tunings is generated as 10 fifths up.
+Fp1.955+	T86.3137+	S–8.8259+	OCT00.
+Wigthed, LSTLeast Square, TFmpered fifth
+The error analysis for septimal intervals is not shown. The septimal
+tunings were included as they are also good for 3 and 5 limit intervals.
+
+The weightings used in the "variant" tunings are various combinations of 
+3, 5, 5/3, and their reciprocals.
+
+--John
+
+
+
+
+
+
+
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 4 Mar 1997 20:22 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05933; Tue, 4 Mar 1997 20:22:04 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA06007
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id LAA08070; Tue, 4 Mar 1997 11:18:26 -0800
+Date: Tue, 4 Mar 1997 11:18:26 -0800
+Message-Id: <Pine.SOL.3.91.970304190333.5317D-100000@kali>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

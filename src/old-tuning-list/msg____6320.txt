@@ -1,0 +1,55 @@
+source file: mills3.txt
+Date: Wed, 22 Oct 1997 00:53:33 +0200
+
+Subject: Csound and MIDI file formats
+
+From: Lydia Ayers <layers@cs.ust.hk>
+
+Jim,
+
+>I haven't looked into csound, scala, or any other programs.
+
+You should definitely look into Csound.
+
+>impression that these programs have interactive user interfaces for manually
+entering a sequence of sounds that the program then plays.
+
+None of the versions of Csound that I've seen work this way.
+Some have interactive user interfaces for running the program,
+but normally you write a score in advance and compile it with
+an orchestra, that you also write in advance.
+
+Some people have also used MIDI-to_Csound conversions.  If you
+want to know more about that, ask the list and not me, because
+I haven't worked with that.
+
+Lydia
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Kami Rousseau <kami@InterLinx.qc.ca>
+Subject:  MIDI codes
+PostedDate:  22-10-97 14:48:29
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  22-10-97 14:47:43-22-10-97 14:47:43,22-10-97 13:48:09-22-10-97 13:48:09
+DeliveredDate:  22-10-97 13:48:09
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256538.00464567; Wed, 22 Oct 1997 14:47:33 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA23952; Wed, 22 Oct 1997 14:48:29 +0200
+Date: Wed, 22 Oct 1997 14:48:29 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA24002
+Received: (qmail 7540 invoked from network); 22 Oct 1997 05:48:15 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 22 Oct 1997 05:48:15 -0700
+Message-Id: <344DF5E3.6BE2@interlinx.qc.ca>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,82 @@
+source file: mills2.txt
+Date: Thu, 21 Sep 1995 14:46:45 -0700
+
+Subject: Acoustical experiment (fwd from early music)
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+(Neal: I hope you don't mind my forwarding this to the alternative
+tunings list, of which I'm a member and from which I think you'll get
+some good responses.  Many of the people on that list--perhaps
+most!--use synthesizers with non-ET intervals.)
+
+--pH (manynote@library.wustl.edu or http://library.wustl.edu/~manynote)
+       O
+      /\             "Do you like to gamble, Eddie?
+     -\-\-- o         Gamble money on pool games?"
+
+---------- Forwarded message ----------
+Date: 21 SEP 1995 14:02:41 GMT 
+From: Neal Plotkin <nplotkin@umich.edu>
+Newgroups: rec.music.early
+Subject: Re: (none) 
+
+In article <EARLYM-L%95092006413469@AEARN.ACO.NET> John Howell,
+John.Howell@VT.EDU writes:
+
+[large portions of temperament discussion omitted]
+
+>When I played in the Baroque Orchestra at the Oberlin Baroque Performance
+>Institute some years ago, Jaap Schroeder kept emphasizing that pitches
+and
+>tuning had to be dynamic; we had to hear what chord tone we were playing,
+>and adjust its pitch accordingly.  The 5th of the chord had to be raised
+>slightly from ET so as to be a perfect 2:3 ratio--a really PERFECT 5th
+with
+>no temperament at all.  But if that same note served as the major 3rd of
+>the chord, it had to be lowered so as to be a perfect 4:5 ratio.  Sure,
+>it's a totally different approach and a very different sound from what
+>we've all been trained in, but LORDY is it a pure, velvety sound.
+
+>Try this:  sing that perfect 5th and then hold it while another singer
+lays
+>in the major third and slowly varies it over the acceptable range for the
+>pitch.  You'll hear it when the beats disappear and every interval locks
+in
+>with every difference tone, and that will happen when the third is MUCH
+>lower than you are used to.  
+
+I'm familiar with all the arithmetic involved in figuring out different
+temperaments, and I also know what sounds good to me.  But I have no
+convenient way of relating the two!  
+
+I basically want to do John's singing experiment on a
+computer/synthesizer combination.  That is, I would like to produce a
+tone at (say) 400 Hz; produce an approximate 5th, play with it until it
+locks in (and see the number 600 appear on the monitor); add in the third
+(and see it lock in at exactly 500); etc.  
+
+What do I need?  I have a Power Macintosh with microphone; Finale; a
+not-great synthesizer keyboard (I don't have make or model with me).  Is
+there any useful software or hardware that will do this without breaking
+the bank?  (Note:  suggesting that I buy a harpsichord and hire a
+full-time tuner to be at my beck and call doesn't count as useful.)
+
+I would be grateful for suggestions.
+Neal Plotkin        nplotkin@umich.edu        (313)747-4088
+University of Michigan Law School
+313 Hutchins Hall
+Ann Arbor MI 48109-1215
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 22 Sep 1995 05:47 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id UAA05793; Thu, 21 Sep 1995 20:47:16 -0700
+Date: Thu, 21 Sep 1995 20:47:16 -0700
+Message-Id: <Pine.3.89.9509212355.A29629-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

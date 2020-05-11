@@ -1,0 +1,93 @@
+source file: mills2.txt
+Date: Mon, 16 Dec 1996 13:17:51 -0800
+
+Subject: Genesis of a Music question
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+Here is one approach to Partch:
+
+(1) Assume for the moment that he used stable and accurate instruments and
+that all intervals in the book expressed as ratios are tuned precisely. (In
+fact, he did a pretty good job under very difficult material
+circumstances).
+
+(2) Partch's _limit_ idea is based upon the series of odd whole numbers,
+and his particular expansion of tonal resources was based upon adding
+higher odd integers; some in the tuning community prefer to speak of
+_limit_ in terms of highest prime numbers, some forego the term limit
+altogether in favor of _genus_ (or set of generating factors). In Partch's
+case, it is sufficient to think of a limit as the defined by the highest
+odd number (x 2^n) used in either a numerator or denominator. The ratio
+16/15, then, has to wait for a 15 limit to appear in a _diamond_ (Partch
+includes it as a _secondary ratio_, to both fill in the gaps in his scale
+and to allow some modulations, as well as an implied 15 limit tone
+(although he called it _inharmonic_).
+
+(3) As a music theory teacher, you may have probably noticed already that
+Partch's harmonic scheme has three principals: expansion through a kind of
+stacked third harmony, common tone chord modulations, and intervallic
+inversion. (To my ears, this puts him smack in the mainstream of harmonic
+practice and theory in the first half of this century.) In particular, the
+use of  inversion will become very important to building his diamond, and
+it is critical that he identifies inverted harmonic structures by their
+_highest_ tone.
+
+(4) There are a couple of ways of looking at the diamond. Here's one
+without ratios: build a Major triad on c: c e g. Now invert these intervals
+and build a minor triad _down_ from c: c ab f.  Next build similar minor
+triads down from e (e c a) and g (g eb c)and Major triads up from ab (ab c
+eb) and f (f a c). Note the shared tones between the triads, and the fact
+that all contain c, but in each chord in a different function. This
+arrangement is the diamond:
+
+          G
+     E       Eb
+C        C       C
+     Ab      A
+            F 
+
+And transposed to G is the same as Partch's 5-limit diamond.
+
+A more generalized way of talking about the diamond is to think in terms of
+a set of intervals multiplied by its inversion (a technique familiar in the
+- albeit 12tet - music of Pierre Boulez), so we could map it onto twelve
+pitch classes as:
+
+0    4      7
+
+8    0      3
+
+5     9      0
+
+which starts to look like the corner of a twelve-tone row box (who says
+that Schoenberg and Partch didn't have anything in common?).
+
+In Partch's case, we are talking about Just intonation, however, so these
+pitches can be expressed as the ratios of small whole numbers in relation
+to a given 1/1, or tonic.
+In the five limit diamond, there are six triads, and each has a distinctive
+odd whole number (again times 2^n, to make it all fit in an octave) common
+to either the numerators of the minor triads (_utonalities_) or the
+denominators of the Major triads (_Otonalities_). For example, locate the
+minor triad with 5's in the numerator (5/4, 5/51, 5/3). Ignoring this
+common tone, now, the denominators will show the _function_ of each tone in
+the triad, which Partch called the _identity_: 5/4: 4 is 2^2, thus a 1
+_identity; 5/5: 5 is the 5 _identity_; and 5/3: 3 is the 3 identity.  
+
+Let me know if this was of any help...
+
+Daniel Wolf, Frankfurt
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 17 Dec 1996 03:07 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06227; Tue, 17 Dec 1996 03:09:42 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA06181
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id SAA01865; Mon, 16 Dec 1996 18:09:35 -0800
+Date: Mon, 16 Dec 1996 18:09:35 -0800
+Message-Id: <199612162108_MC1-D44-3C23@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

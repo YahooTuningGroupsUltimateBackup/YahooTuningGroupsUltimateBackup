@@ -1,0 +1,110 @@
+source file: mills2.txt
+Date: Thu, 20 Feb 1997 23:36:29 -0800
+
+Subject: Re: Reply to Matt Nathan
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com> wrote:
+> 
+> Melody is historically 
+
+probably
+
+> and aesthetically 
+
+too general an assertion
+
+> prior to harmony. 
+
+Melody, harmony, rhythm, timbre, and location
+--the basic parameters of music--have varying relative 
+priority in various musics. There are also musics
+(like some Stochausen [sp?]) which attempt to blur 
+these categories. 
+ 
+> If the unaccompanied melody uses equal-sized whole tones 
+> and no comma shifts, then the harmonized melody should too.
+
+That's a big "if" there. Even assuming the most innocuous
+and supposedly intuitive-for-Westerners diatonic JI scale: 
+1/1 9/8 5/4 4/3 3/2 5/3 15/8 2/1, as a basis for the various
+et and other approximations, you see different-sized whole 
+steps. 
+
+We are the final arbitors of our own music, you and I.
+My music uses as many intervals and pitch classes as I 
+want, melodically and harmonically. Yours uses what you
+want. If you want to get into discussing what others
+do in practice, I'm sure I can produce examples of "comma 
+shifts" in melody, accompanied and unaccompanied: Bartok's 
+field notations; lead singers in pop music who 
+(consistently, not accidentally) use for certain passages 
+pitches not available from the fixed-pitch accompanying 
+instruments; blues singers and blues players, jazz players 
+like Miles Davis, who purposely use different fingerings
+to produce pitches near the "normal" ones; string quartets; 
+barborshop quartets; etc. 
+
+The only times you'll probably hear equal-sized whole
+steps and no comma shifts in melody will be on fixed-
+pitch instruments or from performers rigorously trained
+to match such instruments. (I read, I think in Helmoholtz, 
+about the comparative difficulty of solfege students to 
+stay in tune as a group when accompanied by the (et) 
+church organ and ease when unaccompanied and allowed
+to sign in JI.)
+
+Comma shift is probably a misnomer too (like "wandering tonic"). 
+I'd rather think of it not as a "shift" to a different version 
+of the same pitch class, but a movement to a new pitch class.
+
+Maybe there's a psychological transistion or grey area
+between when "shifts" become "new classes". In other 
+words, maybe historically (following scale-expansion 
+theories like Yasser's) new pitches were added as 
+"shifts", but over time became distinct "classes". For 
+example, if you were composing in a diatonic C Major 
+scale and were inspired to use a V7 of the relative minor 
+(E7), the G# might initially be thought of as a "shift" 
+of the psychological grouping "fifth of scale" rather
+than a new class. In fact, our notation system still 
+shows the fossil remains of such thought in the very name 
+"G#" (one of 7 letter names plus a "shift" command, rather 
+than having 12 letter names with no shift commands). 
+
+> >Will you explain this dissonance function with
+> >figures please? It sounds interesting but I'm
+> >not sure what you mean by derivative.
+> 
+> ...calculus.
+
+Interesting. Do you have a formula?
+
+> >I measure ["complexity"] not by multiplying the members of a 
+> >ratio or chord, but by adding them!
+>
+> This may be a valid issue but is irrelevant here, since we are 
+> merely comparing representations of the same interval(s).
+
+Technically, "we" includes me, so we are talking about
+both issues.
+
+Is your dissonance function not applicable to comparing
+perfect representations of different intervals? (I guess
+it would give equal dissonance, 0, for both?) 
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 21 Feb 1997 17:17 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13987; Fri, 21 Feb 1997 17:17:30 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA13976
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id IAA05484; Fri, 21 Feb 1997 08:05:14 -0800
+Date: Fri, 21 Feb 1997 08:05:14 -0800
+Message-Id: <199702211101_MC2-1191-ECFD@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

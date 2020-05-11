@@ -1,0 +1,84 @@
+source file: mills2.txt
+Date: Wed, 15 Jan 1997 15:45:50 -0800
+
+Subject: RE: Comment on Kami's post
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+John Chalmers wrote,
+
+>Whenever 1 or 2 appears as a factor, the dimensionality may be
+>lowered by the assumption of octave equivalence.
+
+I was under the impression that having 1 (or 2) as a factor was common, 
+based on some material John sent me, which led me to the discovery I 
+mentioned in my comment on Kami's post. It certainly is not a trivial factor 
+and seems to aid in the geometrical interpretation of these things. Without 
+a 1 (or 2), the CPS is just a "border" between these tiled hyperpolyhedra. 
+Whether or not you assume octave equivalence doesn't alter the 
+dimensionality of a given CPS, as far as I can see, since no 
+octave-equivalent pairs of tones are present. An exception would have to be 
+made in the case of 2 appearing as a factor along with the repetition of 
+other factors, but John said,
+
+>Erv Wilson [. . .] seldom used repeated factors.
+
+On another point:
+
+
+>to measure distances between intervals use the Minkowski metric
+>(Tenney's harmonic distance)
+
+I would dispute this, since it takes the axes as orthogonal, contrary to my 
+view of Euler geni (?) as oblique. Tenney would view 6/5 as spanning the 
+same harmonic distance as 16/15, that distance being log(3)+log(5)g(15), 
+while I would argue that the former (and its octave equivalence class) is 
+simpler and so should be represented by a shorter distance.
+
+Here's how I would measure distance. I take each axis as representing a new 
+prime number, starting with 3. In two dimensions (5-limit), the solution is 
+to make major triads or 1)3 [1.3.5] CPS, and minor triads or 2)3 [1.3.5] 
+CPS, isosceles triangles (which fill the plane) where the three edges 3/1, 
+5/1, and 5/3 have length log(3), log(5), and log(5), respectively (i.e., the 
+length is the log of the limit). By contrast, Tenney would take these 
+lengths as log(3), log(5), and log(15), respectively, so that the consonant 
+triads are no more compact in space than a chord like 12:15:16.
+
+In three dimensions (7-limit or 9-limit), one additionally represents 7/1, 
+7/3, and 7/5 as edges of length log(7), and space is littered with 
+transpositions of 1)4 [1.3.5.7] and 3)4 [1.3.5.7] tetrads (otonal and 
+utonal, in Partch language), which have one of each of the six edge types 
+(are these called isosceles tetrahedra?), and the "holes" are filled with 
+transpositions of the 2)4 [1.3.5.7] hexany (isosceles octahedra?), which 
+have two of each of the six edge types. 9-limit constructs are not as pretty 
+geometrically, but the math works out: assuming you travel along edges only 
+(is this what is meant by the Minkowski metric? My relativity teacher didn't 
+think so!), an interval is consonant with respect to the n-limit if the 
+shortest distance needed to traverse the interval is less than or equal to 
+log(n), since log(3)+log(3)g(9), etc.
+
+The practical problem with these metrics is that they don't take "punning" 
+into account. Eventually a really distant point will sound like a really 
+close one. A simple, accurate, and consistent temperament can remedy this 
+situation, but only with more (euclidean) dimensions around which to "wrap" 
+the lattices. For example, the set of meantone temperaments makes three 
+steps of 3/1 the same as one step of 5/3. So the plane becomes a tube. This 
+tube may still be infinitely long, though, and so will have punning 
+problems. But meantone equal temperaments like 12 and 19 cut it off and 
+attach the two ends together, making a torus. The geometric distance between 
+any two tones is then a good indication of how consonant the interval 
+between them is.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 16 Jan 1997 01:19 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18226; Thu, 16 Jan 1997 01:22:38 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA18244
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA14704; Wed, 15 Jan 1997 16:22:35 -0800
+Date: Wed, 15 Jan 1997 16:22:35 -0800
+Message-Id: <199701160021.LAA24279@anugpo.anu.edu.au>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

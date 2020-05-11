@@ -1,0 +1,144 @@
+source file: mills2.txt
+Date: Sun, 16 Mar 1997 08:28:15 -0800
+
+Subject: Re: Dominant 7th 4-5-6-7-8 ?
+
+From: Andrew Milne <andymilne@dial.pipex.com>
+
+Paul Erlich wrote:
+
+> Andrew M. wrote,
+> 
+> >the augmented sixth chord (e.g. g - b - d - e#) . . . is
+> >another chord that I think would be incorrectly represented by a 4-5-6-7
+> >tuning
+> 
+> But Andrew, the augmented sixth chord IS represented almost exactly by 
+> 4:5:6:7 in meantone tuning. Do you therefore think meantone is not a good 
+> tuning for music with augmented sixth chords? Remember that it was the 
+> tuning in place when they arose.
+
+
+Well, first of all, thanks for such an interesting and penetrating
+question.
+
+Yes it is true that the augmented sixth as expressed in meantone (and
+even in 5-limit Just Intonation) is very close to the 4-5-6-7 chord. In
+1/4 comma meantone the aug6 is only 3 cents flat of its 7-limit version
+(in J.I. it is just 7.7 cents sharp).
+
+The former certainly gives a very good (and the latter a pretty
+reasonable) aural analogue of 4-5-6-7, and as a 7-limit major tetrad it
+sounds very well tuned.
+
+So it does appear that there is a danger that an augmented sixth chord
+could lose its restlessness (i.e its function), but it must not be
+forgotten that the aug6th is a "highly chromatic" chord (as Paul Erlich
+correctly comments).
+
+In classical music of the meantone period, the augmented sixth is
+usually found built on the flat 2 or flat 6 of the scale.
+
+The spelling of bVIaug6 in C major would be Ab-C-D-F# or Ab-C-Eb-F#. The
+notes Ab, F# and Eb will seek to resolve by moving a minor second
+(diatonic semitone) in the direction of their alteration (this being the
+usual resolution of a chromatic note). Furthermore in the first version
+of the augmented sixth, the augmented fourth between Ab and D is highly
+dissonant (the meantone aug4, which is very close to 7/5, only seems to
+be consonant when it is part of a 4-5-6-7, 5-6-7, or 4-5-7 chord).
+
+The spelling of bIIaug6 in C major would be Db-F-G-B or Db-F-Ab-B. Once
+again a highly chromatic chord in C major - the first has an augmented
+fourth with the bass, the second has two chromatic notes.
+
+For these reasons it is unlikely that an augmented sixth can function as
+a tonic, despite its consonance.
+
+So, if a consonant (virtually 4-5-6-7) chord can be used as an aug6th
+chord why not use a 4-5-6-7 chord as a dominant (or indeed secondary
+dominant)?
+
+The augmented sixth chord sounds like a 4-5-6-7 chord by *chance*, there
+is no design here. The origin of this chord was not the result of a
+quest to maximise the consonance of a dominant seventh type chord, but
+to serve as a chromatic substitution for (alteration of) the second
+inversion of the dominant 7th whose *bass* note is a chromatic semitone
+above the aug6th's root (that, at least, is the conventional explanation
+for its origins).
+
+To actively choose 4-5-6-7 for a (secondary) dominant 7th, is to quite
+consciously introduce another note foreign to the major scale. In C
+major the 7/4 of the dominant chord is a note more than 27 cents below
+F, and as we have seen is well represented (in meantone) by the
+augmented 6th E#. If composers really wanted to minimise the dissonance
+of the dominant seventh, it would not have been beyond the notational
+possibilities of the time to spell G7 as G-B-D-E#. But no composer does
+this (unless of course the chord resolves *as an aug6th* (i.e. to F#
+major).
+
+To use this aug6th with the dominant chord consistently, one would have
+to reconstruct the C major scale as an 8 note scale - C, D, E, E#, F, G,
+A, B. But this E# only functions as a useful consonance in the G7 chord
+- it is a note which can only serve in one chord position (7/4 type
+seventh) in one chord (the 4-5-6-7 chord whose root is G).  All the
+other notes can serve as root, third or fifth (and seventh etc.) except
+for F - which can't be a fifth, and B - which can't be a root.
+Furthermore it is only related to the other scale notes as a 7-limit
+ratio when the very foundation of the major (and minor scales) are the 3
+and 5-limit ratios of the major and minor triads. It is therefore a
+somewhat superfluous and *unintegrated* note with respect to the C major
+scale.
+
+To use this extra-scalic E# (#3) is, therefore, a conscious and explicit
+device which is useful for only one purpose, and that purpose is to
+minimise the natural dissonance of the dominant seventh chord.
+
+BUT, it is important to remember that it should not be the purpose of a
+tuning system to remove all dissonance. Dissonance is the driving energy
+of music. In counterpoint the alternation of consonance and dissonance
+is fundamental to good form, and indeed without dissonance, creativity
+is, perhaps, impossible. In relation to a quite different discussion on
+the MTO-List, Nicholas Meeus wrote on 6th March 97:
+
+> I used to claim, when teaching the history of medieval
+> music, (and I was neither the first nor the only one to do so) that the
+> status of composer originated when dissonances came to be accepted as
+> possible intervals in composition. To write a consonant counterpoint
+> against a borrowed cantus firmus is but an automatic application of a
+> limited set of rules. To admit dissonances in the counterpoint is to give
+> oneself the freedom that transforms an act of ordinary craftmanship into
+> one of original creation. In this way, dissonances are the most essential
+> aspect of a composition. Yet, throughout the history of our music,
+> dissonances have indeed been presented as "supplementary" and
+> "unessential".
+
+Alternative tunings enable us to create strange and wonderful
+consonances not available to 5-limit tuning, but at the same time it is
+quite wrong to use tuning to eradicate all dissonances where-ever we
+find them. Dissonance must be embraced not discarded.
+
+
+> when I play around 
+> in meantone, I often go to the augmented sixth and don't resolve -- it's a 
+> nice bridge from 5-limit to 7-limit harmony.
+
+This is certainly an intriguing idea, and it makes one wonder if any
+classical composers or theorists of the time were aware of, or
+discussed, the unexpected consonance of the aug6th chord.
+
+Andrew Milne
+Islington
+London
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 16 Mar 1997 17:30 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30148; Sun, 16 Mar 1997 17:30:19 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA30147
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id IAA23131; Sun, 16 Mar 1997 08:28:39 -0800
+Date: Sun, 16 Mar 1997 08:28:39 -0800
+Message-Id: <Pine.GSO.3.95.970316112617.13110A-100000@u2.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

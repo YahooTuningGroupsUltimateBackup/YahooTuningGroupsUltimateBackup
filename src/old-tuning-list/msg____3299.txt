@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Tue, 23 Jul 1996 13:46:28 -0700
+
+Subject: Re: Scala help
+
+From: pbrewis@cix.compulink.co.uk (Peter Brewis)
+
+In-Reply-To: <009A59D825794BE4.1504@ezh.nl>
+Manuel Op de Coul wrote:
+
+> There's the famous anecdote that someone from the East was at a
+> concert of Western classical music, and when he was asked how he liked
+> it he said he especially liked the first part. So his hosts asked
+> whether it was the first movement that he liked, he said "no, before
+> that!" I think it was emperor Hirohito but am not sure.
+
+Ha! I hadn't heard that story!
+
+>............... Two things can be wrong. Either you are missing the
+> file 'help.par' which should be in the same directory as the program,
+> or you are starting the program up from another directory than the
+> one it's in. The program namely looks only in the working directory
+> for its datafiles: help.par, intnam.par, modenam.par, harmon.par, etc.
+> The working directory can be changed from within Scala with 'cd'.
+
+Thank you for trying, but I've checked and I'm afraid it's neither of 
+these. I can't think what's wrong. Is the _name_ of the directory 
+significant? Do I need a PATH statement in my AUTOEXEC.BAT? Is SCALA 
+incompatible with DOSKEY or some device-driver?
+
+Sorry to be a pest.
+
+Peter
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 24 Jul 1996 04:00 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id TAA18614; Tue, 23 Jul 1996 19:00:21 -0700
+Date: Tue, 23 Jul 1996 19:00:21 -0700
+Message-Id: <31F5832E.2672@adnc.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

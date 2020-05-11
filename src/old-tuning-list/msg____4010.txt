@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Thu, 14 Nov 1996 07:15:47 -0800
+
+Subject: Re: Pitch Bend Tuning...
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+Andrew Souter sez:
+>        I find it hard to believe that not one of you knows anything about
+> the specifics of using MIDI pitch bend for tuning purposes.  Can't someone
+> post some information on this subject?
+
+   Interesting...  There's been quite a bit of messages about that recently.
+I'd have to guess we have different ideas about what constitiutes "specifics".
+Perhaps you could clarify further what sort of information you're looking for.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 14 Nov 1996 16:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA08803; Thu, 14 Nov 1996 16:16:44 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA08841
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA04679; Thu, 14 Nov 1996 07:16:41 -0800
+Date: Thu, 14 Nov 1996 07:16:41 -0800
+Message-Id: <961114150104_71670.2576_HHB71-14@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

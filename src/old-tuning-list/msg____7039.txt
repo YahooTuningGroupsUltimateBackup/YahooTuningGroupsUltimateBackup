@@ -1,0 +1,83 @@
+source file: mills3.txt
+Date: Thu, 15 Jan 1998 21:35:06 +0100
+
+Subject: RE: MID/Audio Wish List
+
+From: "Loffink, John" <John.Loffink@COMPAQ.com>
+
+Patrick Ozzard-Low wrote:
+
+>Regarding Mr Mickey Mouse: On the Roland,  if you want to preserve a
+>any kind of realistic quality of timbre the upper limit of
+>transposing a sample from its original sampled pitch is about a
+>minor third (up), and a major third down - depending on the timbre.
+>In my own case, I typically use a sample mapped to no more than about
+>150 cents BELOW the original sampled pitch, but very seldom
+>transposed upward.   This is more than adequate for my purposes
+>(local friends think I'm too fussy) and there is no 'mickey mouse'
+>effect within these limits.
+>
+>More correctly, you have limited the transposition artifacts on timbre to an
+>acceptable level.  They are still there, and the degree will vary with every
+>sample's level of formant frequencies.
+>
+> > >Increasing the number of "Partials" will not solve your problem,
+>> >because you'll have a new one -- the sampler's internal RAM will
+>> >not have enough storage to handle the increase.  Program parameters
+>> >are most likely to be stored in 64K to 512K local RAM inside the
+>> >unit, not your 32M to 128M sample RAM.  If you now ask
+>> >manufacturers to increase the local RAM just for microtonal
+>> >support, I can tell you that none of them will do it because that
+>> >increases the price of the hardware.
+>
+>Sorry, John, this is wrong.  Increasing the number of 'partials' has
+>no effect on the used sample RAM on the Roland or AKAI systems.
+>
+>Patrick, it's obvious you don't understand the difference between internal
+>program storage RAM and sample RAM.  In fact, your following comments pretty
+>much proved what I said was right, that program parameters for "Partials" are
+>not stored in sample RAM on Roland samplers.  Sample RAM is used to store the
+>raw samples.  Program RAM is used to store loop points, tuning offsets,
+>velocity response, filter parameters, tuning tables, MIDI parameters, etc.
+>For a synthesizer, the builtin samples are stored in ROM (Read Only Memory),
+>the builtin program parameters are probably stored in the microprocessor code
+>ROM, and the user programs (no samples) are stored in battery backed RAM.
+>
+>More 'partials' does not mean more RAM;  on the Roland
+>(at least) only samples take up sample RAM.
+>
+>See my response above.
+>
+John Loffink
+john.loffink@compaq.com
+
+>
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  RE: JI approximation to 22ET
+PostedDate:  15-01-98 21:47:32
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  15-01-98 21:46:51-15-01-98 21:46:52,15-01-98 21:46:37-15-01-98 21:46:38
+DeliveredDate:  15-01-98 21:46:38
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658D.007226A4; Thu, 15 Jan 1998 21:47:18 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21405; Thu, 15 Jan 1998 21:47:32 +0100
+Date: Thu, 15 Jan 1998 21:47:32 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA16401
+Received: (qmail 25543 invoked from network); 15 Jan 1998 12:47:30 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 15 Jan 1998 12:47:30 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-980115203917Z-7525@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

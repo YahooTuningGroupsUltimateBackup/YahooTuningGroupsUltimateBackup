@@ -1,0 +1,97 @@
+source file: mills2.txt
+Date: Thu, 8 Aug 1996 14:48:47 -0700
+
+Subject: Re: TUNING digest 801
+
+From: Paul Rapoport <rapoport@mcmail.cis.mcmaster.ca>
+
+> Here's a definition of consistency: Given an odd number n, an octave-based 
+> equal temperament is consistent within the n-limit if, for any odd numbers 
+> a, b, and c such that 0<a<b<c<=n, the number of steps that best approximates 
+> a:b plus the number of steps that best approximates b:c is equal to the 
+> number of steps that best approximates a:c.
+
+Multiple uses of the same symbol make this confusing or actually 
+impossible to figure out. Thanks, though, for the earlier references. 
+
+> Exactly. Here's the implicit derivation of your strict mathematical 
+> definition: the syntonic comma is (3:2)^4/(5:4) (ignoring octaves); 
+> therefore the best syntonic comma is 4 times the best perfect fifth minus 
+> the best major third, mod the number of notes per octave. Another, just as 
+> musically relevant and just as mathematically strict, definition would be: 
+> the syntonic comma is (3:2)^3/(5:3) (again ignoring octaves); therefore the 
+> best syntonic comma is 3 times the best perfect fifth minus the best major 
+> sixth, mod the number of notes per octave. If the two definitions lead to a 
+> conflict, I see no reason one should take precedence. Therefore, in such 
+> cases, there is no "best" syntonic comma.
+
+Perhaps someone else would like to explain the precedence of 1:5 over 
+3:5. It's fairly clear to me, which does not invalidate attempts to base 
+a system on 3:5. I don't know whether something could be concocted to 
+include both in all cases.
+
+> >The method . . . . also allows for an improvement in Blackwood's notations 
+> in a few cases.
+
+Blackwood's notation for 16, 18, and possibly a few others isn't 
+consistent in potential use on all steps of the tuning. (I haven't his 
+work at hand as I write this.) Examining the scales he writes out at the 
+beginning of each piece in the 12 etudes should show what I am getting 
+at.
+
+> >There is no more inherent reason to expect the m3 and M3 to "behave
+> >properly" than there is for cycles of P5 or for the M3 and P5 together.
+
+> To behave properly is to behave as in just intonation.
+
+Interesting definition, but too narrow for me. I had nothing specific in
+mind, although I was thinking of ETs, which behave differently from JI in
+many ways, of course. We might tentatively talk about having one and only 
+one amount of P5s create a M3. We might even think of proper as having 
+only one cycle of P5s. Of course many tunings don't have either of these 
+characteristics. And many don't have their best M3 and m3 add up to a P5.
+
+> You didn't address my point about 
+> fractional alterations
+
+Didn't seem anything to address. I have no theory of fractional 
+alterations, especially when they should or should not be used.
+
+> my request to clarify your criticism of 
+> Herf's and Sims' notations. 
+
+Another time, perhaps more detail will be possible. I am fairly busy but 
+will try to get to this.
+
+What wrong with using lots of fractional 
+> alterations, whose ordering is intuitive, combined with an understanding of 
+> how they represent the syntonic comma, septimal comma, etc., 
+
+There may be too many fractional parts or such a method may obscure 
+something else important if it is the only one used. They may be fine; I've 
+proposed some myself. See above comment.
+
+> as opposed to 
+> using combinations of 12-based commas, with possibly bizarre orderings, 
+> combined with an understanding of how these commas may fail to fulfill their 
+> acoustical functions?
+
+Perhaps that is a code for consistency again. (Acoustical functions?) I
+agree that there might be a bizarre number of commas in various bizarre
+orders, since everything is currently strange in such cases. All I tried
+to do was derive a general system to see where it could be pushed. It is
+likely that something else is better in some or even many cases. If so,
+I look forward to seeing it.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 9 Aug 1996 08:22 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06606; Fri, 9 Aug 1996 08:22:39 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA06642
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA11661; Thu, 8 Aug 1996 13:45:52 -0700
+Date: Thu, 8 Aug 1996 13:45:52 -0700
+Message-Id: <61960808161016/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

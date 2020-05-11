@@ -1,0 +1,42 @@
+source file: m1569.txt
+Date: Fri, 30 Oct 1998 17:09:22 -0500
+
+Subject: Re: Mathematical explanation of consonance? - Simple!
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Charles Lucy wrote,
+
+>> Yes, Robin. It seems to be determined by the number of steps between
+the
+>> pitches on the "spiral" of fourths and fifths.
+
+Gary Morrison wrote,
+
+>   (Predictable...)
+
+>   Well Mr. Lucy, I am at a lack to think of *ANY* concept of
+consonance in
+>which a harmonic major second (two steps up the circle of fifths),
+would be
+>more consonant than a harmonic major third (four steps up the circle).
+
+Of course Gary is right, especially in the context of tempered fifths,
+which applies to 12-tET, LucyTuning, and meantones. In addition, in just
+intonation, the "major third" formed by eight fourths is more
+acoustically consonant than that formed by four fifths, since the former
+is only 2 cents off a just 5:4 while the latter is 21.5 cents off.
+However, musical context would still have to determine whether the
+acoustical consonance could translate into musical consonance.
+
+An obvious problem with Lucy's definition is that you can get
+arbitrarily close to any interval if you are allowed an unlimited number
+of fifths (whether these are just fifths, Lucy fifths, or any other
+irrational fraction of an octave). So there will be very large numbers
+of fifths which result in very consonant intervals. For example, 666
+just fifths lead to a frequency ratio of 1.50007, or 702.03 cents. Even
+musical context would not help to distinguish between this and 1 just
+fifth, which is a frequency ratio of 1.5 or 701.96 cents. Lucy's own
+tempered fifth is 695.49 cents, while 52 just fourths produce an
+interval of 698.34 cents, and 89 Lucy fifths produce an interval of
+698.87 cents, both clearly more consonant.

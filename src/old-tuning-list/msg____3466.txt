@@ -1,0 +1,210 @@
+source file: mills2.txt
+
+
+Subject: Partch, Riley, Reich
+
+From: "Jeude, James" <JeudeJ@dbisna.com>
+
+Two events framed my interest in microtonal and non-standard tunings.  The 
+first was my father's off-handed comment that he wondered what 7th root of 2 
+musical scales would sound like and explained the "small whole number ratio" 
+rationale of JI.  Between his slide rule, my tape recorder, and my school's 
+sine wave generator, I completed a rough school project on 7tet.
+
+The second, when I was maybe 12 years old, came when my mother's copy of 
+Switched On Bach coughed up a second 7" single from Columbia Records with 
+samples of other avante-garde releases.
+There were several selections (6, as I recall) but only three made an 
+impression:
+1)Terry Riley's Rainbow In Curved Air, an accident of fate that changed my 
+musical life -- Riley though not a rigid JI theorist does use just tunings 
+on almost all of his work the past few decades,.
+2) Steve Reich's Violon Phase, which when I sought out and found various 
+Reich albums also introduced me to tape work like Come Out and It's Gonna 
+Rain and, obliquely, the ideas of psychoacoustics
+3) Harry Partch.
+
+Only with Harry Partch did I get a sense that this was something I really 
+was supposed to appreciate, intellectually, but I just couldn't find a way 
+to understand and integrate his approach into my own music-making.  Harry's 
+piece made an impression but I've never really gotten used to it.
+
+As an adult I've re-listened to Partch and acquired two albums which rarely 
+leave their album covers.  For me, he's one of those artists whose corpus 
+has a meaning that far exceeds the sum of the individual pieces.  Li Po was 
+wonderful when I saw it live at The Knitting Factory but it was because it 
+was part of the Harry legend.  If I'd run across Li Po on the radio, I might 
+well have continued searching the dial.
+
+It seems from reading this TUNING list that a newbie with an interest in 
+Partch today has to do a fair amount of research to pull together enough 
+obscure or out-of-print recordings, interviews, personal reminisces, and so 
+on to get a picture of the man and his music -- and live performances with 
+correct instruments are rare.  I hope Partch can become more "quickly" 
+accessible (which is different than more "easily" accessible) through a new 
+wave of Partch recordings and documentation.  Maybe I'll give Harry another 
+try.
+
+------------------------------
+
+Topic No. 6
+
+Date:     Fri, 23 Aug 1996 18:44 +0200
+From: COUL@ezh.nl (Manuel Op de Coul)
+To: tuning
+Subject: Scala command script example
+Message-ID: <009A74AB8C311EA0.30B9@vbv40.ezh.nl>
+
+In this post I shall give a short lesson of how to create a Scala command
+file that calculates a scale as a function of some parameters.
+
+Bela Bartok has devised an axis-system of notes. It consists of steps of 
+subdominant-tonica-dominant triplets. 
+There is a main step (Dutch: hoofdtrap):
+
+f   c   g
+S   T   D
+
+and secondary steps (Dutch: neventrappen) where the mediant of the previous
+step becomes the dominant:
+
+d   a   e         b   f#  c#         ab  eb  bb
+S   T   D         S   T   D          S   T   D
+
+Arranged in axis crosses (assenkruis, Achsenkreuz):
+
+    S                    T                    D
+
+    f                    c                    g
+
+ d     ab             a     eb             e     bb
+
+    b                    f#                   c#
+
+
+The middle cross is used for instance for the global tonality structure of
+Music for Strings, Percussion and Celesta.
+Reference:
+E. Lendvai: Einfu"hrung in die Formen- und Harmoniewelt Barto'ks, 1957.
+
+We can (ab)use this system to create scales with, by taking the size of
+dominant and mediant as parameters. The subdominant will be the octave 
+inversion of the dominant.
+So if we for instance start with the major triad 4:5:6 we get the scale
+ 25/24 10/9 125/108 5/4 4/3 25/18 3/2 125/81 5/3 125/72 50/27 2/1
+which ratios have lattice structure (to the right: 3, upwards: 5, 
+the zero is C):
+
+ * * *
+   * * *
+     * * *
+       * 0 *
+
+This is sort of a slanting version of Euler's genus bichromaticum [33555].
+Here comes a solution for the command file:
+
+   clear 0
+   echo enter the mediant
+   append ?
+   echo enter the dominant
+   append ?
+
+First we have to enter the values for mediant and dominant. A question mark
+is substituted with what the user enters. The working scale is cleared and
+the two notes entered into it.
+
+   calculate/noout 2-%2
+   append $0
+
+The value of the subdominant is calculated by subtracting the second note
+(referenced with a % sign) from the octave. That value, which is stored in
+pitch memory number 0 (referenced with a $ sign), is added to the scale.
+
+   calculate/noout 2+%1-%2
+   delete 1
+   copy 0 1
+
+Now we calculate what the shift must be to get the next step. It is O+M-D,
+or S+M (from C to A). This value is now in pitch memory 0.
+The mediant is deleted so the working scale contains now T-D-S. This scale
+is saved in scale memory number 1.
+
+   equaltemp 1 $0 3
+   product 1
+
+A cycle of three steps (so four notes) of the shift value is created. 
+The 1 indicates it is undivided (division of 1).
+Now comes the trick: the Carthesian product of this is taken with the 
+saved T-D-S triplet, giving the 3 x 4 = 12 notes at once.
+
+   clear 1
+   reduce 2/1
+   sort
+   append 2/1
+
+Scale memory 1 is no longer needed and cleared. All the notes are octave 
+reduced and sorted in order and the octave is added to the resulting scale.
+So instead of having to write expressions for each separate note, we make
+use of the structure of the scale and use the proper Scala command that can
+make it.
+
+Taking a quarter-comma fifth for the dominant (Scala expression: 3/2-$k\4 )
+and 5/4 for mediant gives us a regular mean-tone scale in the key of B-flat.
+
+All the command files supplied with Scala may serve as other examples.
+In particular the ones for creating tritriadic, tetratriadic, tritetradic,
+etc. scales, for creating Fokker's single- and double-tied circular 
+mirrorings of triads and tetrads, for creating duodenes, straight and
+reversed triadic diamonds, hexany diamonds and mean-tone scales.
+
+Manuel Op de Coul    coul@ezh.nl
+
+------------------------------
+
+Topic No. 7
+
+Date: Fri, 23 Aug 1996 18:44:04 +0100
+From: blee@dircon.co.uk (Brian Lee)
+To: tuning
+Subject: New Partch recordings promised
+Message-ID: <199608231744.AA04918@felix.dircon.co.uk>
+
+Here's a tidbit I picked up on the newsgroup
+rec.music.classical.contemporary 
+on the usenet and I repost it here. Please note that the discussion on
+Partch he refers to is on that newsgroup not related to what's going on here.
+Toodle pip!
+Brian Lee
+*****************
+
+It's great to see all this discussion about Harry Patch!  CRI has kept his
+music available for more than twenty years.  He's a back bone of our
+catalogue not to mention the experimental tradition in American music.
+
+When we reissued on CD The Bewitched, we made a flyer offering both our
+Patch CDs plus three books by our about Partch and the video of The
+Dreamer That Remains.  If you e-mail CRI, we can send you this flyer by
+standard U.S. mail.  Of the three books offered (an annotated catalogue of
+his works, Genesis of a Music, and Bitter Music), Genesis is out of print
+when last we checked, but the other titles can be obtained still through
+CRI.  
+
+AND, we have plans to reissue the majority of Patch's remaining Gate 5
+recordings on CD.  Gate 5 was Patch's own label wherein he recorded the
+majority of his major works.  Our two CDs of recordings are drawn from
+Gate 5 material.  Lots still remains -- many recordings not heard in
+years.  I spent a weekend last spring with Danlee Mitchell, Patch's heir,
+in San Diego reviewing the material.   That's all I'll say for now... It's
+going to be a lot of work to get this done (two or three new CDs) with
+proper notes and librettos, etc.  So, my guess is winter/spring of next
+year will be the time to look for a major new Patch series on CRI.
+
+Joseph Dalton
+Managing Director
+
+COMPOSERS RECORDINGS, INC.
+73 Spring Street, Suite 506
+New York, NY  10012-5800
+phone 212.941.9673
+fax 212.941.9704
+e-mail:  CRInyc@aol.com

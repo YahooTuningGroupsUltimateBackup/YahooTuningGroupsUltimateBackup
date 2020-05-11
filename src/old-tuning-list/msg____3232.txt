@@ -1,0 +1,161 @@
+source file: mills2.txt
+
+
+Subject: Bill Sethares' Analysis of Detwelvulate! Track 3
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+Ooops.  I meant to send this to the list, not just to Paul.  
+
+   Actually, listening again to the opening chord, I hear something a little
+different.  The opening minor-third chord is about 3 seconds long before the
+first melody note enters.  There is some sort of square, on/off change (no
+intermediary values) that occurs about once a second during that time.  During
+that first second-long period, I hear something that sounds to me like a classic
+beat, but it vanishes after that first second-long period.  
+
+   But anyway, check out Bill Sethares' analysis below.
+
+   By the way, it sounds different depending upon where and at what angle I
+place my head within the room.  That beat during the first second-long period
+seems almost inaudible when I have my head between the two speakers, but is
+clearly audible when I have my head turned 90 degrees so that both speakers are
+toward my left ear.  
+
+   For you folks doing sample looping, that's something I've found to be very
+valuable:  Don't declare a loop to be clean without moving and tilting your head
+relative to the monitor speakers.  Some flaws in some rooms can easily be
+rendered inaudible when your head is at one angle or another.  
+
+
+--------------- Forwarded Message ---------------
+
+From: 	Gary Morrison, 71670,2576
+To: 	PAULE, INTERNET:ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com
+Date: 	10 Jul 1996 , 7:16 PM
+
+RE: 	Darreg Disc Error: track 3 mislabelled
+
+> Not only does that minor third sound wide from just, but it also beats just 
+> under 3 times per second. Gary, maybe you should listen to it on a different 
+> stereo system, this beating is not hard to hear. 
+
+   I definitely heard something changing at the low-mid frequency range, at
+about the rate you mentioned, but it didn't sound like a beat to me.  I say
+"didn't" because of some results Bill Sethares came up with.  
+
+   He did a mathematical analysis of a certain passage, and the frequencies
+present drew two conclusions I found surprising:
+1.  Two pitch changes in a chromatic run were 48 cents and 52 cents.  It seems
+    likely therefore that it's not in 17, 19, nor 22, but in quartertones.  
+2.  The timbre, despite its brightness, consisted of only of two partials an 
+    octave apart.  I don't recall what he said were the relative weights.  
+
+   As for the beat, I suppose that that change we both hear could be a beat
+after all.  The tone was bright enough that I expected it would have major wads
+and wads of high-harmonic content, in which case the beats would sound like
+typical phaser/flanger effect from a Tomita album.  It would be a horrendous
+comb-filter sweep - FAR less subtle than that fluctuation you pointed out.  
+
+   But knowing that the tone is really just a couple of partials (and apparently
+low ones), then yes, that probably is exactly what such a waveform's beat would
+sound like.  
+
+
+
+------------------------------
+
+Topic No. 4
+
+Date: Thu, 11 Jul 1996 01:02:04 -0600
+From: hyperpoodle@mail.sisna.com (Doren Garcia)
+To: tuning
+Subject: 11 tET mudtone bass guitar man
+Message-ID: <v01510101ae09ef8a38f5@[205.218.46.34]>
+
+Tuners,
+
+For some reason I failed to receive issue 774. Would someone be kind enough
+to send me a copy?
+
+Is anyone entering and maintaining this list in a database?
+
+>Beethoven and Haydn have played on this piano, which was tuned in 31 tET.
+>>K"onnicke built it with instructions of the Domkapellmeister of Linz,
+>Johann >Georg Roser who had ordered a similar instrument in Brussels ten
+>years earlier >for Mozart. Roser had several meetings in Linz with Mozart,
+>who allegedly >composed two little pieces for the instrument (according to
+>the manuscript of >Roser's biography), and which were regrettably lost.
+
+Mind-blowing! Thank you Manuel Op de Coul!
+
+Doren O'Garcia
+hyperpoodle@sisna.com
+O'Garcia Astrophysics Lab and Garage
+
+
+
+------------------------------
+
+Topic No. 5
+
+Date: 11 Jul 96 02:55:49 EDT
+From: Gary Morrison <71670.2576@CompuServe.COM>
+To: Tuning List <tuning>
+Subject: 7HS Tuning Comments
+Message-ID: <960711065548_71670.2576_HHB35-3@CompuServe.COM>
+
+   I suggested that a friend at work, Bill Meadows, who does a lot of multimedia
+try out tuning in 7-tone-per-octave octave-repeating harmonic-series-based
+tuning.  The ratios within each octave for this tuning are 7:7, 8:7, 9:7, 10:7,
+11:7, 12:7, 13:7, and 14:7, obvious 7:7 being the unison and 14:7 being the
+octave.  
+
+   This is a tuning I've played with before, and I thought that Bill would very
+good at using it in the way that I concluded would be best, after I used it in a
+way I concluded to be less than ideal.  
+
+   Bill tuned it up on his Kurzweil K2500 last night and found it rather
+intimidating.  He likes to use the phrase "out of tune" because he knows that
+that's inadequate to characterize a tuning except at a very high level.  
+
+   Anyway, here are some suggestions I made to him that perhaps some of you
+might want to consider playing with as well:
+
+-------------------------------------------------------------------------------
+
+   Yesterday afternoon I wanted to expound further on how to use that 7-step
+octave-repeating harmonic-series-based tuning.  You said that you weren't sure
+how to use it, noting semijokingly that it sounded "pretty out-of-tune".  
+
+   My responses to that are:
+1.  Hey, no pain no gain!  
+2.  Is that really any more disconcerting than the microtonal scale-step size
+    phenomenon you like to tantalyze your audience with?  I'm refering to how 
+    you described 19 to Dave E. and me ... oh, probably 9 months back:  
+    Tantalyzingly delaying an expected melodic resolution by approaching it in 
+    small microtonal steps.  Is the out-of-tune nature of this tuning really
+    all that much more disconcerting?  And whether it is or not, is that a 
+    problem?  
+3.  One thing you're really good at, and I'm not (yet) is music involving 
+    long, sustained tones with faster stuff, often repeated figures, dancing 
+    on top of the sustained chords.  This tuning, I suspect, is well-suited to 
+    that sort of thing:
+  a.  You can build large chords will little chance of a clash in the minor-
+      second/major seventh sense of the word, because the pitch relationships
+      are very simple.  
+  b.  There exists a semi-standard mixing engineer/artist's analogy of the
+      sounds they mix to a three-dimensional space:  left/right stereo gives
+      you the left-right dimension with high- vs. low-pitch suggests top-
+      bottom and quiet- vs. loud-volume suggests far and close.   Combine
+      that with the fact that each tone of the octave has a distinct color to 
+      it, and then play a musical, 3D version of ... Pollock was it?  - the 
+      fellow who first painted with squirt-guns).  
+4.  What it's probably not good for is what I used it for on that tape I gave 
+    you early on, with the last three movements of a Symphonietta in that 
+    tuning.  In that case I tried to build classical structures - traditional
+    instrumentation, forms, melodies - with nontraditional harmony.  Well, I
+    concluded that what I did in that regard went reasonably well, but that 
+    that style is not what this tuning is built for.  
+5.  Since when have you been concerned with audiences thinking your music 
+    weird?!

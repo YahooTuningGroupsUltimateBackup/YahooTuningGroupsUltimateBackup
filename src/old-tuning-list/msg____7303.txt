@@ -1,0 +1,129 @@
+source file: m1365.txt
+Date: Thu, 26 Mar 1998 02:42:23 -0800 (PST)
+
+Subject: "Numbers Separated by Colons" Notation
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+Hi Bob,
+
+At 08:19 AM 3/25/98 -0800, you wrote:
+>Thanks for your excellent thinking about diminished 7th chords on the pedal
+>steel.
+
+Thanks in return, for your informative web pages, especially "Just
+Intonation of the E9th Pedal Steel"
+(http://www.wco.com/~quasar/articles/just_e9.html).  I'm totally inspired to
+take up playing steel guitar!  (It's gotta be kind of like trombone, right?)
+
+>I'm always confused by the terminology of numbers separated by colons.  You
+>wrote:
+>
+>> Here's your E triad (4:5:6):
+>>        E:      E (1/1)         G# (5/4)        B (3/4)
+>
+>Maybe it's my lack of formal music training, but I don't understand the
+>"4:5:6" reference.
+
+I don't think you'd learn this stuff in "formal music training".  I think
+it's more of a "higher math" kind of thing.
+
+>What do these numbers mean?  Later you use them a lot.  Lacking the
+>foundation knowledge, I'm having a hard time with equations like:
+>
+>> a D# diminished triad (45:54:64=5:6:4*16/9)
+>
+>I see that you know what you're talking about, and I really want to
+>understand it.  Can you give me a short explanation of this shorthand?
+
+I'll give it my best shot:
+
+Basically, the colons are a handy way to show the relation between three or
+more notes.
+
+To show the relation between TWO notes, you can use a ratio.  For example, a
+major third, say, C to E, is 5/4.  And a minor third, like E to G, is 6/5.
+
+You could also use the colon for this:
+        C:E is 4:5 (The C is the 4, and the E is the 5.)
+        E:G is 5:6 (The E is the 5, and the G is the 6.)
+
+But to show the relation between THREE or more notes, the colons have to be
+used.  C:E:G is 4:5:6.  (C is 4, E is 5, and G is 6.)
+
+It would be misleading to use the slash for a triad, as in "6/5/4", because
+it would be interpreted as "6 divided by 5, divided by 4" (which is 3/10).
+
+>From C:E:G = 4:5:6, you have these combinations:
+        E/C = 5/4
+        G/E = 6/5
+        G/C = 6/4 (= 3/2)
+
+As for things like:
+
+    C full diminished seventh (192:225:270:320)=(4*16/15:5:6:4*16/9):
+        Cdim7:  C (4/5)     D# (15/8)   F# (9/8)    A (4/3)
+
+There are four notes instead of three, so three colons to separate them.
+And the "*" is computerese for "times" (multiply).  The chord is C:D#:F#:A.
+The values line up as follows:
+
+  note name     whole number    small (possibly fractional) number
+  ---------     ------------    ----------------------------------
+  C             192             4*16/15 (= 64/15)
+  D#            225             5
+  F#            270             6
+  A             320             4*16/9 (= 64/9)
+
+The "whole numbers" are the smallest numbers I could find that were not
+fractions.  Unfortunately, the more notes there are in the chord, the bigger
+these numbers tend to get.  That's why I showed the alternative, "small
+(possibly fractional) numbers".
+
+By using the small numbers, you can easily see that D#:F# = 5:6 (instead of
+having to take 225:270, dividing each number by 45; " 225/5 : 270/5 " =
+5:6).  If you take parts of the chord two-notes-at-a-time, the numbers stay
+smaller.  This table shows all the two-note combinations in the C:D#:F#:A chord:
+
+                C       D#      F#      A
+            +---------------------------------
+        C   |   1/1     75/64   45/32   5/3
+        D#  |           1/1     6/5     64/45
+        F#  |                   1/1     32/27
+        A   |                           1/1
+
+Another way to look at it (if you really want to go nuts) is to represent
+each of the whole numbers as products of prime numbers, as follows:
+
+  note name     whole number    prime number breakdown
+  ---------     ------------    -----------------------------
+  C             192             2*2*2*2*2*2  *  3
+  D#            225                             3*3    *  5*5
+  F#            270             2            *  3*3*3  *  5
+  A             320             2*2*2*2*2*2            *  5
+
+You might ask "Why (on earth) do that?"  Because it's easy to cancel common
+factors when all the prime factors are known.  For example, take F#/D#:
+
+    F#      270    2 * 3*3*3 * 5       2 * 3       6
+    --  =  -----  ---------------  =  -------  =  ---
+    D#      225      3*3 * 5*5           5         5
+
+(Notice the "canceling" two of the 3's and one of the 5's.)
+
+By the way, this is where that term "5 limit just intonation" comes from -
+none of the "prime number factors" are bigger than 5.  If you considered "7
+limit", then 7's would end up in some of the prime number breakdowns.
+
+So that's my short explanation.  (I know; with short explanations like that,
+who needs long ones.)
+
+Thanks again,
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@pacificnet.net                      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

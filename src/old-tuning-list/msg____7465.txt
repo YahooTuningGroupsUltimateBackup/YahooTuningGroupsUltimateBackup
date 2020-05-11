@@ -1,0 +1,19 @@
+source file: m1386.txt
+Date: Wed, 15 Apr 1998 15:32:30 -0500
+
+Subject: more tuning tables
+
+From: sethares@eceserv0.ece.wisc.edu (William Sethares)
+
+Gary asked:
+
+>So then they to have completely arbitrary pitch tables (any key may be
+assigned any pitch without regard to how any other is assigned)?
+
+yes. Im not sure about all the units by these manufacturers,
+but at least the TX81Z (Yamaha) and the Proteus (Emu) as well as
+the EPS/ASR (Ensoniq) can assign any key to any pitch
+(up to their resolution, which seems to be 1.56 cents for
+all these units, though I cannot swear to that).
+
+Bill Sethares

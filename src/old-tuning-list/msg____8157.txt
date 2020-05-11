@@ -1,0 +1,70 @@
+source file: m1453.txt
+Date: Sun, 21 Jun 1998 8:41 +0100 (BST)
+
+Subject: Re: Commas and Consistency
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Jonathan Walker wrote:
+
+>If the best approximations of 3/2 and 5/4 are consistent in n-ET, for
+>any integer n, then
+
+>      4[1/2 + nlog_2 3/2] mod n == [1/2 + nlog_2 5/4]
+
+>but if the two sides are unequal then a syntonic-comma equivalent is
+>present in that n-ET. (The square brackets denote the "integer value"
+>function, i.e. "[x]" is the greatest integer less than any given real
+>number "x".)
+
+The equation can be simplified by defining {x} to be the nearest integer
+and omitting the underscores.  Also, clarified by adding parentheses:
+
+            (4{nlog2(3/2)}) mod n = {nlog2(5/4)}
+
+>If a syntonic-comma equivalent is present, then the size of the comma in
+>n-ET steps is, obviously enough:
+
+>      abs ( 4[1/2 + nlog_2 3/2] mod n - [1/2 + nlog_2 5/4] )
+
+This is only true for consistent temperaments -- otherwise, there is no
+single definition of the syntonic comma.  Also, I think the abs is
+redundant.  It is similar to the equation for a syntonic comma in my
+matrix form: (4 -1)h', where h' is the tempered octave invariant 5-limit
+plane.  The process I outline on the "Equal Temperaments" page in my
+website is essentially the same, although there's nothing like Jonathan's
+equation there.
+
+In octave specific terms, the syntonic comma can be defined like so:
+
+             -4n + 4{nlog2(3)} - {nlog2(5)}
+
+Which corresponds to (-4 4 -1)H' with H' defined:
+
+                         (    n     )
+                H' = 1/n ({nlog2(3)})
+                         ({nlog2(5)})
+
+>Anyone who has read this far will no doubt be able to adapt the above to
+>cover compatiblity between powers of any number of ratios. For example:
+
+>      -2[1/2 + nlog_2 3/2] mod n == [1/2 + nlog_2 7/4]
+
+>for compatibility between the best approximations in n-ET to 16/9 and
+>the septimal seventh.
+
+My spreadsheet defines MOD(-2,12) as -2.  As long as -2 mod 12 would
+normally be 10, the equation works.  I still prefer to define this
+septimal comma as (6 -2 0 -1)H', and go through the usual procedure for
+getting H'.  (-2 0 -1)h' also works, but I've never defined exactly what
+h' is.  Really, multiplying by it should always give an answer between 0
+and 1, but this takes us outside of straight matrix arithmetic.
+
+The spell checker wants to call that a sceptical/skeptical comma.  What is
+it trying to say, I wonder?
+
+I do, incidentally, have a Mathcad worksheet that calculates comma sizes
+from the number of steps to an octave.
+
+                     Graham Breed
+     gbreed@cix.co.uk            www.cix.co.uk/~gbreed/

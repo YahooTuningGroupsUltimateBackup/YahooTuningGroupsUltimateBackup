@@ -1,0 +1,24 @@
+source file: m1428.txt
+Date: Tue, 26 May 1998 13:23:48 -0500
+
+Subject: Tables for Pitchbend to Cents
+
+From: "Benjamin Tubb" <brtubb@cybertron.com>
+
+I need a table of Pitchbend to 12tet Cents equivalents for the various semitone
+ranges available for Pitch Bend Sensitivity which is the MIDI Registered
+Parameter Number 0 (i.e. CC101=0 [MSB] and CC100=0 [LSB]).
+
+Does anyone have such a table available, which I suspect is _not_ linear (or I
+wouldn't ask <g> since I could figure such values in any spreadsheet which
+indeed I already have)? I want values which have been verified at least by
+actual frequency tuning analysis for _every_ Pitchbend value (-8192 to +8192)
+among _every_ "sensitivity" (1-12 semitone range) setting.
+
+If anyone knows that these values are indeed logarithmic in respect to a
+certain _applied formula_, I would prefer to know that formula _most of all_ of
+course.
+
+-------------
+Benjamin Tubb
+brtubb@cybertron.com

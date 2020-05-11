@@ -1,0 +1,95 @@
+source file: mills2.txt
+Date: Thu, 20 Mar 1997 06:47:59 -0800
+
+Subject: Prime/Odd-limits; omega functions
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+John Chalmers wrote:
+> 
+> RE Limits: I agree with Paul Erlich about limit terminology.
+> As generally used on this List, "N-Prime limit" implicitly means
+> that powers of N and multiples of N with smaller primes are
+> included in the tuning. Partch's usage of the term  N Limit
+> means that N is the largest ODD number appearing in either the
+> numerator or denominator of the ratios defining the tuning.
+> Thus 33/32 would be said to be at the 11-prime limit by conventional
+> usage, but at the 33-limit in Partch's terms. I think these
+> nomenclatures are clear enough, but one could add 'odd' to be
+> unambiguous. Statements such as at the "33 odd-number limit" or
+> "33(odd) limit" should be clear.
+
+This is related to the number-theoretic functions small-omega(n) and 
+large-omega(n). The small-omega function gives the number of different 
+prime factors of n (i.e. each prime factor is counted once, regardless 
+of the power to which it may be raised), while the large-omega function 
+gives us the total number of prime factors (i.e. if p^n is a factor,for 
+any prime p, it counts as n factors). Our limit terminology in tuning 
+theory can be seen as an extension of these number-theoretic functions 
+into the rationals. The prime-limit of a given ratio is thus related to 
+small-omega(n_1/n_2), where n_1 and n_2 are relatively prime, while the 
+odd-number limit of the same ratio is related to large-omega(n_1/n_2).
+
+Partch's original odd-number limit terminology seems to be a product of 
+its times, and of its creators compositional preferences: one of 
+Schoenberg's strategies for justifying his move into atonality concerned 
+the historical acceptance of successively larger accumulations of 
+thirds, first triads, then 7th chords, 9th chords and 13th chords; 
+Schoenberg tried to argue further that such chords invoked successive 
+odd-numbered members of the harmonic series, albeit approximated within 
+equal temperament (an argument which Partch mercilessly lambasts). Even 
+without the harmonic series accretion, the argument is still highly 
+dubious, but it had a certain persuasive power in its day (Schoenberg 
+wasn't its only advocate). Partch himself was concerned, as a composer, 
+in using intervallic structures moving up through successive 
+odd-numbered harmonics, although unlike Schoenberg he was determined to 
+do the job properly (and as everyone knows, for purely pragmatic reasons 
+he chose not to go beyond the 11-limit).
+
+However, the prime-limit modification of Partch's terminology, related 
+to the small-omega function seems to have won greater favour, possibly  
+because it is more open to generalisation. For instance, how do we 
+specify the limit of a fully chromatic 14th-century monochord, or even 
+worse, a schismatic 15th-century monochord (i.e. Fb serving for E etc.) 
+Both are constructed entirely from Pythagorean ratios, and thus 3-limit 
+by the prime terminology; but if we use the odd-limit terminology we 
+must say, for example, 531441-limit, even though all odd numbers up to 
+this limit which are not powers of 3 are excluded. I notice that John, 
+above, suggests adding "odd" for the Partchian limit terminology, 
+leaving the prime limit as a default. Have I construed you correctly, 
+John?
+
+Perhaps it would be better to use the Euler-Fokker notation, and simply 
+list all the primes [p_1,p_2,...p_n] (according to the small-omega 
+criterion) that are used in a given composition. Even the prime limit 
+terminology can become awkward when, as with some of Ben Johnston's 
+works of the 70s, some prime smaller than the limit are not used as 
+factors, whereas the Euler-Fokker notation is unambiguous.
+
+OK, now I'd like someone to do me a small favour: could you give me the 
+source in Euler for the specification of prime factors in musical 
+contexts. Is there a brief English-language account of the Euler-Fokker 
+notation? (I'm not aware of anything in Xenharmonikon that fits this 
+description.) Or perhaps someone would be kind enough to post a few 
+words on the topic to the list. For instance, is the convention to omit 
+2 from the list of primes, or to include it? Thanks. 
+
+-- 
+Jonathan Walker
+Queen's University Belfast
+mailto:kollos@cavehill.dnet.co.uk
+http://www.music.qub.ac.uk/~walker/
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 20 Mar 1997 17:41 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07084; Thu, 20 Mar 1997 17:41:04 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07078
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id IAA24982; Thu, 20 Mar 1997 08:39:18 -0800
+Date: Thu, 20 Mar 1997 08:39:18 -0800
+Message-Id: <Pine.SOL.3.95q.970320103033.1151I-100000@library.wustl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

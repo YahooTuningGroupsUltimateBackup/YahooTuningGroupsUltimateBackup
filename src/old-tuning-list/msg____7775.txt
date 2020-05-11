@@ -1,0 +1,230 @@
+source file: m1414.txt
+Date: Wed, 13 May 1998 00:53:52 -0700
+
+Subject: Catch All
+
+From: Carl Lumma <clumma@nni.com>
+
+Working two full-time jobs and trying to find rent in the landlord's market
+that is the Bay Area of California, while living in a friend's house and
+contributing to the tuning list (especially when it's been so active --
+good to see) is not always easy.  So we have the catch all message....
+
+*******************************************************
+With Paul Erlich
+*******************************************************
+
+>No, 0.6% means a frequency change of 0.6%. Basically Goldstein dealt
+>with the way complex tone pitch (virtual pitch) was inferred from sets
+>of pure tones which departed by various amounts from an exact harmonic
+>series. His experimental results were very well fit by a model with only
+>one parameter, sigma, which could vary from listener to listener.
+>Essentially the model states that the listener will interpret the set of
+>pure tones as a certain virtual pitch if the pure tones have an rms
+>deviation less than sigma from a harmonic series above that virtual
+>pitch. As the deviations are increased further, the ear shifts to a
+>different, lower virtual pitch, whose harmonics better fit the pure
+>>tones (this is a very rough description).
+
+Okay.  The idea seems to make sense.  We're talking about 15 cents, on
+average?
+
+What isn't clear is just what the claim is as to what mistuning like this
+does to interval perception.  Whatever it is, you seem to feel it's big
+enough to cause problems in ET's over 35/oct.  And then there's the matter
+of the thing being based on pure tones.  What about tones with partials?
+
+>Here's what I've always said: "a" is preferable for describing the
+>resources of a given system of Just Intonations, and "b" is preferable
+>for describing the maximum interval complexity in simultaneities
+>considered consonant in a given style. The latter is very tied up with
+>an acoustical theory of interval perception.
+
+Sorry if I mis-understod your standpoint.  Maybe we're closer to agreeing
+on this than I thought.  I did not mean to mis-represent your ideas.
+
+>>>"An arbitrary power of two produces an effect of equivalence." This must
+>>>of course include the case where the power is zero, and the equivalence
+>>>is greatest. The equivalence evidently falls off as the power increases.
+>>>
+>>>But what about steely coldness? Is it there when the power is zero? Does
+>>>a unison contain all potential interval qualities, to a greater degree
+>>>than the intervals themselves? It would seem hard to argue that way.
+>>
+>>If he's means what he says ("powers"), then his first paragraph is correct,
+>>but his second is not, as "steely coldness" is an attribute of the factor
+>>3, not the power 3.
+>>
+>>If he means factors instead of "powers", then I suppose his whole thing is
+>>correct.  Although I do not see why he insists on making the unison into
+>>some kind of "white light", I am willing to oblige.  As far as factor
+>>determines which partials line up, and all of the partials in a unison line
+>>up, the analogy holds...
+>
+>I'm not sure what it is in my wording that was problematic. Perhaps you
+>could suggest an alternative wording for each of the interpretations you
+>mention, and I could endorse one, allowing us to proceed?
+
+Okay.  Gary, representing the prime-number advocates (of which, I will be
+sure to add, he is not necessarily one), said that steely coldness was
+often considered to be related to the FACTOR of 3.  You start out by saying
+"an arbitrary power of 2 produces an effect of equivalence", and then
+finish up asking if a power of 3 can produce steely coldness.  But it is a
+factor of three that is supposed to produce steely coldness.
+
+Any change in power (stacking the interval two, or however many times) is
+supposed to produce equivalence, falling off as stacking brings the
+compound interval close in size to an interval with different prime factors
+(like you point out with the 81/64 vs. 5/4 example -- although, as I said,
+I don't think the the 81/64 is close enough to the 5/4 to mask its 3-ness).
+
+I hope this helps.
+
+>>music has evolved by prime limit.  Pull out a CD of English tudor music, as
+>>sung by the King's Singers, for example, and try to add the 7's.  You
+>>won't.  They didn't, not for hundreds of years.  They've got ratios of 25
+>>and everything else needed to modulate around the 5-limit, throwing commas
+>>around like frisbees, but no 7's.  Barbershop's got 7's and 28's, and 63's
+>>a-plenty.  And 9's, and 18's, and 27's.  But no 11's.  Never will you hear
+>>an 11 used harmonically in Barbershop music.  And the first time you do,
+>>you'll be hearing them again soon and often :~)
+>
+>Again, the odd-limit definition applies not when considering all
+>intervals present, but when considering which intervals can be
+>considered consonant. In all your examples, the higher composites are
+>dissonant.
+
+This is a very good point, provided you allow a movable 1/1.  
+
+However, I will note that, in my experience, I have often need caution when
+considering attempts of music theory to say, "and in this period,
+such-and-such was considered dissonant, etc..."  I gather that Mr. Erlich
+is quite a fan of such approaches; he insists in his 22TET paper on
+nitpicking that "a better definition would be that 5-limit intervals are
+considered consonances in this music, and therefore need to be tuned with
+some degree of accuracy" [quoting from memory].
+
+My objection to this approach is basically that:
+
+1. It seems to be an over-generalization.  Different composers use lots of
+different things in lots of different ways, even in the same "period".
+
+2. It has never, in my experience, proven useful in the composition of new
+music.
+
+Don't I use this idea when talking about music evolving by prime limit?
+Not really.  Because you will NEVER hear a higher prime being used
+harmonically in the earlier style.  It's not a question of what they
+considered it because they *didn't* consider it.
+
+But I may yet be swayed, if only it can be demonstrated that odd limit is
+really needed to describe a real phenomenon in the way intervals are
+treated in music.
+
+>>The reason, I suspect, that Paul Erlich fights for odd limits: He is a man
+>>of equal temperaments :~)
+>
+>Equal temperaments or not, that has nothing to do with this issue.
+
+I'm going to catch you yet Erlich, biasing your science to support equal
+temperaments!
+
+>>The idea that 9's do not become harmonically significan't until we have
+7's >>does not hold in my experience.  Try playing just 4-5-6-8-9 chords
+and see >>if the 9 doesn't serve the same purpose as it does in a
+4-5-6-7-8-9 chord.
+>
+>That is not at all a valid interpretaion of anything I've tried to say.
+
+Shit.
+
+*************************************************************
+With Joseph L. Monzo [ Hello! :~) ]
+*************************************************************
+
+>As I stated in a recent posting, La Monte Young's
+>"Well-Tuned Piano" is a 5-hour-long JI piece using
+>intervals with factors of only 3 and 7 -- no 5's.
+
+An intentional effort by a composer using a fixed-pitch instrument.
+Covered in my post.
+
+>When I hear composite odd identites, like 9, 15, 21,
+>etc., in quickly-moving real music, I don't get any
+>particular sense of their particular odd-integer
+>quality, but I  _do_  hear the qualities of the prime
+>factors.  Under different conditions, such as
+>listening to experiments at home, the qualities of
+>individual odd identities can be isolated.
+
+Sort of like you could tell what prime limit music on a 33 is, playing at
+45 rpms, but not what odd limit the same music was without hearing it at
+actual speed?
+
+>3-limit music can be written in which 9 and 27, and probably
+>even 81, have harmonic significance.  27 and
+>especially 81 sound pretty dissonant, but that
+>doesn't mean they can't be used as chord
+>members. ( Who wants chords that are always
+>consonant?)
+
+I agree, and will go one further.  I believe the 81/64 can be treated as a
+consonance.  I believe anything can (and has been) treated as a consonance
+(and I am not talking about serialsim, where consonance is not an issue).
+The 12-tone 5/4 is treated as a consonance.  I wonder what Mr. Erlich
+thinks about this, since it very close both in size and derrivation to the
+81/64.  He doesn't seem to have a problem considering a 7 cent sharp 3/2
+consonant! 
+This 3/2, to my ear, makes the triads of 22 no better than those of 12,
+despite the better third.
+
+>This variety is exactly what makes JI so
+>compositionally useful.  One of the reasons why
+>working in JI is so wonderful is because there
+>are so many different ways to combine the
+>prime qualities and compare identities which are
+>very close in frequency but have different prime
+>factors (for example, chord tones an 81/80 apart).
+
+I've always viewed these "commas" as making modulation more interesting.
+But many disagree.  Partch's chapter in Genesis of a Music is really great
+about this point (the one with the letter from Fox-Strangeways).  Boy that
+chapter is really a thrill!
+
+Basically, what I got from this chapter is that modulation is best defined
+simply as switching the 1/1, and that common tones, while playing, of all
+things, perhaps the most important role in the use of modulation, are not
+necessary in its definition or execution.  And perhaps, that a theory of
+modulation may be constructed where tones separated by a comma can still be
+considered "common"!
+
+>As I've stated many times before, I believe we
+>_do_  perform prime factorization on music
+>_as we listen_.  Perhaps this is so because
+>it is the fastest way to understand the harmonic
+>relationships occuring in the music as it flies
+>past our ears in real time.  I will argue that
+>harmonic relationships are _always_  implied,
+>whether implied well or badly.
+
+I agree.  And while the scalpal cuts into some dead guy's ear, I will ask:
+
+Even if the "association of certain intervals with the tuning systems in
+which they occur" (that is, I asume, some sort of cultural conditioning) is
+the only way we can pick prime factors apart from odd ones in music, are we
+not still performing a prime factorization on what we hear?
+
+*****************************************************************
+With Eduardo Sabat-Garibald
+*****************************************************************
+
+>A friend of mine asked for an orchestration book written in the last 20
+>years.
+
+I will also recommend Adler's book, which was recommened by Paul Hahn.  I
+have another book which I also like, which is very new, by Kent Kennan.
+These are the two standard texts in orchestration right now.  I have them
+both, but cannot remember the titles of either of them (they're both back in 
+Pennsylvania).
+
+Carl

@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Fri, 15 Nov 1996 07:04:04 -0800
+
+Subject: Re: Ben Deckla, T.D. 886
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+>  During the last 25 years I have worked on Dynamic music, and I believe I know
+> a little about it.
+>  I think Dynamics in Music is not only a concept resulting from the change of
+> the key of a score and consequently the frequency of the notes changes a
+> little (about one comma from one to the other), but simply the frequency of
+> the notes changes due to other reasons, either the choice of the "better"
+> option INCLUDED IN THE SAME KEY, or aesthetical reasons. 
+
+   If I'm reading this correctly, and perhaps I'm not, this "dynamic music" is
+essentially the same idea what I've heard "wandering tonics" (which I somewhat
+apologize for mentioning again, since it is one of my areas of interest for me,
+and I don't want to sound like I'm obsessed with the idea to the exclusion of
+all else).  This is where the tonic moves very slightly over the course of a
+harmonic progression, often as a result of retaining common tones through a
+chord change, always letting the added notes in the following chord adjust to
+any notes currently playing.  
+
+   An example of this occurs when you do a very simple I IV ii V7 I chord
+progression in JI using this approach.  The tonic falls by a comma when you
+retain scale degree 4 from the IV to ii as 4:3 above the original tonic, and us
+the degree 2 correctly defined as 6:5 below that degree 4 (which bears a 10:9
+relationship to the tonic), as the tuning for the fifth of the V7 chord.  The
+result is that your harmony seems to tell you that you just did a 360-degree
+turn to land where you started, but you mysteriously don't!  
+
+   I may have misread your description, but if this is what you're talking
+about, let me propose that "wandering tonics" may be a better choice of
+terminology, since "dynamic" is already reserved for volume changes in music.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 15 Nov 1996 16:05 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12743; Fri, 15 Nov 1996 16:07:00 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA10618
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id HAA19639; Fri, 15 Nov 1996 07:06:58 -0800
+Date: Fri, 15 Nov 1996 07:06:58 -0800
+Message-Id: <961115150030_71670.2576_HHB51-4@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,80 @@
+source file: mills3.txt
+Date: Sat, 6 Sep 1997 01:18:04 +0200
+
+Subject: RE: Tuning of the 2nd sruti
+
+From: apotome@freemail.nl
+
+Graham Breed wrote:
+> The following scale doesn't make sense
+> to me:
+> 3 2 4 3 2 4 4   Gandhaara Grama (Sarngadeva der. ma-grama)
+
+That's not so surprising. The Gandhaara Grama or ga-grama for short
+was already obsolete in the time of Bharata. (Grama by the way means
+"tone system", or "basic scale".) The descriptions that survived are
+only vague. It's said to be a scale more for the gods than for the
+people. It has less fifths than the sa-grama and ma-grama. Several
+authors tried to deduce what it could have been, an alteration of
+the sa-grama or ma-grama. The possibility that appears in most books
+is 3 2 4 3 3 3 4, given by the 13th century author Sarngadeva in the
+book Sangita Ratnakara. So these modes are only theoretical, it's
+unlikely that any one is used in practice.
+
+The 22-tone sruti system is by no means uncontroversial, but
+experiments where musicians tune instruments or oscillators have
+produced tunings that are in good agreement with the theoretical
+values. There are many theories as to why there are 22. One
+connection that has been made is, there are 7 natural tones and 22
+srutis, which is a clear reference to 22/7 (pi).
+
+
+> This scale works as a diaschismic but not a schismic scale:
+> 2 6 1 4 2 6 1   Raga Bhairav
+> I'm assuming the intervals of 6 steps should be just minor thirds,
+> but I have no proof of this.
+
+The sixth sruti is 6/5 (or seventh if you start counting at 1) but in
+this case it would be 1 7 1 4 1 7 1 for just minor thirds (ignoring
+schismas).
+
+Paul Erlich wrote:
+
+>Perhaps the best theoretical remedy would be
+>to consider a 10-sruti schisma-augmented perfect fourth (499.999 cents) a
+>consonant interval in its own right, and fix 729/512 as the correct
+>tuning of sruti 12.
+
+The value 729/512 instead of 64/45 also makes the scale inversionally
+symmetrical around the interval 6/5-5/4.
+
+Manuel Op de Coul    coul@ezh.nl
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Manuel.Op.de.Coul@ezh.nl
+Subject:  Announcement of concert
+PostedDate:  10-09-97 03:17:52
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  10-09-97 09:17:15-10-09-97 09:17:16,10-09-97 09:16:40-10-09-97 09:16:40
+DeliveredDate:  10-09-97 09:16:40
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C125650E.002801A8; Wed, 10 Sep 1997 09:16:58 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19104; Wed, 10 Sep 1997 03:17:52 +0200
+Date: Wed, 10 Sep 1997 03:17:52 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA19119
+Received: (qmail 24914 invoked from network); 10 Sep 1997 01:16:22 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Sep 1997 01:16:22 -0000
+Message-Id: <C125650C.00576DDF.00@notesrv2.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

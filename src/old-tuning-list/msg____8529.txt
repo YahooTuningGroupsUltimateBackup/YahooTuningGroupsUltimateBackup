@@ -1,0 +1,15 @@
+source file: m1538.txt
+Date: Mon, 28 Sep 1998 05:10:06 -0500
+
+Subject: Re: Frequency Measurement
+
+From: Gary Morrison <mr88cet@texas.net>
+
+> What kind of devices exist to measure the exact frequency of any particular
+> sound. And more specifically are there any that are fairly inexpensive?
+
+   I designed some flutes back in high school using a frequency counter I
+built from a kit.  It was, however, designed to work with much radio
+frequencies, so what they advertised as astounding resolution to plus or minus
+1Hz, wasn't so impressive for audio frequencies.  But I was able to get away
+with by averaging several measurements.

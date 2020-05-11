@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Mon, 28 Oct 1996 02:49:52 -0800
+
+Subject: Re: Notation for Partch
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+(1) My point is only that if one is interested in making a tonal analysis
+of a Partch score from within the Partch perspective, that is locating a
+given pitch, dyad, triad, tetrad etc within the diamond structure, then it
+is useful (not essential, but useful) when the notation of the
+transcription shows immediately how an interval is factored. Further, it is
+useful (not essential, but useful) when intervals are invariant under
+transposition. For example: in the key of C, Johnston`s  d1 a1 has the
+ratio of 40/27, which I would notate as d1 -a1, the minus indicating the
+lowering of a by a syntonic comma. The minus sign is an immediate cue that,
+(1) the interval is not pythagorean, but reduced by a comma, and (2) that
+the interval ratio will have 5 in the  numerator and some factor of three
+in the denominator.
+
+(2) Regarding Adam큦 argument regarding the advantage of Johnston큦
+notation because one may use Johnston큦 players: In Germany, at least, the
+only Just notation to have any currency is essentially what I have
+described in the version promoted by Prof. Vogel in Bonn.  I reckon that
+the number of musicians who have worked with Vogel큦 system is similar to
+if not greater than the number who have worked with Johnston큦, and there
+has been a great effort by his students to make and publish transcriptions
+of classical repertoire into his notation (which raises some entirely
+different issues as performance materials, but has no small interest as a
+kind of functional analysis). If I were to present the arguments for and
+against the individual systems to a large group of accomplished musicians,
+my guess is that the interval invariance of pythagorean-based notations
+would win out in terms of performer friendliness; it certainly wins out in
+terms of analyst friendliness. (And if the Kronos does not want to learn
+another notation, I am perfectly satisfied to stick with the Arditti).
+
+(3) Lastly, I cannot but note that there has always been a sort of inertia
+in the tuning community (akin to the inertia that left us with VHS and not
+the superior Betamax technology). If some standard is set, there is a
+tendency to treat it religiously. I recall conversations with devout
+Partchians more than twenty years ago who felt it a sacrilege to use any
+pitch standard than 1/1-196. I think that this attachment to the Johnston
+notation is a further case in point. When I advocate an alternative, it is
+only that, with its own specific advantages and disadvantages. I am
+personally very attracted to Wilson큦 notations with twelve nominals in
+place of seven and a staff of alternating groups of two and three lines
+(much like Hauer큦 _atonal_ notation), but I am not optimistic about the
+prospects for finding performers willing to take that stretch.  
+
+Daniel Wolf, Frankfurt
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 28 Oct 1996 18:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03686; Sun, 27 Oct 1996 05:05:30 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02855
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id VAA08077; Sat, 26 Oct 1996 21:05:28 -0700
+Date: Sat, 26 Oct 1996 21:05:28 -0700
+Message-Id: <Pine.3.89.9610262358.A11785-0100000@styx.ios.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

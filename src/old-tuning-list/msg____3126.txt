@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Thu, 27 Jun 1996 10:56:00 -0700
+
+Subject: Re: Kawai K11
+
+From: Steve Curtin <curtin@Ensoniq.COM>
+
+>> And/or could anyone recomend a keyboard under $1000 that is 
+>> micro-programmable and complies to the MIDI tuning-dump standard?
+>
+>   Steve (C), is the MR Rack under $1000?  
+
+the MR rack lists for more like $1600 and it's in a rack, not a keyboard
+unfortunately.  Try looking for a used EPS-16, they tend to go for
+$7500-$1000. In fact if you're interested I know someone who's selling one.
+They don't support MTS but are supported by JICalc for downloading tunings.
+Likewise some inexpensive keyboards have scaling of keyboard-pitch
+modulation- you can change this to get N equal tones per octave. 
+
+That Kawai probably does support temperaments- these assume an
+octave-repeating tuning with a +-50 cents variation per note.  Most
+'tunable' samplers, even expensive ones, use this system.  Ensoniq's
+EPS/ASR, VFX/TS, KT and MR let you tune any key to any other MIDI note with
+an offset.
+
+>   Whether it is or not, it's almost certainly your best bet for a machine that
+>implements the MIDI tuning standard. 
+
+In terms of MTS the MR series is the only game in town.  We're shipping the
+keyboard with sequencer version and it should be in stores soon if anyone
+want to check it out.
+
+Steve Curtin
+Ensoniq Corp
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 27 Jun 1996 21:04 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA02108; Thu, 27 Jun 1996 12:04:12 -0700
+Date: Thu, 27 Jun 1996 12:04:12 -0700
+Message-Id: <v02130500adf8829a2f06@[192.168.11.201]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

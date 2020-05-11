@@ -1,0 +1,65 @@
+source file: mills3.txt
+Date: Sat, 11 Oct 1997 17:16:21 +0200
+
+Subject: notation again
+
+From: Paul Rapoport <rapoport@mcmail.CIS.McMaster.CA>
+
+Re-entering the notation fray from a slightly different perspective, I
+will claim the following. Indicating pitches in cents or by their
+frequencies is inadequate because neither shows relationships among notes.
+They belong to a simple scale which requires users to interpret them in a
+non-simple, ratio-deriving way. It makes much more sense to use signs
+which show the ratios implicitly or explicitly, and thereby the
+relationships among the notes, which are not present using cents or
+frequencies.
+
+It is arguable that you have to teach musicians more at the outset if you
+use signs, but the result is an understanding of what they are doing which
+again is not available to them the other way unless they convert what
+they see to something more meaningful--in their heads, perhaps, but still
+requiring an extra step away from an artificial series of numbers which
+is unrelated to the basic notation they have already learned.
+
+To put it another way, cents and frequencies achieve a level of
+descriptive adequacy, but signs showing tuning in pitches/intervals
+achieve a higher level, namely explanatory adequacy. I am misusing old
+terms from syntactic theory slightly but not heinously, I think.
+
+Johnny's use of emic and etic I found interesting. The distinction of
+within and outside a culture is not exactly where these terms came
+from--they came from the linguistic phonemic and phonetic, which involve
+more complicated concepts of signification and communication. I won't say
+any more, as these have developed in linguistic theory to points far
+beyond where they were when the terms were adopted by (ethno-)musicology.
+
+Paul Rapoport
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Ortgies.Ibo@t-online.de (Ortgies Ibo) 
+Subject:  Hõndels (G.F.Handel) extended meantone organ
+PostedDate:  11-10-97 20:09:59
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  11-10-97 20:09:27-11-10-97 20:09:28,11-10-97 20:09:55-11-10-97 20:09:56
+DeliveredDate:  11-10-97 20:09:56
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125652D.0063BC35; Sat, 11 Oct 1997 20:09:22 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA13913; Sat, 11 Oct 1997 20:09:59 +0200
+Date: Sat, 11 Oct 1997 20:09:59 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA13950
+Received: (qmail 10013 invoked from network); 11 Oct 1997 11:09:50 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 11 Oct 1997 11:09:50 -0700
+Message-Id: <343FCF7D.1A5C@T-Online.de>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

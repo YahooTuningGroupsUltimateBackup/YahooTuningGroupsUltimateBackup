@@ -1,0 +1,245 @@
+source file: m1523.txt
+Date: Thu, 3 Sep 1998 02:35:55 -0700 (PDT)
+
+Subject: Re: Kirnberger's quasi-12-tet by JI
+
+From: "M. Schulter" <mschulter@value.net>
+
+---------------------------------
+                    Kirnberger's 10935:8192 tuning:
+                      (Re-)"discovered" -- Again
+                   ---------------------------------
+
+Hello, there, and this is happily to announce that the "16384:10935"
+schisma fifth tuning discussed in one of my recent posts indeed has a
+rich history of documentation going back at least to the 18th century,
+when Johann Philipp Kirnberger may have been the first to discover
+and propose it as a method of tuning a scale virtually identical to
+12-tone equal temperament or 12-tet (1766).[1]
+
+
+--------------------------------------------------------
+1. Kirnberger's Tuning: the Lambert-Marpurg Developments
+--------------------------------------------------------
+
+Interestingly, Kirnberger shared his concept with the eminent
+mathematician Leonhard Euler. Johann Heinrich Lambert further
+developed and published it in 1774 in the _Memoires de l'academie
+royale des sciences et belle lettres_ (Berlin), pp. 64ff.[2]
+
+In turn, the notable musician and tuning theorist Friedrich Wilhelm
+Marpurg reported Lambert's method and later translated this theorist's
+essay into German, adding a commentary praising its accuracy.[3] Here
+there may have been a bit of irony, since Kirnberger was generally
+opposed to 12-tet while Marpurg favored it:
+
+              Marpurg praised Lambert's method and pointed out
+              that its deviations from exact equal temperament
+              never exceed .00001. Another advantage of this
+              method is that it does not require a monochord.
+              Marpurg, who supported equal temperament and was
+              violently opposed to Kirnberger's views on
+              temperament as well as on harmony, was only too
+              eager to point out that this feature of Lambert's
+              method invalidated one of Kirnberger's objections
+              to equal temperament.[4]
+
+In other words, while it had previously seemed necessary (using
+18th-century keyboard tuning technology) to tune 12-tet by reference
+to a standard monochord or other instrument lending itself to a
+geometric rule or the like for defining the 100-cent intervals, the
+Kirnberger-Lambert-Marpurg approach in theory called only for the
+tuning by ear of pure fifths and thirds to generate each 16384:10935
+fifth (or 10935:8192 fourth) of the scale.
+
+As Barbour notes in his classic history -- in a portion with which,
+unfortunately, I was less familiar at the time of my first post --
+Marpurg "believed that the tuning of the just intervals used in [this
+method]  could be made more quickly and accurately than the estimation
+by ear of the tempering needed for the fourth or fifth."[5]
+
+However, Owen Jorgensen observes in his thorough 1991 account of the
+same tuning that quite apart from the large number of pure intervals
+that would need to be tuned, small errors would tend to accumulate
+that could make accurately closing the circle of fifths quite
+problematic[6]. While Barbour and Jorgensen are known at times to
+differ in their viewpoints, the latter in this case seems to agree
+also with the former's observation that in addition to issues of
+accuracy in practice, there is also "the labor of tuning eight pure
+intervals in order to have only one tempered interval!"[7]
+
+--------------------------------
+2. Farey's (Re)discovery of 1807
+--------------------------------
+
+Both Barbour and Jorgensen additionally document how this tuning was
+apparently _re_-"discovered independently" in England by a certain
+John Farey, who on 21 June 1807 chronicled his discovery that a chain
+of "five just fourths minus two just fifths minus one just major third
+create a fifth that is almost identical to an equal temperament
+fifth. Today, this type of fifth is known as a `schisma fifth,' and it
+has a ratio of 16384 to 10935."[8]
+
+As Jorgensen notes, Farey described this method as "new" because "he
+thought he had discovered it" -- although, as we know, Kirnberger,
+Lambert, and Marpurg actually had precedence.[9] 
+
+Having myself stumbled upon this possibly "new" concept -- although as
+noted in my original post, I knew that the schisma fifth had been
+documented, and was uncertain at that time only as to whether a
+complete quasi-12-tet scale had been published -- I can testify to the
+excitement that Farey might also have experienced.
+
+
+----------------------------------------
+3. Helmholtz-Ellis and the Schisma Fifth
+----------------------------------------
+
+Paul Erlich has mentioned the names of Hermann L. F. Helmholtz and his
+translator Alexander J. Ellis as documenters of this tuning, and they
+do indeed document the schisma fifth and its very close approximation
+to a 12-tet fifth, Ellis giving the difference as 0.001280 cents.[10]
+While I'm not sure that either would be too anxious to take credit for
+promoting a tuning using just intervals to approximate 12-tet <grin>,
+this measurement of what I playfully referred to in my post as the
+"scintilla of Artusi" is certainly worthy of recognition.
+
+Additionally, the schisma fifth or fourth does actually appear in a
+Ellis tuning for the harmonium designed as a practical realization of
+the "Helmholtzian temperament" based theoretically on obtaining pure
+major thirds by flattening each fifth by 1/8 of a schisma. However,
+since Ellis finds such a small temperament impossible to tune
+accurately by ear, it appears to me that a whole schisma is therefore
+dumped on one fifth at certain points in the chain so that a small
+number of fifths or fourths are "700 cents down or 500, in place of
+702 and 498 as all the others."[11]
+
+This procedure might be treated as a pre-digital equivalent of
+nanotemperament, the problem here being not the tuning limitations of
+a digital synthesizer but the limited discriminations possible for the
+human ear. In either case, rounding off a few intervals further from
+just than might otherwise be necessarily helps to minimize the
+inaccuracies of the tuning as a whole.
+
+
+----------------------------------------------
+4. A small difference -- not necessarily "new" 
+----------------------------------------------
+
+One rather trivial difference between what I've seen _so far_ of
+Kirnberger-Lambert-Marpurg or Farey lines of quasi-12-tet just tuning
+and my proposal is that the former seem to generate a 10935:8196
+schisma fourth by combining seven pure fifths and a pure major third,
+i.e. a Pythagorean apotome of 2187:2048 (about 113.69 cents) and a
+pure 5:4 (about 386.31 cents), or almost exactly 500 cents in all.
+
+Maybe because of my fascination with the schisma major third of
+8192:6561 (about 384.36 cents) and its role in early 15th-century
+keyboard music, I approached the problem as one of building a schisma
+fifth from this familiar interval plus an appropriate type of minor
+third. An m3 at a pure 6:5 (about 315.64 cents) neatly fills this
+role, and provides another (and longer) road to the same "12-tet by
+just intonation" destination as the apotome-plus-pure-M3 solution.
+
+In fact, from an even marginally "practical" point of view, the
+well-documented Kirnberger and Farey approach generates each schisma
+fourth with only seven pure fifths plus a pure M3, as opposed to the
+_eight_ pure fifths plus a pure m3 required for the approach described
+in my post.
+
+However, I would be anything but surprised to see this minor variant
+on Kirnberger's scheme also documented in the published literature,
+possibly, like the basic scheme itself, early and often. 
+
+
+                             -----
+                             Notes
+                             -----
+
+1. Helpful modern sources of documentation include a note in an
+English translation by David Beach and Jurgen Thym of Kirnberger's
+treatise _The Art of Strict Musical Composition_ (New Haven and
+London: Yale University Press, 1982), p. 20 n. h; J. Murray Barbour's
+classic _Tuning and Temperament: A Historical Survey_ (East Lansing:
+Michigan State College Press (1953), pp. 64-65; and Owen Jorgensen's
+Jorgensen, Owen H.., 1991. _Tuning: Containing The Perfection of
+Eighteenth-Century Temperament, The Lost Art of Nineteeth-Century
+Temperament, and the Science of Equal Temperament, Complete with
+Instructions for Aural and Electronic Tuning_ (East Lansing: Michigan
+State University Press, 1991), pp. 312-313.
+
+2. Barbour, op. cit., pp. 64-65; Beach and Thym, eds. and trs.,
+op. cit., p. 20 n. h; Jorgensen, op. cit., p. 312.
+
+3. Barbour, ibid.; Beach and Thym, ibid. One primary source I have
+found on microcard (similar to microfiche) is Marpurg's translation of
+Lambert and commentary in his _Historisch-kritisch Beytrage zur
+Aufnahme der Musik_, vol. 5. part 6 (Berlin, 1778), pp. 417-450.
+
+4. Beach and Thym, ibid.
+
+5. Barbour, see n. 1, p. 65.
+
+6. Jorgensen, see n. 1, p. 312. Unfortunately, while I was familiar
+when posting my original article with a brief description of the
+"schisma fifth" in the glossary of Jorgensen's earlier _Tuning the
+Historical Temperaments by Ear_ (Marquette: Northern Michigan
+University Press, 1977), I was not aware of his full account of the
+Kirnberger and Farey "quasi-12-tet" in this latter work. The heading
+is "Tuning Equal Temperament by Using Just Intonation Techniques in
+1807," referring to the date of Farey's account.
+
+7. Jorgensen (1991), ibid., p. 312; Barbour, see n. 1, p. 65.
+Jorgensen remarks on "the degree of perfection" required in
+tuning so many pure intervals makes it "more difficult" than "modern
+tempering methods" for obtaining 12-tet, although "[u]sually, just
+intonation is considered easier for amateurs." Barbour focuses more
+specifically on the traditional view that tuning a pure major third is
+a difficult task. "If this be true, a type of tuning in which the
+essential feature is a pure major third could not be very
+accurate..."
+
+7. Barbour, ibid.
+
+8. Jorgensen, see n. 1, p. 312, the source of the quote; and also
+Barber, ibid., who notes that Farey's version was communicated across
+the Atlantic, appearing in "Dr. Rees's _New Cyclopedia_" (1st American
+edition, Vol. 14, Part 1, article on "Equal Temperament"), in which
+"we are shown how Farey's method `differs only in an insensible
+degree' from correct equal temperament."
+
+9. Jorgensen, ibid.
+
+10. Hermann L. F. Helmholtz, with translation, notes, and Appendices
+by Alexander J. Ellis, _On the Sensations of Tone as a Physiological
+Basis for the Theory of Music_, 6th ed. (New York: Peter Smith, 1948),
+p. 316, n. at *. Helmholtz having noted that difference between a
+perfect fifth and what is now known as a schisma fifth is "about the
+same as that between a perfect and an equally tempered fifth," Ellis
+offers a more precise calculation in order to show "the extreme
+closeness of the result..." He takes a schisma of 32805:32768 as
+1.953721 cents, and the narrowing of a 12-tet fifth as 1.955001 cents:
+"Difference .001280 cents. Human ears, however much assisted by human
+contrivances, could never hear the difference." Ibid., p. 432 at
+"Art. 10," Ellis again emphasizes the virtual identity of these two
+intervals: "The Skhisma will therefore be considered as the twelfth
+part of a Pythagorean Comma, and also as the error of an equal Fifth."
+Jorgensen, ibid., observes that "the ear cannot distinguish between
+just intonation quasi-equal temperament and equal temperament."
+
+11. Helmholtz and Ellis, ibid., pp. 316-317, last note beginning at
+bottom of 316. In the table included in this note, schisma fourths of
+virtually 500 cents are found in moving from the bottom of column I to
+the top of II; and likewise with columns II and III; IV and V; and V
+and VI. Kirnberger also originally arrived at the schisma fourth or
+fifth "in the process of developing his own temperament" (i.e. an
+unequal well-temperament), Beach and Thym, see n. 1, 20 n. h;
+Jorgensen, see n. 1, p. 312, refers to the account elsewhere in his
+book of this Kirnberger well- temperament demonstrating how "the
+schisma fifth G-flat D-flat" arises from a chain of seven pure fifths
+and fourths plus a pure major third.
+
+Most respectfully,
+
+Margo Schulter
+mschulter@value.net

@@ -1,0 +1,43 @@
+source file: m1585.txt
+Date: Tue, 17 Nov 1998 16:31:35 -0500 (EST)
+
+Subject: Re: TUNING digest 1584
+
+From: Stephen Soderberg <ssod@loc.gov>
+
+A follow-up to my previous, too -brief post asking "Why triads?"  It
+wasn't meant to be testy, but on re-reading it came off that way to me --
+so my apologies... and some explanation. 
+
+Paul Erlich describes a couple of very interesting systems.  Let me talk
+about the max-even 22@41.  If we call this a first order max-even
+structure and, forgetting about triads, follow the hint provided by the
+usual diatonic that the basic (triadic) harmonic units are second order
+max-even (3@7@12), then we might play around with second order max even
+structures within 22@41.  One interesting system is formed by 5@22@41
+which would take 22@41's interval string <2222221222222122222221> and form
+pentachords by superimposing the string <44545> on it (this is analogous
+to superimposing <223> on <2212221> to get the usual diatonic triads).
+You can work it out yourself, but what you get is five basic pentachord
+types:
+	A    <87t79>   (t=10)
+	A'   <7897t>
+	B    <87989>
+	B'   <78989>
+	C    <77t7t>
+where the prime indicates a rotated inversion of its original.  What we
+have then is two inversionally related pairs of basic pentachords (5 each)
+and two penachords that seem to suggest a "diminished triad" function.
+
+If you then draw a circle with 22 marks on it to represent the 22@41
+scale, the order of the chords built on successive scale-degrees around
+the circle is:
+
+A  B  B  B' B' A' C  A  A  B  B' B' A' A' A  A  B  B  B' A' A' C
+
+To see the compositionally suggestive pattern this creates, draw lines
+across the circle to connect identical chord types. 
+  There's MUCH more in this system, but this should suffice to explain why
+I asked "Why triads?"  (Next week: "JI is a red herring") 
+
+Steve Soderberg

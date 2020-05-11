@@ -1,0 +1,65 @@
+source file: mills2.txt
+Date: Sun, 15 Oct 1995 07:59:42 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning and psychoacoustics - post 21 of 25
+---
+Throughout this series of posts, we have seen that the ear/brain system is not simple.
+ Tones," in "The Psychology of Music," ed. Diana Deutsch, 1982, pg. 21]
+But the behavior of the ear/brain system is also different from that predicted by Seebeck, Stumpf and Schouten: 
+e away the fundamental 440 cps and the second harmonic 880 cps? 
+l. 1, No.1, 1955, pg. 55 (English edition, 1957)]
+This is the simplest and most compelling example of the contradictory behavior of the ear/brain system.
+s. (...) The fundamental neural message is given by the rate and the distribution in time with which individual impulses are fired along the axon." [Roederer, Juan, "The Physics and Psychophysics of Music," 1973, pg. 45]
+des the information on repetition rate or periodicity pitch (see below)."  [Roederer, Juan, "The Physics and Psychophysics of Music," 1973, pg. 45]
+main and the Seebeck/Stumpf time-domain model of the ear, and instead supports the Fetis/Burns/Ward model of the ear as an adaptive system molded by learned responses.
+Thus in one simple experiment we have compelling evidence both for and against all 3 major theories of hearing.
+Other compelling evidence for the "contextual" behaviour of the ear/brain system abounds. 
+ influencing is effected by the following vowel (regressive dissimilation) as well as by the preceding." [Werner Meyer-Eppler, "Statistic and Psychologic Problems of Sound,"  Die Reihe, Vol. 1, No.1, 1955, pg. 55 (English edition, 1957)]
+and Synthesis," in "The Psychology of Music," ed. Diana Deutsch, 1982, pg. 36]
+ 429.]
+ 1, pg. 429.]
+greater than 2 milliseconds." [Pierce, J.R., "The Science of Musical Sound," 2nd ed., 1992, pg. 149]
+"On the hypothesis that critical band filters can be identified with
+auditory nerve filters, the model of Zwicker and Scharf was tested by
+Pickles (1983). (...) The results agreed with the psychophysical darta, in
+that the summed activity increased with stimulus bandwidth, for wider
+timulus bandwidths. (Fig. 9.13 B).  However, there was no clear sign
+of a flat portion in the function at narrow bandwidths. The reason for
+this is not known..." [Pickles, James O., "An Introduction to the Physiology
+of Hearing," Academic Press, 2nd ed., 1988, pg. 283]
+. 
+he listener is based on learned experience..." [Roderer, Juan, "The Physics and Psychophysics of Music," 1973, pg. 134] 
+But by far the most striking gaps in current knowledge of the ear/brain system involve the  question of how the human auditory performs 3-dimensional sound localization. 
+TF, or the location of a specific sound using that mathematically-modelled HRTF.
+
+Human Subjects," J. Audio Eng. Soc., 43(5), 1995 May, pp. 300-321; also
+see Appleton, J., "Machine Songs III: Music In the Service of Science--
+Science in the Service of Music," Computer Music Journal, 16(3), 1992,
+pp. 17-21]
+Clearly, there remain many unexplained aspects in the behavior of the ear/brain system.
+The next post examines the mass of evidence gleaned from
+the many psychoacoustics results confirmed and supported
+by a wealth of modern.  Although the modern psychoacoustic
+data is complex, it does support some conclusions.  These will
+be given in the next post, after which the various biases and
+prejudices of the psychoacoustic researchers themselves will
+be examined...with an eye to determining how much or how little
+their prejudices affected the conclusions each major researcher
+drew from hi/r research.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 15 Oct 1995 19:43 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA28157; Sun, 15 Oct 1995 10:42:44 -0700
+Date: Sun, 15 Oct 1995 10:42:44 -0700
+Message-Id: <951015174059_71670.2576_HHB28-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

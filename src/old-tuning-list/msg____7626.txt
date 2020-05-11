@@ -1,0 +1,62 @@
+source file: m1402.txt
+Date: Fri, 1 May 1998 19:09:04 -0500
+
+Subject: Re: TUNING digest 1401
+
+From: "jloffink" <jloffink@pdq.net>
+
+> From: gbreed@cix.compulink.co.uk (Graham Breed)
+> > synth players sometimes intentionally detune a pair of oscillators so
+> > they'd slowly phase shift and create a "fat" sound that is richer and
+> > less boring than a single oscillator.  
+> 
+> This is standard with the dual play mode on my DX21, although
+> that's slightly different because the two notes will have
+> different timbres.  Even with identical timbres, you don't have
+> to hear the phase shifting for the sound to be changed.  I usually
+> set a 1 or 2 cent detuning so that it doesn't interfere with the
+> harmony.
+>
+ > You may want to stop the tuning getting _too_ accurate so that
+> the phasing becomes audible.  To aim the beats between 0.4 and 0.5
+> cents you need about 20 millicent precision.  Higher precision
+> means the beats can be set in tune with the tempo or harmony.
+> That complicates the tuning process, of course.  Fast, accurate
+> pitch bends may be required.
+> 
+Kurzweil K2000/K2500 programs have a "FineHz" tuning parameter that lets
+you detune each layer by +-6 Hz in 0.10 Hz increments, in addition to the
+normal cents pitch adjustment.
+> 
+> What are the practical problems with implementing this precision
+> on a synth?  I'm assuming the errors creep in when you convert
+> from a cents value to a frequency ratio.  This looks like the
+> simplest algorithm that works:
+> 
+> if (n<0)
+>  r = 1+ n*5.8454e-4
+> else
+>  r = 1+ n*5.707e-4
+> endif
+> 
+> Where n is the tuning in cents relative to 12-equal, and -50 <= n
+> <= 50.  I'm assuming the ratios for 12-equal will be in a lookup
+> table.  Multiply the relevant one by r.
+> 
+> The worst intervals using my algorithm are 0.25 cents out.
+> Maybe this is why we're only given 1 cent steps at the moment.  A
+> larger lookup table with third-tone ratios should give enough
+> accuracy for 0.1 cent steps.
+> 
+Synths frequency resolution is ultimately limited by hardware, which is
+specified in Hertz rather than cents due to the nature of the phase
+accumulator used in all wavetable/DSP synths and samplers.  A lookup table
+is used by the software that converts cents to Hertz (actually the phase
+increment), either one master octave or the whole keyboard.  This table
+might be stored in the synth manufacturer's custom integrated circuits or
+in their software code ROM.  Due to the speed requirements and low math
+capabilities of the main microprocessors it is unlikely that an algorithm
+would be used.
+
+John Loffink
+jloffink@pdq.net

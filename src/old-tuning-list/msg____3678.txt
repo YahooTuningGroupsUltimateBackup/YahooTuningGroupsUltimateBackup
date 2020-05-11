@@ -1,0 +1,116 @@
+source file: mills2.txt
+Date: Wed, 25 Sep 1996 09:41:24 -0700
+
+Subject: RE: More on spacing
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>(1) Your modification of my timbre restriction to "generic harmonic timbres
+>played at a reasonably loud volume" is fine. My own practical work has been
+>with sine waves, however, (Rayna synthesizer) and I probably should have
+>identified the subharmonic by lowest (theoretical) summation tone. (Your
+>phrase has the virtue of sparing me a summation tone controversy; but the
+>use of (theoretical) summation tones has been useful to me in the past in
+>describing aspects of a significant repertoire of real music (Wagner,
+>Debussy, Varese, Partch,  Young, among others).
+
+The effect of a subharmonic complex of sine waves seems to me to be 
+undistinguished in any respect. The combination tones will fill the entire 
+pitch spectrum, leading to lots of roughness and very little tonalness (or 
+tonal fusion), while the combination tones of a harmonic complex of sine 
+waves will form a single harmonic series, a very distinguished and 
+digestible sensation. It is only with the addition of harmonic spectra that 
+subharmonic chords become distinguished in any psychoacoustical way from 
+their immediate neighbors in n-1 dimensional pitch space.
+
+>(2) I am interested in evaluating as many algorithms as possible. I am
+>especially interested in the possibility of a sequential processing of
+>intervals, from most simple to most complex, allowing for re-evaluation of
+>the complex with the addition of each new interval.
+
+Could you elaborate on this idea?
+
+>(3) I have deliberately avoided the issue of temperaments which contain
+>_puns_ of just intervals (being hearable as approximations of two or more
+>distinctive rational intervals), because that is an issue best determined
+>by diachronic context.
+
+In a compositional sense, your characterization may be useful, but in a 
+purely psychoacoustical sense, a chord played will evoke certain 
+interpretations in terms of the harmonic series. This is what my algorithm 
+tells you, and the results are most interesting when applied to 
+temperaments. Are you still interested in evaluating this algorithm?
+
+>(I must add my disagreement to your statement that
+>an interpretation of a pitch complex as 10/12/15 or 16/19/32 (and, I may
+>add, 54/64/81) makes "no musical difference". In terms of diachronic
+>relationships, these difference are profound. Consider, for example, a
+>progression from a tonic minor triad to the Major triad on the flat sixth
+>degree (i to bVI, or c minor to Ab Major): each of the above
+>interpretations of the minor triad suggests an alternative tuning for the
+>second chord, and each
+>progression is part of a very different scalar environment (resp. triadic
+>just, extended just or harmonic, and pythagorean), each of which implies
+>very different possibilities for going on further (try it for yourself:
+>continue the progression by descending fifths to _return_ to the _tonic_.))
+
+Of course, the only one that will work on paper is the pythagorean, but in 
+equal temperament, you can do it, too! The ear doesn't continue its harmonic 
+series math from one chord to the next; it doesn't know that 19 is not 
+factorable by 3 or whatever. The ear doesn't follow the calculations through 
+and say, "Ah, although the tonic is the same pitch as before, it is now 
+represented by a different number, so something must have been wrong with my 
+calculations -- let me go back and correct them." The issue of "puns" cannot 
+be avoided, since even a pythagorean minor triad will be heard, under 
+certain circumstances, as a 16:19:24, and never as 54:64:81 -- the ear's 
+central pitch processor simply doesn't go that far. 16:19:24 which is 
+subltely more tonal (rooted) a sound than 10:12:15, and that does make a 
+musical difference (I didn't say "no musical difference" -- indeed I 
+postulated a stylistic change in Western music that could be attributable to 
+this very difference). The reason the difference is subtle is that the main 
+impression made by these minor triads on the central pitch processor is that 
+of a perfect fifth with an added non-harmonic note. Of these minor triads, 
+the 10:12:15 may minimize roughness, but that is a seperable issue, I 
+believe. This is what I meant by interpretation -- not what you put down on 
+paper, but how the brain's central pitch processor understands the sound.
+
+>(4) From this pitch spacing perspective, the "optimal frequency range" may
+>be more relevantly identified with the perceived fundamental of a complex
+>when mapped onto a harmonic series. The most profound musical conditions
+>seem to be determined by the lower limit to _pitch_ perception. When a
+>fundamental falls below this boundary, perception is made more difficult
+>(although work with standing waves played for very long durations suggests
+>that it is not impossible when additional _listening_ techniques (the sense
+>of touch, for example) are called into play),
+
+Actually, these are two seperate concepts, and a register-specific theory 
+would have to take _both_ into account. My algorithm is indeed derived by 
+first identifying this lower limit, and then allowing it to approach zero 
+(since the algorithm is to be register-unspecific). The pitch resolution of 
+the central pitch processor as a function of frequency would also have to be 
+taken into account by a register-specific theory. If the audible partials of 
+a chord fall into the optimal frequency range (the range where the pitch 
+resolution is greatest), the chord will be interpreted most accurately -- 
+otherwise, the ear will resort to interpretations in terms of lower members 
+of the harmonic series.
+
+>(5) My comment on emotional effect should not be taken too literally. I am
+>aware of research on "happiness" and low electrical activity in the brain;
+>the calculation hypothesis is my own; ascribing quantum effects to the
+>infintessimal is not without controversy.
+
+I didn't take your quantum business seriously; controversy is not the word.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 25 Sep 1996 19:52 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA26147; Wed, 25 Sep 1996 19:52:33 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA28306
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA01522; Wed, 25 Sep 1996 10:52:29 -0700
+Date: Wed, 25 Sep 1996 10:52:29 -0700
+Message-Id: <199609251751.KAA01434@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

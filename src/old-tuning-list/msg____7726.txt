@@ -1,0 +1,32 @@
+source file: m1413.txt
+Date: Mon, 11 May 1998 18:03:13 -0400
+
+Subject: RE: 1%
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>>According to Goldstein, the precision with which frequency information is
+>>transmitted to the brain's central pitch processor is between 0.6% and 1.2%
+>>within a certain optimal frequency range. Goldstein, J. L. 1973. "An
+>>optimum processor theory for the central formation of the pitch of complex
+>>tones." J. Acoust. Soc. Amer. Vol. 54 p. 1499. The roughness component is
+>>somewhat more permissive as to mistuning, but a 1% standard deviation would
+>>cause the
+>>accuracy to fall below 1/2 at around the point where benign beating begins
+>>to gives way to the roughness effects of the critical band.
+
+>..Just wondering what this means.  It deals with mistuning plus or minus
+>0.3% - 0.6% of a dyad's logorithmic size?  No?  What then?  And what does
+>it say can percieve about an interval so mistuned?
+
+No, 0.6% means a frequency change of 0.6%. Basically Goldstein dealt
+with the way complex tone pitch (virtual pitch) was inferred from sets
+of pure tones which departed by various amounts from an exact harmonic
+series. His experimental results were very well fit by a model with only
+one parameter, sigma, which could vary from listener to listener.
+Essentially the model states that the listener will interpret the set of
+pure tones as a certain virtual pitch if the pure tones have an rms
+deviation less than sigma from a harmonic series above that virtual
+pitch. As the deviations are increased further, the ear shifts to a
+different, lower virtual pitch, whose harmonics better fit the pure
+>tones (this is a very rough description).

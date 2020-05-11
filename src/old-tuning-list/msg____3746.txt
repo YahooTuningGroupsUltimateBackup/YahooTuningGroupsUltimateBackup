@@ -1,0 +1,34 @@
+source file: mills2.txt
+Date: Mon, 7 Oct 1996 09:51:10 -0700
+
+Subject: really high prime
+
+From: "Adam B. Silverman" <Adam.B.Silverman@students.Miami.EDU>
+
+The New York Times Magazing from this weekend included the following blurb:
+
+"PRIME TIME:  Using a Cray computer, David Slowinski, an employee at Cray 
+research, recently discovered the world's largest known prime number...  
+The beast is 378,632 digits long, and Slowinski is struggling to fit it 
+onto an 11-by-17-inch wall poster.  "You need a maginifying glass," he 
+says, "and some of the numebrs are on top of each other."  Who will buy 
+this?  "Number theory enthusiasts."  Se, kids, you were right.  Math 
+*can* be scary."
+
+Is anyone interested in working out a Tonality Diamond with Slowinski's 
+Prime?
+
+-Adam
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 7 Oct 1996 19:16 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04527; Mon, 7 Oct 1996 18:17:42 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04525
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA08746; Mon, 7 Oct 1996 10:17:09 -0700
+Date: Mon, 7 Oct 1996 10:17:09 -0700
+Message-Id: <65961007170656/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

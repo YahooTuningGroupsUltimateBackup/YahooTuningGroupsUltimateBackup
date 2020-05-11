@@ -1,0 +1,78 @@
+source file: mills2.txt
+Date: Thu, 19 Oct 1995 22:17:16 -0700
+
+Subject: 88CET #22:  Wandering Tonics and #Parts
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+"Relativistic voice-leading" has an important consequence:  wandering tonics.
+Here is a traditional-harmony chord progression in 88CET:
+                
+                                      B    B
+                       A    A    A#
+(2nd-line treble) G
+                                 D         D
+                                      C# 
+                       B    B   
+                  A
+                                      F
+                                           E
+                            D    D    
+(2nd-space Bass)  C    C
+
+Func. Harmony:    I    IV64 ii  V7/V  V43  I6
+  
+
+   The equivalent progression in 12-tone notation is:
+                
+                                      G    G
+                       F    F    F#
+(1st-line treble) E
+                                 C         C
+                                      B 
+                       A    A   
+                  G
+                                      F
+                                           E
+                            D    D    
+(2nd-space Bass)  C    C
+
+   ("IV64" is an attempt at an ASCII-text rendition of a roman-numeral IV with
+the usual harmony-text 6-over-4 figured-bass notation for the chord inversion.
+"64" denotes a second-inversion chord, "6" a first inversion, and "43" a third
+inversion seventh chord.)
+
+   Because 88CET has no octave, each inversion of what you convince your
+audience is a tonic triad, places the tonic at a different pitch.  So the tonic
+wanders over the course of this progression from (in the 88CET notation) the
+second-space bass-clef C of the opening I chord, to the pitch-class of the D
+(somewhat less than an octave above the C) of the final chord.  That even though
+our ears "calculate" the tonics to be the same based upon how the parts move.  
+
+   Wandering tonics have a very surprising effect if accomplished over a short
+progression - short enough that the audience can remember the new and old tonic.
+The harmony says that you've gone full-circle back to where you started, but you
+mysteriously ended up somewhere else.  If the progression is too long,
+especially if it has a lot of temporary tonicization, the audience will probably
+not notice the effect at all.  
+
+   Traditional harmony in 88CET poses another difficulty:  lack of octave
+doubling makes it very difficult to sustain more than three-part traditional
+harmony.  The possibilities for smooth voice-movement when voices can't move
+through octave-doubles of other chord tones, dwindles rapidly.  Even in
+three-part harmony, you end up having to use lots of chords with fifths below
+their roots, or ninth chords (fifths above their fifths).  Secondary dominants
+become more common than usual solely so to take advantage of the additional
+chord tone!  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 20 Oct 1995 10:14 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id BAA00712; Fri, 20 Oct 1995 01:14:30 -0700
+Date: Fri, 20 Oct 1995 01:14:30 -0700
+Message-Id: <199510200810.SAA18546@extra.ucc.su.OZ.AU>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

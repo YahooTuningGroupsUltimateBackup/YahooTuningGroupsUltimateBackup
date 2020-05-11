@@ -1,0 +1,69 @@
+source file: mills3.txt
+Date: Thu, 9 Oct 1997 06:56:45 +1000 (EST)
+
+Subject: Re: Classification of Instruments
+
+From: Warren Burt <waburt@melbourne.dialix.com.au>
+
+On Wed, 8 Oct 1997, Jerry Swan wrote:
+
+> Can anyone point me in the direction of a classification system suitable for
+>  categorising musical instruments ( i.e. anything from an Accordian through
+> a  Shakuhachi to a Zither )? Obviously, the subtle nuances of any
+> classification scheme depend on it's intended end use, but any scheme
+> sufficiently general as to encompass the diversity of classical european,
+> "world" and electronic instruments would be of interest.
+>
+> Thanks in advance,
+>
+>
+> Jerry Swan.
+
+Try the Sachs-Hornbostel System.  Experimental Musical Instruments
+magazine publishes a wall chart with it on, but I'm sure there are
+other sources as well.  More info on ExpMusInsts at
+http://www.thecombine.com/emi
+
+BTW the EMI wall chart has all sorts of info on it, like frequency, pitch
+and wavelength in 12 tone et, standard music wire gages, formulas for
+various resonant cavities, pitches of the harmonic series, overtone
+recipes for common vibrating forms, scale factors for various equal
+temperaments, etc, etc.  Even though it's intended for builders of acoustic
+instruments, I find it essential on the wall of my computer music studio.
+Info at the above website.  (unabashed plug!)
+
+Cheers,
+
+Warren
+
+
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Eduardo Sabat <esabat@adinet.com.uy>
+Subject:  Where is the 12 ?
+PostedDate:  09-10-97 02:39:34
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  09-10-97 02:39:07-09-10-97 02:39:08,09-10-97 01:37:40-09-10-97 01:37:40
+DeliveredDate:  09-10-97 01:37:40
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125652B.00039057; Thu, 9 Oct 1997 02:38:55 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11829; Thu, 9 Oct 1997 02:39:34 +0200
+Date: Thu, 9 Oct 1997 02:39:34 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA11825
+Received: (qmail 25142 invoked from network); 8 Oct 1997 17:39:30 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 8 Oct 1997 17:39:30 -0700
+Message-Id: <199710090041.VAA28596@mail.adinet.com.uy>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

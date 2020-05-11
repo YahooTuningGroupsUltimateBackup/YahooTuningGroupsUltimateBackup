@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Mon, 6 Jan 1997 08:14:37 -0800
+
+Subject: RE: Euler question
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>> If 2 is the largest exponent, second-degree would make sense as a label;
+
+>Not quite, the degree is the sum of the exponents. For example,
+>Genus [33557] (chromatico-enharmonicum) is of the fifth degree. This one
+>has 3 x 3 x 2 18 notes.
+
+OK, so now that we've cleared that up, any ideas for a general name for 
+genera [3], [3 5], [3 5 7], etc.?
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 6 Jan 1997 17:12 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02981; Mon, 6 Jan 1997 17:15:28 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA02979
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA14306; Mon, 6 Jan 1997 08:15:26 -0800
+Date: Mon, 6 Jan 1997 08:15:26 -0800
+Message-Id: <44970106160944/0005695065PK3EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

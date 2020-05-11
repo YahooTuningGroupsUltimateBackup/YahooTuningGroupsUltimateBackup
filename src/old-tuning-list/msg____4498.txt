@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Fri, 3 Jan 1997 10:40:59 -0800
+
+Subject: RE: lurkification
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+John Fitch wrote,
+
+>I do not know how to specify just systems
+
+To convert a ratio p/q into cents, use
+
+log(p/q)/log(2)*1200
+
+Hope this helps!
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 3 Jan 1997 19:39 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00599; Fri, 3 Jan 1997 19:42:40 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00597
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA29015; Fri, 3 Jan 1997 10:42:38 -0800
+Date: Fri, 3 Jan 1997 10:42:38 -0800
+Message-Id: <82970103183928/0005695065PK5EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

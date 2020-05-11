@@ -1,0 +1,120 @@
+source file: mills3.txt
+Date: Tue, 12 Aug 1997 22:44:12 +0200
+
+Subject: Natural Harmony
+
+From: James Kukula <kukula@synopsys.com>
+
+>> Furthermore, a system with one
+>>degree of freedom is pretty much constrained to move in a periodic fashion,
+>>at least for bounded trajectories.
+>
+>This would be true for autonomous systems -- that is, where the
+>state of the system depends entirely upon its previous state,
+>and not explicitly on time.  The wave equation is a 2-D
+>autonomous equation -- it depends upon amplitude and its
+>derivative with respect to time. An autonomous system with 2
+>continuous variables can have a stable periodic motion, but
+>cannot have prolonged aperiodic motion.
+
+You're right that periodicity would depend on the system being autonomous.
+I suspect we're having some terminological confusion here. I studied physics
+once upon a time but that was a long time ago. Somehow we need to
+distinguish between ordinary differential equations and partial differential
+equations for starters. What I mean by a system with one degree of freedom is
+something like a simple pendulum.
+
+Once we get into the wave equation, to me that's a partial differential
+equation. That describes a system like a vibrating string, that has roughly
+an infinite number of degrees of freedom - i.e. each little section of the
+string can be budged up or down a smidgeon independently of how much other
+little sections are budged, though of course the elastic forces acting on the
+various little sections depend precisely on all those budgements.
+
+Another factor coming into play could be the order of the various
+differential equations. E.g. harmonic oscillators are second order
+differential equations, because acceleration is the second time derivative of
+position.
+
+>>Ideal one-dimensional systems of coupled linear oscillators, like vibrating
+>>strings or columns of air, will have an integer overtone series.
+>
+>I'm not at all sure what this means.  To clarify, though:
+>
+>A one dimensional continous autonomous system cannot have
+>periodic behaviour: that would mean moving in different
+>directions from the same state.
+
+So it's my turn to be confused. An ideal string can certainly have periodic
+motion. Actually any vibrating body will have a whole set of modes of
+oscillation, and if you get the body to vibrate in just one mode, then its
+motion will be periodic. That's what modes of oscillation are, roughly
+speaking. (A little more precisely, the periodic motion will be follow a nice
+sinewave shape).
+
+I suspect we're just getting caught by words like "one dimensional
+continuous".
+
+I'm not sure just how much physics is really appropriate in this forum. But
+it seems worthwhile to try to clarify:
+
+>>The article points out that there's a more common class of seismic
+>>signals called harmonic tremors with a nice overtone series.
+>
+>   That strikes me as surprising (although I'm not suggesting that they're
+>lying of course).  It seems surprising because of the answer to your second
+>question:
+>
+>>Strikes me a tuning FAQ ought to address the question, are integer overtone
+>>series natural or artificial, where do they come from?
+>
+>   Harmonic partials come from vibrating systems with uniform and elastic
+>vibrating media bound by two immobile "nodes".
+
+Integer ratio overtones can come from other mechanisms besides uniform and
+elastic etc.
+
+If you take a nice clean laboratory sinewave oscillator and run it through an
+amplifier and through a loud speaker and CRANK THE VOLUME WAY UP it won't be
+a nice clean sinewave any more. The distortion of the loudspeak, amplifier,
+etc. will generate nice integer ratio overtones! No vibrating strings around.
+
+I'm not sure if this is related to the one-degree-of-freedom business or
+not. But periodic motion necessarily generates integer-ratio overtones, and
+systems with one degree of freedom are more or less forced to be periodic -
+as long as they're autonomous and probably some other restrictions, this gets
+over my head pretty fast.
+
+Anyway it seems like integer-ratio overtones are important to tuning theory
+so maybe not too much of a waste of bandwidth to try to get clear.
+
+Jim
+
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Denis.Atadan@mvs.udel.edu
+Subject:  Great Tape Swap Deadline
+PostedDate:  13-08-97 01:51:49
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  13-08-97 01:52:03-13-08-97 01:52:04,13-08-97 01:50:25-13-08-97 01:50:26
+DeliveredDate:  13-08-97 01:50:26
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl by notesrv2.ezh.nl (Lotus SMTP MTA v1.1 (385.6 5-6-1997)) with SMTP id 
+C12564F1.00831A99; Wed, 13 Aug 1997 01:52:09 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00624; Wed, 13 Aug 1997 01:51:49 +0200
+Date: Wed, 13 Aug 1997 01:51:49 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA00622
+Received: (qmail 28317 invoked from network); 12 Aug 1997 23:49:21 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 Aug 1997 23:49:21 -0000
+Message-Id: <199708122349.TAA09820@copland.udel.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

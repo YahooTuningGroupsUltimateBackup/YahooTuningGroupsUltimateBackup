@@ -1,0 +1,93 @@
+source file: mills3.txt
+Date: Tue, 28 Oct 1997 16:15:45 +0100
+
+Subject: psychoacoustic foundations
+
+From: William Sethares <sethares@eceserv0.ece.wisc.edu>
+
+Paul, mind if I quibble a bit? Yesterday you wrote:
+
+>... the probability that two physical strings are tuned
+>to a rational inteval is zero, as Cantor showed...
+
+This is true only if the two strings vibrate independently.
+When two strings are mounted on the same instrument, then
+there may well be some kinds of interaction between them.
+They may, for instance, become "entrained" to each other,
+that is, locked into various "simple integer" modes of vibration.
+Besides strings, there are other examples of entrainment, for
+instance, the orbits of several moons are entrained to simple integer
+ratios about their planets. On pianos, it is well known that adjacent
+strings interact. Might they, under certain conditions, entrain?
+
+Then, in talking about consonance and dissonance, you said:
+
+>The only definition I care about is one with a psychoacoustic
+>correlative.
+
+The sensory consonance theory (including Helmholtz, Plomp and
+Levelt, Terhardt, your own work, and my own work) is not the only
+theory that has a "psychoacoustic correlate."
+
+Consider for a moment the slightly different question of how the ear
+determines pitch. There are two major theories, the "place" and the
+"periodicity" theories of pitch perception. In the place theory, pitch is
+determined by where on the basilar membrane the maximum
+excitation occurs. This classic model, expounded by Von Bekesy in
+the 30's was considered the final word for a long time, but careful
+measurements of JND's (Just Noticeable Differences) for pitch showed
+that the basilar membrane is not sensitive enough to account for all
+thats known about the ear's resolution powers.
+
+The ear can also resolve very small temporal differences (as used for
+instance, to locate sounds in the environment). The periodicity
+theorists suggest that the ear basically "counts up" how many
+maxima (or minima or zero crossings, depending on who you read)
+occur in a given time interval to determine pitch. There is currently
+no experimental evidence that definitely points to one of these
+theories over the other, and J Pierce has argued (convincingly, in my
+opinion) that the most likely scenario is that both mechanisms are at
+work.
+
+Now let's return to the "simple integer ratio" theory of consonance.
+One can easily turn the simple integer ratio version into a "length of
+waveform" argument. The periodicity pitch theorists already have a
+mechanism for determining length of period, so it would be easy to
+believe that the this same mechanism could also be used by the
+"dissonance determining algorithm" of the brain. The problem with
+irrational ratios then becomes the problem of determining the pitch
+of "almost periodic waveforms". This is then not a huge problem
+since presumably the brain will interpret ambiguous interval ratios
+in much the way as it interprets ambiguous pitches.
+
+Thus the "simple integer ratio" theory of consonance has (roughly) as
+firm a psychoacoustic foundation as the sensory consonance theory.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Fred Kohler" <Fred_Kohler@bc.sympatico.ca>
+Subject:  Starr Labs/Erv Wilson Keyboard
+PostedDate:  28-10-97 16:55:11
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  28-10-97 16:54:18-28-10-97 16:54:19,28-10-97 15:54:53-28-10-97 15:54:53
+DeliveredDate:  28-10-97 15:54:53
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125653E.00575A28; Tue, 28 Oct 1997 16:54:07 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA29461; Tue, 28 Oct 1997 16:55:11 +0100
+Date: Tue, 28 Oct 1997 16:55:11 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29767
+Received: (qmail 4398 invoked from network); 28 Oct 1997 07:55:07 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 28 Oct 1997 07:55:07 -0800
+Message-Id: <01bce3b9$51164480$4617c2cf@a1a05977>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

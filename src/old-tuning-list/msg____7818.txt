@@ -1,0 +1,127 @@
+source file: m1417.txt
+Date: Sat, 16 May 1998 00:39:19 -0700
+
+Subject: An Evening with Erlich
+
+From: Carl Lumma <clumma@nni.com>
+
+>My paper, for the sake of brevity, sticks with the simple
+>ETs, with at most one decent approximation to each just interval.
+
+I think that sticking to under 35/oct is a good choice for the paper. 
+
+>There may be some wonderful scales in 41tET for all I know.
+
+You do go up to 210 TET or something at one point in the paper, searching
+for a better tuning for the decatonic scales.  But you don't say much on
+what means you used to search this tunings.
+
+>Well, the only real problem in ET's over 34/oct is that consistency is
+>not really relevant anymore, since there might be an adequate
+>approximation for a given interval which is not the closest
+>approximation.
+
+This is the real meat of my question about the 1% thing.  What does it mean
+"adequate"?  Certainly you don't claim that all scales over 35 sound alike...
+
+>"Musical tones normally have uypper partials within
+>this range, and since harmonic partials are integer multiples of their
+>fundamentals, they will yield the same ratio-interpretation for their
+>fundamentals as would the fundamentals transposed into this range.
+>(This is why we did not worry about overtones in the first place)."
+
+Is there any chance the results aren't so clear-cut when you try to apply
+the 1% idea to a system where the tones have partials?
+
+>Carl, perhaps you could do me a favor and stick something like this into
+>the .pdf version of my paper?
+
+I am right now working two jobs... But I am planning to do some work on
+xenharmonic theory in August (when I'll have my own computer again).  I
+want to put up a web page where all sorts of stuff on alternate tunings can
+be published in pdf format.  I'd be happy to work with you on making a
+really nice version of you paper for it then.
+
+>No, according to Gary, a factor of 3 will only produce steely coldness
+>if there are no higher prime factors in the ratio.
+
+That's what I thought.
+
+>Powers of 3 are candidates, since they only have factors of 3.
+
+Maybe I mis-understand what you mean by "power".  I call this interval:
+
+(3/2)^3
+
+An interval with a factors of two and three, and a power of three.  The
+interval is a 27/16.
+
+(5/4)^3
+
+This interval has factors of two and five, and a power of three.  It is a
+125/64.  It has a power of three, but no factor of three.
+
+>>Sort of like you could tell what prime limit music on a 33 is, playing at
+>>45 rpms, but not what odd limit the same music was without hearing it at
+>>actual speed?
+>
+>See, I have no problem with this, since the melodic and harmonic
+>vocabularies both figure into the pitch sets that are heard, and the
+>pitch set determines the character of the music to a large extent. I
+>already stated where I think the odd-limit concept is useful.
+
+Fair enough.
+
+>I think Partch was right that an interval's allowance for mistuning, as
+>regards the interval's ability to be recognized as the just ratio, is
+>inversely proportional to the ODD limit. 81/64, if recognizable at all
+>(I don't think so), has an EXTREMELY small allowance for mistuning.
+
+Ah.  Well, that works.  Thing is, "sensitivity to mistuning" can mean so
+many things.  I'm just now seeing how you're using it here, and I can't say
+that it is in any way incorrect.
+
+There is a type of "sensitivity to mistuning" that does not obey the
+inverse to odd limit rule.  For this type of sensitivity, it seems that the
+3/2 is much more sensitive than the 7/4.  Further, it seems to matter to
+this type of sensitivity wether an interval is mis-tuned sharp or flat.
+
+>Most people who have made the comparison (including me) consider 19tET,
+>whose 3/2 is 7.5 cents flat, to have better triads than 12tET. Do you
+>disagree?
+
+Yes.  I think the 4-5-6 chords of 12 are at least as good as those of 19.
+I wouldn't say one is "better".  The 19 major triad seems to sound much
+more aggressive, like a razor.  The 12 tone 4-5-6 chord seems more tame,
+but more rough.  Neither really sounds just.  I don't really think there's
+a 4-5-6 chord I'd call "better" than 12 until 31.  That's not to say that
+19, 22 and 29 don't have good triads, because they do.  I do think that 19
+has clearly better 10-12-15 and 4-5-6-7 chords than does 12.
+
+>Yes, exactly. Contextually, not acoustically.
+
+Here it is folks.  The bones of the bone.  What do I think?  I think that
+acoustic perception is much less fixed than some people would like.  I
+think that I could train subjects to detect (at least as well as they have
+detected anything so far in a lab) any type of interval class I wanted with
+little more than classical conditioning.
+
+If, through context in music (working on the tendency for us to hear things
+as part of a harmonic series, which I do believe is more than a learned
+response) I have learned to hear 81/64 as a 3-ness, even if played only as
+a dyad, I appologize.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In other topics, you once posted about not using your 22TET guitar for
+decatonic music, and that you were going to check out a 31TET guitar.  Have
+you done this?  What do you think of 31?  You use the diatonic scale?
+
+And what was the problem with decatonic scales on the 22TET instrument?  I
+have a friend who plays guitar, who I hope to convince to get a microtonal
+guitar, and so far the only one I'm convinced will do what he wants it to
+do is 19.  I'd appreciate any input you or anybody else has in this area.
+(There were, once upon a time, a load of people refretting to 22 on this
+forum)...  What News?
+
+Carl

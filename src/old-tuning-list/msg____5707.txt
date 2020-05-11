@@ -1,0 +1,122 @@
+source file: mills2.txt
+Date: Sun, 29 Jun 1997 18:33:20 +0200
+
+Subject: RE: Partch Limit vs Prime Limit
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Marion <Mckyyy@aol.com> wrote:
+
+>For me, the whole "lattice" approach is much less useful than
+>Aliquot Parts and Least Common Multiple for analyzing scales,
+>chords, and intervals.
+
+Aliquot Parts are unknown to me, so I can't comment on them.
+I have been a card carrying LCM-ist for quite a while, though,
+but I'm confused at this dichotomy between them and the
+lattices.  I express the LCM in my lattice notation, but
+call it a region of harmonic space (ROHS) because an LCM
+should really be a number and not a matrix.  An LCM of 60,
+then, corresponds to a ROHS of (2 1 1)H.
+
+In lattice terms, the ROHS is the size of the smallest n-box
+in n-dimensional ratio space that includes, on or within its
+boundary, all the notes under consideration.  The distance
+between opposite corners of this n-box, measured using a
+city block metric with each dimension weighted according to
+the logarithm of the corresponding prime number, is the
+logarithm of the LCM of the same notes.  Don't worry if you
+didn't get that last bit, folks, it isn't important!
+
+Anyway, my main point in writing is to draw a comparison
+between the odd-limit and the ROHS.  Referring to my last
+message of a few days ago, the 7-limit clearly lies within
+the ROHS (x 1 1 1)H where x can be anything, to give octave
+equivalence.  This is the same as the Euler genus 3.5.7.
+
+Not all the members of the genus 3.5.7 are within the 7-limit.
+(3 -1 1 0)H, or 15/8, for a start.  For intervals within an
+octave, though, the ROHS (2 1 1 1)H contains all 7-limit
+intervals and only a few outside it -- (-1 1 1 -1)H or 15/14,
+etc.  In otonal or utonal form, these exceptions disappear as
+odd primes cannot appear in both the numerator and
+denominator.
+
+If you reduce your chord so that all the intervals are
+within the first octave above the otonal root, the ROHS
+(2 1 1 1)H is identical to the 7-limit.  The saturated
+chord being:
+
+             (-2 0 0 1)
+             (-2 0 1 0)
+             (-1 1 0 0)H
+             ( 0 0 0 0)
+
+The ROHS occupied by the largest interval within a chord will
+always be the same as the ROHS occupied by the whole chord.
+This is why the ROHS is superior to the odd limit from a
+number theoretic point of view.  It is also why, IMHO, the
+ROHS is the superior way of classing scales.
+
+The equivalent utonal chord can be found by multiplying the
+chord above by -1.  This is the same as arranging the notes
+in the octave below the utonal root.  Where the otonal root
+will always be (0 0 0 0)H, the utonal root is equal to the
+ROHS with the octave term negated.  Therefore, the octave
+reduced utonal (2 1 1 1)H chord is:
+
+         (0  0  0  0)                    (-2 1 1 1)
+         (1 -1  0  0)                    (-1 0 1 1)
+         (2  0 -1  0)H (2 -1 -1 -1)H + ( 0 1 0 1)H
+         (2  0  0 -1)                    ( 0 1 1 0)
+
+For consistency with the odd-limit idea, only otonal and
+utonal reductions are allowed.  This rules out octave reduced
+(2 1 1 1)H, non 7-limit chords like the following:
+
+                  (-2 0 1 1)
+                  (-1 1 0 1)H
+                  ( 0 1 1 0)
+
+Hence o/utonal 7-limit chords are the same thing as o/utonal
+octave reduced ROHSs.  Beyond the 7-limit, though, this
+equivalence no longer holds, just as the two kinds of
+odd-limit diverge.  As the odd-limit idea is itself an
+extrapolation from conventional harmony, I would suggest
+that the ROHS method is the best way of extending it to
+higher primes.
+
+The ROHS is also a useful way of categorising chord changes.
+This is a very important subject, and one that is rarely
+mentioned on the list.  However, I will not go into it today.
+
+I suggest that the ROHS should also be emancipated from
+octave reduction.  Then the interval 15/1 comes out as
+less dissonant than 15/8.  My ears tell me that there is
+some justification for this.  I don't go with octave
+invariance, because different inversons of major triads
+definitely sound different.  All the 'nice' versions of 4
+note major triads fall within the ROHS (3 1 1)H.  The ones
+that stay within (1 1 1)H also sound particularly nice.
+However, the (2 1 1)H ones are not neccessarily better than
+the (3 1 1)H ones.  There seems to be a premium on having the
+root doubled.  The idea of root doubling, though, implies the
+idea of octave invariance. I might some time get round to
+extending Kameoka and Kuriyagawa's dissonance algorithm to 4
+note chords to see if it sheds any light on this.
+
+                        Graham
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 29 Jun 1997 18:34 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA17021; Sun, 29 Jun 1997 18:34:36 +0200
+Date: Sun, 29 Jun 1997 18:34:36 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA16996
+Received: (qmail 2093 invoked from network); 29 Jun 1997 16:33:47 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 29 Jun 1997 16:33:47 -0000
+Message-Id: <memo.976637@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

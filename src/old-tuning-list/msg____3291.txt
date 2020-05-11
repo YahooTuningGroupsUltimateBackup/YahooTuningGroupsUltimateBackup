@@ -1,0 +1,26 @@
+source file: mills2.txt
+Date: Mon, 22 Jul 1996 13:08:56 -0700
+
+Subject: RE: Need spec for Gen. Midi Tuning dump
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Jeff,
+
+You can download it from ftp://ella.mills.edu/ccm/tuning/papers/mts.txt .
+Coincidentally I wrote an email to the Midi Manufacturers Association
+recently to tell them they should have it on their Web site.
+They said they would consider it.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 22 Jul 1996 22:55 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA20851; Mon, 22 Jul 1996 13:55:43 -0700
+Date: Mon, 22 Jul 1996 13:55:43 -0700
+Message-Id: <9607221353.ZM18140@frollo>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

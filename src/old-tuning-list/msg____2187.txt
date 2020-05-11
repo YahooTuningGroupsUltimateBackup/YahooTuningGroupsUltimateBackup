@@ -1,0 +1,169 @@
+source file: mills2.txt
+Date: Mon, 23 Oct 1995 07:54:49 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: xenharmonic notation in Finale
+---
+The estimable Paul Rapoport has created a
+microtonal music font for use with Finale.
+This was a significant advance, hampered by
+Finale's generally 12-centric mode of operation.
+Well, times have changed.  The latest version
+of Finale--rev 3.5--just arrived, and it has
+features to delight the heart of the most
+hardened microtonalist.
+Most notably, the NONSTANDARD KEY SIGNATURE
+DIALOGUE BOX now contains an enhanced KEY STEP
+MAP DIALOG BOX.  What, pray tell, does this signify?
+Buckle up, chromedomes--time for a trip into
+the bowel of Finale's infinite set of dialog boxes...
+First, click on the KEY SIGNATURE TOOL.  (It's easy
+to tell; this is the icon that looks like a rodent
+having sex with a VCR.  As opposed to the icon
+that looks like a cyclotron swallowing a squid--
+that's the Speedy Note Entry tool.)
+When the Key Signature dialog box appears,
+choose NONSTANDARD from the dop-down menu.
+Click NEXT twice, then click the KeyMap icon.
+Okay.
+Now you're into a dialog box which allows you to
+define a microtonal key signature.
+First, you need to decide whether you want what
+Finale mystifyingly calls a "Linear Key Format"
+or "Nonlinear Key Signature."  At this point permit
+me to quote from the Finale Reference (Vol. 3,
+ver. 3.0, which also applies to Finale ver. 3.5): 
+"In this dialog box, you specify how many notes
+will constitute an "octave" (it's twelve notes in the
+traditional system).  You also sepcify how many of
+these are "diatonic" (seven in the traditional system),
+and where the "chromatic" steps occur in the scale. (In
+the traditional system, the chromatic steps occur between
+every pair of diatonic steps except steps 3 and 4 and steps
+7 and 8.
+"If you're creating a linear key format, note that your work 
+in the Key Step Map dialog box must follow certain rules in 
+order to meep the definition of a lienar key format.  The
+total diatonic steps, for example, must be an odd number.
+Furthermore, the bottom and top halves of the scale must
+contain the identical arrangement of diatonic and 
+chromatic steps.  These principles ensure that there is a
+progression of keys, although it may not be a circle of fifths
+as there is in traditional key structures. (Finale will
+correctly interpret, transcribe, and play back music in
+a format that hasn't been constructed accordin go these
+rules.  Theformat, however, won't be technically and
+musically correct; you may get unexpected results when
+you transpose--or add chord symbols to--music in such a
+key system).
+"You may wonder what the relationship is between your MIDI
+keyboard and the unusual key maps you can construct in this
+dialog box.  The principle is simple: each key on your keyboard
+*always* corresponds to a note in your key map.  If you've
+established a quarter-tone key system, for example, you'd
+have to drastically alter your playing style in order to input
+a simple C scale, because Finale now thinks that the first
+four notes on your keyboard are C, C-quarter-sharp, C-sharp, 
+and C-three-quarter-sharp.  You'd have to play C, E and G#
+"keys" on your keyboard to *notate* the C, D and E on the
+screen."
+Well, there it is, kiddies.  Just what we've needed lo these
+many years.  With this upgrade, Finale appears to support 
+most of what's required for notating rationally a wild
+microtonal piece performed on the MIDI keyboard.
+The dialog box labelled KEY STEP MAP is fairly straightforward.
+It includes a control for TOTAL STEPS (the total number of
+steps in the scale) and DIATONIC STEPS.  The remainder left
+over by subtracting diatonic steps from total steps is,
+obviously enough, the number of chromatic steps. 
+This begs the question of what to do in a JI scale when
+faced with, say, the 11/9, or the 11/8...are these
+diatonic or chromatic steps?  The question doesn't
+appear to have much meaning to me, but those of you
+who've delved into Finale for the purposes of notating
+high-limit JI may have a different opinion.  Be interested
+to hear from those of you who've done this!
+By creating a nonlinear key signature you can generate
+a notation for a tuning with no circle of fifths, and
+no sequence of keys.  This is useful both for equal temperaments
+with no fifths (6,8,9,11,13,16,18,23 equal tones per octave)
+and for non-just non-equal-tempered scales like the free-free
+metal bar scale, scales formed from ratios of infinite continued
+fractions, etc.
+The ticket to getting Paul Rapoport's nonstandard accidentals
+to appear next to the correct notes is the ATTRIBUTE dialog
+box.  
+To quote the Finale manual again (Volume 3, page 300):
+"For any such key system you create, you can specify a number of
+special attributes, such as the symbols you want to use in the key
+signature (instead of the b and # symbols).
+*Harmonic Reference.  This number identifies the note that all other 
+dialog boxes in Finale's key system will consider to be the C, or
+fundamental root tone.  Enter zero for C, 1 for D, 2 for E, and so on.
+There's little ever to change the default setting in this box (zero,
+or C.). [Note: Unless you're notating Harry Partch's music, with his
+1/1 of G!]
+*Middle Key Number.  This number specific the MIDI key number
+that corresponds to the Harmonic Reference Number. 
+(..)  You can use this parameter to good advantage if you want
+to transform your synthesizer into a transposing synthesizer (as 
+far as Finale is concerned). For example, if you set the middle
+Key Number to 48 (C below middlel C), Finale will interpret
+every note you play as a note an octave higher (...)
+*Symbol Font.  This number corresonds to the font from which
+the symbols you want to use for accidentals are drawn.  To 
+choose a new font, click Symbol Font; Finale displays'
+the Font dialog box, form which you can choose the new font.
+*Symbol List ID. This number identifies a symbol list you've created--an 
+array of accidental AMounts (where one sharp has an Amount of 1,
+one flat has an Amount of -1, and so on) and corresonding chracters you
+want to appear in the key signature to represent them.  To create a 
+symbol list, click Symbol List ID; the Symbol List gialog box appears,
+in which you can define the character you want to appear in 
+place of the usual sharp, flat, double-sharp, or other standard symbol.
+(See SYMBOL LIST DIALOG BOX).
+*Go to Key Unit.  Enter a number in this text box to specify the
+number of scale steps Finale should consider to be between 
+each pair of keys on your MIDI keyboard.  In other words, if you've
+specified a quarter-tone scale, tell Finale that the Key Unit is 2--
+there are two scale tones, not one, between one synthesizer key and
+the next.  (If your synthesizer *can* produce quarter tones, however, 
+leave the key unit at 1, so that Finale will correctly play back your
+quarter-tone score.
+"If you've specified the correct Key Unit value, Finale will transcribe 
+and play any music perofrmed in the usual way correctly.  If you
+created  quarter-tone scale without changing the Key Unit, by contrast,
+you'd have to drastically modify your playing sytle, because Finale would 
+treat your keyboard as show here." [Note--the diagram in the
+manual shows a quarter-tone keyboard replete with microtonal
+accidentals]"
+Hot rats, boys!
+This is a real breakthrough.  It's what we've needed for years.
+It's what Lippold Haken's LIME *should* have included, but didn't.
+One final point: for those you whose wee widdle hearts go pit-a-pat
+at the thought of a musical staff with more than 5 lines, Finale
+also allows this.  You can completely redefine the staff, with 
+as many lines (within practical limits) as you like.  Folks like
+Leo de Vries whose twinline 31-tone notation used more than 5
+staff lines will jump for joy at this feature in Finale 3.5
+Yes, Finale is still not quite as simple as quantum 
+electrodynamics.  Those dialog boxes are not easy to find,
+or easy to use correctly.  But they're there.  And for the first
+time, they make possible transcription of xenharmonic music 
+via  computer.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 23 Oct 1995 20:00 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA20043; Mon, 23 Oct 1995 10:59:33 -0700
+Date: Mon, 23 Oct 1995 10:59:33 -0700
+Message-Id: <199510231752.NAA26693@freenet5.carleton.ca>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

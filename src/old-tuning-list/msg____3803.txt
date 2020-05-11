@@ -1,0 +1,56 @@
+source file: mills2.txt
+Date: Mon, 21 Oct 1996 15:05:13 -0700
+
+Subject: New JI Ear Trainer version
+
+From: alves@osiris.ac.hmc.edu (Bill Alves)
+
+Version 2.0 of the Just Intonation Ear Trainer is now available via my home
+page (URL below). This version is mainly the result of the new xcmds kindly
+contributed by Ken Wauchope. These functions make it possible for the JIET
+to be run on PowerMacs for the first time and also allow for the selection
+of different instrumental timbres via QuickTime Musical Instruments.
+
+Therefore, there are now three different versions. There is a version 2
+file available for both PPC and 68k Macs. These do require QuickTime and
+QuickTime Musical Instruments. Version 1 is still available, but it ONLY
+works on 68k Macs (that is, it will NOT work on PowerMacintoshes). However,
+QuickTime is not required for version 1.
+
+I have had some problems switching between instruments when using QuickTime
+2.1 that Ken could not replicate. However, I have not had any problems
+using QuickTime 2.5. Therefore I say that QuickTime 2.5 is required, but
+2.1 may work depending on your system.
+
+As before, please let me know of any bugs, problems, or suggestions. I ask
+only that you do not sell it without permission and that, if you find it
+useful, you send me a shareware fee of $10 OR a recording of music in
+non-traditional tuning.
+
+I will try to put these versions into the Mills ftp site when I have time,
+though if someone else wants to, they are welcome to.
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)621-8360 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 22 Oct 1996 01:51 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06200; Tue, 22 Oct 1996 01:52:52 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA06176
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA07381; Mon, 21 Oct 1996 16:52:16 -0700
+Date: Mon, 21 Oct 1996 16:52:16 -0700
+Message-Id: <199610212350.QAA07263@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

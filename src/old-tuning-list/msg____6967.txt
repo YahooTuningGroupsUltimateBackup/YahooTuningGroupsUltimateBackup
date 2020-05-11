@@ -1,0 +1,84 @@
+source file: mills3.txt
+Date: Thu, 8 Jan 1998 00:31:34 +0100
+
+Subject: blues scale
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+On that guitar, I seem to be drawn to the following inversionally
+symmetrical scale for blues:
+
+22TET	cents
+
+0	0
+6	327
+9	491
+10	545
+13	709
+19	1036
+
+Harmonically, it looks like this:
+
+
+9---------0---------13
+           \       / \
+            \     /   \
+             \   /     \
+              \ /       \
+               6---------19--------10
+
+In just intonation, it would be
+
+Ratio	cents
+
+1/1	0
+6/5	316
+4/3	498
+27/20	520
+3/2	702
+9/5	1018
+
+but that syntonic comma between 4/3 and 27/20 is too small to function
+as a real melodic interval in a blues context. The 22TET degree is big
+enough to evoke a distinct pitch, but small enough to sound
+interestingly unusual. The 6/5 and 9/5 are not really that "bluesy"
+sounding; their sharpened versions in 22TET do better, especially with
+vibrato added.
+
+"Blue notes" on the guitar are almost always between major and minor
+thirds and between major and minor sevenths. I don't agree with those
+who make them out to be some sort of septimal ratios, though the 7/4 is
+common in harmonica blues, and I myself love to use the 7/6 over the IV
+chord (on the 12-tone guitar by bending the major 2nd up a third-tone).
+
+I think the blues scale has more to do with 7TET than with any just
+ratios.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "J. Pusey" <xen@tiac.net>
+Subject:  How to order the Bosanquet book from Diapason Press
+PostedDate:  08-01-98 02:28:45
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  08-01-98 02:28:25-08-01-98 02:28:26,08-01-98 02:28:20-08-01-98 02:28:20
+DeliveredDate:  08-01-98 02:28:21
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256586.00081395; Thu, 8 Jan 1998 02:28:41 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA06507; Thu, 8 Jan 1998 02:28:45 +0100
+Date: Thu, 8 Jan 1998 02:28:45 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA06707
+Received: (qmail 12114 invoked from network); 7 Jan 1998 17:28:35 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 7 Jan 1998 17:28:35 -0800
+Message-Id: <l03110700b0d9db6c68cb@[206.119.10.100]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

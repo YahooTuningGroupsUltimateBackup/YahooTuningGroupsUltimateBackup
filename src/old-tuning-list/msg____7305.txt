@@ -1,0 +1,41 @@
+source file: m1366.txt
+Date: Fri, 27 Mar 1998 08:14:27 -0500
+
+Subject: Re: does xbendout work for QT2.5?
+
+From: wauchope@AIC.NRL.Navy.Mil
+
+QuickTime 2.5 (built-in Macintosh software synthesizer) uses 9 bits of
+pitch bend information over a +-2 semitone range, for a resolution of
+1536 steps/octave.  I wouldn't be too sad...that's the same resolution
+as the Ensoniq MR Rack tuning tables, giving a maximum error of about
+0.4 cent and on average half that.
+ 
+I'm not a MAX user, but assuming that xbendouts are the same as MIDI
+pitch bend messages (+-8192 = 14 bits), you can round off to the
+nearest multiple of 32 for best results since I imagine QT just
+truncates the higher bits.
+
+QuickTime 3.0 is just out in beta release, with a better sounding and
+more complete set of instruments (Roland GM and GS) than 2.5.  The
+Just Intonation Calculator (JICalc) continues to work with QT3.0, but
+seems to require a machine with more than 8MB of memory to stay
+afloat.
+
+P.S. On a related subject, I was surprised to discover that my Yamaha
+SY99's pitch bend resolution is a measly 384/octave at the +-2
+semitone range, increasing to 768/octave at +-1 semitone.  I had
+assumed it would be the same as the tuning tables, which are the
+standard Yamaha 1024/octave.  Just goes to show that experimentation
+is a Good Thing.
+
+Ken Wauchope
+
+> Dear MAX-MICROTUNISTS on this list,
+
+> Did I ask this before?
+> I'm still using QT2.5 as the sound module for my MAX3.0.
+> I love microtuning things so use a bunch of xbendout oriented things in
+> my patch....but now wondering...if my QT is handling 14bit-bend-date
+> correctly...my ear is not good enough to test this...ah..
+> So sad if it's only handling it as the 7bit thing and ignoring the rest.

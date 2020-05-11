@@ -1,0 +1,67 @@
+source file: mills2.txt
+Date: Sat, 2 Mar 1996 09:35:28 -0800
+
+Subject: Positive Systems
+
+From: non12@delta1.deltanet.com (John Chalmers)
+
+John Pusey: I apologize for my own errors and would like to stipulate
+that we use Bosanquet's definitions. Positive fifths are thus those
+that are sharper than 700 cents, negative, less than 700 and positive 
+systems are those with positive fifths, etc. 
+ 
+I think that J. M. Barbour was so committed to 12-tet that it is 
+not surprising that he sometimes thought of the perfect fifth as 
+having 700 cents. Thus, I view his definition of positive as sharper 
+than 3:2 rather than 7 degrees of 12-tet as a lapse, not a fundamental misunderstanding.  BTW, he did grudgingly admit that a piece by Bach
+sounded magnificent in the 1/6th comma "meantone" tuning (notes to the
+Musurgia series of didactic recordings he and Kuttner put put in the
+60's).
+ 
+As for "doubly positive," see pages 60-63 of Bosanquet. _"A regular cyclic
+system is of the rth order, negative or positive, if 12 fifths fall short 
+or exceed 7 octaves by r degrees of the system"_. Hence for 22-tet, 
+12 x 13 = 156  (12 x the 22-tet fifth) is two degrees of 22-tet sharper 
+than 7 x 22 =154. Therefore, 22-tet is a doubly positive system. 
+ 
+R is thus the difference between the diatonic (5 Fifths) and chromatic 
+(7 Fifths) semitones in ET degrees or alternatively, the difference between
+B# and C if the cycle is started on C. In other words, r is the number of
+degrees in the Pythagorean ditonic comma in each ET (see Paul Rapoport's 
+article "The Notation of Equal Temperaments," in XH16, 1995). 
+ 
+Another parameter useful for characterizing ET's is the number of degrees
+in the apotome or Pythagorean chromatic semitone (the #) (Rapoport, XH16, 
+1995), i.e., 7 Fifths minus 4 Octaves. This quantity is the number of 
+degrees between C# and C, 1 in the case of 12 and 19-tets, 2 in 17, 24 
+and 31-tets,  and 3 in 22, 29, 36 and 50-tets. To my knowledge there is 
+no accepted name  for this number as a parameter (Erv Wilson simply calls 
+the systems singulary, binary, ternary, etc. as the number is 1, 2, or 3, 
+etc., but it is essential to fitting various ET's to the Bosanquet or
+multiple Bosanquet keyboards or rationally assigning accidentals (Wilson, 
+XH2, 1974;  Rapoport, XH16, 1995).  
+ 
+Of course, this discussion presumes 12-tet is the standard system. If one
+were to base one's classification on 19-tet, for example, then "r" would
+be calculated relative to the 19-tet fifth (19 Fifths -11 Octaves) and 
+the systems would be arranged according to their ditonic commas (12 Fifths 
+- 7 Octaves). Similarly, one might chose 17, 22, 31 or even 5 and 7 
+(Wilson, XH3, 1975; XH1, 1974) as bases for notation and keyboards. 
+With less historical and musical justification, one might choose cycles 
+of other intervals than the 4th or 5th such as 5/4, 7/4 and a low number ET 
+which approximates them well. One could even use some tempered interval like 
+8 or 10 degrees  of 13-tet (and higher homologs) to define r and the 
+(pseudo) chromatic semitone.
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 2 Mar 1996 22:17 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA29885; Sat, 2 Mar 1996 13:17:04 -0800
+Date: Sat, 2 Mar 1996 13:17:04 -0800
+Message-Id: <960302211308_71670.2576_HHB56-7@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

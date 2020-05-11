@@ -1,0 +1,105 @@
+source file: m1545.txt
+Date: Sun, 4 Oct 1998 22:29:07 -0700 (PDT)
+
+Subject: Re: Paul Erlich's "entropy" and 16:9
+
+From: "M. Schulter" <mschulter@value.net>
+
+Hello, there.
+
+Paul Erlich's post on "harmonic entropy, neutral zones" leads me to
+ask a curious question and offer a few odd observations on Pythagorean
+and "neo-Pythagorean" tunings.
+
+The whole "neutral zone" idea, extended from thirds to the whole
+spectrum of the intervals, is a really creative one, and I'd like to
+express my appreciation for the effort that went into both the
+conceptualization and implementation of this study.
+
+Please let me emphasize that my expression of surprise at one point
+below (the question of 16:9) isn't meant in any way as a criticism of
+the method (sometimes an electronic medium can make such nuances
+ambiguous), only an expression of pleasurable puzzlement and
+anticipation of an interesting reply in one direction or another,
+maybe an unsuspected one.
+
+> The local minima and maxima were as follows (maxima denoted with *):
+
+> N=80:
+
+> 264 (7/6=267)
+> *285
+> 316 (6/5=316)
+
+Curiously 17-tet, with m3 at about 282.4 cents, comes quite close to
+the maximum here. A 24-note Xeno-Gothic tuning, with two 12-note
+Pythagorean keyboards a Pythagorean comma (about 23.46 cents) apart,
+offers a "minimal 3rd" of about 270.67 cents, only what I call a
+"septimal schisma" of about 3.80 cents from a just 7:6. The usual
+Pythagorean m3 at 32:27, or about 294.13 cents, is actually not too
+far from the "maximum."
+
+> 387 (5/4=386)
+> *423
+> 437 (9/7=435)
+
+Interestingly, a 17-tet M3 at about 423.5 cents at almost exactly at
+the point of "maximum." A Xeno-Gothic "maximal third" of about 431.28
+cents is again only 3.8 cents or so from a just 9:7. This time the
+usual Pythagorean M3 of 81:64 or about 407.82 cents is a bit further
+from the "maximum" point.
+
+> 885 (5/3=884)
+> *924
+
+This time, the 17-tet M6 at around 917.6 cents is a bit further from
+the "maximum," but still quite close. The Xeno-Gothic "maximal sixth"
+is at about 929.33 cents, again about 3.80 cents from a just 12:7 at
+around 933.12 -- I notice that 12:7 isn't on the chart, although 7:6
+is, of course.. The regular Pythagorean M6 at 27:16 (about 905.87
+cents) is about halfway between your minimum around 5:3 and your
+maximum around 924 cents.
+
+> 970 (7/4=969)
+> *999
+> 1021 (9/5=1018)
+
+My immediate medievalist reaction: shouldn't 16:9 be listed here as a
+basic ratio at 996 cents? Somehow my Pythagorean predilections find it
+curious that this interval should be treated mainly as a point of
+maximum ambiguity between the 5-prime and 7-prime standards, rather
+than a 3-prime standard in its own right. Also, this interval seems
+very basic to me since it is derived from two pure 4:3 fourths.
+However, these are only, of course, my biases at first blush <grin>.
+
+Anyway, calming down, I note that the 17-tet m7 of about 988.2 cents
+is in this case actually _further_ from the "maximum" point than the
+regular Pythagorean 16:9 at about 996.09 cents. As usual, the
+Xeno-Gothic "minimal 7th" at about 972.63 cents is only 3.80 cents or
+so from a just 7:4.
+
+[with N=40]
+
+> 968 (7/4=969)
+> *996
+> 1021 (9/5=1018)
+
+Here, interestingly, a just 16:9 is placed at just about exactly the
+maximum point of entropy.
+
+I'm curious if this result for 16:9 might say anything about the
+Pythagorean m7 (which often gets used prominently in 13th-14th century
+music, and which I tend to agree with some medieval theorists has a
+certain degree of "compatibility" or even "concord"), or for that
+matter about the 12-tone equal temperament (12-tet) m7 at 1000 cents?
+
+Also, from the viewpoint of the analytical method involved here, I
+wonder if this result for 16:9 would be an expected or unexpected one.
+
+Anyway, the "neutral zone" concept is really intriguing, and thanks
+for such an interesting survey.
+
+Most appreciatively,
+
+Margo Schulter
+mschulter@value.net

@@ -1,0 +1,66 @@
+source file: m1428.txt
+Date: Tue, 26 May 1998 09:38:43 -0500 (CDT)
+
+Subject: Small miscellany
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+Apologies, my tuning friends: I've left several responses to my messages
+(both on the list and privately) hanging; somehow I didn't seem to get
+any less busy when the summer began, but am just as busy with different
+things.  But here are a couple of drive-by comments:
+
+I've generated a couple more consistency tables, and the best candidates
+I've spotted so far for synthesizers are probably 1224 (2^3 * 3^2 * 17)
+and 1848 (2^3 * 3 * 7 * 11).  You can see their consistency levels at
+various limits at <http://library.wustl.edu/~manynote/consist4.txt>.
+
+It's diameter, not radius, please, and yes, an ET having a diameter less
+than or equal to its consistency level is a desirable property in my
+book.  I think of it being "quasi-JI-like", in a way.
+
+It's kind of hard to represent on a 2D screen with ASCII characters what
+I would do with a 4D 9-limit lattice, but here's a go:
+
+    10/9 --- 5/3 --- 5/4
+     / \     / \10/7 / \
+    /   \   /   \   /   \
+   /14/9 \ / 7/6 \ / 7/4 \
+16/9 --- 4/3 --- 1/1 --- 3/2 --- 9/8
+           \ 8/7 / \12/7 / \ 9/7 /
+            \   /   \   /   \   /
+             \ / 7/5 \ /     \ /
+             8/5 --- 6/5 --- 9/5
+
+This is a projection of part of the 3D 7-limit lattice into a plane.
+The triangles are in the 3-5 plane, and the ratios inside the triads are
+either one layer above or below depending on whether they're inside
+major or minor triads.  This shows all pitches separated from the 1/1 by
+intervals I consider consonant or primary within the 9-limit; however,
+without drawing lines which intersect and become confusing I can't
+draw lines for all those intervals, even when I'm not restricted to
+ASCII art.  Several of the 9-limit intervals look like secondaries
+instead of primaries when represented this way.  In 4 dimensions it
+would look like this:
+
+                     5/3 --- 5/4
+                     / \10/7 / \
+    10/9            /   \   /   \         3/2 --- 9/8
+     / \           / 7/6 \ / 7/4 \          \ 9/7 /
+    /   \        4/3 --- 1/1 --- 3/2         \   /
+   /14/9 \         \ 8/7 / \12/7 /            \ /
+16/9 --- 4/3        \   /   \   /             9/5
+                     \ / 7/5 \ /
+                     8/5 --- 6/5
+
+The tetrad on the left would be the 3D layer "below" the middle one in
+4D space, and the one on the right the layer "above".  All primary
+9-limit intervals could then be seen as being one step away from the
+origin.  If, as I said, we were 5-dimensional beings who could use
+4-dimensional paper.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

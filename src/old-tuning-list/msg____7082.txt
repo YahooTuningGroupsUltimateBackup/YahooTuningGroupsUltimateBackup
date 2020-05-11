@@ -1,0 +1,55 @@
+source file: mills3.txt
+Date: Thu, 29 Jan 1998 05:42:39 +0100
+
+Subject: Electronic tuner ad JI
+
+From: Alexandre Enkerli <enkerli@iname.com>
+
+Hello to all!
+I was practicing with an electronic tuner and was thinking about just
+intervals and how to practice them.
+I play tenor in a classical saxophone quartet, so I'm used to thirds. But
+trying to tune them with an electronic tuner isn't that obvious. So I
+wanted to calculate how to calibrate the tuner to give me a just third at
+440Hz. What I calculated was around 443.6 so I guess 444 will do fine but
+I'd be glad to hear some advice from you.
+BTW, what do you think of available automatic tuning software such as
+Frequency Meter, Oscilloscope 2.0 and the "Perfect Pitch" products?
+Obviously, a software JI tuner could be a very practical tool for some of
+us. I wonder why it should be *that* complicated to do.
+Apart from that, I'm currently playing with a Malian musician who tunes
+the six-strings of his instrument (a harp-lute similar to the kora) in
+something similar to the second mode of a major pentatonic scale but I
+haven't been able to precisely check his tuning. Apart from checking each
+string with an electronic tuner (which seems somewhat unscientific), what
+method would you recommend?
+Anyway, TIA for any help.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  bq912@freenet.uchsc.edu (Neil G. Haverstick) 
+Subject:  forum CD is happening
+PostedDate:  29-01-98 07:40:19
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  29-01-98 07:39:29-29-01-98 07:39:30,29-01-98 07:38:15-29-01-98 07:38:15
+DeliveredDate:  29-01-98 07:38:15
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125659B.00248FA0; Thu, 29 Jan 1998 07:39:20 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01139; Thu, 29 Jan 1998 07:40:19 +0100
+Date: Thu, 29 Jan 1998 07:40:19 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA01137
+Received: (qmail 5143 invoked from network); 28 Jan 1998 22:39:32 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 28 Jan 1998 22:39:32 -0800
+Message-Id: <199801290636.XAA09104@freenet.uchsc.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

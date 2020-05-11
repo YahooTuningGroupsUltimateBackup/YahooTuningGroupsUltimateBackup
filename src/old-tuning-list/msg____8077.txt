@@ -1,0 +1,96 @@
+source file: m1447.txt
+Date: Sun, 14 Jun 1998 12:28:19 -0400
+
+Subject: RE: Commas and Consistency
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>In Intervals, Scales and Temperaments (p133) Hugh Boyle defines the
+>syntonic comma (81/80, or 21.506 cents) in a couple of the usual ways,
+>and then goes on:
+
+>'In musical performance, this comma should not be thought of as the
+>problem it presents to the tuner of keyboard instruments, but as a
+>somewhat elastic interval depending, as it must, on the ear's ability
+>to estimate intervals under varying circumstances. Further, if the
+>musical instinct of the artist for melody or for concord compels him
+>to make a small adjustment of this kind in the width if his intervals,
+>then any subsequent readjustment felt necessary can easily be
+>absorbed, without offending the ear, in a discord, which, because of
+>its dissonance, is lacking in definition.'  
+
+For flexibly-pitched instruments, that's fairly on the money.
+
+>Therefore, going from what Pauls H and E wrote - is a  *disappearing* 
+>comma something which belongs exclusively to the logic of a 
+>temperament?  Or is the phrase 'disappearing comma' sometimes used 
+>equally to refer to intonational 'disappearance' in commatic 
+>performance adjustments?
+
+The latter meaning strikes me as more useful, and the former is just a
+special case of the latter.
+
+>I'll try.  Is there an historically accepted limit to the size of 
+>what will work as an effective 'performance comma' - (that is, from a 
+>traditional harmonic point of view)?  Is that a question which is too 
+>subjective to worry about? I have always assumed it could not be more 
+>than about 21-24 cents.  I've tried some experiments with various 
+>conventional and unconventional progressions, and in differing 
+>temperaments and timbres, but so far they are inconclusive.
+
+Barbershop harmony seems to be able to take the septimal comma, which
+would be 27 cents in just intonation, and by adjusting the (harmonic
+and/or melodic) intervals in the comma's context, and/or shrinking the
+comma itself, make it an effective "performance comma".
+
+>Now, the reason I started looking at this is because I have been 
+>trying to work out some ideas about consistency.   It occurred to 
+>me, as both Pauls reactions seem to confirm, that the ancient notion 
+>of a 'comma' is (kind of) the original root of the idea of 
+>consistency. 
+
+I don't see it.
+
+>(i) choose the n-ET and the m-limit to be considered; 
+>(ii) list the intervals which belong to the primary m-limit; 
+>(iii) find the primary m-limit interval which is least well
+>approximated by the chosen n- ET; 
+>(iv) add this interval to itself until the deviation from its 
+>intended equivalent is greater than (1200/2n) cents; call the number 
+>of additions at this point t. 
+>(v) then n-ET is level-(t-1) consistent at the m-limit.
+
+This certainly doesn't work for level 1 consistency. Is this the thing
+that happens to work for higher levels? If so, how are you defining
+"primary" and "number of additions"?
+
+>If we replace the expression (1200/2n) with (1200 x 21506/10000n) we 
+>might track 'consistency' relative to the sytonic comma - which I 
+>have assumed is the traditionally acceptable ambit of intonational 
+>wandering in 'commatic situations'.  But I wanted to know if my 
+>assumption was grounded.
+
+It strikes me that you're drawing a false connection between commas and
+consistency, and therefore trying to kill one bird with two stones. If
+the comma vanishes consistently, then all commatic situations will be
+completely well-behaved by traditional criteria. If the comma doesn't
+vanish, consistency (of any kind) or no, the rules that govern the
+general performance situation apply. The consistency of a tuning,
+relative to half a step or any other measure, is neither sufficient nor
+necessary to guarantee that the commatic situations can be handled.
+
+>> commas constructed from n-limit intervals are uniquely defined in all
+
+>>tunings consistent within the n-limit. Given consistency, the 
+>>determination of the size of a comma in an ET is fairly trivial.  
+
+>and I wonder if Paul would give us a couple of examples of what he 
+>means?
+
+For the syntonic comma, calculate the difference between four 3/2s up
+and a 5/4 down. If the tuning is 5-limit consistent, then this will be
+the same as the (absolute) difference between three 3/2s up and a 5/3
+down. In 19-tone equal temperament, four 3/2s up is 6 steps (neglecting
+octaves), and that is the 5/4, so the comma is 0 steps. In 22-tone equal
+temperament, four 3/2s up is 8 steps, but the 5/4 is 7 steps, hence the
+comma is 1 step.

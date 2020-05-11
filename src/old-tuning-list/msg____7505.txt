@@ -1,0 +1,89 @@
+source file: m1390.txt
+Date: Sun, 19 Apr 1998 13:40:01 -0700
+
+Subject: Re: TUNING digest 1389, Daniel Wolf's query
+
+From: csz@wco.com (Carter Scholz)
+
+Daniel Wolf writes:
+
+===============
+I am in the process of revising an old article. It
+concerns a scale with the following properties:
+
+(1) There are seven pitch classes in the system,
+which I will number ascending from 1 to 7. Octave
+equivalence is assumed, but may actually vary to
+create beating for coloristic or perhaps a
+vibrato-like effect to cover the difference of the
+tuning from a small-number-ratio just intonation.
+
+(2) There are three distinct pentatonic 'keys',
+beginning at degrees 1 (12 456), 2 (23 567) and
+5 (56 123) of the seven tone system, that is to
+say, at 'fifths' apart.
+
+(3) the intervals 1-5, 2-6 and 3-7 are recognizable
+as 'fifths' (let's say +/- 25 cents of a 3/2) and
+are used as dyads.
+
+(4) 5-2', 6-3', and 4-1' _may_ be recognizeable as
+fifths. The interval 7-4' is not used as a dyad.
+
+(5) the intervals 1-2, 2-3 and 5-6 are between 80
+and 190 cents apart.
+
+(6) the intervals 1-2-3, 4-5-6, and 5-6-7
+encompass an interval between an 8/7 and a 6/5.
+
+(7) the interval 1-2 is smaller than 2-3 and the
+interval 5-6 is smaller than 6-7. (The relationship
+between the intervals 4-5 and 5-6 is not so fixed).
+
+I am interested in what kinds of tunings others can
+come up with that will meet the above specifications
+in order to find out if the set of specifications
+above is sufficient and necessary. Anyone game to try?
+===============
+
+Daniel,
+
+This sounds like a generalized definition of Javanese pelog.  If so, I
+would question condition (1).  In some if not most pelogs I've studied, 2-6
+can be more than 50 cents narrower than a 3/2.  It seems generally to be
+slightly flatter than the 1-5 and 3-7 dyads, even though it is, in Javanese
+theory, the same interval.  I also question whether 1-2 is always smaller
+than 2-3, and whether 4-6 is always or even usually larger than an 8/7.
+The other conditions seem to me accurate constraints on pelog.
+
+Parenthetically, re condition (2): as I'm sure you know, 4 is a subsidiary
+tone in pelog lima, an alternate to 3; and some gendhing use all 7 tones;
+so the boundaries between the three "keys" are not strict.  In KNOWING
+MUSIC, MAKING MUSIC, Ben Brinner writes, "The difference between pieces in
+pelog lima and pelog nem is so obscure that some musicians ignore the fuzzy
+boundary and group them together as pathet bem."
+
+But to your question.  Only conditions (3), (5), (6), & (7) put hard
+constraints on the scale construction.  Satisfying them keeps the pitches
+in these ranges:
+
+pitch  cents range  conditions met
+1      0
+2      80-157       (80-190 cts above 1 and less than half 1-3)
+3      231-316      (231-316 cts above 1)
+4      439-684      (231-316 cts below 6)
+5      675-725      (675-725 cts above 1)
+6      755-875      (675-725 cts above 2 and less than half 5-7)
+7      906-1041     (231-316 cts above 5)
+
+This is not to say that any and all pitches in these ranges will satisfy
+the conditions.  Condition (7) must be met for pitches 2 and 6 after fixing
+pitches 3 and 7.
+
+Are you looking specifically for small-number ratios?
+
+To guarantee a functional pelog, I wonder if you might also need to
+constrain the 6-7 interval (already >80 cents, but usually a good deal
+larger), and possibly the 3-4 (usually at least twice as large as 4-5).
+
+--Carter

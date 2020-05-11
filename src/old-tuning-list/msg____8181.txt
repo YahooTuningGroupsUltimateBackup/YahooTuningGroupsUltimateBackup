@@ -1,0 +1,38 @@
+source file: m1455.txt
+Date: Tue, 23 Jun 1998 15:10:49 +0000
+
+Subject: Re: Commas and Consistency
+
+From: kollos@cavehill.dnet.co.uk (Jonathan Walker)
+
+Paul H. Erlich wrote:
+
+> ... The consistency issue which
+> Graham Breed is referring to involves the traditional definition of 
+> the syntonic comma as the difference between an octave and a major 
+> sixth up, and three perfect fifths up. Many equal temperaments have a 
+> better approximation to the major sixth than the best approximation of 
+> a major third plus the best approximation of a perfect fourth. 
+> Therefore two distinct syntonic commas can be defined for such equal 
+> temperaments. 5-limit consistency means that the best approximations 
+> of the perfect fifth/fourth, the major third, and the major sixth are 
+> all compatible. Given 5-limit consistency, then, there can be only one 
+> syntonic comma. ETs that are not 5-limit consistent include 11, 17, 
+> 20, and 21.
+
+Thanks, Paul, for your definition of the "consistency" which was at
+issue. A 5-limit consistent ET, unless I misunderstand you, would then
+be definable as any ET of which the proposition
+
+abs ( 4f(3/2) modn - f(5/4) ) = abs ( f(4/3) + f(5/4) - f(5/3) )
+
+is true, where for any real x, f(x) = [1/2 + log_2 x], and presumably
+where the value of the expressions on each side is greater than 0. Is
+this what you effectively mean?
+
+Jonathan Walker
+
+------------------------------
+
+End of TUNING Digest 1455
+*************************

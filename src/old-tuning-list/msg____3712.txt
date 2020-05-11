@@ -1,0 +1,78 @@
+source file: mills2.txt
+Date: Wed, 2 Oct 1996 02:44:49 -0700
+
+Subject: TUNING digest 852: _Stability_
+
+From: Daniel Wolf <106232.3266@compuserve.com>
+
+I will write a more detailed response when I can get away from some urgent
+business. 
+
+(1) I am rather apprehensive about the use of _stability_ to characterize a
+single chord. From Pauls definition, a /4:/5:/6 minor triad, lacking a
+power of two in the lowest voice, is less _stable_ than a Major 4:5:6.
+However, when placed in a progression, it may very well have the opposite
+reading. For example, if the tonic key is established as minor, than the
+Major dominant triad will _resolve_ to the tonic minor triad. Of course the
+root motion of the downward fifth (or upward fourth) is a strongly defining
+feature, but this ordering of chord qualities is well established in the
+_common practice_ repertoire (or else we would find more mixolydian
+cadences).  In this case, key identity, spacing, and voice leading from one
+chord to the next are equally or more determinant of _stability_ than
+rootedness. Further, all of these determinants seem  largely to be examples
+more of conditioning rather than of psychoacoustic properties. (The
+existence of alternative practices in other repertoires (eg _modal_
+progressions in pop musics) both confirms the locality of the conditioning
+described above, and the varieties of progressions encountered in these
+repertoires suggest the inapplicabilty of a _stability_ concept outside of
+narrowly defined diachronic contexts). 
+
+(2) On the other hand, _stability_, in a musical context without
+repertoire-defined harmonic progression may be achieved by means of
+extended durations or by reiterations. In this case, the conditioning is
+taking place in real time (Pavlov meets Stravinskys _assertion_ of
+tonality), and the examples of this that I find immediately suggest that
+lowest voice, 2^n roots are not a prerequisite to achieving stability.
+
+(3) Back to sine waves. The argument that Paul used against my sine wave
+subharmonics can be turned around and applied to regular harmonic-spectra
+harmonic pitch complexes, where the reinforcement of a single series will
+create masking so that individual pitches will be difficult if not
+impossible to discern. (This was my initial rationale for the _sine wave
+orchestra_; long experience with synthesized sound and precise tuning had
+convinced me that the situation has to be simplified in order to get any
+useful results at all).
+
+(4) The intuitionist (like an algorithm maker, or a student of musical
+cognition) proceeds in strictly chronological steps. If from the unity 1:1,
+the twoity is observed, and from the sum of 1+1, 2 is constructed, yielding
+the first harmonic interval, only then may the first subharmonic (the
+inversion) be constructed. In constructing the series, the subharmonic will
+always lag behind. Of course, another fundamental approach will have all
+intervals appear simultaneously, but I am lost in trying to figure out how
+that is described cognitively.
+
+(5) I never said that mathematics goes funny at the infinitesimal, I made
+the observation that the calculation in this direction is counterintuitive,
+and I speculated about why it should be so. Your examples of string lengths
+etc. I found curious, as the (pre-wave length) music theory using this
+instrumentality was inversionally flexible in the extreme, and ran counter
+to Pauls strong harmonic series approach. (Needless to say, classical
+harmonics was used to describe a repertoire without chords). There is
+indeed a (mathematical and physical) boundary problem for the infinitesimal
+(with null or the vacuum) that the infinite does not have.
+
+Daniel Wolf 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 2 Oct 1996 17:57 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04020; Wed, 2 Oct 1996 16:57:48 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04011
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA00832; Wed, 2 Oct 1996 08:57:41 -0700
+Date: Wed, 2 Oct 1996 08:57:41 -0700
+Message-Id: <63961002154336/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

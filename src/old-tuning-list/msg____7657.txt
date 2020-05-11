@@ -1,0 +1,27 @@
+source file: m1404.txt
+Date: Mon, 4 May 1998 10:08:05 -0400 (EDT)
+
+Subject: Re: JI Tuning Resolution
+
+From: Steven  Rezsutek <steven.rezsutek@hq.nasa.gov>
+
+mr88cet@texas.net (Gary Morrison) writes:
+
+> I get the impression that Emu's stand-alone MIDI synthesizers,
+> however, can do arbitrary tuning tables.  Is that true?
+
+Being an E-mu owner, I'd say "yes with limitations". 
+
+The module I have (Classic Keys, part of the Proteus series, I
+believe) does have a user definable tuning table, and it can
+be used to tune individual MIDI notes arbitrarily.  
+
+The limitation?  It uses 768TET.  Courtesy of the highly enlightening
+discussion that was/is going on, I know now why this is less than
+ideal.  As a practical matter, when I tuned up 22TET on the thing, I
+had some errors to distribute equitably around the octave, some of
+which are as much as .7 cents (1/2 of a tuning unit).  It's good
+enough for my purposes, but I suspect that others would find it
+otherwise.
+
+Steve

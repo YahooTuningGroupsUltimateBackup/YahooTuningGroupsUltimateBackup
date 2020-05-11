@@ -1,0 +1,46 @@
+source file: mills2.txt
+Date: Wed, 6 Nov 1996 07:05:14 -0800
+
+Subject: Re: Greetings & a project proposal
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> I would like to try to use the pitch bend technique of tuning, where
+> each channel is initially given a pitch bend and then all notes with
+> that offset from ET are played on that channel  (i.e. all C's on chan 1,
+> all C#'s on chan 2, etc.).  At least that is a scheme I remember someone
+> proposed somewhere.  This seems to me quite a general technique that
+> doesn't tie me to one machine. 
+
+   I know what you mean about it not tying you to one machine.  In two very
+different ways though, it does tie you to one machine.  
+1.  It pretty much ties you to one timbre since 12 (presumably you'd do all 12
+    pitch classes) of your 16 channels will be tied up to play a single 
+    timbre.  Now I'm not suggesting that there's anything wrong with composing
+    in one or two timbres of course, but that is a limitation, be it desirable 
+    or not.  
+2.  As far as I can tell from the MIDI spec, there is no standard amount of 
+    pitch deflection that a give amount of change in pitch-wheel value should
+    produce.  I would not be surprised if there is a defacto standard, perhaps
+    whatever the DX-7 does or something to that effect.  Similarly, I know of 
+    no guarantee that all instruments will bend pitch consistently with each
+    other.  By that I mean that, best I can tell from the MIDI spec alone at
+    least, some instruments could bend pitch in proportion to frequency, some
+    in proportion to log frequency, and some in proportion to period, if they
+    so desire.  Again, there may be a defacto standard that will save you.  
+
+   Perhaps somebody will correct me if I'm wrong.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 6 Nov 1996 19:52 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05892; Wed, 6 Nov 1996 19:53:24 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA05887
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA08520; Wed, 6 Nov 1996 10:53:18 -0800
+Date: Wed, 6 Nov 1996 10:53:18 -0800
+Message-Id: <327F7DA6.3B43@mbox.vol.it>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

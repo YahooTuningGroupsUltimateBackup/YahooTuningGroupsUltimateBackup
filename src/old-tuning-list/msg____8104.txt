@@ -1,0 +1,48 @@
+source file: m1449.txt
+Date: Tue, 16 Jun 1998 16:34:05 -0400
+
+Subject: Defining "Just" Intonation and "Consonance"
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+Benjamin Tubb wrote,
+
+>Just Intonation Ratio Limits [with respect to the denominator]
+
+The term "limit" is normally used to refer to the highest odd or prime
+factor to be found looking at BOTH the numerator and denominator. If the
+denominator alone is really intended, then it is probably not valid to
+use octave equivalents as you have done.
+
+>Does anyone have any comment as to why the following list of "just"
+intervals
+>isn't otherwise accepted for the most "consonant" use insofar as they
+are based
+>on the second most consonant interval of a Perfect Fifth besides the
+Octave.
+
+The ear doesn't care what an interval is "based" on. The various
+psychoacoustical models of dissonance (covered now and then on the list)
+essentially state that the simplest ratios will be most easily
+perceived, but beyond a certain point (about 17/13 or 19/13 in various
+members' experience) the exact ratio (if there is one) ceases to be
+relevant and the degree of approximation to simpler ratios is the only
+important factor. Thus, in your list of Pythagorean ratios, 
+
+M3   8182/6561       384.36
+
+(which should really be 8192/6561) is actually very consonant, despite
+its complex ratio, since it is only 2 cents off a just 5/4.
+
+>Essentially,
+>I'd like to know what is the definition of "just" intonation and how
+"should"
+>it be applied.
+
+Just Intonation will typically give many different ratios for a given
+interval, depending on how that interval is arrived at via simple,
+consonant ratios. The typical use of the term really means 5- (prime)
+limit JI, as opposed to 3- (prime) limit JI which is referred to as
+Pythagorean tuning, and higher limits which have no fully accepted
+terminology as of yet. I think it should only be applied within the
+limits of what it is possible to hear. Listen!

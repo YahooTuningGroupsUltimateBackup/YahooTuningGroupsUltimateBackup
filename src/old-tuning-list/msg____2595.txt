@@ -1,0 +1,28 @@
+source file: mills2.txt
+Date: Wed, 28 Feb 1996 17:17:24 -0800
+
+Subject: Ensoniq MR-Rack pitch resolution
+
+From: non12@delta1.deltanet.com (John Chalmers)
+
+I just got a letter from Erv Wilson who has a question about
+the new Ensoniq MR-Rack. Does it really support the new MIDI
+Tuning Standard? Erv can easily hear a 2 cent interval and finds the 
+current 1024 and 728 tone/octave M(pitch resolutions far too coarse 
+for his work.
+ 
+For my own information, is the new MIDI Tuning Standard really 
+196,608 tones (1/(3x2^16)) per octave?
+ 
+--John
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 29 Feb 1996 06:23 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id VAA20009; Wed, 28 Feb 1996 21:23:04 -0800
+Date: Wed, 28 Feb 1996 21:23:04 -0800
+Message-Id: <9602282219048574@csst.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

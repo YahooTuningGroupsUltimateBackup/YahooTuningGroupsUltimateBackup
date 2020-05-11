@@ -1,0 +1,55 @@
+source file: mills2.txt
+Date: Thu, 19 Oct 1995 10:37:43 -0700
+
+Subject: Meantone & kleisma
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+Here are two meantone scales where the kleisma is made away. I haven't 
+seen them before, so they are probably of theoretical interest only.
+The kleisma is 15625/15552 or about 8.1 cents and the difference 
+between five fifths and six major thirds plus an octave.
+The first is almost indistinguishable from 1/5-comma meantone.
+
+  1:      16384/15625        82.11775
+  2:        194.891 cents    194.8910
+  3:        307.664 cents    307.6641
+  4:        389.782 cents    389.7821
+  5:        502.555 cents    502.5552
+  6:        584.672 cents    584.6723
+  7:        697.445 cents    697.4453
+  8:        779.563 cents    779.5633
+  9:        892.336 cents    892.3364
+ 10:       1005.109 cents    1005.109
+ 11:       1087.227 cents    1087.227
+ 12:          2/1            1200.000
+
+  1:      16384/15625        82.11775
+  2:        207.153 cents    207.1530
+  3:        289.271 cents    289.2711
+  4:        371.388 cents    371.3881
+  5:        496.424 cents    496.4242
+  6:        578.541 cents    578.5413
+  7:        703.576 cents    703.5762
+  8:        785.694 cents    785.6943
+  9:        910.729 cents    910.7294
+ 10:        992.847 cents    992.8474
+ 11:       1074.965 cents    1074.965
+ 12:          2/1            1200.000
+
+The first is also close to 74 and 117-tET and the second to 29-tET.
+Equal temperaments wherein the kleisma disappears are 15, 19, 23, 30, 
+34, 38, 49, 53 and more.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 19 Oct 1995 22:01 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id NAA11714; Thu, 19 Oct 1995 13:01:03 -0700
+Date: Thu, 19 Oct 1995 13:01:03 -0700
+Message-Id: <E124ZVZMMOXLN*/R=UCVAX/R=A1/U=WATHENMJ/@MHS>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

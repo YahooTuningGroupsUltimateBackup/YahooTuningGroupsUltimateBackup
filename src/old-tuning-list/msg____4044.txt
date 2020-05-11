@@ -1,0 +1,218 @@
+source file: mills2.txt
+Date: Sun, 17 Nov 1996 11:58:47 -0800
+
+Subject: From Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: a blizzard of misinformation
+--
+Paul Erlich is a very smart fellow who has done
+commendable work in looking up valuable references.
+Alas, Paul often has a tendency to shoot from
+the hip, based on incomplete or out-of-date info.
+Such an example occurred when Paul Erlich
+wrote that "the preference for stretched
+intervals only occurs in melodic, not harmonic,
+intervals" (or words to that effect).
+This is a common enough canard, and it turns
+out to be untrue.  In actual fact unbiased listeners
+uniformly tend to hear *both* melodic *and*
+vertical intervals which are stretched as
+"pure" and "just," while they tend to hear
+unstretched small-integer ratio harmonic
+*and* melodic intervals as "too narrow" and
+"impure."
+(I mention "unbiased" because it is always 
+possible to train yourself to recognize any
+kind of interval from its beat structure if 
+you confine yourself to a narrow range
+of very restricted integer-harmonic timbres. 
+This is why A-B-X tests using a wide variety
+of different timbres in an objective psychoacoustic
+experiment are so important.  Simply setting
+up a synthesizer and playing such-and-such
+and interval and saying, "Oh, I can hear that
+the interval is [fill in the blank]" is useless
+in probing the human auditory system, since
+you know what to listen for and thus have
+unwittingly biased yourself.)
+The evidence that listeners hear *both*
+stretched harmonic *and* melodic intervals as 
+"pure" is cumulative,  the data have been confirmed
+by hundreds of experiments, and the evidence goes
+back more than 160 years.  C.J. Delezenne
+in "Memoires sur les valeurs numeriques des
+notes de la gamme," in Recueil des travaux
+de la Societe des Sciences de Lille, 1826-1827,
+was the first researcher to identify *both*
+melodic *and* harmonic preference for
+stretched intervals.  Delezenne used an
+adjustable monochord and meticulously
+recorded the values his test subjects
+heard as "pure" intervals in terms of
+fractions of a Pythagorean comma (cents
+were not yet a measurement in use).
+The next researchers who duplicated these
+results were Cornu and Mercadier, who used
+a phonautograph (as scholars, you know what
+this instrument is and require no explanation)
+and by examination of the tracings on the
+lampblack-coated camphorated cellulose
+strips Mssrs. C & M were able to calculate
+with precision the frequency of sounds impinging
+on the phonautograph.  Cornu & Mercadier
+found that the mean intonation for a vertical
+dyad heard as a "pure" major third was
+1.251, close to but sharper than the just
+5/4; a consecutive-tone series of tests on
+musical subjects yielded the much sharper
+value of 1.2666 for melodic "just" thirds.
+See Cornu & Mercadier, "Sur les intervalles
+musicaux," Comptes Rendus de l'Academie
+Royale des Sciences, 1869a, pp. 301-308
+for proof.
+In 1876 Preyer found that vertical intervals
+as large as 397 cents were still identified
+by some subjects as "pure major thirds." 
+Preyer's results are suggestive, but not
+conclusive, since he gave his data in terms
+of an "index of sensitivity" to intervals 
+rather than in terms of analysis of variance,
+as would be done today. Preyer's value
+for the "pure" major third represents a 
+weighted average of the minimum and maximum
+values cited by test subjects. For details, see 
+Preyer, W. T., Ueber die Grezen der Tonwahremung,
+Jena, 1876.
+In 1897-8 the extremely underrated acoustician
+and music theorist Carl Stumpf studied perception
+of the minor third by test subject under 3
+conditions: melodic ascending, melodic descending,
+and simultaneous dyad.  His results show a marked
+asymmetry in the spread of sharp vs. flat intervals
+judged "pure." For the minor third, this means that
+the test subjects were more inclined to accept 
+considerable flatting that slight sharping.  Stumpf
+concluded that the "point of subjective purity" 
+shifted toward flat minor thirds.  
+He conducted the same series of tests with major
+thirds and found exactly the opposite tendency.
+For major thirds, the point of subjective purity shifted
+toward sharp thirds.  Melodic intervals had to be tuned
+significantly sharper to be perceived as "pure"
+than simultaneous dyad major thirds, but *both*
+had to be sharper than just to be perceived as
+"pure."  See Stumpf, C., and H. F. Meyer,
+"Massbestimmungen ueber die Rienheit 
+consonanter Intergvals," in Beitraege zur
+Akustik und Musikwissenschaft, Vol. 2, 1898,
+for full details.
+Moran and Pratt tested melodic and vertical
+intervals but didn't give detailed breakdowns:
+they state merely that there is an average error 
+of 18 cents for the intervals of the 12-TET scale.
+They did, however, find that subjects were more
+likely to hear intervals chosen from equal
+temperament as "pure" and "just" than intervals
+chosen because they exhibited small integer
+ratios.  It's unclear whether this was due to
+the effect of familiarity with 12-tet, however.
+See Moran , H. and C. C. Pratt, "Variability of
+Judgments On Musical Intervals," J. Exp. Psych.,
+Vol. 9, 1926, for more info--but not much more.
+The article is very short on details, alas.
+P.C. Greene cites exhaustive stats shows a
+marker preference for melodic Pythaogrean
+thirds: see Greene, P.C., "Violin Performance
+with Reference to Tempered, natural and
+Pythaogrean Intonation," Iowa Studies in
+Muisc, Vol. 4, pp. 232-251, 1937, also
+see Greene's JASA study published in the
+same year.
+Incidentally the entire University of Iowa
+Studies series supervised by Seashore remain
+a remarkable resource. I heartily recommend
+these to *every* microtonalist as a compendium
+of what performers actually *do*, as opposed
+to the intervals they *claim* they play.
+The second world war pretty much shut down
+psychoacoustic research, so the next
+significant papers on the subject are from
+the late 1940s and the 1950s.
+J. F. Nickerson, in "A Comparison of Performance
+of the Same Melody in Solo and in Ensemble with
+Reference to Equi-Tempered, Just and,
+Pythagorean Intonation," PhD thesis, University 
+of Minnesota, 1948, found the same perception of
+stretched melodic *and* harmonic intervals as
+"pure"  (although as usual melodic intervals had
+to be stretched  more widely than vertical
+dyads before they were heard as "pure" or "just"
+or "in tune.").
+There are so many studies from the 1950s
+and 1960s and 1970s that I will cite only
+3 more: Ward, W. D., "Music Perception" in
+Foundations of Modern Auditory Theory, Ed.
+J. V. Tobias, 1970--more support for my
+statement and more contradiction of Paul
+Erlich's claim that listeners do not perceive
+stretched vertical dyads as "just" and just
+vertical dyads as "too narrow" and "impure."
+In 1975 Terhardt and Zick published an
+extremely interesting paper which links
+the accompaniment of a melody with the
+intervals heard as "pure." Some types
+of accompaniment required intervals
+be stretched to be heard as "pure," while
+other types of accompiment required that
+all intervals be contracted to be heard
+as "pure." This applies to the vertical
+intervals of the accompaniment as well
+as to the consecutive intervals of the melody.
+See Tehardt, E., & Zick, M., "Evaluation of
+the Tempered Tone Scale in Normal, 
+Stretched and Contracted Intonation,"
+Acustica, Vol. 32, 1975, pp. 268-274.
+The most recent reference which refutes
+Paul Erlich's claims and proves my 
+statement of fact is Sundberg, Johan,
+"The Science of Musical Sounds," 
+The Academic Press: New York, 1991, 
+page104: "In the case of the octave,
+the craving for stretching has been
+noticed for both dyads and melodic
+intervals."  Table 4.12 on Sundberg's page
+102 gives "Average sizes and standard
+deviations for dyads between vibrato
+tones adjusted by musically experienced
+listeners."  Average for M2nd is 199 cents,
+for Major third was 402 cents, for perfect
+fifth 704 cents, for octave 1204 cents.
+Notice that these are in fact dyads.
+As mentioned, Paul Erlich is a smart
+fellow with good intentions but occasionally
+he does miss the mark by making a claim
+which isn't based on fact.  His posts contain
+more errors than other people's posts merely
+because Erlich posts more useful information
+than most other subscribers.  The total amount
+of incorrect information in Erlich's posts as
+a percentage is actually quite low.
+--mclaren
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 17 Nov 1996 23:09 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11043; Sun, 17 Nov 1996 23:10:31 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA13095
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA19919; Sun, 17 Nov 1996 14:10:29 -0800
+Date: Sun, 17 Nov 1996 14:10:29 -0800
+Message-Id: <961117170850_1419612455@emout19.mail.aol.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

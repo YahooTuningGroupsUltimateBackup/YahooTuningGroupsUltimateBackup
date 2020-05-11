@@ -1,0 +1,25 @@
+source file: m1445.txt
+Date: Fri, 12 Jun 1998 15:33:54 -0400
+
+Subject: RE: TUNING digest 1444
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>> >I'm having difficulty imagining an ET like this--can you give me an
+>> >example of such an ET, and then I'll try Fokker's method on it?
+> 
+>> In all the cases you've mentioned so far, it is the case that the ETs
+>> have no better approximations to the just intervals than the ones
+>> represented by one step along the axes.
+
+>No, I meant can you give me an example of an ET which _does_ have a
+>better approximation.
+
+I would guess that 24tET would be a good example, since its best
+approximations of 3 and 5 coincide with those of 12tET, so the only way
+to generate it with Fokker's method would be to choose some rather large
+"comma" to vanish. For example, if the chromatic semitone vanishes, then
+(1 -2) is a unison vector, and then if the Pythagorean comma vanishes as
+well, (12 0) is a unison vector, and the determinant is
+(1*0)-(-2*12)=24. The 5 axis is then represented by 7deg24, while 8deg24
+is of course a better approximation.

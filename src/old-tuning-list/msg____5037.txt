@@ -1,0 +1,65 @@
+source file: mills2.txt
+Date: Mon, 10 Mar 1997 09:27:24 -0800
+
+Subject: mapping spectra
+
+From: William Sethares <sethares@eceserv0.ece.wisc.edu>
+
+A recent thread reads:
+
+" Each chemical element is uniquely identifiable in the 
+electromagnetic spectrum by its special set of unique frequencies.  
+These frequency sets interact to produce more complexly unique 
+cycle frequencies, which are unheard by human ear but which 
+resonate just as do humanly hearable musical chords or dissonances."
+
+to which Gary M. replied...
+
+   Interesting...  It would be curious to hear the chords produced by 
+the absorption patterns of various chemical elements and 
+compounds, after transposing them down some enormous number of 
+octaves. Were I to guess though, it would be little more than a 
+curiosity.  I personally doubt if they would have any particularly 
+significant meaning to our ears.  The two physical/physiological 
+mechanisms are far too unrelated for there to be much correlation.  
+
+A few years ago, Tom Staley and I wrote an article called "Sounds of 
+Crystals" in Experimental Musical Instruments (EMI) that did 
+something very similar (ref. below). We looked at x-ray diffraction 
+patterns (spectra) and mapped them into the audio spectra. Many of 
+the resulting sounds were exceedingly complex (*very* many 
+nonharmonic partials), but there were some real standouts. One of 
+our favorites was the sound of the morphine crystal, which we used 
+for a piece titled "Duet for Morphine and Crystal" that appeared in 
+the EMI compilation cassette that year. 
+
+Though it can be an interesting way of generating "new" sounds, I 
+would agree with Gary's assessment that there is nothing inherently 
+significant about the sounds - for instance - the effects of listening to 
+the morphine derived sounds in no way have the same effects as 
+consumption of the material itself. 
+
+In the same issue of EMI, there is also an article by Susan Alejander 
+called DNA tunings that uses data from DNA sequences to generate 
+interesting tunings that she then plays on a synth.
+
+W. A. Sethares and T. Staley, ``Sounds of crystals,'' Experimental 
+Musical Instruments, Vol. VIII, No. 2, Sept. (1992). 
+
+and 
+
+S. Alexjander, ``DNA tunings,'' Experimental Musical Instruments, Vol. 
+VIII, No. 2, Sept. (1992). 
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 10 Mar 1997 18:59 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA00768; Mon, 10 Mar 1997 18:59:48 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA00766
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id JAA02068; Mon, 10 Mar 1997 09:57:56 -0800
+Date: Mon, 10 Mar 1997 09:57:56 -0800
+Message-Id: <009B110D18CFE75F.6887@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

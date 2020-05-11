@@ -1,0 +1,56 @@
+source file: mills3.txt
+Date: Wed, 1 Oct 1997 18:12:50 +0200
+
+Subject: Re: Re MIDI Tuning Spec
+
+From: alves@orion.ac.hmc.edu (Bill Alves)
+
+>It would be much nicer if we could
+>compel every manufacturer to include 64 or 255 tuning tables, all accessible
+>and switchable the same way.  We can't, so instead we wrote a (mostly
+>ignored and obsolescent) standard so that at least the sysex codes might be
+>the same for different instruments.
+>
+>Still, to use the standard practically for dynamic JI you need some
+>software pre-processing tool (like Justonic).
+
+Or switch to ZIPI instead of MIDI, where every note is addressable (as
+opposed to channels) and there is a much higher bandwidth. But I don't see
+the manufacturers rushing out to implement that on their products either.
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)607-7600 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Rune Bystrom <rbystrom@puppis.ls.eso.org>
+Subject:  Ensoniq MR-rack resolution
+PostedDate:  01-10-97 18:38:37
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  01-10-97 18:38:13-01-10-97 18:38:13,01-10-97 18:37:09-01-10-97 18:37:09
+DeliveredDate:  01-10-97 18:37:09
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256523.005B609F; Wed, 1 Oct 1997 18:38:05 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04018; Wed, 1 Oct 1997 18:38:37 +0200
+Date: Wed, 1 Oct 1997 18:38:37 +0200
+Message-Id: <9710011638.AA04018@ns.ezh.nl>
+Received: from ella.mills.edu by ns (smtpxd); id XA04008
+Received: (qmail 14808 invoked from network); 1 Oct 1997 09:38:34 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 1 Oct 1997 09:38:34 -0700
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

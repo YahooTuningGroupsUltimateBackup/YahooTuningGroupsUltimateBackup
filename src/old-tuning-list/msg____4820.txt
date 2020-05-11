@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Mon, 17 Feb 1997 19:55:29 -0800
+
+Subject: [Fwd: GhostTones   ?]
+
+From: Gary Morrison <MorriSonics@compuserve.com>
+
+Replying to Charles Lucy:
+
+> It seems that by taking steps of fourths and fifths, from a given pitch,
+> all "harmonics" (ghosttones?) can be mapped in a continuous series.
+> The interval between the fourth and the fifth is exactly [1200/(2*pi)> 190.9858 cents] . This interval Harrison called the "larger" interval.
+> I have used the term "Large"(L).
+
+   Can you show us any specific evidence that this maps to partials of any
+pitch from any instrument instrument more accurately than integer
+multiples?  Or is the closeness of the mapping not your main point?  
+
+
+
+> It seems that notes, which are closer on the spiral of fifths and 
+> fourths are more consonant than those which are a greater number of
+> steps apart..
+
+   Are you sure that "consonant" is the best choice of words here?  Would
+you for example view a major second (two fifths apart) as more consonant
+than a major sixth (three fifths apart)?  
+
+   "Consonant" is probably a good term in one sense but not another:  Since
+consonance REALLY means closeness to resolution to the tonic in a tonal
+system (despite its common but technically incorrect usage as more or less
+the opposite of "discordant"), closeness on the circle of fifths (spiral or
+whatever) is a pretty good measure of closeness to the tonic in a tonal
+system.  But it's probably not a very good measure of consonance in thee
+sense of discord (for the reason I suggested above).  Discord is another
+way in which a harmony can sound farther from resolution.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 18 Feb 1997 06:38 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10224; Tue, 18 Feb 1997 06:38:51 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA10221
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id VAA27152; Mon, 17 Feb 1997 21:37:15 -0800
+Date: Mon, 17 Feb 1997 21:37:15 -0800
+Message-Id: <Pine.SUN.3.91.970217211847.25495A-100000@si.UCSC.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

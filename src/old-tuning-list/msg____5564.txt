@@ -1,0 +1,94 @@
+source file: mills2.txt
+Date: Sat, 31 May 1997 10:46:35 +0200
+
+Subject: Modes, Diamonds, Barstow & pun
+
+From: Greg Schiemer <gregs@mail.usyd.edu.au>
+
+Apologies to all contributors on the list if the answers to my enquiries
+are readily available in an FAQ. Johnny Reinhard's post gets closest to
+answering my original question about JI modes. Thanks to all the others.
+
+> Am I correct in deducing that say Dorian mode uses exactly the same
+> note frequencies at which say Ionian mode was tuned in just intonation,
+> i.e. 9/8  5/4  4/3  3/2  5/3  15/8  2   9/4  ?
+>
+> Pieter Smit.
+
+This is probably the way I should have asked the question in the first
+place. Pieter's deduction seems right to me and I await with interest an
+answer to his question. 
+
+I have another beginner's problem this time understanding the 5-limit
+Incipient Tonality Diamond of Partch (diagram 5. p110 Genesis of Music).
+I'll spell out what I think it is so someone can correct me.
+
+I've understood that the diamond is a matrix which has a centred vertical
+axis representing 1/1. The ratios are arranged so that identities 1 3 & 5
+on one of the diagonal axes represent 3 major triad made up of JI 3rds and
+5ths and on the other diagonal axis 3 minor triad made up of JI 3rds and
+5ths. By doing this Partch solves the super-tonic problem associated with
+5-limit tuning (Doty p.37).
+
+The scale Partch uses to describe the concept is 
+
+		G --- Bb - B - C - D - Eb - E --- G. 
+
+Here is the same scale represented on the 5-limit Incipient Tonality
+Diamond using JI intervals
+
+				3/3
+					
+			5/3	 	6/5
+
+		4/3		5/5		3/2
+
+			8/5		5/4
+
+				1/1
+
+If 1/1 is represented by G how is the same diamond represented ?
+ 
+				G
+
+			E		Bb
+
+		C		G		D
+
+			Eb		B
+
+				G
+
+Ignoring the fact that these pitches are those normally used to describe
+12-tET, is this correct ? 
+
+I've recently introduced a class to 3- 5- & 7-limit JI scales using David
+Doty's book, Scala & Csound. Before we move on to 11-limit tuning I wanted
+to understand how Partch arrived at it, hence my question about the
+diamond. We've also listened to John Schneider's recording of Barstow.
+Compared with the first commercial recording with all its percussive
+timbres, I was amazed to hear how consonant the intervals sounded and how
+much darker the mood of this piece becomes on the guitar. Alternate tuning
+is not on the curriculum here. I just snuck it in. These undergraduates
+composers are now sold on JI. Csound and Scala have played a big role in
+this. It would be nice to look at non-12 tET as well as JI tunings.
+
+On the subject of puns, I don't suppose many people on this list are aware
+that Warren Burt wrote a piece for the old Fairlight CMI some years ago
+which he called "Justice Equality & Beatings".
+
+Greg S
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 31 May 1997 13:20 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05471; Sat, 31 May 1997 13:20:33 +0200
+Date: Sat, 31 May 1997 13:20:33 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05466
+Received: (qmail 24937 invoked from network); 31 May 1997 11:20:06 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 31 May 1997 11:20:06 -0000
+Message-Id: <199705310717_MC2-1798-BECF@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

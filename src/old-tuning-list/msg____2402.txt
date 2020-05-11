@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Thu, 21 Dec 1995 02:31:24 -0800
+
+Subject: Re: Transcendental numbers
+
+From: jpff@maths.bath.ac.uk
+
+Message written at 20 Dec 1995 21:16:51 +0000
+In-reply-to: <0099B1E361BED53A.4D16@ezh.nl> (message from Manuel Op de Coul on
+	Tue, 19 Dec 1995 12:48:28 -0800)
+
+Manuel has covered most of the points, but I though I would add that
+my friend Yasamasa Kanada holds the record for calculating teh digits
+of pi, and teh apparently random nature extends all the way to the 4
+billion digits he has calculated and verified. (actually 4,294,960,000
+digits are certainly correct)
+
+Frequency distribution for pi-3 up to 3,000,000,000 decimal places:
+ '0' : 299999143; '1' : 299995932; '2' : 299989126; '3' : 299992290
+ '4' : 300002257; '5' : 299979016; '6' : 300025447; '7' : 299975510
+ '8' : 300016550; '9' : 300024729; Chi square = 9.24
+
+Frequency distribution for 1/pi up to 3,000,000,000 decimal places:
+ '0' : 300009029; '1' : 300002431; '2' : 299992729; '3' : 299998519
+ '4' : 299970883; '5' : 299980175; '6' : 300010123; '7' : 300025696
+ '8' : 300008447; '9' : 300001968; Chi square = 7.40
+
+Yasamasa tells me he has gne way beyond this record but the details
+are embargoed until January, but the distributions seem the same.
+
+What is always odd is that the other well-known transcendental number
+e is very un-random.  Strange.  My father always used to ask me to
+give him a transcendental which was not pi, e or multiples; after all
+there are very many of them.  I agree that e+pi is not decided --
+there is a theorem by W.S.Brown which is significant for computer
+algebra based on a conjecture which has e+pi being transcendental as a
+specal case, and I have not heard that it was decided.  My PhD depends
+in part on Gelfond-Schneider theorem, and I used to search this stuff.
+
+Oh well, enough memory lane for tonight.
+
+==John ff
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 21 Dec 1995 14:51 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA07672; Thu, 21 Dec 1995 05:51:03 -0800
+Date: Thu, 21 Dec 1995 05:51:03 -0800
+Message-Id: <0099B33C0E28C9B9.5145@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

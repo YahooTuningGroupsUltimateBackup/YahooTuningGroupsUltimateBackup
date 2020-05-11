@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Wed, 24 Jul 1996 02:30:17 -0700
+
+Subject: Replies to Peter and Murat re Scala
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+> Thank you for trying, but I've checked and I'm afraid it's neither of 
+> these. I can't think what's wrong. Is the _name_ of the directory 
+> significant? 
+No.
+
+> Do I need a PATH statement in my AUTOEXEC.BAT? 
+No.
+
+> Is SCALA incompatible with DOSKEY or some device-driver?
+No. Maybe you have insufficient "files" or "buffers" in CONFIG.SYS.
+Or perhaps help.par was somehow corrupted. Try to edit it and see if
+there are these lines at the beginning of the file:
+! Number of topics:
+89
+If the number isn't there you get the behaviour you described.
+Another possibility, but I think an unlikely one, that you have insufficient
+memory. You can also check if the other datafiles were seen by doing
+MODE/ALL, this should give all the mode names, CALC 8/7, this should
+say "septimal whole tone" at the last line, and SHOW SYNTH should present
+the names in synth.par.
+
+> Peter
+
+
+From: Tan Ses                              <Tan.Ses@JK.UNI-LINZ.AC.AT>
+> Is anyone in the list know of a free (shareware) downloadable
+> microtuning software for PC...
+
+The program from above is freeware. You can get it from
+ftp://ella.mills.edu/ccm/tuning/software/pc/scala/scala.zip
+To install, unpack scala.zip in an empty directory, read the file
+read.me and type "scala" to run. Then type "help" or "h" to see which
+are the available commands. A small tutorial is included.
+
+The new version 1.1 is coming very soon now.
+
+> Murat
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 24 Jul 1996 19:59 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA27098; Wed, 24 Jul 1996 10:59:41 -0700
+Date: Wed, 24 Jul 1996 10:59:41 -0700
+Message-Id: <02960724175520/0005695065PK5EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

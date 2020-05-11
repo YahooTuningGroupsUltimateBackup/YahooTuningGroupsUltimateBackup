@@ -1,0 +1,59 @@
+source file: mills2.txt
+Date: Sun, 6 Jul 1997 11:06:51 +0200
+
+Subject: Octave invariance revisited
+
+From: Mckyyy@aol.com
+
+I said,
+
+>On octave invariance, it has just occurred to me that, in LCM
+>terms, the octave has a property that no other ratio shares. 
+>That is two notes that differ only by octaves can be mixed
+>without making the length of the resulting "interference"
+>pattern longer than the waveform of the lowest note.
+
+This is clearly wrong in that the property is also shared by
+ratios like 1:3.  My thanks to the people who pointed this out.
+
+When I wrote this I was thinking of ratios as restricted to a
+single octave, including both endpoints, even though I cited an
+example of a trans-octave ratio in the next paragraph--clearly an
+example of muddy writing and probably muddy thinking.
+
+I think that it remains true that there is an important acoustic
+division between repeating patterns of sound pressure.  Some have
+zero energy in the fundamental, and will thus mostly be heard as
+chords, and those with an appreciable amount of energy in the
+fundamental will mostly be heard as a single note.
+
+Possible exceptions would be the examples like 15:1 where there
+is a wide gap between the fundamental and a higher harmonic.
+
+I have been reading Partch again a little.  I still find myself
+put off by the man's style.  It seems to me that making a big
+deal of whether the numerator or denominator of an interval is
+odd is wallowing in irrelevancy.
+
+I also find his practice of representing scales and chords with
+the 1/1 ratio in the middle somewhere to be strange.
+
+All, in all, I have found his book to be useful source of
+historical information, but I still question the usefulness of
+his theories.
+
+Marion
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 6 Jul 1997 12:04 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05623; Sun, 6 Jul 1997 12:05:03 +0200
+Date: Sun, 6 Jul 1997 12:05:03 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05644
+Received: (qmail 5882 invoked from network); 6 Jul 1997 10:04:51 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 6 Jul 1997 10:04:51 -0000
+Message-Id: <memo.183029@cix.compulink.co.uk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

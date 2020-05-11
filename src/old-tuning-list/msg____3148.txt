@@ -1,0 +1,36 @@
+source file: mills2.txt
+Date: Wed, 3 Jul 1996 09:02:20 -0700
+
+Subject: Darreg Disc Error!
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+I just received "Detwelvulate!" in the mail from Gary Morrison, and have 
+been listening to it constantly. The 17-Tone Improvisation #1 is clearly not 
+in 17tet! The division of the diatonic semitone into two equal parts is a 
+dead giveaway, if the consonant triads weren't enough. Also, the fifth and 
+fourths, though pleasant, beat quite a bit faster than those in 12 or 17. 
+This narrows it down to 19 or 22 -- the slighlty "off" minor third that 
+starts the piece, as well as some just-sounding major sevenths, identify the 
+tuning as 22:
+
+
+   12 13 11 11 12 13 15 14 13 15 14 13 22 15 14 13 22 15 14 13 20 15 14 13 
+22
+ 6- 6- 6- 6- 6- 6- 6- 6- 6- 6- 6- 6- 6- 6-
+ 0- 0- 0- 0- 0- 0- 0- 0- 0- 0- 0- 0- 0- 0- etc.
+
+Notice the consonant diminished triad 0-6-11 (ratios 5:6:7). This could only 
+be 22.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 4 Jul 1996 00:18 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA03196; Wed, 3 Jul 1996 15:18:55 -0700
+Date: Wed, 3 Jul 1996 15:18:55 -0700
+Message-Id: <1.5.4b12.32.19950703221315.0068428c@interlinx.qc.ca>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

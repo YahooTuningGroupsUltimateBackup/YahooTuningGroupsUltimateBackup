@@ -1,0 +1,196 @@
+source file: mills3.txt
+Date: Tue, 28 Oct 1997 21:25:12 +0100
+
+Subject: Erlich's Issues
+
+From: Carl Lumma <clumma@nni.com>
+
+>>>http://www.catalog.com/starrlab/uzone.htm
+>>
+>>This site contains no price or ordering info. Can someone help?
+
+You've got to e-mail 'em.  The keyboard is in development, as can be noticed
+by the fact that the "picture" of it is CG.
+
+They told me that there will be 5 pre-release versions of the thing, and
+that all of them have sold at $3500.  They aim to officially release it in
+January, with an estimated cost of $5000.  I am going out to California in
+December to participate in the development of my own version of this keyboard.
+
+>I've posted at length on definitions of consonance and dissonance (as
+>well as discussions of melody and modulation) in previous Tuning
+>Digests.
+
+I would appreciate it if you could forward them to me.  If not, it would
+help a great deal to know which digests to look in.
+
+>The issue is complicated but that is no reason to retreat to a
+>simpler, less useful definition. Your definition makes no sense, because
+>you'll never come up with an answer for irrational intervals.
+
+Thanks for the encouragement.  I have already admitted that my definition is
+for Just Intervals only.  I'm not the one trying to compare tempered
+intervals to Just ones.  I recommended against this.
+
+As far as retreating is concerned, retreating from where?  For measuring the
+consonance of irrational intervals, the only thing I've heard from you is
+cents deviation from Just intervals.  And I haven't heard any definition
+from you for measuring the consonance of Just Intervals.
+
+In fact, despite my requests, I have not heard anyone give any definitions
+of consonance whatever regarding this thread.  I've heard plenty of where to
+find definitions, which dead scientists the definitions I may find agree
+with, and what categories the definitions can and can't fit into.
+
+>How do you propose to "measure [the mistuning of an equal temperament] in cents
+>deviation _and_ consonance* deviation" when you can't define the consonance
+of >an irrational interval?
+
+Maybe something like the difference between the products of the numbers in
+the Just Ratio and the products of the numbers in the simplest rational
+approximation of the tempered interval that is within the ear's limit of
+resolution.
+
+This isn't good, but it's better than cents deviation alone.
+
+>Presumably, you want to use rational approximations, but how do you decide
+>whether to use 25/21, 44/37, 1785/1501, 10754/9043, or 19723/16585?
+
+All of these are more dissonant than the 19/16 by my definition.  I think
+all but the first could probably be used to approximate 300 cents.  I would
+choose between them based on the purpose I needed them for.  For music, any
+ratio closer to the irrational than the ear's resolution can serve.
+
+>You seem to like the latter, but if you really go to that level of
+accuracy, >you face a very large danger that some of your so-called JI
+perfect fifths will >turn out to be closer to 30001/20001, in which case
+you'll have to call the
+>equal-tempered minor third more consonant that the just perfect fifth!
+
+You make a good point, but it is slight of hand: You selectively ignore the
+resolution of the ear in order to accuse me that I have done so.  I already
+claim to define dissonance without using the experience of the ear.
+
+But I have not ever used my definition in a musical example without
+factoring in the limits of hearing.  Theoretically, the 30001/20001 is more
+dissonant than the 3/2, but I'm sure I can't hear the difference.  I can
+hear the difference between 25/21 and 19/16, 25/21 and 19723/16585, and
+19/16 and 19723/16585.
+
+>The only definition I care about is one with a psychoacoustic
+>correlative. Otherwise we're not talking about music, we're talking
+>about abstract marks on a piece of paper or computer screen. My
+>calculation of beat rates was an attempt to show that the one
+>psychoacoustic correlate you did mention does not lead to a first-order
+>qualitative difference between 19/16 and 2^(1/4).
+
+But it does.  Go figure.  I am working on an analysis of the "clouds of
+beating harmonics" in our example.  I am in way over my head, but I know
+that there's a lot more going on in there than what you mentioned.
+
+>You can't always believe what the "Physics for Dummies" books tell you;
+>in fact, it was only shortly before receiving my B.S. in Physics from
+>Yale that many of my own misconceptions about acoustics were dispelled.
+
+It must be something else, then, that causes additive patches to sound more
+like violins when you detune the harmonics.
+
+>>>This purity is not always desirable.
+
+Nothing is always desirable.
+
+>>Differences of tuning as small as 1 cent do affect the sound
+>>of the chord.  I'm unable to try smaller intervals at present.
+>
+>Real musicians playing acoustic instruments don't have this level of control.
+
+While it may work, to me there's something conceptually wrong about saying
+one interval might as well be another on an instrument if the difference
+between the intervals is less than the instrument's accuracy.  It encourages
+sloppy instrument building.  New instruments can be designed for new types
+of music.
+
+But there's nothing conceptually wrong, as far as I can see, with saying
+that two intervals whose difference is less than the ear's accuracy are
+musically the same.  This is the only way Canright's "all intervals" can be
+"just".
+
+>>>The idea that dissonance increases with prime limit is erroneous.
+
+Dissonance does increase with prime limit.  Maybe a better indicator is odd
+limit.  Probably the best is the product of the numbers in the ratio.
+
+>>I bought a copy of Partch's book while in San Francisco (I last read it
+many >>years ago) and on virtually every page there is evidence, often
+strong, >>emphatic evidence, that his definition of "limit" was the odd, not
+prime, >>definition. All the Partch "experts" using the prime definition
+frustrate me >>to no end as they clearly have not listened as much as Partch
+and yet fail to >>understand the ideas he derived from years of listening.
+And for those using >>the prime limit definition to describe the resources
+of a tuning system rather >>than consonance/dissonance issues, what
+information is contained in the >>knowledge of the highest prime one is
+using that is more important than >>knowing any of the other primes one is
+or is not using?
+
+This is a very interesting topic.  Partch based his tunings on what he
+called "primary tonalities".  That is, he stopped stacking like intervals
+fairly early.  Guys like Doty prefer to model tuning by getting all the odd
+identities they can as "secondary tonalities" (9 is two 3's) before moving
+up to the next limit.
+
+Both methods have pros and cons.  Partch's method is more in touch with the
+harmonic series, but he wound up having to add in "secondary tonalities"
+rather arbitrarily.  Doty's method seems cleaner, until you realize that the
+stacking could go on indefinitely at any limit, and you've got to pick
+arbitrary stopping points for each.
+
+I tend to prefer the Partch method.  I think that by adding more dimensions
+to the tonality diamond I can rid my model of a need for "secondary
+tonalities".  While this idea is not yet ready for publication, I can share
+my rules for understanding tunings based on the harmonic series...
+
+  1. No tuning can use the entire series, they must "start" and "stop"
+somewhere.
+  2. Each new prime member you include provides intervals you couldn't
+get before.
+  3. The even-number identities are all duple copies of lower odd-number
+identities.
+  4. Each higher odd-number identity gives you primary tonalities that
+were secondary tonalities at the lower identity, that is, stand alone
+intervals now appear that were compound intervals at a lower odd-number.
+  5. When the start and stop notes of a mode bare ratio 1:2, then that
+mode is a duple wide.
+  6. A given duple of the series contains twice the number of notes as
+the duple just below it: it contains all the notes in that previous mode
+and a new note between each of the old ones.
+
+Carl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Johnny Reinhard <reinhard@IDT.NET>
+Subject:  Re: Consonance
+PostedDate:  28-10-97 22:59:01
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  28-10-97 22:58:00-28-10-97 22:58:00,28-10-97 21:58:34-28-10-97 21:58:35
+DeliveredDate:  28-10-97 21:58:35
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125653E.0078A960; Tue, 28 Oct 1997 22:57:56 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA30018; Tue, 28 Oct 1997 22:59:01 +0100
+Date: Tue, 28 Oct 1997 22:59:01 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA29753
+Received: (qmail 27640 invoked from network); 28 Oct 1997 13:58:58 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 28 Oct 1997 13:58:58 -0800
+Message-Id: <Pine.GSO.3.95.971028165209.22086A-100000@u2.farm.idt.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,51 @@
+source file: mills2.txt
+Date: Thu, 29 May 1997 02:50:21 +0200
+
+Subject: Re: modes
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>Could somebody please explain modes (Dorian, Frigian, Aeolian, etc) to a
+>newcomer on the list, or refer to literature explaining these?
+
+   These are the proverbial "church modes" used in Gregorian chant and more
+recently in some forms of jazz, blues, and even a little in some popular
+music.  They are the scales you get when you between a given pitch and the
+pitch an octave higher, but using only the white keys.
+
+   The scale from C to C using only white keys gives us the familiar
+"major" scale, which is also called the "Ionian" mode.  A to A using only
+white keys gives you what we now call the "natural minor" mode, which is
+also called the "Aolean" mode.
+
+   All told, these modes are called:
+
+CDEFGABC Ionian mode (AKA major scale)
+DEFGABCD Dorian mode
+EFGABCDE Phrygian mode
+FGABCDEF Lydian mode
+GABCDEFG Mixolydian mode
+ABCDEFGA Aolean mode (AKA natural minor)
+BCDEFGAB Locrian mode
+
+   These modes also have a set of older Greek names, but I confess that I
+don't know those names.
+
+From:	SMTP%"tuning@eartha.mills.edu" 29-MAY-1997 00:43:22.83
+To:	manuel.op.de.coul@ezh.nl
+CC:	
+Subj:	intemperate music
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 29 May 1997 00:43 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03250; Thu, 29 May 1997 00:43:20 +0200
+Date: Thu, 29 May 1997 00:43:20 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03248
+Received: (qmail 381 invoked from network); 28 May 1997 22:43:16 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 28 May 1997 22:43:16 -0000
+Message-Id: <338C2815@fsdsmtpgw.fsd.jhuapl.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

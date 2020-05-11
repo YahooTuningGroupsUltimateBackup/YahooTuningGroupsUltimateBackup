@@ -1,0 +1,165 @@
+source file: mills2.txt
+
+
+Subject: Post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Enrique Moreno's 1995 PhD thesis
+--
+Enrique Moreno wrote a thesis in 1995 entitled
+"Embedding Equal Pitch Spaces and the Question
+of Expanded Chromas: An Experimental Approach."
+This is available as Report No. STAN-M-93 from
+the Stanford Unviersity Music Dept., CCRMA,
+Stanford CA 94305-8180.
+This dissertation is one of the most interesting
+and provocative theses about microtonality to
+come out of Stanford.  It stands as the equal
+of Elizabeth Cohen's and Douglas Keislar's
+fascinating theses (both highly recommended).
+The heart of the thesis can be found on pages 50
+through 52:
+"We need to see that the tuning has a unique
+organization, and that its intervals and chords
+are, in justice, as unique as the tuning itself
+may be, even when the tuning may contain
+very closely approximated versions of some
+familiar intervals.  The main difference comes
+perhaps not so much from the intervals of the 
+tunig t hemsleves but from the *context* that
+the whole tuning as an entity provides for every
+interval in it.  In this sense, to attempt to classify
+the new intervals as variations of twelve-tone-to-
+the-octave equal intervals (or of just intervals)
+woudl constitute perhaps a reasonable mistake.
+"It would be reasonable because it is reasonable 
+to attempt to understand unknown things in terms
+of the things we know, especially if there exists
+a certain resemblance. It is reasonable to judge 
+the world according tothe categories of our
+experience, but it is not logical to assume that
+our categories are the ultimate representation of
+reality. (..) 
+"Follwoing the same ine of thought, we realize that 
+notating this tuning with the aid of  symbols that 
+make reference to our usual twelve-tone-to-the-
+octave tuning or to historical tunings would be
+more or less absurd. Imagine having to interepret
+the signs ^b, ~#, as "not so flat" and "not so sharp",
+or -b+++ as "quasi-flat plus three syntonic commas,"
+or whatever.  In short, regardless that some of the
+intervals, chords, and even chord progressions may
+resemble certain well-known intervals, chords, and
+chord progression,s this tuning and many others 
+(although not necessarily all) deserve a fresh 
+departure point."
+This is the stronget and clearest statement  I have
+yet found of one extreme of the attitude toward
+microtonality--namely, that we should approach
+the intervals and the tunings anew and search our
+their properties without preconceptions.  This is
+clearly not entirely possibe--it remains a fact
+that the human ear/brain system has measurable
+properties and various intervals will have predictable
+*sensory* effects on the auditory system--but in
+making this point Enrique gets at an extremely
+important truth.
+Namely, that the *sensory* affect of an interval or
+a tuning is not all necessarily the same as the
+*musical* affect of that interval or tuning.
+N0orman Cazden made much the same point in
+the article "On Sensory Consonance," Int. Journ. of
+Aesthetics and Art Criticism, 1980, but Cazden
+was mainly concerned with demolishing Helmhotlz's
+influence.  Enrique's point is much farther-reaching.
+Now, the other end of the spectrum can be seen
+in Easley Blackwood's and Paul Rapoport's writings
+on microtonality.  "When investigating a tuning for
+which there is no repertoire or tradition of any kind,
+the most illuminating approach is to look for conenctions
+between the new tuning and 12-note equal. All the other
+tunings contain many extremely discordant intervals,
+and are amenable to row music, or to other non-tonal 
+compositional techniques. But hte most interesting are
+those that include tonal elements--ie., major and minor
+triads, and seventh chords, which may be arranged in ways
+similar to, but not exactly like, 12-note equal." [Blackwood,
+Easley, "Research Notes, NEH Grant RO-29376-78-0642,
+1980, page 1]
+Clearly this approach has a lot of problems.  For example,
+Blackwood reveals fundamental bias when he states
+that "major and minor triads" are his primary criteria. 
+This causes him to completely overlook the neutral mode
+and neutral triads on tunings like 17-TET and 21-TET,
+and as a result Blackwood makes many verifiably false
+statements--for example, Blackwood discusses *only*
+the major and minor triads in 17-TET.  He never discusses
+the neutral triad, formed from a third with 5 steps of
+70.588235 cents each. Fortunately, Paul Rapoport revises
+this oversight--but Paul's overall approach remains
+relentlessly Pythagorean and 12-TET-based, which is
+simply not appropriate, say, with melodic modes in 19-TET,
+or harmonies in 21-TET, or with 9-TET or 7-TET or 10-TET
+or many other tuning which cannot be jammed into the 12-TET
+mold.
+In 17-TET, the neutral melodic mode is an important
+resource.  Blackwood completely overlooks it.  He does
+not discuss 8- or 9-tone melodic modes, nor does he
+discuss pentantonic modes except in 23-TET, to his
+credit.
+Thus the great drawback of trying to force all equal
+temperaments into the conceptual framework of 12-TET
+is that it leads the composer to completely overlook 
+many useful (but highly non-twelvular) melodic and
+harmonic resources.
+On the other hand, Easley Blackwood's and Paul Rapoport's
+approach to non-12 also has many advantages: by
+identifying points of similarity with 12, it gives them
+a place to start analyzing harmonic progressions and
+melodic modes.
+The great weakness of Enrique Moreno's position is that
+he does not provide a conceptual framework for harmonic
+progressions and melodic modes.
+The basic idea of Enrique's thesis (to do it gross injustice
+by boiling it down to a few words) is that non-octave
+tunings can be characterized by the Nth root of K, where N and
+K are integers.  In many cases, K then takes on the audible
+characteristics of the 2:1 (octave) ratio in the twelve-tone
+equal temperament.  Thus, Enrique contends--and has data
+from psychoacoustic experiments to prove--that in many 
+cases the K:1 ratio exhibits many of the properties of the
+octave 2:1 ratio in 12-tone equal temperament. The particular
+property on which Enrique concentrates is chroma--that is,
+the property according to which a perceived pitch remains
+"the same" perceptually if it is displaced up or down by
+that ratio.  Thus, in 12-TET, a C4 is heard as "the same"
+as a C3 and a C5; similarly, in the 12th root of 3, Enrique
+claims (and has data to demonstrate) that a pitch 
+displaced up or down by 3:1 also "sounds the same."
+This gives a starting point for harmony in non-octave
+scales, since inversions can now be analyzed, melodic
+modes can be described, etc.
+Enrique's approach seems especially praiseworthy because
+[1] it involves psychoacoustic data, and thus has some
+connection to the real world--unlike so much mental-
+masturbation "modern" 12-TET music theory; [2] it has
+the courage to leave behind 12-TET preconceptions.
+If it seems utopian that listeners might be expected to utterly
+abandon 12-TET conventions when listening to mirotonal
+music, it's well to remember Heinz Werner's paper in
+the 1940 Journal of Psychology, cited a few posts back.
+Wener found that, given enough time to familiarize themselves
+with a microtonal tunings, *every* listener he tested
+was able to make the leap into hearing the new intervals
+on their own terms.  
+Further proof is provided by everyday experience--William
+Schottstaedt, for example, has pointed out that after working
+with 11-TET for an extended period, he found that 12-TET
+sounded "strange" when he returned to it.
+In sum, Enrique's thesis is a major contribution to microtonal
+theory.  It also adventurously extends some of the conventional
+notions of music theory (i.e., octave equivalence) without 
+becoming a slave to 12-TET ideas.
+--mclaren

@@ -1,0 +1,80 @@
+source file: mills2.txt
+Date: Mon, 18 Dec 1995 07:31:02 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: a new iterated function for
+  generating non-just non-equal-tempered
+  tunings
+---
+While boring holes for resonators in a
+pentatonic percussion instrument to be
+installed at the Exploratorium, a new 
+iteration function occurred to me.  Since
+these functions are a fertile breeding
+ground for non-just non-equal-tempered
+scales, this one might prove of interest
+to forum subscribers.
+Operating an industrial drill press is
+extremely peaceful work--excellent for
+mathematical contemplation.
+The function is an alternating series:
+start with a number, take the tan(x),
+and whenever it drops below 1.0, take
+e^x.
+The first 10 terms of the function are:
+i[1] = abs(tan(sqrt(2))) = 6.334119167...
+i[2] = abs(tan(6.334119167)) = 0.05097795...
+i[3] = abs(e^(0.05097795)) = 1.05229964...
+i[4] = abs(tan(1.05229964)) = 1.752641506...
+i[5] = abs(tan(1.752641506)) = 5.438434336...
+i[6] = abs(tan(5.438434336)) = 1.126353452...
+i[7] = abs(tan(1.126353452)) = 2.099871982...
+i[8] = abs(tan(2.099871982)) = 1.710348942...
+i[9] = abs(tan(1.710348942)) = 7.1119178021...
+i[10] =  abs(tan(7.1119178021)) = 1.106677438...
+I believe but cannot prove that all of these
+numbers are transcendental.  Numbers > 2.0
+when octave-reduced, and < 1.0 when added to 1.0,
+produce a musical scale:
+p[1] =  795.7728117 cents
+p[2] =  86.07888146 cents
+p[3] =  88.25468083 cents
+p[4] =  971.4371163 cents
+p[5] =  531.8296507 cents
+p[6] =  205.991463 cents
+p[7] =  164.8027358 cents
+p[8] =  929.1488291 cents
+p[9] =  996.2863799 cents
+p[10] = 175.4817393 cents
+As usual, there does not appear to be any
+obvious pattern in these numbers.
+Another number arises from this series:
+1 + the number of successive iterations
+required for switchover between e^x
+and abs(tan(x)), or vice versa.  That
+number is: 
+1.21311151312121913141313111313...
+This number also appears to be
+a transcendental.  Can you prove it?
+As a musical interval this equates to
+a neutral third of 334.4597716 cents.
+This is a third which has not to
+my knowledge appeared previously
+in the musical literature.
+--mclaren
+ 
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 18 Dec 1995 16:33 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id HAA04502; Mon, 18 Dec 1995 07:33:07 -0800
+Date: Mon, 18 Dec 1995 07:33:07 -0800
+Message-Id:  <9512180731.aa02233@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

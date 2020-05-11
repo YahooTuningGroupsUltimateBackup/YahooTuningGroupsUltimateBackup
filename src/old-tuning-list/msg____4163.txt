@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Tue, 26 Nov 1996 17:10:05 -0800
+
+Subject: Kraehenbuehl & Schmidt
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+To be fair to these guys, let me summarize their theory. Kraehenbuehl and 
+Schmidt, inspired by Yasser, proposed an evolution proceeding from 5 to 7 to 
+12 to 22 to 41 tones per octave, corresponding with a harmonic limit that 
+increased from 3 to 5 to 7 to 11. They defined all the tones with just 
+ratios and defined the harmonic limit as the highest prime number used in 
+these ratios (thus they skipped 9). The evolution proceeds by interpolating 
+one new note into each of the larger steps of the previous system, first 
+using only the older harmonic limit. Then, once the newer system begins to 
+be used in its entirety, the next harmonic limit begins to cause new 
+"inflections" in the tuning of the older system to occur. Once the newer 
+harmonic limit takes effect, the process begins again. They saw jazz (this 
+was 1962) as approaching a 12-tone totality, with lots of 7-limit 
+inflections. There may be some truth to this. If they were right, we may 
+expect jazz musicians to begin to realize that the inflected 12-tone scale 
+has 10 "holes" in it, which they will begin to fill in. The problem with 
+this is, if you look at the table in my previous post, you see that two 
+different notes of the hyperchromatic scale are represented by ratios (4/3 
+and 27/20, for example) that are separated by a syntonic comma (81/80). 
+Standard jazz harmonic formulae are still 5-limit in origin and so assume 
+that the syntonic comma occurs only as inflections of a single note. So 
+evidently this linear type of "evolution" is not going to get us to a 
+22-tone system. We need to "start from scratch," or at least "back up a 
+step" and then "leap forwards," in order to find a good 7-limit/22-tone 
+system.
+
+I've been dropping hints here in case some lurker has been following my 
+posts. That was the biggest one yet. Tomorrow is my last day reading this 
+list for a while, and the day I send out my paper for publication. I 
+discovered the 7-limit/22-tone system that is the topic of the paper back in 
+'91, having only read Helmholtz, Yasser, and Partch. Then I got really 
+interested and started reading everything. Soon, thanks to John Starrett, 
+I'll have a nice 22-tone guitar, and all this theorizing will be supplanted 
+by an even more enjoyable activity. Anyway, I hope someone out there chooses 
+to contemplate these ideas over the next month, as it's always more exciting 
+to figure something out for yourself than to be told outright. Happy 
+Thanksgiving/Hanukkah/Christmas/Kwanzaa/New Year/etc. . . !
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 27 Nov 1996 05:20 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09163; Wed, 27 Nov 1996 05:22:01 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA09008
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id UAA15436; Tue, 26 Nov 1996 20:21:59 -0800
+Date: Tue, 26 Nov 1996 20:21:59 -0800
+Message-Id: <199611270418.UAA29425@sunatg1>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

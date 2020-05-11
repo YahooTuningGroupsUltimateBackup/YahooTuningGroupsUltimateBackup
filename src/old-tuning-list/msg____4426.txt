@@ -1,0 +1,52 @@
+source file: mills2.txt
+Date: Sat, 28 Dec 1996 12:56:33 -0800
+
+Subject: Re: Pitch bend
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+Lionel Dotson wrote:
+
+> Matt: Jever take'n try to tune 8 bars of *barbershop* harmony in MIDI?
+
+I love the barborshop quartet sound, but I haven't actually sung it, nor sequenced 
+it myself. 
+
+About midi and microtones, pitch-bend tweaking is too much trouble. I admire the 
+stamina of people who can do it that way. I prefer to tune the instrument (Yamaha 
+DX7-II in my case) rather than the sequence file (pitch bend events). That way, I 
+get all the polyphony on the same midi channel, and I can play it manually as well. 
+I can also build scales by ear, without preplanning, one new note at a time, tuning 
+it against the notes I've already tuned. That kind of trial-and-error process using 
+pitch-bend tweaking on multiple midi channels would be horrendous.
+
+> Attached,find 2(two) midi files. One(annie.mid) is pitchbend tuned,the
+> other(annieun.mid) is untuned.
+
+Great, thanks! Could you send them again and attach them as files rather than as 
+coded text please? (If you're using Netscape Navigator for Win95, click "As is" 
+rather than "Convert to Plain Text" in the Attachments window.) I'm ignorant of 
+how to handle the text versions.
+
+> The erudite members of this forum are invited to critique the *tuned*
+> midi file, and offer alternate tunings if they like.
+
+There must be many good ways to interpret a just tuning setting for a piece where 
+the notation is originally in 12tet. I may have some ideas once I listen, but 
+probably not criticisms. 
+
+Matt Nathan
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 29 Dec 1996 06:31 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03376; Sun, 29 Dec 1996 06:34:30 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA29944
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id VAA06585; Sat, 28 Dec 1996 21:34:26 -0800
+Date: Sat, 28 Dec 1996 21:34:26 -0800
+Message-Id: <32C601F4.667B@ix.netcom.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,186 @@
+source file: mills2.txt
+Date: Mon, 2 Oct 1995 09:12:35 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & Psychoacoustics - Post 9 of 25
+---
+"A theory should as simple as possible--
+but not simpler." -- Albert Einstein
+---
+MYTH: PITCH IS THE LOGARITHMIC FREQUENCY
+HEIGHT OF A MUSICAL TONE, AND ITS
+PERCEPTION IS AUTOMATIC AND INNATE.
+Fact: There are 3 kinds of pitch: physical,
+mel and perceptual pitch.  The 3 differ
+significantly. Perceptual pitch is never
+identical to the log of the frequency of
+the fundamental of the perceived tone,
+and mel pitch differs radically from both.
+The perception of all 3 kinds of pitch is
+strongly influenced by both context and
+learned experience.
+---
+The perceived pitch of sine tones depends
+on their duration and their loudness. "A
+150-Hz tone increasing from 45 to 90 dB
+drops in pitch to an extent corresponding
+to a 12% frequency shift. This is close
+to 2 semitones in the diatonic scale. The
+sensitivity to this effect varies considerably
+between individuals. (...) A funny consequence
+of this is that a soft sine tone at 300 Hz
+may sound as a pure octave of a loud sine
+tone at 168 Hz. The mathematically pure
+octave, however, has the frequency of 150
+Hz. The tone that sounds as a pure octave
+is 12% too high. This means that mathematically
+it is a minor seventh! This is a good argument
+for avoiding confusion of perceptual and physical
+entities." ["The Science of Musical Sounds,"
+Sundberg, 1992, pg. 46]
+Pierce explains that "By asking naive subjects
+to relate frequency changes of sine waves to
+ a halving of pitch, psychologists found a mel
+scale of pitch (for sine waves). In the mel scale
+there is no simple relation between frequency
+and pitch; nothing like the octave shows up. (...)
+The sounds of orchestral bells are not periodic,
+and these sounds do not have all the properties
+of periodic musical sounds. One can play tunes
+with bells, and the pitches that are assigned
+to bells can be explained largely in terms
+of the frequencies of prominent almost-
+harmonic partials.
+"Clucking sounds and shushing sounds (bands
+of noise) have  brightness, but no
+periodicity. Oddly, *we can play a 
+recognizable tune with these sounds,
+even though they cannot be heard as 
+combining into chords or harmony.* 
+Apparently, in the absence of a clear pitch,
+brightness can suggest pitch.' ["The Science
+of Musical Sound," Pierce, J.R. 1992, 
+pg. 37]
+"Systematical series of experiments have been
+carried out in which listeners have been 
+asked to adjust the frequency of a variable
+tone so that it sounds "twice as high"
+or "half as high" as a reference tone. (...)
+The mel scale is constructed such that
+a halving of the number of mels corresponds
+to a halving of the pitch perceived. As
+shown in the figure, a tone with the pitch
+of 1,000 mel sounds twice as high as
+another tone with the pitch of 500 mel.
+Examination of the figure tells us this
+corresponds to a frequency shift from
+approximately 1,000 to 380 Hz." ["The
+Scinece of Musical Sounds," Sundberg,
+1992, pg. 47]
+The mel scale of pitch measures what
+is also sometimes called "ratio pitch."
+This is drastically different from the
+ordinary scale of perceptual musical
+pitch, since the mel scale applies only
+to sine tones.  
+However, the plot thickens as soon as
+we realize that *many musical timbres
+can be modelled as sums of sine waves.*
+Thus the conceptual basis for 
+conventional harmonic-series models
+of consonance, as well as for the 
+purported acoustic superiority of
+small whole-number ratios,
+comes into doubt as soon as we
+begin to examine the psychoacoustic
+evidence in detail.  If perceptual
+pitch is always different from 
+physical logarithmic pitch, how 
+can either equal-tempered or
+just intonation tunings offer a
+valid model for musical harmony
+and musical melody?
+To make matters even more complex,
+"In certain cases the amplitude 
+dependence of the pitch of complex
+tones is the opposite of that shown
+in Figure 3.4. If the loudness of a 
+complex tone of about 100 Hz 
+fundamental frequency is increased,
+its pitch may rise rather than drop."
+["The Science of Musical Sounds,"
+Sundberg, 1992, Pg. 46]
+"The pitch of pure tones depends not 
+only on frequency, but also on other
+parameters such as sound pressure
+level. (...) Pitch shifts of pure
+tones can also occur if additional
+sounds that produce partial masking
+are presented.  Pitch shifts produced
+by a broad-band noise masker are
+shown in Fig 5.4, and are given as
+a function of both frequency and
+critical-band rate of the pure tones,
+the level of which is 50 dB. (...)
+The results display in Fig 5.5 show pitch
+shifts up to 8% at low frequencies
+near 300 Hz, and a pitch shift
+of only 1% at higher frequencies
+between 1 and 4 kHz, due to the octave
+ratio of partial-masking tone
+and test tone." ["Psychoacoustics: 
+Facts and Models," Zwicker
+and Fastl, 1993, pp. 105-107]
+The pitch of pure tones is also
+dependent on their duration. 
+Doughty and Garner (1948) found
+that pitch is unchanging for tones of 
+25 msec and longer, but that
+12-msec and 6-msec tones have
+a lower pitch. [See Doughty, J. M and
+Garner, W.R. "Pitch Characteristics
+of short tones. II: Pitch as a function
+of tonal duration," J. Exp. Psychol.,
+Vol. 38, pp. 478-494, 1948]
+Corso summed up the situation when
+he concluded that "the pitch of musical
+sounds is not directly proportional to
+the logarithm of the frequency and is
+probably complexly conditioned." [Corso,
+J.F., "Scale Position and Performed Musical
+Octaves," Journal of Psychology, Vol. 37,
+1954]
+In short, most of what musicians
+"know" about pitch is untrue,
+at least as far as pure sine tones
+are concerned.   This casts strong
+doubt on tuning theories which ascribe
+to various pitch relationships "special"
+characteristics--in particular, the
+data adduced in this post casts strong
+doubt on both just and equal-tempered
+tuning systems, and would tend instead
+to favor non-just non-equal-tempered
+tunings.
+What about complex tones made
+up of many sinusoidal components
+and the influence of learning and
+context?  What are the implications
+for tuning and for music?
+That's the topic of the next post.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 2 Oct 1995 19:10 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA17686; Mon, 2 Oct 1995 10:10:07 -0700
+Date: Mon, 2 Oct 1995 10:10:07 -0700
+Message-Id: <Pine.A32.3.91.951002110443.55513A-100000@tiger.cudenver.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

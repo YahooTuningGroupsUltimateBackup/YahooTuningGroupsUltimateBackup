@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Wed, 30 Oct 1996 09:02:10 -0800
+
+Subject: gaRY: Diatonic Key Detection
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+See the book, "Harmony and Tonality" edited by J. Sundberg and published by 
+the Royal Swedish Academy of Music, Stockholm in 1987. Although there are 
+articles about microtonality, the one in question is about 12-tet. I think 
+Carol Krumhansl contributed to this one. Major and minor keys are 
+characterized by a set of twelve "probe tone ratings," experimentally 
+derived ratings of how well each of the twelve tones fits into a particular 
+key. The minor and major "profiles" are transposed to assign to each of the 
+twenty-four keys a point in twelve-dimensional space. Using multidimensional 
+scaling, a useful statistical technique, the authors find that the 
+relationships between the keys can be well represented on the surface of a 
+torus, shown as a recangle where the top and bottom edges are assumed to 
+connect and the left and right edges connect as well. The pattern shows the 
+two circles of fifths (major and minor) as a series of diagonal lines (which 
+connect through the edges to form an unbroken chain), with parallel and 
+relative keys nearby to each other. A Bach piece is subject to the same 
+multidimensional scaling procedure (I'm not sure how it is subdivided, or 
+whether durations of notes count), and is shown to worm its way around a 
+small region of the rectangle-torus. The results agreed very well with a 
+traditional analysis of the piece.
+
+The probe-tone profiles are psychologically derived, but Georg Hajdu "shows" 
+in Interface 22 that they may be related to the third or fourth octave of 
+the harmonic series, at least for the major scale. He dismisses the seventh 
+harmonic somehow; I think because it's too far from 12-tet to be important.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 30 Oct 1996 18:36 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02112; Wed, 30 Oct 1996 18:37:33 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04670
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA18922; Wed, 30 Oct 1996 09:37:31 -0800
+Date: Wed, 30 Oct 1996 09:37:31 -0800
+Message-Id: <23961030173432/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

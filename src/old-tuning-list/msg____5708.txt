@@ -1,0 +1,86 @@
+source file: mills2.txt
+Date: Sun, 29 Jun 1997 18:34:36 +0200
+
+Subject: Re: the 6th chord and odd-limit theory
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Thanks, Paul, for thanking me for my proof from before.  It's
+nice to know my work's being appreciated.  It's possible that
+this message will arrive before the other one I'm sending
+today.  Read that one first, or this one will make even less
+sense!
+
+The chords under discussion are: 12:15:18:20 and 14:18:21:24.
+In otonal, non-reduced matrix form, these are:
+
+        (2 0 1 0)          (3 1 0 0)
+        (1 2 0 0)          (0 1 0 1)
+        (0 1 1 0)H   and   (1 2 0 0)H
+        (2 1 0 0)          (1 0 0 1)
+
+They occupy the ROHSs (2 2 1 0)H and (3 2 0 1)H respectively.
+The latter chord, which is the larger odd-limit chord, also
+occupies the ROHS corresponding to the larger LCM.  It doesn't
+matter what the LCMs are: just note that 2*7<5.  Neither is
+a complete filling of the LCM, though, as neither contains
+the root.  This is, incidentally, a criterion for the maximum
+limit of the intervals being less than the limit of the
+chord.
+
+The next step is to look at the octave-reduced otonal
+versions of the chords.  They are:
+
+        (-3 1 1 0)         (-4 1 0 1)
+        (-3 2 0 0)         (-3 2 0 0)
+        (-2 0 1 0)H   and  (-2 0 0 1)H
+        (-1 1 0 0)         (-1 1 0 0)
+
+The two chords look very similar in this form.  Are they
+complete?  The first is clearly a subset of the (x 2 1)H
+otonality, or the Euler genus 3.3.5.  Here it is complete:
+
+                    (-5 2 1)
+                    (-3 1 1)
+                    (-3 2 0)
+                    (-2 0 1)H
+                    (-1 1 0)                 
+                    ( 0 0 0)
+
+The chord being considered is a section of this, and
+therefore a complete octave reduced (2 2 1)H chord, although
+not the utonal or otonal one.
+
+The octave reduced genus 3.3.7 is:
+
+                   (-5 2 0 1)
+                   (-4 1 0 1)
+                   (-3 2 0 0)
+                   (-2 0 0 1)H
+                   (-1 1 0 0)                 
+                   ( 0 0 0 0)
+
+It can now be seen that the second chord is the complete
+octave reduced (3 2 0 1)H chord above the root (-1 1 0 0)H.
+
+I don't know the significance of all this.  I worked out
+most of it as I was writing.  It does look interesting,
+though.  I think the reason that both chords are above the
+root (-1 1 0 0)H, or 3/2, is something to do with the
+compositeness of 9. 
+
+                       Graham
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 29 Jun 1997 20:13 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03959; Sun, 29 Jun 1997 20:13:28 +0200
+Date: Sun, 29 Jun 1997 20:13:28 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA03954
+Received: (qmail 4590 invoked from network); 29 Jun 1997 18:13:16 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 29 Jun 1997 18:13:16 -0000
+Message-Id: <v01541103afdca7a46951@DialupEudora>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

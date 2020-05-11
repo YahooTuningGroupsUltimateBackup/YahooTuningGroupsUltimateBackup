@@ -1,0 +1,492 @@
+source file: mills2.txt
+Date: Mon, 25 Nov 1996 07:28:43 -0800
+
+Subject: Post from Brian McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: the future of microtonality
+--
+While watching a particularly magnificent sunset
+with Maxfield Parrish clouds this evening,  it occurred 
+to me how far we've come--and how much there remains
+to do.
+The history of intonation can be divided into five
+eras. The first era, lasting roughly 15,000 years,
+began when nomadic hunters first built musical
+instruments.  Since bone flutes have been discovered
+in caves coeval with Neolithic stone tools from 
+15,000 years ago, it's clear that the act of building
+musical instruments predates the discovery of
+writing.  Thus xenharmonics is an earlier and more
+basic activity than reading and writing, and our 
+pre-school curriculum should be changed from the
+"three Rs" to the "three Xs." (Xenharmonic instrument
+building, Xenharmonic music-making, and Xenharmonic
+'Rithmetic.  JI is a superb way to teach fractions because
+you can *hear* them.) In the Trois Freres cave in Frances 
+there is a clear depiction of a performer using a mouth
+bow (also called a Jaws Harp), and since none of
+these instruments use 12-tone equal temperament
+it's also clear that microtonality has been actively
+practiced for at least 15,000 years, and probably
+longer.
+The second era of intonation was inaugurated by
+John Napier with his discovery of logarithms in
+the mid-16th century.  There's no mystery why
+the late 16th century witnessed such a remarkable
+explosion of interest in different tuning systems--
+"Napier's bones" had as vast an impact on composers
+and music theorists of the late 16th century as
+computers have had on composers and music
+theorists of the late 20th century.  Vicentino's
+and Huyghens' advocacy of 31-TET and Titelouz's,
+and Salinas' interest in 19-TET precisely follow
+the introduction of logarithms which for the
+first time allowed music theorists to easily
+calculate added or subtracted musical intervals.
+(I mean the 16th century Salinas, not J.A.M.
+Salinas here!)
+The third era of microtonality was ushered in by 
+John Henry Maudslay's 1843 invention of the modern
+lathe--which led immediately to modern machine
+tools, precise and reliably machined tolerances,
+and the standardization of machined parts. 
+Woodwind instruments and keyboard instruments
+could not be turned out at simultaneously low cost
+and high intonational accuracy prior to the Maudsley 
+lathe.  Even brass instruments and guitars were influenced 
+by modern precision machine tools: the equipment used
+to bent and shape the tubes of which brass instruments
+are made and the equipment used to make wound guitar
+strings has since the 1840s been entirely machined
+by modern precision machine tools.  (The valves of
+trumpets owe a particular debt to this technology.)
+To a large extent, Maudslay's lathe led to the 
+standardization of 12-TET in the western world and
+to the rule of the modern orchestra as the supreme
+ideal of western music.  And of course large 
+orchestras with complete families of all instruments
+were only possible once the woodwinds and brass
+instruments and the piano had been made intonationally
+accurate by the Maudsley lathe & its progeny.  (This
+is why earlier "orchestras" uses primarily stringed
+instruments with a few valveless brass instruments.)
+The fourth era of microtonality was inaugurated in
+1959 by Max Mathews' MUSIC I through IV computer
+programs.  All current commercial digital 
+synthesizers are essentially hard-wired subsets of
+the Mathews MUSIC N paradigm, with special-purpose
+ICs which allow sounds to be calculated in real
+time when the keys are pressed.
+The fifth era of microtonality dawned when the
+first fully retunable digital synthesizers appeared:
+the DX7II family in 1987.  This was the first time
+it was easily possible to explore an unlimited number
+of different tunings using many simultaneous 
+polyphonic notes with a large pallette of different 
+timbres.
+--
+It's worth a thought or two.  Although we've come
+far, we're still at  the beginning of the journey.  The
+most recent advance in intonation only came 9
+years ago, when for the first time in human history
+it was possible to rapidly switch between different
+tunings while playing enough simultaneous notes
+on an instrument cheap enough for anyone to afford
+in a large enough gamut of timbres to get a reasonable
+idea of what each intonation sounds like both 
+harmonically and melodically.
+9 years!  That's all!
+Retunable MIDI synthesizers offer an almost unbelievable
+breakthrough for the microtonal composer.  Prior to
+1987, composers either had to settle for a very limited
+timbral range (retunable analog Moog-type synthesizers)
+or a very small number of simultaneous notes (home-built
+non-12 guitars, metallophones, etc.) or a fabulously
+expensive computer music set-up (prior to the mid-1980s
+most computer music facilities were based around DEC
+minicomputers costing a quarter of a million dollars each
+--or more.  Prior to 1980, no privately owned single-user 
+high-quality 16-bit computer music  facility existed 
+anywhere in the world).
+While we've come far, it's sobering to realize that this
+latest breakthrough is only 9 years old.  To put it another
+way, 9.5 years ago, if you wanted to hear the sound of
+a string orchestra playing in 27-tone equal temperament
+or Partch's monophonic fabric or the free-free metal
+bar scale, you would have had to get a doctorate at an
+elite computer music institution.  Only grad students 
+at a few elite schools had access to the kind of computer
+power that would allow realization of xenharmonic music
+with a large number of different timbres and a large
+array of different tunings.
+Your other choice would have been to bury yourself
+in sawdust (like Partch) for 20 years to produce a
+set of xenharmonic instruments; but this still meant
+confining yourself to a single tuning system.  If you
+wanted to hear many different tunings played on
+many different instruments so as to compare the "sound"
+of each intonation, prior to 1987 you either had to
+be lucky enough to work as a grad student at IRCAM
+or Stanford or Princeton or Simon Fraser University
+or the U. of Toronto or Columbia or one or two other
+places.
+--
+In retrospect, our progress has been staggering.  For
+15,000 years, stasis--hand-built instruments, tuning
+by ear.  Suddenly, logarithmic calculation of musical
+intervals; then, 100 years later, high-speed digital
+computers.  30 years later, inexpensive special-purpose
+digital computers with built-in tuning tables (these
+special-purpose computers are now called "digital
+keyboards" but this should not deceive us as to
+their lineage or essential function).
+Looking forward, what can we see in the
+xenharmonic future?
+--
+Clearly the rapid rate of increase in the speed of 
+desktop computers means that within 10 to 15 years
+every synthesis algorithm currently used in Csound
+and its ilk will run in real time.  Of course, new
+and even more demanding synthesis algorithms
+will be developed in the meantime--but within the
+next 10 years or so the average person will be
+able to use a remarkable array of extremely
+sophisticated synthesis techniques to play
+notes generated completely in software by
+a desktop general-purpose computer in real time.
+This will probably be the next era of microtonality.
+--
+One likely result is that live concerts will
+continue to fade away. This has been happening
+already, but the trend will accelerate.  Johnny
+Reinhard has already noticed it.  Within a few
+years live concerts using traditional acoustic
+musical instruments will be priced far out of the
+range of the average person's ability to afford
+'em, and they'll be available in only a few of
+the world's largest cities.
+Another of the implications of this next era is that it
+will for the first time be possible to calculate
+the timbre of a microtonal instrument on the fly.
+Thus, it will be of great interest to match timbres
+to tunings.
+At present William Sethares' work in this area has
+gone relatively unnoticed by the microtonal community
+because exotic, expensive and wildly time-consuming
+programs are needed to analyze and resynthesize 
+acoustic sounds.  As of 1996, it requires anywhere
+from a few minutes to several hours to number-crunch
+an acoustic sound, manipulate its partials, and 
+resynthesize them so that the timbre fits the tuning.
+Programs like MatLab cost $2000 (yes, two THOUSAND
+dollars) and are difficult to use though adequately
+flexible; programs like Csound's HETRO and on the 
+Mac LEMUR cost nothing but are inadequate for 
+microtonal/musical use because of their lack
+of flexibility. (In MatLab you can tell the program
+to take input partials and map them to the closest
+notes in 19-TET; you cannot do this with HETRO or
+LEMUR.  Both HETRO and LEMUR prevent the user
+from accessing the guts of the program in this way.)
+Moreover, all of these programs require minutes
+or hours to complete a single analysis/synthesis
+cycle of a single note.  For multi-sampled notes
+spread over an 88-note keyboard, hundreds of
+analysis/synthesis cycles are required.  And
+for (say) 30 different timbres in (say)
+30 different tunings, tens of thousands of
+different analysis/resynthesis cycles would
+be needed.   This means years worth of non-stop
+computing time even with today's 200 Mhz
+CPUs.
+Bill Schottstaedt several years ago mentioned
+that he felt the need for a machine at least
+100 times as fast as the original NeXT cube.
+Given the magnitude of the tasks which face
+us in matching timbres to microtonal tunings,
+that probably represents a very conservative 
+estimate.
+--
+Beyond real-time resynthesis and its implied
+total timbral & pitch flexibility, what are the 
+next few eras of microtonality likely to be?
+Virtual synthesis and performance environments
+are likely to appear.  
+This implies that a generalized musical controller
+represents the next era of microtonality, beyond
+the next 10 years.  With VR gear it should be easy
+enough to produce a virtual theremin or a virtual
+marimba (we probably won't be using MIDI, but
+a superset thereof, possibly based on FIreWire
+or the Uuniversal Serial Bus) or a virtual violin
+or a virtual Bosanquet keyboard.
+It's unclear whether VR generalized keyboards will
+catch on; a large part of musical instrument
+performance is muscle memory built by tactile
+feedback.  VR gear offers no tactile feedback, nor
+is there any prospect of adding it to VR gear
+at low cost in the foreseeable future. (So much
+for teledildonics, gearheads.)
+So beyond the next 10 years my guess would be
+that the next era in microtonality will be heralded
+by new types of controllers, specifically Bosanquet-
+type controllers...  But it's unclear whether they'll
+be physical controllers or virtual instruments.
+--
+What are the current gaps?  What kinds of tools
+and theories do we need to push microtonality
+beyond the extremely primitive point at we
+find ourselves in the late 1990s?
+--
+First and most important is a generalized MIDI
+keyboard.  The lack of a true generalized 2-D
+keyboard has crippled microtonality to a 
+devastating extent.  Paul Rapoport has pointed
+out repeatedly in this forum that it's almost
+impossible to perform useful non-12 music 
+on a standard 7-white-5-black keyboard,
+and he's right.  A few of us have managed
+to produce some highly microtonal music
+using conventional keyboards by subjecting
+ourselves to a deeply perverted S&M-style
+conditioning process whereby we unlearn
+conventional fingering techniques and
+chord progressions--but this has proven
+useful only for the equal temperaments and
+just arrays with roughly 22 or fewer notes.
+Beyond that point, we've had to flounder
+around with solo melodic lines or N-out-of-M
+notes of a given intonation.
+--
+So my first clarion call to the members of this
+tuning forum is:  someone get to work 
+commercializing a cheap reliable MIDI 
+Bosanquet-type keyboard!  Harold Fortuin has
+already built one, but it's unclear whether
+his licensing agreement with STEIM will let
+him commercialize it, and it's even more
+unclear whether STEIM gives a damn about
+driving the cost down on the clavette and
+pumping these things out by the thousands.
+Probably not.  Most large music foundations
+have zero interest in doing the tough work
+required to move the state of the art forward
+and produce tectonic change;  large music
+foundations prefer to sponsor works of
+arts and individuals and thus produce 
+obvious tangible short-term one-of-a-kind
+results.
+ This leaves it to you, the members of this
+tuning forum.  Between you, there's more than
+enough talent and ability to produce a cheap
+commerical reliable MIDI generalized 
+keyboard.  
+Who among you will build one that I can
+afford to buy?
+--
+The second enormous gap is in software tools.
+Specifically, we need easy-to-use MIDI software
+tools which allow us to quickly and efficiently
+manipulate xenharmonic MIDI files.
+The problem is this:  if you're in, say, Partch's
+43-tone and you want to modulate to the 3/2,
+that means switching to a second MIDI channel
+in which all the intervals have been tuned up
+by a 3/2.  However, there's no easy way to
+directly transpose the existing MIDI sequence
+on channel 1 and use it harmoniously on channel
+2 along with channel 1 without encountering
+awkward commas.  A human performing such
+a modulation in just intonation would know
+which notes on channel 2 to omit and which
+notes "fit" with channel 1.  But MIDI, being
+nothing more than a set of note numbers from
+1-27,  knows nothing of which 3/2-transposed
+just pitches on channel 2 "fit" with the original
+pitches on channel 1.
+Clearly, we need an intelligent MIDI file parser.
+This MIDI file parser would offer a simple input
+screen and would quickly process input MIDI
+files and generate output MIDI files.
+In the example above, it would take MIDI notes
+on channel 1 and output MIDI notes on channel 2.
+Notes on channel 2 which don't "fit" with those
+on channel would be left on MIDI channel 1.
+This example concerns just intonation, but an
+equally important example could be taken from
+non-12 equal temperament.  Suppose you're
+composing a set of variations in 5-TET through
+53-TET; you want to play a theme in the nearest
+notes to a given set of pitches in each of those
+equal temperaments.  Your input is a set of
+MIDI notes.  How do you proceed?
+At present, a lot of skull sweat and programming
+is required.  Again, what we desperately need is
+an intelligent MIDI file parser.  The parser would
+offer a simple input screen (something like: "input
+number of tones/oct?" _____  "Number of output
+equal temperaments? (1-16)" ____   "Enter output
+ET number 1 and track number: " ___  ____ ...."
+In other words, this intelligent parser would
+accept user input and process a single MIDI
+file with a single track and generate an output
+MIDI file with multiple tracks.  Each output
+track would contain the MIDI notes of the 
+closest notes to a given set of pitches in
+a desired equal temperament.
+There is nothing like this in existence anywhere
+that I know.  It is an extremely important 
+requirement, since many situations arise
+every day in which such xenharmonic MIDI
+file processing is an absolute necessity.
+Let me give another example of badly needed
+this kind of intelligent MIDI file parser is:
+suppose you have a MIDI synth module like 
+the Proteus II orcehstral block.  This MIDI
+synth is basically a playback-only unit.  It
+contains lots of orchestral samples.  Because
+these samples are fixed in ROM, they can't
+be changed.  This means that if you want 
+to play the Proteus II in Partch 43 tone
+monophonic fabric pitches, most of the
+samples will sound godawful because they'll
+be either far too high or far too low.  That is,
+the note at which the sample was orginally
+recorded becomes farther and farther away
+from the pitch played in Partch 43 tone  JI
+as you move toward the extreme upper and
+lower end of the keyboard.
+Because the Proteus II has only one tuning
+table, you're stuck.  The only way around this
+problem is an intelligent MIDI file parser.
+What you need to do is break up the tuning
+table into 4 blocks of 12 out of the Partch
+43 just pitches;  each track would play
+12 of Partch 43 on a different channel.
+You then tune the Proteus II to set #1 of
+12 out of Partch 43 and play the processed
+MIDI track #1 containing MIDI tones
+for only 12 out of Partch 43.  You record
+this to hard disk or ADAT or portastudio.
+Then you play back processed MIDI track #2
+after returning the Proteus II to the second
+12-out-of-Partch-43 pitch table and record
+that in simul-sync with the first track.
+And so on for 4 complete tracks.
+When played back all together, the 4 
+separate tracks completely avoid the
+chimpunking (samples played much too
+high or low) and sound as they should.
+This can only be done with the aid of
+an intelligent MIDI file parser.
+We desperately need something like this.
+This tuning forum surely boasts a
+remarkable overload of programming
+talent.  Who among you will write
+such an intelligent MIDI file parser?
+--
+A third and extremely important task
+that someone needs to do is to tear
+down and resynthesize a complete
+set of sampled orchestral timbres
+so that the altered timbres are
+maximally consonant in equal
+temperaments 5 through 53 per
+octave.
+This is an enormous task, requiring
+fantastic amounts of processing
+power.  Who among you will accomplish
+this vital task?
+--
+A fourth extremely important gap
+in the xenharmonic toolkit is a set
+of MIDI file processing programs
+which clean up the output from
+non-standard controllers.  As we
+all know, microtonality accomodates
+atypical controllers--wind controllers,
+MIDI violin controllers, MIDI theremins,
+MIDI guitars.  The problem is that most
+of these controllers are not yet ready
+for prime time.  They output loads of
+spurious notes and glitches.  There
+should be easily-available shareware
+MIDI file processing programs which
+take input MIDI wind controller files
+and search-and-destroy all the tiny
+brief note-on glitches and spurious
+pitch-bends.  Ditto MIDI theremin
+input tracks: ditto MIDI guitar input
+tracks.
+Who among you will produce such a
+piece of shareware programming?
+--
+We also need music theory tools to
+deal with unanswered questions
+in microtonality.  
+Example: why does a tuning with
+"good" numbers like 24-TET sound
+so uninteresting while a tuning
+with "bad" numbers like 9-TET sound
+so musical and so fascinating?
+We need better theoretical tools
+than crude measurements of this or
+that scale against the harmonic series.
+As has been pointed out often enough,
+the harmonic series is not the be-all
+and end-all of music; most musical
+cultures throughout the world do not
+use pitches derived from the harmonic
+series, and psychoacoustic studies
+demonstrate that when intervals drawn
+from the harmonic series are played,
+most people hear them as "impure" and
+"not just."  Computer analysis of live
+performances by expert musicians also
+show wild deviations from the target notes,
+which deviations are nonetheless heard as
+being "in tune."
+We need more and better psychoacoustic
+research to understand this, and we need
+more sophisticated theories of intonation
+to explain these results.
+We need better music theoretic tools to
+quantify the "moods" of the various tunings,
+as Ivor Darreg called them.  Everyone knows
+that 5, 10, 15, 20, 25, 30, 35, and 40-TET
+share a similar "sound" or "mood."  But we
+need to be able to turn it into hard numbers.
+Similarly, everyone knows that Ptolemy's intense
+diatonic and the scale of Olympos share more
+of a "mood" than the enharmonic genus, but again
+we need more finely honed theories to quantify
+this.
+We all know that the "limit" of a just tuning
+has an important effect on the "mood" of the 
+scale.  But we need theoretical tools which
+will allow finer distinctions to be made 
+among just tunings than something as coarse
+as the "limit" of the tuning.  At present, there
+is a singular dearth of such theoretical tools.
+--mclaren 
+
+
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 25 Nov 1996 17:10 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07097; Mon, 25 Nov 1996 17:11:58 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA07185
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA03226; Mon, 25 Nov 1996 08:11:55 -0800
+Date: Mon, 25 Nov 1996 08:11:55 -0800
+Message-Id: <v02130501aebf733ec12e@[192.168.11.203]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

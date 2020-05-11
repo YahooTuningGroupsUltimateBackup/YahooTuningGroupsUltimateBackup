@@ -1,0 +1,67 @@
+source file: m1425.txt
+Date: Sat, 23 May 1998 17:37:26 -0700 (PDT)
+
+Subject: Re: making "GaMa-Oke" together? (Tuning Digest 1422 Topic 9)
+
+From: Mark Nowitzky <nowitzky@alum.mit.edu>
+
+(Retransmitted, 'cuz I accidentally sent it to the "list processor" instead
+of the tuning mailing list.  Sorry if you receive it twice.)
+
+Hi Igor,
+
+Sounds like an interesting project!
+
+At 10:29 PM 5/21/98 +0000, you wrote (Tuning Digest 1422 Topic 9):
+>From: BUYO-BUYO-IGOR <igor@db3.so-net.ne.jp>
+>Subject: making "GaMa-Oke" together?
+>
+>SaRiGaMa's Oil Vending Orchestra
+>would like to propose you to join our "Hz"-links!
+>...
+>What our orchestra intend is to prepare a "GaMa-Oke" a background "karaoke"
+>and let it be played at our studio jam thang.:
+>http://www.mars.dti.ne.jp/~buyobuyo/gamagama/forgama.html
+>
+>If you could start from latter root-Hzs....
+>this will help a lot to let us bind sounds
+>suitable to our "SONG no.5":
+>http://www.mars.dti.ne.jp/~buyobuyo/songs/five.html
+>
+>207.652
+>287.519
+>155.739
+>241.145
+>186.887
+>
+>these all have common harmonics 
+>
+>233.609 
+
+I'm having trouble seeing the harmonic relation on a couple of the above
+notes.  Here's what I get:
+
+        Freq    Name    Times "root" (233.609 Hz)
+        ------- ----    -------------------------
+        233.609 Bb      1/1
+        207.652 Ab      8/9
+        287.519 Db?     ?
+        155.739 Eb      2/3
+        241.145 B?      ?
+        186.887 Gb      4/5
+
+I cannot determine where 287.519 and 241.145 fit.  For example, the closest
+things I can find for 287.519 Hz are:
+
+        207.652 Ab * 4/3 = 276.869, or
+        186.887 Gb * 3/2 = 280.331.
+
+Thanks, and good luck with the project!
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu    AIM:  Nowitzky      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

@@ -1,0 +1,79 @@
+source file: m1364.txt
+Date: Tue, 24 Mar 1998 22:43:20 -0800 (PST)
+
+Subject: Re: just diminished (digest 1362, topic 1)
+
+From: Mark Nowitzky <nowitzky@pacificnet.net>
+
+Hi Bob,
+
+(I was trying to get this into the bottom of Digest 1363 - "Missed it by
+'that much'...".)
+
+At 09:07 AM 3/23/98 -0800, you wrote (Digest 1362, Topic 1):
+>From: "Bob Lee" <quasar@wco.com>
+>Subject: Well temperaments, just diminished
+>...
+>On another subject, some of the music I play contains "diminished 7th"
+>chords (stacked minor thirds).  Is this chord a modern invention?  It seems
+>to me that such a thing is impossible in anything but equal temperament.
+>I'm having a hard time getting acceptable diminished chords out of my E9
+>pedal steel using the standard JI tuned pedals.  I know I could tune a pedal
+>specifically for these chords, but that's really an awkward solution.
+>Comments?
+
+My thoughts are based on these two assumptions:
+
+1) If you want to avoid "preparing" your instrument by altering it normal
+tuning, you should stay with "5 limit" just intonation.  Your Nashville E9th
+pedal steel tuning chart, at
+http://www.wco.com/~quasar/articles/just_e9.html, uses 5-limit ratios, even
+with the compensators.
+
+2) The tuning of diminished chords depends on the subsequent chord.
+
+For purpose of discussion, suppose you're basically in the key of E, so
+you're heading for an E major chord.  Here's your E triad (4:5:6):
+        E:      E (1/1)         G# (5/4)        B (3/4)
+
+Here's a possibility for tuning a D# diminished triad (45:54:64=5:6:4*16/9):
+        D#dim:  D# (15/8)       F# (9/8)        A (4/3)
+
+You can get it by taking the top three notes of a B7 chord
+(36:45:54:64)=(4:5:6:4*16/9):
+        B7:     B (3/4)         D# (15/8)       F# (9/8)        A (4/3)
+
+To replace a B7 with a C full diminished seventh, you could raise the B by a
+"leading tone" ratio (16/15), arriving at this
+(192:225:270:320)=(4*16/15:5:6:4*16/9):
+        Cdim7:  C (4/5)         D# (15/8)       F# (9/8)        A (4/3)
+
+But there's no C on your tuning chart.  Suppose you transpose the whole
+thing up a fifth (to get F#7 with the F# raised to a G):
+        Gdim7:  G (3/5=6/5)     A# (45/32)      C# (27/32)      E (1/1)
+
+Now the C# (27/32) is not on the instrument.  The only C# on the chart is 5/6.
+
+No matter where you transpose to, it turns out you'll always be missing one
+of the four notes.  Here missing notes are shown in square brackets ([]),
+and "FX" is "F double sharp":
+        Cdim7: [C (4/5)]        D# (15/8)       F# (9/8)        A (4/3)
+        Edim7:  E (1/1)        [FX (75/64)]     A# (45/32)      C# (5/6)
+        Gdim7:  G (6/5)         A# (45/32)     [C# (27/32)]     E (1/1)
+
+The rarest of the necessary intervals on the instrument is 75/64, as it
+appears only at G (6/5) - A# (45/32).
+
+Perhaps the best solution is to leave out one of the four notes, depending
+on which ones are available at the time.  Or get an instrument with even
+more strings and pedals - But it'll start looking like a harp!
+
+Good luck!
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@pacificnet.net                      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

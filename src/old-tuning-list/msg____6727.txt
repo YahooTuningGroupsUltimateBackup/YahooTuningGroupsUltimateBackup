@@ -1,0 +1,134 @@
+source file: mills3.txt
+Date: Sat, 20 Dec 1997 05:42:22 +0100
+
+Subject: Reply to Paul Ehrlich
+
+From: Gregg Gibson <ggibson@ww-interlink.net>
+
+Gregg Gibson said:
+> >>The ideal value for the octave itself is of course 1200/19 = 63.16 ;
+> >>here are the values for the other six consonances.
+> >>3:2     701.96/11 = 63.82
+> >>4:3     498.04/8 = 62.26
+> >>5:4     386.31/6 = 64.39
+> >>5:3     884.36/14 = 63.17
+> >>6:5     315.64/5 = 63.13
+> >>8:5     813.69/13 = 62.59
+> >
+> >>If one considers the consonances to be all of equal importance, one can
+> >>simply take the average of the above seven figures, which is 63.22, to
+> >>arrive at a figure for the octave of 1201.2.
+
+Paul Ehrlich said:
+> >Gregg, this is not correct. You are not giving equal importance to the
+> >intervals above. Since whatever compromise is made in taking the average will
+> >be multiplied 14-fold for the 8:5 but only 5-fold for the 6:5, you are being
+> >more permissive for tuning errors in the larger intervals. I am certain
+> >Fokker would not have made this mistake, being a brilliant physicist. I know
+> >you will probably gloss over this post the way you have dismissed, with total
+> >lack of understanding, my other comments. But if you are interested, I will
+> >tell you the other things wrong with your calculations here, and how I
+> >arrived at an optimal octave of 1202.7 cents for 19-equal.
+
+Since you presume to assert that I have "glossed over" and dismissed
+your posts with "total lack of understanding" and since you compound
+your folly by seeking to assert that the great Fokker would have fallen
+into the gross error into which you have fallen, sir, I am compelled to
+explain to you that:
+
+1. Fokker's method is as I have stated. Read the references for
+yourself. If you do not have access to Fokker's original texts, use
+Mandelbaum.
+
+2. Fokker could have used _no_ method to achieve equal weighting of
+deviations of the consonances. The most _basic_ principle of
+temperament, which is taught to all _beginners_ in this discipline, is
+that there can be _no_ temperament which compromises the consonances
+equally. This arises from the mathematics of the case. _Learn_
+mathematics before you make such statements, which again, only show your
+ignorance.
+
+Now that I have administered the bitter pill, let me add a large
+tablespoon of sugar. You are quite bright. You were led into this faulty
+conclusion by assuming that the consonances are independent, and so,
+vary independently when tempered. I use non-mathematical language here
+deliberately. But in fact the consonances consist of three pairs, 5:4 &
+8:5, 6:5 & 5:3, and 3:2 & 4:3, each of which pair varies as if it were a
+single interval, so far as temperaments are concerned. Therefore, to
+seek some system which shall weight deviations from the consonances
+equally, even in the case in which the octave is itself tempered, is the
+classic pons asinorum of temperament, for no such system can exist. Were
+however, you to confine yourself to the narrower (but unfortunately,
+perfectly irrelevant) objective of finding a tempered octave which
+should deteriorate both of the members of each _pair_ of the consonances
+equally, either from just or from their 19-tone equal values,
+independent of the other two pairs, then, and then only, would your
+objection be valid.
+
+I advise you to study the cycle of 22-tone equal consonant fifths. See
+if you can find a consonant third, four fifths above the tonic. If you
+cannot (and you cannot) your arguments fall to the ground. I repeat that
+when I was a beginner, I made the same mistake you are making.
+
+Your assertion that the chromatic modes of 19-tone equal are just as
+well expressible in 12-tone equal, could never be made by anyone who has
+heard them, and extensively used them in music with any harmonic
+element. Even in melody, and even insofar as the diatonic modes are
+concerned, the 12-tone equal modes so deviate from the tonal fabric of
+just intonation that they are very evidently deteriorated. But in the
+chromatic modes, where the augmented tone is so much used, the
+difference is enormous.
+
+Finally, let me observe that the value of 1202.7 cents for the octave,
+while apparently very precise, and possibly indicative that one person
+may have copied the other without acknowledgement, actually follows from
+the decision to round the 19-tone equal tuning degree, 63.16 cents,
+upward by the nearest tenth of a cent. 63.2 cents gives an octave of
+63.2 x 19 = 1200.8 cents. 63.3 cents gives an octave of 63.3 x 19 =
+1202.7 cents. 63.4 cents gives an octave of 1204.6 cents. Back in the
+early 90's I settled on the value of 63.3 cents as the value which seems
+best when taken to the nearest tenth of a cent. Almost anyone who
+thought of tempering the 19-tone octave would be led to 1202.7 cents as
+the most eligible of the three values. I repeat that I have no interest
+in disputing priority of this discovery. The true credit, insofar as it
+belongs to anyone, belongs partly to Fokker, who to my knowledge at
+least, first suggested tempering the octave with the purpose of
+improving the other consonances. He therefore put the germ of this idea
+in my own mind, and it is my habit to make occasional reference to this
+as a kind of tribute. This is a very important discovery, for by it the
+19-tone equal becomes virtually as smooth harmonically as the 31-tone
+equal.
+
+I bear you _no_ personal ill will. I myself _do_ sometimes make bad,
+terribly embarassing mistakes. We all do. The best defense against
+despising ourselves is to adopt an elaborately civil tone in all public
+discourse.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Gregg Gibson <ggibson@ww-interlink.net>
+Subject:  Mandelbaum's Use of 31-tone Equal
+PostedDate:  20-12-97 05:51:47
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  20-12-97 05:49:45-20-12-97 05:49:45,20-12-97 05:49:20-20-12-97 05:49:21
+DeliveredDate:  20-12-97 05:49:21
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256573.001A82DE; Sat, 20 Dec 1997 05:51:30 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA22468; Sat, 20 Dec 1997 05:51:47 +0100
+Date: Sat, 20 Dec 1997 05:51:47 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA22436
+Received: (qmail 12002 invoked from network); 19 Dec 1997 20:51:44 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 19 Dec 1997 20:51:44 -0800
+Message-Id: <349BB0D2.4BDC@ww-interlink.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

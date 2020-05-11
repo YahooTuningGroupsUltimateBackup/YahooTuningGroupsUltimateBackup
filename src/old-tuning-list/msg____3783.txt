@@ -1,0 +1,38 @@
+source file: mills2.txt
+Date: Fri, 18 Oct 1996 15:55:10 -0700
+
+Subject: RE: Equal beating well temperaments, rep
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+Manuel wrote,
+
+>     E.B. Intervals      Fifths          Approximation
+>6/5 = twice 3/2         698.048         2 schisma
+
+This may be mathematically correct, but schismatic temperaments should refer 
+only to those with fifths larger than 700 cents. Otherwise, the diatonic 
+thirds are purer than the schismatic thirds, and the tuning is better 
+characterized as a meantone temperament, quantified by the fraction of a 
+(syntonic) comma by which the fifth is tempered.
+
+5/4 = twice 3/2         698.590         1/7 pyth. comma
+
+It doesn't seem useful to characterize a tuning as a tempering of the 
+pythagorean comma unless the tuning in question is an equal temperament.
+
+ -Paul
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 19 Oct 1996 01:06 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03173; Sat, 19 Oct 1996 01:07:56 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA03174
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id QAA20777; Fri, 18 Oct 1996 16:07:53 -0700
+Date: Fri, 18 Oct 1996 16:07:53 -0700
+Message-Id: <Pine.SCO.3.91.961018154930.1210A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

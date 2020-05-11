@@ -1,0 +1,35 @@
+source file: mills2.txt
+Date: Sun, 20 Oct 1996 10:08:54 -0700
+
+Subject: Re: Similarity of scales.
+
+From: Gary Morrison <71670.2576@CompuServe.COM>
+
+> to my ear, Blackwood's
+> comment that a diatonic scale will sound "recognizable" if it follows the
+> standard pattern of 2 large intervals, one small, three large, and one small
+> seems correct. 
+
+   Certainly that's more true in a melodic perspective than harmonic.  Diatonic
+melodies, even rhythmically simple ones, are very easily recognizable on
+shrunken or stretched interval sizes.  Try for example tuning up a synthesizer
+to 12 steps per 3:2 and play some familiar melodies.  You'll definitely
+recognize them.  They're even recognizable if the "coefficient" is negative as
+well as fractional or mixed.  In other words, melodic inversion works!  
+
+   But it's also very easy to see that diatonic harmony is instantly destroyed
+by doing this.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 20 Oct 1996 19:07 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04285; Sun, 20 Oct 1996 19:09:44 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA04290
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA05425; Sun, 20 Oct 1996 10:09:41 -0700
+Date: Sun, 20 Oct 1996 10:09:41 -0700
+Message-Id: <961020170429_71670.2576_HHB70-5@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

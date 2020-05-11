@@ -1,0 +1,47 @@
+source file: mills2.txt
+Date: Tue, 5 Nov 1996 14:18:41 -0800
+
+Subject: RE: non-realtime microtuned MIDI
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+John Sankey writes:
+> Of course, exactly the same technique can be used for 
+> close-to-full microtuning by approximation with 15  12-tet 
+> tunings - the only problem is, what is the most practical way 
+> to tell the program what note is which when there are too many 
+> notes to want to do it by hand as I do now? Probably it would 
+> be to play the piece through N times, with a different 
+> velocity setting each time, playing only the notes in a 
+> certain class each time, then merging to a single block. Then, 
+> would it be easier to play by note number (note# 0-127, then 
+> 128-255 ...), or interlaced (note# mod N = 0,N-1)? Or, has 
+> someone a better idea?
+
+Would it not be possible to distinguish each pitchbend-class by
+channel number directly? Thus making N tracks in the sequencer, assign
+a different channel number to each of them, play the piece through N
+times, then merge the tracks to one block. That way the velocity value
+won't have to be sacrificed and the program doesn't have to do much, namely
+only putting the pitch bend commands at the beginning of the MIDI file.
+Well I realise that this comes down to telling the program which note
+represents which by hand.
+Alternatively, using a keyboard with program-change buttons you could
+press one before each note and let the program translate the program
+change commands to channel numbers. That way you can enter everything
+more conveniently all tracks at once, or track by track.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 5 Nov 1996 23:19 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04938; Tue, 5 Nov 1996 23:19:58 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04963
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA00657; Tue, 5 Nov 1996 14:19:55 -0800
+Date: Tue, 5 Nov 1996 14:19:55 -0800
+Message-Id: <009AAEF7DF6F27C0.0681@vbv40.ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

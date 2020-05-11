@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Tue, 11 Feb 1997 05:55:15 -0800
+
+Subject: Ghosttones 2
+
+From: Gary Morrison <MorriSonics@compuserve.com>
+
+Charles Lucy posed a whole big slew of questions about viewing a
+vibrating string from various angles and in various lights.  Unfortunately
+if he was trying to come to some sort of point with those questions, I'm
+afraid I totally missed it, despite having read them twice.  
+
+   Best I can tell his last questions were something of a summary:
+
+> Could the integer frequency ratios be approximations?
+> Can you "prove" that the integer frequencies ratios is the
+> only possible mathematical model to describe what you
+> observe?
+
+   The idea that strings, and most air columns as well, used in common
+musical practice have precisely harmonic partials is indeed only an
+approximation.  It is also very good approximation.  
+
+   You can see that readily by decomposing and then recreating such a tone
+with absolutely perfectly harmonic partials, which I personally have done. 
+Without a doubt it's certainly noticeably different, but its effect upon
+harmony is far less than, for example, chorus effect.  The relative
+amplitudes of the partials are almost certainly more significant to the
+perceived character of harmonies than such minuscule pitch deviations.  
+
+   That however is not even close to true for characteristically
+nonharmonic instruments like xylophones, bells, timpani, and is only
+marginally true for the piano.  
+
+   One of these days I'll have my internet/web act together and post some
+strictly harmonic tones with their "original" versions.  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 11 Feb 1997 15:54 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02459; Tue, 11 Feb 1997 15:54:21 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02457
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id GAA22422; Tue, 11 Feb 1997 06:52:18 -0800
+Date: Tue, 11 Feb 1997 06:52:18 -0800
+Message-Id: <009AFBBBE70AE82D.2562@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

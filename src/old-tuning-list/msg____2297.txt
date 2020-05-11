@@ -1,0 +1,93 @@
+source file: mills2.txt
+Date: Fri, 10 Nov 1995 08:52:32 -0800
+
+Subject: Re: Harmonic&subharmonic Scales
+
+From: World Harmony Project <sejic@freenet.ufl.edu>
+
+Hello, from Denny Genovese
+
+The scale I have primarily used since 1978 is the natural harmonic series from 1 to 32:
+> 
+> 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 24 26 27 28 30 32
+> - - - - - - - - - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+> 1 1 1 1 1 1 1 1 1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+> 
+> 
+> 
+> 1/1 is a low C at 64Hz. All the other pitches are exact multiples of 64Hz.
+> 
+> All even top numbers are doublings of odd numbers that appeared 
+> previously in the series. It amounts to five octaves. The first octave 
+> has one pitch: 1/1. Each successive octave has twice as many pitches as 
+> the one below it. 
+> 	This scale can be used both melodically (almost diatonic but a 
+> little stranger) and harmonically (all pitches blend well with each other 
+> because they are all harmonics of 1/1).
+> 	I first discovered it in 1974, while sweeping a resonant filter 
+> over a sawtooth wave. I discovered it again in 1978 while trying to make 
+> a flute and accidentally inventing the Fipple Pipe.
+> 	Since then I have learned of a few others that also use it including Jules 
+> Seigle, Robert Dick and Johnny Reinhart. Lou harrison uses the same basic 
+> scale exept that he uses subsets of the duple between 12 and 24 in an 
+> octave repeating scale (at least that is what he once told me).
+> 	This scale is a rich resource for discovering new melodies and 
+> harmonies that are resonant and powerful as well as restfull and peace 
+> producing. It all depends on how they are used.
+> 	My New College thesis was devoted to an exposition of the 
+> resources and uses of this scale (THE NATURAL HARMONIC SERIES AS A 
+> PRACTICAL APPROACH TO JUST INTONATION, Denny Genovese 1991. Available 
+> from the Southeast Just Intonation Center for $20)
+> 
+> 	In more recent times, I have been experimenting (and composing!) with
+> the inverse of this scale, the Subharmonic Series. This series begins 
+> with a very high pitch (2048Hz.) and proceeds DOWNWARD by subdivisions:
+> 
+> 1 1 1 1 1 1 1 1 1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+> - - - - - - - - - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+> 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+> 
+> etc.
+> 
+> This scale is very different in sound from the first one. All the 
+> individual intervals of the harmonic series are there, but in reverse 
+> order. This makes chord construction more tricky because of the high
+> possibility of dissonance. Again, though it is rich for both new melodies 
+> and harmonies. You just have to be more careful with it. Also, in the 
+> subharmonic series it is 
+> helpfull to think of the octaves being between multiples of 3, rather 
+> than 2 (other modes are possible in both scales, and these greatly modify 
+> the character of the scales).
+> 
+> 	I have found it practical to work gradually from the basic 
+> materials of the harmonic series and the subharmonic series in order 
+> to thoroughly learn their characteristics. Now that this has been 
+> accomplished, my current work is concerned with a matrix-like web of both 
+> types of scales in which each member of the subharmonic series serves as 
+> a fundamental for a new harmonic series. At the same time, each member of 
+> the harmonic series serves as a fundamental for a new subharmonic series.
+> This is similar to Harry Partch's tonality diamond, and is equivalent to 
+> his Primary Tonalities, exept that I am using the series themselves (and 
+> subsets in various modes) as scales, rather than as resources for a 
+> composite linear scale. Also I am using much higher primes than the 11 
+> limit that Partch was satisfied with. My reasons for all this are 
+> outlined in my thesis.
+> 
+
+Best wishes,
+
+
+Denny Genovese
+
+sejic@freenet.ufl.edu
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 10 Nov 1995 20:57 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA08782; Fri, 10 Nov 1995 10:56:58 -0800
+Date: Fri, 10 Nov 1995 10:56:58 -0800
+Message-Id:  <9511101055.aa05266@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

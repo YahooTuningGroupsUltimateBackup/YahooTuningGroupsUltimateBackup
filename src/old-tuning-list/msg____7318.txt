@@ -1,0 +1,38 @@
+source file: m1369.txt
+Date: Sun, 29 Mar 1998 13:31:50 -0600
+
+Subject: talk in Illinois
+
+From: sethares@eceserv0.ece.wisc.edu (William Sethares)
+
+For those of you in the Champaign-Urbana area,
+I'm giving a talk this next Friday (April 3)
+in the Music Building at U of I... about musical
+scales and spectra and so on. Here's the abstract:
+
+***************************
+
+
+Perception-Based Audio Processing
+
+At the intersection of signal processing, music, and psychology lies
+perception-based audio processing, which investigates the
+relationships between the structure of sounds, the structure of music,
+and the underlying biological/perceptual aspects of the human
+auditory system.
+
+The talk begins by showing how to build a device that can measure
+the "sensory" consonance and/or dissonance of a sound in its musical
+context. As shown in my recent book "Tuning, Timbre, Spectrum,
+Scale", such a "dissonance meter" has implications in music theory, in
+synthesizer design, in the construction of musical scales and tunings,
+and in the design of musical instruments.
+
+Two issues are discussed in detail:
+  (a) Given a sound, what is the scale in which it can be played
+most consonantly?
+  (b) Given a scale, how can sounds be constructed which will appear
+most consonant in that scale?
+
+Sound examples and musical excerpts are presented throughout,
+and both the strengths and limitations of the method are discussed.

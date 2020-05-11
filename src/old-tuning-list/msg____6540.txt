@@ -1,0 +1,71 @@
+source file: mills3.txt
+Date: Fri, 5 Dec 1997 18:03:47 +0100
+
+Subject: Arabic Tunings
+
+From: Polychroni Moniodis <UPB_MONIODIS@ONLINE.EMICH.EDU>
+
+On recommendation I picked up the text, _The Music of the Arabs_, by
+Habib Hassan Touma.  I must say that with regard to tuning, the book
+was a great disappointment.  Only 6 pages, p. 17-22, were devoted to
+this topict--the amount of material was scant, and the analysis,
+anemic.
+
+Just a quick glance at the few intervals presented found errors:
+
+p. 19:   54/49 should be 50/49
+p. 21:  19/9 should be 16/9
+p. 21  253/243 should be 256/243
+p. 21   32/22 should be 32/27
+
+No explanation is given at the derivation of intervals such as
+162/149 (p. 19) or how and why the ratios as 18/17 and 50/49 are
+deployed.
+
+One cannot even speak of a worthwhile historical analysis here at
+all.  Conjecture compounds speculation.
+
+I have yet to find a good treatment of Arabic tunings in English.  It
+appears as though I may have to attempt wading through the
+French six volume work of d'Erlanger, _La musique arabe_.  Which,
+given that I have not studied French, leaves me divining from the
+mathematics (which is d'Erlanger usually involves complex fractions,
+i.e., 1+1/8 instead of 9/8) and reasoning out French words from Latin
+roots.
+
+If anyone knows of a decent treatment of this subject in English, in
+particular with regard to Zalzal, Al-Farabi, and Safi ad-Din, it
+would be most appreciated.
+
+Regards all,
+
+Polychroni Moniodis  
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  Polychroni Moniodis <UPB_MONIODIS@ONLINE.EMICH.EDU>
+Subject:  Re: Arabic Tunings
+PostedDate:  05-12-97 19:10:49
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  05-12-97 19:09:08-05-12-97 19:09:09,05-12-97 19:08:59-05-12-97 19:08:59
+DeliveredDate:  05-12-97 19:08:59
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256564.0063B1B0; Fri, 5 Dec 1997 19:08:55 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07309; Fri, 5 Dec 1997 19:10:49 +0100
+Date: Fri, 5 Dec 1997 19:10:49 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA07302
+Received: (qmail 21477 invoked from network); 5 Dec 1997 10:10:45 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 5 Dec 1997 10:10:45 -0800
+Message-Id: <01IQTDY0DJFC90SKZ1@ONLINE.EMICH.EDU>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

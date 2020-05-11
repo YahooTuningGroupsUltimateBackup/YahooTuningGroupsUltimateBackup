@@ -1,0 +1,30 @@
+source file: mills2.txt
+Date: Tue, 3 Jun 1997 05:19:32 +0200
+
+Subject: utility
+
+From: "Amit Lissack" <amitlisk@spacelab.net>
+
+In case anyone is interested, I have written a program that will play
+any equal tempered scale on any synthesizer.  Goto
+http://www.spacelab.net/~amitlisk/download.htm and click on tuner.zip.
+
+
+-- 
+Amit Lissack
+amitlisk@spacelab.net
+http://www.spacelab.net/~amitlisk
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 3 Jun 1997 07:06 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09367; Tue, 3 Jun 1997 07:06:19 +0200
+Date: Tue, 3 Jun 1997 07:06:19 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA08708
+Received: (qmail 34 invoked from network); 3 Jun 1997 04:18:35 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 3 Jun 1997 04:18:35 -0000
+Message-Id: <Pine.SUN.3.95.970603000801.682A-100000@sunspot.tiac.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

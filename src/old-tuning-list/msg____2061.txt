@@ -1,0 +1,242 @@
+source file: mills2.txt
+Date: Wed, 27 Sep 1995 08:13:43 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Psychoacoustics - post 4 of 25
+---
+The ear itself is the gateway to new kinds
+of harmony and new forms of music.  The
+more we learn about the subtleties of the
+ear/brain system, the wider the range of
+xenharmonic musics we can make.
+---
+MYTH: EVERYONE KNOWS HOW THE EAR PERCEIVES
+  PITCH. HELMHOLTZ EXPLAINED IT IN 1863.
+FACT: Since 1841 there have been 3 competing theories
+of how the ear operates. 
+Some evidence supports, while other evidence 
+contradicts, each hypothesis about 
+how the ear perceives sound.
+---
+Ohm (1843) is the founder of modern hearing
+theory.  "Ohm introduced the view that the
+analyzing power of the hearing organ may be 
+compared to the way in which periodic 
+functions can be analyzed mathematically
+by applying Fourier's theorem (Ohm 1843).
+Helmholtz fully recognized the significance
+of this hypothesis and based his theory on
+it..." ["Experiments On Tone Perception,"
+Plomp, R., 1967, pg. 102]
+In effect both Ohm and Helmholtz viewed
+the ear as a frequency analyzer. Ohm's First
+Law states that the ear detects a pitch
+only if there is significant acoustic
+energy at the fundamental frequency of
+that pitch, which (as we all know) consists
+of a set of sine wave harmonics added
+together.
+---
+Everyone knows this, and it's wrong.
+Ohm's hypothesis was dealt a series of
+blows by experimental evidence.
+Researchers using crude light microscopes
+from the 17th through the early 19th centuries
+examined the cochlea and found what appeared
+to be rods.  This naturally suggested a set of
+tuned resonators--an idea which Helmholtz
+picked up in the 1840s and elaborated into
+the first (resonance) version of his theory of 
+hearing.
+"The principle of resonance, based on early work
+of Galileo, was proposed as a way for low and high
+tones to have different effects on the ear. For example,
+in 1683 du Verney, in his `Traite de l'organe de
+l'ourie,' suggested that a ribbon-like structure
+along the length of the cochlea vibrates in different
+places to different frequencies through resonance
+by noting that the width of the ribbon changed from
+one end of the cochlea to the other. (..) In 1851 Corti
+described a number of the finer structures inside the 
+cochlea, the most prominent of which he called teeth,
+while others called them rods.  The inverted V is 
+now called the "arch of Corti," but his vantage point
+was from above, so that the arches appeared as extended
+rods...  He described the rods as delicate, free, and flexible,
+and he supposed that their movements stimulated acoustic
+nerve fibers which, at the time, were believed to end 
+in the vicinity of the rods." [Gulick, W. Lawrence, 
+George A. Geschneider and Robert D. Frisina, "Hearing:
+Physiological Acoustics, neural coding and Psychoacoustics,"
+Oxford University Press, 1989, pg. 59]
+The mistaken picture of the arches of Corti as resonating rods
+was the one used by Helmholtz to support his earliest
+"resonance" theory of hearing.
+However, successive improvement in the resolution of
+available light microscopes--due largely to the work
+of the mathematician Abel--dealt a serious blow to
+Helmholtz's 1863 "Tonemfindungen," in which he stated
+in detail a theory of hearing he had presented in a lecture in
+Bonn during the winter of 1857.
+"In his public lecture in 1857, Helmholtz proposed that
+sounds reaching the cochlea would set certain of the rods
+of Corti in motion by sympathetic vibration.  He envisaged 
+the rods as a set of tuned resonators, so that only those with
+a natural frequency equal to that of the stimulus would vibrate
+and thus stimulate only those acoustic fibers that served them."
+[Gulick, W. Lawrence,  George A. Geschneider and Robert D. 
+Frisina, "Hearing: Physiological Acoustics, neural coding and Psychoacoustics," Oxford University Press, 1989, pg. 60]
+The subsequent microscopic "...discoveries of Deiters in 
+1860 made it clear that the rods of Corti were unsuitable as 
+resonators because they were arches rather than independent 
+rods. So, in `Empfindungen,' Helmholtz revised his theory by
+shifting the resonators to the transverse fibers of the basilar
+membrane, a membrane "stretched" across the cochlear tube."
+[Gulick, W. Lawrence,  George A. Geschneider and Robert D. 
+Frisina, "Hearing: Physiological Acoustics, neural coding and Psychoacoustics," Oxford University Press, 1989, pg. 61]
+In keeping with the ancient principle of likeness, according
+to which features of the nervous system symbolzed the external
+world, Helmholtz adopted the doctrine of "specific nerve energies," 
+which stated that each nerve responded to a unique stimulus
+and only to that stimulus.  This doctrine was proposed by Helmholtz's
+teacher Johannes Mueller in 1838 in Mueller's `Handbuch der 
+Physiologie,' but it was first stated by Herophilus and Eristratus 
+in 490 B.C. and subsequently expounded by Aristotle in 344 B.C.
+"By extending Mueller's doctrine, Helmholtz claimed that each 
+acoustic nerve fiber had its own `quality,' so that, when activated, 
+it always led to the perception of a particular pitch. (..) Accordingly,
+frequency was coded by the place of stimulation along the longitudinal
+axis of the cochlea." [Gulick, W. Lawrence,  George A. Geschneider and 
+Robert D. Frisina, "Hearing: Physiological Acoustics, neural coding and Psychoacoustics," Oxford University Press, 1989, pg. 61]
+This did not solve the problems with Helmholtz's theory of
+hearing.  Instead, more and more dififculties began to appear
+after its publication in 1863:
+"First, the transverse fibers of the basilar membrane are 
+neither under tension nor independent. Therefore, they are
+ill-suited to serve the function ascribed to them in theory.
+(..) Second, even if the transverse fibers were under tension
+and independent suspended, the variation in fiber length and
+mass is so restrictive as to limit resonance to a frequency
+range that is only a small fraction of the total to which we
+respond. (..)
+"Third, there is a serious difficulty with the principle of 
+resonance as a means to account for frequency discrimination.
+(..) Fourth, since no resonance is wholly specific, Helmholtz's
+theory also was criticized because a tone of a given frequency
+would produce resonance not only in the tuned resonator but also
+in those that are slightly mistuned.  Accordingly, one tone would
+signal a number of places, and therefore, a number of pitches.
+In 1900 Gray offered his hypothesis of maximum stimulation to
+counter this objection. He proposed that the exactly tuned
+resonator would also show maximum resonance, and it was this
+trasnverse fiber that singaled the place for that tone. However,
+he claimed that with intense stimulation many resonators would
+be responding at the practical maxima, and since the precision of
+the place would thereby be lost, he predicted that differential
+pitch sensitivity would worsen as a function of increasing
+intensity.  Psychophysical data show the opposite to be true.
+(..) Fifth, Helmholtz assumed that changes in stimulus intensity
+produced changes in stimulus magnitude.  However, by 1914, the
+work of Adrian on the all-or-none property of neural action seemed 
+emphatically to deny this requirement of the Helmholtz theory.
+As the current century began, the resonance-place theory of hearing 
+was in some trouble."  [Gulick, W. Lawrence,  George A. Geschneider and 
+Robert D. Frisina, "Hearing: Physiological Acoustics, neural coding and Psychoacoustics," Oxford University Press, 1989, pg. 63]
+Other strong doubts about the Helmholtz or "place" theory of hearing 
+arose as a result of Seebeck's experiments in 1843.
+"He constructed a siren from a forced air system, in front of which
+he placed a rotating disk with small holes separated by specific 
+distances so as to produceshort sound pulses separated by
+precisely specified time intervals. (..) The pitch of this periodic
+pulse was the same as that of a 500-Hz tone.  This is not surprising,
+since the pulse train delivered 500 pulses/sec. A more surprising
+result occurred when pulses alternated between two slightly
+different values. Although the timing between pulses
+had been changed only slightly...the perceived pitch dropped
+dramatically from that of a 500-Hz tone to that of a 250-Hz tone
+despite the fac that most of the energy in this slightly
+modified stimulus was still at 500 hz.  The physical property
+that was clearly altered by ths light change in pulse timing was the
+period. (..) This change in pitch was attributed to the change in
+the period of repeating sound pressure wave and eventually became
+known as periodicity pitch." [Gulick, W. Lawrence, George A.
+Geschneider and Robert D. Frisina, "Hearing: Physiological Acoustics,
+Neural Coding, and Psychoacoustics," Oxford University Press, 
+1989, pg. 257]
+As Gulick et alii point out, "Seebeck's work was important because it
+led investigators to consider the timing of neural impulses as a 
+possible neural code for pitch perception. The place and neural synchrony
+[periodicity] theories represent two very different views on how the
+nervous system codes pitch.  For the place theorist it is the frequency
+spectrum of the stimulus that is important, whereas for the neural
+synchrony theorist it is some aspect of the time waveform, such as 
+the period, that is important. (..) The controversy between proponents
+of two viewpoint gained momentum in the 1940s with the work of
+ Schouten." [Gulick, et al., 1989, pg. 258]
+Pierce describes hearing Schouten's effect first-hand: "He had constructed
+a sort of optical siren (Figure 6-4) by means of which he could produce sounds with various waveforms.  Using this, he produced sounds with harmonically related partials... Then, by proper  adjustments, he 
+could cancel out the fundamental frequency... I could hear
+this fundamental frequency come and go, but the pitch of the sound 
+did not change at all.  In some way, my ear inferred the proper pitch 
+from the harmonics..." ["The Science of Musical Sound," Pierce,
+2nd ed., 1992, pg. 92;  also see Ohm, G.S., "Ueber die Definition des 
+Tones, nebst daran geknuepfer Theorie der Sirene und aehnlicher 
+tonbildener Vorrichtungen," Ann. Phys. Chem, Vol. 59, ppg. 513-565,
+also see  Schouten, "The Perception of subjective tones," Proceedings 
+of the Koninklijke Nederlandse Akademie van Wetenschappen, 1938, 
+vol. 41, pp.  1083-1093.]
+While most of the details of Helmholtz's theory of hearing are now
+known to be inaccurate, parts of the underlying idea  were adopted 
+in the "place" theory of hearing.  According to this theory, just intonation
+is the ideal musical tuning and the 4:5:6 chord which stands at the
+center of traditional Western harmony is a necessary outcome of
+the physical structure of the human auditory system.
+As will be seen, however, all of the objections to Helmholtz's
+theory remain troublesome even to modern-day place theories. 
+ The modern place theory cannot explain the simultaneously fine 
+frequency discrimination  of the ear and its broad range of frequency response; the modern place theory cannot explain the missing fundamental;
+nor can it  explain how the relatively wide travelling waves on the
+basilar membrane give rise to delicate pitch judgments.  The
+modern place theory cannot explain how the ear can detect
+the pitch of tones whose fundamental lies below  rougly 150 Hz.  
+The modern place theory cannot explain how only 3000 hair cells
+account for the measured jnd of the average subject; the modern
+place theory cannot explain why louder sounds are more
+accurately judged in frequency when the opposite is predicted
+from conventional frequency; and the modern place theory cannot
+explain categorical perception, the encoding of pitch and
+amplitude in the auditory nerve, the universal human preference
+for stretched intervals and beat rates between 4 and 6 Hz, and
+so on.
+Thus there is substantial reason to doubt that either small integer
+ratios or 4:5:6 chords consitute either a privileged or even a
+necessary outcome of the human ear/brain system. 
+On the other hand, some aspects of the auditory system are
+convincingly explained by the modern place theory.  The cocktail
+party effect, the ability to perceive the pitch of tones with
+a high-pitched fundamental. "Furthermore, support for the view
+that perception ohte pitch of them issing fundamental is not due 
+to the excitation of low freuqency-sensitive neurons responding
+to low freuqnecy distortion products of a complex tone comes
+from observatiosn that a low frequency masking noise presented 
+with the high freuqnecy complex tone does not eliminate the
+perception of the missing fundamental." [Gulick, et al., 1989, pg. 259] 
+The next post will examine in greater detail the place theory
+of hearing, and the psychoacoustic evidence for and against it,
+along with the implications for tuning and music.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 27 Sep 1995 19:26 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA06522; Wed, 27 Sep 1995 10:26:35 -0700
+Date: Wed, 27 Sep 1995 10:26:35 -0700
+Message-Id: <199509271725.KAA19263@osiris.ac.hmc.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

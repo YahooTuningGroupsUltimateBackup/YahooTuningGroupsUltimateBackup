@@ -1,0 +1,73 @@
+source file: mills2.txt
+Date: Tue, 25 Feb 1997 11:31:19 -0800
+
+Subject: Approaching TD 1000!
+
+From: madole@ella.mills.edu (David Madole)
+
+Hi Tuning List,
+
+As those of you that have been around a while know, every once in a
+while (it has been a long time now!) I post a short statistical summary
+of the Tuning list.  It seems that as the list approaches Digest 1000
+(just three more to go!) such a posting would be appropriate, with
+perhaps a bit of historical stuff.
+
+The list was started on February 2 1994 by Greg Higgs and myself, and
+announced on USENET.  By the Feb 3 we were congratulating ourselves
+because we had 25 subscribers!  In less than a year, the list had grown
+and brought the machine it was originally implemented on (a NeXT "Turbo
+slab") to a virtual standstill, so it was moved to its current home
+(eartha@mills.edu).
+
+As of Feb 23rd, 1997, the list had 350 subscribers, distributed around the
+globe/nets as follows.  (List membership normally oscillates between a
+high of about 360 and a low of about 325.  That is, it is about 90%
+stable.)
+
+Austria 3, Australia 18, Canada 13, Switzerland 2, Commercial Providers
+100, Germany 12, US Education 101, Spain 3, Finland 1, France 4, US
+Government 2, Greece 2, Hong Kong 2, India 1, Italy 2, Japan 4, Korea
+1, US Military 1, Mexico 1, "Network (.net)" 30, the Netherlands 10,
+Norway 1, Non-profit Organizations 9, Poland 1, Sweden 3, Singapore 1,
+United Kingdom 20, "United States" 1, South Africa 1.
+
+(Note: there is no way of geographically locating the "Commercial"
+subscribers, although a majority seem to be in English speaking
+countries.)
+
+I would like to comment here that, although the US Education subscribers
+have the barest of pluralities(!), the shift toward commercial and
+international subscribers over the last couple of years has been
+dramatic.  It seems that for the first year or so, about 75-80% of the
+subscribers were US Education (.edu).  Now they are about 28%.
+
+There have been 5695 messages posted to the list, and the archive now
+contains 15.3 Megabytes of data (including mail headers, etc.).
+
+The list physically resides at Mills College in Oakland, California, USA,
+currently on an SGI Indy.  Oakland is across the Bay from San Francisco.
+
+Dave Madole
+Technical Director, Center for Contemporary Music
+Listserv Administrator
+
+Mills College
+Oakland, CA 94613
+510-430-2336
+
+madole@mills.edu
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 25 Feb 1997 21:31 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01024; Tue, 25 Feb 1997 21:31:18 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA00967
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id MAA26713; Tue, 25 Feb 1997 12:29:00 -0800
+Date: Tue, 25 Feb 1997 12:29:00 -0800
+Message-Id: <331343A5.2017@dial.pipex.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

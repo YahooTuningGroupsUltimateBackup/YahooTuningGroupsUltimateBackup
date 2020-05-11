@@ -1,0 +1,44 @@
+source file: m1412.txt
+Date: Mon, 11 May 1998 10:42:44 -0500 (CDT)
+
+Subject: 8 major triads possible with 12 pitches?
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Fri, 8 May 1998, Paul H. Erlich wrote:
+> Paul Hahn wrote,
+> >            25/18   25/24   25/16
+> 
+> >        10/9     5/3     5/4    15/8
+> 
+> >    16/9     4/3     1/1     3/2     9/8
+> 
+>                        [ . . . ] this may be the most just major triads
+> one can achieve with 12 notes. Anyone care to prove this, or find a
+> counterexample?
+
+Well, I can prove it, but it's not particularly elegant.  The rough
+outlines of the proof go like this: eight just major triads have eight
+1/1s, eight 3/2s, and eight 5/4s, or 24 members in all.  To get this out
+of fewer actual pitches many pitches must serve as different members of
+multiple triads.  No pitch can be a member of more than three different
+major triads, and if you examine the geometry of scales in the
+triangular lattice there must be at least three pitches in a scale that
+each are members of only a single triad.  That leaves at most 9 pitches
+to function as the other 21 members.  This requires at least three
+pitches to serve triple duty (21 = 3 * 3 + 2 * 6), but the most
+economical way (pitch-wise) to do that is this:
+
+        .   .
+      .   *   .
+    .   *   *   .
+      .   .   .
+
+and that already uses up your twelve pitches and still only gets you
+seven major triads.  Q.E.D.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

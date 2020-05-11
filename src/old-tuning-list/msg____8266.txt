@@ -1,0 +1,40 @@
+source file: m1480.txt
+Date: Mon, 20 Jul 1998 19:43:50 -0500
+
+Subject: [Fwd: [Fwd: a Question from Terry Riley]]
+
+From: Gary Morrison <mr88cet@texas.net>
+
+I forwarded Terry Riley's question on to Steve Curtin, the fellow who wrote
+most of the MR-series' MIDI Tuning Standard code.  This reply probably doesn't
+say a whole lot more than we already know, but perhaps a little!
+
+
+
+Steven Curtin wrote:
+
+> I'm honored to be able to help.  The name of the guy who wrote MIDI Tuning
+> Wrench is Jim Johnson, he's on the synth-DIY mailing list.  That's odd but
+> not unexpected that the Unisyn stuff doesn't work, since they laid off the
+> guy who maintains it about six months ago :(.
+>
+> Contact info for Jim Johnson:
+>
+> Jim Johnson
+> Metaphoric Software
+> -------------------
+> Makers of Techno Toys
+> Software for Electronic Music
+> http://www.technotoys.com
+> info@technotoys.com
+>
+> You should also mention to Terry and David that I have Forth code that can
+> change the tuning of the MR.  I used this code to test the MTS
+> implemetation in the MR.  He could have someone build a little standalone
+> tuning controller based on the New Micros 68HC11 microcontroller or
+> something similar.
+
+------------------------------
+
+End of TUNING Digest 1480
+*************************

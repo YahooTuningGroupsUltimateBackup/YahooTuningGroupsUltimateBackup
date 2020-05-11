@@ -1,0 +1,18 @@
+source file: m1447.txt
+Date: Sun, 14 Jun 1998 11:20:08 -0700
+
+Subject: Re: micro synths
+
+From: csz@wco.com (Carter Scholz)
+
+In the recent discussion of wish lists and tuning implementations,
+one practical point has been overlooked.  It was not "Ensoniq" the
+company that gave us their implementation -- it was Steven Curtin,
+who was in charge of the tuning implementation while he worked there.
+Likewise, E-mu's David Frost was more or less singlehandedly responsible
+for the Proteus tuning implementation.  Tuning is not and never will be
+a priority for a manufacturer.  The best we can hope for is a sympathetic
+and knowledgable individual within a company who is willing to devote
+his or her time and energy to make it happen.  Talking to programmers
+is far more likely to be productive than talking to executives or
+marketing types.

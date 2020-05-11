@@ -1,0 +1,59 @@
+source file: mills2.txt
+Date: Tue, 26 Sep 1995 12:22:26 -0700
+
+Subject: ET, Bach, and me
+
+From: wabi@server.net4you.co.at (Helmut Wabnig)
+
+Did you ever listen to a digital piano's sound? 
+Some offer a choice between several temperaments.
+Select Equal Temperament and play a melody. 
+Play some intervals (2 tones) and some chords (3 or more tones)
+You will notice, that intervals sound absolutely ugly.
+Not so bad are the chords, in fact they "live" through their beats.
+
+Now go back to your good old wooden piano and do the same.
+What about the intervals? How do they sound? Chords, melodies?
+Not so bad, right?
+
+I have been investigating this for quite a while now.
+Talked to piano tuners, read lists, collected literature...
+What I found, I call it:
+
+Wabi's First Theorem: Digital Instruments sound bad, because their
+                      ET tuning is absolutely perfect.
+
+Within a millisecond this leads to:
+  
+Wabi's Second Theorem: Piano tuners can't tune Equal Temperament.
+
+In fact, this has been known for long. Not only do they 
+make errors, they apply microtonal
+variations to each string of a tone, correct for inharmonics
+of individual strings, and they apply "stretch". 
+How much of "stretch" did Bach use?
+
+Wabi's Third Theorem: Bach did not use Equal Temperament,
+                      because he had    E   A   R   S.
+
+
+(Theorems are there to be important.)
+(That's their very nature, and if you happen to have one, 
+ you are important)
+(At least a little.)
+
+Yours
+Helmut Wabnig
+wabi@net4you.co.at
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 27 Sep 1995 07:44 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id WAA27572; Tue, 26 Sep 1995 22:44:29 -0700
+Date: Tue, 26 Sep 1995 22:44:29 -0700
+Message-Id: <950927053051_71670.2576_HHB28-1@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

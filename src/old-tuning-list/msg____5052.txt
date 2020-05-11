@@ -1,0 +1,47 @@
+source file: mills2.txt
+Date: Tue, 11 Mar 1997 15:09:46 -0800
+
+Subject: JI Calc 4.41
+
+From: Carter Scholz <csz@well.com>
+
+A new version of JI Calc is on the Mills server as:
+ftp://mills.edu/ccm/tuning/mac/jic441.sea.hqx
+
+This is a minor upgrade with the following changes:
+
+- Smarter recovery from READing bad tuning files.
+- Faster MIDI transfers than version 4.4.
+- Command-click on ratio button to insert a "blank" field into a tuning.
+- Minor navigation fix in Lattice Help.
+- Non-2/1 repeating octaves sent via MIDI no longer assume that the first 
+  ratio in a tuning is 1/1.
+- XCMDs recompiled with Think Pascal 4.5d4.
+- Cosmetic changes: unnecessary Hypercard menus turned off; "Edit Param" 
+  menu item changed to "MIDI Settings"; repeating-octave data moved to 
+  card field.
+  
+JI Calc is a Hypercard stack for creating and archiving musical
+tunings, especially in just intonation.  It provides MIDI transfer
+of tuning data to instruments that support alternative tunings,
+specifically the Yamaha DX-7 E!2, DX7II, DX-11, TX-802, TX-81Z, SY-77,
+TG-77, the Emu Proteus series, the Ensoniq EPS series and ASR-10, and the 
+MIDI Tuning Spec.  It also plays intervals using Macintosh local sound.
+JI Calc is freeware.
+
+This stack requires Hypercard 2.0 or higher.  Sound on PowerMacs
+requires QuickTime 2.0 or higher and QuickTime Musical Instruments.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 12 Mar 1997 01:50 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA02377; Wed, 12 Mar 1997 01:50:03 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA02375
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id QAA19863; Tue, 11 Mar 1997 16:47:59 -0800
+Date: Tue, 11 Mar 1997 16:47:59 -0800
+Message-Id: <199703120045.TAA07437@adze.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

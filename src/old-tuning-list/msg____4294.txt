@@ -1,0 +1,698 @@
+source file: mills2.txt
+Date: Tue, 10 Dec 1996 14:13:11 -0800
+
+Subject: McLaren on Group Theory, etc.
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: visions of the future
+--
+I have a vision.
+In the darkness, a performer floats
+weightless. She lifts her hand: in a
+holographic display she grabs points
+in ratio space.  Sounds collide.
+With her other hand she reaches out, 
+stretching and compressing the overtones
+of the timbre.
+Microlasers which detect the focal point
+of her eyes allow her to control by the
+direction of her gaze the path of
+the tuning through N-dimensional space--
+a superset of ratio space. The harmonies
+and melodies of this unheard future
+music issue from a DIN jack plugged
+into the back of her neck. But for the
+virtues of proprioceptive feedback, the
+entire composition could issue from her brain.
+Yet even here, in the microtonal future,
+there is great virtue in using the body
+in performance. This performer knows (as
+David Gelerntner has pointed out) that we
+think as much with our muscles as
+with our minds: musical composition is a
+matter of tactile feedback as well as
+cerebration.  The story goes that
+when Stravinsky used to take a break from
+rehearsing his orchestral pieces he
+would sit and outstretch his hands,
+fingering imaginary patterns on a
+nonexistant piano. Every so often,
+he'd smile--discovering a new sound/
+touch pattern.
+This imagined future does not yet exist.
+Someday, though, someone will create it.
+Therefore it remains to us to prepare
+ourselves by understanding as clearly
+as possible the nature of the xenharmonic
+landscape which we have entered, having 
+exited the 12-tone equal tempered
+scale.
+In the digital domain, discreteness (as they
+say) is the better part of valor. But
+discreteness applies not only to the bitstream
+which nowadays makes up all the music we 
+hear on recordings and ever more of the 
+music we hear live: tunings are also
+discrete, composed of dissociated atoms
+of pitch which nonetheless cohere into
+larger wholes.
+How do the individual intervals of a tuning
+form larger patterns? What is the nature
+of those patterns, and what are their
+similarities and differences to the
+wider continuum of tunings of which
+each intonation forms one specimen?
+--
+Group theory is a subject which has been
+greatly underrated in music theory. Recently
+some efforts have been made by Balzano (and
+others) to relate concepts from group theory
+to microtonal tunings, but these efforts have
+been clouded by excessively complex language
+and unduly obscurantist presentation.
+In fact the basic ideas of group theory are
+extremely simple--almost in proportion to
+their power. Thus the ideas which I propose
+to filch from group theory and apply to
+the equal temperaments are practically
+ludicrous in their extreme simplicity...yet 
+my experience with composing in the equal 
+temperaments from 5/oct through 53/oct now 
+convinces me that group theoretic concepts 
+are profoundly central to the musical behaviour 
+of the equal temperaments.
+--
+Balzano has pointed out in a convoluted way
+that 12-tet exhibits unusual group theoretic
+properties. For one thing, only 7 and 11
+units (a word which will be used instead of
+"scale steps" for the sake of brevity) of
+12-tet are both non-composite and relatively
+prime to the total number of pitches in the
+temperament.
+You may object that 5 and 1 units in 12-tet
+are also non-composite and relatively prime
+to the the total number of scale-steps
+per octave.  In raising this objection,
+you have forgotten that in dealing with
+modulo 12 arithmetic, 7 = 5 and 11 = 1.
+7 modulo 12 = 5, and  11 modulo 12 = 1.
+Thus from a group theoretic standpoint
+the 12-tet scale contains only 6 unique
+intervals; 1, 2, 3, 4, 5, 6.  Or alternatively
+11, 10, 9, 8, 7, 6. From the viewpoint of 
+modulo 12 arithmetic these two interval
+sets are identical (albeit reversed in order).
+Also from a group theoretic standpoint,
+these two interval sets (once re-ordered)
+exhibit identical transformation properties.
+Moving through the 12 pitches by 1 scale
+step at a time produces a resultant set
+of scale-steps identical to moving through
+the 1 pitches 11 scale steps at a time,
+albeit in reversed order.
+Let's see an example to convince the
+doubters: 1 2 3 4 5 6 7 8 9 10 11 12=1
+ = (C) C# D D# E F F# G G# A A# B C
+Now 11 scale steps at a time:
+1 11 10 9 8 7 6 5 4 3 2 1=12
+(C) B A# A G# G F# F E D# D C# C
+--
+It's obvious from examination of the
+above lists that one is merely the
+reflection of the other. More importantly,
+the essential relationships between successive
+members of these resultant sets is identical
+in both cases: sucessive pitches of both sets differ
+by 1 scale-step.  The only distinction is the
+sign of the difference. +1 for 12 modulo 1,
+-1 for 12 modulo 11.
+This essential relational similarity indicates
+that one resultant set is merely a trivial
+linear transformation of the other set.
+In effect, the two sets are identical from
+the point of view of group theory.
+--
+The same is equally true of fifths/fourths.
+In more formal terms, 12 modulo 5 =
+12 modulo 7 with a sign change in the
+relation between successive members of
+the resultant set. The sign change is
+irrelevant because it means only
+that we ascend as opposed to descend
+the circle of perfect fifths. From the
+point of view of group theory, the direction
+of travel around the circle of fifths is
+inconsequential because it is the relationship
+between successive members of the circle of
+fifths which unqiuely defines this substructure.
+--
+Let me use that word again: substructure.
+The whole point here is to reveal the substructures
+hidden underneath the surface of each equal
+temperaments like bones beneath the skin of
+an artist's model. A good painter or sculptor or
+draughtsman or photographer knows that it is
+*not* sufficient to understand the play of light
+and shadow on the surface of the human skin;
+to accurately represent a human face, one must
+understand and elocidate in a photo or with
+a pencil or with a chisel on marble the
+brathtakingly intricate framework of bone
+which underlies the cheek and brow and chin.
+So with intonations.
+To understand a tuning deeply enough to use
+it effectively, it is not sufficient to
+grasp the mere surface of the tuning--
+what kind of thirds it offers, what kinds
+of triads, what the tuning's approximation
+is to this or that member of the harmonic series,
+whether harmonic 5, or 7, or 11, or 13, etc.
+These are important issues...but they are
+ultimately superficial. A tuning's "sound" and
+function is crucially dependent on the
+invisible substructure which lies beneath
+(but controls in every way) the audible 
+exterior of the intonation.
+This is where group theoretic concepts
+come into play.
+Returning to 12, we note that it boasts
+several unique properties: for one thing,
+the minor third = 3 units is prime,
+yet a factor of the total (non-prime) number
+of pitches. The major third = 4 units is
+non-prime, a power of 2, and also a factor
+of the total number of pitches. Moreover,
+the perfect fifth = 7 units is prime
+and not a multiplicative composite of either 
+the min 3rd or maj 3rd or the total number of
+pitches in an octave...but 3 + 4 units =
+7 units, so the minor plus major third
+yields an interval which is relatively prime 
+to the total number of units per octave.
+Lastly, the only other number of units
+relatively prime to 12 is 1 (= 11).
+What do these facts mean?
+[1] Because 7 units ( = p5) is both
+relatively prime to 12 and absolutely 
+prime, it means that there is only a  
+single circle of fifths in this 
+temperament.
+As a result, we can visit any pitch
+in 12-tet by travelling around a
+single circle of fifths. 
+[2] Because only 7 (=5) and 11 (=1)
+units are relatively prime to the
+total number of units per octave
+AND non-composite, these are the
+only two intervals which can
+generate unqiue structural modes
+in 12.  Triads moving up and down
+by 7 units generate the major
+scale in 12, while single pitches
+moving up and down by 11 (=1)
+units generates the chromatic
+scale in 12.  These are the two
+modal patterns which form the basis 
+of western 12-tet music.
+[3] Because neither 3 nor 4 units
+are relatively prime to 12,
+moving by 3 or by 4 melodic
+units generates a repeating
+pattern which never changes.
+Moving by 3 units up or down
+yields only 4 pitches of 12,
+while moving by 4 units up or
+down yields only 3 pitches of
+12.  Note that the union of
+these two sets (C E G# and
+C Eb GB Bbb= A)=
+(C D# E F# G# A) does NOT
+produce a structural melodic
+mode. This means that progressions
+by successions of minor thirds
+or by successions of major thirds
+(A) will not allow us to travel
+to any desired pitch in 12 and
+(B) will prove highly repetitive.
+[4] Progressions by alternating
+sets of 3 and 4 units *will*
+allow us to visit any desired
+pitch in the scale, and also
+sketch out the well-known
+Alberti Bass pattern--e.g.,
+arpeggiated major or minor
+triads.
+--
+These structural features
+buried deep inside the 12-tet
+scale are not necessarily
+reproduced in other equal
+temperaments. 12-tet is a peculiar
+combination of extreme internal 
+ symmetries (because all but
+11 and 7 units of 12 produce
+endlessly repeating cyclic
+patterns which reiterate only
+a few pitches out of 12) and broken
+symmetries (because 3 + 4 = 7,
+and 7 generates a constantly
+changing pattern of 12 full
+pitches, along with 1 = 11).
+--
+Thus 12 is an equal division
+of the octave which stands
+midway between extreme internal
+symmetry and complete internal
+asymmetry.
+To get a feeling for this, let's
+consider next an equal temperament
+which exhibits very high internal
+symmetry. 16, being a power of 2,
+represents almost the uttermost
+extreme in internal symmetry.
+16 has a unit size of 75 cents
+and as a power of 2, a lot of
+factors: 2, 4, 8, 16. Only 1, 3, 5, 
+are non-composite *and* relatively 
+prime to 16. Notice that 7 = 9
+modulo 16 and 9 is a composite number.
+11 = 5 modulo 16, 13 = 3 modulo 16,
+15 = 1 modulo 16.
+Progression by 1 unit yields
+the chromatic scale in 16-tet.
+3 units, being also relatively
+prime to 16, generates a chain of
+16 pitches separated successively
+by 225 cents. This is the 16-tet
+equivalent of a whole-tone scale--
+a thoroughly anti-tonal construct.
+5 units = 375 cents and being
+also relatively prime to 16, 
+progression by 5 units yields
+16 successive pitches separated
+from one another by 375 cents.
+This structure has no analog in
+western music. It is highly anti-tonal.
+Notice several things: 
+[1] in 16-tet, 3/16 of the
+intervals are relatively prime and
+non-composite, while in 12-tet 2/12
+of the interals were relatively prime
+and non-composite. 
+[2] In 16-tet there is no such thing
+as a "perfect fifth." So 16 lacks
+the Alberti Bass coset pattern, as
+well as modulation by perfect fifths
+(the closest thing to a perfect
+fifth in 16 is 9 units = 675 cents).
+But the minor third in 16 = 4 units,
+300 cents, while the major third =
+5 units 375 cents. 4 + 5 = 9, which
+alas does not sound *anything*
+like a p5. So in 16 it is NOT true that
+the major plus minor third = p5!
+Moreover (unlike 12), the closest
+interval to a perfect fifth is 
+composite and non-relatively-prime
+to the total number of pitches in
+the octave, while the major third
+is non-composite and is relatively
+prime to the total number of pitches.
+This tells us that the major third
+is very un-12-like, the "perfect fifth"
+in 16 is very un-12-like, and only the
+minor third IS 12-like. Moreover,
+chord progressions are impossible
+because the Alberti Bass pattern in
+16 does not "fill the space" of
+16-tet. Imagine 16-tet chromatic
+pitches laid out in columns and the
+3-unit pattern laid out in rows
+and each of these planes transposed
+up and down by 5 units. This is a
+spatial representation of the 3
+fundamental modal substructures
+in 16-tet. A moment's visualization
+will suffice to convince yourself
+that a 2-D tiling of 4 x 5 units
+repeated vertcally up and down endlessly
+*cannot* fill all of our 16-tet 
+group theoretic space.  
+A crystallographer would say that
+our 16-tet modal 3-D space exhibits
+no regular unit cell.
+Notice the difference from 12-tet:
+12 was a 2-D plane and it *did*
+have a regular unit cell. Triangles
+formed along the 1, 3, 4 coordinates
+will completely tile 12-tet modal
+space. Moreover, in 12-tet the maj 3rd
++ min 3rd = p5, whereas this is
+*not* true in 16-tet.
+So 16 is very different from 12
+in group theoretic terms. My conjecture
+is that the lack of a unit cell in 16's
+modal 3-space indicates a strong conflict
+between the melodic and harmonic functions
+in 16.
+--
+Let's move on from 16's extreme internal
+symmetries to a scale which lies at the
+other end of the spectrum from 12...
+Namely, 19. This division of the octave is 
+highly asymmetric because all of the intervals
+in 19 form unrepeating non-interlocking
+patterns. In 19, unlike 12, there are
+19 different diminished 7th chords
+(in 12 there are only 3 distinct dim 7th
+chords).  Moreover, in 12 (as Paul
+Rapoport has pointed out) the conventional
+notation of the dim 7th tetrad does 
+violence to the acoustic reality of the
+construct because any conventional 
+notation (C-E-Gb-Bbb, or E-Gb-Bbb-Dbb
+or Gb-Bbb-Dbb-Fb or A-C-E-Gb, etc.)
+implies the existence of a root, which
+the dim 7th chord simply doesn't have
+in 12-tet.
+It floats free of any root...or, if you
+prefer, all of its 4 pitches serves
+equally as a root.  But in 19, a quartet
+of stacked minor thirds *can* be
+differentiated by root because transposing
+to the next pitch upward inside a 19-tet
+diminished 7th chord generates both a
+different set of pitches *and* a different
+set of pitch-names. In 19, Eb is not 
+just notationally but audibly different
+from D#, and so dim 7th chords *do* have
+entirely functional roots. In 19, dim 7th
+chords *never* "float free" of the scale--
+they are far more tonal--and far more
+audibly consonant, from the standpoint
+of both musical and sensory consonance.
+Try playing a 19-tet dim 7th if your
+fingers can stretch that far on a 19-tet
+guitar. You'll be pleasantly surprised.
+--
+In 19, the p5 = 11 units, while the
+minor third = 5 units and the major
+3rd = 6 units. So in 19, the p5 is
+both non-composite *and* relatively
+prime to the total number of pitches
+in the scale, while m3 + M3 = p5
+(5 units + 6 units = 11 units).
+This tells us that 19 is from a group
+theory viewpoint somewhat similar in its 
+internal substructure to 12. Audible
+results confirm this similarity:
+because 19 matches 12 in many basic
+respects and because 19 has a fine
+approximation of the 3rd harmonic, 
+it's bound to sound somewhat 12-like.
+However, 19 differs sharply from
+12 in the sense that both the min 3
+(5 units) and the Maj 3 (6 units) in
+19 are relatively prime to the total
+number of units in the octave (19).
+(In 12, the min 3rd and maj 3rd are
+both factors of the total number of
+units in the octave = 12, not relatively
+prime to 12 at all.)
+This means that a cycling Alberti Bass 
+which moves up & down by major or minor
+3rds in 19 will probably sound more
+musically complex than a similar
+pattern in 12 cycling by major or
+minor thirds: the 12-tet version merely
+moves up and down the same pitch subset,
+while the 19-tet version constantly
+moves to new pitches.
+In 19, the fact that modulation by root
+movement of maj 3rds *or* min 3rds allows
+us to visit any possible pitch also raises
+the possibility that triadic root 
+movement by 3rds (which sounds weak
+and anemic in 12) might sound robust
+and vivid in 19.
+So 19 is somewhat 12-like, but not
+entirely, from the group theoretic
+viewpoint.
+--
+Moving on to 22, we note that the minor
+ 3rd = 6 units while the maj 3rd =
+7 units. However the p5 = 13 units.
+Here, we see some marked similarities
+to 19 because the p4 is composite:
+p4 = 13 modulo 22 = 9. The p5 = m3 + M3
+(13 units = 6 + 7) and is prime, but the
+major 3rd in 22 is both non-composite and
+relatively prime to the total number
+of pitches in the octave, whereas in
+12 the maj 3rd (with 4 units) was
+composite and a factor of the total
+number of pitches in the scale.
+Also in 12, both the p4 and p5 are
+non-composite and relatively prime to
+the total number of pitches in the scale--
+but in 22 the p4 is composite yet relatively
+prime to 22, while the p5 is both prime
+and relatively prime to 22, suggesting
+that in 22 the p4 is a much more slippery
+and amibigous interval than in 12-tet.
+--
+Let's compare 12, 19 and 22 from
+a group theoretic viewpoint:
+19 contains major thirds with
+symmetry properties more like
+12's than 22, while 22's minor
+thirds are more like 12's from
+this highly abstract perspective. 
+19's major thirds are composite,
+while 22's minor thirds are
+composite.  Note, however, that
+19 is more like 12 than 22
+from this point of view--
+because in 22 the number of units
+in a minor third is composite
+and the total number of pitches
+in the scale is also composite--
+and the 2 intervals have a
+factor in common, 2. But 19
+is a prime number and thus
+non-composite, with no factor
+in common with the number of 
+units in the 19-tet major
+third of 6 units.
+This raises the important
+issue of symmetry-breaking,
+which many subscribers didn't
+seem to understand in a my
+post touching on the subject
+long ago & far away.
+The idea is simple: movement
+by a chain of major thirds (or
+indeed cyclic successive motion
+by *any* melodic interval) in
+19 will always break melodic
+symmetry because it will force
+the composer to visit all 19
+pitches in the scale. In 22-tet,
+however, movement by minor thirds
+will overlap with itself in
+a self-limited entirely symmetrical
+pattern.  If we imagine an equal
+temperament as a circle of seats
+around a dinner table, moving by certain
+subsets clockwise around the table
+(e.g., minor thirds in 22-tet) will
+land us constantly in the same set of
+seats over and over again. If
+one diner leaves gets up & we shift 
+everyone clockwise by the amount
+of the gap and reinsert the diner
+who left at a new point, we merely 
+re-order a fixed subset of dinner
+guests.  The roster of people in
+that subset never changes.
+If we try the same trick in
+19-tet, we find ourselves having
+to drag everyone at the dinner
+table into the act. Our subset of
+guests inevitably expands to 
+include all the people at the
+dinner table.
+Let's see the proof:
+Moving up or down  by 6 units 
+in 22 gives
+1 7 13 19 25 (=3) 31 (=9)
+37 (=15) 43 (=21) 49 (=5)
+55 (=11) 61 (=17) 67 (=1)
+73 (=7) & so on, since we're
+now repeating the subset
+enumerated at the start ad 
+inifinitum.
+As you can see, moving by
+6 units (minor 3rd) in 22
+never touches a subset of the
+22-tet pitches: 2,4,6,8,10,12,
+14,16,18,20,22. This generates
+a gapped pattern which can
+be rotated through the scale
+by starting on another pitch
+but whose internal substructure
+*cannot* be changed (i.e., the
+successive intervals twixt
+members of the set cannot be
+altered as long as we move
+by a chain of minor thirds in
+22).
+By contrast, 19 is a prime number...
+and consequently moving by a chain
+of major thirds in 19 inevitably
+yields not a subset of 19, but the
+entire set of pitches in the
+octave.
+--
+These group theoretic and abstract
+algebraic considerations are especially
+valuable becuase [1] they reveal musical
+similarities between equal temperaments
+which might on the surface seem different--
+and these similarties in musicalpractice
+turn out to be vividly and clearly audible;
+for instance, recently these considerations
+led me to turn a 9-tet composition into
+a 15-tet compositions by expanding the
+intervals by a fixed factor and calculating
+the closest pitches in 15-tet. The result
+was extremely successful from a musical
+standpoint: both compositions sounded
+nearly identical musically, yet distinguishable
+in interesting ways (from an intonational 
+standpoint).
+Why transfer a composition in 15-tet into
+9-tet, rather than into 12-tet or 18-tet?
+9 is more similar to 15 than to 12 or 18
+from a group theoretic viewpoint because
+9 and 15 are both multiples of 3 and
+thus share identical major thirds of
+400 cents. 12 and 18 also boast the
+same 400-cent major thirds, but in 12
+the 7-unit p5 is relatively prime to 12
+as well as absolutely prime.
+However, in both 9 and 15 the p5 (or
+its closest approximation) is composite.
+In 9-tet, the closest to the p5 is
+5 units (remember that 5 modulo 9 =
+4, composite) while the closest to the 
+p5 in 15-tet is 9 units (also composite). 
+The 9-tet min 3rd + maj 3rd = 2 units + 
+3 units = 5 units, while in 15-tet the minor
+3rd + major 3rd = 4 units + 5 units = 9 units.
+This means that in 15-tet, the major
+3rd is prime but a factor of the
+total number of pitches in the octave, while 
+in 9 the major third is also prime and 
+a factor of the total number of pitches
+in the octave.
+Conversely, in both 9 and 15 tet
+the minor third is relatively prime
+to the total number of pitches. This
+is very different from 12, in which
+both major 3rd and minor 3rd are
+factors of the total number of pitches,
+while the major third is prime
+but the minor third is composite.
+Likewise, 9 and 15 exhibit radically
+different internal substructure from
+18: in that temperament, the minor 3rd
++ major 3rd = 5 units + 6 units =
+11 units, the closest approach to
+the p5 (733.333 cents). 
+But notice that in 18, the major
+third is a factor of the total number
+of pitches as well as being composite,
+while the minor 3rd is both prime
+and relatively prime to the total
+number of pitches. Thus both 18
+and 12 are very unlike 9 and 15
+in group theoretic terms: the
+symmetry groups formed by chains
+of major or minor thirds in 9 will
+be much more like those formed in
+15 than in either 12 or 18.
+--
+In my experience, the most important
+audible properties of equal tempered
+scales are: [1] the presence or
+absence of recognizable fifths
+according to Blackwood's criterion;
+[2] the melodic substructure (whole-
+tone scale, semitone scale, 1/3-tone
+scale, 1/5-tone scale, etc.) of the ET;
+[3] the group theoretic/abstract
+algebraic substructure of the equal
+temperament.
+As controversial as it might sound,
+in my experience the presence or
+absence of precise approximations
+of members of the harmonic series
+is relatively unimportant in determing
+how the equal temperaments function
+musically--except when an equal 
+temperament has a "p5" so far away
+from the 3rd harmonic as to sound
+grossly and unremittingly dissonant.
+(In general, the limit seems to be
+685.4 < p5 < 720 cents. Again, this
+is the Blackwood/Rasch criterion,
+and it explains what one hears
+in the ETs beautifully.)
+Whether a perfect 5th is 720 cents
+or 685.4 cents or 700 cents is
+in my musical experience a trivial
+consideration--regardless of the
+exact degree of approximation of
+the p5, all thse types of perfect
+fifths sound entirely convincing
+and functional in completely
+effective musical ways when used
+with the equal temperaments from
+which they derive.
+Thus, most of the work which has
+been done theoretically about the
+equal temperaments seems to be
+musically irrelevant to and 
+almost completely disconnected from
+what the ear actually *hears* in
+musical terms in these equal
+temperaments. In particular, theoretically
+fascinating structures like Clarence
+Barlow's harmonicity and David Rothenberg's 
+propriety appear to have no audible connection 
+whatever to any  any audible functional property of
+the xenharmonic equal temperaments
+which I have been able to ascertain.
+Needless to say, all of these
+statements will be greeted with the
+utmost delight by the members of this
+tuning forum.
+--mclaren
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 10 Dec 1996 23:24 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA21651; Tue, 10 Dec 1996 23:26:37 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA00402
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id OAA00750; Tue, 10 Dec 1996 14:26:34 -0800
+Date: Tue, 10 Dec 1996 14:26:34 -0800
+Message-Id: <199612102215.OAA00212@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

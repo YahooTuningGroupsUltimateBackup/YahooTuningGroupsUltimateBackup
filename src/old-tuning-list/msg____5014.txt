@@ -1,0 +1,34 @@
+source file: mills2.txt
+Date: Sat, 8 Mar 1997 11:23:26 -0800
+
+Subject: Do-it-yourself MIDI files
+
+From: "Kami Rousseau" <kami@InterLinx.qc.ca>
+
+I wrote empty MIDI files that can be used to write music in 5, 7, 8, 9, 11,
+13, 14, 15, 16, 18, 20, 21, 22 and 24TET. They contain no notes, you the
+pitch bends. How to use them is obvious once you read the track names. You
+can find the files at :
+
+http://www.interlinx.qc.ca/~kami/tutorial.htm
+
+If you would like to see any scale added, just ask me, I'll write it and
+add it to the database.
+
+-Kami
+
+** I am a peach tree, 
+** Blossoming in a deep pit.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 9 Mar 1997 00:06 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09831; Sun, 9 Mar 1997 00:06:40 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA09922
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id PAA22376; Sat, 8 Mar 1997 15:04:55 -0800
+Date: Sat, 8 Mar 1997 15:04:55 -0800
+Message-Id: <199703082304.HAA03567@csnt1.cs.ust.hk>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

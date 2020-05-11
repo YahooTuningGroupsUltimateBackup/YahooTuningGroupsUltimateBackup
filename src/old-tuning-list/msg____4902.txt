@@ -1,0 +1,70 @@
+source file: mills2.txt
+Date: Wed, 26 Feb 1997 21:02:00 -0800
+
+Subject: Sympatheti c Strings
+
+From: Lydia Ayers <layers@cs.ust.hk>
+
+Paul Erlich wrote:
+
+>The cross-sectional area of a string is almost negligible compared with that 
+>of a tube or plate. Thus the string will receive almost no energy from 
+>incident sound waves, while a broader object can absorb significant amounts 
+>of energy.
+
+The cross-sectional area of a string may be "almost negligible" but it
+exists.  I just performed some experiments on four stringed instruments
+in my collection, a cheap violin, a sanxian, a small zheng and an 
+Appalachian mountain dulcimer.  Of these, I got the best results from
+the violin and the sanxian.  On the violin, I got the best results on
+the A and E strings, with the E string sounding louder.  I don't have a
+scientific way of measuring the guage, but it looks like the violin E
+string is the thinnest of all the strings on all four instruments.  It is
+also unwound wire and tightly stretched.  The timbre of the sympathetic 
+resonance is similar to the plucked string timbre.
+
+The second best results came from the sanxian.  The strings are longer
+than those on the violin, and I think they're made from wound silk.  They
+look like they're just a little bit thicker than the G and D strings on
+the violin.  The timbre is similar to the plucked string timbre.
+
+Both the violin and sanxian have excellent resonators, with the sanxian
+having a small, round, snakeskin-covered box.
+
+My small zheng (Chinese zither-type instrument) has thin wire strings 
+between the thickness of the A and E strings on the violin).
+I didn't have time to find the tuning key right now to tighten them, so
+they aren't really tightly stretched.  The resonator is much bigger than
+that for the violin - it's basically a wooden box that all the strings 
+are mounted on, with holes in the bottom.  It worked better when I picked
+the instrument up so that the sound could come out the small holes, but
+the resonance still wasn't very loud.  Maybe the large moveable bridges
+don't transmit the sound as well to the soundboard.
+
+The dulcimer has nylon strings slightly thinner than those on the 
+sanxian.  I can't really account for why this one is not very loud.
+Maybe metal strings work better than nylon?  Maybe the resonator
+doesn't amplify the sound very well?
+
+I got these results by loudly singing the same pitch as the string is 
+tuned to, as close to the plucking area (and the string itself) as 
+possible.  Singing a different pitch from the pitch of the string does 
+not give the effect, so it seems unlikely that the sympathetic vibration 
+comes from exciting the resonator.  I think the original excitation
+must be airborne, and the strings sound louder if they have good
+resonators.
+
+Lydia Ayers
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 27 Feb 1997 08:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28778; Thu, 27 Feb 1997 08:15:32 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA28787
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id XAA10683; Wed, 26 Feb 1997 23:13:56 -0800
+Date: Wed, 26 Feb 1997 23:13:56 -0800
+Message-Id: <199702270213_MC2-11C6-1B7D@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

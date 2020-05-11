@@ -1,0 +1,126 @@
+source file: m1418.txt
+Date: Sun, 17 May 1998 15:19:50 -0400
+
+Subject: Reply to Graham Breed on Temperaments
+
+From: monz@juno.com (Joseph L Monzo)
+
+You were correct that I didn't intend for my statement to be
+taken as dogmatically as it sounded.
+
+[Graham Breed:]
+> ...Other reasons [for accepting equal temperament] are:
+>
+> 1) You like the sound of it.
+>
+>   The only reason you need.
+
+OK, fair enough -- I have to grant you this one.
+
+> 2) It simplifies notation.
+>
+> <snip>...
+
+I agree here too -- when I said "easier to play on most instruments" that
+also included notational aspects. (I mentioned
+notation somewhere in this discussion -- can't find it now.)
+
+> 3) It allows ambiguous chords.
+>
+>  I remember you (Monzo, TD1403) agreeing that the chord
+>  below only works in meantone.  Did you really mean to imply
+>  (above) that this isn't a use for temperament?
+>
+>                 A---E---B
+>                      \ / \
+>                       G---D---A
+
+The chord referred to was originally given as an example by
+Paul Erlich in TD1400:
+>
+> [Example] 3. 6/9 (meaning root, maj. 3rd, perf. 5th. maj. 6th, 
+> maj. 9th)
+>
+> Here, we have a chain of 5ths, but also a major 3rd and two minor
+> thirds. If all these intervals are to be consonant, no just
+> interpretation will really do. This chord requires a tuning where 
+> the 80:81 syntonic comma vanishes.
+
+I replied in TD1403 that I agreed with this statement, and I
+suppose you are at least partly correct in pigeonholing Erlich's
+broader definition of "a tuning where the 80:81 syntonic comma
+vanishes" as "meantone".
+
+I represented this chord with a lattice diagram that would look
+like this in your version:
+
+                         B
+                        / \
+                       G---D---A---E---B
+
+with the _caveat_ that the A and E a syntonic comma lower would
+probably also be implied, but I didn't have space to include them.
+That diagram would look like:
+                  A---E---B
+                       \ / \
+                        G---D---A---E---B
+
+so again, your citation is basically, though not literally,
+correct.
+
+Anyway, the opening phrase of my posting (from TD1415) which
+you quoted and to which you replied, was: "the only reasons I can
+see for accepting any equal-temperament...".  I did specify that I
+was talking about _equal_ temperaments, not well or meantone.
+
+Of course, you do have a good point though.  I guess this one is
+a personal decision -- I prefer chords that are _not_  ambiguous.
+There's already so much numerical interplay possible in JI, who
+needs notes that are "close but no cigar"?  Chords can be tuned
+in JI with a variety of ratios that are close enough to a "target"
+that many of these ambiguities can be explored rationally.
+
+> 4) You can't be bothered to work out the ratios.
+>
+>  As implied in the Schoenberg paragraph, most
+>  composers don't want to worry about ratios.  They want a
+>  resourceful scale to compose in.  Give them a meantone, and
+>  they'll find good harmonies in it.  They might even give
+>  them to musicians who'll render them in JI.  Do you really
+>  expect the composer to sit and work out where the commas
+>  should be?
+
+My dissatisfaction with working directly with ratios was exactly
+the stimulus which caused me to notate ratios as prime factors with
+exponents.  To me, this, especially when graphed on lattice
+diagrams, is by far the simplest way to accurately represent
+JI harmonic concepts and pitches.  I usually find it useful to
+describe temperaments this way too, since often composers who
+favor temperaments _do_  wish to imply JI harmonies.
+
+> Where were you when Gregg Gibson was stomping all over
+> the list? 
+
+Who's Gregg Gibson?  I've been receiving the Tuning Digest since
+# 1314.  (Email me something -- I'd like to see it).
+
+> Then again, perhaps Schoenberg had a piano.
+
+I took this as an attempt at humor.  As I suggested, there are far
+more profound reasons why Schoenberg so enthusiastically
+embraced the 12-Eq scale.  He intuitively understood much more
+about rational harmonic concepts than his limited mathematically
+ability demonstrates; and this is important because Schoenberg's
+compositions and theory have had a huge impact on a lot of
+this century's music, both academic and commercial.
+
+ 
+   Joseph L. Monzo
+    monz@juno.com
+    4940 Rubicam St., Philadelphia, PA 19144-1809, USA
+    phone 215 849 6723
+
+_____________________________________________________________________
+You don't need to buy Internet access to use free Internet e-mail.
+Get completely free e-mail from Juno at http://www.juno.com
+Or call Juno at (800) 654-JUNO [654-5866]

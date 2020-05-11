@@ -1,0 +1,101 @@
+source file: mills2.txt
+Date: Fri, 23 May 1997 23:00:01 +0200
+
+Subject: intemperate music
+
+From: "Collins, Gordon" <CollinG@f3groups3.fsd.jhuapl.edu>
+
+To get back to the subject that I really wanted to bring up...
+
+
+Bill Alves wrote (in response to something else, but providing a good 
+starting point):
+
+>In my definition of modes in the European tradition, they include at least 
+>the following defining characteristics:
+>
+>1) A tuning system, though it may be somewhat flexible as long as the
+>general pattern of intervals (below) remains recognizable.
+
+While there has been a fairly strict intonational standard at most times and 
+places, "somewhat flexible" here is a considerable understatement.  The 
+distinction between n-limit JI, x-comma meantone, well-temperament, and 
+12TET is *totally irrelevant* to the definition of modes and scales!
+
+Look at a music theory book and its description of musical resources.  Where 
+is there any discussion of pitch or tuning?  It just doesn't matter.  The 
+only thing that rules out applying JI or meantone is the circle of fifths 
+with its enharmonic equivalence of notes. 
+
+It also is not sufficient to define "pitch areas" for the notes.  There are 
+Renaissance motets in which, depending on one's interpretation of _musica 
+ficta_ rules, the range of pitches used for F overlaps that used for E 
+*within the same piece*.  This is not just due to comma shifts, but due to 
+_ficta_ inflections.
+
+
+
+>2) A subset of pitches from that tuning system, or, put another way, a
+>pattern of intervals. (In the European tradition this means the diatonic
+>set.)
+
+But the notes of the modes were not taken from a larger set.  They WERE all 
+the defined notes.  Others were *added* to the set as necessary for 
+polyphony.  They were initially considered as intonational inflections, only 
+later being accepted as separate notes in their own right as sharps and flats.
+
+I agree with Daniel that modes and scales can only be defined in terms of 
+whole tones and "half" tones, as a pattern of approximate intervals.  I don't 
+think that those patterns can be described as pitches selected from a 
+predefined tuning system.
+
+
+
+>Number of pitches in the tuning system/number of pitches in the
+>subset/number of commonly used auxiliary tones.
+>
+>[qualification snipped]
+>
+>Thus traditional diatonic modes are:
+>
+>12/7/0
+
+
+In light of the above, the original modes would actually be:
+
+7/7/0
+
+Guido's system formally allowed for:
+
+8/7/0
+
+and the whole system with _musica ficta_ would be:
+
+infinite/7/infinite
+
+as there was no predefined set of available frequencies, and no upper limit 
+on available auxiliary (_ficta_) pitches.
+
+
+Reducing this to 12 requires accepting enharmonic equivalence, closing the 
+circle of fifths.  That idea strikes me as one of the most pivotal notions in 
+the history of Western music, yet as far as I can tell, it grew gradually 
+over centuries and without much comment, only becoming fully accepted in the 
+18th century.  Only then could 12TET, long understood, be applied.  It was 
+far from being the foundation.
+
+Gordon Collins
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 24 May 1997 06:40 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09120; Sat, 24 May 1997 06:40:05 +0200
+Date: Sat, 24 May 1997 06:40:05 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA09119
+Received: (qmail 17705 invoked from network); 24 May 1997 04:40:02 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 24 May 1997 04:40:02 -0000
+Message-Id: <Pine.SUN.3.95.970524003304.3339A-100000@sunspot.tiac.net>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

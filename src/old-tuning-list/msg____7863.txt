@@ -1,0 +1,45 @@
+source file: m1420.txt
+Date: Tue, 19 May 1998 03:41:35 EDT
+
+Subject: RE: Tuning Digest 1412 - Integer ratio harmonics/Additive analysis
+
+From: Ascend11 <Ascend11@aol.com>
+
+The reference given by Patrick Ozzard-Low on Frequency ratios of spectral
+components of musical sounds is of interest to me and I plan to copy the
+article and read it at first opportunity (next trip to UC San Diego library).
+	It has been over five years since I did intensive work improving a frequency
+tracking / additive analysis computer program system which I'd received from
+the Univ. of Illinois' CERL Music Lab.
+	I used an autocorrelation technique to track frequency, using trial window
+sizes for paired "windows" of duration one estimated period of the fundamental
+- e.g. 2.27 milliseconds for a pitched sound of fundamental frequency 440 Hz.
+Then, using a frequency vs. time basis line, I would use a Fourier analysis
+algorithm to track partial amplitude and phase, window by window, over the
+course of the sound.  I added empirically calibrated error correction
+modifications to the basic program and tested these using artificially
+constructed "sounds" having time varying amplitudes coupled with time varying
+frequencies.
+	I do not recall specific numbers (these are "buried" in my not very well
+organized logs and notes), but I believe that in cases of "well behaved"
+sounds - normal pitched singing, instrument notes at moderate volume, etc. the
+method faithfully yielded, for a partial, the number of cycles it went through
+over a sound's course (from under a second to several seconds for most sounds
+I analyzed) accurate to .01 of a cycle.  Thus I believe the method would, for
+example, give AVERAGE frequency results for, say, the second partial of a 440
+Hz fundamental analyzed over one second to an accuracy of about one part in
+88,000.
+	If the results of my work would be of significant value to a researcher or
+researchers in the field, I would like to make my programs &c. available to
+them.  Some work would be needed to make my software "user-friendly", although
+someone with a technical background (C programming, basic scientific
+mathematics) might be able to make use of it quickly.
+	I'm currently working on another research project (preparing listener
+intonation response - e.g. preference, descriptive observations of contrasts,
+etc. - tests to be given in late June/early July for research purposes to high
+school/junior high school summer music campers - I'm doing another post
+regarding this).  This limits the amount of time which I can presently give to
+dealing with the additive analysis material, but if there is a serious need it
+might meet I certainly would like to make it available to meet that need.
+
+	Dave Hill

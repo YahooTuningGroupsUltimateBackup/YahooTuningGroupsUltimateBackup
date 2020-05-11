@@ -1,0 +1,129 @@
+source file: mills2.txt
+Date: Mon, 9 Oct 1995 07:52:48 -0700
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: Tuning & psychoacoustics - post 16 of 25
+---
+The evidence for a universal human preference for stretched intervals is
+so overwhelming that it appears throughout the length and breadth
+o`e psychoacoustic literature, both with Western and non-Western
+musicians:
+"Dowland has reported that measurements of Western and non-Western fixed 
+pitch instruments suppprt Ward's conclusion that the perceptual octave is 
+some 15 cents larger than the  physical or mathematical octave.  Western 
+musical practice supports these conlusions (play sharp in higher octave). 
+Balinese gamelan tunings take advantage of this apparently widespready 
+characteristic of pitch perception to create a multi-octave beating ocmplex 
+in their fixed pitch instruments."  [Erickson, Robert, "Timbre and the Tuning 
+of the Balinese Gamelan," Soundings, pg. 100, 1984]
+Particularly revealing is "The 1215-Cent Octave: Convergence of Western and Non-Western  Data on Pitch Scaling,"  W. J. Dowling, Abstract QQ5, 84th meeting of the Acoustical Society of America, Friday, December 1, 1972, p. 101 of program.
+Yet more evidence for a universal preference for stretched octaves comes
+from Sundberg, who found that the octave was as a rule played 
+significantly sharp by performing musicians, and was also preferred sharp 
+of the 2:1 in adjustment tests:
+"Evidently the octave intervals in such stretched scales will exceed a 2:1 
+frequency ratio slightly. Thus, it is necessary to distinguish between the 
+*physical octave * (PO) which is defined as a 2:1 frequency ratio, and the 
+*subjective (musical) octave * (MO) that is perceived as pure.  (...) As a rule, 
+the perceptual octave corresponds to a fundamental frequency ratio 
+exceeding 2:1." [Sundberg, J. and Lindqvist, J., "Musical Octaves and Pitch," 
+JASA, 54(4), 1973, pp. 973-929]
+Among the many implausible arguments which attempt to explain away this 
+mountain of experimental evidence for a preference for an octave interval 
+larger than the purportedly "pure" 2:1, most prevalent is the claim that 
+these "laboratory experiments do not represent real musical practice."  
+If this objection is correct, why does computer analysis of the frequencies 
+of pitches played during actual performances which show a uniform stretch 
+of the octave also show the same results as the laboratory psychoacoustic 
+experiments?  And why do psychoacoustic measurements and experiments 
+stretching back over 150 years uniformly produce the same results?
+"This disparity between the physical and subjective octaves is not a new 
+discovery.  Stumpf and Meyer, using the method of constant stimuli, had 18 
+subjects judge pairs of successive tones as greater than, less than, or equal 
+to an octave.  They lower tone was 300 cps and the upper tone was varied 
+around 600 cps.  They found that 602 cps (the higher upper tone used) 
+received 52 percent "less," 43 precent "equal," and 5 percent "greater" 
+responses from the group, indicating that the mean subjective octave of 300 
+cps was somewhere above 602 cps (the present Fig. 4 gives about 605 cps). 
+Later von Maltzew, in an investigation on the identification of intervals in 
+the upper frequency range, found that a physical octave was more often 
+called a major seventh or below than a minor ninth or above. See C. Stumpf 
+and M. Meyer, Beit. Akust. Musikw., Vol. 2 ppg. 84-167, 1898. C. v. Malzew, Z. 
+Psychol. Vol. 64, pp. 16-257, 1913. [Ward., W.D., "Subjective Musical Pitch," 
+Journ. Acoust. Soc. Am. , Vol. 26, No. 3, May 1954, pg. 374]
+"The average standard deviation of repeated adjustments of sequential or 
+simultaneous octaves composed of sinusoids is on the order of 10 cents 
+(Ward, 1953, 1954; Terhardt, 1969; Sundberg & Lindquist, 1973).  A range of 
+average deviations from 4 to 22 cents for adjustments of the other 
+intervals of the chromatic scale (simultaneous presentation) has been 
+reported by Moran and Pratt (1926). Rakowski (1976) reports variability--in 
+interquartile ranges--of 20 to 40 cents for both ascending and descending 
+melodic versions of the 12  chromatic intervals. Other general trends 
+evident from the results of adjustment experiments are...a tendency to 
+'compress' smaller intervals (adjust narrower than equal-tempered 
+intervals) and "stretch" wider intervals (adjust wider)."  [Burns, E. M., and 
+Ward, W.D., "Intervals, Scales and Tuning," in The Psychology of Music, ed. 
+Diana Deutsch, 1982, pg. 250.]
+"A number of measurements have been made of the intonation of musicians 
+playing variable-tuning instruments under actual performance conditions 
+(e.g., Greene, 1937; Nickerson, 1948; Mason, 1960; Shackford, 1961, 1962, a, 
+b). The results of these measurements have been summarized by Ward 
+(1970). They show a fairly large variability for the tuning of a given 
+interval in a given performance--ranged of up to 78 cents, interquartile 
+values of up to 38 cents. The mean values of interval tunings, in general, 
+show no consistent tendency to either just intonation or Pythagorean 
+intonation in either melodic or harmonic situations.  The general tenedency  
+seems to be to contract the semitone and slightly expand all other intervals 
+relative to equal temperament.  There is also some evidence of context-
+dependent effecst (e.g., to play F# sharper than Gb (Shackford, 1962 a,b)]. 
+Those results mirror, to a certain extent, the results of the adjustment and 
+identification experiments using isolated intervals (discussed in Sections 
+III A and III B) which showed a tendency to compress the scale for small 
+intervals and stretch the scale for large intervals, in both ascending and 
+descending modes of  presentation. 
+"The above measurements were obtained for Western classical music, but 
+the same general tendencies are evident in intonation form a military band 
+(Stauffer, 1954),  Swedish folk musicians (Fransson, Sundberg & Tjernland, 
+1970), and jazz daxophonists (Owes, 1974). Measurements of intonation 
+inperformance for Indian (Hindustani) classical music (jairazbhoy & Stone, 
+1963; Callow and Shepard, 1972) show similar variability." [Burns, E. M., and 
+Ward, W.D., "Intervals, Scales and Tuning," in The Psychology of Music, ed., 
+Diana Deutsch, 1982, pg. 258.]
+"Even the ubiquitous 5th itself is played, on the average, sharper than the 
+702 cents predicted; indeed, in Shackford's study, it is played sharpest in a 
+harmonic context, where the minimization-of-beat forces would be 
+expected to be the most active." (...) Thus evidence indicates strongly that in 
+musical performances the target pitch for frequencies actually produced in 
+response to a given notation is one that is just a shade sharper than that 
+called for by Et.  In the 500 and 1000 Hz regions, even the subjective octave 
+(sacrosanct 2:1 in all theoretical systems) is about 1210 cents for pure 
+tones (Ward, 1954). In his studies, Shackford (1962 a,b) measured harmonic 
+10th, 11th and 12th and found that they were sharped to about the same 
+extent as 3rd, 4tha nd 5th.
+"Boomsliter and Creel (1963) too have provided striking confirmation of this 
+theory. (...) ...it is clear from the sample dat they present aththe preferred 
+scale almost always is composed of tones consistently higher in frequency 
+than those of ET. For example, in three classical numbers (the Marseillaise, 
+a Bartok dance, and Mozart's Serenta Notturna), all notes above "do" are 
+preferred 4 to 23 cents sharp." [Ward, W.D., "Musical Perception," in 
+"Foundations of Modern Auditory Theory," ed. J.V. Tobias, Vol. 1,  pp. 420-
+421]
+cent 2:1.
+The next post will examine data bearing on the third theory of hearing--
+a model of the ear so far not dealt with as extensively as the other two.
+--mclaren
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 10 Oct 1995 02:20 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA12768; Mon, 9 Oct 1995 17:20:34 -0700
+Date: Mon, 9 Oct 1995 17:20:34 -0700
+Message-Id: <951010001440_71670.2576_HHB24-3@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

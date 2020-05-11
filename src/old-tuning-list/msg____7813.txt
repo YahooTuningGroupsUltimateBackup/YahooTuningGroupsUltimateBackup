@@ -1,0 +1,49 @@
+source file: m1418.txt
+Date: Sat, 16 May 1998 15:35:56 -0700 (PDT)
+
+Subject: Re: tetrachords (Digest 1417 Topic 4)
+
+From: Mark Nowitzky <nowitzky@alum.mit.edu>
+
+Hey hey, Haverstick!
+
+At 04:49 PM 5/16/98 -0400, you wrote (Digest 1417 Topic 4):
+>From: Aline Surman <stick@uswest.net>
+>Subject: tetrachords
+>
+>Here's a question which I was originally going to post privately to 
+>Chalmers, but thought I'd air it out here for maximum response; why are 
+>scales formed by tetrachords in the first place? I've read about them for 
+>many years, and all of a sudden I realized that I don't know the 
+>fundamental reason behind their origin. Any thoughts are surely 
+>appreciated....thanks...Hstick
+
+I've tripped on tetrachord explanations myself.  The explanation usually
+goes "a little something like this":
+
+        A tetrachord is four notes; e.g., "C D E F".
+        Now, repeat that sequence starting at "G",
+        put 'em together and you get a major scale.
+        "C D E F, G A B C".
+
+Now to what always bugged me.  In "justly intoned" scales, along with
+"semitones", 16/15 interval, there's that distinction between "major tones",
+9/8 interval, and "minor tones", 10/9 interval.  C major is USUALLY:
+
+        C 9/8 D 10/9 E 16/15 F 9/8 G 10/9 A 9/8 B 16/15 C
+
+The two "tetrachords" are not the same!  For example, there's a major tone
+between C and D, but a minor tone between G and A.
+
+Apparently this issue bugged Helmholtz and/or Ellis too, 'cuz there's a
+footnote about it in "On the Sensations of Tone" (English translation of 4th
+German edition, p. 255 bottom, for those of you reading along).
+
+--Mark
++------------------------------------------------------+
+| Mark Nowitzky                                        |
+| email:  nowitzky@alum.mit.edu    AIM:  Nowitzky      |
+| www:    http://www.pacificnet.net/~nowitzky          |
+|         "If you haven't visited Mark Nowitzky's home |
+|         page recently, you haven't missed much..."   |
++------------------------------------------------------+

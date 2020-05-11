@@ -1,0 +1,71 @@
+source file: mills2.txt
+Date: Mon, 18 Nov 1996 09:08:16 -0800
+
+Subject: Re: Miscellaneous
+
+From: alves@osiris.ac.hmc.edu (Bill Alves)
+
+>Brian asked me to post a question about CD-ROM generating software
+>for a proposed intonation disk. Is there a greater need for MAC or PC
+>compatible CD-ROMs and is there any way to convert one format to
+>another without having to completely do the CD over? (I'm not sure
+>I understand the problem well enough to be asking the right question.)
+
+It all depends on the type of information, but, yes, there are ways to make
+a CD-ROM readable for both Mac and PC users. Of course, if you're putting
+software on the disc, then you have to decide on Mac or DOS (though both
+can fit on the same disc -- see below). Likewise if the format of the
+documents are particular to one operating system (such as files that have a
+Mac resource fork), then the disc (or volume) has to be OS-specific.
+
+However, if you are putting raw sound files or text files that are readable
+by either system, then the most straight-forward method is to use the ISO
+9660 standard, a kind of "bare-bones" structure that is readable from both
+Mac and PC, but lacks the nice amenities provided by Mac HFS directories,
+such as long file names, spaces within file names, and icons. Commercial
+CDs rarely use ISO 9660 nowadays. High Sierra format is similar.
+
+Another method would be to split your disc into Mac and DOS halves, or
+volumes. Such a "hybrid" disc would have all the advantages of the
+OS-specific directories. The down side is that you would essentially halve
+the amount of space you have.
+
+However, I have heard of people who have had separate Mac/DOS volumes for
+their OS-specific stuff, and then a third volume with the raw data
+accessible to either. Thus your Mac software would be on one volume, your
+PC software on another volume, but both would use the same sound files and
+raw text files that take up the most space on the disc. I haven't seen such
+a disc, but it sounds like a good idea.
+
+Of course, both Mac and PC should be able to read CD-audio ("Red Book"
+audio) off a CD quite apart from the computer data.
+
+While all CD-R software should be able to write ISO-9660 and Red Book audio
+their ability to write hybrid discs may vary. These issues are discussed
+widely in the cd-publication mailing list (sorry, I don't have the address
+handy).
+
+Bill
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^ Bill Alves                                      email: alves@hmc.edu ^
+^ Harvey Mudd College                 URL: http://www2.hmc.edu/~alves/ ^
+^ 301 E. Twelfth St.                            (909)607-4170 (office) ^
+^ Claremont CA 91711 USA                           (909)621-8360 (fax) ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 18 Nov 1996 19:11 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA14189; Mon, 18 Nov 1996 19:12:28 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA16452
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA03501; Mon, 18 Nov 1996 10:12:26 -0800
+Date: Mon, 18 Nov 1996 10:12:26 -0800
+Message-Id: <v01510101aeb5e36af1a8@[134.173.37.15]>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

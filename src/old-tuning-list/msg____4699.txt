@@ -1,0 +1,33 @@
+source file: mills2.txt
+Date: Wed, 29 Jan 1997 12:25:33 -0800
+
+Subject: RE: TUNING digest 970
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>The _vina_ has its large frets set in a beeswax mixture. This does not,
+>however, make the frets very mobile (they are only reset when they fall
+>out). K.S. Subramanian (in 1983-84) had his frets tuned as follows:
+
+>1/1 256/243 9/8 32/27 5/4 4/3 45/32 3/2 128/81 27/16 16/9 15/8
+
+So a Pythagorean chain of twelve notes from 8192/6561 to 27/16, but the 
+first three notes displaced by a schisma (2 cents). Ignoring this interval, 
+which is a bit too small for the Ensoniq VFX/SD, I happen to have programmed 
+this same tuning (starting on D) for an organ timbre, to represent the 
+schismatic tunings of the late middle ages. It's a Pythagorean tuning from 
+G-flat to B, which was the example given in the New Grove.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 29 Jan 1997 21:32 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18932; Wed, 29 Jan 1997 21:32:38 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03835
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id MAA23572; Wed, 29 Jan 1997 12:30:37 -0800
+Date: Wed, 29 Jan 1997 12:30:37 -0800
+Message-Id: <Pine.A32.3.91.970129115744.44177A-100000@tiger.cudenver.edu>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

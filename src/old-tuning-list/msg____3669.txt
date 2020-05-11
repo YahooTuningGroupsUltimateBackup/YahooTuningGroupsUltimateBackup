@@ -1,0 +1,59 @@
+source file: mills2.txt
+Date: Mon, 23 Sep 1996 10:36:08 -0700
+
+Subject: Blackwood's Etudes; more on pitch spacin
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+>Odd
+>structural artifacts like this in low-consistency tunings are features
+>of, for example, several of Easley Blackwood's 12 Microtonal Etudes, and
+>massively cool pieces I think they are.  It's just a different path than
+>that which I am attempting to follow.
+
+Of the tunings Blackwood uses, 13, 14, 17, 20, and 21 are inconsistent 
+within the 5-limit. I find the 14, 17, and 20-note pieces to be successful 
+due to their melodic structures and good 3-limit harmonies. I find the 
+21-note piece intolerably sour (these days I just skip it), since neither 
+the scale nor the harmony are in tune. The 13-note piece may be effective as 
+a piece of atonality, though I've never been a fan of atonal music.
+
+The 17-tone piece is perhaps my favorite, and Blackwood aptly avoids 
+tonicizing the major triad, as it would necessitate good 5-limit 
+approximations. The minor triad only necessitates a good perfect fifth for 
+its tonalness; although the out-of-tune thirds contribute just as much 
+roughness to both chords, the effect on tonalness is far more pronounced in 
+the major triad. In the major triad there is pronounced beating between the 
+difference tones, the root, and the virtual pitch. So much for "dualistic" 
+theories.
+
+I believe the minor triad in Pythagorean or 12-tET to be subtlely more tonal 
+than the just minor triad. This is because the fundamental of 16:19:24 
+(cents: 0, 298, 702) is octave-equivalent to the root, while that of 
+10:12:15 (or, for that matter, 6:7:9 or the 17-tET m3) is not. My first 
+impression on retuning a guitar major chord to just was "Ah, that sounds 
+better," but retuning a guitar minor chord to just, I thought "Hmm, that 
+really doesn't sit right." However, I learned to like the sound of the 
+near-just minor triads in meantone tuning -- they are smoother. Perhaps the 
+use of the Picardy third to tonicize minor keys in the days of meantone 
+tuning died away because of the adoption of the more tonal near-16:19:24 
+minor triads.
+
+To summarize: retuning the third of a minor triad can alter its 
+ratio-interpretation but will not have a large effect on consonance, while 
+retuning the third of a major triad by the same amount may preserve its 
+ratio-interpretation but will have a larger effect on consonance.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 25 Sep 1996 18:05 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28139; Wed, 25 Sep 1996 18:05:29 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA26441
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id JAA18123; Wed, 25 Sep 1996 09:05:17 -0700
+Date: Wed, 25 Sep 1996 09:05:17 -0700
+Message-Id: <9609251605.AA03701@arthaud.saclay.cea.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

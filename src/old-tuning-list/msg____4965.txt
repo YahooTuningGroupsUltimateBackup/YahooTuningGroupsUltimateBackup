@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Mon, 3 Mar 1997 12:51:15 -0800
+
+Subject: RE: More Meantones
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com>
+
+John Chalmers wrote,
+
+>It seems to me that the 5/3 and 6/5 are not independent of the 5/4
+>and 3/2 and not really necessary
+
+As a result of this assumption, most of the tunings that John derives have 
+significantly worse major sixths and minor thirds than the ones I derived. 
+If one wants these intervals to be smooth just as much as one wants the 
+major third and minor sixth to be smooth, including them certainly is 
+necessary!
+
+I would like to propose a test so that anyone can decide for themselves 
+whether I or John Chalmers have better specified the problem of finding a 
+tuning with the best triads. Compare major and minor triads in 15-equal to 
+those in 10-equal. The perfect fifth is identical in both tunings. The major 
+third is 14 cents sharp in 15-equal, and 16 cents flat in 10-equal. So John 
+Chalmers would rate the two tunings as equally good. However, the minor 
+third is 4 cents sharp in 15-equal and 44 cents sharp in 10-equal. So I 
+would rate 15-equal as much better than 10-equal. Listen for yourself and 
+decide!
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 3 Mar 1997 22:19 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03356; Mon, 3 Mar 1997 22:19:26 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA03410
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id NAA17964; Mon, 3 Mar 1997 13:13:08 -0800
+Date: Mon, 3 Mar 1997 13:13:08 -0800
+Message-Id: <009B0BA8237A1272.5B8B@vbv40.ezh.nl>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

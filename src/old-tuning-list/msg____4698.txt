@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Wed, 29 Jan 1997 12:21:33 -0800
+
+Subject: emu & kurzwiel
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> I'm looking into getting a sampler/synth unit and leaning towards the EMU
+4X/64
+> models or the Kurzweil 2000/2500 models. Does anyone know how microtuning
+> friendly they are?
+
+   I don't personally own one, but I've heard been considerable discussion
+about the K2x00 on the list and from a friend who has one.  
+
+   Without a doubt, it doesn't have a generic tuning table capability by
+which each key of the keyboard may be retuned to any arbitrary pitch. 
+(Most of the Ensoniq line does, by the way.)  There are instead three
+separate mechanisms that you have to learn and apply separately.  The going
+answer seems to be that these things are easy:
+1. Tuning the interval between all adjacent keys equally to any multiple of
+
+   2 cents.  All adjacent keys 
+2. Tuning the twelve notes of each C-C octave identically to just about 
+   anything.  Switching off between several such tables with SysEx messages
+   is also easy.  These are strictly 12-tone tables though, and repeat only
+   in exact octaves.  
+3. Using a Max patch to retune every note on the fly according to what
+might
+   be called a "sample and hold" controller.  (It memorizes the
+most-recently
+   set value to ... I think it's something like controller #25 ... and you 
+   can then adjust a note's pitch based upon that.  It's sort of like pitch
+   bend except that it has no effect upon notes already playing)
+
+   Doing #1 to a finer resolution is also possible, but much more
+difficult.  That is what you'd want if you wanted, for example, to map
+19-tone equal-temperament linearly, meaning note-for-note/key-for-key
+across the keyboard, mismatching octave boundaries of the tuning with
+octave boundaries on the keyboard.  
+
+   From what I've heard, I doubt if there's any way to tuning a K2x00 like
+Partch's Chromelodeon, which uses an irregular spacing between keys
+spanning across an octave of 43 keys.  Or similarly, my mapping for 88CET
+tuning, wherein I use a linear, key-for-key/note-for-note mapping except
+that I omit the G#/Ab key from that setup.  (Or to put it another way, the
+gap between all pairs of adjacent keys is 88 cents, except that G#/Ab key
+is tuned to the same pitch as its adjacent A key.)  That mapping would
+probably not be possible on the K2x00, except through external computer
+assistance (#3 above).  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 29 Jan 1997 21:28 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA18957; Wed, 29 Jan 1997 21:28:38 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA18907
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id MAA23187; Wed, 29 Jan 1997 12:25:33 -0800
+Date: Wed, 29 Jan 1997 12:25:33 -0800
+Message-Id: <93970129171339/0005695065PK4EM@MCIMAIL.COM>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

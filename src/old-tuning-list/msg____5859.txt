@@ -1,0 +1,79 @@
+source file: mills2.txt
+Date: Tue, 15 Jul 1997 00:04:33 +0200
+
+Subject: harmonic metrics
+
+From: Carter Scholz <csz@well.com>
+
+I've been following the thread on harmonic spaces and metrics with
+interest, and although it's been a while since I've done any work in
+this area I'd like to comment briefly.
+
+I've found it somewhat fruitful to think of any given harmonic metric --
+like any given tuning -- as one way of hearing among many ways.
+
+In fact I'm skeptical that there can be any such thing as a single
+metric (in the strict mathematical sense) for "consonance" or
+"concordance" or "harmonicity", because these concepts are so highly
+contextual.  I don't believe that ANY metric can state categorically
+that a 15/1 is more or less "consonant" than a 5/3, or a 15/8 than a
+16/15, or a root-position major triad than a second-inversion triad, or
+any such comparison, without carefully circumscribing its assertion by a
+precise definition of what "consonance" means in its context.  (Tenney's
+_History of 'Consonance' and 'Dissonance'_ is a valuable look at how
+notions of "consonance" have changed over the centuries in European art
+music.)  In designing a metric, there is an understandable tendency to
+shuttle between number and intuition, to say "my ears tell me..." about
+this quality, while also striving for quantitative objectivity.
+
+Which is NOT to say that the quality can't be measured, or that the
+design of metrics is therefore futile.  But it does seem inevitable that
+any given metric will necessarily contain highly subjective decisions --
+e.g. how to weight the various dimensions, whether or not it's octave
+invariant, whether the limit-system is based on primes or odd numbers or
+odd composites, et cetera -- decisions that carry with them theoretical
+assumptions about the nature of harmony and tonality, tending to
+radically simplify and somewhat falsify the processes by which we hear
+and interpret.
+
+I believe that a somewhat fuller and more useful description of
+harmonicity might be reached by using a GROUP of metrics, each
+descriptive of some particular aspect of pitch and harmonic space,
+instead of seeking a single "best" metric for a quality as multivalent
+and contextual as "consonance".
+
+Various metrics based on small-number-ratio theories of consonance have
+been discussed extensively on the list.  I would like to see more
+discussion of what I consider "problem areas", the first two of them
+psychoacoustic, the third a more general agenda:
+
+1) Critical bandwidth.  Though there has been much discussion of octave
+invariance, there has been little of critical bandwidth, which requires
+that we bring absolute frequency, not just interval ratios, into any
+metric that claims psychoacoustic validity.  (Sethares's extension of
+Plomp-Levelt does this, and takes steady-state timbre into account as
+well.)
+
+2) Non-integers/approximations.  Small-number-ratio metrics fail with
+irrationals.  E.g. 300001/200000 is much more "dissonant" than 3/2;
+indeed, the closer the approximation, the more distant it's ranked by
+any small-number metric.  The ear has a much more adaptable threshold. 
+Some metric that describes near-misses could be quite useful.  (Again,
+by incorporating critical bandwidth, Sethares's metric avoids this
+particular pitfall.  Tenney alludes to, but does not incorporate, a
+"tolerance range" in his harmonic distance metric.)
+
+3) Acculturation.  A catch-all by which I mean any sort of bias or
+assumption or preference that may be hiding behind a veneer of
+objectivity.  Octave-invariance has been discussed.  Some discussion of
+where & how qualities become quantities might be helpful, e.g. the
+importance of 5-limit intervals in tertial harmony.  Not that bias or
+preference could or should be banished, but it ought to be identified.
+Thus, a metric designed to describe the closeness of a pitch set to a 
+harmonic series might reasonably rank a 7/1 closer than a 3/2.  Et cetera.
+
+The goal might be to arrive at some set of simple metrics that do not
+confuse a multi-dimensional subjective quality like "consonance" with a
+single quantitative measurement.  One could then choose the qualities
+that one deems important and use those metrics appropriate to the
+analytical or compositional task at hand.

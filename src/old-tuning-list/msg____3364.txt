@@ -1,0 +1,29 @@
+source file: mills2.txt
+Date: Fri, 2 Aug 1996 07:21:27 -0700
+
+Subject: Scale archive
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+There is a new version of the scale archive with 1445 scales now.
+Download ftp://ella.mills/edu/ccm/tuning/software/scales/scales.zip .
+See also scales.doc.
+The scales are in human-readable format and compatible with my tuning
+program Scala. Having this archive is useful if you have created a new
+scale and want to see if it's already in there. To compare a scale in
+Scala against all files do: "compare *". It will find scales that are
+modes or inversions of the scale and it is possible to find subsets and
+supersets too.
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 2 Aug 1996 17:42 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA26798; Fri, 2 Aug 1996 08:41:58 -0700
+Date: Fri, 2 Aug 1996 08:41:58 -0700
+Message-Id: <199608021542.IAA05593@guitar.qnet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

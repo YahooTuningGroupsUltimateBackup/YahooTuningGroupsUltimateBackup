@@ -1,0 +1,149 @@
+source file: mills2.txt
+Date: Wed, 19 Feb 1997 03:11:42 -0800
+
+Subject: Re: Ghosttones and LucyTuning
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+PAULE <ACADIAN/ACADIAN/PAULE%Acadian@mcimail.com> wrote:
+> 
+> Matt, I pursued the entire line of discussion with Charles 
+> Lucy years ago on rec.music.compose. The man is clearly 
+> interested only in promulgating his opinions -- any factual 
+> evidence that "supports" them he will gladly jump on, while 
+> all contradictory evidence or semblance of mathematical reasoning
+> he evades through obfuscatory ramblings. 
+
+My efforts may be futile. Oh well. If anybody wants 
+this thread truncated, let me know.
+
+> ...
+> Despite all this, LucyTuning is about the best tuning around for the
+> existing diatonic, triadic repertoire. Let me try to explain why.
+> 
+> First, it is a meantone tuning. This means that 5-limit just 
+> intonation is approached without any commas to deal with. 
+
+> For 
+> anyone who denies the importance of this, take a piece of 
+> diatonic, triadic music and try to render it in just 
+> intonation. Inevitably, different-sized whole tones, comma
+> shifts during sustained notes, out-of-tune chords, and/or 
+> wandering tonics arise. 
+
+I'd disagree here. 
+
+Different sized whole tones are not a problem, but rather 
+a revelation. Their confounding into a single interval 
+loses a beautiful and natural distinction. The perfect
+example is the 8:9:10:12 voicing.
+
+Comma shifts are not a "problem" either, since they are 
+required by the harmonic context and make perfect sense 
+as in-tune chord members. Comma shifts are merely voice 
+leading, in the same manner as one would move by seconds 
+to voice lead--the only difference is the smaller size of 
+commas (such as my favorite 81/80) as compared to seconds. 
+To say that comma shifts are somehow invalid is like saying 
+that it's invalid to move the B up to a C when resolving 
+V to I in C. Voice leading is voice leading. 
+
+Out-of-tune chords only happen in JI when you don't use 
+the correct pitches, as when your instrument's pitch set 
+is finite and you must employ the closest available 
+substitute. This is not true JI but a form of "surdism" 
+(a coined modification of a term I read in Partch).
+
+"Wandering tonics" is a misnomer. Wandering tonics fall 
+into the voice-leading category, as demanded by harmonic 
+context. A vi minor chord whose third is not the same pitch
+as the tonic of the key is not a relative of nor a substitute 
+for the I chord--it's a different chord with its own 
+required pitches. (There is also a vi minor chord which is 
+a relative of the I chord, of course.) The fact that 
+the third of this chord lies close to the tonic of the key 
+should not be taken to mean that they are both tonics of 
+the key, one being "wandered", any more than the leading 
+tone should be considered a "wandered" tonic, or the major 
+third of the V of ii (near C# in C) should be considered a 
+"wandered" tonic. 
+
+I think the "problems" some people have in trying to 
+translate existing "diatonic triadic" music into JI 
+are related to conceptions about pitch class. I hold 
+that there are more than 7 pitch classes implied in 
+much supposedly diatonic music, but that many of the 
+pitch classes are confounded into single representation
+in 12tet and other finite tuning systems. These systems
+allow for errors to be written into the music without
+being caught because the errors are distributed across some
+number of chords in a progression. When such music is 
+"translated" into JI the errors become apparent and JI 
+is blamed (like killing the messenger of bad news) 
+rather than the confounded tuning system which allowed 
+the composer to write those errors in the first place. 
+
+> ...if you take all 5-limit 
+> just intervals and calculate the meantone tuning that
+> minimizes the mean squared error (which is appropriate if you 
+> think dissonance is a function whose first derivative is zero 
+> and second derivative is positive at just intervals (I do)),
+
+Will you explain this dissonance function with 
+figures please? It sounds interesting but I'm 
+not sure what you mean by derivative. 
+
+In JI, I prefer to think of the "complexity" (or something,
+rather than "dissonance") of an interval or sonority, which 
+I measure not by multiplying the members of a ratio or 
+chord, but by adding them! As an example, 4/1 is about as 
+"complex" as 3/2 by my rule of thumb, and 8/5 is about as
+"complex" as 9/4. 
+
+In systems which deviate from just by small amounts, 
+I'm not really sure how to calculate dissonance, 
+except that it may have something to do with the 
+speed of beating (faster beating, more dissonance).
+
+> you get a perfect fifth of
+> 696.165 cents. If you use a weighted mean, with weights 
+> inversely proportional to the limit (following Partch 
+> who said higher-limit intervals need to be tuned more 
+> accurately in proportion to their limit), you get a
+> perfect fifth of 696.019 cents. The optimal tuning for 
+> any real musical situation (as long as it is diatonic 
+> and triadic) will probably fall somewhere between these 
+> two tunings (a very narrow range!).
+
+That's very interesting mathematically and I will want
+to work it through from scratch myself someday
+to really "get it". I'm afraid I'd still classify 
+weighted mean-tone as an error-spreading and pitch-class- 
+confounding system though. Its main value would be
+in the tuning of instruments whose pitch sets are finite
+and not manually adjustable during performance, especially 
+for period music.
+
+> Lucy is thus doing considerably better than 19-equal, and 
+> about as well as 31-equal. It's no wonder that an eminent 
+> scholar of days past (John Harrison) advocated the pi-based 
+> tuning (LucyTuning). 
+
+Of course this is not the same as claiming to have found a 
+better physical model for the mapping of ghosttones as 
+Charles Lucy is.
+
+Matt Nathan
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 19 Feb 1997 16:39 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11644; Wed, 19 Feb 1997 16:39:22 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA11560
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id HAA23917; Wed, 19 Feb 1997 07:35:31 -0800
+Date: Wed, 19 Feb 1997 07:35:31 -0800
+Message-Id: <199702191034_MC2-1179-84A3@compuserve.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

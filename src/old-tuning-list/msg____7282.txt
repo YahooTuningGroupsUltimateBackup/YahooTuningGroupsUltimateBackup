@@ -1,0 +1,16 @@
+source file: m1362.txt
+Date: Sun, 22 Mar 1998 17:33:10 -0800 (PST)
+
+Subject: Justonic Pitch Pallet >12 tones/oct
+
+From: Jesse Bagshaw Gay <jgay@reed.edu>
+
+In a recent post about the eps 16 + and the asrx, someone mentioned
+Justonic Pitch Pallette software as an example of software that supports
+tuning changes in real time.  However, they added that it can only do 12
+note scales.  You can work around this by using a scale change message
+before any notes that are not part of the original scale of the piece.
+This techinique, albeit a little cumbersome, allows you to use more than
+12 tones per octave.
+
+-jesse

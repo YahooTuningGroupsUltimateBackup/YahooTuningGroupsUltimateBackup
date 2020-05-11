@@ -1,0 +1,59 @@
+source file: mills2.txt
+Date: Sat, 16 Sep 1995 11:25:28 -0700
+
+Subject: Re: alterations to EQ-T
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> Could someone send me some info on the *affect* equal temperament has on
+> certain intervals (ie: it makes major thirds sharp, etc.) as well as any
+> comments concerning the natural tuning tendencies of orchestras with no EQ-T
+> pitch reference.
+
+   I suppose it's fair to say that that's an exceptionally BIIIIIG question
+you've asked there.  There have been many studies, formal and informal on both
+questions, and there is certainly no dirth of conflicting opinions on the topic.
+
+
+   As for your first question, what effect equal temperament has on various
+intervals, the usual approach to that question is to compare it with simple
+whole-number-ratio (just) harmony.  My experience, and that of many others, is
+that pure just harmony (as used to produce the same traditional harmonies as are
+available in 12-tone equal temperament) sounds absolutely squeeky clean.  It has
+sort of the auditory analogy to the feeling you have coming out of the dentists'
+office after getting your teeth cleaned.  
+
+   Ivor Darreg, who had a strong influence on a number of us on this list,
+approached this question of how a given temperament distorts traditional
+harmonies in terms of their cummulative effects.  He called that cummulative
+effect the tuning's "mood".  So he stated that 12-equal has a restless mood,
+17-equal has a bright and zippy mood, 19-equal has a forceful mood, 22-equal has
+a calm placid mood, 31-equal has an even, level-headed, almost matter-of-fact
+mood, and so forth.  
+
+   I personally, and many others, whole-heartedly agree both with Darreg's
+approach and results.  Some just intonation fans, however, have viewed that as a
+pointless endeavor partly on the grounds that just intonation has historically
+been and is still the ideal, and that dynamic retuning via computer technology
+has finally made possible what mankind has been kludging around by temperament.
+They view moods - attributing interesting characteristics to these kludges - as
+something of a pointless diversion.  
+
+   As for your second question, of how string players (for example), choose
+pitches in a large ensemble, there have been many extremely careful studies
+performed on the topic.  For the most part, best I can tell, they've pretty much
+concluded that no particular mathematical formula accurately predicts how these
+people choose the pitches they play.  In the cases of large ensembles that
+becomes an extremely complex problem with an enormous number of variables.
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 17 Sep 1995 00:07 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA29369; Sat, 16 Sep 1995 15:07:41 -0700
+Date: Sat, 16 Sep 1995 15:07:41 -0700
+Message-Id:  <9509161506.aa13767@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

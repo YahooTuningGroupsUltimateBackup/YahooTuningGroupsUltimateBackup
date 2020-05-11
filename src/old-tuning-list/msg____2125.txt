@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Thu, 12 Oct 1995 06:58:00 -0700
+
+Subject: Updated scale archive
+
+From: COUL@ezh.nl (Manuel Op de Coul)
+
+The scale archive with the collections of John Chalmers and myself
+has been updated and contains now over 1250 scales.
+The scales.doc file contains the complete listing. It's found here:
+
+http://www.cs.ruu.nl/pub/MIDI/DOC/scales.doc (readme file, ASCII)
+http://www.cs.ruu.nl/pub/MIDI/DOC/scales.zip (ZIP file, binary)
+
+Use the "-a" option while unzipping. The size of the ZIP file is about
+284 Kb. FTP is possible also from ftp.cs.ruu.nl.
+The file format of the scales is that of my tuning program Scala,
+which I hope will be available soon. The files are text files so also
+usable without it. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 12 Oct 1995 21:39 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id MAA15211; Thu, 12 Oct 1995 12:39:10 -0700
+Date: Thu, 12 Oct 1995 12:39:10 -0700
+Message-Id:  <9510121237.aa09738@cyber.cyber.net>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

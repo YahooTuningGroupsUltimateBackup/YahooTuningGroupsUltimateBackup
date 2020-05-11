@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Fri, 17 Jan 1997 19:39:38 -0800
+
+Subject: new JI Calc version
+
+From: Carter Scholz <csz@well.com>
+
+Version 4.4 of JI Calc is now available at:
+ftp://mills.edu/ccm/tuning/software/mac/jicalc44.sea.hqx
+
+JI Calc is a Hypercard stack for creating and archiving musical
+tunings, especially in just intonation.  It provides MIDI transfer
+of tuning data to instruments that support alternative tunings,
+specifically Yamaha DX-, TX-, and SY- units, the Emu Proteus series,
+the Ensoniq EPS series, and the MIDI Tuning Spec.  It also plays
+up to 8 simultaneous tones using Macintosh local sound.
+
+This stack requires Hypercard 2.0 or higher.  Sound on PowerMacs
+requires QuickTime 2.0 or higher and QuickTime Musical Instruments.
+
+JI Calc 4.4 changes (1/1/97)
+New features:
+- Single version for PowerMacs and 680x0s.  Checks for QuickTime
+  and Sound Manager; uses them if present, falls back to older
+  Sound Driver routines if absent.
+- "Lattice" card draws diagrams of tunings.
+- String length and fret position calculations for all tunings.
+  (Thanks to Steve Curtin and John Chalmers.)
+- "Help" stack is now identified with JI Calc version number.
+- Holding "shift" while clicking Clear clears only the lower part
+  of each ratio field (results of calculations).
+- Ear training feature no longer repeats an interval twice in a row.
+- Write and Read functions use standard file dialogs.
+Fixes:
+- Slower MIDI transfers to avoid problems with some fast PowerMacs
+  and some synths.  Failure to transmit SY-77/99 tuning names fixed.
+- Cosmetic changes to interface, incorporating Steve Curtin's "fret pos"
+  and John Chalmers's "string len" buttons.
+- Write and Read bugs fixed.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Jan 1997 13:15 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA07579; Sat, 18 Jan 1997 04:36:05 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA07862
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id TAA26809; Fri, 17 Jan 1997 19:35:58 -0800
+Date: Fri, 17 Jan 1997 19:35:58 -0800
+Message-Id: <32E0455D.E48@sprynet.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

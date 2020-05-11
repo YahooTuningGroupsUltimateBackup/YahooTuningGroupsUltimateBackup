@@ -1,0 +1,49 @@
+source file: mills2.txt
+Date: Sun, 29 Sep 1996 10:55:26 -0700
+
+Subject: Re: 88CET Variants and Their Approximations
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+For you folks out there who have also been experimenting with 88CET, the two
+cases in Manuel's 88CET calculations that struck me as especially interesting
+were:
+
+------------------------------------------------------------------------------
+
+  1: 4  2: 7  3: 10
+ 88.2160 cents, 13.6030/oct.  Std. dev: 2.9412 cents
+  1:         11/9           -5.4561   undecimal neutral third
+  2:         10/7           -0.0242   septimal augmented fourth, Euler's tritone
+  3:          5/3            2.1987   major sixth
+
+  1: 3  2: 4  3: 10
+ 88.2707 cents, 13.5946/oct.  Std. dev: 3.1293 cents
+  1:          7/6            2.0588   septimal minor third
+  2:         11/9           -5.6749   undecimal neutral third
+  3:          5/3            1.6517   major sixth
+
+------------------------------------------------------------------------------
+
+   I found them particularly interesting, because stretching the step size to 88
+1/4 cents or thereabouts, would make the 41-step triple-octave approximation
+pretty far off.  It would be sufficiently far off to make that tuning pretty
+much unequivocally different from simply every third step of 41TET.  
+
+   Perhaps that's something of an ignoble goal - making it different just to be
+different.  I suppose that's a matter of perspective.  But it's a thought
+anyway.  
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 29 Sep 1996 20:00 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01056; Sun, 29 Sep 1996 18:59:43 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA04542
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA06769; Sun, 29 Sep 1996 10:59:37 -0700
+Date: Sun, 29 Sep 1996 10:59:37 -0700
+Message-Id: <960929174918_71670.2576_HHB73-2@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

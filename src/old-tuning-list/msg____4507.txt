@@ -1,0 +1,92 @@
+source file: mills2.txt
+Date: Fri, 3 Jan 1997 21:58:33 -0800
+
+Subject: Re: Food for thought - a puzzle
+
+From: Matt Nathan <mattn@ix.netcom.com>
+
+PAULE wrote:
+> 
+> Gary wrote,
+> 
+> >But for whatever it's worth, I don't think that 9 would be considered a
+> >limit on the grounds that it's not prime.
+> 
+> I, for one, completely disagree. I would define the limit as the largest odd
+> number that occurs in ratios that are considered consonant. I differ with
+> many JI advocates in that I do not think dissonances should be represented
+> as ratios
+
+Maybe I misunderstand your point, but how else would you represent them? 
+I notice you use ratios as you continue: 
+
+> -- in 5-limit diatonic music, a major second is a major second
+> whether you call it 9/8 or 10/9. 
+
+You've just used ratios to distinguish two _different_ major seconds. I've
+read these described as the large just major second and the small just
+major second, and other names. These would be distinguished from the septimal 
+major second. These various and imprecise English-y names can be dispensed with 
+by the use of ratios.
+
+> (Not to deny that one could create a
+> 9-limit diatonic style in which these would be two distinct consonances --
+> this is hinted at by the use of chords such as C-D-E-G as consonances; i.e.,
+> 8:9:10:12.)
+
+They are distinct consonances (or dissonances, depending on how you define the
+consonance/dissonance threshold). Assuming this typical diatonic major scale, 
+C-D-E-F-G-A-B-C 1/1 9/8 5/4 4/3 3/2 5/3 15/8 2/1,
+compare the chord C-D-E-G or 8:9:10:12, 
+with the chord G-A-B-D which is not 8:9:10:12.
+
+In another example, assuming a pan-modal approach (drawing chords from multiple 
+diatonic modes on the same tonic), compare the D in the chord C-D-E-G 8:9:10:12 
+with the D in the chord Bb-C-D-F 8:9:10:12, keeping C the same. These are two 
+different D's. The best way that I know of to distinguish them and at the same 
+time describe their ideal tuning is to use ratios. The first D is 9/8 in the key 
+of C, and the second is 10/9 in the key of C. 
+
+> The simplest equal temperament that clearly distinguishes all 9-limit
+> intervals is 41-equal. 
+
+Each equal temperament may provide a maximum of one rational interval only.
+41-equal contains no 9 limit intervals save 2/1. To say that it distinguishes 
+9/8 from 10/9 (and the rest of the 9-limit intervals) is to say that it contains 
+intervals which may be used to misrepresent these rational intervals by 
+approximation using a different number of 41-equal degrees for each. 
+
+By my hearing, most equal temperaments work in proportion to the extent that 
+they get close to rational intervals, thanks or curses to the ear's natural 
+attraction to rational intervals and its propensity for interpretting 
+random intervals as perversions of rational intervals--which leads me to think 
+it best use the rational intervals directly. The rest of the equal temperaments 
+work to the extent that they get away from rational intervals and give us a 
+way to hear which lets us break away from the tyranny of the gestalt of rational 
+intervals. Even this though is a reactionary way of hearing which bases itself 
+on the gestalt of the rational intervals as something to get away from.
+
+If you are suggesting that we attach et-41 names to 9-limit intervals
+for the sake of ease of handling and communication, while understanding
+that the intervals are to be tuned justly, that's fine, until you want to 
+include other rational intervals. Then you run into the problem of finding 
+the next best ET whose names can be mapped over the intervals we require,
+and renaming all the intervals we've already come to recognize using et-41
+names. I think using ratios is the most explicit, and most extensible notation 
+available for handling rational intervals in discussions like this.
+
+Matt Nathan
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 4 Jan 1997 09:39 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA01028; Sat, 4 Jan 1997 09:41:58 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA01026
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id AAA07048; Sat, 4 Jan 1997 00:41:55 -0800
+Date: Sat, 4 Jan 1997 00:41:55 -0800
+Message-Id: <199701040339_MC1-E20-2A20@compuserve.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

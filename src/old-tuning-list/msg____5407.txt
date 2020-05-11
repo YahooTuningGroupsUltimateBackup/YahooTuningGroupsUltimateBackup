@@ -1,0 +1,77 @@
+source file: mills2.txt
+Date: Mon, 5 May 1997 07:16:11 -0700
+
+Subject: Post: tuning thirds in triads
+
+From: PAULE <ACADIAN/ACADIAN/PAULE%0005695065@mcimail.com>
+
+The reason I differ with Paul Rapoport when he defines the m3 as simply 
+"left over" from the P5 and the M3 is that in tuning a major triad, both 
+thirds are important to my ears. Some of the experiments I discussed with 
+John Chalmers provide evidence for this belief. For example, John (in Tuning 
+Digest 1008) and I both heard that a chord tuned 0 400 720 was clearly 
+"better" than a chord tuned 0 372 720, even though the M3 and P5 are equally 
+false in both chords. (To refute an explanation based on a preference for 
+stretched intervals, use the first inversion of these chords.) Therefore it 
+matters whether you're using the best possible m3 in a particular tuning; 
+just using the best M3 and the best P5 does not guarantee the best major 
+triad. For example, try 64-tet. There the best perfect fifth is 37 steps, 
+and the best major third is 21 steps. Changing either of these by 1 to give 
+a better minor third of 17 steps improves the major triad. 64-tet is 
+actually an interesting tuning; it is the simplest equal temperament that 
+contains all "tonal" systems (defined according to my paper on 22-tET, the 
+systems are pentatonic, diatonic, and a new system first found in 22-tET and 
+described at length in that paper).
+
+The above assumes that the "best" tuning of a major triad is 4:5:6, a 
+statement which causes little serious controversy. Unfortunately things are 
+not so simple for the minor triad. The 10:12:15 (or 1/6:1/5:1/4) tuning is 
+lowest in roughness, but for a typical root-position voicing, 
+(4:8:12:)16:19:24 will sound more stable. Gary Morrison has pointed out that 
+there can be two different types of consonance judgments operating at the 
+same time; I believe that one is based on roughness while the other is based 
+on various factors having to do with how well the tones fit into a single 
+harmonic series. 16:19:24 is typically still within the "dip" in the 
+roughness function whose local minimum is at 10:12:15, so 16:19:24 is still 
+less rough than just about any triad besides the major. To me a 
+root-position minor triad sounds out-of-tune as 10:12:15, although I think 
+12:15:20 (1/5:1/4:1/3) is a very sweet first-inversion minor triad.
+
+So it is possible that the best thirds for the major triad are different 
+that the best thirds for the minor triad. It destroys a lot of the 
+mathematical beauty of 5-limit theory by bringing in the 19th harmonic, but 
+I have to let my ears be the final arbiter, and in this case they tell be 
+that the 19th harmonic is important.
+
+A much-ignored study by Pierce and Roberts (I think; it's from the book 
+_Harmony and Tonality_) found that untrained listeners generally fall into 
+two categories, "pure" and "rich." The pure listeners liked just 4:5:6 and 
+3:5:7 triads better than versions of those chords where the middle tone was 
+displaced by +/-15 or +/-30 cents, while the rich listeners like the 
+15-cents-off versions of the chords best, with no particular preference 
+between a +15 and a -15 cent "error" However, for 10:12:15 (or 1/6:1/5:1/4) 
+chords, both classes of listeners preferred the version where the middle 
+tone was lowered by 15 cents. The authors of the article did not provide 
+much of an explanation of this phenomenon. Note that although the 15-cent 
+shift has about the same effect on roughness for both major and minor 
+triads, the listeners may have been motivated not so much by the small 
+differences in roughness but by a preference for harmonic series. The 
+preferred version of the minor triad is very close to 16:19:24, which has a 
+note octave-equivalent to the fundamental in the bottom voice. Thus in a 
+sense it better resembles a harmonic series than the "just" or 10:12:15 
+minor triad. The rich listeners may have also been attracted to the beating, 
+which is on the order of 7 times per second for the +/- 15 cent versions of 
+all of these chords.
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 5 May 1997 19:27 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05050; Mon, 5 May 1997 19:27:42 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA05039
+Received: from  by ella.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	 id KAA05261; Mon, 5 May 1997 10:20:19 -0700
+Date: Mon, 5 May 1997 10:20:19 -0700
+Message-Id: <v01510100af9364b96491@[134.173.37.15]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@ella.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@ella.mills.edu

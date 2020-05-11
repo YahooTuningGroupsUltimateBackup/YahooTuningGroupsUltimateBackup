@@ -1,0 +1,89 @@
+source file: mills3.txt
+Date: Sat, 17 Jan 1998 10:32:54 +0100
+
+Subject: Tempering issues
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+Paul Erlich wrote:
+
+> This "sameness" and "in-tune-ness" are surprisingly flexible, especially
+> when it comes to multiple octaves. Playing the same melody on opposite
+> ends of a piano simultaneously, you can get away with a semitone
+> transposition without much disturbing the "sameness" or "in-tune-ness"
+> (Yasser gives a melody to use for this, and I didn't believe it until I
+> tried it!)
+
+Let's assume that the suitability of a temperament depends upon
+the most poorly tuned interval in the relevant consonant limit.
+If you take the Partch odd limit as the definition of consonance,
+then all octave transpositions of the main intervals have to be
+counted.  If the octave is not perfect, some equivalent intervals
+will be tuned worse as a result.  So, the suitability of the
+temperament diminishes.  If you've got the same pitch set in all
+registers, it will be difficult to avoid the bad intervals.  A
+small octave stretching may work to favour the most frequently
+used intervals but, for this to be acceptable, it must have a
+very small harmonic effect.
+
+As an example, if you play two 4:5:6:8 chords an octave apart,
+you get the intervals 3/1, 5/2, 8/3 and 16/5 coming out.  A
+mistuning of the octave will become threefold apparent in two of
+these intervals.  Harmony isn't really octave invariant, as I've
+argued before, but all these intervals will occur between melody
+and harmony.
+
+How big is a piano keyboard?  One semitone at 8 octaves implies a
+formal octave 100/8=12.5 cents sharp.  That's better than the
+thirds in 12-equal.
+
+
+Paul's example of the 8:10:12:15 chord is a good one.  Taking 15/8
+as a dissonance, this chord will still work best the better the
+fifths and thirds are tuned, so that their consonance is more
+evident.  I think 15/8 has some degree of consonance, though, so
+if this chord is to be used frequently this interval should be
+considered, so that the difference tones are in tune.
+
+While experimenting with this, I found that 8:10:15 sounds better
+than 4:5:7, probably because of the fifth.  4:6:7 is preferable to
+8:12:15, so 7-limit still rules!
+
+If the presence of consonances can make up for a dissonance in
+a chord, it follows that a strong consonance is important even
+in the presence of other consonances.  So, octaves and fifths
+should be considered first in choosing a temperament.  I think
+12-equal works partly by 3-limit harmony plus poorly tuned thirds
+functioning as weak dissonances.  Also, because memory corrects
+the tuning of familiar chords.  You're still going to notice if
+one interval is way out, though.  The worst tuned interval in a
+chord is still the most important.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  CDRs and DVDs
+PostedDate:  17-01-98 15:18:37
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  17-01-98 15:18:37-17-01-98 15:18:38,17-01-98 15:17:40-17-01-98 15:17:41
+DeliveredDate:  17-01-98 15:17:41
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125658F.004E9A42; Sat, 17 Jan 1998 15:18:32 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28007; Sat, 17 Jan 1998 15:18:37 +0100
+Date: Sat, 17 Jan 1998 15:18:37 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA28050
+Received: (qmail 4376 invoked from network); 17 Jan 1998 06:18:34 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 17 Jan 1998 06:18:34 -0800
+Message-Id: <v01541100b0e612972c73@[207.207.2.148]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

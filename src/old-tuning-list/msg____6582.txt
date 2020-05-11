@@ -1,0 +1,71 @@
+source file: mills3.txt
+Date: Wed, 10 Dec 1997 23:04:34 +0100
+
+Subject: RE: repeating patterns
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>>Here's something I've wanted to try, maybe someone already has. Suppose I
+>>took two 12TET scales separated by 80/81. Then one would have both nice
+>>sounding thirds and a wide open modulation horizon.
+>
+>I did this quite some time ago and also posted a question whether anyone else
+>had. I separated the scales by 15 cents rather than 80/81 to produce better
+>thirds.
+>
+>>One idea I had for a keyboard setup was to use the left hand on one 12TET
+>>and
+>>the right hand on the other. Then to play a simple diatonic scale one might
+>>have a pattern like RRLRRLLR.
+>
+>All major triads have the root and fifth in the left hand, the third in the
+>right hand. All minor triads have the root and fifth in the right hand, and
+>the third in the left hand. This was about the most sophisticated tuning I
+>could get out of my Casio CZ-1. Taken to its logical limit, this idea leads
+>to 72TET (which, besides the nearly pure triads, has unique representations
+>of all 11-limit intervals and is consistent through the 17-limit).
+>
+>>If I understand how the "k-limit" term is used, it might be useful to make a
+>>finer distinction. Suppose I take a set of notes (2**n)(3**m)(5**p) where n
+>>and m are unbounded but p is constrained to be 0 or 1. My understanding is
+>>that this scale would be called 5-limit. The scale where p is also allowed
+>>unbounded values would also be 5-limit. Perhaps the case of unbounded
+>>exponents is not of sufficient interest to merit a new term?
+>
+>I don't think the case of BOUNDED exponents is of sufficient interest to
+>merit a new term; someone finding themselves imposing such constraints may be
+>better served by the odd-limit definition I (and Partch) use rather than the
+>prime-limit definition you seem to be suggesting above.
+>
+>>Jim
+>
+>-Paul
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  Reply to Gregg Gibson
+PostedDate:  11-12-97 00:07:37
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  11-12-97 00:06:09-11-12-97 00:06:09,11-12-97 00:05:54-11-12-97 00:05:55
+DeliveredDate:  11-12-97 00:05:55
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256569.007EE333; Thu, 11 Dec 1997 00:07:53 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA12151; Thu, 11 Dec 1997 00:07:37 +0100
+Date: Thu, 11 Dec 1997 00:07:37 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA12142
+Received: (qmail 14092 invoked from network); 10 Dec 1997 15:07:27 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Dec 1997 15:07:27 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971210223847Z-1596@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

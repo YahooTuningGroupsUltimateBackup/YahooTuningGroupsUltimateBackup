@@ -1,0 +1,58 @@
+source file: m1554.txt
+Date: Fri, 16 Oct 1998 15:17:09 +1000
+
+Subject: A meantone tuning with six 7-limit tetrads
+
+From: Dave Keenan <d.keenan@uq.net.au>
+
+Hi, I'm new to this list. Greetings from Brisbane, Australia.
+
+Has anyone seen the following tuning before?
+
+It's a choice of 12 from 31-TET which has many 7-limit harmonies. It has the advantage of mapping to an ordinary keyboard, approximating equal tempered, embedding some ordinary diatonic scales within it (C, G, Em-harm) and having its note names conform to the familiar western system, since it is syntonic (4 fifths = 1 third).
+
+C  Db D  D# E  F  F# G  Ab A  A# B  C
+  3  2  2  3  3  2  3  3  2  2  3  3   (number of 31-TET steps between notes)
+
+As a sequence of 5ths it is:
+Db Ab -  -  F  C  G  D  A  E  B  F# -  -  D# A#
+
+It gives the following 7-limit tetrads
+Augmented sixths (7:6:5:4)
+F  A  C  D#
+C  E  G  A#
+Db F  Ab B
+
+Minor diminished sevenths (1/4:1/5:1/6:1/7)
+B  D  F# Ab
+E  G  B  Db
+D# F# A# C
+
+All but one of its 12 notes (either Db or A#) can be covered by three of these tetrads. All can be covered by four.
+
+Major sevenths are also available on F and C while dominant sevenths are available on G and D and of course minors on some other degrees.
+
+There are 3 wolf fifths (A#Db, AbD#, F#Db) however they may be considered as 11-limit intervals with an accuracy of 10 cents, if you believe in such things.
+
+I think most of (if not all of) what would otherwise have been wolf thirds have become 7-limit intervals with an error of at most 4.1 cents.
+
+In case you want to dial it up on a synthesizer and give it a try, here are the optimum offsets from 12-TET given one cent resolution.
+
+C  Db D  D# E  F  F# G  Ab A  A# B
+10 26 4 -19 -3 13 -9 7  23 0 -22 -6
+
+This gives errors relative to the just intervals of only:
+fifth			3:2	-5.0 cents (-6.0 for D A)
+third			5:4	 0.7 cents
+minor third		6:5	-5.6 cents (-6.6 for D F and F# A)
+augmented sixth	7:4	-0.8 cents
+augmented fourth	7:5	-1.5 cents
+augmented second	7:6	 4.1 cents
+
+I developed it after reading Paul Erlich's criteria for 7-limit generalised-diatonic scales (in which he finds that only a 10 of 22-TET is suitable) and seeing a 7-limit just tuning given in the manual for Bill Cooper's excellent RealTime Tuner as:
+"1, 15/4, 9/8, 7/6, 5/4, 4/3, 7/5, 3/2, 14/9, 5/3, 7/4, 15/8"
+where 15/4 was no doubt intended to be 15/14. Of course the above 12 of 31-TET (or meantone-type) scale has more 7-limit tetrads and fewer wolves than this just scale.
+
+Regards,
+-- Dave Keenan
+http://uq.net.au/~zzdkeena

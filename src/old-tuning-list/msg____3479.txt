@@ -1,0 +1,53 @@
+source file: mills2.txt
+Date: Tue, 27 Aug 1996 22:26:30 -0700
+
+Subject: 7:4 versus...
+
+From: HFORTUIN@delphi.com
+
+On Aug. 26 Kami Rousseau asked:
+>>What is your opinion on sevenths? What is the difference between 16/9 and
+9/5? (I you tell me that the difference is a comma, I will have to kill you.
+What I want to know is when to use the two different intervals.)
+
+I haven't dealt with 16/9, but I'm a great believer in 7/4, 7/5, 7/6, and
+their consonant, or at least relatively consonant, nature.
+
+I really enjoy contrasting the 9/5 and 7/4 in seventh chords (tetrads)
+built on the same root. In 12-ET, these two intervals are represented by
+the 10th chromatic pitch, and our ears bend the pitch to best fit the
+harmonic context. 
+
+As proof of my previous sentence, and to silence any sceptics about the
+importance of 7/4:
+
+--create a pure 4:5:6:7 chord on your synth
+--create a 4:5:6 triad, but add a 9/5 on top (9/5 * 4/4)
+--create a 10:12:15:18 chord on the same root as each of the previous chords
+
+After you are convinced thatchord #1 is smoother than chord #2, play
+chord #1 and #3 one after another, and enjoy the perfectly consonant
+harmonies with their thoroughly microtonal soprano line.
+
+In ET contexts, 22 provides a good 7/4 (better than 19), and 27 and 31
+are each progressively better yet.
+
+Another ear-shock: 22 also has a very good 11/8. Try playing a
+4:5:6:7:9:11 chord in 22, and you'll see what I mean. We all know that
+in 12, we must omit the major third of this chord (5/4), but notice
+how smooth this chord is with good 7/4 and 11/8 approximations!
+
+--Harold
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 28 Aug 1996 17:25 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03239; Wed, 28 Aug 1996 17:27:05 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA03254
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id IAA00419; Wed, 28 Aug 1996 08:27:02 -0700
+Date: Wed, 28 Aug 1996 08:27:02 -0700
+Message-Id: <199608281525.IAA00324@eartha.mills.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

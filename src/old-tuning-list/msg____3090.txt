@@ -1,0 +1,32 @@
+source file: mills2.txt
+Date: Wed, 19 Jun 1996 14:49:04 -0700
+
+Subject: Real-time MIDI JI on the Web
+
+From: jmax@interport.net (John Maxwell Hobbs)
+
+Hello everyone,
+
+I have put up a new MIDI file "Chimes" at the Cinema Volta Web Page at
+http://www.users.interport.net/~jmax.  "Chimes" is in Just Intonation, but
+can be played without the use of special tuning tables.  You will need the
+Crescendo! plug-in for Netscape 2.0 (or better) and some sort of General
+MIDI player to play this.  Just follow the instruction on the page.
+
+John Maxwell Hobbs
+Producing Director/New Technology, The Kitchen   http://www.panix.com/kitchen
+
+jmax@interport.net   http://www.interport.net/~jmax/
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 20 Jun 1996 02:23 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id RAA07903; Wed, 19 Jun 1996 17:23:06 -0700
+Date: Wed, 19 Jun 1996 17:23:06 -0700
+Message-Id: <9606192009.D0249YX@afm.org>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

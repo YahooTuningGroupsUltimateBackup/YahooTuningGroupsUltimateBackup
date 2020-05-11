@@ -1,0 +1,44 @@
+source file: mills2.txt
+Date: Fri, 13 Oct 1995 06:26:28 -0700
+
+Subject: RE: 12-tet in China
+
+From: Michael Wathen 556-9565 <Michael.Wathen@uc.edu>
+
+>About 1595, Prince Tsai-Yu"  calculated the 12th roots of 2 to 9 significant 
+>figures on a fundamental of 1,000,000,000. 
+> 
+>--John
+
+That's hard to believe.  I don't know if anyone has mentioned this but most 
+of the fascination with the twelfth root of two was <rooted> in the problem
+of actually calculating these numbers.  It was a considerable task that 
+required strange algorithms to give approximations.  These days we seem 
+to be out of touch with just how difficult problems like this were.  We can
+just pick up a little calculator to get an answer.  These calculators employ
+algorithms usually based on some type of an equivalent series approximations in 
+terms of Sines and Cosines and the Sines and Cosines are based on another type
+series.  These series are in essence infinite series but are terminated at some
+point to conform to some type of error function that guarantees the accuracy of
+the significant digits.  This way of solving the problem comes from Euler and 
+Fourier.  I don't know off hand what their dates are as I am writing this off the
+top of my head.
+
+One might also notice that there were more mathematicians and science types 
+engrossed in this problem than there were musicians which ought to reaffirm
+my main point.
+
+Michael Wathen
+
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 13 Oct 1995 15:39 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id GAA29490; Fri, 13 Oct 1995 06:39:20 -0700
+Date: Fri, 13 Oct 1995 06:39:20 -0700
+Message-Id: <199510131343.JAA21906@cerberus.Ensoniq.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

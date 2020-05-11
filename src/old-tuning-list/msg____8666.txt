@@ -1,0 +1,55 @@
+source file: m1561.txt
+Date: Fri, 23 Oct 1998 12:25:30 +0200
+
+Subject: Microtuning support for Montego
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+Below is an e-mail I had sent to Voyetra/Turtle Beach and the response.
+So you are warned if you want to buy this soundcard.
+
+Manuel Op de Coul    coul@ezh.nl
+
+
+From: TBTech@voyetra.com
+Organization: Voyetra Turtle Beach, Inc.
+To: Manuel Op de Coul <Manuel.Op.de.Coul@ezh.nl>
+Date: Thu, 22 Oct 1998 11:40:03 -0500
+> Date:          Thu, 22 Oct 1998 14:58:34 +0200
+> From:          Manuel Op de Coul <Manuel.Op.de.Coul@ezh.nl>
+> To:            tech@tbeach.com
+> Subject:       Microtuning support for Montego
+> Hello,
+>
+> I have the great Montego A3D card and found the Midi implementation chart
+> of the Wavetable Synthesizer driver for it on your website.
+> I am disappointed that standard system exclusive tuning messages are not
+> supported by the driver. Are there plans for an update to include
+> microtuning support?
+> The implementation is not difficult as far as I can tell.
+> If not, may I have the source code so that I can include it myself?
+> I have attached the MTS standard.
+>
+> Sincerely,
+>
+> Manuel Op de Coul
+
+Manuel,
+   We do not write the drivers for Aureal's chipset on the Montego.  I do
+not
+believe that Aureal is concerned with microtuning, as they are sluggish on
+implementing changes with their drivers for even basic matters.
+   Bottom line: I don't believe it will ever happen for the Montego.
+Luke Meri,
+TBS Tech Support
+***********************************
+Please include your Product Id in
+the subject line of all email and
+include all previous correspondence
+in the body of the message.
+***********************************
+Turtle Beach Systems
+Technical support (914)966-2150
+Fax number (914)966-1093
+Web URL:  http://www.tbeach.com
+5 Odell Plaza, Yonkers, NY 10701-1406 USA

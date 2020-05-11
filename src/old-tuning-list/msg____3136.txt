@@ -1,0 +1,50 @@
+source file: mills2.txt
+Date: Sun, 30 Jun 1996 11:31:13 -0700
+
+Subject: RE: Post from McLaren
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Paul E. said:
+> Didn't I qualify this to say that apparant 
+> subharmonics can result when a note is itself a harmonic, i.e., all notes on 
+> brass instruments?  You're right though, I haven't done any actual fourier 
+> analysis of musical instruments.
+
+   Uhmmm...  Perhaps mean "undertones" rather than subharmonics?  If the "note
+is itself a harmonic", then the statement is inherently true by definition,
+since harmonics of subharmonics are subharmonics of harmonics.  
+
+   But anyway, I can't recall if I mentioned this before, but it's worth
+pointing out that it's conceptually possible to get a nonsubharmonic undertone,
+such as when a third-harmonic tone on a flute (for example), also sounds a quiet
+second-harmonic undertone.  
+
+   As I was fine-tuning the pitch-detection part of my harmonic analysis
+program, it was latching onto subharmonics frequently at first.  Some of them I
+found to be a result of what I suppose could be lumped into the category of
+phase-jitter, or a generalization of the ol' Nyquist problem.  When a multiple
+of the period of the tone was close enough to an integer number of samples and
+the period itself was not, the math created what I guess could be called a
+"numerical illusion" of a nonexistent undertone.  
+
+   But without a doubt, many of them were very obviously and audibly real.  In
+many cases, they were even easily visible on the oscilloscopic waveform.  I
+can't recall for certain whether any of the nonsubharmonic cases were ever found
+to be real, but from what I recall of the exercise, I'd be more surprised if not
+than if so.  
+
+   And also, the real undertones were present in far more tones across the pitch
+ranges of the gamut of orchestral instruments, than they were not present in.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 1 Jul 1996 09:42 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id AAA07576; Mon, 1 Jul 1996 00:42:32 -0700
+Date: Mon, 1 Jul 1996 00:42:32 -0700
+Message-Id: <9607010742.AA09358@arthaud.saclay.cea.fr>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

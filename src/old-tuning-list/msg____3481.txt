@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Wed, 28 Aug 1996 13:27:43 -0700
+
+Subject: 19TET trumpet
+
+From: Kami Rousseau <kami@interlinx.qc.ca>
+
+Hi, 
+
+Here is an interesting question : I dream of having a microtonal
+trumpet. A
+trumpet that would play third tones. It would be perfect for playing
+blues. (Yes, Neil Haverstick inspired me this idea.) Would it be
+possible to take a
+4-valve A/Bb piccolo horn and modify it like this:
+
+	cents	cents
+Valve # 12/oct  19/oct
+1       200     126,32
+2       100     63,15
+3       300     189,47
+4       500     252,63
+
+(The big numbers are hundreths of a normal semitone)
+
+Using this set of slides, the fingering would be similar to a regular
+trumpet.
+
+Is it possible to cut the valves' tubes to play these higher notes? (for
+exemple, on the chart, the 3rd valve lowers the note by a major 2nd,
+that is 189 cents.)
+
+The practical difficulty comes in trying to make an even shorter 2nd
+valve crook than a piccolo trumpet already has. As you know the 2nd
+valve crook is already barely a
+half circle. Maybe it would be possible to shorten the valve casings and
+try to
+get an alternative set of slides.
+
+Also, it would be practical to  find an instrument with a larger casing
+than a piccolo.  I have heard of flugel horns out there that have four
+valves and would have large enough ports to work better for the project. 
+
+Can any one help me find an instrument suitable for this, and a good
+technician to do the job? Is 19 a good choice, or should I go for 17, 22
+or JI? Also, can anyone post the latest infos on ordering a microtonal
+guitar (with fixed frets)? How do you calculate the frets' positions?
+
+Regards, 
+        Kami
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 29 Aug 1996 00:50 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04164; Thu, 29 Aug 1996 00:51:49 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA04076
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA16568; Wed, 28 Aug 1996 15:51:47 -0700
+Date: Wed, 28 Aug 1996 15:51:47 -0700
+Message-Id: <71960828224917/0005695065PK2EM@MCIMAIL.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

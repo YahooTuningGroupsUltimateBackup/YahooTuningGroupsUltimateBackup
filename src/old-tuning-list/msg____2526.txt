@@ -1,0 +1,138 @@
+source file: mills2.txt
+Date: Fri, 2 Feb 1996 09:57:52 -0800
+
+
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+From: mclaren
+Subject: A saga of low cunning and
+feral persistence
+---
+As a chronically unrepentant electronics
+gonzo, permit me a small confession:
+Yes, I finally built myself a duplicate of
+Harry Partch's Harmonic Canon I (minus
+Harry's bad design features).
+And it sounds INCREDIBLE.
+Johnny Reinhard has roundly chided me
+for slighting acoustic music.  Of course,
+he's right.  
+In the end, there's no substitute for live
+acoustic music played by good performers
+on real acoustic instruments.  The richness
+and subtlety of the sound is nonpareil.
+On the other hand, some of us are interested
+in exploring worlds of timbre and massed
+sonority which would not be possible to
+realize (xenharmonically, anyway) without
+the aid of "pushing a button on electronic
+boxes." 
+Thus circumstances will doubtless force
+me to continue "pushing buttons." If you
+can get together a 100-piece orchestra
+that can play accurately in 15-TET, though,
+Johnny, let me know.  In that case my
+computer will definitely be mothballed. 
+:-)
+The Harmonic Canon is a marvel, though. A
+universe of subtle & gorgeous xenharmonies
+lie within its bridges and pinblocks.
+For example, entirely different timbres can
+be gotten by stroking the strings with one's
+fingers; by plucking them with guitar picks;
+by tapping them with a knitting needle; by
+thumping them with a piece of a piano action
+(Harry gets his revenge against the piano--
+50 years late!); and by whanging the strings
+with a soft paint roller.
+Moreover, non-Partchian string-bending
+koto-style performance techniques
+bring out an entirely different side
+of the instrument.
+The great virtue of the Harmonic Canon
+lies in its potential as a kind of mechanical
+sequencer.  You set up various justly-intoned
+melodies by moving the many independent
+bridges, and you can get triplets, repeated
+notes, single notes, entire melodic chains
+playing at a rate entirely controlled by
+the rate at which you move your finger or
+your pick across the strings.  Add to this
+the potential gestural effects--pitch-bent
+ji chords, for instance, or dissonant clusters
+obtained by rapidly brushing groups of
+strings--and a single player has got a
+whole galaxy of microtonal sounds at
+hi/r beck and call.
+Harry called this instrument his "blank
+canvas," and after playing it for a while it's
+easy to see why.  He also mentioned that
+placing the bridges was almost as much of 
+an art as playing the instrument--another 
+truism which becomes even clearer with
+personal experience in sliding 37-odd 
+bridges around.
+The Harmonic Canon is to my mind the most
+impressive of Partch's instruments.  It's one
+of the few that can't be approximated by a sampler
+or a DX7.  To everyone who's interested in
+composing acoustic xenharmonic music, my first
+suggestion wuold be: build a Harmonic Canon I.
+Costs less than $100, and it'll open your
+ears to a new cosmos of xenharmonic
+harmonies and melodies.
+To construct one, follow the plans in Harry's
+Genesis Of A Music--sans the bad design ideas.
+N.B.: Harry's bad design ideas were 1) Using
+guitar tuning gears; 2) using glued wooden
+pegs to anchor the guitar strings on the
+other pinblock; 3) sliding that wacky plexiglas
+pitch-bender under the strings.
+Instead of tacking triangular wooden tongues
+onto the end of the left-hand pinblock and 
+then mounting guitar tuning gears on 'em,
+just anchor 44 piano tuning pins directly in the
+left-hand pinblock.  It works fine.  The problem
+with the wooden tongues is that they will
+inevitably crack under all the tension from
+those 44 guitar strings--Harry himself had
+to bolt metal supports under the wooden
+tongues to keep 'em from splitting off
+entirely.  Moreover, the guitar tuning gears
+never stay in tune long.  So the blasted original
+Partch-design Harmonic Canon was *always*
+going out of tune during performances.
+By contrast, our Harmonic Canon stays in
+tuen for days at a time and can support
+a much higher tension--thus the sound is
+louder, and the plucked or struck guitar 
+strings will ring much  longer than Harry's 
+strings did.
+Also: avoid the wooden pegs.  Bad idea.
+Instead, use 1/4" machine screws on the 
+right-hand pinblock.  (Make sure both
+pinblocks are hardened rock maple.) 
+Under the screws, settle 5/16" washers.
+Between the screws and washers thread the
+guitar string, and voila!  The brass loop end
+of the guitar string will automatically catch
+tight when you sink the screws with a screwdriver.
+This was Bill Wesley's inspiration, and it's
+infinitely simpler and less trouble-prone than
+Partch's original design.
+Q: What did Partch do when he went surfing?
+A: He used to "hang eleven."
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 2 Feb 1996 19:01 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA16240; Fri, 2 Feb 1996 10:01:20 -0800
+Date: Fri, 2 Feb 1996 10:01:20 -0800
+Message-Id: <0099D528F3AA41A5.9363@ezh.nl>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

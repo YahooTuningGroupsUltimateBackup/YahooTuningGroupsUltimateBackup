@@ -1,0 +1,57 @@
+source file: mills2.txt
+Date: Mon, 20 Nov 1995 04:54:29 -0800
+
+Subject: Pierce-Bohlen in JI, 12-tone scales
+
+From: "John H. Chalmers" <non12@cyber.net>
+
+It is rather difficult to generate a consistent JI for
+the 9-tone Pierce scale in JI. Using the matrix Pierce gives
+of four 1/1 5/3 7/3 major chords (3:5:7) and reduction by the 3/1 
+"tritave" (rather than the 2/1 octave), one obtains the following 
+ratios:
+ 
+V	IX	III		
+		III	VII	I
+			VI	I	IV
+					IV	VIII	II
+ 
+27/49	45/49	9/7
+		9/7	15/7	1/1(3/1)
+			9/5	1/1	7/5
+					7/5	7/3	49/15
+ 
+Note the equivalence between 1/1 as the dominant of one chord
+and the mediant of the next rather than tonic (VII is not VI).
+When reduced to one "tritave," the ratios are 1/1 49/45 9/7 7/5 
+81/49 9/5 15/7 7/3 135/49 3/1. Alternate tunings for some tones are 
+needed in some harmonic contexts, i.e,  5/3 for 81/49, 25/9 for 135/49, 
+35/27 for 9/7 etc. However, the scale is best construed as a subset 
+of the 13th root of 3 temperament and hence has many just intonation
+interpretations.
+ 
+As for the 12-tone chromatic scale, the so-called  "Pythagorean" 
+or 3-limit cycle of 4ths and/or 5ths tuning can be traced back to 
+the Babylonians in the 2nd millennium BCE, though some Chinese 
+legends credit a court official whose title was Ling Lun with an even 
+earlier date. 
+ 
+There are many 5-limit chromatic tunings; I posted a couple of
+dozen to the list earlier) and also published them in 1/1. 
+J. Murray Barbour's book Tuning and Temperament is a good
+source for the historical western ones and Mandelbaum's
+dissertation for some more theoretical and 7-limit varieties.
+ 
+--John
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 20 Nov 1995 19:19 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id JAA03621; Mon, 20 Nov 1995 09:19:48 -0800
+Date: Mon, 20 Nov 1995 09:19:48 -0800
+Message-Id: <647.199511201717@altair>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

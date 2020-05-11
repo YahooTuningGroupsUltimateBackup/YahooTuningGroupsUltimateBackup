@@ -1,0 +1,92 @@
+source file: m1450.txt
+Date: Wed, 17 Jun 1998 12:12:24 -0500 (CDT)
+
+Subject: RE: Commas and Consistency
+
+From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+
+On Sun, 14 Jun 1998, Paul H. Erlich wrote:
+> Barbershop harmony seems to be able to take the septimal comma, which
+> would be 27 cents in just intonation, and by adjusting the (harmonic
+> and/or melodic) intervals in the comma's context, and/or shrinking the
+> comma itself, make it an effective "performance comma".
+
+I'm curious about this.  I assume Paul E. is talking about the
+reinterpretation of the traditional dominant seventh chord as a 4:5:6:7
+tetrad.  However, this would imply an interval of 16/9 between the root
+and the seventh, like so:
+
+		5/4
+
+16/9  [4/3]  1/1   3/2
+
+and I'm not sure why one would choose 16/9 when that makes that pitch
+totally unrelated (within the 5-limit) to any of the other pitches in
+the chord.  Well, I mean, obviously it's the distance between the 4/3
+and the 3/2 (3/4) of the key, critical pitches if you're using the dom7
+actually as a _dominant_ 7th.  But considered purely as an isolated
+sonority, within the 5-limit I would tune it thus:
+
+   5/4
+
+1/1   3/2
+
+	 9/5
+
+(Arrgh!  This is why I prefer ETs.  In an ET in which the 81/80
+vanishes, these two are the same and you don't have to worry about it.)
+
+I'm not very familiar with the barbershop style.  Do they generally use
+the dominant 7th as V7 of the key, as opposed to jazz harmony which uses
+it as a sound color that can occur almost anywhere, functionally?
+
+The point is, given this interpretation the distance to the 4:5:6:7 is
+36/35, which is the septimal comma plus the syntonic comma or nearly 49
+cents, a significantly larger interval to swallow as a comma--though
+still not as big as the 648/625 I mentioned in a previous message.
+
+> >Now, the reason I started looking at this is because I have been 
+> >trying to work out some ideas about consistency.   It occurred to 
+> >me, as both Pauls reactions seem to confirm, that the ancient notion 
+> >of a 'comma' is (kind of) the original root of the idea of 
+> >consistency. 
+> 
+> I don't see it.
+
+I'm not sure, but I _may_ see it--if we require that a comma, meaning
+any just interval that vanishes in a particular ET, be smaller (in its
+just version) than any of the non-vanishing intervals in that ET--which
+seems reasonable to me--that has certain implications as to the
+approximation errors of the primary intervals in relation to stepsize,
+and hence to consistency.  It's not a _direct_ relationship (complexity,
+or "n-ary-ness" as Patrick and I have been calling it in private
+correspondence, comes into it as well, plus some other stuff too), but
+it is a close one.
+
+> >(i) choose the n-ET and the m-limit to be considered; 
+> >(ii) list the intervals which belong to the primary m-limit; 
+> >(iii) find the primary m-limit interval which is least well
+> >approximated by the chosen n- ET; 
+> >(iv) add this interval to itself until the deviation from its 
+> >intended equivalent is greater than (1200/2n) cents; call the number 
+> >of additions at this point t. 
+> >(v) then n-ET is level-(t-1) consistent at the m-limit.
+> 
+> This certainly doesn't work for level 1 consistency. Is this the thing
+> that happens to work for higher levels? If so, how are you defining
+> "primary" and "number of additions"?
+
+We went over this when I first posted my algorithm to the list--the
+difficulty comes in how the roundoff error of, say, the 5/3 is
+calculated.  Rather than calculate the size of the 5/3 in steps of the
+ET and finding the roundoff error directly, one must calculate the
+roundoff error of the 5/4 and the 3/2 separately, and then subtract
+them.  Given that, the algorithm works for level 1 as well as higher
+levels of consistency.  It was easier to see from the pseudocode I
+posted months back.
+
+--pH <manynote@lib-rary.wustl.edu> http://library.wustl.edu/~manynote
+    O
+   /\        "Churchill? Can he run a hundred balls?"
+  -\-\-- o                                                           
+             NOTE: dehyphenate node to remove spamblock.          <*>

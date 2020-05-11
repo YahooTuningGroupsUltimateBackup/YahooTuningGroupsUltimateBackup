@@ -1,0 +1,45 @@
+source file: mills2.txt
+Date: Wed, 15 Nov 1995 22:30:00 -0800
+
+Subject: Re: Tritriadics, etc.
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Aha!  3:5:7:9 harmonies for Pierce-Bohlen.  Excellent.  I've been wondering
+for a long time, but never had the time to sit down and crank out, what ratio
+approximations Pierce-Bohlen makes available.  Thanks for pointing that out,
+John.  
+
+   That makes sense in light of Brian M's observation that Pierce-Bohlen is
+essentially every fifth step of 41TET, and that 88CET is essentially every third
+step.  That of course means that 3 PB steps ~= 5 88CET steps, which is a pretty
+good approximation to 9:7 (checko).  And 6 PB steps ~= 10 88CET steps, which is
+a good approximation to 5:3 (checko again).  
+
+   Oh, by the way, the corresponding harmonic series fragment for 88CET is
+4:6:7:9:10:11:15.  And as with Pierce-Bohlen's 3:5:7:9 fragment John mentioned,
+it can be taken in retrograde to form a subharmonic series fragment.  
+
+   One very valuable difference that falls out of those two harmonic series
+fragments is that 88CET has a 10:7 tritone, whereas Pierce-Bohlen has a 7:5
+tritone.  I personally have always liked 7:5 better than 10:7, although that's
+kind of like saying that I carrots more than potatoes.  They both have value in
+their own right.  
+
+   Sorry to keep prattling on about 88CET, or even more importantly, to relate
+an observation about Pierce-Bohlen, to 88CET as though 88CET were some sort of
+universal tuning reference.  I blabber about 88CET because it's my current
+"thing".  But anyway, a number of you have experimented with both tunings, so I
+thought some of you might find that relationship interesting.  
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 17 Nov 1995 01:55 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id PAA00648; Thu, 16 Nov 1995 15:55:48 -0800
+Date: Thu, 16 Nov 1995 15:55:48 -0800
+Message-Id: <9511161555.ZM7862@frollo>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

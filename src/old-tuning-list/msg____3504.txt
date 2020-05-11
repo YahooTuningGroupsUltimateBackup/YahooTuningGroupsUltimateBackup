@@ -1,0 +1,63 @@
+source file: mills2.txt
+Date: Sat, 31 Aug 1996 09:28:44 -0700
+
+Subject: Re: Seventh Tuning
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+> If it is tuned "in frequency ratios of 4x:5x:6x:7x where x=some fundamental
+> frequency," then it is consonant. If it is tuned according to a diatonic 
+> scale with six consonant triads, it is dissonant.
+
+   Gosh, I personally think that the picture is FAR from being that simple.  But
+maybe your point was to make a very general statement about those two chords in
+isolation, that is, out of any particular musical context.  If so, then I
+suppose I'd agree to a fair extent anyway.  
+
+   But speaking in realistic musical contexts for dominant seventh chords - the
+most common clearly being an authentic cadence, I have repeatedly tested, and
+demonstrated to others, authentic cadences where the dominant seventh chord is
+tuned 4:5:6:7.  Neither I, nor any of the people to whom I've demonstrated it,
+have found it to be an unsatisfying resolution.  That, by definition, makes
+4:5:6:7 a dissonance (the starting point of a harmonic resolution).  
+
+   Now understand that I don't doubt for a moment that tuning the seventh
+sharper produces a MORE satisfying resolution.  But 7:4 provides a completely
+satisfying resolution to my ears, and many others'.  
+
+   I suspect that that's in part because the melodic movement of the flatted
+scale-degree 4 down to scale-degree 3 is shorter.  That seems to make the
+contrapuntal movement of that voice feel more inevitable.  I suspect that
+audiences, confronted with a smaller melodic movement, are prone to respond with
+a greater sense that, "ah yes, how could that resolution possibly go
+otherwise?".
+
+   I've found that I can intensify that effect by making BOTH tendency tones
+resolve by shorter melodic steps.  Try this one sometime:  For the dominant
+seventh, use 4:6:7 with an added third tuned to 9:7 instead of 5:4.  That
+provides a dominant seventh chord (or at least a functional equivalent in
+12-tone contexts) that is easily as dissonant a 4:5:6 with a sharper leading
+tone than 7:4.  To my ears at least, the resolution of that
+sharp-leading-tone/flat-subdominant chord is more satisfying than a 4:5:6 with
+an added seventh at 9:5 or 16:9.  I haven't played this on many other people
+though.
+
+   Now these observations are of less interest in a musical context where the
+individual chords are rarely less harmonically tense than seventh chords, as is
+often the case in some styles of Jazz, for example.  That is to say, in
+environments where you rarely play a major chord (or minor for that matter)
+without the seventh.
+
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 31 Aug 1996 19:17 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA10670; Sat, 31 Aug 1996 19:18:46 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA10709
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA29430; Sat, 31 Aug 1996 10:18:43 -0700
+Date: Sat, 31 Aug 1996 10:18:43 -0700
+Message-Id: <3045ECDC.6602@interlinx.qc.ca>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

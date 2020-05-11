@@ -1,0 +1,107 @@
+source file: m1395.txt
+Date: Fri, 24 Apr 1998 13:45:46 -0500
+
+Subject: RE: JI Tuning Resolution
+
+From: "Loffink, John" <John.Loffink@COMPAQ.com>
+
+> From: david first <d1st@earthlink.net>
+> 
+> > > So what is the minimum pitch resolution that is acceptable?  Is this
+> for
+> > > music comprised mostly of long sustained harmonies?
+> 
+> Well - this is actually a tricky question. I make my samples in CPS, not
+> cents
+> so if one is starting with a base freq of 440 then multiplying by 3/2,
+> 5/4...27/16....3645/2048...etc., the amount of decimal places obviously
+> varies. 
+> 
+> Ultimately, you have to use your ears. If you hear beating/phasing between
+> a
+> given pair of frequencies, then something's off. 
+> 
+Could you give me a rough figure in terms of Hertz/CPS or even beats per
+minute/hour/day/year/millenium?  :-)  I realize the issue with beating, but
+not everyone doing just intonation feels you need 100% beatless harmonies,
+especially if one is doing band/orchestral type music.  This question is
+open to all list members using synthesizers/samplers:  how much pitch
+resolution does your own music need?
+
+>  To answer your second question, yes, I am talking - at least in my case -
+> about sustained tones. But I suppose that it goes, for me, beyond what one
+> can
+> get "away with" regarding tuning. It is true that tuning errors are more
+> obvious in "slower" music, but isn't that the crux of the issue? Play ANY
+> music fast enough and I suppose the errors become negligible. 12et was,
+> and
+> is, consider close enough to JI for most people. I presume the the main
+> reason
+> for this forum is to explore the alternatives to the alternatives
+> regarding
+> pitch and to not accept what is given as gospel whether tuning systems or
+> hardware. Perhaps I was a bit contentious in my original post, but I was
+> hoping to find out how others feel about this particular issue, and more
+> importantly, if and how anyone is, in fact, going beyond what the
+> synthesizer
+> manufacturers are saying is good enough.  
+> 
+Synthesizer manufacturers say 1 cent resolution is good enough because:
+1.  They don't understand the concepts of just intonation very well and...
+2.  No one has ever quantified what tuning resolution is good enough.  I've
+heard many times that 1 cent resolution is poor, but I've never heard in
+terms of cents or Hertz what _was sufficient.  If .003 Hz is what it takes
+to make someone happy, then I suggest a system like Kyma, as mass market
+manufacturers are unlikely to implement so fine a resolution.  However, if
+0.1 or 0.05 Hz is good enough for microtonalists and current technology is
+0.5 Hz resolution, then synthesizer manufacturers may be willing to improve
+their systems to that extent and we have something to work with.
+
+> From: Paul Hahn <Paul-Hahn@library.wustl.edu>
+> 
+> > If this is the case then why are there so many complaints about
+> synthesizer
+> > 1 cent tuning accuracy when acoustic musicians can't do any better?
+> 
+> Because pianos, organs, and harpsichords can do _much_ better.
+> 
+What is the best resolution one can expect, either in terms of cents or
+Hertz?
+
+> From: mr88cet@texas.net (Gary Morrison)
+> 
+> >If this is the case then why are there so many complaints about
+> synthesizer
+> >1 cent tuning accuracy when acoustic musicians can't do any better?
+> 
+>    Well, we're clearly asking for more than you can realistically expect
+> of
+> a human performer (on an indefinite-pitched instrument that is).  In my
+> view anyway, that's perfectly fine;  that's one of the benefits of
+> technology
+> 
+Good answer!
+
+> From: mr88cet@texas.net (Gary Morrison)
+> 
+> >I'm afraid I have to disqualify the oscilloscope here. The oscilloscope
+> >will have a certain finite sampling time and the period of the waveform,
+> >varying slighlty as it does, will never be precisely matched to this
+> >sampling time.
+> 
+>    I don't know what you're getting at by introducing sampling into this,
+> but you certainly don't need a digitizing oscilloscope to see this.  A
+> plain, boring ol' analog scope will show it just fine.
+> 
+>    If you zoom it in on a single period of the tone, you see the peaks and
+> troughs of the vibration bobbing up and down, and sometimes moving around
+> too.  Regardless of what you attribute that to, it's certainly not a
+> strictly periodic wave.
+	 
+This is the varying phase shift of the individual frequencies of the tone.
+You are right, it has nothing to do with sampling as it's visible on an
+analog oscilloscope.  You could also interpret these phase shifts as
+microscopic shifts in frequencies of the harmonics.
+
+John Loffink
+jloffink@pdq.net

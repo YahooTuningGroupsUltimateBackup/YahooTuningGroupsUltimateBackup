@@ -1,0 +1,74 @@
+source file: mills2.txt
+Date: Mon, 12 May 1997 04:09:13 +0200
+
+Subject: tuning tables in GM
+
+From: DFinnamore@aol.com
+
+Hi, Murat!
+
+>Since GM instruments/cards accept tuning on different channels...
+>Is there a possibility to have different tunings on different MIDI
+>channels? i.e. a Turkish tuning on the first and Thai in the second?
+
+(For those not familiar with the wonderfully maddening world of MIDI, GM is a
+standard called General MIDI.  It consists basically of a set of similar
+sounds that can be called up by the same set of MIDI patch numbers, plus
+misc. other commands designed to allow sound modules from different
+manufacturers to play back a MIDI file more-or-less predictably.)
+
+I believe the answer is a qualified yes.  It most likely varies from "no" to
+"yes, different tuning on each of the 16 channels" from manufacturer to
+manufacturer, and from instrument model to instrument model within a
+manufacturer's line.  Whether you could find some usable standard for
+distibution of tuned GM files is a question for a more learned authority.
+
+Here's what I know for certain.  I have a Korg O5R/W, which is GM compatible
+and is mainly marketed as a PC peripheral, street price, new, about $600.00
+US.
+
+1)  Its tuning table has 1-cent resolution which is not great but alot better
+than nothing
+2)  It has a handful of common historical and ethnic tuning emulations in ROM
+3)  In addition it allows *one* user-defined tuning in RAM (uses SysEx to
+save/load user tunings to/from a computer)
+4)  It allows the use of only two different tunings at once, any channel can
+be assigned to either tuning, and any individual channel can switch to the
+other tuning flawlessly, on the fly, with no interuption of sound :-) by use
+of Controller #4.  In fact, switching tunings on a channel during a sustained
+note causes its pitch to change instantly, which I find a little
+inconvenient.  I wish it would only apply the changed tuning to subsequently
+triggered notes.  That would allow real-time tunings with 24 pitches
+(provided that at least 12 of those were already in a single ROM tuning).
+ But Alas!
+5)  The factory tunings always put "A" at 0 cents, so that "C" is always
+tuned away from the 12t-ET standard.  I could see that if the tables ran from
+A-G#, but they don't - they run from C-B; that can make it clumsy to use the
+ROM tunings as a starting place for a user scale, or to combine user and
+factory tunings.
+
+It *might* be possible to take advantage of a wider pallete of tunings by
+sending SysEx data from the MIDI file during playback.  But I suspect that
+this would cause a delay in the processing of the sounds during the dump.  My
+uncertainty stems from the fact that my sequencer doesn't support SysEx in
+tracks, only in a separate screen which cannot be accessed during playback.
+ Still, I doubt that it would be a reliable technique for music production.
+
+Good luck!
+
+David J. Finnamore
+Just tune it!
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Mon, 12 May 1997 04:57 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA09543; Mon, 12 May 1997 04:57:20 +0200
+Date: Mon, 12 May 1997 04:57:20 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA08813
+Received: (qmail 23631 invoked from network); 12 May 1997 02:57:17 -0000
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 12 May 1997 02:57:17 -0000
+Message-Id: <970511224006_1522210205@emout07.mail.aol.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

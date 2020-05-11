@@ -1,0 +1,47 @@
+source file: m1559.txt
+Date: Wed, 21 Oct 1998 13:05:45 -0700 (PDT)
+
+Subject: Re: Cancelling out beats
+
+From: bram <bram@gawth.com>
+
+On Wed, 21 Oct 1998, Drew Skyfyre wrote:
+
+> I don't know much about all this yet, but might what Brad is talking
+> about and Sethares' approach be achieved using additive synthesis ?
+
+Yep.
+
+> there's always building samples in any of the free
+> software 
+> synthesis systems  (Csound, Syd, etc.) and loading them
+> into a sampler like Vsamp<http://www.kagi.com/smaug/vsamp> 
+> (on a PowerMac).
+
+I should probably look into CSound, the sound capabilities for Java (my
+development environment of choice) appear to not have been written yet.
+
+I've now gotten a copy of Roederer's book, "The Physics and Psychophysics
+of music" and have to say the first chapter is one of the best
+philosophical tracts I have ever read.
+
+I've also got a copy of Sethares's book on special order, but it will be a
+matter of weeks or months before it arrives (grrr). Anybody have a
+suggestion for how to order it other than just going through amazon.com?
+
+I have a somewhat better idea of what I mean by 'beats' now. If take the
+volume of a sound wave (I forget the three letter acronym off the top of
+my head) and express it as the sum of a bunch of volumes of individual
+sine waves, (no, I don't know a simple way of doing that transformation)
+the beats are the waves in the resulting summation which weren't added
+together to get the original waveform.
+
+I think making a sound whose timbre is a bunch of pure tones is even
+easier - just take the derivative of the square root of the sum of their
+squares, but that just seems *too* easy.
+
+Some testing is clearly called for.
+
+I'll let you all know how it goes.
+
+-Bram

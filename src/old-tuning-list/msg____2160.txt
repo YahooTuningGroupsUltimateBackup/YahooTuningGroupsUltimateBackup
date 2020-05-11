@@ -1,0 +1,38 @@
+source file: mills2.txt
+Date: Wed, 18 Oct 1995 05:51:06 -0700
+
+Subject: Brian vs. Fourier
+
+From: bf250@freenet.carleton.ca (John Sankey)
+
+I agree that Brian's polemic against Fourier analysis methods 
+went a bit overboard. A proper Fourier transform uses complex 
+numbers - an imaginary sine is an exponential i.e. a 
+transient. When the inherent (thermal) noise due to the finite 
+number of air molecules that can impinge on an ear drum are 
+taken into account, a finite transform can indeed recreate its 
+effective motion from an information perspective. And, our 
+sound detection system consists of some 3000 sensors, each 
+with a bandwidth limit in the region of a kilohertz and a 
+collective bandwidth of a maximum of 50 kHz - again very 
+finite.
+His basic point is correct though - a Fourier transform only 
+permits an alternative view of the input to the ear system, it 
+isn't the ear itself. I've always assumed that the cilial 
+gross bandwidth of 3 MHz is the real upper limit to what our 
+ears can figure out.
+
+--
+John Sankey              bf250@freenet.carleton.ca
+Music is Beauty, Beauty is Truth, Truth is Freedom
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Wed, 18 Oct 1995 14:55 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id FAA04455; Wed, 18 Oct 1995 05:55:00 -0700
+Date: Wed, 18 Oct 1995 05:55:00 -0700
+Message-Id: <951018075414.202002c8@SKSOID.DSEG.TI.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

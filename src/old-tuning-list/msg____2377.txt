@@ -1,0 +1,48 @@
+source file: mills2.txt
+Date: Fri, 8 Dec 1995 10:23:10 -0800
+
+Subject: FFT Analysis Software
+
+From: wabi@server.net4you.co.at (Helmut Wabnig)
+
+There is a PC Program " Spectra Plus 3.0 "
+by Pioneer Hill Software.
+It analyzes .WAV files in several ways, has filtering,
+windowing, averaging, waterfall, etc. etc.
+Pointing with the mouse is not quite perfect, I have
+to zoom out a part of the record, copy it into the
+clipboard and load it back from there. Or I let the=20
+recording pass by in slow motion and stop it at the point
+of interest. This is a minor drawback.
+The program works with sound cards and WAV files.
+I can measure FFT frequencies about 0.02 Hz accurate.
+I use it to check the tunings of CD recorded music.
+Price is about $ 400 and a demo disk is about $ 20.
+
+Address:
+http://www.theworld.com/computin/software/pms/pms.htm
+Pioneer Hill Software, 24460 Mason Road
+Poulsbo, WA 98370,  USA  (yep!) =20
+(800)-401-3472 (voice)=20
+(206)-697-7730 (fax)
+There are several high-level instrumentation systems,
+i.e. electronic control and measuring software which
+require expensive A/D cards eg. LABVIEW, DASYLAB, all in=20
+the price range >3000 =A7. They are very professional
+but difficult to handle.
+
+Yours
+Helmut Wabnig
+wabi@net4you.co.at
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sat, 9 Dec 1995 01:31 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id QAA19309; Fri, 8 Dec 1995 16:30:57 -0800
+Date: Fri, 8 Dec 1995 16:30:57 -0800
+Message-Id: <Pine.3.89.9512081932.A20082-0100000@email.ir.miami.edu>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

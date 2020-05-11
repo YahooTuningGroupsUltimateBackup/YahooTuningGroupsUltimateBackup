@@ -1,0 +1,89 @@
+source file: m1423.txt
+Date: Thu, 21 May 98 20:04 BST-1
+
+Subject: Reply to Paul Erlich
+
+From: gbreed@cix.compulink.co.uk (Graham Breed)
+
+>> There may be ways the ear relates to prime factors.  Different
+>> overtones will be reinforced, and the difference tone pattern
+>> may change.
+
+> Can you give a concrete example?
+
+Ooh, nothing concrete, no.  Where two notes are related by
+a 7-limit interval, this will reinforce the 7th overtone of
+one of them.  I think this explains why different timbres
+behave differently in the 7-limit: it depends on the strength
+of the 7th overtone.  There may be knock on effects in a
+chord with two 7-limit intervals producing a factor of 49.
+Instinctively, I recognise the possibility that this sort of
+thing may lead to prime-limit character, but I haven't worked
+out any details.  There are a load of difference and overtones
+to take care of.
+
+>> The good intervals in equal temperaments don't usually
+>> constitute anything like an odd limit.  It's generally more
+>> efficient to say how well different primes are approximated.
+
+> This may not work if consistency doesn't hold.
+
+If the approximation is *good* consistency will hold.  If
+you know the intervals you want to use, a consistency test is
+more appropriate.  For general rules governing what ratios
+*might* work, prime approximations are more flexible.
+
+>> For exactness, state the signed errors, and you can work
+>> other intervals out from that.
+
+> Isn't that what Carl Lumma said? But no, you guys are wrong, and that's
+> the whole reason for the consistency concept. Wendy Carlos, Yunik and
+> Swift, and others also seem to have missed out on the importance of
+> consistency.
+
+I think Carl Lumma (mistakes aside) takes the best
+approximation for each interval, and tries to describe them in
+terms of prime intervals.  I really _mean_ to take the best
+approximations to prime intervals (not necessarily prime
+numbers) and define the rest from this.  If the scale is
+inconsistent, one of the intervals will have an error greater
+than half the step size.  If that error is acceptable, so is
+the scale.  I'm not wrong.
+
+Consistency makes sense if you happen to be working within an
+odd limit.  Expressing the consistency level as a fraction
+[(step size) / (2 * worst error)] is more precise, and fairer
+on 46-equal, but also harder to remember than an integer.
+
+
+On the phi-based meantone: some algorithms show it as almost
+the optimal 5-limit tuning.  However, it is poor in higher
+limits, so won't do as a harmonic standard.  I use 31-equal
+for this purpose: find the best approximation to a given
+prime interval, take the simplest mapping on the cycle of
+fifths, and generalise this to all meantones.
+
+
+>> Incidentally, having different notes on different strings is
+>> a _good_ thing.  It means you get more chords than you would
+>> otherwise.
+
+> Huh? It definitely means fewer positions in which to play a given chord.
+
+It means both, of course :-)
+
+With all the chords I've tried so far, it works out fine.
+For an example, the 7:9:11 chord G-Cb-D#.  Find G on the
+D string.  Cb is two steps of 31-equal nearer the bridge on
+the G string.  D# is another step along on the B string.
+This chord is easy to play on my guitar with an incomplete
+meantone mapping.  It can be built on E, Fb, A, B, C and D,
+as well as G, with 19 frets per octave.  As I have an extra
+fret, I can also build it on F.  On a 19 note meantone
+keyboard, you can only get this chord on G, D and A.  So,
+the guitar wins!
+
+With all 31 notes, of course, you can play as many of these
+chords as you like.  There are some very common chords that
+would be too difficult for me, though, so I'm happy with
+what I've got.  JI might work, but is too complicated for me.

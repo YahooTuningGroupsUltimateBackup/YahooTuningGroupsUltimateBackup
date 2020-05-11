@@ -1,0 +1,41 @@
+source file: mills2.txt
+Date: Sat, 9 Nov 1996 03:53:50 -0800
+
+Subject: RE: Chinese musical scales
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+> >>Observed tuning from chinese sheng or mouth organ
+> >>0.0000 210.0000 338.0000 498.0450 715.0000 908.0000 1040.0000 1200.0000
+> >
+> >Who "observed" the fourth note of this scale?
+> >
+> 
+> Come to think of it - who "observed" the octave as being exactly 1200.000?? 
+> A rhetorical question - I think it was A.J. Ellis.
+
+Ellis yes, taken from the playing of Chinese musicians at the
+International Health Exhibition, 1885, during private interviews.
+Actually the octave was typed in wrongly, it's 1199 cents. See page 518
+of Helmholtz: On the Sensations of Tone.
+Of course, it being a wind instrument and not a Rayna synthesizer, should
+any figures after the decimal point be taken with a grain of salt.
+It depends on how hard you blow.
+Another correction:
+Chinese Flute / Ellis
+ 0.0000 178.0000 339.0000 448.0000 662.0000 888.0000 1103.0000 1196.0000
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 10 Nov 1996 20:40 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA03371; Sun, 10 Nov 1996 20:42:01 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA03368
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id LAA00763; Sun, 10 Nov 1996 11:41:55 -0800
+Date: Sun, 10 Nov 1996 11:41:55 -0800
+Message-Id: <Pine.SCO.3.91.961110113023.4719A-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

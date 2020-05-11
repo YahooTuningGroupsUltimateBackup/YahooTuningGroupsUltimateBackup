@@ -1,0 +1,37 @@
+source file: m1389.txt
+Date: Sat, 18 Apr 98 23:54:19 -0000
+
+Subject: "Numbers Separated by Colons"- Sequel
+
+From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+Hi,
+I could use some clarification about the foll :
+
+>    C full diminished seventh (192:225:270:320)=(4*16/15:5:6:4*16/9):
+>        Cdim7:  C (4/5)     D# (15/8)   F# (9/8)    A (4/3)
+>
+I do not understand how one arrives at those  figures.
+Since the chord in question is a stack of minor 2nds,(using 6/5s) - 6/5, 
+36/25, 216/125.
+ How does one go about notating these in colon form ?
+
+>The values line up as follows:
+>
+>  note name     whole number    small (possibly fractional) number
+>  ---------     ------------                          
+----------------------------------
+>  C             192             4*16/15 (= 64/15)
+>  D#            225             5
+>  F#            270             6
+>  A             320             4*16/9 (= 64/9)
+>
+>The "whole numbers" are the smallest numbers I could find that were not
+>fractions.  Unfortunately, the more notes there are in the chord, the bigger
+>these numbers tend to get.  That's why I showed the alternative, "small
+>(possibly fractional) numbers".
+How  do these single large no.s  represent those notes ?
+
+Thanks in advance.
+
+-Drew

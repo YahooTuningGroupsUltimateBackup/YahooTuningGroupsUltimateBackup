@@ -1,0 +1,42 @@
+source file: m1587.txt
+Date: Fri, 20 Nov 1998 15:58:13 +0100
+
+Subject: soundcards
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+Carl Lumma wrote:
+>At first I thought about the Turtle Beach Montego, but after reading
+>Manuel's post I said, "No Way!".  It seems the only other board to offer
+>Soundblaster compatibility is the Soundblaster Live, but I swore I'd never
+>buy another Creative product.  But is the Live actually a decent card?
+>Does anybody have one?
+
+I'm not saying that this one shouldn't be bought perse. The number of
+soundcards with drivers that support the Midi Tuning Standard is very
+limited. There are also hardware features to consider.
+But the Turtle Beach Midi file player that came with the card also plays my
+pitchbended files incorrectly. That's not a drama since there are plenty of
+other Midi file players. Although the user interface looks nice. So don't
+use
+it with Midi files made with Scala.
+The drivers for the Montego card were written by the company that made the
+audio
+chip, Aureal. I wrote them an e-mail twice to ask for tuning support but
+there
+was no answer.
+
+You can even have real-time synthesis by the CPU. I have just downloaded
+Yamaha's S-YXG50 player. It needs MMX. Go to http://www.yamaha-xg.com/ and
+follow the links to MIDPLUG and S-YXG50.
+This also doesn't support the Midi Tuning Standard alas, but you can use
+12-tone tunings with -64/+63 cents deviation from equal tempered in steps
+of
+1 cent. It's compatible with other Yamaha XG and Roland GS synthesizers.
+Moreover it has 16 parts with each a different tuning table so you can use
+16 instruments all with different 12-tone tuning, or 8 with different
+24-tone
+tuning, etc. So it's to be preferred over the pitchbend approach.
+I'm looking into providing support in Scala for this synthesizer type.
+
+Manuel Op de Coul    coul@ezh.nl

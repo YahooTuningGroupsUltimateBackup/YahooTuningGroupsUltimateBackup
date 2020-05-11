@@ -1,0 +1,79 @@
+source file: m1443.txt
+Date: Wed, 10 Jun 1998 14:32:31 -0400
+
+Subject: Reply to Daniel Wolf
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+>< But the simplest interval between the 9/8 and
+><the 10/9 is the 19/17 and conditions are rarely sufficient for hearing
+><the 19-limit.
+
+>Could you give us the condensed version of why 19/17 should be simpler
+th=
+>an
+>11/9?
+
+It shouldn't! Read again what I wrote.
+
+>I find an 11/9 much more easy to tune than a 19/17 whether with
+>oscillators or strings.
+
+Me too!
+
+>The two types of dissonance I refer to are (1) dissonances as classes
+of
+>intervals independent of the exact intonation and (2) dissonances
+perceiv=
+>ed
+>on the basis of the exact intonation.
+
+Let's consider the definitions of dissonance formulated by Helmholtz and
+Plomp & Levelt and used by Kameoka & Kuriyagawa and Sethares. For two
+pure tones in a typical register, there is no dissonance at the unison,
+dissonance rises dramatically at a difference of about 1/12 tone,
+maximal dissonance occurs at a difference of about 1/8 tone, and falls
+off gradually to zero at a difference of about a minor third. Total
+dissonance is defined as the sum over all pure tone pairs of the
+pairwise dissonances. Therefore, for typical harmonic timbres, the most
+dissonant interval of all is the unison detuned by 1/8 tone, since every
+partial of one note is 1/8 tone away from an equally loud partial of the
+other note. The second most dissonant interval is the octave detuned by
+1/8 tone, since every partial of the higher note is 1/8 tone away from a
+somewhat quieter partial of the lower note. The third or fourth most
+dissonant interval is the perfect fifth detuned by 1/8 tone, since every
+other partial of the higher note is 1/8 tone from an almost as loud
+partial of the lower note. With inharmonic timbres such as found in the
+gamelan, this last interval is not necessarily dissonant at all, since
+there is nothing resembling a third harmonic partial in the tones (the
+octave is produced, to a small extent, by the ear and/or brain --
+witness phenomena such as second-order beating). If one looks at the
+graphs of dissonance versus interval size for complex harmonic tones in
+any of these references, one will see the highest peaks lying a very
+short distance from the lowest troughs (the latter are at the simplest
+ratios). These peaks are very narrow because all the pairs of partials
+involved rise in dissonance as one approaches the peak, and they all
+fall off in dissonance as one retreats from it. So these are examples of
+your type (2) dissonance.
+
+Now consider an interval such as 11/9. The 6th partial of the lower tone
+is about 1/6 tone off the 5th partial of the higher tone, and the 5th
+partial of the lower tone is about 1/6 tone off the 4th partial of the
+higher tone. As one enlarges the interval, the former pair will fall off
+in dissonance, while the latter pair will intensify in dissonance until
+one is about 1/8 tone flat of a 5/4. Similarly there is both an increase
+and a decrease in dissonance as one decreases the interval to about 1/8
+tone sharp of a 6/5. Since the total dissonance is the sum of the
+dissonances of the pairs of partials, there is a bit of a plateau of
+total dissonance around 11/9. So this is an example of your type (1)
+dissonance. This plateau is not as high as the peaks that flank the
+simplest ratios. If the partials through the 11th are audible (as on a
+piano), one can tune the 11/9 exactly by eliminating the beating.
+However, the beatings between the 6th and 5th partials of the lower note
+and the 5th and 4th partials of the upper nore will be more powerful and
+therefore the 11/9 will represent a very minor local minimum of
+dissonance at best.
+
+One can also consider the virtual pitch/harmonic entropy component of
+dissonance, which leads to similar conclusions. I will discuss this if
+you wish.

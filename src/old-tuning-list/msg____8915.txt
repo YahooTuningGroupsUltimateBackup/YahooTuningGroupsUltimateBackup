@@ -1,0 +1,760 @@
+source file: m1602.txt
+Date: Fri, 4 Dec 1998 17:24:14 -0500
+
+Subject: multidimensional scaling diagrams
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+I wrote,
+
+>>For example, a diatonic or extended meantone scale, when scaled to
+three
+>>dimensions, comes out as a helix, with the chain of fifths winding
+around
+>>the helix so that one full turn corresponds to 3-4 fifths, putting all
+the
+>>notes of each consonant triad near to one another. The result is the
+>>simplest and most informative diagram of the diatonic scale or
+extended
+>>meantone tuning that I can imagine.
+
+Carl Lumma asked,
+
+>You say you've done this for various scales?  Do you have any pics?
+
+Yes, and luckily they are ascii! Here is the diatonic scale, scaled down
+to 3 dimensions, projected onto each of the three orthogonal planes:
+
+       2 ^
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+       1 ^                                   > a
+         '
+         '
+    D    '
+    i    '
+    m    '          > f                                  > e
+    e    '
+    n    '
+    s    '
+    i  0 ^                                > d
+    o    '
+    n    '
+         '
+    2    '                 > c                                  > b
+         '
+         '
+         '
+         '
+      -1 ^                             > g
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+      -2 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 1
+
+
+
+         '
+         '
+       2 ^
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+    D    '                                > d
+    i  1 ^
+    m    '
+    e    '
+    n    '
+    s    '
+    i    '
+    o    '                             > g   > a
+    n    '
+         '
+    3  0 ^
+         '
+         '          > f                                         > b
+         '
+         '
+         '
+         '                 > c                           > e
+         '
+         '
+      -1 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 1
+
+
+         '
+         '
+       2 ^
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+    D    '                                > d
+    i  1 ^
+    m    '
+    e    '
+    n    '
+    s    '
+    i    '
+    o    '                 > g                           > a
+    n    '
+         '
+    3  0 ^
+         '
+         '                         > b           > f
+         '
+         '
+         '
+         '                         > c           > e
+         '
+         '
+      -1 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 2
+
+
+Here is a pentachordal dectonic scale (labeled with letters p-y)
+
+         '
+         '
+       2 ^
+         '
+         '
+         '
+         '
+         '
+         '
+         '                       > y               > r
+    D    '
+    i  1 ^
+    m    '
+    e    '
+    n    '               > u                               > v
+    s    '
+    i    '
+    o    '
+    n    '
+         '
+    2  0 ^
+         '
+         '
+         '                             z < > s
+         '
+         '
+         '              > q                                 > p
+         '
+         '
+      -1 ^                        > w             > t
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 1
+
+
+         '
+       2 ^
+         '
+         '
+         '
+         '
+         '                                 > s
+         '
+         '
+         '
+       1 ^
+         '
+         '                        > w
+    D    '
+    i    '                       > y
+    m    '
+    e    '                                                 > v
+    n    '                                                  > p
+    s    '
+    i  0 ^
+    o    '
+    n    '              > q
+         '               > u
+    3    '
+         '                                         > r
+         '
+         '                                        > t
+         '
+      -1 ^
+         '
+         '
+         '
+         '                               > z
+         '
+         '
+         '
+         '
+      -2 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 1
+
+
+              '
+              '
+            2 ^
+              '
+              '
+              '
+              '
+              '
+              '              > s
+              '
+              '
+              '
+            1 ^
+              '
+              '
+              '   > w
+         D    '                                        > y
+         i    '
+         m    '
+         e    '                              > v
+         n    '        > p
+         s    '
+         i  0 ^
+         o    '
+         n    '        > q
+              '                              > u
+         3    '
+              '
+              '                                        > r
+              '   > t
+              '
+              '
+           -1 ^
+              '
+              '
+              '
+              '              > z
+              '
+              '
+              '
+              '
+              '
+           -2 ^
+              '
+              Sff^ffffffffffffffff^ffffffffffffffff^ffffffffffffffff^ff
+                -1                0                1                2
+
+                                     Dimension 2
+
+Here is a symmetrical decatonic scale:
+
+                      '
+                      '
+                      '
+                      '
+                      '
+                      '                   > q
+                    1 ^
+                      '  > w                               > u
+                      '
+                      '
+                 D    '
+                 i    '
+                 m    '    > s                           > y
+                 e    '
+                 n    '
+                 s    '
+                 i  0 ^
+                 o    '
+                 n    '
+                      '
+                 2    '    > t                           > x
+                      '
+                      '
+                      '
+                      '
+                      '  > p                               > r
+                   -1 ^
+                      '                   > v
+                      '
+                      '
+                      '
+                      '
+                      '
+                      '
+                      '
+                      '
+                   -2 ^
+                      '
+                      Sff^ffffffffffffffff^ffffffffffffffff^ff
+                        -1                0                1
+
+                                     Dimension 1
+
+
+                      '
+                      '
+                      '
+                      '
+                      '
+                      '
+                    1 ^    > s                           > y
+                      '
+                      '                   > v
+                      '
+                 D    '
+                 i    '
+                 m    '
+                 e    '
+                 n    '
+                 s    '
+                 i  0 ^w 2 p                             u 2 r
+                 o    '
+                 n    '
+                      '
+                 3    '
+                      '
+                      '
+                      '
+                      '                   > q
+                      '
+                   -1 ^    > t                           > x
+                      '
+                      '
+                      '
+                      '
+                      '
+                      '
+                      '
+                      '
+                      '
+                   -2 ^
+                      '
+                      Sff^ffffffffffffffff^ffffffffffffffff^ff
+                        -1                0                1
+
+                                     Dimension 1
+
+
+       2 ^
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+       1 ^                                    s 2 y
+         '
+         '               > v
+    D    '
+    i    '
+    m    '
+    e    '
+    n    '
+    s    '
+    i  0 ^                r 2 p                       w 2 u
+    o    '
+    n    '
+         '
+    3    '
+         '
+         '
+         '                                                 > q
+         '
+      -1 ^                        x 2 t
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+      -2 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 2
+
+And here is 12-tone equal temperament:
+
+       2 ^
+         '
+         '
+         '
+         '
+         '
+         '
+         '                               > c
+         '                       > f                 > g
+       1 ^
+         '
+         '
+    D    '                                                > d
+    i    '               > a#
+    m    '
+    e    '
+    n    '
+    s    '             > d#
+    i  0 ^
+    o    '                                                   > a
+    n    '
+         '
+    2    '
+         '                                                 > e
+         '                > g#
+         '
+         '
+      -1 ^
+         '                     > c#                > b
+         '                                 > f#
+         '
+         '
+         '
+         '
+         '
+         '
+      -2 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 1
+
+
+         '
+         '
+       1 ^
+         '
+         '
+    D    '               > a#              > f#           > d
+    i    '                  c# < > f                         > a
+    m    '
+    e    '
+    n    '
+    s    '
+    i  0 ^
+    o    '
+    n    '
+         '
+    3    '
+         '             > d#                      b < > g
+         '                > g#           > c               > e
+         '
+         '
+      -1 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 1
+
+
+         '
+         '
+       1 ^
+         '
+         '
+    D    '             > f#                    a# < > d
+    i    '                > c#           > a               > f
+    m    '
+    e    '
+    n    '
+    s    '
+    i  0 ^
+    o    '
+    n    '
+         '
+    3    '
+         '               > b               > d#           > g
+         '                   g# < > e                        > c
+         '
+         '
+      -1 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 2
+
+
+Better results for 12-tET come from only scaling down to 4 dimensions,
+although the result cannot really be visualized:
+
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+         '                             > b      > e
+       1 ^
+         '                     > f#
+         '                                              > a
+    D    '
+    i    '
+    m    '               > c#
+    e    '
+    n    '                                                 > d
+    s    '
+    i  0 ^
+    o    '
+    n    '               > g#
+         '
+    2    '                                                 > g
+         '
+         '
+         '                  > d#
+         '                                           > c
+      -1 ^
+         '                          > a#     > f
+         '
+         '
+         '
+         '
+         '
+         '
+         '
+      -2 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 1
+
+
+         '
+         '
+       1 ^
+         '
+         '               > c#                > f        > a
+    D    '
+    i    '
+    m    '
+    e    '
+    n    '                     > f# > a#                   > d
+    s    '
+    i  0 ^
+    o    '
+    n    '               > g#                   > e  > c
+         '
+    3    '
+         '
+         '
+         '                  > d#       > b                 > g
+         '
+      -1 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 1
+
+
+         '
+         '
+       1 ^
+         '
+         '                     > f# > a#                   > d
+    D    '
+    i    '
+    m    '
+    e    '
+    n    '                  > d#       > b                 > g
+    s    '
+    i  0 ^
+    o    '
+    n    '               > c#                > f        > a
+         '
+    4    '
+         '
+         '
+         '               > g#                   > e  > c
+         '
+      -1 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 1
+
+
+         '
+         '
+       1 ^
+         '
+         '               > f                    > c# > a
+    D    '
+    i    '
+    m    '
+    e    '
+    n    '               > a#                > d        > f#
+    s    '
+    i  0 ^
+    o    '
+    n    '                  > c        > g#                > e
+         '
+    3    '
+         '
+         '
+         '                     > d# > g                    > b
+         '
+      -1 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 2
+
+
+         '
+         '
+       1 ^
+         '
+         '               > a#                > d        > f#
+    D    '
+    i    '
+    m    '
+    e    '
+    n    '                     > d# > g                    > b
+    s    '
+    i  0 ^
+    o    '
+    n    '               > f                    > c# > a
+         '
+    4    '
+         '
+         '
+         '                  > c        > g#                > e
+         '
+      -1 ^
+         '
+ 
+Sff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ffffffffffffff^ff
+           -2             -1              0              1
+2
+
+                                     Dimension 2
+
+     '
+     '
+   1 ^
+     '
+     '
+     '
+     '                                              f#
+     '                                            d 3 a#
+     '
+     '
+     '
+     '
+     '
+     '
+     '
+     '
+     '        g
+D    '     d# 3 b
+i    '
+m    '
+e    '
+n    '
+s    '
+i  0 ^
+o    '
+n    '
+     '
+4    '
+     '                                                                f
+     '                                                             c# 3
+a
+     '
+     '
+     '
+     '
+     '
+     '
+     '
+     '
+     '                          g#
+     '                        e 3 c
+     '
+     '
+     '
+     '
+  -1 ^
+     '
+ 
+S^fffffffffffffffffffffffffffffffffff^ffffffffffffffffffffffffffffffffff
+f^f
+     -1                                   0
+1
+
+                                     Dimension 3
+
+
+
+The input distance matrices were based on the log of the odd limit of
+the most likely interpretation but included a correction term to account
+for the inaccuracy of 12- or 22-tET; I don't remember how I did it but
+it made sense to me at the time.

@@ -1,0 +1,77 @@
+source file: mills3.txt
+Date: Mon, 27 Oct 1997 17:36:49 +0100
+
+Subject: plomp and levelt
+
+From: William Sethares <sethares@eceserv0.ece.wisc.edu>
+
+David Worrall asked:
+
+>In which of these categories does Plomp's Critical Band theory fit?
+
+Plomp and Levelt's work fits squarely in the "sensory" consonance
+definition, and is closely related to Helmholtz' beating theory.
+
+To oversimplify a bit, Helmholtz believed that dissonance is caused
+by the beating of the upper harmonics (partials) of a sound. He
+claimed that a beat rate of about 32 Hz was the "most dissonant" and
+dissonance fell off as the rate decreased (much slower rates being
+perceived more like vibrato) and as the beating rate increased (much
+higher not being perceived as beating, but as a tone in its own right,
+like a difference tone). Consonance, according to H., is the absence of
+dissonance.
+
+Plomp and Levelt did a series of listening experiments using sine
+waves and "naive" subjects to see if Helmholtz was right. Indeed,
+they found that people tended to judge dissonance as greater or
+lesser depending on the beating rate. For tones around 500 Hz they
+found agreement with Helmoltz' 32 Hz figure, but in other frequency
+ranges, the actual rate of maximum dissonance was somewhat
+different. Plomp and Levelt's then observed that the rate of beating
+for maximum dissonance increases with frequency of the tones in
+exactly the same way as the *critical band* widens with frequency.
+
+To see why this is important, you need to know what the critical
+band is. The basilar membrane is a ribbon-like piece of flabby tissue
+that flaps around when pressure (sound) waves hit it. Thousands of
+little hairs mounted on the basilar membrane then vibrate and send
+messages to the brain, which encode (at least partly) the frequency
+of the impinging pressure wave. Any given single sine wave excites a
+small region on the membrane, and the distance in frequency at
+which two such regions overlap is called the critical band - it varies
+in frequency and is undoubtedly related to (but not the sole
+explanation for) the frequency resolving powers of the ear.
+
+Thus, by relating the perceived sensory dissonance to the critical
+band, Plomp and Levelt proposed a kind of biological cause for the
+sensation of sensory dissonance. This is why their paper was so
+important and controversial.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  Uath-72 generalized keyboard
+PostedDate:  27-10-97 21:19:05
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  27-10-97 21:18:11-27-10-97 21:18:11,27-10-97 20:18:46-27-10-97 20:18:47
+DeliveredDate:  27-10-97 20:18:47
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C125653D.006F8487; Mon, 27 Oct 1997 21:18:04 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA28960; Mon, 27 Oct 1997 21:19:05 +0100
+Date: Mon, 27 Oct 1997 21:19:05 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA28940
+Received: (qmail 2576 invoked from network); 27 Oct 1997 12:18:52 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 27 Oct 1997 12:18:52 -0800
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971027194817Z-2599@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

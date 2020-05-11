@@ -1,0 +1,30 @@
+source file: m1434.txt
+Date: Mon, 1 Jun 1998 10:59:24 -0400 (EDT)
+
+Subject: Re: Yamaha FB-01/TX-81Z
+
+From: "Ewan A. Macpherson" <emacpher@umich.edu>
+
+Drew Skyfyre <steele@bom2.vsnl.net.in> wrote:
+
+> I'm about to get an FB-01 and am looking for information on
+> microtuning it.I've looked about on the 'bahn and came up with
+> zilch.The TX-81Z seems easier to use for microtuning.
+
+The FB-01 has no tuning tables.  All microtuning must be done on the 
+fly by replacing note-on & note-off messages with sysex messages 
+indicating the exact pitch to be played.  This is very flexible, but 
+of course requires some software.  The tuning resolution is only 64 
+steps/semitone.  The manual isn't too bad in describing how the 
+microtuning works. A long time ago I wrote some awful QuickBasic 
+code to do some of this. I suppose MAX or something similar could be 
+used on the Mac.  I once saw Martin Bartlett demonstrating 
+microtuning on the FB-01 with some Atari software, but I suspect that 
+was homebrew.
+In terms of sound programming, the FB-01 has only 4 sinewave 
+operators. The TX-81Z has other waveforms as well.
+--
+Ewan Macpherson   <emacpher@umich.edu>
+Central Systems Laboratory
+Kresge Hearing Research Institute
+http://www-personal.umich.edu/~emacpher

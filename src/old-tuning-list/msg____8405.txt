@@ -1,0 +1,71 @@
+source file: m1515.txt
+Date: Tue, 25 Aug 1998 22:45:36 -0500
+
+Subject: Re: synth tuning
+
+From: "John Loffink" <jloffink@pdq.net>
+
+>From: Drew Skyfyre <steele@bom2.vsnl.net.in>
+
+>
+>I'm happy to anounce I'm now the  owner
+>of a Yamaha PSR-530, XG compatible keyboard. It's limited
+>to twelve note scales (-63 to +64), 1200/768 (100cent/64) resolution.
+>The range and number of tweakable parameters is terrific, making it
+>possible to obtain very professional results. Comes with a built
+>in computer interface (Mac & PC). Also, a 5-octave keyboard (with one
+>split point), pitch-wheel, & decent sounding 12 Watt stereo speaker
+>system.
+>
+>You do however have to use a computer to do any tweaking, and turn
+>off local control, run the keyboard through a MIDI thru (hardware or
+>software,
+
+
+And I'm happy to report that the higher end Yamaha and Technics personal
+keyboards have one octave based user tuning table available from the front
+panel, not just sysex.  So does Technics' higher end digital piano line.  I
+just checked them out at MARS last weekend and have updated my web site.
+
+>>yamaha and roland synths both have sysex messages for
+>>scale tuning, which allows you to change the tuning of all
+>>tones in one pitch class (all c's, all c#'s ..) in increments of 1 cent.
+>
+>Actually, I believe Yamaha has fudged the terminology in the
+>manual for the PSR-530. The MIDI Master tuning can in fact be  tuned
+>-100 cent to -100 cent. But for microtonal tuning ("Scale Tuning" in
+>Yamaha speak), they could potentially confuse users with little
+>microtonal technical knowledge, because this is what they say :
+>
+>"...alows each individual note of the octave to be tuned over the
+>range from -64 to +64 cents in 1 -cent increments (1 cent = 1/100th
+>of a semitone)."
+>
+>These are actually 64ths of a semitone, aren't they ?
+
+
+I think they actually are 1 cent increments, though possibly mapped to some
+non-1 cent interval like 1200/768.
+
+>
+>Just using a keyboard with atleast one split point, it is possible to
+>fool around with many equal temperaments. I've been giving it a bit of
+>thought and it should handle equal temps of upto 24 notes per octave.
+>All it entails is transposing both left & right sides to the same
+>"octave" range,
+>then tuning the both parts to the odd numbered pitches of an ET, and
+>shifting
+>the channel master tune so the pitches on the right hand become the even
+>numbered pitches of the scale.
+>
+
+You could do quartertone scales this way, but not any other nTETs.
+
+One more note, I checked out Emu's ESynth with the latest operating system,
+EOS 3.20e, common to the EIV, e64, e6400 samplers.  It did not contain a
+user tuning table, contrary to what was published in Keyboard's letter
+column.  I have notified the editors at Keyboard.
+
+John Loffink
+jloffink@pdq.net
+http://freeweb.pdq.net/jloffink

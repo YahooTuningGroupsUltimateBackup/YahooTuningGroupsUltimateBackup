@@ -1,0 +1,36 @@
+source file: mills2.txt
+Date: Sun, 20 Oct 1996 07:18:35 -0700
+
+Subject: RE: More on equal beating tunings
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+Thanks John for explaining the method for calculating beats.
+I realise where my blunder was. I had better read Rasch's article!
+I took the difference frequency between the just and the tempered
+interval for the beat rate. But it's not that but the partials in
+the octaves above that beat. So the value I gave for equal beating
+major third and fifth is in fact for the major third beating twice as
+fast as the fifth, and where it was twice it's in reality four times
+as fast.
+The last two ones labeled "other one" were an attempt to get the
+solution for the case with beating in the opposite direction as John
+demonstrated. 
+Hopefully having it right now are these the values for equal beating
+major third and fifth for the positive schismatic mean-tone temperament: 
+Equal: 701.7278   Opposite: 701.6910
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Sun, 20 Oct 1996 19:07 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA04284; Sun, 20 Oct 1996 19:08:57 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA04292
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id KAA05250; Sun, 20 Oct 1996 10:08:54 -0700
+Date: Sun, 20 Oct 1996 10:08:54 -0700
+Message-Id: <961020170419_71670.2576_HHB70-3@CompuServe.COM>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

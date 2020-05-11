@@ -1,0 +1,42 @@
+source file: mills2.txt
+Date: Mon, 14 Oct 1996 09:55:55 -0700
+
+Subject: Re: Pitch Bend for tuning
+
+From: Manuel.Op.de.Coul@ezh.nl (Manuel Op de Coul)
+
+>   That's certainly a start, but that still doesn't work in a slurred, or 
+> legato note transition.  You'll bend the pitch of the trailing end of the 
+> previous note in that scenario.
+
+This seems an opportunity for a clever algorithm to minimise that
+effect. It will need as many MIDI channels as the user can spend for
+each voice. It could select used channels on a least recently used
+basis except where it can take advantage of occurrences of notes that
+are multiples of 100 cents different from some previous note in which
+case it can reuse a channel without changing the pitch bend value.
+The algorithm could also trade off between selecting the channel that
+would need the smallest pitch bend change from the previous note and
+taking the channel which has the lowest volume. It would need to
+know the voice parameters for that of course. It might also fiddle
+with the moments of note-off messages if a decaying tone would
+otherwise be audibly detuned. 
+Has anyone done something like this?
+The unproblematic case is if one has only one voice and a fixed octave
+based scale of 16 tones or less, the pitch bends can be set for each
+channel at the beginning. 
+
+Manuel Op de Coul    coul@ezh.nl
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Tue, 15 Oct 1996 17:30 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA05514; Tue, 15 Oct 1996 17:32:28 +0200
+Received: from eartha.mills.edu by ns (smtpxd); id XA01596
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id IAA26080; Tue, 15 Oct 1996 08:32:25 -0700
+Date: Tue, 15 Oct 1996 08:32:25 -0700
+Message-Id: <Pine.A32.3.95.961015112628.10820E-100000@freenet3.afn.org>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

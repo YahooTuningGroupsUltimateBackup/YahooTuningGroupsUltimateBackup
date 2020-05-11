@@ -1,0 +1,73 @@
+source file: mills3.txt
+Date: Wed, 22 Oct 1997 16:39:07 +0200
+
+Subject: Re: MIDI file formats
+
+From: Manuel.Op.de.Coul@ezh.nl
+
+Here is the MIDI filespec:
+http://www.cs.ruu.nl/pub/MIDI/DOC/midifile
+
+You can do several things:
+
+- Write a program to write a midifile directly.
+Then I would advice to look at the source code of existing programs for
+examples. Here's one: http://www.cs.ruu.nl/pub/MIDI/PROGRAMS/mf2tsrc.zip
+The next possibility will be easier.
+
+- Write a program to write a text representation of a midifile that also
+inserts pitchbend commands.
+Then you can convert it to a midifile with T2MF (I don't know if
+that's the same program that Kami mentioned; also in the Scala zip file).
+The next possibility will also be easier.
+
+- Write a program to write a text representation of a midifile without
+inserting pitchbend commands.
+Then convert it to a midifile with TXT2MF and subsequently convert the
+midifile to a retuned midifile with Scala inserting the pitchbend
+commands. Everything that Scala does, can also be done
+noninteractively. You can run it from a .bat file and put the Scala
+commands in the startup.cmd file. This also has the advantage that you
+can use the same midifile for different tunings.
+
+- Write a program to write a Scala sequence file. This may still be
+slightly easier but it gives you less control over the result since
+not all midi messages are supported. This is similar to Kami's
+xen2txt utility.
+
+- Write a program to write Csound files. Csound also works
+noninteractively and gives you much more control over the sound,
+better tuning precision and has none of the midi limitations.
+It produces soundfiles, not midifiles. This however takes a lot of
+computing time so you will have to be patient to hear the results.
+
+Manuel Op de Coul    coul@ezh.nl
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+Subject:  RE: Canright Revisited: Every Interval is Just
+PostedDate:  22-10-97 22:33:09
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  22-10-97 22:32:18-22-10-97 22:32:19,22-10-97 21:33:00-22-10-97 21:33:00
+DeliveredDate:  22-10-97 21:33:00
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256538.0070CFEF; Wed, 22 Oct 1997 22:32:12 +0200
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA11578; Wed, 22 Oct 1997 22:33:09 +0200
+Date: Wed, 22 Oct 1997 22:33:09 +0200
+Received: from ella.mills.edu by ns (smtpxd); id XA24386
+Received: (qmail 22320 invoked from network); 22 Oct 1997 13:33:00 -0700
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 22 Oct 1997 13:33:00 -0700
+Message-Id: <c=US%a=_%p=Acadian-Asset%l=MARS-971022201336Z-831@mars.acadian-asset.com>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

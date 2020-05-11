@@ -1,0 +1,29 @@
+source file: m1547.txt
+Date: Wed, 7 Oct 1998 17:21:26 -0400
+
+Subject: RE: Cancelling out beats
+
+From: "Paul H. Erlich" <PErlich@Acadian-Asset.com>
+
+I wrote,
+
+>> Paul H., the nonlinear processing that the ear does actually
+increases
+>> the frequency resolution over what the standard uncertainty relation
+>> would give for an analyzer with the ear's temporal resolution, thus
+>> decreasing (rather than creating) the incidence of beats.
+
+Paul H. wrote,
+
+>?? I must be misunderstanding something.  If you analyze the signal
+>using a process which decomposes it linearly, such as a Fourier
+>transform, no energy is detected at the beat frequency.  What is a
+>decrease from nothing?  I think this is what Gary Morrison was talking
+>about when he said (talking about bram's beat-canceling idea):
+
+You are correct only with an infinitely long sampling window. The
+temporal resolution of the ear is far better than that, on the order of
+several milliseconds. Standard signal processing theory says that the
+temporal resolution times the frequency resolution is greater than 1 or
+2*pi or some such constant. The ear beats this by performing several
+layers of processing, which is what I refer to as "nonlinear".

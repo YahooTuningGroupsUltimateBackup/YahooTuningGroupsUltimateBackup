@@ -1,0 +1,106 @@
+source file: mills2.txt
+Date: Thu, 16 Jan 1997 02:01:38 -0800
+
+Subject: More on the comma experiment
+
+From: Gary Morrison <71670.2576@compuserve.com>
+
+Interesting experiment in general, Steve.  
+
+   The most important effect of using V7 instead of V (other than the
+well-known ones of dominant 7ths vs dominant triads) is that scale degree 4
+in addition to 2 becomes a common tone between ii and V7.  
+
+   Try out these subtly different 22TET four-part harmonizations, using a
+similar progression:
+
+1.  Diminished ii (borrowed chord) (there's a pseudocomma error
+    on the b6, but no precedent for that pitch either):
+                    13     
+         9     9           9
+   7                             7
+               4     4     4
+   0     0                       0
+   0                             0
+                    20    20 
+        16    15
+                    13    13
+         9     9
+   0                             0
+
+   I    IV    iio    V    V7     I 
+
+
+2.  Scale-degree-2 common tone forced not to be common to avoid 
+    pseudocomma-sharp fourth:
+                    13     
+         9     9           9
+   7                             7
+               3     4     4
+   0     0                       0
+   0                             0
+                    20    20 
+        16    16
+                    13    13
+         9     9
+   0                             0
+
+   I    IV    ii     V    V7     I 
+
+
+3.  Tonic allowed to wander to preserve all common tones and avoid
+    all pseudocomma errors:
+                    12     
+         9     9           8
+   7                             6
+               3     3     3
+   0     0                      21
+   0                            21
+                    19    19 
+        16    16
+                    12    12
+         9     9
+   0                            21
+
+   I    IV    ii     V    V7     I 
+
+
+   My personal impressions were these:  The diminished and wandering tonic
+(first and third) cases flow the most smoothly (smoothness being one, but
+not the only, interesting consideration).  The main difference between
+those two was the obvious one:  That the first obviously had the more
+dissonant diminished ii instead the more typical minor ii, and the third
+had that wandering-tonic sensation of "???!!! we did everything right but
+we landed in the wrong place !!!???", right about on the V.  
+
+   The other difference I heard between those two was that the V sounded a
+little odd in BOTH based upon the small vs. large whole tone in the exposed
+soprano line.  The first one with its large upward whole-tone made that
+chord seem over all oddly too high-pitched, even though it seemed to have
+the right harmony, whereas the third one sounded a little flat even though
+the harmonic effect seemed right.
+
+   In the second one, the upward movement from 3/22 to 4/22 struck me as
+too freaky with the already "too-high" effect of the large whole-tone in
+the soprano.  To me the second one was too disconcerting (and discontiguous
+from ii-V) for that reason.  
+
+
+   By the way, to actually play these, I finally broke down and stuck
+masking-tape labels of the numbers above on the keys and then sequenced
+each part.  I have no idea how keyboardists can possible play on stretched
+keyboards!  This woodwind & guitar player is just amazed that anybody can
+do that!  
+
+Received: from ns.ezh.nl [137.174.112.59] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Fri, 17 Jan 1997 03:24 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA19288; Fri, 17 Jan 1997 03:27:51 +0100
+Received: from eartha.mills.edu by ns (smtpxd); id XA19269
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <manuel.op.de.coul@ezh.nl> id SAA24947; Thu, 16 Jan 1997 18:27:48 -0800
+Date: Thu, 16 Jan 1997 18:27:48 -0800
+Message-Id: <Pine.SOL.3.95.970116171829.16947A-100000@equinox>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

@@ -1,0 +1,83 @@
+source file: mills2.txt
+Date: Thu, 20 Jun 1996 10:17:46 -0700
+
+Subject: Post from McLaren
+
+From: John Chalmers <non12@deltanet.com>
+
+From: mclaren
+Subject: Xenharmonic melodic theory vs. harmonic theory
+--
+In Tuning Digest 715 James McCartney suggested:
+> It seems to me there is too much discussion of pitch sets, and scales
+> and not enough on harmonic progression and voice leading which seems to
+> me to be the more interesting problem. I mean, just choose the pitch set
+> you like and be done with it! -- James McCartney
+This is one opinion.
+Another opinion is that western music theory is already overburdened
+with theories of harmonic progression and voice leading.  After
+a thousand years of obsessing over harmony to the utter exclusion
+of melodic theory, it seems to me long past time to concern ourselves
+with horizontal structures.
+Clearly, James McCartney has another opinion--and quite a lot of 
+justification for it. Harmony has traditionally be considered a
+more fundamental subject for music theory than melody.
+The question is whether this notion is valid. 
+There is at least one musical culture which elevated melodic theory
+far above harmonic theory: classical Greece.
+As best we  can ascertain, the Greek thought melodic theory infinitely 
+more fundamental to music than the theory of vertical intervals.
+Were the Greeks right or wrong?
+No way to tell.  The question may not even be meaningful, given the
+iridescence and multidimensionality of the act of composing music.
+In the meantime, I shall continue in my posts to emphasize
+melody over harmony, the better to  redress the long-standing 
+theoretical imbalance twixt the two.
+
+--
+Also in Tuning Digest 715 McCartney posted:
+> I came to this list because I was interested in compositional ideas arising
+> out of tuning. I don't think I've seen one article that got past selecting
+> the notes. -- James McCartney
+McCartney may not have seem 'em, but many *many* such posts exist.
+About a year ago I posted a long series of compositional ideas and
+compositional techniques for non-12 tunings.  Warren Burt has also
+posted many such ideas, as have other forum subscribers.  Gary Morrison
+has posted quite a few discussions on xenharmonic composition.
+It might be advisable for newer subscribers to read over past digests
+before they post.  People who've been on this forum for some time
+would probably not appreciate it if I (or others) were to continually
+re-post old messages for the benefit of the newer subscribers.
+If James can't find those older posts on compositional ideas &
+techniques in non-12 tunings, I can easily re-post them, however.
+If there's sufficient interest, I can also post articles by Ivor Darreg
+on compositional techniques in various non-12 intonations.  Ivor
+was a vertibale fountain of new ideas for xenharmonic composition,
+and his articles on the subject are a "must-read" for budding
+xenharmonists.
+--
+Also in TD 715, Greg Scheimer asked for Csound compositions
+in non-12 intonations.  I have a few of 'em, but they're long--
+in excess of 100 kilobytes of ASCII.  Thus it seemed inadvisable
+to post them on the Mills ftp site, since Dave Madole is already
+fighting the Attack Of The Files That Ate My Disk.
+Another issue supervenes, however: 
+Many of the subscribers to this forum have done non-12 Csound
+compositions, but they're reluctant to give out scores for
+copyright reasons.  I myself requested a number of subscribers
+to post Csound scores of their microtonal computer music
+compositions.
+Every single composer demurred, citing copyright concerns.
+--mclaren
+
+
+Received: from eartha.mills.edu [144.91.3.20] by vbv40.ezh.nl
+           with SMTP-OpenVMS via TCP/IP; Thu, 20 Jun 1996 19:45 +0100
+Received: from  by eartha.mills.edu via SMTP (940816.SGI.8.6.9/930416.SGI)
+	for <coul@ezh.nl> id KAA27418; Thu, 20 Jun 1996 10:45:29 -0700
+Date: Thu, 20 Jun 1996 10:45:29 -0700
+Message-Id: <Pine.SCO.3.91.960620104206.21601B-100000@delta1.deltanet.com>
+Errors-To: madole@ella.mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu

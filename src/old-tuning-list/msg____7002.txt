@@ -1,0 +1,46 @@
+source file: mills3.txt
+Date: Sat, 10 Jan 1998 22:22:22 +0100
+
+Subject: Re: TUNING digest 1293 jloffink
+
+From: mr88cet@texas.net (Gary Morrison)
+
+>I'm sure those that are exploring the non-octave based tunings such as Wendy
+>Carlos' Alpha and 88CET would prefer at least having an option other than
+>octave based tables.
+
+   Not surprisingly, I wholeheartedly agree with that.  Ensoniq defines its
+tuning tables very logically and easily.  I would find that a good model
+for others.
+
+   Being able to switch tuning tables in "banks" as Fred suggested also
+makes a lot of sense to me.
+
+
+SMTPOriginator:  tuning@eartha.mills.edu
+From:  mr88cet@texas.net (Gary Morrison) 
+Subject:  Re:
+PostedDate:  11-01-98 01:02:21
+SendTo:  CN=coul1358/OU=AT/O=EZH
+ReplyTo:  tuning@eartha.mills.edu
+$MessageStorage:  0
+$UpdatedBy:  CN=notesrv2/OU=Server/O=EZH,CN=coul1358/OU=AT/O=EZH,CN=Manuel op de Coul/OU=AT/O=EZH
+RouteServers:  CN=notesrv2/OU=Server/O=EZH,CN=notesrv1/OU=Server/O=EZH
+RouteTimes:  11-01-98 01:16:34-11-01-98 01:16:35,11-01-98 01:16:26-11-01-98 01:16:26
+DeliveredDate:  11-01-98 01:16:26
+Categories:  
+$Revisions:  
+
+Received: from ns.ezh.nl ([137.174.112.59]) by notesrv2.ezh.nl (Lotus SMTP MTA SMTP v4.6 (462.2 
+9-3-1997)) with SMTP id C1256589.0004F1A8; Sun, 11 Jan 1998 01:16:52 +0100
+Received: by ns.ezh.nl; (5.65v3.2/1.3/10May95) id AA15146; Sun, 11 Jan 1998 01:02:21 +0100
+Date: Sun, 11 Jan 1998 01:02:21 +0100
+Received: from ella.mills.edu by ns (smtpxd); id XA31589
+Received: (qmail 25314 invoked from network); 10 Jan 1998 16:02:17 -0800
+Received: from localhost (HELO ella.mills.edu) (127.0.0.1)
+  by localhost with SMTP; 10 Jan 1998 16:02:17 -0800
+Message-Id: <v01541108b0dd4438786c@[207.207.2.141]>
+Errors-To: madole@mills.edu
+Reply-To: tuning@eartha.mills.edu
+Originator: tuning@eartha.mills.edu
+Sender: tuning@eartha.mills.edu
