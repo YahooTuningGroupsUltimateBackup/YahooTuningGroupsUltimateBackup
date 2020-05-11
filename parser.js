@@ -46,15 +46,10 @@ const writeListHtml = list => {
         const listTopicPageFile = `topicId_${listTopicId}.html`
         const listTopicPage = `dist/${list}/${listTopicPageFile}`
 
-        const initialElement = elements.find(el => el.previousId === 0)
+        let initialElement = elements.find(el => el.previousId === 0)
         if (!initialElement) {
-            console.log('topic with no first element?', elements.map(({id, nextId, previousId}) => ({
-                id,
-                nextId,
-                previousId,
-            })))
-
-            return
+            elements.sort((a, b) => a.id > b.id ? 1 : -1)
+            initialElement = elements[0]
         }
 
         const topicName = initialElement.email.subject
@@ -88,7 +83,7 @@ const writeListHtml = list => {
             const internalLinkRegexp = /http:\/\/groups\.yahoo\.com\/group\/(?<otherList>\w+)\/message\/(?<otherMsgId>\d+)/
 
             let matches = internalLinkRegexp.exec(textAsHtmlWithLinksUpdate)
-            while(!!matches) {
+            while (!!matches) {
                 const otherList = matches.groups['otherList']
                 const otherMsgId = matches.groups['otherMsgId']
                 const otherTopicId = listMsgIdToTopicIdMap[otherList][otherMsgId]
