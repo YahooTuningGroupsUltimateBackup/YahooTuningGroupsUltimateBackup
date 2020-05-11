@@ -10,6 +10,9 @@ const EMAIL_TEXT_STYLE = 'margin: 0px 20px 20px; padding: 20px; background-color
 const parsed = {}
 const listMsgIdToTopicIdMap = {}
 
+let processedListCount = 0
+const totalListCount = 6
+
 const deleteFolderRecursive = path => {
     if (!fs.existsSync(path)) return
 
@@ -79,21 +82,29 @@ const writeListHtml = list => {
                 attachments.forEach(attachment => writeAttachmentHtml(attachment, list, listTopicPage))
             }
 
-            let textAsHtmlWithLinksUpdate = textAsHtml
+            let textAsHtmlWithLinksUpdate = (textAsHtml || '')
                 .replace(/http:\/\/users\.bigpond\.net\.au\/d\.keenan/g, 'http://dkeenan.com')
 
             const internalLinkRegexp = /http:\/\/groups\.yahoo\.com\/group\/(?<otherList>\w+)\/message\/(?<otherMsgId>\d+)/
 
             let matches = internalLinkRegexp.exec(textAsHtmlWithLinksUpdate)
             while (!!matches) {
-                const otherList = matches.groups['otherList']
+                const otherList = matches.groups['otherList'].toLowerCase()
                 const otherMsgId = matches.groups['otherMsgId']
-                const otherTopicId = listMsgIdToTopicIdMap[otherList][otherMsgId]
+                const otherTopicId = listMsgIdToTopicIdMap[otherList] && listMsgIdToTopicIdMap[otherList][otherMsgId]
 
-                textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(
-                    /http:\/\/groups\.yahoo\.com\/group\/\w+\/message\/\d+/,
-                    `/${otherList}/topicId_${otherTopicId}.html#${otherMsgId}`,
-                )
+                if (otherTopicId) {
+                    textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(
+                        /http:\/\/groups\.yahoo\.com\/group\/\w+\/message\/\d+/,
+                        `/${otherList}/topicId_${otherTopicId}.html#${otherMsgId}`,
+                    )
+                } else {
+                    console.log('on list', list, 'topic id', listTopicId, 'doing msg id', id, 'when failed to fix link', matches[0], matches[1], matches[2], 'to its new internal location, perhaps because it had not been parsed yet; other list', otherList, 'other message id', otherMsgId, 'other topic id', otherTopicId)
+                    textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(
+                        /http:\/\/groups\.yahoo\.com\/group\/\w+\/message\/\d+/,
+                        `/${otherList}/topicId_unknown.html#${otherMsgId}`,
+                    )
+                }
 
                 matches = internalLinkRegexp.exec(textAsHtmlWithLinksUpdate)
             }
@@ -108,6 +119,11 @@ const writeListHtml = list => {
             }
         }
     })
+}
+
+const writeAllHtml = () => {
+    console.log('time to start writing HTML!!!!!!!')
+    fs.readdir(`src`, (err, lists) => lists.forEach(writeListHtml))
 }
 
 const parseList = list => {
@@ -135,7 +151,14 @@ const parseList = list => {
 
             if (!rawEmail) {
                 processedMessageCount += 1
-                if (processedMessageCount === messageCount) writeListHtml(list)
+                if (processedMessageCount === messageCount) {
+                    processedListCount += 1
+                    console.log('in the sad path, we just incremented processed list count to', processedListCount)
+                    if (processedListCount === totalListCount) {
+                        console.log('SO NOW IT IS TIME2 ######################################')
+                        writeAllHtml()
+                    }
+                }
                 return
             }
 
@@ -158,7 +181,14 @@ const parseList = list => {
             listMsgIdToTopicIdMap[list][msgId] = topicId
 
             processedMessageCount += 1
-            if (processedMessageCount === messageCount) writeListHtml(list)
+            if (processedMessageCount === messageCount) {
+                processedListCount += 1
+                console.log('in the happy path, we just incremented processed list count to', processedListCount)
+                if (processedListCount === totalListCount) {
+                    console.log('SO NOW IT IS TIME ######################################')
+                    writeAllHtml()
+                }
+            }
         })
     })
 }
