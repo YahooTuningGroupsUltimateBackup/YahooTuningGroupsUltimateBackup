@@ -11,6 +11,7 @@ const EMAIL_TEXT_STYLE = 'margin: 0px 20px 20px; padding: 20px; background-color
 
 const parsed = {}
 const listMsgIdToTopicIdMap = {}
+const listMessageCounts = {}
 
 let processedListCount = 0
 const totalListCount = 6
@@ -76,13 +77,15 @@ const writeListHtml = list => {
         `)
 
         let element = initialElement
+        let seenIds = []
         while (element) {
             if (writtenMessageCount >= loggedWrittenMessageCount) {
-                console.log('on list', list, 'wrote', loggedWrittenMessageCount, 'messages of total unknown but see above')
-                loggedWrittenMessageCount += 1000
+                console.log('on list', list, 'wrote', loggedWrittenMessageCount, 'messages of total', listMessageCounts[list])
+                loggedWrittenMessageCount += 5000
             }
 
             const {email: {attachments, textAsHtml, from}, nextId, date, time, id} = element
+            seenIds.push(id)
 
             fs.appendFileSync(listTopicPage, `<h3><a id=${id} href="#${id}">🔗</a>${he.encode(from.text)}</h3>`)
             fs.appendFileSync(listTopicPage, `<span>${date} ${time}</span>`)
@@ -125,7 +128,11 @@ const writeListHtml = list => {
 
             if (!element && nextId !== 0) {
                 const altNextId = ids[ids.indexOf(id) + 1]
-                element = elements.find(el => el.id === altNextId)
+                if (!seenIds.includes(altNextId)) {
+                    element = elements.find(el => el.id === altNextId)
+                } else {
+                    console.log('found a loop in topic', listTopicId, 'where message id', id, 'was trying to go back to', altNextId, 'but in this topic we have already seen ids', seenIds.join(' '))
+                }
             }
 
             writtenMessageCount += 1
@@ -144,30 +151,31 @@ const parseList = list => {
     setupPage(list)
     fs.appendFileSync(ROOT_PAGE, `<h3><a href=${list}>${list}</a></h3>\n`)
 
+    listMessageCounts[list] = 0
+
     if (list === 'old-tuning-list') {
         parseOldTuningList()
         return
     }
 
     let processedMessageCount = 0
-    let messageCount = 0
     let loggedProcessedMessageCount = 0
 
     fs.readdirSync(`src/${list}/messages`).forEach(messagesFilename => {
         const messagesFile = JSON.parse(fs.readFileSync(`src/${list}/messages/${messagesFilename}`))
 
-        messageCount += messagesFile.length
+        listMessageCounts[list] += messagesFile.length
 
         messagesFile.forEach(message => {
             const {topicId, rawEmail, prevInTopic, nextInTopic, msgId, postDate} = message
 
             if (!rawEmail) {
                 processedMessageCount += 1
-                if (processedMessageCount === messageCount) {
+                if (processedMessageCount === listMessageCounts[list]) {
                     processedListCount += 1
                     console.log('in the sad path, having just finished processing list', list, 'we just incremented processed list count to', processedListCount)
                     if (processedListCount === totalListCount) {
-                        console.log('in the sad path, we will now write HTML for the list', list)
+                        console.log('we will now write HTML for the lists')
                         writeAllHtml()
                     }
                 }
@@ -192,18 +200,18 @@ const parseList = list => {
                 listMsgIdToTopicIdMap[list][msgId] = topicId
 
                 processedMessageCount += 1
-                if (processedMessageCount === messageCount) {
+                if (processedMessageCount === listMessageCounts[list]) {
                     processedListCount += 1
                     console.log('in the happy path, having just finished processing list', list, 'we just incremented processed list count to', processedListCount)
                     if (processedListCount === totalListCount) {
-                        console.log('in the happy path, we will now write HTML for the list', list)
+                        console.log('we will now write HTML for the lists')
                         writeAllHtml()
                     }
                 }
 
                 if (processedMessageCount >= loggedProcessedMessageCount) {
-                    console.log('on list', list, 'processed', loggedProcessedMessageCount, 'messages of total', messageCount)
-                    loggedProcessedMessageCount += 1000
+                    console.log('on list', list, 'processed', loggedProcessedMessageCount, 'messages of total', listMessageCounts[list])
+                    loggedProcessedMessageCount += 5000
                 }
             })
         })
@@ -232,7 +240,14 @@ const parseOldTuningList = () => {
 
     const subjects = []
 
-    fs.readdirSync(`src/old-tuning-list`).forEach(messageFile => {
+    const oldTuningListMessageFiles = fs.readdirSync(`src/old-tuning-list`)
+
+    listMessageCounts[list] += oldTuningListMessageFiles.length
+
+    let processedMessageCount = 0
+    let loggedProcessedMessageCount = 0
+
+    oldTuningListMessageFiles.forEach(messageFile => {
         const message = fs.readFileSync(`src/old-tuning-list/${messageFile}`).toString().split('\n')
         const datetime = new Date(message[1].replace('Date: ', ''))
         const subject = message[3].replace('Subject: ', '').replace('Re: ', '')
@@ -259,8 +274,15 @@ const parseOldTuningList = () => {
             nextId: id + 1,
             id,
         })
+
+        processedMessageCount += 1
+        if (processedMessageCount >= loggedProcessedMessageCount) {
+            console.log('on list', list, 'processed', loggedProcessedMessageCount, 'messages of total', listMessageCounts[list])
+            loggedProcessedMessageCount += 5000
+        }
     })
 
+    console.log('we will now write HTML for the old-tuning-list')
     writeListHtml(list)
 }
 
