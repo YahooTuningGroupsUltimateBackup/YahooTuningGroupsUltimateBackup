@@ -64,6 +64,20 @@ const writeListHtml = list => {
         const ids = elements.map(el => el.id).sort()
 
         const topicName = initialElement.email.subject
+        const header = `<!DOCTYPE html>
+            <html>
+            <head>
+            <meta charset="utf-8">
+                <meta name="viewport"
+            content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+                <meta http-equiv="x-ua-compatible" content="ie=edge">
+                <title>Yahoo Tuning Groups Ultimate Backup ${list} ${topicName}</title>
+            </head>
+            <body>
+            </body>
+            </html>
+        `
+        fs.appendFileSync(listTopicPage, header)
         fs.appendFileSync(listTopicPage, `<a href="/${list}">back to list</a>`)
         fs.appendFileSync(listTopicPage, `<h1>${topicName}</h1>`)
 
