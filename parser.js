@@ -1,5 +1,6 @@
 const fs = require('fs')
 const he = require('he')
+const pth = require('path')
 const {simpleParser} = require('mailparser')
 
 process.on('uncaughtException', console.log)
@@ -134,6 +135,28 @@ const writeListHtml = list => {
                 }
 
                 matches = internalLinkRegexp.exec(textAsHtmlWithLinksUpdate)
+            }
+
+            const fileRegexp = /http:\/\/\w*\.?groups\.yahoo\.com\/group\/\w+\/files\/(?<filePath>[^\.]+\.(ASM|BAS|COM|EXE|GIF|HTM|JPG|LIB|MID|PDF|TXT|WAV|XLS|ZIP|aiff|bmp|csd|csv|dbg|djvu|doc|docx|exe|gif|gly|hqx|htm|html|jpeg|jpg|json|lisp|lsp|mid|mov|mp3|mpg|nb|nkp|nwc|ods|ogg|p5m|patch|pdf|plg|png|py|rar|rtf|scl|sco|score|seq|shs|svg|swp|tif|tonescape|tun|tuning|txt|wav|wma|xls|xlsx|zip|))/
+            let fileMatches = fileRegexp.exec(textAsHtmlWithLinksUpdate)
+            while (!!fileMatches) {
+                const filePath = fileMatches.groups['filePath']
+                console.log('looking for filePath', filePath)
+
+                if (fs.existsSync(`src/${list}/files/${filePath}`)) {
+                    console.log('found it!')
+                    const dirname = pth.dirname(filePath)
+                    fs.existsSync(`dist/${list}/files/${dirname}`) || fs.mkdirSync(`dist/${list}/files/${dirname}`, { recursive: true })
+
+                    fs.copyFileSync(`src/${list}/files/${filePath}`, `dist/${list}/files/${filePath}`)
+                }
+
+                textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(
+                  /http:\/\/\w*\.?groups\.yahoo\.com\/group\/\w+\/files\/[^\.]+\.(ASM|BAS|COM|EXE|GIF|HTM|JPG|LIB|MID|PDF|TXT|WAV|XLS|ZIP|aiff|bmp|csd|csv|dbg|djvu|doc|docx|exe|gif|gly|hqx|htm|html|jpeg|jpg|json|lisp|lsp|mid|mov|mp3|mpg|nb|nkp|nwc|ods|ogg|p5m|patch|pdf|plg|png|py|rar|rtf|scl|sco|score|seq|shs|svg|swp|tif|tonescape|tun|tuning|txt|wav|wma|xls|xlsx|zip|)/,
+                  `/${list}/files/${filePath}`,
+                )
+
+                fileMatches = fileRegexp.exec(textAsHtmlWithLinksUpdate)
             }
 
             fs.appendFileSync(listTopicPage, `<div style='${EMAIL_TEXT_STYLE}'>${textAsHtmlWithLinksUpdate}</div>`)
