@@ -119,7 +119,7 @@ const writeListHtml = list => {
                 .replace(/http:\/\/www\.mindspring\.com\/~tmook\/micro\.html/g, 'https://www.mindeartheart.org/micro.html')
                 .replace(/http:\/\/www\.microtonal\.co\.uk/g, 'http://x31eq.com')
 
-            const internalLinkRegexp = /http:\/\/groups\.yahoo\.com\/group\/(?<otherList>\w+)\/message\/(?<otherMsgId>\d+)/
+            const internalLinkRegexp = /http:\/\/\w*\.?groups\.yahoo\.com\/group\/(?<otherList>\w+)\/messages?\/(?<otherMsgId>\d+)/
 
             let matches = internalLinkRegexp.exec(textAsHtmlWithLinksUpdate)
             while (!!matches) {
@@ -129,13 +129,13 @@ const writeListHtml = list => {
 
                 if (otherTopicId) {
                     textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(
-                        /http:\/\/groups\.yahoo\.com\/group\/\w+\/message\/\d+/,
+                        /http:\/\/\w*\.?groups\.yahoo\.com\/group\/\w+\/messages?\/\d+/,
                         `/${otherList}/topicId_${otherTopicId}.html#${otherMsgId}`,
                     )
                 } else {
                     console.log('on list', list, 'topic id', listTopicId, 'doing msg id', id, 'when failed to fix link', matches[0], matches[1], matches[2], 'to its new internal location, perhaps because it had not been parsed yet; other list', otherList, 'other message id', otherMsgId, 'other topic id', otherTopicId)
                     textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(
-                        /http:\/\/groups\.yahoo\.com\/group\/\w+\/message\/\d+/,
+                        /http:\/\/\w*\.?groups\.yahoo\.com\/group\/\w+\/messages?\/\d+/,
                         `/${otherList}/topicId_unknown.html#${otherMsgId}`,
                     )
                 }
@@ -164,6 +164,9 @@ const writeListHtml = list => {
 
                 fileMatches = fileRegexp.exec(textAsHtmlWithLinksUpdate)
             }
+
+            textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(/http:\/\/\w*\.?groups\.yahoo\.com\/group\/(\w+)/g, '/$1')
+            textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(/\/MakeMicroMusic/g, '/makemicromusic')
 
             fs.appendFileSync(listTopicPage, `<div style='${EMAIL_TEXT_STYLE}'>${textAsHtmlWithLinksUpdate}</div>`)
 
