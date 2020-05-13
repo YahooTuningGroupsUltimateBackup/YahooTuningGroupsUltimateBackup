@@ -184,7 +184,7 @@ const writeListHtml = list => {
 }
 
 const writeAllHtml = () => {
-    fs.readdir(`src`, (err, lists) => lists.forEach(writeListHtml))
+    fs.readdir(`src`, (err, lists) => lists.forEach(list => list !== 'mills-tuning-list' && writeListHtml(list)))
 }
 
 const parseList = list => {
