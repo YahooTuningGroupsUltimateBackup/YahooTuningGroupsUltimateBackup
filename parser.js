@@ -170,6 +170,13 @@ const writeListHtml = list => {
 
             fs.appendFileSync(listTopicPage, `<div style='${EMAIL_TEXT_STYLE}'>${textAsHtmlWithLinksUpdate}</div>`)
 
+            const listMessagePage = `dist/${list}/message/${id}.html`
+            const listMessagesPage = `dist/${list}/messages/${id}.html`
+            const redirect = `<meta http-equiv="Refresh" content="0; url='../${listTopicPageFile}#${id}'" />`
+
+            fs.appendFileSync(listMessagePage, redirect)
+            fs.appendFileSync(listMessagesPage, redirect)
+
             element = elements.find(el => el.id === nextId)
 
             if (!element && nextId !== 0) {
@@ -193,6 +200,9 @@ const writeAllHtml = () => {
 const parseList = list => {
     fs.mkdirSync(`dist/${list}`)
     fs.mkdirSync(`dist/${list}/attachments`)
+    fs.mkdirSync(`dist/${list}/files`)
+    fs.mkdirSync(`dist/${list}/message`)
+    fs.mkdirSync(`dist/${list}/messages`)
 
     setupPage(list)
     fs.appendFileSync(ROOT_PAGE, `<h3><a href=${list}>${list}</a></h3>\n`)
