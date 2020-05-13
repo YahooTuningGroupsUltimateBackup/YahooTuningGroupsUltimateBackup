@@ -265,7 +265,7 @@ const parseMillsTuningList = () => {
         const message = fs.readFileSync(`src/mills-tuning-list/${messageFile}`).toString().split('\n')
         const datetime = new Date(message[1].replace('Date: ', ''))
         const subject = message[3].replace('Subject: ', '').replace('Re: ', '')
-        const from = message[5].replace('From: ', '')
+        const from = message[5].replace('From: ', '').replace(/<(\S+)@\S+>/, '<$1@...>')
         const textAsHtml = message.slice(7).join('<br>')
         const topicId = subjects.indexOf(subject) === -1 ? subjects.push(subject) && subjects.length : subjects.indexOf(subject)
 
