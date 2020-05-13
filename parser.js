@@ -112,6 +112,12 @@ const writeListHtml = list => {
 
             let textAsHtmlWithLinksUpdate = (textAsHtml || '')
                 .replace(/http:\/\/users\.bigpond\.net\.au\/d\.keenan/g, 'http://dkeenan.com')
+                .replace(/http:\/\/uq\.net\.au\/~zzdkeena/g, 'http://dkeenan.com')
+                .replace(/http:\/\/www\.ixpres\.com\/interval\/dict\/72edo\.htm/g, 'http://tonalsoft.com/enc/number/72edo.aspx')
+                .replace(/http:\/\/www\.ixpres\.com\/interval\/dict\/qt-staff\.htm/g, 'http://tonalsoft.com/enc/q/qt-staff.aspx')
+                .replace(/http:\/\/members\.tripod\.de\/EkmelischeMusik\//g, 'http://www.ekmelic-music.org/en/em/notation.htm')
+                .replace(/http:\/\/www\.mindspring\.com\/~tmook\/micro\.html/g, 'https://www.mindeartheart.org/micro.html')
+                .replace(/http:\/\/www\.microtonal\.co\.uk/g, 'http://x31eq.com')
 
             const internalLinkRegexp = /http:\/\/groups\.yahoo\.com\/group\/(?<otherList>\w+)\/message\/(?<otherMsgId>\d+)/
 
