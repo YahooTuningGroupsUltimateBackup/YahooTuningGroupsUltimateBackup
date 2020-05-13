@@ -73,6 +73,7 @@ const writeListHtml = list => {
             content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
                 <meta http-equiv="x-ua-compatible" content="ie=edge">
                 <title>Yahoo Tuning Groups Ultimate Backup ${list} ${topicName}</title>
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
             </head>
             <body>
             </body>
@@ -104,6 +105,7 @@ const writeListHtml = list => {
 
             fs.appendFileSync(listTopicPage, `<h3><a id=${id} href="#${id}">🔗</a>${he.encode(from.text)}</h3>`)
             fs.appendFileSync(listTopicPage, `<span>${date} ${time}</span>`)
+            fs.appendFileSync(listTopicPage, `<button style="float: right; margin-right: 20px">toggle monospace</button>`)
 
             if (attachments.length) {
                 fs.appendFileSync(listTopicPage, `<div style='${ATTACHMENT_STYLE}'><b>Attachments</b></div>`)
@@ -190,6 +192,23 @@ const writeListHtml = list => {
 
             writtenMessageCount += 1
         }
+
+        fs.appendFileSync(
+            listTopicPage,
+            `
+                <script>
+                    let monospace = false
+                    $('button').on('click', function () {
+                      if (monospace) {
+                        $('p').css("font-family", "")
+                      } else {
+                        $('p').css("font-family", "monospace")
+                      }
+                      monospace = !monospace
+                    })
+                </script>
+            `
+        )
     })
 }
 
