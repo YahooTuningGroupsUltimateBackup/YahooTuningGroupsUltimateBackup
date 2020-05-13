@@ -153,8 +153,8 @@ const parseList = list => {
 
     listMessageCounts[list] = 0
 
-    if (list === 'old-tuning-list') {
-        parseOldTuningList()
+    if (list === 'mills-tuning-list') {
+        parseMillsTuningList()
         return
     }
 
@@ -235,20 +235,20 @@ const setupPage = (list) => {
     fs.appendFileSync(`dist/${list ? `${list}/` : '/'}index.html`, header)
 }
 
-const parseOldTuningList = () => {
-    const list = 'old-tuning-list'
+const parseMillsTuningList = () => {
+    const list = 'mills-tuning-list'
 
     const subjects = []
 
-    const oldTuningListMessageFiles = fs.readdirSync(`src/old-tuning-list`)
+    const millsTuningListMessageFiles = fs.readdirSync(`src/mills-tuning-list`)
 
-    listMessageCounts[list] += oldTuningListMessageFiles.length
+    listMessageCounts[list] += millsTuningListMessageFiles.length
 
     let processedMessageCount = 0
     let loggedProcessedMessageCount = 0
 
-    oldTuningListMessageFiles.forEach(messageFile => {
-        const message = fs.readFileSync(`src/old-tuning-list/${messageFile}`).toString().split('\n')
+    millsTuningListMessageFiles.forEach(messageFile => {
+        const message = fs.readFileSync(`src/mills-tuning-list/${messageFile}`).toString().split('\n')
         const datetime = new Date(message[1].replace('Date: ', ''))
         const subject = message[3].replace('Subject: ', '').replace('Re: ', '')
         const from = message[5].replace('From: ', '')
@@ -282,7 +282,7 @@ const parseOldTuningList = () => {
         }
     })
 
-    console.log('we will now write HTML for the old-tuning-list')
+    console.log('we will now write HTML for the mills-tuning-list')
     writeListHtml(list)
 }
 
