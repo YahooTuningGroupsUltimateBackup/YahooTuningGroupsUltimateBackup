@@ -310,6 +310,17 @@ const setupPage = (list) => {
     fs.appendFileSync(`dist/${list ? `${list}/` : '/'}index.html`, header)
 }
 
+const createLinksFromOldToMills = () => {
+    fs.mkdirSync('dist/old-tuning-list')
+    Object.entries(parsed['mills-tuning-list']).forEach(([listTopicId]) => {
+        const listTopicPageFile = `topicId_${listTopicId}.html`
+        const listTopicPage = `dist/old-tuning-list/${listTopicPageFile}`
+        const redirect = `<meta http-equiv="Refresh" content="0; url='../mills-tuning-list/${listTopicPageFile}'" />`
+
+        fs.appendFileSync(listTopicPage, redirect)
+    })
+}
+
 const parseMillsTuningList = () => {
     const list = 'mills-tuning-list'
 
@@ -359,6 +370,7 @@ const parseMillsTuningList = () => {
 
     console.log('we will now write HTML for the mills-tuning-list')
     writeListHtml(list)
+    createLinksFromOldToMills()
 }
 
 deleteFolderRecursive('dist')
