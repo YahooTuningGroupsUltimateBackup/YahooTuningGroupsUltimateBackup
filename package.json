@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "node server.js",
-    "parse": "node --max-old-space-size=8192 parser.js"
+    "parse": "node --max-old-space-size=8192 parser.js",
+    "transfer": "cp -r dist/** ../YahooTuningGroupsUltimateBackup.github.io/"
   },
   "devDependencies": {
     "express": "^4.17.1",
