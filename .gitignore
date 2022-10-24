@@ -7,5 +7,4 @@
 bash.exe.stackdump
 /.npmignore
 report*.json
-/.gitattributes
 node_modules
