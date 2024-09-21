@@ -8,7 +8,7 @@
     "transfer": "cp -r dist/** ../YahooTuningGroupsUltimateBackup.github.io/"
   },
   "devDependencies": {
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "he": "^1.2.0",
     "mailparser": "^3.5.0"
   }
