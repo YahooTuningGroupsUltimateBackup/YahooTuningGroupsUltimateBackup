@@ -8,3 +8,4 @@ bash.exe.stackdump
 /.npmignore
 report*.json
 node_modules
+search-index.db*

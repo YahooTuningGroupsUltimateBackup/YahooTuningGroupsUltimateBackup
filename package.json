@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "scripts": {
     "setup": "npm i",
-    "start": "node server.js",
+    "start": "node --disable-warning=ExperimentalWarning server.js",
     "parse": "node --max-old-space-size=8192 parser.js",
-    "transfer": "cp -r dist/** ../YahooTuningGroupsUltimateBackup.github.io/"
+    "transfer": "cp -r dist/** ../YahooTuningGroupsUltimateBackup.github.io/",
+    "test": "node --disable-warning=ExperimentalWarning --test \"test/*.test.js\"",
+    "index": "node --disable-warning=ExperimentalWarning search.js build",
+    "search": "node --disable-warning=ExperimentalWarning search.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
   },
   "devDependencies": {
     "express": "^4.21.1",

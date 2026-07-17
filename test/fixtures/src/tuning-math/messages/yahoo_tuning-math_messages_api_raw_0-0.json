@@ -1,0 +1,14 @@
+[
+    {
+        "authorName": "gene.ward.smith",
+        "from": "gws@example.com",
+        "subject": "quoted printable encoding",
+        "postDate": "1000000000",
+        "msgId": 1,
+        "topicId": 1,
+        "prevInTopic": 0,
+        "nextInTopic": 0,
+        "msgSnippet": "tetra",
+        "rawEmail": "Date: Sun, 09 Sep 2001 01:46:40 -0000\nTo: tuning-math@yahoogroups.com\nSubject: quoted printable encoding\nMIME-Version: 1.0\nContent-Type: text/plain; charset=ISO-8859-1\nContent-Transfer-Encoding: quoted-printable\nFrom: gws@example.com\n\nthe tetra=\nchord divides the fourth =3D perfect."
+    }
+]
