@@ -112,3 +112,15 @@ test('lists returns the distinct indexed list names in alphabetical order', () =
 
     assert.deepEqual(index.lists(), ['metatuning', 'tuning'])
 })
+
+test('topicName returns the subject of the earliest message in a list topic', () => {
+    const index = openIndex(':memory:')
+    index.addDocs([
+        doc({msgId: 9, topicId: 5, subject: 'Re: porcupine pumps'}),
+        doc({msgId: 3, topicId: 5, subject: 'porcupine pumps'}),
+        doc({msgId: 1, topicId: 5, list: 'tuning-math', subject: 'same id, other list'}),
+    ])
+
+    assert.equal(index.topicName('tuning', 5), 'porcupine pumps')
+    assert.equal(index.topicName('tuning', 999), null)
+})

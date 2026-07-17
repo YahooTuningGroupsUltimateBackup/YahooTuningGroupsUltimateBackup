@@ -120,7 +120,14 @@ const openIndex = path => {
     const lists = () =>
         db.prepare('SELECT DISTINCT list FROM messages ORDER BY list').all().map(row => row.list)
 
-    return {addDocs, search, lists, close: () => db.close()}
+    const topicName = (list, topicId) => {
+        const row = db.prepare(
+            'SELECT subject FROM messages WHERE list = ? AND topic_id = ? ORDER BY msg_id LIMIT 1',
+        ).get(list, topicId)
+        return row ? row.subject : null
+    }
+
+    return {addDocs, search, lists, topicName, close: () => db.close()}
 }
 
 module.exports = {openIndex}

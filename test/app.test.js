@@ -53,6 +53,16 @@ test('GET /search renders a form and, given a query, results linking to local an
     assert.match(formOnly.body, /name="q"/)
     assert.match(formOnly.body, /<option value="tuning">/)
 
+    const rows = formOnly.body
+        .match(/<form action="\/search" method="get">[\s\S]*?<\/form>/)[0]
+        .match(/<div>[\s\S]*?<\/div>/g)
+    assert.equal(rows.length, 4)
+    assert.match(rows[0], /name="q"[\s\S]*<button>/)
+    assert.match(rows[1], /name="list"/)
+    assert.match(rows[2], /name="author"/)
+    assert.doesNotMatch(rows[2], /name="(q|list|after|before)"/)
+    assert.match(rows[3], /name="after"[\s\S]*name="before"/)
+
     const results = await get(server, '/search?q=porcupine')
     assert.equal(results.status, 200)
     assert.match(results.body, /porcupine temperament/)
@@ -93,6 +103,10 @@ test('GET /search without a built index explains how to build one', async t => {
     assert.match(body, /node search\.js build/)
 })
 
+const searchBarRows = body => body
+    .match(/<form action="\/search" method="get"[^>]*>[\s\S]*?<\/form>/)[0]
+    .match(/<div>[\s\S]*?<\/div>/g)
+
 test('served archive pages get a search bar scoped to where you are', async t => {
     const server = listen(t, createApp({index: indexWithOneMessage(), distDir: FIXTURE_DIST}))
 
@@ -103,18 +117,29 @@ test('served archive pages get a search bar scoped to where you are', async t =>
     assert.match(root.body, /name="q"/)
     assert.doesNotMatch(root.body, /name="topic"/)
     assert.doesNotMatch(root.body, /selected>tuning/)
+    const rootRows = searchBarRows(root.body)
+    assert.equal(rootRows.length, 1)
+    assert.match(rootRows[0], /name="q"[\s\S]*<button>/)
 
     const listPage = await get(server, '/tuning/')
     assert.equal(listPage.status, 200)
     assert.match(listPage.body, /LIST_PAGE_MARKER/)
     assert.match(listPage.body, /<option value="tuning" selected>/)
     assert.doesNotMatch(listPage.body, /name="topic"/)
+    const listRows = searchBarRows(listPage.body)
+    assert.equal(listRows.length, 2)
+    assert.match(listRows[0], /name="q"[\s\S]*<button>/)
+    assert.match(listRows[1], /name="list"/)
 
     const topicPage = await get(server, '/tuning/topicId_5.html')
     assert.equal(topicPage.status, 200)
     assert.match(topicPage.body, /TOPIC_PAGE_MARKER/)
     assert.match(topicPage.body, /name="topic" value="5" checked/)
     assert.match(topicPage.body, /<option value="tuning" selected>/)
+    const topicRows = searchBarRows(topicPage.body)
+    assert.equal(topicRows.length, 2)
+    assert.match(topicRows[0], /name="q"[\s\S]*<button>/)
+    assert.match(topicRows[1], /name="list"[\s\S]*name="topic"/)
 })
 
 test('mills topic pages offer list scope but no topic checkbox, since the source data has no topic ids', async t => {
@@ -157,6 +182,6 @@ test('GET /search scopes results to a topic when asked and offers a way to clear
     assert.equal(status, 200)
     assert.match(body, /porcupine one/)
     assert.doesNotMatch(body, /porcupine two/)
-    assert.match(body, /searching within one topic/)
+    assert.match(body, /searching within “porcupine one”/)
     assert.match(body, /name="topic" type="hidden" value="5"/)
 })

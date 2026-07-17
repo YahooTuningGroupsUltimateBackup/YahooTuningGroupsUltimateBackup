@@ -42,19 +42,25 @@ const clearTopicUrl = ({q, list, author, after, before}) => {
     return `/search?${params.toString()}`
 }
 
-const topicScopeHtml = inputs => inputs.topic ? `
+const topicScopeHtml = (inputs, topicName) => inputs.topic ? `
         <input name="topic" type="hidden" value="${escape(inputs.topic)}">
-        <span>searching within one topic — <a href="${escape(clearTopicUrl(inputs))}">clear</a></span>
+        <span>searching within ${topicName ? `“${escape(topicName)}”` : 'one topic'} — <a href="${escape(clearTopicUrl(inputs))}">clear</a></span>
 ` : ''
 
-const formHtml = (lists, inputs) => `
+const formHtml = (lists, inputs, topicName) => `
     <form action="/search" method="get">
-        <input type="text" name="q" size="60" value="${escape(inputs.q)}" placeholder="FTS5 query: bare words, &quot;phrases&quot;, OR, NOT, NEAR()">
-        <button>search</button>
-        ${topicScopeHtml(inputs)}
+        <div>
+            <input type="text" name="q" size="60" value="${escape(inputs.q)}" placeholder="FTS5 query: bare words, &quot;phrases&quot;, OR, NOT, NEAR()">
+            <button>search</button>
+        </div>
         <div>
             <label>list ${listSelectHtml(lists, inputs.list)}</label>
+            ${topicScopeHtml(inputs, topicName)}
+        </div>
+        <div>
             <label>author <input type="text" name="author" value="${escape(inputs.author)}"></label>
+        </div>
+        <div>
             <label>after <input type="text" name="after" size="10" value="${escape(inputs.after)}" placeholder="2001-05"></label>
             <label>before <input type="text" name="before" size="10" value="${escape(inputs.before)}" placeholder="2003"></label>
         </div>
@@ -107,14 +113,18 @@ const MISSING_PAGE_HTML = `
 // list (and, on a topic page, the topic) the reader is already looking at.
 const searchBarHtml = ({list, topicId}) => `
     <form action="/search" method="get" style="${SEARCH_BAR_STYLE}">
-        <input type="text" name="q" size="40" placeholder="search the archive">
-        ${topicId ? `<label><input name="topic" value="${topicId}" checked type="checkbox"> this topic only</label>` : ''}
-        ${list ? `<select name="list">
-            <option value="${escape(list)}" selected>${escape(list)}</option>
-            <option value="">all lists</option>
-        </select>` : ''}
-        <button>search</button>
-        <a href="/search">advanced</a>
+        <div>
+            <input type="text" name="q" size="40" placeholder="search the archive">
+            <button>search</button>
+            <a href="/search">advanced</a>
+        </div>
+        ${list ? `<div>
+            <select name="list">
+                <option value="${escape(list)}" selected>${escape(list)}</option>
+                <option value="">all lists</option>
+            </select>
+            ${topicId ? `<label><input name="topic" value="${topicId}" checked type="checkbox"> this topic only</label>` : ''}
+        </div>` : ''}
     </form>
 `
 
@@ -177,7 +187,10 @@ const createApp = ({index, distDir = 'dist'}) => {
             before: String(req.query.before ?? ''),
             topic: String(req.query.topic ?? ''),
         }
-        res.send(page(formHtml(index.lists(), inputs) + resultsHtml(index, inputs)))
+        const topicName = inputs.topic && inputs.list
+            ? index.topicName(inputs.list, Number(inputs.topic))
+            : null
+        res.send(page(formHtml(index.lists(), inputs, topicName) + resultsHtml(index, inputs)))
     })
 
     app.use(archivePages(index, distDir))
