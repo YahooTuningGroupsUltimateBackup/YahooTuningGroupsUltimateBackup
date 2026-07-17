@@ -36,8 +36,10 @@ const openIndex = path => {
     db.exec('PRAGMA synchronous = NORMAL')
     db.exec(SCHEMA)
 
+    // OR IGNORE: the exports re-fetched some messages, so the same list+msgId can
+    // appear in two files; the first copy indexed wins.
     const insertMessage = db.prepare(`
-        INSERT INTO messages (list, msg_id, topic_id, post_date, author, subject, body)
+        INSERT OR IGNORE INTO messages (list, msg_id, topic_id, post_date, author, subject, body)
         VALUES (?, ?, ?, ?, ?, ?, ?)
     `)
     const insertFts = db.prepare(`
@@ -46,17 +48,21 @@ const openIndex = path => {
     `)
 
     const addDocs = docs => {
+        let inserted = 0
         db.exec('BEGIN')
         try {
             docs.forEach(({list, msgId, topicId, postDate, author, subject, body}) => {
-                const {lastInsertRowid} = insertMessage.run(list, msgId, topicId, postDate, author, subject, body)
+                const {changes, lastInsertRowid} = insertMessage.run(list, msgId, topicId, postDate, author, subject, body)
+                if (!changes) return
                 insertFts.run(lastInsertRowid, subject, author, body)
+                inserted += 1
             })
             db.exec('COMMIT')
         } catch (error) {
             db.exec('ROLLBACK')
             throw error
         }
+        return inserted
     }
 
     const search = (query, {lists, author, after, before, limit = 20} = {}) => {

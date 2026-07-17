@@ -75,6 +75,20 @@ test('search accepts FTS5 operator syntax but survives queries that are not vali
     assert.deepEqual(index.search('   '), [])
 })
 
+test('addDocs keeps the first copy of a list+msgId and reports how many docs it actually inserted', () => {
+    const index = openIndex(':memory:')
+
+    const inserted = index.addDocs([
+        doc({msgId: 1, subject: 'first copy'}),
+        doc({msgId: 1, subject: 'second copy'}),
+        doc({msgId: 1, list: 'tuning-math', subject: 'other list copy'}),
+    ])
+
+    assert.equal(inserted, 2)
+    const results = index.search('copy')
+    assert.deepEqual(results.map(r => r.subject).sort(), ['first copy', 'other list copy'])
+})
+
 test('lists returns the distinct indexed list names in alphabetical order', () => {
     const index = openIndex(':memory:')
     index.addDocs([

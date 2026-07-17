@@ -18,8 +18,7 @@ const buildYahooList = async (srcRoot, list, index, onProgress) => {
         for (let start = 0; start < messages.length; start += CHUNK_SIZE) {
             const chunk = messages.slice(start, start + CHUNK_SIZE)
             const docs = await Promise.all(chunk.map(message => yahooMessageToDoc(list, message)))
-            index.addDocs(docs)
-            indexed += docs.length
+            indexed += index.addDocs(docs)
             onProgress(list, indexed)
         }
     }
@@ -36,15 +35,13 @@ const buildMillsList = (srcRoot, list, index, onProgress) => {
         docs.push(millsFileToDoc(filename, fs.readFileSync(path.join(listDir, filename)).toString()))
 
         if (docs.length === CHUNK_SIZE) {
-            index.addDocs(docs)
-            indexed += docs.length
+            indexed += index.addDocs(docs)
             onProgress(list, indexed)
             docs = []
         }
     }
 
-    index.addDocs(docs)
-    indexed += docs.length
+    indexed += index.addDocs(docs)
     onProgress(list, indexed)
 
     return indexed
