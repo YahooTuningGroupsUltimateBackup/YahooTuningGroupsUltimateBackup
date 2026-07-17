@@ -11,16 +11,15 @@ test('buildIndex indexes yahoo lists and mills messages from a src tree', async 
 
     const counts = await buildIndex(FIXTURE_SRC, index)
 
-    assert.deepEqual(counts, {'mills-tuning-list': 1, 'tuning': 2, 'tuning-math': 1})
+    assert.deepEqual(counts, {'mills-tuning-list': 1, 'tuning': 1, 'tuning-math': 1})
 
     const lattice = index.search('lattice')
     assert.equal(lattice.length, 1)
     assert.equal(lattice[0].list, 'tuning')
     assert.equal(lattice[0].author, 'monz')
 
-    const snippetOnly = index.search('schismatic')
-    assert.equal(snippetOnly.length, 1)
-    assert.equal(snippetOnly[0].msgId, 2)
+    const deletedMessageStub = index.search('schismatic')
+    assert.equal(deletedMessageStub.length, 0)
 
     const quotedPrintable = index.search('tetrachord')
     assert.equal(quotedPrintable.length, 1)

@@ -12,14 +12,10 @@
         "rawEmail": "Date: Mon, 21 May 2001 04:54:45 -0000\nTo: tuning@yahoogroups.com\nSubject: lattice diagrams\nContent-Type: text/plain; charset=ISO-8859-1\nFrom: monz@example.com\n\nHere is a lattice diagram of the syntonic comma pump."
     },
     {
-        "authorName": "ghost",
-        "from": "ghost@example.com",
-        "subject": "deleted message about schismatic",
-        "postDate": "990000500",
-        "msgId": 2,
-        "topicId": 2,
-        "prevInTopic": 0,
-        "nextInTopic": 0,
-        "msgSnippet": "this message only survives as a snippet mentioning schismatic temperament"
+        "hostname": "gapi7.grp.bf1.yahoo.com",
+        "httpStatus": 404,
+        "errorMessage": "Resource not found: Requested message not found. It mentions schismatic only to prove stubs are skipped.",
+        "errorCode": 1002,
+        "sid": "SID:YHOO:groups.yahoo.com:0:0"
     }
 ]

@@ -11,7 +11,9 @@ const buildYahooList = async (srcRoot, list, index, onProgress) => {
     let indexed = 0
 
     for (const messagesFilename of fs.readdirSync(messagesDir)) {
+        // Records without a msgId are Yahoo API 404 stubs for deleted messages — nothing to index.
         const messages = JSON.parse(fs.readFileSync(path.join(messagesDir, messagesFilename)))
+            .filter(message => typeof message.msgId === 'number')
 
         for (let start = 0; start < messages.length; start += CHUNK_SIZE) {
             const chunk = messages.slice(start, start + CHUNK_SIZE)

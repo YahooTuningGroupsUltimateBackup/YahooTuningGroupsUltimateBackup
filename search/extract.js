@@ -2,13 +2,8 @@ const he = require('he')
 const {simpleParser} = require('mailparser')
 
 const yahooMessageToDoc = async (list, message) => {
-    let body
-    if (message.rawEmail) {
-        const email = await simpleParser(he.decode(message.rawEmail))
-        body = email.text || ''
-    } else {
-        body = he.decode(message.msgSnippet || '')
-    }
+    const email = await simpleParser(he.decode(message.rawEmail))
+    const body = email.text || ''
 
     return {
         list,

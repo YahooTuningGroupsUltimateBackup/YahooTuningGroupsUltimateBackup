@@ -20,9 +20,9 @@ test('cli builds an index from src and searches it with filters', t => {
     const db = path.join(tmpDir, 'index.db')
 
     const buildOutput = runCli(['build', '--src', FIXTURE_SRC, '--db', db])
-    assert.match(buildOutput, /tuning: 2/)
+    assert.match(buildOutput, /tuning: 1/)
     assert.match(buildOutput, /mills-tuning-list: 1/)
-    assert.match(buildOutput, /indexed 4 messages/)
+    assert.match(buildOutput, /indexed 3 messages/)
 
     const searchOutput = runCli(['lattice', '--db', db])
     assert.match(searchOutput, /tuning #1  monz/)

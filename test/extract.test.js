@@ -32,20 +32,19 @@ test('yahooMessageToDoc maps metadata and extracts entity-decoded plain-text bod
     assert.match(doc.body, /Search for "hypothesis"/)
 })
 
-test('yahooMessageToDoc falls back to msgSnippet and decodes entities when rawEmail is missing', async () => {
+test('yahooMessageToDoc decodes entities in the subject field', async () => {
     const message = {
         authorName: 'x@y.com',
-        subject: 'S &amp; T',
+        subject: 'commas &amp; kleismas',
         postDate: '5',
         msgId: 9,
         topicId: 2,
-        msgSnippet: 'snippet &quot;text&quot;',
+        rawEmail: 'Subject: commas\nFrom: x@y.com\n\nbody',
     }
 
     const doc = await yahooMessageToDoc('tuning', message)
 
-    assert.equal(doc.body, 'snippet "text"')
-    assert.equal(doc.subject, 'S & T')
+    assert.equal(doc.subject, 'commas & kleismas')
     assert.equal(doc.postDate, 5)
 })
 
