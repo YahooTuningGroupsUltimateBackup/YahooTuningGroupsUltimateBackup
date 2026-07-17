@@ -75,6 +75,19 @@ test('search accepts FTS5 operator syntax but survives queries that are not vali
     assert.deepEqual(index.search('   '), [])
 })
 
+test('search can be scoped to a single topic', () => {
+    const index = openIndex(':memory:')
+    index.addDocs([
+        doc({msgId: 1, topicId: 5, list: 'tuning'}),
+        doc({msgId: 2, topicId: 6, list: 'tuning'}),
+        doc({msgId: 3, topicId: 5, list: 'tuning-math'}),
+    ])
+
+    const results = index.search('porcupine', {lists: ['tuning'], topicId: 5})
+
+    assert.deepEqual(results.map(r => r.msgId), [1])
+})
+
 test('addDocs keeps the first copy of a list+msgId and reports how many docs it actually inserted', () => {
     const index = openIndex(':memory:')
 

@@ -18,4 +18,4 @@ node search.js "blackjack NEAR scale" --limit 50
 
 Bare words are ANDed; `"quoted phrases"`, `OR`, `NOT`, and `NEAR(a b, n)` are SQLite FTS5 syntax. Every match prints a snippet plus the message's URL on the online backup.
 
-Or search in the browser: `make start` and open http://localhost:3000/search. Result titles link into your local copy of the parsed site (run `make parse` first to generate it); the "view online" links work regardless.
+Or search in the browser: `make start` and open http://localhost:3000. Every page of the locally served site (run `make parse` once to generate it) carries a search bar scoped to the list — or, on a topic page, the topic — you are looking at, and http://localhost:3000/search is the full search form with all filters. Result titles link into the local site; the "view online" links work regardless.

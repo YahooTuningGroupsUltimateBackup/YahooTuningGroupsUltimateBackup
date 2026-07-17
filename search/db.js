@@ -65,13 +65,17 @@ const openIndex = path => {
         return inserted
     }
 
-    const search = (query, {lists, author, after, before, limit = 20} = {}) => {
+    const search = (query, {lists, author, after, before, limit = 20, topicId} = {}) => {
         const filterConditions = []
         const filterParameters = []
 
         if (lists && lists.length) {
             filterConditions.push(`m.list IN (${lists.map(() => '?').join(', ')})`)
             filterParameters.push(...lists)
+        }
+        if (topicId !== undefined) {
+            filterConditions.push('m.topic_id = ?')
+            filterParameters.push(topicId)
         }
         if (author) {
             filterConditions.push('m.author LIKE ?')

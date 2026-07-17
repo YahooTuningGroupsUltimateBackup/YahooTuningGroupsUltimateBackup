@@ -1,8 +1,11 @@
 const {test} = require('node:test')
 const assert = require('node:assert/strict')
 const http = require('node:http')
+const path = require('node:path')
 const {openIndex} = require('../search/db')
 const {createApp} = require('../search/app')
+
+const FIXTURE_DIST = path.join(__dirname, 'fixtures', 'dist')
 
 const get = (server, pathname) => new Promise((resolve, reject) => {
     const {port} = server.address()
@@ -80,4 +83,62 @@ test('GET /search without a built index explains how to build one', async t => {
     const {status, body} = await get(server, '/search?q=porcupine')
     assert.equal(status, 200)
     assert.match(body, /node search\.js build/)
+})
+
+test('served archive pages get a search bar scoped to where you are', async t => {
+    const server = listen(t, createApp({index: indexWithOneMessage(), distDir: FIXTURE_DIST}))
+
+    const root = await get(server, '/')
+    assert.equal(root.status, 200)
+    assert.match(root.body, /ROOT_PAGE_MARKER/)
+    assert.match(root.body, /<form action="\/search"[^>]*>/)
+    assert.match(root.body, /name="q"/)
+    assert.doesNotMatch(root.body, /name="topic"/)
+    assert.doesNotMatch(root.body, /selected>tuning/)
+
+    const listPage = await get(server, '/tuning/')
+    assert.equal(listPage.status, 200)
+    assert.match(listPage.body, /LIST_PAGE_MARKER/)
+    assert.match(listPage.body, /<option value="tuning" selected>/)
+    assert.doesNotMatch(listPage.body, /name="topic"/)
+
+    const topicPage = await get(server, '/tuning/topicId_5.html')
+    assert.equal(topicPage.status, 200)
+    assert.match(topicPage.body, /TOPIC_PAGE_MARKER/)
+    assert.match(topicPage.body, /name="topic" value="5" checked/)
+    assert.match(topicPage.body, /<option value="tuning" selected>/)
+})
+
+test('message redirect pages are served untouched', async t => {
+    const server = listen(t, createApp({index: indexWithOneMessage(), distDir: FIXTURE_DIST}))
+
+    const redirect = await get(server, '/tuning/message/42.html')
+    assert.equal(redirect.status, 200)
+    assert.match(redirect.body, /http-equiv="Refresh"/)
+    assert.doesNotMatch(redirect.body, /<form/)
+})
+
+test('pages that are not generated yet get a hint to run make parse instead of a bare 404', async t => {
+    const server = listen(t, createApp({index: indexWithOneMessage(), distDir: path.join(FIXTURE_DIST, 'no-such-dist')}))
+
+    const {status, body} = await get(server, '/')
+    assert.equal(status, 404)
+    assert.match(body, /make parse/)
+    assert.match(body, /\/search/)
+})
+
+test('GET /search scopes results to a topic when asked and offers a way to clear it', async t => {
+    const index = openIndex(':memory:')
+    index.addDocs([
+        {list: 'tuning', msgId: 1, topicId: 5, postDate: 990420885, author: 'A', subject: 'porcupine one', body: 'porcupine in topic five'},
+        {list: 'tuning', msgId: 2, topicId: 6, postDate: 990420885, author: 'B', subject: 'porcupine two', body: 'porcupine in topic six'},
+    ])
+    const server = listen(t, createApp({index}))
+
+    const {status, body} = await get(server, '/search?q=porcupine&list=tuning&topic=5')
+    assert.equal(status, 200)
+    assert.match(body, /porcupine one/)
+    assert.doesNotMatch(body, /porcupine two/)
+    assert.match(body, /searching within one topic/)
+    assert.match(body, /name="topic" type="hidden" value="5"/)
 })

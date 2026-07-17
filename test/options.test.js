@@ -9,6 +9,7 @@ test('searchOptions converts raw string inputs into index.search options', () =>
         after: undefined,
         before: undefined,
         limit: undefined,
+        topicId: undefined,
     })
 
     assert.deepEqual(searchOptions({
@@ -17,14 +18,17 @@ test('searchOptions converts raw string inputs into index.search options', () =>
         after: '2001',
         before: '2002-06',
         limit: '5',
+        topicId: '17',
     }), {
         lists: ['tuning-math', 'metatuning', 'tuning'],
         author: 'erlich',
         after: Date.parse('2001') / 1000,
         before: Date.parse('2002-06') / 1000,
         limit: 5,
+        topicId: 17,
     })
 
     assert.throws(() => searchOptions({after: 'not-a-date'}), /invalid date: not-a-date/)
     assert.throws(() => searchOptions({limit: 'zero'}), /invalid limit: zero/)
+    assert.throws(() => searchOptions({topicId: 'x'}), /invalid topic: x/)
 })

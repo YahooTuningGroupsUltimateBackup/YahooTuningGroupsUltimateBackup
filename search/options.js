@@ -4,18 +4,19 @@ const parseDate = value => {
     return ms / 1000
 }
 
-const parseLimit = value => {
-    const limit = Number(value)
-    if (!Number.isInteger(limit) || limit < 1) throw new Error(`invalid limit: ${value}`)
-    return limit
+const parsePositiveInteger = (value, label) => {
+    const parsed = Number(value)
+    if (!Number.isInteger(parsed) || parsed < 1) throw new Error(`invalid ${label}: ${value}`)
+    return parsed
 }
 
-const searchOptions = ({lists, author, after, before, limit}) => ({
+const searchOptions = ({lists, author, after, before, limit, topicId}) => ({
     lists: lists && lists.flatMap(value => value.split(',')).filter(Boolean),
     author: author || undefined,
     after: after ? parseDate(after) : undefined,
     before: before ? parseDate(before) : undefined,
-    limit: limit ? parseLimit(limit) : undefined,
+    limit: limit ? parsePositiveInteger(limit, 'limit') : undefined,
+    topicId: topicId ? parsePositiveInteger(topicId, 'topic') : undefined,
 })
 
 module.exports = {searchOptions}
