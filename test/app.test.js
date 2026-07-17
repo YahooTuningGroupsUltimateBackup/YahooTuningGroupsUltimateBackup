@@ -32,6 +32,14 @@ const indexWithOneMessage = () => {
         author: 'Paul Erlich',
         subject: 'porcupine temperament',
         body: 'The porcupine comma vanishes & disappears.',
+    }, {
+        list: 'mills-tuning-list',
+        msgId: 2000,
+        topicId: null,
+        postDate: 811269927,
+        author: 'Gary Morrison',
+        subject: 'Note Doubling',
+        body: 'doubling notes in octaves',
     }])
     return index
 }
@@ -107,6 +115,16 @@ test('served archive pages get a search bar scoped to where you are', async t =>
     assert.match(topicPage.body, /TOPIC_PAGE_MARKER/)
     assert.match(topicPage.body, /name="topic" value="5" checked/)
     assert.match(topicPage.body, /<option value="tuning" selected>/)
+})
+
+test('mills topic pages offer list scope but no topic checkbox, since the source data has no topic ids', async t => {
+    const server = listen(t, createApp({index: indexWithOneMessage(), distDir: FIXTURE_DIST}))
+
+    const topicPage = await get(server, '/mills-tuning-list/topicId_3.html')
+    assert.equal(topicPage.status, 200)
+    assert.match(topicPage.body, /MILLS_TOPIC_PAGE_MARKER/)
+    assert.match(topicPage.body, /<option value="mills-tuning-list" selected>/)
+    assert.doesNotMatch(topicPage.body, /name="topic"/)
 })
 
 test('message redirect pages are served untouched', async t => {

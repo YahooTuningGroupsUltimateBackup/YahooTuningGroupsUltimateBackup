@@ -128,8 +128,11 @@ const injectSearchBar = (html, bar) => {
 const pageScope = (relativePath, lists) => {
     const segments = relativePath.split('/').filter(Boolean)
     const list = lists.includes(segments[0]) ? segments[0] : undefined
+    // mills messages carry no topic ids in the source data (millsFileToDoc indexes
+    // them with a null topicId), so topic scoping is only offered on yahoo lists.
+    const scopableList = list && list !== 'mills-tuning-list'
     const topicMatch = (segments[segments.length - 1] || '').match(/^topicId_(\d+)\.html$/)
-    return {list, topicId: list && topicMatch ? Number(topicMatch[1]) : undefined}
+    return {list, topicId: scopableList && topicMatch ? Number(topicMatch[1]) : undefined}
 }
 
 const archivePages = (index, distDir) => (req, res, next) => {
