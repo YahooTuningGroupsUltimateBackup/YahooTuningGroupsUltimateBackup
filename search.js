@@ -1,7 +1,6 @@
 const fs = require('node:fs')
 const {parseArgs} = require('node:util')
 const {openIndex} = require('./search/db')
-const {buildIndex} = require('./search/build')
 const {formatResult} = require('./search/format')
 const {searchOptions} = require('./search/options')
 
@@ -26,6 +25,9 @@ const die = message => {
 }
 
 const build = async ({src, db}) => {
+    // Required lazily: building needs the npm deps (mailparser, he), querying does not.
+    const {buildIndex} = require('./search/build')
+
     fs.rmSync(db, {force: true})
     const index = openIndex(db)
     const startedAt = Date.now()
