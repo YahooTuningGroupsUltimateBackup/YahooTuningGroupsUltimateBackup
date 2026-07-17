@@ -2,7 +2,7 @@ The web version at https://yahootuninggroupsultimatebackup.github.io/ is not eas
 
 # searching
 
-Requires Node.js 22.5+ (the index uses Node's built-in SQLite with full-text search). First build the index (one-time, a few minutes; the `search-index.db` file it creates is gitignored):
+Requires Node.js 22.5+ (the index uses Node's built-in SQLite with full-text search). On a fresh clone run `make setup` first, then build the index (one-time, under a minute; the ~500MB `search-index.db` file it creates is gitignored):
 
 ```
 npm run index
