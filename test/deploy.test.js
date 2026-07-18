@@ -28,7 +28,7 @@ test('buildDeployDb rewrites the index at 1KB pages into chunk files that reasse
     const chunkBytes = 8192
     const {databaseLengthBytes, chunkCount} = buildDeployDb(indexPath, outDir, {chunkBytes})
 
-    const config = JSON.parse(fs.readFileSync(path.join(outDir, 'config.json')))
+    const {cacheBust, ...config} = JSON.parse(fs.readFileSync(path.join(outDir, 'config.json')))
     assert.deepEqual(config, {
         serverMode: 'chunked',
         requestChunkSize: 1024,
@@ -37,6 +37,8 @@ test('buildDeployDb rewrites the index at 1KB pages into chunk files that reasse
         urlPrefix: 'db.sqlite3.',
         suffixLength: 3,
     })
+    // Content-derived so every redeploy busts browser caches of the previous db's chunks.
+    assert.match(cacheBust, /^[0-9a-f]{16}$/)
 
     const chunkNames = fs.readdirSync(outDir).filter(name => name.startsWith('db.sqlite3.')).sort()
     assert.equal(chunkNames.length, chunkCount)

@@ -1,3 +1,4 @@
+const crypto = require('node:crypto')
 const fs = require('node:fs')
 const path = require('node:path')
 const {DatabaseSync} = require('node:sqlite')
@@ -30,6 +31,9 @@ const buildDeployDb = (indexDbPath, outDir, {chunkBytes = DEFAULT_CHUNK_BYTES} =
     db.close()
 
     const databaseLengthBytes = fs.statSync(deployDbPath).size
+    // Content-derived cache buster: the engine appends it to chunk URLs, so a
+    // redeployed database never mixes with a browser's cache of the old one.
+    const cacheBust = crypto.createHash('sha256').update(fs.readFileSync(deployDbPath)).digest('hex').slice(0, 16)
     const chunkCount = writeChunks(deployDbPath, outDir, chunkBytes)
     fs.rmSync(deployDbPath)
 
@@ -40,6 +44,7 @@ const buildDeployDb = (indexDbPath, outDir, {chunkBytes = DEFAULT_CHUNK_BYTES} =
         serverChunkSize: chunkBytes,
         urlPrefix: CHUNK_PREFIX,
         suffixLength: SUFFIX_LENGTH,
+        cacheBust,
     }, null, 2))
 
     return {databaseLengthBytes, chunkCount}
