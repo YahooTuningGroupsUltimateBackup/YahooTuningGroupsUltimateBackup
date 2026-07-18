@@ -93,4 +93,11 @@ test('deploySite assembles the static search page, vendored engine, db chunks, a
     expectFile('search/db/db.sqlite3.000')
     assert.ok(chunkCount >= 1)
     assert.deepEqual(JSON.parse(fs.readFileSync(path.join(distDir, 'search', 'lists.json'))), ['tuning'])
+
+    // The vendored engine must carry both CDN-serving patches: cold Range
+    // requests answered with 200 + the whole file (GitHub Pages does this),
+    // and readaheads that would run past a chunk file's end.
+    const worker = fs.readFileSync(path.join(distDir, 'search', 'lib', 'sqlite.worker.js'), 'utf8')
+    assert.match(worker, /PATCH\(ytgub\): cold Range/)
+    assert.match(worker, /PATCH\(ytgub\): range clamp/)
 })

@@ -16,7 +16,6 @@
   "devDependencies": {
     "express": "^4.21.1",
     "he": "^1.2.0",
-    "mailparser": "^3.5.0",
-    "sql.js-httpvfs": "^0.8.12"
+    "mailparser": "^3.5.0"
   }
 }

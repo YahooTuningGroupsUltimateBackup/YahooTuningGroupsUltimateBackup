@@ -128,6 +128,11 @@
         try {
             rows = await worker.db.query(sql, [inputs.q, ...parameters, LIMIT])
         } catch (error) {
+            // Only a query-syntax problem is retried with each term quoted; any
+            // other failure must surface rather than re-run on a connection whose
+            // first statement died midway (that reports "malformed" and hides the
+            // real error).
+            if (!/fts5: syntax error/.test(String(error))) throw error
             const sanitized = quoteEachTerm(inputs.q)
             if (!sanitized) {
                 setStatus('')

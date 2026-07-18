@@ -5,8 +5,6 @@ const {DatabaseSync} = require('node:sqlite')
 const {openIndex} = require('./db')
 
 const STATIC_SEARCH_DIR = path.join(__dirname, '..', 'static', 'search')
-const HTTPVFS_DIST_DIR = path.join(__dirname, '..', 'node_modules', 'sql.js-httpvfs', 'dist')
-const HTTPVFS_LIB_FILES = ['index.js', 'sqlite.worker.js', 'sql-wasm.wasm']
 const SHARED_QUERY_SQL = path.join(__dirname, 'querySql.js')
 
 const DEPLOY_PAGE_SIZE = 1024
@@ -75,13 +73,12 @@ const writeChunks = (filePath, outDir, chunkBytes) => {
 // and a .nojekyll marker so GitHub Pages publishes the files verbatim.
 const deploySite = (indexDbPath, distDir) => {
     const searchDir = path.join(distDir, 'search')
-    const libDir = path.join(searchDir, 'lib')
-    fs.mkdirSync(libDir, {recursive: true})
+    fs.mkdirSync(searchDir, {recursive: true})
 
+    // static/search includes lib/: the vendored sql.js-httpvfs 0.8.12 dist plus
+    // the PATCH(ytgub) fix for CDNs that answer a cold Range request with 200.
     fs.cpSync(STATIC_SEARCH_DIR, searchDir, {recursive: true})
     fs.copyFileSync(SHARED_QUERY_SQL, path.join(searchDir, 'querySql.js'))
-    HTTPVFS_LIB_FILES.forEach(name =>
-        fs.copyFileSync(path.join(HTTPVFS_DIST_DIR, name), path.join(libDir, name)))
 
     const index = openIndex(indexDbPath)
     fs.writeFileSync(path.join(searchDir, 'lists.json'), JSON.stringify(index.lists()))
