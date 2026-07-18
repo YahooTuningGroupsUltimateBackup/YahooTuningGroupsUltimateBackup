@@ -109,7 +109,7 @@
         const worker = await getWorker()
 
         if (inputs.topic && inputs.list) {
-            const named = await worker.db.query(TOPIC_NAME_SQL, inputs.list, Number(inputs.topic))
+            const named = await worker.db.query(TOPIC_NAME_SQL, [inputs.list, Number(inputs.topic)])
             showTopicScope(named.length ? named[0].subject : null)
         } else if (inputs.topic) {
             showTopicScope(null)
@@ -126,14 +126,14 @@
         setStatus('searching…')
         let rows
         try {
-            rows = await worker.db.query(sql, inputs.q, ...parameters, LIMIT)
+            rows = await worker.db.query(sql, [inputs.q, ...parameters, LIMIT])
         } catch (error) {
             const sanitized = quoteEachTerm(inputs.q)
             if (!sanitized) {
                 setStatus('')
                 return
             }
-            rows = await worker.db.query(sql, sanitized, ...parameters, LIMIT)
+            rows = await worker.db.query(sql, [sanitized, ...parameters, LIMIT])
         }
 
         if (!rows.length) {
