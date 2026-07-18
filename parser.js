@@ -2,6 +2,7 @@ const fs = require('fs')
 const he = require('he')
 const pth = require('path')
 const {simpleParser} = require('mailparser')
+const {searchBarHtml} = require('./search/searchBar')
 
 process.on('uncaughtException', console.log)
 
@@ -80,6 +81,9 @@ const writeListHtml = list => {
             </html>
         `
         fs.appendFileSync(listTopicPage, header)
+        // mills topic ids are invented here at parse time and don't exist in the search
+        // index, so mills pages get a list-scoped bar without the topic checkbox
+        fs.appendFileSync(listTopicPage, searchBarHtml({list, topicId: list === 'mills-tuning-list' ? undefined : listTopicId}))
         fs.appendFileSync(listTopicPage, `<a href="/${list}">back to list</a>`)
         fs.appendFileSync(listTopicPage, `<h1>${topicName}</h1>`)
 
@@ -307,7 +311,9 @@ const setupPage = (list) => {
         </body>
         </html>
     `
-    fs.appendFileSync(`dist/${list ? `${list}/` : '/'}index.html`, header)
+    const pagePath = `dist/${list ? `${list}/` : '/'}index.html`
+    fs.appendFileSync(pagePath, header)
+    fs.appendFileSync(pagePath, searchBarHtml({list}))
 }
 
 const createLinksFromOldToMills = () => {

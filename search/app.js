@@ -1,12 +1,9 @@
-const fs = require('node:fs')
-const path = require('node:path')
 const express = require('express')
 const he = require('he')
 const {messageUrl, isoDate} = require('./format')
 const {searchOptions} = require('./options')
 
 const RESULT_STYLE = 'margin: 20px; padding: 10px 20px; background-color: #eee'
-const SEARCH_BAR_STYLE = 'margin: 10px 20px; padding: 10px 20px; background-color: #ddd'
 
 const escape = value => he.encode(String(value ?? ''))
 
@@ -109,67 +106,6 @@ const MISSING_PAGE_HTML = `
     <p>(slow; needs ~8GB of memory). Full-text search works without it: <a href="/search">/search</a>.</p>
 `
 
-// The search bar injected into every generated archive page, pre-scoped to the
-// list (and, on a topic page, the topic) the reader is already looking at.
-const searchBarHtml = ({list, topicId}) => `
-    <form action="/search" method="get" style="${SEARCH_BAR_STYLE}">
-        <div>
-            <input type="text" name="q" size="40" placeholder="search the archive">
-            <button>search</button>
-            <a href="/search">advanced</a>
-        </div>
-        ${list ? `<div>
-            <select name="list">
-                <option value="${escape(list)}" selected>${escape(list)}</option>
-                <option value="">all lists</option>
-            </select>
-            ${topicId ? `<label><input name="topic" value="${topicId}" checked type="checkbox"> this topic only</label>` : ''}
-        </div>` : ''}
-    </form>
-`
-
-const injectSearchBar = (html, bar) => {
-    const bodyTag = '<body>'
-    const at = html.indexOf(bodyTag)
-    if (at === -1) return null
-    return html.slice(0, at + bodyTag.length) + bar + html.slice(at + bodyTag.length)
-}
-
-const pageScope = (relativePath, lists) => {
-    const segments = relativePath.split('/').filter(Boolean)
-    const list = lists.includes(segments[0]) ? segments[0] : undefined
-    // mills messages carry no topic ids in the source data (millsFileToDoc indexes
-    // them with a null topicId), so topic scoping is only offered on yahoo lists.
-    const scopableList = list && list !== 'mills-tuning-list'
-    const topicMatch = (segments[segments.length - 1] || '').match(/^topicId_(\d+)\.html$/)
-    return {list, topicId: scopableList && topicMatch ? Number(topicMatch[1]) : undefined}
-}
-
-const archivePages = (index, distDir) => (req, res, next) => {
-    if (req.method !== 'GET') return next()
-
-    let requestPath
-    try {
-        requestPath = decodeURIComponent(req.path)
-    } catch (error) {
-        return next()
-    }
-    const relativePath = requestPath.endsWith('/') ? `${requestPath}index.html` : requestPath
-    if (!relativePath.endsWith('.html')) return next()
-
-    const base = path.resolve(distDir)
-    const filePath = path.resolve(base, `.${relativePath}`)
-    if (!filePath.startsWith(base + path.sep)) return next()
-
-    fs.readFile(filePath, 'utf8', (error, html) => {
-        if (error) return next()
-
-        const scope = pageScope(relativePath, index ? index.lists() : [])
-        const injected = injectSearchBar(html, searchBarHtml(scope))
-        res.type('html').send(injected === null ? html : injected)
-    })
-}
-
 const createApp = ({index, distDir = 'dist'}) => {
     const app = express()
 
@@ -193,7 +129,6 @@ const createApp = ({index, distDir = 'dist'}) => {
         res.send(page(formHtml(index.lists(), inputs, topicName) + resultsHtml(index, inputs)))
     })
 
-    app.use(archivePages(index, distDir))
     app.use(express.static(distDir))
     app.use((req, res) => res.status(404).send(page(MISSING_PAGE_HTML)))
 

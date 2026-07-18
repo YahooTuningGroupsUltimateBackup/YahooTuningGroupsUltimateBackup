@@ -1,4 +1,5 @@
 const {DatabaseSync} = require('node:sqlite')
+const {buildSearchSql, quoteEachTerm, TOPIC_NAME_SQL} = require('./querySql')
 
 const SCHEMA = `
     CREATE TABLE IF NOT EXISTS messages (
@@ -18,17 +19,6 @@ const SCHEMA = `
         tokenize='porter unicode61'
     );
 `
-
-const SUBJECT_WEIGHT = 4.0
-const AUTHOR_WEIGHT = 2.0
-const BODY_WEIGHT = 1.0
-
-const quoteEachTerm = query => query
-    .split(/\s+/)
-    .map(term => term.replace(/"/g, ''))
-    .filter(Boolean)
-    .map(term => `"${term}"`)
-    .join(' ')
 
 const openIndex = path => {
     const db = new DatabaseSync(path)
@@ -66,47 +56,9 @@ const openIndex = path => {
     }
 
     const search = (query, {lists, author, after, before, limit = 20, topicId} = {}) => {
-        const filterConditions = []
-        const filterParameters = []
-
-        if (lists && lists.length) {
-            filterConditions.push(`m.list IN (${lists.map(() => '?').join(', ')})`)
-            filterParameters.push(...lists)
-        }
-        if (topicId !== undefined) {
-            filterConditions.push('m.topic_id = ?')
-            filterParameters.push(topicId)
-        }
-        if (author) {
-            filterConditions.push('m.author LIKE ?')
-            filterParameters.push(`%${author}%`)
-        }
-        if (after !== undefined) {
-            filterConditions.push('m.post_date >= ?')
-            filterParameters.push(after)
-        }
-        if (before !== undefined) {
-            filterConditions.push('m.post_date < ?')
-            filterParameters.push(before)
-        }
-
-        const statement = db.prepare(`
-            SELECT
-                m.list AS list,
-                m.msg_id AS msgId,
-                m.topic_id AS topicId,
-                m.post_date AS postDate,
-                m.author AS author,
-                m.subject AS subject,
-                snippet(messages_fts, 2, '[', ']', ' … ', 12) AS snippet,
-                bm25(messages_fts, ${SUBJECT_WEIGHT}, ${AUTHOR_WEIGHT}, ${BODY_WEIGHT}) AS rank
-            FROM messages_fts
-            JOIN messages m ON m.id = messages_fts.rowid
-            WHERE ${['messages_fts MATCH ?', ...filterConditions].join(' AND ')}
-            ORDER BY rank
-            LIMIT ?
-        `)
-        const attempt = matchExpression => statement.all(matchExpression, ...filterParameters, limit)
+        const {sql, parameters} = buildSearchSql({lists, topicId, author, after, before})
+        const statement = db.prepare(sql)
+        const attempt = matchExpression => statement.all(matchExpression, ...parameters, limit)
 
         try {
             return attempt(query)
@@ -121,9 +73,7 @@ const openIndex = path => {
         db.prepare('SELECT DISTINCT list FROM messages ORDER BY list').all().map(row => row.list)
 
     const topicName = (list, topicId) => {
-        const row = db.prepare(
-            'SELECT subject FROM messages WHERE list = ? AND topic_id = ? ORDER BY msg_id LIMIT 1',
-        ).get(list, topicId)
+        const row = db.prepare(TOPIC_NAME_SQL).get(list, topicId)
         return row ? row.subject : null
     }
 

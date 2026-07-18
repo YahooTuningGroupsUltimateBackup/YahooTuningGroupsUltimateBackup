@@ -8,6 +8,7 @@ const DEFAULT_DB = 'search-index.db'
 
 const USAGE = `usage:
   node search.js build [--src <dir>] [--db <file>]
+  node search.js deploy-site [--db <file>] [--dist <dir>]
   node search.js <query> [--list <name>[,<name>...]] [--author <text>]
                  [--after <date>] [--before <date>] [--limit <n>] [--db <file>]
 
@@ -47,6 +48,15 @@ const build = async ({src, db}) => {
     console.log(`indexed ${total} messages into ${db} in ${seconds}s`)
 }
 
+const deploySiteCommand = ({db, dist}) => {
+    if (!fs.existsSync(db)) die(`no search index at ${db} — build it first with: node search.js build`)
+    if (!fs.existsSync(dist)) die(`no ${dist}/ directory — generate the site first with: make parse`)
+
+    const {deploySite} = require('./search/deploy')
+    const {databaseLengthBytes, chunkCount} = deploySite(db, dist)
+    console.log(`assembled ${dist}/search: ${chunkCount} db chunks, ${Math.round(databaseLengthBytes / 1024 / 1024)}MB total`)
+}
+
 const search = (query, {db, list, author, after, before, limit}) => {
     if (!fs.existsSync(db)) die(`no search index at ${db} — build it first with: node search.js build`)
 
@@ -73,6 +83,7 @@ const main = async () => {
             options: {
                 db: {type: 'string', default: DEFAULT_DB},
                 src: {type: 'string', default: 'src'},
+                dist: {type: 'string', default: 'dist'},
                 list: {type: 'string', multiple: true},
                 author: {type: 'string'},
                 after: {type: 'string'},
@@ -88,6 +99,8 @@ const main = async () => {
 
     if (positionals[0] === 'build') {
         await build(values)
+    } else if (positionals[0] === 'deploy-site') {
+        deploySiteCommand(values)
     } else if (positionals.length) {
         search(positionals.join(' '), values)
     } else {

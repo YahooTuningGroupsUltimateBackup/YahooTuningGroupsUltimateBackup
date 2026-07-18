@@ -103,53 +103,13 @@ test('GET /search without a built index explains how to build one', async t => {
     assert.match(body, /node search\.js build/)
 })
 
-const searchBarRows = body => body
-    .match(/<form action="\/search" method="get"[^>]*>[\s\S]*?<\/form>/)[0]
-    .match(/<div>[\s\S]*?<\/div>/g)
-
-test('served archive pages get a search bar scoped to where you are', async t => {
+test('archive pages are served verbatim — search bars are baked in at parse time, not injected', async t => {
     const server = listen(t, createApp({index: indexWithOneMessage(), distDir: FIXTURE_DIST}))
-
-    const root = await get(server, '/')
-    assert.equal(root.status, 200)
-    assert.match(root.body, /ROOT_PAGE_MARKER/)
-    assert.match(root.body, /<form action="\/search"[^>]*>/)
-    assert.match(root.body, /name="q"/)
-    assert.doesNotMatch(root.body, /name="topic"/)
-    assert.doesNotMatch(root.body, /selected>tuning/)
-    const rootRows = searchBarRows(root.body)
-    assert.equal(rootRows.length, 1)
-    assert.match(rootRows[0], /name="q"[\s\S]*<button>/)
-
-    const listPage = await get(server, '/tuning/')
-    assert.equal(listPage.status, 200)
-    assert.match(listPage.body, /LIST_PAGE_MARKER/)
-    assert.match(listPage.body, /<option value="tuning" selected>/)
-    assert.doesNotMatch(listPage.body, /name="topic"/)
-    const listRows = searchBarRows(listPage.body)
-    assert.equal(listRows.length, 2)
-    assert.match(listRows[0], /name="q"[\s\S]*<button>/)
-    assert.match(listRows[1], /name="list"/)
 
     const topicPage = await get(server, '/tuning/topicId_5.html')
     assert.equal(topicPage.status, 200)
     assert.match(topicPage.body, /TOPIC_PAGE_MARKER/)
-    assert.match(topicPage.body, /name="topic" value="5" checked/)
-    assert.match(topicPage.body, /<option value="tuning" selected>/)
-    const topicRows = searchBarRows(topicPage.body)
-    assert.equal(topicRows.length, 2)
-    assert.match(topicRows[0], /name="q"[\s\S]*<button>/)
-    assert.match(topicRows[1], /name="list"[\s\S]*name="topic"/)
-})
-
-test('mills topic pages offer list scope but no topic checkbox, since the source data has no topic ids', async t => {
-    const server = listen(t, createApp({index: indexWithOneMessage(), distDir: FIXTURE_DIST}))
-
-    const topicPage = await get(server, '/mills-tuning-list/topicId_3.html')
-    assert.equal(topicPage.status, 200)
-    assert.match(topicPage.body, /MILLS_TOPIC_PAGE_MARKER/)
-    assert.match(topicPage.body, /<option value="mills-tuning-list" selected>/)
-    assert.doesNotMatch(topicPage.body, /name="topic"/)
+    assert.doesNotMatch(topicPage.body, /<form/)
 })
 
 test('message redirect pages are served untouched', async t => {
