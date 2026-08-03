@@ -3,6 +3,7 @@ const he = require('he')
 const pth = require('path')
 const {simpleParser} = require('mailparser')
 const {searchBarHtml} = require('./search/searchBar')
+const {MESSAGE_TEXT_CLASS, monospaceControlHtml, monospaceScriptHtml} = require('./monospace')
 
 process.on('uncaughtException', console.log)
 
@@ -109,7 +110,7 @@ const writeListHtml = list => {
 
             fs.appendFileSync(listTopicPage, `<h3><a id=${id} href="#${id}">🔗</a>${he.encode(from.text)}</h3>`)
             fs.appendFileSync(listTopicPage, `<span>${date} ${time}</span>`)
-            fs.appendFileSync(listTopicPage, `<button style="float: right; margin-right: 20px">toggle monospace</button>`)
+            fs.appendFileSync(listTopicPage, monospaceControlHtml())
 
             if (attachments.length) {
                 fs.appendFileSync(listTopicPage, `<div style='${ATTACHMENT_STYLE}'><b>Attachments</b></div>`)
@@ -174,7 +175,7 @@ const writeListHtml = list => {
             textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(/http:\/\/\w*\.?groups\.yahoo\.com\/group\/(\w+)/g, '/$1')
             textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(/\/MakeMicroMusic/g, '/makemicromusic')
 
-            fs.appendFileSync(listTopicPage, `<div style='${EMAIL_TEXT_STYLE}'>${textAsHtmlWithLinksUpdate}</div>`)
+            fs.appendFileSync(listTopicPage, `<div class='${MESSAGE_TEXT_CLASS}' style='${EMAIL_TEXT_STYLE}'>${textAsHtmlWithLinksUpdate}</div>`)
 
             const listMessagePage = `dist/${list}/message/${id}.html`
             const listMessagesPage = `dist/${list}/messages/${id}.html`
@@ -197,22 +198,7 @@ const writeListHtml = list => {
             writtenMessageCount += 1
         }
 
-        fs.appendFileSync(
-            listTopicPage,
-            `
-                <script>
-                    let monospace = false
-                    $('button').on('click', function () {
-                      if (monospace) {
-                        $('p').css("font-family", "")
-                      } else {
-                        $('p').css("font-family", "monospace")
-                      }
-                      monospace = !monospace
-                    })
-                </script>
-            `
-        )
+        fs.appendFileSync(listTopicPage, monospaceScriptHtml())
     })
 }
 
