@@ -14,6 +14,31 @@
     background-color: #ddd;
 }
 
+/* One row per topic on a list's index page. */
+.topic {
+    border-bottom: 1px solid lightgrey;
+}
+
+.topic > div {
+    display: inline-block;
+}
+
+.topic-date {
+    width: 80px;
+}
+
+.topic-name {
+    width: 640px;
+}
+
+.topic-messages {
+    width: 120px;
+}
+
+.topic-authors {
+    width: 400px;
+}
+
 .monospace-control {
     float: right;
     margin-right: 20px;

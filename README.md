@@ -32,3 +32,11 @@ npm run transfer            # copy dist/ into ../YahooTuningGroupsUltimateBackup
 ```
 
 then commit and push the github.io repo. The database is split into 10MB chunks to stay under GitHub's per-file limit.
+
+Changing how the archive *looks or behaves* needs none of that. Every generated page carries only class names and links `/archive.css` and `/archive.js`, so editing `static/archive.css` (or `static/archive.js`) and copying it over is the whole deploy:
+
+```
+cp static/archive.css static/archive.js ../YahooTuningGroupsUltimateBackup.github.io/
+```
+
+Reparsing is only for changes to the pages themselves — their structure, their text, or the archive's contents. Keep it that way: styling belongs in `static/archive.css`, and a test fails the build if a `style` attribute reappears in the generated markup.

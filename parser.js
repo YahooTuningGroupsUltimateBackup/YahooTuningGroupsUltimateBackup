@@ -95,11 +95,11 @@ const writeListHtml = list => {
         fs.appendFileSync(listTopicPage, `<h1>${topicName}</h1>`)
 
         fs.appendFileSync(listPage, `
-            <div style="border-bottom: 1px solid lightgrey;">
-                <div style="width: 80px; display: inline-block;">${initialElement.date}</div>
-                <div style="width: 640px; display: inline-block;"><a href=${listTopicPageFile}>${topicName}</a></div>
-                <div style="width: 120px; display: inline-block;">${elements.length} Message${elements.length > 1 ? 's' : ''}</div>
-                <div style="width: 400px; display: inline-block;">${he.encode([...new Set(elements.map(el => el.email.from.text))].join(', '))}</div>
+            <div class="topic">
+                <div class="topic-date">${initialElement.date}</div>
+                <div class="topic-name"><a href=${listTopicPageFile}>${topicName}</a></div>
+                <div class="topic-messages">${elements.length} Message${elements.length > 1 ? 's' : ''}</div>
+                <div class="topic-authors">${he.encode([...new Set(elements.map(el => el.email.from.text))].join(', '))}</div>
             </div>
         `)
 

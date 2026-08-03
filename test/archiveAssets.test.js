@@ -36,6 +36,17 @@ test('the stylesheet holds the presentation, so pages need no inline styles', ()
     assert.match(css, /\.monospace-control\s*\{[^}]*float: right/)
     assert.match(css, /\.search-bar\s*\{/)
     assert.match(css, /\.attachment\s*\{/)
+    assert.match(css, /\.topic\s*\{/)
+    assert.match(css, /\.topic-(date|name|messages|authors)\s*\{/)
+})
+
+test('the generated pages carry no inline styling of their own', () => {
+    // The gate on the whole arrangement: one style attribute anywhere in the
+    // parser is one thing a redeploy of the stylesheet cannot change.
+    const parser = fs.readFileSync(path.join(__dirname, '..', 'parser.js'), 'utf8')
+    const searchBar = fs.readFileSync(path.join(__dirname, '..', 'search', 'searchBar.js'), 'utf8')
+    assert.doesNotMatch(parser, /style=/)
+    assert.doesNotMatch(searchBar, /style=/)
 })
 
 test('a message starts monospaced with no script having run', () => {
