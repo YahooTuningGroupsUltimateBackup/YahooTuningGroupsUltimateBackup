@@ -9,7 +9,13 @@ const MESSAGE_TEXT_CLASS = 'message-text'
 // either font: left to the browser, a generic monospace family comes out a few
 // pixels smaller than the default font, and line-height: normal is derived from
 // whichever font is in play. With both fixed, only the line count moves the box.
-const MESSAGE_TEXT_STYLE = 'margin: 0px 20px 20px; padding: 20px; background-color: #eee; font-size: 16px; line-height: 1.5'
+// The leading is kept tight because 16px monospace advances 9.6px per character,
+// so 1.2 puts a character cell at about 2:1 — the proportion the ASCII lattice
+// diagrams all over these lists were drawn at. Anything looser stretches them.
+// pre-wrap because HTML otherwise collapses the runs of spaces that hold an
+// ASCII lattice together. Nothing here writes newlines into the markup, so line
+// breaks keep coming from the <br> tags rather than doubling up.
+const MESSAGE_TEXT_STYLE = 'margin: 0px 20px 20px; padding: 20px; background-color: #eee; font-size: 16px; line-height: 1.2; white-space: pre-wrap'
 
 const messageTextHtml = text => `<div class='${MESSAGE_TEXT_CLASS}' style='${MESSAGE_TEXT_STYLE}'>${text}</div>`
 

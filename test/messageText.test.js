@@ -36,7 +36,17 @@ test('the message box pins its own font metrics, so swapping fonts cannot resize
     // else, and a line-height of normal is derived from the font in play.
     const html = messageTextHtml('a message')
     assert.match(html, /font-size: 16px/)
-    assert.match(html, /line-height: 1\.5/)
+    // 16px monospace advances 9.6px per character, so this leading keeps a
+    // character cell at the roughly 2:1 the ASCII lattice diagrams were drawn
+    // for. Looser leading stretches them and steepens every diagonal.
+    assert.match(html, /line-height: 1\.2/)
+})
+
+test('the message box keeps the spacing the author typed', () => {
+    // Runs of spaces are what hold an ASCII lattice together, and HTML collapses
+    // them by default. The generated markup has no newlines of its own, so
+    // pre-wrap costs nothing: line breaks still come from the <br> tags.
+    assert.match(messageTextHtml('a message'), /white-space: pre-wrap/)
 })
 
 test('monospaceControlHtml renders a checkbox that starts checked', () => {
