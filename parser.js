@@ -3,14 +3,13 @@ const he = require('he')
 const pth = require('path')
 const {simpleParser} = require('mailparser')
 const {searchBarHtml} = require('./search/searchBar')
-const {MESSAGE_TEXT_CLASS, monospaceControlHtml, monospaceScriptHtml} = require('./monospace')
+const {messageTextHtml, monospaceControlHtml, monospaceScriptHtml} = require('./messageText')
 
 process.on('uncaughtException', console.log)
 
 const ROOT_PAGE = 'dist/index.html'
 
 const ATTACHMENT_STYLE = 'margin: 0px 20px; padding: 20px; background-color: #ddd'
-const EMAIL_TEXT_STYLE = 'margin: 0px 20px 20px; padding: 20px; background-color: #eee'
 
 const parsed = {}
 const listMsgIdToTopicIdMap = {}
@@ -175,7 +174,7 @@ const writeListHtml = list => {
             textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(/http:\/\/\w*\.?groups\.yahoo\.com\/group\/(\w+)/g, '/$1')
             textAsHtmlWithLinksUpdate = textAsHtmlWithLinksUpdate.replace(/\/MakeMicroMusic/g, '/makemicromusic')
 
-            fs.appendFileSync(listTopicPage, `<div class='${MESSAGE_TEXT_CLASS}' style='${EMAIL_TEXT_STYLE}'>${textAsHtmlWithLinksUpdate}</div>`)
+            fs.appendFileSync(listTopicPage, messageTextHtml(textAsHtmlWithLinksUpdate))
 
             const listMessagePage = `dist/${list}/message/${id}.html`
             const listMessagesPage = `dist/${list}/messages/${id}.html`
