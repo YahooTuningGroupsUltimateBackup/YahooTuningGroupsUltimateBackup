@@ -3,13 +3,17 @@ const he = require('he')
 const pth = require('path')
 const {simpleParser} = require('mailparser')
 const {searchBarHtml} = require('./search/searchBar')
-const {messageTextHtml, monospaceControlHtml, monospaceScriptHtml} = require('./messageText')
+const {messageTextHtml, monospaceControlHtml} = require('./messageText')
 
 process.on('uncaughtException', console.log)
 
 const ROOT_PAGE = 'dist/index.html'
 
-const ATTACHMENT_STYLE = 'margin: 0px 20px; padding: 20px; background-color: #ddd'
+// Every page links these rather than carrying its own styles and script, so
+// changing how the archive looks or behaves is a redeploy of two files instead
+// of a regeneration of all 36,000-odd pages.
+const ARCHIVE_ASSET_FILES = ['archive.css', 'archive.js']
+const ARCHIVE_ASSETS = `<link rel="stylesheet" href="/archive.css"><script src="/archive.js" defer></script>`
 
 const parsed = {}
 const listMsgIdToTopicIdMap = {}
@@ -32,13 +36,16 @@ const deleteFolderRecursive = path => {
     fs.rmdirSync(path)
 }
 
+const copyArchiveAssets = () => ARCHIVE_ASSET_FILES.forEach(file =>
+    fs.copyFileSync(`static/${file}`, `dist/${file}`))
+
 const writeAttachmentHtml = (attachment, list, topicPage) => {
     const attachmentFilename = attachment.filename
     const attachmentPath = `${list}/attachments/${attachmentFilename}`
 
     if (fs.existsSync(`src/${attachmentPath}`)) {
         fs.appendFileSync(topicPage, `
-            <div style='${ATTACHMENT_STYLE}'>
+            <div class="attachment">
                 <a target=_blank href=attachments/${attachmentFilename}>
                     ${attachmentFilename}
                 </a>
@@ -74,7 +81,7 @@ const writeListHtml = list => {
             content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
                 <meta http-equiv="x-ua-compatible" content="ie=edge">
                 <title>Yahoo Tuning Groups Ultimate Backup ${list} ${topicName}</title>
-                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+                ${ARCHIVE_ASSETS}
             </head>
             <body>
             </body>
@@ -112,7 +119,7 @@ const writeListHtml = list => {
             fs.appendFileSync(listTopicPage, monospaceControlHtml())
 
             if (attachments.length) {
-                fs.appendFileSync(listTopicPage, `<div style='${ATTACHMENT_STYLE}'><b>Attachments</b></div>`)
+                fs.appendFileSync(listTopicPage, `<div class="attachment"><b>Attachments</b></div>`)
                 attachments.forEach(attachment => writeAttachmentHtml(attachment, list, listTopicPage))
             }
 
@@ -197,7 +204,6 @@ const writeListHtml = list => {
             writtenMessageCount += 1
         }
 
-        fs.appendFileSync(listTopicPage, monospaceScriptHtml())
     })
 }
 
@@ -291,6 +297,7 @@ const setupPage = (list) => {
         content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
             <meta http-equiv="x-ua-compatible" content="ie=edge">
             <title>Yahoo Tuning Groups Ultimate Backup ${list || 'Root'}</title>
+            ${ARCHIVE_ASSETS}
         </head>
         <body>
         </body>
@@ -366,6 +373,8 @@ const parseMillsTuningList = () => {
 
 deleteFolderRecursive('dist')
 fs.mkdirSync('dist')
+
+copyArchiveAssets()
 
 setupPage()
 fs.appendFileSync(ROOT_PAGE, `<h1>Yahoo Tuning Groups Ultimate Backup</h1>`)

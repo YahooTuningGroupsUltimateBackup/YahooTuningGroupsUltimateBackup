@@ -1,7 +1,5 @@
 const he = require('he')
 
-const SEARCH_BAR_STYLE = 'margin: 10px 20px; padding: 10px 20px; background-color: #ddd'
-
 const escape = value => he.encode(String(value ?? ''))
 
 // Baked into every generated archive page: the full search form, pre-scoped to
@@ -9,7 +7,7 @@ const escape = value => he.encode(String(value ?? ''))
 // Posts to /search/, which is the express route locally and the static search
 // page when deployed.
 const searchBarHtml = ({list, topicId}) => `
-    <form action="/search/" method="get" style="${SEARCH_BAR_STYLE}">
+    <form action="/search/" method="get" class="search-bar">
         <div>
             <input type="text" name="q" size="40" placeholder="search the archive">
             <button>search</button>

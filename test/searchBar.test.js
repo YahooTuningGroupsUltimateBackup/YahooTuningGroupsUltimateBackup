@@ -6,7 +6,8 @@ const rows = html => html.match(/<div>[\s\S]*?<\/div>/g)
 
 test('searchBarHtml renders the full filter form scoped to where the page sits', () => {
     const root = searchBarHtml({})
-    assert.match(root, /<form action="\/search\/" method="get"/)
+    assert.match(root, /<form action="\/search\/" method="get" class="search-bar"/)
+    assert.doesNotMatch(root, /style=/)
     assert.equal(rows(root).length, 3)
     assert.match(rows(root)[0], /name="q"[\s\S]*<button>search<\/button>/)
     assert.match(rows(root)[1], /name="author"/)
