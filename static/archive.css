@@ -49,6 +49,13 @@
     margin-left: 10px;
 }
 
+/* archive.js disables a box that has nothing left to do, and the browser greys
+   the box but not the words beside it — which are the half that says what the
+   box was for. */
+.message-controls label:has(input:disabled) {
+    color: grey;
+}
+
 /* Pages published before the controls moved into archive.js carry a monospace
    label of their own, which the strip above replaces. Hiding it here rather
    than deleting it from the script keeps it from flashing up in the moment

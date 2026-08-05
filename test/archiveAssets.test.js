@@ -33,17 +33,27 @@ const pageWith = messageCount => {
         querySelectorAll: selector => (selector === '.message-text' ? messages : []),
     })
 
-    // A checkbox as the browser hands it to the listener: it knows which
-    // control it is, and it is found by the one selector that walks up from it
-    // to the strip — the obsolete label on a published page answers to no
+    // A strip as the browser hands it to the listener: the boxes it holds, and
+    // the message it sits above. Each box is found by the one selector that
+    // walks up from it — the obsolete label on a published page answers to no
     // selector at all, which is the null the listener has to survive.
-    const checkbox = (control, message) => ({
-        checked: true,
-        classList: {contains: name => name === control},
-        closest: selector => (selector === '.message-controls' ? {nextElementSibling: message} : null),
-    })
+    const stripAbove = message => {
+        const boxes = {}
+        const strip = {
+            nextElementSibling: message,
+            querySelector: selector => boxes[selector.slice(1)] || null,
+        }
 
-    return {messages, checkbox, change: target => listener[1]({target}), event: () => listener[0]}
+        ;['monospace', 'line-wrap'].forEach(control => (boxes[control] = {
+            checked: true,
+            classList: {contains: name => name === control},
+            closest: selector => (selector === '.message-controls' ? strip : null),
+        }))
+
+        return {box: control => boxes[control]}
+    }
+
+    return {messages, stripAbove, change: target => listener[1]({target}), event: () => listener[0]}
 }
 
 test('the stylesheet holds the presentation, so pages need no inline styles', () => {
@@ -66,6 +76,10 @@ test('the strip sits at the right of the line, and the published label is gone',
     assert.match(css, /\.message-controls\s*\{[^}]*float: right/)
     assert.match(css, /\.message-controls label \+ label\s*\{[^}]*margin-left/)
     assert.match(css, /\.monospace-control\s*\{[^}]*display: none/)
+
+    // The browser greys a disabled box but not the words beside it, which is
+    // the half that says what the box is for.
+    assert.match(css, /\.message-controls label:has\(input:disabled\)\s*\{[^}]*color:/)
 })
 
 test('unchecking line wrap trades wrapping for a scrollbar of the message\'s own', () => {
@@ -137,7 +151,7 @@ test('a message starts monospaced and wrapped, before any box is touched', () =>
 test('unchecking monospace makes only its own message proportional', () => {
     const page = pageWith(2)
     assert.equal(page.event(), 'change')
-    const box = page.checkbox('monospace', page.messages[0])
+    const box = page.stripAbove(page.messages[0]).box('monospace')
 
     box.checked = false
     page.change(box)
@@ -151,7 +165,8 @@ test('unchecking monospace makes only its own message proportional', () => {
 
 test('unchecking line wrap stops only its own message from wrapping', () => {
     const page = pageWith(2)
-    const box = page.checkbox('line-wrap', page.messages[1])
+    const strip = page.stripAbove(page.messages[1])
+    const box = strip.box('line-wrap')
 
     box.checked = false
     page.change(box)
@@ -159,7 +174,7 @@ test('unchecking line wrap stops only its own message from wrapping', () => {
     assert.deepEqual(page.messages[0].classNames(), [])
 
     // Neither box knows about the other, so a message can wear both states.
-    const monospace = page.checkbox('monospace', page.messages[1])
+    const monospace = strip.box('monospace')
     monospace.checked = false
     page.change(monospace)
     assert.deepEqual(page.messages[1].classNames(), ['no-wrap', 'proportional'])
@@ -167,6 +182,32 @@ test('unchecking line wrap stops only its own message from wrapping', () => {
     box.checked = true
     page.change(box)
     assert.deepEqual(page.messages[1].classNames(), ['proportional'])
+})
+
+test('the line wrap box goes dead while monospace is off, and keeps its setting', () => {
+    // Nothing it can do to a proportional message, so it stops offering: a box
+    // that answers a click with no visible change reads as broken. It holds on
+    // to what the reader chose, though, so monospace coming back brings the
+    // message back to the state they left it in rather than to the default.
+    const page = pageWith(1)
+    const strip = page.stripAbove(page.messages[0])
+    const monospace = strip.box('monospace')
+    const lineWrap = strip.box('line-wrap')
+
+    lineWrap.checked = false
+    page.change(lineWrap)
+    assert.ok(!lineWrap.disabled)
+
+    monospace.checked = false
+    page.change(monospace)
+    assert.equal(lineWrap.disabled, true)
+    assert.equal(lineWrap.checked, false)
+    assert.deepEqual(page.messages[0].classNames(), ['no-wrap', 'proportional'])
+
+    monospace.checked = true
+    page.change(monospace)
+    assert.equal(lineWrap.disabled, false)
+    assert.deepEqual(page.messages[0].classNames(), ['no-wrap'])
 })
 
 test('changes to anything else on the page are ignored', () => {

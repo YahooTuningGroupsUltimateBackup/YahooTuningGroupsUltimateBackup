@@ -4,10 +4,12 @@
 // file and archive.css, with the pages left alone.
 
 // Each box names the class its message wears while the box is unchecked;
-// archive.css decides what that class means.
+// archive.css decides what that class means. A box that needs another is only
+// live while that one is checked: line wrap has no purchase on a message the
+// font has already unscrambled.
 const CONTROLS = [
     {name: 'monospace', text: 'monospace', unchecked: 'proportional'},
-    {name: 'line-wrap', text: 'line wrap', unchecked: 'no-wrap'},
+    {name: 'line-wrap', text: 'line wrap', unchecked: 'no-wrap', needs: 'monospace'},
 ]
 
 // autocomplete="off" is what keeps a box from lying. Coming back to a page,
@@ -28,6 +30,13 @@ document.addEventListener('change', event => {
     const control = CONTROLS.find(({name}) => checkbox.classList.contains(name))
     if (!control) return
 
-    const message = checkbox.closest('.message-controls').nextElementSibling
-    message.classList.toggle(control.unchecked, !checkbox.checked)
+    const strip = checkbox.closest('.message-controls')
+    strip.nextElementSibling.classList.toggle(control.unchecked, !checkbox.checked)
+
+    // A box with nothing to do is greyed out rather than left looking live —
+    // one that answers a click with no visible change reads as broken. It
+    // keeps its own setting while it waits, so the box it depends on coming
+    // back brings the message back to what the reader last chose.
+    CONTROLS.filter(({needs}) => needs).forEach(({name, needs}) =>
+        (strip.querySelector(`.${name}`).disabled = !strip.querySelector(`.${needs}`).checked))
 })
