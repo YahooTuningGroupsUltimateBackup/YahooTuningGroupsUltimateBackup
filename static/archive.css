@@ -39,18 +39,41 @@
     width: 400px;
 }
 
-.monospace-control {
+/* The reader's boxes for one message, riding the line that carries its date. */
+.message-controls {
     float: right;
     margin-right: 20px;
+}
+
+.message-controls label + label {
+    margin-left: 10px;
+}
+
+/* Pages published before the controls moved into archive.js carry a monospace
+   label of their own, which the strip above replaces. Hiding it here rather
+   than deleting it from the script keeps it from flashing up in the moment
+   before the script runs, and keeps a box that cannot work off a page whose
+   reader has JavaScript off. */
+.monospace-control {
+    display: none;
 }
 
 /* Messages are monospaced by default: they are plain-text mailing list posts,
    full of ASCII lattice diagrams that only line up in a fixed-width font.
    pre-wrap keeps the runs of spaces holding those diagrams together, and the
-   pinned size and leading mean unchecking the box cannot change a message's
-   height — at 16px a monospace character advances 9.6px, so 1.2 leaves a
-   character cell at about the 2:1 the diagrams were drawn for. */
+   pinned size and unitless leading keep a line the same height in either font,
+   leaving line count as the only thing that moves the box — at 16px a monospace
+   character advances 9.6px, so 1.2 leaves a character cell at about the 2:1 the
+   diagrams were drawn for. Anything the box cannot fit it scrolls itself:
+   wrapped or not, a message holds a long URL or a 200-digit number that has
+   no break in it, and without the overflow that text is painted outside the
+   box and drags the page along with it — 664px of document on a 320px screen,
+   search bar and every other message in tow. A box that scrolls will not sit
+   under a float, though, so it also has to clear the controls above it: left
+   to itself it makes room by shrinking to the width beside them, 129px. */
 .message-text {
+    clear: right;
+    overflow-x: auto;
     margin: 0px 20px 20px;
     padding: 20px;
     background-color: #eee;
@@ -60,6 +83,17 @@
     white-space: pre-wrap;
 }
 
+/* Unchecking line wrap lets a diagram keep its shape past the edge of the
+   window: nothing wraps, so a phone drags sideways across a lattice instead
+   of reading it folded. Monospace off leaves no diagram to save, which is
+   what the :not() says here. */
+.message-text.no-wrap:not(.proportional) {
+    white-space: pre;
+}
+
+/* Prose again: the diagrams are lost to the font anyway, so the runs of spaces
+   holding them together collapse, the way the archive read before any of it. */
 .message-text.proportional {
     font-family: initial;
+    white-space: normal;
 }

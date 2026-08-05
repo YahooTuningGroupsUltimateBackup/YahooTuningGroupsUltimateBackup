@@ -33,10 +33,10 @@ npm run transfer            # copy dist/ into ../YahooTuningGroupsUltimateBackup
 
 then commit and push the github.io repo. The database is split into 10MB chunks to stay under GitHub's per-file limit.
 
-Changing how the archive *looks or behaves* needs none of that. Every generated page carries only class names and links `/archive.css` and `/archive.js`, so editing `static/archive.css` (or `static/archive.js`) and copying it over is the whole deploy:
+Changing how the archive *looks or behaves* needs none of that. A page is raw material — an author, a date, a message — carrying only class names and links to `/archive.css` and `/archive.js`. Even the checkboxes over each message are built by the script, so adding one is an edit to those two files and a copy:
 
 ```
 cp static/archive.css static/archive.js ../YahooTuningGroupsUltimateBackup.github.io/
 ```
 
-Reparsing is only for changes to the pages themselves — their structure, their text, or the archive's contents. Keep it that way: styling belongs in `static/archive.css`, and a test fails the build if a `style` attribute reappears in the generated markup.
+Reparsing is only for changes to the pages themselves — their structure, their text, or the archive's contents. Keep it that way: styling belongs in `static/archive.css` and the reader's controls in `static/archive.js`, and a test fails the build if a `style` attribute reappears in the code that writes a page, or a checkbox in the code that writes a message. The search bar is the one control still written into the pages, because a form has to be there to submit.

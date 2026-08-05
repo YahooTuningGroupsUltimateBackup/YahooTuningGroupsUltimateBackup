@@ -3,7 +3,7 @@ const he = require('he')
 const pth = require('path')
 const {simpleParser} = require('mailparser')
 const {searchBarHtml} = require('./search/searchBar')
-const {messageTextHtml, monospaceControlHtml} = require('./messageText')
+const {messageTextHtml} = require('./messageText')
 
 process.on('uncaughtException', console.log)
 
@@ -116,7 +116,6 @@ const writeListHtml = list => {
 
             fs.appendFileSync(listTopicPage, `<h3><a id=${id} href="#${id}">🔗</a>${he.encode(from.text)}</h3>`)
             fs.appendFileSync(listTopicPage, `<span>${date} ${time}</span>`)
-            fs.appendFileSync(listTopicPage, monospaceControlHtml())
 
             if (attachments.length) {
                 fs.appendFileSync(listTopicPage, `<div class="attachment"><b>Attachments</b></div>`)

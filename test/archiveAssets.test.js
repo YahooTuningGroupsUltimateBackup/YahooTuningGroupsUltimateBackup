@@ -3,28 +3,47 @@ const assert = require('node:assert/strict')
 const fs = require('node:fs')
 const path = require('node:path')
 
+// Read with the comments stripped: these assertions are substring matches, and
+// this file explains itself at length, so a rule described in prose would
+// otherwise satisfy the test for the rule itself.
 const css = fs.readFileSync(path.join(__dirname, '..', 'static', 'archive.css'), 'utf8')
+    .replace(/\/\*[\s\S]*?\*\//g, '')
 const script = fs.readFileSync(path.join(__dirname, '..', 'static', 'archive.js'), 'utf8')
 
-// Stands in for the DOM of one topic page: a control label followed by the
-// message body it governs, which is how the parser emits every message.
-const pageWith = messages => {
+// Stands in for the DOM of one topic page: message bodies and nothing else a
+// reader can touch, which is all the parser writes. Each body records the
+// markup the script hands it and the classes the script puts on it.
+const pageWith = messageCount => {
     let listener
-    const document = {addEventListener: (event, handler) => (listener = [event, handler])}
-    const boxes = messages.map(() => ({classes: new Set(), classList: {toggle: function (name, on) {
-        on ? this.owner.classes.add(name) : this.owner.classes.delete(name)
-    }}}))
-    boxes.forEach(box => (box.classList.owner = box))
 
-    const checkboxes = boxes.map(box => ({
+    const messages = Array.from({length: messageCount}, () => {
+        const classes = new Set()
+        const strips = []
+
+        return {
+            classNames: () => [...classes],
+            strips,
+            classList: {toggle: (name, on) => (on ? classes.add(name) : classes.delete(name))},
+            insertAdjacentHTML: (position, html) => strips.push({position, html}),
+        }
+    })
+
+    new Function('document', script)({
+        addEventListener: (event, handler) => (listener = [event, handler]),
+        querySelectorAll: selector => (selector === '.message-text' ? messages : []),
+    })
+
+    // A checkbox as the browser hands it to the listener: it knows which
+    // control it is, and it is found by the one selector that walks up from it
+    // to the strip — the obsolete label on a published page answers to no
+    // selector at all, which is the null the listener has to survive.
+    const checkbox = (control, message) => ({
         checked: true,
-        classList: {contains: name => name === 'monospace'},
-        closest: () => ({nextElementSibling: box}),
-    }))
+        classList: {contains: name => name === control},
+        closest: selector => (selector === '.message-controls' ? {nextElementSibling: message} : null),
+    })
 
-    new Function('document', script)(document)
-
-    return {boxes, checkboxes, fire: checkbox => listener[1]({target: checkbox}), event: () => listener[0]}
+    return {messages, checkbox, change: target => listener[1]({target}), event: () => listener[0]}
 }
 
 test('the stylesheet holds the presentation, so pages need no inline styles', () => {
@@ -32,49 +51,129 @@ test('the stylesheet holds the presentation, so pages need no inline styles', ()
     assert.match(css, /\.message-text\s*\{[^}]*font-size: 16px/)
     assert.match(css, /\.message-text\s*\{[^}]*line-height: 1\.2/)
     assert.match(css, /\.message-text\s*\{[^}]*white-space: pre-wrap/)
-    assert.match(css, /\.message-text\.proportional\s*\{[^}]*font-family:/)
-    assert.match(css, /\.monospace-control\s*\{[^}]*float: right/)
+    assert.match(css, /\.message-text\.proportional\s*\{[^}]*font-family: initial/)
     assert.match(css, /\.search-bar\s*\{/)
     assert.match(css, /\.attachment\s*\{/)
     assert.match(css, /\.topic\s*\{/)
     assert.match(css, /\.topic-(date|name|messages|authors)\s*\{/)
 })
 
-test('the generated pages carry no inline styling of their own', () => {
-    // The gate on the whole arrangement: one style attribute anywhere in the
-    // parser is one thing a redeploy of the stylesheet cannot change.
+test('the strip sits at the right of the line, and the published label is gone', () => {
+    // Pages published before the controls moved into archive.js still carry a
+    // monospace label of their own. Hiding it beats deleting it from the
+    // script: it never flashes up in the moment before the script runs, and
+    // with JavaScript off a box that could not work is not offered.
+    assert.match(css, /\.message-controls\s*\{[^}]*float: right/)
+    assert.match(css, /\.message-controls label \+ label\s*\{[^}]*margin-left/)
+    assert.match(css, /\.monospace-control\s*\{[^}]*display: none/)
+})
+
+test('unchecking line wrap trades wrapping for a scrollbar of the message\'s own', () => {
+    // pre keeps the diagram on one line, and the message's own overflow turns
+    // that line into a sideways drag rather than a fold. :not(.proportional)
+    // is the "no effect when monospace is off" rule: with the diagrams already
+    // scrambled by the font there is nothing left for it to save.
+    assert.match(css, /\.message-text\.no-wrap:not\(\.proportional\)\s*\{[^}]*white-space: pre;/)
+
+    // The overflow belongs to every state, not just that one. A wrapped
+    // message still overflows on anything with no break in it — a long URL,
+    // a 200-digit number — and with the scrolling on .no-wrap alone that text
+    // was painted outside the box and dragged the page with it: 664px of
+    // document on a 320px screen, search bar and every other message in tow.
+    assert.match(css, /\.message-text\s*\{[^}]*overflow-x: auto/)
+
+    // A box that scrolls also refuses to sit under a float, and the controls
+    // float over its first two pixels: without the clear it makes room for
+    // them by shrinking to the width left beside them — 129px of a 319px
+    // phone screen. Clearing puts the message back under the whole window.
+    assert.match(css, /\.message-text\s*\{[^}]*clear: right/)
+})
+
+test('unchecking monospace gives the message back to prose', () => {
+    // A proportional font has already lost the diagrams, so the runs of spaces
+    // holding them together are noise: normal collapses them the way the
+    // archive read before any of this, and line wrap has nothing left to do.
+    assert.match(css, /\.message-text\.proportional\s*\{[^}]*white-space: normal/)
+})
+
+test('the generated pages carry no styling and no controls of their own', () => {
+    // The gate on the whole arrangement: a style attribute or a checkbox
+    // written into a page is one more thing a redeploy of the two files cannot
+    // change. The search bar is the exception the rule is drawn around — it is
+    // a form that submits, so it has to be in the page to work at all.
     const parser = fs.readFileSync(path.join(__dirname, '..', 'parser.js'), 'utf8')
+    const messageText = fs.readFileSync(path.join(__dirname, '..', 'messageText.js'), 'utf8')
     const searchBar = fs.readFileSync(path.join(__dirname, '..', 'search', 'searchBar.js'), 'utf8')
     assert.doesNotMatch(parser, /style=/)
     assert.doesNotMatch(searchBar, /style=/)
+    assert.doesNotMatch(parser, /<label|<input/)
+    assert.doesNotMatch(messageText, /<label|<input/)
+
+    // And the defer is what lets the script find those messages: it builds a
+    // strip for each one as the page loads, so run any earlier than this and
+    // it sweeps an empty body and no message ever gets a control.
+    assert.match(parser, /<script src="\/archive\.js" defer><\/script>/)
 })
 
-test('a message starts monospaced with no script having run', () => {
-    // The stylesheet alone decides the initial state, so pages render correctly
-    // before — or without — any JavaScript: loading the script touches nothing.
-    assert.doesNotMatch(script, /font-family/)
-    const page = pageWith(['only'])
-    assert.deepEqual([...page.boxes[0].classes], [])
+test('every message is handed a strip of controls the page never carried', () => {
+    const page = pageWith(2)
+
+    page.messages.forEach(({strips}) => {
+        assert.deepEqual(strips.map(({position}) => position), ['beforebegin'])
+        assert.match(strips[0].html, /<div class="message-controls">/)
+        assert.match(strips[0].html, /<label><input type="checkbox" class="monospace" checked autocomplete="off"> monospace<\/label>/)
+        assert.match(strips[0].html, /<label><input type="checkbox" class="line-wrap" checked autocomplete="off"> line wrap<\/label>/)
+    })
 })
 
-test('a checkbox restyles only its own message', () => {
-    const page = pageWith(['first', 'second'])
+test('a message starts monospaced and wrapped, before any box is touched', () => {
+    // The stylesheet alone decides the initial state, so a message renders
+    // right the moment it is parsed: the script only ever answers a click.
+    assert.doesNotMatch(script, /font-family|white-space/)
+    const page = pageWith(1)
+    assert.deepEqual(page.messages[0].classNames(), [])
+})
+
+test('unchecking monospace makes only its own message proportional', () => {
+    const page = pageWith(2)
     assert.equal(page.event(), 'change')
+    const box = page.checkbox('monospace', page.messages[0])
 
-    page.checkboxes[0].checked = false
-    page.fire(page.checkboxes[0])
-    assert.deepEqual([...page.boxes[0].classes], ['proportional'])
-    assert.deepEqual([...page.boxes[1].classes], [])
+    box.checked = false
+    page.change(box)
+    assert.deepEqual(page.messages[0].classNames(), ['proportional'])
+    assert.deepEqual(page.messages[1].classNames(), [])
 
-    page.checkboxes[0].checked = true
-    page.fire(page.checkboxes[0])
-    assert.deepEqual([...page.boxes[0].classes], [])
+    box.checked = true
+    page.change(box)
+    assert.deepEqual(page.messages[0].classNames(), [])
+})
+
+test('unchecking line wrap stops only its own message from wrapping', () => {
+    const page = pageWith(2)
+    const box = page.checkbox('line-wrap', page.messages[1])
+
+    box.checked = false
+    page.change(box)
+    assert.deepEqual(page.messages[1].classNames(), ['no-wrap'])
+    assert.deepEqual(page.messages[0].classNames(), [])
+
+    // Neither box knows about the other, so a message can wear both states.
+    const monospace = page.checkbox('monospace', page.messages[1])
+    monospace.checked = false
+    page.change(monospace)
+    assert.deepEqual(page.messages[1].classNames(), ['no-wrap', 'proportional'])
+
+    box.checked = true
+    page.change(box)
+    assert.deepEqual(page.messages[1].classNames(), ['proportional'])
 })
 
 test('changes to anything else on the page are ignored', () => {
-    const page = pageWith(['only'])
-    page.fire({classList: {contains: () => false}, closest: () => {
+    // The search bar sits on every page, and its own boxes fire this listener.
+    const page = pageWith(1)
+    page.change({classList: {contains: () => false}, closest: () => {
         throw new Error('should not look for a message body')
     }})
-    assert.deepEqual([...page.boxes[0].classes], [])
+    assert.deepEqual(page.messages[0].classNames(), [])
 })
