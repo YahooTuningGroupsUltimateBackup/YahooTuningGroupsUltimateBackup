@@ -18,13 +18,35 @@ const SCHEMA = `
         content='messages', content_rowid='id',
         tokenize='porter unicode61'
     );
+    -- Covers the rowid plus every column a search filter can name, so testing a
+    -- filter reads only this index and never a messages row (each of which
+    -- carries a whole message body).
+    CREATE INDEX IF NOT EXISTS messages_filter ON messages(id, list, topic_id, post_date, author);
+    -- Seeks straight to a topic's earliest message for the topic-scoped search
+    -- bar; the UNIQUE(list, msg_id) index can only narrow that to a whole list.
+    CREATE INDEX IF NOT EXISTS messages_topic ON messages(list, topic_id, msg_id);
 `
+
+// The planner picks the join order for a filtered search from these statistics.
+// Without them it drives the search from the messages table and probes the
+// full-text index once per message, which takes tens of seconds against the real
+// archive; with them it drives from the full-text index, which takes tens of
+// milliseconds. Never run on an empty table — the "one row" statistics that
+// would record are worse than none.
+const analyze = db => {
+    if (db.prepare('SELECT id FROM messages LIMIT 1').get()) db.exec('ANALYZE')
+}
+
+const hasStatistics = db =>
+    Boolean(db.prepare("SELECT name FROM sqlite_master WHERE name = 'sqlite_stat1'").get())
 
 const openIndex = path => {
     const db = new DatabaseSync(path)
     db.exec('PRAGMA journal_mode = WAL')
     db.exec('PRAGMA synchronous = NORMAL')
     db.exec(SCHEMA)
+    // An index built before the statistics existed heals itself on first open.
+    if (!hasStatistics(db)) analyze(db)
 
     // OR IGNORE: the exports re-fetched some messages, so the same list+msgId can
     // appear in two files; the first copy indexed wins.
@@ -77,7 +99,7 @@ const openIndex = path => {
         return row ? row.subject : null
     }
 
-    return {addDocs, search, lists, topicName, close: () => db.close()}
+    return {addDocs, search, lists, topicName, analyze: () => analyze(db), close: () => db.close()}
 }
 
-module.exports = {openIndex}
+module.exports = {openIndex, analyze}

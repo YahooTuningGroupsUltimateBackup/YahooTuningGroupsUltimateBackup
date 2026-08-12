@@ -1,5 +1,9 @@
 const {test} = require('node:test')
 const assert = require('node:assert/strict')
+const fs = require('node:fs')
+const os = require('node:os')
+const path = require('node:path')
+const {DatabaseSync} = require('node:sqlite')
 const {openIndex} = require('../search/db')
 
 const doc = overrides => ({
@@ -111,6 +115,83 @@ test('lists returns the distinct indexed list names in alphabetical order', () =
     ])
 
     assert.deepEqual(index.lists(), ['metatuning', 'tuning'])
+})
+
+// Both indexes and the statistics exist to keep a filtered search off the
+// messages table, whose rows carry the message bodies. Missing either one, the
+// planner drives a list-scoped search from that table and probes the full-text
+// index once per message: tens of seconds against the real archive, and worse
+// in the browser, where every page read is an HTTP range request.
+test('an opened index carries the covering filter index and the topic index', t => {
+    const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), 'ytgub-indexes-'))
+    t.after(() => fs.rmSync(tmpDir, {recursive: true, force: true}))
+    const dbPath = path.join(tmpDir, 'index.db')
+
+    openIndex(dbPath).close()
+
+    const db = new DatabaseSync(dbPath)
+    try {
+        const indexes = Object.fromEntries(
+            db.prepare("SELECT name, sql FROM sqlite_master WHERE type = 'index' AND sql IS NOT NULL")
+                .all().map(row => [row.name, row.sql]),
+        )
+        assert.match(indexes.messages_filter, /messages\(id, list, topic_id, post_date, author\)/)
+        assert.match(indexes.messages_topic, /messages\(list, topic_id, msg_id\)/)
+    } finally {
+        db.close()
+    }
+})
+
+test('statistics are recorded once there are messages to describe, and never before', t => {
+    const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), 'ytgub-stats-'))
+    t.after(() => fs.rmSync(tmpDir, {recursive: true, force: true}))
+    const dbPath = path.join(tmpDir, 'index.db')
+
+    const statisticsOf = () => {
+        const db = new DatabaseSync(dbPath)
+        try {
+            const present = db.prepare("SELECT name FROM sqlite_master WHERE name = 'sqlite_stat1'").get()
+            return present ? db.prepare('SELECT tbl, idx FROM sqlite_stat1').all().map(row => row.idx || row.tbl) : null
+        } finally {
+            db.close()
+        }
+    }
+
+    // An empty index gets none: "one row" statistics would mislead the planner
+    // worse than no statistics at all.
+    const empty = openIndex(dbPath)
+    assert.equal(statisticsOf(), null)
+
+    empty.addDocs([doc({}), doc({msgId: 2, topicId: 11})])
+    empty.analyze()
+    empty.close()
+
+    const analyzed = statisticsOf()
+    assert.ok(analyzed.includes('messages_filter'), `no statistics for messages_filter in ${analyzed}`)
+    assert.ok(analyzed.includes('messages_topic'), `no statistics for messages_topic in ${analyzed}`)
+})
+
+test('an index built before the statistics existed records them on the next open', t => {
+    const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), 'ytgub-heal-'))
+    t.after(() => fs.rmSync(tmpDir, {recursive: true, force: true}))
+    const dbPath = path.join(tmpDir, 'index.db')
+
+    const stale = openIndex(dbPath)
+    stale.addDocs([doc({})])
+    stale.close()
+
+    const hasStatistics = () => {
+        const db = new DatabaseSync(dbPath)
+        try {
+            return Boolean(db.prepare("SELECT name FROM sqlite_master WHERE name = 'sqlite_stat1'").get())
+        } finally {
+            db.close()
+        }
+    }
+    assert.equal(hasStatistics(), false)
+
+    openIndex(dbPath).close()
+    assert.equal(hasStatistics(), true)
 })
 
 test('topicName returns the subject of the earliest message in a list topic', () => {

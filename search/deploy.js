@@ -2,7 +2,7 @@ const crypto = require('node:crypto')
 const fs = require('node:fs')
 const path = require('node:path')
 const {DatabaseSync} = require('node:sqlite')
-const {openIndex} = require('./db')
+const {openIndex, analyze} = require('./db')
 
 const STATIC_SEARCH_DIR = path.join(__dirname, '..', 'static', 'search')
 const SHARED_QUERY_SQL = path.join(__dirname, 'querySql.js')
@@ -24,6 +24,10 @@ const buildDeployDb = (indexDbPath, outDir, {chunkBytes = DEFAULT_CHUNK_BYTES} =
     const db = new DatabaseSync(deployDbPath)
     db.exec('PRAGMA journal_mode = DELETE')
     db.exec("INSERT INTO messages_fts(messages_fts) VALUES('optimize')")
+    // Restated after the merge so the shipped statistics describe the shipped
+    // segments. A browser reading this database a page at a time over HTTP pays
+    // the most for a bad join order, and cannot run ANALYZE itself.
+    analyze(db)
     db.exec(`PRAGMA page_size = ${DEPLOY_PAGE_SIZE}`)
     db.exec('VACUUM')
     db.close()

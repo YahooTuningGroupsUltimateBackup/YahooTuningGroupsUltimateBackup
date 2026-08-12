@@ -40,6 +40,7 @@ const build = async ({src, db}) => {
             lastLogged[list] = indexed
         }
     })
+    index.analyze()
     index.close()
 
     Object.entries(counts).forEach(([list, count]) => console.log(`${list}: ${count}`))

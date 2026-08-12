@@ -57,6 +57,16 @@ test('buildDeployDb rewrites the index at 1KB pages into chunk files that reasse
         const hits = db.prepare("SELECT m.subject FROM messages_fts JOIN messages m ON m.id = messages_fts.rowid WHERE messages_fts MATCH 'porcupine'").all()
         assert.equal(hits.length, 1)
         assert.equal(hits[0].subject, 'porcupine temperament')
+
+        // The browser reads this database a page at a time over HTTP and cannot
+        // build an index or run ANALYZE itself, so both have to be shipped in it.
+        const names = db.prepare("SELECT name FROM sqlite_master WHERE type = 'index'").all().map(row => row.name)
+        assert.ok(names.includes('messages_filter'), `no messages_filter index in ${names}`)
+        assert.ok(names.includes('messages_topic'), `no messages_topic index in ${names}`)
+        assert.ok(
+            db.prepare("SELECT name FROM sqlite_master WHERE name = 'sqlite_stat1'").get(),
+            'no query planner statistics in the deployed db',
+        )
     } finally {
         db.close()
     }
