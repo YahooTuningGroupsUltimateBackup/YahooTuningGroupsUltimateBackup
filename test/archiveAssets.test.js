@@ -44,8 +44,8 @@ const pageWith = messageCount => {
             querySelector: selector => boxes[selector.slice(1)] || null,
         }
 
-        ;['monospace', 'line-wrap'].forEach(control => (boxes[control] = {
-            checked: true,
+        ;[['monospace', true], ['line-wrap', false]].forEach(([control, checked]) => (boxes[control] = {
+            checked,
             classList: {contains: name => name === control},
             closest: selector => (selector === '.message-controls' ? strip : null),
         }))
@@ -60,7 +60,7 @@ test('the stylesheet holds the presentation, so pages need no inline styles', ()
     assert.match(css, /\.message-text\s*\{[^}]*font-family: monospace/)
     assert.match(css, /\.message-text\s*\{[^}]*font-size: 16px/)
     assert.match(css, /\.message-text\s*\{[^}]*line-height: 1\.2/)
-    assert.match(css, /\.message-text\s*\{[^}]*white-space: pre-wrap/)
+    assert.match(css, /\.message-text\s*\{[^}]*white-space: pre;/)
     assert.match(css, /\.message-text\.proportional\s*\{[^}]*font-family: initial/)
     assert.match(css, /\.search-bar\s*\{/)
     assert.match(css, /\.attachment\s*\{/)
@@ -82,18 +82,20 @@ test('the strip sits at the right of the line, and the published label is gone',
     assert.match(css, /\.message-controls label:has\(input:disabled\)\s*\{[^}]*color:/)
 })
 
-test('unchecking line wrap trades wrapping for a scrollbar of the message\'s own', () => {
-    // pre keeps the diagram on one line, and the message's own overflow turns
-    // that line into a sideways drag rather than a fold. :not(.proportional)
-    // is the "no effect when monospace is off" rule: with the diagrams already
-    // scrambled by the font there is nothing left for it to save.
-    assert.match(css, /\.message-text\.no-wrap:not\(\.proportional\)\s*\{[^}]*white-space: pre;/)
+test('checking line wrap trades the message\'s own scrollbar for wrapping', () => {
+    // Left alone, pre keeps the diagram on the line it was drawn on and the
+    // message's own overflow turns that line into a sideways drag rather than
+    // a fold; the box gives a reader who would rather have prose the fold
+    // back. :not(.proportional) is the "no effect when monospace is off" rule:
+    // with the diagrams already scrambled by the font there is nothing left
+    // for it to save.
+    assert.match(css, /\.message-text\.wrap:not\(\.proportional\)\s*\{[^}]*white-space: pre-wrap;/)
 
-    // The overflow belongs to every state, not just that one. A wrapped
-    // message still overflows on anything with no break in it — a long URL,
-    // a 200-digit number — and with the scrolling on .no-wrap alone that text
-    // was painted outside the box and dragged the page with it: 664px of
-    // document on a 320px screen, search bar and every other message in tow.
+    // The overflow belongs to every state, not just the unwrapped one. A
+    // wrapped message still overflows on anything with no break in it — a long
+    // URL, a 200-digit number — and with the scrolling left off that text is
+    // painted outside the box and drags the page with it: 664px of document on
+    // a 320px screen, search bar and every other message in tow.
     assert.match(css, /\.message-text\s*\{[^}]*overflow-x: auto/)
 
     // A box that scrolls also refuses to sit under a float, and the controls
@@ -136,11 +138,11 @@ test('every message is handed a strip of controls the page never carried', () =>
         assert.deepEqual(strips.map(({position}) => position), ['beforebegin'])
         assert.match(strips[0].html, /<div class="message-controls">/)
         assert.match(strips[0].html, /<label><input type="checkbox" class="monospace" checked autocomplete="off"> monospace<\/label>/)
-        assert.match(strips[0].html, /<label><input type="checkbox" class="line-wrap" checked autocomplete="off"> line wrap<\/label>/)
+        assert.match(strips[0].html, /<label><input type="checkbox" class="line-wrap" autocomplete="off"> line wrap<\/label>/)
     })
 })
 
-test('a message starts monospaced and wrapped, before any box is touched', () => {
+test('a message starts monospaced and unwrapped, before any box is touched', () => {
     // The stylesheet alone decides the initial state, so a message renders
     // right the moment it is parsed: the script only ever answers a click.
     assert.doesNotMatch(script, /font-family|white-space/)
@@ -163,23 +165,23 @@ test('unchecking monospace makes only its own message proportional', () => {
     assert.deepEqual(page.messages[0].classNames(), [])
 })
 
-test('unchecking line wrap stops only its own message from wrapping', () => {
+test('checking line wrap folds only its own message', () => {
     const page = pageWith(2)
     const strip = page.stripAbove(page.messages[1])
     const box = strip.box('line-wrap')
 
-    box.checked = false
+    box.checked = true
     page.change(box)
-    assert.deepEqual(page.messages[1].classNames(), ['no-wrap'])
+    assert.deepEqual(page.messages[1].classNames(), ['wrap'])
     assert.deepEqual(page.messages[0].classNames(), [])
 
     // Neither box knows about the other, so a message can wear both states.
     const monospace = strip.box('monospace')
     monospace.checked = false
     page.change(monospace)
-    assert.deepEqual(page.messages[1].classNames(), ['no-wrap', 'proportional'])
+    assert.deepEqual(page.messages[1].classNames(), ['wrap', 'proportional'])
 
-    box.checked = true
+    box.checked = false
     page.change(box)
     assert.deepEqual(page.messages[1].classNames(), ['proportional'])
 })
@@ -194,20 +196,20 @@ test('the line wrap box goes dead while monospace is off, and keeps its setting'
     const monospace = strip.box('monospace')
     const lineWrap = strip.box('line-wrap')
 
-    lineWrap.checked = false
+    lineWrap.checked = true
     page.change(lineWrap)
     assert.ok(!lineWrap.disabled)
 
     monospace.checked = false
     page.change(monospace)
     assert.equal(lineWrap.disabled, true)
-    assert.equal(lineWrap.checked, false)
-    assert.deepEqual(page.messages[0].classNames(), ['no-wrap', 'proportional'])
+    assert.equal(lineWrap.checked, true)
+    assert.deepEqual(page.messages[0].classNames(), ['wrap', 'proportional'])
 
     monospace.checked = true
     page.change(monospace)
     assert.equal(lineWrap.disabled, false)
-    assert.deepEqual(page.messages[0].classNames(), ['no-wrap'])
+    assert.deepEqual(page.messages[0].classNames(), ['wrap'])
 })
 
 test('changes to anything else on the page are ignored', () => {

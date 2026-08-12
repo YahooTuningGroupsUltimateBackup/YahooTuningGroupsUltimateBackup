@@ -65,19 +65,23 @@
     display: none;
 }
 
-/* Messages are monospaced by default: they are plain-text mailing list posts,
-   full of ASCII lattice diagrams that only line up in a fixed-width font.
-   pre-wrap keeps the runs of spaces holding those diagrams together, and the
-   pinned size and unitless leading keep a line the same height in either font,
+/* Messages are monospaced and unwrapped by default: they are plain-text
+   mailing list posts, full of ASCII lattice diagrams that only line up in a
+   fixed-width font and only hold their shape unfolded — wrapping drops the
+   tail of a long line underneath its own head, which loses the diagram as
+   surely as the wrong font does. pre keeps both the runs of spaces holding
+   those diagrams together and the lines they were drawn on, and the pinned
+   size and unitless leading keep a line the same height in either font,
    leaving line count as the only thing that moves the box — at 16px a monospace
    character advances 9.6px, so 1.2 leaves a character cell at about the 2:1 the
    diagrams were drawn for. Anything the box cannot fit it scrolls itself:
-   wrapped or not, a message holds a long URL or a 200-digit number that has
-   no break in it, and without the overflow that text is painted outside the
-   box and drags the page along with it — 664px of document on a 320px screen,
-   search bar and every other message in tow. A box that scrolls will not sit
-   under a float, though, so it also has to clear the controls above it: left
-   to itself it makes room by shrinking to the width beside them, 129px. */
+   unwrapped that is every line past the edge, and wrapped it is still whatever
+   holds a long URL or a 200-digit number with no break in it, and without the
+   overflow that text is painted outside the box and drags the page along with
+   it — 664px of document on a 320px screen, search bar and every other message
+   in tow. A box that scrolls will not sit under a float, though, so it also
+   has to clear the controls above it: left to itself it makes room by
+   shrinking to the width beside them, 129px. */
 .message-text {
     clear: right;
     overflow-x: auto;
@@ -87,15 +91,15 @@
     font-family: monospace;
     font-size: 16px;
     line-height: 1.2;
-    white-space: pre-wrap;
+    white-space: pre;
 }
 
-/* Unchecking line wrap lets a diagram keep its shape past the edge of the
-   window: nothing wraps, so a phone drags sideways across a lattice instead
-   of reading it folded. Monospace off leaves no diagram to save, which is
-   what the :not() says here. */
-.message-text.no-wrap:not(.proportional) {
-    white-space: pre;
+/* Checking line wrap folds the message to the window instead: prose reads
+   without a sideways drag, at the price of the diagrams too wide to survive
+   the fold. Monospace off has lost them already, which is what the :not()
+   says here — a proportional message wraps and collapses its spaces below. */
+.message-text.wrap:not(.proportional) {
+    white-space: pre-wrap;
 }
 
 /* Prose again: the diagrams are lost to the font anyway, so the runs of spaces

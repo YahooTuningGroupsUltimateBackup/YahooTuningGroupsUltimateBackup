@@ -3,22 +3,25 @@
 // rather than baked into 36,000-odd pages: adding one is a redeploy of this
 // file and archive.css, with the pages left alone.
 
-// Each box names the class its message wears while the box is unchecked;
-// archive.css decides what that class means. A box that needs another is only
-// live while that one is checked: line wrap has no purchase on a message the
-// font has already unscrambled.
+// Each box says where it starts and names the class its message wears while it
+// sits anywhere else; archive.css decides what that class means, and its bare
+// .message-text rules are the state every box in its starting position adds up
+// to — so a message renders right before this file has run at all. A box that
+// needs another is only live while that one is checked: line wrap has no
+// purchase on a message the font has already unscrambled.
 const CONTROLS = [
-    {name: 'monospace', text: 'monospace', unchecked: 'proportional'},
-    {name: 'line-wrap', text: 'line wrap', unchecked: 'no-wrap', needs: 'monospace'},
+    {name: 'monospace', text: 'monospace', checked: true, otherwise: 'proportional'},
+    {name: 'line-wrap', text: 'line wrap', checked: false, otherwise: 'wrap', needs: 'monospace'},
 ]
 
 // autocomplete="off" is what keeps a box from lying. Coming back to a page,
 // the browser restores the boxes it remembers to what they were, but the
-// classes they set are not part of that memory: the box would read unchecked
-// over a message that had gone back to wrapping, and the first click on it
-// would appear to do nothing, having only put the box back where it looked.
-const CONTROLS_HTML = `<div class="message-controls">${CONTROLS.map(({name, text}) =>
-    `<label><input type="checkbox" class="${name}" checked autocomplete="off"> ${text}</label>`).join('')}</div>`
+// classes they set are not part of that memory: the box would show the
+// reader's old choice over a message the stylesheet had put back to the
+// default, and the first click on it would appear to do nothing, having only
+// put the box back where it already looked.
+const CONTROLS_HTML = `<div class="message-controls">${CONTROLS.map(({name, text, checked}) =>
+    `<label><input type="checkbox" class="${name}"${checked ? ' checked' : ''} autocomplete="off"> ${text}</label>`).join('')}</div>`
 
 document.querySelectorAll('.message-text').forEach(message =>
     message.insertAdjacentHTML('beforebegin', CONTROLS_HTML))
@@ -31,7 +34,7 @@ document.addEventListener('change', event => {
     if (!control) return
 
     const strip = checkbox.closest('.message-controls')
-    strip.nextElementSibling.classList.toggle(control.unchecked, !checkbox.checked)
+    strip.nextElementSibling.classList.toggle(control.otherwise, checkbox.checked !== control.checked)
 
     // A box with nothing to do is greyed out rather than left looking live —
     // one that answers a click with no visible change reads as broken. It
