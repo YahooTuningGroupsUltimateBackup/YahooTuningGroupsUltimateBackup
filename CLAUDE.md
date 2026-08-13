@@ -12,6 +12,11 @@ since Yahoo posts arrive hard-wrapped at about 72 columns while Mills prose was
 never wrapped at all. `dist/` is gitignored. Hand over a `file:///` link to the
 HTML file itself.
 
+For the browser search page there is `node demo/searchDemo.js` instead: that page
+runs SQLite in WebAssembly and reads `dist/search/db` over HTTP range requests,
+which no `file://` copy can answer. It serves `dist/` and writes the launcher
+`dist/Search demo.vbs` — that is the `file:///` link to hand over.
+
 ## The publish step
 
 `cp static/archive.css static/archive.js ../YahooTuningGroupsUltimateBackup.github.io/`
