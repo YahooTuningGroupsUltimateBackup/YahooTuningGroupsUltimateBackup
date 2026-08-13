@@ -94,19 +94,26 @@
         topicScope.appendChild(clear)
     }
 
-    let workerPromise
-    const getWorker = () => {
-        workerPromise = workerPromise || createDbWorker(
-            [{from: 'jsonconfig', configUrl: new URL('db/config.json', location.href).toString()}],
-            new URL('lib/sqlite.worker.js', location.href).toString(),
-            new URL('lib/sql-wasm.wasm', location.href).toString(),
-        )
-        return workerPromise
-    }
+    // Started as the page opens rather than when a query asks for it: this is a
+    // megabyte of WebAssembly and a database read a page at a time over the
+    // network, and beginning it now hides the wait behind the time the reader
+    // spends typing. Nothing awaits it until a search does, so a failure is
+    // caught here to keep it from surfacing as an unhandled rejection; the
+    // await in run() is what reports it.
+    const engine = createDbWorker(
+        [{from: 'jsonconfig', configUrl: new URL('db/config.json', location.href).toString()}],
+        new URL('lib/sqlite.worker.js', location.href).toString(),
+        new URL('lib/sql-wasm.wasm', location.href).toString(),
+    )
+    engine.catch(() => {})
 
     const run = async () => {
-        setStatus('loading search engine…')
-        const worker = await getWorker()
+        // The reader is told about their own search and nothing else; that the
+        // page has an engine to fetch first is the page's business. So this
+        // covers the engine's loading too, or an early search shows a blank
+        // page until it is ready.
+        setStatus('searching…')
+        const worker = await engine
 
         if (inputs.topic && inputs.list) {
             const named = await worker.db.query(TOPIC_NAME_SQL, [inputs.list, Number(inputs.topic)])
@@ -123,7 +130,6 @@
             before: inputs.before ? parseDate(inputs.before, 'before') : undefined,
         })
 
-        setStatus('searching…')
         let rows
         try {
             rows = await worker.db.query(sql, [inputs.q, ...parameters, LIMIT])
