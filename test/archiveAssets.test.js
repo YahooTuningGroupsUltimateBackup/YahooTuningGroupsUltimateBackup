@@ -11,16 +11,19 @@ const css = fs.readFileSync(path.join(__dirname, '..', 'static', 'archive.css'),
 const script = fs.readFileSync(path.join(__dirname, '..', 'static', 'archive.js'), 'utf8')
 
 // Stands in for the DOM of one topic page: message bodies and nothing else a
-// reader can touch, which is all the parser writes. Each body records the
-// markup the script hands it and the classes the script puts on it.
-const pageWith = messageCount => {
+// reader can touch, which is all the parser writes. Each body is handed the
+// text a reader sees — innerText, whose lines are the ones the browser lays
+// out rather than the <br>-separated markup behind them — and records the
+// markup the script gives it and the classes the script puts on it.
+const pageWith = (...texts) => {
     let listener
 
-    const messages = Array.from({length: messageCount}, () => {
+    const messages = texts.map(innerText => {
         const classes = new Set()
         const strips = []
 
         return {
+            innerText,
             classNames: () => [...classes],
             strips,
             classList: {toggle: (name, on) => (on ? classes.add(name) : classes.delete(name))},
@@ -33,10 +36,11 @@ const pageWith = messageCount => {
         querySelectorAll: selector => (selector === '.message-text' ? messages : []),
     })
 
-    // A strip as the browser hands it to the listener: the boxes it holds, and
-    // the message it sits above. Each box is found by the one selector that
-    // walks up from it — the obsolete label on a published page answers to no
-    // selector at all, which is the null the listener has to survive.
+    // A strip as the browser hands it to the listener: the boxes it holds, in
+    // the positions the script wrote them, and the message it sits above. Each
+    // box is found by the one selector that walks up from it — the obsolete
+    // label on a published page answers to no selector at all, which is the
+    // null the listener has to survive.
     const stripAbove = message => {
         const boxes = {}
         const strip = {
@@ -44,11 +48,12 @@ const pageWith = messageCount => {
             querySelector: selector => boxes[selector.slice(1)] || null,
         }
 
-        ;[['monospace', true], ['line-wrap', false]].forEach(([control, checked]) => (boxes[control] = {
-            checked,
-            classList: {contains: name => name === control},
-            closest: selector => (selector === '.message-controls' ? strip : null),
-        }))
+        for (const [, control, attributes] of message.strips[0].html.matchAll(/<input type="checkbox" class="([\w-]+)"([^>]*)>/g))
+            boxes[control] = {
+                checked: attributes.includes(' checked'),
+                classList: {contains: name => name === control},
+                closest: selector => (selector === '.message-controls' ? strip : null),
+            }
 
         return {box: control => boxes[control]}
     }
@@ -132,7 +137,7 @@ test('the generated pages carry no styling and no controls of their own', () => 
 })
 
 test('every message is handed a strip of controls the page never carried', () => {
-    const page = pageWith(2)
+    const page = pageWith('a message', 'another message')
 
     page.messages.forEach(({strips}) => {
         assert.deepEqual(strips.map(({position}) => position), ['beforebegin'])
@@ -146,12 +151,29 @@ test('a message starts monospaced and unwrapped, before any box is touched', () 
     // The stylesheet alone decides the initial state, so a message renders
     // right the moment it is parsed: the script only ever answers a click.
     assert.doesNotMatch(script, /font-family|white-space/)
-    const page = pageWith(1)
+    const page = pageWith('a message')
     assert.deepEqual(page.messages[0].classNames(), [])
 })
 
+test('a message no client ever wrapped arrives folded, its box checked to say so', () => {
+    // Yahoo's mail clients hard-wrapped outgoing posts at about 72 columns, so
+    // a line past that width is one nobody folded: the message carries a
+    // paragraph per line, and unfolded that is a sideways drag from its first
+    // line to its last rather than the odd wide diagram. It starts folded
+    // instead — and the box starts checked, since a box that disagrees with
+    // the message under it answers its first click by appearing to do nothing.
+    const page = pageWith('x'.repeat(76), `${'x'.repeat(75)}
+${'x'.repeat(70)}`)
+
+    assert.match(page.messages[0].strips[0].html, /class="line-wrap" checked/)
+    assert.deepEqual(page.messages[0].classNames(), ['wrap'])
+
+    assert.match(page.messages[1].strips[0].html, /class="line-wrap" autocomplete/)
+    assert.deepEqual(page.messages[1].classNames(), [])
+})
+
 test('unchecking monospace makes only its own message proportional', () => {
-    const page = pageWith(2)
+    const page = pageWith('a message', 'another message')
     assert.equal(page.event(), 'change')
     const box = page.stripAbove(page.messages[0]).box('monospace')
 
@@ -166,7 +188,7 @@ test('unchecking monospace makes only its own message proportional', () => {
 })
 
 test('checking line wrap folds only its own message', () => {
-    const page = pageWith(2)
+    const page = pageWith('a message', 'another message')
     const strip = page.stripAbove(page.messages[1])
     const box = strip.box('line-wrap')
 
@@ -186,12 +208,28 @@ test('checking line wrap folds only its own message', () => {
     assert.deepEqual(page.messages[1].classNames(), ['proportional'])
 })
 
+test('a message that arrived folded is unfolded by the box, not folded again', () => {
+    // The box over such a message starts checked, so the reader's first click
+    // takes the fold away. Nothing about the message is remembered past that:
+    // checking it again folds it back, the same as for any other message.
+    const page = pageWith('x'.repeat(76))
+    const box = page.stripAbove(page.messages[0]).box('line-wrap')
+
+    box.checked = false
+    page.change(box)
+    assert.deepEqual(page.messages[0].classNames(), [])
+
+    box.checked = true
+    page.change(box)
+    assert.deepEqual(page.messages[0].classNames(), ['wrap'])
+})
+
 test('the line wrap box goes dead while monospace is off, and keeps its setting', () => {
     // Nothing it can do to a proportional message, so it stops offering: a box
     // that answers a click with no visible change reads as broken. It holds on
     // to what the reader chose, though, so monospace coming back brings the
     // message back to the state they left it in rather than to the default.
-    const page = pageWith(1)
+    const page = pageWith('a message')
     const strip = page.stripAbove(page.messages[0])
     const monospace = strip.box('monospace')
     const lineWrap = strip.box('line-wrap')
@@ -214,7 +252,7 @@ test('the line wrap box goes dead while monospace is off, and keeps its setting'
 
 test('changes to anything else on the page are ignored', () => {
     // The search bar sits on every page, and its own boxes fire this listener.
-    const page = pageWith(1)
+    const page = pageWith('a message')
     page.change({classList: {contains: () => false}, closest: () => {
         throw new Error('should not look for a message body')
     }})

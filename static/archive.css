@@ -97,7 +97,11 @@
 /* Checking line wrap folds the message to the window instead: prose reads
    without a sideways drag, at the price of the diagrams too wide to survive
    the fold. Monospace off has lost them already, which is what the :not()
-   says here — a proportional message wraps and collapses its spaces below. */
+   says here — a proportional message wraps and collapses its spaces below.
+   archive.js also starts a message here, its box already checked, when the
+   message holds a line past the width the mail clients of the era wrapped at:
+   nobody folded that post, so it carries a paragraph per line and the fold has
+   no diagram to cost, only a drag over the whole message to spare. */
 .message-text.wrap:not(.proportional) {
     white-space: pre-wrap;
 }

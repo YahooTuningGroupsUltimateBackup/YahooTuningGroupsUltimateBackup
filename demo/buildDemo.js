@@ -5,13 +5,17 @@
 // relative here rather than rooted at /, so a page opens by double-click with
 // no server behind it.
 //
-// The two are the archive's two shapes. Graham Breed's "Magic lattices" is a
-// Yahoo-list topic, hard-wrapped at about 72 columns by the mail client of the
-// era, carrying lattices 25 lines deep — nothing overflows a wide window, and
-// narrowing one is where the fold costs a diagram. Dave Keenan and Paul Erlich
-// on a strange 9-limit temperament come from the Mills list, whose prose was
-// never wrapped at all: single paragraph-long lines around a tab-aligned table
-// and a lattice of 7-limit tetrahedra.
+// The two are the archive's two shapes, which is also the two ways a message
+// can open. Graham Breed's "Magic lattices" is a Yahoo-list topic,
+// hard-wrapped at about 72 columns by the mail client of the era, carrying
+// lattices 25 lines deep — no line reaches 75 columns, so every message opens
+// unfolded, nothing overflows a wide window, and narrowing one is where the
+// fold would cost a diagram. Dave Keenan and Paul Erlich on a strange 9-limit
+// temperament come from the Mills list, whose prose was never wrapped at all:
+// two of the three run to 484 and 464 columns and open folded with the box
+// already checked, around a tab-aligned table and a lattice of 7-limit
+// tetrahedra — while the short reply between them wraps at 72 like a Yahoo
+// post and opens unfolded beside them.
 const fs = require('fs')
 const path = require('path')
 const he = require('he')
