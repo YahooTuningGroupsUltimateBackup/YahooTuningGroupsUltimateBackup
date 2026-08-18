@@ -2,7 +2,7 @@
 
 ## The demo mechanism
 
-`node dist/buildDemo.js` builds what the acceptance step needs here: real
+`node demo/buildDemo.js` builds what the acceptance step needs here: real
 messages out of `src/` run through the same `messageTextHtml` and
 `searchBarHtml` that write a real topic page, with `static/archive.css` and
 `static/archive.js` copied beside it and linked relatively, so the page opens on
