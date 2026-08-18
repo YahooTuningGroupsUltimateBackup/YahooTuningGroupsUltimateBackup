@@ -32,8 +32,18 @@ const CONTROLS = [
 // reader's old choice over a message the stylesheet had put back to the
 // default, and the first click on it would appear to do nothing, having only
 // put the box back where it already looked.
-const stripHtml = positions => `<div class="message-controls">${CONTROLS.map(({name, text}, box) =>
-    `<label><input type="checkbox" class="${name}"${positions[box] ? ' checked' : ''} autocomplete="off"> ${text}</label>`).join('')}</div>`
+const boxesHtml = positions => CONTROLS.map(({name, text}, box) =>
+    `<label><input type="checkbox" class="${name}"${positions[box] ? ' checked' : ''} autocomplete="off"> ${text}</label>`).join('')
+
+const stripHtml = positions => `<div class="message-controls">${boxesHtml(positions)}</div>`
+
+// The same pair once more under the search bar, named out to the left of them
+// and wearing the strip's own class, which is what stands them in the column
+// every pair below them stands in. They are a switch over all of those rather
+// than a setting of their own: a click pushes a value down into every message
+// box, and any change at all is read back up off them afterwards.
+const formatAllHtml = positions =>
+    `<div class="message-controls format-all"><span>format all:</span>${boxesHtml(positions)}</div>`
 
 // The one rule tying a box to the message under it, shared by the strip going
 // up and every click after it: anywhere but the position the stylesheet draws,
@@ -54,20 +64,85 @@ messages.forEach((message, index) => {
     CONTROLS.forEach((control, box) => restyle(message, control, positions[index][box]))
 })
 
-// One delegated listener for the whole page: a box restyles the message its
-// strip sits above, and nothing else.
+const boxIn = (strip, name) => strip.querySelector(`.${name}`)
+const messageStrips = () => [...document.querySelectorAll('.message-controls:not(.format-all)')]
+
+// A box with nothing to do is greyed out rather than left looking live — one
+// that answers a click with no visible change reads as broken. It keeps its own
+// setting while it waits, so the box it depends on coming back brings the
+// message back to what the reader last chose. On the switch, neutral counts as
+// live: a mix below it still holds monospaced messages for a fold to fold, and
+// only every message losing the font leaves it nothing to do.
+const greyDead = strip => CONTROLS.filter(({needs}) => needs).forEach(({name, needs}) => {
+    const needed = boxIn(strip, needs)
+    boxIn(strip, name).disabled = !needed.checked && !needed.indeterminate
+})
+
+// The switch is a click on every box below it at once, and a mix down there is
+// neither on nor off: the first click on a neutral box turns everything on, and
+// only a box already fully checked has anything to turn off. The browser has
+// flipped the switch's own box before this runs, and which way it flipped an
+// indeterminate one is not something to build on, so what happens is decided by
+// the boxes below. Each of them then does with its new position exactly what a
+// click on it would have done.
+const formatAll = control => {
+    const strips = messageStrips()
+    const checked = !strips.every(strip => boxIn(strip, control.name).checked)
+
+    strips.forEach(strip => {
+        boxIn(strip, control.name).checked = checked
+        restyle(strip.nextElementSibling, control, checked)
+        greyDead(strip)
+    })
+}
+
+// And what the switch shows is only ever what it finds below it: every box
+// checked, every box unchecked, or the mix in between, which is a box that is
+// neither.
+const readBack = strip => {
+    const strips = messageStrips()
+
+    CONTROLS.forEach(({name}) => {
+        const below = strips.map(messageStrip => boxIn(messageStrip, name))
+        const box = boxIn(strip, name)
+        box.checked = below.every(({checked}) => checked)
+        box.indeterminate = !box.checked && below.some(({checked}) => checked)
+    })
+
+    greyDead(strip)
+}
+
+// An index page has no messages to work and so is offered no switch. The
+// search bar is where it goes on the pages that do: the one thing on a topic
+// page that already sits above every message.
+const searchBar = messages.length && document.querySelector('.search-bar')
+if (searchBar) {
+    // It goes up in the position the messages agree on, and is told what they
+    // actually add up to in the same breath — a message that arrived folded is
+    // why they may not agree.
+    const agreed = [...CONTROLS.keys()].map(box => positions.every(position => position[box]))
+
+    searchBar.insertAdjacentHTML('afterend', formatAllHtml(agreed))
+    readBack(document.querySelector('.format-all'))
+}
+
+// One delegated listener for the whole page: a box in a message's own strip
+// restyles that message and nothing else, a box in the switch works every one
+// of them, and either way the switch ends up saying what the page now is.
 document.addEventListener('change', event => {
     const checkbox = event.target
     const control = CONTROLS.find(({name}) => checkbox.classList.contains(name))
     if (!control) return
 
     const strip = checkbox.closest('.message-controls')
-    restyle(strip.nextElementSibling, control, checkbox.checked)
+    const all = document.querySelector('.format-all')
 
-    // A box with nothing to do is greyed out rather than left looking live —
-    // one that answers a click with no visible change reads as broken. It
-    // keeps its own setting while it waits, so the box it depends on coming
-    // back brings the message back to what the reader last chose.
-    CONTROLS.filter(({needs}) => needs).forEach(({name, needs}) =>
-        (strip.querySelector(`.${name}`).disabled = !strip.querySelector(`.${needs}`).checked))
+    if (strip === all) {
+        formatAll(control)
+    } else {
+        restyle(strip.nextElementSibling, control, checkbox.checked)
+        greyDead(strip)
+    }
+
+    if (all) readBack(all)
 })

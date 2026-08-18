@@ -10,11 +10,12 @@ const css = fs.readFileSync(path.join(__dirname, '..', 'static', 'archive.css'),
     .replace(/\/\*[\s\S]*?\*\//g, '')
 const script = fs.readFileSync(path.join(__dirname, '..', 'static', 'archive.js'), 'utf8')
 
-// Stands in for the DOM of one topic page: message bodies and nothing else a
-// reader can touch, which is all the parser writes. Each body is handed the
-// text a reader sees — innerText, whose lines are the ones the browser lays
-// out rather than the <br>-separated markup behind them — and records the
-// markup the script gives it and the classes the script puts on it.
+// Stands in for the DOM of one topic page: a search bar, message bodies, and
+// nothing else a reader can touch, which is all the parser writes. Each body is
+// handed the text a reader sees — innerText, whose lines are the ones the
+// browser lays out rather than the <br>-separated markup behind them — and
+// records the markup the script gives it and the classes the script puts on it;
+// the bar records the switch the script hangs under it.
 const pageWith = (...texts) => {
     let listener
 
@@ -31,34 +32,61 @@ const pageWith = (...texts) => {
         }
     })
 
-    new Function('document', script)({
-        addEventListener: (event, handler) => (listener = [event, handler]),
-        querySelectorAll: selector => (selector === '.message-text' ? messages : []),
-    })
-
     // A strip as the browser hands it to the listener: the boxes it holds, in
-    // the positions the script wrote them, and the message it sits above. Each
-    // box is found by the one selector that walks up from it — the obsolete
-    // label on a published page answers to no selector at all, which is the
-    // null the listener has to survive.
-    const stripAbove = message => {
+    // the positions the script wrote them, and the message it sits above — none,
+    // for the switch under the search bar, which styles nothing itself. Each box
+    // is found by the one selector that walks up from it — the obsolete label on
+    // a published page answers to no selector at all, which is the null the
+    // listener has to survive.
+    const stripFrom = (html, message) => {
         const boxes = {}
         const strip = {
             nextElementSibling: message,
             querySelector: selector => boxes[selector.slice(1)] || null,
+            box: control => boxes[control],
         }
 
-        for (const [, control, attributes] of message.strips[0].html.matchAll(/<input type="checkbox" class="([\w-]+)"([^>]*)>/g))
+        for (const [, control, attributes] of html.matchAll(/<input type="checkbox" class="([\w-]+)"([^>]*)>/g))
             boxes[control] = {
                 checked: attributes.includes(' checked'),
                 classList: {contains: name => name === control},
                 closest: selector => (selector === '.message-controls' ? strip : null),
             }
 
-        return {box: control => boxes[control]}
+        return strip
     }
 
-    return {messages, stripAbove, change: target => listener[1]({target}), event: () => listener[0]}
+    // Each strip is built the once, the first time anything asks for it: the
+    // script goes looking for every strip on the page, and one minted fresh per
+    // lookup would forget what the last click did to it.
+    let built
+    let switched
+    const inserts = []
+    const searchBar = {inserts, insertAdjacentHTML: (position, html) => inserts.push({position, html})}
+    const strips = () => (built ??= messages.map(message => stripFrom(message.strips[0].html, message)))
+    // The switch is on the page only once the script has hung it there, so a
+    // page it passed over answers for it with the null it answered with before
+    // the script ran.
+    const formatAll = () => (inserts.length ? (switched ??= stripFrom(inserts[0].html, null)) : null)
+
+    new Function('document', script)({
+        addEventListener: (event, handler) => (listener = [event, handler]),
+        querySelectorAll: selector => selector === '.message-text' ? messages
+            : selector === '.message-controls:not(.format-all)' ? strips()
+            : [],
+        querySelector: selector => selector === '.search-bar' ? searchBar
+            : selector === '.format-all' ? formatAll()
+            : null,
+    })
+
+    return {
+        messages,
+        searchBar,
+        formatAll: formatAll(),
+        stripAbove: message => strips()[messages.indexOf(message)],
+        change: target => listener[1]({target}),
+        event: () => listener[0],
+    }
 }
 
 test('the stylesheet holds the presentation, so pages need no inline styles', () => {
@@ -85,6 +113,15 @@ test('the strip sits at the right of the line, and the published label is gone',
     // The browser greys a disabled box but not the words beside it, which is
     // the half that says what the box is for.
     assert.match(css, /\.message-controls label:has\(input:disabled\)\s*\{[^}]*color:/)
+})
+
+test('the switch stands its boxes in the column the message strips stand in', () => {
+    // It hangs under the search bar rather than riding a message's date line,
+    // so it takes a line of its own instead of floating onto one — and
+    // right-aligning it to the margin those strips float to is what puts its
+    // two boxes directly over every pair below them.
+    assert.match(css, /\.format-all\s*\{[^}]*float: none/)
+    assert.match(css, /\.format-all\s*\{[^}]*text-align: right/)
 })
 
 test('checking line wrap trades the message\'s own scrollbar for wrapping', () => {
@@ -248,6 +285,116 @@ test('the line wrap box goes dead while monospace is off, and keeps its setting'
     page.change(monospace)
     assert.equal(lineWrap.disabled, false)
     assert.deepEqual(page.messages[0].classNames(), ['wrap'])
+})
+
+test('the page gets one switch over all of its messages, under the search bar', () => {
+    const page = pageWith('a message', 'another message')
+    const [{position, html}] = page.searchBar.inserts
+
+    assert.equal(page.searchBar.inserts.length, 1)
+    assert.equal(position, 'afterend')
+    assert.match(html, /<div class="message-controls format-all"><span>format all:<\/span>/)
+    assert.match(html, /<label><input type="checkbox" class="monospace" checked autocomplete="off"> monospace<\/label>/)
+    assert.match(html, /<label><input type="checkbox" class="line-wrap" autocomplete="off"> line wrap<\/label>/)
+})
+
+test('a page with no messages to work is offered no switch', () => {
+    // Every list index page carries the same search bar, and nothing under it.
+    assert.deepEqual(pageWith().searchBar.inserts, [])
+})
+
+test('the switch opens neutral over messages that arrived formatted differently', () => {
+    // One of these was folded on arrival and the other was not, so the switch
+    // is neither of those things from the moment the page opens — before any
+    // reader has touched a box.
+    const page = pageWith('x'.repeat(76), 'a message')
+
+    assert.match(page.searchBar.inserts[0].html, /class="line-wrap" autocomplete/)
+    assert.equal(page.formatAll.box('line-wrap').checked, false)
+    assert.equal(page.formatAll.box('line-wrap').indeterminate, true)
+    assert.equal(page.formatAll.box('monospace').checked, true)
+    assert.equal(page.formatAll.box('monospace').indeterminate, false)
+})
+
+test('the switch checks every box below it before it can uncheck any', () => {
+    // A mix below is neither on nor off, so the first click on it turns
+    // everything on rather than reading as the off it half looks like. The
+    // browser has flipped the switch's own box before the listener sees it, and
+    // which way it flipped an indeterminate box is not something to build on:
+    // what the switch does is decided by the boxes below it, which is why the
+    // clicks here leave its own box alone.
+    const page = pageWith('a message', 'another message', 'a third message')
+    const all = page.formatAll.box('line-wrap')
+    const one = page.stripAbove(page.messages[1]).box('line-wrap')
+
+    one.checked = true
+    page.change(one)
+    assert.equal(all.checked, false)
+    assert.equal(all.indeterminate, true)
+
+    page.change(all)
+    page.messages.forEach(message => assert.deepEqual(message.classNames(), ['wrap']))
+    assert.equal(all.checked, true)
+    assert.equal(all.indeterminate, false)
+
+    // Fully checked is the one state that has anything to turn off.
+    page.change(all)
+    page.messages.forEach(message => assert.deepEqual(message.classNames(), []))
+    assert.equal(all.checked, false)
+    assert.equal(all.indeterminate, false)
+
+    // And fully unchecked turns everything back on, the same as the mix did.
+    page.change(all)
+    page.messages.forEach(message => assert.deepEqual(message.classNames(), ['wrap']))
+    assert.equal(all.checked, true)
+})
+
+test('the switch says what the messages say, whichever of them was touched', () => {
+    const page = pageWith('a message', 'another message')
+    const all = page.formatAll.box('monospace')
+    const first = page.stripAbove(page.messages[0]).box('monospace')
+    const second = page.stripAbove(page.messages[1]).box('monospace')
+
+    first.checked = false
+    page.change(first)
+    assert.equal(all.checked, false)
+    assert.equal(all.indeterminate, true)
+
+    second.checked = false
+    page.change(second)
+    assert.equal(all.checked, false)
+    assert.equal(all.indeterminate, false)
+
+    first.checked = true
+    second.checked = true
+    page.change(first)
+    assert.equal(all.checked, true)
+    assert.equal(all.indeterminate, false)
+})
+
+test('the switch\'s line wrap goes dead only once no message is monospaced', () => {
+    // Neutral leaves it live: some of the messages under it are still in the
+    // font that gives a fold something to fold.
+    const page = pageWith('a message', 'another message')
+    const monospace = page.formatAll.box('monospace')
+    const lineWrap = page.formatAll.box('line-wrap')
+    const first = page.stripAbove(page.messages[0]).box('monospace')
+
+    first.checked = false
+    page.change(first)
+    assert.equal(monospace.indeterminate, true)
+    assert.ok(!lineWrap.disabled)
+
+    page.change(monospace)
+    assert.equal(monospace.checked, true)
+    assert.ok(!lineWrap.disabled)
+    page.messages.forEach(message => assert.deepEqual(message.classNames(), []))
+
+    page.change(monospace)
+    assert.equal(lineWrap.disabled, true)
+    page.messages.forEach(message => assert.deepEqual(message.classNames(), ['proportional']))
+    page.messages.forEach(message =>
+        assert.equal(page.stripAbove(message).box('line-wrap').disabled, true))
 })
 
 test('changes to anything else on the page are ignored', () => {

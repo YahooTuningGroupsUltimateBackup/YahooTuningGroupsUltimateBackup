@@ -49,6 +49,21 @@
     margin-left: 10px;
 }
 
+/* The switch over every message on the page sits under the search bar rather
+   than riding a date line, so it takes a line of its own instead of floating
+   onto one. Right-aligning it to the same margin is what stands its two boxes
+   in the column the pair above each message stands in. */
+.format-all {
+    float: none;
+    text-align: right;
+}
+
+/* Its name reads out to the left of the boxes, spaced off them the way they
+   are spaced off each other. */
+.format-all span {
+    margin-right: 10px;
+}
+
 /* archive.js disables a box that has nothing left to do, and the browser greys
    the box but not the words beside it — which are the half that says what the
    box was for. */
